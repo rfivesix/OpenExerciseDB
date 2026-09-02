@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: it
+status: human
+name: Kettlebell Deadlifts
+description: |-
+  Posizione di partenza:
+  Stare alla larghezza delle anche, con il kettlebell centrato tra le caviglie. La schiena deve essere dritta, la testa rivolta in avanti.
+  Passi:
+
+  Inclinarsi sui fianchi e piegare leggermente le ginocchia per mettere le mani sulle maniglie del kettlebell. La schiena deve essere dritta mentre si esegue il movimento.
+  Afferrare le maniglie del kettlebell, con le mani che spingono in direzioni opposte come se si volesse separare la maniglia.
+  Mentre contattate gli addominali e i glutei, alzatevi in piedi.
+  Inclinarsi di nuovo sui fianchi per riportare il kettlebell verso il basso, in modo simile al passo 1.
+  Ripetere dal punto 3.
+
+  Suggerimenti:
+
+  Assicuratevi di eseguire i movimenti correttamente, perché altrimenti potreste farvi male. Per esempio, non accovacciarsi invece di piegarsi sui fianchi, non arrotondare la schiena mentre si raggiunge il kettlebell, e non piegarsi all'indietro mentre ci si alza.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1805'

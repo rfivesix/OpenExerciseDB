@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1576'
+language: de
+status: human
+name: Snap Down
+description: |-
+  Beginne im Stand mit den Armen über dem Kopf und drücke deine Zehen in den Boden, sodass sich deine Fersen heben und du dich so groß wie möglich machst. Führe aus dieser Position einen kleinen Sprung aus, bei dem beide Füße leicht vom Boden abheben. Beuge beim Landen die Knie und beginne, die Hüften nach vorn zu beugen, um die Landung abzufedern. Kehre in die Ausgangsposition zurück und wiederhole die Bewegung.
+  Du solltest spüren, wie die Muskeln in deinem Unterkörper arbeiten.
+  Beginne mit vollständig gestreckten Armen und Knien. Halte ein stabiles Gleichgewicht, während du landest, und halte diese Endposition kurz. Mach es nicht zu schnell und gerate nicht aus dem Gleichgewicht. Halte deinen Brustkorb aufrecht.
+  Ein ausführliches Video zur Landetechnik findest du hier: https://youtu.be/RThUCYRDyZw
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4086'

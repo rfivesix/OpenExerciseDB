@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1010'
+language: zh
+status: human
+name: 后颈部拉伸
+description: |-
+  起始姿势：坐在椅子或坚固的枕头上。
+  步骤：
+
+  呼气，头向前倾斜，下巴靠胸，双手放在脑后。
+  用手将头轻轻拉下，用头顶住双手以平衡用力。
+  坚持一会儿。
+  放松手臂和头部，肩膀稍微张开。
+  从第 2 步开始重复此操作。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1892'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '607'
+language: de
+status: human
+name: Splinter Sit-ups
+description: |-
+  Lege dich auf den Rücken, die Beine gestreckt und die Arme an den Seiten, wobei du die Ellenbogen im 90-Grad-Winkel gebeugt hältst. Während du dich aufsetzt, drehe deinen Oberkörper nach rechts und führe dein linkes Knie in Richtung deines rechten Ellenbogens, während du deinen linken Arm nach hinten schwingst. Senke deinen Körper in die Ausgangsposition ab und wiederhole das Ganze zur rechten Seite. Das ist 1 Wiederholung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4350'

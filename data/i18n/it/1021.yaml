@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1021'
+language: it
+status: human
+name: Sollevamento del polpaccio gamba destra
+description: |-
+  Stare in piedi sul pavimento o sul bordo di un gradino per aumentare il raggio di movimento. Sollevare un piede, appoggiando la parte superiore sul polpaccio.
+  Sollevare i talloni fino a stare in piedi sulle punte dei piedi.
+  Resta in questa posizione per tre secondi, poi abbassa il piede senza toccare il suolo con il tallone.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1956'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1576'
+language: fr
+status: human
+name: Snap Down
+description: |-
+  Commencez en position debout, les bras levés au-dessus de la tête et les orteils poussant dans le sol pour soulever les talons et vous grandir au maximum. À partir de cette position, effectuez un petit saut, les deux pieds décollant légèrement du sol. À l'atterrissage, fléchissez les genoux et commencez à basculer vers l'avant au niveau des hanches pour absorber la réception. Revenez à la position de départ et répétez.
+  Vous devez sentir travailler les muscles du bas du corps.
+  Commencez avec les bras et les genoux complètement tendus. Gardez un équilibre stable lors de la réception et maintenez brièvement cette position finale, n'allez pas trop vite pour ne pas perdre l'équilibre. Gardez la poitrine relevée.
+  Pour une vidéo détaillée sur la mécanique de réception, cliquez ici : https://youtu.be/RThUCYRDyZw
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4702'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1007'
+language: fr
+status: human
+name: Tour de tête
+description: |-
+  Position de départ :
+  Asseyez-vous ou tenez-vous debout, le dos droit et les épaules basses.
+  Étapes :
+
+  Asseyez-vous ou tenez-vous debout, le dos droit. Épaules baissées.
+  Tournez la tête vers la gauche aussi loin que possible. Arrêtez-vous lorsque vous rencontrez un obstacle et maintenez cette position pendant 5 secondes.
+  Revenez à la position centrale.
+  Répétez en changeant de côté.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1848'

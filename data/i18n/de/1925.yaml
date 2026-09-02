@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1925'
+language: de
+status: human
+name: Langhantel-Silverback-Shrug
+description: |-
+  Stelle dich schulterbreit hin und halte die Langhantel mit beiden Händen vor dem Körper, etwas weiter als schulterbreit.
+  Beuge dich in der Hüfte nach vorne, mit einer leichten Beugung in den Knien, und halte deinen Rücken gerade.
+  Spanne deine Schulterblätter an, als würdest du versuchen, sie zusammenzuführen.
+  Löse das Schulterziehen wieder.
+  Beschreibung übernommen von MuscleWiki
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4285'

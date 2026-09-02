@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '178'
+language: fr
+status: human
+name: Deadbug
+description: |-
+  Allongez-vous sur le dos, les hanches et les genoux fléchis à 90°. Levez les deux bras vers le plafond. Plaquez le bas de votre dos contre le sol pour supprimer tout espace. Commencez en tendant une jambe et en touchant le sol avec le talon. À mesure que vous tendez une jambe, expirez autant que possible en gardant le bas du dos collé au sol. Lorsque vous ne pouvez plus expirer, ramenez votre genou vers la position de départ. Rendez l'exercice plus difficile en tenant un poids dans les mains, ou en abaissant simultanément le bras et la jambe opposés.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4431'

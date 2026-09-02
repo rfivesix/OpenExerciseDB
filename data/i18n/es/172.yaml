@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '172'
+language: es
+status: human
+name: Abdominales en Máquina
+description: |-
+  Esta máquina permite aislar y añadir resistencia de forma segura y controlada para fortalecer el recto abdominal.
+  Instrucciones:
+  Siéntate en la máquina y ajusta el asiento y las almohadillas (que usualmente van sobre los hombros o el pecho, según el diseño). Sujeta firmemente los agarres con los pies bien apoyados.
+  Contrae con fuerza el abdomen para flexionar tu columna vertebral, como si intentaras "enrollarte" sobre ti mismo y llevar tus costillas hacia tu pelvis. El movimiento debe ser un encogimiento abdominal, no una simple inclinación desde la cadera. Regresa de forma lenta y controlada, resistiendo el peso.
+search_terms:
+  - crunch en máquina
+  - crunch en máquina
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2697'

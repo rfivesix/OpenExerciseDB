@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '716'
+language: it
+status: human
+name: Scivoli a muro
+description: |-
+  Stai in piedi con i talloni, le spalle, la parte posteriore della testa e i fianchi che toccano il muro. Inizia con i bicipiti verso l'esterno e i gomiti a un angolo di 90 gradi. Raddrizza le braccia rimanendo contro il muro senza inarcare la schiena dal muro, imitando un movimento di pressa per le spalle.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Whythebigpaws
+  source_id: '1295'

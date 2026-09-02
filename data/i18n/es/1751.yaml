@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1751'
+language: es
+status: human
+name: Cable pull through
+description: |-
+  El Cable Pull Through es un ejercicio para el tren inferior que trabaja los glúteos y los isquiotibiales mediante un movimiento de "bisagra de cadera" (hip hinge). Para realizarlo, engancha una cuerda en el ajuste más bajo de la polea, colócate de espaldas a la máquina con la cuerda entre las piernas y da un paso hacia adelante para crear tensión. Manteniendo la espalda plana y las rodillas ligeramente flexionadas, empuja las caderas hacia atrás como si intentaras cerrar una puerta detrás de ti, hasta que sientas un estiramiento profundo en los isquiotibiales.
+  Para terminar la repetición, impulsa las caderas hacia adelante de forma explosiva para volver a la posición de pie, apretando con fuerza los glúteos en la parte superior. Es fundamental recordar que esto no es una sentadilla; las rodillas no deben flexionarse profundamente, y los brazos deben permanecer rectos y relajados, actuando solo como ganchos para la cuerda. Este movimiento proporciona una tensión constante sobre los glúteos a la vez que ejerce menos estrés sobre la zona lumbar que un peso muerto tradicional.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4161'

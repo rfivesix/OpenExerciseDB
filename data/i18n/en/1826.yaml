@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1826'
+language: en
+status: human
+name: Band pull-apart with external rotation
+description: |-
+  Stand tall with your feet shoulder-width apart, chest out, and shoulders back.
+  Hold the resistance band with both hands, palms facing up or facing each other, depending on the band type.
+  Bend your elbows at a 90-degree angle and glue your upper arms to your sides.
+  The band should have some tension in the starting position, with your hands closer together in front of your stomach.
+  Rotate Outward: While keeping your elbows tucked into your sides, slowly move your hands away from each other, stretching the band.
+  Squeeze: Squeeze your shoulder blades together and down as you rotate your hands outward.
+  Range of Motion: Rotate your hands as far outward as you comfortably can without allowing your elbows to leave your sides.
+  Hold: Hold the end position for 1–2 seconds to maximize muscle engagement.
+  Return: Slowly and with control, bring your hands back to the starting position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: beagle
+  source_id: '2961'

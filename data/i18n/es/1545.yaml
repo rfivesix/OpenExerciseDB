@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1545'
+language: es
+status: human
+name: Dominada de arquero
+description: |-
+  La dominada de arquero es un ejercicio avanzado con el peso corporal que fortalece la espalda y los bíceps, sirviendo como progresión hacia la dominada a una mano. Recibe su nombre por la posición de „tensar el arco" que adopta tu cuerpo arriba. Así se hace:
+
+  Agarre: Sujeta una barra de dominadas con un agarre prono más ancho que la anchura de los hombros.
+  Posición inicial: Cuélgate con los brazos completamente extendidos, activando el core y manteniendo los omóplatos hacia abajo.
+  La tracción: Tira de tu cuerpo hacia una mano, similar a una dominada normal. Al mismo tiempo, extiende el otro brazo hacia el lado, manteniéndolo lo más recto posible. Tu mentón debe acercarse a la mano que está tirando.
+  Sostén y baja: Mantén brevemente la posición superior donde un brazo está flexionado y tirando y el otro está extendido. Baja lentamente y con control hasta la posición inicial.
+  Alterna: Repite el movimiento, tirando hacia la mano opuesta. La clave de este ejercicio es mantener el brazo de apoyo lo más recto posible para maximizar la carga sobre el brazo que trabaja. Esto la convierte en un ejercicio exigente pero eficaz para la fuerza de tracción unilateral.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4069'

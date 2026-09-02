@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '655'
+language: de
+status: human
+name: Kick-Backs
+description: |-
+  Stelle dich auf einer Bank, wie beim einarmigen KH-rudern: ein Knie und eine Hand auf die Bank, das andere Bein ist auf dem Boden und gibt Halt. Nehme die KH, der Vorderarm macht einen rechten Winkel und zeigt nach unten. Ohne die Ellenbogen zu bewegen, bringe das Gewicht hoch.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '232'

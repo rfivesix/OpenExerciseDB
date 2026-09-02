@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1490'
+language: de
+status: human
+name: Liegender Trizeps-Kickback
+description: |-
+  Stelle die Bank auf einen Winkel von 60 Grad ein. Stehe still und lege deinen Oberkörper auf die geneigte Bank, sodass dein gesamter Körper eine nahezu gerade Linie bildet. Ziehe die Schulterblätter zusammen, sodass sich deine Ellbogen hinter deinem Oberkörper befinden und deine Oberarme nahezu parallel zum Boden sind. Hebe die Kurzhanteln an, bis deine Arme eine gerade Linie bilden. Senke die Kurzhanteln langsam wieder in die Ausgangsposition ab. Die Ausgangsposition entspricht einer rechtwinkligen Position von Ober- und Unterarm.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4005'

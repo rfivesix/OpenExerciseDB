@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1949'
+language: fr
+status: human
+name: Limber 11
+description: |-
+  Limber 11
+  Source : Joe DeFranco
+
+  Rouleau de massage sur le tractus iliotibial [tissus mous] - 10 à 15 passages
+  Rouleau de massage sur les adducteurs [tissus mous] - 10 à 15 passages
+  Automassage des fessiers (balle de massage) [tissus mous] - 30 s à 2 min
+  Iron cross genou fléchi [dynamique] - 5 à 10 répétitions de chaque côté
+  Roulades vers des V-sits [dynamique] - 10 répétitions
+  Étirement de la grenouille en balancement [dynamique] - 10 répétitions
+  Cercles de la bouche d'incendie [dynamique] - 10 vers l'avant / 10 vers l'arrière
+  Mountain climbers [dynamique] - 10 répétitions par jambe
+  Squats cosaques [dynamique] - 5 à 10 répétitions de chaque côté
+  Étirement du piriforme assis [isométrique] - 20 à 30 s de chaque côté
+  Étirement des fléchisseurs de la hanche pied arrière surélevé [dynamique + maintien de 3 s] - 5 à 10 répétitions de chaque côté
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4790'

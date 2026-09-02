@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1479'
+language: en
+status: human
+name: Sit Up Elbow Thrust
+description: |-
+  This
+  is a top down rotation movement, and it’s a bit more
+  explosive, too.
+  Lying with knees bent and feet on the floor, sit up and then drive your left elbow across your entire body toward the right, then come back
+  to center and then finally lower yourself down. Then hit the other side.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2442'

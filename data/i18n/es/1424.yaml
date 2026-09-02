@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1424'
+language: es
+status: human
+name: Curl de bíceps sentado
+description: |-
+  La máquina de curl de bíceps está diseñada para aislar los músculos del bíceps y proporcionar un rango de movimiento controlado. Siéntate en la máquina con la espalda apoyada en el respaldo y ajusta el asiento para que tus brazos estén alineados con las manijas o almohadillas de la máquina. Agarra las manijas con firmeza, manteniendo los codos fijos en su lugar, y levanta las manijas contrayendo los bíceps. Baja las manijas lentamente a la posición inicial, manteniendo el control durante todo el movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2388'

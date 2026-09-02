@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1804'
+language: es
+status: human
+name: Dorsiflexión de tobillo
+description: |-
+  Mueve tu rodilla adelante evitando separar el talón del suelo. Manten la posición un par de segundos y vuelve a&nbsp; la posición inicial
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Davidgj32
+  source_id: '2929'

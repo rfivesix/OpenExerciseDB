@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1324'
+language: fr
+status: human
+name: Fente au poids du corps HD
+description: |-
+  Les fentes au poids du corps sont un exercice de callisthénie efficace pour renforcer le bas du corps, améliorer l'équilibre et la stabilité, et développer une force fonctionnelle. Elles constituent un choix populaire pour les séances au poids du corps, les entraînements à la maison, et peuvent aussi s'intégrer à un programme de renforcement musculaire plus complet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4583'

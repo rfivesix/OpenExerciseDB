@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: zh
+status: human
+name: 直角坐墙
+description: |-
+  起始姿势：背部应该接触墙壁，膝盖成直角并位于角度的正上方。 面朝前，双脚分开与肩同宽，并牢牢踩在地上。要达到这个姿势，你可以靠在墙上，脚离墙约 2 英尺。 滑下墙壁，保持背部紧贴墙壁，直到膝盖成直角。
+  步骤：
+
+  保持这个姿势。
+
+  注：股四头肌疼痛是正常的，如果感觉膝盖或膝盖骨疼痛，请停止。
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1483'

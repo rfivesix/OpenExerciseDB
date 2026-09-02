@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '310'
+language: fr
+status: human
+name: Rowing aux haltères sur banc incliné
+description: |-
+  En utilisant une prise neutre, allongez-vous en appui sur un banc incliné.
+  Prenez un haltère dans chaque main en prise neutre, en commençant les bras tendus. Ce sera votre position de départ.
+  Rétractez les omoplates et fléchissez les coudes pour tirer les haltères vers vos côtés.
+  Marquez une pause en haut du mouvement, puis revenez à la position de départ.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4448'

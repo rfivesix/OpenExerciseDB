@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '380'
+language: en
+status: human
+name: Leverage Machine Iso Row
+description: |-
+  Adjust seat height so that the handles are at the bottom of your pectorals or just below.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '214'

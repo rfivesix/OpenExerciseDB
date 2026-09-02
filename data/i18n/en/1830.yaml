@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1830'
+language: en
+status: human
+name: Barbell Step Back Lunge
+description: |-
+  Step 1: Stand with your feet hip-width apart, holding a barbell on your upper back.
+  Step 2: Keep your back straight, chest up, and core engaged.
+  Step 3: Take a step back with one leg and lower your body by bending both knees. Ensure that your back knee nearly touches the ground.
+  Step 4: Push off your back foot to return to the starting position.
+  Step 5: Repeat the movement with the other leg.
+  Continue alternating between legs for the desired repetitions.
+search_terms:
+  - Barbell Reverse Lunge
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2965'

@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1618'
+language: es
+status: human
+name: Cardio en bicicleta estática
+description: |-
+  Beneficios del Cardio en Bicicleta Estática
+  El cardio en bicicleta estática es una excelente forma de ejercicio que ofrece múltiples beneficios para la salud y el bienestar. Aquí te detallo algunos de los más destacados:
+  Mejora de la Salud Cardiovascular
+  Fortalece el corazón: El ejercicio regular ayuda a mejorar la eficiencia del corazón y a reducir el riesgo de enfermedades cardiovasculares.
+  Aumenta la circulación: Mejora el flujo sanguíneo, lo que puede ayudar a reducir la presión arterial.
+  Quema de Calorías y Pérdida de Peso
+  Eficiente para quemar calorías: Dependiendo de la intensidad, puedes quemar entre 400 y 600 calorías por hora.
+  Ayuda en la pérdida de peso: Combinado con una dieta equilibrada, el cardio en bicicleta estática puede ser efectivo para perder peso.
+  Fortalecimiento Muscular
+  Tonifica las piernas: Trabaja principalmente los músculos de las piernas, incluyendo cuádriceps, isquiotibiales y pantorrillas.
+  Mejora la resistencia muscular: Con el tiempo, puedes aumentar la resistencia y la fuerza en las piernas.
+  Beneficios para la Salud Mental
+  Reduce el estrés: El ejercicio libera endorfinas, que pueden mejorar tu estado de ánimo y reducir el estrés.
+  Aumenta la energía: La actividad física regular puede aumentar tus niveles de energía y mejorar la calidad del sueño.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4135'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '978'
+language: es
+status: human
+name: Elevaciones de Rodillas en Barra
+description: |-
+  Este es un ejercicio fundamental para fortalecer la pared abdominal, con un gran enfoque en la sección inferior. Para realizarlo, cuélgate de una barra con los brazos extendidos y, sin balancearte, utiliza la fuerza de tu abdomen para elevar las rodillas hacia el pecho. El descenso debe ser lento y controlado.
+  Una vez dominado, puedes progresar a la elevación de piernas a 90°. Como mencionas, esta es una versión mucho más intensa que involucra toda la musculatura abdominal. En lugar de flexionar las rodillas, se levantan las piernas completamente rectas hasta que quedan paralelas al suelo, formando un ángulo de 90 grados con el torso.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2132'

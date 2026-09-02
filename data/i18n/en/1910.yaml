@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1910'
+language: en
+status: human
+name: Kneeling Superman
+description: |-
+  Push one foot back until leg fully extended, concentrating on the having the foot high and pushed back as if pulled.
+
+
+  Extend arm forward with focus having the shoulder high up.
+
+
+  Unilateral and static hold.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3057'

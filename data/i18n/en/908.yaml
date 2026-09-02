@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '908'
+language: en
+status: human
+name: Zone 2 Running
+description: Zone two Cardio for endurance, you should be able to speak while running
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: karly
+  source_id: '1187'

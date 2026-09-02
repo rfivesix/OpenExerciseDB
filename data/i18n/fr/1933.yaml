@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1933'
+language: fr
+status: human
+name: Crunch abdominal
+description: |-
+  Le crunch abdominal est un exercice d'isolation classique pour la sangle abdominale, réalisé au sol ou sur un tapis. Contrairement au redressement assis complet, il implique une amplitude de mouvement plus réduite où vous ne soulevez que les épaules et le haut du dos du sol, en gardant le bas du dos fermement plaqué contre le sol.
+search_terms:
+  - Crunch
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4811'

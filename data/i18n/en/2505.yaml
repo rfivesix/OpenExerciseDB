@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2505'
+language: en
+status: human
+name: Dead Bug (Core L1)
+description: |-
+  Vasco custom dead bug - foundational deep core stability and anti-extension. Teaches lumbar-pelvic dissociation, breath-coordination, and proximal stability for distal mobility. Prerequisite for all core training.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '4990'

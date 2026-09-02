@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '477'
+language: pt
+status: human
+name: Pull Ups na máquina
+description: |-
+  Os pull-ups da máquina são uma variação assistida do exercício pull-up tradicional. Eles são projetados para ajudar as pessoas que estão desenvolvendo a força necessária para realizar o movimento completo. A máquina permite ajustar o peso para fornecer suporte adequado durante o exercício.
+  Para realizar flexões na máquina, siga os seguintes passos: posicione-se corretamente, ajuste o peso para o suporte desejado, segure a barra com as mãos alinhadas com os ombros, mantenha os braços retos e a postura ereta. Inicie o movimento flexionando os cotovelos e puxando o corpo em direção à barra. Suba até que seu queixo esteja acima da barra e seus ombros estejam firmes.
+  A descida deve ser feita de forma controlada, estendendo totalmente os braços. Realize o número desejado de repetições, adaptando-o à sua habilidade. Lembre-se de respirar corretamente durante o exercício, inspirando na fase descendente e expirando ao puxar o corpo para cima.
+  A prática regular de flexões na máquina fortalecerá os músculos das costas, ombros e braços, ajudando a melhorar a postura e a força geral. À medida que você ganha mais força, pode reduzir gradualmente a assistência fornecida pela máquina e progredir para a tradicional flexão sem ajuda.
+  Essa variação do exercício é uma opção acessível para iniciantes ou pessoas que lutam para realizar flexões completas. Lembre-se de adaptar o peso e o número de repetições de acordo com seu nível de força e capacidade. A prática regular e a progressão gradual ajudarão a melhorar sua forma e progredir em direção a flexões completas.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '2136'

@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1777'
+language: en
+status: human
+name: Deficit Push ups
+description: Pushup on blocks or grips, so you can dip lower than the hands in the decent.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Rottekongen
+  source_id: '2911'

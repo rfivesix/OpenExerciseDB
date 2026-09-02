@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1260'
+language: es
+status: human
+name: TRX hammer curl
+description: |-
+  Colocar los agarres como si de una continuación de las cintas se tratase. Colocaremos los brazos estirados hacia adelante y el cuerpo hacia atrás totalmente recto. Los músculos de los bíceps se activarán al doblar los codos para atraer el cuerpo hacia las cintas. El movimiento de contracción terminará con un ligero movimiento d
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2483'

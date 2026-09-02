@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1530'
+language: es
+status: human
+name: Curls con mancuernas tumbado
+description: |-
+  Toma una mancuerna en cada mano y túmbate boca arriba sobre un banco, de forma similar a un press de pecho clásico. Deja que los brazos cuelguen hacia abajo a los lados, con las mancuernas tocando posiblemente el suelo. Ahora empieza a levantar las mancuernas hacia arriba hasta que los antebrazos queden perpendiculares al techo. Baja lentamente las mancuernas hasta que casi vuelvan a tocar el suelo. Mantén los codos en su sitio para minimizar las trampas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4051'

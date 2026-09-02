@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1969'
+language: en
+status: human
+name: Single-arm cable pushdown
+description: |-
+  Single-arm cable pushdown is a unilateral isolation exercise that targets the triceps brachii. By working one arm at a time, it helps correct strength imbalances between sides while also engaging the core for stability.
+  Starting position:
+  Stand facing the cable machine with your feet shoulder-width apart. Attach a single handle to the high pulley. Grab the handle with one hand using an overhand grip (pronated), with your elbow bent at approximately 90° and tucked close to your body. Keep your core braced and your back straight.
+  Execution:
+  Push the handle downward in a controlled motion by extending your elbow until your arm is fully extended. Hold the contraction for 1 second at the bottom, then slowly return to the starting position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: evtimovgeorg
+  source_id: '3124'

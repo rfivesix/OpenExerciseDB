@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '397'
+language: es
+status: human
+name: Sentadilla a cajón bajo con stance ancho
+description: |-
+  Saca la barra del soporte y coloca una postura ancha, más allá de las caderas. Empuja las caderas hacia atrás y siéntate en un cajón que te lleve por debajo de la paralela. Siéntate por completo, no hagas touch and go. Después, ponte de pie de forma explosiva. Mantén la parte alta de la espalda y el torso firmes durante todo el movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4332'

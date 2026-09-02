@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1020'
+language: id
+status: human
+name: Pistol squats kanan
+description: |-
+  Berdiri pada satu kaki, dengan kaki yang lain lurus dan sedikit ke depan.
+  Bend satu lutut perlahan-lahan, turun ke dalam jongkok dan menjaga punggung dan kaki Anda yang lain lurus.
+  Perlahan-lahan angkat dirimu dari jongkok, meluruskan lutut yang bengkok dan menjaga kaki yang lain lurus.
+  Ulangi
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1935'

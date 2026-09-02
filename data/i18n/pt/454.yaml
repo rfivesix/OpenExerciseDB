@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: pt
+status: human
+name: Flexão Pike
+description: |-
+  Posição inicial:
+  Com a cara virada para baixo:Seu corpo deve fazer uma forma em V, com as costas, braços e pernas retas. Seus quadris devem estar para cima no ar.Você pode chegar a esta posição caminhando com as mãos para trás a partir de uma prancha alta.
+  Passos:
+
+  Dobre os cotovelos para o lado, mantendo suas costas e pernas retas e movendo sua cabeça para mais perto do chão.
+  Endireite os braços, empurrando os quadris para cima e mantendo as costas e as pernas retas.
+  Repita.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1359'

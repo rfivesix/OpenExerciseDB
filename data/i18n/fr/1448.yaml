@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1448'
+language: fr
+status: human
+name: Curl incliné avec haltères
+description: |-
+  Asseyez-vous sur un banc incliné à 60∘.
+  Tenez les haltères le long du corps près du sol, paumes vers l'extérieur, bras complètement étendus.
+  Soulevez les haltères en utilisant uniquement les biceps et sans élan (sans donner d'à-coups).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2762'

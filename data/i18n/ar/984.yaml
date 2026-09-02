@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: ar
+status: human
+name: الطعنات
+description: |-
+  الوقوف ب ظهر مستو
+  اتخاذ خطوة كبيرة إلى الأمام ب ساقك اليسرى
+  جلب الحوض الخاص بك إلى أسفل حتى تلامس الارض بركبتك اليمنى
+  جلب الحوض الخاص بك مرة أخرى
+  العودة إلى وضعية الوقوف بالتراجع
+  كرر، مع التبديل الساقين في كل مرة
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1554'

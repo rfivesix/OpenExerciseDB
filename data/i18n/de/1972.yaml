@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1972'
+language: de
+status: human
+name: Einarmiger Latzug
+description: |-
+  Setze dich an die Latzugmaschine und greife den einzelnen Griff mit einem neutralen Griff. Halte deinen Oberkörper stabil, die Brust aufgerichtet und die Schulterblätter leicht zurückgezogen. Beginne mit vollständig über dem Kopf gestrecktem Arm und ziehe den Griff dann auf einer kontrollierten, leicht diagonalen Bahn zur oberen Brust hinunter. Konzentriere dich darauf, den Latissimus zu beanspruchen, während du die Schulter nach unten gedrückt hältst und jede Rotation des Oberkörpers vermeidest. Kehre langsam in die Ausgangsposition zurück und behalte während der gesamten Bewegung die volle Kontrolle.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3572'

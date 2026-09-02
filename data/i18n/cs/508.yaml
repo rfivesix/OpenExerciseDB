@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '508'
+language: cs
+status: human
+name: Přítahy v Sedě s Oporou
+description: |-
+  Při cvičení ramena držte na místě, nezvedejte je nahoru, při kontrakci táhněte lopatky k sobě a dolů, nadloktí podél těla dozadu. Soustřeďte se na zádové svaly a ne na svaly rukou.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '365'

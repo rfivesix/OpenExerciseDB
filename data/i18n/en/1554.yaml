@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1554'
+language: en
+status: human
+name: Clap Push-UP
+description: |-
+  The clap push-up is an explosive upper body movement that builds power and fast-twitch muscle strength. It adds a plyometric challenge to the traditional push-up by requiring the hands to leave the ground mid-rep.
+
+  Start in a strong push-up position with your hands slightly wider than shoulder-width and core engaged
+  Lower your body explosively and push off the ground with enough force to lift your hands.
+  Quickly clap your hands together at chest level before returning them to the floor.
+  Land with soft elbows to absorb the impact and immediately move into the next rep
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Settebello
+  source_id: '2501'

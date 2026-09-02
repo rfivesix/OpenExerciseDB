@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1704'
+language: fr
+status: human
+name: L-sit groupé (tuck L-sit)
+description: |-
+  Le tuck L-sit est un maintien au poids du corps où vous vous soutenez sur des barres parallèles, des parallettes ou le sol avec les bras tendus, tout en ramenant vos genoux vers votre poitrine. Vos hanches restent levées, votre colonne reste droite et vos pieds flottent au-dessus du sol. L'objectif est de garder la sangle abdominale gainée, les épaules abaissées et les bras verrouillés tout en maintenant la position groupée. C'est un maintien statique très exigeant pour les abdominaux et stabilisateur pour les épaules, souvent utilisé comme progression vers le L-sit complet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4693'

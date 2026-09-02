@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '981'
+language: zh
+status: human
+name: 仰卧起坐
+description: |-
+  起始姿势：面对椅子站立。
+  步骤：
+
+  走到椅子上。
+  从椅子上走下来。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1511'

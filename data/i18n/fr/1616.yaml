@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1616'
+language: fr
+status: human
+name: Donkey kick à l'haltère
+description: |-
+  Le donkey kick à l'haltère est un exercice efficace pour travailler les muscles fessiers et les ischio-jambiers. Cet exercice se réalise généralement à quatre pattes, en utilisant un haltère pour ajouter de la résistance. Les étapes pour le réaliser correctement sont décrites ci-dessous.
+  Position de départ : Mettez-vous à quatre pattes sur un tapis, les mains alignées sous les épaules et les genoux alignés sous les hanches.
+  Placement de l'haltère : Prenez un haltère et placez-le derrière le genou de la jambe que vous allez soulever. Assurez-vous qu'il soit bien maintenu pour éviter qu'il ne tombe pendant l'exercice.
+  Exercice :
+  Inspirez et, en expirant, levez la jambe avec l'haltère vers le haut, en gardant le genou fléchi à un angle de 90 degrés.
+  Levez la jambe jusqu'à ce qu'elle soit parallèle au sol, en ressentant la contraction dans les fessiers.
+  Maintenez la position une seconde en haut, puis abaissez lentement la jambe jusqu'à la position de départ.
+  Répétitions : Effectuez 10 à 15 répétitions par jambe, en veillant à conserver une bonne technique tout au long de l'exercice.
+  Séries : Réalisez 2 à 3 séries, selon votre niveau de condition physique.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4725'

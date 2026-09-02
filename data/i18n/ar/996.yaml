@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: ar
+status: human
+name: متسلقو الجبال
+description: |-
+  وضع البداية:
+  ابدأ في وضع الدفع المستقيم ، أو اللوح الخشبي المرتفع.يجب أن تكون اليدين تحت كتفيك مباشرة.حافظ على رأسك في خط مستقيم مع ظهرك ، مواجهًا للأرض.يجب أن تكون القدمان متباعدتين بعرض الورك.
+  الخطوات:
+
+  حرك ركبة واحدة باتجاه مركز جسمك ، باتجاه مرفقيك ، مع إبقاء الساق الأخرى ممتدة.
+  في حركة القفز السريع ، افرد الرجل المنحنية واسحب الركبة الأخرى باتجاه جسمك.
+  استمر في تكرار الخطوة 2 ، بالتناوب بين الأرجل.
+
+  ملاحظة:
+  خلال التمرين ، يجب أن يظل ظهرك مستقيمًا قدر الإمكان - تجنب حدوث حدبة أو تراجع في الظهر.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1726'

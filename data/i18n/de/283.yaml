@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '283'
+language: de
+status: human
+name: Beinheben im Hang
+description: |-
+  Ausgangspostion im Hang, die Beine sind angebhoben (Oberschenkel-Rumpf-Winkel 90°)
+  Von hier aus kleine Hebebewegungen ausführen, die Hüftgelenke bleiben in der Endposition gebeugt (90°)
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: robhoyt
+  source_id: '280'

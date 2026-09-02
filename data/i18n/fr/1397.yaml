@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1397'
+language: fr
+status: human
+name: Good morning jambes écartées debout
+description: |-
+  Tenez-vous debout, les pieds écartés au-delà de la largeur des épaules et les orteils légèrement tournés vers l'extérieur. Placez vos mains derrière la tête. Effectuez une bascule à partir des hanches et abaissez le haut du corps vers le sol, en gardant le dos droit et la poitrine ouverte.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4783'

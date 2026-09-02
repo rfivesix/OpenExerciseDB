@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: pt
+status: human
+name: Agachamento de impulso
+description: |-
+  Posição inicial:
+  Comece na posição de prancha alta:costas, braços e pernas retos e as mãos afastadas alinhadas aos ombros.
+  Passos:
+
+  Pule jogando seus pés para frente entre os braços, mantendo as costas reta.
+  Mantendo suas mãos no chão, retorne suas pernas para a posição de prancha altas.
+  Repita.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1450'

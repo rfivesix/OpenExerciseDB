@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1112'
+language: es
+status: human
+name: Flexiones | declinadas (decline)
+description: |-
+  Las flexiones declinadas son otra versión modificada de la flexión tradicional que trabaja los músculos del tren superior de una forma diferente. Para realizar una flexión declinada, eleva los pies sobre una superficie elevada, como un banco, una silla o un escalón, mientras colocas las manos en el suelo en posición de flexión. Baja el cuerpo hacia el suelo manteniendo una línea recta desde los hombros hasta los tobillos y luego empuja de nuevo hasta la posición inicial.
+  A diferencia de la flexión inclinada, la flexión declinada pone más énfasis en los hombros y los tríceps, sin dejar de implicar los músculos del pecho en menor medida. Al elevar los pies aumentas la dificultad del ejercicio, ya que cargas más peso sobre el tren superior y obligas a los hombros y los tríceps a trabajar más para volver a empujar el cuerpo hacia arriba. La flexión declinada puede ser una excelente manera de desafiar la fuerza de tu tren superior y mejorar tu capacidad para realizar otras variantes de flexiones. Como con cualquier ejercicio, asegúrate de usar una técnica correcta y empieza con una altura adecuada a tu fuerza y nivel de forma física.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3699'

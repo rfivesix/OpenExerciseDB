@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: en
+status: human
+name: Child's pose
+description: |-
+  Starting position:
+  Start on all fours, knees, toes, and hands touching the ground. Your two big toes should be touching.
+  Steps:
+
+  Move your knees so that they're about hip-width apart.
+  On an exhale, move your pelvis back to sit on your heels. Your hands should still be touching the ground.
+  Relax your upper body, lowering your forehead to the floor and letting your hands move forward naturally.
+  Stay in this pose.
+
+  Tips:
+
+  To leave the pose, walk your arms back under your shoulders and move your upper body up into a seated position.
+search_terms:
+  - Prayer pose
+  - Prayer pose
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1791'

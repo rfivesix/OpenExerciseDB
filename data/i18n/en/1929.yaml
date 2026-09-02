@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1929'
+language: en
+status: human
+name: Assisted Pull-Up
+description: |-
+  The Assisted Pull-Up is a compound vertical pulling exercise performed on a machine with a counterweight platform or by using resistance bands. It mimics the mechanics of a standard pull-up but reduces the total weight you have to lift, making it an excellent tool for building functional strength and perfecting your technique.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: amaesc
+  source_id: '3078'

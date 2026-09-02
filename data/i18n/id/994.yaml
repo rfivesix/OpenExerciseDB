@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: id
+status: human
+name: Lingkaran lengan ke depan
+description: |-
+  Berdiri tegak dengan punggung lurus.
+  Bawa lengan ke depan, angkat di atas kepala Anda, kemudian melanjutkan gerakan di belakang punggung Anda dan ke posisi awal.
+  Tetap lingkari tanganmu Seperti yang dijelaskan di Langkah 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1684'

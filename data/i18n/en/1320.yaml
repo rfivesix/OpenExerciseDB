@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1320'
+language: en
+status: human
+name: Bench Dips On Floor HD
+description: |-
+  Triceps dips on floor are a compound exercise as they worked multiple muscle groups simultaneously. Although this bodyweight exercise mainly targets the triceps, it also hits your chest and front of your shoulder.
+  Triceps dips on floor are one of the most effective exercises to increase arm strength and also build lean muscle in your upper arms.
+  Triceps dips on floor are a closed kinetic chain exercise and express that you do the movements around a fixed point. It increases compression force on your joints thereby improving stability.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hektkaso
+  source_id: '2292'

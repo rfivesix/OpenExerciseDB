@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: it
+status: human
+name: Flessioni del luccio
+description: |-
+  Posizione di sguardo:
+  Cane rivolto verso il basso:Il tuo corpo dovrebbe formare una forma a V, con la schiena, le braccia e le gambe dritte. I tuoi fianchi dovrebbero essere in aria.Puoi raggiungere questa posizione camminando con le mani indietro da un plank alto.
+  Passi:
+
+  Piegare i gomiti di lato, mantenendo la schiena e le gambe dritte e avvicinando la testa al pavimento.
+  Raddrizzare le braccia, spingendo i fianchi verso l'alto e mantenendo la schiena e le gambe dritte.
+  Ripetere.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1357'

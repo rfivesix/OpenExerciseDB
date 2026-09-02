@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '981'
+language: es
+status: human
+name: Subida a peldaño
+description: |-
+  Párese frente a una silla
+  Súbase a la silla
+  Bájese de la silla
+  Repita
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1500'

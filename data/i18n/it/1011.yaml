@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: it
+status: human
+name: Collo anteriore allungato
+description: |-
+  Posizione di partenza:
+  Seduti o in piedi con la schiena dritta.
+  Passi:
+
+  Aprire bene la bocca.
+  Inclinare lentamente la testa all'indietro con la bocca aperta. Se senti il bisogno di un sostegno, stringi le mani dietro la testa.
+  Chiudere e aprire molto lentamente la bocca.
+  Alla fine, torna lentamente alla posizione di partenza e chiudi la bocca.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1899'

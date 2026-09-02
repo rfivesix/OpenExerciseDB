@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '291'
+language: es
+status: human
+name: Sentadillas Hindúes
+description: |-
+  Esta es una sentadilla fluida y dinámica con peso corporal, enfocada en la resistencia, el equilibrio y un rango de movimiento completo, a diferencia de una sentadilla tradicional con peso.
+  Instrucciones
+
+  Posición Inicial: De pie, con los pies separados al ancho de los hombros y los brazos a los costados o ligeramente detrás de la espalda.
+  Descenso: Inicia el descenso y, al mismo tiempo, levanta los talones del suelo. Baja a una sentadilla profunda mientras balanceas los brazos hacia atrás. Mantén el torso lo más vertical posible.
+  Ascenso: Sube de forma explosiva, balanceando los brazos hacia adelante y hacia arriba para generar impulso. Los talones deben volver a apoyarse en el suelo justo al final del movimiento, cuando estás completamente de pie.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2730'

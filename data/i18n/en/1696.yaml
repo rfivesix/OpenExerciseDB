@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1696'
+language: en
+status: human
+name: Pull-Ups (Neutral Grip)
+description: |-
+  Execution
+
+
+  Pulling phase (concentric):
+
+  Drive your&nbsp;elbows down and back, pulling your&nbsp;chest toward your hands.
+  Keep your shoulders&nbsp;depressed and retracted&nbsp;(avoid shrugging).
+  Focus on squeezing your&nbsp;lats and upper back&nbsp;at the top.
+
+
+
+  Top position:
+
+  Chin should clear or reach the level of your hands.
+  Pause briefly and&nbsp;contract your lats&nbsp;hard.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daiben
+  source_id: '2815'

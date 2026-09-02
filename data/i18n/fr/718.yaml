@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: fr
+status: human
+name: Assis dos au mur
+description: |-
+  Appuyez-vous contre le mur, en regardant vers l'avant, les pieds fermement plantés au sol, écartés de la largeur des épaules et à une distance d'environ 60&nbsp;cm du mur.
+  Glissez le long du mur, en gardant le dos appuyé contre lui, jusqu'à ce que les jambes forment un angle droit. Les genoux doivent être directement au-dessus des chevilles.La douleur au quadriceps est normale, arrêtez si vous ressentez une douleur au genou ou à la rotule
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1471'

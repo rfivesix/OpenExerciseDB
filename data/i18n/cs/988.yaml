@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '988'
+language: cs
+status: human
+name: Bulharské dřepy na levé noze
+description: |-
+  Postavte se vysoko před židli a udělejte velký krok. Položte horní část jedné z vašich nohou na židli.
+  Ohněte přední koleno a vyvažujte rukama, dokud se zadní koleno téměř nedotkne země
+  Zatlačte zpět do výchozí polohy a opakujte.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1600'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: pt
+status: human
+name: Agachamentos de sumô
+description: |-
+  Posição inicial:
+  Fique em pé com as pernas separadas e os dedos dos pés virados para fora.
+  Passos:
+
+  Agache lentamente dobrando os joelhos. Jogue os braços para frente. Mantenha a cabeça, o peito e os quadris em linha reta. Aperte seus glúteos.
+  Levante de volta para a posição inicial.
+  Repita este exercício em um movimento pulsante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '1440'

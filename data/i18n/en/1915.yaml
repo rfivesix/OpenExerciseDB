@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1915'
+language: en
+status: human
+name: Quadruped Hip Abduction
+description: |-
+  Distribute your body weight evenly on all knees and arms.
+  Keep the torso stable, with the abdomen engaged and the lumbar spine
+  straight without twisting the back (imagine: a glass on your lower back
+  won't fall off). Raise one leg outwards without twisting it.
+  Pay attention to the right angle at the hips and knees.&nbsp;Always train both sides of the body.
+  To increase resistance, a resistance band can be used.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: treder
+  source_id: '3062'

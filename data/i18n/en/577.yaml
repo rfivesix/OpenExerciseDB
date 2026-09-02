@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '577'
+language: en
+status: human
+name: Side Dumbbell Trunk Flexion
+description: |-
+  AKA dumbbell side bends. Stand in line with the hips with slightly bent knees, maintain the natural curvature of the spine, hand stretched by the body, grip the barbell with one hand. Make slow and controlled torso side flexions till you reach the angle of approximately 45°.
+search_terms:
+  - Side bends
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: GiglioRosso
+  source_id: '278'

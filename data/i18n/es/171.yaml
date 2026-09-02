@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '171'
+language: es
+status: human
+name: Abdominales en Banco Inclinado
+description: |-
+  Este ejercicio aumenta la intensidad del trabajo abdominal y de los flexores de cadera gracias al ángulo del banco.
+  Instrucciones:
+  Acuéstate en un banco inclinado, asegurando firmemente tus pies en los soportes de la parte superior. Coloca las manos a los lados de la cabeza (sin jalar el cuello) o cruzadas sobre el pecho.
+  Contrae el abdomen y levanta tu torso "enrollando" la espalda, hasta que tus codos se acerquen a las rodillas. Baja de forma lenta y controlada a la posición inicial, sin dejarte caer.
+  (Nota: Para un crunch inclinado, solo se levantan los hombros y la parte alta de la espalda del banco, es un movimiento mucho más corto).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2699'

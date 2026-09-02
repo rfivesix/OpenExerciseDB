@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1207'
+language: de
+status: human
+name: Skorpion-Kick
+description: |-
+  Geh in die Liegestützposition, deine Schultern befinden sich direkt über deinen Händen, deine Füße sind hüftbreit voneinander entfernt.
+  Achte darauf, dass dein Körper vom Kopf bis zu den Fersen eine gerade Linie bildet.
+  Nun zieh dein rechtes Knie Richtung Brust. Während das Knie gebeugt bleibt, hebst du dein rechtes Bein so weit wie möglich an, der rechte Unterschenkel zeigt gerade nach oben.
+  Drehe jetzt deine Hüfte, sodass dein rechter Fuß über dein linkes Bein schwingt. Rotiere weiter und bewege den rechten Fuß so weit Richtung Boden, bis du gezwungen bist, auf die Außenseite deines linken Standfußes zu rollen. Achte darauf, dass du den Oberkörper nicht mitdrehst.
+  Kehre nun in die Ausgangsposition zurück und wiederhole die Übung mit dem linken Bein.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2169'

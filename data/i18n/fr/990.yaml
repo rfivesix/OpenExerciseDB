@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: fr
+status: human
+name: Extensions de la hanche
+description: |-
+  Mettez-vous à quatre pattes
+  Poussez un pied en arrière jusqu'à ce qu'il soit complètement étendu, en vous concentrant sur les muscles fessiers
+  Restez une seconde, puis revenez à la position initiale
+  Répétez, en alternant les pieds
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1632'

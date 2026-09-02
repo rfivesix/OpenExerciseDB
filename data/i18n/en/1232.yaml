@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1232'
+language: en
+status: human
+name: Standing biceps stretch left
+description: |-
+  Stand with your left arm close to a wall. Extend your left arm and put your left hand on the wall, then gently turn your body to the right.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Lynn_McIntyre
+  source_id: '2197'

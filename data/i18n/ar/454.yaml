@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: ar
+status: human
+name: الدراجة الضغط
+description: |-
+  موقف التحديق:
+  الكلب المتجه للأسفل:يجب أن يتخذ جسمك شكل V ، مع ظهر مستقيم وذراعان وأرجل. يجب أن يكون الوركين في الهواء.يمكنك الوصول إلى هذا الوضع عن طريق إرجاع يديك للخلف من لوح مرتفع.
+  الخطوات:
+  1- اثنِ مرفقيك إلى الجانب ، وحافظ على استقامة ظهرك ورجليك وحرك رأسك أقرب إلى الأرض.
+
+  افرد ذراعيك وادفع وركيك للخلف وحافظ على استقامة ظهرك ورجليك.
+  كرر.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1362'

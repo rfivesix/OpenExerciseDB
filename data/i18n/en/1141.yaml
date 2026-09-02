@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1141'
+language: en
+status: human
+name: Arabesque
+description: |-
+  Take all your weight onto one&nbsp;leg&nbsp;and you're going to&nbsp;maintain that position, keeping your hips and pelvis level the whole time. With&nbsp;your back in a neutral position you want to tilt yourself forward kicking your leg back up and then slowly with your glutes bring yourself back up to neutral.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cleen
+  source_id: '2120'

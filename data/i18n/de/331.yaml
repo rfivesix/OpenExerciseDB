@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '331'
+language: de
+status: human
+name: Kettlebell Swings
+description: |-
+  Halte die Kettlebell sicher mit beiden Händen. Halte deinen Rücken während der gesamten Bewegung gerade und vermeide jegliches Rundmachen der Wirbelsäule. Halte die Knie "weich" und schiebe die Hüfte nach hinten, sodass die Kettlebell zwischen deinen Knien durchschwingt.
+  Du solltest dich so weit aus der Hüfte beugen, wie du kannst, ohne dass dein Rücken sich nach vorne rundet. Schiebe dann die Hüfte schnell nach vorne und richte dich gerade auf, sodass dein Körper in einer aufrechten Haltung verriegelt ist.
+  Die Geschwindigkeit, mit der du das machst, lässt deine Arme und die Kettlebell vor dir nach oben schwingen. Versuche nicht, die Kettlebell mit den Armen anzuheben. Das nach vorne Schnellen deiner Hüfte lässt die Kettlebell durch den Schwung nach vorne schwingen. Je nach Gewicht der Kettlebell und Geschwindigkeit deiner Hüftbewegung schwingen deine Arme bis etwa auf Schulterhöhe nach oben. Am höchsten Punkt dieses Schwungs lässt du die Hüfte wieder nach hinten klappen, während die Kettlebell zurück zwischen deine Beine und in den Beginn der nächsten Wiederholung schwingt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4324'

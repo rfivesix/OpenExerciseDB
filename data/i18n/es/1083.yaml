@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1083'
+language: es
+status: human
+name: YWTs
+description: |-
+  Posición inicial:
+  Túmbate, preferiblemente sobre una colchoneta. Estira los brazos por encima de la cabeza en una posición de "Y" (brazos apuntando hacia arriba en diagonal, a unos 45 grados). Tus pulgares deben apuntar hacia arriba.
+  Pasos:
+
+  Con los brazos en la posición de Y, levanta ligeramente el pecho del suelo, creando una tensión de tracción en tus brazos hacia arriba.
+  Mantén esta posición durante varios segundos (15–30 es lo ideal).
+  Manteniendo el pecho arriba, flexiona los codos para pasar de una posición de Y a una posición de "W", con los brazos flexionados por los codos y manteniendo la tensión hacia arriba.
+  Mantén aproximadamente el mismo tiempo que en la posición de Y.
+  Sin dejar de tener el pecho arriba, pasa a una posición de "T", estirando los brazos hacia los lados para quedar perpendiculares a tu cuerpo.
+  Mantén aproximadamente el mismo tiempo que mantuviste la posición de W.
+  Pasa de la posición de T a la posición de W, y luego de la posición de W a la posición de Y.
+  Repite.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3655'

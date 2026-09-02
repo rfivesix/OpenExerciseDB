@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1021'
+language: pt
+status: human
+name: Elevação da panturrilha direita
+description: |-
+  Fique de pé no chão ou na borda de um degrau para aumentar o alcance do movimento. Levante um pé, colocando a parte superior sobre sua panturrilha.
+  Levante os calcanhares até ficar de pé sobre os dedos do pé.
+  Fique nesta posição por três segundos, depois abaixe o pé sem tocar o chão com seu calcanhar.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1958'

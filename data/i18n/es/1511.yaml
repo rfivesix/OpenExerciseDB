@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1511'
+language: es
+status: human
+name: Kong Curl
+description: |-
+  Este ejercicio se parece un poco a un curl en polea y a un cruce en polea. Pero en lugar de ser un ejercicio de pecho/bíceps, este ejercicio trabaja el músculo braquial, responsable de ese brazo ancho cuando se ve desde el frente.
+  Durante el ejercicio, mantén el antebrazo en pronación, con una posición inicial de aproximadamente 45 grados de pronación. Comienza con los codos ligeramente flexionados y haz curls de forma alterna hasta que tus manos (primero el pulgar) lleguen a la parte superior media del pecho (de forma similar a como Kong se golpea el pecho, de ahí el nombre de este ejercicio).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4022'

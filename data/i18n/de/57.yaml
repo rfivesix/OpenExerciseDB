@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '57'
+language: de
+status: human
+name: Bear Walk
+description: |-
+  -Stützen Sie Ihr Gewicht auf Ihren Handflächen und Ihren Füßen, nicht anders als in der normalen Liegestützposition
+
+  Bewegen Sie sich, indem Sie mit der R-Handfläche und dem L-Fuß, dann mit der L-Handfläche und dem R-Fuß treten. Gehen Sie im Grunde wie ein trampelnder Bär.
+
+  -Bewegen Sie sich so schnell wie möglich. Messen Sie Ihre Wiederholungen / Sätze entweder in der Entfernung (d. H. 40 Meter) oder in der Zeit (d. H. 45 Sekunden).
+  -Arbeitet an Pecs, Deltamuskeln, Trizeps, Trapezius, Lats, Abs und Lendenwirbelsäule, Hüftbeugern, Quads, Gesäßmuskeln und Waden
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nate303303
+  source_id: '718'

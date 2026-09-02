@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1195'
+language: es
+status: human
+name: Deslizamientos laterales + sentadillas
+description: |-
+  Con los pies un poco más separados que el ancho de los hombros y manteniéndote bajo para imitar una posición defensiva, da un paso con la pierna que va por delante y empújate con la pierna de apoyo.
+  Después de tres deslizamientos, gira el cuerpo 180 grados sobre la pierna guía (exterior) y haz una sentadilla. Continúa.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3730'

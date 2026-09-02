@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1893'
+language: es
+status: human
+name: Press de barra por encima de la cabeza
+description: |-
+  Preparación: Ponte de pie con los pies juntos y agarra la barra un poco más ancha que los hombros.
+  Posición: Apoya la barra sobre la parte superior del pecho.
+  Empuje: Activa el core y empuja la barra recta hacia arriba hasta que los brazos queden completamente estirados.
+  Final: Baja la barra de forma controlada de vuelta al pecho.
+  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4253'

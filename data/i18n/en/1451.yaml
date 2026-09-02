@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1451'
+language: en
+status: human
+name: Torso rotation stretch
+description: |-
+  The torso rotation stretch helps improve spinal mobility and relieves tension in the lower back and obliques. It can be performed standing or seated.
+
+  Standing Variation: Stand upright with your feet shoulder-width apart. Place your hands on your hips or extend your arms in front of you. Slowly rotate your torso to one side, keeping your hips stable. Hold for a few seconds, then rotate to the opposite side.
+  Seated Variation: Sit on a chair with your feet flat on the floor. Place one hand on the outside of your opposite thigh and gently twist your torso toward that side. Hold the stretch before switching sides.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2417'

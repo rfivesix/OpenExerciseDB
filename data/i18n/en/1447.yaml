@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1447'
+language: en
+status: human
+name: Snatch OL
+description: |-
+  Olympic lift snatch
+
+  Pull barbell from ground to overhead lockout using a wide grip and overhead squat.
+  Move bar slowly until cleared knees then explosively extend hips, pull bar up and dive under the bar
+  Catch bar overhead with straight arms
+  Push head forward during lockout
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: M9
+  source_id: '2411'

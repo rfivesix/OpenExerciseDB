@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: de
+status: human
+name: Hecht-Liegestütze
+description: |-
+  Starre Position:
+  Der nach unten gerichtete Hund:Ihr Körper sollte eine V-Form bilden, mit geradem Rücken, Armen und Beinen. Ihre Hüften sollten in der Luft sein.Sie können diese Position erreichen, indem Sie die Hände aus einem hohen Plankenstand nach hinten führen.
+  Die Schritte:
+
+  Beugen Sie die Ellbogen zur Seite, halten Sie Rücken und Beine gerade und bringen Sie den Kopf näher zum Boden.
+  Strecken Sie die Arme aus, drücken Sie die Hüfte wieder nach oben und halten Sie Rücken und Beine gerade.
+  Wiederholen Sie den Vorgang.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1354'

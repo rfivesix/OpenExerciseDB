@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '81'
+language: es
+status: human
+name: Remo con mancuernas
+description: |-
+  Con las mancuernas en la mano, flexiona la cadera hasta que las manos cuelguen justo por debajo de las rodillas (similar a la posición inicial de pierna recta). Mantenga constante el ángulo de la parte superior del cuerpo mientras contrae los músculos dorsales para llevar los codos hacia atrás, pellizcando los omóplatos en la parte superior. Intenta no levantarte en cada repetición, comprueba que las manos quedan por debajo de las rodillas en cada repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sebk
+  source_id: '2069'

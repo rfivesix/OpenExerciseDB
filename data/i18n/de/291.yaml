@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '291'
+language: de
+status: human
+name: Hindu-Kniebeugen
+description: |-
+  Beginne mit schulterbreit aufgestellten Füßen und den Armen leicht hinter dem Rücken.
+  Während du dich zum Boden absenkst, hebe die Fersen vom Boden ab und halte den Rücken dabei so senkrecht wie möglich.
+  Wenn du die unterste Position erreichst, berühre mit den Händen die Fersen.
+  Richte dich anschließend wieder auf, sodass du am Ende mit den Fersen auf dem Boden stehst und die Arme vor der Brust gestreckt hast, und ziehe sie dann in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4314'

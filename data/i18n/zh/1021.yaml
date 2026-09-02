@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1021'
+language: zh
+status: human
+name: 右腿提踵
+description: |-
+  站在地板上或者台阶的边缘上，保证运动范围足够。抬起一条腿，脚背靠在小腿上。
+  抬起支撑脚的脚跟，用脚尖站立。
+  保持三秒钟，然后落下脚跟，但保持脚跟不接触地面。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1962'

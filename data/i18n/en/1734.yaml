@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1734'
+language: en
+status: human
+name: 'Single-Leg Lunge with Kettlebell:'
+description: |-
+  How to do a single-leg kettlebell lunge
+  Preparation: Stand with your feet together. Hold the kettlebell with both hands by the handle, keeping it close to your chest, or hold it with one hand (on the same side as the working leg).
+  Step and Lower: Take a large step forward (or backward, which is safer for your knees) with one leg, lowering your hips until both knees form a 90-degree angle.
+  Focus: Shift your weight onto your front (or bent) leg, keeping your back straight and your torso upright.
+  Return: Push off with your front leg to return to the starting position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2861'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1487'
+language: en
+status: human
+name: Hyper Y W Combo
+description: |-
+  Use a glute-ham raise or a
+  stability ball for this exercise and a light weight plate in each hand.
+  Raise your torso to form a straight line with your legs and raise the
+  arms outward slightly beyond a 90-degree angle into a W position to hit
+  the rotator cuff muscles, and then lower back to the starting position.
+  Then raise up again with arms
+  in a Y position to activate the lower traps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2450'

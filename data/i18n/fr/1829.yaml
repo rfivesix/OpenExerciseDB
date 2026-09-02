@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1829'
+language: fr
+status: human
+name: Squat-développé au landmine
+description: |-
+  Position de la barre : Ancrez une extrémité d'une barre dans un support landmine ou un coin sûr.
+  Posture : Tenez-vous face à la barre, les pieds un peu plus écartés que la largeur des épaules. Orientez les orteils vers l'extérieur de 10 à 35 degrés pour permettre un meilleur mouvement du bassin et plus de profondeur.
+  Prise : Enveloppez l'extrémité libre de la barre des deux mains (doigts entrelacés ou superposés) et tenez-la au milieu de la poitrine, juste sous la clavicule.
+  Descente : Gainez la sangle abdominale et asseyez-vous vers l'arrière en squat, en gardant la poitrine haute et le poids sur les talons.
+  Profondeur : Descendez jusqu'à ce que vos cuisses soient au moins parallèles au sol. Un bon repère est lorsque vos coudes touchent le haut de vos cuisses ou juste à l'intérieur de vos genoux.
+  Posture : Veillez à garder le dos plat et la colonne neutre tout au long du mouvement.
+  Poussée : Poussez puissamment à travers vos talons pour vous relever. Utilisez l'élan de vos jambes pour « propulser » la charge vers le haut.
+  Extension : En un mouvement fluide, poussez la barre au-dessus de la tête jusqu'à l'extension complète des bras. En haut, vos biceps doivent être près de vos oreilles.
+  L'inclinaison : Lorsque vous atteignez le haut de la poussée, penchez-vous légèrement vers l'avant dans la barre pour favoriser une bonne rotation des omoplates vers le haut et éviter de cambrer le bas du dos.
+  Abaissez lentement la barre à hauteur de la poitrine de façon contrôlée avant d'enchaîner immédiatement la répétition suivante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4767'

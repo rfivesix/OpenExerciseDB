@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1901'
+language: de
+status: human
+name: Umsetzen und Stoßen
+description: |-
+  Der erste Zug: Hebe die Stange vom Boden bis auf Kniehöhe, indem du aus den Beinen arbeitest und den Winkel deines Rückens konstant hältst.
+  Die "Power"-Position: Sobald die Stange die Mitte der Oberschenkel erreicht, ziehe explosiv die Schultern hoch und strecke die Hüfte, um vertikalen Schwung zu erzeugen.
+  Das schnelle Umsetzen der Ellbogen: In der Fangphase drehst du die Ellbogen rasch unter die Stange, um ein "Ablagebrett" auf deinen vorderen Deltamuskeln zu schaffen.
+  Das senkrechte Drücken: Drücke die Stange in einer geraden Linie nach oben; dein Kopf sollte sich leicht nach vorne schieben, sobald die Stange deine Stirn passiert, um die volle Streckung zu erreichen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4262'

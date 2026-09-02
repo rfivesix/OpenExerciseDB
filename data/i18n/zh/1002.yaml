@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: zh
+status: human
+name: 婴儿式
+description: |-
+  起始姿势：开始时四肢着地，膝盖、脚趾、手接触地面，两个大脚趾相碰。
+  步骤：
+
+  移动你的膝盖，使之与臀部同宽。
+  呼气，同时将骨盆向后移动。保持手接触地面，坐在您的脚后跟上。
+  放松上半身，将额头贴向地面，手自然向前移动。
+  保持这个姿势。
+
+  提示：
+
+  结束这个姿势，您可以把手臂收回到肩膀下，移动上半身，坐起。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1800'

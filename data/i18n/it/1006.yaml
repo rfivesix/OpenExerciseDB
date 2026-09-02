@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1006'
+language: it
+status: human
+name: Rialzo del mento
+description: |-
+  Posizione di partenza:
+  Seduti o in piedi con la schiena dritta.
+  Passi:
+
+  Usare le dita sul mento per infilare lentamente il mento, spostando la testa indietro per allinearla con la colonna vertebrale.
+  Tenere per 5 secondi.
+  Torna alla posizione normale della testa e ripeti.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1839'

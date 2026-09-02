@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1390'
+language: en
+status: human
+name: Toe Touch
+description: |-
+  Stand with your feet closer together. Hinge at your hips and lower your upper body towards your toes. Reach your hands towards your feet, try to touch your toes, the ground, or as far down your legs as you can comfortably go.
+search_terms:
+  - Standing Forward Bend
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2357'

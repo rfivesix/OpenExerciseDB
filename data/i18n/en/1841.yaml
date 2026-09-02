@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1841'
+language: en
+status: human
+name: Seated Shoulder Extension Stretch
+description: |-
+  Sit with your hands behind you, shoulder width apart.
+  Lock your elbows.
+  Scoot your feet and hips out forwards, lowering your shoulders down towards ground.
+  Go as far as possible to obtain a good stretch.
+
+  See the video: https://www.youtube.com/watch?v=ihUAbG0e8zw
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '2976'

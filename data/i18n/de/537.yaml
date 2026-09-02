@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '537'
+language: de
+status: human
+name: Schrägbankdrücken KH
+description: |-
+  Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt, der Kopf liegt auf der Bank. Nehme die Hanteln in die Hand und drücke sie nach oben. Bringe die Hanteln nach unten, bis sie neben der Brust sind. Drücke das Gewicht wieder nach oben.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '16'

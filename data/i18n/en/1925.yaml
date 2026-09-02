@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1925'
+language: en
+status: human
+name: Barbell Silverback Shrug
+description: |-
+  Stand with your feet shoulder width apart holding the barbell with both hands in front just past shoulder width.
+  Bend forward at the hips with a slight bend in your knees, keeping your back straight.
+  Engage your shoulder blades, as if you are trying to touch them together.
+  Release the shrug.
+  Description taken from MuscleWiki
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '3074'

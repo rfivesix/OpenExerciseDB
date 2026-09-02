@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1324'
+language: es
+status: human
+name: Zancada con el peso corporal
+description: |-
+  Las zancadas con el peso corporal son un ejercicio de calistenia eficaz para
+  fortalecer el tren inferior, mejorar el equilibrio y la estabilidad, y
+  desarrollar fuerza funcional. Son una opción popular para los entrenamientos con el peso corporal, los entrenamientos en casa, y también pueden incluirse como parte de una rutina de entrenamiento de fuerza más amplia.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3864'

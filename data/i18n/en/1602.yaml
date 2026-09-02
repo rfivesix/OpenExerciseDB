@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1602'
+language: en
+status: human
+name: Dumbbell Scaption
+description: |-
+  Starting position:
+  Stand upright with your feet shoulder-width apart.
+  Hold a dumbbell in each hand with a neutral grip (palms facing each other).
+  Keep a slight bend in your elbows, shoulders relaxed and shoulder blades pulled back.
+  Execution:
+  Slowly raise the dumbbells forward and slightly to the side, at about a 30–45° angle from your body (between a front raise and a lateral raise).
+  Lift until your arms are about shoulder height (do not go overhead).
+  Pause for a second at the top and feel the activation in your shoulders and scapular stabilizers.
+  Lower the dumbbells back down under control to the starting position.
+  Breathing:
+  Inhale as you lower the dumbbells.
+  Exhale as you lift them.
+  Common mistakes:
+  Using dumbbells that are too heavy (causing jerky movements).
+  Lifting above shoulder height (puts unnecessary stress on the shoulder joint).
+  Arching the lower back instead of keeping the movement controlled at the shoulders.
+  Purpose of the exercise:
+  Activates the lower trapezius, serratus anterior, and scapular stabilizers.
+  Helps correct posture and improve shoulder balance.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: zdelko
+  source_id: '2571'

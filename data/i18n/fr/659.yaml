@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '659'
+language: fr
+status: human
+name: Extensions des triceps à la poulie
+description: |-
+  Saisissez le câble, tenez-vous debout, les pieds écartés de la largeur des épaules, gardez le dos droit et penchez-vous légèrement vers l'avant. Poussez la barre vers le bas en veillant à ce que les coudes ne bougent pas pendant l'exercice. Tournez les mains vers l'extérieur tout à la fin, puis revenez à la position initiale sans pause.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4915'

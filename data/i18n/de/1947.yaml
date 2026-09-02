@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1947'
+language: de
+status: human
+name: Kurzhantel-Reißen (Dumbbell Snatch)
+description: |-
+  Wichtige Schritte zur korrekten Ausführung:
+  Aufbau: Lege die Kurzhantel zwischen deine Füße, mit den Schultern über den Hüften, der Brust aufgerichtet und flachem Rücken.
+  Der Zug: Strecke explosiv deine Hüften, Knie und Sprunggelenke (Dreifachstreckung), um die Kurzhantel nach oben zu treiben, wobei du den Ellenbogen hoch und die Kurzhantel nah am Körper hältst.
+  Das Auffangen: Beuge schnell deine Hüften und Knie, um unter die Kurzhantel zu gehen und sie mit fixiertem Arm über dem Kopf aufzunehmen, wobei du in einer halben Kniebeuge landest.
+  Häufige Fehler: Das Gewicht zu sehr mit den Armen statt mit den Beinen anzuheben, einen tiefen Ellenbogen in der Zugphase zu haben und Schulter, Ellenbogen und Handgelenk in der Endposition nicht auszurichten. Anfängern wird empfohlen, mit leichten Gewichten zu beginnen, sich auf die Technik zu konzentrieren und 3 bis 5 Sätze mit 3 bis 5 Wiederholungen pro Arm auszuführen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4248'

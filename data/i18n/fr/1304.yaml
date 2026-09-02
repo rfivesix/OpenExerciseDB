@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1304'
+language: fr
+status: human
+name: Rowing Meadows
+description: |-
+  Le rowing Meadows est un tirage unilatéral réalisé avec un montage landmine, en prise pronation et avec une position décalée des pieds. Penchez votre torse vers l'avant et saisissez la barre. Posez l'autre avant-bras sur la jambe avant. Amorcez le mouvement en poussant le coude vers l'arrière tout en rétractant l'omoplate. Gardez l'épaule qui travaille basse. Tirez en direction de votre hanche arrière jusqu'à ce que le coude arrive au niveau de votre torse.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4572'

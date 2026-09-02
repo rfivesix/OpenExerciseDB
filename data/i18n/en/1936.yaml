@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1936'
+language: en
+status: human
+name: Cable Rear-Delt Fly (single arm)
+description: |-
+  Cable rear delt fly (single arm):
+  Stand sideways to a cable machine with the handle set around shoulder height. With a slight bend in the elbow, pull the handle out and back in a wide arc so the upper arm moves away from the body. Keep your torso still and focus on the rear delt doing the work. Use light to moderate weight and controlled reps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Dulive
+  source_id: '3085'

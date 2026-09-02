@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '630'
+language: de
+status: human
+name: Sumo Kreuzheben
+description: |-
+  Muskulatur anspannen
+  Rücken aufrecht halten
+  Rücken gerade halten
+  Langsame Bewegung
+  Kontrollierte Bewegung
+  Nicht überdehnen
+search_terms:
+  - Sumo Deadlift
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2653'

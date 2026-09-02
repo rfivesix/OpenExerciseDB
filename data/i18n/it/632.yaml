@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: it
+status: human
+name: Squat sumo
+description: |-
+  Posizione di partenza:
+  Stare in piedi con le gambe larghe e le dita dei piedi rivolte verso l'esterno.
+  Passi:
+
+  Sprofondare lentamente piegando le ginocchia in fuori. Portare le braccia in avanti. Tenere la testa, il petto e i fianchi in linea retta. Stringere i glutei.
+  Spingete verso l'alto nella posizione di partenza.
+  Ripetere questo esercizio con un movimento pulsante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '1438'

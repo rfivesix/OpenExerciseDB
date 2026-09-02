@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2522'
+language: en
+status: human
+name: Tricep Pull-Down
+description: |-
+  Secure Band above you.
+
+  Stand facing band, with feet hip-width apart.
+  Bend your knees slightly to engage your core.
+  Keep your chest up, pin your shoulder blades back, and tuck your elbows tightly to the sides of your torso.
+  Exhale and pull the band straight down toward your thighs.
+  Inhale and slowly control the band as you let your arms return upwards to their starting position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: G. Johnson
+  source_id: '4991'

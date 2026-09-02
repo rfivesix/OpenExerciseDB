@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: ar
+status: human
+name: تمتد الرقبة لليسار
+description: |-
+  وضع البداية:
+  اجلس أو قف وظهرك مستقيم.
+  خطوات:
+
+  قم بإمالة رأسك إلى الجانب واستمر لمدة ٨ ثوانٍ لتمديد جانب رقبتك.
+  مع وضع اليد المعاكسة على رأسك ، اسحب برفق لتمتد أكثر. استمر لمدة ٨ ثوان.
+  أدر ذقنك إلى كتفك. استمر لمدة ٨ ثوان.
+  حرر والعودة إلى وضع البداية.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1867'

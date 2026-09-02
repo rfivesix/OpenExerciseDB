@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '142'
+language: en
+status: human
+name: Cable External Rotation
+description: |-
+  Steps:
+
+  Start off placing an extension band around a post or in a secure position where it will not release and is at elbow level.
+  Position yourself to the side of the band and with your hand that is opposite of the band, reach out and grab the handle.
+  Bring the band to your chest keeping your elbow bent in a 90 degree angle then slowly rotate your arm in a backhand motion so that the band externally rotates out
+  Continue out as far as possible so that you feel a stretch in your shoulders, hold for a count and then return back to the starting position.
+  Repeat for as many reps and sets as desired.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: lauroernesto
+  source_id: '265'

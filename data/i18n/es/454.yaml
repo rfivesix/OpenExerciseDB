@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: es
+status: human
+name: Flexiones de pica
+description: |-
+  Posición de mirada fija:
+  Perro mirando hacia abajo:Tu cuerpo debe hacer una forma de V, con la espalda, los brazos y las piernas rectas. Las caderas deben estar en el aire.Puedes llegar a esta posición caminando con las manos hacia atrás desde una plancha alta.
+  Pasos:
+  1.Dobla los codos hacia los lados, manteniendo la espalda y las piernas rectas y acercando la cabeza al suelo.
+
+  Estira los brazos, empujando las caderas hacia atrás y manteniendo la espalda y las piernas rectas.
+
+
+  Repite la operación.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1355'

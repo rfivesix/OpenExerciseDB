@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: it
+status: human
+name: Cadimenti a terra
+description: |-
+  Posizione di partenza:
+  Siediti con le braccia dietro di te, sostenendo la schiena.Le tue dita dovrebbero puntare in avanti.Le ginocchia devono essere piegate, i piedi uniti.
+  Passi:
+
+  Sollevare i fianchi da terra, raddrizzando le braccia.
+  Piegare i gomiti, portando i fianchi verso il basso.
+  Raddrizzare le braccia, tornando alla posizione precedente.
+  Ripetere i passi 2 e 3.
+
+  Note:
+  La difficoltà dell'esercizio dipende da quanto in alto si portano le anche.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1769'

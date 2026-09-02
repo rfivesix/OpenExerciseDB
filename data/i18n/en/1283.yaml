@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1283'
+language: en
+status: human
+name: Incline Chest-Supported Dumbbell Row
+description: |-
+  Set up an adjustable bench at a 45-degree angle.
+  Lay on your stomach with your head hanging just above the edge of the bench.
+  Grab a dumbbell in each hand and set up with a good posture – core and lats engaged and shoulders neutral.
+  Row the dumbbells toward the top of the stomach and squeeze the back at the top of the rep.
+  Finally, lower the dumbbells back to the starting position and repeat until all reps are completed.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: carlos3c
+  source_id: '2250'

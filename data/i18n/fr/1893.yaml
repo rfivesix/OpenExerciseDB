@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1893'
+language: fr
+status: human
+name: Développé militaire à la barre
+description: |-
+  Mise en place : Tenez-vous debout, les pieds joints, et saisissez la barre un peu plus large que la largeur des épaules.
+  Position : Posez la barre sur le haut de la poitrine.
+  Poussée : Gainez la sangle abdominale et poussez la barre droit vers le haut jusqu'à ce que vos bras soient tendus.
+  Fin : Contrôlez la descente de la barre jusqu'à votre poitrine.
+  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4789'

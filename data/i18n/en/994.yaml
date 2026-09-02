@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: en
+status: human
+name: Forward arm circles
+description: |-
+  Starting position:
+  Stand tall with your back straight.
+  Steps:
+
+  Keeping your arms straight, bring them in front of you, move them down, behind your back, then over your head, and back to the initial position.
+  Keep circling your arms as described in step 1.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1687'

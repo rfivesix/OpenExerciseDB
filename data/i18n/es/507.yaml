@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '507'
+language: es
+status: human
+name: Peso muerto rumano con barra
+description: |-
+  De pie con los pies separados a la anchura de los hombros y los dedos de los pies mirando hacia adelante. Dobla las rodillas ligeramente y empuja el pecho hacia afuera. Agarra una barra que descanse en la parte superior de los muslos, con las manos en pronación a la anchura de los hombros.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2616'

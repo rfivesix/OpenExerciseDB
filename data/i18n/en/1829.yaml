@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1829'
+language: en
+status: human
+name: Landmine Squat to Press
+description: |-
+  Bar Position: Anchor one end of a barbell in a landmine attachment or a secure corner.
+  Stance: Stand facing the barbell with feet slightly wider than shoulder-width. Turn your toes out 10–35 degrees to allow for better pelvic movement and depth.
+  Grip: Cup the free end of the barbell with both hands (fingers interlaced or overlapping) and hold it at mid-chest level, just below the collarbone.
+  Descent: Brace your core and sit back into a squat, keeping your chest up and weight on your heels.
+  Depth: Lower until your thighs are at least parallel to the floor. A good reference is when your elbows touch the tops of your thighs or just inside your knees.
+  Posture: Ensure your back remains flat and your spine neutral throughout the movement.
+  Drive: Powerfully drive through your heels to stand up. Use the momentum from your legs to "thrust" the weight upward.
+  Extension: In one fluid motion, press the bar overhead until your arms are fully extended. At the top, your biceps should be near your ears.
+  The "Lean": As you reach the top of the press, lean slightly forward into the bar to encourage proper upward rotation of the shoulder blades and avoid lower back arching.
+  Slowly lower the barbell back to chest height in a controlled manner before immediately beginning the next repetition.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: beagle
+  source_id: '2964'

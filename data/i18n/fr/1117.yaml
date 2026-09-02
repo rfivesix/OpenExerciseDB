@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1117'
+language: fr
+status: human
+name: Rowing assis à la poulie
+description: |-
+  Asseyez-vous sur la machine, les pieds bien posés, un peu plus écartés que la largeur des épaules. Poussez sur les talons et contractez les fessiers. Saisissez la poignée du câble.
+  Redressez-vous bien droit, les genoux légèrement fléchis. Contractez les abdominaux et le bas du dos afin de maintenir votre torse perpendiculaire au sol.
+  Roulez les épaules vers l'arrière et vers le bas. Resserrez-les l'une vers l'autre pendant le tirage, comme si vous pinciez un crayon entre vos omoplates. En faisant cela, tirez la poignée vers vous jusqu'à ce qu'elle arrive juste au-dessus de votre nombril.
+  Marquez ici une pause un instant avant de relâcher la poignée, en continuant de serrer les omoplates. Une fois que vous avez ramené le poids à la pile, laissez les omoplates se détendre sans tirer le torse vers l'avant.
+  Répétez le mouvement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4539'

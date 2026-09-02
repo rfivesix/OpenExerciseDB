@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1490'
+language: fr
+status: human
+name: Kickback triceps allongé
+description: |-
+  Réglez le banc à un angle de 60 degrés. Tenez-vous immobile et reposez le haut du corps sur le banc incliné, en veillant à maintenir tout votre corps presque en ligne droite. Serrez les omoplates l'une vers l'autre, de sorte que vos coudes se trouvent derrière le tronc et que vos bras soient presque parallèles au sol. Levez les haltères jusqu'à ce que vos bras forment une ligne droite. Redescendez lentement les haltères à la position initiale. La position initiale correspond à un angle droit entre le bras et l'avant-bras.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4661'

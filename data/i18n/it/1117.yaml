@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1117'
+language: it
+status: human
+name: Rematore seduto al cavo
+description: |-
+  Sedetevi sulla macchina con i piedi ben piantati, un po' più larghi della larghezza delle spalle. Spingete i talloni e stringete i glutei. Afferrate la maniglia del cavo.
+  Sedetevi in alto con una leggera flessione delle ginocchia. Stringete gli addominali e la schiena per mantenere un angolo perpendicolare al pavimento con il busto.
+  Portare le spalle all'indietro e verso il basso. Stringetele tra loro mentre remate, pensando di stringere una matita tra di esse. Mentre lo fate, tirate la maniglia all'indietro verso di voi, arrivando proprio sopra l'ombelico.
+  Fermatevi qui per un momento prima di restituire la maniglia, sempre stringendo le scapole. Una volta riportato il peso sulla pila, lasciate che le scapole si rilassino, senza tirare il busto in avanti.
+  Ripetere il movimento
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2233'

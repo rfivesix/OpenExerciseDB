@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1689'
+language: en
+status: human
+name: Cable Fly Middle Chest
+description: |-
+  Execution
+
+
+  Start position:&nbsp;Arms extended out to your sides (a big “T” shape), feeling a stretch in your chest.
+
+
+  Movement:&nbsp;Bring your hands together in front of your chest in a&nbsp;wide hugging motion.
+
+  Focus on squeezing your chest at the center.
+  Do&nbsp;not lock your elbows&nbsp;or turn it into a press.
+
+
+
+  Return:&nbsp;Slowly open your arms back to the start, maintaining tension on the chest.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daiben
+  source_id: '2808'

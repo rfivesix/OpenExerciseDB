@@ -1,0 +1,13 @@
+{
+  "file": "wger-2026-09-02.json.gz",
+  "sha256": "01829dce280837646b953a00349ddf6580521a3444c7d616807474bd8c54bc90",
+  "fetched_at": "2026-09-02T20:49:12+00:00",
+  "counts": {
+    "license": 5,
+    "language": 30,
+    "exercisecategory": 8,
+    "muscle": 15,
+    "equipment": 12,
+    "exerciseinfo": 871
+  }
+}

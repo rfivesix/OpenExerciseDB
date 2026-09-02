@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '256'
+language: de
+status: human
+name: Frontheben am Kabel
+description: |-
+  Stelle dich mit dem Rücken zum Kabel, halte aber genügend Abstand, dass du es durch die Beine nach oben ziehen kannst. Greife die Stange, strecke die Arme komplett aus und ziehe das Seil hoch, bis sie waagerecht sind. Bringe dann wieder das Gewicht runter.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: Manu, wikipedia
+  source_id: '65'

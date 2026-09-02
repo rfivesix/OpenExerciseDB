@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: en
+status: human
+name: Reverse lunges
+description: |-
+  Starting position:
+  Stand straight, feet hip-width apart.
+  Steps:
+
+  Step backward with one leg so it can bend comfortably to a 90 degree angle.
+  Slowly bend both knees to form 90 degree angles.
+  Return to the starting position.
+  Repeat, alternating legs.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1753'

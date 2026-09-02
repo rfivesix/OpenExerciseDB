@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1314'
+language: es
+status: human
+name: Jumping Jack HD
+description: |-
+  Los saltos de tijera son un ejercicio pliométrico. Los pliométricos son movimientos aeróbicos explosivos que aumentan la velocidad, la rapidez y la potencia y trabajan todo el cuerpo.
+  El salto de tijera se enfoca en el brazo, el hombro, los músculos abdominales, los músculos de la cadera y los flexores de la cadera y también trabaja en los muslos, los tendones de la rodilla y los cuádriceps.
+  Los saltos son beneficiosos para la salud porque combinan el acondicionamiento cardiovascular con el trabajo de fuerza.
+  Dado que los saltos elevan el ritmo cardíaco, también pueden mejorar la condición cardiovascular.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hektkaso
+  source_id: '2281'

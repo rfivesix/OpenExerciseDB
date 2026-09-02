@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '478'
+language: fr
+status: human
+name: Push press
+description: |-
+  Amenez vos haltères sur vos épaules par un mouvement d'épaulé, paumes tournées vers l'intérieur. Inspirez et gainez votre sangle abdominale (image 1). Fléchissez les genoux et utilisez vos jambes pour aider (image 2) à pousser vos haltères au-dessus de la tête. Redescendez-les sous contrôle, à un rythme lent, jusqu'à vos épaules, puis répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4882'

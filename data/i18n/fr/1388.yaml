@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1388'
+language: fr
+status: human
+name: Soulevé de terre roumain sur une jambe
+description: |-
+  Tenez-vous droit et tenez des charges dans les deux mains si vous utilisez du poids.
+  Gainez vos abdominaux et décollez une jambe du sol.
+  Gardez le dos droit, basculez au niveau des hanches en abaissant votre torse vers l'avant, en veillant à ne pas faire pivoter vos hanches.
+  Descendez jusqu'à sentir un étirement dans l'ischio-jambier de votre jambe d'appui, puis revenez en position debout. Répétez des deux côtés.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4579'

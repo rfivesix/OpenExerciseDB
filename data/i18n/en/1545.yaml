@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1545'
+language: en
+status: human
+name: Archer Pull Up
+description: |-
+  An archer pull-up is an advanced bodyweight exercise that strengthens your back and biceps, serving as a progression towards a one-arm pull-up. It gets its name from the "bow-drawing" position your body takes at the top.Here's how to do it:
+
+  Grip: Grasp a pull-up bar with a wider-than-shoulder-width overhand grip.
+  Starting Position: Hang with arms fully extended, engaging your core and keeping your shoulder blades pulled down.
+  The Pull: Pull your body up towards one hand, similar to a regular pull-up. At the same time, extend the other arm out to the side, keeping it as straight as possible. Your chin should come towards the hand that is pulling.
+  Hold &amp; Lower: Briefly hold the top position where one arm is bent and pulling, and the other is extended. Slowly lower yourself back to the starting position with control.
+  Alternate: Repeat the movement, pulling up towards the opposite hand.The key to this exercise is to keep the assisting arm as straight as possible to maximise the load on the working arm. This makes it a challenging but effective exercise for unilateral pulling strength.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Antsy6277
+  source_id: '2494'

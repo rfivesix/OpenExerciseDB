@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '448'
+language: pl
+status: human
+name: Wiosłowanie sztangą Pendelay
+description: |-
+  Ćwiczenie pleców ze sztangą w pozycji wyjściowej w pochyleniu, z plecami równolegle do podłoża. Sztanga leży na podłodze na wysokości klatki piersiowej. Aby wykonać ćwiczenie, chwyć sztangę nachwytem na szerokość barków i pociągnij ją w kierunku klatki piersiowej, nie zmieniając pozycji pochylonej i nie poruszając niczym poza ramionami.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wampir5000
+  source_id: '2826'

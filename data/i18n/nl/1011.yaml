@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: nl
+status: human
+name: Voor nekrekking
+description: |-
+  Beginpositie:
+  Zit of sta met rechte rug.
+  Stappen:
+
+  Mond wijd open.
+  Kantel het hoofd langzaam naar achteren met de mond open. Als u behoefte heeft aan steun, klem dan uw handen achter uw hoofd.
+  Sluit en open heel langzaam uw mond.
+  Aan het einde keert u langzaam terug naar de beginpositie en sluit u de mond.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1900'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1019'
+language: es
+status: human
+name: Plancha de lado derecho
+description: |-
+  Acuéstese sobre su lado correspondiente, con el codo en ángulo recto y el brazo hacia afuera
+  Levante la pelvis del suelo levantando el hombro hacia arriba, manteniendo el antebrazo en el suelo; la cabeza, la pelvis y los pies deben estar en línea recta
+  Mantenga esta posición
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1924'

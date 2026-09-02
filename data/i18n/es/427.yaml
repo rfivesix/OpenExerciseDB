@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '427'
+language: es
+status: human
+name: Crunches negativos
+description: |-
+  Siéntate en el banco declinado y fija las piernas. Cruza los brazos sobre el pecho y eleva el torso con un movimiento de enrollamiento; baja ahora de nuevo sin pausa y con un movimiento lento. No dejes que la cabeza se mueva durante el ejercicio.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4326'

@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: id
+status: human
+name: Pose anak
+description: |-
+  Posisi awal:
+  Mulailah merangkak, lutut, jari kaki, dan tangan menyentuh tanah. Kedua jari kaki besar Anda harus bersentuhan.
+  Langkah:
+
+  Gerakkan lutut Anda sehingga mereka sekitar selebar pinggul.
+  Saat menghembuskan napas, gerakkan panggul ke belakang untuk duduk di atas tumit. Tangan Anda harus tetap menyentuh tanah.
+  Rilekskan tubuh bagian atas Anda, turunkan dahi ke lantai dan biarkan tangan Anda bergerak maju secara alami.
+  Tetap dalam pose ini.
+
+  Tips:
+
+  Untuk meninggalkan pose, berjalan lengan Anda kembali di bawah bahu Anda dan memindahkan tubuh bagian atas Anda ke posisi duduk.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1788'

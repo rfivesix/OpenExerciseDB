@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2504'
+language: en
+status: human
+name: DB Hammer Curls (5kg)
+description: |-
+  Vasco custom single-arm hammer curl for 5kg dumbbell. Targets brachialis for arm thickness. Part of Tuesday Pull day.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '4985'

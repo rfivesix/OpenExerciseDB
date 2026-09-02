@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1451'
+language: de
+status: human
+name: Rumpfrotations-Dehnung
+description: |-
+  Die Rumpfrotations-Dehnung hilft, die Beweglichkeit der Wirbelsäule zu verbessern und Verspannungen im unteren Rücken und in der seitlichen Bauchmuskulatur zu lösen. Sie kann im Stehen oder im Sitzen ausgeführt werden.
+
+  Stehende Variante: Stehe aufrecht mit den Füßen schulterbreit auseinander. Lege die Hände auf die Hüften oder strecke die Arme vor dir aus. Drehe den Oberkörper langsam zu einer Seite und halte die Hüften stabil. Halte die Position für ein paar Sekunden und drehe dich dann zur anderen Seite.
+  Sitzende Variante: Setze dich auf einen Stuhl mit flach auf dem Boden stehenden Füßen. Lege eine Hand an die Außenseite des gegenüberliegenden Oberschenkels und drehe deinen Oberkörper sanft zu dieser Seite. Halte die Dehnung, bevor du die Seite wechselst.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3961'

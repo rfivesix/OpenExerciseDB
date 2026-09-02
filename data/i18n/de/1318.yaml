@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1318'
+language: de
+status: human
+name: High Knee Skips
+description: |-
+  Du kannst diese Übung sowohl als dynamisches Aufwärmen vor dem Training nutzen als auch in dein Cardio-Training einbauen, um Fett zu verbrennen.
+  High Knee Skips sind eine plyometrische Übung. Plyometrie besteht aus explosiven aeroben Bewegungen, die Schnelligkeit, Reaktionsschnelligkeit und Kraft steigern und den ganzen Körper beanspruchen.
+  High Knee Skips trainieren die schrägen Bauchmuskeln, die Beinmuskulatur, die Hüftmuskulatur und die Hüftbeuger und beanspruchen außerdem die Oberschenkel, die Kniesehnen, die vordere Oberschenkelmuskulatur und die Schultern.
+  Sprünge sind gut für deine Gesundheit, weil sie ein Herz-Kreislauf-Training mit Kraftarbeit verbinden. Da Sprünge deine Herzfrequenz erhöhen, können sie auch deine Herz-Kreislauf-Fitness verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3860'

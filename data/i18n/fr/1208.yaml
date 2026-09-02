@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1208'
+language: fr
+status: human
+name: Squat du prisonnier
+description: |-
+  Tenez-vous debout, la poitrine légèrement relevée, les pieds écartés à la largeur des hanches et les orteils pointant droit devant.
+  Amenez vos mains derrière votre tête, les doigts légèrement entrelacés et les coudes pointant sur les côtés. Poussez vos hanches vers l'arrière et fléchissez les genoux, en gardant le haut du corps aussi droit que possible.
+  Poussez vos genoux vers l'extérieur ; ils ne doivent jamais pointer l'un vers l'autre. Si le haut de votre corps se penche légèrement vers l'avant, veillez à ce qu'il ne s'arrondisse pas. Gardez toujours vos coudes au niveau de vos oreilles en contractant les muscles entre vos omoplates. Si vous êtes suffisamment souple, vous pouvez descendre jusqu'à ce que vos fessiers touchent vos mollets.
+  Veillez toutefois à ne pas arrondir votre colonne vertébrale.
+  Avant que cela ne se produise, inversez le mouvement et utilisez vos talons et vos fessiers pour vous propulser vers le haut avec suffisamment d'élan pour que vos pieds décollent brièvement et que vous fassiez un petit saut.
+  Si nécessaire, corrigez la position de vos pieds, de vos bras et du haut de votre corps avant de passer à la répétition suivante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4514'

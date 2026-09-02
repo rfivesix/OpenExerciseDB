@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '245'
+language: es
+status: human
+name: Press Francés con Mancuernas
+description: |-
+  Este ejercicio, también conocido como "rompecráneos" (skullcrushers), es uno de los más efectivos para aislar y añadir masa a los tríceps, con un gran enfoque en la cabeza larga del músculo.
+  Instrucciones
+
+  Posición: Acuéstate en un banco plano. Sostén un par de mancuernas sobre tu pecho con un agarre neutro (palmas enfrentadas) y luego inclina los brazos ligeramente hacia atrás de la vertical. Esta inclinación es clave para mantener una tensión constante sobre el tríceps.
+  Descenso: Manteniendo la parte superior de los brazos completamente inmóvil en ese ángulo, flexiona únicamente los codos para bajar las mancuernas a los costados de tu cabeza hasta sentir un buen estiramiento.
+  Ascenso: Extiende los codos para volver a la posición inicial, enfocándote en contraer con fuerza los tríceps. El único movimiento debe provenir de la articulación del codo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2737'

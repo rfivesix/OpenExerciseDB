@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1081'
+language: fr
+status: human
+name: Dislocations d'épaules
+description: |-
+  Position de départ :
+  Tenez-vous debout, le dos droit, un élastique, une serviette ou un manche à balai dans les mains. Les mains tendues devant le corps et l'élastique tendu entre elles, écartez les mains pour les placer toutes deux à environ 45 degrés du corps, les pouces vers le bas. Si vous utilisez plutôt une serviette ou un manche à balai, saisissez-le en prise pronation.
+  Étapes :
+
+  En gardant les bras tendus, effectuez une rotation au niveau des épaules pour amener vos bras au-dessus de la tête, puis vers le bas en direction des fessiers.
+  Effectuez une rotation des épaules dans le sens inverse : au-dessus de la tête, puis vers l'aine.
+  Répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4473'

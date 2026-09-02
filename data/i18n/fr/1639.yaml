@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1639'
+language: fr
+status: human
+name: Tirage facial avec haltères buste penché
+description: |-
+  Cet exercice consiste à utiliser des haltères pour effectuer un "face pull penché en avant" (bent over face pull), qui cible le haut du dos et les épaules. Le mouvement implique de tirer les poids vers le visage tout en gardant les coudes hauts et en serrant les omoplates l'une contre l'autre.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2746'

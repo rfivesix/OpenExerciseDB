@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1715'
+language: de
+status: human
+name: Außenrotation der Schulter mit Kurzhantel
+description: |-
+  Lege dich auf die Seite und halte eine Kurzhantel in der oben liegenden Hand.
+  Lege den Ellbogen an deine Seite an und halte die Hand vor dir.
+  Rotiere die Schulter, sodass sich die Hand nach oben hebt.
+  Senke die Hand wieder ab.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3756'

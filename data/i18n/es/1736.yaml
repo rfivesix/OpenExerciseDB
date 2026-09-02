@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1736'
+language: es
+status: human
+name: Peso muerto a una pierna con mancuerna
+description: |-
+  Postura inicial:
+  Sostén una mancuerna en la mano opuesta a la pierna que vas a utilizar como soporte. (Si te paras sobre la pierna derecha, sostén la mancuerna con la mano izquierda). Esto ayuda a contrarrestar el peso y activa los músculos estabilizadores.
+  Mantén la espalda recta y el core activado.
+  Mueve ligeramente el peso de tu cuerpo a la pierna de apoyo, con una mínima flexión en la rodilla.
+  El movimiento (la bisagra de cadera):
+  Inicia el movimiento doblando la cadera hacia atrás, no doblando las rodillas. Imagina que empujas un interruptor con los glúteos.
+  Simultáneamente, extiende la pierna libre hacia atrás para mantener el equilibrio. Tu cuerpo debería formar una línea recta desde la cabeza hasta el talón de la pierna extendida.
+  Baja la mancuerna hacia el suelo, manteniendo el brazo extendido. El objetivo es que tu torso quede casi paralelo al suelo, o hasta donde tu flexibilidad te lo permita sin curvar la espalda baja.
+  El regreso:
+  Haz una pausa breve en la parte inferior del movimiento.
+  Empuja el suelo con el talón de la pierna de apoyo y contrae los glúteos para volver a la posición inicial, llevando la pierna trasera de vuelta al lado de la de apoyo.
+  Mantén el control en todo momento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2866'

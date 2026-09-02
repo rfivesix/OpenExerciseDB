@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '513'
+language: es
+status: human
+name: Remo en "T"
+description: |-
+  La ejecución de este ejercicio es muy similar a la del remo inclinado normal, solo que aquí la barra está fija.
+
+  Agarra la barra con un agarre amplio (ligeramente más ancho que los hombros) e inclínate hacia delante. La parte superior del cuerpo no debe quedar totalmente paralela al suelo, sino formar un ligero ángulo. Mantén el pecho hacia fuera durante todo el ejercicio.
+  Tira de la barra con un movimiento rápido hacia el ombligo, sin subirla más.
+  Vuelve lentamente a la posición inicial.
+
+  No balancees el cuerpo y mantén los brazos pegados al cuerpo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: LEBRERO
+  source_id: '2936'

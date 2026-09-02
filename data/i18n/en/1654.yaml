@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1654'
+language: en
+status: human
+name: Machine Lateral Raise
+description: |-
+  The machine lateral raise is an isolation exercise that targets the medial (side) deltoid muscle to build wider, more defined shoulders. The machine's fixed path of motion provides greater stability than dumbbells, making it ideal for beginners or those who want to focus solely on muscle activation.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: roneydya
+  source_id: '2774'

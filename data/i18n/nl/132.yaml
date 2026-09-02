@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '132'
+language: nl
+status: human
+name: Opdruk burpees
+description: |-
+  Startpositie:
+  Sta rechtop, voeten heupbreedte uit elkaar.
+  Stappen:
+
+  Hurk laag en ondersteun jezelf op de vloer met je handen tussen je knieën en voor je voeten, met rechte rug.
+  Houd je handen op de vloer, spring met je benen naar achter in een hoge plank positie.
+  Druk op.
+  Spring met je voeten naar voren om terug te keren in de hurkpositie.
+  Herhaal.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: er0355
+  source_id: '1303'

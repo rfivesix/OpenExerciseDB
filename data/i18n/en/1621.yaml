@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1621'
+language: en
+status: human
+name: Unilateral Cable row
+description: |-
+  Put a vertical seated bench in front of the cable row machine.position it so that you can focus on one side, and then do slow pulls focusing on the lateral muscles and ensuring tention in those muscles when in a stretched position.
+search_terms:
+  - Single-arm cable row
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Rottekongen
+  source_id: '2604'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1290'
+language: es
+status: human
+name: Curl de bíceps con barra en agarre invertido
+description: |-
+  Sujeta la barra con un agarre prono (palmas hacia abajo) aproximadamente al ancho de los hombros. Asegúrate de mantener la espalda recta, los hombros ligeramente hacia atrás y los brazos completamente extendidos.
+  Flexiona la barra hacia arriba en dirección al pecho con un movimiento controlado, manteniendo los codos cerca del cuerpo. El movimiento debe ser fluido, sin balanceos ni uso de impulso.
+  Una vez que la barra esté a la altura del pecho, haz una breve pausa para maximizar la contracción en los bíceps y los antebrazos.
+  Baja lentamente la barra de nuevo a la posición inicial con un movimiento controlado, extendiendo por completo los brazos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3831'

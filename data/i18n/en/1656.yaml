@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1656'
+language: en
+status: human
+name: Cable Chest Press - Decline
+description: |-
+  Single arm chest press done with the cable machine. Use the other arm to brace bodyweight to focus on strength of the press, rather than balancing of the body. Start with the hand as close to the chest as possible, and then press against the cable at a slight decline and aiming towards the center of your chest.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Shiladree
+  source_id: '2777'

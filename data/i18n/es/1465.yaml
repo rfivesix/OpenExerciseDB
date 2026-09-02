@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1465'
+language: es
+status: human
+name: Curl Araña
+description: |-
+  Comience colocando la barra en la parte del banco en la que normalmente se sentaría. Debe asegurarse de alinear la barra correctamente para que no se caiga y esté equilibrada.
+  Muévase a la parte delantera del banco, la parte donde generalmente se encuentran los brazos, y colóquese para recostarse en un ángulo de 45 grados con el estómago y el torso presionados contra la parte delantera del banco.
+  Los pies, y especialmente los dedos de los pies, deben estar bien colocados en el piso. Luego coloque los brazos superiores sobre la almohadilla que se encuentra en la parte interior del banco. La almohadilla superior debe estar ajustada en las axilas.
+  Use sus brazos para agarrar la barra con las palmas hacia arriba, con un poco de ancho de hombro o un poco más cerca. Su agarre para este ejercicio será importante. Sosteniendo las manos juntas, apuntará a la cabeza externa del bíceps, mientras que cuanto más separadas estén las manos, apuntará a la cabeza interna. Puede experimentar haciendo un conjunto de rizos con un agarre más cercano y otro conjunto con un agarre más ancho para asegurarse de golpear ambas cabezas del bíceps.
+  Poco a poco comience a levantar la barra hacia arriba y exhale. Asegúrese de mantener la posición contratada por un segundo y luego apriete los bíceps. Al hacer esto, desea mantener la parte superior de los brazos estacionaria y rizar el peso lo más alto posible.
+  Vuelva a colocar la barra lentamente en la posición inicial y asegúrese de respirar.
+  Haga una breve pausa antes de repetir la cantidad recomendada de repeticiones para su set.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2635'

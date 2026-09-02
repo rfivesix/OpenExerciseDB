@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1969'
+language: es
+status: human
+name: Extensión de tríceps en polea a un brazo
+description: |-
+  La extensión de tríceps en polea a un brazo es un ejercicio de aislamiento unilateral que trabaja el tríceps braquial. Al trabajar un brazo a la vez, ayuda a corregir los desequilibrios de fuerza entre ambos lados y, al mismo tiempo, activa el core para mantener la estabilidad.
+  Posición inicial:
+  Colócate de pie frente a la máquina de poleas con los pies a la anchura de los hombros. Engancha un asa individual a la polea alta. Agarra el asa con una mano en agarre prono (pronado), con el codo flexionado a unos 90° y pegado al cuerpo. Mantén el core firme y la espalda recta.
+  Ejecución:
+  Empuja el asa hacia abajo con un movimiento controlado extendiendo el codo hasta que el brazo quede completamente extendido. Mantén la contracción durante 1 segundo abajo y luego vuelve lentamente a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3589'

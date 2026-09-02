@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '310'
+language: de
+status: human
+name: Rudern KH Auf Schrägbank
+description: |-
+  Lehnen Sie sich mit einem neutralen Griff in eine Schrägbank.
+  Nehmen Sie eine Hantel mit neutralem Griff in jede Hand und beginnen Sie mit geraden Armen. Dies wird Ihre Startposition sein.
+  Ziehen Sie die Schulterblätter zurück und beugen Sie die Ellbogen, um die Hanteln zu Ihnen zu rudern.
+  Halten Sie am oberen Rand der Bewegung an und kehren Sie dann in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '730'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '465'
+language: de
+status: human
+name: KH an Scottmaschine
+description: |-
+  Setze dich vor der Scottmaschine, stelle die Höhe so ein, dass die Achselhöhlen auf die Oberkante liegen. Die Oberarme liegen parallel auf der Fläche und bleiben während der Übung auch so. Ziehe die Hanteln so weit wie möglich hoch und bringe sie ohne Pause wieder runter. Strecke dabei die Arme ganz aus.
+search_terms:
+  - Scott Curls
+  - Preacher Curls
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: cgoob883
+  source_id: '28'

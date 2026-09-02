@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '386'
+language: it
+status: human
+name: Piegamenti a diamante
+description: |-
+  Petto, spalle e tricipiti, avvicinando le mani; al contrario, rispetto ad un classico push-up, con i diamond push up puoi concentrare lo sforzo maggiormente sui tricipiti.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: notdefine
+  source_id: '1237'

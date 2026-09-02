@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1551'
+language: de
+status: human
+name: Liegestütz
+description: |-
+  Der Liegestütz ist eine grundlegende Körpergewichtsübung, die Brust, Arme und Schultern beansprucht und gleichzeitig den Rumpf zur Stabilisierung aktiviert. Sie erfordert keine Ausrüstung und eignet sich hervorragend zum Aufbau der Oberkörperkraft.
+  Anleitung:
+
+  Beginne in einer Liegestützposition mit den Händen etwas weiter als schulterbreit, die Füße zusammen und der Körper in einer geraden Linie von Kopf bis Fersen.
+  Spanne deinen Rumpf an und senke deinen Körper, indem du die Ellbogen beugst und sie nah am Körper hältst oder leicht nach außen abspreizt.
+  Senke dich ab, bis deine Brust fast den Boden berührt, während du eine neutrale Wirbelsäule beibehältst.
+  Drücke dich über die Handflächen in die Ausgangsposition zurück und strecke die Arme vollständig durch.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4393'

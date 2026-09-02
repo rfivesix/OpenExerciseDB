@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1966'
+language: en
+status: human
+name: 1/2 Kneeling Thoracic Rotation
+description: |-
+  Begin in a half kneeling position with the
+  leg away from the wall stabilized against the wall
+  with a ball.
+  With both hands directly in front of
+  you, rotate one arm open attempting to reach
+  the wall behind you.
+  Exhale as you rotate, inhale
+  as you return to neutral and repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: amwang4
+  source_id: '3121'

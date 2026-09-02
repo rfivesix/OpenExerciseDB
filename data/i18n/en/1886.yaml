@@ -1,0 +1,27 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1886'
+language: en
+status: human
+name: Supine Hip Abduction
+description: |-
+  Starting Position:
+  Lie on your back (supine) on a mat, with your legs extended and
+  relaxed. Arms can be placed alongside your body or out to the sides for
+  stability.
+  The Movement:
+  Slightly lift one leg off the floor (keeping it straight or with a
+  slight bend). Move it laterally outward, away from the other leg, as if
+  stepping over a small obstacle.
+  Range of Motion:
+  Move the leg as far as comfortable without lifting your pelvis or
+  rotating your torso, feeling a stretch in the inner thigh and hip.
+  Return: Slowly bring the leg back to the starting position with controlled movement.
+  Goal: Improves lateral hip mobility (abduction) and strengthens the pelvic stabilizer muscles.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '3032'

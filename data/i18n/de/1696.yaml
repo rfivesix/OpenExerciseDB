@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1696'
+language: de
+status: human
+name: Klimmzüge (neutraler Griff)
+description: |-
+  Ausführung
+
+
+  Zugphase (konzentrisch):
+
+  Ziehe deine Ellbogen nach unten und hinten und deine Brust in Richtung der Hände.
+  Halte deine Schultern tief und zurückgezogen (vermeide ein Hochziehen).
+  Konzentriere dich darauf, am oberen Punkt deinen Latissimus und oberen Rücken zusammenzudrücken.
+
+
+
+  Obere Position:
+
+  Dein Kinn sollte die Höhe deiner Hände erreichen oder darüber hinausgehen.
+  Halte kurz inne und spanne deinen Latissimus kräftig an.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4107'

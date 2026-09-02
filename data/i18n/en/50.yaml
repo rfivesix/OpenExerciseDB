@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '50'
+language: en
+status: human
+name: Barbell Triceps Extension
+description: |-
+  Position barbell overhead with narrow overhand grip.
+  Lower forearm behind upper arm with elbows remaining overhead. Extend forearm overhead. Lower and repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sevae
+  source_id: '344'

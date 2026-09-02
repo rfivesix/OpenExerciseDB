@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '992'
+language: el
+status: human
+name: Σπαστά βαθιά καθίσματα δεξιά
+description: |-
+  Σταθείτε με ίσια την πλάτη
+  Κάντε ένα μεγάλο βήμα μπροστά με το αριστερό πόδι
+  Φέρτε τη λεκάνη προς τα κάτω μέχρι να αγγίξετε σχεδόν το πάτωμα με το δεξί γόνατο
+  Φέρτε τη λεκάνη πίσω προς τα πάνω
+  Επαναλάβετε από το βήμα 3.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1665'

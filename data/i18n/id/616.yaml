@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: id
+status: human
+name: Jongkok menyodorkan
+description: |-
+  Posisi awal:
+  Mulailah dengan posisi papan tinggi:punggung, lengan, dan kaki lurus dan tangan selebar bahu.
+  Langkah:
+
+  Lompati kaki Anda ke depan di antara kedua lengan, jaga punggung tetap rata.
+  Menjaga tangan Anda di lantai, melompat kaki Anda kembali ke posisi papan tinggi.
+  Ulangi.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1445'

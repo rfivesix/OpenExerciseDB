@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1246'
+language: es
+status: human
+name: TRX roll out
+description: |-
+  sostener las empuñaduras con las manos, alargar los brazos y mantenerlos paralelos a la altura del pecho. El movimiento que debes realizar es una abertura de los brazos alineados con los hombros mientas inclinas el cuerpo hacia delante. Intenta no realizar una extensión de hombro más allá de los 90º y mantén contraída la musculatura abdominal y los glúteos. Músculos implicados: Transverso, recto abdominal y erectores espinales
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2642'

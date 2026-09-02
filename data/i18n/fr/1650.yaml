@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1650'
+language: fr
+status: human
+name: Flexion Latérale avec haltère
+description: |-
+  Cet exercice consiste à tenir un haltère dans une main et à se pencher sur le côté pour travailler les muscles obliques sur le flanc du corps. Il peut être effectué debout ou assis et est souvent utilisé comme exercice de renforcement du tronc (core strengthening).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2767'

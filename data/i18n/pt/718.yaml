@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: pt
+status: human
+name: Agachamento parede
+description: |-
+  Encoste na parede, de frente com os pés firmes no chão, alinhados na largura dos ombros e afastados da parede cerca de 60 centímetros
+  Deslize pela parede, mantendo as costas pressionada, até que as pernas fiquem em ângulo reto, paralelas ao chão. Os joelhos devem estar diretamente acima dos tornozelos.Dor no quadríceps é normal. Pare se sentir dor nos joelhos ou na rótula do joelho
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1475'

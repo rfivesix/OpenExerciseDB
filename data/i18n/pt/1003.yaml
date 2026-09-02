@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: pt
+status: human
+name: Levantamento terra com Kettlebell
+description: |-
+  Posição inicial:
+  Fique em pé na largura do quadril, com o kettlebell centralizado entre os tornozelos. Suas costas devem estar retas, sua cabeça voltada para a frente.
+  Passos:
+
+  Dobre os quadris e dobre levemente os joelhos para colocar as mãos nas alças do kettlebell. Suas costas devem estar retas enquanto você executa o movimento.
+  Agarre as alças do kettlebell, com as mãos empurrando em direções opostas, como se fosse separar a alça.
+  Enquanto faz contato com seus abdominais e glúteos, fique em pé.
+  Dobre os quadris novamente para trazer o kettlebell de volta para baixo, semelhante ao passo 1.
+  Repita a partir da etapa 3.
+
+  Dicas:
+
+  Certifique-se de realizar os movimentos corretamente, pois fazer o contrário pode causar lesões. Por exemplo, não se agache em vez de dobrar os quadris, não arredonde as costas ao alcançar o kettlebell e não se incline para trás ao se levantar.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1807'

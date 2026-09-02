@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '351'
+language: fr
+status: human
+name: Élévations latérales puis frontales
+description: |-
+  -(1) Effectuez une élévation latérale, en marquant une pause en haut du mouvement (2).
+  -Au lieu de redescendre la charge, ramenez-la devant votre corps de manière à vous retrouver en position haute d'une élévation frontale. Vous le ferez par un mouvement de pec fly, en gardant les bras tendus. (3)
+  -Abaissez maintenant la charge vers vos quadriceps, autrement dit, descendez les haltères comme si vous terminiez une répétition d'élévation frontale. (4)
+  -Inversez le mouvement : effectuez une élévation frontale (5), au sommet du mouvement utilisez un mouvement de reverse fly pour amener les poids en position haute d'une élévation latérale (6), et enfin, abaissez les poids jusqu'à ce que vos paumes touchent quasiment les côtés de vos cuisses (7). CELA CONSTITUE UNE RÉPÉTITION.
+  (1) l  vue de face(2) -l-  VF  (3) l-  vue de côté   (4) l  VC/VF   (5) l-  VC (6) -l-  VF  (7)  l  VF/VC
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4867'

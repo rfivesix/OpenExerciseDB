@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '465'
+language: es
+status: human
+name: Curl en banco Scott
+description: |-
+  Coloca la barra Z sobre los soportes situados delante del banco Scott. Inclínate sobre el banco y agarra la barra Z con las palmas hacia arriba. Siéntate en el asiento del banco Scott de modo que la parte superior de los brazos descanse sobre la almohadilla y el pecho quede apoyado contra ella. Baja el peso hasta que los codos queden extendidos y los brazos rectos. Vuelve a subir los pesos hasta el punto inicial contrayendo los bíceps. Repite.
+search_terms:
+  - Curl predicador
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4339'

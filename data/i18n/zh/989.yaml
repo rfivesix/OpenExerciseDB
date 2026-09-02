@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: zh
+status: human
+name: 右保加利亚分腿蹲
+description: |-
+  在椅子前站直，迈出一大步。将另一只脚的脚背放在椅子上。
+  弯曲前膝，用手臂保持平衡，直到后膝几乎接触地面。
+  撑回起始位置并重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1626'

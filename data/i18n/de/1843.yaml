@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1843'
+language: de
+status: human
+name: Schmetterlingsdehnung
+description: |-
+  Setze dich in eine betende Haltung, wobei die Fußsohlen sanft aneinandergedrückt sind.
+  Ziehe deine Füße mit den Händen langsam nach innen in Richtung deines Schritts. Halte so lange, wie nötig.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4173'

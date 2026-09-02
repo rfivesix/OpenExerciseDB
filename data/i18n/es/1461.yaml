@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1461'
+language: es
+status: human
+name: Press de pecho con mancuernas sin impulso de piernas
+description: |-
+  Prepárate como para un press de pecho con mancuernas normal, pero levanta las piernas estiradas o apóyalas en otro banco para eliminar el impulso de las piernas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3968'

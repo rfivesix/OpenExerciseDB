@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1262'
+language: en
+status: human
+name: Trx Single Arm Bicep Curl
+description: |-
+  Step 1: Stand comfortably and grasp the handles of the suspension system. Step 2: Lean back resting your weight on one arm, keepng the spine neutral. Step 3: Slowly curl to pull your body weight to the up position. Supinate the arm and squeeze as you approach the end position. Step 4: Lower yourself back down and repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cynomops
+  source_id: '2218'

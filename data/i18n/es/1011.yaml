@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: es
+status: human
+name: Estiramiento del cuello frontal
+description: |-
+  Posición inicial:
+  Siéntate o ponte de pie con la espalda recta.
+  Pasos:
+
+  Abre bien la boca.
+  Inclina lentamente la cabeza hacia atrás con la boca abierta. Si sientes que necesitas apoyo, entrelaza las manos detrás de la cabeza.
+  Cierra y abre la boca muy despacio.
+  Al final, vuelve lentamente a la posición inicial y cierra la boca.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3674'

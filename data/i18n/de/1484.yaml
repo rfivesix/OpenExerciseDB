@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1484'
+language: de
+status: human
+name: Omni Cable Crossover
+description: |-
+  Passe die Gewichte je nach
+  Bewegung an. Wenn du von oben nach unten ziehst, erhöhe das Gewicht um 20 % bis 40 %
+  gegenüber der Bewegung von unten nach oben. Das berücksichtigt die Tatsache, dass beim
+  Arbeiten von oben nach unten die obere Brustmuskulatur von Natur aus schwächer ist als
+  die untere Brustmuskulatur. Passe also deinen Gewichtsstapel entsprechend an,
+  um das auszugleichen.
+
+  Positioniere ein Kabel auf einer hohen
+  Einstellung und das andere auf der niedrigsten Einstellung. Nimm eine versetzte
+  Standposition zwischen den Kabeltürmen ein.
+  Bei dem niedrig eingestellten Kabel ziehst du es
+  nach oben und quer über deinen Körper. Das beansprucht effektiv die obere Brust.
+  Bei dem hoch eingestellten Kabel ziehst du es
+  nach unten und quer über deinen Körper. Das beansprucht hauptsächlich die untere Brust.
+
+  Wenn du fertig bist, tausche die
+  Positionen der Kabel. Stelle das zuvor hohe Kabel auf die niedrigste
+  Position und umgekehrt. Wiederhole den Übungsablauf und stelle sicher, dass du
+  beide Brustbereiche effektiv ansprichst.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3995'

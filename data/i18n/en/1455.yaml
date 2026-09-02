@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1455'
+language: en
+status: human
+name: Towel Superman
+description: |-
+  In this exercise, you lie flat on your stomach, hold a
+  towel with your arms extended in front of you, and pull it apart to
+  create tension. Then, you move it forward and back under your stomach.
+  This exercise targets the back and shoulder muscles as well as core
+  stability.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Yderkone
+  source_id: '2421'

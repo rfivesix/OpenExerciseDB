@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1572'
+language: de
+status: human
+name: Bird Dog
+description: |-
+  Der Bird Dog ist eine Übung für die Rumpfstabilität, die Gleichgewicht, Koordination und die Ausrichtung der Wirbelsäule verbessert. Es ist eine gelenkschonende Bewegung, die sich ideal zum Stärken der hinteren Muskelkette und zur Verbesserung der allgemeinen funktionellen Kontrolle eignet.
+
+  Beginne im Vierfüßlerstand mit den Händen unter den Schultern und den Knien unter den Hüften und halte deine Wirbelsäule neutral.
+  Strecke gleichzeitig deinen rechten Arm nach vorn und dein linkes Bein nach hinten und halte die Hüften gerade.
+  Halte bei voller Streckung kurz inne, während du Rumpf und Gesäßmuskulatur anspannst.
+  Kehre in die Ausgangsposition zurück und wiederhole die Bewegung auf der anderen Seite
+search_terms:
+  - Vierfüßlerstand diagonal
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4082'

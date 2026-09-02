@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1834'
+language: en
+status: human
+name: Trap-3 Raise
+description: |-
+  Hinge forwards and bend your knees slightly. Depress and retract the shoulder you will use. Rest the other hand on your knee.
+  Raise your hand about 15 degrees overhead, maintaining the position of your shoulder.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '2969'

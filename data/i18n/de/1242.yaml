@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1242'
+language: de
+status: human
+name: Plantarflexion mit Widerstandsband
+description: |-
+  Die Plantarflexion mit Band ist eine gute Möglichkeit, die Lücke zwischen dem Bewegungsumfang der Plantarflexion und den anstrengenderen Wadenheben unter Belastung zu überbrücken. Das kann helfen, die Wadenmuskulatur zu stärken, die Achillessehne zu belasten und den Bewegungsumfang der Plantarflexion zu verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3794'

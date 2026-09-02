@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1824'
+language: es
+status: human
+name: Tate press con mancuernas
+description: |-
+  Preparación: Túmbate boca arriba con una mancuerna en cada mano. Extiende los brazos rectos hacia arriba sobre el pecho, como si estuvieras en la posición alta de un press de banca con mancuernas.
+  Posición inicial: Coloca las mancuernas de forma que se toquen o estén muy juntas, con un agarre prono (las palmas hacia los pies y los pulgares enfrentados).
+  Descenso: Sin mover los brazos superiores ni los hombros, flexiona los codos y ábrelos hacia los lados. Baja los extremos internos de las mancuernas hacia el centro del pecho.
+  Contacto y pausa: Toca suavemente el pecho con las mancuernas. No apoyes el peso sobre el cuerpo; mantén la tensión constante en el tríceps.
+  Empuje: Extiende los codos con fuerza para devolver las mancuernas a la posición inicial. Concéntrate en "empujar los meñiques hacia el cielo" para maximizar la activación del tríceps.
+
+  https://www.youtube.com/watch?v=IgSjoXbpy1M&amp;t=2
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4198'

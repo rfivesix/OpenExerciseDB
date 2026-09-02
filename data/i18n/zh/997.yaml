@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '997'
+language: zh
+status: human
+name: 四联波比跳
+description: |-
+  起始姿势：站直，双脚分开与臀部同宽。
+  步骤：
+
+  深蹲蹲下，双手放在膝盖之间脚前，支撑在地板上；背部挺直。
+  双手放在地板上，双腿向后跳到高平板支撑的位置。
+  双脚向前跳，回到下蹲位置。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1738'

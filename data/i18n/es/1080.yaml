@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1080'
+language: es
+status: human
+name: Hindu Pushups
+description: |-
+  Ejercicio para fortalecer los hombros y pectorales. Su nombre se debe a que se empieza en la postura de Yoga "Perro boca abajo", pasando a "Cobra" pero sin apoyar las piernas ni torso en el suelo para finalmente acabar con una flexión normal. El ejercicio también se puede realizar hacia atrás (de vuelta a la postura inicial). Como variación, tras hacer la flexión, se puede elevar la cadera para volver a la postura del perro boca abajo
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imobard
+  source_id: '2030'

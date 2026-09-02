@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: nl
+status: human
+name: Geknielde terugtrap
+description: |-
+  Ga op zijn hondjes zitten en plaats één voet tegen iets met weerstand, zoals een kabel.
+  Duw je voet naar achteren, zo ver totdat je been volledig gestrekt is.
+  Houd één seconde vol en keer terug naar de startpositie.
+  Herhaal, en wissel steeds van voet
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1634'

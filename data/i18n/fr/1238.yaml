@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1238'
+language: fr
+status: human
+name: Équilibre de la grenouille
+description: |-
+  Position de départ :
+  Tenez-vous debout, les pieds écartés de la largeur des épaules et les orteils pointés vers l'avant, face à un mur ou à un banc pour vous soutenir si nécessaire.
+  Pliez les genoux en position de squat.
+  Placez vos mains au sol devant vous, écartées de la largeur des épaules, les doigts bien écartés.
+  Assurez-vous que vos coudes sont sous vos épaules et que votre corps forme une ligne droite de la tête aux talons.
+  Phase ascendante :
+  Poussez avec vos pieds et vos mains pour soulever votre corps du sol.
+  Tendez vos jambes et vos bras en gardant votre corps aligné.
+  Contractez votre sangle abdominale et vos fessiers pour maintenir la position.
+  Si nécessaire, posez vos genoux sur le mur ou le banc pour vous aider.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4536'

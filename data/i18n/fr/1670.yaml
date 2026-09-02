@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1670'
+language: fr
+status: human
+name: Balancements de jambe (avant-arrière)
+description: |-
+  Tenez-vous bien droit à côté d'un mur ou d'un support stable. Balancez une jambe vers l'avant et vers l'arrière dans un mouvement contrôlé, en gardant le torse droit et les abdominaux gainés. Alternez les jambes après avoir terminé les répétitions.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4584'

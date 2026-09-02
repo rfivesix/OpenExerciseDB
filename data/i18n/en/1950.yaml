@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1950'
+language: en
+status: human
+name: Foam Roll IT Band
+description: |-
+  Foam Roll IT Band
+  Part of: Limber 11
+  Source: Joe DeFranco
+  Prescription: 10-15 passes
+  Type: soft_tissue
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Pete-E automation
+  source_id: '3101'

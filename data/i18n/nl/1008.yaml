@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: nl
+status: human
+name: Linker nekrekking
+description: |-
+  Beginpositie:
+  Zit of sta met rechte rug.
+  Stappen:
+
+  Kantel uw hoofd naar de zijkant en houd 8 seconden vast om de zijkant van uw nek te strekken.
+  Trek met de dichtstbijzijnde hand boven op uw hoofd zachtjes om verder te strekken. Houd 8 seconden vast.
+  Draai uw kin naar uw schouder. Houd 8 seconden vast.
+  Laat los en keer terug naar de beginpositie.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1863'

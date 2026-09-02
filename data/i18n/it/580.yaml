@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '580'
+language: it
+status: human
+name: Plank su lato sinistro
+description: |-
+  Sdraiati su un fianco, con il gomito inferiore ad angolo retto, con il braccio sporgente
+  Solleva il bacino dal pavimento sollevando la parte inferiore della spalla verso l'alto, mantenendo l'avambraccio sul pavimento; la testa, il bacino e i piedi dovrebbero essere in linea retta
+  Mantieni questa posizione
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '1427'

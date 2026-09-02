@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1910'
+language: fr
+status: human
+name: Superman à genoux
+description: |-
+  Poussez un pied vers l'arrière jusqu'à ce que la jambe soit complètement tendue, en veillant à garder le pied haut et poussé vers l'arrière comme s'il était tiré.
+
+
+  Tendez le bras vers l'avant en veillant à garder l'épaule bien haute.
+
+
+  Exercice unilatéral et maintien statique.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4800'

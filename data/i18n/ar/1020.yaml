@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1020'
+language: ar
+status: human
+name: Pistol squats اليمين
+description: |-
+  قف على ساق واحدة وساقك الأخرى مستقيمة للأمام قليلًا.
+  اثنِ ركبة واحدة ببطء ، وانزل إلى وضع القرفصاء وحافظ على استقامة ظهرك ورجلك الأخرى.
+  ارفع نفسك ببطء من وضع القرفصاء ، مستقيم الركبة المثنية مع إبقاء الساق الأخرى مستقيمة.
+  كرر
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1947'

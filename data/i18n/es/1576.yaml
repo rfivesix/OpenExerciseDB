@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1576'
+language: es
+status: human
+name: Snap Down
+description: |-
+  Comienza de pie con los brazos por encima de la cabeza y empuja los dedos de los pies contra el suelo levantando los talones para hacerte tan alto como puedas. Desde esta posición, realiza un pequeño salto en el que ambos pies se separan ligeramente del suelo. Al aterrizar, flexiona las rodillas y empieza a inclinarte hacia delante desde las caderas para absorber la caída. Vuelve a la posición inicial y repite.
+  Deberías notar cómo trabajan los músculos del tren inferior.
+  Empieza con los brazos y las rodillas completamente estirados. Mantén un equilibrio estable al aterrizar y aguanta brevemente esa posición final; no vayas demasiado rápido para no perder el equilibrio. Mantén el pecho erguido.
+  Para ver un vídeo detallado sobre la mecánica del aterrizaje, haz clic aquí: https://youtu.be/RThUCYRDyZw
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4087'

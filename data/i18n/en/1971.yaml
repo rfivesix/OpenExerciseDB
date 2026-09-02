@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1971'
+language: en
+status: human
+name: Mentzer Pulldown
+description: |-
+  Close grip front facing Pull down, while focusing on Biceps, Increases activation of biceps over the whole range, Avoid activating Lats.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mike Mentzer
+  source_id: '3126'

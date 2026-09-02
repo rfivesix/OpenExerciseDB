@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1602'
+language: es
+status: human
+name: Scaption con mancuernas
+description: |-
+  Posición inicial:
+  Ponte de pie erguido con los pies separados al ancho de los hombros.
+  Sujeta una mancuerna en cada mano con agarre neutro (las palmas se miran entre sí).
+  Mantén una ligera flexión en los codos, los hombros relajados y los omóplatos hacia atrás.
+  Ejecución:
+  Levanta lentamente las mancuernas hacia delante y ligeramente hacia el lado, en un ángulo de unos 30–45° respecto a tu cuerpo (entre una elevación frontal y una elevación lateral).
+  Sube hasta que los brazos queden a la altura de los hombros aproximadamente (no pases por encima de la cabeza).
+  Haz una pausa de un segundo arriba y nota la activación en los hombros y los estabilizadores de la escápula.
+  Baja las mancuernas de forma controlada hasta la posición inicial.
+  Respiración:
+  Inhala mientras bajas las mancuernas.
+  Exhala mientras las subes.
+  Errores comunes:
+  Usar mancuernas demasiado pesadas (lo que provoca movimientos bruscos).
+  Levantar por encima de la altura de los hombros (genera tensión innecesaria en la articulación del hombro).
+  Arquear la zona lumbar en lugar de mantener el movimiento controlado desde los hombros.
+  Objetivo del ejercicio:
+  Activa el trapecio inferior, el serrato anterior y los estabilizadores de la escápula.
+  Ayuda a corregir la postura y a mejorar el equilibrio de los hombros.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4114'

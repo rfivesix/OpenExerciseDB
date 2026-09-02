@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1709'
+language: en
+status: human
+name: Reverse Fly Standing
+description: |-
+  Stand with a good posture holding a cable in each hand opposite the machine
+  Starting with the hands in front of your chest pull the arms out to
+  your side into the shape of a T with the elbows nearly straight
+  Slowly release the arms forward to the start
+  Repeat with the arms moving into the shape of a Y
+  Repeat with the arms in the shape of a W
+  Repeat with the arms in the shape of an L by your side
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '2832'

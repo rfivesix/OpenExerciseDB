@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: tr
+status: human
+name: Dönerek şınav
+description: |-
+  Normal bir şınav yapın:
+
+  1.a Karnınız üzerine uzanın1.b Ellerinizi kulaklarınızın yakınına yerleştirin1.c Sırtı düz tutarak kollar düz olana kadar karnınızı yukarı kaldırmak için kollarınızı kullanın1.d Göğüs neredeyse yere değene kadar kolları bükün, sırtın düz olduğundan emin olun1.e 3. adımdan itibaren tekrarlayın
+
+  Sırt düz, alt el vücudu desteklemek için tamamen uzatılmış ve sadece alt el ve ayak yere değecek şekilde vücudunuzu yana döndürün
+  Her seferinde 2. adımda taraf değiştirerek tekrarlayın
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1566'

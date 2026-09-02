@@ -1,0 +1,34 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1744'
+language: es
+status: human
+name: Elevación lateral en maquina
+description: |-
+  Técnica de Ejecución
+  La elevación lateral en máquina es un ejercicio diseñado para trabajar específicamente el músculo deltoides lateral (hombro medio) con un alto grado de control y seguridad.
+  Pasos de Ejecución:
+  Ajuste la máquina a su altura y posición correcta
+  Siéntese con la espalda apoyada firmemente contra el respaldo
+  Agarre los mangos laterales con un agarre cómodo
+  Mantenga los codos ligeramente flexionados
+  Eleve los brazos lateralmente hasta la altura de los hombros
+  Pause brevemente en la posición superior
+  Baje los brazos de manera controlada a la posición inicial
+  Beneficios
+  Aislamiento preciso del deltoides lateral
+  Menor riesgo de lesiones en comparación con elevaciones libres
+  Control del rango de movimiento
+  Ideal para principiantes y rehabilitación
+  Consejos Importantes
+  Evite balancear o hacer movimientos de impulso
+  Mantenga un movimiento controlado y constante
+  No sobrecargue el peso
+  Respire de manera apropiada: exhale al levantar, inhale al bajar
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2875'

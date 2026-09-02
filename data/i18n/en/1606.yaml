@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1606'
+language: en
+status: human
+name: Arm Raises (T/Y/I)
+description: |-
+  Stand upright with feet hip-width apart, core engaged, and arms relaxed at your sides. From this position, perform three different arm raises to target the shoulders and upper back:
+
+  T Raise: Lift your arms straight out to the sides until they are parallel to the floor, forming a “T” shape.
+  Y Raise: Lift your arms upward at about a 45° angle from your body to form a “Y” shape.
+  I Raise: Raise your arms straight overhead, close together, forming an “I” shape.
+
+  Maintain a neutral spine, avoid arching your lower back, and move slowly with control. Focus on squeezing your shoulder blades together and keeping your shoulders down away from your ears.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: WiNNiE
+  source_id: '2580'

@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: de
+status: human
+name: Ausfallschritte
+description: |-
+  Ausgangsposition:
+  Mit geradem Rücken stehen.
+  Schritte:
+
+  Machen Sie mit dem linken Bein einen großen Schritt nach vorn.
+  Senken Sie Ihr Becken, bis Sie mit dem rechten Knie fast den Boden berühren.
+  Bringen Sie Ihr Becken wieder nach oben.
+  Kehren Sie in die Ausgangsposition zurück, indem Sie einen Schritt zurücktreten.
+  Wiederholen Sie den Vorgang und wechseln Sie dabei jedes Mal die Beine.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1543'

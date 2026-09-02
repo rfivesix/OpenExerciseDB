@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: en
+status: human
+name: Plank
+description: |-
+  Get into a position on the floor supporting your weight on your forearms and toes. Arms are bent and directly below the shoulder.
+  Keep your body straight at all times and hold this position as long as possible. To increase difficulty an arm or leg can be raised while performing this exercise.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '238'

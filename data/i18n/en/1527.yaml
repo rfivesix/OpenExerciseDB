@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1527'
+language: en
+status: human
+name: Pendulum Squat
+description: |-
+  Place your feet in the middle of the plate at about shoulder width. Tense your torso. Keep your neck relaxed.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: schweezer
+  source_id: '2484'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1445'
+language: de
+status: human
+name: Jerk (Stoßen)
+description: |-
+  Olympisches Stoßen
+
+  Halte die Stange vorne auf den Schultern wie beim Push Press
+  Beuge und strecke die Knie, um die Stange nach oben zu drücken, während du dich unter die Stange tauchst
+  Fange die Stange mit gestreckten Armen über dem Kopf in einem Ausfallschritt auf
+  Bringe die Füße parallel, während du die Stange im Lockout hältst
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3954'

@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1963'
+language: en
+status: human
+name: Slow Squat
+description: |-
+  ​A tempo-based squat that uses controlled movement to increase muscle tension and improve lower-body stability.
+
+  ​Lower: Descend slowly for 3 seconds.
+  ​Pause: Hold at the bottom for 1 second.
+  ​Stand: Return to the starting position at a normal pace.
+  Form: Keep your chest up and weight in your heels.
+search_terms:
+  - Tempo Squat
+  - ​3-1-1 Squat
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anon#2
+  source_id: '3118'

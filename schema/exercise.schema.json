@@ -197,6 +197,25 @@
         "imported_at": {
           "type": "string",
           "format": "date"
+        },
+        "source_fields": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Rohwerte aus der Quelle, die im neuen Modell (noch) kein eigenes Feld haben. Sie werden beim Import verlustfrei mitgeschrieben, damit Phase 2 sie ableiten kann, ohne die API erneut zu ziehen - und damit der Build die Kompatibilitaetsspalte category_name befuellen kann, ohne selbst vom Snapshot abzuhaengen. Nach der Ableitung bleiben sie als Beleg stehen und werden nie wieder angefasst.",
+          "properties": {
+            "category": {
+              "type": "string",
+              "description": "wger `category.name`. Vermischt Koerperregion und Trainingsart (SCHEMA.md 1) und wird deshalb nicht uebernommen, sondern nur konserviert. Speist die Kompatibilitaetsspalte category_name."
+            },
+            "equipment": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "uniqueItems": true,
+              "description": "wger `equipment[].name`. Eine flache Menge ohne die Trennung primary_equipment / setup; die Ableitung ist Phase 2."
+            }
+          }
         }
       }
     }

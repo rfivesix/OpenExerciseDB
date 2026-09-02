@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '909'
+language: es
+status: human
+name: Curl Nórdico Inverso
+description: |-
+  Arrodíllate con los tobillos asegurados por un compañero o un objeto fijo. Manteniendo una línea recta desde las rodillas hasta la cabeza, inclínate lentamente hacia atrás, controlando el movimiento con tus cuádriceps. Usa la misma fuerza para volver a la posición inicial. Es una alternativa muy efectiva a la máquina de extensión de piernas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2657'

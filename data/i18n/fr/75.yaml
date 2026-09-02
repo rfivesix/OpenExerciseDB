@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '75'
+language: fr
+status: human
+name: Développé couché avec haltères
+description: |-
+  Le mouvement est très similaire au développé couché avec une barre, mais le poids est ramené plus bas sur la poitrine.
+  Tenez deux haltères et allongez-vous sur un banc. Tenez les haltères près de la poitrine et poussez-les vers le haut jusqu'à ce que les bras soient tendus. Laissez retomber les haltères lentement et de manière contrôlée.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Garion
+  source_id: '2350'

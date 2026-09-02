@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '614'
+language: de
+status: human
+name: Tiefe Hocksprünge
+description: |-
+  5 Sekunden parallel zum Boden mit den Oberschenkeln. Dann hoch springen und in Anfangsphase begeben. Arme verschränkt hinter dem Kopf die ganze Zeit.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: OGhTebfCxhexZXuf35mUxV9C--A
+  source_id: '296'

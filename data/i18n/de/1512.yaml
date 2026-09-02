@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1512'
+language: de
+status: human
+name: Drop Curl
+description: |-
+  Drop Curls in einer abgewandelten Position und in langsamem Tempo aktivieren effektiv den Brachialis für die Armbreite.
+  Die Ausgangsposition ist mit beiden Armen in einem leichten Winkel zueinander auf Brusthöhe, mit einer Kurzhantel in jeder Hand. Senke eine Kurzhantel während der ersten Hälfte des Curls langsam und kontrolliert bis nahe an die vollständig gestreckte Armposition ab, curle sie dann wieder zurück in die Ausgangsposition, während die andere Kurzhantel in ihrer Ausgangsposition bleibt. Senke nun die andere Kurzhantel ab. So bleibt die Spannung auf dem Brachialis. Sobald wir auf dem Weg nach unten die 90-Grad-Marke passieren, übernimmt der Bizeps die Arbeit.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4023'

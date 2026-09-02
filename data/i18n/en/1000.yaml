@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: en
+status: human
+name: Floor dips
+description: |-
+  Starting position:
+  Sit with your arms behind you, supporting your back.Your fingers should point forward.Your knees should be bent, feet together.
+  Steps:
+
+  Raise your hips off the ground, straightening your arms.
+  Bend your elbows, bringing your hips down.
+  Straighten your arms, returning to the previous position.
+  Repeat steps 2 and 3.
+
+  Notes:
+  The exercise's difficulty depends on how high you bring your hips.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1767'

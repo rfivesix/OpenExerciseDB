@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1484'
+language: es
+status: human
+name: Cruce de poleas omni
+description: |-
+  Ajusta los pesos según el
+  movimiento. Al tirar de arriba hacia abajo, aumenta el peso entre un 20 % y un 40 %
+  más que en el movimiento de abajo hacia arriba. Esto compensa el hecho de que, al
+  trabajar de arriba hacia abajo, los músculos de la parte alta del pecho son por naturaleza más débiles que
+  los de la parte baja del pecho. Así que ajusta tu placa de pesos para
+  compensarlo.
+
+  Coloca una polea en una posición
+  alta y la otra en la posición más baja. Adopta una postura escalonada
+  entre las torres de poleas.
+  Con la polea colocada abajo, tira de ella
+  hacia arriba y cruzando tu cuerpo. Esto trabaja eficazmente la parte alta del pecho.
+  Con la polea colocada arriba, tira de ella
+  hacia abajo y cruzando tu cuerpo. Esto activa principalmente la parte baja del pecho.
+
+  Cuando termines, intercambia las
+  posiciones de las poleas. Cambia la polea que antes estaba arriba a la posición más baja
+  y viceversa. Repite la secuencia del ejercicio, asegurándote de
+  trabajar eficazmente ambas zonas del pecho.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3996'

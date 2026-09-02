@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1695'
+language: en
+status: human
+name: Pull-Ups (Wide Grip)
+description: |-
+  Execution
+
+
+  Pulling phase (concentric):
+
+  Drive your&nbsp;elbows down and slightly back, pulling your chest&nbsp;toward the bar.
+  Focus on leading with your&nbsp;chest, not your chin.
+  Keep your&nbsp;shoulders depressed&nbsp;(avoid shrugging).
+
+
+
+  Top position:
+
+  Chin should clear the bar (or at least reach bar level).
+  Pause for a brief&nbsp;squeeze in your lats.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daiben
+  source_id: '2814'

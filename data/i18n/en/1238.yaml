@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1238'
+language: en
+status: human
+name: Frog stand
+description: |-
+  Starting position:
+  Stand with your feet shoulder-width apart and your toes pointing forward, facing a wall or bench for support if needed.
+  Bend your knees into a squat position.
+  Place your hands on the ground in front of you, shoulder-width apart, with your fingers spread wide.
+  Make sure your elbows are under your shoulders and your body forms a straight line from your head to your heels.
+  Upward phase:
+  Push with your feet and hands to lift your body off the ground.
+  Straighten your legs and arms, keeping your body aligned.
+  Engage your core and glutes to maintain the position.
+  If needed, rest your knees on the wall or bench for assistance.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2200'

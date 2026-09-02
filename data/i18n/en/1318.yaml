@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1318'
+language: en
+status: human
+name: High Knee Skips HD
+description: |-
+  You can use this exercise both as a dynamic warm-up before training and add it to your cardio training routine to burn fat.
+  High knee skips are a plyometric exercise. Plyometrics are explosive aerobic moves that increase speed, quickness, and power and they work your whole body.
+  High knee skips target the oblique, leg muscles, hip muscles and hip flexors and also work on the thighs, knee tendons, quadriceps and shoulders.
+  Jumps are beneficial to your health because they combine cardiovascular conditioning with strength work. Since jumps elevate your heart rate, they can also improve your cardiovascular fitness.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hektkaso
+  source_id: '2288'

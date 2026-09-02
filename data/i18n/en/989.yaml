@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: en
+status: human
+name: Bulgarian split squats right
+description: |-
+  Stand tall in front of a chair and take a large step. Put the upper part of one of your feet on the chair.
+  Bend the front knee, balancing with arms until the back knee almost touches the ground.
+  Push back to the starting position and repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1616'

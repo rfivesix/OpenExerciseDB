@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: de
+status: human
+name: Bodensenken
+description: |-
+  Ausgangsposition:
+  Setzen Sie sich mit den Armen hinter den Rücken und stützen Sie ihn ab.Die Finger sollten nach vorne zeigen.Die Knie sind gebeugt, die Füße stehen zusammen.
+  Die Schritte:
+
+  Heben Sie die Hüfte vom Boden ab und strecken Sie die Arme aus.
+  Beugen Sie die Ellbogen und bringen Sie die Hüfte nach unten.
+  Strecken Sie die Arme durch und kehren Sie in die vorherige Position zurück.
+  Wiederholen Sie die Schritte 2 und 3.
+
+  Anmerkungen:
+  Der Schwierigkeitsgrad der Übung hängt davon ab, wie hoch Sie Ihre Hüften bringen.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1766'

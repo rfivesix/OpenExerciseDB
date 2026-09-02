@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1545'
+language: de
+status: human
+name: Archer-Klimmzug
+description: |-
+  Der Archer-Klimmzug ist eine fortgeschrittene Körpergewichtsübung, die deinen Rücken und Bizeps kräftigt und als Vorstufe zum einarmigen Klimmzug dient. Seinen Namen verdankt er der „bogenspannenden" Position, die dein Körper oben einnimmt. So führst du ihn aus:
+
+  Griff: Greife eine Klimmzugstange mit einem Obergriff, der breiter als schulterbreit ist.
+  Startposition: Hänge mit vollständig gestreckten Armen, spanne deine Rumpfmuskulatur an und halte deine Schulterblätter nach unten gezogen.
+  Der Zug: Ziehe deinen Körper zu einer Hand hoch, ähnlich wie bei einem normalen Klimmzug. Strecke gleichzeitig den anderen Arm zur Seite aus und halte ihn so gerade wie möglich. Dein Kinn sollte sich zur ziehenden Hand bewegen.
+  Halten &amp; Absenken: Halte kurz die obere Position, in der ein Arm gebeugt ist und zieht und der andere gestreckt ist. Senke dich langsam und kontrolliert zurück in die Startposition.
+  Wechseln: Wiederhole die Bewegung und ziehe dich zur gegenüberliegenden Hand hoch. Der Schlüssel zu dieser Übung ist, den unterstützenden Arm so gerade wie möglich zu halten, um die Last auf dem arbeitenden Arm zu maximieren. Das macht sie zu einer anspruchsvollen, aber effektiven Übung für die einseitige Zugkraft.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4068'

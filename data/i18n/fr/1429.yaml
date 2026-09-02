@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1429'
+language: fr
+status: human
+name: Rotations d'épaule avec haltère
+description: |-
+  Les rotations d'épaule avec haltère sont conçues pour renforcer les muscles de la coiffe des rotateurs et améliorer la stabilité et la mobilité de l'épaule.
+
+  Rotation externe : Tenez un haltère dans une main, le coude fléchi à 90 degrés et proche du corps. Faites pivoter votre avant-bras vers l'extérieur, à l'opposé du corps, en gardant le coude immobile. Revenez lentement à la position de départ.
+  Rotation interne : Tenez un haltère dans une main, le coude fléchi à 90 degrés et proche du corps. Faites pivoter votre avant-bras vers l'intérieur, vers le corps, puis revenez lentement à la position de départ. Réalisez l'exercice avec des mouvements contrôlés pour éviter toute tension.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4624'

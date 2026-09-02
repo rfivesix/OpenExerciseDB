@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1702'
+language: es
+status: human
+name: Jalón al pecho con agarre ancho
+description: |-
+  Posición inicial
+  Sentado, los muslos bajo las partes acolchadas, la barra agarrada en pronación, las manos más separadas que el ancho de los hombros. Mantén los codos apuntados hacia afuera y la espalda recta.
+  Ejecución
+  Tira de la barra hasta llegar a la barbilla. Mantén la contracción por un momento antes de volver lentamente a la posición inicial. Durante el movimiento, no dejes que tus codos se adelanten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mariano_O
+  source_id: '2822'

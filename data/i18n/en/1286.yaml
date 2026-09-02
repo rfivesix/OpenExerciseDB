@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1286'
+language: en
+status: human
+name: Dynamic Planche
+description: |-
+  Start in a plank position, with your hands directly under your shoulders and your feet hip-width apart.
+  Engage your core to keep your body in a straight line from head to toe.
+  From this position, bend your knees slightly and jump with both feet inward, bringing them as close to your core as possible
+  As soon as your feet touch the ground, push off forcefully to jump again and return to the starting plank position.
+  Continue repeating this jumping motion, maintaining control and core stability throughout the exercise.
+  Make sure to keep your breathing steady while jumping, breathing deeply and controlling your breathing.
+  Keep your gaze fixed on the ground to maintain proper spinal alignment.
+  Repeat the jumps for the desired length of time or the number of repetitions recommended for your workout program.
+  To finish the exercise, rest by releasing the plank position, then stretch if necessary to loosen your muscles.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: painDpice
+  source_id: '2253'

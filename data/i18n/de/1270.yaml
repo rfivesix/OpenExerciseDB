@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1270'
+language: de
+status: human
+name: Kabel-Fly am unteren Kabelzug
+description: |-
+  Stelle die Kabelmaschine ein: Setze den Kabelzug auf die niedrigstmögliche Position.
+  Wähle deine Griffe: Du kannst Griffe mit neutralem Griff (Handflächen zueinander) oder gerade Griffe verwenden, je nach Vorliebe. Ein neutraler Griff ist möglicherweise schonender für deine Handgelenke.
+  Stelle dich in der richtigen Haltung hin: Stelle dich mit schulterbreit aufgestellten Füßen hin, die Knie leicht gebeugt und die Rumpfmuskulatur angespannt. Halte während der gesamten Übung eine leichte Wölbung im unteren Rücken.
+  Greife die Griffe: Greife die Griffe mit deinem gewählten Griff und gehe ein bis zwei kleine Schritte zurück, bis eine leichte Spannung auf den Kabeln liegt.
+  Leite die Bewegung ein: Halte deine Ellbogen während der gesamten Übung leicht gebeugt. Stelle dir vor, du würdest jemanden fest umarmen. Spanne deine Brustmuskeln an, während du deine Hände vor deiner Brust zusammenführst.
+  Kontrolliere die Bewegung: Konzentriere dich darauf, deine Brustmuskeln anzuspannen, statt mit deinen Armen die Griffe zu ziehen.
+  Maximale Kontraktion: Halte die Anspannung kurz am oberen Punkt der Bewegung, mit deinen Händen zusammen auf Brusthöhe.
+  Kehre langsam zurück: Löse langsam die Spannung und führe die Griffe wieder nach unten in die Ausgangsposition, mit leicht gestreckten, aber nicht durchgedrückten Armen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3814'

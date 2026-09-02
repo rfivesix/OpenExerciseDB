@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '820'
+language: es
+status: human
+name: Suspensión en regleta de 20 mm
+description: |-
+  Realiza una suspensión de 10 segundos en una regleta de 20 mm de la tabla de multipresas. Para hacerlo correctamente, mantén los hombros activos y lejos de las orejas, contrayendo la musculatura de la espalda para proteger las articulaciones. Conserva siempre una ligera flexión en los codos y activa el core para evitar que el cuerpo se balancee.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2552'

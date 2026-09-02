@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1736'
+language: de
+status: human
+name: Einbeiniges Kreuzheben mit Kurzhantel
+description: |-
+  Ausgangsposition: Stelle dich aufrecht mit leicht gebeugten Knien hin und halte eine Kurzhantel in einer oder beiden Händen. Verlagere dein Gewicht auf dein Standbein (z. B. dein rechtes Bein) und hebe deinen anderen Fuß leicht vom Boden ab.
+  Die Hüftbeuge: Halte deinen Rücken flach und deinen Rumpf angespannt und beuge dich aus der Hüfte, indem du dein Gesäß nach hinten schiebst. Während sich dein Oberkörper senkt, streckst du dein freies Bein gerade nach hinten aus, um das Gleichgewicht zu halten, und hältst dabei deine Hüften parallel zum Boden. Die Kurzhantel(n) sollte(n) entlang deines Standbeins zum Boden hin absinken.
+  Bewegungsumfang: Senke deinen Oberkörper weiter ab, bis er nahezu parallel zum Boden ist oder du eine intensive Dehnung in der hinteren Oberschenkelmuskulatur deines Standbeins spürst, und achte darauf, dass dein Rücken während der gesamten Bewegung neutral bleibt.
+  Rückkehr zur Ausgangsposition: Halte am tiefsten Punkt kurz inne, spanne dann deine Gesäß- und hintere Oberschenkelmuskulatur an, um deinen Oberkörper langsam wieder in die Ausgangsposition anzuheben. Dein freies Bein sollte wieder auf eine Linie mit dem Standbein zurückkehren.
+  Seite wechseln: Nachdem du die gewünschte Anzahl an Wiederholungen auf einer Seite absolviert hast, verlagere dein Gewicht und wiederhole die Bewegung mit dem anderen Bein.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4165'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '257'
+language: en
+status: human
+name: Front Squats
+description: |-
+  This variation of the squat trains the hamstrings and gluteus maximus. It also works the back extensors and abductors.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: sistab2
+  source_id: '191'

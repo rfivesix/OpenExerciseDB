@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1604'
+language: en
+status: human
+name: Sliding Lateral Lunge
+description: |-
+  Stand upright with your feet hip-width apart, holding a kettlebell close to your chest in goblet position. Place one foot on a slider, gliding disc, or towel. Keep your chest tall and core engaged. Slowly slide the foot outward to the side while bending the opposite knee, lowering your hips into a lateral lunge. Keep the working leg’s knee aligned with the toes and avoid letting it collapse inward. The non-working leg remains straight and slides smoothly along the floor. Push through the heel of the bent leg to return to the starting position while maintaining control of the kettlebell.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: RiccaBaro
+  source_id: '2576'

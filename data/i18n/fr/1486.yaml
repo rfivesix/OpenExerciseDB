@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1486'
+language: fr
+status: human
+name: Tirage à la poulie haute en alternance
+description: |-
+  Commencez par placer l'accessoire en position haute sur la machine à câbles et reculez d'environ 1 m par rapport à l'accessoire. Saisissez la poignée de la poulie dans la main gauche, environ à hauteur de la tête, le coude légèrement fléchi. Reculez le pied gauche.
+  Tirez le coude vers le tronc en effectuant une légère rotation et réalisez un tirage à un bras. Engagez le grand dorsal pendant la rotation.
+  Revenez à la position de départ avec la poulie et le pied gauche, puis saisissez la poignée de la poulie dans la main droite. Répétez ce mouvement du côté opposé, le pied droit reculé.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4658'

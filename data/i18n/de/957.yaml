@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '957'
+language: de
+status: human
+name: Arm- und Beinheben im Vierfüßlerstand
+description: |-
+  Bei dieser Übung werden die Rückenmuskulatur sowie die Muskeln der Beinrückseite und der Armrückseite aktiviert, indem du im Vierfüßlerstand gleichzeitig den diagonal gegenüberliegenden Arm und das Bein anhebst. Sie verbessert außerdem das Gleichgewicht und die Propriozeption. Die Bewegung wird symmetrisch ausgeführt.
+
+  Begib dich in den Vierfüßlerstand.2. Ziehe den Bauch ein und hebe dann dein rechtes Bein und deinen linken Arm an.3. Halte den Bauch 8 Sekunden lang eingezogen.4. Senke nach 8 Sekunden langsam deinen Arm und dein Bein.5. Entspanne anschließend deine Muskeln.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3617'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1960'
+language: de
+status: human
+name: Hüftbeuger-Dehnung mit erhöhtem hinterem Fuß
+description: |-
+  Hüftbeuger-Dehnung mit erhöhtem hinterem Fuß
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 5-10 Wiederholungen pro Seite
+  Art: dynamisch
+  Umfasst eine dynamische Bewegung plus 3s Halten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4385'

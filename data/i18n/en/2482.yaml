@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2482'
+language: en
+status: human
+name: Bobbing Exhale Drill
+description: |-
+  Stand in chest-deep water. Take a breath, submerge your face fully, and exhale slowly and completely through your nose and/or mouth the whole time you're underwater — a gentle humming sound can help keep the exhale steady and controlled. Once you're empty of air, lift your head, take a fresh breath, and go back under. Repeat continuously. The goal is training your body that all your exhaling happens underwater, so all you need to do at the surface is inhale.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imported from swim plan
+  source_id: '4959'

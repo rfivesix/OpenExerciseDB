@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: nl
+status: human
+name: Onderarmplanken
+description: |-
+  Startpositie:
+
+  Ga op z'n hondjes zitten.Buig je armen en zet je schouders gelijk met je ellebogen.Je rug en de rest van je lichaam moeten gestrekt zijn.
+
+  Stappen:
+
+  Houd deze positie vast.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1405'

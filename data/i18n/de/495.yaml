@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '495'
+language: de
+status: human
+name: Reverse Curls
+description: |-
+  Bewegungablauf ist wie bei normalen Langhantel Curls für den Bizeps, nur die Handstellung ist reverse, also die Handflächen zeigen nach hinten.
+  Halte die Hantel mit etwa schulterbreitem Griff, die Arme sind ausgestreckt. Beuge die Arme und brige die Hantel mit einer schnellen Bewegung nach oben. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.
+  Während des Bewegungablaufs sollte der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '815'

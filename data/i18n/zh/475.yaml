@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '475'
+language: zh
+status: human
+name: 引体向上
+description: |-
+  起始姿势：先悬挂在单杠上，手掌朝前，双脚离地。双手比肩稍宽。不要太宽，肘部不要在身体两边，要在身体前面。身体应为伸直，略微向前的状态。手臂应处于伸展状态。
+  步骤：
+
+  用力均匀地拉起你的身体，使胸部靠近单杠，下巴刚好超过横杆。不要跃起或晃起身体，比如踢腿。
+  小心地把身体放下来，回到起始位置。
+  重复进行。
+
+  提示：——引体向上要想做得正确，您必须先增强几个关键部位的力量，包括肩膀、手臂和腹肌。您应该通过其他练习积累了足够的力量后，再开始做引体向上。
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '1398'

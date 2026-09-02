@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1729'
+language: de
+status: human
+name: Außenrotation der Schulter am Kabelzug
+description: |-
+  Halte den Ellbogen an deiner Seite fixiert und rotiere den Unterarm gleichmäßig nach außen.
+  Lass dein Handgelenk oder deinen Ellbogen nicht nach oben wandern – bleibe in einer Ebene.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4146'

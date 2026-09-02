@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '607'
+language: it
+status: human
+name: Crunch Bicicletta
+description: |-
+  Sdraiarsi a terra in posizione supina e con le ginocchia piegate a 90 gradi all'altezza dei fianchi e le mani intrecciate dietro la testa.
+  Espirare e arrotondare la colonna vertebrale, sollevando la testa e le spalle dal pavimento.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: djblitzd
+  source_id: '1186'

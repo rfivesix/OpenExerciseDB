@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1612'
+language: de
+status: human
+name: Sumo-Kreuzheben mit Kettlebell
+description: |-
+  Stelle deine Füße weiter als schulterbreit auseinander und zeige mit den Zehen nach außen.
+  Halte deinen Rücken gerade, die Schultern zurück und den Brustkorb aufgerichtet.
+  Die Knie müssen in dieselbe Richtung wie die Zehen zeigen und dürfen sich nicht nach vorn bewegen.
+  Beim Hochkommen ist es ratsam, deine Gesäßmuskulatur anzuspannen, um die Wirksamkeit der Übung zu maximieren.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4129'

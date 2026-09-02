@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '629'
+language: de
+status: human
+name: Lat-Zug am Seil
+description: |-
+  Sie stehen mit leicht gegrätschten Beinen vor dem Gerät und umfassen die Stange in Schulterbreite von oben, die Arme sind getreckt.
+  beim Einatmen die Stange bis zu den Oberschenkeln führen, wobei die Arme gesteckt bleiben (die Ellbogen können ganz leicht gebeugt sein)
+  Dabei halten Sie den Rücken gerade und spannen die Bauchmuskeln an.
+  Am Ende der Bewegung ausatmen
+search_terms:
+  - Lat ziehen am Seil
+  - Lat Pulldown am Seil
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '226'

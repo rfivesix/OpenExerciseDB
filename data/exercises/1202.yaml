@@ -1,0 +1,24 @@
+# data/exercises/<id>.yaml — sprachneutrale Fakten.
+# Enthaelt KEINEN uebersetzbaren Text; der liegt unter data/i18n/<lang>/<id>.yaml.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Ab hier ist die Datei von Hand pflegbar — der Importer laeuft nicht erneut.
+# Die Klassifikationsfelder (modality, tracking_type, primary_equipment, ...)
+# fehlen absichtlich: wger liefert sie nicht, und geraten waere schlimmer als
+# leer. Siehe SCHEMA.md 6 und 11.
+id: '1202'
+slug: side-lying-hip-abduction
+status: active
+provenance:
+  id: {source: wger}
+  slug: {source: derived, at: '2026-09-02'}
+upstream:
+  source: wger
+  source_id: '1202'
+  license: CC-BY-SA-4.0
+  license_author: wakanda90
+  imported_at: '2026-09-02'
+  source_fields:
+    category: Legs
+    equipment:
+      - none (bodyweight exercise)

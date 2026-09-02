@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1734'
+language: de
+status: human
+name: Einbeiniger Ausfallschritt mit Kettlebell
+description: |-
+  So führst du einen einbeinigen Ausfallschritt mit Kettlebell aus
+  Vorbereitung: Stelle dich mit geschlossenen Füßen hin. Halte die Kettlebell mit beiden Händen am Griff dicht an deiner Brust oder halte sie mit einer Hand (auf der gleichen Seite wie das arbeitende Bein).
+  Schritt und Absenken: Mache mit einem Bein einen großen Schritt nach vorne (oder nach hinten, was schonender für deine Knie ist) und senke deine Hüften ab, bis beide Knie einen 90-Grad-Winkel bilden.
+  Fokus: Verlagere dein Gewicht auf dein vorderes (oder gebeugtes) Bein, halte deinen Rücken gerade und deinen Oberkörper aufrecht.
+  Rückkehr: Drücke dich mit deinem vorderen Bein ab, um in die Ausgangsposition zurückzukehren.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4151'

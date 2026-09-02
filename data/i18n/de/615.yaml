@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '615'
+language: de
+status: human
+name: Kniebeuge
+description: |-
+  Stelle die Halterung der Langhantel auf so eine Höhe ein, dass du sie bequem raus- und wieder reinbringen kannst. Bereite dich vor:
+
+  die Stange ist etwas tiefer als Schulterhöhe
+  die Füße sind ziemlich auseinander und zeigen leicht nach außen
+  der Kopf ist im Nacken und schaut nach vorne/oben.
+  die Brust wird nach außen gebracht
+
+  Gehe nun langsam runter, bis der Oberschenkel einen rechten Winkel bildet, nicht tiefer. Die Knie zeigen leicht nach außen, dein Gesäß nach hinten. Mache eine kleine Pause und gehe mit so viel Energie wie du aufbringen kannst, wieder nach oben. Nach 2 Sekunden Pause gehe wieder runter.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '7'

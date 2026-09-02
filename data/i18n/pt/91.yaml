@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '91'
+language: pt
+status: human
+name: Rosca direta com barra reta
+description: |-
+  Segure a barra na largura dos ombros, pois as costas estão retas, os ombros ligamente para trás e os braços estão armazenados. Dobre os braços, levantando o peso, com um movimento rápido. Sem fazer uma pausa, baixar a barra com um movimento lento e controlado.
+  Não dê seu corpo equilibrar durante o exercício, todo o trabalho é feito pelos bíceps, que são os humanos múltiplos que devem se mover (preste atenção aos cotovelos).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: roneydya
+  source_id: '2888'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '235'
+language: es
+status: human
+name: Patadas de Aleteo
+description: |-
+  Este ejercicio se enfoca en la resistencia de los abdominales inferiores y los flexores de la cadera. Aunque a veces se confunde con las "tijeras" (que son movimientos más amplios), el aleteo consiste en patadas cortas y rápidas.
+  Instrucciones:
+  Acuéstate boca arriba, con las piernas estiradas. Puedes colocar las manos debajo de los glúteos para dar soporte a la espalda baja.
+  Levanta las piernas rectas del suelo unos 15 cm. Desde esa posición, realiza patadas verticales, cortas y rápidas de forma alterna, como el aleteo de un nadador. Es fundamental mantener la espalda baja presionada contra el suelo en todo momento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2710'

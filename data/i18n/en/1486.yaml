@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1486'
+language: en
+status: human
+name: Alternating High Cable Row
+description: |-
+  Start
+  by putting the attachment in a high position on the cable station and step back about 1m from the attachment. Grab
+  the cable pulley handle in your left hand at about head height with your elbow&nbsp;slightly bent. Step back with your left foot.
+  Pull
+  your elbow joint in toward the torso twisting slightly and perform a
+  single-arm row. Engage the lats as you twist.
+  Return
+  to the starting position with cable pulley and left foot and grab the cable pulley handle in the right
+  hand. Repeat this motion on the opposite side with your right foot stepped back.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2449'

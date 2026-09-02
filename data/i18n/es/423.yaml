@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '423'
+language: es
+status: human
+name: Muscle-up
+description: |-
+  A continuación, el cuerpo se impulsa de forma explosiva con los brazos en una dominada potente, con mayor velocidad que una dominada normal. Cuando la barra se acerca a la parte alta del pecho, las muñecas se flexionan rápidamente para llevar los antebrazos por encima de la barra. El cuerpo se inclina hacia delante y los codos se estiran activando el tríceps. El movimiento se considera completo cuando la barra queda a la altura de la cintura y los brazos están totalmente estirados.
+  Para bajar, se flexionan los brazos por el codo y el cuerpo desciende hacia el suelo, y el ejercicio puede repetirse.
+  Al ser un ejercicio relativamente avanzado, los muscle-ups suelen aprenderse primero con un impulso de piernas (kip) de ayuda. Las piernas se balancean (kip) hacia arriba y aportan impulso para ayudar a generar la fuerza explosiva hacia arriba necesaria para ascender por encima de la barra. Los atletas más avanzados pueden realizar una variante estricta del muscle-up, que se hace lentamente y sin ningún impulso de piernas. Esta variante empieza desde una suspensión muerta e inmóvil y emplea la contracción muscular isométrica para ascender por encima de la barra de forma lenta y controlada.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3622'

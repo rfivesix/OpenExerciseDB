@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1001'
+language: de
+status: human
+name: Hohe Planke
+description: |-
+  Ausgangsposition:
+  Nehmen Sie die hohe Planke ein:Ihre Hände und Zehen sollten den Boden berühren, Ihr Rücken, Ihre Arme und Beine sollten gerade sein.Um in diese Position zu gelangen, können Sie sich auf den Bauch legen, die Hände mit dem Gesicht nach unten neben den Kopf legen und die Arme anheben, bis sie gerade sind.
+  Die Schritte:
+
+  Behalten Sie die Ausgangsposition während der gesamten Dauer der Übung bei.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1778'

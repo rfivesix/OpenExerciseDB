@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '623'
+language: fr
+status: human
+name: Enrouleur de poignet debout
+description: |-
+  Saisissez un enrouleur de poignet à deux mains, debout, les pieds écartés à environ la largeur des épaules. Si votre salle ne dispose pas d'un enrouleur de poignet, vous pouvez facilement en fabriquer un. Il vous suffit d'un disque de 2 à 5 kg, d'une corde fine et solide d'environ 1 mètre de long, et d'un bâton ou d'une barre de 15 à 20 cm. Fixez solidement la corde au milieu de la barre ou du bâton, puis attachez l'autre extrémité de la corde au disque. Pour commencer cet exercice, saisissez la barre ou le bâton à deux mains en prise pronation. Tendez les deux bras droit devant vous, parallèlement au sol. Enroulez ensuite le poids depuis le sol en faisant tourner rapidement la barre ou le bâton avec les mains et les poignets. Une fois que le poids atteint le sommet, abaissez lentement le disque jusqu'au sol en inversant le mouvement des mains et des poignets. Répétez (si vous le pouvez !).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4468'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '628'
+language: de
+status: human
+name: Lat-Ziehen Mit Gesteckten Armen Mit (Stange)
+description: |-
+  Verwenden Sie den Aufsatz für die gerade Stange. Fassen Sie die beiden Enden der Stange mit den Handflächen nach unten und den Armen gerade vor Ihnen. Ziehen Sie Ihre Hände nach unten in Richtung Ihrer Hüften, während Sie Ihre Arme gerade halten, und heben Sie sie dann wieder in die Ausgangsposition.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '734'

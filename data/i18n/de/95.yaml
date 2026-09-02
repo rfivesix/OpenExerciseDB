@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '95'
+language: de
+status: human
+name: Bizeps am Kabel
+description: |-
+  Stelle dich gerade etwa 30 - 40 cm. vor dem Kabel hin, die Füße sind fest auf dem Boden. Nehme die Stange in die Hände und hebe das Gewicht mit einer schnellen Bewegung. Lassie die Stange wie bei den KH Curls kontrolliert wieder runter.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '3'

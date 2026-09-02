@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1668'
+language: en
+status: human
+name: One Arm Overhead Cable Tricep Extension
+description: |-
+  Set the pulley at the bottom of the cable machine and grab onto it without using any attachments. Extend the cable directly overhead.
+  While keeping your back straight and upper arm stationary, lower the cable behind your head until you feel a good stretch in your triceps, and then extend it back upward until your elbow is locked out.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2787'

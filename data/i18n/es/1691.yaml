@@ -1,0 +1,35 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1691'
+language: es
+status: human
+name: Aperturas en polea para el pecho inferior
+description: |-
+  Ejecución
+
+
+  Posición inicial:
+
+  Los brazos extendidos hacia los lados formando una „Y".
+  Siente un estiramiento en el pecho (ligera flexión en los codos — no los bloquees).
+
+
+
+  Movimiento:
+
+  Lleva las manos hacia abajo y hacia el centro delante de tu pecho inferior o abdomen superior, con un movimiento de arco suave.
+  Contrae el pecho con fuerza abajo durante 1–2 segundos.
+
+
+
+  Vuelta:
+
+  Sube lentamente los brazos de nuevo por la misma trayectoria hasta que sientas un buen estiramiento en el pecho.
+  Mantén el control — no dejes que los pesos te tiren hacia atrás demasiado rápido.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4030'

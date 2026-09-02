@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '804'
+language: es
+status: human
+name: Suspensión en Romos
+description: |-
+  Este es un ejercicio avanzado específico de escalada, diseñado para fortalecer el agarre de mano abierta y la tensión corporal en presas redondeadas o inclinadas que no tienen un borde definido.
+  Para realizarlo, cuélgate de los agarres romos (slopers) de una tabla de multipresas. La técnica es crucial: mantén los hombros activos (lejos de las orejas) y los codos ligeramente flexionados para proteger las articulaciones. A diferencia de otros agarres, en los romos es vital usar la mano lo más abierta posible para maximizar la superficie de contacto y la fricción. Contrae el core para mantener el cuerpo estable y sostén la posición durante los segundos indicados en tu rutina.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2562'

@@ -1,0 +1,32 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1672'
+language: en
+status: human
+name: Seated Hip Abduction
+description: |-
+  Starting Position:
+
+  Adjust the seat height so that your knees are aligned with the pivot point of the machine.
+  Sit with your back flat against the backrest, maintaining good posture.
+  Place the outside of your thighs against the machine's padded levers.
+  Position your feet flat on the footrests or platform of the machine.
+  Grasp the handles or sides of the seat for stability.
+  Ensure your spine is neutral and your core is slightly engaged.
+
+  Movement:
+
+  Exhale as you slowly push your legs outward against the resistance pads.
+  Focus on initiating the movement from your hips, not your knees.
+  Continue opening your legs until you feel a strong contraction in your outer hips and thighs.
+  Hold the fully abducted position briefly (1-2 seconds) to maximize muscle engagement.
+  Inhale as you slowly control the return of your legs to the starting position, resisting the weight throughout the movement.
+  Avoid allowing the weight stack to touch down between repetitions to maintain constant tension on the muscles.
+  Repeat for the desired number of repetitions, maintaining control throughout the set.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Iko
+  source_id: '2795'

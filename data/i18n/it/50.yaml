@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '50'
+language: it
+status: human
+name: Estensione dei Tricipiti con Bilanciere
+description: |-
+  Posizionare il bilanciere in alto con una presa stretta.
+  Abbassare l'avambraccio dietro il braccio superiore mantenendo i gomiti in alto. Estendere l'avambraccio sopra la testa. Abbassare e ripetere.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2232'

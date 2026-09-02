@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1425'
+language: es
+status: human
+name: Toques de pie alternados
+description: |-
+  Los toques de pie son un ejercicio enfocado en el core que se realiza acostado de espaldas. Acuéstate con los brazos a los lados y las piernas elevadas en posición de mesa (rodillas dobladas a 90 grados). Baja lentamente un pie para tocar el suelo suavemente, manteniendo el core activado y la espalda baja presionada contra el suelo. Regresa a la posición inicial y alterna las piernas. Este ejercicio fortalece el core mientras reduce la tensión en la parte baja de la espalda.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2390'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '137'
+language: de
+status: human
+name: Butterfly Eng
+description: |-
+  Setzte dich auf den Sitz der Butterflymaschine, die Füße sollen dabei guten Kontakt mit dem Boden machen, die Ellenbogen machen etwa einen Rechten Winkel, die Oberarme sind waagerecht zum Boden. Drücke nun die Gewichte zusammen, wobei die Griffe sich nicht berühren sollen. Gehe nun wieder zurück, das Trainingsgewicht darf dabei nicht abgelegt werden.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '52'

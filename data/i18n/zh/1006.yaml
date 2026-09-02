@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1006'
+language: zh
+status: human
+name: 收下巴运动
+description: |-
+  起始姿势：坐位或站位，背部挺直。
+  步骤：
+
+  将手指放在下巴上，慢慢将下巴收起；头部向后移，与脊柱对齐。
+  保持5秒钟。
+  头部回到正常位置，重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1844'

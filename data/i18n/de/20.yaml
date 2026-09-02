@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '20'
+language: de
+status: human
+name: Arnold Press
+description: |-
+  Zwei Kurzhanteln mit den Handflächen nach innen vor der Brust halten, Ellbogen unterhalb der Handgelenke.
+  Ellbogen nach außen bringen und Hanteln über den Kopf heben. Drehung kommt aus dem Ellbogen, nicht aus den Armen!
+  Wenn die Arme durchgestreckt sind, die gleiche Bewegung rückwärts ausführen.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: trzr23
+  source_id: '228'

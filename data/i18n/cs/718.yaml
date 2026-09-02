@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: cs
+status: human
+name: Sed u stěny
+description: |-
+  Opřete se o zeď, směřující dopředu a s nohama pevně zasazenými na zemi, šířka ramen od sebe a asi 2 nohy od zdi
+  Posuňte dolů po stěně a držte záda přitlačenou k ní, dokud nohy nejsou v pravém úhlu. Kolena by měla být přímo nad kotníkyQuadricep bolest je normální, zastavte se, pokud máte pocit bolesti v koleni nebo kolenním kloubu
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1469'

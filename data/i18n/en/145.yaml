@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '145'
+language: en
+status: human
+name: Cable Woodchoppers
+description: |-
+  Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. &nbsp;Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: robhoyt
+  source_id: '167'

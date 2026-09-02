@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '615'
+language: pl
+status: human
+name: Przysiad
+description: |-
+  Umieść sztangę na stojaku tuż poniżej wysokości ramion. Zanurz się pod sztangą, aby umieścić ją za karkiem, na górnej części pleców, i chwyć sztangę dłońmi rozstawionymi szerzej niż na szerokość ramion. Unieś klatkę piersiową i ściśnij łopatki, aby utrzymać proste plecy przez cały ruch. Wstań, aby zdjąć sztangę ze stojaka i zrób krok do tyłu, a następnie rozstaw stopy nieco szerzej niż na szerokość ramion. Usiądź prosto w biodrach i utrzymuj proste plecy, a klatkę piersiową uniesioną, przysiadając tak, aby biodra znalazły się poniżej kolan. Od dołu przysiadu dociśnij stopy do podłoża i wypchnij biodra do przodu, aby powrócić do pozycji stojącej.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wampir5000
+  source_id: '2585'

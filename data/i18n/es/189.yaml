@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '189'
+language: es
+status: human
+name: Peso Muerto con Déficit
+description: |-
+  Esta es una variante avanzada del peso muerto que se realiza de pie sobre un disco o plataforma para aumentar el rango de movimiento. Su principal objetivo es desarrollar más fuerza en el despegue inicial del suelo (la parte más baja del levantamiento).
+  Instrucciones:
+  Párate sobre un disco o una plataforma baja y estable (generalmente de 2 a 5 cm de altura) con la barra sobre tus pies. Con la espalda completamente recta, baja y sujeta la barra con tu agarre habitual (prono o mixto).
+  La ejecución es la misma que la de un peso muerto convencional: mantén la barra pegada a tu cuerpo, el pecho erguido y empuja con las piernas para extender la cadera y las rodillas simultáneamente. Regresa de forma controlada a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2709'

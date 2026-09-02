@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '331'
+language: es
+status: human
+name: Kettlebell Swings
+description: |-
+  Sujeta la kettlebell con firmeza con ambas manos. Mantén la espalda recta durante todo el movimiento, evitando cualquier redondeo de la columna. Manteniendo las rodillas "sueltas", lleva la cadera hacia atrás, dejando que la kettlebell oscile entre tus rodillas.
+  Debes flexionarte desde la cadera todo lo que puedas sin dejar que la espalda se redondee hacia delante. Luego, impulsa la cadera rápidamente hacia delante y ponte de pie erguido, fijando el cuerpo en una postura vertical.
+  La velocidad con la que hagas esto hará que tus brazos y la kettlebell oscilen hacia arriba frente a ti. No intentes levantar la kettlebell con los brazos. El impulso de la cadera hacia delante hará que la kettlebell oscile hacia delante por el momentum. Según el peso de la kettlebell y la velocidad del movimiento de tu cadera, tus brazos oscilarán hasta aproximadamente la altura de los hombros. En la parte alta de este balanceo, deja que la cadera vuelva a flexionarse hacia atrás mientras la kettlebell baja de nuevo entre tus piernas y al inicio de la siguiente repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4325'

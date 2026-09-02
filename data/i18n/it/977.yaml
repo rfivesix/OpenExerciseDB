@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '977'
+language: it
+status: human
+name: Squat box
+description: |-
+  Preparare il box: Posizionate il box dietro di voi, a circa un metro e mezzo da un rack per lo squat se utilizzate un bilanciere. Scegliete un'altezza che vi consenta di accovacciarvi e di battere delicatamente i glutei sul box con la schiena dritta.
+  In piedi, con una forma corretta: State in piedi con i piedi alla larghezza delle spalle e le punte dei piedi leggermente rivolte verso l'esterno. Impegnate il core e mantenete la schiena neutra. Se si utilizza un bilanciere, posizionarlo all'altezza delle spalle.
+  Abbassarsi: Sedetevi come se doveste sedervi su una sedia, piegando le ginocchia e abbassando i fianchi verso il box. Mantenete il core teso e la schiena dritta durante tutto il movimento.
+  Discesa controllata: Scendere in modo controllato finché i glutei non toccano delicatamente il box. Non buttatevi a terra.
+  Pausa e rialzo: Fate una breve pausa sul fondo con la schiena dritta e il core impegnato. Quindi, premere sui talloni per risalire alla posizione di partenza.
+
+  Migliora la coordinazione, l'equilibrio e la resistenza, tonifica i muscoli delle gambe e dei glutei e aumenta la densità ossea eliminando il rischio di osteoporosi.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '1289'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '908'
+language: es
+status: human
+name: Carrera en Zona 2
+description: |-
+  La carrera en Zona 2 es un entrenamiento cardiovascular de baja intensidad, fundamental para construir una sólida base de resistencia (endurance). Se caracteriza por mantener un ritmo que se sienta relativamente fácil y que puedas sostener por un largo periodo.
+  La forma más sencilla de saber si estás en esta zona es la "prueba del habla": debes ser capaz de mantener una conversación completa y fluida sin tener que jadear para tomar aire. Técnicamente, este ritmo corresponde a un esfuerzo de entre el 60% y el 70% de tu frecuencia cardíaca máxima, lo que optimiza la capacidad del cuerpo para usar la grasa como fuente de energía.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2555'

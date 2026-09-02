@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1879'
+language: de
+status: human
+name: Y-Raise mit Kurzhanteln auf der Schrägbank
+description: |-
+  Stelle
+  eine Schrägbank auf einen 45-Grad-Winkel ein und setze dich mit dem Gesicht
+  zur Bank, die Brust gegen das Polster, mit einer Kurzhantel in jeder Hand, die Handflächen einander zugewandt.
+  Stelle deine Füße fest auf den Boden, um Stabilität zu haben, und lass deine Arme natürlich nach unten hängen, mit einer leichten Beugung in den Ellenbogen.
+  Spanne deinen Rumpf an und halte deinen Rücken während der gesamten Bewegung gerade.
+  Hebe deine Arme nach vorne und außen an, sodass sie eine Y-Form bilden, und halte die Bewegung kontrolliert sowie die Ellenbogen leicht gebeugt.
+  Hebe an, bis deine Arme etwa parallel zum Boden und auf einer Linie mit deinen Ohren sind.
+  Halte
+  am obersten Punkt der Bewegung kurz inne, um deine Schultermuskulatur
+  vollständig zu aktivieren, und senke dann deine Arme langsam in die Ausgangsposition zurück.
+  Achte darauf,
+  dass die Bewegung sowohl beim Anheben als auch beim Absenken langsam und kontrolliert ist,
+  um die Beanspruchung des Deltamuskels und der unterstützenden Muskulatur zu maximieren.
+  Wiederhole für die gewünschte Anzahl an Wiederholungen und behalte dabei stets die korrekte Form bei.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4224'

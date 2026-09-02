@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1290'
+language: en
+status: human
+name: Reverse Grip Barbell Curls
+description: |-
+  Hold the barbell with an overhand grip (palms facing down) approximately shoulder-width apart. Ensure your back is straight, shoulders slightly pulled back, and arms fully extended.
+  Curl the barbell upwards towards your chest in a controlled motion, keeping your elbows close to your body. The motion should be smooth without any swinging or momentum use.
+  Once the barbell is at chest level, pause briefly to maximize contraction in the biceps and forearms.
+  Slowly lower the barbell back to the starting position with a controlled movement, fully extending your arms.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sTiKyt
+  source_id: '2257'

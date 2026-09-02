@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: ar
+status: human
+name: دفعات القرفصاء
+description: |-
+  وضع البداية:
+  ابدأ في وضع اللوح الخشبي المرتفع:الظهر والذراعين والساقين مستقيمين واليدين متباعدتين بعرض الكتفين.
+  الخطوات:
+
+  اقفز قدميك للأمام بين ذراعيك ، مع الحفاظ على ظهرك مسطحًا.
+  إبقاء يديك على الأرض ، واقفز رجليك إلى الوراء في وضع اللوح الخشبي العالي.
+  كرر.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1452'

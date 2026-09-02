@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1476'
+language: es
+status: human
+name: Abdominal mariposa
+description: |-
+  En
+  este ejercicio de rango medio, los músculos de los brazos te proporcionan un poco de
+  impulso para ayudarte a despegar del suelo. También los abres en posición por encima de la cabeza,
+  lo que activa la parte alta de la espalda. Empieza
+  tumbado con los pies apoyados en el suelo, las rodillas en ángulo y los brazos cruzados sobre el pecho. Usando
+  los músculos abdominales, despega el tronco del suelo mientras abres los brazos
+  en posición de portería, y luego baja lentamente para volver a la
+  posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3981'

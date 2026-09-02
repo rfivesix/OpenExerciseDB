@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1242'
+language: fr
+status: human
+name: Flexion plantaire avec élastique
+description: |-
+  La flexion plantaire avec élastique est un excellent moyen de faire le lien entre l'amplitude de mouvement en flexion plantaire et les extensions des mollets plus exigeantes en charge. Cela permet de renforcer les muscles du mollet, de solliciter le tendon d'Achille et d'améliorer l'amplitude de mouvement en flexion plantaire.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4540'

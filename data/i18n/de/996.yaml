@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: de
+status: human
+name: Bergsteiger
+description: |-
+  Ausgangsposition:
+  Beginnen Sie in der aufrechten Liegestützposition, auch bekannt als die hohe Plank-Position.Die Hände sollten sich direkt unter den Schultern befinden.Halten Sie Ihren Kopf in einer Linie mit dem Rücken und schauen Sie zum Boden.Die Füße sollten etwa hüftbreit auseinander stehen.
+  Die Schritte:
+
+  Bewegen Sie ein Knie in Richtung Körpermitte zu den Ellbogen und lassen Sie das andere Bein gestreckt.
+  In einer schnellen, hüpfenden Bewegung strecken Sie das gebeugte Bein aus und ziehen das andere Knie zum Körper.
+  Wiederholen Sie Schritt 2 im Wechsel mit dem anderen Bein.
+
+  Anmerkungen:
+  Während der gesamten Übung sollte Ihr Rücken so gerade wie möglich bleiben - vermeiden Sie einen Buckel oder einen durchhängenden Rücken.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1714'

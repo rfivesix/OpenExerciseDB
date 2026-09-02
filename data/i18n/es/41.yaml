@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '41'
+language: es
+status: human
+name: Rollout Abdominal con Barra
+description: |-
+  Cómo realizarlo:
+
+  Preparación: Carga una barra con discos redondos (de 5 o 10 kg es suficiente para que ruede bien). Arrodíllate en el suelo, preferiblemente sobre una colchoneta. Agarra la barra con las palmas hacia abajo (agarre prono) y las manos separadas al ancho de los hombros.
+  El Despliegue (Rollout): Manteniendo el abdomen y los glúteos fuertemente contraídos, rueda la barra hacia adelante de manera lenta y controlada. Extiende tu cuerpo en una línea lo más recta posible, llegando tan lejos como puedas sin que tu espalda baja se arquee.
+  El Regreso: Haz una breve pausa en el punto de máxima extensión. Luego, usa la fuerza de tus abdominales para jalar la barra hacia ti, revirtiendo el movimiento hasta volver a la posición inicial de forma controlada.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2568'

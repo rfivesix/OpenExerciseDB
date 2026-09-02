@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2530'
+language: en
+status: human
+name: Russian Push Ups
+description: |-
+  Russian Push-Ups
+  Start in a standard push-up position with your hands slightly wider than shoulder-width apart. Lower your chest toward the floor, then shift your body forward while keeping your chest close to the ground. Extend your arms to return to the starting position, then reverse the movement smoothly. Keep your core tight and maintain controlled movement throughout the exercise.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ege
+  source_id: '4999'

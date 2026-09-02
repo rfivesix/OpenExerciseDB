@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1964'
+language: en
+status: human
+name: Wide Push-Up
+description: |-
+  ​A push-up variation with a wider hand placement to increase the emphasis on the outer chest muscles and shoulders.
+
+  ​Setup: Place hands wider than shoulder-width apart on the floor.
+  Lower: Descend until your chest nearly touches the floor, keeping your core tight.
+  ​Push: Drive through your palms to return to the start position.
+  ​Form: Don't let your lower back sag; keep a straight line from head to heels.
+search_terms:
+  - Wide Grip Push-Up
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anon#2
+  source_id: '3119'

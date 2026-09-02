@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '590'
+language: es
+status: human
+name: Elevación de talón sentados
+description: |-
+  Siéntese&nbsp; en&nbsp; la&nbsp; máquina&nbsp; y&nbsp; coloque&nbsp; las&nbsp; rodillas&nbsp; y&nbsp; los&nbsp; muslos&nbsp; debajo&nbsp; de&nbsp; las&nbsp; almohadillas.
+  Coloque&nbsp; las&nbsp; puntas&nbsp; de&nbsp; los&nbsp; pies&nbsp; en&nbsp; el&nbsp; borde&nbsp; más&nbsp; cercano&nbsp; del&nbsp; escalón&nbsp; con&nbsp; los&nbsp; pies&nbsp; &nbsp;paralelos&nbsp; entre&nbsp; sí.
+  Apunte&nbsp; ligeramente&nbsp; &nbsp;con&nbsp; los&nbsp; dedos&nbsp; de&nbsp; los&nbsp; pies&nbsp; para&nbsp; levantar&nbsp; las&nbsp; almohadillas&nbsp; de&nbsp; los&nbsp; muslos&nbsp; y&nbsp; quitar&nbsp; la&nbsp; barra&nbsp; &nbsp;de&nbsp; apoyo.
+  Permita&nbsp; que&nbsp; sus&nbsp; talones&nbsp; &nbsp;bajen&nbsp; más&nbsp; abajo&nbsp; que&nbsp; el&nbsp; escalón&nbsp; hasta&nbsp; que&nbsp; sienta&nbsp; un Movimiento&nbsp; hacia&nbsp; arriba
+  Ponga&nbsp; los&nbsp; dedos&nbsp; de&nbsp; los&nbsp; pies&nbsp; en&nbsp; punta&nbsp; para&nbsp; &nbsp;levantar&nbsp; los&nbsp; talones.
+  No&nbsp; tire&nbsp; de&nbsp; las&nbsp; asas&nbsp; ni&nbsp; incline&nbsp; el&nbsp; torso&nbsp; hacia&nbsp; atrás. Elevación&nbsp; de&nbsp; talón&nbsp; sentado Movimiento&nbsp; descendente estirar. Posición&nbsp; inicial
+  Permita&nbsp; que&nbsp; sus&nbsp; talones&nbsp; vuelvan&nbsp; a&nbsp; caer&nbsp; a&nbsp; la&nbsp; posición&nbsp; inicial.
+  Cuando&nbsp; &nbsp;complete&nbsp; el&nbsp; conjunto,&nbsp; mueva&nbsp; la&nbsp; barra&nbsp; de&nbsp; apoyo&nbsp; a&nbsp; su&nbsp; lugar.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2630'

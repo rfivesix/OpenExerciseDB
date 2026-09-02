@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: it
+status: human
+name: Spinte squat
+description: |-
+  Posizione di partenza:
+  Iniziare in posizione di plank alto:schiena, braccia e gambe dritte e mani alla larghezza delle spalle.
+  Passi:
+
+  Saltare i piedi in avanti tra le braccia, mantenendo la schiena piatta.
+  Tenendo le mani sul pavimento, saltare le gambe indietro in posizione di plank alto.
+  Ripetere.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1448'

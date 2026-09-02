@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '12'
+language: es
+status: human
+name: Aducción de Cadera en Máquina
+description: |-
+  Este es un ejercicio de aislamiento que se realiza en una máquina específica para fortalecer los músculos aductores, es decir, la musculatura de la parte interna de los muslos. Ayuda a mejorar la estabilidad de la cadera y a equilibrar la fuerza de las piernas.
+  Cómo realizarlo:
+
+  Preparación: Siéntate en la máquina con la espalda y la cadera completamente apoyadas en el respaldo. Coloca la parte interna de tus muslos o rodillas contra las almohadillas acolchadas. Ajusta la palanca de la máquina para establecer un rango de movimiento inicial que te resulte cómodo pero que genere un ligero estiramiento.
+  Ejecución: Usando la fuerza de la parte interna de tus muslos, junta las piernas de manera lenta y controlada. Haz una breve pausa en el punto de máxima contracción (cuando las almohadillas casi se tocan), apretando fuertemente los aductores.
+  Regreso: Vuelve a la posición inicial de forma igualmente controlada, resistiendo el peso a medida que tus piernas se separan. Evita que las placas de peso choquen bruscamente.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2565'

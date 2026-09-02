@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '439'
+language: en
+status: human
+name: Overhand Cable Curl
+description: Hands at shoulder height, curl arms in toward head, then back out.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: ThisGirl0819
+  source_id: '197'

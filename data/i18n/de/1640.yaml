@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1640'
+language: de
+status: human
+name: Frontkniebeuge mit Kurzhanteln
+description: |-
+  Bei dieser Übung hältst du in jeder Hand eine Kurzhantel auf Schulterhöhe und führst eine Kniebeuge aus. Sie trainiert die Muskulatur des Unterkörpers, einschließlich der vorderen Oberschenkelmuskulatur (Quadrizeps), der hinteren Oberschenkelmuskulatur und der Gesäßmuskulatur, und beansprucht zugleich den Rumpf und den Oberkörper.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3664'

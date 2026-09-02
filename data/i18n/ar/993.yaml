@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: ar
+status: human
+name: 'القفز على الحبل: القفزات الأساسية'
+description: |-
+  هذا التمرين يتطلب حبل القفز. تأكد من تعديل طول الحبل إلى طولك. طريقة واحدة للتحقق هو الامساك على كل المقابض بيد واحدة والوقوف على منتصف الحبل معلقة على الأرض مع قدم واحدة. إذا كان الحبل (باستثناء المقابض) يصل إلى أسفل صدرك مباشرة ، فإن طوله صحيح. حبل أقصر سيكون خطرا، كما كنت قد ضرب نفسك، وحبل أطول من شأنه أن يجعل الوضع اسوء.
+
+  ضع قدميك قريبة من بعضها البعض، وثني الركبتين قليلا، والحفاظ على رأسك والجسم مستقيم، والحفاظ على المرفقين في، وفتح ذراعيك.
+  تدور فقط المعصمين الخاص بك مع ما يكفي من القوة لجعل الحبل يدور.
+  القفز عاليا بما يكفي لتمرير الحبل تحت قدميك.
+  كرر من الخطوة 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1682'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: zh
+status: human
+name: 抬腿
+description: |-
+  起始姿势：仰卧，双脚并拢，双臂放在身体两侧。
+  步骤：
+
+  弯曲膝盖，再向上伸直，使双腿直立。
+  保持双腿伸直，一起放下，不接触地面。双腿越低，运动的强度就越大。
+  两条腿一并抬起，再次竖直立起双腿。
+  从第2步重复。
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1351'

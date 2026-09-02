@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1016'
+language: de
+status: human
+name: Nackenkreise gegen den Uhrzeigersinn
+description: |-
+  Ausgangsposition:
+  Beginnen Sie im Sitzen oder Stehen. Senken Sie den Kopf nach unten und bringen Sie das Kinn zur Brust, aber drücken Sie nicht.
+  Schritte:
+  Führen Sie die Übung in einer langsamen, fließenden Bewegung aus, wobei Ihr Kopf entspannt ist und in keine Richtung drückt:
+
+  Lehnen Sie sich zu Ihrer linken Schulter.
+  Legen Sie dann den Kopf zurück und schauen Sie nach oben.
+  dann lehnen Sie sich zur rechten Schulter
+  und zurück in die Ausgangsposition.
+
+  Wiederholen Sie dies als Teil einer langsamen, fließenden Bewegung.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1914'

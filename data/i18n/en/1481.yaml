@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1481'
+language: en
+status: human
+name: Drag Pushdown
+description: |-
+  Starting
+  position for this rope pushdown is standing facing a cable machine with
+  the handles of a rope attachment in both hands and feet shoulder width
+  apart.
+  Hinge
+  forward slightly at the hips maintaining an upright chest and bring the
+  shoulders and elbows behind the body so that when you push down on the
+  cable attachments, you can get a fully contracted triceps long head.
+  Drag
+  the cable machine rope attachment as close to the body as possible and
+  straighten your elbows until lockout.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2444'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: tr
+status: human
+name: 'İp atlama: temel atlamalar'
+description: |-
+  Bu egzersiz bir atlama ipi gerektirir. İp uzunluğunun boyunuza göre ayarlandığından emin olun. Bunu denetlemenin bir yolu, ipin her iki kulpunu tek elle tutup tek ayakla yerde serili halatın ortasında durmaktır. İp (kulplar hariç) göğsünüzün hemen altına ulaşırsa, uzunluğu doğrudur. Daha kısa bir ip, kendinize çarpabileceğiniz için tehlikeli olacaktır ve daha uzun bir ip kötü bir biçim oluşturacaktır.
+
+  Ayaklarınızı birbirine yaklaştırın, dizlerinizi biraz bükün, başınızı ve vücudunuzu düz tutun, dirseklerinizi içeride tutun, kollarınızı açın.
+  İpin dönmesi için yeterli kuvvetle sadece bileklerinizi döndürün.
+  İpi ayaklarınızın altından geçirecek kadar yükseğe zıplayın.
+
+
+  adımdan itibaren tekrarlayın.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1678'

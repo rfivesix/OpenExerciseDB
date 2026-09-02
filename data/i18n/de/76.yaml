@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '76'
+language: de
+status: human
+name: Bankdrücken Eng
+description: |-
+  Aufbau: Lege dich flach auf die Bank und greife die Stange schulterbreit (enger als beim normalen Bankdrücken).
+  Abwärtsbewegung: Senke die Stange kontrolliert zu deiner unteren Brust.
+  Technik: Halte deine Ellbogen eng am Oberkörper, lass sie nicht nach außen wandern.
+  Aufwärtsbewegung: Drücke die Stange gerade nach oben und spanne oben deinen Trizeps an.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '38'

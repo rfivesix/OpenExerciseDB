@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '371'
+language: de
+status: human
+name: Beinpresse
+description: |-
+  In die Maschine setzten und die Füße auf die Auflage stellen, der Abstand, etwas mehr als schulterbreit. Die Füße sind etwas nach außen gedreht.
+  Das Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Sofort wird das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '6'

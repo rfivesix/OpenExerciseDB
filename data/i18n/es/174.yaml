@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '174'
+language: es
+status: human
+name: Encogimientos con Piernas Elevadas
+description: |-
+  Al tener las piernas en alto, esta variante de crunch concentra el esfuerzo en la parte superior y central del abdomen.
+  Instrucciones:
+  Acuéstate boca arriba y eleva las piernas, manteniéndolas lo más rectas posible y perpendiculares al suelo (apuntando hacia el techo).
+  Extiende los brazos y contrae el abdomen para despegar los hombros y la parte alta de la espalda del suelo, como si intentaras tocarte las puntas de los pies. La zona lumbar debe permanecer en contacto con el piso. Baja de forma controlada.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2701'

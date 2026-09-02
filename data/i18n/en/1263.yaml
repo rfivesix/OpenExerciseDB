@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1263'
+language: en
+status: human
+name: Back bridge
+description: |-
+  Lie on the floor with your back resting on the floor and your legs bent, feet flat on the floor, leaving about 20 cm between your feet and your buttocks. Your hands remain flat on the floor, pressed against your ears, with your fingers pointing toward your toes. Your elbows are bent and pointing toward the ceiling. This is the starting position. Now push your hips as high as you can, raising your body off the floor, and continue pushing through your hands, extending your elbows and knees, until your back is fully arched (lumbar bridge). Your head also comes off the floor and should be level with your elbows, looking back. This is the final position. The descent should be slow and controlled. Your spine should be in a convex curve. It's not good to lift your back off the floor; it should remain straight. It should be well rounded. You'll also notice a feeling of increased oxygenation in your back. After lifting off the floor, your hips should be very high, even above the level of your head. Your arms and legs should remain straight. It seems easy, but it requires a good level of flexibility. Breathing should be deep. This posture stretches the rib cage and puts pressure on the diaphragm. If the posture is performed correctly, breathing will be perfect. Never hold your breath during the exercise.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cynomops
+  source_id: '2220'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '57'
+language: en
+status: human
+name: Bear Walk 2
+description: |-
+  -Rest your weight on your palms and the balls of your feet, not dissimilar to normal pushup position
+  -Move by stepping with your R palm and L foot, then your L palm and R foot.&nbsp; Basically, walk like a lumbering bear.
+  -Move as fast as you can.&nbsp; Measure your reps/sets in either distance (i.e. 40 yards) or time (i.e. 45 seconds)
+  -Works your Pecs, Deltoids, Triceps, Traps, Lats, Abs and Lower Back, Hip Flexors, Quads, Glutes and Calves
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nate303303
+  source_id: '307'

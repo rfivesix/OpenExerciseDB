@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: fr
+status: human
+name: Fentes
+description: |-
+  Tenez-vous debout, le dos droit
+  Faites un grand pas en avant avec votre jambe gauche
+  Descendez votre bassin jusqu'à ce que votre genou droit touche presque le sol.
+  Remontez votre bassin
+  Revenez à la position debout en faisant un pas en arrière
+  Répétez l'opération en changeant de jambe à chaque fois
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1546'

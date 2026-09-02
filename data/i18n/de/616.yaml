@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: de
+status: human
+name: Hocksprung
+description: |-
+  Ausgangsposition:
+  Beginne in der hohen Plank-Position:Rücken, Arme und Beine sind gestreckt, die Hände sind schulterbreit auseinander.
+  Schritte:
+
+  Springe mit den Füßen zwischen den Armen nach vorne und halte den Rücken flach.
+  Lasse die Hände auf dem Boden und springe mit den Beinen zurück in die hohe Plank-Position.
+  Wiederhole die Übung.
+search_terms:
+  - Stützstrecke
+  - Squat Thrusts
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1446'

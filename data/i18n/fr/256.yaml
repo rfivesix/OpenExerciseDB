@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '256'
+language: fr
+status: human
+name: Élévations frontales
+description: |-
+  Pour exécuter l'exercice, le pratiquant se tient debout, les pieds à la largeur des épaules, des poids ou des poignées élastiques tenus le long du corps avec une prise en pronation.
+  Le mouvement consiste à monter les bras devant le corps jusqu'à la hauteur des yeux, en ne conservant qu'une légère flexion du coude. Cela isole le deltoïde antérieur (avant de l'épaule) et utilise le deltoïde antérieur pour soulever la charge.
+  Lors du mouvement, il est important de garder le corps immobile afin que le deltoïde antérieur soit pleinement sollicité ; si la charge ne peut être soulevée en restant immobile, c'est qu'elle est trop lourde et qu'un poids plus léger est nécessaire. Il est important de conserver une légère flexion du coude pendant le mouvement, car garder le coude verrouillé ajoute une contrainte sur l'articulation et pourrait causer une blessure.
+  Une prise neutre, semblable à celle utilisée pour le curl marteau, peut également être employée. Dans cette variante, la charge est de nouveau montée à hauteur des yeux, mais selon un angle de 45 degrés par rapport à l'avant du corps. Cela peut être bénéfique pour les personnes souffrant de blessures à l'épaule, en particulier celles liées à la coiffe des rotateurs.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4856'

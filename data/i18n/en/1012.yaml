@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1012'
+language: en
+status: human
+name: Alternating bicep curls
+description: |-
+  Starting position:
+  Start standing up with dumbbells in each hand, your back straight and feet hip-width apart. Your arms should be relaxed, pointing down. Your knees should be slightly bent, your abs contracted, and your shoulders down.
+  Steps:
+
+  Bend one arm at the elbow, bringing the dumbbell up to your shoulder. Your upper arm should remain motionless during this movement.
+  Bring the dumbbell back down until your arm is in its original relaxed position.
+  Repeat, switching arms.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1907'

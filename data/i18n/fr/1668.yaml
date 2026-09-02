@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1668'
+language: fr
+status: human
+name: Extension Triceps Poulie Basse à Un Bras
+description: |-
+  Réglez la poulie au bas de la machine à câble et saisissez-la **sans utiliser d'accessoire**. **Étendez le câble directement au-dessus de votre tête.
+  Tout en gardant votre dos droit et votre bras supérieur immobile, abaissez le câble derrière votre tête jusqu'à ce que vous sentiez un bon étirement dans vos triceps, puis étendez-le à nouveau vers le haut jusqu'à ce que votre **coude soit verrouillé (ou complètement tendu).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2788'

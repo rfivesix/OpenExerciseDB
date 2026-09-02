@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1620'
+language: fr
+status: human
+name: Élévation des mollets haltères assis
+description: |-
+  L'élévation des mollets avec haltères en position assise est un exercice ciblé pour renforcer les muscles du bas de la jambe. Il suit le même schéma de mouvement que la version avec machine : vous placez le poids sur vos genoux, et en étendant et en fléchissant vos chevilles, vous déplacez le poids.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2603'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1447'
+language: fr
+status: human
+name: Arraché — haltérophilie
+description: |-
+  Arraché d'haltérophilie olympique
+
+  Tirez la barre du sol jusqu'au verrouillage au-dessus de la tête en utilisant une prise large et un squat overhead.
+  Déplacez la barre lentement jusqu'à ce qu'elle passe les genoux, puis tendez explosivement les hanches, tirez la barre vers le haut et plongez-vous sous la barre
+  Réceptionnez la barre au-dessus de la tête, bras tendus
+  Poussez la tête vers l'avant pendant le verrouillage
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4634'

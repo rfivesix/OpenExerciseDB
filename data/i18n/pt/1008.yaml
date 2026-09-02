@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: pt
+status: human
+name: Alongamento de pescoço para esquerda
+description: |-
+  Posição inicial:
+  Sente-se ou fique em pé com as costas retas.
+  Passos:
+
+  Incline a cabeça para o lado e segure por 8 segundos para alongar a lateral do pescoço.
+  Com a mão mais próxima no topo da cabeça, puxe suavemente para alongar ainda mais. Segure por 8 segundos.
+  Vire o queixo para o ombro. Segure por 8 segundos.
+  Solte e retorne à posição inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1864'

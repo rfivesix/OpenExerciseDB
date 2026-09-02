@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: el
+status: human
+name: Κύκλοι χεριών προς τα εμπρός
+description: |-
+  Σταθείτε όρθιοι με την πλάτη σας ίσια.
+  Κρατώντας τα χέρια σας ίσια, φέρτε τα μπροστά σας, μετακινήστε τα προς τα κάτω, πίσω από την πλάτη σας, στη συνέχεια πάνω από το κεφάλι σας και πίσω στην αρχική θέση.
+  Συνεχίστε να κυκλώνετε τα χέρια σας όπως περιγράφεται στο βήμα 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1696'

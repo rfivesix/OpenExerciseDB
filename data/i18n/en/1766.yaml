@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1766'
+language: en
+status: human
+name: Plank Reach
+description: |-
+  Position your body in plank position, keeping your eyes on the ground. Raise one arm in front of you and return it. Repeat with the other arm. Raise and return slowly while keeping your body as still as possible.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2898'

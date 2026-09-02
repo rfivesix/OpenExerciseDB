@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: tr
+status: human
+name: Bacak kaldırmaları
+description: |-
+  Başlangıç durumu:
+  Ayaklar bitişik, kollarınız yan tarafınızda olacak şekilde sırt üstü uzanın.
+  Adımlar:
+
+  Dizlerinizi bükün, ardından yukarı bakacak şekilde düzeltin.
+  Bacaklarınızı düz tutarak, yere değdirmeden birlikte aşağı indirin. Ne kadar aşağı indirirseniz egzersiz o kadar yoğun olur.
+  Tekrar yukarı bakacak şekilde her iki bacağı birlikte kaldırın.
+
+
+  adımdan itibaren tekrarlayın.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1347'

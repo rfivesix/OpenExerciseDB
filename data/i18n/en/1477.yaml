@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1477'
+language: en
+status: human
+name: Seated Corkscrew
+description: |-
+  To
+  do this abs and obliques exercise, start with your hands back behind your body
+  and bring your knees in and across, really trying to contract the obliques.
+  Then extend your legs back out to starting position and repeat toward the
+  opposite side of the abs.
+  Beginners
+  might find that they can’t even get through the first 45 seconds of this
+  challenging reverse crunches variation.&nbsp; That’s ok because it gives you a
+  place to start and something to improve upon.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2440'

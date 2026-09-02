@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '723'
+language: fr
+status: human
+name: Tirage vertical en prise large
+description: |-
+  Position de départ :
+
+  Les bras tendus au-dessus de la tête, en ressentant un étirement dans le grand dorsal.
+  Gardez les épaules basses (ne haussez pas les épaules vers le haut).
+
+
+
+  Phase de tirage (concentrique) :
+
+  Tirez la barre vers le haut de la poitrine ou la zone des clavicules en poussant les coudes vers le bas et l'arrière.
+  Gardez la poitrine relevée et rapprochez vos omoplates en bas du mouvement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4824'

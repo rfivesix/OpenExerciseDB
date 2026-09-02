@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1201'
+language: fr
+status: human
+name: Squat du dragon
+description: |-
+  Commencez debout, les pieds écartés à la largeur des hanches. Croisez votre pied droit derrière vous vers le coin arrière gauche de la pièce tout en fléchissant les deux genoux. Revenez et répétez en alternant les côtés. Gardez vos hanches et vos épaules orientées vers l'avant pendant que vous croisez les pieds et fléchissez les genoux.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4509'

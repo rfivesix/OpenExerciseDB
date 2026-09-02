@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1082'
+language: es
+status: human
+name: Remo inclinado con rotación externa
+description: |-
+  Posición inicial:
+  Ponte de pie detrás de una silla o delante de una mesa. Flexiónate por la cintura para apoyar la frente en el respaldo de la silla o en la mesa, manteniendo la espalda recta. Tus brazos deben colgar rectos hacia abajo, apuntando al suelo.
+  Pasos:
+
+  Sube los codos hasta la altura de los hombros. Tus antebrazos deben apuntar hacia abajo, perpendiculares a tus bíceps. Tus brazos deben estar a la misma altura que la espalda y perpendiculares a la columna.
+  Mantén un momento.
+  Rota en los codos para subir las manos lo más alto que puedas.
+  Mantén un momento.
+  Rota en los codos de vuelta a la posición anterior.
+  Baja los brazos a la posición original.
+  Repite.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3653'

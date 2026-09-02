@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '57'
+language: es
+status: human
+name: Caminata del Oso
+description: |-
+  Instrucciones:
+
+  Posición Inicial: Colócate en cuatro apoyos (manos y pies) con las manos directamente debajo de los hombros y las rodillas debajo de las caderas. Desde ahí, levanta las rodillas del suelo unos pocos centímetros, manteniendo la espalda recta y el core activado. El peso debe estar sobre las palmas de las manos y las puntas de los pies.
+  Movimiento: Para avanzar, da un paso simultáneo con tu mano derecha y tu pie izquierdo, seguido inmediatamente por un paso con tu mano izquierda y tu pie derecho. La clave es este movimiento contralateral, como un oso caminando.
+  Intensidad y Medición: Muévete tan rápido como puedas manteniendo una buena forma. Las series se miden normalmente por distancia (ej: avanzar 20 o 30 metros) o por tiempo (ej: 45 segundos continuos).
+  Músculos Trabajados: Es un ejercicio muy completo que involucra: pectorales, deltoides, tríceps, trapecios, dorsales, abdominales y espalda baja (core), flexores de cadera, cuádriceps, glúteos y pantorrillas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2570'

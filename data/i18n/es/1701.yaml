@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1701'
+language: es
+status: human
+name: Remo pesado a una mano
+description: |-
+  Ejecución
+
+
+  Fase de remo (concéntrica):
+
+  Tira de la mancuerna hacia la parte baja del pecho o la cintura, liderando con el codo.
+  Mantén el torso estable — evita girar o rotar los hombros.
+  Haz una pausa arriba y contrae los dorsales.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4061'

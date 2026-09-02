@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '976'
+language: it
+status: human
+name: Crunch a libretto con palla medica
+description: L'uso di una palla medica come sovraccarico renderà l'esercizio più pesante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '1287'

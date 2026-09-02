@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: zh
+status: human
+name: 平板支撑
+description: |-
+  起始姿势：
+
+  四肢着地。手臂弯曲成直角，肩部应该正好在肘部上方。背部挺直，整个身体在一条直线上。
+
+  步骤：
+
+  保持该姿势。
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1412'

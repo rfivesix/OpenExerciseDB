@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '132'
+language: fr
+status: human
+name: Burpees avec pompes
+description: |-
+  Position de départ :
+  Tenez-vous droit, les pieds écartés de la largeur des hanches.
+  Étapes :
+
+  Accroupissez-vous et prenez appui sur le sol avec les mains entre les genoux et devant les pieds, le dos droit.
+  En gardant les mains sur le sol, lancez vos jambes vers l'arrière en position de planche haute.
+  Effectuez une pompe.
+  Remettez vos pieds vers l'avant pour revenir à la position de squat.
+  Répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: er0355
+  source_id: '1301'

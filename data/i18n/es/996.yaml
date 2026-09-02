@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: es
+status: human
+name: Montañeros
+description: |-
+  Posición inicial:
+  Comienza en la posición de flexión vertical o plancha alta.Las manos deben estar directamente debajo de los hombros.Mantenga la cabeza alineada con la espalda, mirando al suelo.Los pies deben estar separados a la anchura de las caderas.
+  Pasos:
+
+  Mueve una rodilla hacia el centro del cuerpo, hacia los codos, manteniendo la otra pierna extendida.
+  Con un movimiento rápido de salto, estira la pierna doblada y tira de la otra rodilla hacia tu cuerpo.
+  Sigue repitiendo el paso 2, alternando las piernas.
+
+  Notas:
+  Durante todo el ejercicio, la espalda debe permanecer lo más recta posible, evitando una joroba o una espalda flácida.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1716'

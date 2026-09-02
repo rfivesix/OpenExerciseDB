@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '562'
+language: es
+status: human
+name: Shotgun Row
+description: |-
+  Engancha una sola agarradera a una polea baja.
+  Tras seleccionar el peso correcto, sitúate un par de pasos atrás con una postura amplia de zancada. Tu brazo debe estar extendido y el hombro hacia delante. Esta será tu posición inicial.
+  Realiza el movimiento retrayendo el hombro y flexionando el codo. Mientras tiras, supina la muñeca, girando la palma hacia arriba a medida que avanzas.
+  Tras una breve pausa, vuelve a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4349'

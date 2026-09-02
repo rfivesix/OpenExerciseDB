@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: pt
+status: human
+name: Montanhistas
+description: |-
+  Posição inicial:
+  Começar na posição vertical de flexão, ou na prancha alta.As mãos devem estar diretamente abaixo dos seus ombros.Manter a cabeça alinhada com as costas, virada para o chão.Os pés devem ter a distância entre os quadris.
+  Passos:
+
+  Mova um joelho em direção ao centro do corpo, em direção aos cotovelos, mantendo a outra perna estendida.
+  Num movimento de salto rápido, endireite a perna dobrada para fora e puxe o outro joelho em direção ao seu corpo.
+  Continue a repetir o passo 2, alternando as pernas.
+
+  Notas:
+  Ao longo do exercício, as costas devem permanecer o mais reto o possível - evite uma corcunda ou uma curvatura nas costas.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1722'

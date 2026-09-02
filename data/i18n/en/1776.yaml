@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1776'
+language: en
+status: human
+name: Suitcase Carry
+description: |-
+  Walk forward and backward with holding dumbbell on one side without leaning to counter the weight.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: aboksz
+  source_id: '2910'

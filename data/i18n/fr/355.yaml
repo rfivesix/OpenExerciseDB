@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '355'
+language: fr
+status: human
+name: Tirage vertical à la poulie haute
+description: |-
+  Le tirage vertical à la poulie haute est un exercice utilisé pour développer les muscles du dos. Bien qu'il cible principalement le grand dorsal, vous remarquerez aussi une sollicitation notable des biceps et du milieu du dos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2932'

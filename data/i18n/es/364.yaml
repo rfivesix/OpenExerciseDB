@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '364'
+language: es
+status: human
+name: Curl femoral
+description: |-
+  El curl de piernas, también conocido como curl de isquiotibiales, es un ejercicio de aislamiento que se enfoca en los músculos isquiotibiales. El ejercicio consiste en flexionar la parte inferior de la pierna contra la resistencia hacia las nalgas. Otros ejercicios que se pueden utilizar para fortalecer los isquiotibiales son las elevaciones de glúteos y isquiotibiales y el peso muerto.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '2110'

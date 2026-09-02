@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: cs
+status: human
+name: 'Švihadlo: základní skoky'
+description: |-
+  Toto cvičení vyžaduje švihadlo. Ujistěte se, že délka švihadla je přizpůsobena vaší výšce. Jedním ze způsobů kontroly je uchopit obě rukojeti jednou rukou a postavit se jednou nohou na střed švihadla visícího na zemi. Pokud vám švihadlo (bez rukojetí) sahá těsně pod hrudník, je jeho délka správná. Kratší lano by bylo nebezpečné, protože byste se mohli udeřit, a delší lano by způsobilo špatnou formu.
+
+  Dejte nohy těsně k sobě, trochu pokrčte kolena, hlavu a tělo držte rovně, lokty mějte vtažené, paže rozevřené.
+  Točte pouze zápěstími dostatečnou silou, aby se lano roztočilo.
+  Vyskočte jen tak vysoko, aby švihadlo prošlo pod vašima nohama.
+  Opakujte postup od kroku 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1669'

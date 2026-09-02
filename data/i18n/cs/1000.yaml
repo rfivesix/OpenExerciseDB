@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: cs
+status: human
+name: Dipy na podlaze
+description: |-
+  Výchozí pozice:
+  Sedněte si s rukama za zády, podporující tělo.Prsty by měly směřovat dopředu.Kolena by měla být pokrčená, chodidla u sebe.
+  Kroky:
+
+  Zvedněte boky nad zem a narovnejte paže.
+  Pokrčte lokty a boky stáhněte dolů.
+  Narovnejte paže a vraťte se do předchozí polohy.
+  Opakujte kroky 2 a 3.
+
+  Poznámky:
+  Obtížnost cviku závisí na tom, jak vysoko vynesete boky.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1765'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2448'
+language: en
+status: human
+name: Reverse Clamshell
+description: |-
+  Lie on your side with your hips and knees bent, keeping your knees stacked on top of each other. Keep your feet together at first, then keep your knees touching while lifting your top foot upward. Slowly lower the foot back down with control.
+  Move only through the hip and avoid rolling your pelvis backward. The movement should be small, controlled, and focused on hip rotation.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: TobiasFalk
+  source_id: '3554'

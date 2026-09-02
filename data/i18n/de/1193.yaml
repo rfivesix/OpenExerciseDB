@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1193'
+language: de
+status: human
+name: Russian Twist
+description: |-
+  Halte eine Kurzhantel, eine Hantelscheibe oder etwas anderes Schweres mit beiden Händen, aber achte darauf, dass es nicht zu schwer ist und du die Form halten kannst.
+  Lehne dich in einem Winkel von 45 Grad zum Boden zurück. Für eine zusätzliche Herausforderung hebst du die Füße vom Boden ab.
+  Drehe deine Arme zu einer Seite auf Brusthöhe, berühre für eine kleine zusätzliche Herausforderung den Boden und mache dann dasselbe zur anderen Seite. Wenn du nach beiden Seiten wieder in der Ausgangsposition bist, zählt das als 1 Wiederholung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3726'

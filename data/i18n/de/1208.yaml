@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1208'
+language: de
+status: human
+name: Prisoner Squat
+description: |-
+  Stell dich mit leicht angehobenem Brustkorb aufrecht hin, deine Füße sind hüftbreit voneinander entfernt, die Zehen zeigen gerade nach vorne. Nimm deine Hände mit leicht verschränkten Fingern an den Hinterkopf, die Ellbogen zeigen zur Seite. Schiebe deine Hüfte nach hinten und beuge deine Knie, der Oberkörper bleibt dabei so aufrecht wie möglich. Drück deine Knie nach außen, sie dürfen auf keinen Fall zueinanderzeigen. Wenn sich dein Oberkörper leicht nach vorne bewegt, achte darauf, dass er sich nicht krümmt. Halte die Ellbogen stets auf Höhe der Ohren, indem du die Muskeln zwischen deinen Schulterblättern anspannst. Wenn du beweglich genug bist, kannst du so weit nach unten sinken, bis dein Gesäß deine Waden berührt. Achte dabei aber darauf, dass du deine Wirbelsäule nicht krümmst. Bevor das passiert, kehrst du die Bewegung um und drückst dich aus deinen Fersen und Gesäßmuskeln mit so viel Schwung nach oben, dass deine Füße kurz abheben und du einen kleinen Hüpfer machst. Korrigiere gegebenenfalls die Position der Füße, Arme und des Oberkörpers, bevor du die nächste Wiederholung anschließt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2171'

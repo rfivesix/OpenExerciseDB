@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: pt
+status: human
+name: Mergulho em solo
+description: |-
+  Posição inicial:
+  Sente-se com seus braços atrás de você, apoiando suas costas.Seus dedos devem apontar para frente.Seus joelhos devem estar dobrados, com os pés juntos.
+  Passos:
+
+  Levante seus quadris do chão, endireitando seus braços.
+  Dobre os cotovelos, abaixando os quadris.
+  Endireite os braços, voltando à posição anterior.
+  Repita os passos 2 e 3.
+
+  Notas:
+  A dificuldade do exercício depende do quanto você eleva seus quadris.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1771'

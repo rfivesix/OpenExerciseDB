@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1909'
+language: en
+status: human
+name: Leg Wheel
+description: |-
+  Lay on the back and lift legs in perpendicular fashion, keeping the knees together.
+  Start making small circles in one direction with both of your knees with very small range of motion, focusing on abs and keeping your back in contact with the floor.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3056'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '184'
+language: es
+status: human
+name: Peso Muerto Convencional
+description: |-
+  Considerado uno de los ejercicios de fuerza más completos, es fundamental para desarrollar la cadena posterior (espalda, glúteos, isquiotibiales) y la fuerza general de todo el cuerpo. La técnica correcta es crucial.
+  Instrucciones:
+  Párate con los pies separados al ancho de las caderas, con la barra sobre la mitad de tus pies (casi tocando tus canillas/espinillas). Agáchate manteniendo la espalda completamente recta y el pecho erguido; sujeta la barra justo por fuera de tus piernas (puedes usar un agarre prono o mixto).
+  Para levantar, empuja el suelo con las piernas y extiende la cadera y las rodillas simultáneamente, manteniendo la barra siempre pegada a tu cuerpo. En la posición final, párate completamente erguido y aprieta los glúteos, sin hiperextender la espalda hacia atrás. Baja la barra de forma controlada invirtiendo el movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2711'

@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1551'
+language: es
+status: human
+name: Push-Up
+description: |-
+  La flexión es un ejercicio fundamental con peso corporal que trabaja el pecho, los brazos y los hombros, a la vez que trabaja el core para lograr estabilidad. No requiere equipo y es excelente para fortalecer la parte superior del cuerpo.&nbsp;
+  &nbsp;Instrucciones:
+
+  Comience en posición de plancha con las manos colocadas ligeramente más anchas que el ancho de los hombros, los pies juntos y el cuerpo en línea recta desde la cabeza hasta los talones.
+  Contraiga el torso y baje el cuerpo flexionando los codos, manteniéndolos cerca del cuerpo o ligeramente separados.
+  Baje hasta que el pecho casi toque el suelo, manteniendo la columna neutra.
+  Empuje con las palmas de las manos para volver a la posición inicial, extendiendo completamente los brazos.
+search_terms:
+  - Flexiones
+  - Lagartijas
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Settebello
+  source_id: '2504'

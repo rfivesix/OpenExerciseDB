@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: it
+status: human
+name: Alpinista
+description: |-
+  Posizione di partenza:
+  Iniziare in posizione verticale push-up, o la tavola alta.Le mani dovrebbero essere direttamente sotto le spalle.Tieni la testa in linea con la schiena, rivolta verso il pavimento.I piedi dovrebbero essere a circa la larghezza dell'anca.
+  Scalinata:
+
+  Sposta un ginocchio verso il centro del corpo, verso i gomiti, mantenendo l'altra gamba estesa.
+  In un rapido movimento di salto, raddrizza la gamba piegata e tira l'altro ginocchio verso il tuo corpo.
+  Continua a ripetere il passaggio 2, alternando le gambe.
+
+  Nota:
+  Durante l'esercizio la schiena dovrebbe rimanere il più dritta possibile – evitare una gobba o una schiena cascante.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1720'

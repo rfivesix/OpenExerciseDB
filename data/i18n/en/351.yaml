@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '351'
+language: en
+status: human
+name: Lateral-to-Front Raises
+description: |-
+  -(1) Perform a lateral raise, pausing at the top of the lift (2).
+  -Instead of lowering the weight, bring it to the front of your body so that you appear to be at the top position of a front raise.&nbsp; You will do this by using a Pec Fly motion, maintaining straight arms. (3)
+  -Now lower the weight to your quadriceps, or, in other words, lower the dumbbells as though you are completing a Front Raise repetition. (4)
+  -Reverse the motion:&nbsp; Perform a front raise (5), at the apex of the lift use a Reverse Fly motion to position the weights at the top of a Lateral Raise (6), and finally, lower the weights until your palms are essentially touching the sides of your thighs (7).&nbsp; THIS IS ONE REP.
+  (1) l&nbsp; front view(2) -l-&nbsp; FV&nbsp; (3) l-&nbsp; side view &nbsp; (4) l&nbsp; SV/FV &nbsp; (5) l-&nbsp; SV (6) -l- &nbsp;FV&nbsp; (7)&nbsp; l&nbsp; FV/SV
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nate303303
+  source_id: '306'

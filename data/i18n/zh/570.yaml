@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '570'
+language: zh
+status: human
+name: 耸肩运动
+description: |-
+  起始位置：坐位或站位，背部挺直。
+  步骤：
+
+  将肩膀尽可能地向上抬起，保持 5 秒。
+  肩膀回到放松的位置。
+  重复。
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1421'

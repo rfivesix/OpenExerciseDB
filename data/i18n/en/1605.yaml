@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1605'
+language: en
+status: human
+name: Copenhagen Adduction Exercise
+description: |-
+  Lie on your side with the elbow placed directly under the shoulder, similar to a side plank position. Place the upper leg on a bench with the inside of the foot or ankle resting on it. Lift your hips and hold your body in a straight line while keeping the lower leg off the floor. The exercise strongly activates the adductors of the upper leg while also challenging the core and hip stabilizers.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: RiccaBaro
+  source_id: '2578'

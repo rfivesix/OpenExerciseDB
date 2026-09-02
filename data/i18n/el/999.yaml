@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: el
+status: human
+name: Αντίστροφες προβολές ποδιών
+description: |-
+  Θέση εκκίνησης:
+  Σταθείτε ίσια, με τα πόδια ανοιχτά στο πλάτος των γοφών.
+  Βήματα:
+
+  Κάντε ένα βήμα προς τα πίσω με το ένα πόδι, ώστε να μπορεί να λυγίσει άνετα σε γωνία 90 μοιρών.
+  Λυγίστε αργά και τα δύο γόνατα ώστε να σχηματίσουν γωνία 90 μοιρών.
+  Επιστρέψτε στην αρχική θέση.
+  Επαναλάβετε, εναλλάσσοντας τα πόδια.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1760'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: id
+status: human
+name: Menekuk lutut terbalik
+description: |-
+  Posisi awal:
+  Berdiri tegak, kaki selebar pinggul.
+  Langkah:
+
+  Langkah mundur dengan satu kaki sehingga dapat menekuk dengan nyaman ke sudut 90 derajat.
+  Perlahan tekuk kedua lutut untuk membentuk sudut 90 derajat.
+  Kembali ke posisi awal.
+  Ulangi, kaki bergantian.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1750'

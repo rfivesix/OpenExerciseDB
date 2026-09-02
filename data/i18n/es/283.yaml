@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '283'
+language: es
+status: human
+name: Elevaciones de Piernas (Colgado)
+description: |-
+  Este es uno de los ejercicios más efectivos y desafiantes para la parte baja del abdomen y los flexores de cadera. La dificultad varía según si las piernas se mantienen rectas o flexionadas.
+  Instrucciones
+  Cuélgate de una barra con los brazos completamente extendidos y el cuerpo estable.
+
+  Versión con Rodillas Flexionadas (más fácil): Contrae el abdomen y eleva las rodillas hacia tu pecho, manteniendo las piernas dobladas.
+  Versión con Piernas Rectas (más difícil): Manteniendo las piernas estiradas, elévalas hasta que queden paralelas al suelo (formando una "L") o tan alto como puedas.
+
+  En ambas versiones, la clave es minimizar el balanceo y bajar las piernas de forma lenta y controlada.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2729'

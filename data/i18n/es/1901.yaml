@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1901'
+language: es
+status: human
+name: Cargada y press
+description: |-
+  El primer tirón: Levanta la barra desde el suelo hasta la altura de las rodillas impulsando con las piernas y manteniendo constante el ángulo de la espalda.
+  La posición de "potencia": Cuando la barra llegue a la mitad del muslo, encoge los hombros y extiende las caderas de forma explosiva para generar impulso vertical.
+  El giro rápido de los codos: En la fase de recepción, rota los codos rápidamente por debajo de la barra para crear una "repisa" sobre los deltoides anteriores.
+  El press vertical: Empuja la barra en línea recta; la cabeza debe desplazarse ligeramente hacia delante una vez que la barra pase la frente para llegar a la extensión completa.
+search_terms:
+  - Cargada y envión
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4263'

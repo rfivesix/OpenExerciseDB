@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '537'
+language: it
+status: human
+name: Panca inclinata con manubri
+description: |-
+  La panca dovrebbe essere inclinata ovunque da 30 a 45 gradi
+
+
+  Assicurati di premere i manubri verso l'alto (perpendicolarmente al pavimento)
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '2127'

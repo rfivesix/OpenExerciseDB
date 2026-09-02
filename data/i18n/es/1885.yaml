@@ -1,0 +1,32 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1885'
+language: es
+status: human
+name: Ejercicio YTWL
+description: |-
+  Objetivo: Mejora la estabilidad del hombro, la postura y el control escapular (de los omóplatos). Se usa a menudo en fisioterapia y en los calentamientos.
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de los hombros. Flexiona hacia adelante desde las caderas (como en un
+  peso muerto) manteniendo la espalda recta, o túmbate boca abajo sobre un banco inclinado.
+  Mantén los pulgares apuntando hacia arriba durante todo el ejercicio.
+  Y (brazos arriba):
+  Extiende ambos brazos rectos hacia adelante y arriba en un ángulo de 135 grados respecto a
+  tu cuerpo, formando una "Y". Junta los omóplatos en
+  la parte alta.
+  T (brazos hacia los lados): Abre los brazos rectos hacia los lados, perpendiculares a tu cuerpo, formando una "T". Concéntrate en juntar los omóplatos.
+  W (brazos flexionados): Lleva los codos hacia atrás, flexionándolos a 90 grados, y junta los omóplatos para formar una "W". Mantén las muñecas firmes.
+  L (brazos rotados):
+  Comienza con los codos flexionados a 90 grados y pegados al cuerpo. Rota
+  los antebrazos hacia afuera (rotación externa) como un poste de portería, formando una
+  "L" o una verja.
+  Enfoque clave:
+  Los movimientos deben ser lentos y controlados. Lidera siempre con los pulgares
+  y piensa en mover los omóplatos, no solo los brazos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4245'

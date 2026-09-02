@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: fr
+status: human
+name: Cercles avant des bras
+description: |-
+  Tenez-vous debout, le dos bien droit.
+  Gardez vos bras droits, amenez les devant vous, puis vers le bas, puis derrière votre dos, puis au dessus de votre tête, puis ramenez les en position initiale, devant vous.
+  Continuez à faire des cercles avec vos bras comme décrit à l'étape 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1690'

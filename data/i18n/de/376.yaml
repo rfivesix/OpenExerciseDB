@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: de
+status: human
+name: Beine heben
+description: |-
+  Ausgangsposition:
+  Lege Dich auf den Rücken, Füße zusammen, Arme an den Seiten.
+  Schritte:
+
+  Beuge die Knie und strecke sie dann gerade nach oben.
+  Halte die Beine gerade und senke sie gemeinsam ab, ohne den Boden zu berühren. Je tiefer, desto intensiver ist die Übung.
+  Hebe beide Beine zusammen an, so dass sie wieder gerade nach oben zeigen.
+  Wiederholen ab Schritt 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1341'

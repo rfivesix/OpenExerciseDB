@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: zh
+status: human
+name: 俯卧撑腿屈伸
+description: |-
+  起始姿势：以高位平板支撑姿势开始：背部、手臂和腿均伸直，双手分开与肩同宽。
+  步骤：
+
+  双脚向双臂的方向向前跳，保持背部平直。
+  双手撑地，双腿跳回高位平板支撑位置。
+  重复。
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1453'

@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1602'
+language: hr
+status: human
+name: Dumbbell Scaption
+description: |-
+  Početni položaj:
+  Stani uspravno, stopala u širini kukova.
+  U svakoj ruci drži po bučicu neutralnim hvatom (dlanovi okrenuti jedan prema drugome).
+  Ruke lagano savijene u laktovima, ramena spuštena i zategnuta lopatice.
+  Izvođenje pokreta:
+  Polako podiži bučice prema naprijed i u stranu, pod kutom od oko 30–45° od tijela (između prednjeg i bočnog podizanja).
+  Podiži sve dok ruke ne dođu u visinu ramena (ne iznad glave).
+  Zadrži sekundu na vrhu i osjeti aktivaciju mišića ramena i lopatica.
+  Kontrolirano spuštaj bučice nazad u početni položaj.
+  Disanje:
+  Udah dok spuštaš bučice.
+  Izdisaj dok podižeš.
+  Najčešće greške:
+  Dizanje preteških bučica (loša kontrola, trzanje).
+  Podizanje iznad visine ramena (povećava rizik od prenaprezanja).
+  „Slomljena“ forma – podizanje iz donjeg dijela leđa umjesto iz ramena.
+  Cilj vježbe:
+  Aktivira donji trapez, serratus anterior i stabilizatore lopatice.
+  Pomaže u ispravljanju držanja i balansiranju ramena.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: zdelko
+  source_id: '2572'

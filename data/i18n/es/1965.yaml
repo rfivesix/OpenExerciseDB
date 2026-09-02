@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1965'
+language: es
+status: human
+name: Marcha con rodillas altas
+description: |-
+  Un ejercicio de cardio y movilidad de bajo impacto que fortalece los flexores de la cadera y mejora el equilibrio.
+
+  Movimiento: Ponte de pie erguido y eleva una rodilla hacia el pecho tan alto como te resulte cómodo.
+  Brazos: Lleva el brazo contrario hacia delante mientras subes la rodilla, como al caminar.
+  Core: Mantén los abdominales activados para conservar una postura erguida.
+  Ritmo: Realiza el movimiento con control, alternando las piernas de forma rítmica.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3563'

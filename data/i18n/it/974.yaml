@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '974'
+language: it
+status: human
+name: Curl con kettlebell a due mani
+description: |-
+  Posizionati in piedi e impugna il kettlebell con entrambe le mani. Esegui il movimento di flessione del gomito, partendo da una posizione completamente distesa fino a quando la mano raggiunge l'altezza della spalla. Allarga un po' le gambe per la stabilità e, per eseguire correttamente l’esercizio, cerca di non spingere con la schiena o con il corpo in generale. Modifica il peso del kettlebell per regolare la difficoltà.
+search_terms:
+  - curl
+  - kettlebell
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1282'

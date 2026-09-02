@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '43'
+language: es
+status: human
+name: Sentadilla Hack con Barra
+description: |-
+  Para realizarla, coloca una barra en el suelo justo detrás de tus talones. Párate con los pies relativamente juntos (al ancho de las caderas o menos) y, manteniendo el pecho erguido y la espalda recta, agáchate para agarrar la barra. Desde esa posición, ponte de pie extendiendo las rodillas y la cadera, deslizando la barra por la parte posterior de tus piernas. Baja de forma controlada para completar la repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2564'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1001'
+language: pt
+status: human
+name: Prancha alta
+description: |-
+  Posição inicial:
+  Entre na posição de prancha alta:as mãos e os dedos dos pés devem tocar o chão, as costas, os braços e as pernas devem estar retos.Para chegar a essa posição, você pode deitar de bruços, colocar as mãos voltadas para baixo ao lado da cabeça e levantar os braços até que estejam retos.
+  Passos:
+
+  Mantenha a posição inicial durante todo o exercício.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1783'

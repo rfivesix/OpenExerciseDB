@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '194'
+language: de
+status: human
+name: Dips
+description: |-
+  Greife die Stangen an einer engen Stelle und drücke dich hoch. Strecke dabei die Arme nicht ganz aus, dann bleiben während des gesamten Bewegungablaufs die Muskeln immer unter Spannung. Beuge nun die Arme und gehe so tief wie möglich runter, die Ellenbogen zeigen nach hinten. Du kannst an dieser Stelle einige Sekunden bleiben, bevor du die Übung weitermachst.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '29'

@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1082'
+language: de
+status: human
+name: Vorgebeugtes Rudern mit Außenrotation
+description: |-
+  Ausgangsposition:
+  Stelle dich hinter einen Stuhl oder vor einen Tisch. Beuge dich in der Hüfte nach vorne, um deine Stirn auf die Rückenlehne des Stuhls oder den Tisch zu legen, wobei du den Rücken gerade hältst. Deine Arme sollten gerade nach unten hängen und zum Boden zeigen.
+  Ablauf:
+
+  Hebe deine Ellbogen auf Schulterhöhe. Deine Unterarme sollten nach unten zeigen, senkrecht zu deinen Oberarmen. Deine Oberarme sollten sich auf gleicher Höhe wie dein Rücken befinden und senkrecht zu deiner Wirbelsäule stehen.
+  Halte kurz.
+  Rotiere in den Ellbogen, um deine Hände so weit wie möglich nach oben zu bringen.
+  Halte kurz.
+  Rotiere in den Ellbogen zurück in die vorherige Position.
+  Senke deine Arme in die Ausgangsposition.
+  Wiederhole.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3652'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '445'
+language: fr
+status: human
+name: Développé couché avec pause
+description: |-
+  Abaissez la barre vers votre poitrine et marquez une pause (sans relâcher) de 2 secondes. Repoussez vers le haut. Utilisez le même poids que pour le développé couché classique, mais n'effectuez que des répétitions isolées. Faites au total le nombre de répétitions que vous feriez en une série de développé couché (si vous faisiez 3 séries de 8, faites 8 répétitions isolées de développé couché avec pause).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4883'

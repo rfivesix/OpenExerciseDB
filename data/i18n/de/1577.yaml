@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1577'
+language: de
+status: human
+name: Bretzel-Dehnung
+description: |-
+  So führst du die Bretzel-Dehnung aus    Ausgangsposition:        Lege dich auf den Rücken auf eine flache Unterlage, zum Beispiel eine Matte.        Beuge die Knie und stelle die Füße flach auf den Boden.    Beinposition:        Hebe dein rechtes Bein an und kreuze es über dein linkes Bein, wobei du deinen rechten Fuß an der Außenseite deines linken Knies platzierst.        Dein linkes Bein bleibt flach auf dem Boden.    Armposition:        Strecke deinen linken Arm auf Schulterhöhe gerade zur Seite aus.        Ziehe mit deiner rechten Hand dein rechtes Knie sanft auf die linke Seite deines Körpers in Richtung Boden.    Dehnung:        Während du das Knie nach unten ziehst, versuche, deine linke Schulter flach auf dem Boden zu halten.        Du solltest eine Dehnung in der Hüfte, im unteren Rücken und möglicherweise im Brustkorb spüren.    Halte die Position:        Halte diese Position 20-30 Sekunden, atme tief durch und entspanne dich in die Dehnung hinein.        Wechsle die Seite und wiederhole den Ablauf.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4088'

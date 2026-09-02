@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '92'
+language: it
+status: human
+name: Curl per Bicipiti con Manubrio
+description: |-
+  Impugnare due manubri, le braccia sono distese, le mani sono sul fianco, i palmi rivolti verso l'interno. Piegare le braccia e portare il peso con un movimento veloce verso l'alto. Allo stesso tempo, ruotate le braccia di 90 gradi all'inizio del movimento. Nel punto più alto, ruotate un po' i pesi verso l'esterno. Senza fare pause, riportateli giù, lentamente.
+  Non lasciate che il corpo oscilli durante l'esercizio, tutto il lavoro è svolto dai bicipiti, che sono gli unici muscoli che devono muoversi (fate attenzione ai gomiti).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2234'

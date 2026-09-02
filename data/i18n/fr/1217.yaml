@@ -1,0 +1,47 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1217'
+language: fr
+status: human
+name: Pompe sur les doigts
+description: |-
+  Position des mains :
+
+
+  Commencez en position de planche, les mains directement sous les épaules.
+  Écartez largement vos doigts et placez-les fermement au sol.
+
+
+  Placement des doigts :
+
+
+  Décollez progressivement vos paumes du sol en reportant le poids sur vos doigts.
+  Veillez à répartir la charge de manière uniforme entre le bout de vos doigts et vos pouces.
+
+
+  Alignement du corps :
+
+
+  Maintenez une ligne droite de la tête aux talons afin de solliciter votre sangle abdominale.
+  Gardez votre corps dans une position contrôlée et stable tout au long de l'exercice.
+
+
+  Phase de descente :
+
+
+  Pliez lentement les coudes en abaissant votre poitrine vers le sol.
+  Assurez-vous d'un mouvement contrôlé en conservant la stabilité sur le bout de vos doigts.
+
+
+  Phase de poussée :
+
+
+  Poussez sur le bout de vos doigts pour tendre vos bras et revenir à la position de départ.
+  Insistez sur la sollicitation de vos doigts et de vos pouces tout au long de la pompe.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4535'

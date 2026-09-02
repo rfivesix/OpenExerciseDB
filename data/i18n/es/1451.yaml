@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1451'
+language: es
+status: human
+name: Estiramiento de rotación del torso
+description: |-
+  El estiramiento de rotación del torso mejora la movilidad de la columna y alivia la tensión en la espalda baja y los oblicuos. Puede realizarse de pie o sentado.
+
+  Variante de pie: Párate derecho con los pies a la altura de los hombros. Coloca las manos en las caderas o extiende los brazos al frente. Gira lentamente el torso hacia un lado, manteniendo las caderas estables. Mantén la posición unos segundos y luego gira hacia el otro lado.
+  Variante sentada: Siéntate en una silla con los pies planos en el suelo. Coloca una mano en el exterior del muslo contrario y gira suavemente el torso hacia ese lado. Mantén el estiramiento antes de cambiar de lado.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2418'

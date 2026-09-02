@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1830'
+language: fr
+status: human
+name: Fente arrière à la barre
+description: |-
+  Étape 1 : Tenez-vous debout, les pieds écartés de la largeur des hanches, en maintenant une barre sur le haut du dos.
+  Étape 2 : Gardez le dos droit, la poitrine ouverte et la sangle abdominale engagée.
+  Étape 3 : Faites un pas en arrière avec une jambe et abaissez votre corps en pliant les deux genoux. Assurez-vous que le genou arrière touche presque le sol.
+  Étape 4 : Poussez sur le pied arrière pour revenir à la position de départ.
+  Étape 5 : Répétez le mouvement avec l'autre jambe.
+  Continuez à alterner les jambes pour le nombre de répétitions souhaité.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4768'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1905'
+language: en
+status: human
+name: Pullback
+description: |-
+  Set weight and grip for the cables in the cage. Take a few steps away, bend over, pull and extend the back at the same time.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3052'

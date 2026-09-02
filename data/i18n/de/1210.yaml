@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1210'
+language: de
+status: human
+name: Fallschirmspringer in T-Position
+description: |-
+  Leg dich auf deinen Bauch, deine Beine sind mehr als schulterbreit gespreizt, die Füße aufgestellt. Deine Arme sind zur Seite ausgestreckt und bilden mit deinem Oberkörper ein T, deine Handflächen liegen auf dem Boden. Hebe nun unter Körperspannung deinen Oberkörper mitsamt Armen und deine Beine so weit an, wie du kannst. Dreh dabei die Daumen Richtung Decke und zieh deine Schulterblätter zusammen. Während du den Oberkörper und alle Gliedmaßen in der Luft hältst, bring deine Beine zusammen und spreiz sie dann wieder, dabei hältst du sie stetig in der Luft. Bei den weiteren Wiederholungen bewegst du nur noch die Beine auf und zu.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2175'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1219'
+language: fr
+status: human
+name: Tractions australiennes
+description: |-
+  Allongez-vous sous une barre fixe ou une barre de suspension, positionnée à une hauteur appropriée.
+  Placez-vous sur le dos sous la barre, en saisissant la barre avec une prise en supination (paumes tournées vers vous).
+  Ajustez votre position pour que votre corps soit aligné de manière droite des pieds à la tête. Les bras doivent être complètement étendus, les épaules stabilisées, et les jambes alignées avec le reste du corps.
+  Fléchissez les coudes et tirez votre poitrine vers la barre, en contractant les muscles du dos. Imaginez que vous essayez de rapprocher vos omoplates l'une de l'autre.
+  Maintenez la contraction au sommet du mouvement pendant un moment pour maximiser l'activation musculaire.
+  Revenez lentement à la position de départ en étendant les coudes.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: PaukOne
+  source_id: '2187'

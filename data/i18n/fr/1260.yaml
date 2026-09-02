@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1260'
+language: fr
+status: human
+name: Curl marteau au TRX
+description: |-
+  Placez les poignées comme si elles étaient le prolongement des sangles. Nous positionnerons nos bras tendus vers l'avant et notre corps penché vers l'arrière, complètement droit. Les biceps s'activeront lorsque vous plierez les coudes pour rapprocher votre corps des sangles. Le mouvement de contraction se terminera par un léger mouvement des mains vers l'extérieur, du fait de la prise utilisée.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4549'

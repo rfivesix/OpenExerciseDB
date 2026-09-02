@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1303'
+language: fr
+status: human
+name: Rowing Helms
+description: |-
+  Installation : Placez votre poitrine sur l'extrémité d'un banc, en utilisant une serviette ou tout autre objet rembourré pour protéger votre poitrine. Votre poitrine doit être en contact avec le banc au niveau de la ligne des mamelons. Votre dos doit être presque parallèle au sol.
+  Exécution : Au début de l'exercice, concentrez-vous sur le fait de tirer vos coudes vers l'arrière jusqu'à ressentir une tension maximale dans le grand dorsal.
+  Si vous souhaitez solliciter aussi les trapèzes pendant l'exercice, relâchez vos omoplates lorsque les charges pendent vers le bas, puis rapprochez-les au moment où vous commencez la répétition.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4571'

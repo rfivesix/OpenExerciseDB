@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1010'
+language: es
+status: human
+name: Estiramiento Posterior de Cuello (Nuca)
+description: |-
+  Este ejercicio es ideal para aliviar la tensión en la parte trasera del cuello (nuca) y la parte alta de la espalda.
+  Instrucciones:
+  Sentado o de pie con la espalda recta y los hombros relajados, baja lentamente el mentón en dirección al pecho hasta sentir un estiramiento.
+  Para profundizarlo, puedes entrelazar los dedos y colocar las manos sobre la parte posterior de la cabeza. Deja que solo el peso de tus brazos aplique una presión muy suave y gentil. Es crucial que no jales la cabeza hacia abajo con fuerza. Mantén el estiramiento por 15-30 segundos y regresa lentamente a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2682'

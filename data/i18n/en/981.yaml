@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '981'
+language: en
+status: human
+name: Step-ups
+description: |-
+  Starting position:
+  Stand facing a chair.
+  Steps:
+
+  Step up onto the chair.
+  Step off the chair.
+  Repeat.
+search_terms:
+  - Chair steps
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1499'

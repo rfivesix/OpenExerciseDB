@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '478'
+language: en
+status: human
+name: Push Press
+description: |-
+  Clean your dumbbells onto your shoulders, palms facing in. Take a breath and brace your core.&nbsp;(picture 1)Dip at the knees and use your legs to help&nbsp;(picture 2)&nbsp;press your dumbbells overhead. Lower under control with a slow tempo to your shoulders and repeat.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: sistab2
+  source_id: '190'

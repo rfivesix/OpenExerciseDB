@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: es
+status: human
+name: Arremetidas inversas
+description: |-
+  Posición inicial:
+  De pie, con los pies separados a la altura de las caderas.
+  Pasos:
+
+  Da un paso hacia atrás con una pierna para que pueda doblarse cómodamente hasta un ángulo de 90 grados.
+  Doble lentamente ambas rodillas hasta formar un ángulo de 90 grados.
+  Vuelva a la posición inicial.
+  Repita, alternando las piernas.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1754'

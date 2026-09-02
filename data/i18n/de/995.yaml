@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '995'
+language: de
+status: human
+name: Armkreisen rückwärts
+description: |-
+  Ausgangsposition:
+  Stehen Sie aufrecht mit geradem Rücken.
+  Schritte:
+
+  Halten Sie die Arme gestreckt und führen Sie sie vor sich her, heben Sie sie über den Kopf und setzen Sie die Bewegung hinter dem Rücken fort, bis Sie wieder in die Ausgangsposition gelangen.
+  Kreisen Sie die Arme weiter wie in Schritt 1 beschrieben.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1701'

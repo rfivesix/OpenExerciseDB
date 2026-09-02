@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1953'
+language: en
+status: human
+name: Bent-knee Iron Cross
+description: |-
+  Bent-knee Iron Cross
+  Part of: Limber 11
+  Source: Joe DeFranco
+  Prescription: 5-10 reps each side
+  Type: dynamic
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Pete-E automation
+  source_id: '3104'

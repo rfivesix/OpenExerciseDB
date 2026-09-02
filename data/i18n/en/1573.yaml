@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1573'
+language: en
+status: human
+name: Ab wheel
+description: |-
+  Starting Position: Kneel on the floor with the ab wheel in front of you.
+  Grip the Wheel: Hold the handles firmly.
+  Roll Out: Slowly roll the wheel forward, extending your body while keeping your core tight.
+  Return: Pull the wheel back towards your knees, maintaining tension in your core.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lhegedus
+  source_id: '2521'

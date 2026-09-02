@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '584'
+language: es
+status: human
+name: Curl en banco Scott a un brazo
+description: |-
+  Siéntate en el banco de curl Scott y realiza un curl de bíceps con una mancuerna en una mano. Tu otra mano puede estar en reposo o debajo del codo del brazo con el que haces el curl.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4355'

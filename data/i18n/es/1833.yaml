@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1833'
+language: es
+status: human
+name: Curl de isquiotibiales en el suelo con discos deslizantes
+description: |-
+  Túmbate boca arriba con los talones sobre discos deslizantes o toallas. Eleva las caderas formando un puente y luego desliza los talones hacia los glúteos mientras mantienes las caderas elevadas. Vuelve lentamente a la posición inicial manteniendo el puente de cadera.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4184'

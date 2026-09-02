@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1823'
+language: en
+status: human
+name: Clamshell
+description: |-
+  Position
+  Side plank with the elbow and the forearm on the ground and the legs slightly bent.
+  Execution
+  Lift your upper knee while keeping your feet close together, like a “shell opening,” then slowly return to the starting position. Keep your core stable and your hips aligned.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '2957'

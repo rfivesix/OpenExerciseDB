@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1445'
+language: en
+status: human
+name: Jerk OL
+description: |-
+  Olympic lift jerk
+
+  Hold bar in front on shoulders like push press
+  Bend and extend knees pushing bar up while diving under the bar
+  Catch bar overhead with straight arms using lunge
+  Move feet parallel while holding bar in lockout
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: M9
+  source_id: '2409'

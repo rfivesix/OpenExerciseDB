@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '828'
+language: it
+status: human
+name: Alzate posteriori
+description: |-
+  Le alzate posteriori sono un&nbsp;esercizio complementare e di isolamento per il deltoide posteriore. Essendo focalizzato su un muscolo specifico, solitamente, si usano pesi leggeri ripetizioni fra le 10 e le 15 per serie.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: almenociprovo
+  source_id: '2786'

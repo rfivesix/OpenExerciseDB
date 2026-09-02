@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: tr
+status: human
+name: Ters lunge hareketi
+description: |-
+  Başlangıç durumu:
+  Ayaklar kalça genişliğinde açık olacak şekilde düz durun.
+  Adımlar:
+
+  90 derecelik bir açıyla rahatça bükülebilmesi için tek ayakla geriye doğru adım atın.
+  90 derecelik açılar oluşturmak için her iki dizinizi de yavaşça bükün.
+  Başlangıç durumuna geri dönün.
+  Bacakları dönüşümlü olarak tekrarlayın.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1759'

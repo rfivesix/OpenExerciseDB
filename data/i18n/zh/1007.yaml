@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1007'
+language: zh
+status: human
+name: 转头
+description: |-
+  起始姿势：坐位或站位，背部挺直，肩部向下。
+  步骤：
+
+  坐直（站直），放松肩部。
+  尽可能地把头转向一侧，在您感到阻碍时停下来，保持5秒钟。
+  回到中间位置，换边，重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1856'

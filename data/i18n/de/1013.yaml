@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1013'
+language: de
+status: human
+name: Dehnung des linken Schulterblattes
+description: |-
+  Ausgangsposition:
+  Beginnen Sie im Stehen oder Sitzen. Drehen Sie Ihren Kopf in eine Richtung, etwa um 45 Grad oder direkt über Ihre Brustwarze. Legen Sie die andere Hand hinter den Rücken oder setzen Sie sich auf sie. Nehmen Sie Ihre nähere Hand und halten Sie damit Ihren Hinterkopf. Führen Sie Ihren Kopf leicht nach unten.
+  Die Schritte:
+
+  Nachdem Sie die Ausgangsposition eingenommen haben, drücken Sie Ihren Kopf mit leichter Kraft gegen Ihre Hand. Ihre Hand sollte mit gleicher Kraft zurückdrücken, so dass sich Ihr Kopf nicht bewegt. Halten Sie diese Position.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1908'

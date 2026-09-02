@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1809'
+language: fr
+status: human
+name: Hyperextension inversée
+description: |-
+  Allongez-vous à plat ventre sur un banc, les jambes pendant dans le vide au-delà du bord.
+
+  Fléchissez les hanches pour que vos cuisses soient à la verticale, en fléchissant les genoux en même temps de manière à garder les tibias à l'horizontale.
+  Tendez les jambes jusqu'à ce qu'elles soient droites, les orteils pointant vers l'arrière à l'horizontale.
+  Revenez à la position initiale, et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4759'

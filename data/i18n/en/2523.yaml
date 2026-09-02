@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2523'
+language: en
+status: human
+name: Serratus Wall Slide Stretch
+description: |-
+  Stand facing a wall. Place your forearms vertically against the wall so your elbows and wrists are both touching it.
+  Point your arms slightly outwards from "straight up".
+  Protract your shoulders had, then slide your forearms up the wall until your elbows are about level with your chin.
+  Slide your forearms back down the wall. Repeat as necessary.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '4992'

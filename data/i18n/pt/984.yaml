@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: pt
+status: human
+name: Investidas
+description: |-
+  Fique de pé com as costas retas
+  Dê um grande passo adiante com sua perna esquerda
+  Desça com sua pélvis até quase tocar o chão com o seu joelho direito
+  Leve sua pélvis de volta para cima
+  Retorne para a posição de pé, dando um passo atrás
+  Repita, trocando de pernas a cada vez
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1550'

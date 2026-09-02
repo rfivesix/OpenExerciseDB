@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '291'
+language: en
+status: human
+name: Hindu Squats
+description: |-
+  Start with your feet shoulder width apart and arms slightly behind your back.
+  As you descend towards the floor, raise your heels off the ground, while keeping your back as vertical&nbsp; as possible.
+  Upon attaining the bottom position, touch the hands to the heels.
+  Then stand up ending with the heels on the ground, arms extended in front of the chest then rowing into the start position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Vilhelmo
+  source_id: '650'

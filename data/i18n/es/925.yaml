@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '925'
+language: es
+status: human
+name: Press Inclinado Ligero en Máquina Smith
+description: |-
+  Esta variante con una inclinación muy leve (aproximadamente 15-30 grados) es excelente para enfocar el trabajo en la parte superior del pectoral y la sección clavicular del deltoide, con la estabilidad que ofrece la máquina Smith.
+  Instrucciones:
+  Coloca un banco ajustable debajo de la barra de la máquina Smith y ajústalo a un ángulo de inclinación bajo (uno o dos puntos por encima de la posición plana).
+  Sujeta la barra con un agarre ligeramente más ancho que tus hombros. Baja la barra de forma controlada hasta la parte alta de tu pecho, y luego empújala explosivamente hacia arriba hasta la posición inicial, contrayendo los pectorales superiores.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2690'

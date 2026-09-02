@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1954'
+language: en
+status: human
+name: Roll-overs into V-sits
+description: |-
+  Roll-overs into V-sits
+  Part of: Limber 11
+  Source: Joe DeFranco
+  Prescription: 10 reps
+  Type: dynamic
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Pete-E automation
+  source_id: '3105'

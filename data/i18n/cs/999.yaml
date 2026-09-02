@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: cs
+status: human
+name: Výpady vzad
+description: |-
+  Výchozí pozice:
+  Stoj rozkročný, chodidla na šířku boků.
+  Kroky:
+
+  Udělejte krok vzad jednou nohou tak, abyste ji mohli pohodlně pokrčit do pravého úhlu.
+  Pomalu pokrčte obě kolena do úhlu 90 stupňů.
+  Vraťte se do výchozí polohy.
+  Opakujte, střídejte nohy.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1751'

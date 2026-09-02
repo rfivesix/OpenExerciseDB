@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '456'
+language: fr
+status: human
+name: Pistol squats gauches
+description: |-
+  Tenez-vous debout sur une jambe, l'autre jambe droite et légèrement en avant
+  Pliez lentement un genou, descendez en position accroupie et gardez votre dos et votre autre jambe droits
+  Soulevez-vous lentement du squat, en redressant le genou plié et en gardant l'autre jambe droite
+  Répéter
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: minifigmaster125
+  source_id: '1367'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1081'
+language: en
+status: human
+name: Shoulder dislocates
+description: |-
+  Starting position:
+  Stand up with your back straight and a resistance band, towel, or broomstick handle in hand. With your hands straight in front of your body and the band between your hands, push your hands apart to both be at around 45 degrees from your body, thumbs facing down. If using a towel or broomstick handle instead, grab it with an overhand grip.
+  Steps:
+
+  Keeping your arms outstretched, rotate at the shoulders to bring your arms overhead and then down toward your glutes.
+  Rotate at the shoulders in the opposite direction — overhead and then toward your groin.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '2031'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1745'
+language: fr
+status: human
+name: Élévation frontale à la poulie avec barre courte
+description: |-
+  L'élévation frontale à la poulie avec barre courte isole vos deltoïdes antérieurs (épaules avant) grâce à une tension constante. Tenez-vous debout, dos tourné à une poulie basse, saisissez la barre en prise pronation et levez-la devant vous jusqu'à la hauteur des épaules, les bras légèrement fléchis, en évitant tout balancement et en gardant la sangle abdominale gainée pour un mouvement contrôlé vers le haut et vers le bas. Utilisez une charge légère à modérée, en privilégiant des répétitions lentes et contrôlées pour bien sentir le muscle travailler, sans recourir à l'élan.
+  Comment réaliser l'élévation frontale à la poulie (barre)
+  Mise en place : Fixez une petite barre droite à une poulie basse. Réglez la charge sur un niveau léger à modéré.
+  Position de départ : Tenez-vous dos à la machine, en tenant la barre en prise pronation (paumes vers le bas) à hauteur des hanches, les bras tendus mais non verrouillés. Pieds écartés de la largeur des épaules, sangle abdominale gainée, épaules en arrière et basses.
+  La montée : Expirez et levez lentement la barre droit devant vous, en gardant les coudes légèrement fléchis, jusqu'à ce que vos mains atteignent la hauteur des épaules (ou légèrement en dessous).
+  Le maintien : Marquez une brève pause en haut en contractant les deltoïdes antérieurs.
+  La descente : Inspirez et abaissez lentement la barre avec contrôle jusqu'à la position de départ, en maintenant la tension.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4739'

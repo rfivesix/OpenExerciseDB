@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: nl
+status: human
+name: Kettlebell Deadliften
+description: |-
+  Beginpositie:
+  Ga op heupbreedte uit elkaar staan, met je kettlebell gecentreerd tussen je enkels. Je rug moet recht zijn, je hoofd naar voren gericht.
+  Stappen:
+
+  Scharnier bij de heupen en buig lichtjes bij de knieën om je handen op de kettlebell handgrepen te plaatsen. Je rug moet recht zijn terwijl je de beweging uitvoert.
+  Pak de kettlebell handgrepen vast, waarbij je handen in tegengestelde richtingen duwen alsof je de handgreep uit elkaar trekt.
+  Terwijl u contact maakt met uw buikspieren en bilspieren, gaat u rechtop staan.
+  Scharnier weer bij de heupen om de kettlebell weer naar beneden te brengen, op dezelfde manier als bij stap 1.
+  Herhaal vanaf stap 3.
+
+  Tips:
+
+  Zorg ervoor dat je de bewegingen correct uitvoert, want als je dat anders doet kan dat tot blessures leiden. Bijvoorbeeld, niet squatten in plaats van scharnieren bij de heupen, niet je rug rond maken terwijl je naar de kettlebell reikt, en niet achterover leunen terwijl je opstaat.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1806'

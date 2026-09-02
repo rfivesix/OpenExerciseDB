@@ -1,0 +1,36 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1748'
+language: en
+status: human
+name: Machine Hip Abduction
+description: |-
+  Technique and Execution
+  Starting Position
+  Seated Positioning: Sit in the machine with back against the pad
+  Leg Placement: Inner thighs against the machine's padded resistance points
+  Adjust Machine: Set seat position to align your hip joint with the machine's pivot point
+  Movement Technique
+  Start with legs together or slightly pressed against the inner pads
+  Slowly push legs outward, spreading them apart
+  Move until maximum comfortable lateral range is reached
+  Pause briefly at the outer point of the movement
+  Slowly return to the starting position with controlled movement
+  Biomechanical Breakdown
+  Muscle Engagement
+  Primary Activation: Gluteus Medius (side hip muscle)
+  Stabilization: Engages core and lower back muscles
+  Functional Movement: Mimics lateral leg movement used in walking, sports, and daily activities
+  Benefits
+  Strength and Stability
+  Improves Hip Stability
+  Reduces Risk of Knee Injuries
+  Enhances Lateral Movement Capabilities
+  Targets Often-Neglected Muscle Groups
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2882'

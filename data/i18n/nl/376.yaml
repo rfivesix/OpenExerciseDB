@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: nl
+status: human
+name: Been strekken
+description: |-
+  Beginpositie:
+  Ga op je rug liggen, voeten bij elkaar, armen langs je zij.
+  Stappen:
+
+  Buig uw knieën, strek ze dan tot ze recht omhoog wijzen.
+  Houd je benen recht, laat ze samen naar beneden zakken zonder de vloer te raken. Hoe lager je gaat, hoe intensiever de oefening.
+
+
+  Breng beide benen weer recht omhoog.
+
+
+  Herhaal vanaf stap 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1345'

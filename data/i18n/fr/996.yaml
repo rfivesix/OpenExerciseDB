@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: fr
+status: human
+name: Escaladeurs de montagne
+description: |-
+  Position de départ :
+  Commencez par la position debout des pompes ou de la planche haute.Les mains doivent se trouver directement sous vos épaules.Gardez la tête dans le prolongement du dos, face au sol.Les pieds doivent être écartés d'environ la largeur des hanches.
+  Étapes :
+
+  Déplacez un genou vers le centre de votre corps, vers vos coudes, en gardant l'autre jambe tendue.
+  Dans un mouvement de saut rapide, redressez la jambe pliée et tirez l'autre genou vers votre corps.
+  Répétez l'étape 2 en alternant les jambes.
+
+  Remarques :
+  Tout au long de l'exercice, votre dos doit rester aussi droit que possible – évitez d'avoir une bosse ou un dos affaissé.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1718'

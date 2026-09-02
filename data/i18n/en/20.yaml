@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '20'
+language: en
+status: human
+name: Arnold Shoulder Press
+description: |-
+  Very common shoulder exercise.
+  As shown here:&nbsp;https://www.youtube.com/watch?v=vj2w851ZHRM
+search_terms:
+  - Schwarzenegger Press
+  - Palm-to-Palm Overhead Press
+  - Rotational Dumbbell Press
+  - Dumbbell Corkscrew Press
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: trzr23
+  source_id: '227'

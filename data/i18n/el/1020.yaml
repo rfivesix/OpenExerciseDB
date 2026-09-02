@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1020'
+language: el
+status: human
+name: Βαθύ κάθισμα δεξιού ποδιού
+description: |-
+  Σταθείτε στο ένα πόδι, με το άλλο πόδι σας ίσιο και ελαφρώς μπροστά.
+  Λυγίστε αργά το ένα γόνατο, κατεβαίνοντας σε βαθύ κάθισμα και κρατώντας την πλάτη σας και το άλλο πόδι σας ίσιο.
+  Σηκωθείτε αργά από το βαθύ κάθισμα, ισιώνοντας το λυγισμένο γόνατο και κρατώντας το άλλο πόδι ίσιο.
+  Επαναλάβετε
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1946'

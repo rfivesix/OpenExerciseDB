@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1728'
+language: es
+status: human
+name: Rotación interna de hombro (polea)
+description: |-
+  Mantén el codo pegado a tu costado como si estuviera fijado con pegamento.
+  No rotes el torso: solo debe moverse tu antebrazo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4145'

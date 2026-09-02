@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '346'
+language: de
+status: human
+name: Landmine-Press, Einarmig
+description: |-
+  Diese Übung kann wahlweise im parallelen oder versetzten Stand durchgeführt werden.
+  Greife das Ende einer Langhantel, während das andere Ende fixiert am Boden ist und versuche das Gewicht von dir wegzudrücken ohne dabei die Langhantel Richtung Körpermittelpunkt zu bewegen. Der ganze Körper bleibt während der Übungsausführung gerade und angespannt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Torsten Linnecke
+  source_id: '799'

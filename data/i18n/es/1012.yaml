@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1012'
+language: es
+status: human
+name: Curl de biceps alterno
+description: |-
+  Posición inicial: Comience de pie con pesas en cada mano, la espalda recta y los pies separados al ancho de las caderas. Tus brazos deben estar relajados, apuntando hacia abajo. Tus rodillas deben estar ligeramente flexionadas, tus abdominales contraídos y tus hombros hacia abajo.&nbsp;Pasos:
+
+  Dobla un brazo por el codo, llevando la mancuerna hasta tu hombro. La parte superior del brazo debe permanecer inmóvil durante este movimiento. 2. Lleva la mancuerna hacia abajo hasta que tu brazo esté en su posición original relajada.
+  Repita, cambiando de brazo.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2117'

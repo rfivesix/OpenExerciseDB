@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: el
+status: human
+name: Διάταση λαιμού αριστερά
+description: |-
+  Θέση εκκίνησης:
+  Κάθισε ή στάσου όρθιος με την πλάτη ίσια.
+  Βήματα:
+
+  Γείρετε το κεφάλι σας προς το πλάι και κρατήστε το για 8 δευτερόλεπτα για να τεντώσετε την πλευρά του αυχένα σας.
+  Με το πιο κοντινό χέρι στην κορυφή του κεφαλιού σας, τραβήξτε απαλά για να τεντώσετε περισσότερο. Κρατήστε το για 8 δευτερόλεπτα.
+  Γυρίστε το πηγούνι προς τον ώμο. Κρατήστε το για 8 δευτερόλεπτα.
+  Απελευθερώστε και επιστρέψτε στην αρχική θέση.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1865'

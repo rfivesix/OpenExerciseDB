@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '178'
+language: es
+status: human
+name: Bicho Muerto
+description: |-
+  Este es un ejercicio fundamental para el control y la estabilidad del core, enfocado en mantener la espalda baja segura mientras se mueven las extremidades.
+  Instrucciones:
+  Acuéstate boca arriba con las caderas y rodillas flexionadas a 90° (posición de "mesa") y los brazos extendidos rectos hacia el techo.
+  La regla de oro: Presiona tu espalda baja contra el suelo para eliminar cualquier espacio. Esta conexión debe mantenerse durante todo el ejercicio.
+  De forma lenta y controlada, baja tu brazo derecho y tu pierna izquierda simultáneamente, casi hasta tocar el suelo. Regresa a la posición inicial y alterna con el otro lado. Exhala profundamente a medida que extiendes las extremidades.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2707'

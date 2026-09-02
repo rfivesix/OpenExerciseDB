@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '423'
+language: de
+status: human
+name: Muscle-up
+description: |-
+  Der Körper wird dann explosiv durch die Arme in einem kraftvollen Klimmzug nach oben gezogen, mit größerer Geschwindigkeit als bei einem normalen Klimmzug. Wenn die Stange sich der oberen Brust nähert, werden die Handgelenke rasch gebeugt, um die Unterarme über die Stange zu bringen. Der Körper wird nach vorne gelehnt und die Ellbogen werden durch Aktivierung des Trizeps gestreckt. Die Bewegung gilt als abgeschlossen, wenn die Stange auf Höhe der Taille ist und die Arme vollständig gestreckt sind.
+  Zum Absteigen werden die Arme im Ellbogen gebeugt und der Körper zum Boden abgesenkt, und die Übung kann wiederholt werden.
+  Da es sich um eine relativ fortgeschrittene Übung handelt, werden Muscle-ups in der Regel zunächst mit einem unterstützenden Kip erlernt. Die Beine schwingen (Kip) nach oben und liefern Schwung, um die explosive Aufwärtskraft zu unterstützen, die nötig ist, um über die Stange aufzusteigen. Fortgeschrittenere Athleten können eine strikte Variante des Muscle-ups ausführen, die langsam und ohne jeglichen Kip durchgeführt wird. Diese Variante beginnt aus einem ruhigen Dead Hang und nutzt isometrische Muskelkontraktion, um langsam und kontrolliert über die Stange aufzusteigen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3621'

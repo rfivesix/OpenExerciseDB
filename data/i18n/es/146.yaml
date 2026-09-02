@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '146'
+language: es
+status: human
+name: Gemelos en prensa
+description: |-
+  Sentado sobre el aparato, la parte alta de los muslos apoyada sobre el asiento, la punta de los pies sobre la calza, los tobillos en flexión pasiva: - Efectuar una extensión de los pies (flexión plantar).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2636'

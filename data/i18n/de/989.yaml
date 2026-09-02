@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: de
+status: human
+name: Bulgarische geteilte Kniebeugen rechts
+description: |-
+  Stelle Dich aufrecht vor einen Stuhl und machen einen großen Schritt. Stelle den oberen Teil einer Deiner Füße auf den Stuhl.
+  Beuge das vordere Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt
+  Gehe in die Ausgangsposition zurück und wiederhole.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1615'

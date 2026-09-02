@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '992'
+language: tr
+status: human
+name: Tek bacaklı çömelme (sağ)
+description: |-
+  Sırtınız düz bir şekilde durun
+  Sol bacağınızla ileriye doğru büyük bir adım atın
+  Sağ dizinizle neredeyse yere değene kadar leğen kemiğinizi aşağı indirin
+  Leğen kemiğinizi geri yukarı kaldırın
+
+
+  adımdan itibaren tekrarlayın.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1664'

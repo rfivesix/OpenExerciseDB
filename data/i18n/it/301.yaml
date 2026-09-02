@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '301'
+language: it
+status: human
+name: Iperestensioni
+description: |-
+  Le iperestensioni lombari, note anche come estensioni del dorso o crunch inversi, sono esercizi che mirano ai muscoli della parte bassa della schiena, in particolare l'erettore spinale. Ecco come eseguire correttamente le iperestensioni lombari:
+
+  Sdraiati a pancia in giù su una panca per iperestensioni o su una palla da ginnastica, posizionando i fianchi sul bordo e fissando le caviglie sotto i supporti per i piedi o facendole tenere da un partner.
+  Metti le mani dietro la testa, incrociando le braccia sui polsi o appoggiandole sul petto.
+  Contrai i muscoli addominali tirando il tuo ombelico verso la colonna vertebrale.
+  Solleva lentamente la parte superiore del corpo dalla panca o dalla palla, concentrandoti sull'uso dei muscoli della parte bassa della schiena per iniziare il movimento. Mantieni il collo in posizione neutra.
+  Continua a sollevarti finché il tuo corpo forma una linea retta dalla testa ai talloni.
+  Brevemente fai una pausa nella posizione più alta del movimento, quindi abbassa lentamente la parte superiore del corpo fino alla posizione di partenza, mantenendo il controllo durante tutto il movimento.
+  Ripeti per il numero desiderato di ripetizioni, di solito da 8 a 12
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2607'

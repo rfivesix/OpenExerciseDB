@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1618'
+language: en
+status: human
+name: Stationary bike cardio
+description: |-
+  Benefits of Stationary Bike Cardio
+  Stationary bike cardio is an excellent form of exercise that offers multiple benefits for health and well-being. Here are some of the most notable ones:
+  Improved Cardiovascular Health
+  Strengthens the heart: Regular exercise helps improve the heart's efficiency and reduce the risk of cardiovascular disease.
+  Increases circulation: It improves blood flow, which can help lower blood pressure.
+  Calorie Burning and Weight Loss
+  Efficient for burning calories: Depending on the intensity, you can burn between 400 and 600 calories per hour.
+  Helps with weight loss: Combined with a balanced diet, stationary bike cardio can be effective for losing weight.
+  Muscle Strengthening
+  Tones the legs: It mainly works the leg muscles, including the quadriceps, hamstrings and calves.
+  Improves muscular endurance: Over time, you can increase the endurance and strength in your legs.
+  Mental Health Benefits
+  Reduces stress: Exercise releases endorphins, which can improve your mood and reduce stress.
+  Boosts energy: Regular physical activity can raise your energy levels and improve sleep quality.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2601'

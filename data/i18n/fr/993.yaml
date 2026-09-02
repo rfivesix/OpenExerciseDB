@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: fr
+status: human
+name: 'Corde à sauter : sauts de base'
+description: |-
+  Cet exercice nécessite une corde à sauter. Assurez-vous que la longueur de la corde est adaptée à votre taille. Une mamière de vérifier est de saisir les deux poignées d'une main et de se tenir au milieu de la corde suspendue au sol avec un pied. Si la corde (sans les poignées) arrive juste sous votre poitrine, sa longueur est correcte. Une corde plus courte serait dangereuse, car vous risqueriez de vous cogner, et une corde plus longue serait mauvaise pour la forme.
+
+  Rapprochez vos pieds, pliez un peu les genoux, gardez la tête et le corps droits, gardez les coudes rentrés, ouvrez les bras.
+  Faites tourner uniquement vos poignets avec suffisamment de force pour faire tourner la corde.
+  Sautez juste assez haut pour faire passer la corde sous vos pieds.
+  Répétez à partir de l'étape 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1673'

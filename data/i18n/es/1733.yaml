@@ -1,0 +1,36 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1733'
+language: es
+status: human
+name: Sentadilla isometrica al fallo
+description: |-
+  Sentadilla Isométrica al Fallo
+  Definición
+  La sentadilla isométrica al fallo es una variante de ejercicio de sentadilla donde mantienes una posición estática de sentadilla en un ángulo específico, sosteniendo la posición hasta que los músculos no pueden mantener más la contracción.
+  Tipo de Contracción Isométrica (estática, sin movimiento)
+  Grupos Musculares Principales Cuádriceps, glúteos, músculos posteriores del muslo
+  Intensidad Muy alta, trabaja hasta el agotamiento muscular
+  Beneficios Mejora fuerza, resistencia muscular, estabilidad
+  Técnica de Ejecución
+  Colócate en posición de sentadilla con los pies separados al ancho de las caderas
+  Desciende hasta formar un ángulo de 90 grados en las rodillas
+  Mantén esa posición completamente inmóvil
+  Resiste hasta que los músculos fallen y no puedas sostener más la posición
+  Beneficios
+  Desarrollo de fuerza máxima
+  Mejora de la resistencia muscular
+  Fortalecimiento de la estabilidad articular
+  Incremento de la tolerancia al dolor muscular
+  Precauciones
+  No recomendado para principiantes
+  Riesgo de fatiga muscular intensa
+  Consultar con un profesional antes de implementarlo
+  Usar con moderación en la rutina de entrenamiento
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2860'

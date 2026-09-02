@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1480'
+language: es
+status: human
+name: Extensiones de tríceps tumbado
+description: |-
+  La posición inicial de este
+  práctico ejercicio de tríceps es tumbado en un banco estándar sujetando una barra o dos mancuernas con ambas manos en agarre prono, las manos separadas al ancho de los hombros.
+  Empieza con los brazos sobre la parte alta del
+  pecho y los codos flexionados hacia atrás en un ángulo de unos 45 grados.
+  Primero flexiona los codos y
+  luego deja caer el brazo hacia atrás, llevando la barra/mancuernas detrás de la
+  cabeza y hacia abajo en dirección al suelo. En cuanto a la posición del brazo, la barra/las mancuernas nunca deben quedar completamente por encima de la cabeza, sino detrás de ella, para
+  asegurarte de que trabajas el tríceps.
+  Mantén los omóplatos
+  recogidos hacia abajo, los codos pegados a la cabeza y el core activo durante
+  todo el movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3988'

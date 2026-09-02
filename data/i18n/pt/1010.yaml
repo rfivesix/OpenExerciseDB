@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1010'
+language: pt
+status: human
+name: Alongamento de pescoço
+description: |-
+  Posição inicial:
+  Sente-se ereto em uma cadeira ou em um travesseiro firme.
+  Passos:
+
+  Expire e incline a cabeça para frente, queixo no peito, colocando as mãos atrás da cabeça.
+  Use as mãos para puxar a cabeça levemente para baixo. Segure por 5 segundos.
+  Puxe os ombros para trás e para baixo usando os músculos das costas. Isso deve aumentar o alongamento do pescoço. Segure por 5 segundos.
+  Agora empurre suavemente a cabeça para cima, enquanto também a puxa para baixo com as mãos. Equilibre as duas forças para que sua cabeça não se mova. Segure por pelo menos 5 segundos.
+  Leve os dedos à testa e use-os para mover suavemente a cabeça de volta à posição original.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1889'

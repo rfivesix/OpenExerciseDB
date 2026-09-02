@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: id
+status: human
+name: Deadlift Kettlebell
+description: |-
+  Posisi awal:
+  Berdirilah selebar pinggul, dengan kettlebell Anda berpusat di antara pergelangan kaki Anda. Punggung Anda harus lurus, kepala menghadap ke depan.
+  Langkah:
+
+  Engsel di pinggul dan sedikit tekuk lutut untuk meletakkan tangan Anda di pegangan kettlebell. Punggung Anda harus lurus saat anda melakukan gerakan.
+  Pegang pegangan kettlebell, dengan tangan Anda mendorong ke arah yang berlawanan seolah-olah untuk menarik pegangan terpisah.
+  Saat menyentuh perut dan glutes Anda, berdiri tegak.
+  Engsel di pinggul lagi untuk membawa kettlebell kembali ke bawah, mirip dengan langkah 1.
+  Ulangi dari Langkah 3.
+
+  Tips:
+
+  Pastikan anda melakukan gerakan dengan benar, karena melakukan sebaliknya dapat menyebabkan cedera. Misalnya, jangan jongkok alih-alih berpikir di pinggul, jangan membulatkan punggung saat meraih kettlebell, dan jangan bersandar saat berdiri.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1801'

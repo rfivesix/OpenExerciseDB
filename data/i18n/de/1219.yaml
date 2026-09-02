@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1219'
+language: de
+status: human
+name: Australian Pull-ups (umgekehrtes Rudern)
+description: |-
+  Lege dich unter eine hohe Stange oder eine Suspension-Stange, die auf passender Höhe angebracht ist.
+  Positioniere dich auf dem Rücken unter der Stange und greife sie im Untergriff (Handflächen zeigen zu dir).
+  Korrigiere deine Position so, dass dein Körper von Kopf bis Fuß eine gerade Linie bildet. Die Arme sollten vollständig gestreckt, die Schultern stabilisiert und die Beine in einer Linie mit dem übrigen Körper sein.
+  Beuge die Ellbogen und ziehe deine Brust zur Stange, während du die Rückenmuskulatur anspannst. Stelle dir vor, du versuchst, die Schulterblätter zusammenzuführen.
+  Halte die Kontraktion am höchsten Punkt der Bewegung kurz, um die Muskelaktivierung zu maximieren.
+  Kehre langsam in die Ausgangsposition zurück, indem du die Ellbogen streckst.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3750'

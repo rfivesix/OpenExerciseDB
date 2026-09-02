@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: el
+status: human
+name: Ωθήσεις βαθέος καθίσματος
+description: |-
+  Θέση εκκίνησης:
+  Εκκίνηση σε θέση υψηλής σανίδας:πλάτη, χέρια και πόδια είναι ίσια, και τα χέρια βρίσκονται στο πλάτος των ώμων.
+  Βήματα:
+
+  Πηδήξτε με τα πόδια προς τα εμπρός ανάμεσα στα χέρια, κρατώντας την πλάτη επίπεδη.
+  Διατηρώντας τα χέρια στο πάτωμα, πηδήξτε με τα πόδια σας πίσω σε θέση υψηλής σανίδας.
+  Επαναλάβετε.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1451'

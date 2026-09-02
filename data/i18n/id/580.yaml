@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '580'
+language: id
+status: human
+name: Plank samping kiri
+description: |-
+  Berbaringlah, dengan siku bawah Anda di sudut kanan, lengan mencuat
+  Angkat panggul Anda dari lantai dengan mengangkat bahu bawah Anda ke atas, menjaga lengan bawah di lantai; kepala, panggul, dan kaki Anda harus berada dalam garis lurus
+  Tahan posisi
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '1422'

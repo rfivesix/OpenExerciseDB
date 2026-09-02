@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1266'
+language: es
+status: human
+name: extensiones de triceps con trx
+description: |-
+  POSICIÓN INICIAL:
+  Suspenda su TRX a la altura de la rodilla. Agarre las asas con un agarre prono y coloque sus piernas juntas detrás de usted. Su posición debe verse como una posición de push up. Mantenga su cuerpo en línea recta y sus brazos completamente extendidos retrayendo los omóplatos. Contraiga el suelo pelvico y el core mientras mantiene su cuerpo recto. Mueva sus manos para colocarlas juntas. Las cuerdas del TRX deben estar justo por encima de su cabeza y que deberían tener tensión.
+  EJECUCIÓN:
+  Comience a bajar doblando los codos hasta que las manos toquen la frente mientras inhala. No separe los codos entre ellos. Asegúrese de sólo mover los codos cuando realice el ejercicio. Empuje su torso hacia la posición inicial apretando el resto del cuerpo mientras exhala. Asegúrese de que sus escápulas siempre están retraídas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cynomops
+  source_id: '2222'

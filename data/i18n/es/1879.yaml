@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1879'
+language: es
+status: human
+name: Elevación en Y con mancuernas en banco inclinado
+description: |-
+  Ajusta
+  un banco inclinado a un ángulo de 45 grados y siéntate de cara al banco, con el pecho
+  contra el respaldo, con una mancuerna en cada mano y las palmas enfrentadas entre sí.
+  Apoya los pies firmemente en el suelo para mayor estabilidad y deja que los brazos cuelguen de forma natural con una ligera flexión en los codos.
+  Activa el core y mantén la espalda recta durante todo el movimiento.
+  Eleva los brazos hacia adelante y hacia afuera formando una "Y", manteniendo el movimiento controlado y los codos ligeramente flexionados.
+  Eleva hasta que los brazos queden aproximadamente paralelos al suelo y a la altura de las orejas.
+  Haz
+  una breve pausa en la parte alta del movimiento para activar por completo
+  los músculos del hombro, y luego baja los brazos lentamente a la posición inicial.
+  Asegúrate de que
+  el movimiento sea lento y controlado tanto en la subida como en la bajada
+  para maximizar la activación de los deltoides y los músculos de apoyo.
+  Repite el número de repeticiones deseado, manteniendo una técnica correcta en todo momento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4225'

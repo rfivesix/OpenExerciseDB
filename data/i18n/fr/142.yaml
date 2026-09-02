@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '142'
+language: fr
+status: human
+name: Rotation externe à la poulie
+description: |-
+  Étapes :
+
+  Commencez par fixer un élastique autour d'un poteau ou dans un endroit sûr où il ne se détachera pas, à hauteur du coude.
+  Placez-vous sur le côté de l'élastique et, avec la main opposée à l'élastique, tendez le bras et saisissez la poignée.
+  Ramenez l'élastique vers votre poitrine en gardant le coude plié à un angle de 90 degrés, puis tournez lentement votre bras vers l'arrière de manière à effectuer une rotation externe.
+  Continuez vers l'extérieur aussi loin que possible afin de ressentir un étirement dans vos épaules, maintenez la position le temps d'un décompte, puis revenez à la position de départ.
+  Répétez pour autant de répétitions et de séries que vous le souhaitez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4550'

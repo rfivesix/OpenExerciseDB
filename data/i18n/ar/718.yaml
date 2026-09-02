@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: ar
+status: human
+name: الجلوس على الحائط
+description: |-
+  وضع البداية:
+  يجب أن يكون ظهرك ملامسًا للجدار ، وركبتيك بزاوية قائمة ومتمركزة فوق الزوايا تمامًا. يجب أن تكون متجهًا للأمام ، مع المباعدة بين القدمين بمقدار عرض الكتفين ومثبتة بقوة على الأرض.للوصول إلى هذا الوضع ، يمكنك الاتكاء على الحائط ، على بعد حوالي قدمين من الحائط. انزلق على الحائط مع الاستمرار في الضغط على الظهر حتى تصبح ركبتيك بزاوية قائمة.
+  خطوات:
+
+  الحفاظ على هذا الموقف.
+
+  ملحوظات:
+  ألم العضلة الرباعية طبيعي ، توقف إذا شعرت بألم في الركبة أو الرضفة.
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1481'

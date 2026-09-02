@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1630'
+language: en
+status: human
+name: Blaze
+description: |-
+  BLAZE is a full-body HIIT workout. Designed to supercharge your cardio fitness and strength.&nbsp;Delivered in its own purpose-built studio, BLAZE is a unique mix of martial arts, intense cardio and strength training.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ricwheatley
+  source_id: '2739'

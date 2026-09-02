@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1414'
+language: fr
+status: human
+name: Hack squats
+description: |-
+  Les hack squats ciblent le bas du corps et se réalisent sur une machine à hack squat ou avec une barre. Pour la variante à la machine, placez-vous sur la plateforme, les épaules sous les coussinets et les pieds légèrement avancés. Poussez sur vos talons pour soulever la charge, puis fléchissez les genoux pour abaisser la plateforme de manière contrôlée jusqu'à ce que vos cuisses soient parallèles au sol. Remontez à la position de départ. Pour la variante à la barre, tenez la barre derrière vos jambes, les bras tendus, et effectuez un mouvement semblable à un squat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4619'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '373'
+language: es
+status: human
+name: Prensa de piernas cerrada
+description: |-
+  El ejercicio es muy similar a la prensa de pierna ancha:
+  Siéntese en la máquina y coloque los pies en la plataforma tan separados que podría poner otro pie entre ellos. Los pies son paralelos y apuntan hacia arriba.
+  Baje tanto el peso, que las rodillas formen un ángulo recto. Vuelva a empujar inmediatamente la plataforma hacia arriba, sin ninguna pausa. Cuando está en la posición más baja, las rodillas apuntan un poco hacia afuera y el movimiento debe ser siempre fluido.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '2094'

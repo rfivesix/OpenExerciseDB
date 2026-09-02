@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1198'
+language: en
+status: human
+name: Inverted Rows
+description: |-
+  Maintain a straight body, retract your shoulder blades, and pull your
+  chest to the bar for an effective back and upper body workout.
+search_terms:
+  - horizontal pull-ups
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Gavru
+  source_id: '2156'

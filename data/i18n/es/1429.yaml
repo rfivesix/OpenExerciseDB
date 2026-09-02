@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1429'
+language: es
+status: human
+name: Rotaciones de hombro con mancuerna
+description: |-
+  Las rotaciones de hombro con mancuerna están diseñadas para fortalecer los músculos del manguito rotador y mejorar la estabilidad y movilidad del hombro.
+
+  Rotación Externa: Sostén una mancuerna en una mano, con el codo doblado a 90 grados y pegado al cuerpo. Rota el antebrazo hacia afuera, alejándolo del cuerpo, manteniendo el codo fijo. Vuelve lentamente a la posición inicial.
+  Rotación Interna: Sostén una mancuerna en una mano, con el codo doblado a 90 grados y pegado al cuerpo. Rota el antebrazo hacia adentro, acercándolo al cuerpo, y vuelve lentamente a la posición inicial. Realiza el ejercicio con movimientos controlados para evitar lesiones.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2394'

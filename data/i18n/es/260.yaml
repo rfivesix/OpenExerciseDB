@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '260'
+language: es
+status: human
+name: Sit Outs completos
+description: |-
+  (A) Colócate en posición de plancha alta sobre las manos y los dedos de los pies. (B) Desplaza el peso hacia la mano izquierda mientras giras el cuerpo hacia la derecha; flexiona la pierna derecha por detrás de ti y extiende el brazo derecho hacia arriba. Vuelve al centro y repite hacia el lado contrario. Continúa alternando los lados. Para hacerlo más fácil: no eleves el brazo después de flexionar la pierna por detrás. Para hacerlo más difícil: mantén el equilibrio con el brazo y la pierna extendidos durante dos tiempos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3745'

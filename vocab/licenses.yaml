@@ -1,0 +1,43 @@
+# Lizenz-Vokabular.
+#
+# wger liefert `license` als numerische ID, nicht als String (siehe
+# /api/v2/license/). Diese Datei ist die einzige Stelle, an der diese IDs auf
+# die SPDX-artigen Bezeichner abgebildet werden, die schema/exercise.schema.json
+# und schema/translation.schema.json als Enum fuehren.
+#
+# Lizenz haengt PRO EINTRAG, nicht pauschal am Repo — siehe SCHEMA.md 3b.
+
+version: 1
+
+licenses:
+  - id: CC-BY-SA-4.0
+    names: { en: Creative Commons Attribution-ShareAlike 4.0, de: Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 }
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+    requires_attribution: true
+  - id: CC-BY-SA-3.0
+    names: { en: Creative Commons Attribution-ShareAlike 3.0, de: Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 }
+    url: https://creativecommons.org/licenses/by-sa/3.0/
+    requires_attribution: true
+  - id: CC-BY-4.0
+    names: { en: Creative Commons Attribution 4.0, de: Creative Commons Namensnennung 4.0 }
+    url: https://creativecommons.org/licenses/by/4.0/
+    requires_attribution: true
+  - id: CC0-1.0
+    names: { en: Creative Commons Zero 1.0, de: Creative Commons Zero 1.0 }
+    url: https://creativecommons.org/publicdomain/zero/1.0/
+    requires_attribution: false
+  - id: ODbL-1.0
+    names: { en: Open Data Commons Open Database License 1.0, de: Open Data Commons Open Database License 1.0 }
+    url: https://opendatacommons.org/licenses/odbl/1-0/
+    requires_attribution: true
+
+# Rohwerte aus der wger-API -> Knoten dieses Vokabulars.
+# Abgeglichen mit /api/v2/license/ am 2026-09-02. Eine unbekannte ID ist ein
+# harter Importfehler: eine Uebersetzung ohne belastbare Lizenzangabe darf nicht
+# stillschweigend uebernommen werden.
+legacy_wger_mapping:
+  1: CC-BY-SA-3.0     # wger short_name "CC-BY-SA 3"
+  2: CC-BY-SA-4.0     # wger short_name "CC-BY-SA 4"
+  3: CC0-1.0          # wger short_name "CC0"
+  4: CC-BY-4.0        # wger short_name "CC-BY 4"
+  5: ODbL-1.0         # wger short_name "ODbL"

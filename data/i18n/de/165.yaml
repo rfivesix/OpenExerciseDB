@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '165'
+language: de
+status: human
+name: Crunch am TRX Oder Auf Ball
+description: |-
+  Beine in die TRX-Schlingen oder auf einem großen Ball auflegen und mit den Händen unter den Schultern in eine Stützposition (Plank) kommen. Dann die Beine anziehen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Konsumopfer
+  source_id: '764'

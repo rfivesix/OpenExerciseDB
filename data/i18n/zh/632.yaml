@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: zh
+status: human
+name: 相扑深蹲
+description: |-
+  起始姿势：站起，双腿张开，脚趾向外。
+  步骤：
+
+  膝盖向外弯曲，慢慢往下沉。将手臂向前伸。头部、胸部和臀部保持在一条直线上。挤压臀部。
+  向上撑回到起始位置。
+  脉冲式地重复上述动作。
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '1444'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1409'
+language: es
+status: human
+name: Dragon flag
+description: |-
+  Mantén el cuerpo completamente rígido durante todo el movimiento, evitando que la zona lumbar se hunda.
+  Utiliza un agarre firme para estabilizar la parte superior del cuerpo.
+  Comienza con versiones más sencillas (como con las rodillas flexionadas) para desarrollar fuerza y control.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3930'

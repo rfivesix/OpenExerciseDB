@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1947'
+language: fr
+status: human
+name: dumbbell snatch
+description: |-
+  Pour l'exécuter correctement, il faut suivre ces étapes clés :
+  Mise en place : Placez l'haltère entre vos pieds, les épaules au-dessus des hanches, la poitrine haute et le dos plat.
+  Le tirage : Étendez violemment les hanches, les genoux et les chevilles (extension tri-joint) pour projeter l'haltère vers le haut, en gardant le coude haut et l'haltère près du corps.
+  La réception : Fléchissez rapidement les hanches et les genoux pour passer sous l'haltère et le recevoir au-dessus de la tête avec le bras verrouillé, en atterrissant en position de demi-squat.
+  Les erreurs courantes incluent l'utilisation excessive des bras pour soulever le poids au lieu des jambes, un coude bas pendant la phase de tirage, et un mauvais alignement de l'épaule, du coude et du poignet en position finale. Pour les débutants, il est recommandé de commencer avec des charges légères et de se concentrer sur la technique, en réalisant par exemple 3 à 5 séries de 3 à 5 répétitions par bras.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Aleid
+  source_id: '3098'

@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: cs
+status: human
+name: Horolezec
+description: |-
+  Výchozí pozice:
+  Začněte ve vzpřímené pozici pro kliky nebo ve vysokém prkně.Ruce by měly být přímo pod rameny.Hlavu držte v jedné linii se zády, čelem k podlaze.Nohy by měly být od sebe přibližně na šířku boků.
+  Kroky:
+
+  Jedno koleno posuňte směrem ke středu těla, k loktům, druhou nohu nechte nataženou.
+  Rychlým skokovým pohybem narovnejte pokrčenou nohu a druhé koleno přitáhněte k tělu.
+  Stále opakujte krok 2 a střídejte nohy.
+
+  Poznámky:
+  Po celou dobu cvičení by vaše záda měla zůstat co nejvíce rovná - vyhněte se hrbení nebo prohýbání zad.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1713'

@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '475'
+language: pt
+status: human
+name: Flexões de braço
+description: |-
+  Posição inicial:
+  Comece pendurando-se na barra de pull-up, com as palmas das mãos voltadas para fora e os pés fora do chão.Suas mãos devem estar ligeiramente mais afastadas do que a largura dos ombros. Apenas ligeiramente, de modo que os cotovelos ainda estejam na frente do corpo e não diretamente para o lado.Seu corpo deve ser reto e apontado ligeiramente para a frente. Seus braços devem estar estendidos.
+  Passos:
+
+  Use sua força para puxar o corpo para cima de maneira uniforme, aproximando o peito da barra e o queixo logo acima dela. NÃO se levante usando impulso, como chutar.
+  Abaixe cuidadosamente o corpo de volta à posição inicial.
+  Repita.
+
+  Dicas:
+
+  Para fazer flexões corretamente, você deve primeiro aumentar a força em várias áreas-chave, incluindo ombros, braços e abdominais. Comece com flexões somente depois de ter construído força suficiente com outros exercícios.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '1395'

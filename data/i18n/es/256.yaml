@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '256'
+language: es
+status: human
+name: Elevaciones frontales
+description: |-
+  Para ejecutar el ejercicio, el levantador se para con los pies separados al ancho de los hombros y las pesas o los mangos de resistencia se sostienen a los lados con un agarre en pronación (por encima de la cabeza).
+  El movimiento consiste en llevar los brazos por delante del cuerpo a la altura de los ojos y con sólo una ligera flexión del codo. Esto aísla el músculo deltoides anterior (frente al hombro) y utiliza el deltoides anterior para levantar el peso.
+  Al levantar es importante mantener el cuerpo inmóvil para que el deltoides anterior se utilice por completo; si el peso no se puede levantar estando quieto, entonces es demasiado pesado y se necesita un peso menor. Es importante mantener una ligera flexión en el codo al levantar, ya que mantener el codo trabado agregará tensión a la articulación del codo y podría causar lesiones.
+  También se puede usar un agarre neutral, similar al que se usa en el curl de martillo. Con esta variación, el peso se eleva nuevamente al nivel de los ojos, pero en un ángulo de 45 grados desde la parte frontal del cuerpo. Esto puede ser beneficioso para las personas con lesiones en el hombro, en particular las relacionadas con el manguito de los rotadores.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: Manu, wikipedia
+  source_id: '2104'

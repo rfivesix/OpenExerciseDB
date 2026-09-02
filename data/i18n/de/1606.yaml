@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1606'
+language: de
+status: human
+name: Armheben (T/Y/I)
+description: |-
+  Stelle dich aufrecht hin, mit den Füßen hüftbreit auseinander, angespanntem Rumpf und entspannt seitlich hängenden Armen. Führe aus dieser Position drei verschiedene Varianten des Armhebens aus, um Schultern und oberen Rücken zu beanspruchen:
+
+  T-Heben: Hebe deine Arme gerade zur Seite an, bis sie parallel zum Boden sind und ein „T“ bilden.
+  Y-Heben: Hebe deine Arme in einem Winkel von etwa 45° zu deinem Körper nach oben, sodass sie ein „Y“ bilden.
+  I-Heben: Hebe deine Arme gerade über den Kopf, nah beieinander, sodass sie ein „I“ bilden.
+
+  Halte deine Wirbelsäule neutral, vermeide ein Hohlkreuz im unteren Rücken und bewege dich langsam und kontrolliert. Konzentriere dich darauf, deine Schulterblätter zusammenzuziehen und deine Schultern weg von den Ohren nach unten zu halten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4119'

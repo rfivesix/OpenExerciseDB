@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '998'
+language: en
+status: human
+name: No push-up burpees
+description: |-
+  Starting position:
+  Stand straight, feet hip-width apart.
+  Steps:
+
+  Squat low and support yourself on the floor with your hands between the knees and in front of your feet, your back straight.
+  Keeping your hands on the floor, jump your legs backward into high plank position.
+  Jump your feet forward to return to the squat position.
+  Jump up.
+  Repeat.
+search_terms:
+  - No push up burpees
+  - No pushup burpees
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1742'

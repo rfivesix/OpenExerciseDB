@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1616'
+language: es
+status: human
+name: Patada de burro con mancuerna
+description: |-
+  La patada de burro con mancuerna es un ejercicio efectivo para trabajar los músculos de los glúteos y los isquiotibiales. Este ejercicio se realiza generalmente en una posición de cuatro patas, utilizando una mancuerna para aumentar la resistencia. A continuación, se describen los pasos para realizarlo correctamente.
+  Posición Inicial: Colócate en una posición de cuatro patas sobre una colchoneta, con las manos alineadas con los hombros y las rodillas alineadas con las caderas.
+  Colocación de la Mancuerna: Toma una mancuerna y colócala detrás de la rodilla de la pierna que vas a levantar. Asegúrate de que esté bien sujeta para evitar que se caiga durante el ejercicio.
+  Ejercicio:
+  Inhala y, al exhalar, levanta la pierna con la mancuerna hacia arriba, manteniendo la rodilla flexionada en un ángulo de 90 grados.
+  Eleva la pierna hasta que esté paralela al suelo, sintiendo la contracción en los glúteos.
+  Mantén la posición durante un segundo en la parte superior y luego baja lentamente la pierna a la posición inicial.
+  Repeticiones: Realiza de 10 a 15 repeticiones por cada pierna, asegurándote de mantener una buena forma durante todo el ejercicio.
+  Series: Completa de 2 a 3 series, dependiendo de tu nivel de condición física.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4133'

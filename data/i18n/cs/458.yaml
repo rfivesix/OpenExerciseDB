@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: cs
+status: human
+name: Prkno na předloktí
+description: |-
+  Výchozí pozice:
+
+  Začněte na všech čtyřech.Paže by měly být pokrčené v pravém úhlu, ramena přímo nad lokty.Záda by měla být rovná, celé tělo v přímce.
+
+  Kroky:
+
+  Vydržte v této poloze.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1400'

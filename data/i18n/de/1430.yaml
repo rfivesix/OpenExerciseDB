@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1430'
+language: de
+status: human
+name: Plate Pinch Hold
+description: |-
+  Der Plate Pinch Hold ist eine Übung für die Griffkraft, die darauf ausgelegt ist, die Unterarme zu beanspruchen und die Griffausdauer zu verbessern. Wähle eine oder zwei Hantelscheiben aus (Scheiben mit glatten Kanten eignen sich am besten) und klemme sie zwischen deinem Daumen und deinen Fingern zusammen. Halte die Scheiben mit gestrecktem Arm seitlich an deinem Körper oder leicht nach vorne ausgestreckt. Halte den Griff so lange wie möglich, halte dabei deine Schultern entspannt und deinen Griff fest. Diese Übung kann auf Zeit oder auf Wiederholungen ausgeführt werden.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3939'

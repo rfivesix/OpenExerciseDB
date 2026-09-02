@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1779'
+language: de
+status: human
+name: Landmine-Rotation
+description: |-
+  Beginne mit der Landmine-Langhantel gerade nach oben, indem du sie mit deinen Schultern über dich drückst. Führe sie dann aus dieser Position seitlich nach unten, um deine Bauchmuskulatur zu beanspruchen, und kehre in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4177'

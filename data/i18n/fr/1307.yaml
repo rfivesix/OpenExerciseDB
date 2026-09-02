@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1307'
+language: fr
+status: human
+name: Planche frontale
+description: |-
+  La planche est un exercice au poids du corps. Mouvement polyvalent, la planche ne cible pas seulement vos abdominaux, mais aussi la colonne vertébrale et les hanches. La planche renforce et raffermit l'ensemble de votre corps, améliore votre posture et votre équilibre, réduit la masse grasse et peut contribuer à stimuler votre métabolisme.
+  Des exercices comme la « position de la planche » aident à renforcer l'endurance des muscles abdominaux stabilisateurs. Elle peut également aider à soulager les douleurs dorsales liées à un affaiblissement de la fonction des muscles stabilisateurs du corps.
+  La planche est un exercice polyvalent qui sollicite un grand nombre des principaux groupes musculaires du corps, si bien que tout le monde peut l'utiliser pour améliorer son endurance et sa force générale.
+search_terms:
+  - Gainage
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4575'

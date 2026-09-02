@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '75'
+language: it
+status: human
+name: Panca Piana con Manubri
+description: |-
+  Il movimento è molto simile a quello della panca con bilanciere, ma il peso viene portato al petto in un punto più basso.
+  Impugnate due manubri e sdraiatevi su una panca. Tenete i pesi vicino al petto, all'altezza dei capezzoli, e spingeteli verso l'alto fino a tendere le braccia. Lasciare scendere il peso lentamente e in modo controllato.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2240'

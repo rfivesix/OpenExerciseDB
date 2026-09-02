@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '84'
+language: de
+status: human
+name: Rudern Vorgebeugt LH Reverse
+description: |-
+  Bewegungsablauf wie beim normalen vorgebeugtem Rudern, nur die Handstellung ist reverse, also die Handfläche zeigen nach hinten.
+  Greife die Langhantel mit breitem (etwas mehr als Schulterbreit)
+  Griff und beuge dich nach vorne. Dabei ist der Oberkörper nicht ganz
+  Waagerecht, sonder ein bisschen steiler, der Kopf schaut nach vorn und
+  die Brust is rausgestreckt.
+  Ziehe nun das Gewicht in richtung Bauchnabel. Schwinge während der
+  Bewegung den Oberkörper nicht und halte die Arme dicht am Körper wenn du
+  sie hochziehst. Bringe die Hantel langsam wieder nach unten
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '3086'

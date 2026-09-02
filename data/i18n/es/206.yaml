@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '206'
+language: es
+status: human
+name: Zancadas Caminando con Mancuernas
+description: |-
+  Esta es la variante dinámica de las zancadas. Al avanzar con cada paso en lugar de permanecer en el mismo sitio, se incrementa el trabajo de estabilización, equilibrio y coordinación.
+  Instrucciones
+
+  Posición: De pie, con la espalda recta, sostén una mancuerna en cada mano a los costados de tu cuerpo.
+  Zancada: Da un paso largo hacia adelante. Baja la cadera de forma controlada hasta que ambas rodillas se flexionen en un ángulo de aproximadamente 90 grados. La rodilla de atrás debe quedar cerca del suelo, sin tocarlo.
+  Avance: Manteniendo el torso erguido, impúlsate hacia adelante: presiona con el talón del pie delantero para ponerte de pie y dar inmediatamente el siguiente paso con la otra pierna. Continúa "caminando" con zancadas de forma fluida.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2720'

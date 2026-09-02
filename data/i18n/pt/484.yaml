@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '484'
+language: pt
+status: human
+name: Levantamento terra em rack
+description: |-
+  O levantamento terra deve ser feito usando uma máquina Smith ou um rack livre. A barra ou haltere deve ficar logo abaixo do nível da rótula. Levante usando os glúteos e através dos calcanhares e depois volte à posição inicial com um movimento de controle de 2 segundos.
+  Este exercício tem como alvo principalmente a região lombar e os glúteos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: roneydya
+  source_id: '2900'

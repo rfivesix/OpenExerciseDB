@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '152'
+language: es
+status: human
+name: Dominadas con Agarre Supino
+description: |-
+  Esta es una variante de la dominada que se caracteriza por el tipo de agarre, lo cual involucra de forma muy activa a los bíceps junto con los músculos de la espalda (dorsales). A menudo resulta más accesible que la dominada con agarre prono (pull-up).
+  Instrucciones:
+  Sujeta la barra con las palmas de las manos mirando hacia ti (agarre supino), con una separación similar al ancho de tus hombros.
+  Desde una posición colgado con los brazos extendidos, jala tu cuerpo hacia arriba hasta que tu mentón o barbilla sobrepase la barra. Baja de forma controlada hasta la extensión completa para terminar la repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2708'

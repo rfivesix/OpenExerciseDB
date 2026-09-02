@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: ar
+status: human
+name: لوح الساعد
+description: |-
+  وضع البداية:
+
+  ابدأ بيديك وساقيك على الارض.يجب ثني الذراعين بزاوية قائمة مع وضع الكتفين فوق المرفقين.يجب أن يكون الظهر مستقيمًا والجسم كله في خط مستقيم.
+
+  خطوات:
+
+  الثبوت على هذا الوضع.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1411'

@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1889'
+language: de
+status: human
+name: Beinheben auf der Schrägbank
+description: |-
+  Aufbau: Lege dich auf eine Schrägbank, mit dem Kopf am oberen Ende, und greife die Griffe.
+  Der Start: Strecke die Beine vollständig und halte sie leicht angehoben, um deinen Rumpf zu aktivieren.
+  Das Anheben: Hebe deine Beine in Richtung Decke, indem du die Bauchmuskulatur einsetzt, nicht den Schwung.
+  Das Anspannen: Halte kurz inne und ziehe oben deine untere Bauchmuskulatur zusammen.
+  Die Rückführung: Senke deine Beine langsam und kontrolliert in die Ausgangsposition.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4301'

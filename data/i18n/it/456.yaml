@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '456'
+language: it
+status: human
+name: Squat a pistola a sinistra
+description: |-
+  Stai in piedi su una gamba, con l'altra gamba dritta e leggermente in avanti.
+  Piegare un ginocchio lentamente, scendendo in uno squat e mantenendo la schiena e l'altra gamba dritta.
+  Alzati lentamente dallo squat, raddrizzando il ginocchio piegato e mantenendo l'altra gamba dritta.
+  Ripeti
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: minifigmaster125
+  source_id: '1369'

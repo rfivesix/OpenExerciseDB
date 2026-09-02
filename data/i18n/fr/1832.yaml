@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1832'
+language: fr
+status: human
+name: Maintien en appui aux anneaux
+description: |-
+  Maintenez-vous en position d'appui sur des anneaux de gymnastique, les bras tendus le long du corps. Veillez à garder les anneaux légèrement tournés vers l'extérieur et à conserver une position de corps creux. Il s'agit d'un maintien isométrique pour les pectoraux, les épaules et les triceps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4753'

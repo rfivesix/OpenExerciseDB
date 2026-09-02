@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: nl
+status: human
+name: Vloer dips
+description: |-
+  Beginpositie:
+  Zit met je armen achter je, steunend op je rug.Uw vingers moeten naar voren wijzen.Je knieën moeten gebogen zijn, voeten bij elkaar.
+  Stappen:
+
+  Hef uw heupen van de grond en strek uw armen.
+  Buig je ellebogen, breng je heupen naar beneden.
+
+
+  Strek uw armen en keer terug naar de vorige positie.
+
+
+  Herhaal stap 2 en 3.
+
+  Opmerkingen:
+  De moeilijkheidsgraad van de oefening hangt af van hoe hoog u uw heupen brengt.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1770'

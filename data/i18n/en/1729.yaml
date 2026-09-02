@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1729'
+language: en
+status: human
+name: Shoulder External Rotation (Cable)
+description: |-
+  Keep elbow fixed at your side and rotate forearm outward smoothly.
+  Don’t let your wrist or elbow drift upward — stay in one plane.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: barry
+  source_id: '2855'

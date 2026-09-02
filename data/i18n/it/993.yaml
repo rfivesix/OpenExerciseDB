@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: it
+status: human
+name: 'Corda per saltare: salti di base'
+description: |-
+  Questo esercizio richiede una corda per saltare. Assicuratevi che la lunghezza della corda sia adatta alla vostra altezza. Un modo per controllare è quello di afferrare entrambe le maniglie con una mano e stare al centro della corda appesa a terra con un piede. Se la corda (escluse le maniglie) arriva appena sotto il tuo petto, la sua lunghezza è giusta. Una corda più corta sarebbe pericolosa, perché potreste colpirvi, e una corda più lunga sarebbe una cattiva forma.
+
+  Metti i piedi vicini, piega un po' le ginocchia, tieni la testa e il corpo dritti, tieni i gomiti in dentro, apri le braccia.
+  Fai girare solo i polsi con abbastanza forza da far girare la corda.
+  Salta appena abbastanza in alto da far passare la corda sotto i tuoi piedi.
+  Ripetere dal punto 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1675'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '991'
+language: nl
+status: human
+name: Gespleten hurkzit (links)
+description: |-
+  Ga staan met een rechte rug.
+  Doe een grote stap vooruit met je linkerbeen.
+  Duw je bekken omlaag, zo ver tot je bijna de grond raakt met je rechterknie.
+  Duw je bekken omhoog.
+  Herhaal vanaf stap 3.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1648'

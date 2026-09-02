@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1605'
+language: es
+status: human
+name: Ejercicio de aducción Copenhagen
+description: |-
+  Túmbate de lado con el codo colocado justo debajo del hombro, similar a la posición de una plancha lateral. Apoya la pierna superior sobre un banco, con la cara interna del pie o el tobillo descansando sobre él. Levanta las caderas y mantén el cuerpo en línea recta mientras la pierna inferior se mantiene separada del suelo. El ejercicio activa con fuerza los aductores de la pierna superior y, a la vez, exige al core y a los estabilizadores de la cadera.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4118'

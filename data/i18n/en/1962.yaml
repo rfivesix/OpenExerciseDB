@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1962'
+language: en
+status: human
+name: Step Jack
+description: |-
+  The Step Jack is a low-impact plyometric-style move that provides cardiovascular benefits without the joint stress of jumping. It works the entire body, specifically targeting the legs, core, and shoulders. This move is ideal for beginners, individuals with joint sensitivities, or as a dynamic warm-up to gradually elevate the heart rate.
+  Notes (Instructions):
+
+  ​Stand upright with your feet together and arms at your sides.
+  ​Step your right foot out to the side while simultaneously swinging both arms up above your head.
+  Bring your right foot back to the center and lower your arms.
+  ​Immediately repeat the movement, stepping out with your left foot.
+  ​Continue alternating sides at a steady, rhythmic pace.
+search_terms:
+  - Side Step Jack
+  - Low Impact Jumping Jack
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anon#2
+  source_id: '3117'

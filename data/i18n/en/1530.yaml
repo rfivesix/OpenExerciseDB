@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1530'
+language: en
+status: human
+name: Lying Dumbbell Curls
+description: |-
+  Take a
+  dumbbell in each hand and lie backwards on a bench, similar to a classic chest press.
+  Let your arms hang down at your sides, with the dumbbells possibly touching the
+  floor. Now start to lift the dumbbells upwards until your forearms are
+  perpendicular to the ceiling. Slowly lower the dumbbells until they almost
+  touch the floor again. Keep your ellbows in place to minimize cheating.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2488'

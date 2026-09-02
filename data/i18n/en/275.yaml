@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '275'
+language: en
+status: human
+name: Hammercurls on Cable
+description: |-
+  Take a cable in your hands (palms parallel, point to each other), the body is straight. Bend the arms and bring the weight up with a fast movement. Without any pause bring it back down with a slow, controlled movement, but don't stretch completely your arms.
+  Don't swing your body during the exercise, the biceps should do all the work here. The elbows are at your side and don't move.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '138'

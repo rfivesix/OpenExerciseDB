@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1447'
+language: de
+status: human
+name: Snatch (Reißen)
+description: |-
+  Olympisches Reißen
+
+  Ziehe die Langhantel mit einem weiten Griff und einer Überkopfkniebeuge vom Boden bis zum Lockout über dem Kopf.
+  Bewege die Stange langsam, bis sie die Knie passiert hat, strecke dann explosiv die Hüfte, ziehe die Stange nach oben und tauche dich unter die Stange
+  Fange die Stange mit gestreckten Armen über dem Kopf auf
+  Schiebe den Kopf während des Lockouts nach vorne
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3956'

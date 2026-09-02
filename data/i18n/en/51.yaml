@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '51'
+language: en
+status: human
+name: Barbell Wrist Curl
+description: |-
+  Sitting on a bench, grab a barbell with your palms facing up and your hands shoulder-width apart. Rest your forearms on your thighs and allow your wrists to hang over your knees. Perform the movement by curling your palms and wrists towards your face.
+  Pause for a moment in the top position, then slowly return the barbell to the starting position.
+search_terms:
+  - Forearm Curls
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: burenl
+  source_id: '758'

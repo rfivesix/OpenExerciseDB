@@ -1,0 +1,30 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '75'
+language: es
+status: human
+name: Press de banca con mancuernas
+description: |-
+  Es un ejercicio multiarticular de fuerza y de hipertrofia destinado al desarrollo del tren superior, específicamente el pecho. Al usar mancuernas en lugar de barra, se corrige el desequilibrio de fuerza entre ambos lados del cuerpo y se permite un movimiento más natural y amigable para las articulaciones del hombro.
+
+
+  Preparación y Posición Inicial: Siéntate en el extremo de un banco plano con una mancuerna apoyada verticalmente en cada muslo. Túmbate hacia atrás con cuidado mientras impulsas las mancuernas con las rodillas hacia tu pecho.
+
+
+  El "Leg Drive" y Postura: Apoya los pies firmemente en el suelo. Retrae las escápulas (junta los omóplatos contra el banco) y mantén un ligero arco lumbar natural.
+
+
+  Posición de Salida: Empuja las mancuernas hacia el techo. Tus muñecas deben estar alineadas con los codos. Gira ligeramente las mancuernas hacia adentro (unos 45 grados) para que los codos no se abran en exceso hacia los lados, protegiendo así tus hombros.
+
+
+  Fase Excéntrica (Bajada): Baja las mancuernas de forma controlada hacia los lados de tu pecho. Los codos deben bajar formando un ángulo de unos 45-60 grados respecto a tu cuerpo. Siente el estiramiento en el pectoral en la parte baja.
+
+
+  Fase Concéntrica (Subida): Empuja el peso hacia arriba siguiendo una ligera trayectoria en arco (hacia el centro), sin llegar a chocar las mancuernas arriba ni bloquear los codos por completo para mantener la tensión muscular. Expulsa el aire al subir.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2626'

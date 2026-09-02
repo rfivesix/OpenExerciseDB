@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: en
+status: human
+name: Mountain climbers
+description: |-
+  Starting position:
+  Start in the upright push-up position, aka. the high plank position.Hands should be directly under your shoulders.Keep your head in line with your back, facing the floor.Feet should be about hip-width apart.
+  Steps:
+
+  Move one knee toward the center of your body, towards your elbows, keeping the other leg extended.
+  In a quick jumping movement, straighten the bent leg out and pull the other knee toward your body.
+  Keep repeating step 2, alternating legs.
+
+  Notes:
+  Throughout the exercise, your back should remain as straight as possible – avoid a hump or a sagging back.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1715'

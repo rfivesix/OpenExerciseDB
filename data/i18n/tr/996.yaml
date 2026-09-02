@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: tr
+status: human
+name: Dağ tırmanışı
+description: |-
+  Başlangıç durumu:
+  Dik şınav durumunda veya yüksek plankta başlayın.Eller doğrudan omuzlarınızın altında olmalıdır.Başınızı yere bakacak şekilde sırtınızla aynı hizada tutun.Ayaklar yaklaşık kalça genişliğinde olmalıdır.
+  Adımlar:
+
+  Bir dizinizi vücudunuzun ortasına, dirseklerinize doğru hareket ettirin, diğer bacağınızı uzatın.
+  Hızlı bir zıplama hareketinde, bükülmüş bacağı düzeltin ve diğer dizinizi vücudunuza doğru çekin.
+  Adım 2'yi, bacakları değiştirerek tekrarlamaya devam edin.
+
+  Notlar:
+  Egzersiz boyunca sırtınız olabildiğince düz kalmalıdır – kamburluktan veya sırtınızın sarkmasından kaçının.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1723'

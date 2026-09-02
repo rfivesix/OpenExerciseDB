@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '174'
+language: it
+status: human
+name: Crunch con alzata di Gambe
+description: |-
+  Sulla schiena, le gambe distese verso l'alto, raggiungi le dita dei piedi con le mani e solleva le scapole da terra e indietro.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: krisbbb
+  source_id: '1243'

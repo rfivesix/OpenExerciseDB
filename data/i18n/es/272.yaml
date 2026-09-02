@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '272'
+language: es
+status: human
+name: Curl Martillo
+description: |-
+  Esta variante del curl utiliza un agarre neutro (como si sostuvieras un martillo) para enfocar el trabajo en el músculo braquial (ubicado debajo del bíceps) y el antebrazo (braquiorradial), lo que ayuda a dar más grosor y densidad al brazo.
+  Instrucciones
+
+  Posición: De pie o sentado, sostén un par de mancuernas a los costados de tu cuerpo con las palmas de las manos mirándose entre sí (agarre neutro).
+  Movimiento: Manteniendo los codos fijos a los costados de tu torso, levanta las mancuernas hasta la altura de los hombros. La clave es no rotar las muñecas en ningún momento; la orientación de las palmas no cambia.
+  Tempo: Sube el peso de forma potente y bájalo de manera lenta y controlada para maximizar la tensión muscular. Evita balancear el cuerpo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2735'

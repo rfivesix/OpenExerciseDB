@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '915'
+language: es
+status: human
+name: Volante
+description: |-
+  Este ejercicio, que simula el movimiento de girar el volante de un autobús, es excelente para trabajar la resistencia y la fuerza de rotación del core, además de los deltoides.
+  Instrucciones
+
+  Posición: Siéntate en el suelo o en un banco, manteniendo la espalda recta y el abdomen contraído. Sostén un disco (placa) con ambas manos frente a ti, a la altura del pecho o los hombros, como si fuera un volante.
+  Movimiento: Gira el disco de un lado a otro de forma controlada, rotando desde el torso. Imagina que estás conduciendo un autobús y girando el volante en curvas pronunciadas.
+  Control: El movimiento debe originarse en tu core, no solo en tus brazos. Mantén los brazos relativamente extendidos durante todo el ejercicio.
+
+  (Para mayor dificultad, realízalo sentado en el suelo con los pies elevados).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2734'

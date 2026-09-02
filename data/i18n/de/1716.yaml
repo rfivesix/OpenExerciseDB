@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1716'
+language: de
+status: human
+name: Schulterdrücken auf der Bank (Scapular Push-up)
+description: |-
+  Lege deine Hände auf der Bank in einer Liegestützposition ab.
+  Drücke deine Brust von der Bank weg, um die Schulterblätter auseinanderzuführen.
+  Halte die Ellbogen gestreckt und senke deine Brust Richtung Bank, sodass sich die Schulterblätter wieder annähern.
+  Drücke deine Brust erneut von der Bank weg.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3761'

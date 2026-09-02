@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1019'
+language: nl
+status: human
+name: Rechts planken
+description: |-
+  Ga op je linkerzij liggen, houd je rechterelleboog recht en steek je arm uit.
+  Duw je bekken omhoog door je rechterschouder op te tillen, maar houd je bovenarm op de grond - je hoofd, bekken en voeten moeten in een rechte lijn liggen.
+  Houd deze positie vas
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1928'

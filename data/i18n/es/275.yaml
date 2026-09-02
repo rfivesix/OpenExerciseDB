@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '275'
+language: es
+status: human
+name: Biceps concentrado martillo con cable
+description: |-
+  Ejecución 1. Realice la posición inicial. 2. Mantenga el agarre firme en todo momento, suba hasta la altura de los hombros, y hasta que ambos brazos queden flexionados. Exhale y contraiga los bíceps. 3. Luego baje lentamente, buscando que sus brazos se encuentren totalmente extendidos. En este punto inhale. 4. Repita las veces que desee.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2634'

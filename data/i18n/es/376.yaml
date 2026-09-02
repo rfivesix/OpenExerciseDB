@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: es
+status: human
+name: Levantamiento de piernas
+description: |-
+  Posición inicial:
+  Túmbate de espaldas, con los pies juntos y los brazos a los lados.
+  Pasos:
+
+  Dobla las rodillas y luego enderézalas para que apunten hacia arriba.
+  Manteniendo las piernas rectas, bájalas juntas sin tocar el suelo. Cuanto más bajes, más intenso será el ejercicio.
+  Sube las dos piernas juntas hasta que vuelvan a apuntar hacia arriba.
+  Repite desde el paso 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1342'

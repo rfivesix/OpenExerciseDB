@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '285'
+language: de
+status: human
+name: Hohe Knie-Sprünge
+description: |-
+  Beginne mit den Beinen etwas weiter als schulterbreit
+  Senke dich in eine Kniebeuge mit dem eigenen Körpergewicht ab
+  Wenn du den tiefsten Punkt der Kniebeuge erreichst, explodiere nach oben in einen Sprung und ziehe gleichzeitig die Knie in der Luft zur Brust. Bleib in dieser angehockten Position bis zum höchsten Punkt deines Sprungs.
+  Lande auf beiden Füßen und achte darauf, dass deine Knie nicht durchgedrückt sind, um eine übermäßige Belastung deiner Gelenke zu vermeiden. Sammle dich so schnell wie möglich, aber kontrolliert, für die nächste Wiederholung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3596'

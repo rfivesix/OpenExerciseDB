@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1484'
+language: en
+status: human
+name: Omni Cable Cross-over
+description: |-
+  Adjust the weights based on the
+  motion. When pulling from top to bottom, increase the weight by 20% to 40%
+  more than the bottom-to-top motion. This accounts for the fact that when
+  operating from top down, the upper chest muscles are naturally weaker than
+  the lower chest muscles. So, adjust your weight stack to
+  compensate.
+
+  Position one cable at a high
+  setting and the other at the lowest level setting. Get into a staggered
+  stance in between the cable towers.
+  For the cable set low, pull it
+  upward and across your body. This effectively targets the upper chest.
+  For the cable set high, draw it
+  downward and across your body. This will primarily engage the lower chest.
+
+  Once you’re done, swap the
+  positions of the cables. Change the previously high cable to the lowest
+  position and vice versa. Repeat the exercise sequence, ensuring you’re
+  targeting both chest regions effectively.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2447'

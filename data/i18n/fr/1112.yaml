@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1112'
+language: fr
+status: human
+name: Pompes déclinées
+description: |-
+  Les pompes déclinées sont une autre version modifiée de la pompe traditionnelle qui sollicite les muscles du haut du corps d'une manière différente. Pour effectuer une pompe déclinée, surélevez vos pieds sur une surface surélevée, telle qu'un banc, une chaise ou une marche, tout en plaçant vos mains au sol en position de pompe. Abaissez votre corps vers le sol tout en maintenant une ligne droite de vos épaules à vos chevilles, puis remontez à la position de départ
+  Contrairement à la pompe inclinée, la pompe déclinée met davantage l'accent sur les épaules et les triceps, tout en engageant les muscles de la poitrine dans une moindre mesure. En surélevant vos pieds, vous augmentez la difficulté de l'exercice en plaçant plus de poids sur le haut de votre corps, forçant vos épaules et vos triceps à travailler plus fort pour repousser votre corps vers le haut.
+  La pompe déclinée peut être un excellent moyen de mettre à l'épreuve la force de votre haut du corps et d'améliorer votre capacité à effectuer d'autres variations de pompes. Comme pour tout exercice, assurez-vous d'utiliser une forme appropriée et de commencer avec une hauteur adaptée à votre niveau de force et de forme physique.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2761'

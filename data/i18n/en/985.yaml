@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: en
+status: human
+name: Push-up rotations
+description: |-
+  Starting position:
+  Get into the starting push-up position, with your hands and toes touching the ground and back, arms and legs straight. To get to this position, you can lie down on your stomach, place your hands facing down next to your head, and lifting your arms up until they are straight.
+  Steps:
+
+  Perform a standard push-up:
+
+  1.a Bend arms until chest almost touches the ground, making sure the back is straight.1.b Use your arms to lift yourself back up to starting position.
+
+  Rotate your body to the side so that the back is straight, the bottom hand supporting the body is fully extended, and only the bottom hand and foot touch the floor.
+  Repeat, changing sides at step 2 each time.
+search_terms:
+  - Push up rotations
+  - Pushup rotations
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1559'

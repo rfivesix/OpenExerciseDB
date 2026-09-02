@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '723'
+language: de
+status: human
+name: Latzug Breit
+description: |-
+  Aufrechte Sitzposition
+  Oberkörper leicht nach hinten beugen
+  Stange im Obergriff fassen
+  Stange vor dem Kopf nach unten zum Brustbein ziehen
+  Stange zurückführen, bis Ellenbogen leicht gebeugt
+search_terms:
+  - Lat Pulldown Breit
+  - Lat ziehen breit
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '243'

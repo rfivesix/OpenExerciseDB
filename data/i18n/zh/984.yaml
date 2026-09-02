@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: zh
+status: human
+name: 弓步
+description: |-
+  起始姿势：背部挺直站立。
+  步骤：
+
+  左腿向前迈出一大步。
+  让骨盆向下，直到你的右膝几乎触地。
+  将骨盆抬高。
+  后退回到起始姿势。
+  重复，每次换腿。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1555'

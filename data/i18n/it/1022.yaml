@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1022'
+language: it
+status: human
+name: Kettlebell swing a una mano
+description: |-
+  Come un normale swing con kettelbell, solo con un braccio. Gambe divaricate alla larghezza delle spalle, inizia con il kettelbell tra le gambe e fallo oscillare davanti a te mentre allunghi le gambe, quindi riportalo indietro tra le gambe.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1970'

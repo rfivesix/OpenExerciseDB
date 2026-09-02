@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2528'
+language: en
+status: human
+name: Squat Sky Reach Stretch
+description: |-
+  Drop into a squat.
+  Hold one ankle with the opposite hand.
+  Fold your other arm to your chest.
+  Staying in the squat and keeping hold of your ankle, twist to turn your chest-hand back/outwards until your elbow is pointing at the sky.
+  Return to the neutral squatting position with your hand on your chest. Repeat movement as required.
+
+  Repeat on both sides.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '4997'

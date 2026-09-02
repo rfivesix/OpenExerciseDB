@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1113'
+language: de
+status: human
+name: Liegestütze | Parallettes
+description: |-
+  Parallettes-Liegestütze sind eine Variante des klassischen Liegestützes, die mit den Händen auf parallelen Stangen, den sogenannten Parallettes, ausgeführt wird. Um einen Parallettes-Liegestütz auszuführen, nimmst du eine Liegestützposition ein, die Hände auf den Parallettes und die Füße auf dem Boden. Senke deinen Körper zum Boden, während du die Ellbogen nah am Körper hältst, und drücke dich dann wieder in die Ausgangsposition hoch.
+  Parallettes-Liegestütze legen im Vergleich zu klassischen Liegestützen mehr Betonung auf Brust und Schultern, da sie einen größeren Bewegungsumfang im Schultergelenk ermöglichen. Dieser größere Bewegungsumfang kann auch helfen, die Stabilität und Beweglichkeit der Schulter zu verbessern. Außerdem beanspruchen Parallettes-Liegestütze die Rumpfmuskulatur stärker als klassische Liegestütze, da die Instabilität der Parallettes eine stärkere Aktivierung des Rumpfes erfordert, um die saubere Ausführung zu halten.
+  Die zusätzliche Herausforderung, auf den Parallettes zu balancieren, erfordert außerdem mehr Kraft und Kontrolle im Oberkörper, wodurch Parallettes-Liegestütze eine fortgeschrittenere Variante des klassischen Liegestützes sind. Sie können eine großartige Möglichkeit sein, dich selbst herauszufordern und Abwechslung in dein Oberkörpertraining zu bringen. Achte wie immer auf eine saubere Ausführung und beginne mit einem Niveau, das zu deiner Kraft und deinem Fitnesslevel passt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3700'

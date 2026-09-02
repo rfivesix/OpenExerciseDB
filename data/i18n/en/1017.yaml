@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1017'
+language: en
+status: human
+name: Neck half circles
+description: |-
+  Starting position:
+  Start sitting or standing. Lean your head against one of your shoulders, but don't push.
+  Steps:
+  In one slower fluid motion and with your head relaxed and not pushing in any direction:
+
+  bring your head down toward your chest.
+  then lean back aganst your other shoulder.
+  then back toward the chest again.4.and finally toward the starting position.
+
+  Keep repeating this.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1917'

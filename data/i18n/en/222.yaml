@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '222'
+language: en
+status: human
+name: Facepull
+description: |-
+  Attach a rope to a pulley station set at about chest level.
+  Step back so you're supporting the weight with arms completely outstretched and assume a staggered (one foot forward) stance. Bend the knees slightly for a stable base.
+  Retract the scapulae (squeeze your partner's finger with your shoulder blades) and pull the center of the rope slightly up towards the face. A good cue is to think about pulling the ends of the rope apart, not just pulling back.
+  As you near your face, externally rotate so your knuckles are facing the ceiling.
+  Hold for one second at the top position and slowly lower.
+search_terms:
+  - Face pull
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: abeworld
+  source_id: '394'

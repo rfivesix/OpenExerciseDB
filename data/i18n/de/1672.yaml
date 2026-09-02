@@ -1,0 +1,32 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1672'
+language: de
+status: human
+name: Hüftabduktion sitzend
+description: |-
+  Ausgangsposition:
+
+  Stelle die Sitzhöhe so ein, dass deine Knie auf einer Linie mit dem Drehpunkt der Maschine liegen.
+  Setze dich mit dem Rücken flach an die Rückenlehne und behalte eine gute Haltung bei.
+  Lege die Außenseite deiner Oberschenkel gegen die gepolsterten Hebel der Maschine.
+  Stelle deine Füße flach auf die Fußstützen oder die Plattform der Maschine.
+  Greife die Griffe oder die Seiten des Sitzes für mehr Stabilität.
+  Achte darauf, dass deine Wirbelsäule neutral ist und dein Rumpf leicht angespannt ist.
+
+  Bewegung:
+
+  Atme aus, während du deine Beine langsam gegen die Widerstandspolster nach außen drückst.
+  Konzentriere dich darauf, die Bewegung aus deiner Hüfte zu initiieren, nicht aus den Knien.
+  Öffne deine Beine weiter, bis du eine starke Kontraktion in deiner äußeren Hüfte und in den Oberschenkeln spürst.
+  Halte die vollständig abduzierte Position kurz (1-2 Sekunden), um die Muskelaktivierung zu maximieren.
+  Atme ein, während du die Rückkehr deiner Beine in die Ausgangsposition langsam kontrollierst und dem Gewicht während der gesamten Bewegung Widerstand entgegensetzt.
+  Vermeide es, den Gewichtsblock zwischen den Wiederholungen aufsetzen zu lassen, um eine konstante Spannung auf den Muskeln zu halten.
+  Wiederhole es für die gewünschte Anzahl an Wiederholungen und behalte die Kontrolle während des gesamten Satzes bei.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3869'

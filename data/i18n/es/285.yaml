@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '285'
+language: es
+status: human
+name: Saltos al Pecho
+description: |-
+  Este es un ejercicio pliométrico de alta intensidad diseñado para desarrollar la máxima potencia y explosividad en el tren inferior.
+  Instrucciones
+
+  Carga: De pie, con los pies al ancho de los hombros, baja rápidamente a una media sentadilla para tomar impulso.
+  Explosión: Desde el fondo de la sentadilla, salta verticalmente con la mayor fuerza posible. En el punto más alto del salto, lleva las rodillas hacia el pecho (en una posición agrupada o "tuck").
+  Aterrizaje: Aterriza de forma suave sobre la parte delantera de los pies, flexionando inmediatamente las rodillas y la cadera para absorber el impacto. Desde ahí, puedes encadenar la siguiente repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2732'

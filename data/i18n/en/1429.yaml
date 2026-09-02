@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1429'
+language: en
+status: human
+name: Dumbbell Shoulder Rotations
+description: |-
+  Dumbbell shoulder rotations are designed to strengthen the rotator cuff muscles and improve shoulder stability and mobility.
+
+  External Rotation: Hold a dumbbell in one hand, keeping your elbow bent at 90 degrees and close to your body. Rotate your forearm outward, away from your body, keeping your elbow stationary. Slowly return to the starting position.
+  Internal Rotation: Hold a dumbbell in one hand, keeping your elbow bent at 90 degrees and close to your body. Rotate your forearm inward, toward your body, and slowly return to the starting position. Perform the exercise with controlled movements to avoid strain.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2393'

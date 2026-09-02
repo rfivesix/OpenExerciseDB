@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2449'
+language: fr
+status: human
+name: Clamshell vers clamshell inversé
+description: |-
+  Allongez-vous sur le côté, les hanches et les genoux fléchis, en gardant les jambes superposées. Levez le genou supérieur en position de clamshell et maintenez la jambe relevée pendant tout le mouvement. À partir de là, alternez entre l'ouverture du genou vers le haut et l'élévation du pied vers le haut, en passant par la rotation externe puis interne de la hanche.
+  Gardez le mouvement lent et contrôlé. Ne laissez pas la jambe supérieure reposer sur la jambe inférieure entre les répétitions.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4441'

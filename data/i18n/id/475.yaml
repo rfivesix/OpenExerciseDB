@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '475'
+language: id
+status: human
+name: Tarik - up
+description: |-
+  Posisi awal:
+  Mulailah dengan menggantung dari bar pull-up, telapak tangan menghadap jauh dan kaki dari lantai.Tangan Anda harus sedikit lebih lebar dari selebar bahu. Hanya sedikit begitu, sehingga siku masih di depan tubuh daripada tepat ke samping.Tubuh Anda harus lurus dan sedikit mengarah ke depan. Lengan Anda harus diperpanjang.
+  Langkah:
+
+  Gunakan kekuatan Anda untuk menarik tubuh Anda secara merata, mendekatkan dada anda ke Palang pull-up dan dagu Anda tepat di atasnya. Jangan mengangkat diri menggunakan momentum, seperti menendang.
+  Hati-hati menurunkan tubuh Anda kembali ke posisi awal.
+  Ulangi.
+
+  Tips:
+
+  Untuk melakukan pull-up dengan benar, Anda harus terlebih dahulu membangun kekuatan di beberapa area utama, termasuk bahu, lengan, dan perut. Mulailah dengan pull-up hanya setelah Anda membangun kekuatan yang cukup dengan latihan lain.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '1390'

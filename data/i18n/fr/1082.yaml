@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1082'
+language: fr
+status: human
+name: Rowing penché vers rotation externe
+description: |-
+  Position de départ :
+  Tenez-vous derrière une chaise ou devant une table. Penchez-vous au niveau de la taille pour poser votre front sur le dossier de la chaise ou sur la table, en gardant le dos droit. Vos bras doivent pendre droit vers le bas, dirigés vers le sol.
+  Étapes :
+
+  Montez vos coudes à hauteur d'épaules. Vos avant-bras doivent pointer vers le bas, perpendiculaires à vos bras. Vos bras doivent être à la même hauteur que votre dos et perpendiculaires à votre colonne vertébrale.
+  Maintenez un instant.
+  Effectuez une rotation au niveau des coudes pour amener vos mains le plus haut possible.
+  Maintenez un instant.
+  Effectuez une rotation au niveau des coudes pour revenir à la position précédente.
+  Abaissez vos bras jusqu'à la position initiale.
+  Répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4474'

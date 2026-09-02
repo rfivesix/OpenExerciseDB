@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '694'
+language: fr
+status: human
+name: Tirage menton avec haltères
+description: |-
+  Tenez un haltère dans chaque main devant votre corps. Gardez vos paumes tournées vers votre corps. Levez vos mains tout droit jusqu'à ce qu'elles soient sous votre menton, puis baissez-les. Répétez l'exercice.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '3115'

@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1602'
+language: de
+status: human
+name: Kurzhantel-Scaption
+description: |-
+  Ausgangsposition:
+  Stelle dich aufrecht hin, mit den Füßen schulterbreit auseinander.
+  Halte in jeder Hand eine Kurzhantel mit neutralem Griff (Handflächen zeigen zueinander).
+  Halte die Ellbogen leicht gebeugt, die Schultern entspannt und die Schulterblätter nach hinten gezogen.
+  Ausführung:
+  Hebe die Kurzhanteln langsam nach vorn und leicht zur Seite, in einem Winkel von etwa 30–45° zu deinem Körper (zwischen einem Frontheben und einem Seitheben).
+  Hebe sie an, bis deine Arme etwa auf Schulterhöhe sind (gehe nicht über den Kopf).
+  Halte am höchsten Punkt eine Sekunde inne und spüre die Aktivierung in deinen Schultern und den Schulterblattstabilisatoren.
+  Senke die Kurzhanteln kontrolliert wieder in die Ausgangsposition ab.
+  Atmung:
+  Atme ein, während du die Kurzhanteln absenkst.
+  Atme aus, während du sie anhebst.
+  Häufige Fehler:
+  Die Verwendung zu schwerer Kurzhanteln (was zu ruckartigen Bewegungen führt).
+  Das Anheben über Schulterhöhe (was das Schultergelenk unnötig belastet).
+  Ein Hohlkreuz im unteren Rücken, anstatt die Bewegung kontrolliert aus den Schultern auszuführen.
+  Zweck der Übung:
+  Aktiviert den unteren Trapezmuskel, den vorderen Sägemuskel und die Schulterblattstabilisatoren.
+  Hilft, die Haltung zu korrigieren und das Gleichgewicht der Schultern zu verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4113'

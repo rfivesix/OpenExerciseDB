@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: en
+status: human
+name: Sumo Squats
+description: |-
+  Stand with your feet wider than your shoulders, with your toes pointed out at a 45 degree angle and barbell on your shoulder.
+  While keeping your back straight, descend slowly by bending at the knees and hips as if you are sitting down (squatting).
+  Lower yourself until your quadriceps and hamstrings are parallel to the floor.
+  Return to the starting position by pressing upwards and extending your legs while maintaining an equal distribution of weight on your forefoot and heel.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '570'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '976'
+language: es
+status: human
+name: Abdominales en V con Balón Medicinal
+description: |-
+  Este es un ejercicio abdominal avanzado. Al usar un balón medicinal como sobrecarga, se aumenta significativamente la intensidad y la dificultad del movimiento en comparación con la versión sin peso.
+  Para realizarlo, acuéstate boca arriba con las piernas rectas y los brazos extendidos por encima de tu cabeza, sosteniendo el balón con ambas manos. Contrayendo el abdomen, levanta simultáneamente las piernas y el torso del suelo, buscando tocar el balón con los pies en el punto más alto y formando una "V" con tu cuerpo. Baja de forma lenta y controlada a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2560'

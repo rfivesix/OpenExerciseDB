@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '319'
+language: ru
+status: human
+name: Бег
+description: |-
+  Бег предоставляет хорошие условия в качестве аэробной тренировки, которая увеличивает порог выносливости, положительно влияет на сердечно-сосудистую систему, повышает обмен веществ в организме и, таким образом, помогает осуществлять контроль за весом тела. Бег позитивно влияет на иммунную систему и улучшает тонус кожи. Укрепление мускулатуры ног и улучшение обмена веществ помогает предотвратить и устранить целлюлит.
+  https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B3
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Papazit
+  source_id: '261'

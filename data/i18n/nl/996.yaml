@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: nl
+status: human
+name: Bergbeklimmer
+description: |-
+  Startpositie:
+  Ga in de push-up- of hogeplankpositie staan.Houd je handen gelijk met je schouders.Houd je hoofd in lijn met je rug en kijk naar de grond.Zet je voeten op heuplengte van elkaar.
+  Stappen:
+
+  Breng één knie naar voren, naar het midden van je lichaam en houd het andere gestrekt.
+  Laat je gebogen been naar achter schieten (als een soort sprongetje) en buig je andere been.
+  Herhaal stap 2 en wissel telkens van been.
+
+  Let op:
+  blijf je rug recht houden tijdens de gehele duur van de oefening.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1721'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1262'
+language: fr
+status: human
+name: Curl biceps à un bras au TRX
+description: |-
+  Étape 1 : Tenez-vous confortablement et saisissez les poignées du système de suspension. Étape 2 : Penchez-vous vers l'arrière en reportant votre poids sur un bras, la colonne vertébrale en position neutre. Étape 3 : Effectuez lentement un curl pour amener le poids de votre corps vers le haut. Tournez le bras en supination et contractez à l'approche de la position finale. Étape 4 : Redescendez et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4552'

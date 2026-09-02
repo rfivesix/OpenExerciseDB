@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1218'
+language: fr
+status: human
+name: Pompes sur les genoux
+description: |-
+  Commencez par vous agenouiller sur le sol, en gardant les genoux joints. Placez vos mains sur le sol devant vous, légèrement plus larges que la largeur des épaules.
+  Assurez-vous que votre corps forme une ligne droite de la tête aux genoux. Les mains doivent être positionnées sous les épaules.
+  Abaissez votre torse vers le sol en pliant les coudes tout en maintenant la stabilité du tronc. Les genoux restent en contact avec le sol.
+  Poussez à travers les mains pour remonter à la position de départ. Assurez-vous de maintenir une contraction des muscles de la poitrine, des épaules et des bras en haut du mouvement.
+  Effectuez le nombre souhaité de répétitions, en contrôlant le mouvement et en maintenant une bonne forme.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: PaukOne
+  source_id: '2185'

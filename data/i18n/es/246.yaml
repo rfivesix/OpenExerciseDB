@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '246'
+language: es
+status: human
+name: Press Francés con Barra SZ
+description: |-
+  Este ejercicio, popularmente conocido como "rompecráneos" (skullcrusher), es uno de los más efectivos para añadir masa y fuerza a los tríceps. El uso de la barra SZ (o EZ) reduce la tensión sobre las muñecas en comparación con una barra recta.
+  Instrucciones
+
+  Posición: Acuéstate en un banco plano. Sujeta una barra SZ sobre tu pecho con un agarre cerrado (manos en las curvas interiores de la barra) y los brazos extendidos.
+  Descenso: Manteniendo la parte superior de los brazos inmóvil y perpendicular al suelo, flexiona únicamente los codos para bajar la barra de forma controlada en dirección a tu frente.
+  Ascenso: Justo antes de que la barra toque tu frente, empújala de vuelta a la posición inicial extendiendo los codos. Concéntrate en apretar los tríceps al final del movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2738'

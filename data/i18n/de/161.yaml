@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '161'
+language: de
+status: human
+name: Pull-Over KH
+description: |-
+  Sie Liegen auf einer Bank, die Füße stehen am Boden, die Arme sind nach oben gesteckt.
+
+
+  Beide Hände halten eine Kurzhantel so, dass die Scheibe auf den Handflächen liegt, Daumen und Zeigefinger umschließen den Griff der Hantel
+
+
+  beim Einatmen die Hantel hinter den Kopf sinken lassen und dabei leicht die Ellbogen beugen
+
+
+  beim Zurückkehren in die Ausgangsposition ausatmen
+search_terms:
+  - KH Überzüge
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: powerade69
+  source_id: '225'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '957'
+language: en
+status: human
+name: Quadriped Arm and Leg Raise
+description: |-
+  In this exercise, the back muscles and the muscles of the back of the leg and back of the arm are activated by lifting the crossed arm and leg at the same time in the crawling position. It also improves balance and proprioception. The movement is done symmetrically.
+
+  Get into a crawling posture.2. Draw your abdomen in, then raise your right leg and left arm.3. You should keep your abdomen in for 8 seconds.4. After 8 seconds, slowly lower your arm and leg.5. Then release your muscle.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: utkb
+  source_id: '1236'

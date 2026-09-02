@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1298'
+language: fr
+status: human
+name: Extension des triceps croisée à la poulie haute - NB
+description: |-
+  L'extension des triceps croisée à la poulie haute est un exercice d'isolation destiné à cibler les triceps, en particulier le chef long. Elle utilise des câbles et des poignées saisies avec les mains croisées, ce qui permet un mouvement de poussée particulier, efficace pour développer la force des triceps. Contrairement aux exercices qui utilisent une barre droite ou une corde, cette variante peut être plus confortable pour vos poignets et vos coudes.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4566'

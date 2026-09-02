@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1448'
+language: es
+status: human
+name: Curl inclinado con mancuernas
+description: |-
+  Sentado en un banco con el respaldo inclinado en un ángulo de 40 a 60 grados. Deja que tus brazos cuelguen hacia el suelo. Sujeta una mancuerna en cada mano en supinación.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2624'

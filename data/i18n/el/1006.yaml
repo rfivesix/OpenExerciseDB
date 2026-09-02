@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1006'
+language: el
+status: human
+name: Πίεση πηγουνιού
+description: |-
+  Θέση εκκίνησης:
+  Καθίστε ή σταθείτε με την πλάτη σας ίσια.
+  Βήματα:
+
+  Χρησιμοποιήστε τα δάχτυλά σας στο πηγούνι σας για να πιέσετε αργά το πηγούνι σας προς τα μέσα, μετακινώντας το κεφάλι σας προς τα πίσω για να το ευθυγραμμίσετε με τη σπονδυλική σας στήλη.
+  Κρατήστε για 5 δευτερόλεπτα.
+  Επιστρέψτε στην κανονική θέση του κεφαλιού και επαναλάβετε.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1842'

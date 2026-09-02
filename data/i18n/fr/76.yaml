@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '76'
+language: fr
+status: human
+name: Développé couché prise serrée
+description: |-
+  Mise en place : Allongez-vous à plat sur le banc et saisissez la barre à la largeur des épaules (plus serré qu'un développé couché classique).
+  Descente : Abaissez la barre de façon contrôlée vers le bas de la poitrine.
+  Technique : Gardez les coudes bien serrés contre le torse, ne les laissez pas s'écarter.
+  Montée : Poussez la barre droit vers le haut en contractant vos triceps en fin de mouvement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4826'

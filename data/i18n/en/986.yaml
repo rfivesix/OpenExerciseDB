@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '986'
+language: en
+status: human
+name: Side split squats left
+description: |-
+  Starting position:
+
+  Stand tall and take a wide lateral stride, just greater than shoulder width.
+
+  Steps:
+
+  Bend one knee until your thigh is parallel to the floor. The bent knee must be in line with the foot.
+  Push back to the starting position.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1574'

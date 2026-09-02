@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2490'
+language: it
+status: human
+name: Rematore con triangolo - busto eretto
+description: |-
+  Basato sulla macchina Pulley sel. di Technogym. Tieni il triangolo con entrambe le mani e, a busto eretto, porta il peso verso l'ombelico.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4969'

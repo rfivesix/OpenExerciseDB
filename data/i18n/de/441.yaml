@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '441'
+language: de
+status: human
+name: Überkopfkniebeuge
+description: |-
+  Die Langhantel wird über dem Kopf im breiten Reißgriff gehalten; es ist jedoch auch möglich, einen engeren Griff zu verwenden, sofern es das Gleichgewicht zulässt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4377'

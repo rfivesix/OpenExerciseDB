@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1968'
+language: fr
+status: human
+name: Développé épaules unilatéral à l'haltère
+description: |-
+  Poussez l'haltère verticalement au-dessus de la tête dans un mouvement contrôlé jusqu'à ce que le bras soit complètement tendu, sans verrouiller le coude. Abaissez lentement l'haltère vers la position de départ, à hauteur d'épaule.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4399'

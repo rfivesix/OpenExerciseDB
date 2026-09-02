@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '310'
+language: es
+status: human
+name: Remo con mancuernas en banco inclinado
+description: |-
+  Con un agarre neutro, apóyate sobre un banco inclinado.
+  Toma una mancuerna en cada mano con agarre neutro, empezando con los brazos estirados. Esta será tu posición inicial.
+  Retrae las escápulas y flexiona los codos para remar las mancuernas hacia tus costados.
+  Haz una pausa en la parte superior del movimiento y luego vuelve a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3612'

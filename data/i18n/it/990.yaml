@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: it
+status: human
+name: Contraccolpi in ginocchio
+description: |-
+  Mettiti a quattro zampe.
+  Spingete un piede indietro fino alla completa estensione, concentrandovi sui muscoli glutei.
+  Rimanete per un secondo, poi tornate alla posizione iniziale.
+  Ripetere, alternando i piedi
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1633'

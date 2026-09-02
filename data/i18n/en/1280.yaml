@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1280'
+language: en
+status: human
+name: Biceps Close Grip Pull Down
+description: |-
+  On a lat pull down machine, hold the bar keeping your hands relatively close. Use an underhand grip (I.E.: the back of your hand must be facing the machine). Then pull down the bar in a straight line towards the ground. Make sure your biceps are the main drivers of the motion. You will probably feel your shoulders and lats working, but make sure your biceps are working more.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daniel.escada
+  source_id: '2247'

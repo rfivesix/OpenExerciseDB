@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1001'
+language: zh
+status: human
+name: 高位平板支撑
+description: |-
+  起始姿势：开始高位平板支撑：手和脚趾接触地面，背部平直，手臂和腿伸直。做这个姿势，您可以趴在地上，手掌朝下放在您头部两边，然后抬起并且伸直手臂。
+  步骤：
+
+  在整个练习过程中保持一开始的姿势。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1787'

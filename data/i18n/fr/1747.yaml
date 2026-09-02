@@ -1,0 +1,31 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1747'
+language: fr
+status: human
+name: Squat à la machine Smith
+description: |-
+  Technique et exécution
+  Le squat à la machine Smith est une variante du squat traditionnel à la barre qui utilise une barre guidée à trajectoire fixe. Voici un détail de la technique correcte :
+  Position de départ
+  Placement des pieds : Positionnez les pieds légèrement en avant de la barre, écartés d'environ la largeur des épaules
+  Position de la barre : Posez la barre sur le haut de vos trapèzes et de vos épaules, comme pour un squat arrière traditionnel
+  Posture : Les pieds peuvent être légèrement orientés vers l'extérieur pour une rotation naturelle des hanches
+  Mouvement du squat
+  Déverrouillez la barre en la faisant pivoter pour la libérer des crochets de sécurité
+  Abaissez lentement le corps en fléchissant les genoux et les hanches
+  Descendez jusqu'à ce que les cuisses soient parallèles au sol (ou légèrement en dessous)
+  Marquez une brève pause en bas du mouvement
+  Poussez à travers les talons pour revenir à la position de départ
+  Avantages et points à considérer
+  Avantages
+  Moins d'exigences d'équilibre : La trajectoire fixe de la barre facilite l'exercice pour les débutants
+  Mouvement contrôlé : Moins de risque d'une mauvaise exécution par rapport aux squats avec poids libres
+  Isolation : Permet un développement ciblé des muscles des jambes
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4740'

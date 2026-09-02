@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '206'
+language: fr
+status: human
+name: Fentes marchées avec haltères
+description: |-
+  Position de départ : Tenez-vous debout, les pieds écartés de la largeur des hanches, les mains sur les hanches ou tenant des haltères le long du corps.
+  Le pas : Faites un grand pas en avant avec la jambe droite.
+  La descente : Abaissez vos hanches jusqu'à ce que les deux genoux soient pliés à environ 90 degrés.
+  La transition : Poussez à travers le talon avant pour vous redresser, en ramenant le pied arrière vers l'avant pour enchaîner directement sur la fente suivante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4849'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '395'
+language: es
+status: human
+name: Remo en polea baja, agarre estrecho
+description: |-
+  El ejercicio es el mismo que el remo en polea baja normal, pero con un agarre estrecho:
+  Siéntate, apoya los pies en los puntos de apoyo y agarra la barra con un agarre amplio. Tira del peso con un movimiento rápido hacia el ombligo, no más arriba. Mantén los brazos y los codos cerca del cuerpo durante el movimiento. Junta las escápulas. Deja bajar el peso lentamente hasta que tus brazos queden completamente estirados.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3616'

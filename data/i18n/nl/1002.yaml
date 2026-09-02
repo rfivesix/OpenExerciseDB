@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: nl
+status: human
+name: Kindhouding
+description: |-
+  Beginpositie:
+  Begin op handen en voeten, knieën, tenen en handen raken de grond. Je twee grote tenen moeten elkaar raken.
+  Stappen:
+
+  Beweeg je knieën zo dat ze op heupbreedte uit elkaar staan.
+  Op een uitademing, beweeg je bekken naar achteren om op je hielen te zitten. Je handen moeten nog steeds de grond raken.
+
+
+  Ontspan uw bovenlichaam, laat uw voorhoofd naar de grond zakken en laat uw handen op een natuurlijke manier naar voren bewegen.
+
+
+  Blijf in deze houding.
+
+  Tips:
+
+  Om de houding te verlaten, loop je armen terug onder je schouders en beweeg je bovenlichaam omhoog in een zittende positie.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1794'

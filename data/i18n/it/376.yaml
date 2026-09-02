@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: it
+status: human
+name: Alzate le gambe
+description: |-
+  Posizione di partenza:
+  Sdraiarsi sulla schiena, piedi uniti, braccia lungo i fianchi.
+  Passi:
+
+  Piegare le ginocchia, poi raddrizzarle per puntare in alto.
+  Tenendo le gambe dritte, abbassale insieme senza toccare il pavimento. Più in basso vai, più intenso è l'esercizio.
+  Sollevare entrambe le gambe insieme per puntare di nuovo verso l'alto.
+  Ripetere dal punto 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1344'

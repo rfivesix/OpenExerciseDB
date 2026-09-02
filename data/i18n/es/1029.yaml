@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1029'
+language: es
+status: human
+name: Rotación torácica en cuadrupedia derecha
+description: |-
+  Posición inicial:
+  Empieza arrodillado en cuadrupedia, con las rodillas separadas al ancho de los hombros. Coloca tu mano derecha detrás de la cabeza mientras mantienes la mano izquierda extendida y tocando el suelo.
+  Pasos:
+
+  Al inhalar, lleva tu codo derecho hacia tu mano izquierda, manteniendo la mano derecha detrás de la cabeza.
+  Al exhalar, lleva tu codo derecho a apuntar hacia arriba, hacia el techo.
+  Repite.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3628'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: pt
+status: human
+name: Coice
+description: |-
+  Fique em posição de quatro.
+  Empurre um pé para trás até que esteja totalmente estendido, concentrando-se nos músculos dos glúteos.
+  Fique por um segundo depois retorne à posição inicial.
+  Repita, alternando os pés
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1635'

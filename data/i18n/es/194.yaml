@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '194'
+language: es
+status: human
+name: Fondos en Paralelas
+description: |-
+  Los fondos son un ejercicio fundamental con peso corporal para desarrollar fuerza de empuje, enfocándose en el pecho, los tríceps y los hombros. La forma en que se realiza determina qué músculo se lleva el mayor énfasis.
+  Instrucciones
+
+  Posición: Sostén tu cuerpo sobre las barras paralelas con los brazos completamente extendidos.
+  Descenso: Flexiona los codos y baja tu cuerpo de forma controlada hasta que tus hombros queden ligeramente por debajo de tus codos, sintiendo un estiramiento en el pecho.
+  Ascenso: Empuja con fuerza para volver a la posición inicial hasta extender los brazos.
+
+  Para enfocar en el pecho: Usa un agarre más ancho, inclina el torso hacia adelante durante el movimiento y permite que los codos se abran un poco.
+  Para enfocar en los tríceps: Usa un agarre al ancho de los hombros, mantén el torso lo más vertical posible y los codos pegados al cuerpo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2725'

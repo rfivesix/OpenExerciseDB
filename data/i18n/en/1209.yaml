@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1209'
+language: en
+status: human
+name: Shoulder width three-point push-up
+description: |-
+  Get into a push-up position with your shoulders directly above your hands and your feet hip-width apart. Draw your belly button in towards your spine and tighten your abdominal muscles. Lift your left foot about five centimetres off the floor. Point your toes straight down. Do not move your hips. Your body forms a straight line from your head to your heels throughout the exercise. Now bend your elbows, lower your chest to the floor and push yourself back up. Repeat the exercise on the other side.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2172'

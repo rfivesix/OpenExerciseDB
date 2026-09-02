@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1530'
+language: de
+status: human
+name: Liegende Kurzhantel-Curls
+description: |-
+  Nimm eine Kurzhantel in jede Hand und lege dich rücklings auf eine Bank, ähnlich wie beim klassischen Bankdrücken. Lass deine Arme seitlich nach unten hängen, sodass die Kurzhanteln möglicherweise den Boden berühren. Beginne nun, die Kurzhanteln nach oben zu heben, bis deine Unterarme senkrecht zur Decke stehen. Senke die Kurzhanteln langsam ab, bis sie fast wieder den Boden berühren. Halte deine Ellenbogen an Ort und Stelle, um Schummeln zu minimieren.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4050'

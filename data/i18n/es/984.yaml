@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: es
+status: human
+name: Zancadas con peso
+description: |-
+  Párese con la espalda recta
+  Dé un gran paso adelante con su pierna izquierda
+  Baje la pelvis hasta que casi toque el suelo con la rodilla derecha
+  Vuelva a subir la pelvis
+  Vuelva a la posición con el pie hacia atrás
+  Repita, cambiando de pierna cada vez
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1545'

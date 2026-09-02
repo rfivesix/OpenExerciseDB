@@ -1,0 +1,40 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1411'
+language: en
+status: human
+name: Heel Touches
+description: |-
+  Starting Position:
+
+  Lie on your back on an exercise mat.
+  Bend your knees, keeping your feet flat on the floor and hip-width apart.
+  Place your arms along your sides, palms facing inward, just off the floor.
+
+
+
+  Engage Core:
+
+  Lift your head, shoulders, and upper back slightly off the ground.
+  Keep your neck neutral and chin slightly tucked.
+
+
+
+  Perform the Movement:
+
+  Side-bend to the right, reaching your right hand toward your right heel.
+  Return to the center, then side-bend to the left, reaching your left hand toward your left heel.
+  Continue alternating sides in a controlled manner.
+
+
+
+  Breathing:
+
+  Exhale as you reach toward your heel and inhale as you return to the center.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2376'

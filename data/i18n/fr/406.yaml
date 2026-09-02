@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '406'
+language: fr
+status: human
+name: Exercice de coiffe des rotateurs allongé
+description: |-
+  Il s'agit d'un exercice pour les problèmes de la coiffe des rotateurs. Muscle principal : l'infra-épineux ; muscle secondaire : le petit rond.
+  Allongez-vous sur le côté. Gardez le coude calé contre la taille et fléchi à 90°. Effectuez une rotation vers le ventre. Ajoutez du poids selon votre niveau.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4455'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '567'
+language: es
+status: human
+name: Press Militar mancuerna
+description: |-
+  Siéntate en un banco, con el respaldo casi vertical. Toma dos mancuernas y súbelas a la altura de los hombros, con las palmas y los codos apuntando hacia adelante durante todo el ejercicio. Empuja las mancuernas hacia arriba; en el punto más alto, se acercarán mucho, pero sin tocarse. Baja lentamente y repite.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2611'

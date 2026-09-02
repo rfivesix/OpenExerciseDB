@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '193'
+language: es
+status: human
+name: Press Diagonal para Hombros
+description: |-
+  Este ejercicio se realiza en una máquina convergente específica que permite un movimiento de empuje en un ángulo diagonal, situándose a medio camino entre un press de banca y un press militar. Es ideal para trabajar los hombros, especialmente la cabeza anterior del deltoides, minimizando la implicación del pectoral.
+  Instrucciones:
+  Siéntate en la máquina con la espalda firmemente apoyada en el respaldo, que debe tener una ligera inclinación hacia atrás.
+  Sujeta los agarres y empújalos hacia adelante y hacia arriba en la trayectoria diagonal que marca la máquina, hasta que tus brazos estén casi completamente extendidos. Haz una pausa contrayendo los hombros y regresa de forma lenta y controlada a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2712'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: el
+status: human
+name: Κάθισμα τοίχου
+description: |-
+  Ακουμπήστε στον τοίχο, στραμμένοι προς τα εμπρός και με τα πόδια σταθερά στο έδαφος, στο πλάτος των ώμων και περίπου 60 cm μακριά από τον τοίχο
+  Σύρετε την πλάτη σας προς τα κάτω στον τοίχο, κρατώντας την πιεσμένη πάνω του, μέχρι τα πόδια σας να βρίσκονται σε ορθή γωνία. Τα γόνατα πρέπει να είναι ακριβώς πάνω από τους αστραγάλουςΟ πόνος στον τετρακέφαλο είναι φυσιολογικός, σταματήστε εάν αισθάνεστε πόνο στο γόνατο ή την επιγονατίδα
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1478'

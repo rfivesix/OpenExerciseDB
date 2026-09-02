@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '567'
+language: en
+status: human
+name: Shoulder Press, Dumbbells
+description: |-
+  Sit on a bench, the back rest should be almost vertical. Take two dumbbells and bring them up to shoulder height, the palms and the elbows point during the whole exercise to the front. Press the weights up, at the highest point they come very near but don't touch. Go slowly down and repeat.
+search_terms:
+  - OHP Dumbbells
+  - Overhead press Dumbbells
+  - Military Press with Dumbbells
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '123'

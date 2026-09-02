@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '636'
+language: de
+status: human
+name: Superman
+description: |-
+  Legen Sie sich flach auf den Bauch und strecken Sie die Arme vor sich auf den Boden, während Ihre Beine flach liegen. Heben Sie beide Arme und Beine gleichzeitig an, als ob Sie fliegen würden, und ziehen Sie den unteren Rücken zusammen. Stellen Sie sicher, dass Sie atmen und halten Sie die Bewegung, abhängig von Ihrer Fitness, mindestens zwei bis fünf Sekunden pro Wiederholung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: baldurmen
+  source_id: '735'

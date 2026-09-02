@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: pt
+status: human
+name: Alongamento frontal do pescoço
+description: |-
+  Posição inicial:
+  Sente-se ou fique em pé com as costas retas.
+  Passos:
+
+  Abra bem a boca.
+  Incline lentamente a cabeça para trás com a boca aberta. Se sentir necessidade de apoio, junte as mãos atrás da cabeça.
+  Feche e abra a boca muito lentamente.
+  Ao final, retorne lentamente à posição inicial e feche a boca.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1901'

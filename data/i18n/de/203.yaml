@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '203'
+language: de
+status: human
+name: Goblet Squat mit Kurzhantel
+description: |-
+  Greife die Kurzhantel mit beiden Händen an den Seiten der oberen Gewichtsscheiben. Halte die Kurzhantel vor der Brust, nah am Oberkörper. Stelle die Füße etwa schulterbreit auseinander und halte die Knie leicht gebeugt.
+  Gehe in die Hocke, bis die Oberschenkel parallel zum Boden sind. Halte den Rücken gerade, beuge dich und schiebe die Hüfte nach hinten, damit die Knie über den Füßen bleiben. Komme wieder hoch und halte die Knie leicht gebeugt. Wiederhole die Bewegung.
+  Verlagere dein Körpergewicht auf die Fersen und blicke geradeaus oder leicht nach oben, um den Rücken gerade zu halten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4312'

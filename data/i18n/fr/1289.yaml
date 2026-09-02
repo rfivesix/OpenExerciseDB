@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1289'
+language: fr
+status: human
+name: Curls avec haltères assis
+description: |-
+  Les curls avec haltères assis sont un exercice efficace pour les biceps qui isole les muscles en stabilisant le haut du corps, ce qui réduit l'élan susceptible de nuire à l'efficacité de l'exercice. Cet exercice se réalise assis, avec un haltère dans chaque main, en se concentrant sur un mouvement contrôlé afin de maximiser la sollicitation des biceps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4563'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '194'
+language: fr
+status: human
+name: Dips
+description: |-
+  Le dip est un exercice de musculation pour le haut du corps. Les dips à prise serrée, à largeur d'épaules, sollicitent principalement les triceps, les principaux muscles synergistes étant le deltoïde antérieur, les muscles pectoraux (sternal, claviculaire et petit pectoral) et les rhomboïdes du dos (dans cet ordre).[1] Un entraînement bras écartés met davantage l'accent sur les pectoraux, de la même manière qu'un développé couché à prise large sollicite davantage les pectoraux et moins les triceps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4854'

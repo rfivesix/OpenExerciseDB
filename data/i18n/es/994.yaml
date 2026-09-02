@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: es
+status: human
+name: Círculos de brazo
+description: |-
+  Ponte de pie con la espalda recta.
+  Lleva los brazos hacia delante, levántalos por encima de la cabeza y luego continúa el movimiento por detrás de la espalda y baja a la posición inicial.
+  Siga haciendo círculos con los brazos como se describe en el paso 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1688'

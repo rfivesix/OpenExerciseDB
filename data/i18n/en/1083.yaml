@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1083'
+language: en
+status: human
+name: YWTs
+description: |-
+  Starting position:
+  Lie down, preferably on a mat. Stretch your arms above your head in a "Y" position (arms pointing up diagonally at around 45 degrees). Your thumbs should be pointing up.
+  Steps:
+
+  With arms in the Y position, lift your chest slightly from the ground, creating a pull tension in your arms upward.
+  Hold this position for several seconds (15–30 is ideal).
+  Keeping your chest up, bend at your elbows to move from a Y position to a "W" position, with arms bent at the elbows and maintaining the upward tension.
+  Hold for around as long as with the Y position.
+  Still with your chest up, move to a "T" position, straightening your arms out to the side to be perpendicular to your body.
+  Hold for around as long as you held the W position.
+  Move from the T position to the W position, then from the W position to the Y position.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '2033'

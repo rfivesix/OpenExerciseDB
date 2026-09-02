@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1010'
+language: it
+status: human
+name: Stiramento della nuca
+description: |-
+  Posizione di partenza:
+  Sedersi in posizione eretta su una sedia o un cuscino solido.
+  Passi:
+
+  Espirare e inclinare la testa in avanti, mento al petto, mettendo le mani dietro la testa.
+  Usa le mani per tirare la testa verso il basso molto leggermente. Tenere per 5 secondi.
+  Tira le spalle indietro e in basso usando i muscoli della schiena. Questo dovrebbe aumentare l'allungamento del collo. Tenere per 5 secondi.
+  Ora spingi delicatamente la testa verso l'alto, mentre la tiri verso il basso con le mani. Bilanciare entrambe le forze in modo che la testa non si muova. Tenere per almeno 5 secondi.
+  Porta le dita alla fronte e usale per spostare delicatamente la testa nella posizione originale.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1887'

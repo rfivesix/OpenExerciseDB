@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '146'
+language: de
+status: human
+name: Wadendrücken an Beinpresse
+description: |-
+  Legen Sie die Fußballen auf eine Beinpresse. Verwenden Sie Ihre Waden, um das Gewicht zu drücken, indem Sie Ihre Füße / Zehen in eine spitze Position beugen und in eine entspannte Position zurücklassen.
+  Diese Übung baut Masse und Kraft in den Gastrocnemius- und Soleus-Muskeln auf, wenn nicht sogar besser als jede Wadenübung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nate303303
+  source_id: '745'

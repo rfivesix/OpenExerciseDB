@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1001'
+language: id
+status: human
+name: papan tinggi
+description: |-
+  Posisi awal:
+  Masuk ke posisi papan tinggi:tangan dan kaki Anda harus menyentuh tanah, punggung, lengan, dan kaki Anda harus lurus.Untuk mencapai posisi ini, Anda bisa berbaring tengkurap, meletakkan tangan menghadap ke bawah di samping kepala, dan mengangkat lengan ke atas hingga lurus.
+  Langkah:
+
+  Pertahankan posisi awal selama seluruh durasi latihan.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1776'

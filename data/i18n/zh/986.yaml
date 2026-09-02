@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '986'
+language: zh
+status: human
+name: 左腿侧箭步蹲
+description: |-
+  起始姿势：
+
+  站直，一只脚横向跨出，使得双脚距离略大于肩宽。
+
+  步骤：
+
+  弯曲一只膝盖，直到你的大腿与地面平行。 弯曲的膝盖必须与脚成一条直线。
+  推回起始姿势。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1584'

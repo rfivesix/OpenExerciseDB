@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '567'
+language: de
+status: human
+name: Schulterdrücken KH
+description: |-
+  Übung kann im Sitzen oder im Stehen ausgeführt werden
+  Rücken durchgestreckt, Blick geradeaus, unteren Rücken und Bauchmuskulatur anspannen
+  Ellenbogen nicht zu weit absenken, idealerweise bis maximal zur Schulterhöhe
+search_terms:
+  - Military Press KH
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '241'

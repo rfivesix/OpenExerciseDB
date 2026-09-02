@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1111'
+language: fr
+status: human
+name: Pompes | Inclinées
+description: |-
+  Les pompes inclinées ciblent principalement les muscles de la poitrine (grand et petit pectoral), mais sollicitent aussi, dans une moindre mesure, les triceps, les épaules et la sangle abdominale. Comme le haut du corps est surélevé, la pompe inclinée sollicite moins les triceps que les pompes classiques, ce qui peut être bénéfique pour les personnes souhaitant cibler spécifiquement les muscles de la poitrine.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4490'

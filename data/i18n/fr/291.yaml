@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '291'
+language: fr
+status: human
+name: Squats hindous
+description: |-
+  Commencez les pieds à la largeur des épaules et les bras légèrement derrière le dos.
+  À mesure que vous descendez vers le sol, décollez vos talons du sol tout en gardant le dos aussi vertical que possible.
+  Une fois la position basse atteinte, touchez vos talons avec vos mains.
+  Relevez-vous ensuite en terminant les talons au sol, les bras tendus devant la poitrine, puis ramenez-les en tirant vers la position de départ.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4857'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '75'
+language: pt
+status: human
+name: Supino com halteres
+description: |-
+  O movimento é muito semelhante ao supino com barra; no entanto, o peso é abaixado até o peito em um ponto mais baixo.
+  Segure dois halteres e deite-se em um banco. Mantenha os pesos próximos ao peito, na altura dos mamilos, e empurre-os para cima até que os braços fiquem estendidos. Abaixe o peso de forma lenta e controlada.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Jhonatan
+  source_id: '2789'

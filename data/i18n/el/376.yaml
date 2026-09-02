@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: el
+status: human
+name: Ανυψώσεις ποδιών
+description: |-
+  Θέση εκκίνησης:
+  Ξαπλώστε ανάσκελα, τα πόδια ενωμένα, τα χέρια στο πλάι.
+  Βήματα:
+
+  Λυγίστε τα γόνατά σας και στη συνέχεια ισιώστε τα ώστε να δείχνουν ευθεία προς τα πάνω.
+  Κρατώντας τα πόδια σας ίσια, κατεβάστε τα μαζί χωρίς να αγγίξετε το πάτωμα. Όσο πιο χαμηλά πηγαίνετε, τόσο πιο έντονη είναι η άσκηση.
+  Σηκώστε και τα δύο πόδια μαζί για να δείξετε ξανά ευθεία προς τα επάνω.
+  Επαναλάβετε από το βήμα 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1348'

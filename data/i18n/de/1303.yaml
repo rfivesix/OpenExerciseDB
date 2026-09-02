@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1303'
+language: de
+status: human
+name: Helms Row
+description: |-
+  Aufbau: Lege deine Brust auf das Ende einer Bank und benutze ein Handtuch oder etwas Weiches, um deine Brust zu schützen. Deine Brust sollte etwa auf Höhe der Brustwarzen die Bank berühren. Dein Rücken sollte nahezu parallel zum Boden sein.
+  Ausführung: Wenn du mit der Übung beginnst, konzentriere dich darauf, die Ellbogen nach hinten zu ziehen, bis du eine maximale Spannung im Latissimus spürst.
+  Wenn du auch den Trapezmuskel mit der Übung aktivieren möchtest, entspanne deine Schulterblätter, während die Gewichte nach unten hängen, und ziehe sie dann zusammen, sobald du mit der Wiederholung beginnst.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3844'

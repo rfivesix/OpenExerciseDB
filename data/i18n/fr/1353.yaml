@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1353'
+language: fr
+status: human
+name: Développé serré aux haltères (hex press)
+description: |-
+  Engagez les muscles
+  Placez vos pieds bien écartés
+  Mouvement contrôlé
+  Mouvement lent
+  Ramenez les charges vers le bas de votre poitrine / votre ventre
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4591'

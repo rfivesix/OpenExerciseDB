@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1457'
+language: en
+status: human
+name: Cable Press Around
+description: |-
+  Set the cable pulley at chest height and attach a D-handle bar. Grab
+  the handle with a neutral grip and hold it next to your chest with your
+  elbow fully flexed and tight to your side. Turn away from the pulley so
+  your torso is at 45 degrees.
+  Hold the other side of the functional trainer with your corresponding hand. Assume a staggered stance for better balance.
+  While keeping your chest proud, extend your elbow at 45 degrees
+  across your midline while keeping your arm parallel to the floor. Stop
+  shy of lockout and contract your chest at the top of the range of motion
+  (ROM).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Expenses7000
+  source_id: '2422'

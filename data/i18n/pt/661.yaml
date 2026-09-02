@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '661'
+language: pt
+status: human
+name: Tríceps na máquina
+description: |-
+  Sente-se
+  e segure a barra firmemente com as mãos. Agora pressione o peso para
+  cima (não estenda totalmente os braços) e abaixe-o lentamente novamente.
+  Tal como acontece com outros exercícios de tríceps, é importante não
+  mover a parte superior dos braços.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: stwalkerster
+  source_id: '2924'

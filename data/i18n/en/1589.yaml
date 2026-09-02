@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1589'
+language: en
+status: human
+name: Leg and hip stretch
+description: |-
+  Gentle movements to improve the flexibility of the lower body and release tension in the hips.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: MrAlfaRobot
+  source_id: '2538'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1314'
+language: de
+status: human
+name: Hampelmann HD
+description: |-
+  Hampelmänner sind eine plyometrische Übung. Plyometrische Übungen sind explosive, aerobe Bewegungen, die Geschwindigkeit, Schnelligkeit und Kraft steigern und den ganzen Körper trainieren. Hampelmänner beanspruchen die Arme, Schultern, Bauchmuskeln, Hüftmuskeln und Hüftbeuger sowie die Oberschenkel, Kniesehnen und den vierköpfigen Oberschenkelmuskel (Quadrizeps). Sprünge sind gesundheitsfördernd, da sie Krafttraining mit Herz-Kreislauf-Training kombinieren. Da Sprünge den Puls erhöhen, können sie auch die kardiovaskuläre Fitness verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: p177erpher
+  source_id: '3072'

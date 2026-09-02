@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1801'
+language: es
+status: human
+name: Sentadilla profunda con barra
+description: |-
+  La sentadilla profunda con barra es un ejercicio compuesto que trabaja varios grupos musculares del tren inferior, incluyendo los cuádriceps, los isquiotibiales y los glúteos.
+  Una técnica correcta es crucial para maximizar los resultados y prevenir lesiones durante la sentadilla profunda con barra. Esto incluye mantener una postura al ancho de los hombros, crear tensión en todo el cuerpo, controlar el descenso y mantener una profundidad adecuada y una buena posición de las rodillas.
+  Ejercicios de asistencia como la sentadilla frontal, la sentadilla goblet, la sentadilla dividida y la sentadilla búlgara pueden ayudar a mejorar tu rendimiento en la sentadilla profunda con barra al trabajar grupos musculares específicos y mejorar la técnica general.
+  Para lograr nuevos récords personales en tu sentadilla trasera, aumenta el peso de forma gradual con el tiempo, varía los rangos de repeticiones y series para estimular el crecimiento muscular, y prioriza el descanso y la recuperación entre sesiones de entrenamiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4392'

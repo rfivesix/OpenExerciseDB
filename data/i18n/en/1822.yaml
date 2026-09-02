@@ -1,0 +1,39 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1822'
+language: en
+status: human
+name: Open Book
+description: |-
+  Basic exercise
+
+  Focus: enhances thoracic mobility and
+  spinal segmentation while opening the shoulders and chest.
+  **Position:**kneeling on the floor with your right side facing a wall. Hips are square and stable, with the right knee down and the left foot forward. Lengthen your spine and align your head comfortably.
+  Begin with your arms relaxed and open in front of your chest, palms
+  facing each other and hands apart.
+  Inhale
+  to initiate the movement, allowing your left arm —the one farther from
+  the wall— to open outward and backward. Lead the twist from your thoracic
+  spine, rotating your upper back progressively while keeping your pelvis
+  still.
+  Exhale as you complete the rotation, guiding your left hand
+  toward the wall as your gaze follows your hand.
+  Return by inhaling and
+  slowly bringing your arm forward, reversing the spinal rotation segment
+  by segment.
+  Repeat on the opposite side.
+
+  Progression
+
+  **Position:**kneeling on the floor with your right side facing a wall. Left knee down and right foot forward.
+  Before the basic exercise: inhale,&nbsp;exhalewhile moving the right arm along the wall with a circle upwards and backwards,&nbsp;inhalewhile bringing back the arm.
+  Basic exercise.
+  Repeat on the opposite side.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '2956'

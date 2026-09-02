@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: el
+status: human
+name: Βυθίσεις δαπέδου
+description: |-
+  Θέση εκκίνησης:
+  Καθίστε με τα χέρια σας πίσω σας, στηρίζοντας την πλάτη σας.Τα δάχτυλά σας πρέπει να δείχνουν προς τα εμπρός.Τα γόνατά σας πρέπει να είναι λυγισμένα, τα πόδια ενωμένα.
+  Βήματα:
+
+  Σηκώστε τους γοφούς σας από το έδαφος, ισιώνοντας τα χέρια σας.
+  Λυγίστε τους αγκώνες σας, φέρνοντας τους γοφούς σας προς τα κάτω.
+  Ισιώστε τα χέρια σας, επιστρέφοντας στην προηγούμενη θέση.
+  Επαναλάβετε τα βήματα 2 και 3.
+
+  Σημειώσεις:
+  Η δυσκολία της άσκησης εξαρτάται από το πόσο ψηλά φέρετε τους γοφούς σας.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1773'

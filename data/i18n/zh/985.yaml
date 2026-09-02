@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: zh
+status: human
+name: 交替抬肘俯卧撑
+description: |-
+  起始姿势：进入起始俯卧撑位置，双手和脚趾接触地面和背部，手臂和腿伸直。 要达到这个姿势，你可以俯卧，双手朝下放在头部旁边，然后抬起双臂直到它们伸直。
+  步骤：
+
+  进行标准俯卧撑：1.a 弯曲手臂直到胸部几乎接触地面，确保背部挺直。1.b 用你的手臂将自己抬升到起始姿势。2.将身体向一侧转动，使背部挺直，支撑身体的底部手完全伸展，且仅底部手和脚接触地面。
+  重复，每次在第 2 步换方向。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1570'

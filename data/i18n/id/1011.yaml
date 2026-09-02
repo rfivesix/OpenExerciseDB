@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: id
+status: human
+name: Peregangan leher depan
+description: |-
+  Posisi awal:
+  Duduk atau berdiri dengan punggung lurus.
+  Langkah:
+
+  Buka mulut lebar-lebar.
+  Perlahan miringkan kepala ke belakang dengan mulut terbuka. Jika Anda merasa perlu untuk dukungan, bertepuk tangan di belakang kepala.
+  Sangat perlahan tutup dan Buka mulut Anda.
+  Pada akhirnya, perlahan kembali ke posisi awal dan tutup mulut.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1893'

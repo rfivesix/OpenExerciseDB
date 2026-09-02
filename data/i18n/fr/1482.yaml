@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1482'
+language: fr
+status: human
+name: Curl triché aux haltères
+description: |-
+  La position de départ consiste à se tenir debout, pieds écartés à la largeur des épaules.
+  Les mains doivent adopter une prise en supination sur les haltères, en les tenant écartés à la largeur des épaules.
+  En gardant les coudes collés aux côtés pendant tout le mouvement, utilisez l'élan pour réaliser le curl avec les haltères, en contractant les biceps au sommet du mouvement.
+  Redescendez lentement pour revenir à la position de départ. Gardez la sangle abdominale gainée pendant tout l'exercice.
+
+  Tricher sur la phase concentrique de cet exercice exigeant nous offre une excellente occasion d'augmenter le temps sous tension et de créer une surcharge excentrique avec une charge plus lourde lorsque nous redescendons.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4654'

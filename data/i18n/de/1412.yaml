@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1412'
+language: de
+status: human
+name: Bicycle Crunches
+description: |-
+  Bicycle Crunches sind eine Rumpfübung, die auf dem Boden ausgeführt wird. Lege dich auf den Rücken, die Hände hinter dem Kopf und die Beine ausgestreckt. Hebe deine Schultern vom Boden ab, ziehe ein Knie zur Brust und drehe deinen Oberkörper, sodass dein gegenüberliegender Ellbogen das Knie trifft. Wechsle die Seiten in einer tretenden Bewegung ab, achte dabei auf kontrollierte Bewegungen und halte deinen Rumpf während der gesamten Übung angespannt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3932'

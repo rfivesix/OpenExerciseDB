@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1007'
+language: id
+status: human
+name: Putar kepala
+description: |-
+  Posisi awal:
+  Duduk atau berdiri dengan punggung lurus dan bahu ke bawah.
+  Langkah:
+
+  Duduk atau berdiri tegak, bahu turun.
+  Putar kepala Anda ke samping sejauh mungkin. Berhenti ketika Anda menekan penghalang dan tahan selama 5 detik.
+  Kembali ke posisi tengah dan ulangi, ganti sisi.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1845'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1307'
+language: de
+status: human
+name: Unterarmstütz (Plank)
+description: |-
+  Der Plank ist eine Körpergewichtsübung. Als multifunktionale Bewegung beansprucht der Plank nicht nur deine Bauchmuskulatur, sondern auch die Wirbelsäule und die Hüfte. Der Plank kräftigt und strafft deinen gesamten Körper, verbessert deine Haltung und dein Gleichgewicht, reduziert Körperfett und kann dabei helfen, deinen Stoffwechsel anzukurbeln.
+  Übungen wie die „Plank-Position“ helfen, die Ausdauer der stabilisierenden Bauchmuskulatur zu stärken. Sie können außerdem dabei helfen, Rückenschmerzen zu lindern, die mit einer geschwächten Funktion der stabilisierenden Muskeln des Körpers zusammenhängen.
+  Planks sind eine vielseitige Übung, die viele der wichtigsten Muskelgruppen des Körpers beansprucht, sodass sie von jedem genutzt werden können, um die Ausdauer und die gesamte Körperkraft zu verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3852'

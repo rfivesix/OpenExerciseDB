@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1196'
+language: en
+status: human
+name: Wall Drills
+description: |-
+  Exercises for strengthening knee and leg musculature.
+
+  Lateral Wall Drills March - https://youtu.be/9RiTlJ6Mmek
+  Lateral Wall Drills OPEN - https://youtu.be/ADRlN8-Wfdg
+  Lateral Wall Drills CROSS - https://youtu.be/hGH2sj0Tzu4
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Insight
+  source_id: '2153'

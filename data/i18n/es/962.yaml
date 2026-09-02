@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '962'
+language: es
+status: human
+name: La Elíptica
+description: |-
+  La elíptica es una máquina de ejercicio cardiovascular estática que ofrece un entrenamiento de bajo impacto, ideal para proteger las articulaciones. Su movimiento simula una mezcla entre correr, caminar y subir escaleras, manteniendo los pies siempre apoyados en los pedales.
+  Su uso mejora la tonificación muscular, fortalece las piernas (cuádriceps, glúteos, pantorrillas), favorece la vascularización y aumenta la resistencia cardiovascular. Además, la elíptica es una herramienta muy útil si tu objetivo es perder peso.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2558'

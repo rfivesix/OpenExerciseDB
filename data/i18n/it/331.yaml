@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '331'
+language: it
+status: human
+name: Kettlebell Swings
+description: |-
+  Tieni saldamente il kettlebell con entrambe le mani. Mantieni la schiena piatta per tutto il movimento, evitando qualsiasi arrotondamento della colonna vertebrale. Tenendo le ginocchia "morbide", inclina i fianchi all'indietro, lasciando che il kettlebell oscilli tra le ginocchia.
+  Vuoi piegarti dai fianchi il più possibile senza far girare la schiena in avanti. Quindi, fai scattare rapidamente i fianchi in avanti e alzati in piedi, bloccando il tuo corpo in una postura eretta.
+  La velocità con cui lo fai farà oscillare le tue braccia e il kettlebell davanti a te. Non cercare di sollevare il kettlebell con le braccia. Lo scatto in avanti dei fianchi farà oscillare il kettlebell in avanti attraverso lo slancio. A seconda del peso del kettlebell e della velocità del movimento dell'anca, le tue braccia oscilleranno all'incirca all'altezza delle spalle. Nella parte superiore di questo swing, lascia che i tuoi fianchi si pieghino di nuovo all'indietro mentre il kettlebell oscilla di nuovo tra le tue gambe e l'inizio della ripetizione successiva.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: J120290,cerin
+  source_id: '1971'

@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '132'
+language: pt
+status: human
+name: Flexão burpee
+description: |-
+  Posição inicial:
+  Fique de pé reto, com os pés afastados alinhados ao quadris.
+  Passos:
+
+  Se agache e se apoie com as mãos no chão entre os joelhos e a frente de seus pés, mantendo as costas retas.
+  Mantendo as mãos no chão, pule jogando as pernas para trás para a posição de prancha altas.
+  Faça uma flexão de braços.
+  Pule os pés para frente para voltar à posição de agachamento.
+  Repita.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: er0355
+  source_id: '1304'

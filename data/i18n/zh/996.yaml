@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: zh
+status: human
+name: 登山者式
+description: |-
+  起始姿势：以直立俯卧撑姿势，也就是“高木板”姿势开始。双手应该在肩膀正下方。保持头部与背部在一个平面上；面向地板。双脚分开大约与臀部同宽。
+  步骤：
+
+  将一侧膝盖向身体中心移动，再向肘部移动，另一条腿保持伸展。
+  快速跳起，将弯曲的腿伸直，将另一只膝盖拉向身体。
+  重复第2步，双腿交替。
+
+  注：在锻炼全过程中，背部要尽可能地保持挺直，避免驼背和背部下垂的情况。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1727'

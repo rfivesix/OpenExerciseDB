@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1512'
+language: fr
+status: human
+name: Drop curl
+description: |-
+  Réalisés dans une position modifiée et à un rythme lent, les drop curls sollicitent efficacement le muscle brachial pour gagner en largeur de bras.
+  La position de départ se fait avec les deux bras légèrement inclinés l'un vers l'autre à hauteur de poitrine, un haltère dans chaque main. Abaissez un haltère lentement et de manière contrôlée jusqu'à la quasi-extension complète du bras pendant la première moitié du curl, puis remontez-le jusqu'à la position de départ, pendant que l'autre haltère reste en position initiale. Abaissez ensuite l'autre haltère. Cela maintient la tension sur le muscle brachial. Une fois passé le repère des 90 degrés lors de la descente, le biceps prend le relais.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4670'

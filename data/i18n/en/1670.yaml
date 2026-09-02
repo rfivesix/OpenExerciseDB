@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1670'
+language: en
+status: human
+name: Leg Swings (Front–Back)
+description: |-
+  Stand tall next to a wall or stable support. Swing one leg forward and backward in a controlled motion, keeping the torso upright and the core engaged. Alternate legs after completing the repetitions.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Jhonatan
+  source_id: '2793'

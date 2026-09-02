@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1020'
+language: zh
+status: human
+name: 右腿手枪式深蹲
+description: |-
+  单腿站立，另一条腿伸直，略微向前。
+  慢慢弯曲一条腿的膝盖，下蹲，保持背部和另一条腿伸直。
+  从下蹲状态慢慢起身，伸直弯曲的膝盖，保持另一条腿伸直。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1948'

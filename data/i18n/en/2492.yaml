@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2492'
+language: en
+status: human
+name: Adductors
+description: |-
+  Based on Adductor Sel. by Technogym.
+  Sit on the machine and set the rest position to a comfortable opening angle.
+  Close your legs.
+  Gently return to the rest position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4972'

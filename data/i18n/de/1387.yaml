@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1387'
+language: de
+status: human
+name: Hamstring-Kicks
+description: |-
+  Stehen Sie mit hüftbreit geöffneten Füßen. Schwingen Sie ein Bein vor und zurück, wobei Sie es so gerade wie möglich halten und die Zehen nach oben zeigen. Wiederholen Sie dies mit dem anderen Bein.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2354'

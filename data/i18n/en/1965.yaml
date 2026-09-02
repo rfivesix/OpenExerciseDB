@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1965'
+language: en
+status: human
+name: Marching High Knees
+description: |-
+  A low-impact cardio and mobility exercise that strengthens the hip flexors and improves balance.
+
+  ​Movement: Stand tall and lift one knee toward your chest as high as comfortable.
+  ​Arms: Swing the opposite arm forward as you lift your knee, similar to a walking motion.
+  ​Core: Keep your abs engaged to maintain an upright posture.
+  ​Pace: Perform the movement with control, alternating legs rhythmically.
+search_terms:
+  - High Knee March
+  - ​Standing Knee Drives
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anon#2
+  source_id: '3120'

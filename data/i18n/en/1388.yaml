@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1388'
+language: en
+status: human
+name: Single Leg RDL
+description: |-
+  Stand upright and hold weights in both hands if using loads.
+  Brace your core and lift one leg off the ground.
+  Keep your back straight, hinge at the hips while lowering your torso forward, ensuring you don’t rotate your hips.
+  Lower until you feel a stretch in your standing leg's hamstring, then return to standing position. Repeat on both sides.
+search_terms:
+  - Single Leg Romanian Deadlift
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2355'

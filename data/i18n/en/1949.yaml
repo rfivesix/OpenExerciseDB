@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1949'
+language: en
+status: human
+name: Limber 11
+description: |-
+  Limber 11
+  Source: Joe DeFranco
+
+  1. Foam Roll IT Band [soft_tissue] - 10-15 passes
+  2. Foam Roll Adductors [soft_tissue] - 10-15 passes
+  3. SMR Glutes (lax ball) [soft_tissue] - 30 sec-2 min
+  4. Bent-knee Iron Cross [dynamic] - 5-10 reps each side
+  5. Roll-overs into V-sits [dynamic] - 10 reps
+  6. Rocking Frog Stretch [dynamic] - 10 reps
+  7. Fire Hydrant Circles [dynamic] - 10 forward / 10 backward
+  8. Mountain Climbers [dynamic] - 10 reps each leg
+  9. Cossack Squats [dynamic] - 5-10 reps each side
+  10. Seated Piriformis Stretch [isometric] - 20-30 sec each side
+  11. Rear-foot-elevated Hip Flexor Stretch [dynamic + 3s hold] - 5-10 reps each side
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Pete-E automation
+  source_id: '3100'

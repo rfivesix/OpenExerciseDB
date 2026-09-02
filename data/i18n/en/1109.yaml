@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1109'
+language: en
+status: human
+name: Cable Concentration Curl
+description: |-
+  The concentration curl is a classic exercise for building the biceps one arm at a time. It can be performed bent over or kneeling, but is more often performed seated on a bench. It's great for emphasizing the biceps peak and is often used to finish a biceps workout
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cshep442
+  source_id: '2072'

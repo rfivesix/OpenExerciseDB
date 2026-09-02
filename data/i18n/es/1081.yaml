@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1081'
+language: es
+status: human
+name: Dislocaciones de hombro
+description: |-
+  Posición inicial:
+  Ponte de pie con la espalda recta y una banda elástica, una toalla o un palo de escoba en las manos. Con las manos rectas por delante del cuerpo y la banda entre las manos, separa las manos hasta que ambas queden a unos 45 grados de tu cuerpo, con los pulgares apuntando hacia abajo. Si usas una toalla o un palo de escoba en su lugar, agárralo con un agarre prono.
+  Pasos:
+
+  Manteniendo los brazos extendidos, rota en los hombros para llevar los brazos por encima de la cabeza y luego hacia abajo en dirección a los glúteos.
+  Rota en los hombros en sentido contrario: por encima de la cabeza y luego hacia la ingle.
+  Repite.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3651'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1487'
+language: es
+status: human
+name: Combinación hiperextensión Y-W
+description: |-
+  Usa una máquina de glute-ham raise o una
+  pelota de estabilidad para este ejercicio y un disco ligero en cada mano.
+  Eleva el torso hasta formar una línea recta con las piernas y eleva los
+  brazos hacia afuera, ligeramente más allá de un ángulo de 90 grados, hasta una posición en W para
+  trabajar los músculos del manguito rotador, y luego baja a la posición inicial.
+  Después vuelve a elevarte con los brazos
+  en una posición en Y para activar la parte baja del trapecio.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4002'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '960'
+language: it
+status: human
+name: Kettlebell swing
+description: |-
+  Le oscillazioni con kettlebell sono un allenamento per tutto il corpo, colpiscono principalmente i muscoli lungo la catena posteriore (parte posteriore del corpo). I principali muscoli utilizzati sono i glutei, i muscoli posteriori della coscia, gli erettori spinali e i muscoli della parte superiore della schiena.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '1253'

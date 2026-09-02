@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '445'
+language: de
+status: human
+name: Pause Bench
+description: |-
+  Senken Sie den Riegel auf Ihre Brust und halten Sie dort 2 Sekunden lang inne (ruhen Sie sich jedoch nicht aus). Drücken Sie wieder hoch. Verwenden Sie das gleiche Gewicht wie beim Bankdrücken, aber führen Sie nur einzelne Wiederholungen durch. Insgesamt die Anzahl der Wiederholungen, die Sie in einem Satz Bankdrücken gemacht haben (wenn Sie 3 Sätze mit 8 Wiederholungen gemacht haben, machen Sie 8 Einzelpausen-Bankwiederholungen.
+upstream:
+  license: CC0-1.0
+  license_author: Mens Fitness
+  source_id: '725'

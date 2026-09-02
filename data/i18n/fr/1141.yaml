@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1141'
+language: fr
+status: human
+name: Arabesque
+description: |-
+  Reportez tout votre poids sur une seule jambe et maintenez cette position, en gardant les hanches et le bassin à niveau pendant toute la durée du mouvement. Le dos en position neutre, penchez-vous vers l'avant en projetant votre jambe vers l'arrière, puis revenez lentement à la position neutre en contractant vos fessiers.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4501'

@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '222'
+language: fr
+status: human
+name: Tirage à la face (Face pull)
+description: |-
+  Fixez une corde à une poulie réglée environ à hauteur de poitrine.
+  Reculez de manière à soutenir la charge bras complètement tendus, et adoptez une position décalée (un pied en avant). Fléchissez légèrement les genoux pour une base stable.
+  Rétractez les omoplates (serrez-les comme pour pincer un doigt entre elles) et tirez le centre de la corde légèrement vers le haut, en direction du visage. Un bon repère consiste à penser à écarter les extrémités de la corde, et non simplement à tirer vers l'arrière.
+  À l'approche de votre visage, effectuez une rotation externe de manière à ce que vos articulations des doigts soient tournées vers le plafond.
+  Maintenez la position haute pendant une seconde, puis abaissez lentement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4433'

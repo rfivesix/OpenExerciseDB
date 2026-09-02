@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: es
+status: human
+name: Fondos
+description: |-
+  Posición inicial:
+  Siéntate con los brazos detrás de ti, apoyando la espalda.Los dedos deben apuntar hacia adelante.Las rodillas deben estar dobladas y los pies juntos.
+  Pasos:
+
+  Levanta las caderas del suelo, estirando los brazos.
+  Dobla los codos, llevando las caderas hacia abajo.
+  Endereza los brazos, volviendo a la posición anterior.
+  Repita los pasos 2 y 3.
+
+  Notas:
+  La dificultad del ejercicio depende de la altura de las caderas.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1768'

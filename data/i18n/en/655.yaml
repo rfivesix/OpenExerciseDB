@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '655'
+language: en
+status: human
+name: Tricep Dumbbell Kickback
+description: |-
+  Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.
+  Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.
+  After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.
+  Repeat the movement for the prescribed amount of repetitions.
+
+  Variations: This exercise can be executed also one arm at a time much like the one arm rows are performed.
+  Also, if you like the one arm variety, you can use a low pulley handle instead of a dumbbell for better peak contraction. In this case, the palms should be facing up (supinated grip) as opposed to the torso (neutral grip).
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '279'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '660'
+language: fr
+status: human
+name: Extensions des triceps à la poulie avec barre
+description: |-
+  Saisissez la barre, tenez-vous debout, les pieds écartés de la largeur des épaules, gardez le dos droit et penchez-vous légèrement vers l'avant. Poussez la barre vers le bas en veillant à ce que les coudes ne bougent pas pendant l'exercice. Sans pause, revenez à la position initiale.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4909'

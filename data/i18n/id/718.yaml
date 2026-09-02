@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: id
+status: human
+name: Duduk di dinding
+description: |-
+  Bersandar ke dinding, menghadap ke depan dan dengan kaki tertanam kuat di tanah, selebar bahu dan sekitar 2 kaki dari dinding
+  Geser ke bawah dinding, dengan menahan punggung ditekan, sampai kaki berada pada sudut kanan. Lutut harus tepat di atas pergelangan kakiNyeri paha depan normal, hentikan jika merasakan nyeri pada lutut atau tempurung lutut
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '1468'

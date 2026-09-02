@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1519'
+language: es
+status: human
+name: Extensión de tríceps por encima de la cabeza
+description: |-
+  Extensión de tríceps por encima de la cabeza con barra Z – Guía rápida
+  La posición por encima de la cabeza enfatiza la cabeza larga del tríceps (porque se estira bajo carga), aunque el ejercicio sí involucra las tres cabezas del tríceps (larga, lateral y medial) en cierta medida durante la extensión.
+
+  Preparación:
+  Siéntate en un banco (o de pie) y sujeta una barra Z con un agarre estrecho por encima. Levanta la barra por encima de la cabeza, con los brazos completamente extendidos. Mantén el core firme y los codos cerca de la cabeza.
+  Ejecución:
+  Baja lentamente la barra por detrás de la cabeza flexionando los codos hasta que alcancen unos 90°. Mantén los codos apuntando hacia delante (sin abrirlos hacia fuera).
+  Final: Extiende los brazos de nuevo hacia arriba hasta la posición inicial, contrayendo el tríceps arriba.
+
+  Consejos:
+
+  Controla el movimiento para no forzar los hombros.
+  Usa un peso moderado para un rango de movimiento completo.
+  Mantén la espalda recta y evita arquearla.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4034'

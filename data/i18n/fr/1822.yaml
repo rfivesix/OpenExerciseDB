@@ -1,0 +1,38 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1822'
+language: fr
+status: human
+name: Le livre ouvert
+description: |-
+  Exercice de base
+
+  Objectif : améliore la mobilité thoracique et
+  la segmentation de la colonne tout en ouvrant les épaules et la poitrine.
+  Position : à genoux sur le sol, le côté droit face à un mur. Les hanches sont parallèles et stables, le genou droit au sol et le pied gauche en avant. Allongez votre colonne et alignez confortablement votre tête.
+  Commencez avec les bras détendus et ouverts devant votre poitrine, les paumes se faisant face et les mains écartées.
+  Inspirez
+  pour amorcer le mouvement, en laissant votre bras gauche — celui qui est le plus éloigné
+  du mur — s'ouvrir vers l'extérieur et l'arrière. Initiez la rotation depuis votre colonne
+  thoracique, en faisant pivoter progressivement le haut du dos tout en gardant le bassin
+  immobile.
+  Expirez en achevant la rotation, en guidant votre main gauche
+  vers le mur tandis que votre regard suit votre main.
+  Revenez en inspirant et
+  en ramenant lentement votre bras vers l'avant, en inversant la rotation de la colonne segment
+  par segment.
+  Répétez de l'autre côté.
+
+  Progression
+
+  Position : à genoux sur le sol, le côté droit face à un mur. Genou gauche au sol et pied droit en avant.
+  Avant l'exercice de base : inspirez, expirez en déplaçant le bras droit le long du mur en décrivant un cercle vers le haut et l'arrière, inspirez en ramenant le bras.
+  Exercice de base.
+  Répétez de l'autre côté.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4761'

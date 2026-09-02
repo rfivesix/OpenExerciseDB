@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '211'
+language: de
+status: human
+name: Trizepsstrecken mit Kurzhantel
+description: |-
+  Positioniere eine Kurzhantel über dem Kopf, beide Hände unter der inneren Gewichtsscheibe (herzförmiger Griff).
+  Halte die Ellenbogen über dem Kopf und senke den Unterarm hinter den Oberarm, indem du die Ellenbogen beugst. Beuge am tiefsten Punkt die Handgelenke, um zu vermeiden, dass die Kurzhantel den Nacken trifft. Hebe die Kurzhantel über den Kopf, indem du die Ellenbogen streckst und dabei die Handgelenke überstreckst. Kehre zurück und wiederhole.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4313'

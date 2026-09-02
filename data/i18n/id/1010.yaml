@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1010'
+language: id
+status: human
+name: Peregangan leher belakang
+description: |-
+  Posisi awal:
+  Duduk tegak di kursi atau bantal yang kokoh.
+  Langkah:
+
+  Tarik napas dan miringkan kepala ke depan, dagu ke dada, letakkan tangan di belakang kepala.
+  Gunakan tangan Anda untuk menarik kepala Anda ke bawah dengan sangat ringan. Tahan selama 5 detik.
+  Tarik bahu ke belakang dan ke bawah menggunakan otot-otot di punggung Anda. Ini harus meningkatkan peregangan leher. Tahan selama 5 detik.
+  Sekarang dengan lembut dorong kepala Anda kembali ke atas, sambil juga menariknya ke bawah dengan tangan Anda. Seimbangkan kedua kekuatan agar kepala Anda tidak bergerak. Tahan setidaknya selama 5 detik.
+  Bawa jari-jari Anda ke dahi Anda dan gunakan untuk menggerakkan kepala Anda kembali ke posisi semula dengan lembut.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1881'

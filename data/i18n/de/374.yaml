@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '374'
+language: de
+status: human
+name: Beinpresse (weit)
+description: |-
+  Setze dich an die Maschine und stelle die Füße etwas mehr als schulterbreit auf die Plattform. Die Füße sind ein paar Grad nach außen gedreht.
+  Senke das Gewicht so weit ab, dass die Knie einen rechten Winkel bilden. Drücke die Plattform sofort wieder nach oben, ohne Pause. In der unteren Position zeigen die Knie etwas nach außen, und die Bewegung sollte stets flüssig sein.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4333'

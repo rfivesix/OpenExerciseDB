@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1188'
+language: en
+status: human
+name: Side bend
+description: |-
+  With a weight in one hand, extend that arm down and bend the other arm, resting your hand on your head. Now move the hand holding the weight by rotating your torso up and down.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2144'

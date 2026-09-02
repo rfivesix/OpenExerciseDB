@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1825'
+language: de
+status: human
+name: Reverse Flys für die hintere Schulter mit Brustauflage
+description: |-
+  „Das Y“ – Position: Stelle eine Schrägbank auf 30–45 Grad ein. Lege dich mit dem Gesicht nach unten und gestützter Brust hin und halte den Kopf neutral oder schaue leicht nach unten, um die Nackenmuskulatur zu schonen. Griff: Halte leichte Kurzhanteln mit neutralem Griff oder mit dem Daumen nach oben (Daumen zeigt zur Decke). Bewegung: Mit gestreckten oder leicht gebeugten Ellenbogen hebst du die Kurzhanteln nach oben und außen in eine „Y“-Form. Konzentriere dich darauf, die Schultern und Schulterblätter zu bewegen, statt nur die Arme anzuheben. Obere Position: Ziehe die Schulterblätter zusammen und strecke dich weit nach oben, sodass die Arme ein „Y“ bilden. Kontrolle: Senke die Kurzhanteln langsam in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4199'

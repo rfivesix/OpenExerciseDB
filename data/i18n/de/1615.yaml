@@ -1,0 +1,34 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1615'
+language: de
+status: human
+name: Laufband-Cardio
+description: |-
+  Es handelt sich um ein Herz-Kreislauf-Training auf dem Laufband, um die Ausdauer zu verbessern, Kalorien zu verbrennen und die Herzgesundheit zu fördern. Es bietet zahlreiche Vorteile, etwa die Möglichkeit, Geschwindigkeit und Steigung einfach anzupassen, was eine Vielzahl von Trainingseinheiten ermöglicht, vom Bergaufgehen über hochintensives Intervalltraining (HIIT) bis hin zu Tempoläufen. Um die Ergebnisse zu optimieren, ist es wichtig, deine Trainingseinheiten zu variieren.
+  Vorteile von Laufband-Cardio:
+
+  Verbesserte Herz-Kreislauf-Gesundheit:
+  Regelmäßiges aerobes Training auf dem Laufband stärkt Herz und Lunge, was helfen kann, Herzerkrankungen vorzubeugen.
+  Gewichtsabnahme:
+  Durch das Verbrennen von Kalorien kann das Laufbandtraining ein wirksames Mittel zur Gewichtsabnahme und zum Halten eines gesunden Gewichts sein.
+  Muskelstärkung:
+  Es stärkt die Muskeln der Beine und der Gesäßmuskulatur und hilft, dem Muskelabbau vorzubeugen, was besonders mit zunehmendem Alter wichtig ist.
+  Flexibilität beim Training:
+  Es ermöglicht dir, Geschwindigkeit, Steigung und Intervalle zu variieren, wodurch dein Training dynamischer und an verschiedene Fitnessniveaus anpassbar wird.
+  Arten des Laufbandtrainings:
+  Bergaufgehen:
+  Wenn du die Steigung des Laufbands erhöhst und in zügigem Tempo gehst, kannst du deine Ausdauer verbessern und deine Beinmuskulatur beanspruchen.
+  Ausdauerjoggen:
+  Ein Lauf in angenehmem, gleichmäßigem Tempo, der deine Herzfrequenz in einer Zielzone hält (wie Zone 2), um die Ausdauer aufzubauen.
+  Intervalltraining:
+  Der Wechsel zwischen Phasen hoher Intensität (schnelles Laufen) und Phasen niedriger Intensität (lockeres Gehen oder Joggen), um den Kalorienverbrauch und die kardiovaskuläre Verbesserung zu maximieren.
+  Tempolauf:
+  Ein Lauf in gleichmäßigem, anhaltendem Tempo, das etwas schneller als ein normales Joggen ist und deine Fähigkeit fordert, eine intensivere Anstrengung über einen längeren Zeitraum aufrechtzuerhalten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4131'

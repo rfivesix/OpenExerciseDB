@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1528'
+language: en
+status: human
+name: Glute Drive
+description: |-
+  Lie down on the back pad and strap yourself in with the waistband. Position yout feet&nbsp;shoulder-length apart. They should be slightly splayed.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: schweezer
+  source_id: '2485'

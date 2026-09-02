@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '254'
+language: es
+status: human
+name: Elevaciones Frontales con Disco
+description: |-
+  La elevación frontal con disco es una variante de la elevación frontal con mancuerna en la que sujetas un disco entre las dos manos, en lugar de usar una mancuerna, una barra u otro peso. Puede aportar variedad en un entrenamiento de hipertrofia centrado en los hombros, o como parte de un circuito de tren superior o de cuerpo completo.
+
+  De pie y erguido, sujeta un disco con ambas manos en las posiciones de las 3 y las 9 del reloj. Las palmas deben mirarse entre sí y los brazos deben estar extendidos y bloqueados con una ligera flexión en los codos, y el disco debe quedar abajo, cerca de tu cintura y por delante de ti, tan lejos como puedas. Consejo: Los brazos permanecerán en esta posición durante todo el ejercicio. Esta será tu posición inicial.
+  Eleva lentamente el disco mientras exhalas hasta que quede un poco por encima de la altura de los hombros. Mantén la contracción durante un segundo. Mientras inhalas, baja lentamente el disco de nuevo hasta la posición inicial.
+  Repite el número de repeticiones recomendado.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2728'

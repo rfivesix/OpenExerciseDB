@@ -1,0 +1,31 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1747'
+language: es
+status: human
+name: Sentadilla multipower
+description: |-
+  Técnica y ejecución
+  La sentadilla en máquina Smith es una variante de la sentadilla con barra tradicional que utiliza una barra guiada con una trayectoria fija. Aquí tienes un desglose detallado de la técnica correcta:
+  Posición inicial
+  Colocación de los pies: Coloca los pies ligeramente por delante de la barra, separados aproximadamente a la anchura de los hombros.
+  Posición de la barra: Apoya la barra sobre la parte superior del trapecio/hombros, similar a una sentadilla tradicional.
+  Postura: Los pies pueden estar ligeramente inclinados hacia afuera para una rotación natural de la cadera.
+  Movimiento de la sentadilla
+  Descarga la barra girándola para soltarla de los ganchos de seguridad.
+  Baja lentamente el cuerpo flexionando las rodillas y las caderas.
+  Desciende hasta que los muslos estén paralelos al suelo (o ligeramente por debajo).
+  Haz una breve pausa al final del movimiento.
+  Impulsa los talones para volver a la posición inicial.
+  Beneficios y consideraciones
+  Ventajas
+  Requiere menos equilibrio: La trayectoria fija de la barra facilita el movimiento para principiantes.
+  Movimiento controlado: Menor riesgo de mala postura en comparación con las sentadillas con peso libre.
+  Aislamiento: Permite el desarrollo muscular de las piernas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2881'

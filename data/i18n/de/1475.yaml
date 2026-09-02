@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1475'
+language: de
+status: human
+name: Black Widow Knee Slides
+description: |-
+  Bei
+  dieser Rotationsbewegung von unten nach oben kreuzt du dein Knie hinüber und
+  drückst es zum gegenüberliegenden Ellbogen. Beginne in der hohen Plank-Position (oder
+  Tabletop-Position) mit den Händen direkt unter den Schultern. Hebe das linke Knie zum
+  rechten Arm und schiebe es am Unterarm hinauf, um mehr von dieser posterioren Beckenkippung
+  und Aktivierung der Bauchmuskulatur zu erreichen. Mach dann die andere Seite
+  und führe dein rechtes Knie zur linken Hand.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3978'

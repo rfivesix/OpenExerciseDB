@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1082'
+language: en
+status: human
+name: Bent over row to external rotation
+description: |-
+  Starting position:
+  Stand behind a chair or in front of a table. Bend at the waist to put your forehead on the chair's headrest or table, keeping your back straight. Your arms should be hanging straight down, pointed at the floor.
+  Steps:
+
+  Bring your elbows up to shoulder height. Your forearms should be pointing down, perpendicular to your biceps. Your biceps should be at the same height as your back and perpendicular to your spine.
+  Hold for a bit.
+  Rotate at your elbows to bring your hands as far up as you can.
+  Hold for a bit.
+  Rotate at your elbows back to the previous position.
+  Bring your arms down to the original position.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '2032'

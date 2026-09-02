@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '354'
+language: es
+status: human
+name: Jalón al pecho (inclinado)
+description: |-
+  Con el cuerpo ligeramente inclinado hacia atrás y el agarre un poco más abierto de la altura de los hombros, tirar la barra hacia el pecho.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: LEBRERO
+  source_id: '2935'

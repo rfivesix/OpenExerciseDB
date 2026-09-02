@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '997'
+language: es
+status: human
+name: Burpees de 4 Tiempos
+description: |-
+  Esta es la versión del burpee sin la flexión de pecho ni el salto vertical. La secuencia de 4 pasos es la siguiente:
+
+  Baja a una posición de cuclillas y apoya las manos en el suelo.
+  Salta con los pies hacia atrás hasta quedar en una plancha alta.
+  Salta con los pies de vuelta hacia tus manos para regresar a la cuclillas.
+  Ponte de pie para completar la repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2663'

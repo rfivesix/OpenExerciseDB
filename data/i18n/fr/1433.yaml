@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1433'
+language: fr
+status: human
+name: Wood chops inversés (rotation du tronc)
+description: |-
+  Fixez un élastique en boucle à un rack en dessous de la hauteur des genoux
+  Saisissez l'autre extrémité de l'élastique à deux mains, comme si vous teniez une batte de baseball
+  Étirez l'élastique en lui faisant face
+  Commencez avec les mains sur le côté de vos hanches, les genoux fléchis
+  Faites pivoter vos hanches tout en déplaçant vos mains par-dessus l'épaule opposée
+  Imaginez le mouvement comme si vous frappiez une balle de baseball avec une batte
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4626'

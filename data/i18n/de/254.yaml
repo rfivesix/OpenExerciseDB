@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '254'
+language: de
+status: human
+name: Frontheben Mit Scheibe
+description: |-
+  Das Frontheben mit Gewichtsscheibe ist eine Variante des Fronthebens mit Kurzhantel, bei der du eine Gewichtsscheibe zwischen beiden Händen hältst, statt eine Kurzhantel, Langhantel oder ein anderes Gewicht zu verwenden. Es kann für Abwechslung in einem schulterbetonten Muskelaufbautraining sorgen oder Teil eines Oberkörper- oder Ganzkörper-Zirkels sein.
+
+  Halte im aufrechten Stand eine Hantelscheibe mit beiden Händen auf der 3- und 9-Uhr-Position. Deine Handflächen sollten einander zugewandt sein, deine Arme gestreckt und mit einer leichten Beugung im Ellbogen fixiert, und die Scheibe sollte so weit wie möglich unten vor dir auf Höhe der Taille gehalten werden. Tipp: Die Arme bleiben während der gesamten Übung in dieser Position. Das ist deine Ausgangsposition.
+  Hebe die Scheibe langsam an, während du ausatmest, bis sie etwas über Schulterhöhe ist. Halte die Kontraktion eine Sekunde lang. Während du einatmest, senke die Scheibe langsam wieder in die Ausgangsposition.
+  Wiederhole für die empfohlene Anzahl an Wiederholungen.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: Marius
+  source_id: '221'

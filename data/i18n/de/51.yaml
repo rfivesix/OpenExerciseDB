@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '51'
+language: de
+status: human
+name: Handgelenkstreckung
+description: |-
+  Im Sitzen Unterarme auf die Oberschenkel, Handrücken nach oben (Obergriff) und dann Kurzhanteln nach oben bewegen.
+search_terms:
+  - Kurzhantel-Unterarmcurl
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: burenl
+  source_id: '282'

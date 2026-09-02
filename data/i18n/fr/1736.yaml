@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1736'
+language: fr
+status: human
+name: Soulevé de terre sur une jambe avec haltère
+description: |-
+  Position de départ : Tenez-vous debout, les genoux légèrement fléchis, en tenant un haltère dans une main ou dans les deux. Reportez votre poids sur votre jambe d'appui (par exemple la jambe droite) et décollez légèrement du sol le pied de l'autre jambe.
+  La charnière : En gardant le dos plat et la sangle abdominale gainée, basculez au niveau des hanches en poussant vos fessiers vers l'arrière. À mesure que votre buste descend, tendez la jambe libre droit derrière vous pour l'équilibre, en gardant les hanches bien parallèles au sol. Le ou les haltères doivent descendre vers le sol le long de votre jambe d'appui.
+  Amplitude de mouvement : Continuez d'abaisser votre buste jusqu'à ce qu'il soit presque parallèle au sol, ou jusqu'à ressentir un étirement intense dans l'ischio-jambier de votre jambe d'appui, en veillant à garder le dos neutre tout au long du mouvement.
+  Retour au départ : Marquez une pause en bas, puis contractez vos fessiers et vos ischio-jambiers pour remonter lentement le buste jusqu'à la position de départ. Votre jambe libre doit revenir dans l'alignement de la jambe d'appui.
+  Changement de côté : Après avoir effectué le nombre de répétitions souhaité d'un côté, reportez votre poids et répétez le mouvement sur l'autre jambe.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4744'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1554'
+language: de
+status: human
+name: Liegestütz mit Klatschen
+description: |-
+  Der Liegestütz mit Klatschen ist eine explosive Oberkörperbewegung, die Schnellkraft und die Stärke der schnellzuckenden Muskelfasern aufbaut. Er fügt dem klassischen Liegestütz eine plyometrische Komponente hinzu, da die Hände während der Wiederholung den Boden verlassen müssen.
+
+  Beginne in einer stabilen Liegestützposition mit den Händen etwas weiter als schulterbreit und angespanntem Rumpf
+  Senke deinen Körper explosiv ab und drücke dich so kraftvoll vom Boden ab, dass deine Hände abheben.
+  Klatsche schnell auf Brusthöhe in die Hände, bevor du sie wieder auf den Boden setzt.
+  Lande mit leicht gebeugten Ellbogen, um den Aufprall abzufedern, und gehe sofort in die nächste Wiederholung über
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4076'

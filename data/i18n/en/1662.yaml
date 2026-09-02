@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1662'
+language: en
+status: human
+name: Cable Tri Extension - Internal Rotation
+description: |-
+  single arm exercise with cable held at opposite shoulder with elbow bent. Turn towards the cable, and the straighten the elbow across the body.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Shiladree
+  source_id: '2783'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: it
+status: human
+name: Cerchi del braccio
+description: |-
+  Stai in piedi con la schiena dritta.
+  Porta le braccia in avanti, alzale sopra la testa, poi continua il movimento dietro la schiena e giù fino alla posizione iniziale.
+  Continua a far girare le braccia come descritto al punto 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1692'

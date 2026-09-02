@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1901'
+language: fr
+status: human
+name: Épaulé-développé (clean and press)
+description: |-
+  Le premier tirage : Soulevez la barre du sol jusqu'à hauteur des genoux en poussant avec les jambes, en gardant l'angle de votre dos constant.
+  La position de « puissance » : Lorsque la barre atteint le milieu des cuisses, haussez explosivement les épaules et étendez les hanches pour créer une impulsion verticale.
+  Le passage rapide des coudes : Pendant la phase de réception, faites pivoter rapidement vos coudes sous la barre pour créer une « tablette » sur vos deltoïdes antérieurs.
+  La poussée verticale : Poussez la barre en ligne droite ; votre tête doit se décaler légèrement vers l'avant une fois que la barre dépasse votre front afin d'atteindre le verrouillage complet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4794'

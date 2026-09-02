@@ -3,15 +3,39 @@
 # kein App-Change, kein Build-Change.
 #
 # tier:
-#   curated  — menschlich gepflegt, blockiert den Release bei Luecken
+#   curated  — von diesem Projekt gepflegt und geprueft; blockiert den Release
+#              bei Luecken (Invariante 4)
+#   upstream — aus der Quelle uebernommen, von uns inhaltlich NICHT geprueft.
+#              Wird ausgeliefert und als solche markiert, blockiert nichts.
 #   assisted — KI-erzeugt, menschlich stichprobenartig geprueft
 #   machine  — KI-erzeugt, ungeprueft; wird ausgeliefert, aber als solche markiert
+#
+# Stand Phase 1: saemtliche Texte stammen unveraendert aus wger. `en` ist als
+# einzige Sprache `curated`, weil sie Quellsprache und vollstaendig ist und
+# damit das Release-Gate traegt; `de` wird auf `curated` hochgestuft, sobald es
+# vollstaendig und geprueft ist (heute 628 von 871).
+#
+# wger_language_id: die numerische Sprach-ID der wger-API (/api/v2/language/).
+#   Der Importer liest AUSSCHLIESSLICH diese Registry und prueft sie beim Lauf
+#   gegen den Snapshot; weicht ein Eintrag ab, bricht der Import ab.
+#   Grund: die alte Pipeline hatte diese Zuordnung fest verdrahtet und dabei
+#   falsch (4 galt als fr, 5 als it, 8 als ja — tatsaechlich es, ru, el),
+#   weshalb die heute ausgelieferte Datenbank 646 spanische Texte als
+#   Franzoesisch, 48 griechische als Japanisch und 10 russische als
+#   Italienisch fuehrt. Japanisch gibt es bei wger ueberhaupt nicht.
+#
+# complete_in_release: Das Release garantiert fuer diese Sprache eine Zeile je
+#   aktiver Uebung — fehlt der Text, fuellt der Build ihn ueber die
+#   fallback_chain und markiert die Zeile mit `source_lang`. Nur `en` und `de`
+#   tragen das, weil der Importer der heutigen App genau diese beiden Sprachen
+#   erwartet (_mapExerciseBundle). Ohne das Flag wuerden 22 Sprachen je 871
+#   Fallback-Zeilen erzeugen, die zu 95 % englische Duplikate waeren.
 #
 # fallback_chain: was die App nimmt, wenn ein Text in dieser Sprache fehlt.
 # Ausgeliefert wird jede Sprache, unabhaengig vom Fuellstand — die App
 # entscheidet anhand von `min_completeness`, ob sie sie im Sprachwaehler zeigt.
 
-version: 1
+version: 2
 
 source_language: en   # Source of Truth fuer alle Uebersetzungen
 
@@ -19,29 +43,118 @@ languages:
   - code: en
     names: { en: English, de: Englisch }
     tier: curated
+    wger_language_id: 2
+    complete_in_release: true
     fallback_chain: []
   - code: de
     names: { en: German, de: Deutsch }
-    tier: curated
-    fallback_chain: [en]
-  - code: fr
-    names: { en: French, de: Französisch }
-    tier: assisted
+    tier: upstream
+    wger_language_id: 1
+    complete_in_release: true
     fallback_chain: [en]
   - code: es
     names: { en: Spanish, de: Spanisch }
-    tier: machine
+    tier: upstream
+    wger_language_id: 4
+    fallback_chain: [en]
+  - code: fr
+    names: { en: French, de: Französisch }
+    tier: upstream
+    wger_language_id: 12
     fallback_chain: [en]
   - code: it
     names: { en: Italian, de: Italienisch }
-    tier: machine
+    tier: upstream
+    wger_language_id: 13
     fallback_chain: [en]
-  - code: ja
-    names: { en: Japanese, de: Japanisch }
-    tier: machine
+  - code: pt
+    names: { en: Portuguese, de: Portugiesisch }
+    tier: upstream
+    wger_language_id: 7
+    fallback_chain: [en]
+  - code: nl
+    names: { en: Dutch, de: Niederländisch }
+    tier: upstream
+    wger_language_id: 6
+    fallback_chain: [en]
+  - code: cs
+    names: { en: Czech, de: Tschechisch }
+    tier: upstream
+    wger_language_id: 9
+    fallback_chain: [en]
+  - code: el
+    names: { en: Greek, de: Griechisch }
+    tier: upstream
+    wger_language_id: 8
+    fallback_chain: [en]
+  - code: id
+    names: { en: Indonesian, de: Indonesisch }
+    tier: upstream
+    wger_language_id: 23
+    fallback_chain: [en]
+  - code: ar
+    names: { en: Arabic, de: Arabisch }
+    tier: upstream
+    wger_language_id: 17
+    fallback_chain: [en]
+  - code: zh
+    names: { en: Chinese, de: Chinesisch }
+    tier: upstream
+    wger_language_id: 24
+    fallback_chain: [en]
+  - code: tr
+    names: { en: Turkish, de: Türkisch }
+    tier: upstream
+    wger_language_id: 16
+    fallback_chain: [en]
+  - code: hr
+    names: { en: Croatian, de: Kroatisch }
+    tier: upstream
+    wger_language_id: 22
+    fallback_chain: [en]
+  - code: he
+    names: { en: Hebrew, de: Hebräisch }
+    tier: upstream
+    wger_language_id: 21
+    fallback_chain: [en]
+  - code: ru
+    names: { en: Russian, de: Russisch }
+    tier: upstream
+    wger_language_id: 5
+    fallback_chain: [en]
+  - code: pl
+    names: { en: Polish, de: Polnisch }
+    tier: upstream
+    wger_language_id: 14
+    fallback_chain: [en]
+  - code: sv
+    names: { en: Swedish, de: Schwedisch }
+    tier: upstream
+    wger_language_id: 10
+    fallback_chain: [en]
+  - code: fa
+    names: { en: Persian, de: Persisch }
+    tier: upstream
+    wger_language_id: 20
+    fallback_chain: [en]
+  - code: uk
+    names: { en: Ukrainian, de: Ukrainisch }
+    tier: upstream
+    wger_language_id: 15
+    fallback_chain: [en]
+  - code: eo
+    names: { en: Esperanto, de: Esperanto }
+    tier: upstream
+    wger_language_id: 19
+    fallback_chain: [en]
+  - code: az
+    names: { en: Azerbaijani, de: Aserbaidschanisch }
+    tier: upstream
+    wger_language_id: 18
     fallback_chain: [en]
 
 # Ab welchem Fuellstand eine Sprache im Release als "anzeigbar" gilt.
 # Wird pro Sprache in die languages-Tabelle der DB geschrieben, damit die App
-# nicht selbst zaehlen muss.
+# nicht selbst zaehlen muss. Gezaehlt werden nur echte Uebersetzungen, keine
+# Fallback-Zeilen.
 min_completeness: 0.95

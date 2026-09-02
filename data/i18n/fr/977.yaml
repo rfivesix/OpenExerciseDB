@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '977'
+language: fr
+status: human
+name: Box squat
+description: |-
+  Installez la box : Placez la box derrière vous, à environ un mètre d'un rack à squat si vous utilisez une barre. Choisissez une hauteur qui vous permette de descendre en squat et d'effleurer doucement la box avec les fessiers, le dos droit.
+  Adoptez une bonne posture : Tenez-vous debout, les pieds écartés à la largeur des épaules, les pointes de pieds légèrement vers l'extérieur. Engagez la sangle abdominale et gardez le dos neutre. Si vous utilisez une barre, placez-la à hauteur d'épaule.
+  Descendez : Asseyez-vous vers l'arrière comme pour vous installer sur une chaise, en fléchissant les genoux et en abaissant les hanches vers la box. Gardez la sangle abdominale gainée et le dos droit tout au long du mouvement.
+  Descente contrôlée : Descendez de manière contrôlée jusqu'à ce que les fessiers touchent doucement la box. Ne vous laissez pas tomber.
+  Pause et poussée : Marquez brièvement une pause en position basse, le dos droit et la sangle abdominale gainée. Poussez ensuite à travers les talons pour vous propulser de nouveau à la position de départ.
+
+  Amélioration de la coordination, de l'équilibre et de l'endurance, tonification des muscles des jambes et des fessiers, et augmentation globale de la densité osseuse réduisant le risque d'ostéoporose.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4411'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '418'
+language: fr
+status: human
+name: Développé militaire à la barre EZ
+description: |-
+  Sur une barre EZ, placez vos mains à l'extérieur de chaque courbure et tenez-vous debout, les bras tendus vers le bas, paumes tournées vers vos jambes. Tirez la barre vers votre poitrine (en pliant les bras au niveau des coudes), puis poussez la barre au-dessus de votre tête (bras aussi tendus que possible). Ramenez la barre vers votre poitrine en abaissant vos bras par les coudes. Ramenez la barre à sa position d'origine (debout, les bras tendus vers le bas, paumes tournées vers vos jambes).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4872'

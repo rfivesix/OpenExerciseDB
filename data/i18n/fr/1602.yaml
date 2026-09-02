@@ -1,0 +1,33 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1602'
+language: fr
+status: human
+name: Élévation en scaption aux haltères
+description: |-
+  Position de départ :
+  Tenez-vous debout, bien droit, les pieds écartés de la largeur des épaules.
+  Tenez un haltère dans chaque main en prise neutre (paumes se faisant face).
+  Gardez les coudes légèrement fléchis, les épaules relâchées et les omoplates ramenées vers l'arrière.
+  Exécution :
+  Levez lentement les haltères vers l'avant et légèrement sur les côtés, à un angle d'environ 30 à 45° par rapport au corps (entre une élévation frontale et une élévation latérale).
+  Levez jusqu'à ce que les bras soient à peu près à hauteur d'épaule (ne montez pas au-dessus de la tête).
+  Marquez une pause d'une seconde en position haute et ressentez l'activation des épaules et des stabilisateurs de l'omoplate.
+  Redescendez les haltères de manière contrôlée jusqu'à la position de départ.
+  Respiration :
+  Inspirez en abaissant les haltères.
+  Expirez en les soulevant.
+  Erreurs fréquentes :
+  Utiliser des haltères trop lourds (ce qui provoque des mouvements saccadés).
+  Lever au-dessus de la hauteur d'épaule (ce qui exerce une contrainte inutile sur l'articulation de l'épaule).
+  Cambrer le bas du dos au lieu de garder le mouvement contrôlé au niveau des épaules.
+  Objectif de l'exercice :
+  Active le faisceau inférieur du trapèze, le grand dentelé et les stabilisateurs de l'omoplate.
+  Aide à corriger la posture et à améliorer l'équilibre des épaules.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4714'

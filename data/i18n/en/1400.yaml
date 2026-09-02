@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1400'
+language: en
+status: human
+name: Crossbody Hamstring Stretch
+description: |-
+  While standing, cross one leg behind the other (keep this leg straight). Reach downward and try to touch the toes of that leg. Slightly bend the other leg so that you can bend down.
+search_terms:
+  - Standing Cross-Leg Hamstring Stretch
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2367'

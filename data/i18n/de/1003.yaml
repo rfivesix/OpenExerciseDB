@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: de
+status: human
+name: Kettlebell Kreuzheben
+description: |-
+  Ausgangsposition:
+  Stellen Sie sich hüftbreit auseinander, die Kettlebell befindet sich in der Mitte zwischen Ihren Knöcheln. Der Rücken sollte gerade sein, der Kopf nach vorne zeigen.
+  Schritte:
+
+  Beugen Sie sich in der Hüfte und gehen Sie leicht in die Knie, um die Hände auf die Kettlebell-Griffe zu legen. Der Rücken sollte gerade sein, während Sie die Bewegung ausführen.
+  Greifen Sie die Kettlebell-Griffe und drücken Sie mit den Händen in entgegengesetzte Richtungen, als ob Sie die Griffe auseinanderziehen wollten.
+  Während Sie Ihre Bauch- und Gesäßmuskeln anspannen, richten Sie sich auf.
+  Beugen Sie sich wieder in die Hüfte, um die Kettlebell wieder nach unten zu bringen, ähnlich wie in Schritt 1.
+  Wiederholen Sie den Vorgang ab Schritt 3.
+
+  Tipps:
+
+  Achten Sie darauf, dass Sie die Bewegungen korrekt ausführen, da dies sonst zu Verletzungen führen kann. Gehen Sie z.B. nicht in die Hocke statt in die Hüfte, machen Sie den Rücken nicht rund, wenn Sie nach der Kettlebell greifen, und lehnen Sie sich beim Aufstehen nicht zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1802'

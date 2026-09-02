@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1841'
+language: de
+status: human
+name: Sitzende Schulterextensions-Dehnung
+description: |-
+  Setze dich mit den Händen hinter dir hin, schulterbreit auseinander.
+  Strecke deine Ellenbogen durch.
+  Schiebe deine Füße und Hüften nach vorne und senke deine Schultern zum Boden ab.
+  Gehe so weit wie möglich, um eine gute Dehnung zu erreichen.
+
+  Siehe das Video: https://www.youtube.com/watch?v=ihUAbG0e8zw
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4219'

@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '987'
+language: de
+status: human
+name: Seitliche Kniebeugen rechts
+description: |-
+  Ausgangsposition:
+
+  Stehen Sie aufrecht und machen Sie einen weiten seitlichen Schritt, etwas mehr als schulterbreit.
+
+  Schritte:
+
+  Beugen Sie ein Knie, bis Ihr Oberschenkel parallel zum Boden ist. Das gebeugte Knie muss sich in einer Linie mit dem Fuß befinden.
+  Drücken Sie sich zurück in die Ausgangsposition.
+  Wiederholen Sie die Übung.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1587'

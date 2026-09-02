@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '998'
+language: id
+status: human
+name: Tidak ada burpe push-up
+description: |-
+  Posisi awal:
+  Berdiri tegak, kaki selebar pinggul.
+  Langkah:
+
+  Jongkok rendah dan dukung diri anda di lantai dengan tangan di antara lutut dan di depan kaki, punggung lurus.
+  Menjaga tangan Anda di lantai, melompat kaki Anda ke belakang ke posisi papan tinggi.
+  Lompat kaki Anda ke depan untuk kembali ke posisi jongkok.
+  Melompat.
+  Ulangi.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1739'

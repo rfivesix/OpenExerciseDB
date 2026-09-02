@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1695'
+language: es
+status: human
+name: Dominadas (agarre ancho)
+description: |-
+  Ejecución
+
+
+  Fase de tracción (concéntrica):
+
+  Lleva tus codos hacia abajo y ligeramente hacia atrás, tirando del pecho hacia la barra.
+  Concéntrate en liderar el movimiento con el pecho, no con el mentón.
+  Mantén los hombros deprimidos (evita encogerlos).
+
+
+
+  Posición superior:
+
+  El mentón debe superar la barra (o al menos alcanzar su nivel).
+  Haz una breve pausa para contraer los dorsales.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4053'

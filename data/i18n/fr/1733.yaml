@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1733'
+language: fr
+status: human
+name: Squat isométrique jusqu'à l'échec
+description: |-
+  Squat isométrique jusqu'à l'échec : une technique d'entraînement en force
+  Définition
+  Le squat isométrique jusqu'à l'échec est une variante de l'exercice du squat dans laquelle vous maintenez une position de squat statique à un angle précis, en conservant la position jusqu'à ce que vos muscles ne puissent plus soutenir la contraction.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4733'

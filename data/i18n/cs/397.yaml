@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '397'
+language: cs
+status: human
+name: Dřep do Sedu na Box
+description: |-
+  Cvik se provádí v širším postoji nohou se vzpěračskou činkou na zadech. Po dosednutí na box na chvíli uvolnit nohy a následně výbušně se zvednout.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: taylorbarbell
+  source_id: '364'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: zh
+status: human
+name: 左颈部拉伸
+description: |-
+  起始姿势：坐位或站位，背部挺直。
+  步骤：
+
+  头向一侧倾斜。
+  用离头较近的那只手从另一侧抓住头部。
+  手顶着头，头顶着手推动，使力量平衡，头部保持静止。
+  保持这种张力直到练习结束。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1868'

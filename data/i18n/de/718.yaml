@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '718'
+language: de
+status: human
+name: Wall Squat
+description: |-
+  Mache einen klassischen Squat an der Wand. Lehne dich mit dem Rücken an die Wand und gleite langsam herunter bis du 90° in den Knien hast. Halte die Position 30 Sekunden.
+upstream:
+  license: CC0-1.0
+  license_author: Blablabla
+  source_id: '707'

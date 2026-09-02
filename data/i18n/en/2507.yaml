@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2507'
+language: en
+status: human
+name: Forearm Plank (Core L1)
+description: |-
+  Vasco custom forearm plank - foundational anterior core stability exercise. Teaches full-body tension, breath control, and anti-extension. Prerequisite for all advanced core work.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '4986'

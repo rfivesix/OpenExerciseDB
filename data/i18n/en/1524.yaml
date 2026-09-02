@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1524'
+language: en
+status: human
+name: Battle Ropes
+description: |-
+  Hold the ends of the rope at arm's length in front of your hips with your hands shoulder-width apart.
+  Brace your core and begin alternately raising and lowering each arm explosively.
+  Keep alternating arms for three to four sets of 1 to 2 minutes.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: flanny
+  source_id: '2480'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1207'
+language: es
+status: human
+name: Patada de escorpión
+description: |-
+  Colócate en posición de flexión con los hombros directamente sobre las manos y los pies a la anchura de la cadera.
+  Asegúrate de que tu cuerpo forme una línea recta desde la cabeza hasta los talones.
+  Ahora lleva la rodilla derecha hacia el pecho. Manteniendo la rodilla flexionada, eleva la pierna derecha lo más alto posible con la parte inferior de la pierna apuntando recta hacia arriba.
+  Ahora gira la cadera de modo que el pie derecho pase por encima de la pierna izquierda.
+  Sigue girando y lleva el pie derecho hacia el suelo hasta que te veas obligado a rodar sobre el borde exterior del pie izquierdo de apoyo. Asegúrate de no girar el tronco.
+  Ahora vuelve a la posición inicial y repite el ejercicio con la pierna izquierda.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3742'

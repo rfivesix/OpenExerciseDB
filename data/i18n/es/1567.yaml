@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1567'
+language: es
+status: human
+name: Curl alterno de martillo con mancuernas
+description: |-
+  De pie, con las rodillas ligeramente dobladas y la espalda recta. Sujeta una mancuerna en cada mano, en un agarre neutral a lo largo del cuerpo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2623'

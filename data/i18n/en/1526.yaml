@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1526'
+language: en
+status: human
+name: Ski Machine
+description: |-
+  Start standing on the platform with your feet hip-width apart.
+  Reach overhead to grip the handles with your palms facing in.
+  Soften your knees, then simultaneously drive your butt back as if you're closing a door behind you while pulling your arms straight down past your hips until your hands pass by the side of your knees.
+  Next, bring your arms back overhead while thrusting your hips forward until you're standing with your arms fully extended.
+  Repeat for reps, time or distance.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: flanny
+  source_id: '2482'

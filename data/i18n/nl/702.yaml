@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '702'
+language: nl
+status: human
+name: Kuitoptrekken (links)
+description: |-
+  Ga op de grond staan of op de rand van een opstapje. Til één voet op en houd hem tegen op je kuit.
+  Til je hielen op, zo ver totdat je op je tenen staat.
+  Houd dit drie seconden vol. Duw je voet weer naar omlaag zonder de grond te raken met je hiel.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: McMarcel13
+  source_id: '1490'

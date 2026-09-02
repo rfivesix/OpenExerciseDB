@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: el
+status: human
+name: Διάταση λαιμού εμπρός
+description: |-
+  Θέση εκκίνησης:
+  Κάθισε ή στάσου όρθιος με την πλάτη ίσια.
+  Βήματα:
+
+  Ανοίξτε διάπλατα το στόμα.
+  Γείρετε αργά το κεφάλι προς τα πίσω με το στόμα ανοιχτό. Αν νιώθετε την ανάγκη για στήριξη, σφίξτε τα χέρια σας πίσω από το κεφάλι σας.
+  Πολύ αργά κλείστε και ανοίξτε το στόμα σας.
+  Στο τέλος, επιστρέψτε αργά στην αρχική θέση και κλείστε το στόμα.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1902'

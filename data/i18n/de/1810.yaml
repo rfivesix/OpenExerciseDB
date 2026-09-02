@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1810'
+language: de
+status: human
+name: Sphinx
+description: |-
+  Flach auf den Bauch legen, Beine gestreckt und Fußrücken am Boden. Bringe die Unterarme unter die Schultern, Ellenbogen direkt darunter. Dann drücke die Hände auf den Fußboden um den Brustkorb anzuheben. Ziehe die Schulterblätter zusammen, öffne die Schlüsselbeine und richte den Blick nach vorn, während der untere Rücken entspannt bleibt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Joculari
+  source_id: '2940'

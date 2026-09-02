@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1779'
+language: es
+status: human
+name: Rotación con landmine
+description: |-
+  Comienza con la barra de landmine recta hacia arriba, empujándola por encima de ti con los hombros. Luego, desde esa posición, llévala hacia un costado para trabajar los abdominales y vuelve a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4178'

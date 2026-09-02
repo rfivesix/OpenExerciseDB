@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: de
+status: human
+name: Umgekehrte Ausfallschritte
+description: |-
+  Ausgangsposition:
+  Gerade stehen, Füße hüftbreit auseinander.
+  Schritte:
+
+  Treten Sie mit einem Bein nach hinten, so dass Sie es bequem bis zu einem Winkel von 90 Grad beugen können.
+  Beugen Sie langsam beide Knie, um einen 90-Grad-Winkel zu bilden.
+  Kehren Sie in die Ausgangsposition zurück.
+  Wiederholen, dabei die Beine abwechseln.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1752'

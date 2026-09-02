@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '406'
+language: es
+status: human
+name: Ejercicio del manguito rotador tumbado
+description: |-
+  Este es un ejercicio para problemas del manguito rotador. Trabaja principalmente el infraespinoso y, de forma secundaria, el redondo menor.
+  Túmbate de lado. Mantén el codo pegado a la cintura y en un ángulo de 90°. Rota hacia el estómago. Añade peso según te convenga.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3620'

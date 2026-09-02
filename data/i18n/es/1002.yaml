@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: es
+status: human
+name: Postura del Niño
+description: |-
+  Es una postura de descanso fundamental en yoga que estira la espalda, caderas y muslos.
+  Desde una posición arrodillada, siéntate sobre tus talones e inclina el torso hacia adelante hasta que tu frente toque el suelo. Deja los brazos extendidos al frente o relájalos a los lados de tu cuerpo. Mantén la postura y respira profundamente.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2666'

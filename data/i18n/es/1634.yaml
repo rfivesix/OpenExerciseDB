@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1634'
+language: es
+status: human
+name: Pullover/remo con cuerda
+description: |-
+  Coloca un banco delante de la máquina de remo con polea. Inclínate sobre el banco para hacer un remo/pullover con la cuerda que trabaja los dorsales. Mira la imagen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3607'

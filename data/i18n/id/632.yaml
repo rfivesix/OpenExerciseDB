@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: id
+status: human
+name: Sumo jongkok
+description: |-
+  Posisi awal:
+  Berdiri dengan kaki lebar dan jari kaki menghadap ke luar.
+  Langkah:
+
+  Perlahan-lahan tenggelam ke bawah dengan menekuk lutut Anda keluar. Raih lengan ke depan. Jaga kepala, dada, dan pinggul Anda dalam garis lurus. Peras glutes Anda.
+  Dorong kembali ke posisi awal.
+  Ulangi latihan ini dengan gerakan berdenyut.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '1435'

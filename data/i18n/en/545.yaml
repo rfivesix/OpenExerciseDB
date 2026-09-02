@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '545'
+language: en
+status: human
+name: Scissors
+description: |-
+  Scissors is an abdominal exercise that strengthens the transverse abdominals, helping flatten your belly and strengthen your entire core. Scissors is not only a core strength move, but it is also a great stretch for your hamstrings and your lower back. Everyone is looking for new ways to work the core, to&nbsp;flatten the belly&nbsp;and to improve flexibility. If you learn how to do Scissors you will get everything rolled together in one move.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: vkylamba
+  source_id: '631'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '167'
+language: es
+status: human
+name: Abdominales
+description: |-
+  Acuéstese boca arriba en el suelo con las rodillas dobladas.
+  Flexione los hombros hacia la pelvis. Las manos pueden estar detrás o al costado del cuello o cruzadas sobre el pecho.
+  Repita
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '1311'

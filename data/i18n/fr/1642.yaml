@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1642'
+language: fr
+status: human
+name: Hip Thrust avec haltère
+description: |-
+  Cet exercice consiste à s'asseoir sur le sol avec un haltère posé sur les hanches, puis à pousser les hanches vers le haut tout en contractant les fessiers. C'est un excellent exercice pour renforcer les fessiers et améliorer la mobilité des hanches.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2752'

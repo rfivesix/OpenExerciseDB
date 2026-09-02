@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '988'
+language: el
+status: human
+name: Βουλγαρικά σπαστά καθίσματα αριστερά
+description: |-
+  Σταθείτε όρθιοι μπροστά από μια καρέκλα και κάντε ένα μεγάλο βήμα. Τοποθετήστε το πάνω μέρος του ενός ποδιού σας στην καρέκλα.
+  Λυγίστε το μπροστινό γόνατο, ισορροπώντας με τα χέρια μέχρι το πίσω γόνατο να ακουμπήσει σχεδόν στο έδαφος
+  Σπρώξτε πίσω στη θέση εκκίνησης και επαναλάβετε.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1610'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1825'
+language: es
+status: human
+name: Elevación posterior de hombro con apoyo en el pecho
+description: |-
+  "La Y" – Posición: Ajusta un banco inclinado a 30–45 grados. Túmbate boca abajo con el pecho apoyado, manteniendo la cabeza neutra o mirando ligeramente hacia abajo para evitar tensión en el cuello. Agarre: Sujeta mancuernas ligeras con un agarre neutro o con los pulgares hacia arriba (el pulgar apuntando al techo). Movimiento: Con los codos rectos o ligeramente flexionados, eleva las mancuernas hacia arriba y hacia afuera formando una "Y". Concéntrate en mover los hombros y los omóplatos en lugar de solo levantar los brazos. Posición alta: Junta los omóplatos y estírate hacia arriba, asegurándote de que los brazos formen una "Y". Control: Baja las mancuernas lentamente a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4200'

@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: nl
+status: human
+name: Draaiend opdrukken
+description: |-
+  Druk op:
+
+  1.a Ga op je buik liggen.1.b Plaats je handen in de buurt van je oren.1.c Gebruik je armen om je buik omhoog te duwen totdat je armen gestrekt zijn - houd je rug recht.1.d Buig je armen totdat je borstkas bijna de grond raakt - houd je rug recht.1.e Kom weer omhoog en ga naar stap 3.
+
+  Draai op je zij, houd je rug recht en raak alleen met je hand en voet de grond aan.
+  Herhaal, en wissel bij stap 2 telkens van zij
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1564'

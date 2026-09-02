@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1477'
+language: fr
+status: human
+name: Tire-bouchon assis
+description: |-
+  Pour réaliser cet exercice des abdominaux et des obliques, commencez avec les mains posées derrière le corps et ramenez les genoux vers l'intérieur et en travers, en cherchant vraiment à contracter les obliques. Tendez ensuite les jambes pour revenir à la position de départ et répétez vers le côté opposé des abdominaux.
+  Les débutants pourront constater qu'ils n'arrivent même pas à tenir les 45 premières secondes de cette variante exigeante de crunchs inversés. Ce n'est pas grave, car cela vous donne un point de départ et un objectif à améliorer.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4649'

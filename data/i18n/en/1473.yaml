@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1473'
+language: en
+status: human
+name: Reverse Cable Flye
+description: |-
+  Attach D-Handles to two cable pulleys in the upper position. Grab the left on with your right hand and vice-versa.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Expenses7000
+  source_id: '2436'

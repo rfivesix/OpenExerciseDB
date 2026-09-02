@@ -1,0 +1,32 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1672'
+language: fr
+status: human
+name: Abduction des hanches assis
+description: |-
+  Position de départ :
+
+  Réglez la hauteur du siège de manière à ce que vos genoux soient alignés avec l'axe de pivot de la machine.
+  Asseyez-vous le dos bien plaqué contre le dossier, en gardant une bonne posture.
+  Placez l'extérieur de vos cuisses contre les leviers rembourrés de la machine.
+  Posez vos pieds à plat sur les repose-pieds ou la plateforme de la machine.
+  Saisissez les poignées ou les côtés du siège pour la stabilité.
+  Assurez-vous que votre colonne vertébrale est neutre et que vos abdominaux sont légèrement gainés.
+
+  Mouvement :
+
+  Expirez en poussant lentement vos jambes vers l'extérieur contre les coussins de résistance.
+  Concentrez-vous sur le fait d'amorcer le mouvement depuis les hanches, et non depuis les genoux.
+  Continuez à écarter les jambes jusqu'à ressentir une forte contraction dans l'extérieur de vos hanches et de vos cuisses.
+  Maintenez brièvement la position d'abduction complète (1 à 2 secondes) pour maximiser la sollicitation musculaire.
+  Inspirez en contrôlant lentement le retour de vos jambes vers la position de départ, en résistant à la charge tout au long du mouvement.
+  Évitez de laisser la pile de poids se reposer entre les répétitions afin de maintenir une tension constante sur les muscles.
+  Répétez pour le nombre de répétitions souhaité, en gardant le contrôle tout au long de la série.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4585'

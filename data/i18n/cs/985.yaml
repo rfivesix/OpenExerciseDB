@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: cs
+status: human
+name: Kliky s rotací
+description: |-
+  Proveďte standardní push-up:
+
+  1.Lehněte si na břicho1.b položte ruce blízko uší1.c pomocí paží zvedněte žaludek nahoru, dokud nejsou paže rovné, držte záda rovně1.d ohněte paže, dokud se hrudník téměř nedotkne země, ujistěte se, že záda je rovná1.e zvedněte žaludek znovu a vraťte se ke kroku 3
+
+  Otočte tělo na stranu tak, aby záda byla rovná, spodní ruka podporující tělo je plně prodloužena a pouze spodní ruka a noha se dotýkají podlahy
+  Opakujte, pokaždé měňte strany v kroku 2
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1557'

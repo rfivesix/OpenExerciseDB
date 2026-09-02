@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: id
+status: human
+name: Mengangkat kaki
+description: |-
+  Posisi awal:
+  Berbaring telentang, kaki menyatu, lengan di samping tubuh.
+  Langkah:
+
+  Tekuk lutut Anda, lalu luruskan untuk menunjuk lurus ke atas.
+  Jaga agar kaki Anda tetap lurus, turunkan bersama-sama tanpa menyentuh lantai. Semakin rendah Anda pergi, semakin intens latihannya.
+  Angkat kedua kaki bersama-sama untuk menunjuk lurus ke atas lagi.
+  Ulangi dari Langkah 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1339'

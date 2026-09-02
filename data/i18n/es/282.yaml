@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '282'
+language: es
+status: human
+name: Flexiones en pino
+description: |-
+  La flexión en pino, también llamada flexión vertical o flexión invertida, es un tipo de flexión en el que el cuerpo se coloca en posición de pino. Para un pino real, el ejercicio se realiza de forma libre, manteniéndose en el aire. Para desarrollar la fuerza hasta lograr el equilibrio adecuado, los pies a menudo se apoyan contra una pared, los sujeta un compañero o se aseguran de alguna otra forma para evitar la caída. Las flexiones en pino requieren una fuerza considerable, así como equilibrio y control si se realizan de forma libre.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4316'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1680'
+language: de
+status: human
+name: Figur-Vier-Dehnung im Sitzen
+description: |-
+  Setze dich auf eine Bank. Die Füße flach auf dem Boden. Lege deinen linken Knöchel über dein rechtes Knie. Dein rechtes Knie bleibt flach. Halte deinen Rücken gerade. Drücke dein linkes Knie sanft nach unten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3877'

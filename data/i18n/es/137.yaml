@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '137'
+language: es
+status: human
+name: Pectoral en Máquina
+description: |-
+  Este ejercicio de aislamiento es excelente para enfocar el trabajo en la contracción de la parte interna del pecho.
+  Instrucciones:
+  Siéntate en la máquina con la espalda firmemente apoyada en el respaldo. Ajusta la altura del asiento de manera que tus brazos, al tomar los agarres, queden aproximadamente paralelos al suelo.
+  Con una ligera y constante flexión en los codos, junta los agarres al frente en un movimiento de arco controlado. Contrae el pecho fuertemente en el punto de máxima tensión y luego regresa de forma lenta a la posición inicial, sin dejar que las placas de peso choquen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2695'

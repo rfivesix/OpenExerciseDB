@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1242'
+language: en
+status: human
+name: Exercise Band Plantarflexion
+description: |-
+  Banded plantarflexion is a great way to bridge the gap between plantarflexion range of motion and the more strenuous calf raises in weight bearing. This can help strengthen the calf muscles, load the Achilles tendon, and improve plantarflexion range of motion.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: erikocobra
+  source_id: '2204'

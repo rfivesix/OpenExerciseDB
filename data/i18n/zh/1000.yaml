@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: zh
+status: human
+name: 伏地挺身
+description: |-
+  起始姿势：坐在地上，双臂后放撑地，支撑上半身。手指要指向前方。膝盖弯曲，双脚并拢。
+  步骤：
+
+  抬起臀部，离开地面，伸直手臂。
+  弯曲肘部，臀部向下。
+  伸直手臂，回到之前的位置。
+  重复步骤2和步骤3。
+
+  注：练习难度取决于臀部撑起得有多高。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1775'

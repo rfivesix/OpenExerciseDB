@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1302'
+language: en
+status: human
+name: JM Press
+description: |-
+  The JM press keeps your shoulders stationary, relying on the elbow flexion and extension to move the weight using your triceps strength. That means you get all the benefits of the best triceps-strengthening exercises without overtaxing that delicate shoulder joint. Classic win-win!
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Epiphany8424
+  source_id: '2265'

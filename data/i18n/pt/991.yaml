@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '991'
+language: pt
+status: human
+name: Split squats esquerda
+description: |-
+  Fique de pé com as costas retas
+  Dê um grande passo para frente com sua perna esquerda
+  Leve sua pélvis para baixo até quase tocar o chão com seu joelho direito
+  Leve sua pélvis de volta para cima
+  Repita a partir do passo 3.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1649'

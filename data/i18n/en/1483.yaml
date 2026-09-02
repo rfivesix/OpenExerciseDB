@@ -1,0 +1,27 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1483'
+language: en
+status: human
+name: Bizeps Curls Trifecta
+description: |-
+  This exercise is a mixture of three different curls: the Supinated Cross Body Curl, the Pronated Cross Body Curl and the No Money Curl. You
+  alternate between three curl variations that each accomplish different goals,
+  and you’ll keep the set going beyond the usual 8-12 rep range&nbsp;which gives
+  us that intensity.
+
+  For the Supinated Cross Body
+  Curl, supinate the forearm with palms facing toward the ceiling and
+  forearms coming across the body. Lift the inner-facing weight of the dumbbell towards your shoulder.
+  For the Pronated Cross Body
+  Curl, pronate the forearm with palms facing toward the floor (pronated
+  grip or overhand grip) and forearms coming across the body.&nbsp;Lift the inner-facing weight of the dumbbell towards your shoulder.
+  For the No Money Curl, you’ll
+  curl the dumbbell as you outwardly rotate the shoulder.&nbsp;Lift the inner-facing weight of the dumbbell towards your outer side of the shoulder.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2446'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '282'
+language: fr
+status: human
+name: Pompe en équilibre sur les mains
+description: |-
+  La pompe en équilibre sur les mains, également appelée pompe verticale ou pompe inversée, est un type d'exercice de pompe où le corps est positionné en équilibre sur les mains. Pour un véritable équilibre, l'exercice est réalisé en autonomie, en suspension dans l'air. Afin de développer la force jusqu'à acquérir un équilibre suffisant, les pieds sont souvent placés contre un mur, tenus par un partenaire ou maintenus d'une autre façon pour éviter la chute. Les pompes en équilibre sur les mains exigent une force considérable, ainsi que de l'équilibre et du contrôle si elles sont exécutées en autonomie.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4862'

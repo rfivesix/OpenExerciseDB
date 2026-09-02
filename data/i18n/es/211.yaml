@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '211'
+language: es
+status: human
+name: Press Francés con Mancuerna
+description: |-
+  Este ejercicio es excelente para aislar los tríceps, con un énfasis especial en la cabeza larga del músculo debido a la posición de los brazos sobre la cabeza, lo que permite un mayor estiramiento.
+  Instrucciones
+
+  Posición: Preferiblemente sentado en un banco, sostén una mancuerna en posición vertical con ambas manos (usando un agarre de "copa" o diamante) y elévala por encima de tu cabeza.
+  Descenso: Manteniendo la parte superior de los brazos inmóvil y los codos apuntando al techo, baja la mancuerna por detrás de tu cabeza flexionando los codos hasta sentir un estiramiento profundo en los tríceps.
+  Ascenso: Extiende los codos para volver a la posición inicial, contrayendo con fuerza los tríceps en la parte final del movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2724'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '369'
+language: es
+status: human
+name: Curl cuadriceps
+description: |-
+  La extensión de piernas es un ejercicio de entrenamiento con pesas de resistencia que se enfoca en el músculo cuádriceps de las piernas. El ejercicio se realiza utilizando una máquina llamada Leg Extension Machine. Hay varios fabricantes de estas máquinas y cada uno es ligeramente diferente. La mayoría de los gimnasios y salas de pesas tendrán la máquina en sus instalaciones. La extensión de piernas es un ejercicio aislado dirigido a un grupo muscular específico, los cuádriceps. No debe considerarse como un entrenamiento total de piernas, como la sentadilla o el peso muerto. El ejercicio consiste en doblar la pierna a la altura de la rodilla y extender las piernas, para luego volver a bajarlas a la posición original.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '2096'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1399'
+language: en
+status: human
+name: Roll Down
+description: |-
+  Stand with your feet hip-width apart and slowly roll your upper body forward, one vertebra at a time, until your hands touch the ground or as far as you can comfortably go. Roll back up to the starting position in the same controlled manner.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2366'

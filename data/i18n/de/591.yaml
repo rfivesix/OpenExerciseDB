@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '591'
+language: de
+status: human
+name: Sit Ups
+description: |-
+  Lege dich auf eine Matte, die Knie sind rechtwiklig angewinkelt und die Fersen liegen auf eine Bank. Die Hände sind hinter dem Nacken. Das Hochgehen wird mit einer rollenden Bewegung durchgeführt: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden. Auf der höchsten Stelle sollten die Muskeln etwa 2 sek. maximal angespannt werden bevor die rollende Bewegung in der Gegenrichtung durchgeführt wird.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '57'

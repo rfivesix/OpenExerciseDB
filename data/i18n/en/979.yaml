@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '979'
+language: en
+status: human
+name: Leg raises pull up bar
+description: |-
+  with a firm grip with both hands on the bar, raise your outstretched legs, until you reach a 90° angle with your torso.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '1293'

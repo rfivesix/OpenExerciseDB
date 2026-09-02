@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1833'
+language: en
+status: human
+name: Floor Glider Hamstring Curls
+description: |-
+  Lie on back with heels on floor gliders or towels. Lift hips into a bridge, then slide heels toward glutes while keeping hips elevated. Slowly return to the starting position while maintaining the hip bridge.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2968'

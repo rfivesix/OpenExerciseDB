@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1083'
+language: de
+status: human
+name: YWTs
+description: |-
+  Ausgangsposition:
+  Lege dich hin, vorzugsweise auf eine Matte. Strecke deine Arme über dem Kopf in eine "Y"-Position (Arme diagonal nach oben gerichtet, etwa 45 Grad). Deine Daumen sollten nach oben zeigen.
+  Ablauf:
+
+  Hebe mit den Armen in der Y-Position deine Brust leicht vom Boden ab und erzeuge so eine Zugspannung in deinen Armen nach oben.
+  Halte diese Position mehrere Sekunden (15–30 ist ideal).
+  Halte deine Brust oben und beuge deine Ellbogen, um von einer Y-Position in eine "W"-Position zu wechseln, wobei die Arme in den Ellbogen gebeugt sind und die Aufwärtsspannung erhalten bleibt.
+  Halte etwa so lange wie in der Y-Position.
+  Wechsle, weiterhin mit angehobener Brust, in eine "T"-Position, indem du deine Arme gerade zur Seite ausstreckst, sodass sie senkrecht zu deinem Körper stehen.
+  Halte etwa so lange, wie du die W-Position gehalten hast.
+  Wechsle von der T-Position in die W-Position und dann von der W-Position in die Y-Position.
+  Wiederhole.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3654'

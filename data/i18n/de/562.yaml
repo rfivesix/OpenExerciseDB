@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '562'
+language: de
+status: human
+name: Shotgun Row
+description: |-
+  Befestige einen einzelnen Griff an einem niedrigen Kabelzug.
+  Stelle dich nach Auswahl des richtigen Gewichts ein paar Schritte zurück in einen weiten Ausfallschritt-Stand. Dein Arm sollte gestreckt und deine Schulter nach vorne gerichtet sein. Dies ist deine Ausgangsposition.
+  Führe die Bewegung aus, indem du die Schulter zurückziehst und den Ellenbogen beugst. Während du ziehst, supiniere das Handgelenk und drehe dabei die Handfläche nach oben.
+  Kehre nach einer kurzen Pause in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4348'

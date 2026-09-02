@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '995'
+language: zh
+status: human
+name: 大臂绕环
+description: |-
+  起始姿势：站直。
+  步骤：
+
+  双臂伸直，转到身前，举过头顶，放到背后，最后回到初始姿势。
+  如第 1 步所述，重复这套动作。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1711'

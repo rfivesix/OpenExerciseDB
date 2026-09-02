@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1823'
+language: de
+status: human
+name: Clamshell (Muschel)
+description: |-
+  Position
+  Seitlicher Unterarmstütz, mit Ellenbogen und Unterarm auf dem Boden und leicht gebeugten Beinen.
+  Ausführung
+  Hebe dein oberes Knie an, während du deine Füße eng beieinander hältst, wie eine sich „öffnende Muschel“, und kehre dann langsam in die Ausgangsposition zurück. Halte deinen Rumpf stabil und deine Hüften ausgerichtet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4234'

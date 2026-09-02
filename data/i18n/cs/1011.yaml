@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: cs
+status: human
+name: Protažení přední strany krku
+description: |-
+  Výchozí poloha:
+  Postavte se nebo si sedněte s narovnanými zády.
+  Kroky:
+
+  Otevřete ústa do O.
+  Pomalu zakloňte hlavu s ústy otevřenými. Pokud potřebujete hlavu podpořit, sepněte za ní ruce.
+  Velmi pomalu zavírejte a otevírejte ústa.
+  Nakonec se vraťte do výchozí polohy a ústa zavřete.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1894'

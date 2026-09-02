@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2481'
+language: en
+status: human
+name: Kick with Board
+description: |-
+  Hold a kickboard with both hands, arms extended in front of you, face in the water (lift head forward to breathe when needed). Kick from your hips, not your knees, keeping your legs mostly straight with a slight bend and a steady, compact flutter kick. This builds leg endurance and keeps your body horizontal without needing to worry about your arms.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imported from swim plan
+  source_id: '4958'

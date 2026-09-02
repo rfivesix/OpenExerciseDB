@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1702'
+language: fr
+status: human
+name: Tirage vertical à la poulie en prise large
+description: |-
+  Le tirage vertical à la poulie est un exercice de tirage qui cible principalement le grand dorsal (souvent appelé « dorsaux ») dans le dos. Il consiste à tirer une barre ou une poignée fixée à un câble vers la poitrine, assis sur une machine spécialement conçue à cet effet. Le tirage vertical se réalise généralement en prise large, mais peut aussi se faire en prise serrée ou en supination pour cibler différents groupes musculaires du dos et des bras. C'est un exercice populaire pour développer la force du haut du corps et améliorer la posture.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4690'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '112'
+language: fr
+status: human
+name: Body-Ups
+description: |-
+  Placez-vous en position de planche au sol. Vous devez supporter le poids de votre corps sur les orteils et les avant-bras, en gardant le torse droit. Vos avant-bras doivent être écartés à la largeur des épaules. Ce sera votre position de départ.
+  En appuyant fermement les paumes contre le sol, tendez les coudes pour soulever votre corps du sol. Gardez le torse rigide pendant le mouvement.
+  Abaissez lentement les avant-bras vers le sol en laissant les coudes se fléchir.
+  Répétez autant de fois que nécessaire.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4414'

@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '112'
+language: de
+status: human
+name: Body-Ups
+description: |-
+  Nehmen Sie eine Dielenposition auf dem Boden ein. Sie sollten Ihr Körpergewicht auf Zehen und Unterarmen abstützen und Ihren Oberkörper gerade halten. Ihre Unterarme sollten schulterbreit auseinander liegen. Dies wird Ihre Startposition sein.
+  Drücken Sie Ihre Handflächen fest in den Boden und strecken Sie sie durch die Ellbogen, um Ihren Körper vom Boden abzuheben. Halten Sie Ihren Oberkörper steif, während Sie die Bewegung ausführen.
+  Lassen Sie Ihre Unterarme langsam wieder auf den Boden sinken, indem Sie die Ellbogen beugen.
+  Wiederholen Sie diesen Vorgang nach Bedarf.
+search_terms:
+  - Body up
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '679'

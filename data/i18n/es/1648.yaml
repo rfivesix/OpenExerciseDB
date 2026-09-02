@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1648'
+language: es
+status: human
+name: Crunch con peso
+description: |-
+  El crunch con peso es una variante del crunch clásico que consiste en añadir resistencia (un peso) para aumentar la intensidad del trabajo abdominal.
+
+  Túmbate
+  (Opcional) Flexiona las rodillas para añadir dificultad
+  (Opcional) Flexiona las rodillas y apoya los pies sobre un banco, una caja o algo similar (ángulo de 90 grados en las rodillas)
+  Eleva la cabeza y el torso mientras curvas la espalda hacia delante (si no lo haces es un sit-up e implica también algunos músculos de la espalda). Cuanto más alto subas, más deberías sentir la contracción de los abdominales.
+  Vuelve a la posición inicial y repite
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3673'

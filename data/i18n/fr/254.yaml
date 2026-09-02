@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '254'
+language: fr
+status: human
+name: Élévation frontale au disque
+description: |-
+  L'élévation frontale au disque est une variante de l'élévation frontale aux haltères dans laquelle le pratiquant tient un disque de fonte entre ses deux mains, plutôt qu'un haltère, une barre ou un autre poids. Elle peut apporter de la variété à une séance de renforcement axée sur les épaules, ou s'intégrer à un circuit pour le haut du corps ou pour tout le corps.
+
+  En position debout bien droite, tenez un disque de barre à deux mains aux positions 3 heures et 9 heures. Vos paumes doivent se faire face et vos bras doivent être tendus et verrouillés, avec une légère flexion des coudes ; le disque doit se trouver en bas, près de votre taille, devant vous, le plus loin possible. Astuce : les bras resteront dans cette position pendant tout l'exercice. Ce sera votre position de départ.
+  Levez lentement le disque en expirant, jusqu'à ce qu'il soit un peu au-dessus du niveau des épaules. Maintenez la contraction pendant une seconde. En inspirant, abaissez lentement le disque jusqu'à la position de départ.
+  Répétez le nombre de répétitions recommandé.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4449'

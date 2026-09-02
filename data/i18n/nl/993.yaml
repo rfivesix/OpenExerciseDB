@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: nl
+status: human
+name: 'Touwtjespringen: basissprongen'
+description: |-
+  Bij deze oefening heb je een springtouw nodig. Kies een touw dat past bij je lengte. Pak beide handvatten met één hand vast en ga met één voet op het midden van het touw staan. Als het touw (minus de handvatten) tot net onder je borstkas komt, dan heb je de juiste lengte. Een korter touw kan ook, maar is gevaarlijker omdat je jezelf mogelijk raakt, en een langer touw is onhandig.
+
+  Zet je voeten dicht tegen elkaar, buig door je knieën en houd je hoofd en lichaam recht. Houd je ellebogen naar binnen en open je armen.
+  Draai je polsen met genoeg kracht om het touw te laten draaien.
+  Spring net boven het touw uit.
+  Herhaal vanaf stap 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1676'

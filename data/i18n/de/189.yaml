@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '189'
+language: de
+status: human
+name: Defizit Kreuzheben
+description: |-
+  Vorbereitung
+  Stellen Sie sich auf eine Hantelscheibe, eine Stoßstangenplatte oder eine flache, erhöhte Plattform mit einer geladenen Stange über den Füßen. Hocken Sie sich hin und fassen Sie die Stange mit schulterbreitem oder etwas breiterem Überhand- oder Mischgriff.
+  Ausführung
+  Heben Sie die Stange an, indem Sie die Hüften und Knie ganz ausstrecken. Ziehen Sie die Schultern oben am Lift zurück, wenn sie abgerundet sind. Bringen Sie die Gewichte wieder auf den Boden, indem Sie die Hüften nach hinten beugen, während Sie die Knie nach vorne beugen. Halten Sie dabei den Rücken gerade und die Knie in dieselbe Richtung wie die Füße. Wiederholen.
+  Bemerkungen
+  Halten Sie beim Heben die Hüften niedrig, die Schultern hoch, die Arme und den Rücken gerade. Die Knie sollten während der gesamten Bewegung in dieselbe Richtung zeigen wie die Füße. Halten Sie die Stange dicht am Körper, um die mechanische Hebelwirkung zu verbessern. Griffkraft und Kraftausdauer schränken häufig die Fähigkeit ein, bei starken Widerständen mehrere Wiederholungen durchzuführen. Gymnastikkreide, Handgelenkbänder, Griffarbeit und gemischter Griff können verwendet werden, um den Griff zu verbessern. Gemischter Griff bedeutet, dass eine Hand mit Überhandgriff und die andere Hand mit Unterhandgriff gehalten wird. Mit dem Hebelhantelheber kann die Hantel vom Boden gehoben werden, um das Be- und Entladen von Hantelscheiben zu erleichtern.
+  Unterer Rücken
+search_terms:
+  - Deficit deadlift
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: bobbyprince89
+  source_id: '729'

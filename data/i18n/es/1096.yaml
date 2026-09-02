@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1096'
+language: es
+status: human
+name: Abducción de pie
+description: |-
+  Entrenar una postura estable, predominantemente sobre una pierna, es fundamental para ambos lados. Por un lado, previene molestias y, por otro, establece una base estable. El practicante adopta la posición habitual de pie y, con el tronco estable, intenta levantar repetidamente la pierna sin carga, flexionarla por la cadera y la rodilla, y luego bajarla de nuevo. El movimiento se repite también en el otro lado. El ejercicio entrena la estabilidad de la musculatura que rodea la cadera.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3690'

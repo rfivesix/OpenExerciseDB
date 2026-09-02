@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1638'
+language: de
+status: human
+name: Umsetzen und Drücken mit der Langhantel
+description: |-
+  Bei dieser Übung hebst du eine Langhantel vom Boden bis zu den Schultern und drückst sie anschließend über den Kopf. Es ist eine Verbundübung, die mehrere Muskelgruppen beansprucht, darunter die Beine, den Rücken, die Schultern und die Arme. Sie wird häufig in Kraft- und Konditionsprogrammen eingesetzt, um die allgemeine Kraft und Athletik zu verbessern.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3610'

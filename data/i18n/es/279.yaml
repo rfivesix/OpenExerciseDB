@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '279'
+language: es
+status: human
+name: Fortalecedor de Agarre
+description: |-
+  Esta herramienta, comúnmente llamada "hand grip", está diseñada para aislar y desarrollar la fuerza de agarre (crushing strength) y los músculos flexores del antebrazo.
+  Instrucciones
+
+  Posición: Sostén el "hand grip" firmemente en una mano.
+  Contracción: Aprieta con la máxima fuerza posible, intentando que los dos mangos se toquen. Concéntrate en la presión que ejercen tus dedos y la palma de tu mano.
+  Regreso: Sostén la contracción por uno o dos segundos y luego abre la mano de forma lenta y controlada. Es crucial resistir la tensión del resorte en la fase de apertura para trabajar el músculo de forma completa.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2736'

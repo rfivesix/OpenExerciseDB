@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1949'
+language: es
+status: human
+name: Limber 11
+description: |-
+  Limber 11
+  Fuente: Joe DeFranco
+
+  Foam roller banda iliotibial [soft_tissue] - 10-15 pasadas
+  Foam roller aductores [soft_tissue] - 10-15 pasadas
+  SMR glúteos (pelota de lacrosse) [soft_tissue] - 30 seg-2 min
+  Bent-knee Iron Cross [dynamic] - 5-10 repeticiones por lado
+  Roll-overs a V-sits [dynamic] - 10 repeticiones
+  Rocking Frog Stretch [dynamic] - 10 repeticiones
+  Fire Hydrant Circles [dynamic] - 10 hacia delante / 10 hacia atrás
+  Mountain Climbers [dynamic] - 10 repeticiones por pierna
+  Cossack Squats [dynamic] - 5-10 repeticiones por lado
+  Estiramiento del piriforme sentado [isometric] - 20-30 seg por lado
+  Estiramiento del flexor de cadera con pie trasero elevado [dynamic + 3s de pausa] - 5-10 repeticiones por lado
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4255'

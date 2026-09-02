@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '998'
+language: nl
+status: human
+name: Geen push-up burpees
+description: |-
+  Beginpositie:
+  Sta recht, voeten op heupbreedte uit elkaar.
+  Stappen:
+
+  Hurk laag en ondersteun jezelf op de vloer met je handen tussen de knieën en voor je voeten, je rug recht.
+  Houd je handen op de vloer, spring je benen naar achteren in een hoge plankpositie.
+  Spring met je voeten naar voren om terug te keren naar de squat positie.
+  Spring omhoog.
+  Herhaal.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1745'

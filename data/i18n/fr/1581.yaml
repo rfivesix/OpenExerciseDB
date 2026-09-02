@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1581'
+language: fr
+status: human
+name: Développé trapèzes
+description: |-
+  Allongé à plat, le bras pointé droit vers le haut et le coude complètement tendu, utilisez uniquement l'épaule pour soulever le poids aussi haut que possible sans inconfort, puis revenez à la position de repos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4707'

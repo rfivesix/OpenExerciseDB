@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1452'
+language: en
+status: human
+name: Knee to Chest Stretch
+description: |-
+  The knee to chest stretch is a simple yet effective exercise for relieving lower back tension and improving hip mobility. To perform, lie flat on your back with your legs extended. Bring one knee toward your chest, wrapping your hands around your shin or behind your thigh. Gently pull the knee closer to your chest while keeping the other leg straight on the floor. Hold the stretch for 15–30 seconds, then switch sides. For a deeper stretch, both knees can be pulled toward the chest simultaneously.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2419'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1735'
+language: de
+status: human
+name: Einbeinige seitliche Gesäßpresse
+description: |-
+  Die einbeinige seitliche Gesäßpresse ist eine Variante an der Beinpresse, bei der du deinen Körper seitlich auf das Polster drehst und einen Fuß hoch und leicht angewinkelt aufsetzt, um das Gewicht zu drücken. Sie beansprucht kraftvoll die äußere Gesäßmuskulatur (Gluteus medius/minimus) und die hintere Oberschenkelmuskulatur und sorgt für eine ausgewogene Beinentwicklung und Stabilität. Dabei kommt es darauf an, über die Ferse zu drücken und die Kontrolle zu behalten, ohne das Bein durchzustrecken.
+  So führst du sie aus:
+  Aufbau: Setze dich in die Beinpresse, drehe deinen Körper auf eine Hüftseite und platziere einen Fuß hoch auf der Plattform in einem Winkel von etwa 45 Grad, mit den Zehen leicht nach außen/vorne zeigend.
+  Positionierung: Halte Hüfte, Knie und Fußgelenk in einer Linie und achte darauf, dass dein unterer Rücken am Polster bleibt.
+  Absenken: Senke das Gewicht langsam ab und lass dein Knie tief beugen (fast 90 Grad), sodass du eine Dehnung in deiner Gesäß- und hinteren Oberschenkelmuskulatur spürst.
+  Drücken: Drücke über deine Ferse (nicht über die Zehen), um das Gewicht wieder nach oben zu pressen, spanne dabei deine Gesäß- und hintere Oberschenkelmuskulatur an und stoppe kurz bevor dein Bein vollständig gestreckt ist.
+  Kontrolle: Vermeide ruckartige Bewegungen und lass deinen unteren Rücken nicht vom Polster abheben; halte die Spannung während der gesamten Bewegung aufrecht.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4152'

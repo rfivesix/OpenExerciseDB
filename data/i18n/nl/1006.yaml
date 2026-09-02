@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1006'
+language: nl
+status: human
+name: Kin instoppen
+description: |-
+  Beginpositie:
+  Zit of sta met rechte rug.
+  Stappen:
+
+  Gebruik uw vingers op uw kin om uw kin langzaam in te trekken, beweeg uw hoofd naar achteren om het op één lijn te brengen met uw ruggengraat.
+  Houd 5 seconden vast.
+
+
+  Ga terug naar de normale hoofdpositie en herhaal.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1840'

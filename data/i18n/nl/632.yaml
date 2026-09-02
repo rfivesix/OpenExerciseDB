@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '632'
+language: nl
+status: human
+name: Sumo hurken
+description: |-
+  Beginpositie:
+  Sta met de benen wijd en de tenen naar buiten gedraaid.
+  Stappen:
+
+  Zak langzaam naar beneden door je knieën naar buiten te buigen. Reik de armen naar voren. Houd uw hoofd, borst en heupen in een rechte lijn. Knijp je bilspieren samen.
+  Duw terug omhoog in startpositie.
+  Herhaal deze oefening in een pulserende beweging.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sophialj
+  source_id: '1439'

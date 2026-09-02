@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: el
+status: human
+name: Γονατιστές κλωτσιές
+description: |-
+  Σταθείτε στα τέσσερα.
+  Σπρώξτε το ένα πόδι προς τα πίσω μέχρι να εκταθεί πλήρως, εστιάζοντας στους γλουτιαίους μύες.
+  Μείνετε για ένα δευτερόλεπτο και, στη συνέχεια, επιστρέψτε στην αρχική θέση.
+  Επαναλάβετε, εναλλάσσοντας τα πόδια
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1637'

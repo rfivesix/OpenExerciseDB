@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1017'
+language: de
+status: human
+name: Nacken-Halbkreise
+description: |-
+  Ausgangsposition:
+  Beginnen Sie im Sitzen oder Stehen. Lehnen Sie Ihren Kopf gegen eine Ihrer Schultern, aber drücken Sie nicht.
+  Schritte:
+  Führen Sie eine langsame, fließende Bewegung aus, wobei Ihr Kopf entspannt ist und in keine Richtung drückt:
+
+  Bringen Sie den Kopf nach unten zur Brust.
+  lehnen Sie sich dann gegen die andere Schulter zurück
+  dann wieder zurück zur Brust
+  und schließlich zurück in die Ausgangsposition.
+
+  Wiederholen Sie dies immer wieder.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1916'

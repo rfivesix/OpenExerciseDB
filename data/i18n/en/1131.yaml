@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1131'
+language: en
+status: human
+name: Cable glute extension
+description: |-
+  This exercise lets you work the upper, or larger, part of the glutes. For that reason, it should never be missing from your routine of isolated exercises for training the glutes.
+  Stand in front of a cable machine and locate the low pulley. Then attach the ankle strap to work on the low pulley. As for your posture, you should stay upright at all times. Pay special attention to your back to keep it straight and avoid injury.
+  It is advisable to hold on to the machine for better balance. With the leg that is holding the weight of the cable, perform a slow stretch backward without bending the knee.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Franpol
+  source_id: '2108'

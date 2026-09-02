@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1846'
+language: fr
+status: human
+name: Posture du cavalier (grand écart latéral)
+description: |-
+  Placez-vous comme pour un squat, les pieds largement écartés et les orteils légèrement tournés vers l'extérieur.
+  Descendez doucement dans un squat profond et large : vos hanches doivent passer sous le niveau de vos genoux.
+  Maintenez la position pendant 3 à 5 secondes.
+  Remontez de façon contrôlée et répétez autant de fois que nécessaire.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4774'

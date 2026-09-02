@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '984'
+language: en
+status: human
+name: Lunges
+description: |-
+  Starting position:
+  Stand with back straight.
+  Steps:
+
+  Take a large step forward with your left leg.
+  Bring your pelvis down until you almost touch the floor with your right knee.
+  Bring your pelvis back up.
+  Return to the starting position by stepping back.
+  Repeat, switching legs each time.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1544'

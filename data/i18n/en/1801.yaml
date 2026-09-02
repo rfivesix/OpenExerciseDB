@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1801'
+language: en
+status: human
+name: Barbell Full Squat
+description: |-
+  The barbell full squat is a&nbsp;compound exercise&nbsp;that&nbsp;targets multiple muscle groups&nbsp;in the lower body, including the quadriceps, hamstrings, and glutes.
+  Proper form is crucial for maximizing results and preventing injuries during the barbell full squat. This includes maintaining a shoulder-width stance, creating whole body tension, controlling your descent, and maintaining proper depth and knee positioning.
+  Assistance moves such as the front squat, goblet squat, split squat, and Bulgarian split squat can help improve your performance in the barbell full squat by targeting specific muscle groups and improving overall technique.
+  To&nbsp;achieve new personal records&nbsp;in your back squat, gradually increase weight over time, vary rep ranges and sets to stimulate muscle growth, and&nbsp;prioritize rest and recovery&nbsp;between training sessions.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: fabrice
+  source_id: '2925'

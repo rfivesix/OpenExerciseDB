@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1080'
+language: en
+status: human
+name: Hindu Pushups
+description: |-
+  Exercise to strengthen the shoulders and pectorals. Its name is due to the fact that it begins in the Yoga position "Dog Facing Down", passing to "Cobra" but without resting the legs or torso on the ground to finally end with a normal flexion. The exercise can also be performed backwards (back to the starting position). As a variation, after doing the push-up, the hip can be raised to return to downward facing dog.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imobard
+  source_id: '2025'

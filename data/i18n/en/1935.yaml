@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1935'
+language: en
+status: human
+name: Belt Squat
+description: |-
+  Belt Squat: a squat variation done with a belt attached to a loading machine or platform so the weight is supported at the hips instead of on the spine. It mainly trains the quads and glutes, with much less lower-back fatigue than a barbell squat. Use a full range of motion, keep the torso upright, and drive through the mid-foot.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '3084'

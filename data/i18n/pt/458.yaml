@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: pt
+status: human
+name: Prancha horizontal
+description: |-
+  Posição inicial:
+
+  Inicie na posição de quatro.Os braços devem dobrar-se em um ângulo reto, com os ombro alinhados aos cotovelos.As costas devem estar direitas, com todo o corpo em linha reta.
+
+  Passos:
+
+  Mantenha essa posição.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1406'

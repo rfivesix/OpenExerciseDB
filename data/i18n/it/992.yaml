@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '992'
+language: it
+status: human
+name: Squat laterali a sinistra
+description: |-
+  Stai con la schiena dritta
+  Fai un grande passo in avanti con la gamba sinistra
+  Abbassa il bacino fino a toccare quasi il pavimento con il ginocchio destro
+  Riporta il bacino verso l'alto
+  Ripetere dal passaggio 3.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1661'

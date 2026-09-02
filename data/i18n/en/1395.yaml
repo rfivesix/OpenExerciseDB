@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1395'
+language: en
+status: human
+name: Crossbody Leg Swings
+description: |-
+  Hold onto a wall or something near you for support. Swing one leg across the front of your body, then back and out to the side. Repeat while slowly increasing your range of motion.
+search_terms:
+  - Lateral Leg Swings
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2362'

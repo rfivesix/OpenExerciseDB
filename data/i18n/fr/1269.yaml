@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1269'
+language: fr
+status: human
+name: Dips au TRX
+description: |-
+  Commencez les mains sur le système de suspension et les pieds au sol.
+  Vos mains doivent être sous vos épaules, les pieds légèrement vers l'avant.
+  Abaissez-vous en amenant vos hanches entre les poignées et en pliant les coudes.
+  Tendez les coudes pour revenir à la position de départ et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4555'

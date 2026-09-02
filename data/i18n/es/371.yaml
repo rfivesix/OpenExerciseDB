@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '371'
+language: es
+status: human
+name: Prensa de piernas
+description: |-
+  La prensa de piernas es un ejercicio de entrenamiento con pesas en el que el individuo empuja un peso o una resistencia con las piernas.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '2048'

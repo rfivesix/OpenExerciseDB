@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '590'
+language: fr
+status: human
+name: Extensions des mollets assis
+description: |-
+  Asseyez-vous sur un banc pour les extensions des mollets et vérifiez que les pieds sont à moitié dans le vide et que vous pouvez complètement étirer les muscles des mollets vers le bas. Montez sur la pointe des pieds en allant aussi haut que possible. Au point le plus haut, marquez une courte pause de 1 ou 2 secondes, puis redescendez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4899'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '580'
+language: fr
+status: human
+name: Planche latérale gauche
+description: |-
+  Allongez-vous sur le côté, le coude inférieur à angle droit, le bras dépassant
+  Soulevez votre bassin du sol en soulevant votre épaule inférieure, en gardant l'avant-bras sur le sol&nbsp;; votre tête, votre bassin et vos pieds doivent être en ligne droite
+  Maintenez cette position
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '1425'

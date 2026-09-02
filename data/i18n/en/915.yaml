@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '915'
+language: en
+status: human
+name: Bus Drivers
+description: |-
+  Sitting with a Weight Plate, used as wheel, in both hands; raised slightly below eye level
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1194'

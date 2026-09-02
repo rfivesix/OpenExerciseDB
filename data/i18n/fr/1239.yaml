@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1239'
+language: fr
+status: human
+name: Étirement des mollets debout
+description: |-
+  Cet étirement cible le gastrocnémien (le principal muscle du mollet de la jambe, qui fléchit le genou et le pied). Il est facile à réaliser n'importe où. Il vous suffit d'un mur ou d'une chaise.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4537'

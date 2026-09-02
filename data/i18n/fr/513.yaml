@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '513'
+language: fr
+status: human
+name: Rowing à la T-bar
+description: |-
+  L'exécution de cet exercice est très similaire au rowing penché classique, sauf qu'ici la barre est fixée.
+  Saisissez la barre avec une prise large (légèrement plus large que la largeur des épaules) et penchez-vous en avant. Le haut de votre corps n'est pas tout à fait parallèle au sol, mais forme un léger angle. La poitrine est sortie pendant tout l'exercice. Tirez maintenant la barre par un mouvement rapide vers votre nombril, pas plus haut. Redescendez lentement à la position initiale. Ne balancez pas votre corps et gardez vos bras près du corps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4889'

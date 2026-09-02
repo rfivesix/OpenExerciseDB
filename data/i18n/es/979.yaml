@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '979'
+language: es
+status: human
+name: Elevaciones de Piernas en Barra
+description: |-
+  Colgado de una barra y manteniendo el cuerpo estable (sin balanceo), eleva las piernas completamente rectas hasta que formen un ángulo de 90° con tu torso. Sostén la contracción un instante y luego baja de forma lenta y controlada para maximizar el trabajo en el abdomen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2661'

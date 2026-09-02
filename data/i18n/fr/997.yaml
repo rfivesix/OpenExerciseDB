@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '997'
+language: fr
+status: human
+name: Burpees (4 phases)
+description: |-
+  Position de départ :
+  Tenez-vous droit, les pieds écartés de la largeur des hanches.
+  Étapes :
+
+  Accroupissez-vous et prenez appui sur le sol avec les mains entre les genoux et devant les pieds, le dos droit.
+  En gardant les mains sur le sol, sautez vos jambes vers l'arrière en position de planche haute.
+  Sautez vers l'avant pour revenir à la position de squat.
+  Répétez l'exercice.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1732'

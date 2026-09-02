@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1700'
+language: en
+status: human
+name: Barbell Romanian Deadlift (RDL)
+description: |-
+  Execution
+
+
+  Hinge at the hips:
+
+  Push your&nbsp;hips backward, keeping a slight bend in the knees (soft knees).
+  Lower the barbell&nbsp;along the front of your thighs/shins&nbsp;while maintaining a&nbsp;neutral spine.
+  Keep the bar&nbsp;close to your body.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daiben
+  source_id: '2819'

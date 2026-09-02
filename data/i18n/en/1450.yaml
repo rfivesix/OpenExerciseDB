@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1450'
+language: en
+status: human
+name: Cobra Stretch
+description: |-
+  The Cobra Stretch is a back extension exercise that helps improve spinal flexibility and relieve lower back tension. To perform, lie face down on the floor with your hands placed under your shoulders. Press your palms into the floor and lift your chest while keeping your hips on the ground. Keep your elbows slightly bent and your shoulders relaxed. Hold the stretch for a few seconds, then slowly lower yourself back down. This exercise is beneficial for improving posture and reducing lower back stiffness.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2415'

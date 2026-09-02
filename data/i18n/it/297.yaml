@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '297'
+language: it
+status: human
+name: Barchetta
+description: |-
+  Descrizione
+  Sali su un tappetino e sdraiati sulla schiena. Contrai gli addominali, allunga il sollevamento e le gambe e sollevali (anche la testa e le spalle vengono sollevate). Assicurati che la parte bassa della schiena rimanga a contatto con il tappetino.
+upstream:
+  license: CC0-1.0
+  license_author: Behrooz
+  source_id: '1290'

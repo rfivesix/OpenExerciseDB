@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1831'
+language: fr
+status: human
+name: Développé décliné sur machine Hammer Strength
+description: |-
+  Asseyez-vous bien droit sur une machine Hammer Strength de développé décliné en rapprochant vos omoplates et en posant fermement les talons au sol, sous les genoux.
+  Le dossier doit rester en contact avec votre tête, vos épaules et vos fessiers à tout moment.
+  Saisissez les poignées en prise pronation, juste un peu plus large que la largeur des épaules, légèrement sous la poitrine.
+  En gardant la sangle abdominale gainée par une respiration ventrale et une contraction des abdominaux, poussez à travers les paumes pour tendre les coudes tout en les maintenant à un angle de 45 degrés par rapport au torse.
+  Une fois les bras complètement tendus, revenez à la position de départ.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4769'

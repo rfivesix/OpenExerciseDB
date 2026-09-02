@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1616'
+language: en
+status: human
+name: Dumbbell donkey kick
+description: |-
+  The dumbbell donkey kick is an effective exercise for working the glute and hamstring muscles. This exercise is usually performed on all fours, using a dumbbell to add resistance. The steps for performing it correctly are described below.
+  Starting position: Get on all fours on a mat, with your hands aligned under your shoulders and your knees aligned under your hips.
+  Placing the dumbbell: Take a dumbbell and place it behind the knee of the leg you are going to lift. Make sure it is held securely to prevent it from falling during the exercise.
+  Exercise:
+  Inhale and, as you exhale, lift the leg with the dumbbell upward, keeping the knee bent at a 90-degree angle.
+  Raise the leg until it is parallel to the floor, feeling the contraction in the glutes.
+  Hold the position for one second at the top and then slowly lower the leg back to the starting position.
+  Repetitions: Perform 10 to 15 repetitions per leg, making sure to maintain good form throughout the exercise.
+  Sets: Complete 2 to 3 sets, depending on your fitness level.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2598'

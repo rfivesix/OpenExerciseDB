@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '331'
+language: fr
+status: human
+name: Swings au kettlebell
+description: |-
+  Tenez fermement le kettlebell à deux mains. Gardez le dos plat pendant tout le mouvement, en évitant tout arrondissement de la colonne vertébrale. En gardant les genoux "souples", basculez les hanches vers l'arrière, en laissant le kettlebell osciller entre vos genoux.
+  Vous devez vous fléchir au niveau des hanches autant que possible sans laisser votre dos s'arrondir vers l'avant. Projetez ensuite rapidement les hanches vers l'avant et redressez-vous, en verrouillant votre corps dans une posture droite.
+  La vitesse de ce mouvement fera monter vos bras et le kettlebell devant vous. N'essayez pas de soulever le kettlebell avec vos bras. La projection des hanches vers l'avant fera balancer le kettlebell vers l'avant grâce à l'élan. Selon le poids du kettlebell et la vitesse de votre mouvement de hanches, vos bras monteront environ jusqu'à la hauteur des épaules. En haut de ce balancement, laissez de nouveau vos hanches basculer vers l'arrière pendant que le kettlebell redescend entre vos jambes, pour le début de la répétition suivante.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4870'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '265'
+language: de
+status: human
+name: Brücke Auf Dem Ball
+description: |-
+  Ausgangsposition: Auf den Rücken legen. Großer Gymnastikball unter die Beine legen und schräg in der Brücke mit angespanntem Körper bleiben.
+  Anschließend die Beine bis 90 Grad anwinkeln und wieder absetzten in Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tdprice12
+  source_id: '765'

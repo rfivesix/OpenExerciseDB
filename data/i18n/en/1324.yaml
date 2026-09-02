@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1324'
+language: en
+status: human
+name: Bodyweight lunge HD
+description: |-
+  Bodyweight lunges are an effective calisthenic exercise for
+  strengthening the lower body, improving balance and stability, and
+  developing functional strength. They are a popular choice for bodyweight workouts, home workouts, and can also be included as part of a larger strength training routine.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hektkaso
+  source_id: '2297'

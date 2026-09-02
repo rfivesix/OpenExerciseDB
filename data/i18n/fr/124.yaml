@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '124'
+language: fr
+status: human
+name: Squat gainé
+description: |-
+  Tenez-vous debout, les pieds légèrement plus écartés que la largeur des épaules, en vous grandissant autant que possible.
+  Saisissez un disque de fonte et tenez-le devant votre corps, les bras tendus devant vous. Gardez la sangle abdominale contractée et conservez une cambrure naturelle dans le dos.
+  Maintenant, poussez les hanches vers l'arrière et fléchissez les genoux en descendant en squat aussi bas que possible. Maintenez la position quelques instants, puis remontez à la position de départ.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4832'

@@ -1,0 +1,40 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1411'
+language: es
+status: human
+name: Toques de Talón
+description: |-
+  Posición inicial:
+
+  Acuéstate de espaldas sobre una esterilla de ejercicio.
+  Flexiona las rodillas, manteniendo los pies planos en el suelo y separados al ancho de las caderas.
+  Coloca los brazos a lo largo de los costados, con las palmas hacia adentro, apenas despegados del suelo.
+
+
+
+  Activa el core:
+
+  Eleva ligeramente la cabeza, los hombros y la parte superior de la espalda del suelo.
+  Mantén el cuello en una posición neutral y la barbilla ligeramente hacia adentro.
+
+
+
+  Realiza el movimiento:
+
+  Inclínate hacia la derecha, llevando tu mano derecha hacia tu talón derecho.
+  Vuelve al centro y luego inclínate hacia la izquierda, llevando tu mano izquierda hacia tu talón izquierdo.
+  Continúa alternando lados de manera controlada.
+
+
+
+  Respiración:
+
+  Exhala al alcanzar el talón e inhala al regresar al centro.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2377'

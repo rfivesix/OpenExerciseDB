@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '556'
+language: de
+status: human
+name: Seitliches Oberkörperbeugen am Gerät
+description: |-
+  Zielmuskeln: Schräger Bauchmuskel
+  Unterstützende Muskulatur: Gerader Bauchmuskel
+  Erforderliches Equipment: Roman Chair
+
+  Gerader Körper in der Ausgangsposition
+  Oberkörper in Richtung Boden beugen
+  Wenn der Oberkörper ungefähr parallel zum Boden ist, mit der Aufwärtsbewegung beginnen
+  Hände wahlweise hinter dem Kopf oder vor der Brust
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: klabautermann
+  source_id: '240'

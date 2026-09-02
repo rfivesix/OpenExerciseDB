@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1208'
+language: es
+status: human
+name: Sentadilla del prisionero
+description: |-
+  Ponte de pie erguido con el pecho ligeramente elevado, los pies a la anchura de la cadera y los dedos de los pies apuntando hacia delante.
+  Lleva las manos a la nuca con los dedos ligeramente entrelazados y los codos apuntando hacia los lados. Empuja la cadera hacia atrás y flexiona las rodillas, manteniendo el tronco lo más erguido posible.
+  Empuja las rodillas hacia fuera, nunca deben apuntar la una hacia la otra. Si el tronco se inclina ligeramente hacia delante, asegúrate de que no se curve. Mantén siempre los codos a la altura de las orejas tensando los músculos entre las escápulas. Si tienes suficiente flexibilidad, puedes bajar hasta que los glúteos toquen los gemelos.
+  No obstante, asegúrate de no curvar la columna.
+  Antes de que esto ocurra, invierte el movimiento y usa los talones y los glúteos para impulsarte hacia arriba con tanto impulso que los pies se despeguen un instante y des un pequeño salto.
+  Si es necesario, corrige la posición de los pies, los brazos y el tronco antes de pasar a la siguiente repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3743'

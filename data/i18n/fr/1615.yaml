@@ -1,0 +1,34 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1615'
+language: fr
+status: human
+name: Cardio sur tapis de course
+description: |-
+  Il s'agit d'un entraînement cardiovasculaire réalisé sur un tapis de course pour améliorer l'endurance, brûler des calories et favoriser la santé cardiaque. Il offre de nombreux avantages, comme la possibilité d'ajuster facilement la vitesse et l'inclinaison, ce qui permet une grande variété d'entraînements, de la marche en côte à l'entraînement par intervalles de haute intensité (HIIT) et aux séances de tempo. Pour optimiser les résultats, il est important de varier vos entraînements.
+  Avantages du cardio sur tapis de course :
+
+  Amélioration de la santé cardiovasculaire :
+  Un exercice aérobie régulier sur tapis de course renforce le cœur et les poumons, ce qui peut aider à prévenir les maladies cardiaques.
+  Perte de poids :
+  En brûlant des calories, l'entraînement sur tapis de course peut être un outil efficace pour perdre du poids et maintenir un poids sain.
+  Renforcement musculaire :
+  Il renforce les muscles des jambes et des fessiers, contribuant à prévenir la perte musculaire, ce qui est particulièrement important avec l'âge.
+  Souplesse d'entraînement :
+  Il permet de varier la vitesse, l'inclinaison et les intervalles, rendant votre entraînement plus dynamique et adaptable à différents niveaux de condition physique.
+  Types d'entraînement sur tapis de course :
+  Marche en côte :
+  Augmenter l'inclinaison du tapis et marcher à un rythme soutenu peut améliorer l'endurance et solliciter les muscles des jambes.
+  Course d'endurance :
+  Une course à un rythme confortable et régulier qui maintient votre fréquence cardiaque dans une zone cible (comme la Zone 2) afin de développer l'endurance.
+  Entraînement par intervalles :
+  Alterner des périodes de haute intensité (course rapide) avec des périodes de faible intensité (marche ou jogging facile) afin de maximiser la dépense calorique et l'amélioration cardiovasculaire.
+  Course de tempo :
+  Une course à un rythme régulier et soutenu, légèrement plus rapide qu'un jogging normal, qui met à l'épreuve votre capacité à maintenir un effort plus intense pendant une période prolongée.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4724'

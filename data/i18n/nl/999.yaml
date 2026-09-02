@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: nl
+status: human
+name: Omgekeerde lunges
+description: |-
+  Beginpositie:
+  Sta recht, voeten op heupbreedte uit elkaar.
+  Stappen:
+
+  Stap naar achteren met één been, zodat het comfortabel kan buigen tot een hoek van 90 graden.
+  Buig langzaam beide knieën tot een hoek van 90 graden.
+  Keer terug naar de uitgangspositie.
+  Herhaal, afwisselend met de benen.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1757'

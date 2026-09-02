@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '661'
+language: fr
+status: human
+name: Triceps à la machine
+description: |-
+  Asseyez-vous et saisissez fermement la barre avec les mains. Poussez maintenant le poids vers le haut (sans tendre complètement les bras), puis abaissez-le lentement. Comme pour les autres exercices de triceps, il est important de ne pas bouger les bras.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4467'

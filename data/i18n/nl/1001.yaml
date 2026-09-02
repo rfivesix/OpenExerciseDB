@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1001'
+language: nl
+status: human
+name: Hoge plank
+description: |-
+  Beginpositie:
+  Ga in de hoge plankpositie staan:je handen en tenen moeten de grond raken, je rug, armen en benen moeten recht zijn.Om in deze positie te komen, kun je op je buik gaan liggen, je handen naar beneden gericht naast je hoofd plaatsen, en je armen omhoog tillen tot ze recht zijn.
+  Stappen:
+
+  Houd de uitgangspositie aan voor de gehele duur van de oefening.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1782'

@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '158'
+language: de
+status: human
+name: Latzug Eng
+description: |-
+  Körper leicht nach hinten geneigt
+  kein Hohlkreuz
+  Rumpfmuskulatur angespannt
+  schulterbreiter Untergriff
+  Stange vor dem Kopf auf Brust herunterziehen
+  Ellenbogen möglichst eng am Körper
+  Stange soweit zurück, dass Ellenbogen leicht gebeugt
+search_terms:
+  - Lat Pulldown Eng
+  - Lat ziehen eng
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '244'

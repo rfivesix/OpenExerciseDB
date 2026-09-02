@@ -1,0 +1,48 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1217'
+language: en
+status: human
+name: Finger Pushup
+description: |-
+  Hand Positioning:
+
+
+  Start in a plank position with your hands directly beneath your shoulders.
+  Spread your fingers wide apart, placing them firmly on the ground.
+
+
+  Finger Placement:
+
+
+  Gradually lift your palms off the ground, shifting the weight onto your fingers.
+  Focus on distributing the load evenly across your fingertips and thumbs.
+
+
+  Body Alignment:
+
+
+  Maintain a straight line from head to heels to engage your core.
+  Keep your body in a controlled and stable position throughout the exercise.
+
+
+  Lowering Phase:
+
+
+  Slowly bend your elbows, lowering your chest towards the ground.
+  Ensure controlled movement, maintaining stability on your fingertips.
+
+
+  Pushing Up:
+
+
+  Press through your fingertips to straighten your arms, returning to the starting position.
+  Emphasize the engagement of your fingers and thumbs throughout the push-up.
+search_terms:
+  - Flexão de dedo
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '2183'

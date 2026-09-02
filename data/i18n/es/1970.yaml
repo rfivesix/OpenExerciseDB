@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1970'
+language: es
+status: human
+name: Sumo high pull con kettlebell
+description: |-
+  Un ejercicio compuesto que combina elementos del peso muerto sumo y del tirón alto (high pull). Trabaja la cadena posterior, en particular los glúteos, los isquiotibiales y la parte alta de la espalda. La postura sumo aumenta la participación de la cadera, mientras que el tirón alto añade un componente explosivo que favorece el desarrollo de la potencia.
+
+  Ponte de pie erguido por encima de una kettlebell, con los pies más separados que el ancho de los hombros y las puntas ligeramente hacia afuera.
+  Mantén el core firme y la columna neutra durante todo el ejercicio.
+  Lleva la cadera hacia atrás y extiende los brazos para agarrar la kettlebell con un agarre doble prono.
+  Con las piernas casi verticales respecto al suelo, extiende la cadera para elevar la kettlebell manteniendo los codos altos y la pesa cerca del cuerpo.
+  Una vez que la kettlebell alcance la altura de los hombros, baja de nuevo a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3569'

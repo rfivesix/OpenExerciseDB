@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '386'
+language: fr
+status: human
+name: Pompes diamant
+description: |-
+  Départ : mettez-vous en position de planche. Placez les mains rapprochées sous votre poitrine de sorte que les pouces et les index forment un losange.
+  Descente : pliez les coudes pour abaisser votre poitrine vers vos mains. Gardez le corps droit.
+  Poussée : repoussez vers le haut jusqu'à ce que les bras soient complètement tendus.
+  Remarque : gardez les coudes près du corps et la sangle abdominale gainée.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4873'

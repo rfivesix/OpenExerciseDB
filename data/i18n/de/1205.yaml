@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1205'
+language: de
+status: human
+name: Handgelenk-Curl mit Kurzhanteln
+description: |-
+  Setze dich auf eine Bank und greife die Kurzhantel mit den Handflächen nach oben
+  und schulterbreitem Handabstand. Lege deine Unterarme auf den Oberschenkeln ab
+  und lass die Handgelenke über die Knie hinaushängen.
+  Führe die Bewegung aus, indem du
+  Handflächen und Handgelenke in Richtung deines Gesichts einrollst.
+  (optional/variabel) Halte kurz oben inne.
+  Kehre langsam in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3740'

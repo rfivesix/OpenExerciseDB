@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1653'
+language: fr
+status: human
+name: Squat latéral avec haltère
+description: |-
+  Cet exercice consiste à tenir un haltère dans une main et à effectuer un squat tout en faisant un pas latéral (step to the side). Il cible les jambes, les fessiers et les muscles du tronc (core muscles).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2773'

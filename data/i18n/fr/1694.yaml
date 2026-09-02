@@ -1,0 +1,35 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1694'
+language: fr
+status: human
+name: Développé à la machine sur plat
+description: |-
+  Exécution
+
+
+  Position de départ :
+
+  Coudes fléchis à environ 90°, mains juste à l'extérieur de votre poitrine.
+  Gardez les poignets droits et alignés avec vos avant-bras.
+
+
+
+  Phase de poussée (concentrique) :
+
+  Poussez les poignées vers l'avant jusqu'à ce que vos bras soient presque complètement tendus, sans verrouiller.
+  Concentrez-vous sur la contraction de vos pectoraux en fin de mouvement.
+
+
+
+  Phase de retour (excentrique) :
+
+  Ramenez lentement les poignées vers votre poitrine, en ressentant l'étirement dans vos pectoraux.
+  Maintenez la tension, ne laissez pas la pile de poids reposer entre les répétitions.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4677'

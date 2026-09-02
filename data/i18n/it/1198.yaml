@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1198'
+language: it
+status: human
+name: Trazioni orizzontali
+description: |-
+  Le trazioni orizzontali agiscono&nbsp;principalmente sui muscoli della schiena, mentre le trazioni lavorano maggiormente sui muscoli della parte superiore della schiena e delle braccia. Combinando questi due esercizi si ottiene un allenamento più completo per i muscoli della schiena e delle braccia.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2644'

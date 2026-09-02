@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: nl
+status: human
+name: Snoekpush-ups
+description: |-
+  Startpositie:
+  Zet je lichaam in een omlaagwijzende V-positie, met rechte rug en gestrekte armen en benen. Je heupen moeten omhoogstaan.Je kunt deze positie aannemen door een hoge plank te doen en met je handen naar achteren te lopen.
+  Steps:
+
+  Buig je ellebogen opzij, houd je rug recht en benen gestrekt en breng je hoofd dichter naar de grond;
+  Strek je armen, duw je heupen omhoog en houd je rug recht en benen gestrekt;
+  Herhaal.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1358'

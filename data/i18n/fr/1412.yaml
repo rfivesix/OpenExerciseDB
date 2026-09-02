@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1412'
+language: fr
+status: human
+name: Crunchs bicyclette
+description: |-
+  Les crunchs bicyclette sont un exercice de gainage réalisé au sol. Allongez-vous sur le dos, les mains derrière la tête et les jambes tendues. Décollez les épaules du sol, ramenez un genou vers la poitrine et faites pivoter le torse de sorte que le coude opposé rejoigne le genou. Alternez les côtés dans un mouvement de pédalage, en veillant à garder des mouvements contrôlés et à solliciter la sangle abdominale tout au long de l'exercice.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4618'

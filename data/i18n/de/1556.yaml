@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1556'
+language: de
+status: human
+name: Devil's Press
+description: |-
+  Der Devil's Press ist eine Hybridbewegung, die einen Burpee mit Kurzhanteln und einen beidarmigen Kurzhantel-Snatch kombiniert. Es ist eine hochintensive Ganzkörperübung, die Kraft, Schnellkraft und die metabolische Kondition entwickelt.
+
+  Beginne mit einer Kurzhantel in jeder Hand und führe einen Burpee aus, wobei deine Brust den Boden berührt, während du die Kurzhanteln festhältst.
+  Springe explosiv mit den Füßen nach vorn und schwinge die Kurzhanteln zwischen deinen Beinen hindurch.
+  Reiße die Kurzhanteln in einer durchgehenden Bewegung über den Kopf und strecke die Arme vollständig aus.
+  Senke die Kurzhanteln kontrolliert ab, um in die Ausgangsposition zurückzukehren, und wiederhole die Bewegung
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4080'

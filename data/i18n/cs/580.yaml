@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '580'
+language: cs
+status: human
+name: Prkno na levém boku
+description: |-
+  Lehněte si na bok, se spodním loktem v pravém úhlu, paže vyčnívající
+  Zvedněte pánev z podlahy zvedání spodní rameno, drží předloktí na podlaze, hlavu, pánev a nohy by měly být v jedné přímce
+  Držte tuto pozici
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: http://www.bodybuilding.com/
+  source_id: '1423'

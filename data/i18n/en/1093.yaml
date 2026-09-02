@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1093'
+language: en
+status: human
+name: Rowing Machine
+description: Sit on a rowing machine with your back straight.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Boertie
+  source_id: '2049'

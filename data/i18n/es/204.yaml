@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '204'
+language: es
+status: human
+name: Curl Inclinado con Mancuernas
+description: |-
+  Este ejercicio es excelente para un estiramiento profundo y una contracción máxima del bíceps, gracias al ángulo del banco y la posición de los brazos.
+  Instrucciones
+
+  Posición: Siéntate en un banco inclinado (a unos 45-60 grados) con una mancuerna en cada mano. Deja que los brazos cuelguen rectos a los costados, con las palmas de las manos mirándose entre sí (agarre neutro).
+  Movimiento: Manteniendo la parte superior del brazo inmóvil, flexiona un codo para levantar la mancuerna. A medida que subes, rota la muñeca para que la palma de la mano termine mirando hacia tu hombro.
+  Contracción: Aprieta el bíceps en la cima del movimiento. Baja la mancuerna de forma lenta y controlada, invirtiendo la rotación, y luego repite con el otro brazo. Continúa alternando.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2723'

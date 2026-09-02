@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1387'
+language: fr
+status: human
+name: Battements de jambe tendue
+description: |-
+  Tenez-vous debout, les pieds écartés de la largeur des hanches, et tendez un bras devant vous. Balancez cette jambe vers le haut devant vous puis ramenez-la vers le bas en la gardant aussi tendue que possible et les orteils pointés vers le haut. Répétez avec l'autre jambe.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4598'

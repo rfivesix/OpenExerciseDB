@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1088'
+language: es
+status: human
+name: Peso muerto sumo con mancuerna
+description: |-
+  Baja tu mancuerna al suelo entre las piernas. Adopta una postura amplia y, con la espalda recta, baja en sentadilla. Con la mancuerna en posición vertical, agárrala por la parte superior de la "cabeza" (imagen 1). Manteniendo el pecho arriba y el core activado, empuja el suelo, impulsándote de nuevo hacia arriba hasta quedar de pie (imagen 2). Repite. Si alcanzas fácilmente 20-30 repeticiones, usa dos mancuernas.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3661'

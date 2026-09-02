@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '142'
+language: de
+status: human
+name: Außenrotation am Kabelzug
+description: |-
+  Schritte:
+
+  Befestige zunächst ein Widerstandsband um einen Pfosten oder an einer sicheren Position, an der es sich nicht löst und auf Ellbogenhöhe liegt.
+  Stelle dich seitlich zum Band und greife mit der Hand, die dem Band gegenüberliegt, nach dem Griff.
+  Führe das Band zu deiner Brust, halte deinen Ellbogen in einem 90-Grad-Winkel gebeugt und rotiere dann langsam deinen Arm in einer Rückhandbewegung, sodass das Band nach außen rotiert.
+  Führe die Bewegung so weit wie möglich nach außen aus, sodass du eine Dehnung in deinen Schultern spürst, halte einen Moment und kehre dann in die Ausgangsposition zurück.
+  Wiederhole dies für so viele Wiederholungen und Sätze wie gewünscht.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3807'

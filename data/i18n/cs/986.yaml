@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '986'
+language: cs
+status: human
+name: Boční výpady nalevo
+description: |-
+  Postavte se vysoko a vezměte široký boční krok, jen větší než šířka ramen.
+  Ohněte jedno koleno, dokud vaše stehno není rovnoběžné s podlahou. Ohnuté koleno musí být v souladu s nohou.
+  Zatlačte zpět do výchozí polohy a opakujte.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1572'

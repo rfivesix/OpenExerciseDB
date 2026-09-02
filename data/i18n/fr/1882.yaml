@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1882'
+language: fr
+status: human
+name: Élévation latérale à la poulie haute
+description: |-
+  Tenez-vous à côté d'une machine à poulie réglée à hauteur de taille.
+  Saisissez la poignée du côté opposé avec la main la plus éloignée de la poulie, en gardant la paume tournée vers l'intérieur.
+  Gardez la sangle abdominale engagée, la poitrine ouverte et les épaules détendues. Maintenez une légère flexion du coude pendant toute la montée.
+  Levez le bras sur le côté jusqu'à ce que votre coude atteigne la hauteur de l'épaule, en gardant le poignet aligné avec le coude.
+  Marquez une brève pause en haut, puis abaissez lentement la poignée le long de votre corps de façon contrôlée. Répétez pour le nombre de répétitions souhaité.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4778'

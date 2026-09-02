@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '235'
+language: de
+status: human
+name: Flutter Kicks
+description: |-
+  -Lege dich auf den Rücken und hebe deine gestreckten Beine in einem Winkel von 45 Grad vom Boden ab.
+  -Während dein linker Fuß nach unten wandert und den Boden fast berührt, sollte dein rechter Fuß einen Winkel von 90 Grad erreichen, oder so nah wie möglich daran.
+  -Bringe deinen rechten Fuß nach unten, bis er den Boden fast berührt, und führe deinen linken Fuß nach oben. Halte die Beine während der gesamten Übung steif. Dein Kopf sollte vom Boden abgehoben bleiben, gestützt durch die angespannte obere Bauchmuskulatur.
+  -(L hoch R runter, L runter R hoch, x2) ^v, v^, ^v, v^ = 1 Wiederholung
+  -Beansprucht vor allem den geraden Bauchmuskel (Rectus abdominis), die Hüftbeuger und den unteren Rücken. Sekundär werden die seitlichen Bauchmuskeln (Obliques) beansprucht. Der Schwerpunkt liegt auf dem unteren Bereich der Bauchmuskulatur.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4310'

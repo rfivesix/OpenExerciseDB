@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1654'
+language: de
+status: human
+name: Seitheben an der Maschine
+description: |-
+  Das Seitheben an der Maschine ist eine Isolationsübung, die den mittleren (seitlichen) Anteil des Deltamuskels trainiert, um breitere und definiertere Schultern aufzubauen. Die feste Bewegungsbahn der Maschine bietet mehr Stabilität als Kurzhanteln und macht sie ideal für Einsteiger oder alle, die sich ganz auf die Muskelaktivierung konzentrieren möchten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3681'

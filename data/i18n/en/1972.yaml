@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1972'
+language: en
+status: human
+name: Single-Arm Lat Pulldown
+description: |-
+  Sit at the lat pulldown machine and grab the single handle with a neutral grip. Keep your torso stable, your chest lifted, and your shoulder blades slightly retracted. Start with your arm fully extended overhead, then pull the handle down toward your upper chest following a controlled, slightly diagonal path. Focus on engaging the latissimus dorsi while keeping the shoulder depressed and avoiding any torso rotation. Slowly return to the starting position, maintaining full control throughout the movement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: evtimovgeorg
+  source_id: '3127'

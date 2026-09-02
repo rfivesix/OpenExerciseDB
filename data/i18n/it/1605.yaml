@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1605'
+language: it
+status: human
+name: Copenhagen Plank
+description: |-
+  Sdraiati su un fianco con il gomito appoggiato sotto la spalla, in posizione simile a una plank laterale. Appoggia la gamba superiore su una panca con il lato interno del piede o della caviglia. Solleva i fianchi e mantieni il corpo in linea retta tenendo la gamba inferiore sollevata da terra. L’esercizio attiva intensamente gli adduttori della gamba in appoggio e coinvolge anche il core e i muscoli stabilizzatori dell’anca.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: RiccaBaro
+  source_id: '2579'

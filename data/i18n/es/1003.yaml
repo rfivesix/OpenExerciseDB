@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: es
+status: human
+name: Peso Muerto con Kettlebell
+description: |-
+  Coloca la pesa rusa entre tus pies. La clave es mantener la espalda completamente recta y empujar la cadera hacia atrás (es una bisagra de cadera, no una sentadilla) para tomar el agarre.
+  Desde esa posición, contrae los glúteos y el abdomen para ponerte de pie con fuerza. Regresa al suelo de la misma manera controlada, iniciando de nuevo con la cadera hacia atrás.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2667'

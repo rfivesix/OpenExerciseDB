@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1113'
+language: fr
+status: human
+name: Pompes | Parallettes
+description: |-
+  Les pompes sur parallettes sont une variante de la pompe traditionnelle, exécutée avec les mains posées sur des barres parallèles appelées parallettes. Pour réaliser une pompe sur parallettes, placez-vous en position de pompe avec les mains sur les parallettes et les pieds au sol. Abaissez votre corps vers le sol en gardant les coudes près du corps, puis poussez pour revenir à la position de départ.
+  Les pompes sur parallettes mettent davantage l'accent sur la poitrine et les épaules que les pompes traditionnelles, car elles permettent une plus grande amplitude de mouvement au niveau de l'articulation de l'épaule. Cette amplitude accrue peut également contribuer à améliorer la stabilité et la mobilité de l'épaule. De plus, les pompes sur parallettes sollicitent davantage les muscles de la sangle abdominale que les pompes traditionnelles, car l'instabilité des parallettes exige une plus grande activation des abdominaux pour maintenir une exécution correcte.
+  Le défi supplémentaire que représente le maintien de l'équilibre sur les parallettes exige également plus de force et de contrôle dans le haut du corps, ce qui fait des pompes sur parallettes une variante plus avancée de la pompe traditionnelle. Elles peuvent être un excellent moyen de vous mettre au défi et d'ajouter de la variété à votre routine d'entraînement du haut du corps. Comme toujours, veillez à adopter une exécution correcte et à commencer à un niveau adapté à votre force et à votre condition physique.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4491'

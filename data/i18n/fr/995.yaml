@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '995'
+language: fr
+status: human
+name: Cercle arrière des bras
+description: |-
+  Tenez-vous debout, le dos droit.
+  Gardez vos bras tendus, amenez-les devant vous, levez-les au-dessus de votre tête, puis continuez le mouvement derrière votre dos jusqu'à revenir en position initiale.
+  Continuez à faire des cercles comme décrit à l'étape 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1703'

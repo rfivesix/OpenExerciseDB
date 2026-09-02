@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '456'
+language: tr
+status: human
+name: Tabanca durumunda çömelme (sol)
+description: |-
+  Diğer bacağınız düz ve hafifçe öne gelecek şekilde tek ayak üzerinde durun.
+  Bir dizinizi yavaşça bükün, sırtınızı ve diğer bacağınızı düz tutarak çömelme durumuna inin.
+  Eğik dizinizi düzelterek ve diğer bacağınızı düz tutarak çömelme durumundan yavaşça kendinizi kaldırın.
+  Tekrarlayın
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: minifigmaster125
+  source_id: '1372'

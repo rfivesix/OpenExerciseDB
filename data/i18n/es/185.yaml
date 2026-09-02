@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '185'
+language: es
+status: human
+name: Press de Banca Declinado con Barra
+description: |-
+  Esta variante del press de banca pone un mayor énfasis en la porción inferior de los músculos pectorales.
+  Instrucciones
+
+  Posición: Acuéstate en un banco declinado y asegura tus piernas firmemente en los soportes. Sujeta la barra con un agarre un poco más ancho que tus hombros.
+  Descenso: Baja la barra de forma controlada hasta que toque la parte baja de tu pecho o el esternón.
+  Ascenso: Empuja la barra con fuerza hacia arriba hasta extender los brazos (sin bloquear los codos), concentrándote en apretar la parte baja del pectoral.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2713'

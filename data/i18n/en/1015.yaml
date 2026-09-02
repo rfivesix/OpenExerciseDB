@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1015'
+language: en
+status: human
+name: Clockwise neck circles
+description: |-
+  Starting position:
+  Start sitting or standing. Drop your head down, bringing your chin toward your chest, but not pushing.
+  Steps:
+  In a slower fluid motion and with your head relaxed and not pushing in any direction:
+
+  lean toward your right shoulder.
+  then bring your head back, facing up.
+  then lean toward your left shoulder.4.and back toward the starting position.
+
+  Keep repeating this as part of one slower fluid motion.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1913'

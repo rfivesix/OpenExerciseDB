@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '997'
+language: de
+status: human
+name: Burpees mit 4 Zählzeiten
+description: |-
+  Ausgangsposition:
+  Gerade stehen, Füße hüftbreit auseinander.
+  Schritte:
+
+  Gehen Sie in die Hocke und stützen Sie sich mit den Händen zwischen den Knien und vor den Füßen mit geradem Rücken auf dem Boden ab.
+  Lassen Sie die Hände auf dem Boden und springen Sie mit den Beinen nach hinten in eine hohe Plank-Position.
+  Springen Sie mit den Füßen nach vorne, um wieder in die Hocke zu gehen.
+  Wiederholen Sie die Übung.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1730'

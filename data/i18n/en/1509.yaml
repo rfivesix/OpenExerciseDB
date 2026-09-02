@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1509'
+language: en
+status: human
+name: Cable Tricep Kickback
+description: |-
+  Grab onto the handle, and pull your elbow up and back slightly above
+  your torso. Keep your upper arm to be parallel to the ground for the
+  duration of the set
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Expenses7000
+  source_id: '2468'

@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1772'
+language: en
+status: human
+name: Reverse crunch
+description: |-
+  Lay down
+  Place your hands near your butt (often slightly in front or under or both)
+  Raise your legs, but about 70% of the way you should be able to also raise your pelvis
+  (optional/variable) Hold 1/2 seconds at the top
+  Go back to starting position
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: eufvksruh
+  source_id: '2906'

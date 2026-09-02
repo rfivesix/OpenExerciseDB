@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '171'
+language: de
+status: human
+name: Crunches an Schrägbank
+description: |-
+  Der Ablauf der Übung ist im Prinzip wie bei den normalen Crunches, nur legst du dich auf eine Schrägbank oder eine andere geeignete Fläche. Stelle sicher, dass du nicht rutschen kannst indem du die Beine über den Rand anwikelst oder sonstwo festhalten kannst. Halte die Hände hinter dem Nacken verschränkt. Aus dieser Position führe den Oberkörper so weit nach oben, bis Kopf oder Ellenbogen die Knie berühren.
+  Es ist wichtig, dass dieser Vorgang mit einer rollenden Bewegung durchgeführt wird: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '56'

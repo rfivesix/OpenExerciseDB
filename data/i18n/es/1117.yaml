@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1117'
+language: es
+status: human
+name: Remo gironda agarre cerrado
+description: |-
+  Siéntate en la máquina con los pies bien plantados, separados un poco más que la anchura de los hombros. Impulsa los talones y aprieta los glúteos. Sujétate al mango del cable.
+  Siéntate erguido con las rodillas ligeramente flexionadas. Contrae los abdominales y la zona lumbar para mantener un ángulo perpendicular al suelo con el torso.
+  Mueve los hombros hacia atrás y hacia abajo. Apriétalos mientras remas, pensando en sujetar un lápiz entre ellos. Al hacerlo, tira del mango hacia ti, aterrizando justo encima del ombligo.
+  Haz una pausa antes de volver a colocar el mango, apretando los omóplatos. Una vez que hayas devuelto el peso a la pila, deja que los omóplatos se relajen, sin tirar del torso hacia adelante.
+  Repite el movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2595'

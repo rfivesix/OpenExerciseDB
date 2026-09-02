@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '294'
+language: de
+status: human
+name: Beckenheben
+description: |-
+  Setze dich auf den Boden mit einer Bank hinter dir, beuge die Knie, sodass deine Füße flach auf dem Boden stehen, und halte eine Langhantel, die unterhalb deiner Hüfte aufliegt. Wenn du eine gepolsterte Stange hast oder etwas, das du zwischen Stange und Körper schieben kannst, trägt das viel dazu bei, die Übung angenehmer zu machen.
+search_terms:
+  - Hip Thrust mit der Langhantel
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Bret Contreras
+  source_id: '230'

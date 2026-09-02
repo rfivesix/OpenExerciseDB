@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1449'
+language: es
+status: human
+name: Escaladora
+description: |-
+  La ClimbMill, también conocida como escaladora o máquina de subir escaleras, es una máquina de cardio que simula la acción de subir escaleras. Es una excelente forma de mejorar la resistencia y fortalecer la parte inferior del cuerpo. Para usarla, sube a los escalones en movimiento, mantén una postura erguida y usa las barras de apoyo solo si es necesario. Ajusta la velocidad e intensidad según tu nivel de condición física. Este ejercicio mejora la salud cardiovascular, quema calorías y aumenta la resistencia muscular.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2414'

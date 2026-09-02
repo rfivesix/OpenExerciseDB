@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: fr
+status: human
+name: Squats bulgares droites
+description: |-
+  Tenez-vous droit devant une chaise et faites un grand pas. Placez la partie supérieure de l'un de vos pieds sur la chaise
+  Pliez le genou avant, en équilibre avec les bras jusqu'à ce que le genou arrière touche presque le sol
+  Revenez à la position de départ et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1618'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1684'
+language: en
+status: human
+name: Dumbbell Thruster
+description: |-
+  Start with the dumbbells resting on your shoulders and squat down. Push
+  into standing and raise the dumbbells into an overhead position. Bring
+  the dumbbells back to your shoulders and repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: meldun
+  source_id: '2804'

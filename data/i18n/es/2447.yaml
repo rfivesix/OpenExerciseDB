@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2447'
+language: es
+status: human
+name: Hip airplane
+description: |-
+  Ponte de pie sobre una pierna e inclina ligeramente el torso hacia delante mientras mantienes la espalda recta. Extiende la pierna libre hacia atrás de modo que el torso y la pierna formen aproximadamente una línea. Abre la cadera lentamente hacia el lado rotando la pelvis y el torso de forma controlada. Luego cierra la cadera de nuevo y vuelve a la posición inicial.
+  El movimiento debe provenir principalmente de la cadera. Mantén el pie de apoyo estable y evita que la rodilla se desplome hacia dentro.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3575'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '465'
+language: en
+status: human
+name: Preacher Curls
+description: |-
+  Place the EZ curl bar on the rest handles in front of the preacher bench.&nbsp;Lean over the bench and grab the EZ curl bar with palms up.&nbsp;Sit down on the preacher bench seat so your upper arms rest on top of the pad and your chest is pressed against the pad.&nbsp;Lower the weight until your elbows are extended and arms are straight.&nbsp;Bring the weights back up to the starting point by contracting biceps. Repeat
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: cgoob883
+  source_id: '193'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '630'
+language: fr
+status: human
+name: Soulevé de terre sumo
+description: |-
+  Commencez avec une barre chargée au sol. Approchez-vous de la barre de sorte qu'elle coupe le milieu de vos pieds. Les pieds doivent être très écartés, près des colliers de serrage. Penchez-vous au niveau des hanches pour saisir la barre. Les bras doivent se trouver directement sous les épaules, à l'intérieur des jambes, et vous pouvez utiliser une prise pronation, une prise mixte ou une prise crochet. Relâchez les épaules, ce qui a pour effet d'allonger vos bras.
+  Inspirez, puis abaissez vos hanches, le regard dirigé vers l'avant et la poitrine relevée. Poussez à travers le sol en écartant les pieds, le poids réparti sur la moitié arrière de vos pieds. Étendez les hanches et les genoux.
+  Lorsque la barre dépasse les genoux, penchez-vous en arrière et poussez les hanches vers la barre en rapprochant vos omoplates.
+  Ramenez le poids au sol en pliant les hanches et en contrôlant la charge pendant la descente.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4906'

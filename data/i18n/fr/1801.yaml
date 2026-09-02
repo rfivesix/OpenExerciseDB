@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1801'
+language: fr
+status: human
+name: Squat complet à la barre
+description: |-
+  Le squat complet à la barre est un exercice polyarticulaire qui sollicite plusieurs groupes musculaires du bas du corps, notamment les quadriceps, les ischio-jambiers et les fessiers.
+  Une bonne technique est essentielle pour maximiser les résultats et prévenir les blessures pendant le squat complet à la barre. Cela inclut le maintien d'un écartement des pieds à la largeur des épaules, la création d'une tension dans tout le corps, le contrôle de la descente et le respect d'une profondeur et d'un placement des genoux corrects.
+  Des exercices complémentaires comme le front squat, le goblet squat, le split squat et le split squat bulgare peuvent vous aider à améliorer vos performances au squat complet à la barre en ciblant des groupes musculaires spécifiques et en perfectionnant votre technique globale.
+  Pour atteindre de nouveaux records personnels au back squat, augmentez progressivement la charge au fil du temps, variez les plages de répétitions et les séries pour stimuler la croissance musculaire, et privilégiez le repos et la récupération entre les séances d'entraînement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4923'

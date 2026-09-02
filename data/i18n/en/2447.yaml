@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2447'
+language: en
+status: human
+name: Hip Airplane
+description: |-
+  Stand on one leg and lean your upper body slightly forward while keeping your back straight. Extend the free leg behind you so that your torso and leg form roughly one line. Slowly open your hip to the side by rotating your pelvis and upper body in a controlled way. Then close the hip again and return to the starting position.
+  The movement should mainly come from the hip. Keep your standing foot stable and avoid letting your knee collapse inward.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: TobiasFalk
+  source_id: '3553'

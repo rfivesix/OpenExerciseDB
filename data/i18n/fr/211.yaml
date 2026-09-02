@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '211'
+language: fr
+status: human
+name: Extension des triceps à l'haltère
+description: |-
+  Placez un haltère au-dessus de la tête, les deux mains sous le disque intérieur (prise en cœur).
+  Les coudes au-dessus de la tête, abaissez l'avant-bras derrière le bras en fléchissant les coudes. Fléchissez les poignets en bas du mouvement pour éviter de heurter votre nuque avec l'haltère. Relevez l'haltère au-dessus de la tête en étendant les coudes tout en plaçant les poignets en hyperextension. Revenez et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4853'

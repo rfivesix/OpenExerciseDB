@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1397'
+language: en
+status: human
+name: Standing Pancake Good Morning
+description: |-
+  Stand with your feet wider than shoulder-width apart and toes pointed slightly outward. Place your hands on the back of your head. Hinge at your hips and lower your upper body towards the ground, keeping your back straight and chest open.
+search_terms:
+  - Wide-Stance Good Morning
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2364'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '12'
+language: de
+status: human
+name: Adduktoren-Maschine
+description: |-
+  in eine aufrechte Position setzen, bei der die Beine hüftbreit geöffnet sind
+  den Rücken, die Knie und die Oberschenkelaußenseite an die jeweiligen Polster pressen
+  mit den Händen an den Griffen festhalten
+  die Oberschenkel bis zum Anschlagpunkt der Hebelarme auseinander drücken
+  danach die Beine wieder zusammen führen
+  das Gesäß nicht vom Sitz abheben
+  beim Auseinanderdrücken der Hebelarme aus- und beim Zusammenführen einatmen
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: flori
+  source_id: '174'

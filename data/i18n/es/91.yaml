@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '91'
+language: es
+status: human
+name: Curl con barra
+description: |-
+  Sostén la barra a la anchura de los hombros, con la espalda recta, los hombros ligeramente hacia atrás y los brazos estirados. Flexiona los brazos y levanta la pesa con un movimiento rápido. Sin pausa, baja la barra con un movimiento lento y controlado.
+  No balancees el cuerpo durante el ejercicio; todo el trabajo lo realizan los bíceps, que son los únicos músculos que deben moverse (presta atención a los codos).
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2617'

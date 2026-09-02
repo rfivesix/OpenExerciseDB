@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: de
+status: human
+name: Nackenstütze vorne
+description: |-
+  Ausgangsposition:
+  Sitzen oder stehen Sie mit geradem Rücken.
+  Schritte:
+
+  Öffnen Sie den Mund weit.
+  Neigen Sie den Kopf bei geöffnetem Mund langsam nach hinten. Wenn Sie das Gefühl haben, dass Sie Unterstützung brauchen, verschränken Sie Ihre Hände hinter dem Kopf.
+  Schließen und öffnen Sie den Mund ganz langsam.
+  Am Ende kehren Sie langsam in die Ausgangsposition zurück und schließen den Mund.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1895'

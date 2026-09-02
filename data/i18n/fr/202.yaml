@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '202'
+language: fr
+status: human
+name: Curl biceps avec haltère
+description: |-
+  Cet exercice consiste à tenir un haltère dans une main et à le lever (ou le "curler") vers l'épaule tout en gardant le haut du bras immobile. Il cible principalement le muscle biceps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '3114'

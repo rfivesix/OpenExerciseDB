@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1911'
+language: en
+status: human
+name: Cat Plank
+description: |-
+  On your fours and raise the knees of the floor ever so slightly.&nbsp;
+  Curl your back out and push back from your shoulders as to resemble a cat making itself look large.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3058'

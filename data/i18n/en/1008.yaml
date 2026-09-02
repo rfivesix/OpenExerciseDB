@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: en
+status: human
+name: Left neck stretch
+description: |-
+  Starting position:
+  Sit or stand with your back straight.
+  Steps:
+
+  Tilt your head to the side.
+  Take the hand closer to your head and use it to grab your head from the other side.
+  Push with your hand against your head and with your head against your hand so that the forces balance out and your head stays still.
+  Maintain this tension until the end of the exercise.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1860'

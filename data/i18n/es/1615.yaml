@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1615'
+language: es
+status: human
+name: Cinta de correr
+description: |-
+  Es un entrenamiento cardiovascular que se realiza en una cinta de correr para mejorar la resistencia, quemar calorías y promover la salud del corazón. Ofrece múltiples beneficios, como la capacidad de ajustar fácilmente la velocidad e inclinación, lo que permite realizar diversos entrenamientos, desde caminatas en pendiente hasta carreras a intervalos de alta intensidad (HIIT) y carreras de tempo. Para optimizar los resultados, es importante variar los entrenamientos.
+  Beneficios del cardio en cinta:
+
+  Mejora de la salud cardiovascular:
+  El ejercicio aeróbico regular en la cinta fortalece el corazón y los pulmones, lo que puede ayudar a prevenir enfermedades cardíacas.
+  Pérdida de peso:
+  Al quemar calorías, el entrenamiento en cinta puede ser una herramienta eficaz para la pérdida de peso y el mantenimiento de un peso saludable.
+  Fortalecimiento muscular:
+  Fortalece los músculos de las piernas y glúteos, ayudando a prevenir la pérdida de masa muscular, especialmente importante con la edad.
+  Flexibilidad en el entrenamiento:
+  Permite variar la velocidad, la inclinación y los intervalos, lo que hace que el entrenamiento sea más dinámico y adaptable a diferentes niveles de condición física.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2593'

@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1826'
+language: de
+status: human
+name: Band Pull-Apart mit Außenrotation
+description: |-
+  Stehe aufrecht, die Füße schulterbreit auseinander, die Brust herausgestreckt und die Schultern zurückgezogen.
+  Halte das Widerstandsband mit beiden Händen, die Handflächen nach oben oder einander zugewandt, je nach Bandtyp.
+  Beuge deine Ellenbogen im 90-Grad-Winkel und lege deine Oberarme eng an die Seiten an.
+  Das Band sollte in der Ausgangsposition bereits etwas unter Spannung stehen, mit den Händen näher beieinander vor deinem Bauch.
+  Nach außen drehen: Während du deine Ellenbogen an den Seiten hältst, bewegst du deine Hände langsam voneinander weg und dehnst das Band.
+  Zusammenziehen: Ziehe deine Schulterblätter zusammen und nach unten, während du deine Hände nach außen drehst.
+  Bewegungsumfang: Drehe deine Hände so weit nach außen, wie es bequem möglich ist, ohne dass deine Ellenbogen die Seiten verlassen.
+  Halten: Halte die Endposition 1–2 Sekunden, um die Muskelbeanspruchung zu maximieren.
+  Zurückführen: Bringe deine Hände langsam und kontrolliert in die Ausgangsposition zurück.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4201'

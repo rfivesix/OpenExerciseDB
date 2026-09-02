@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: id
+status: human
+name: Push-up tombak
+description: |-
+  Posisi awal:
+  Downward facing dog:tubuh Anda harus membuat bentuk V, dengan punggung lurus, lengan, dan kaki. Pinggul Anda harus di udara.Anda bisa mencapai posisi ini dengan menggerakkan tangan Anda kembali dari papan tinggi.
+  Langkah:
+  1.Tekuk siku ke samping, jaga punggung dan kaki tetap lurus dan gerakkan kepala lebih dekat ke lantai.
+
+  Luruskan lengan Anda, dorong pinggul ke atas dan jaga punggung dan kaki tetap lurus.
+  Ulangi.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1352'

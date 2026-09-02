@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '375'
+language: de
+status: human
+name: Kniebeuge an Hackenschmidtmaschine
+description: |-
+  Setze dich in die Maschine und drücke deine Schultern auf das Polster. Deine Füße sind etwa Schulterbreit auseinander und zeigen leicht nach außen. Gehe nun langsam nach unten in die Knie bis sich, wie bei der regulären Kniebeuge, einen Winken von ca. 90° ergibt. Drücke dich wieder nach oben und wiederhole die Bewegung. Wichtig ist hier, dass du die Knie nicht ganz ausstreckst.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '402'

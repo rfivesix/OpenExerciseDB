@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: de
+status: human
+name: Armkreisen vorwärts
+description: |-
+  Ausgangsposition:
+  Stehen Sie aufrecht mit geradem Rücken.
+  Schritte:
+
+  Führen Sie die Arme bei gestrecktem Körper vor sich her, führen Sie sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.
+  Lassen Sie die Arme wie in Schritt 1 beschrieben kreisen.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1686'

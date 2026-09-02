@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '992'
+language: zh
+status: human
+name: 右腿箭步蹲
+description: |-
+  起始姿势：背部挺直站立。 左腿向前迈出一大步。
+  脚步：
+
+  让骨盆向下，直到右膝几乎触地。
+  将骨盆抬高。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1667'

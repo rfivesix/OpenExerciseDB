@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1426'
+language: fr
+status: human
+name: Crunchs latéraux debout
+description: |-
+  Les crunchs latéraux debout sont un exercice dynamique qui cible les obliques tout en améliorant l'équilibre et la stabilité. Tenez-vous bien droit, les pieds écartés de la largeur des épaules et les mains derrière la tête, ou un haltère dans une main. Inclinez le torse d'un côté en contractant les obliques, tout en ramenant le coude vers la hanche (ou en crunchant vers la charge si vous utilisez un haltère). Revenez à la position de départ et alternez les côtés, ou effectuez toutes les répétitions d'un côté avant de changer.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4623'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1723'
+language: en
+status: human
+name: Glute Kickback (Machine)
+description: |-
+  Drive through your heel, not your toes, to hit the glute.
+  Don’t hyperextend your lower back at the top.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: barry
+  source_id: '2849'

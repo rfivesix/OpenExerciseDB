@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: zh
+status: human
+name: 基本跳绳
+description: |-
+  起始姿势：双脚并拢，稍微弯曲膝盖，保持头部和身体伸直，保持肘部向内，张开双臂。
+  步骤：
+
+  用足够的力道仅转动手腕使绳子转动。
+  跳起刚好能让脚下的绳索通过的高度。
+  重复。
+
+  注：这个练习需要一根跳绳。 确保绳子长度调整到适合你的身高。 一种检查方法是用一只手抓住两个把手，用一只脚站在挂在地上的绳索中间。 如果绳子（不包括手柄）刚好到达胸部下方，则它的长度合适。 较短的绳索会很危险，因为您可能会伤到自己，而较长的绳索会造成不良的形式。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1683'

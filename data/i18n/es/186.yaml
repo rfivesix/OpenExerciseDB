@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '186'
+language: es
+status: human
+name: Press de Banca Declinado con Mancuernas
+description: |-
+  Al usar mancuernas, esta variante del press declinado permite un rango de movimiento más natural y ayuda a desarrollar la estabilidad, enfocándose en la porción inferior de los pectorales.
+  Instrucciones
+
+  Posición: Siéntate en un banco declinado sosteniendo un par de mancuernas sobre tus muslos. Asegura tus piernas en los soportes y luego acuéstate.
+  Inicio: Lleva las mancuernas a los costados de tu pecho con los brazos flexionados.
+  Ascenso: Empuja las mancuernas hacia arriba en un movimiento de arco, juntándolas en el centro sobre la parte baja de tu pecho. Contrae los pectorales en la cima del movimiento.
+  Descenso: Baja las mancuernas de forma lenta y controlada por el mismo camino hasta sentir un estiramiento en el pecho.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2714'

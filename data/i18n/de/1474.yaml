@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1474'
+language: de
+status: human
+name: W-Raise
+description: |-
+  Diese anspruchsvolle Übung ist eine Variante des umgekehrten Crunches, die aus drei Teilen besteht, bei denen wir mit unseren Beinen im Grunde ein umgedrehtes „W“ zeichnen.
+  Die Ausgangsposition ist auf dem Rücken flach auf dem Boden liegend, mit gestreckten Beinen am tiefen Punkt des äußeren Schenkels des „W“. Halte einen festen Rumpf und gestreckte Beine, gehe nach oben, hebe die Hüften an und senke dann langsam die Beine zur Hälfte ab. Hebe dann die Beine wieder nach oben, hebe erneut die Hüften an, halte diese gerade Linie und nutze deine Rumpfkraft, um schließlich ganz nach unten zum anderen äußeren Schenkel des W zu kommen. Anschließend kehrst du das „W“ um, um zum Start zurückzukehren.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3976'

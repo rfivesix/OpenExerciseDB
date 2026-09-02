@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1766'
+language: es
+status: human
+name: Plancha con extensión de brazo
+description: |-
+  Coloca tu cuerpo en posición de plancha, manteniendo la mirada en el suelo. Levanta un brazo frente a ti y vuelve a bajarlo. Repite con el otro brazo. Levanta y baja lentamente mientras mantienes el cuerpo lo más quieto posible.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4162'

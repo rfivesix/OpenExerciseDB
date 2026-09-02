@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1512'
+language: en
+status: human
+name: Drop Curl
+description: |-
+  Drop curls in a modified position at a slow pace effectively engage the brachialis for arm width.
+  Starting position is with both arms in a slight angle towards each other at chest height with a dumbbell in each hand. Lower one dumbbell close to full extended arm position slowly and in a controlled manner during the first half of the curl, then curl it back up to starting position, while the other dumbbell stays at its starting position. Now lower the other dumbbell down. This keeps tension on the brachialis. As we pass the 90deg mark on our way down, the biceps will take over the work.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2471'

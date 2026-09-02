@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '622'
+language: it
+status: human
+name: Sollevamento dei polpacci in piedi
+description: |-
+  Salite sulla macchina per i sollevamenti dei polpacci, dovreste essere in grado di spingere completamente i polpacci verso il basso. State dritti, non inarcate la schiena e non piegate le gambe. Tiratevi su il più possibile. Fate una piccola pausa di 1-2 secondi e scendete lentamente.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2228'

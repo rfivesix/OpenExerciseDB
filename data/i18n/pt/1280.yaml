@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1280'
+language: pt
+status: human
+name: Puxada de Biceps
+description: |-
+  Na máquina de puxada de costas, segure a barra com as mãos relativamente próximas. Use uma pegada pronada (P.ex.: o dorso das suas mãos vão ficar voltados para a máquina). Então puxe a barra em uma linha reta, como se fosse em direção ao chão. Garanta que seus bíceps sejam a força motriz do movimento. Você provavelmente sentirá seus ombros e latíssimo trabalhando, mas garanta que seus bíceps sejam os músculos mais afetados.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daniel.escada
+  source_id: '2248'

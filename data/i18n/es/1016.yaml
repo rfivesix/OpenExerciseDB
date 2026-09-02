@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1016'
+language: es
+status: human
+name: Círculos de Cuello (Sentido Antihorario)
+description: |-
+  Precaución: Este es un ejercicio de movilidad que debe realizarse siempre de forma muy lenta y controlada. Si sientes dolor, mareo o pinzamientos, detente inmediatamente.
+  Instrucciones:
+  Sentado o de pie con la espalda recta y los hombros relajados, baja suavemente el mentón hacia el pecho.
+  Desde ahí, comienza a dibujar un círculo muy lento en sentido antihorario: rueda tu cabeza llevando la oreja izquierda hacia el hombro izquierdo, luego (con mucho cuidado) hacia atrás, después la oreja derecha hacia el hombro derecho, y finalmente regresa a la posición inicial con el mentón en el pecho.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2686'

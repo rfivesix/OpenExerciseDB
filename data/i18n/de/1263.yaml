@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1263'
+language: de
+status: human
+name: Rückenbrücke
+description: |-
+  Lege dich mit dem Rücken auf den Boden, die Beine gebeugt, die Füße flach auf dem Boden, und lasse etwa 20 cm zwischen deinen Füßen und deinem Gesäß. Deine Hände bleiben flach auf dem Boden, an deine Ohren gedrückt, wobei die Finger zu deinen Zehen zeigen. Deine Ellbogen sind gebeugt und zeigen zur Decke. Das ist die Ausgangsposition. Drücke nun deine Hüfte so hoch wie möglich, hebe deinen Körper vom Boden ab und drücke dich weiter über deine Hände hoch, indem du Ellbogen und Knie streckst, bis dein Rücken vollständig durchgewölbt ist (Lendenbrücke). Auch dein Kopf hebt sich vom Boden und sollte auf Höhe deiner Ellbogen sein, der Blick geht nach hinten. Das ist die Endposition. Das Absenken sollte langsam und kontrolliert erfolgen. Deine Wirbelsäule sollte eine konvexe Kurve bilden. Es ist nicht gut, den Rücken nur vom Boden zu heben; er sollte nicht gerade bleiben. Er sollte gut gerundet sein. Du wirst außerdem ein Gefühl verstärkter Sauerstoffversorgung in deinem Rücken bemerken. Nach dem Abheben vom Boden sollte deine Hüfte sehr hoch sein, sogar über der Höhe deines Kopfes. Deine Arme und Beine sollten gerade bleiben. Es wirkt einfach, erfordert aber ein gutes Maß an Beweglichkeit. Die Atmung sollte tief sein. Diese Haltung dehnt den Brustkorb und übt Druck auf das Zwerchfell aus. Wenn die Haltung korrekt ausgeführt wird, ist die Atmung perfekt. Halte während der Übung niemals die Luft an.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3811'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '76'
+language: it
+status: human
+name: Panca piana con presa srtetta
+description: |-
+  Sdraiatevi su una panca, il bilanciere è direttamente sopra gli occhi, le ginocchia formano un leggero angolo e i piedi sono ben saldi a terra. Impugnare la sbarra con una presa stretta (circa 20 cm). Portare il peso lentamente verso il basso fino a quando le braccia sono parallele al pavimento (gomito: angolo retto), premere poi il bilanciere verso l'alto. Quando si porta il bilanciere verso il basso, non farlo scendere sui capezzoli come nel normale esercizio di panca, ma un po' più in basso.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: FEFFO
+  source_id: '2226'

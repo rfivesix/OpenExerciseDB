@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1228'
+language: de
+status: human
+name: Kurzhantel-Bankdrücken im engen Griff
+description: |-
+  Lege dich mit dem Rücken auf eine flache Bank. Halte in jeder Hand eine Kurzhantel. Strecke die Arme Richtung Decke, die Handflächen zeigen zueinander und die Kurzhanteln werden zusammengedrückt.
+  Senke die Kurzhanteln langsam zu deiner Brust und drücke sie dann langsam wieder nach oben. Wiederhole die Übung.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3769'

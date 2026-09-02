@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '484'
+language: de
+status: human
+name: Rack Deadlift
+description: |-
+  Kreuzheben, ausgeführt an einer Smith-Maschine oder einem freien Rack. Die Stange bzw. Langhantel sollte sich knapp unterhalb der Kniescheibe befinden. Hebe mit der Gesäßmuskulatur und über die Fersen und kehre dann mit einer kontrollierten Bewegung von 2 Sekunden in die Ausgangsposition zurück.
+  Diese Übung beansprucht hauptsächlich den unteren Rücken und die Gesäßmuskulatur.
+search_terms:
+  - Rack-Kreuzheben
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4335'

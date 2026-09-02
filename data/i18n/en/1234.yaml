@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1234'
+language: en
+status: human
+name: Dumbbell Single-leg Hip Thrust
+description: |-
+  The single-leg hip thrust is performed by placing your upper back on a weight bench, raising one leg, and extending the hip of the other leg to achieve an isolated contraction of the glute.
+  By working each side separately, you can fully isolate your glutes unilaterally, providing maximal training stimulus.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: carlos3c
+  source_id: '2199'

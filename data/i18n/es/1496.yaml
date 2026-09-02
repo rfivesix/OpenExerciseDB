@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1496'
+language: es
+status: human
+name: Variación con mancuerna para el pecho superior
+description: |-
+  Sujeta la mancuerna en la mano como en un curl e inclina el cuerpo hacia el brazo para ayudar a subir la mancuerna por encima del pecho, junto a la cabeza, para activar la combinación de pecho y deltoides.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4010'

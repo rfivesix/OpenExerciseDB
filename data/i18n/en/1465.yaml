@@ -1,0 +1,40 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1465'
+language: en
+status: human
+name: Spider Curl
+description: |-
+  To get the most out of DB Spider Curls, you need an
+  adjustable weight bench set at a 45-degree incline. This inclined position
+  allows your arms to hang freely, putting them in an extended start position
+  with elbows slightly in front of your torso, which is the key to maintaining
+  low-level isometric tension throughout the movement pattern.
+
+  Lie face-down on an adjustable
+  weight bench with your chest fully supported, holding a pair of dumbbells.
+  Keep a neutral head position
+  and don’t crane your neck.
+  Let your arms hang straight
+  down with your palms facing forward (for a standard Spider Curl) or palms
+  facing inward for a Hammer Curl exercise variation.
+  Keep a stable foot position on
+  the floor to maintain balance and control.
+  Start the curl motion by
+  flexing your biceps muscles and lifting the pair of dumbbells or curl bar
+  toward your shoulders.
+  Keep your elbow flexion
+  controlled. Your arms should stay locked in position with no unnecessary
+  movement.
+  Squeeze hard at the top for 1-2 seconds. This
+  is where maximum tension hits the biceps muscle fibers.
+  Lower the weight under control
+  for 3-4 seconds to keep muscles under tension for the entire range of
+  motion.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2428'

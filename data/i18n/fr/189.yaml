@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '189'
+language: fr
+status: human
+name: Soulevé de terre en déficit
+description: |-
+  Préparation
+  Tenez-vous debout sur un disque, un disque amortisseur ou une plateforme légèrement surélevée, la barre chargée au-dessus des pieds. Accroupissez-vous et saisissez la barre avec une prise en pronation ou mixte, à largeur d'épaules ou légèrement plus large.
+  Exécution
+  Soulevez la barre en étendant complètement les hanches et les genoux. Tirez les épaules vers l'arrière en haut du mouvement si elles sont arrondies. Reposez les poids au sol en repoussant les hanches vers l'arrière tout en laissant les genoux se fléchir vers l'avant, en gardant le dos droit et les genoux orientés dans la même direction que les pieds. Répétez.
+  Remarques
+  Tout au long du mouvement, gardez les hanches basses, les épaules hautes, les bras et le dos droits. Les genoux doivent rester orientés dans la même direction que les pieds pendant tout le mouvement. Gardez la barre proche du corps pour améliorer le levier mécanique. La force de préhension et l'endurance de force limitent souvent la capacité à enchaîner plusieurs répétitions avec des charges lourdes. La magnésie, les sangles de poignet, le travail spécifique de la prise et la prise mixte peuvent être utilisés pour renforcer la prise. La prise mixte signifie qu'une main tient la barre en pronation et l'autre en supination. Un cric à barre peut servir à soulever la barre du sol pour faciliter le chargement et le déchargement des disques.
+  Le soulevé de terre en déficit à la barre met l'accent sur le développement de la force dans la portion la plus basse du soulevé de terre. Le muscle ciblé travaille de manière isométrique. Les soulevés de terre lourds sollicitent fortement le grand dorsal. Voir le soulevé de terre en déficit à la barre sous la rubrique grand fessier. Voir aussi l'analyse du soulevé de terre.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4841'

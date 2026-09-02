@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '423'
+language: it
+status: human
+name: Muscle up
+description: |-
+  Il corpo viene quindi tirato su in modo esplosivo dalle braccia in un pull-up radiale, con una velocità maggiore rispetto a un pull-up normale. Quando la barra si avvicina alla parte superiore del torace, i polsi vengono rapidamente flessi per portare gli avambracci sopra la barra. Il corpo è inclinato in avanti e i gomiti vengono raddrizzati attivando i tricipiti. La routine è considerata completa quando la barra è all'altezza della vita e le braccia sono completamente dritte. Per scendere, le braccia sono piegate all'altezza dei gomiti, il corpo viene abbassato a terra e l'esercizio può essere ripetuto. Essendo un esercizio relativamente avanzato, i muscle-up vengono generalmente appresi per la prima volta con un kip assistito. Le gambe oscillano (kip) verso l'alto e forniscono slancio per assistere nella forza esplosiva verso l'alto necessaria per salire sopra la barra. Gli atleti più avanzati possono eseguire una variazione rigorosa del muscle-up che viene eseguita lentamente, senza alcun kip. Questa variazione inizia con una sospensione immobile e utilizza la contrazione muscolare isometrica per salire sopra la barra in modo lento e controllato.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: arson
+  source_id: '2180'

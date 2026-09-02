@@ -1,0 +1,14 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2499'
+language: en
+status: human
+name: Incline Push-ups (Vasco L2)
+description: |-
+  Vasco custom incline push-up progression for beginner home training. Bridges wall push-ups to floor push-ups. Part of Monday Push day.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '4981'

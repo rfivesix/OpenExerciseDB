@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '454'
+language: zh
+status: human
+name: 折刀俯卧撑
+description: |-
+  起始姿势：下犬式：身体成V字形，背部、手臂和腿部挺直，臀部翘在空中。您可以先做高位平板支撑的姿势，然后将双手向后移来形成这个姿势。
+  步骤：
+
+  将两个肘部向一侧弯曲，保持背部和腿部挺直，将头靠近地面。
+  伸直双臂，将臀部向后推，保持背部和腿部挺直。
+  重复。
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '1363'

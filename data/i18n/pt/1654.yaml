@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1654'
+language: pt
+status: human
+name: Elevação lateral na mãquina
+description: |-
+  A elevação lateral na máquina é um exercício isolado que trabalha o músculo deltoide medial (lateral) para construir ombros mais largos e definidos. O caminho de movimento fixo da máquina proporciona maior estabilidade do que com halteres, tornando-a ideal para iniciantes ou para aqueles que desejam se concentrar apenas na ativação muscular.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: roneydya
+  source_id: '2775'

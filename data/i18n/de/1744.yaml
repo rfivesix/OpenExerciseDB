@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1744'
+language: de
+status: human
+name: Seitheben an der Maschine
+description: |-
+  Das Seitheben an der Maschine ist eine Isolationsübung für den seitlichen Anteil des Deltamuskels, die zur Stabilität an einer Maschine ausgeführt wird. Sie beansprucht die äußere Schulter, indem du Polster oder Griffe seitlich auf Schulterhöhe anhebst und dann langsam absenkst, wobei du die Ellbogen leicht gebeugt und den Trapezmuskel nach unten gezogen hältst, um den Fokus auf den Deltamuskel zu legen. Diese Übung hilft, Schulterbreite aufzubauen, indem sie Schwung verhindert und für konstante Spannung sorgt, was sie ideal für Anfänger oder als Abschlussübung macht.
+  So führst du das Seitheben an der Maschine aus
+  Aufbau: Stelle den Sitz so ein, dass deine Schultern auf einer Linie mit dem Drehpunkt der Maschine sind, deine Brust am Polster anliegt (oder dein Rücken, falls du nach außen gewandt bist) und deine Arme einen 90-Grad-Winkel mit den Polstern/Griffen bilden.
+  Ausgangsposition: Umfasse die Griffe mit lockerem Griff, die Ellbogen leicht gebeugt und die Schultern nach unten (weg von den Ohren) gezogen.
+  Hebephase: Atme aus und hebe deine Arme seitlich an, wobei du deine Oberarme nach außen bewegst, bis sie parallel zum Boden sind.
+  Maximale Kontraktion: Halte oben kurz inne und spanne den seitlichen Deltamuskel an, ohne dabei die Schultern hochzuziehen.
+  Senkphase: Atme ein und senke das Gewicht langsam und kontrolliert wieder ab, wobei du dem Gewicht auf dem Weg nach unten Widerstand entgegensetzt.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4157'

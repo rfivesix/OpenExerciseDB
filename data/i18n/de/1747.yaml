@@ -1,0 +1,31 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1747'
+language: de
+status: human
+name: Kniebeuge in der Multipresse
+description: |-
+  Technik und Ausführung
+  Die Kniebeuge in der Multipresse ist eine Variante der klassischen Langhantel-Kniebeuge, bei der eine geführte Langhantel mit festgelegter Bewegungsbahn verwendet wird. Hier eine ausführliche Aufschlüsselung der korrekten Technik:
+  Ausgangsposition
+  Fußstellung: Positioniere die Füße leicht vor der Stange, etwa schulterbreit
+  Stangenposition: Lege die Stange auf deinen oberen Trapezmuskel/deine Schultern, ähnlich wie bei einer klassischen Kniebeuge mit der Stange im Nacken
+  Stand: Die Füße können für eine natürliche Hüftrotation leicht nach außen gedreht sein
+  Kniebeugenbewegung
+  Hake die Stange aus, indem du sie drehst, um sie aus den Sicherheitshaken zu lösen
+  Senke deinen Körper langsam ab, indem du Knie und Hüften beugst
+  Gehe so tief, bis deine Oberschenkel parallel zum Boden sind (oder etwas darunter)
+  Halte am tiefsten Punkt der Bewegung kurz inne
+  Drücke dich über deine Fersen nach oben, um in die Ausgangsposition zurückzukehren
+  Vorteile und Hinweise
+  Vorteile
+  Geringere Anforderungen an das Gleichgewicht: Die feste Bewegungsbahn der Stange macht es Anfängern leichter
+  Kontrollierte Bewegung: Geringeres Risiko einer fehlerhaften Ausführung im Vergleich zu Kniebeugen mit freien Gewichten
+  Isolation: Ermöglicht eine gezielte Entwicklung der Beinmuskulatur
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4159'

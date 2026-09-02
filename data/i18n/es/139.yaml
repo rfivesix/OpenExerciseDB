@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '139'
+language: es
+status: human
+name: Pec-Deck Inverso
+description: |-
+  Este ejercicio en máquina es excelente para aislar los músculos deltoides posteriores (la parte trasera del hombro) y la espalda alta (romboides y trapecios).
+  Instrucciones:
+  Siéntate en la máquina de pectoral (Pec-Deck) al revés, es decir, con el pecho firmemente apoyado en el respaldo. Ajusta la altura del asiento para que los agarres queden al nivel de tus hombros.
+  Con los codos ligeramente flexionados, empuja los agarres hacia atrás y hacia los lados en un movimiento de arco amplio. Concéntrate en apretar los omóplatos al final del recorrido. Regresa de forma lenta y controlada a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2700'

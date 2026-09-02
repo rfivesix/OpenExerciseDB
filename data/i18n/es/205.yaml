@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '205'
+language: es
+status: human
+name: Zancadas con Mancuernas
+description: |-
+  Esta es la versión clásica de las zancadas, ideal para fortalecer piernas y glúteos (cuádriceps, femorales y glúteos). El uso de mancuernas facilita el equilibrio y reduce la carga directa sobre la columna en comparación con la barra.
+  Instrucciones
+
+  Posición: De pie, con la espalda recta, sostén una mancuerna en cada mano a los costados de tu cuerpo con los brazos extendidos.
+  Movimiento: Da un paso largo hacia adelante con una pierna. Baja tu cadera de forma controlada hasta que ambas rodillas estén cerca de formar un ángulo de 90 grados, sin que la rodilla de atrás toque el suelo.
+  Regreso: Manteniendo el torso erguido, empuja con fuerza a través del talón del pie delantero para volver a la posición inicial. Alterna las piernas en cada repetición.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2715'

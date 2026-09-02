@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: ar
+status: human
+name: الطعنات العكسية
+description: |-
+  وضع البداية:
+  الوقوف بشكل مستقيم ، والقدمين متباعدتين.
+  الخطوات:
+
+  خطوة للخلف بساق واحدة حتى تتمكن من الانحناء بشكل مريح بزاوية 90 درجة.
+  ثني الركبتين ببطء لتشكيل زاوية 90 درجة.
+  العودة إلى وضع البداية.
+  كرر ، بالتناوب على الساقين.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1762'

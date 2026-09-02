@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '84'
+language: fr
+status: human
+name: Rowing penché en supination
+description: |-
+  Identique au rowing classique, mais avec une prise inversée (les paumes pointant vers l'avant) :
+  Saisissez la barre avec une prise large (un peu plus large que les épaules) et penchez-vous en avant. Votre haut du corps n'est pas tout à fait parallèle au sol, mais forme un léger angle. La poitrine reste sortie pendant tout l'exercice.
+  Tirez maintenant la barre d'un mouvement rapide vers votre nombril, sans monter plus haut. Redescendez lentement à la position initiale. Ne donnez pas d'élan avec le corps et gardez les bras près du corps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4485'

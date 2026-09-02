@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1020'
+language: nl
+status: human
+name: Pistoolzit (rechts)
+description: |-
+  Zet één been voor je.
+  Buig je knie totdat je hurkt - houd je rug en andere been recht.
+  Buig je knie terug en maak hem weer recht.
+  Herhaal
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1943'

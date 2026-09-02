@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1829'
+language: de
+status: human
+name: Landmine Kniebeuge mit Überkopfdrücken
+description: |-
+  Position der Stange: Verankere ein Ende einer Langhantel in einer Landmine-Vorrichtung oder einer sicheren Ecke.
+  Stand: Stelle dich mit dem Gesicht zur Langhantel, die Füße etwas mehr als schulterbreit auseinander. Drehe deine Fußspitzen 10–35 Grad nach außen, um eine bessere Beckenbewegung und Tiefe zu ermöglichen.
+  Griff: Umfasse das freie Ende der Langhantel mit beiden Händen (Finger ineinander verschränkt oder übereinander) und halte sie auf Höhe der mittleren Brust, knapp unter dem Schlüsselbein.
+  Abwärtsbewegung: Spanne deinen Rumpf an und setze dich in eine Kniebeuge zurück, wobei du die Brust aufgerichtet hältst und das Gewicht auf den Fersen lastet.
+  Tiefe: Senke dich, bis deine Oberschenkel mindestens parallel zum Boden sind. Ein guter Anhaltspunkt ist, wenn deine Ellenbogen die Oberseite deiner Oberschenkel oder die Innenseite deiner Knie berühren.
+  Haltung: Achte darauf, dass dein Rücken flach und deine Wirbelsäule während der gesamten Bewegung neutral bleibt.
+  Antrieb: Drücke dich kraftvoll über die Fersen nach oben. Nutze den Schwung aus deinen Beinen, um das Gewicht nach oben zu „stoßen“.
+  Streckung: Drücke die Stange in einer fließenden Bewegung über den Kopf, bis deine Arme vollständig gestreckt sind. Am obersten Punkt sollten deine Bizeps nahe an deinen Ohren sein.
+  Das „Lehnen“: Wenn du den obersten Punkt des Drückens erreichst, lehne dich leicht nach vorne in die Stange, um die korrekte Aufwärtsrotation der Schulterblätter zu fördern und ein Hohlkreuz zu vermeiden.
+  Senke die Langhantel langsam und kontrolliert auf Brusthöhe zurück, bevor du sofort mit der nächsten Wiederholung beginnst.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4207'

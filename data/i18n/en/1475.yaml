@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1475'
+language: en
+status: human
+name: Black Widow Knee Slides
+description: |-
+  In
+  this bottom-up rotation exercise movement, you’ll cross your knee over and
+  drive it into that opposite elbow. Start in high plank position (or tabletop
+  position) with hands directly beneath your shoulders. Lift the left knee toward
+  the right arm and slide it up the forearm to get more of that posterior pelvic
+  tilt and engagement of the abdominal muscles. Then do the opposite side,
+  bringing your right knee toward your left hand.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2438'

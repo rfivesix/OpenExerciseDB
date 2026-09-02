@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1902'
+language: fr
+status: human
+name: Pompes lestées
+description: |-
+  Mise en place : Commencez en position de planche classique avec un disque de poids posé de façon stable sur le haut du dos.
+  Alignement : Maintenez une ligne droite de la tête aux talons, en engageant la sangle abdominale pour éviter que le dos ne s'affaisse.
+  Exécution : Abaissez votre corps jusqu'à ce que la poitrine touche presque le sol, en gardant les coudes à quarante-cinq degrés.
+  Montée : Poussez à travers les paumes pour revenir à la position de départ, en tendant complètement les bras.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4795'

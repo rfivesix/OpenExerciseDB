@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '238'
+language: fr
+status: human
+name: Écarté aux haltères
+description: |-
+  Prenez deux haltères et allongez-vous sur un banc, veillez à ce que les pieds soient fermement posés au sol et à ce que votre dos ne soit pas cambré, mais bien en contact avec le banc. Les bras sont tendus devant vous, à environ la largeur des épaules. Fléchissez maintenant légèrement les bras et écartez-les sur le côté par un mouvement en demi-cercle. Sans modifier l'angle du coude, ramenez-les vers le haut d'un mouvement fluide.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4851'

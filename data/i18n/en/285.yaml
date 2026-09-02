@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '285'
+language: en
+status: human
+name: High Knee Jumps
+description: |-
+  Start with legs slightly wider than shoulder width
+  Drop into a bodyweight squat
+  As you hit the bottom of the squat, explode upwards into a jump while simultaneously tucking your knees into your chest midflight.&nbsp; Remain tucked until the apex of your jump.
+  Land on both feet, making sure your knees are not locked so as to avoid excessive strain upon your joints.&nbsp; Collect yourself into the next rep as quickly but under control as possible.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nate303303
+  source_id: '304'

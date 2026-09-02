@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1409'
+language: fr
+status: human
+name: Dragon flag
+description: |-
+  Gardez le corps complètement gainé tout au long du mouvement, en évitant de creuser le bas du dos.
+  Utilisez une prise ferme pour stabiliser le haut du corps.
+  Commencez par des versions plus simples (par exemple avec les genoux fléchis) afin de développer la force et le contrôle.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4616'

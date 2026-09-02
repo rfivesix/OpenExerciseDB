@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1008'
+language: es
+status: human
+name: Estiramiento Lateral Izquierdo de Cuello
+description: |-
+  Este ejercicio busca alargar los músculos del costado del cuello, principalmente el trapecio superior.
+  Instrucciones:
+  Sentado o de pie, con la espalda recta y los hombros relajados, inclina suavemente tu oreja izquierda hacia tu hombro izquierdo.
+  Para profundizar el estiramiento, coloca tu mano izquierda sobre el costado derecho de la cabeza y aplica una presión muy suave y gentil para ayudar a bajar un poco más. Mantén el estiramiento de 15 a 30 segundos sin forzar ni rebotar. Luego, hazlo del otro lado.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2680'

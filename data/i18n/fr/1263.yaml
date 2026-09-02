@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1263'
+language: fr
+status: human
+name: Pont arrière
+description: |-
+  Allongez-vous au sol, le dos posé sur le sol et les jambes pliées, les pieds à plat sur le sol, en laissant environ 20 cm entre vos pieds et vos fessiers. Vos mains restent à plat sur le sol, pressées contre vos oreilles, les doigts pointés vers vos orteils. Vos coudes sont pliés et pointés vers le plafond. C'est la position de départ. Poussez maintenant vos hanches aussi haut que possible en décollant votre corps du sol, et continuez à pousser sur vos mains en tendant vos coudes et vos genoux, jusqu'à ce que votre dos soit entièrement cambré (pont lombaire). Votre tête se décolle également du sol et doit être au niveau de vos coudes, le regard dirigé vers l'arrière. C'est la position finale. La descente doit être lente et contrôlée. Votre colonne vertébrale doit former une courbe convexe. Il ne faut pas décoller le dos du sol de façon désordonnée ; il doit rester bien arrondi. Vous ressentirez également une sensation d'oxygénation accrue dans votre dos. Après vous être décollé du sol, vos hanches doivent être très hautes, même au-dessus du niveau de votre tête. Vos bras et vos jambes doivent rester tendus. Cela paraît facile, mais cela demande un bon niveau de souplesse. La respiration doit être profonde. Cette posture étire la cage thoracique et exerce une pression sur le diaphragme. Si la posture est réalisée correctement, la respiration sera parfaite. Ne retenez jamais votre souffle pendant l'exercice.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4553'

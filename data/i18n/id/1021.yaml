@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1021'
+language: id
+status: human
+name: Angkat betis kaki kanan
+description: |-
+  Berdiri di lantai atau di tepi langkah untuk meningkatkan jangkauan gerakan. Angkat satu kaki, letakkan bagian atas pada betis Anda.
+  Angkat tumit Anda sampai Anda berdiri di atas jari kaki.
+  Tetap di posisi ini selama tiga detik, lalu turunkan kaki Anda tanpa menyentuh tanah dengan tumit Anda.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1949'

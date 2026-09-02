@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '81'
+language: de
+status: human
+name: Rudern Einarmig KH
+description: |-
+  Nehme eine Flachbank und setze das Knie eines Beines auf ein Ende, das andere Bein ist daneben und leicht angewinkelt. Beuge deinen Oberkörper nach vorn und benutze deine Hand um dich abzustützen. Der Rücken macht einen leichten Hohlkreuz. Greife die Hantel mit der freien Hand und hebe sie eng am Körper entlang (achte auf die Ellenbogen). Bringe sie langsam nach unten und wiederhole die Bewegung sobald du unten angekommen bist. Wechsle danach die Seite.
+search_terms:
+  - KH Rudern
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sebk
+  source_id: '11'

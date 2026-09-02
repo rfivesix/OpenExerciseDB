@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1014'
+language: fr
+status: human
+name: Étirement de l'angulaire de l'omoplate droit
+description: |-
+  Position de départ :
+  Commencez debout ou assis. Tournez la tête vers la droite, d'environ 45 degrés ou juste au-dessus du mamelon. Placez la main gauche dans le dos ou asseyez-vous dessus. Avec la main droite, tenez l'arrière de votre tête. Penchez légèrement la tête vers le bas.
+  Étapes :
+
+  Une fois la position de départ adoptée, appuyez la tête contre la main droite avec une légère force. Votre main doit résister avec une force égale, de sorte que la tête ne bouge pas. Maintenez cette position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4425'

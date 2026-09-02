@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '616'
+language: nl
+status: human
+name: Hurkstoten
+description: |-
+  Startpositie:
+  Begin in hoge plankpositie:rug, armen en benen recht en handen op schouderbreedte uit elkaar.
+  Stap:
+
+  Spring met je voeten naar voren tussen je armen en houd je rug plat.
+  Houd je handen op de vloer, spring je benen terug in hoge plank positie.
+  Herhalen.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1449'

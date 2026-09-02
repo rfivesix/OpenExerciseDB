@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1648'
+language: en
+status: human
+name: Weighted Crunch
+description: |-
+  The Weighted Crunch is a variation of the classic crunch exercise that involves adding resistance (a weight) to increase the intensity of the abdominal work.
+
+  Lay down
+  (Optional) Bend your knees to add difficulty
+  (Optional) Bend your knees and let your feet rest on a bench or a box or something (90 degree angle on knees)
+  Lift your head and torso while bending your back forward (if you don't it's a sit-up and also involves some back muscles). The higher you go, the more you should feel your abs contracting.
+  Go back to starting position an repeat
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: AlucardEvil40
+  source_id: '2759'

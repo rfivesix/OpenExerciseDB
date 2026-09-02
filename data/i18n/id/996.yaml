@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '996'
+language: id
+status: human
+name: Pendaki gunung
+description: |-
+  Posisi awal:
+  Mulai dari posisi push-up yang tegak, atau papan atas.Tangan harus langsung di bawah bahu Anda.Tetap Sejajarkan kepalamu dengan punggungmu, menghadap lantai.Kaki harus selebar pinggul.
+  Langkah:
+
+  Gerakkan satu lutut ke bagian tengah tubuhmu, ke arah sikumu, memperpanjang kakimu.
+  Dalam gerakan melompat cepat, meluruskan kaki membungkuk keluar dan menarik lutut lainnya ke arah tubuh Anda.
+  Terus mengulangi Langkah 2, bolak kaki.
+
+  Catatan:
+  Sepanjang latihan punggung harus tetap lurus mungkin-menghindari punuk atau seonggok punggung.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1712'

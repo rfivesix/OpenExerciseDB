@@ -1,0 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: tr
+status: human
+name: Yere dalma
+description: |-
+  Başlangıç durumu:
+  Sırtınızı destekleyerek kollarınız arkanızda oturun.Parmaklarınız öne doğru bakmalıdır.Dizleriniz bükülmeli, ayaklarınız birbirine yapışmalıdır.
+  Adımlar:
+
+  Kollarınızı düzleştirerek kalçalarınızı yerden kaldırın.
+  Kalçalarınızı aşağı indirerek dirseklerinizi bükün.
+  Bir önceki duruma dönerek kollarınızı düzeltin.
+
+
+  ve 3. adımları tekrarlayın.
+
+
+
+  Notlar:
+  Egzersizin zorluğu kalçalarınızı ne kadar yükseğe çıkardığınıza bağlıdır.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1772'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '981'
+language: id
+status: human
+name: Step-up
+description: |-
+  Berdiri menghadap kursi
+  Naik ke kursi
+  Step off the chair
+  Ulangi
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1496'

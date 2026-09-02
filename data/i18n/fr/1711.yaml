@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1711'
+language: fr
+status: human
+name: Étirement du dormeur (sleeper stretch)
+description: |-
+  Allongez-vous sur le côté de façon à reposer un peu de poids sur votre omoplate pour la maintenir immobile
+  Tendez votre bras à 90 degrés devant vous, reposant sur le sol ou le tapis
+  Levez votre main avec votre coude de sorte que vos doigts pointent vers le plafond et votre paume vers vos pieds
+  En gardant votre coude immobile, abaissez doucement votre paume vers le sol
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4698'

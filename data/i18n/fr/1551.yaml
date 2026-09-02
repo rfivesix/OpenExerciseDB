@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1551'
+language: fr
+status: human
+name: Pompe
+description: |-
+  La pompe est un exercice fondamental au poids du corps qui sollicite les pectoraux, les bras et les épaules tout en mobilisant la sangle abdominale pour la stabilité. Elle ne nécessite aucun matériel et est excellente pour développer la force du haut du corps.
+  Instructions :
+
+  Commencez en position de planche, les mains placées légèrement plus écartées que la largeur des épaules, les pieds joints et le corps aligné de la tête aux talons.
+  Engagez votre sangle abdominale et abaissez votre corps en pliant les coudes, en les gardant près du corps ou légèrement écartés vers l'extérieur.
+  Descendez jusqu'à ce que votre poitrine touche presque le sol, tout en maintenant une colonne vertébrale neutre.
+  Poussez sur vos paumes pour revenir à la position de départ en tendant complètement les bras.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4924'

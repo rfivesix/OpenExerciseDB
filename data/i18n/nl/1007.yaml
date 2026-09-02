@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1007'
+language: nl
+status: human
+name: Hoofd draaiingen
+description: |-
+  Beginpositie:
+  Zit of sta met je rug recht en schouders naar beneden.
+  Stappen:
+
+  Zit of sta rechtop, schouders omlaag.
+  Draai uw hoofd zo ver mogelijk opzij. Stop wanneer je een barrière raakt en houd 5 seconden vast.
+  Keer terug naar de middenpositie en herhaal, waarbij u van kant wisselt.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1850'

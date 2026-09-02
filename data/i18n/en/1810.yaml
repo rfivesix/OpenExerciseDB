@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1810'
+language: en
+status: human
+name: Sphinx
+description: |-
+  Lie on your stomach flat, legs extended and the backs of your feet on
+  the ground. Bring your forearms under your shoulders, elbows directly
+  underneath. Then press your hands into the floor to lift your chest.
+  Draw your shoulder blades together, open your collarbones, and direct
+  your gaze forward, while keeping the lower back relaxed.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Joculari
+  source_id: '2939'

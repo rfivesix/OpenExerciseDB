@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1515'
+language: en
+status: human
+name: Leg Press Toe Press
+description: |-
+  Move the leg press&nbsp;using your calves by placing your feet at the bottom of the platform.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Expenses7000
+  source_id: '2474'

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '148'
+language: es
+status: human
+name: Elevación de Pantorrillas en Hack
+description: |-
+  Este ejercicio permite aislar las pantorrillas (gemelos) con la estabilidad de la máquina Hack, facilitando el uso de cargas pesadas y un rango de movimiento completo.
+  Instrucciones:
+  Apoya la espalda firmemente en el respaldo de la máquina. Coloca las puntas de los pies en el borde inferior de la plataforma, de manera que los talones queden en el aire y puedan bajar completamente.
+  Manteniendo las rodillas rectas (pero sin bloquearlas), empuja con la parte delantera de los pies para elevar los talones lo más alto posible, apretando la pantorrilla en la cima. Luego, baja de forma controlada hasta sentir un estiramiento profundo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2694'

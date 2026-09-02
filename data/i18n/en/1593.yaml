@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1593'
+language: en
+status: human
+name: Smith Machine Split Squat
+description: |-
+  The "Smith Machine Split Squat" is a strength exercise
+  performed on the Smith machine, ideal for targeting the legs and glutes.
+  It involves placing one foot forward and the other back, lowering the
+  body until the front thigh is parallel to the ground while the bar
+  slides vertically along the machine. This exercise helps improve
+  stability, correct muscle imbalances, and reduces stress on the back,
+  providing a safe environment for strength training.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: workout@rooven.anonaddy.me
+  source_id: '2542'

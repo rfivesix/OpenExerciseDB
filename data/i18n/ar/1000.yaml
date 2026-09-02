@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1000'
+language: ar
+status: human
+name: انخفاضات أرضية
+description: |-
+  وضع البداية:
+  اجلس وذراعيك خلفك ، داعمًا ظهرك.يجب أن تشير أصابعك إلى الأمام.يجب أن تكون ركبتيك مثنيتين ، وقدميك معًا.
+  الخطوات:
+
+  ارفع وركيك عن الأرض مع فرد ذراعيك.
+  اثنِ مرفقيك ، وجلب الوركين إلى أسفل.
+  فرد ذراعيك ، والعودة إلى الوضع السابق.
+  كرر الخطوتين 2 و 3.
+
+  تلاحظ:
+  تعتمد صعوبة التمرين على مدى ارتفاع الوركين.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1774'

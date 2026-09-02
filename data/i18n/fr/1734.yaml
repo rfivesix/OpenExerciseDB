@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1734'
+language: fr
+status: human
+name: Fente sur une jambe avec kettlebell
+description: |-
+  Comment réaliser une fente sur une jambe avec kettlebell
+  Préparation : Tenez-vous debout, pieds joints. Saisissez le kettlebell des deux mains par la poignée en le gardant près de votre poitrine, ou tenez-le d'une seule main (du même côté que la jambe qui travaille).
+  Pas et descente : Faites un grand pas vers l'avant (ou vers l'arrière, ce qui est plus sûr pour vos genoux) avec une jambe, en abaissant les hanches jusqu'à ce que les deux genoux forment un angle de 90 degrés.
+  Focalisation : Reportez votre poids sur la jambe avant (ou fléchie), en gardant le dos droit et le buste bien vertical.
+  Retour : Poussez sur votre jambe avant pour revenir à la position de départ.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4734'

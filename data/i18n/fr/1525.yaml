@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1525'
+language: fr
+status: human
+name: Slams de ballon (ball slams)
+description: |-
+  Tenez-vous debout, les pieds écartés d'environ la largeur des épaules, les genoux et les hanches légèrement fléchis, en tenant le ballon des deux mains à hauteur de poitrine. Gainez vos abdominaux et conservez une bonne posture.
+  Tendez les genoux et poussez les hanches vers l'avant tout en soulevant le ballon. Cherchez à être le plus grand possible : le ballon au-dessus de la tête, les bras levés, les hanches légèrement vers l'avant et sur la pointe des pieds, portés par l'élan de votre poussée.
+  Utilisez vos abdominaux et vos bras pour projeter le medicine ball droit vers le sol entre vos pieds, avec le plus de force possible. Reculez les hanches et fléchissez les genoux pour donner encore plus de puissance au lancer. Expirez en projetant le ballon vers le bas.
+  Accroupissez-vous pour ramasser le ballon au sol, puis enchaînez immédiatement avec le slam suivant en répétant le mouvement. Répétez pour un nombre de répétitions ou une durée donnés.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4680'

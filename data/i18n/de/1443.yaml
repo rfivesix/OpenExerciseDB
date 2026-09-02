@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1443'
+language: de
+status: human
+name: Seitheben und Frontheben mit Kurzhanteln
+description: |-
+  Stehe aufrecht und halte die Kurzhanteln seitlich am Körper
+  Halte die Arme nahezu vollständig gestreckt
+  Hebe die Kurzhanteln ohne Schwung seitlich bis auf Schulterhöhe an, Handflächen nach unten
+  Senke die Kurzhanteln seitlich am Körper ab, Handflächen nach innen
+  Hebe die Kurzhanteln sofort vor dem Körper bis auf Schulterhöhe an, Handflächen nach unten
+  Wieder absenken
+  Das ist eine Wiederholung
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3952'

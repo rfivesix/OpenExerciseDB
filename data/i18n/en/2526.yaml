@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2526'
+language: en
+status: human
+name: Long Lunge Pulse Stretch
+description: |-
+  Hold the resistance band (or any other rope-like object, the elasticity is not necessary) above your head, between your hands, with your arms straight. Pull it taught to engage your lats.
+  Step forwards into a lunge, dropping until your knee is almost touching the floor.
+  Slowly and controlledly pulse your body up and down by about an inch. Repeat for required reps.
+  Repeat for other leg.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '4995'

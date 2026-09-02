@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1388'
+language: de
+status: human
+name: Einbeiniges Kreuzheben mit gestreckten Beinen (Single Leg RDL)
+description: |-
+  Stehe aufrecht und halte bei Verwendung von Gewichten in beiden Händen eine Last.
+  Spanne deinen Rumpf an und hebe ein Bein vom Boden ab.
+  Halte deinen Rücken gerade, beuge dich in der Hüfte und senke deinen Oberkörper nach vorne, wobei du darauf achtest, deine Hüfte nicht zu verdrehen.
+  Senke dich ab, bis du eine Dehnung in der hinteren Oberschenkelmuskulatur deines Standbeins spürst, und kehre dann in die aufrechte Position zurück. Wiederhole es auf beiden Seiten.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3858'

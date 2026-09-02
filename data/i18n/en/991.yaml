@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '991'
+language: en
+status: human
+name: Split squats left
+description: |-
+  Starting position:
+  Stand with your back straight. Take a large step forward with your left leg.
+  Steps:
+
+  Bring your pelvis down until you almost touch the floor with your right knee.
+  Bring your pelvis back up.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1643'

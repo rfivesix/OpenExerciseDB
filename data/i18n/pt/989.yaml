@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: pt
+status: human
+name: Bulgarian split squats direita
+description: |-
+  Fique de pé em frente a uma cadeira e dê um grande passo. Coloque a parte superior de um de seus pés sobre a cadeira.
+  Dobre o joelho da frente, equilibrando-se com os braços até que o joelho de trás quase toque o chão
+  Empurre de volta para a posição inicial e repita.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1622'

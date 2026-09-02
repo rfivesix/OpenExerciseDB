@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1127'
+language: en
+status: human
+name: Close-grip supinated lat pulldown
+description: |-
+  Downward movement
+  •  Pull the bar down so that it passes close to your chin and touches the upper part of your chest.
+  •  Keep the rest of your body still.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Franpol
+  source_id: '2101'

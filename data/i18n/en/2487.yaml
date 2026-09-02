@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2487'
+language: en
+status: human
+name: Cool-Down Swim
+description: |-
+  Swim at an easy, unhurried pace — freestyle, backstroke, or just floating/gliding — with zero focus on technique or drills. The only goal here is to let your heart rate come down gradually and your muscles relax before you get out of the pool.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imported from swim plan
+  source_id: '4964'

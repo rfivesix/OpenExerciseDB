@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1109'
+language: es
+status: human
+name: Biceps concentrado
+description: |-
+  El curl de concentración es un ejercicio clásico para desarrollar los bíceps un brazo a la vez. Se puede realizar inclinado o de rodillas, pero se realiza más a menudo sentado en un banco. Es excelente para enfatizar el pico del bíceps y, a menudo, se usa para terminar un entrenamiento de bíceps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cshep442
+  source_id: '2090'

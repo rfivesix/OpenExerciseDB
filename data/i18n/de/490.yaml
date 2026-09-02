@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '490'
+language: de
+status: human
+name: Renegade Row
+description: |-
+  Begib dich in die Liegestützposition und greife dabei zwei Kurzhanteln. Führe einen Liegestütz aus und ziehe dann deinen linken Ellenbogen nach oben, sodass du die Kurzhantel zu deinem Körper bringst. Führe die Kurzhantel zurück in die Ausgangsposition.
+  Führe einen weiteren Liegestütz aus und rudere dann mit dem anderen Arm, um eine Wiederholung abzuschließen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4344'

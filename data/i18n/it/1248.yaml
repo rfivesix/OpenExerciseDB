@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1248'
+language: it
+status: human
+name: Ice Scream maker
+description: |-
+  Dalla fase finale di una trazione alla sbarra e ci spingiamo indietro con le spalle fino ad arrivare in posizione di front lever. Da li trazioniamo di nuovo per riportarci nella posizione di partenza.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: admin
+  source_id: '2643'

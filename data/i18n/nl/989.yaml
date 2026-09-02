@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '989'
+language: nl
+status: human
+name: Bulgaarse gespleten hurkzit (rechts)
+description: |-
+  Pak een stoel en ga er recht voor staan. Plaats het voorste deel van je voet op de stoel.
+  Buig de voorste knie en balanceer je armen totdat de achterste knie bijna de grond raakt.
+  Duw jezelf terug, ga terug naar stap 1 en herhaal, telkens met een andere knie.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1621'

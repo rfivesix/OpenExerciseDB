@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1638'
+language: en
+status: human
+name: Barbell Clean and press
+description: |-
+  This exercise involves lifting a barbell from the ground to the shoulders, then pressing it overhead. It is a compound movement that targets multiple muscle groups, including the legs, back, shoulders, and arms. It is often used in strength and conditioning programs to improve overall power and athleticism.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Rottekongen
+  source_id: '2744'

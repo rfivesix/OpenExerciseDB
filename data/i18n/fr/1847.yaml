@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1847'
+language: fr
+status: human
+name: L-sit jambes écartées
+description: |-
+  Les jambes en position de selle assise, poussez votre corps vers le haut pour décoller du sol. Vos jambes doivent être horizontales et pointer droit vers l'extérieur. Vos bras doivent se trouver entre vos jambes.
+  Maintenez la position de manière isométrique aussi longtemps que nécessaire.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4918'

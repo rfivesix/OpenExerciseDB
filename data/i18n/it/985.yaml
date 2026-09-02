@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: it
+status: human
+name: Flessioni con rotazione
+description: |-
+  Esegui una flessione standard:
+
+  1.a Sdraiati a pancia in giù1.b Metti le mani vicino alle orecchie1.c Usa le braccia per sollevare il torace fino a quando le braccia sono dritte, mantenendo la schiena dritta1.d Piega le braccia fino a quando il torace tocca quasi il suolo, assicurandoti che la schiena sia dritta1.e Solleva di nuovo il torace (vedi 1.c)
+
+  Ruota il corpo di lato in modo che la schiena sia dritta:la mano inferiore che sostiene il corpo è completamente estesa e solo la mano inferiore e i piedi toccano il pavimento
+  Ripeti, cambiando lato ogni volta al passaggio 2
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1563'

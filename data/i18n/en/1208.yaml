@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1208'
+language: en
+status: human
+name: Prisoner Squat
+description: |-
+  Stand upright with your chest slightly raised, your feet hip-width apart and your toes pointing straight ahead.
+  Bring your hands to the back of your head with your fingers slightly interlaced and your elbows pointing to the side. Push your hips back and bend your knees, keeping your upper body as upright as possible.&nbsp;
+  Push your knees outwards, they must never point towards each other. If your upper body moves slightly forward, make sure that it does not bend. Always keep your elbows level with your ears by tensing the muscles between your shoulder blades. If you are flexible enough, you can sink down until your buttocks touch your calves.
+  However, make sure that you do not bend your spine.&nbsp;
+  Before this happens, reverse the movement and use your heels and glutes to push yourself upwards with so much momentum that your feet lift off briefly and you do a little hop.&nbsp;
+  If necessary, correct the position of your feet, arms and upper body before you move on to the next repetition.
+  Translated with www.DeepL.com/Translator (free version)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2170'

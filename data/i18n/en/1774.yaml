@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1774'
+language: en
+status: human
+name: Chair dips
+description: |-
+  Starting position:
+  Sit down on the front edge of a chair, back straight, hands holding the front edge. Still holding the edge of the chair, arms extended, lift your butt and walk forward slightly so that it is a few inches from the chair.
+  Steps:
+
+
+  Slowly lower your body, keeping the back straight, until your arms are at a right angle.
+
+
+  Raise your body again to the initial position, arms extended.
+
+
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '2908'

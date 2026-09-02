@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: ar
+status: human
+name: رفع الساق
+description: |-
+  وضع البداية:
+  استلقِ على ظهرك وقدميك معًا وذراعيك بجانبك.
+  الخطوات:
+
+  اثني ركبتيك ، ثم افردهما للإشارة إلى الأعلى بشكل مستقيم.
+  حافظ على استقامة ساقيك ، وأنزلهما معًا دون لمس الأرض. كلما انخفضت ، زادت كثافة التمرين.
+  ارفع كلا الساقين معًا للإشارة إلى الأعلى مرة أخرى.
+  كرر من الخطوة 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1350'

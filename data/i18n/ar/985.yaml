@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '985'
+language: ar
+status: human
+name: تمرين الضغط المتناوب
+description: |-
+  قم بتمرين الضغط القياسي:
+
+  1.a الاستلقاء على بطنك1.b ضع يديك بالقرب من أذنيك1.c استخدم ذراعيك لرفع معدتك حتى تصبح الذراعين مستقيمين ، مع الحفاظ على استقامة الظهر1.d ثني الذراعين حتى يلمس الصدر الأرض تقريبًا ، مع التأكد من أن الظهر مستقيم1.e ارفع معدتك مرة أخرى ، والعودة إلى الخطوة 3
+
+  قم بتدوير جسمك إلى الجانب بحيث يكون الظهر مستقيمًا ، ويتم تمديد اليد السفلية التي تدعم الجسم بالكامل ، ولا تلمس الأرض سوى اليد السفلية والقدم
+  كرر مع تغيير الجوانب في الخطوة 2 في كل مرة
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1569'

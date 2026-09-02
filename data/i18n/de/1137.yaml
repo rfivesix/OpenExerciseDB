@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1137'
+language: de
+status: human
+name: Pullover am hohen Kabelzug
+description: |-
+  Stehend, mit dem Gesicht zum Gerät, die Füße leicht auseinander, die Stange im Obergriff gefasst, die Arme gestreckt, die Hände schulterbreit auseinander.
+
+  Bei fixiertem Rücken und angespannter Bauchmuskulatur einatmen und die Stange bis zu den Oberschenkeln führen, während du die Arme gestreckt hältst (oder die Ellbogen leicht gebeugt).
+  Am Ende der Bewegung ausatmen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3718'

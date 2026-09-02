@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1288'
+language: en
+status: human
+name: Dynamic side plank
+description: |-
+  The dynamic side plank involves positioning yourself on your side, supported on one elbow and the side of your foot, then dipping your hips up and down while keeping your body in a straight line.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: painDpice
+  source_id: '2255'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '46'
+language: pl
+status: human
+name: Wykroki ze sztangą
+description: |-
+  Połóż sztangę z tyłu barków. Stań prosto, a następnie wykonaj krok do przodu. Krok powinien doprowadzić cię do pozycji, w taki sposób aby kolanem nogi zakrocznej dotknąć podłogi.(Dotknięcie ma być delikatne z pełna kontrolą) Następnie wstań i powtórz z drugą nogą.
+  Pamiętaj o zachowaniu dobrej postawy.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mikko Ruohola
+  source_id: '2068'

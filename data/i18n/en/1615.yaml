@@ -1,0 +1,34 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1615'
+language: en
+status: human
+name: Treadmill Cardio
+description: |-
+  It's a cardiovascular workout performed on a treadmill to improve endurance, burn calories, and promote heart health. It offers multiple benefits, such as the ability to easily adjust speed and incline, allowing for a variety of workouts, from hill walking to high-intensity interval training (HIIT) and tempo runs. To optimize results, it's important to vary your workouts.
+  Benefits of Treadmill Cardio:
+
+  Improved Cardiovascular Health:
+  Regular aerobic exercise on a treadmill strengthens the heart and lungs, which can help prevent heart disease.
+  Weight Loss:
+  By burning calories, treadmill training can be an effective tool for weight loss and maintaining a healthy weight.
+  Muscle Strengthening:
+  It strengthens the muscles in the legs and glutes, helping to prevent muscle loss, which is especially important with age.
+  Training Flexibility:
+  Allows you to vary speed, incline, and intervals, making your workout more dynamic and adaptable to different fitness levels.
+  Types of Treadmill Training:
+  Hill Walking:
+  Increasing the incline of the treadmill and walking at a brisk pace can improve endurance and work your leg muscles.
+  Endurance Jog:
+  A run at a comfortable, steady pace that keeps your heart rate in a target zone (such as Zone 2) to build endurance.
+  Interval Training:
+  Alternating periods of high intensity (fast running) with periods of low intensity (easy walking or jogging) to maximize calorie burn and cardiovascular improvement.
+  Tempo Run:
+  A run at a steady, sustained pace that is slightly faster than a normal jog, which challenges your ability to sustain a more intense effort for an extended period.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2592'

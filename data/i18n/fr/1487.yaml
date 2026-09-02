@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1487'
+language: fr
+status: human
+name: Combo hyperextension Y et W
+description: |-
+  Utilisez un banc à lombaires (glute-ham raise) ou un ballon de stabilité pour cet exercice, ainsi qu'un disque léger dans chaque main.
+  Soulevez le tronc pour former une ligne droite avec les jambes et levez les bras vers l'extérieur, légèrement au-delà d'un angle de 90 degrés, en position de « W » pour solliciter les muscles de la coiffe des rotateurs, puis redescendez à la position de départ.
+  Remontez ensuite avec les bras en position de « Y » pour activer le bas des trapèzes.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4659'

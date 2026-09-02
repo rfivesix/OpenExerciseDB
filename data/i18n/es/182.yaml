@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '182'
+language: es
+status: human
+name: Suspensiones en Regleta
+description: |-
+  Este es un ejercicio fundamental en el entrenamiento para escalada, diseñado para desarrollar la fuerza máxima y la resistencia de los dedos.
+  Instrucciones:
+  En una tabla de multipresas (hangboard), elije una regleta (borde) y cuélgate de ella. Mantén los brazos casi extendidos pero con una "suspensión activa": contrae los músculos de la espalda para mantener los hombros estables y lejos de las orejas.
+  Sostén la posición por el tiempo indicado. Para ajustar la dificultad, puedes usar una regleta más pequeña, añadir peso con un cinturón de lastre, o quitar peso con una banda elástica.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2704'

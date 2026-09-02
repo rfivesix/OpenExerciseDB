@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '822'
+language: fr
+status: human
+name: Oiseau à la poulie
+description: |-
+  L'oiseau à la poulie, également appelé écarté inversé à la poulie, est un exercice de renforcement et de définition des deltoïdes. C'est l'un des meilleurs exercices d'isolation pour votre dos et votre deltoïde postérieur. Cet exercice cible vos deltoïdes postérieurs (arrière) tout en sollicitant un ensemble de muscles du haut du corps.
+
+  Réglez la charge et les poulies à la bonne hauteur. Vous devez pouvoir voir les poulies, car elles doivent se trouver au-dessus de votre tête.
+  De la main droite, saisissez la poulie de gauche, et de la main gauche, saisissez la poulie de droite, en les croisant devant vous. C'est ici que commence votre mouvement.
+  Amorcez le mouvement en écartant et rapprochant les bras, tout en gardant les bras tendus.
+  Marquez une brève pause à la fin du mouvement avant de ramener les poignées à leur position de départ.
+search_terms:
+  - Oiseau
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4828'

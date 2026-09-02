@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1011'
+language: zh
+status: human
+name: 前颈部拉伸
+description: |-
+  起始位置：坐位或站位，背部挺直。
+  步骤：
+
+  张大嘴巴。
+  保持嘴张开，慢慢仰头。可以将双手放在脑后支撑头部。
+  慢慢地合上嘴再张开。
+  最后，慢慢回到起始位置，合上嘴部。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1905'

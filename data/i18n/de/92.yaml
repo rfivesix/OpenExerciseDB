@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '92'
+language: de
+status: human
+name: Bizeps KH-Curls
+description: |-
+  Halte zwei Kurzhantel mit ausgestreckten Armen neben dem Körper, die Handflächen zeigen nach innen. Beuge die Arme und brige die Hanteln mit einer schnellen Bewegung nach oben wobei sie gleichzeitig um 90 Grad gedreht werden. Am höchsten Punkt kann man die Hanteln ganz leicht weiter nach außen drehen. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.
+  Während des Bewegungablaufs darf der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '26'

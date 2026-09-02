@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '650'
+language: fr
+status: human
+name: Thruster
+description: |-
+  Commencez par effectuer un squat avant (front squat)
+  En position haute, poussez la barre au-dessus de votre tête (comme pour un développé)
+  Abaissez la barre jusqu'aux épaules
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4597'

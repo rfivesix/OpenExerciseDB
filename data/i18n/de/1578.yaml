@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1578'
+language: de
+status: human
+name: Hip Hinge
+description: |-
+  Beschreibung der Übung Hip HingeDer Hip Hinge ist ein grundlegendes Bewegungsmuster, bei dem du dich in den Hüften beugst, während die Wirbelsäule neutral bleibt. Er wird häufig bei Übungen wie Kreuzheben, Kettlebell-Swings und Good Mornings eingesetzt. So führst du einen Hip Hinge aus:    Ausgangsposition: Stelle dich hüftbreit hin und beuge die Knie leicht.    Beuge in den Hüften: Schiebe deine Hüften nach hinten, während du den Rücken gerade hältst. Dein Oberkörper neigt sich nach vorn, und dein Brustkorb bleibt aufgerichtet.    Absenkphase: Beuge dich weiter, bis dein Oberkörper nahezu parallel zum Boden ist oder bis du eine Dehnung in der hinteren Oberschenkelmuskulatur spürst.    Zurück in den Stand: Drücke dich über die Fersen ab und schiebe deine Hüften nach vorn, um in die Ausgangsposition zurückzukehren.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4090'

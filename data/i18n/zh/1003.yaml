@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: zh
+status: human
+name: 提壶铃
+description: |-
+  起始位置：站位，双脚与臀部同宽，壶铃位于脚踝之间。背部挺直，头朝前。
+  步骤：
+
+  背部保持平直，以臀部为轴，微微弯曲膝盖，手放在壶铃把手上。
+  抓住壶铃把手，双手向相反方向推动，好像在拉弹簧一样。
+  接触到腹肌和臀大肌时，站直。
+  再次以臀部为轴，将壶铃放回原位，类似于步骤1。
+  从第 3 步重复。
+
+  提示：
+
+  一定要按正确的方式做这些动作，否则可能会导致受伤。例如，不要蹲下而不以臀部为轴、在伸手去拿壶铃时不要弯腰、站立时不要向后倾斜。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1810'

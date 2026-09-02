@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1303'
+language: en
+status: human
+name: Helms Row
+description: |-
+  Setup: Place your chest on the end of a bench, using a towel or anything soft to keep your chest protected. You want your chest to be in contact with the bench around the nipple line. Your back should be almost parallel to the floor
+  Execution: When you’re starting the exercise, focus on pulling your elbows back until you feel maximum tightness in the lats.
+  If you want to get some trap activation with the exercise, relax your shoulder blades when the weights are hanging down and then retract them as you start the rep.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: carlos3c
+  source_id: '2266'

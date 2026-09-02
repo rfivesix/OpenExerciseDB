@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '204'
+language: de
+status: human
+name: Bizeps KH-Curls Schrägbank
+description: |-
+  Sitz auf einer ca. 45° nach hinten geneigten Schrägbank; Oberkörper und Kopf an die Rückenlehne angelehnt.
+  Rumpfmuskulatur anspannen, Rücken bleibt gerade, Blick geradeaus.
+  Die Kurzhanteln werden jeweils im neutralen Hammergriff gefasst (Handinnenflächen zeigen zueinander). Die Arme hängen, leicht gebeugt, seitlich herab. Durch die Neigung der Rückenlehne befinden sich die leicht gebeugten Arme hinter der Körperachse.
+  Handgelenke in Verlängerung des Unterarms.
+  Beugen und Strecken im Ellbogengelenk in einer gleichmäßigen, parallelen Bewegung nah am Körper vorbei; Dabei zeigt der Oberarm weiter nahezu unverändert senkrecht nach unten.
+  Die Unterarme während der Beugephase entweder auswärts drehen (Supination), so dass in der Endposition die Handinnenfläche zum Körper hin zeigt bzw. die Kurzhantel im Untergriff gehalten wird oder ohne Auswärtsdrehung der Unterarme beugen, so dass in der Endposition der Daumen zum Körper zeigt bzw. die Kurzhantel im neutralen Hammergriff gehalten wird.
+  Die Arme weder maximal beugen noch ganz durchstrecken.
+  Bei der Spuinationsvariante werden die Unterarme in der Abwärtsbewegung wieder nac innen zurückgedreht.
+  Richtige Atmung: Beim Beugen ausatmen, beim Strecken einatmen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ExRx
+  source_id: '242'

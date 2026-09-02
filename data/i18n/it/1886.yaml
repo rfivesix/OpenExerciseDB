@@ -1,0 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1886'
+language: it
+status: human
+name: Abduzione dell'anca in posizione supina
+description: |-
+  Posizione iniziale:
+  Sdraiati sulla schiena (supini) su un tappetino, con le gambe distese e
+  rilassate. Le braccia possono essere lungo i fianchi o aperte per
+  maggiore stabilità.
+  Il movimento:
+  Solleva leggermente una gamba da terra (mantenendola tesa o con una
+  leggera flessione). Spostala lateralmente verso l'esterno,
+  allontanandola dall'altra gamba, come se dovessi scavalcare un piccolo
+  ostacolo.
+  Ampiezza:
+  Porta la gamba più in là possibile senza sollevare il bacino o ruotare
+  il busto, sentendo un allungamento nella parte interna della coscia e
+  dell'anca.
+  Ritorno: Riporta lentamente la gamba alla posizione iniziale, controllando il movimento.
+  Obiettivo: Migliora la mobilità laterale dell'anca (abduzione) e allena i muscoli stabilizzatori del bacino.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '3033'

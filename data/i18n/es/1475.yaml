@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1475'
+language: es
+status: human
+name: Black Widow Knee Slides
+description: |-
+  En
+  este movimiento de rotación de abajo hacia arriba, cruzarás la rodilla por encima y
+  la llevarás hacia el codo opuesto. Comienza en posición de plancha alta (o
+  posición de cuadrupedia) con las manos directamente debajo de los hombros. Eleva la rodilla izquierda hacia el
+  brazo derecho y deslízala por el antebrazo para conseguir más de esa retroversión pélvica
+  y activación de los músculos abdominales. Luego haz el lado contrario,
+  llevando la rodilla derecha hacia la mano izquierda.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3979'

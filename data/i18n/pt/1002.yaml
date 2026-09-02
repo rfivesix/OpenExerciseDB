@@ -1,0 +1,25 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1002'
+language: pt
+status: human
+name: Postura da criança (Balsana)
+description: |-
+  Posição inicial:
+  Comece de quatro, joelhos, dedos dos pés e mãos tocando o chão. Seus dois dedões dos pés devem estar se tocando.
+  Passos:
+
+  Mova os joelhos para que fiquem aproximadamente na largura do quadril.
+  Ao expirar, mova a pélvis para trás para se sentar sobre os calcanhares. Suas mãos ainda devem estar tocando o chão.
+  Relaxe a parte superior do corpo, abaixando a testa até o chão e deixando as mãos avançarem naturalmente.
+  Permaneça nesta postura.
+
+  Dicas:
+
+  Para sair da postura, passe os braços para trás sob os ombros e mova a parte superior do corpo para cima, para uma posição sentada.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1795'

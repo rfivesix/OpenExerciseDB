@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1579'
+language: en
+status: human
+name: Bronco
+description: |-
+  Finess test for rugby.5 x shuttle runs of 20m, 40m, and 60m (20yd, 45yd, 65yd/far 45yd mark)
+  Complete as fast as possible
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: MU5H
+  source_id: '2527'

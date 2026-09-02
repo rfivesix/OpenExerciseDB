@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '927'
+language: es
+status: human
+name: flexiones en TRX
+description: |-
+  Las&nbsp;flexiones de brazos&nbsp;en TRX añaden un componente de inestabilidad que hará que tus&nbsp;hombros y tus pectorales trabajen de manera diferente. Puedes hacer que el ejercicio sea más o menos intenso colocando tu cuerpo más paralelo o menos al suelo. Evita que tus brazos rocen con las cuerdas porque puede que no lo notes mientras entrenas, pero podrás tener rozaduras y moratones después.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cynomops
+  source_id: '2215'

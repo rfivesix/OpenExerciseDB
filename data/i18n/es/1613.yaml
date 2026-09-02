@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1613'
+language: es
+status: human
+name: Patada de glúteo con banda elástica
+description: |-
+  Una patada de glúteos con banda elástica es un ejercicio que se realiza a gatas. Se ancla una banda de resistencia a la parte posterior de la rodilla y se patea el talón hacia atrás y arriba, apretando el glúteo en la parte superior del movimiento, manteniendo el torso estable y la espalda recta para trabajar y fortalecer los músculos de los glúteos.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2589'

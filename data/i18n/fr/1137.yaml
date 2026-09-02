@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1137'
+language: fr
+status: human
+name: Pullover à la poulie haute
+description: |-
+  Tenez-vous debout face à la machine, les pieds légèrement écartés, en saisissant la barre en prise pronation, les bras tendus, les mains écartées à la largeur des épaules.
+
+  En gardant le dos fixe et les abdominaux contractés, inspirez et descendez la barre vers vos cuisses tout en gardant les bras tendus (ou les coudes légèrement fléchis).
+  Expirez en fin de mouvement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4500'

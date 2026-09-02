@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: zh
+status: human
+name: 跪姿屈膝抬腿
+description: |-
+  起始姿势：四肢着地。
+  步骤：
+
+  将一只脚向后推，直到完全伸展，专注于臀肌。2.停留一秒钟，然后回到初始姿势。
+  重复，交替双脚。
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1639'

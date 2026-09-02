@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1380'
+language: en
+status: human
+name: Band pull-aparts
+description: |-
+  Hold the band with your arms extended in front of you at shoulder height.
+  Keep your elbows slightly bent but fixed throughout the movement.
+  Pull the band apart by spreading your arms until the band touches or comes close to your chest.
+  Slowly bring your arms back to the starting position, controlling the tension on the band.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: schwolfar
+  source_id: '2346'

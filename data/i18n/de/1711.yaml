@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1711'
+language: de
+status: human
+name: Sleeper Stretch
+description: |-
+  Lege dich auf die Seite, sodass ein wenig Gewicht auf deinem Schulterblatt ruht, um es ruhig zu halten
+  Strecke deinen Arm 90 Grad vor dir aus und lege ihn auf dem Boden bzw. der Matte ab
+  Hebe deine Hand vom Ellbogen aus an, sodass deine Finger zur Decke zeigen und deine Handfläche in Richtung deiner Füße weist
+  Halte den Ellbogen ruhig und senke deine Handfläche langsam in Richtung Boden
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4078'

@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '376'
+language: cs
+status: human
+name: Zvedání nohou
+description: |-
+  Výchozí pozice:
+  Lehněte si na záda, nohy k sobě, ruce podél těla.
+  Kroky:
+
+  Pokrčte kolena a poté je narovnejte tak, aby směřovala přímo vzhůru.
+  Držte nohy rovně a spusťte je společně dolů, aniž byste se dotkli podlahy. Čím níže jdete, tím je cvičení intenzivnější.
+  Zvedněte obě nohy společně tak, aby opět směřovaly rovně nahoru.
+  Opakujte od kroku 2.
+upstream:
+  license: CC0-1.0
+  license_author: BFad07
+  source_id: '1340'

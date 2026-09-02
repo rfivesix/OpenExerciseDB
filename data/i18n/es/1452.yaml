@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1452'
+language: es
+status: human
+name: Estiramiento de rodilla al pecho
+description: |-
+  El estiramiento de rodilla al pecho es un ejercicio simple pero efectivo para aliviar la tensión en la zona lumbar y mejorar la movilidad de la cadera. Para realizarlo, acuéstate de espaldas con las piernas extendidas. Lleva una rodilla hacia el pecho y abraza la pierna con ambas manos, sujetando la espinilla o la parte posterior del muslo. Tira suavemente de la rodilla hacia el pecho mientras mantienes la otra pierna estirada en el suelo. Mantén el estiramiento durante 15–30 segundos y luego cambia de lado. Para un estiramiento más profundo, puedes llevar ambas rodillas al pecho al mismo tiempo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2420'

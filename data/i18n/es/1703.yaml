@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1703'
+language: es
+status: human
+name: Patadas traseras
+description: |-
+  Posición inicial
+  Coloca tu rodilla izquierda y tu mano izquierda en un banco, con el pecho paralelo al suelo. Mantén el pie derecho en el suelo y agarra la mancuerna con la mano derecha. Manteniéndola cerca de tu cuerpo, levanta la parte superior de tu brazo derecho hasta que esté paralelo al suelo.
+  Ejecución
+  Realiza una extensión del brazo derecho. Cuando esté completamente extendido, contrae tu tríceps por un momento antes de volver a la posición inicial. Una vez que hayas completado tu serie, haz lo mismo con el otro brazo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mariano_O
+  source_id: '2824'

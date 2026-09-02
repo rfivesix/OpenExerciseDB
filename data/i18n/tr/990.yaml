@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '990'
+language: tr
+status: human
+name: Diz çöküp geri tepme
+description: |-
+  Dört ayak üzerine eğilin.
+  Kalça kaslarına odaklanarak bir ayağınızı tamamen uzayıncaya kadar geriye doğru itin.
+  Bir saniye kalın, ardından başlangıç durumuna geri dönün.
+  Ayakları değiştirerek tekrarlayın
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1636'

@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '993'
+language: pt
+status: human
+name: 'Corda de Salto: saltos básicos'
+description: |-
+  Este exercício requer uma corda de salto. Certifique-se de que o comprimento da corda é ajustado à sua altura. Uma maneira de verificar é agarrar ambas as pegas com uma mão e ficar no meio da corda pendurada no chão com um pé. Se a corda (excluindo as pegas) chegar mesmo abaixo do seu peito, o seu comprimento é o correcto. Uma corda mais curta seria perigosa, pois poderia atingir-se a si próprio, e uma corda mais comprida seria uma má forma.
+
+  Coloque os pés juntos, dobre um pouco os joelhos, mantenha a cabeça e o corpo direitos, mantenha os cotovelos para dentro, abra os braços.
+  Rodar apenas os pulsos com força suficiente para fazer girar a corda.
+  Saltem só com força suficiente para passar a corda por baixo dos pés.
+  Repita a partir do passo 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1677'

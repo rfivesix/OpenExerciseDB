@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1735'
+language: en
+status: human
+name: Single-leg side glute press
+description: |-
+  The Single-Leg Side Glute Press is a leg press machine variation where you angle your body sideways on the pad, placing one foot high and slightly angled to press the weight, powerfully targeting the outer glute (gluteus medius/minimus) and hamstrings for balanced leg development and stability, requiring focus on pushing through the heel and maintaining control without locking out.
+  How to Perform:
+  Setup: Sit in the leg press machine, rotate your body to one hip, placing one foot high on the platform at about a 45-degree angle with toes pointed slightly out/forward.
+  Positioning: Keep your hip, knee, and ankle aligned, and ensure your lower back stays on the pad.
+  Descent: Slowly lower the weight, allowing your knee to bend deeply (near 90 degrees), feeling a stretch in your glute and hamstring.
+  Press: Drive through your heel (not your toes) to press the weight back up, squeezing your glutes and hamstrings, stopping just before your leg fully extends.
+  Control: Avoid bouncing and don't let your lower back lift off the pad; maintain tension throughout the movement.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2863'

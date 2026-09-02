@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1430'
+language: es
+status: human
+name: Sostén con pellizco de disco
+description: |-
+  El sostén con pellizco de disco es un ejercicio para mejorar la fuerza de agarre y la resistencia en los antebrazos. Selecciona uno o dos discos de pesas (los discos de bordes lisos son ideales) y pínzalos entre el pulgar y los dedos. Mantén los discos con el brazo recto hacia abajo a tu lado o ligeramente extendido frente a ti. Sostén la posición el mayor tiempo posible, manteniendo los hombros relajados y el agarre firme. Este ejercicio puede realizarse por tiempo o repeticiones.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2396'

@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1884'
+language: en
+status: human
+name: Shinbox IR Stretch
+description: |-
+  Starting Position: Sit on the floor with both hips and knees bent at 90-degree angles.
+  Leg Placement:
+  Place one leg in front of you (external rotation) and the other leg out
+  to the side/behind you (internal rotation). The shins and knees should
+  remain flat on the ground.
+  The Movement:
+  Keeping your hips square, hinge your torso forward or tilt it laterally
+  (side-to-side) toward the front leg to deepen the stretch.
+  Target Areas:
+  Stretches the glutes and piriformis (front leg) and the hip flexors and
+  quads (back leg). Engages the core and obliques during lateral flexion.
+  Goal: Improves hip mobility, specifically internal and external rotation, and relieves lower back tension.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '3028'

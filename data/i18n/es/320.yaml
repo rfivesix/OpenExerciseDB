@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '320'
+language: es
+status: human
+name: Polichilenas
+description: |-
+  Párese con los pies juntos y los brazos a los lados
+  Salte a una posición con las piernas abiertas y las manos tocandose por encima de la cabeza
+  Repita
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: student1234
+  source_id: '1325'

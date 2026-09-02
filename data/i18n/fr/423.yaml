@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '423'
+language: fr
+status: human
+name: Muscle-up
+description: |-
+  Le corps est ensuite tiré explosivement vers le haut par les bras dans une traction radiale, avec plus de vitesse qu'une traction classique. Lorsque la barre approche du haut de la poitrine, les poignets sont rapidement fléchis pour amener les avant-bras au-dessus de la barre. Le corps est penché vers l'avant et les coudes sont tendus en activant les triceps. Le mouvement est considéré comme terminé lorsque la barre est au niveau de la taille et que les bras sont complètement tendus.
+  Pour redescendre, les bras sont fléchis au niveau du coude et le corps est ramené vers le sol ; l'exercice peut alors être répété.
+  Comme il s'agit d'un exercice relativement avancé, les muscle-ups s'apprennent généralement d'abord avec un élan d'aide (kip). Les jambes se balancent (kip) vers le haut et fournissent l'élan nécessaire pour aider à la force explosive ascendante requise pour passer au-dessus de la barre. Les athlètes plus avancés peuvent réaliser une variante stricte du muscle-up, exécutée lentement et sans aucun élan. Cette variante débute en suspension complète et immobile et utilise une contraction musculaire isométrique pour passer au-dessus de la barre de manière lente et contrôlée.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4456'

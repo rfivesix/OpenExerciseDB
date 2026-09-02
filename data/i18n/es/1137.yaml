@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1137'
+language: es
+status: human
+name: Pull over en polea alta
+description: |-
+  De pie, de cara al aparato, con los pies ligeramente separados, la barra cogida en pronación, los brazos extendidos y las manos separadas a una distancia igual a la anchura de los hombros.
+
+  Con la espalda fija y la banda abdominal contraída, inspira y lleva la barra hasta los muslos manteniendo los brazos extendidos (o los codos ligeramente flexionados).
+  Espira al final del movimiento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3719'

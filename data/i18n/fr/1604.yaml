@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1604'
+language: fr
+status: human
+name: Fente latérale glissée
+description: |-
+  Tenez-vous debout, bien droit, les pieds écartés de la largeur des hanches, en tenant une kettlebell près de la poitrine en position goblet. Placez un pied sur un slider, un disque glissant ou une serviette. Gardez la poitrine relevée et les abdominaux engagés. Faites glisser lentement le pied vers l'extérieur en fléchissant le genou opposé, en abaissant les hanches dans une fente latérale. Gardez le genou de la jambe active aligné avec les orteils et évitez qu'il ne s'affaisse vers l'intérieur. La jambe inactive reste tendue et glisse en douceur sur le sol. Poussez dans le talon de la jambe fléchie pour revenir à la position de départ tout en gardant le contrôle de la kettlebell.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4715'

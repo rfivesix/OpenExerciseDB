@@ -1,0 +1,35 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1691'
+language: en
+status: human
+name: Cable Fly Lower Chest
+description: |-
+  Execution
+
+
+  Start position:
+
+  Arms extended out to your sides in a “Y” shape.
+  Feel a stretch in your chest (slight bend in elbows — don’t lock them).
+
+
+
+  Movement:
+
+  Bring your hands&nbsp;downward and together&nbsp;in front of your&nbsp;lower chest or upper abs, in a smooth arc motion.
+  Squeeze your chest&nbsp;hard at the bottom for 1–2 seconds.
+
+
+
+  Return:
+
+  Slowly raise your arms back up along the same path until you feel a good stretch in your chest.
+  Maintain control — don’t let the weights pull you back too quickly.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: daiben
+  source_id: '2810'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '986'
+language: it
+status: human
+name: Squat laterale sinistro
+description: |-
+  Stai in piedi e fai un ampio passo laterale, appena superiore alla larghezza delle spalle.
+  Piega un ginocchio finché la coscia non è parallela al pavimento. Il ginocchio piegato deve essere in linea con il piede.
+  Spingi indietro alla posizione di partenza e ripetere.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1578'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2491'
+language: en
+status: human
+name: Abductors
+description: |-
+  Based on Abductors Sel. by Technogym.
+  Position yourself on the machine and open your legs as much as possible.
+  Return slowly to the original position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4970'

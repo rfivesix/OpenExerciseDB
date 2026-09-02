@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1882'
+language: en
+status: human
+name: High-Cable Lateral Raise
+description: |-
+  Stand next to a cable machine with the pulley set to waist height.
+  Grab the opposite-side handle with the hand farthest from the
+  pulley, keeping your palm facing in.
+  Keep your core engaged, chest lifted, and shoulders relaxed. Maintain a slight bend in the elbow throughout the lift.
+  Lift your arm out to the side until your elbow reaches shoulder height, keeping your wrist aligned with your elbow.
+  Briefly pause at the top, then slowly lower the handle back to your side with control. Repeat for the desired reps.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Deflation
+  source_id: '3026'

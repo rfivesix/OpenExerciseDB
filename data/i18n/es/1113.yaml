@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1113'
+language: es
+status: human
+name: Flexiones | parallettes
+description: |-
+  Las flexiones en parallettes son una variante de la flexión tradicional que se realiza con las manos sobre unas barras paralelas, conocidas como parallettes. Para realizar una flexión en parallettes, adopta una posición de flexión con las manos sobre los parallettes y los pies en el suelo. Baja el cuerpo hacia el suelo manteniendo los codos cerca de los costados y luego empuja de nuevo hasta la posición inicial.
+  Las flexiones en parallettes ponen más énfasis en el pecho y los hombros en comparación con las flexiones tradicionales, ya que permiten un mayor rango de movimiento en la articulación del hombro. Este mayor rango de movimiento también puede ayudar a mejorar la estabilidad y la movilidad del hombro. Además, las flexiones en parallettes activan más la musculatura del core que las flexiones tradicionales, ya que la inestabilidad de los parallettes exige una mayor activación del core para mantener una técnica correcta.
+  El reto adicional de mantener el equilibrio sobre los parallettes también requiere mayor fuerza y control del tren superior, lo que convierte a las flexiones en parallettes en una variante más avanzada de la flexión tradicional. Pueden ser una excelente manera de ponerte a prueba y añadir variedad a tu rutina de entrenamiento del tren superior. Como siempre, asegúrate de usar una técnica correcta y empieza con un nivel adecuado a tu fuerza y nivel de forma física.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3701'

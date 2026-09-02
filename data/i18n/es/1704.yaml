@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1704'
+language: es
+status: human
+name: L-sit agrupado
+description: |-
+  El L-sit agrupado es un sostenimiento con el peso corporal en el que te apoyas sobre barras paralelas, parallettes o el suelo con los brazos rectos mientras llevas las rodillas hacia el pecho. Las caderas permanecen elevadas, la columna se mantiene erguida y los pies flotan sin tocar el suelo. El objetivo es mantener el core firme, los hombros deprimidos y los brazos bloqueados mientras conservas la posición agrupada. Es un sostenimiento estático intenso para el core y estabilizador de los hombros que se usa a menudo como progresión hacia el L-sit completo.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4067'

@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1687'
+language: fr
+status: human
+name: Bear crawl avec tirage croisé
+description: |-
+  Placez un haltère à hauteur des hanches environ et adoptez une position de bear crawl (marche de l'ours). Décollez les genoux du sol et maintenez la position.
+  Avec la main opposée, attrapez l'haltère et tirez-le de l'autre côté. Replacez votre main au sol et répétez avec l'autre main.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4602'

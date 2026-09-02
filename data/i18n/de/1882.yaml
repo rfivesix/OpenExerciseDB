@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1882'
+language: de
+status: human
+name: Seitheben am hohen Kabelzug
+description: |-
+  Stelle dich neben eine Kabelzugmaschine, mit der Rolle auf Hüfthöhe eingestellt.
+  Greife den Griff der gegenüberliegenden Seite mit der Hand, die am weitesten von der Rolle entfernt ist, und halte deine Handfläche nach innen.
+  Halte deinen Rumpf angespannt, die Brust aufgerichtet und die Schultern entspannt. Behalte während des gesamten Hebens eine leichte Beugung im Ellenbogen bei.
+  Hebe deinen Arm zur Seite an, bis dein Ellenbogen Schulterhöhe erreicht, und halte dein Handgelenk auf einer Linie mit deinem Ellenbogen.
+  Halte am obersten Punkt kurz inne und senke den Griff dann langsam und kontrolliert wieder zu deiner Seite. Wiederhole für die gewünschte Anzahl an Wiederholungen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4228'

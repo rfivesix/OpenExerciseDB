@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '994'
+language: pt
+status: human
+name: Círculos com o braço pra frente
+description: |-
+  Fique em pé com as costas retas.
+  Mantendo os braços esticados, traga-os à sua frente, mova-os para baixo, atrás das costas, depois sobre a cabeça e de volta à posição inicial.
+  Continue circulando seus braços conforme descrito na etapa 2.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1694'

@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1827'
+language: en
+status: human
+name: Double-Leg Abdominal Press
+description: |-
+  Lie on your back with knees and hips bent at 90 degrees (tabletop).
+  Place your hands on your thighs just above your knees. Push your hands against your knees as hard as possible while using your abs to pull your knees toward your hands.
+  Hold for 10 seconds of maximum effort. Your abs should be shaking.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: beagle
+  source_id: '2962'

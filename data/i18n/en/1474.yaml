@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1474'
+language: en
+status: human
+name: W-Raise
+description: |-
+  This challenging exercise is a variation of reverse crunches that is made up of three parts in which we’re basically drawing an upside down ‘W’ with our legs.
+  Start position is lying face up flat on the floor with legs extended at the low point of the outer leg of the ‘W’. Keeping a strong core and legs straight, go up, rise your hips and then slowly lower your legs down halfway. Then, lifting your legs back up to the top, rise your hips again, maintaining that straight line, use your core strength to finally come back all the way down to the other outer leg of the W. Then you reverse the ‘W’ to return to the start.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2437'

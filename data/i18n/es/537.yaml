@@ -1,0 +1,30 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '537'
+language: es
+status: human
+name: Press inclinado con mancuernas
+description: |-
+  Es una variante del press plano orientada a enfatizar el trabajo en el haz clavicular del pectoral (la sección superior). Al inclinar el torso, el ángulo de empuje cambia, transfiriendo más tensión hacia la parte alta del pecho y los hombros, lo que ayuda a conseguir un desarrollo más estético, equilibrado y tridimensional del torso.
+
+
+  Ajuste del banco y preparación: Coloca el banco a una inclinación de entre 30 y 45 grados (una inclinación mayor a 45° pasará demasiado esfuerzo al hombro y restará estímulo al pecho). Siéntate con una mancuerna sobre cada muslo.
+
+
+  Posición de inicio: Túmbate hacia atrás apoyando la espalda en el respaldo, mientras usas las rodillas secuencialmente para impulsar las mancuernas hacia arriba, a la altura de tus hombros.
+
+
+  Estabilización anatómica: Planta los pies firmemente en el suelo. Retrae las escápulas (junta los omóplatos y húndelos en el banco) para proteger los hombros y estabilizar la carga.
+
+
+  Fase Excéntrica (Bajada): Baja las mancuernas de forma lenta y controlada hacia la parte superior de tu pecho. Los codos no deben abrirse en cruz (90°); mantén un ángulo seguro de unos 45 a 60 grados respecto a tu torso.
+
+
+  Fase Concéntrica (Subida): Empuja las mancuernas verticalmente hacia arriba expulsando el aire. Sigue una trayectoria ligeramente convergente (sin que lleguen a tocarse arriba). Detén el movimiento justo antes de bloquear los codos para mantener la tensión muscular en el pectoral alto.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4379'

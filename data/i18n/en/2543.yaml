@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2543'
+language: en
+status: human
+name: Wrist circles
+description: |-
+  Wrist circles is warm-up exercise, where you rotate your wrists in a circular motion. They improve mobility and are recommended before exercises such as pull ups, hand stands and other exercises that put pressure on your wrists.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Awlex
+  source_id: '5014'

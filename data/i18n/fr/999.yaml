@@ -1,0 +1,22 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '999'
+language: fr
+status: human
+name: Fentes arrière
+description: |-
+  Position de départ :
+  Tenez-vous droit, les pieds écartés à la largeur des hanches.
+  Étapes :
+
+  Faites un pas en arrière avec une jambe afin qu'elle puisse se fléchir confortablement à un angle de 90 degrés.
+  Fléchissez lentement les deux genoux pour former des angles de 90 degrés.
+  Revenez à la position de départ.
+  Répétez en alternant les jambes.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4423'

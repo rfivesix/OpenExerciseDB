@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '986'
+language: fr
+status: human
+name: Fentes latérales gauches
+description: |-
+  Tenez-vous droit et faites une large foulée latérale, juste supérieure à la largeur des épaules
+  Pliez un genou jusqu'à ce que votre cuisse soit parallèle au sol. Le genou plié doit être aligné avec le pied
+  Revenez à la position de départ et répétez.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1576'

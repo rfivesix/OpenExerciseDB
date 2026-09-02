@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '203'
+language: es
+status: human
+name: Sentadilla con disco
+description: |-
+  Tipos de sentadillas con disco
+  Goblet Squat:
+  Es la sentadilla con disco más común, donde el disco se sostiene a la altura del pecho, ayudando a mantener una buena postura y mejorando la estabilidad del tobillo.&nbsp;
+  Overhead Plate Squat:
+  En esta variación, el disco se mantiene por encima de la cabeza durante todo el movimiento de la sentadilla, lo que aumenta la demanda de movilidad y estabilidad del hombro.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Tierrasverdes
+  source_id: '2597'

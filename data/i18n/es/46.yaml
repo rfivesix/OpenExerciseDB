@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '46'
+language: es
+status: human
+name: Zancadas con Barra
+description: |-
+  Este es un ejercicio compuesto fundamental para fortalecer piernas y glúteos, que además desafía el equilibrio y la estabilidad del core.
+  Cómo realizarlo:
+  Primero, coloca la barra sobre la parte alta de tu espalda (trapecios), de la misma forma que para una sentadilla. Párate derecho con los pies al ancho de las caderas.
+  Da un paso largo hacia adelante con una pierna y baja la cadera de forma controlada hasta que la rodilla de la pierna de atrás casi toque el suelo. La pierna delantera debe formar un ángulo de 90 grados. Empuja con fuerza a través del talón de la pierna delantera para regresar a la posición inicial. Luego, repite el movimiento alternando con la otra pierna.
+  Recuerda mantener una buena postura, con el torso erguido y el abdomen contraído durante todo el ejercicio.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2566'

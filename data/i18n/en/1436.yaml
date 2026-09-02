@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1436'
+language: en
+status: human
+name: Pin Bench Press BB
+description: |-
+  Set security pins to about the height of your sticking point
+  Lower the bar, rest on the pins for 1s while holding tension
+  Move bar up with maximum force
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: M9
+  source_id: '2400'

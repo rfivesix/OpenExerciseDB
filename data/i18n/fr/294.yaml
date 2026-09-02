@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '294'
+language: fr
+status: human
+name: Hip thrust
+description: |-
+  La barre doit reposer directement sur le haut de vos cuisses, juste en dessous de l'aine. Vos pieds doivent se trouver directement sous vos genoux. Poussez vos hanches vers le haut de manière à former une ligne droite de vos genoux jusqu'à vos épaules. Utilisez un coussin pour plus de confort.
+search_terms:
+  - Poussée de hanches
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4438'

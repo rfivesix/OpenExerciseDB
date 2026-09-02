@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1006'
+language: pt
+status: human
+name: Flexão de queixo
+description: |-
+  Posicão inicial:
+  Sente-se ou fique de pé com as costas retas.
+  Passos:
+
+  Coloque os dedos no queixo para incliná-lo para dentro lentamente, movendo a cabeça para trás para alinhá-la com a coluna.
+  Segure por 5 segundos.
+  Volte à posição normal da cabeça e repita.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1841'

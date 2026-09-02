@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1094'
+language: es
+status: human
+name: Press Banca Sentado
+description: |-
+  Poner la máquina de press de pecho para que al sentarte los agarres estén alineados con la parte inferior del pecho. Asegúrate de que estás sentado con la espalda bien pegada al asiento. Agarra una manija con cada mano, saca el pecho hacia afuera, mantén la cabeza contra el reposacabezas. Respira profundamente y empuja lentamente las manijas hacia adelante hasta que tus brazos estén casi completamente extendidos. Haz una pausa justo antes del bloqueo, y luego regresa lentamente las manijas a la posición inicial. Haz una pausa justo antes de que las manijas se detengan completamente y realiza otra repetición
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: colundrum
+  source_id: '2054'

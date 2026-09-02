@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1307'
+language: en
+status: human
+name: Front Plank
+description: |-
+  The plank is a bodyweight exercise. As a multi-functional movement, the plank not only targets your abdominal muscles but also the spine and hip. Plank strengthens and tightens your entire body, improves your posture and balance, reduces body fat, and can help boost your metabolism.
+  Exercises such as the “plank pose” help strengthen the stamina of stabilizing abdominal muscles. It can also help relieve back pain associated with a weakening of the function of the stabilizing muscles of the body.
+  Planks are a versatile exercise that targets many of the most important muscle groups in the body, so they can be applied by anyone to improve endurance and overall body strength.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hektkaso
+  source_id: '2272'

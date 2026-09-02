@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '2524'
+language: en
+status: human
+name: Straddle Stance Good Morning
+description: |-
+  Hold the barbell on your shoulders as if to squat.
+  Take a half-step forwards with one leg, placing your foot on the ground.
+  Lock the front leg, and either lock your back leg or allow it to bend very slightly.
+  Bend forwards under control to stretch the rear of your front leg, then return to your standing position.
+
+  Repeat as necessary for reps/time. You should also repeat for the other leg.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Croak6728
+  source_id: '4993'

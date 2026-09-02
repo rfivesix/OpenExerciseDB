@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '124'
+language: en
+status: human
+name: Braced Squat
+description: |-
+  Stand with feet slightly wider than shoulder-width apart, while standing as tall as you can.
+  Grab a weight plate and hold it out in front of your body with arms straight out. Keep your core tight and stand with a natural arch in your back.
+  Now, push hips back and bend knees down into a squat as far as you can. Hold for a few moments and bring yourself back up to the starting position.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sevae
+  source_id: '342'

@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1029'
+language: en
+status: human
+name: Quadruped thoracic rotation right
+description: |-
+  Starting position:
+  Start kneeling on all fours, knees shoulder-width apart. Place your right hand behind your head while keeping your left hand outstretched and touching the floor.
+  Steps:
+
+  On inhale, move your right elbow toward your left hand, keeping your right hand behind your head.
+  On exhale, move your right elbow to point up toward the ceiling.
+  Repeat.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '1974'

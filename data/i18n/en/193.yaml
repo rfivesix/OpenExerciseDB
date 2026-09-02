@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '193'
+language: en
+status: human
+name: Diagonal Shoulder Press
+description: |-
+  You sit at the bench press device, back slightly tilted to the back. The bar should be about 20 cm in front of you. Then you push the bar and take it back again, as you would with a bench press.
+  In this position you strain your chest muscles a lot less, which is nice if you want to train, but your chest hasn't recovered yet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: oboema
+  source_id: '329'

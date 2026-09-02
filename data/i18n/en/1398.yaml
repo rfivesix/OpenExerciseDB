@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1398'
+language: en
+status: human
+name: Hamstring Chokes
+description: |-
+  Sit on the ground and bend one leg, bringing your knee toward you. Place your hand behind your hamstring and gently pull your leg toward your chest, feeling a stretch in the back of your thigh. Straighten your leg, extending up toward the ceiling.
+search_terms:
+  - Dynamic Hamstring Stretch
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: captive0592
+  source_id: '2365'

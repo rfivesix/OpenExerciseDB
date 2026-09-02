@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1709'
+language: fr
+status: human
+name: Oiseau debout
+description: |-
+  Tenez-vous debout avec une bonne posture, une poignée de poulie dans chaque main, face à la machine
+  En partant les mains devant la poitrine, écartez les bras sur les côtés pour former un T, les coudes presque tendus
+  Ramenez lentement les bras vers l'avant jusqu'à la position de départ
+  Répétez en amenant les bras en forme de Y
+  Répétez en amenant les bras en forme de W
+  Répétez en amenant les bras en forme de L le long du corps
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4712'

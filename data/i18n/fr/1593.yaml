@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1593'
+language: fr
+status: human
+name: Split squat à la Smith machine
+description: |-
+  Le « Split squat à la Smith machine » est un exercice de renforcement
+  réalisé sur la Smith machine, idéal pour cibler les jambes et les fessiers.
+  Il consiste à placer un pied vers l'avant et l'autre vers l'arrière, puis à abaisser
+  le corps jusqu'à ce que la cuisse avant soit parallèle au sol tandis que la barre
+  coulisse verticalement le long de la machine. Cet exercice aide à améliorer
+  la stabilité, à corriger les déséquilibres musculaires et à réduire les contraintes sur le dos,
+  offrant un environnement sûr pour l'entraînement en force.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '4710'

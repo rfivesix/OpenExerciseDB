@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '926'
+language: es
+status: human
+name: Aperturas en Máquina para Pecho
+description: |-
+  Este es un ejercicio de aislamiento excelente para enfocar el trabajo en la contracción de los músculos pectorales, especialmente en la parte interna del pecho.
+  Instrucciones
+
+  Posición: Siéntate en la máquina con la espalda firmemente apoyada en el respaldo. Ajusta la altura del asiento para que tus hombros, codos y manos queden al mismo nivel (los brazos paralelos al suelo).
+  Movimiento: Con una ligera flexión constante en los codos, junta los agarres al frente en un movimiento de arco, como si dieras un gran abrazo.
+  Contracción: Aprieta con fuerza los músculos del pecho en el punto de máxima contracción. Regresa a la posición inicial de forma lenta y controlada, sin dejar que las placas de peso choquen.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2717'

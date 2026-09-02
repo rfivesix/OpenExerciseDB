@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '320'
+language: fa
+status: human
+name: پروانه
+description: |-
+  ۱. بایستید و پاها را جفت کنید و دست‌ها را در طرفین قرار دهید۲. بپرید به نحوی که پاها باز شوند و دست‌ها بالای سر یکدیگر را لمس کنند۳. تکرار کنید
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: student1234
+  source_id: '1337'

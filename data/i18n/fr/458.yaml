@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '458'
+language: fr
+status: human
+name: Planche pour les avant-bras
+description: |-
+  Position de départ :
+
+  Commencez à quatre pattes.Les bras doivent être pliés à angle droit, les épaules au-dessus des coudes.Le dos doit être droit, le corps entier en ligne droite.
+
+  Étapes :
+
+  Maintenez cette position.
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: YYCfit / BFad07
+  source_id: '1402'

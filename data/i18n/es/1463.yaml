@@ -1,0 +1,20 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1463'
+language: es
+status: human
+name: Remo con mancuernas en supinación desde parada muerta
+description: |-
+  El remo con mancuernas en supinación desde parada muerta trabaja la espalda, lo que significa que puedes probar un peso algo más elevado. El truco está en que necesitas poder controlar el peso durante todas las repeticiones.
+
+  Empieza sujetando un par de mancuernas con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas.
+  Flexiona las caderas para bajar el torso hacia delante hasta que quede casi paralelo al suelo, manteniendo la espalda recta y una ligera flexión en las rodillas.
+  Exhala mientras remas las mancuernas hacia los costados hasta la altura del pecho, guiando con los codos hasta que los brazos superen ligeramente la paralela al suelo y las mancuernas queden a la altura de la caja torácica.
+  Baja lentamente a la posición inicial y repite. Mantén la espalda recta en todo momento.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  source_id: '3970'

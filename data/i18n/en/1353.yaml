@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1353'
+language: en
+status: human
+name: Dumbbell Hex Press
+description: |-
+  Engage the muscles
+  Position your feet wide
+  Controlled movement
+  Slow movement
+  Bring the weights toward your lower chest/stomach
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anastasious
+  source_id: '2323'

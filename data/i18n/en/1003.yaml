@@ -1,0 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1003'
+language: en
+status: human
+name: Kettlebell deadlifts
+description: |-
+  Starting position:
+  Stand hip-width apart, with your kettlebell centered between your ankles. Your back should be straight, your head facing forward.
+  Steps:
+
+  Hinge at the hips and slightly bend at the knees to put your hands on the kettlebell handles. Your back should be straight as you perform the movement.
+  Grab the kettlebell handles, with your hands pushing in opposite directions as if to pull the handle apart.
+  While contacting your abs and glutes, stand straight up.
+  Hinge at the hips again to bring the kettlebell back down, similarly to step 1.
+  Repeat from step 3.
+
+  Tips:
+
+  Be sure you're performing the movements correctly, as doing otherwise can lead to injury. For example, do not squat instead of hinging at the hips, do not round your back while reaching for the kettlebell, and do not lean back while standing up.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1803'

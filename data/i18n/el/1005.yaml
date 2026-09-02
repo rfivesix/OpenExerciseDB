@@ -1,0 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '1005'
+language: el
+status: human
+name: Περιστροφή ώμου πίσω
+description: |-
+  Θέση εκκίνησης:
+  Καθίστε ή σταθείτε με την πλάτη ίσια.
+  Βήματα:
+
+  Τοποθετήστε τα χέρια στους ώμους.
+  Περιστρέψτε επανειλημμένα και τις δύο αρθρώσεις των ώμων με κυκλική κίνηση με μέτριο ρυθμό.
+upstream:
+  license: CC-BY-SA-4.0
+  source_id: '1832'

@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '465'
+language: it
+status: human
+name: Curl su Panca a 45°
+description: |-
+  Posiziona la barra EZ curl sulle maniglie di riposo davanti alla panca del predicatore. Appoggiati alla panca e afferra la barra EZ curl con i palmi rivolti verso l'alto. Sedersi sulla panca del predicatore in modo che la parte superiore delle braccia poggi sulla parte superiore dell'imbottitura e il petto sia premuto contro l'imbottitura. Abbassa il peso finché i gomiti non sono estesi e le braccia sono dritte. Riporta i pesi al punto di partenza contraendo i bicipiti. Ripetere
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: cgoob883
+  source_id: '619'

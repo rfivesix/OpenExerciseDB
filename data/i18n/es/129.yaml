@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+exercise_id: '129'
+language: es
+status: human
+name: Press de Pecho en Máquina
+description: |-
+  Este ejercicio es excelente para trabajar los músculos pectorales de forma segura y controlada, ideal para principiantes o para aislar el músculo al final de una rutina.
+  Instrucciones:
+  Siéntate en la máquina con la espalda firmemente apoyada en el respaldo. Ajusta la altura del asiento para que los agarres queden a la altura de la parte media de tu pecho.
+  Empuja los agarres hacia adelante hasta que tus brazos estén extendidos (pero sin bloquear los codos), enfocándote en apretar los músculos del pecho en la contracción final. Regresa de forma lenta y controlada a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerjhn
+  source_id: '2702'
