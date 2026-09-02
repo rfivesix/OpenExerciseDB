@@ -1,0 +1,15 @@
+# Build artifacts — the SQLite file is a release asset, never committed.
+artifacts/
+*.db
+*.db-journal
+*.sqlite
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+.DS_Store
+.idea/
+.vscode/

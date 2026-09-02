@@ -1,11 +1,10 @@
 # exercise-db-bootstrap
 
-Vorarbeit für das neue, öffentliche Übungsdatenbank-Repo (Fork der
-wger-Übungsdaten). **Dieser Ordner ist temporär** und zum Herausnehmen gedacht —
-er gehört nicht dauerhaft ins App-Repo.
+Vorarbeit für [openexercisedb](openexercisedb/) — den öffentlichen Fork der
+wger-Übungsdaten.
 
-- **[SCHEMA.md](SCHEMA.md)** — die Spezifikation. Zuerst lesen.
-- **[HANDOFF.md](HANDOFF.md)** — was aus `train-libre` mitkommt, welche Fakten
-  aus der App im neuen Repo gebraucht werden, und das Phasenmodell.
+**`openexercisedb/` ist der fertige Repo-Root.** Verschieben, `git init`,
+loslegen. Danach kann dieser Ordner hier gelöscht werden — er gehört nicht
+dauerhaft ins App-Repo, und nichts davon wird von der App gelesen oder gebaut.
 
-Nichts hiervon wird von der App gelesen oder gebaut.
+Der Startprompt für den neuen Chat steht in [PROMPT.md](PROMPT.md).

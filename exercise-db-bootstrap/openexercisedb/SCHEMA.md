@@ -57,7 +57,8 @@ eine Körperregion beschreibt — und die Log-Maske hängt daran.
    Eintrag in `vocab/languages.yaml` plus ein Verzeichnis.
 6. **Nichts wird hart gelöscht.** IDs sind ein Vertrag mit Nutzerdaten
    (siehe §3).
-7. **Herkunft ist pro Feld dokumentiert.** Ohne das ist "prüf nochmal alle
+7. **Lizenz und Autor reisen mit den Daten mit** (§3b).
+8. **Herkunft ist pro Feld dokumentiert.** Ohne das ist "prüf nochmal alle
    KI-Muskelzuweisungen von Modell X" Archäologie statt Query.
 
 ---
@@ -87,6 +88,51 @@ Wertebereich aktuell 1000–1972 — *keine* UUIDs. Daraus folgt:
   Erst das macht Dedupe — den größten Aufräumgewinn — gefahrlos.
 - **Alias-Ketten sind verboten** (Invariante 7). Wird B nach C gemerged und war
   A schon auf B gemerged, zeigen danach beide direkt auf C.
+
+---
+
+## 3b. Lizenz-Provenienz — pro Eintrag, nicht pro Repo
+
+wger lizenziert Übungsdaten **nicht** pauschal. Das README des Projekts sagt
+"Exercise/Ingredient Data: Creative Commons (see individual entries)", und die
+API bestätigt das: die Lizenz hängt an der einzelnen *Übersetzung*.
+
+Stand des Abrufs am 2026-09-02 (871 Übungen, 3.336 Übersetzungen):
+
+| Lizenz | Übersetzungen |
+|---|---|
+| CC-BY-SA 4.0 | 2.918 |
+| CC-BY-SA 3.0 | 333 |
+| CC0 1.0 | 85 |
+
+Dazu **251 verschiedene `license_author`-Werte** (häufigste: `wger.de` 1.531,
+leer 511, `wgerjhn` 105). Attribution schuldet man also einzelnen Beitragenden,
+nicht "wger".
+
+Die heutige Pipeline (`create_wger_exercise_db.py`) verwirft `license` und
+`license_author` vollständig — die ausgelieferte DB enthält keinerlei
+Attribution. **Das ist vor der Veröffentlichung zu beheben**, und zwar auch für
+die bestehende App, unabhängig von diesem Fork.
+
+Konsequenzen für das Schema:
+
+- Jede importierte Übung trägt einen `upstream`-Block (Quelle, Fremd-ID,
+  Lizenz, Autor, Importdatum), jede importierte Übersetzung ebenfalls.
+- `ATTRIBUTION.md` wird **aus den Daten generiert**, nicht von Hand gepflegt.
+  Bei 251 Namen ist das die einzige Variante, die dauerhaft stimmt.
+- Repo-Gesamtlizenz ist CC-BY-SA 4.0. CC-BY-SA 3.0 erlaubt die Weitergabe
+  von Bearbeitungen unter einer späteren Version derselben Lizenz, CC0-Material
+  ist ohnehin unbeschränkt einbindbar. Die Original-Lizenz bleibt pro Eintrag
+  erhalten, damit die Herkunft prüfbar bleibt.
+- Selbst erstellte Übungen (`x-`-IDs) tragen `upstream: null` und die
+  Repo-Lizenz.
+- KI-erzeugte Texte, die aus CC-BY-SA-Vorlagen abgeleitet sind, sind
+  Bearbeitungen und bleiben CC-BY-SA. Deshalb ist die einheitliche
+  Repo-Lizenz die einfachste korrekte Antwort.
+
+> Die Einschätzung zur 3.0→4.0-Weitergabe stammt aus dem Lizenztext selbst und
+> ist keine Rechtsberatung. Vor dem ersten öffentlichen Release einmal
+> gegenprüfen lassen.
 
 ---
 
@@ -228,7 +274,13 @@ CREATE TABLE exercises (
   image_path            TEXT,                   -- immer NULL, es gibt keine Medien
   is_custom             INTEGER NOT NULL DEFAULT 0,
   created_by            TEXT DEFAULT 'system',
-  source                TEXT DEFAULT 'base'
+  source                TEXT DEFAULT 'base',
+
+  -- Lizenz-Provenienz, siehe §3b. NULL nur bei selbst erstellten Übungen.
+  upstream_source         TEXT,                 -- 'wger' | NULL
+  upstream_id             TEXT,
+  upstream_license        TEXT,                 -- SPDX-artig, z. B. CC-BY-SA-4.0
+  upstream_license_author TEXT
 );
 
 CREATE TABLE exercise_muscles (
@@ -264,7 +316,9 @@ CREATE TABLE exercise_translations (
   common_mistakes TEXT,                         -- JSON-Array
   search_terms    TEXT,                         -- JSON-Array
   status          TEXT,                         -- human | ai_reviewed | ai_raw
-  source_lang     TEXT
+  source_lang     TEXT,
+  license         TEXT,                         -- pro Übersetzung, siehe §3b
+  license_author  TEXT
 );
 CREATE INDEX idx_tr_exercise_lang ON exercise_translations(exercise_id, language_code);
 
@@ -298,7 +352,7 @@ CREATE TABLE exercise_aliases (
 
 CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT);
 -- Pflichtschlüssel: version, schema_version, generated_at, source_repo,
---                   source_commit, license, attribution
+--                   source_commit, license, attribution_url
 ```
 
 Die Vokabulare wandern damit **aus der App in die Daten**. `body_slug_mapper.dart`
@@ -391,9 +445,9 @@ und eine falsche Zuweisung plausibel aussieht. Deshalb:
 
 ## 12. Offene Punkte
 
-- **Lizenz.** wger-Übungsdaten stehen unter CC-BY-SA. Der Fork erbt
-  Attribution und Share-Alike. `LICENSE` + `ATTRIBUTION.md` müssen im ersten
-  Commit stehen, weil das Repo von Anfang an öffentlich ist.
+- **Attribution in der bestehenden App.** Unabhängig vom Fork: die heute
+  ausgelieferte DB enthält keine Lizenz- und Autorenangaben (§3b). Das ist ein
+  eigenes Ticket im App-Repo, nicht Teil dieser Migration — aber es ist offen.
 - **Repo-Name** und ob die App-Releases (`wger-catalog-stable`) mit
   umziehen oder das neue Repo eigene Release-Tags bekommt. Empfehlung: eigene
   Tags im neuen Repo, Manifest-URL in der App umbiegen, der bestehende

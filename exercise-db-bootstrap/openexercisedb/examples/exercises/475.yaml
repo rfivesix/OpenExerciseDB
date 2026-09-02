@@ -43,3 +43,12 @@ provenance:
   primary_equipment: { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
   setup:             { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
   tracking_type:     { source: human, at: 2026-09-02 }
+
+# Lizenz-Provenienz. wger lizenziert pro Eintrag, nicht pauschal — siehe
+# SCHEMA.md §3b. Wird beim Import gesetzt und danach nie mehr angefasst.
+upstream:
+  source: wger
+  source_id: "475"
+  license: CC-BY-SA-4.0
+  license_author: wger.de
+  imported_at: 2026-09-02
