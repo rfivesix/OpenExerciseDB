@@ -1,0 +1,19 @@
+# data/i18n/en/475.yaml — Quellsprache
+exercise_id: "475"
+language: en
+status: human           # human | ai_reviewed | ai_raw
+name: Pull-up
+description: >-
+  A vertical pulling exercise performed hanging from a bar with an overhand
+  grip, pulling the body up until the chin clears the bar.
+instructions:
+  - Hang from the bar with an overhand grip, hands slightly wider than shoulders.
+  - Set the shoulder blades down and back before initiating the pull.
+  - Pull until your chin clears the bar, keeping the ribcage down.
+  - Lower under control until the arms are fully extended.
+cues:
+  - Think "elbows to the back pockets" rather than "chin over bar".
+common_mistakes:
+  - Kipping the hips to compensate for a lack of upper-back strength.
+  - Stopping short of full extension at the bottom.
+search_terms: [pullup, chin over bar, wide grip pull up]

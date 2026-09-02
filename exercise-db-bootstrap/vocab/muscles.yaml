@@ -1,0 +1,314 @@
+# Muskel-Taxonomie — geschlossenes, hierarchisches Vokabular.
+#
+# Drei Ebenen: group -> muscle -> head.
+# Eine Übung darf auf JEDER Ebene referenzieren. Wer sich bei den Köpfen nicht
+# sicher ist, annotiert den Muskel; wer sich beim Muskel nicht sicher ist, die
+# Gruppe. Statistik und Recovery rechnen immer auf `group`, Filter und
+# Body-Highlighter dürfen feiner gehen.
+#
+# body_slugs: Werte aus BodyPartSlug (flutter_body_highlighter, ref a8503b0a).
+#             Leere Liste = im Highlighter nicht darstellbar (kein Fehler).
+# legacy_group: kanonische Gruppe, die die heutige App in
+#               recovery_domain_service.dart `_majorGroupMap` erwartet.
+#               Nur fuer die Kompatibilitaets-Spalten des DB-Builds relevant.
+
+version: 1
+
+groups:
+  - id: chest
+    names: { en: Chest, de: Brust }
+    body_slugs: [chest]
+
+  - id: back
+    names: { en: Back, de: Rücken }
+    body_slugs: [upperBack, trapezius]
+
+  - id: lower_back
+    names: { en: Lower back, de: Unterer Rücken }
+    body_slugs: [lowerBack]
+
+  - id: shoulders
+    names: { en: Shoulders, de: Schultern }
+    body_slugs: [frontDeltoids, backDeltoids]
+
+  - id: biceps
+    names: { en: Biceps, de: Bizeps }
+    body_slugs: [biceps]
+
+  - id: triceps
+    names: { en: Triceps, de: Trizeps }
+    body_slugs: [triceps]
+
+  - id: forearms
+    names: { en: Forearms, de: Unterarme }
+    body_slugs: [forearms]
+
+  - id: abs
+    names: { en: Core, de: Rumpf }
+    body_slugs: [abs, obliques]
+
+  - id: glutes
+    names: { en: Glutes, de: Gesäß }
+    body_slugs: [gluteal]
+
+  - id: quads
+    names: { en: Quadriceps, de: Quadrizeps }
+    body_slugs: [quadriceps]
+
+  - id: hamstrings
+    names: { en: Hamstrings, de: Beinbeuger }
+    body_slugs: [hamstrings]
+
+  - id: adductors
+    names: { en: Adductors, de: Adduktoren }
+    body_slugs: [adductors]
+
+  - id: calves
+    names: { en: Calves, de: Waden }
+    body_slugs: [calves]
+
+  # NEU gegenueber der App-Map: dort faellt 'neck' heute unter 'back'.
+  - id: neck
+    names: { en: Neck, de: Nacken }
+    body_slugs: [neck]
+
+muscles:
+  # ---------------- Chest ----------------
+  - id: pectoralis_major
+    group: chest
+    names: { en: Pectoralis major, de: Großer Brustmuskel }
+    body_slugs: [chest]
+    heads:
+      - id: pecs_clavicular
+        names: { en: Upper chest (clavicular), de: Obere Brust (klavikulär) }
+        body_slugs: [chest]
+      - id: pecs_sternocostal
+        names: { en: Mid/lower chest (sternocostal), de: Mittlere/untere Brust }
+        body_slugs: [chest]
+  - id: pectoralis_minor
+    group: chest
+    names: { en: Pectoralis minor, de: Kleiner Brustmuskel }
+    body_slugs: [chest]
+  - id: serratus_anterior
+    group: chest
+    names: { en: Serratus anterior, de: Vorderer Sägemuskel }
+    body_slugs: [chest]
+    legacy_group: back   # heutige App zaehlt serratus zu 'back'
+
+  # ---------------- Back ----------------
+  - id: latissimus_dorsi
+    group: back
+    names: { en: Latissimus dorsi, de: Breiter Rückenmuskel }
+    body_slugs: [upperBack]
+  - id: trapezius
+    group: back
+    names: { en: Trapezius, de: Trapezmuskel }
+    body_slugs: [trapezius]
+    heads:
+      - id: traps_upper
+        names: { en: Upper traps, de: Oberer Trapez }
+        body_slugs: [trapezius]
+      - id: traps_middle
+        names: { en: Middle traps, de: Mittlerer Trapez }
+        body_slugs: [trapezius, upperBack]
+      - id: traps_lower
+        names: { en: Lower traps, de: Unterer Trapez }
+        body_slugs: [upperBack]
+  - id: rhomboids
+    group: back
+    names: { en: Rhomboids, de: Rautenmuskeln }
+    body_slugs: [upperBack]
+  - id: teres_major
+    group: back
+    names: { en: Teres major, de: Großer Rundmuskel }
+    body_slugs: [upperBack]
+
+  # ---------------- Lower back ----------------
+  - id: erector_spinae
+    group: lower_back
+    names: { en: Erector spinae, de: Rückenstrecker }
+    body_slugs: [lowerBack]
+  - id: quadratus_lumborum
+    group: lower_back
+    names: { en: Quadratus lumborum, de: Quadratischer Lendenmuskel }
+    body_slugs: [lowerBack]
+
+  # ---------------- Shoulders ----------------
+  - id: deltoid
+    group: shoulders
+    names: { en: Deltoid, de: Deltamuskel }
+    body_slugs: [frontDeltoids, backDeltoids]
+    heads:
+      - id: delt_anterior
+        names: { en: Front delt, de: Vordere Schulter }
+        body_slugs: [frontDeltoids]
+      - id: delt_lateral
+        names: { en: Side delt, de: Seitliche Schulter }
+        body_slugs: [frontDeltoids, backDeltoids]
+      - id: delt_posterior
+        names: { en: Rear delt, de: Hintere Schulter }
+        body_slugs: [backDeltoids]
+  - id: rotator_cuff
+    group: shoulders
+    names: { en: Rotator cuff, de: Rotatorenmanschette }
+    body_slugs: [backDeltoids]
+
+  # ---------------- Arms ----------------
+  - id: biceps_brachii
+    group: biceps
+    names: { en: Biceps brachii, de: Bizeps }
+    body_slugs: [biceps]
+    heads:
+      - id: biceps_long_head
+        names: { en: Biceps long head, de: Langer Bizepskopf }
+        body_slugs: [biceps_long]
+      - id: biceps_short_head
+        names: { en: Biceps short head, de: Kurzer Bizepskopf }
+        body_slugs: [biceps_short]
+  - id: brachialis
+    group: biceps
+    names: { en: Brachialis, de: Armbeuger }
+    body_slugs: [biceps]
+  - id: triceps_brachii
+    group: triceps
+    names: { en: Triceps brachii, de: Trizeps }
+    body_slugs: [triceps]
+    heads:
+      - id: triceps_long_head
+        names: { en: Triceps long head, de: Langer Trizepskopf }
+        body_slugs: [triceps]
+      - id: triceps_lateral_head
+        names: { en: Triceps lateral head, de: Seitlicher Trizepskopf }
+        body_slugs: [triceps]
+      - id: triceps_medial_head
+        names: { en: Triceps medial head, de: Innerer Trizepskopf }
+        body_slugs: [triceps]
+  - id: brachioradialis
+    group: forearms
+    names: { en: Brachioradialis, de: Oberarmspeichenmuskel }
+    body_slugs: [forearms]
+  - id: wrist_flexors
+    group: forearms
+    names: { en: Wrist flexors, de: Handgelenkbeuger }
+    body_slugs: [forearms]
+  - id: wrist_extensors
+    group: forearms
+    names: { en: Wrist extensors, de: Handgelenkstrecker }
+    body_slugs: [forearms]
+
+  # ---------------- Core ----------------
+  - id: rectus_abdominis
+    group: abs
+    names: { en: Rectus abdominis, de: Gerader Bauchmuskel }
+    body_slugs: [abs]
+  - id: obliques
+    group: abs
+    names: { en: Obliques, de: Schräge Bauchmuskeln }
+    body_slugs: [obliques]
+    heads:
+      - id: obliques_external
+        names: { en: External obliques, de: Äußere schräge Bauchmuskeln }
+        body_slugs: [obliques]
+      - id: obliques_internal
+        names: { en: Internal obliques, de: Innere schräge Bauchmuskeln }
+        body_slugs: [obliques]
+  - id: transversus_abdominis
+    group: abs
+    names: { en: Transversus abdominis, de: Querer Bauchmuskel }
+    body_slugs: [abs]
+  - id: hip_flexors
+    group: abs
+    names: { en: Hip flexors (iliopsoas), de: Hüftbeuger }
+    body_slugs: []
+    legacy_group: glutes   # heutige App zaehlt hip flexors zu 'glutes'
+
+  # ---------------- Hips & legs ----------------
+  - id: gluteus_maximus
+    group: glutes
+    names: { en: Gluteus maximus, de: Großer Gesäßmuskel }
+    body_slugs: [gluteal]
+  - id: gluteus_medius
+    group: glutes
+    names: { en: Gluteus medius, de: Mittlerer Gesäßmuskel }
+    body_slugs: [gluteal, abductors]
+  - id: gluteus_minimus
+    group: glutes
+    names: { en: Gluteus minimus, de: Kleiner Gesäßmuskel }
+    body_slugs: [gluteal, abductors]
+  - id: quadriceps
+    group: quads
+    names: { en: Quadriceps, de: Quadrizeps }
+    body_slugs: [quadriceps]
+    heads:
+      - id: rectus_femoris
+        names: { en: Rectus femoris, de: Gerader Oberschenkelmuskel }
+        body_slugs: [quadriceps]
+      - id: vastus_lateralis
+        names: { en: Vastus lateralis, de: Äußerer Oberschenkelmuskel }
+        body_slugs: [quadriceps]
+      - id: vastus_medialis
+        names: { en: Vastus medialis, de: Innerer Oberschenkelmuskel }
+        body_slugs: [quadriceps]
+      - id: vastus_intermedius
+        names: { en: Vastus intermedius, de: Mittlerer Oberschenkelmuskel }
+        body_slugs: [quadriceps]
+  - id: hamstring_complex
+    group: hamstrings
+    names: { en: Hamstrings, de: Beinbeuger }
+    body_slugs: [hamstrings]
+    heads:
+      - id: biceps_femoris
+        names: { en: Biceps femoris, de: Zweiköpfiger Schenkelmuskel }
+        body_slugs: [hamstrings]
+      - id: semitendinosus
+        names: { en: Semitendinosus, de: Halbsehnenmuskel }
+        body_slugs: [hamstrings]
+      - id: semimembranosus
+        names: { en: Semimembranosus, de: Plattsehnenmuskel }
+        body_slugs: [hamstrings]
+  - id: hip_adductors
+    group: adductors
+    names: { en: Hip adductors, de: Hüftadduktoren }
+    body_slugs: [adductors]
+  - id: gastrocnemius
+    group: calves
+    names: { en: Gastrocnemius, de: Zwillingswadenmuskel }
+    body_slugs: [calves]
+  - id: soleus
+    group: calves
+    names: { en: Soleus, de: Schollenmuskel }
+    body_slugs: [calves]
+  - id: tibialis_anterior
+    group: calves
+    names: { en: Tibialis anterior, de: Vorderer Schienbeinmuskel }
+    body_slugs: [tibialisAnterior]
+
+  # ---------------- Neck ----------------
+  - id: neck_flexors
+    group: neck
+    names: { en: Neck flexors, de: Halsbeuger }
+    body_slugs: [neck]
+  - id: neck_extensors
+    group: neck
+    names: { en: Neck extensors, de: Nackenstrecker }
+    body_slugs: [neck]
+
+# Rohwerte aus dem wger-Bestand -> Knoten dieses Vokabulars.
+# Wird EINMAL beim Import angewendet und danach nur noch fuer User-Uebungen
+# und Altdaten gebraucht. Alle 15 heute vorkommenden Werte sind abgedeckt.
+legacy_wger_mapping:
+  Chest: pectoralis_major
+  Lats: latissimus_dorsi
+  Trapezius: trapezius
+  "Serratus anterior": serratus_anterior
+  Shoulders: deltoid
+  Biceps: biceps_brachii
+  Brachialis: brachialis
+  Triceps: triceps_brachii
+  Abs: rectus_abdominis
+  "Obliquus externus abdominis": obliques_external
+  Glutes: gluteus_maximus
+  Quads: quadriceps
+  Hamstrings: hamstrings
+  Calves: gastrocnemius
+  Soleus: soleus

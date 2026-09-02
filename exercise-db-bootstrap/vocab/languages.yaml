@@ -1,0 +1,47 @@
+# Sprach-Registry. Beliebig erweiterbar — eine neue Sprache ist EIN Eintrag
+# hier plus ein Verzeichnis unter data/i18n/<code>/. Kein Schema-Change,
+# kein App-Change, kein Build-Change.
+#
+# tier:
+#   curated  — menschlich gepflegt, blockiert den Release bei Luecken
+#   assisted — KI-erzeugt, menschlich stichprobenartig geprueft
+#   machine  — KI-erzeugt, ungeprueft; wird ausgeliefert, aber als solche markiert
+#
+# fallback_chain: was die App nimmt, wenn ein Text in dieser Sprache fehlt.
+# Ausgeliefert wird jede Sprache, unabhaengig vom Fuellstand — die App
+# entscheidet anhand von `min_completeness`, ob sie sie im Sprachwaehler zeigt.
+
+version: 1
+
+source_language: en   # Source of Truth fuer alle Uebersetzungen
+
+languages:
+  - code: en
+    names: { en: English, de: Englisch }
+    tier: curated
+    fallback_chain: []
+  - code: de
+    names: { en: German, de: Deutsch }
+    tier: curated
+    fallback_chain: [en]
+  - code: fr
+    names: { en: French, de: Französisch }
+    tier: assisted
+    fallback_chain: [en]
+  - code: es
+    names: { en: Spanish, de: Spanisch }
+    tier: machine
+    fallback_chain: [en]
+  - code: it
+    names: { en: Italian, de: Italienisch }
+    tier: machine
+    fallback_chain: [en]
+  - code: ja
+    names: { en: Japanese, de: Japanisch }
+    tier: machine
+    fallback_chain: [en]
+
+# Ab welchem Fuellstand eine Sprache im Release als "anzeigbar" gilt.
+# Wird pro Sprache in die languages-Tabelle der DB geschrieben, damit die App
+# nicht selbst zaehlen muss.
+min_completeness: 0.95

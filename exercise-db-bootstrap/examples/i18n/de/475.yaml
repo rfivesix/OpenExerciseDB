@@ -1,0 +1,20 @@
+# data/i18n/de/475.yaml
+exercise_id: "475"
+language: de
+status: human
+translated_from: en
+name: Klimmzug
+description: >-
+  Vertikale Zugübung im Hang an der Stange im Obergriff — der Körper wird
+  hochgezogen, bis das Kinn über die Stange kommt.
+instructions:
+  - Im Obergriff an die Stange hängen, Hände etwas weiter als schulterbreit.
+  - Vor dem Zug die Schulterblätter nach unten und hinten ziehen.
+  - Hochziehen, bis das Kinn über der Stange ist, Rippenbogen dabei unten halten.
+  - Kontrolliert ablassen, bis die Arme vollständig gestreckt sind.
+cues:
+  - Denk "Ellbogen zu den Gesäßtaschen" statt "Kinn über die Stange".
+common_mistakes:
+  - Schwung aus der Hüfte, um fehlende Kraft im oberen Rücken auszugleichen.
+  - Unten nicht vollständig ausstrecken.
+search_terms: [klimmzug, klimmzuege, pull up, obergriff]

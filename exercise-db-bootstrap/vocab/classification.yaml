@@ -1,0 +1,93 @@
+# Klassifikations-Vokabulare. Alles geschlossene Listen.
+#
+# Wichtig: das sind ORTHOGONALE Achsen. wger hat sie in ein einziges
+# `category_name` gequetscht (Legs/Back/Arms/... UND Cardio), weshalb heute
+# `Exercise.isCardio` ein String-Vergleich auf einer Koerperregion ist.
+
+version: 1
+
+# Was die Uebung IST. Genau ein Wert.
+modality:
+  - { id: strength, names: { en: Strength, de: Kraft } }
+  - { id: cardio, names: { en: Cardio, de: Ausdauer } }
+  - { id: plyometric, names: { en: Plyometric, de: Plyometrie } }
+  - { id: mobility, names: { en: Mobility, de: Mobilität } }
+  - { id: stretch, names: { en: Stretch, de: Dehnung } }
+  - { id: balance, names: { en: Balance, de: Balance } }
+
+# Wofuer die Uebung EINGESETZT wird. Mehrwertig, mindestens ein Wert.
+# Mehrwertig, weil ein leichtes Band-Pull-Apart legitim warmup UND accessory ist.
+usage_tags:
+  - { id: warmup, names: { en: Warm-up, de: Aufwärmen } }
+  - { id: activation, names: { en: Activation, de: Aktivierung } }
+  - { id: main_lift, names: { en: Main lift, de: Grundübung } }
+  - { id: accessory, names: { en: Accessory, de: Zusatzübung } }
+  - { id: conditioning, names: { en: Conditioning, de: Konditionierung } }
+  - { id: finisher, names: { en: Finisher, de: Finisher } }
+  - { id: cooldown, names: { en: Cool-down, de: Abwärmen } }
+  - { id: prehab, names: { en: Prehab / rehab, de: Prehab / Reha } }
+
+mechanic:
+  - { id: compound, names: { en: Compound, de: Verbundübung } }
+  - { id: isolation, names: { en: Isolation, de: Isolationsübung } }
+
+force_vector:
+  - { id: push, names: { en: Push, de: Drücken } }
+  - { id: pull, names: { en: Pull, de: Ziehen } }
+  - { id: static, names: { en: Static, de: Statisch } }
+
+movement_pattern:
+  - { id: horizontal_push, names: { en: Horizontal push, de: Horizontales Drücken } }
+  - { id: vertical_push, names: { en: Vertical push, de: Vertikales Drücken } }
+  - { id: horizontal_pull, names: { en: Horizontal pull, de: Horizontales Ziehen } }
+  - { id: vertical_pull, names: { en: Vertical pull, de: Vertikales Ziehen } }
+  - { id: squat, names: { en: Squat, de: Kniebeuge } }
+  - { id: hinge, names: { en: Hinge, de: Hüftbeuge } }
+  - { id: lunge, names: { en: Lunge, de: Ausfallschritt } }
+  - { id: carry, names: { en: Carry, de: Tragen } }
+  - { id: rotation, names: { en: Rotation, de: Rotation } }
+  - { id: anti_rotation, names: { en: Anti-rotation, de: Anti-Rotation } }
+  - { id: anti_extension, names: { en: Anti-extension, de: Anti-Extension } }
+  - { id: anti_lateral_flexion, names: { en: Anti-lateral-flexion, de: Anti-Lateralflexion } }
+  - { id: elbow_flexion, names: { en: Elbow flexion, de: Ellbogenbeugung } }
+  - { id: elbow_extension, names: { en: Elbow extension, de: Ellbogenstreckung } }
+  - { id: knee_flexion, names: { en: Knee flexion, de: Kniebeugung } }
+  - { id: knee_extension, names: { en: Knee extension, de: Kniestreckung } }
+  - { id: hip_abduction, names: { en: Hip abduction, de: Hüftabduktion } }
+  - { id: hip_adduction, names: { en: Hip adduction, de: Hüftadduktion } }
+  - { id: shoulder_abduction, names: { en: Shoulder abduction, de: Schulterabduktion } }
+  - { id: shoulder_raise, names: { en: Shoulder raise / shrug, de: Schulterheben } }
+  - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung } }
+  - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion } }
+  - { id: gait, names: { en: Gait / locomotion, de: Fortbewegung } }
+  - { id: other, names: { en: Other, de: Sonstiges } }
+
+laterality:
+  - { id: bilateral, names: { en: Bilateral, de: Beidseitig } }
+  - { id: unilateral, names: { en: Unilateral, de: Einseitig } }
+  - { id: alternating, names: { en: Alternating, de: Alternierend } }
+
+# Bestimmt die Log-Maske in der App. Ersetzt `Exercise.isCardio`.
+tracking_type:
+  - id: weight_reps
+    names: { en: Weight & reps, de: Gewicht & Wiederholungen }
+  - id: bodyweight_reps
+    names: { en: Reps only, de: Nur Wiederholungen }
+  - id: time
+    names: { en: Duration, de: Dauer }
+  - id: time_weight
+    names: { en: Duration & weight, de: Dauer & Gewicht }
+  - id: distance_time
+    names: { en: Distance & duration, de: Distanz & Dauer }
+  - id: distance_only
+    names: { en: Distance, de: Distanz }
+
+difficulty:
+  - { id: beginner, names: { en: Beginner, de: Anfänger } }
+  - { id: intermediate, names: { en: Intermediate, de: Fortgeschritten } }
+  - { id: advanced, names: { en: Advanced, de: Experte } }
+
+status:
+  - { id: active, names: { en: Active, de: Aktiv } }
+  - { id: deprecated, names: { en: Deprecated, de: Veraltet } }
+  - { id: merged, names: { en: Merged into another exercise, de: Zusammengeführt } }

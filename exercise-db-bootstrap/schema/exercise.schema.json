@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/schema/exercise.schema.json",
+  "title": "Exercise (language-neutral facts)",
+  "description": "Validiert data/exercises/<id>.yaml. Enum-Werte, die aus vocab/*.yaml stammen, sind hier NICHT dupliziert - sie werden vom Validator zur Laufzeit aus den Vokabular-Dateien nachgeladen. Ein zweiter Satz Wahrheit waere sonst garantiert irgendwann inkonsistent.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "slug", "status", "modality", "mechanic", "force_vector",
+    "movement_pattern", "laterality", "usage_tags", "tracking_type",
+    "primary_equipment", "setup", "muscles"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^([0-9]+|x-[a-z0-9]{12})$",
+      "description": "Bestands-IDs aus wger sind numerisch und bleiben unveraendert. Neue eigene Uebungen bekommen 'x-' + 12 Hexzeichen (UUIDv5 ueber den Slug, gekuerzt) - damit kollidieren sie nie mit kuenftigen wger-IDs."
+    },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "status": { "$ref": "#/$defs/vocabRef" },
+    "merged_into": {
+      "type": "string",
+      "description": "Pflicht wenn status == merged. Ziel-ID."
+    },
+    "modality": { "$ref": "#/$defs/vocabRef" },
+    "mechanic": { "$ref": "#/$defs/vocabRef" },
+    "force_vector": { "$ref": "#/$defs/vocabRef" },
+    "movement_pattern": { "$ref": "#/$defs/vocabRef" },
+    "laterality": { "$ref": "#/$defs/vocabRef" },
+    "difficulty": { "$ref": "#/$defs/vocabRef" },
+    "usage_tags": {
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": { "$ref": "#/$defs/vocabRef" }
+    },
+    "tracking_type": { "$ref": "#/$defs/vocabRef" },
+    "supports_added_weight": { "type": "boolean", "default": false },
+    "supports_assistance": { "type": "boolean", "default": false },
+    "primary_equipment": { "$ref": "#/$defs/vocabRef" },
+    "setup": {
+      "type": "array", "uniqueItems": true,
+      "items": { "$ref": "#/$defs/vocabRef" }
+    },
+    "muscles": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "role"],
+        "properties": {
+          "id": { "$ref": "#/$defs/vocabRef" },
+          "role": { "enum": ["primary", "secondary"] },
+          "contribution": {
+            "type": "number", "minimum": 0, "maximum": 1,
+            "description": "Optional und in v1 bewusst leer. Erst befuellen, wenn die Zuweisungen selbst stabil sind - sonst diskutiert man Nachkommastellen, waehrend noch 189 Uebungen gar keine Muskeln haben."
+          }
+        }
+      }
+    },
+    "aliases": {
+      "type": "array", "items": { "type": "string" },
+      "description": "Frueher vergebene IDs, die auf diese Uebung zeigen. Wird zu exercise_aliases im DB-Build."
+    },
+    "provenance": {
+      "type": "object",
+      "description": "Feldname -> Herkunft. Feldnamen sind die Top-Level-Keys dieser Datei.",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source"],
+        "properties": {
+          "source": { "enum": ["wger", "ai", "human", "derived"] },
+          "model": { "type": "string" },
+          "at": { "type": "string", "format": "date" },
+          "reviewed_by": { "type": "string" },
+          "reviewed_at": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "vocabRef": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Muss in der zugehoerigen vocab/*.yaml existieren. Wird vom Validator geprueft, nicht von JSON Schema."
+    }
+  }
+}

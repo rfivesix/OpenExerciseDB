@@ -1,0 +1,45 @@
+# data/exercises/475.yaml
+# Sprachneutrale Fakten. Enthaelt KEINEN uebersetzbaren Text — der liegt
+# ausschliesslich unter data/i18n/<lang>/475.yaml.
+#
+# Beispiel gewaehlt, weil es zeigt, was das alte Schema nicht ausdruecken kann:
+# Klimmzuege sind bodyweight, brauchen aber eine Stange; sie werden in
+# Wiederholungen geloggt, koennen aber Zusatzgewicht ODER Unterstuetzung haben.
+
+id: "475"                 # wger-Bestands-ID, unveraendert uebernommen
+slug: pull-up             # stabil, menschenlesbar, fuer URLs und Debugging
+status: active
+
+modality: strength
+mechanic: compound
+force_vector: pull
+movement_pattern: vertical_pull
+laterality: bilateral
+difficulty: intermediate
+usage_tags: [main_lift, accessory]
+
+tracking_type: bodyweight_reps
+supports_added_weight: true
+supports_assistance: true
+
+primary_equipment: bodyweight
+setup: [pullup_bar]
+
+muscles:
+  - { id: latissimus_dorsi, role: primary }
+  - { id: teres_major,      role: primary }
+  - { id: biceps_brachii,   role: secondary }
+  - { id: brachialis,       role: secondary }
+  - { id: traps_lower,      role: secondary }
+  - { id: rhomboids,        role: secondary }
+  - { id: rectus_abdominis, role: secondary }
+
+# Woher kommt welches Feld. Pro Feld, nicht pro Uebung — sonst ist ein
+# spaeteres "alle KI-Muskelzuweisungen von Modell X nochmal pruefen"
+# Archaeologie statt Query.
+provenance:
+  id:                { source: wger }
+  muscles:           { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
+  primary_equipment: { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
+  setup:             { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
+  tracking_type:     { source: human, at: 2026-09-02 }

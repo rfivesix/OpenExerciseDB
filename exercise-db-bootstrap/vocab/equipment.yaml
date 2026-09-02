@@ -1,0 +1,87 @@
+# Equipment-Vokabular — geschlossene Liste, zwei getrennte Achsen.
+#
+# primary_equipment : genau EIN Wert je Uebung. Das Hauptgeraet, das die Last
+#                     erzeugt. Beantwortet "Womit trainiere ich?".
+# setup             : Liste, darf leer sein. Was ausserdem dastehen muss.
+#                     Beantwortet "Kann ich das hier ueberhaupt machen?".
+#
+# Die Trennung ist der Grund, warum "Was geht im Hotelzimmer?" filterbar wird:
+#   primary_equipment == bodyweight  UND  setup == []
+
+version: 1
+
+primary_equipment:
+  - id: bodyweight
+    names: { en: Bodyweight, de: Körpergewicht }
+  - id: barbell
+    names: { en: Barbell, de: Langhantel }
+  - id: ez_bar
+    names: { en: EZ bar, de: SZ-Stange }
+  - id: trap_bar
+    names: { en: Trap bar, de: Trap-Bar }
+  - id: dumbbell
+    names: { en: Dumbbell, de: Kurzhantel }
+  - id: kettlebell
+    names: { en: Kettlebell, de: Kettlebell }
+  - id: machine
+    names: { en: Machine, de: Maschine }
+  - id: smith_machine
+    names: { en: Smith machine, de: Multipresse }
+  - id: cable
+    names: { en: Cable, de: Kabelzug }
+  - id: resistance_band
+    names: { en: Resistance band, de: Widerstandsband }
+  - id: suspension_trainer
+    names: { en: Suspension trainer, de: Schlingentrainer }
+  - id: weight_plate
+    names: { en: Weight plate, de: Hantelscheibe }
+  - id: medicine_ball
+    names: { en: Medicine ball, de: Medizinball }
+  - id: sandbag
+    names: { en: Sandbag, de: Sandsack }
+  - id: sled
+    names: { en: Sled, de: Schlitten }
+  - id: cardio_machine
+    names: { en: Cardio machine, de: Cardiogerät }
+  - id: other
+    names: { en: Other, de: Sonstiges }
+
+setup:
+  - id: flat_bench
+    names: { en: Flat bench, de: Flachbank }
+  - id: incline_bench
+    names: { en: Incline bench, de: Schrägbank }
+  - id: decline_bench
+    names: { en: Decline bench, de: Negativbank }
+  - id: preacher_bench
+    names: { en: Preacher bench, de: Scottbank }
+  - id: roman_chair
+    names: { en: Roman chair / back extension, de: Römischer Stuhl }
+  - id: squat_rack
+    names: { en: Squat rack, de: Kniebeugenständer }
+  - id: power_rack
+    names: { en: Power rack, de: Power Rack }
+  - id: pullup_bar
+    names: { en: Pull-up bar, de: Klimmzugstange }
+  - id: dip_bars
+    names: { en: Dip bars, de: Dip-Barren }
+  - id: cable_tower
+    names: { en: Cable tower, de: Kabelturm }
+  - id: plyo_box
+    names: { en: Plyo box / step, de: Sprungkasten / Stepper }
+  - id: mat
+    names: { en: Mat, de: Matte }
+  - id: ab_wheel
+    names: { en: Ab wheel, de: Bauchroller }
+  - id: parallettes
+    names: { en: Parallettes, de: Parallettes }
+  - id: landmine
+    names: { en: Landmine, de: Landmine }
+  - id: ankle_straps
+    names: { en: Ankle straps, de: Fußschlaufen }
+  - id: wall
+    names: { en: Wall, de: Wand }
+  - id: chair
+    names: { en: Chair / elevated surface, de: Stuhl / erhöhte Fläche }
+  - id: foam_roller
+    names: { en: Foam roller, de: Faszienrolle }
