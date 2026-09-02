@@ -1,0 +1,304 @@
+# Baut aus den Quelldateien die auszuliefernde Datenbank und veroeffentlicht sie.
+#
+# Abgeleitet von `_bootstrap/from-train-libre/workflows/wger-catalog-refresh.yml`.
+# Zwei Unterschiede zum Vorbild:
+#
+# 1. **Kein Cron mehr.** Der Build zieht nicht mehr live von wger, sondern liest
+#    `data/`. Ein woechentlicher Lauf ohne Aenderung im Repo wuerde dieselbe
+#    Datenbank noch einmal bauen. Trigger ist deshalb ein Push auf die Daten
+#    plus manuelle Ausloesung. Der Abruf von wger ist ein eigener, seltener
+#    Vorgang (`import/fetch_wger_snapshot.py`), der von Hand laeuft und als
+#    Snapshot-Commit im Repo landet — dort ist er reviewbar.
+#
+# 2. **Die Invarianten sind ein Gate, kein Bericht.** `build/validate.py` laeuft
+#    vor dem Build. Was hier durchkommt, ist strukturell in Ordnung; der Diff
+#    danach prueft, was sich gegenueber dem letzten Release geaendert hat.
+
+name: Build and release catalog
+
+"on":
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "vocab/**"
+      - "schema/**"
+      - "build/**"
+      - "oedb/**"
+      - "test/**"
+      - "snapshot/**"
+      - "requirements.txt"
+      - ".github/workflows/build-and-release.yml"
+  pull_request:
+    paths:
+      - "data/**"
+      - "vocab/**"
+      - "schema/**"
+      - "build/**"
+      - "oedb/**"
+      - "test/**"
+  workflow_dispatch:
+    inputs:
+      fail_on_breaking:
+        description: "Fail the run when the diff detects breaking changes"
+        required: false
+        default: true
+        type: boolean
+      publish_release_assets:
+        description: "Publish database, manifest and reports to the release channel"
+        required: false
+        default: true
+        type: boolean
+      channel:
+        description: "Release channel. Schema changes go to beta first (SCHEMA.md 9)."
+        required: false
+        default: stable
+        type: choice
+        options: [stable, beta]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GENERATED_DB_PATH: artifacts/train_libre_training.db
+      BUILD_REPORT_PATH: artifacts/build_report.json
+      IMPORT_REPORT_PATH: artifacts/import_report.json
+      VALIDATION_REPORT_PATH: artifacts/validation_report.json
+      DB_CHECK_REPORT_PATH: artifacts/db_check_report.json
+      DIFF_REPORT_PATH: artifacts/diff_report.json
+      MANIFEST_PATH: artifacts/catalog_manifest.json
+      RELEASE_NOTES_PATH: artifacts/release_notes.md
+      RELEASE_REFERENCE_MANIFEST_PATH: artifacts/reference_catalog_manifest.json
+      RELEASE_REFERENCE_DB_PATH: artifacts/reference_train_libre_training.db
+      # Schwelle unveraendert aus dem Vorbild: mehr als 30 verschwundene IDs
+      # sind kein Datenstand, sondern ein Fehler.
+      WGER_FAIL_ON_REMOVED_THRESHOLD: 30
+      RELEASE_CHANNEL: ${{ github.event.inputs.channel || 'stable' }}
+      FAIL_ON_BREAKING: ${{ github.event_name == 'workflow_dispatch' &&
+        github.event.inputs.fail_on_breaking || 'true' }}
+      PUBLISH_RELEASE_ASSETS: ${{ github.event_name == 'workflow_dispatch' &&
+        github.event.inputs.publish_release_assets || 'true' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Der Release-Kanal ist kein Workflow-Detail, sondern der Vertrag zur App
+      # (SCHEMA.md 9): Schema-Aenderungen gehen zuerst nach beta, die
+      # unterstuetzende App-Version ins Store-Review, erst danach nach stable.
+      - name: Resolve release channel
+        run: |
+          if [ "$RELEASE_CHANNEL" = "beta" ]; then
+            TAG="catalog-beta"
+            NAME="Exercise catalog data (beta channel)"
+          else
+            TAG="catalog-stable"
+            NAME="Exercise catalog data (stable channel)"
+          fi
+          BASE="https://github.com/${{ github.repository }}/releases/download/$TAG/"
+          {
+            echo "RELEASE_TAG=$TAG"
+            echo "RELEASE_NAME=$NAME"
+            echo "RELEASE_DOWNLOAD_BASE=$BASE"
+            echo "RELEASE_PAGE_URL=https://github.com/${{ github.repository }}/releases/tag/$TAG"
+            echo "SOURCE_REPO=https://github.com/${{ github.repository }}"
+          } >> "$GITHUB_ENV"
+
+      - name: Validate script syntax
+        run: |
+          python -m compileall -q build oedb import test
+
+      # --- Referenz zuerst: sie ist Eingabe fuer den Abnahmetest UND fuer den
+      # Diff. Faellt sie aus, laufen beide in ihrem dokumentierten Ersatzpfad
+      # weiter, statt den Lauf abzubrechen.
+      - name: Resolve previous published catalog baseline
+        id: resolve_reference
+        continue-on-error: true
+        run: |
+          mkdir -p artifacts
+          MANIFEST_URL="${RELEASE_DOWNLOAD_BASE}catalog_manifest.json"
+          echo "Trying release manifest: $MANIFEST_URL"
+          if curl -fsSL "$MANIFEST_URL" -o "$RELEASE_REFERENCE_MANIFEST_PATH"; then
+            echo "reference_manifest_found=true" >> "$GITHUB_OUTPUT"
+            python build/resolve_reference_manifest.py
+          else
+            echo "reference_manifest_found=false" >> "$GITHUB_OUTPUT"
+            echo "No previous release manifest found. Diff baseline unavailable." \
+              | tee artifacts/reference_missing.txt
+          fi
+
+      - name: Download previous published catalog database
+        id: download_reference
+        if: steps.resolve_reference.outputs.reference_manifest_found == 'true'
+        continue-on-error: true
+        run: |
+          if curl -fsSL "${{ steps.resolve_reference.outputs.reference_db_url }}" \
+              -o "$RELEASE_REFERENCE_DB_PATH"; then
+            echo "reference_db_found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "reference_db_found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Solange dieses Repo noch kein eigenes Release hat, ist die Referenz das
+      # zuletzt von train-libre veroeffentlichte Artefakt — das, was heute
+      # tatsaechlich auf Geraeten liegt. Genau dagegen muss Phase 1 antreten.
+      - name: Fall back to the train-libre release as acceptance baseline
+        id: fallback_reference
+        if: steps.download_reference.outputs.reference_db_found != 'true'
+        continue-on-error: true
+        env:
+          LEGACY_BASE: https://github.com/rfivesix/train-libre/releases/download/wger-catalog-stable/
+        run: |
+          if curl -fsSL "${LEGACY_BASE}train_libre_training.db" \
+              -o "$RELEASE_REFERENCE_DB_PATH"; then
+            echo "reference_db_found=true" >> "$GITHUB_OUTPUT"
+            echo "Using the train-libre stable release as the acceptance baseline."
+          else
+            echo "reference_db_found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run unit tests
+        env:
+          REFERENCE_DB_PATH: ${{ env.RELEASE_REFERENCE_DB_PATH }}
+        run: |
+          cd test
+          python -m unittest discover -p "test_*.py" -v
+
+      # --- Das eigentliche Gate.
+      - name: Check invariants
+        run: |
+          python build/validate.py --profile phase1 --json-out "$VALIDATION_REPORT_PATH"
+
+      - name: Report the phase 2 backlog
+        continue-on-error: true
+        run: |
+          echo "Gegen das vollstaendige Regelwerk — der offene Rest, kein Gate:"
+          python build/validate.py --profile full --examples 3 || true
+
+      - name: Build database
+        id: generate
+        run: |
+          python build/build_db.py \
+            --db-out "$GENERATED_DB_PATH" \
+            --report-json-out "$BUILD_REPORT_PATH"
+
+      - name: Mark build success
+        id: generator_status
+        if: always()
+        run: |
+          if [ -f "$GENERATED_DB_PATH" ] && [ -f "$BUILD_REPORT_PATH" ]; then
+            echo "generator_success=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "generator_success=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check the generated database
+        if: steps.generator_status.outputs.generator_success == 'true'
+        run: |
+          python build/check_database.py "$GENERATED_DB_PATH" \
+            --json-out "$DB_CHECK_REPORT_PATH"
+
+      - name: Diff against the previous published catalog
+        id: diff
+        if: steps.generator_status.outputs.generator_success == 'true'
+        continue-on-error: true
+        run: |
+          if [ -f "$RELEASE_REFERENCE_DB_PATH" ]; then
+            echo "reference_db_found=true" >> "$GITHUB_OUTPUT"
+            DIFF_CMD="python build/catalog_diff.py \
+              --old \"$RELEASE_REFERENCE_DB_PATH\" \
+              --new \"$GENERATED_DB_PATH\" \
+              --json-out \"$DIFF_REPORT_PATH\" \
+              --fail-on-removed-threshold \"$WGER_FAIL_ON_REMOVED_THRESHOLD\""
+            if [ "$FAIL_ON_BREAKING" = "true" ]; then
+              DIFF_CMD="$DIFF_CMD --fail-on-breaking"
+            fi
+            eval "$DIFF_CMD"
+          else
+            echo "reference_db_found=false" >> "$GITHUB_OUTPUT"
+            printf '%s\n' \
+              '{' \
+              '  "skipped": true,' \
+              '  "reason": "published_reference_db_missing",' \
+              "  \"reference_db_path\": \"$RELEASE_REFERENCE_DB_PATH\"" \
+              '}' > "$DIFF_REPORT_PATH"
+          fi
+
+      - name: Build catalog manifest
+        if: steps.generator_status.outputs.generator_success == 'true'
+        run: python build/build_catalog_manifest.py
+
+      - name: Build release notes
+        if: steps.generator_status.outputs.generator_success == 'true'
+        run: python build/build_release_notes.py
+
+      - name: Upload build artifacts
+        if: always() && steps.generator_status.outputs.generator_success == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-build
+          path: |
+            ${{ env.GENERATED_DB_PATH }}
+            ${{ env.BUILD_REPORT_PATH }}
+            ${{ env.VALIDATION_REPORT_PATH }}
+            ${{ env.DB_CHECK_REPORT_PATH }}
+            ${{ env.DIFF_REPORT_PATH }}
+            ${{ env.MANIFEST_PATH }}
+            ${{ env.RELEASE_NOTES_PATH }}
+          if-no-files-found: error
+
+      - name: Publish release assets
+        id: publish_release
+        if: github.event_name != 'pull_request' &&
+          steps.generator_status.outputs.generator_success == 'true' &&
+          env.PUBLISH_RELEASE_ASSETS == 'true' &&
+          (steps.diff.outputs.reference_db_found != 'true' ||
+           steps.diff.outcome == 'success' ||
+           env.FAIL_ON_BREAKING != 'true')
+        uses: ncipollo/release-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ env.RELEASE_TAG }}
+          name: ${{ env.RELEASE_NAME }}
+          prerelease: true
+          allowUpdates: true
+          replacesArtifacts: true
+          makeLatest: "false"
+          artifacts: |
+            ${{ env.GENERATED_DB_PATH }}
+            ${{ env.BUILD_REPORT_PATH }}
+            ${{ env.DIFF_REPORT_PATH }}
+            ${{ env.MANIFEST_PATH }}
+          bodyFile: ${{ env.RELEASE_NOTES_PATH }}
+
+      - name: Publish run summary
+        if: always()
+        run: python build/publish_run_summary.py
+        env:
+          PUBLISH_OUTCOME: ${{ steps.publish_release.outcome }}
+          GENERATOR_SUCCESS: ${{ steps.generator_status.outputs.generator_success }}
+          GENERATE_OUTCOME: ${{ steps.generate.outcome }}
+
+      - name: Enforce diff safety gate
+        if: always() &&
+          steps.generator_status.outputs.generator_success == 'true' &&
+          steps.diff.outputs.reference_db_found == 'true' &&
+          env.FAIL_ON_BREAKING == 'true' &&
+          steps.diff.outcome == 'failure'
+        run: |
+          echo "Diff safety validation failed under --fail-on-breaking."
+          exit 1

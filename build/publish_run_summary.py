@@ -1,59 +1,93 @@
+#!/usr/bin/env python3
+"""Schreibt die GitHub-Step-Summary des Build-Laufs.
+
+Uebernommen aus `train-libre`, um Validierung und Schemaversion erweitert. Der
+Bericht laeuft auch dann, wenn vorher etwas fehlgeschlagen ist — er ist oft die
+einzige Stelle, an der jemand sieht, wo genau es aufgehoert hat.
+"""
 import json
 import os
 
 
+def load(path: str) -> dict:
+    if not path or not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as handle:
+            payload = json.load(handle)
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return payload if isinstance(payload, dict) else {}
+
+
 def main() -> int:
-    build_path = os.environ["BUILD_REPORT_PATH"]
-    diff_path = os.environ["DIFF_REPORT_PATH"]
+    build = load(os.environ.get("BUILD_REPORT_PATH", ""))
+    diff = load(os.environ.get("DIFF_REPORT_PATH", ""))
+    validation = load(os.environ.get("VALIDATION_REPORT_PATH", ""))
     release_page_url = os.environ.get("RELEASE_PAGE_URL", "")
     publish_outcome = os.environ.get("PUBLISH_OUTCOME", "skipped")
     generator_success = os.environ.get("GENERATOR_SUCCESS", "false")
     generate_outcome = os.environ.get("GENERATE_OUTCOME", "unknown")
     summary_path = os.environ["GITHUB_STEP_SUMMARY"]
 
-    lines = ["## Wger Catalog Refresh Summary", ""]
-    lines.append(f"- Catalog generation: `{generate_outcome}`")
+    lines = ["## Catalog build summary", ""]
 
-    if generator_success == "true" and os.path.exists(build_path):
-        with open(build_path, "r", encoding="utf-8") as f:
-            build = json.load(f)
-        bmeta = build.get("build", {})
+    if validation:
+        errors = validation.get("error_count", 0)
+        marker = "FAILED" if errors else "passed"
+        lines.append(
+            f"- Invariants (`{validation.get('profile', 'n/a')}`): **{marker}** — "
+            f"{errors} errors, {validation.get('warning_count', 0)} warnings"
+        )
+        for invariant, reason in sorted((validation.get("skipped") or {}).items()):
+            lines.append(f"  - invariant {invariant} skipped: {reason}")
+
+    lines.append(f"- Database build: `{generate_outcome}`")
+
+    if generator_success == "true" and build:
+        meta = build.get("build", {})
         summary = build.get("summary", {})
-        lines.append(f"- DB version: `{bmeta.get('db_version', 'n/a')}`")
-        lines.append(f"- Generated at: `{bmeta.get('generated_at', 'n/a')}`")
-        lines.append(f"- Imported: `{summary.get('imported_count', 'n/a')}`")
-        lines.append(f"- Rejected: `{summary.get('rejected_count', 'n/a')}`")
+        lines += [
+            f"- Content version: `{meta.get('db_version', 'n/a')}`",
+            f"- Schema version: `{meta.get('schema_version', 'n/a')}`",
+            f"- Generated at: `{meta.get('generated_at', 'n/a')}`",
+            f"- Exercises: `{summary.get('imported_count', 'n/a')}` "
+            f"(`{summary.get('active_count', 'n/a')}` active)",
+            f"- Translations: `{summary.get('translation_count', 'n/a')}`",
+        ]
+        if build.get("nullable_columns"):
+            lines.append(
+                f"- Still nullable (phase 2): `{', '.join(build['nullable_columns'])}`"
+            )
     else:
-        lines.append("- Catalog artifacts were not generated; downstream steps were skipped.")
+        lines.append("- No artifacts were produced; downstream steps were skipped.")
 
-    if generator_success == "true" and os.path.exists(diff_path):
-        with open(diff_path, "r", encoding="utf-8") as f:
-            diff = json.load(f)
+    if generator_success == "true" and diff:
         if diff.get("skipped"):
-            lines.append("- Diff: skipped (published reference DB missing)")
+            lines.append("- Diff: skipped (no published reference database)")
         else:
-            dsum = diff.get("summary", {})
-            dex = diff.get("examples", {})
-            lines.append(f"- Removed IDs: `{dsum.get('removed_count', 'n/a')}`")
-            lines.append(
-                "- Fail-on-removed threshold: "
-                f"`{dsum.get('fail_on_removed_threshold', 'n/a')}`"
-            )
-            lines.append(
-                "- Removed threshold exceeded: "
-                f"`{dsum.get('removed_threshold_exceeded', 'n/a')}`"
-            )
-            lines.append(
-                "- Removed ID examples: "
-                f"`{', '.join(dex.get('removed_ids', [])) if dex.get('removed_ids') else 'none'}`"
-            )
-            lines.append(f"- Added IDs: `{dsum.get('added_count', 'n/a')}`")
+            diff_summary = diff.get("summary", {})
+            examples = diff.get("examples", {})
+            lines += [
+                f"- Removed IDs: `{diff_summary.get('removed_count', 'n/a')}` "
+                f"(threshold `{diff_summary.get('fail_on_removed_threshold', 'n/a')}`, "
+                f"exceeded: `{diff_summary.get('removed_threshold_exceeded', 'n/a')}`)",
+                f"- Removed without a successor: "
+                f"`{diff_summary.get('unmapped_removed_count', 0)}`",
+                f"- Added IDs: `{diff_summary.get('added_count', 'n/a')}`",
+            ]
+            if examples.get("removed_ids"):
+                lines.append(f"- Removed examples: `{', '.join(examples['removed_ids'])}`")
+            for warning in diff.get("warning_flags", []):
+                if warning.get("severity") == "severe":
+                    lines.append(f"- **SEVERE** {warning['code']}: {warning['message']}")
 
     lines.append(f"- Release publication: `{publish_outcome}`")
-    lines.append(f"- Catalog release page: {release_page_url}")
+    if release_page_url:
+        lines.append(f"- Release page: {release_page_url}")
 
-    with open(summary_path, "a", encoding="utf-8") as f:
-        f.write("\n".join(lines) + "\n")
+    with open(summary_path, "a", encoding="utf-8") as handle:
+        handle.write("\n".join(lines) + "\n")
     return 0
 
 

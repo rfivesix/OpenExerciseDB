@@ -1,4 +1,27 @@
 #!/usr/bin/env python3
+"""Vergleicht zwei Katalog-Datenbanken und erkennt gefaehrliche Aenderungen.
+
+Uebernommen aus `train-libre` und auf das Schema aus SCHEMA.md 8 erweitert. Die
+Logik fuer die v1-Spalten ist unveraendert — sie hat ihren Zweck erfuellt und
+ihre Tests laufen weiter. Dazugekommen sind:
+
+* die neuen Spalten von `exercises` (Klassifikation, Lizenz-Provenienz),
+* die Beziehungstabellen `exercise_muscles`, `exercise_equipment`,
+  `exercise_tags` als je ein vergleichbarer, sortierter Wert je Uebung,
+* **Invariante 21**: eine aktive Uebung darf nicht verschwinden, ohne dass ein
+  Alias oder `merged_into` auf einen Nachfolger zeigt. Genau das macht Dedupe
+  gefahrlos, und ohne diese Pruefung ist die `exercise_aliases`-Tabelle nur ein
+  Versprechen.
+* **Invariante 22**: die Zahl aktiver Uebungen faellt nie um mehr als 5 %.
+* **Lizenz-Regression**: eine Uebersetzung, die ihre Lizenzangabe verliert, ist
+  ein Attributionsfehler und kein kosmetisches Problem (SCHEMA.md 3b).
+* **schema_version** darf nicht rueckwaerts laufen (SCHEMA.md 9).
+
+Aufruf:
+
+    python3 build/catalog_diff.py --old alt.db --new neu.db \\
+        --json-out artifacts/diff_report.json --fail-on-breaking
+"""
 import argparse
 import json
 import os
@@ -22,6 +45,26 @@ OPTIONAL_EXERCISE_COLUMNS = (
     "source",
     "created_by",
     "is_custom",
+    # --- Schema v2. Werden verglichen, sobald die Spalte existiert; eine
+    # v1-Datenbank auf der einen Seite macht den Vergleich nicht kaputt.
+    "slug",
+    "status",
+    "merged_into",
+    "modality",
+    "mechanic",
+    "force_vector",
+    "movement_pattern",
+    "laterality",
+    "difficulty",
+    "tracking_type",
+    "supports_added_weight",
+    "supports_assistance",
+    "primary_equipment",
+    "body_region",
+    "upstream_source",
+    "upstream_id",
+    "upstream_license",
+    "upstream_license_author",
 )
 MAIN_COMPARE_FIELDS = (
     "name_de",
@@ -32,6 +75,19 @@ MAIN_COMPARE_FIELDS = (
     "muscles_primary",
     "muscles_secondary",
 )
+
+RELATIONAL_FIELDS = {
+    # Feldname -> (Tabelle, Ausdruck je Zeile)
+    # Jede Beziehung wird zu einem sortierten String zusammengefasst, damit der
+    # vorhandene Feldvergleich sie ohne Sonderbehandlung mitnimmt.
+    "muscle_assignments": ("exercise_muscles", "role || ':' || muscle_id"),
+    "equipment_assignments": ("exercise_equipment", "kind || ':' || equipment_id"),
+    "usage_tags": ("exercise_tags", "tag"),
+}
+
+INVARIANT_22_MAX_ACTIVE_DROP_PERCENT = 5.0
+"""Invariante 22. Entspricht der Schwelle, die der Workflow heute als
+WGER_FAIL_ON_REMOVED_THRESHOLD fuehrt."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -187,16 +243,85 @@ def load_catalog(db_path: str) -> Dict[str, Any]:
             }
             exercises[exercise_id] = normalized
 
+        # --- Beziehungstabellen als je ein vergleichbarer Wert je Uebung.
+        for field, (table, expression) in RELATIONAL_FIELDS.items():
+            if table not in tables:
+                continue
+            compare_fields.append(field)
+            collected: Dict[str, List[str]] = {}
+            for row in cursor.execute(
+                f"SELECT exercise_id, {expression} AS value FROM {table}"
+            ):
+                collected.setdefault(str(row["exercise_id"]), []).append(str(row["value"]))
+            for exercise_id, entry in exercises.items():
+                entry[field] = ", ".join(sorted(collected.get(exercise_id, [])))
+
+        # --- Uebersetzungen: Zahl und Lizenzabdeckung je Sprache. Eine Sprache,
+        # die zwischen zwei Releases Zeilen verliert, ist kein Detail.
+        translations: Dict[str, Dict[str, int]] = {}
+        if has_translations_table:
+            # `license` gibt es erst ab Schema v2; gegen eine v1-Datenbank waere
+            # die Spalte im SELECT ein harter Fehler statt einer leeren Zahl.
+            has_license = "license" in _columns(cursor, "exercise_translations")
+            without_license = (
+                "SUM(CASE WHEN license IS NULL OR TRIM(license) = '' THEN 1 ELSE 0 END)"
+                if has_license
+                else "0"
+            )
+            for row in cursor.execute(
+                f"SELECT language_code, COUNT(*) AS rows, {without_license} AS without_license "
+                "FROM exercise_translations GROUP BY language_code"
+            ):
+                translations[str(row["language_code"])] = {
+                    "rows": int(row["rows"]),
+                    "without_license": int(row["without_license"] or 0),
+                }
+
+        # --- Aliase: wer zeigt auf wen. Grundlage fuer Invariante 21.
+        aliases: Dict[str, str] = {}
+        if "exercise_aliases" in tables:
+            for row in cursor.execute("SELECT old_id, new_id FROM exercise_aliases"):
+                aliases[str(row["old_id"])] = str(row["new_id"])
+        for exercise_id, entry in exercises.items():
+            merged_into = entry.get("merged_into")
+            if merged_into:
+                aliases.setdefault(exercise_id, str(merged_into))
+
+        status_counts: Dict[str, int] = {}
+        if "status" in exercise_columns:
+            for entry in exercises.values():
+                status = entry.get("status") or "active"
+                status_counts[status] = status_counts.get(status, 0) + 1
+        else:
+            # v1-Datenbank: es gibt nur aktive Uebungen.
+            status_counts["active"] = len(exercises)
+
         return {
             "path": db_path,
             "version": metadata.get("version", ""),
+            "schema_version": _int_or_none(metadata.get("schema_version")),
             "metadata": metadata,
             "compare_fields": compare_fields,
             "exercise_count": len(exercises),
+            "active_count": status_counts.get("active", 0),
+            "status_counts": status_counts,
+            "translations": translations,
+            "aliases": aliases,
             "exercises": exercises,
         }
     finally:
         conn.close()
+
+
+def _columns(cursor: sqlite3.Cursor, table: str) -> set:
+    return {row["name"] for row in cursor.execute(f"PRAGMA table_info({table})")}
+
+
+def _int_or_none(value: Any) -> Any:
+    try:
+        return int(str(value))
+    except (TypeError, ValueError):
+        return None
 
 
 def compare_catalogs(
@@ -225,6 +350,11 @@ def compare_catalogs(
         "muscles_primary_became_blank": 0,
         "muscles_secondary_became_blank": 0,
         "de_name_lost_en_still_present": 0,
+        # --- Schema v2
+        "muscle_assignments_became_blank": 0,
+        "license_became_blank": 0,
+        "became_inactive": 0,
+        "slug_changed": 0,
     }
 
     for exercise_id in shared_ids:
@@ -254,10 +384,38 @@ def compare_catalogs(
             elif field == "muscles_secondary" and not is_blank(old_value) and is_blank(new_value):
                 regressions["muscles_secondary_became_blank"] += 1
 
+            elif (
+                field == "muscle_assignments"
+                and not is_blank(old_value)
+                and is_blank(new_value)
+            ):
+                regressions["muscle_assignments_became_blank"] += 1
+            elif (
+                field == "upstream_license"
+                and not is_blank(old_value)
+                and is_blank(new_value)
+            ):
+                regressions["license_became_blank"] += 1
+
         if not is_blank(old_row.get("name_de")) and is_blank(new_row.get("name_de")) and not is_blank(
             new_row.get("name_en")
         ):
             regressions["de_name_lost_en_still_present"] += 1
+
+        # `slug` ist laut SCHEMA.md 3 ein Vertrag und aendert sich nie. Wenn doch,
+        # will das jemand gesehen haben, bevor es im Release steht.
+        old_slug = old_row.get("slug")
+        new_slug = new_row.get("slug")
+        if not is_blank(old_slug) and not is_blank(new_slug) and old_slug != new_slug:
+            regressions["slug_changed"] += 1
+
+        # Eine Uebung, die aus dem Katalog faellt, ohne geloescht zu werden —
+        # das ist der vorgesehene Weg (SCHEMA.md 3) und trotzdem meldepflichtig.
+        if old_row.get("status") in ("", "active") and new_row.get("status") in (
+            "deprecated",
+            "merged",
+        ):
+            regressions["became_inactive"] += 1
 
         if field_changes:
             changed_fields_by_id[exercise_id] = field_changes
@@ -355,6 +513,104 @@ def compare_catalogs(
             }
         )
 
+    # --- Invariante 21: kein aktiver Eintrag verschwindet ohne Nachfolger.
+    new_aliases = new_catalog.get("aliases", {})
+    unmapped_removals = sorted(
+        exercise_id for exercise_id in removed_ids if exercise_id not in new_aliases
+    )
+    if unmapped_removals:
+        warnings.append(
+            {
+                "code": "INVARIANT_21_UNMAPPED_REMOVAL",
+                "severity": "severe",
+                "value": len(unmapped_removals),
+                "message": (
+                    f"{len(unmapped_removals)} Uebungen sind verschwunden, ohne dass ein Alias "
+                    f"oder merged_into auf einen Nachfolger zeigt. Logs auf diesen IDs waeren "
+                    f"nicht mehr aufloesbar (SCHEMA.md 3). Beispiele: "
+                    f"{', '.join(unmapped_removals[:5])}"
+                ),
+            }
+        )
+
+    # --- Invariante 22: die Zahl aktiver Uebungen faellt nie um mehr als 5 %.
+    old_active = old_catalog.get("active_count", old_count)
+    new_active = new_catalog.get("active_count", new_count)
+    active_drop_percent = 0.0
+    if old_active > 0 and new_active < old_active:
+        active_drop_percent = ((old_active - new_active) / old_active) * 100.0
+    if active_drop_percent > INVARIANT_22_MAX_ACTIVE_DROP_PERCENT:
+        warnings.append(
+            {
+                "code": "INVARIANT_22_ACTIVE_COUNT_DROP",
+                "severity": "severe",
+                "value": active_drop_percent,
+                "message": (
+                    f"Aktive Uebungen um {active_drop_percent:.2f}% gefallen "
+                    f"({old_active} -> {new_active}), erlaubt sind "
+                    f"{INVARIANT_22_MAX_ACTIVE_DROP_PERCENT:.0f}%."
+                ),
+            }
+        )
+
+    # --- Lizenz-Provenienz. Ohne sie ist die Weitergabe nicht mehr gedeckt.
+    if regressions["license_became_blank"] > 0:
+        warnings.append(
+            {
+                "code": "LICENSE_REGRESSION",
+                "severity": "severe",
+                "value": regressions["license_became_blank"],
+                "message": (
+                    f"{regressions['license_became_blank']} Uebungen haben ihre Lizenzangabe "
+                    f"verloren (SCHEMA.md 3b)."
+                ),
+            }
+        )
+    lost_translation_licenses = sum(
+        entry["without_license"] for entry in new_catalog.get("translations", {}).values()
+    )
+    if lost_translation_licenses:
+        warnings.append(
+            {
+                "code": "TRANSLATION_LICENSE_MISSING",
+                "severity": "warning",
+                "value": lost_translation_licenses,
+                "message": (
+                    f"{lost_translation_licenses} Uebersetzungen ohne Lizenzangabe. wger "
+                    f"lizenziert pro Eintrag; ohne die Angabe ist die Attribution unvollstaendig."
+                ),
+            }
+        )
+
+    # --- schema_version darf nie rueckwaerts laufen (SCHEMA.md 9).
+    old_schema = old_catalog.get("schema_version")
+    new_schema = new_catalog.get("schema_version")
+    if old_schema is not None and new_schema is not None and new_schema < old_schema:
+        warnings.append(
+            {
+                "code": "SCHEMA_VERSION_REGRESSION",
+                "severity": "severe",
+                "value": {"old": old_schema, "new": new_schema},
+                "message": (
+                    f"schema_version faellt von {old_schema} auf {new_schema}. Konsumenten, die "
+                    f"schon auf {old_schema} sind, koennen das nicht lesen."
+                ),
+            }
+        )
+
+    if regressions["slug_changed"] > 0:
+        warnings.append(
+            {
+                "code": "SLUG_CHANGED",
+                "severity": "warning",
+                "value": regressions["slug_changed"],
+                "message": (
+                    f"{regressions['slug_changed']} Slugs haben sich geaendert. Slugs sind laut "
+                    f"SCHEMA.md 3 stabil."
+                ),
+            }
+        )
+
     if row_drop_percent >= args.row_drop_warn_percent:
         severity = "severe" if row_drop_percent >= args.row_drop_severe_percent else "warning"
         warnings.append(
@@ -378,16 +634,26 @@ def compare_catalogs(
         "old": {
             "path": old_catalog["path"],
             "version": old_catalog["version"],
+            "schema_version": old_schema,
             "exercise_count": old_count,
+            "active_count": old_active,
+            "translations": old_catalog.get("translations", {}),
         },
         "new": {
             "path": new_catalog["path"],
             "version": new_catalog["version"],
+            "schema_version": new_schema,
             "exercise_count": new_count,
+            "active_count": new_active,
+            "translations": new_catalog.get("translations", {}),
         },
-        "delta": {"exercise_count": count_delta},
+        "delta": {
+            "exercise_count": count_delta,
+            "active_count": new_active - old_active,
+        },
         "removed_ids": removed_ids,
         "added_ids": added_ids,
+        "unmapped_removed_ids": unmapped_removals,
         "changed_fields_by_id": changed_fields_by_id,
         "summary": {
             "shared_id_count": len(shared_ids),
@@ -398,6 +664,8 @@ def compare_catalogs(
             "changed_exercise_count": changed_exercise_count,
             "changed_field_counts": changed_field_counts,
             "row_drop_percent": row_drop_percent,
+            "active_drop_percent": active_drop_percent,
+            "unmapped_removed_count": len(unmapped_removals),
             "regressions": regressions,
         },
         "warning_flags": warnings,
@@ -442,11 +710,23 @@ def print_console_report(report: Dict[str, Any], examples: int) -> None:
     print("Metadata / Version:")
     print(f"  Old version: {old['version'] or '(missing)'}")
     print(f"  New version: {new['version'] or '(missing)'}")
-    print(f"  Old row count: {old['exercise_count']}")
-    print(f"  New row count: {new['exercise_count']}")
+    print(f"  Schema version: {old.get('schema_version')} -> {new.get('schema_version')}")
+    print(f"  Old row count: {old['exercise_count']} ({old.get('active_count')} active)")
+    print(f"  New row count: {new['exercise_count']} ({new.get('active_count')} active)")
     delta = report["delta"]["exercise_count"]
     print(f"  Total delta: {delta:+d}")
     print("")
+
+    old_translations = old.get("translations") or {}
+    new_translations = new.get("translations") or {}
+    if old_translations or new_translations:
+        print("Translations per language:")
+        for language in sorted(set(old_translations) | set(new_translations)):
+            before = old_translations.get(language, {}).get("rows", 0)
+            after = new_translations.get(language, {}).get("rows", 0)
+            marker = "  <-- disappeared" if before and not after else ""
+            print(f"  {language}: {before} -> {after}{marker}")
+        print("")
 
     print("ID-level catalog diff:")
     print(f"  Removed IDs: {summary['removed_count']}")
@@ -486,7 +766,16 @@ def print_console_report(report: Dict[str, Any], examples: int) -> None:
     print(
         f"  de_name lost while en still present: {regressions['de_name_lost_en_still_present']}"
     )
+    print(f"  muscle assignments became blank: {regressions.get('muscle_assignments_became_blank', 0)}")
+    print(f"  license became blank: {regressions.get('license_became_blank', 0)}")
+    print(f"  became deprecated or merged: {regressions.get('became_inactive', 0)}")
+    print(f"  slug changed: {regressions.get('slug_changed', 0)}")
     print(f"  Row drop percent: {summary['row_drop_percent']:.2f}%")
+    print(f"  Active drop percent: {summary.get('active_drop_percent', 0.0):.2f}%")
+    print(
+        f"  Removed without a successor (invariant 21): "
+        f"{summary.get('unmapped_removed_count', 0)}"
+    )
     print("")
 
     if warnings:
@@ -524,10 +813,22 @@ def should_fail(report: Dict[str, Any], args: argparse.Namespace) -> Tuple[bool,
     if regressions["name_de_became_blank"] > 0 or regressions["name_en_became_blank"] > 0:
         reasons.append("name regression detected (non-empty name became blank)")
 
+    unmapped = report["summary"].get("unmapped_removed_count", 0)
+    if unmapped:
+        reasons.append(
+            f"invariant 21: {unmapped} exercises removed without an alias to a successor"
+        )
+
     severe_breaking_codes = {
         "CATEGORY_REGRESSION",
         "MUSCLE_REGRESSION",
         "ROW_COUNT_DROP",
+        # --- Schema v2. Alle drei machen ausgelieferte Daten unbrauchbar oder
+        # rechtlich ungedeckt, keines davon ist ein Warnhinweis wert.
+        "INVARIANT_21_UNMAPPED_REMOVAL",
+        "INVARIANT_22_ACTIVE_COUNT_DROP",
+        "LICENSE_REGRESSION",
+        "SCHEMA_VERSION_REGRESSION",
     }
     if any(
         warning["severity"] == "severe"
