@@ -5,9 +5,10 @@ An open, structured, machine-readable strength-training exercise database.
 Every exercise is a plain text file you can read, diff, and send a pull request
 against. Every release ships a single SQLite file you can drop into an app.
 
-> **Status: pre-release.** The schema is specified and the vocabularies are
-> defined, but the data import has not run yet. There is no published release.
-> See [Roadmap](#roadmap).
+> **Status: pre-release.** The import has run — 871 exercises and 3,336
+> translations in 22 languages are in `data/`, and the build produces a database
+> that today's consumer loads unchanged. The content work has not started and
+> there is no published release yet. See [Roadmap](#roadmap).
 
 ---
 
@@ -18,14 +19,14 @@ The best freely licensed exercise dataset available today is the one from the
 is a fork of it. It is also, measured against what a training app needs,
 incomplete in specific and fixable ways.
 
-At the time of the fork (852 exercises as shipped by our importer):
+At the time of the import (2026-09-02, 871 exercises):
 
 | | |
 |---|---|
-| Exercises with **no muscle assignment at all** | **189** (22%) |
-| Exercises with no *primary* muscle | 194 (23%) |
+| Exercises with **no muscle assignment at all** | **129** (15%) |
+| Exercises with no *primary* muscle | 135 (16%) |
 | Distinct muscle values in the entire dataset | **15** |
-| Empty descriptions (en / de) | 12 each |
+| Exercises with no German text | 243 (28%) |
 
 Fifteen values, mixing coarse groups (`Chest`, `Shoulders`) with single
 anatomical muscles (`Obliquus externus abdominis`, `Soleus`, `Brachialis`).
@@ -82,11 +83,30 @@ loud, and every generated value is gated by CI invariants and human review.
 ```
 data/exercises/<id>.yaml      Language-neutral facts, one file per exercise
 data/i18n/<lang>/<id>.yaml    Text, one file per exercise per language
-vocab/                        Closed vocabularies: muscles, equipment, classification, languages
+vocab/                        Closed vocabularies: muscles, equipment, classification, languages, licenses
 schema/                       JSON Schemas + the CI invariants
+snapshot/                     The frozen upstream snapshot the import was built from
+oedb/                         Shared library used by the import, build and validator
 build/                        YAML -> SQLite + manifest + reports
 import/                       One-time upstream importer
-test/golden/                  Hand-verified reference entries used to evaluate generated data
+test/                         Acceptance and rule tests; test/golden/ is the phase 2 eval set
+```
+
+## Building it yourself
+
+```bash
+pip install -r requirements.txt
+python3 build/validate.py                 # the invariants from schema/invariants.md
+python3 build/build_db.py --db-out artifacts/catalog.db
+python3 build/check_database.py artifacts/catalog.db
+```
+
+Nothing there touches the network. Refreshing from upstream is a separate,
+deliberate step that lands in the repository as a reviewable snapshot commit:
+
+```bash
+python3 import/fetch_wger_snapshot.py
+python3 import/wger_to_yaml.py
 ```
 
 **[SCHEMA.md](SCHEMA.md) is the specification.** Read it before contributing.
@@ -115,9 +135,10 @@ Do not edit `id` or `slug` — see [SCHEMA.md §3](SCHEMA.md) for why.
 
 ## Roadmap
 
-- [ ] **Phase 1 — Import.** Upstream data into source files; the generated
-      database must be a drop-in replacement for the current one.
-- [ ] **Phase 2 — Content.** Fill the 189 empty muscle assignments, then
+- [x] **Phase 1 — Import.** Upstream data into source files; the generated
+      database is a drop-in replacement for the current one, asserted against
+      the published release in `test/test_compat.py`.
+- [ ] **Phase 2 — Content.** Fill the 129 empty muscle assignments, then
       equipment and tracking types, then classification, then muscle detail,
       then text.
 - [ ] **Phase 3 — Schema v2.** Ship the new tables and the alias mechanism.

@@ -183,6 +183,12 @@ jobs:
         run: |
           python build/validate.py --profile phase1 --json-out "$VALIDATION_REPORT_PATH"
 
+      # ATTRIBUTION.md wird gerechnet, nicht gepflegt (SCHEMA.md 3b). Laeuft sie
+      # dem Datenstand hinterher, ist die Namensnennung unvollstaendig — und das
+      # ist eine Lizenzbedingung, kein Schoenheitsfehler.
+      - name: Check that ATTRIBUTION.md matches the data
+        run: python build/build_attribution.py --check
+
       - name: Report the phase 2 backlog
         continue-on-error: true
         run: |

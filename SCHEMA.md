@@ -10,7 +10,9 @@ konsumierenden App.
 
 ## 1. Warum überhaupt ein neues Schema
 
-Gemessen am aktuellen Bestand (852 Übungen aus `wger`):
+Gemessen am Bestand zum Zeitpunkt der Analyse (852 Übungen aus `wger`). Der
+Import am 2026-09-02 fand 871 Übungen und 129 statt 189 leere Muskelzuweisungen
+vor — upstream hat nachgebessert, die Diagnose bleibt (§13):
 
 | Befund | Zahl |
 |---|---|
@@ -72,7 +74,11 @@ an den IDs dieser Datenbank.** Jede Zusammenlegung, Umbenennung oder Löschung
 ist potenziell Datenverlust auf Geräten da draußen.
 
 **Format der IDs:** Der Bestand nutzt die numerischen wger-IDs als TEXT,
-Wertebereich aktuell 1000–1972 — *keine* UUIDs. Daraus folgt:
+Wertebereich beim Import am 2026-09-02 **9–2543** bei 871 Übungen — *keine*
+UUIDs, und *kein* zusammenhängender Block. (Die früher hier notierte Spanne
+1000–1972 war eine Fehlmessung; sie stammt vermutlich aus einem Ausschnitt.
+Wer Code schreibt, der einen Wertebereich annimmt, liegt in beiden Fällen
+falsch — die IDs sind undurchsichtige Schlüssel.) Daraus folgt:
 
 - **Übernommene Übungen behalten ihre numerische ID unverändert.** Nie neu
   vergeben, nie normalisieren, nie auf UUID umstellen.
@@ -145,13 +151,29 @@ vocab/muscles.yaml                 # hierarchisches Muskel-Vokabular
 vocab/equipment.yaml               # primary_equipment + setup
 vocab/classification.yaml          # modality, usage_tags, tracking_type, …
 vocab/languages.yaml               # Sprach-Registry
+vocab/licenses.yaml                # SPDX-Bezeichner + wger-Lizenz-IDs
 schema/exercise.schema.json        # CI-Validierung Fakten
 schema/translation.schema.json     # CI-Validierung Texte
 schema/invariants.md               # inhaltliche Regeln, CI-Gate
 test/golden/*.yaml                 # ~50 handgeprüfte Übungen als Eval-Set
+test/test_*.py                     # Abnahme- und Regeltests
+snapshot/wger-<datum>.json.gz      # eingefrorener Rohstand der Quelle
 build/                             # YAML -> .db + manifest + reports
 import/                            # Einmal-Importer wger -> YAML
+oedb/                              # gemeinsame Bibliothek der Skripte
 ```
+
+Zwei Verzeichnisse, die in der ursprünglichen Fassung fehlten und beim Umbau
+dazukamen:
+
+- **`snapshot/`** — der Rohstand der wger-API, einmal abgerufen, mit SHA-256
+  gepinnt und im Repo. Ohne ihn hängt das Ergebnis des Builds vom Tagesstand
+  einer fremden API ab und ist weder reproduzierbar noch testbar. Er ist auch
+  die Antwort auf „warum sieht diese Zeile so aus": der Ursprung ist nachlesbar
+  statt weg.
+- **`oedb/`** — Vokabular-, Snapshot- und Dateizugriff, den Importer, Build und
+  Validator gemeinsam brauchen. Ein eigenes Paket, weil `import` ein
+  Python-Schlüsselwort ist und `import/` deshalb nichts exportieren kann.
 
 ---
 
@@ -355,6 +377,22 @@ CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT);
 --                   source_commit, license, attribution_url
 ```
 
+Zwei Punkte, die beim Bau des Generators konkret wurden:
+
+- **`NOT NULL` ist datenabhängig.** Die sieben Klassifikationsspalten oben sind
+  in Phase 1 noch nicht befüllt (wger liefert sie nicht). Der Build setzt die
+  Bedingung deshalb genau dann, wenn der Bestand sie trägt, und schreibt in
+  `metadata.nullable_columns`, welche noch offen sind. Damit zieht sich das
+  Schema mit dem Fortschritt von Phase 2 von selbst fest, statt auf jemanden zu
+  warten, der daran denkt — und `nullable_columns == []` ist die Antwort auf
+  „ist v2 inhaltlich erreicht?". Ein Platzhalterwert wäre die Alternative
+  gewesen; der wäre von einem echten Wert nicht zu unterscheiden.
+- **`category_name` speist sich aus `upstream.source_fields.category`.** Die
+  Spalte ist Legacy und wird nicht gepflegt, aber die App liest sie. Der Build
+  darf nicht selbst in den Snapshot greifen, also reist der Rohwert in der
+  Übungsdatei mit. Dasselbe gilt für die rohe wger-Equipment-Liste, aus der
+  Phase 2 `primary_equipment` und `setup` ableitet.
+
 Die Vokabulare wandern damit **aus der App in die Daten**. `body_slug_mapper.dart`
 und die 70-Einträge-Alias-Map in `recovery_domain_service.dart` werden zu einem
 Legacy-Fallback für Altdaten und selbst angelegte Übungen — sie sind dann nicht
@@ -457,3 +495,70 @@ und eine falsche Zuweisung plausibel aussieht. Deshalb:
   stabilen Zuweisungen.
 - **Kategorie-Ableitung**: exakte Regel für `body_region` aus den
   Primärmuskeln bei Übungen mit Primärmuskeln aus mehreren Gruppen.
+- **`de` zurück auf `tier: curated`.** Deutsch ist beim Import auf `upstream`
+  gesetzt, weil es nur 628 von 871 Übungen abdeckt und Invariante 4 sonst ab
+  Tag eins rot stünde. Sobald die Lücke geschlossen ist, gehört es zurück auf
+  `curated` — sonst blockiert eine Lücke im Deutschen den Release nicht mehr,
+  und genau dafür ist die Stufe da.
+
+---
+
+## 13. Stand der Umsetzung (Phase 1, 2026-09-02)
+
+Der Import ist gelaufen. Was dabei anders kam als in der Spezifikation
+angenommen — jeweils mit der Entscheidung, die getroffen wurde:
+
+**Die Sprach-IDs der alten Pipeline waren falsch.** `create_wger_exercise_db.py`
+hatte sie fest verdrahtet: `4:fr, 5:it, 8:ja`. Die wger-API sagt `4=es, 5=ru,
+8=el`; Französisch ist `12`, Italienisch `13`, Japanisch gibt es dort gar nicht.
+Die heute ausgelieferte Datenbank führt deshalb **646 spanische Texte als
+Französisch, 48 griechische als Japanisch und 10 russische als Italienisch** —
+nachweisbar an Übung 132, deren `language_code='ja'`-Zeile „Βατραχάκια με
+κάμψεις" enthält. Echtes Französisch (582) und Italienisch (142) fehlten
+komplett. Korrigiert: die Zuordnung steht jetzt in `vocab/languages.yaml` und
+wird bei jedem Import gegen den Snapshot geprüft. Importiert werden alle 22
+Sprachen, die die Quelle führt.
+
+> **App-seitig zu beachten:** wer im neuen Release `fr` liest, bekommt
+> Französisch statt Spanisch, und `ja` gibt es nicht mehr. Für `de` und `en`
+> ändert sich nichts. Falls irgendwo eine Sprachliste hartkodiert ist, gehört
+> sie auf `vocab/languages.yaml` umgestellt.
+
+**Zahlen aus §1 sind der Stand von damals.** Beim Import am 2026-09-02: 871
+Übungen (nicht 852), **129 ohne jede Muskelzuweisung** (nicht 189), 135 ohne
+primäre, weiterhin 15 distinkte Muskelwerte. Upstream hat also nachgebessert;
+die Diagnose bleibt dieselbe, nur die Größenordnung ist kleiner geworden.
+
+**Pflichtfelder, die es noch nicht geben kann.** `exercise.schema.json` führt
+neun Felder als `required`, die wger nicht liefert. Sie werden nicht mit
+Defaults gefüllt, sondern **weggelassen** — ein Platzhalter wäre von einem
+echten Wert nicht zu unterscheiden, und das ist genau der Fehler aus §11. Der
+Validator kennt dafür zwei Profile: `phase1` nimmt diese Felder aus `required`
+heraus und prüft die inhaltlichen Regeln nur dort, wo die Felder existieren;
+`full` schaltet alles scharf und beziffert damit jederzeit den Rückstand.
+
+**Das Abnahmekriterium ist „Teilmenge", nicht „Mengengleichheit".** Das
+Referenz-Release ist vom 31.08. und kennt 862 Übungen, der Snapshot vom 02.09.
+kennt 871 — neun sind dazugekommen, keine verschwunden. Geprüft wird deshalb:
+keine Referenz-ID fehlt, und `category_name`, `muscles_primary`,
+`muscles_secondary` sowie die `de`/`en`-Texte sind für jede gemeinsame ID
+zeichengleich (`test/test_compat.py`).
+
+**Eine bewusste Abweichung von der Referenz.** Das Altskript füllte eine
+fehlende *Beschreibung* aus der jeweils anderen Sprache auf, auch wenn der Name
+in der Zielsprache vorhanden war. In der ausgelieferten Datenbank steht deshalb
+bei 17 Einträgen deutscher Text in der englischen Zeile und umgekehrt. Hier
+bleibt die Beschreibung stattdessen leer. Der Abnahmetest lässt genau diesen
+Fall zu und nichts sonst.
+
+**Fehlende `de`-Texte werden im Build ergänzt, nicht in den Quelldateien.**
+`data/i18n/de/` enthält die 628 echten Übersetzungen; die restlichen 243 Zeilen
+entstehen beim Build aus der `fallback_chain` und tragen `source_lang: en`.
+Damit bleibt das Repo ehrlich und die Datenbank verhaltensgleich — und man kann
+zum ersten Mal abfragen, welche der deutschen Zeilen tatsächlich deutsch sind.
+Gesteuert wird das über `complete_in_release` in `vocab/languages.yaml`.
+
+**`license` ist in der wger-API eine Zahl.** Die Abbildung auf die
+SPDX-Bezeichner des Schemas steht in `vocab/licenses.yaml`. Eine unbekannte
+Lizenz-ID bricht den Import ab, statt den Eintrag ohne Lizenzangabe zu
+übernehmen.
