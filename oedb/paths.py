@@ -11,6 +11,7 @@ DATA_DIR = ROOT / "data"
 EXERCISES_DIR = DATA_DIR / "exercises"
 I18N_DIR = DATA_DIR / "i18n"
 SNAPSHOT_DIR = ROOT / "snapshot"
+EXAMPLES_DIR = ROOT / "examples"
 GOLDEN_DIR = ROOT / "test" / "golden"
 ARTIFACTS_DIR = ROOT / "artifacts"
 
