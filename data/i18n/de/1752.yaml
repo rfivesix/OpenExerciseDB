@@ -1,8 +1,11 @@
 exercise_id: '1752'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Seitheben vor dem Körper
+description: |-
+  Führe am Kabelturm Seitheben aus, wobei sich der Kabelzug vor dir befindet, und konzentriere dich auf Spannung im hinteren Bereich deiner Schulter.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2889'

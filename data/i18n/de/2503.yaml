@@ -1,8 +1,11 @@
 exercise_id: '2503'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Face Pulls mit Handtuch/Türrahmen
+description: |-
+  Individuelle Face-Pull-Variante von Vasco mit Türrahmen oder Handtuch zur Entwicklung der hinteren Schultern. Ohne Geräte. Teil des dienstäglichen Zugtrainings.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4984'

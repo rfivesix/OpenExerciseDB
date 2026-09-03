@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '909'
 language: de
 status: ai_raw
 translated_from: en
 name: Reverse Nordic Curl
+description: Natürliches Beinstrecken ist eine Alternative zur Beinstreckmaschine ohne Geräte.
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

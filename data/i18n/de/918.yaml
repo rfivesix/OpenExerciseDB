@@ -1,8 +1,10 @@
 exercise_id: '918'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Seitheben sitzend mit Kurzhanteln
+description: Sitze zu Beginn der Übung leicht nach vorn geneigt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

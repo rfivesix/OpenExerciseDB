@@ -1,8 +1,11 @@
 exercise_id: '1098'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Seitheben vorgebeugt sitzend
+description: |-
+  Sitze und beuge dich 45 Grad nach vorn. Strecke die Arme vollständig aus, hebe sie bis Schulterhöhe und senke sie wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

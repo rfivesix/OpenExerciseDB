@@ -1,8 +1,10 @@
 exercise_id: '498'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Bankdrücken im Untergriff
+description: Übung mit Schwerpunkt auf der oberen Brust, die auch den Trizeps beansprucht.
 upstream:
   license: CC-BY-SA-4.0
   license_author: bl0sh

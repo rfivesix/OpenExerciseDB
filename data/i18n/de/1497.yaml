@@ -1,8 +1,11 @@
 exercise_id: '1497'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Kurzhantel-Bankdrücken im Untergriff
+description: |-
+  Führe mit Kurzhanteln im Untergriff eine normale Bankdrückbewegung aus und halte die Ellbogen nah an der Brust.
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston

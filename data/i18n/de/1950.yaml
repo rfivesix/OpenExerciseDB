@@ -1,8 +1,15 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1950'
 language: de
 status: ai_raw
 translated_from: en
 name: Faszienrolle IT-Band
+description: |-
+  IT-Band mit der Faszienrolle bearbeiten
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 10–15 Durchgänge
+  Typ: Weichteilgewebe
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation

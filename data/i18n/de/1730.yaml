@@ -1,8 +1,12 @@
 exercise_id: '1730'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Seitheben
+description: |-
+  Führe die Bewegung mit den Ellbogen, nicht den Händen.
+  Ziehe die Schultern nicht hoch; halte den Trapezmuskel ruhig.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

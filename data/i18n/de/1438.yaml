@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1438'
 language: de
 status: ai_raw
 translated_from: en
 name: Umsetzen (Clean)
+description: |-
+  Reguläres olympisches Umsetzen.
+  Ziehe die Langhantel vom Boden und fange sie auf den Schultern, während du eine Frontkniebeuge ausführst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

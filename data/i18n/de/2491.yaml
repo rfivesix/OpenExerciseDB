@@ -1,8 +1,13 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2491'
 language: de
 status: ai_raw
 translated_from: en
 name: Abduktorenmaschine
+description: |-
+  Basierend auf Abductors Selection von Technogym.
+  Positioniere dich an der Maschine und öffne deine Beine so weit wie möglich.
+  Kehre langsam in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

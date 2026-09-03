@@ -1,8 +1,15 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1956'
 language: de
 status: ai_raw
 translated_from: en
 name: Hydrantenkreisen (Fire Hydrant Circles)
+description: |-
+  Fire-Hydrant-Kreise
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 10 vorwärts / 10 rückwärts
+  Typ: dynamisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation

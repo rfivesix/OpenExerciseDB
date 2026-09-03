@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1521'
 language: de
 status: ai_raw
 translated_from: en
 name: Pendel-Hackenschmidt
+description: Pendel-Hackenschmidt, ausgeführt an einer Pendelmaschine.
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

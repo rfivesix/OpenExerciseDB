@@ -1,8 +1,11 @@
 exercise_id: '1498'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Kurzhantel-Bankdrücken mit anliegenden Ellbogen
+description: |-
+  Kurzhantel-Bankdrücken mit anliegenden Ellbogen, eine Brustdrückbewegung mit Schwerpunkt auf dem Trizeps. Die Kurzhanteln bleiben parallel zum Körper.
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston

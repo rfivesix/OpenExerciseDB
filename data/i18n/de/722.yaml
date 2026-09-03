@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '722'
 language: de
 status: ai_raw
 translated_from: en
 name: Step-ups mit Zusatzgewicht
+description: Box-Step-ups mit Langhantel und 45er-Scheiben auf jeder Seite.
 upstream:
   license: CC0-1.0
   license_author: jigglychipmunk

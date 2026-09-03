@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '802'
 language: de
 status: ai_raw
 translated_from: en
 name: Ausfallschritte gehend mit Langhantel
+description: Halte eine Langhantel und führe abwechselnde Ausfallschritte im Gehen aus. Mache einen Schritt nach vorn in einen Ausfallschritt und fahre dann mit dem anderen Bein fort.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1053'

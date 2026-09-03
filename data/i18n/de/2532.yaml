@@ -1,8 +1,11 @@
 exercise_id: '2532'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Planche Lean Hold
+description: |-
+  Ein statischer Calisthenics-Halt mit gestreckten Armen, bei dem du eine Plank-Position einnimmst und die Schultern mit proträhierten Schulterblättern und einem Hollow Body so weit wie möglich über die Handgelenke nach vorn lehnst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege

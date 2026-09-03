@@ -1,8 +1,11 @@
 exercise_id: '1458'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Y-Heben über Kreuz am Kabelzug
+description: |-
+  Befestige eine D-Stange am Kabelzug. Führe eine Bewegung aus, die dem Ziehen eines Schwertes quer über den Körper ähnelt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1325'
 language: de
 status: ai_raw
 translated_from: en
 name: Seitlicher Abdruck
+description: Stoße dich vom Boden ab, lande auf einem Bein und finde das Gleichgewicht wieder, bevor du zum anderen Bein springst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen

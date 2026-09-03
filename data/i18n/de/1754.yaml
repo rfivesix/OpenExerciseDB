@@ -1,8 +1,10 @@
 exercise_id: '1754'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: 45°-Seitheben
+description: Kurzhantelheben im Bereich zwischen Front- und Seitheben.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2891'

@@ -1,8 +1,10 @@
 exercise_id: '1467'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Enges Schrägbankdrücken mit Langhantel
+description: Engerer Griff als beim normalen Bankdrücken, knapp außerhalb der Schulterbreite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

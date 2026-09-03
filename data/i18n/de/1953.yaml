@@ -1,8 +1,15 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1953'
 language: de
 status: ai_raw
 translated_from: en
 name: Eisernes Kreuz mit gebeugten Knien
+description: |-
+  Eisernes Kreuz mit gebeugten Knien
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 5–10 Wiederholungen pro Seite
+  Typ: dynamisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation

@@ -1,8 +1,14 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2526'
 language: de
 status: ai_raw
 translated_from: en
 name: Tiefer Ausfallschritt federnd
+description: |-
+  Halte das Widerstandsband (oder einen anderen seilähnlichen Gegenstand; die Elastizität ist nicht nötig) mit gestreckten Armen über dem Kopf zwischen den Händen. Ziehe es straff, um deinen Latissimus anzuspannen.
+  Mache einen Schritt nach vorn in einen Ausfallschritt und senke dich ab, bis dein Knie fast den Boden berührt.
+  Bewege deinen Körper langsam und kontrolliert um etwa einen Zoll auf und ab. Wiederhole dies für die erforderlichen Wiederholungen.
+  Wiederhole dies mit dem anderen Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

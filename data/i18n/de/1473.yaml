@@ -1,8 +1,11 @@
 exercise_id: '1473'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Reverse Kabelzug-Fliegende
+description: |-
+  Befestige D-Griffe an zwei Kabelzügen in oberer Position. Greife den linken mit der rechten Hand und umgekehrt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

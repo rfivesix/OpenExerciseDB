@@ -1,8 +1,10 @@
 exercise_id: '1778'
+# AI generation provenance: GPT-5, 2026-09-03.
 language: de
 status: ai_raw
 translated_from: en
 name: Schrägbankdrücken
+description: Schrägbankdrücken bei 90 Grad mit leichten und präzisen Bewegungen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'

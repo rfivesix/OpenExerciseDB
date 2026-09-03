@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2494'
 language: de
 status: ai_raw
 translated_from: en
 name: Endgradige Kniestreckung mit Band
+description: Dies ist eine Kräftigungsübung im Endbereich für die Kniestrecker. Beginne, indem du ein Band um die Rückseite eines Knies legst und das andere Ende vor dir an einer stabilen Fläche befestigst. Stehe im Ausfallschritt, wobei das Knie mit dem Band gebeugt ist und das vordere Bein bildet. Strecke das Knie, um gegen den Widerstand des Bandes zu ziehen, und halte die Anspannung im Quadrizeps bis zu 5 Sekunden, bevor du löst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rehab Hero

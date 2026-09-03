@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2535'
 language: de
 status: ai_raw
 translated_from: en
 name: Beinstrecken isometrisch
+description: Eine isometrische Beinstreckung ist eine Kräftigungsübung, bei der du deine Quadrizepsmuskeln gegen einen unbeweglichen Widerstand anspannst, ohne die Muskellänge zu verändern oder dein Kniegelenk zu bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
