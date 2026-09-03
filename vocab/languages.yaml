@@ -152,6 +152,11 @@ languages:
     tier: upstream
     wger_language_id: 18
     fallback_chain: [en]
+  - code: ja
+    names: { en: Japanese, de: Japanisch, fr: Japonais, it: Giapponese, ja: 日本語 }
+    tier: machine
+    wger_language_id: null
+    fallback_chain: [en]
 
 # Ab welchem Fuellstand eine Sprache im Release als "anzeigbar" gilt.
 # Wird pro Sprache in die languages-Tabelle der DB geschrieben, damit die App

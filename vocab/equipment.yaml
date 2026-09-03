@@ -12,88 +12,88 @@ version: 1
 
 primary_equipment:
   - id: bodyweight
-    names: { en: Bodyweight, de: Körpergewicht }
+    names: { en: Bodyweight, de: Körpergewicht, fr: Poids du corps, it: A corpo libero, ja: 自重 }
   - id: barbell
-    names: { en: Barbell, de: Langhantel }
+    names: { en: Barbell, de: Langhantel, fr: Barre, it: Bilanciere, ja: バーベル }
   - id: ez_bar
-    names: { en: EZ bar, de: SZ-Stange }
+    names: { en: EZ bar, de: "SZ-Stange", fr: Barre EZ, it: Bilanciere EZ, ja: EZバー }
   - id: trap_bar
-    names: { en: Trap bar, de: Trap-Bar }
+    names: { en: Trap bar, de: "Trap-Bar", fr: Trap bar, it: Trap bar, ja: トラップバー }
   - id: dumbbell
-    names: { en: Dumbbell, de: Kurzhantel }
+    names: { en: Dumbbell, de: Kurzhantel, fr: Haltère, it: Manubrio, ja: ダンベル }
   - id: kettlebell
-    names: { en: Kettlebell, de: Kettlebell }
+    names: { en: Kettlebell, de: Kettlebell, fr: Kettlebell, it: Kettlebell, ja: ケトルベル }
   - id: machine
-    names: { en: Machine, de: Maschine }
+    names: { en: Machine, de: Maschine, fr: Machine, it: Macchina, ja: マシン }
   - id: smith_machine
-    names: { en: Smith machine, de: Multipresse }
+    names: { en: Smith machine, de: Multipresse, fr: "Cadre guidé (Smith machine)", it: "Smith machine (Multipower)", ja: スミスマシン }
   - id: cable
-    names: { en: Cable, de: Kabelzug }
+    names: { en: Cable, de: Kabelzug, fr: "Câble / Poulie", it: Cavo, ja: ケーブル }
   - id: resistance_band
-    names: { en: Resistance band, de: Widerstandsband }
+    names: { en: Resistance band, de: Widerstandsband, fr: Bande de résistance, it: Elastico di resistenza, ja: レジスタンスバンド }
   - id: suspension_trainer
-    names: { en: Suspension trainer, de: Schlingentrainer }
+    names: { en: Suspension trainer, de: Schlingentrainer, fr: Sangles de suspension, it: "Cavi di sospensione (TRX)", ja: サスペンショントレーナー }
   - id: weight_plate
-    names: { en: Weight plate, de: Hantelscheibe }
+    names: { en: Weight plate, de: Hantelscheibe, fr: Disque de poids, it: Disco, ja: プレート }
   - id: medicine_ball
-    names: { en: Medicine ball, de: Medizinball }
+    names: { en: Medicine ball, de: Medizinball, fr: "Médecine-ball", it: Palla medica, ja: メディシンボール }
   - id: sandbag
-    names: { en: Sandbag, de: Sandsack }
+    names: { en: Sandbag, de: Sandsack, fr: Sac de sable, it: Sacca di sabbia, ja: サンドバッグ }
   - id: sled
-    names: { en: Sled, de: Schlitten }
+    names: { en: Sled, de: Schlitten, fr: Traîneau de musculation, it: Slitta da traino, ja: スレッド }
   - id: cardio_machine
-    names: { en: Cardio machine, de: Cardiogerät }
+    names: { en: Cardio machine, de: Cardiogerät, fr: Appareil de cardio, it: Macchina cardio, ja: 有酸素マシン }
   - id: jump_rope
-    names: { en: Jump rope, de: Springseil }
+    names: { en: Jump rope, de: Springseil, fr: Corde à sauter, it: Corda per saltare, ja: 縄跳び }
   - id: other
-    names: { en: Other, de: Sonstiges }
+    names: { en: Other, de: Sonstiges, fr: Autre, it: Altro, ja: その他 }
 
 setup:
   - id: flat_bench
-    names: { en: Flat bench, de: Flachbank }
+    names: { en: Flat bench, de: Flachbank, fr: Banc plat, it: Panca piana, ja: フラットベンチ }
   - id: incline_bench
-    names: { en: Incline bench, de: Schrägbank }
+    names: { en: Incline bench, de: Schrägbank, fr: Banc incliné, it: Panca inclinata, ja: インクラインベンチ }
   - id: decline_bench
-    names: { en: Decline bench, de: Negativbank }
+    names: { en: Decline bench, de: Negativbank, fr: Banc décliné, it: Panca reclinata, ja: デクラインベンチ }
   - id: preacher_bench
-    names: { en: Preacher bench, de: Scottbank }
+    names: { en: Preacher bench, de: Scottbank, fr: Banc Larry Scott, it: Panca Scott, ja: プリーチャーベンチ }
   - id: roman_chair
-    names: { en: Roman chair / back extension, de: Römischer Stuhl }
+    names: { en: "Roman chair / back extension", de: Römischer Stuhl, fr: "Chaise romaine / Banc à lombaires", it: "Panca per iperextension (sedia romana)", ja: "ローマンチェア / バックエクステンションベンチ" }
   - id: squat_rack
-    names: { en: Squat rack, de: Kniebeugenständer }
+    names: { en: Squat rack, de: Kniebeugenständer, fr: Rack à squat, it: Rack per squat, ja: スクワットラック }
   - id: power_rack
-    names: { en: Power rack, de: Power Rack }
+    names: { en: Power rack, de: Power Rack, fr: "Cage à squat (Power rack)", it: Power rack, ja: パワーラック }
   - id: pullup_bar
-    names: { en: Pull-up bar, de: Klimmzugstange }
+    names: { en: "Pull-up bar", de: Klimmzugstange, fr: Barre de traction, it: Sbarra per trazioni, ja: "プルアップバー / 懸垂バー" }
   - id: dip_bars
-    names: { en: Dip bars, de: Dip-Barren }
+    names: { en: Dip bars, de: "Dip-Barren", fr: Barres parallèles à dips, it: Parallele per dip, ja: ディップスバー }
   - id: cable_tower
-    names: { en: Cable tower, de: Kabelturm }
+    names: { en: Cable tower, de: Kabelturm, fr: Tour à poulies, it: Torre per cavi, ja: ケーブルタワー }
   - id: swiss_ball
-    names: { en: Swiss ball, de: Gymnastikball }
+    names: { en: Swiss ball, de: Gymnastikball, fr: "Ballon de gymnastique (Swiss ball)", it: "Palla da ginnastica (Swiss ball)", ja: バランスボール }
   - id: plyo_box
-    names: { en: Plyo box / step, de: Sprungkasten / Stepper }
+    names: { en: "Plyo box / step", de: "Sprungkasten / Stepper", fr: "Boîte de pliométrie (Plyo box) / Step", it: "Box pliometrico / Step", ja: "プライオボックス / ステップ台" }
   - id: mat
-    names: { en: Mat, de: Matte }
+    names: { en: Mat, de: Matte, fr: Tapis de sol, it: Tappetino, ja: マット }
   - id: ab_wheel
-    names: { en: Ab wheel, de: Bauchroller }
+    names: { en: Ab wheel, de: Bauchroller, fr: Roue abdominale, it: "Ruota per addominali (Ab wheel)", ja: アブローラー }
   - id: parallettes
-    names: { en: Parallettes, de: Parallettes }
+    names: { en: Parallettes, de: Parallettes, fr: Parallettes, it: Parallettes, ja: パラレット }
   - id: landmine
-    names: { en: Landmine, de: Landmine }
+    names: { en: Landmine, de: Landmine, fr: Landmine, it: Landmine, ja: ランドマイン }
   - id: ankle_straps
-    names: { en: Ankle straps, de: Fußschlaufen }
+    names: { en: Ankle straps, de: Fußschlaufen, fr: Sangles de cheville, it: Cavigliere per cavi, ja: アンクルストラップ }
   - id: wall
-    names: { en: Wall, de: Wand }
+    names: { en: Wall, de: Wand, fr: Mur, it: Muro, ja: 壁 }
   - id: chair
-    names: { en: Chair / elevated surface, de: Stuhl / erhöhte Fläche }
+    names: { en: "Chair / elevated surface", de: "Stuhl / erhöhte Fläche", fr: "Chaise / Surface surélevée", it: "Sedia / Superficie rialzata", ja: "椅子 / 台" }
   - id: foam_roller
-    names: { en: Foam roller, de: Faszienrolle }
+    names: { en: Foam roller, de: Faszienrolle, fr: "Rouleau de massage (Foam roller)", it: "Rullo massaggiatore (Foam roller)", ja: フォームローラー }
   - id: lacrosse_ball
-    names: { en: Lacrosse ball / massage ball, de: Faszienball / Massageball }
+    names: { en: "Lacrosse ball / massage ball", de: "Faszienball / Massageball", fr: "Balle de crosse / Balle de massage", it: "Pallina da massaggio (Lacrosse ball)", ja: "マッサージボール / ラクロスボール" }
   - id: punching_bag
-    names: { en: Punching bag / heavy bag, de: Boxsack }
+    names: { en: "Punching bag / heavy bag", de: Boxsack, fr: Sac de frappe, it: Sacco da boxe, ja: "サンドバッグ (ボクシング)" }
   - id: battle_ropes
-    names: { en: Battle ropes, de: Battle Ropes }
+    names: { en: Battle ropes, de: Battle Ropes, fr: "Cordes ondulatoires (Battle ropes)", it: "Battle ropes (funi da allenamento)", ja: バトルロープ }
   - id: sliders
-    names: { en: Sliders / gliding discs, de: Slider / Gleitscheiben }
+    names: { en: "Sliders / gliding discs", de: "Slider / Gleitscheiben", fr: "Disques de glisse (Sliders)", it: "Dischi di scivolamento (Sliders)", ja: スライディングディスク }

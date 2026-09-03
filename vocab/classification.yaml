@@ -8,66 +8,66 @@ version: 1
 
 # Was die Uebung IST. Genau ein Wert.
 modality:
-  - { id: strength, names: { en: Strength, de: Kraft } }
-  - { id: cardio, names: { en: Cardio, de: Ausdauer } }
-  - { id: plyometric, names: { en: Plyometric, de: Plyometrie } }
-  - { id: mobility, names: { en: Mobility, de: Mobilität } }
-  - { id: stretch, names: { en: Stretch, de: Dehnung } }
-  - { id: balance, names: { en: Balance, de: Balance } }
+  - { id: strength, names: { en: Strength, de: Kraft, fr: Force, it: Forza, ja: 筋力トレーニング } }
+  - { id: cardio, names: { en: Cardio, de: Ausdauer, fr: Cardio, it: Cardio, ja: 有酸素運動 } }
+  - { id: plyometric, names: { en: Plyometric, de: Plyometrie, fr: Pliométrie, it: Pliometria, ja: プライオメトリクス } }
+  - { id: mobility, names: { en: Mobility, de: Mobilität, fr: Mobilité, it: Mobilità, ja: モビリティ } }
+  - { id: stretch, names: { en: Stretch, de: Dehnung, fr: Étirement, it: Stretching, ja: ストレッチ } }
+  - { id: balance, names: { en: Balance, de: Balance, fr: Équilibre, it: Equilibrio, ja: バランストレーニング } }
 
 # Wofuer die Uebung EINGESETZT wird. Mehrwertig, mindestens ein Wert.
 # Mehrwertig, weil ein leichtes Band-Pull-Apart legitim warmup UND accessory ist.
 usage_tags:
-  - { id: warmup, names: { en: Warm-up, de: Aufwärmen } }
-  - { id: activation, names: { en: Activation, de: Aktivierung } }
-  - { id: main_lift, names: { en: Main lift, de: Grundübung } }
-  - { id: accessory, names: { en: Accessory, de: Zusatzübung } }
-  - { id: conditioning, names: { en: Conditioning, de: Konditionierung } }
-  - { id: finisher, names: { en: Finisher, de: Finisher } }
-  - { id: cooldown, names: { en: Cool-down, de: Abwärmen } }
-  - { id: prehab, names: { en: Prehab / rehab, de: Prehab / Reha } }
+  - { id: warmup, names: { en: "Warm-up", de: Aufwärmen, fr: Échauffement, it: Riscaldamento, ja: ウォーミングアップ } }
+  - { id: activation, names: { en: Activation, de: Aktivierung, fr: Activation, it: Attivazione, ja: アクティベーション } }
+  - { id: main_lift, names: { en: Main lift, de: Grundübung, fr: Exercice principal, it: Esercizio principale, ja: メイン種目 } }
+  - { id: accessory, names: { en: Accessory, de: Zusatzübung, fr: Exercice d’assistance, it: Esercizio accessorio, ja: アクセサリー種目 } }
+  - { id: conditioning, names: { en: Conditioning, de: Konditionierung, fr: Conditionnement, it: Condizionamento, ja: コンディショニング } }
+  - { id: finisher, names: { en: Finisher, de: Finisher, fr: Finisher, it: Finisher, ja: フィニッシャー } }
+  - { id: cooldown, names: { en: "Cool-down", de: Abwärmen, fr: Retour au calme, it: Defaticamento, ja: クールダウン } }
+  - { id: prehab, names: { en: "Prehab / rehab", de: "Prehab / Reha", fr: "Préhab / Réhab", it: "Prehab / Riabilitazione", ja: "プレハブ / リハビリ" } }
 
 mechanic:
-  - { id: compound, names: { en: Compound, de: Verbundübung } }
-  - { id: isolation, names: { en: Isolation, de: Isolationsübung } }
+  - { id: compound, names: { en: Compound, de: Verbundübung, fr: Polyarticulaire, it: Multiarticolare, ja: "コンパウンド種目 (多関節)" } }
+  - { id: isolation, names: { en: Isolation, de: Isolationsübung, fr: Isolation, it: Isolamento, ja: "アイソレーション種目 (単関節)" } }
 
 force_vector:
-  - { id: push, names: { en: Push, de: Drücken } }
-  - { id: pull, names: { en: Pull, de: Ziehen } }
-  - { id: static, names: { en: Static, de: Statisch } }
+  - { id: push, names: { en: Push, de: Drücken, fr: Poussée, it: Spinta, ja: "プッシュ (押し)" } }
+  - { id: pull, names: { en: Pull, de: Ziehen, fr: Tirage, it: Trazione, ja: "プル (引き)" } }
+  - { id: static, names: { en: Static, de: Statisch, fr: Statique, it: Statico, ja: "スタティック (静的保持)" } }
 
 movement_pattern:
-  - { id: horizontal_push, names: { en: Horizontal push, de: Horizontales Drücken } }
-  - { id: vertical_push, names: { en: Vertical push, de: Vertikales Drücken } }
-  - { id: horizontal_pull, names: { en: Horizontal pull, de: Horizontales Ziehen } }
-  - { id: vertical_pull, names: { en: Vertical pull, de: Vertikales Ziehen } }
-  - { id: squat, names: { en: Squat, de: Kniebeuge } }
-  - { id: hinge, names: { en: Hinge, de: Hüftbeuge } }
-  - { id: lunge, names: { en: Lunge, de: Ausfallschritt } }
-  - { id: carry, names: { en: Carry, de: Tragen } }
-  - { id: rotation, names: { en: Rotation, de: Rotation } }
-  - { id: anti_rotation, names: { en: Anti-rotation, de: Anti-Rotation } }
-  - { id: anti_extension, names: { en: Anti-extension, de: Anti-Extension } }
-  - { id: anti_lateral_flexion, names: { en: Anti-lateral-flexion, de: Anti-Lateralflexion } }
-  - { id: anti_flexion, names: { en: Anti-flexion, de: Anti-Flexion } }
-  - { id: elbow_flexion, names: { en: Elbow flexion, de: Ellbogenbeugung } }
-  - { id: elbow_extension, names: { en: Elbow extension, de: Ellbogenstreckung } }
-  - { id: wrist_flexion, names: { en: Wrist flexion, de: Handgelenkbeugung } }
-  - { id: wrist_extension, names: { en: Wrist extension, de: Handgelenkstreckung } }
-  - { id: knee_flexion, names: { en: Knee flexion, de: Kniebeugung } }
-  - { id: knee_extension, names: { en: Knee extension, de: Kniestreckung } }
-  - { id: hip_abduction, names: { en: Hip abduction, de: Hüftabduktion } }
-  - { id: hip_adduction, names: { en: Hip adduction, de: Hüftadduktion } }
-  - { id: shoulder_abduction, names: { en: Shoulder abduction, de: Schulterabduktion } }
-  - { id: shoulder_flexion, names: { en: Shoulder flexion, de: Schulterbeugung / Frontheben } }
-  - { id: scapular_elevation, names: { en: Scapular elevation, de: Schulterblatthebung / Shrug } }
-  - { id: hip_extension, names: { en: Hip extension, de: Hüftstreckung } }
-  - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung } }
-  - { id: spinal_flexion, names: { en: Spinal flexion, de: Rumpfbeugung } }
-  - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion } }
-  - { id: dorsiflexion, names: { en: Dorsiflexion, de: Dorsalflexion } }
-  - { id: gait, names: { en: Gait / locomotion, de: Fortbewegung } }
-  - { id: other, names: { en: Other, de: Sonstiges } }
+  - { id: horizontal_push, names: { en: Horizontal push, de: Horizontales Drücken, fr: Poussée horizontale, it: Spinta orizzontale, ja: 水平プッシュ } }
+  - { id: vertical_push, names: { en: Vertical push, de: Vertikales Drücken, fr: Poussée verticale, it: Spinta verticale, ja: 垂直プッシュ } }
+  - { id: horizontal_pull, names: { en: Horizontal pull, de: Horizontales Ziehen, fr: Tirage horizontal, it: Trazione orizzontale, ja: 水平プル } }
+  - { id: vertical_pull, names: { en: Vertical pull, de: Vertikales Ziehen, fr: Tirage vertical, it: Trazione verticale, ja: 垂直プル } }
+  - { id: squat, names: { en: Squat, de: Kniebeuge, fr: "Squat (flexion des genoux)", it: "Squat (accosciata)", ja: スクワット } }
+  - { id: hinge, names: { en: Hinge, de: Hüftbeuge, fr: "Charnière de hanche (Hinge)", it: "Cerniera d’anca (Hinge)", ja: ヒップヒンジ } }
+  - { id: lunge, names: { en: Lunge, de: Ausfallschritt, fr: Fente, it: Affondo, ja: ランジ } }
+  - { id: carry, names: { en: Carry, de: Tragen, fr: "Transport / Port de charge", it: "Trasporto di carico (Carry)", ja: "キャリー (運搬)" } }
+  - { id: rotation, names: { en: Rotation, de: Rotation, fr: Rotation, it: Rotazione, ja: "回旋 (ローテーション)" } }
+  - { id: anti_rotation, names: { en: "Anti-rotation", de: "Anti-Rotation", fr: "Anti-rotation", it: "Anti-rotazione", ja: "アンチローテーション (抗回旋)" } }
+  - { id: anti_extension, names: { en: "Anti-extension", de: "Anti-Extension", fr: "Anti-extension", it: "Anti-estensione", ja: "アンチエクステンション (抗伸展)" } }
+  - { id: anti_lateral_flexion, names: { en: "Anti-lateral-flexion", de: "Anti-Lateralflexion", fr: "Anti-flexion latérale", it: "Anti-flessione laterale", ja: "アンチラテラルフレクション (抗側屈)" } }
+  - { id: anti_flexion, names: { en: "Anti-flexion", de: "Anti-Flexion", fr: "Anti-flexion", it: "Anti-flessione", ja: "アンチフレクション (抗屈曲)" } }
+  - { id: elbow_flexion, names: { en: Elbow flexion, de: Ellbogenbeugung, fr: Flexion du coude, it: Flessione del gomito, ja: 肘関節屈曲 } }
+  - { id: elbow_extension, names: { en: Elbow extension, de: Ellbogenstreckung, fr: Extension du coude, it: Estensione del gomito, ja: 肘関節伸展 } }
+  - { id: wrist_flexion, names: { en: Wrist flexion, de: Handgelenkbeugung, fr: Flexion du poignet, it: Flessione del polso, ja: 手関節屈曲 } }
+  - { id: wrist_extension, names: { en: Wrist extension, de: Handgelenkstreckung, fr: Extension du poignet, it: Estensione del polso, ja: 手関節伸展 } }
+  - { id: knee_flexion, names: { en: Knee flexion, de: Kniebeugung, fr: Flexion du genou, it: Flessione del ginocchio, ja: 膝関節屈曲 } }
+  - { id: knee_extension, names: { en: Knee extension, de: Kniestreckung, fr: Extension du genou, it: Estensione del ginocchio, ja: 膝関節伸展 } }
+  - { id: hip_abduction, names: { en: Hip abduction, de: Hüftabduktion, fr: Abduction de la hanche, it: Abduzione dell’anca, ja: 股関節外転 } }
+  - { id: hip_adduction, names: { en: Hip adduction, de: Hüftadduktion, fr: Adduction de la hanche, it: Adduzione dell’anca, ja: 股関節内転 } }
+  - { id: shoulder_abduction, names: { en: Shoulder abduction, de: Schulterabduktion, fr: Abduction de l’épaule, it: Abduzione della spalla, ja: 肩関節外転 } }
+  - { id: shoulder_flexion, names: { en: Shoulder flexion, de: "Schulterbeugung / Frontheben", fr: "Flexion de l’épaule / Élévation frontale", it: "Flessione della spalla / Alzata frontale", ja: "肩関節屈曲 / フロントレイズ" } }
+  - { id: scapular_elevation, names: { en: Scapular elevation, de: "Schulterblatthebung / Shrug", fr: "Élévation scapulaire / Shrug", it: "Elevazione scapolare / Shrug", ja: "肩甲骨挙上 / シュラッグ" } }
+  - { id: hip_extension, names: { en: Hip extension, de: Hüftstreckung, fr: Extension de la hanche, it: Estensione dell’anca, ja: 股関節伸展 } }
+  - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung, fr: Extension du rachis, it: Estensione spinale, ja: 脊柱伸展 } }
+  - { id: spinal_flexion, names: { en: Spinal flexion, de: Rumpfbeugung, fr: Flexion du rachis, it: Flessione spinale, ja: 脊柱屈曲 } }
+  - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion, fr: Flexion plantaire, it: Flessione plantare, ja: "足関節底屈 (プランターフレクション)" } }
+  - { id: dorsiflexion, names: { en: Dorsiflexion, de: Dorsalflexion, fr: Dorsiflexion, it: Dorsiflessione, ja: "足関節背屈 (背屈)" } }
+  - { id: gait, names: { en: "Gait / locomotion", de: Fortbewegung, fr: "Marche / Locomotion", it: "Deambulazione / Locomozione", ja: "歩行 / ロコモーション" } }
+  - { id: other, names: { en: Other, de: Sonstiges, fr: Autre, it: Altro, ja: その他 } }
 
 # force_vector wird ABGELEITET, nicht annotiert.
 #
@@ -128,24 +128,24 @@ force_vector_by_pattern:
   other: null
 
 laterality:
-  - { id: bilateral, names: { en: Bilateral, de: Beidseitig } }
-  - { id: unilateral, names: { en: Unilateral, de: Einseitig } }
-  - { id: alternating, names: { en: Alternating, de: Alternierend } }
+  - { id: bilateral, names: { en: Bilateral, de: Beidseitig, fr: Bilatéral, it: Bilaterale, ja: "両側性 (バイラテラル)" } }
+  - { id: unilateral, names: { en: Unilateral, de: Einseitig, fr: Unilatéral, it: Unilaterale, ja: "片側性 (ユニラテラル)" } }
+  - { id: alternating, names: { en: Alternating, de: Alternierend, fr: Alterné, it: Alternato, ja: "交互 (オルタネーティング)" } }
 
 # Bestimmt die Log-Maske in der App. Ersetzt `Exercise.isCardio`.
 tracking_type:
   - id: weight_reps
-    names: { en: Weight & reps, de: Gewicht & Wiederholungen }
+    names: { en: "Weight & reps", de: "Gewicht & Wiederholungen", fr: "Poids & répétitions", it: "Peso & ripetizioni", ja: "重量 & 回数" }
   - id: bodyweight_reps
-    names: { en: Reps only, de: Nur Wiederholungen }
+    names: { en: Reps only, de: Nur Wiederholungen, fr: Répétitions uniquement, it: Solo ripetizioni, ja: 回数のみ }
   - id: time
-    names: { en: Duration, de: Dauer }
+    names: { en: Duration, de: Dauer, fr: Durée, it: "Tempo / Durata", ja: "時間 (タイマー)" }
   - id: time_weight
-    names: { en: Duration & weight, de: Dauer & Gewicht }
+    names: { en: "Duration & weight", de: "Dauer & Gewicht", fr: "Durée & poids", it: "Tempo & peso", ja: "時間 & 重量" }
   - id: distance_time
-    names: { en: Distance & duration, de: Distanz & Dauer }
+    names: { en: "Distance & duration", de: "Distanz & Dauer", fr: "Distance & durée", it: "Distanza & tempo", ja: "距離 & 時間" }
   - id: distance_only
-    names: { en: Distance, de: Distanz }
+    names: { en: Distance, de: Distanz, fr: Distance, it: Distanza, ja: 距離のみ }
 
 # Was die geloggte ZAHL bedeutet. Genau ein Wert.
 #
@@ -155,25 +155,25 @@ tracking_type:
 # Progressionserkennung die Entwicklung exakt rueckwaerts.
 load_mode:
   - id: external
-    names: { en: External load, de: Externe Last }
+    names: { en: External load, de: Externe Last, fr: Charge externe, it: Carico esterno, ja: "外付け負荷 (外部重量)" }
     # Die Zahl IST der Widerstand. Langhantel, Maschine, Kabel.
   - id: bodyweight
-    names: { en: Bodyweight, de: Körpergewicht }
+    names: { en: Bodyweight, de: Körpergewicht, fr: Poids du corps, it: Peso corporeo, ja: 自重負荷 }
     # Koerpergewicht bewegt sich; eine Zahl ist optionales Zusatzgewicht.
     # Klimmzug, Dip, Liegestuetz.
   - id: assisted
-    names: { en: Assisted, de: Unterstützt }
+    names: { en: Assisted, de: Unterstützt, fr: "Assisté / Délesté", it: "Assistito / Alleggerito", ja: "アシスト (負荷軽減)" }
     # Die Zahl VERRINGERT den Widerstand. Assistenzmaschine — mehr ist leichter.
   - id: variable
-    names: { en: Variable resistance, de: Variabler Widerstand }
+    names: { en: Variable resistance, de: Variabler Widerstand, fr: Résistance variable, it: Resistenza variabile, ja: "可変抵抗 (バンド等)" }
     # Die Zahl ist kein Kilogramm. Widerstandsband.
 
 difficulty:
-  - { id: beginner, names: { en: Beginner, de: Anfänger } }
-  - { id: intermediate, names: { en: Intermediate, de: Fortgeschritten } }
-  - { id: advanced, names: { en: Advanced, de: Experte } }
+  - { id: beginner, names: { en: Beginner, de: Anfänger, fr: Débutant, it: Principiante, ja: 初級 } }
+  - { id: intermediate, names: { en: Intermediate, de: Fortgeschritten, fr: Intermédiaire, it: Intermedio, ja: 中級 } }
+  - { id: advanced, names: { en: Advanced, de: Experte, fr: Avancé, it: Avanzato, ja: 上級 } }
 
 status:
-  - { id: active, names: { en: Active, de: Aktiv } }
-  - { id: deprecated, names: { en: Deprecated, de: Veraltet } }
-  - { id: merged, names: { en: Merged into another exercise, de: Zusammengeführt } }
+  - { id: active, names: { en: Active, de: Aktiv, fr: Actif, it: Attivo, ja: 有効 } }
+  - { id: deprecated, names: { en: Deprecated, de: Veraltet, fr: Obsolète, it: Deprecato, ja: 非推奨 } }
+  - { id: merged, names: { en: Merged into another exercise, de: Zusammengeführt, fr: Fusionné avec un autre exercice, it: Unito ad un altro esercizio, ja: 統合済み } }

@@ -25,294 +25,294 @@ version: 1
 
 groups:
   - id: chest
-    names: { en: Chest, de: Brust }
+    names: { en: Chest, de: Brust, fr: Poitrine, it: Petto, ja: 胸部 }
     legacy_wger_name: Chest
     body_slugs: [chest]
 
   - id: back
-    names: { en: Back, de: Rücken }
+    names: { en: Back, de: Rücken, fr: Dos, it: Schiena, ja: 背部 }
     body_slugs: [upperBack, trapezius]
 
   - id: lower_back
-    names: { en: Lower back, de: Unterer Rücken }
+    names: { en: Lower back, de: Unterer Rücken, fr: Bas du dos, it: Parte bassa della schiena, ja: 腰部 }
     body_slugs: [lowerBack]
 
   - id: shoulders
-    names: { en: Shoulders, de: Schultern }
+    names: { en: Shoulders, de: Schultern, fr: Épaules, it: Spalle, ja: 肩部 }
     legacy_wger_name: Shoulders
     body_slugs: [frontDeltoids, backDeltoids]
 
   - id: biceps
-    names: { en: Biceps, de: Bizeps }
+    names: { en: Biceps, de: Bizeps, fr: Biceps, it: Bicipiti, ja: 上腕二頭筋 }
     legacy_wger_name: Biceps
     body_slugs: [biceps]
 
   - id: triceps
-    names: { en: Triceps, de: Trizeps }
+    names: { en: Triceps, de: Trizeps, fr: Triceps, it: Tricipiti, ja: 上腕三頭筋 }
     legacy_wger_name: Triceps
     body_slugs: [triceps]
 
   - id: forearms
-    names: { en: Forearms, de: Unterarme }
+    names: { en: Forearms, de: Unterarme, fr: "Avant-bras", it: Avambracci, ja: 前腕部 }
     body_slugs: [forearms]
 
   - id: abs
-    names: { en: Core, de: Rumpf }
+    names: { en: Core, de: Rumpf, fr: "Tronc / Sangle abdominale", it: "Addominali / Core", ja: "体幹 / 腹部" }
     legacy_wger_name: Abs
     body_slugs: [abs, obliques]
 
   - id: glutes
-    names: { en: Glutes, de: Gesäß }
+    names: { en: Glutes, de: Gesäß, fr: Fessiers, it: Glutei, ja: 臀部 }
     legacy_wger_name: Glutes
     body_slugs: [gluteal]
 
   - id: quads
-    names: { en: Quadriceps, de: Quadrizeps }
+    names: { en: Quadriceps, de: Quadrizeps, fr: Quadriceps, it: Quadricipiti, ja: 大腿四頭筋 }
     legacy_wger_name: Quads
     body_slugs: [quadriceps]
 
   - id: hamstrings
-    names: { en: Hamstrings, de: Beinbeuger }
+    names: { en: Hamstrings, de: Beinbeuger, fr: "Ischio-jambiers", it: Femorali, ja: ハムストリングス }
     legacy_wger_name: Hamstrings
     body_slugs: [hamstrings]
 
   - id: adductors
-    names: { en: Adductors, de: Adduktoren }
+    names: { en: Adductors, de: Adduktoren, fr: Adducteurs, it: Adduttori, ja: 内転筋群 }
     body_slugs: [adductors]
 
   - id: calves
-    names: { en: Calves, de: Waden }
+    names: { en: Calves, de: Waden, fr: Mollets, it: Polpacci, ja: ふくらはぎ }
     legacy_wger_name: Calves
     body_slugs: [calves]
 
   # NEU gegenueber der App-Map: dort faellt 'neck' heute unter 'back'.
   - id: neck
-    names: { en: Neck, de: Nacken }
+    names: { en: Neck, de: Nacken, fr: Cou, it: Collo, ja: 頸部 }
     body_slugs: [neck]
 
 muscles:
   # ---------------- Chest ----------------
   - id: pectoralis_major
     group: chest
-    names: { en: Pectoralis major, de: Großer Brustmuskel }
+    names: { en: Pectoralis major, de: Großer Brustmuskel, fr: Grand pectoral, it: Gran pettorale, ja: 大胸筋 }
     body_slugs: [chest]
     heads:
       - id: pecs_clavicular
-        names: { en: Upper chest (clavicular), de: Obere Brust (klavikulär) }
+        names: { en: "Upper chest (clavicular)", de: "Obere Brust (klavikulär)", fr: "Haut des pectoraux (faisceau claviculaire)", it: "Pettorale alto (clavicolare)", ja: "大胸筋上部 (鎖骨部)" }
         body_slugs: [chest]
       - id: pecs_sternocostal
-        names: { en: Mid/lower chest (sternocostal), de: Mittlere/untere Brust }
+        names: { en: "Mid/lower chest (sternocostal)", de: "Mittlere/untere Brust", fr: "Milieu/bas des pectoraux (faisceau sterno-costal)", it: "Pettorale medio/basso (sterno-costale)", ja: "大胸筋中部・下部 (胸肋部)" }
         body_slugs: [chest]
   - id: pectoralis_minor
     group: chest
-    names: { en: Pectoralis minor, de: Kleiner Brustmuskel }
+    names: { en: Pectoralis minor, de: Kleiner Brustmuskel, fr: Petit pectoral, it: Piccolo pettorale, ja: 小胸筋 }
     body_slugs: [chest]
   - id: serratus_anterior
     group: chest
-    names: { en: Serratus anterior, de: Vorderer Sägemuskel }
+    names: { en: Serratus anterior, de: Vorderer Sägemuskel, fr: Dentelé antérieur, it: Dentato anteriore, ja: 前鋸筋 }
     body_slugs: [chest]
     legacy_group: back   # heutige App zaehlt serratus zu 'back'
 
   # ---------------- Back ----------------
   - id: latissimus_dorsi
     group: back
-    names: { en: Latissimus dorsi, de: Breiter Rückenmuskel }
+    names: { en: Latissimus dorsi, de: Breiter Rückenmuskel, fr: Grand dorsal, it: Gran dorsale, ja: 広背筋 }
     body_slugs: [upperBack]
   - id: trapezius
     group: back
-    names: { en: Trapezius, de: Trapezmuskel }
+    names: { en: Trapezius, de: Trapezmuskel, fr: Trapèze, it: Trapezio, ja: 僧帽筋 }
     body_slugs: [trapezius]
     heads:
       - id: traps_upper
-        names: { en: Upper traps, de: Oberer Trapez }
+        names: { en: Upper traps, de: Oberer Trapez, fr: Trapèze supérieur, it: Trapezio superiore, ja: 僧帽筋上部 }
         body_slugs: [trapezius]
       - id: traps_middle
-        names: { en: Middle traps, de: Mittlerer Trapez }
+        names: { en: Middle traps, de: Mittlerer Trapez, fr: Trapèze moyen, it: Trapezio medio, ja: 僧帽筋中部 }
         body_slugs: [trapezius, upperBack]
       - id: traps_lower
-        names: { en: Lower traps, de: Unterer Trapez }
+        names: { en: Lower traps, de: Unterer Trapez, fr: Trapèze inférieur, it: Trapezio inferiore, ja: 僧帽筋下部 }
         body_slugs: [upperBack]
   - id: rhomboids
     group: back
-    names: { en: Rhomboids, de: Rautenmuskeln }
+    names: { en: Rhomboids, de: Rautenmuskeln, fr: Rhomboïdes, it: Romboidi, ja: 菱形筋 }
     body_slugs: [upperBack]
   - id: teres_major
     group: back
-    names: { en: Teres major, de: Großer Rundmuskel }
+    names: { en: Teres major, de: Großer Rundmuskel, fr: Grand rond, it: Grande rotondo, ja: 大円筋 }
     body_slugs: [upperBack]
 
   # ---------------- Lower back ----------------
   - id: erector_spinae
     group: lower_back
-    names: { en: Erector spinae, de: Rückenstrecker }
+    names: { en: Erector spinae, de: Rückenstrecker, fr: Érecteurs du rachis, it: Erettori spinali, ja: 脊柱起立筋 }
     body_slugs: [lowerBack]
   - id: quadratus_lumborum
     group: lower_back
-    names: { en: Quadratus lumborum, de: Quadratischer Lendenmuskel }
+    names: { en: Quadratus lumborum, de: Quadratischer Lendenmuskel, fr: Carré des lombes, it: Quadrato dei lombi, ja: 腰方形筋 }
     body_slugs: [lowerBack]
 
   # ---------------- Shoulders ----------------
   - id: deltoid
     group: shoulders
-    names: { en: Deltoid, de: Deltamuskel }
+    names: { en: Deltoid, de: Deltamuskel, fr: Deltoïde, it: Deltoide, ja: 三角筋 }
     body_slugs: [frontDeltoids, backDeltoids]
     heads:
       - id: delt_anterior
-        names: { en: Front delt, de: Vordere Schulter }
+        names: { en: Front delt, de: Vordere Schulter, fr: Deltoïde antérieur, it: Deltoide anteriore, ja: 三角筋前部 }
         body_slugs: [frontDeltoids]
       - id: delt_lateral
-        names: { en: Side delt, de: Seitliche Schulter }
+        names: { en: Side delt, de: Seitliche Schulter, fr: Deltoïde latéral, it: Deltoide laterale, ja: "三角筋中部 (側部)" }
         body_slugs: [frontDeltoids, backDeltoids]
       - id: delt_posterior
-        names: { en: Rear delt, de: Hintere Schulter }
+        names: { en: Rear delt, de: Hintere Schulter, fr: Deltoïde postérieur, it: Deltoide posteriore, ja: 三角筋後部 }
         body_slugs: [backDeltoids]
   - id: rotator_cuff
     group: shoulders
-    names: { en: Rotator cuff, de: Rotatorenmanschette }
+    names: { en: Rotator cuff, de: Rotatorenmanschette, fr: Coiffe des rotateurs, it: Cuffia dei rotatori, ja: "回旋筋腱板 (ローテーターカフ)" }
     body_slugs: [backDeltoids]
 
   # ---------------- Arms ----------------
   - id: biceps_brachii
     group: biceps
-    names: { en: Biceps brachii, de: Bizeps }
+    names: { en: Biceps brachii, de: Bizeps, fr: Biceps brachial, it: Bicipite brachiale, ja: 上腕二頭筋 }
     body_slugs: [biceps]
     heads:
       - id: biceps_long_head
-        names: { en: Biceps long head, de: Langer Bizepskopf }
+        names: { en: Biceps long head, de: Langer Bizepskopf, fr: "Biceps (chef long)", it: Capo lungo del bicipite, ja: 上腕二頭筋長頭 }
         body_slugs: [biceps_long]
       - id: biceps_short_head
-        names: { en: Biceps short head, de: Kurzer Bizepskopf }
+        names: { en: Biceps short head, de: Kurzer Bizepskopf, fr: "Biceps (chef court)", it: Capo corto del bicipite, ja: 上腕二頭筋短頭 }
         body_slugs: [biceps_short]
   - id: brachialis
     group: biceps
-    names: { en: Brachialis, de: Armbeuger }
+    names: { en: Brachialis, de: Armbeuger, fr: Brachial antérieur, it: Brachiale, ja: 上腕筋 }
     body_slugs: [biceps]
   - id: triceps_brachii
     group: triceps
-    names: { en: Triceps brachii, de: Trizeps }
+    names: { en: Triceps brachii, de: Trizeps, fr: Triceps brachial, it: Tricipite brachiale, ja: 上腕三頭筋 }
     body_slugs: [triceps]
     heads:
       - id: triceps_long_head
-        names: { en: Triceps long head, de: Langer Trizepskopf }
+        names: { en: Triceps long head, de: Langer Trizepskopf, fr: "Triceps (chef long)", it: Capo lungo del tricipite, ja: 上腕三頭筋長頭 }
         body_slugs: [triceps]
       - id: triceps_lateral_head
-        names: { en: Triceps lateral head, de: Seitlicher Trizepskopf }
+        names: { en: Triceps lateral head, de: Seitlicher Trizepskopf, fr: "Triceps (chef latéral)", it: Capo laterale del tricipite, ja: 上腕三頭筋外側頭 }
         body_slugs: [triceps]
       - id: triceps_medial_head
-        names: { en: Triceps medial head, de: Innerer Trizepskopf }
+        names: { en: Triceps medial head, de: Innerer Trizepskopf, fr: "Triceps (chef médial)", it: Capo mediale del tricipite, ja: 上腕三頭筋内側頭 }
         body_slugs: [triceps]
   - id: brachioradialis
     group: forearms
-    names: { en: Brachioradialis, de: Oberarmspeichenmuskel }
+    names: { en: Brachioradialis, de: Oberarmspeichenmuskel, fr: "Brachio-radial", it: Brachioradiale, ja: 腕橈骨筋 }
     body_slugs: [forearms]
   - id: wrist_flexors
     group: forearms
-    names: { en: Wrist flexors, de: Handgelenkbeuger }
+    names: { en: Wrist flexors, de: Handgelenkbeuger, fr: Fléchisseurs du poignet, it: Flessori del polso, ja: 手根屈筋群 }
     body_slugs: [forearms]
   - id: wrist_extensors
     group: forearms
-    names: { en: Wrist extensors, de: Handgelenkstrecker }
+    names: { en: Wrist extensors, de: Handgelenkstrecker, fr: Extenseurs du poignet, it: Estensori del polso, ja: 手根伸筋群 }
     body_slugs: [forearms]
 
   # ---------------- Core ----------------
   - id: rectus_abdominis
     group: abs
-    names: { en: Rectus abdominis, de: Gerader Bauchmuskel }
+    names: { en: Rectus abdominis, de: Gerader Bauchmuskel, fr: Grand droit de l’abdomen, it: Retto dell’addome, ja: 腹直筋 }
     body_slugs: [abs]
   - id: obliques
     group: abs
-    names: { en: Obliques, de: Schräge Bauchmuskeln }
+    names: { en: Obliques, de: Schräge Bauchmuskeln, fr: Obliques, it: Addominali obliqui, ja: 腹斜筋 }
     body_slugs: [obliques]
     heads:
       - id: obliques_external
-        names: { en: External obliques, de: Äußere schräge Bauchmuskeln }
+        names: { en: External obliques, de: Äußere schräge Bauchmuskeln, fr: Obliques externes, it: Obliquo esterno, ja: 外腹斜筋 }
         body_slugs: [obliques]
       - id: obliques_internal
-        names: { en: Internal obliques, de: Innere schräge Bauchmuskeln }
+        names: { en: Internal obliques, de: Innere schräge Bauchmuskeln, fr: Obliques internes, it: Obliquo interno, ja: 内腹斜筋 }
         body_slugs: [obliques]
   - id: transversus_abdominis
     group: abs
-    names: { en: Transversus abdominis, de: Querer Bauchmuskel }
+    names: { en: Transversus abdominis, de: Querer Bauchmuskel, fr: Transverse de l’abdomen, it: Trasverso dell’addome, ja: 腹横筋 }
     body_slugs: [abs]
   - id: diaphragm
     group: abs
-    names: { en: Diaphragm, de: Zwerchfell }
+    names: { en: Diaphragm, de: Zwerchfell, fr: Diaphragme, it: Diaframma, ja: 横隔膜 }
     body_slugs: []
   - id: hip_flexors
     group: abs
-    names: { en: Hip flexors (iliopsoas), de: Hüftbeuger }
+    names: { en: "Hip flexors (iliopsoas)", de: Hüftbeuger, fr: "Fléchisseurs de la hanche (ilio-psoas)", it: "Flessori dell’anca (ileopsoas)", ja: "腸腰筋 (股関節屈筋群)" }
     body_slugs: []
     legacy_group: glutes   # heutige App zaehlt hip flexors zu 'glutes'
 
   # ---------------- Hips & legs ----------------
   - id: gluteus_maximus
     group: glutes
-    names: { en: Gluteus maximus, de: Großer Gesäßmuskel }
+    names: { en: Gluteus maximus, de: Großer Gesäßmuskel, fr: Grand fessier, it: Grande gluteo, ja: 大臀筋 }
     body_slugs: [gluteal]
   - id: gluteus_medius
     group: glutes
-    names: { en: Gluteus medius, de: Mittlerer Gesäßmuskel }
+    names: { en: Gluteus medius, de: Mittlerer Gesäßmuskel, fr: Moyen fessier, it: Medio gluteo, ja: 中臀筋 }
     body_slugs: [gluteal, abductors]
   - id: gluteus_minimus
     group: glutes
-    names: { en: Gluteus minimus, de: Kleiner Gesäßmuskel }
+    names: { en: Gluteus minimus, de: Kleiner Gesäßmuskel, fr: Petit fessier, it: Piccolo gluteo, ja: 小臀筋 }
     body_slugs: [gluteal, abductors]
   - id: quadriceps
     group: quads
-    names: { en: Quadriceps, de: Quadrizeps }
+    names: { en: Quadriceps, de: Quadrizeps, fr: Quadriceps, it: Quadricipite femorale, ja: 大腿四頭筋 }
     body_slugs: [quadriceps]
     heads:
       - id: rectus_femoris
-        names: { en: Rectus femoris, de: Gerader Oberschenkelmuskel }
+        names: { en: Rectus femoris, de: Gerader Oberschenkelmuskel, fr: Droit fémoral, it: Retto femorale, ja: 大腿直筋 }
         body_slugs: [quadriceps]
       - id: vastus_lateralis
-        names: { en: Vastus lateralis, de: Äußerer Oberschenkelmuskel }
+        names: { en: Vastus lateralis, de: Äußerer Oberschenkelmuskel, fr: Vaste latéral, it: Vasto laterale, ja: 外側広筋 }
         body_slugs: [quadriceps]
       - id: vastus_medialis
-        names: { en: Vastus medialis, de: Innerer Oberschenkelmuskel }
+        names: { en: Vastus medialis, de: Innerer Oberschenkelmuskel, fr: Vaste médial, it: Vasto mediale, ja: 内側広筋 }
         body_slugs: [quadriceps]
       - id: vastus_intermedius
-        names: { en: Vastus intermedius, de: Mittlerer Oberschenkelmuskel }
+        names: { en: Vastus intermedius, de: Mittlerer Oberschenkelmuskel, fr: Vaste intermédiaire, it: Vasto intermedio, ja: 中間広筋 }
         body_slugs: [quadriceps]
   - id: hamstring_complex
     group: hamstrings
-    names: { en: Hamstrings, de: Beinbeuger }
+    names: { en: Hamstrings, de: Beinbeuger, fr: "Ischio-jambiers", it: "Muscoli ischiocrurali (femorali)", ja: ハムストリングス }
     body_slugs: [hamstrings]
     heads:
       - id: biceps_femoris
-        names: { en: Biceps femoris, de: Zweiköpfiger Schenkelmuskel }
+        names: { en: Biceps femoris, de: Zweiköpfiger Schenkelmuskel, fr: Biceps fémoral, it: Bicipite femorale, ja: 大腿二頭筋 }
         body_slugs: [hamstrings]
       - id: semitendinosus
-        names: { en: Semitendinosus, de: Halbsehnenmuskel }
+        names: { en: Semitendinosus, de: Halbsehnenmuskel, fr: "Semi-tendineux", it: Semitendinoso, ja: 半腱様筋 }
         body_slugs: [hamstrings]
       - id: semimembranosus
-        names: { en: Semimembranosus, de: Plattsehnenmuskel }
+        names: { en: Semimembranosus, de: Plattsehnenmuskel, fr: "Semi-membraneux", it: Semimembranoso, ja: 半膜様筋 }
         body_slugs: [hamstrings]
   - id: hip_adductors
     group: adductors
-    names: { en: Hip adductors, de: Hüftadduktoren }
+    names: { en: Hip adductors, de: Hüftadduktoren, fr: Adducteurs de la hanche, it: Adduttori dell’anca, ja: 股関節内転筋群 }
     body_slugs: [adductors]
   - id: gastrocnemius
     group: calves
-    names: { en: Gastrocnemius, de: Zwillingswadenmuskel }
+    names: { en: Gastrocnemius, de: Zwillingswadenmuskel, fr: Gastrocnémien, it: "Gastrocnemio (gemelli)", ja: 腓腹筋 }
     body_slugs: [calves]
   - id: soleus
     group: calves
-    names: { en: Soleus, de: Schollenmuskel }
+    names: { en: Soleus, de: Schollenmuskel, fr: Soléaire, it: Soleo, ja: ヒラメ筋 }
     body_slugs: [calves]
   - id: tibialis_anterior
     group: calves
-    names: { en: Tibialis anterior, de: Vorderer Schienbeinmuskel }
+    names: { en: Tibialis anterior, de: Vorderer Schienbeinmuskel, fr: Tibial antérieur, it: Tibiale anteriore, ja: 前脛骨筋 }
     body_slugs: [tibialisAnterior]
 
   # ---------------- Neck ----------------
   - id: neck_flexors
     group: neck
-    names: { en: Neck flexors, de: Halsbeuger }
+    names: { en: Neck flexors, de: Halsbeuger, fr: Fléchisseurs du cou, it: Flessori del collo, ja: 頸部屈筋群 }
     body_slugs: [neck]
   - id: neck_extensors
     group: neck
-    names: { en: Neck extensors, de: Nackenstrecker }
+    names: { en: Neck extensors, de: Nackenstrecker, fr: Extenseurs du cou, it: Estensori del collo, ja: 頸部伸筋群 }
     body_slugs: [neck]
 
 # Rohwerte aus dem wger-Bestand -> Knoten dieses Vokabulars.

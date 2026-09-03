@@ -1,0 +1,1606 @@
+version: 1
+description: Authoritative glossary of recurring fitness terminology derived from
+  the 869 active English exercise names and descriptions.
+collision_rule: Where a glossary term collides with an authoritative vocab/*.yaml
+  label, the vocab label wins.
+terms:
+- term: barbell
+  frequency_in_corpus: 102
+  translations:
+    de: Langhantel
+    fr: Barre
+    it: Bilanciere
+    ja: バーベル
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.barbell
+    precedence: vocab label wins
+- term: dumbbell
+  frequency_in_corpus: 176
+  translations:
+    de: Kurzhantel
+    fr: Haltère
+    it: Manubrio
+    ja: ダンベル
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.dumbbell
+    precedence: vocab label wins
+- term: dumbbells
+  frequency_in_corpus: 113
+  translations:
+    de: Kurzhanteln
+    fr: Haltères
+    it: Manubri
+    ja: ダンベル
+- term: kettlebell
+  frequency_in_corpus: 43
+  translations:
+    de: Kettlebell
+    fr: Kettlebell
+    it: Kettlebell
+    ja: ケトルベル
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.kettlebell
+    precedence: vocab label wins
+- term: cable
+  frequency_in_corpus: 156
+  translations:
+    de: Kabelzug
+    fr: Câble / Poulie
+    it: Cavo
+    ja: ケーブル
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.cable
+    precedence: vocab label wins
+- term: cables
+  frequency_in_corpus: 13
+  translations:
+    de: Kabelzüge
+    fr: Câbles / Poulies
+    it: Cavi
+    ja: ケーブル
+- term: pulley
+  frequency_in_corpus: 34
+  translations:
+    de: Kabelzug / Rolle
+    fr: Poulie
+    it: Carrucola / Cavo
+    ja: プーリー / 滑車
+- term: machine
+  frequency_in_corpus: 122
+  translations:
+    de: Maschine
+    fr: Machine
+    it: Macchina
+    ja: マシン
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.machine
+    precedence: vocab label wins
+- term: smith machine
+  frequency_in_corpus: 11
+  translations:
+    de: Multipresse
+    fr: Cadre guidé (Smith machine)
+    it: Smith machine (Multipower)
+    ja: スミスマシン
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.smith_machine
+    precedence: vocab label wins
+- term: bench
+  frequency_in_corpus: 157
+  translations:
+    de: Hantelbank
+    fr: Banc
+    it: Panca
+    ja: ベンチ
+- term: flat bench
+  frequency_in_corpus: 8
+  translations:
+    de: Flachbank
+    fr: Banc plat
+    it: Panca piana
+    ja: フラットベンチ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.flat_bench
+    precedence: vocab label wins
+- term: incline bench
+  frequency_in_corpus: 12
+  translations:
+    de: Schrägbank
+    fr: Banc incliné
+    it: Panca inclinata
+    ja: インクラインベンチ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.incline_bench
+    precedence: vocab label wins
+- term: decline bench
+  frequency_in_corpus: 8
+  translations:
+    de: Negativbank
+    fr: Banc décliné
+    it: Panca reclinata
+    ja: デクラインベンチ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.decline_bench
+    precedence: vocab label wins
+- term: preacher bench
+  frequency_in_corpus: 4
+  translations:
+    de: Scottbank
+    fr: Banc Larry Scott
+    it: Panca Scott
+    ja: プリーチャーベンチ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.preacher_bench
+    precedence: vocab label wins
+- term: squat rack
+  frequency_in_corpus: 1
+  translations:
+    de: Kniebeugenständer
+    fr: Rack à squat
+    it: Rack per squat
+    ja: スクワットラック
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.squat_rack
+    precedence: vocab label wins
+- term: power rack
+  frequency_in_corpus: 0
+  translations:
+    de: Power Rack
+    fr: Cage à squat (Power rack)
+    it: Power rack
+    ja: パワーラック
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.power_rack
+    precedence: vocab label wins
+- term: pull-up bar
+  frequency_in_corpus: 6
+  translations:
+    de: Klimmzugstange
+    fr: Barre de traction
+    it: Sbarra per trazioni
+    ja: プルアップバー / 懸垂バー
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.pullup_bar
+    precedence: vocab label wins
+- term: dip bars
+  frequency_in_corpus: 1
+  translations:
+    de: Dip-Barren
+    fr: Barres parallèles à dips
+    it: Parallele per dip
+    ja: ディップスバー
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.dip_bars
+    precedence: vocab label wins
+- term: resistance band
+  frequency_in_corpus: 10
+  translations:
+    de: Widerstandsband
+    fr: Bande de résistance
+    it: Elastico di resistenza
+    ja: レジスタンスバンド
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.resistance_band
+    precedence: vocab label wins
+- term: swiss ball
+  frequency_in_corpus: 0
+  translations:
+    de: Gymnastikball
+    fr: Ballon de gymnastique (Swiss ball)
+    it: Palla da ginnastica (Swiss ball)
+    ja: バランスボール
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.swiss_ball
+    precedence: vocab label wins
+- term: plyo box
+  frequency_in_corpus: 0
+  translations:
+    de: Sprungkasten / Stepper
+    fr: Boîte de pliométrie / Step
+    it: Box pliometrico / Step
+    ja: プライオボックス / ステップ台
+- term: mat
+  frequency_in_corpus: 14
+  translations:
+    de: Matte
+    fr: Tapis de sol
+    it: Tappetino
+    ja: マット
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.mat
+    precedence: vocab label wins
+- term: ab wheel
+  frequency_in_corpus: 2
+  translations:
+    de: Bauchroller
+    fr: Roue abdominale
+    it: Ruota per addominali (Ab wheel)
+    ja: アブローラー
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.ab_wheel
+    precedence: vocab label wins
+- term: parallettes
+  frequency_in_corpus: 11
+  translations:
+    de: Parallettes
+    fr: Parallettes
+    it: Parallettes
+    ja: パラレット
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.parallettes
+    precedence: vocab label wins
+- term: landmine
+  frequency_in_corpus: 8
+  translations:
+    de: Landmine
+    fr: Landmine
+    it: Landmine
+    ja: ランドマイン
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.landmine
+    precedence: vocab label wins
+- term: ankle straps
+  frequency_in_corpus: 0
+  translations:
+    de: Fußschlaufen
+    fr: Sangles de cheville
+    it: Cavigliere per cavi
+    ja: アンクルストラップ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.ankle_straps
+    precedence: vocab label wins
+- term: foam roller
+  frequency_in_corpus: 14
+  translations:
+    de: Faszienrolle
+    fr: Rouleau de massage (Foam roller)
+    it: Rullo massaggiatore (Foam roller)
+    ja: フォームローラー
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.foam_roller
+    precedence: vocab label wins
+- term: lacrosse ball
+  frequency_in_corpus: 0
+  translations:
+    de: Faszienball / Massageball
+    fr: Balle de massage
+    it: Pallina da massaggio
+    ja: マッサージボール
+- term: punching bag
+  frequency_in_corpus: 0
+  translations:
+    de: Boxsack
+    fr: Sac de frappe
+    it: Sacco da boxe
+    ja: サンドバッグ (打撃用)
+- term: battle ropes
+  frequency_in_corpus: 1
+  translations:
+    de: Battle Ropes
+    fr: Cordes ondulatoires (Battle ropes)
+    it: Battle ropes (funi da allenamento)
+    ja: バトルロープ
+  collision:
+    vocab_ref: vocab/equipment.yaml::setup.battle_ropes
+    precedence: vocab label wins
+- term: sliders
+  frequency_in_corpus: 0
+  translations:
+    de: Slider / Gleitscheiben
+    fr: Disques de glisse
+    it: Dischi di scivolamento
+    ja: スライディングディスク
+- term: weight plate
+  frequency_in_corpus: 8
+  translations:
+    de: Hantelscheibe
+    fr: Disque de poids
+    it: Disco
+    ja: プレート
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.weight_plate
+    precedence: vocab label wins
+- term: medicine ball
+  frequency_in_corpus: 5
+  translations:
+    de: Medizinball
+    fr: Médecine-ball
+    it: Palla medica
+    ja: メディシンボール
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.medicine_ball
+    precedence: vocab label wins
+- term: sandbag
+  frequency_in_corpus: 0
+  translations:
+    de: Sandsack
+    fr: Sac de sable
+    it: Sacca di sabbia
+    ja: サンドバッグ
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.sandbag
+    precedence: vocab label wins
+- term: sled
+  frequency_in_corpus: 6
+  translations:
+    de: Schlitten
+    fr: Traîneau de musculation
+    it: Slitta da traino
+    ja: スレッド
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.sled
+    precedence: vocab label wins
+- term: jump rope
+  frequency_in_corpus: 2
+  translations:
+    de: Springseil
+    fr: Corde à sauter
+    it: Corda per saltare
+    ja: 縄跳び
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.jump_rope
+    precedence: vocab label wins
+- term: suspension trainer
+  frequency_in_corpus: 1
+  translations:
+    de: Schlingentrainer
+    fr: Sangles de suspension
+    it: Cavi di sospensione (TRX)
+    ja: サスペンショントレーナー
+  collision:
+    vocab_ref: vocab/equipment.yaml::primary_equipment.suspension_trainer
+    precedence: vocab label wins
+- term: grip
+  frequency_in_corpus: 161
+  translations:
+    de: Griff
+    fr: Prise
+    it: Presa
+    ja: グリップ / 握り
+- term: overhand grip
+  frequency_in_corpus: 22
+  translations:
+    de: Obergriff
+    fr: Prise en pronation
+    it: Presa prona
+    ja: オーバーハンドグリップ (順手)
+- term: underhand grip
+  frequency_in_corpus: 5
+  translations:
+    de: Untergriff
+    fr: Prise en supination
+    it: Presa supina
+    ja: アンダーハンドグリップ (逆手)
+- term: neutral grip
+  frequency_in_corpus: 16
+  translations:
+    de: Neutralgriff
+    fr: Prise neutre
+    it: Presa neutra
+    ja: ニュートラルグリップ (平行握り)
+- term: reverse grip
+  frequency_in_corpus: 3
+  translations:
+    de: Untergriff / Reverser Griff
+    fr: Prise inversée
+    it: Presa inversa
+    ja: リバースグリップ
+- term: wide grip
+  frequency_in_corpus: 13
+  translations:
+    de: Breiter Griff
+    fr: Prise large
+    it: Presa larga
+    ja: ワイドグリップ (広背筋・胸等)
+- term: narrow grip
+  frequency_in_corpus: 6
+  translations:
+    de: Enger Griff
+    fr: Prise serrée
+    it: Presa stretta
+    ja: ナローグリップ (狭い握り)
+- term: close grip
+  frequency_in_corpus: 8
+  translations:
+    de: Enger Griff
+    fr: Prise serrée
+    it: Presa stretta
+    ja: クローズグリップ
+- term: pronated grip
+  frequency_in_corpus: 3
+  translations:
+    de: Obergriff (proniert)
+    fr: Prise pronée
+    it: Presa prona
+    ja: プロネーショングリップ (回内)
+- term: supinated grip
+  frequency_in_corpus: 5
+  translations:
+    de: Untergriff (supiniert)
+    fr: Prise supinée
+    it: Presa supina
+    ja: スピネーショングリップ (回外)
+- term: hook grip
+  frequency_in_corpus: 1
+  translations:
+    de: Daumenklemme (Hook Grip)
+    fr: Prise en crochet
+    it: Presa a gancio
+    ja: フックグリップ
+- term: palms facing
+  frequency_in_corpus: 42
+  translations:
+    de: Handflächen zeigen
+    fr: Paumes tournées
+    it: Palmi rivolti
+    ja: 手のひらを向ける
+- term: palms facing each other
+  frequency_in_corpus: 6
+  translations:
+    de: Handflächen zeigen zueinander
+    fr: Paumes face à face
+    it: Palmi rivolti l'uno verso l'altro
+    ja: 手のひらを向かい合わせる
+- term: palms facing forward
+  frequency_in_corpus: 5
+  translations:
+    de: Handflächen nach vorne
+    fr: Paumes vers l'avant
+    it: Palmi rivolti in avanti
+    ja: 手のひらを前に向ける
+- term: palms facing up
+  frequency_in_corpus: 5
+  translations:
+    de: Handflächen nach oben
+    fr: Paumes vers le haut
+    it: Palmi verso l'alto
+    ja: 手のひらを上に向ける
+- term: palms facing down
+  frequency_in_corpus: 7
+  translations:
+    de: Handflächen nach unten
+    fr: Paumes vers le bas
+    it: Palmi verso il basso
+    ja: 手のひらを下に向ける
+- term: starting position
+  frequency_in_corpus: 204
+  translations:
+    de: Ausgangsposition
+    fr: Position de départ
+    it: Posizione di partenza
+    ja: スタートポジション / 開始姿勢
+- term: standing
+  frequency_in_corpus: 77
+  translations:
+    de: Stehend
+    fr: Debout
+    it: In piedi
+    ja: 立位 (スタンディング)
+- term: seated
+  frequency_in_corpus: 49
+  translations:
+    de: Sitzend
+    fr: Assis
+    it: Seduto
+    ja: 座位 (シーテッド)
+- term: lying
+  frequency_in_corpus: 25
+  translations:
+    de: Liegend
+    fr: Allongé
+    it: Sdraiato
+    ja: 臥位 (ライイング)
+- term: kneeling
+  frequency_in_corpus: 13
+  translations:
+    de: Kniend
+    fr: À genoux
+    it: In ginocchio
+    ja: 膝立ち (ニーリング)
+- term: prone
+  frequency_in_corpus: 3
+  translations:
+    de: Bauchlage
+    fr: À plat ventre (sur le ventre)
+    it: Prono (a pancia in giù)
+    ja: 伏臥位 (うつ伏せ)
+- term: supine
+  frequency_in_corpus: 4
+  translations:
+    de: Rückenlage
+    fr: Sur le dos
+    it: Supino (a pancia in su)
+    ja: 仰臥位 (仰向け)
+- term: shoulder-width
+  frequency_in_corpus: 54
+  translations:
+    de: Schulterbreit
+    fr: Largeur des épaules
+    it: Larghezza delle spalle
+    ja: 肩幅
+- term: shoulder-width apart
+  frequency_in_corpus: 45
+  translations:
+    de: Schulterbreit auseinander
+    fr: Écartés de la largeur des épaules
+    it: Distanziati alla larghezza delle spalle
+    ja: 肩幅に開く
+- term: hip-width
+  frequency_in_corpus: 24
+  translations:
+    de: Hüftbreit
+    fr: Largeur des hanches
+    it: Larghezza dei fianchi
+    ja: 腰幅 / 股関節幅
+- term: hip-width apart
+  frequency_in_corpus: 24
+  translations:
+    de: Hüftbreit auseinander
+    fr: Écartés de la largeur des hanches
+    it: Distanziati alla larghezza dei fianchi
+    ja: 腰幅に開く
+- term: feet flat
+  frequency_in_corpus: 13
+  translations:
+    de: Füße flach aufgestellt
+    fr: Pieds à plat
+    it: Piedi piatti a terra
+    ja: 足裏を床に密着させる
+- term: flat on the floor
+  frequency_in_corpus: 10
+  translations:
+    de: Flach auf dem Boden
+    fr: À plat sur le sol
+    it: Piatto sul pavimento
+    ja: 床に平らに置く
+- term: back straight
+  frequency_in_corpus: 54
+  translations:
+    de: Rücken gerade
+    fr: Dos droit
+    it: Schiena dritta
+    ja: 背筋を伸ばす
+- term: straight line
+  frequency_in_corpus: 24
+  translations:
+    de: Gerade Linie
+    fr: Ligne droite
+    it: Linea retta
+    ja: 一直線
+- term: upper body
+  frequency_in_corpus: 53
+  translations:
+    de: Oberkörper
+    fr: Haut du corps
+    it: Parte superiore del corpo
+    ja: 上半身
+- term: lower body
+  frequency_in_corpus: 9
+  translations:
+    de: Unterkörper
+    fr: Bas du corps
+    it: Parte inferiore del corpo
+    ja: 下半身
+- term: torso
+  frequency_in_corpus: 84
+  translations:
+    de: Rumpf / Oberkörper
+    fr: Buste / Torse
+    it: Tronco / Busto
+    ja: 胴体 / トルソー
+- term: range of motion
+  frequency_in_corpus: 20
+  translations:
+    de: Bewegungsamplitude (ROM)
+    fr: Amplitude de mouvement
+    it: Raggio di movimento (ROM)
+    ja: 可動域 (ROM)
+- term: full range of motion
+  frequency_in_corpus: 4
+  translations:
+    de: Volle Bewegungsamplitude
+    fr: Pleine amplitude de mouvement
+    it: Piena escursione articolare
+    ja: フルレンジ可動域
+- term: parallel to the floor
+  frequency_in_corpus: 25
+  translations:
+    de: Parallel zum Boden
+    fr: Parallèle au sol
+    it: Parallelo al pavimento
+    ja: 床と平行
+- term: parallel to the ground
+  frequency_in_corpus: 7
+  translations:
+    de: Parallel zum Boden
+    fr: Parallèle au sol
+    it: Parallelo al suolo
+    ja: 地面と平行
+- term: 90 degrees
+  frequency_in_corpus: 14
+  translations:
+    de: 90 Grad
+    fr: 90 degrés
+    it: 90 gradi
+    ja: 90度
+- term: lockout
+  frequency_in_corpus: 8
+  translations:
+    de: Vollständige Streckung / Lockout
+    fr: Verrouillage articulaire
+    it: Blocco articolare
+    ja: ロックアウト (関節の完全伸展)
+- term: full extension
+  frequency_in_corpus: 3
+  translations:
+    de: Vollständige Streckung
+    fr: Extension complète
+    it: Estensione completa
+    ja: 完全伸展
+- term: brace your core
+  frequency_in_corpus: 7
+  translations:
+    de: Rumpf anspannen
+    fr: Gainer le tronc
+    it: Contrarre il core
+    ja: 体幹に力を入れる (腹圧を高める)
+- term: engage your core
+  frequency_in_corpus: 10
+  translations:
+    de: Rumpf aktivieren
+    fr: Engager la sangle abdominale
+    it: Attivare il core
+    ja: 体幹を意識する
+- term: tighten your core
+  frequency_in_corpus: 0
+  translations:
+    de: Bauchmuskeln anspannen
+    fr: Serrer les abdominaux
+    it: Stringere gli addominali
+    ja: 腹筋を引き締める
+- term: shoulder blades
+  frequency_in_corpus: 43
+  translations:
+    de: Schulterblätter
+    fr: Omoplates
+    it: Scapole
+    ja: 肩甲骨
+- term: retract your shoulder blades
+  frequency_in_corpus: 2
+  translations:
+    de: Schulterblätter zusammenziehen
+    fr: Resserrer les omoplates
+    it: Addurre le scapole
+    ja: 肩甲骨を寄せる (内転)
+- term: squeeze your glutes
+  frequency_in_corpus: 1
+  translations:
+    de: Gesäß anspannen
+    fr: Contracter les fessiers
+    it: Stringere i glutei
+    ja: 大臀筋を収縮させる
+- term: elbows tucked
+  frequency_in_corpus: 6
+  translations:
+    de: Ellbogen eng am Körper
+    fr: Coudes serrés le long du corps
+    it: Gomiti vicini al busto
+    ja: 肘を閉じる / 体側に寄せる
+- term: flared elbows
+  frequency_in_corpus: 0
+  translations:
+    de: Ausgestellte Ellbogen
+    fr: Coudes écartés
+    it: Gomiti larghi
+    ja: 肘を開く
+- term: until your chin clears the bar
+  frequency_in_corpus: 0
+  translations:
+    de: Bis das Kinn über die Stange reicht
+    fr: Jusqu’à ce que le menton dépasse la barre
+    it: Finché il mento non supera la sbarra
+    ja: 顎がバーを超えるまで
+- term: chest up
+  frequency_in_corpus: 14
+  translations:
+    de: Brust raus / Aufrechte Brust
+    fr: Poitrine sortie / Poitrine haute
+    it: Petto in fuori
+    ja: 胸を張る
+- term: keep your back straight
+  frequency_in_corpus: 10
+  translations:
+    de: Rücken gerade halten
+    fr: Garder le dos droit
+    it: Mantenere la schiena dritta
+    ja: 背筋を真っ直ぐ保つ
+- term: slowly lower
+  frequency_in_corpus: 38
+  translations:
+    de: Langsam absenken
+    fr: Descendre lentement
+    it: Abbassare lentamente
+    ja: ゆっくり下ろす (エキセントリック)
+- term: press up
+  frequency_in_corpus: 3
+  translations:
+    de: Nach oben drücken
+    fr: Pousser vers le haut
+    it: Spingere verso l'alto
+    ja: 上に押し上げる
+- term: push through your heels
+  frequency_in_corpus: 1
+  translations:
+    de: Über die Fersen drücken
+    fr: Pousser sur les talons
+    it: Spingere sui talloni
+    ja: 踵で地面を押す
+- term: hinge at the hips
+  frequency_in_corpus: 7
+  translations:
+    de: In der Hüfte beugen
+    fr: Fléchir au niveau des hanches
+    it: Flettere all'altezza delle anche
+    ja: 股関節から折り曲げる (ヒンジ)
+- term: bend your knees
+  frequency_in_corpus: 14
+  translations:
+    de: Knie beugen
+    fr: Plier les genoux
+    it: Piegare le ginocchia
+    ja: 膝を曲げる
+- term: extend your arms
+  frequency_in_corpus: 10
+  translations:
+    de: Arme strecken
+    fr: Tendre les bras
+    it: Distendere le braccia
+    ja: 腕を伸ばす
+- term: straighten your arms
+  frequency_in_corpus: 3
+  translations:
+    de: Arme durchstrecken
+    fr: Tendre complètement les bras
+    it: Raddrizzare le braccia
+    ja: 腕を真っ直ぐ伸ばす
+- term: lift your hips
+  frequency_in_corpus: 1
+  translations:
+    de: Hüfte anheben
+    fr: Lever les hanches
+    it: Sollevare i fianchi
+    ja: 腰を持ち上げる
+- term: pause at the top
+  frequency_in_corpus: 7
+  translations:
+    de: Oben kurz halten
+    fr: Marquer une pause en haut
+    it: Fermarsi in cima
+    ja: トップポジションで静止する
+- term: controlled movement
+  frequency_in_corpus: 20
+  translations:
+    de: Kontrollierte Bewegung
+    fr: Mouvement contrôlé
+    it: Movimento controllato
+    ja: コントロールされた動作
+- term: momentum
+  frequency_in_corpus: 22
+  translations:
+    de: Schwung
+    fr: Élan
+    it: Slancio / Inerzia
+    ja: 反動 / モメンタム
+- term: do not swing
+  frequency_in_corpus: 1
+  translations:
+    de: Nicht mit Schwung arbeiten
+    fr: Ne pas balancer
+    it: Non dondolare
+    ja: 反動を使わない
+- term: press
+  frequency_in_corpus: 174
+  translations:
+    de: Drücken
+    fr: Développé
+    it: Distensione
+    ja: プレス (押し動作)
+- term: bench press
+  frequency_in_corpus: 32
+  translations:
+    de: Bankdrücken
+    fr: Développé couché
+    it: Panca piana (distensioni)
+    ja: ベンチプレス
+- term: overhead press
+  frequency_in_corpus: 4
+  translations:
+    de: Überkopfdrücken
+    fr: Développé militaire / overhead press
+    it: Military press (lento avanti)
+    ja: オーバーヘッドプレス
+- term: shoulder press
+  frequency_in_corpus: 11
+  translations:
+    de: Schulterdrücken
+    fr: Développé épaules
+    it: Distensioni per le spalle
+    ja: ショルダープレス
+- term: incline press
+  frequency_in_corpus: 2
+  translations:
+    de: Schrägbankdrücken
+    fr: Développé incliné
+    it: Distensioni su panca inclinata
+    ja: インクラインプレス
+- term: decline press
+  frequency_in_corpus: 0
+  translations:
+    de: Negativbankdrücken
+    fr: Développé décliné
+    it: Distensioni su panca reclinata
+    ja: デクラインプレス
+- term: chest press
+  frequency_in_corpus: 15
+  translations:
+    de: Brustdrücken
+    fr: Développé assis à la machine
+    it: Chest press
+    ja: チェストプレス
+- term: squat
+  frequency_in_corpus: 106
+  translations:
+    de: Kniebeuge
+    fr: Squat (flexion des genoux)
+    it: Squat (accosciata)
+    ja: スクワット
+  collision:
+    vocab_ref: vocab/classification.yaml::movement_pattern.squat
+    precedence: vocab label wins
+- term: front squat
+  frequency_in_corpus: 6
+  translations:
+    de: Frontkniebeuge
+    fr: Front squat (squat avant)
+    it: Front squat
+    ja: フロントスクワット
+- term: back squat
+  frequency_in_corpus: 3
+  translations:
+    de: Kniebeuge mit Langhantel im Nacken
+    fr: Back squat (squat arrière)
+    it: Back squat
+    ja: バックスクワット
+- term: goblet squat
+  frequency_in_corpus: 2
+  translations:
+    de: Goblet Squat
+    fr: Goblet squat
+    it: Goblet squat
+    ja: ゴブレットスクワット
+- term: split squat
+  frequency_in_corpus: 6
+  translations:
+    de: Split Squat
+    fr: Split squat
+    it: Split squat
+    ja: スプリットスクワット
+- term: bulgarian split squat
+  frequency_in_corpus: 2
+  translations:
+    de: Bulgarische Kniebeuge
+    fr: Squat bulgare (Bulgarian split squat)
+    it: Squat bulgaro
+    ja: ブルガリアンスプリットスクワット
+- term: deadlift
+  frequency_in_corpus: 25
+  translations:
+    de: Kreuzheben
+    fr: Soulevé de terre
+    it: Stacco da terra
+    ja: デッドリフト
+- term: romanian deadlift
+  frequency_in_corpus: 3
+  translations:
+    de: Rumänisches Kreuzheben (RDL)
+    fr: Soulevé de terre roumain
+    it: Stacco rumeno
+    ja: ルーマニアンデッドリフト (RDL)
+- term: sumo deadlift
+  frequency_in_corpus: 4
+  translations:
+    de: Sumo-Kreuzheben
+    fr: Soulevé de terre sumo
+    it: Stacco sumo
+    ja: スモウデッドリフト
+- term: stiff-legged deadlift
+  frequency_in_corpus: 0
+  translations:
+    de: Gestrecktes Kreuzheben
+    fr: Soulevé de terre jambes tendues
+    it: Stacco a gambe tese
+    ja: スティッフレッグデッドリフト
+- term: lunge
+  frequency_in_corpus: 17
+  translations:
+    de: Ausfallschritt
+    fr: Fente
+    it: Affondo
+    ja: ランジ
+  collision:
+    vocab_ref: vocab/classification.yaml::movement_pattern.lunge
+    precedence: vocab label wins
+- term: walking lunge
+  frequency_in_corpus: 0
+  translations:
+    de: Gehender Ausfallschritt
+    fr: Fentes marchées
+    it: Affondi in camminata
+    ja: ウォーキングランジ
+- term: reverse lunge
+  frequency_in_corpus: 0
+  translations:
+    de: Rückfallschritt
+    fr: Fentes arrière
+    it: Affondi indietro
+    ja: リバースランジ
+- term: side lunge
+  frequency_in_corpus: 0
+  translations:
+    de: Seitlicher Ausfallschritt
+    fr: Fente latérale
+    it: Affondo laterale
+    ja: サイドランジ
+- term: lateral lunge
+  frequency_in_corpus: 2
+  translations:
+    de: Seitlicher Ausfallschritt
+    fr: Fente latérale
+    it: Affondo laterale
+    ja: ラテラルランジ
+- term: row
+  frequency_in_corpus: 58
+  translations:
+    de: Rudern
+    fr: Rowing / Tirage
+    it: Rematore
+    ja: ローイング / 漕ぎ動作
+- term: bent-over row
+  frequency_in_corpus: 0
+  translations:
+    de: Vorgebeugtes Rudern
+    fr: Rowing buste penché
+    it: Rematore a busto flesso
+    ja: ベントオーバーロー
+- term: barbell row
+  frequency_in_corpus: 2
+  translations:
+    de: Langhantelrudern
+    fr: Rowing barre
+    it: Rematore con bilanciere
+    ja: バーベルローイング
+- term: dumbbell row
+  frequency_in_corpus: 3
+  translations:
+    de: Kurzhantelrudern
+    fr: Rowing haltère
+    it: Rematore con manubrio
+    ja: ダンベルローイング
+- term: seated row
+  frequency_in_corpus: 2
+  translations:
+    de: Kabelrudern sitzend
+    fr: Tirage horizontal assis
+    it: Rematore da seduto (pulley)
+    ja: シーテッドローイング
+- term: cable row
+  frequency_in_corpus: 5
+  translations:
+    de: Kabelrudern
+    fr: Tirage au câble
+    it: Rematore al cavo
+    ja: ケーブルロー
+- term: inverted row
+  frequency_in_corpus: 0
+  translations:
+    de: Körpergewichtsrudern (Inverted Row)
+    fr: Rowing inversé
+    it: Trazioni orizzontali (inverted row)
+    ja: インバーテッドロー (斜め懸垂)
+- term: upright row
+  frequency_in_corpus: 3
+  translations:
+    de: Aufrechtes Rudern
+    fr: Tirage menton
+    it: Tirate al mento
+    ja: アップライトロー
+- term: lat pulldown
+  frequency_in_corpus: 13
+  translations:
+    de: Latzug
+    fr: Tirage vertical à la poulie haute (lat pulldown)
+    it: Lat machine
+    ja: ラットプルダウン
+- term: pulldown
+  frequency_in_corpus: 23
+  translations:
+    de: Latzug / Zug von oben
+    fr: Tirage vertical
+    it: Tirata al cavo alto
+    ja: プルダウン
+- term: pullover
+  frequency_in_corpus: 7
+  translations:
+    de: Überzug
+    fr: Pull-over
+    it: Pull-over
+    ja: プルオーバー
+- term: pull-up
+  frequency_in_corpus: 22
+  translations:
+    de: Klimmzug (Obergriff)
+    fr: Traction en pronation
+    it: Trazione alla sbarra
+    ja: プルアップ (順手懸垂)
+- term: chin-up
+  frequency_in_corpus: 1
+  translations:
+    de: Klimmzug (Untergriff)
+    fr: Traction en supination (chin-up)
+    it: Trazione presa inversa (chin-up)
+    ja: チンアップ (逆手懸垂)
+- term: push-up
+  frequency_in_corpus: 43
+  translations:
+    de: Liegestütz
+    fr: Pompe
+    it: Piegamento sulle braccia (flessione)
+    ja: プッシュアップ (腕立て伏せ)
+- term: push-ups
+  frequency_in_corpus: 24
+  translations:
+    de: Liegestütze
+    fr: Pompes
+    it: Piegamenti sulle braccia
+    ja: プッシュアップ (腕立て伏せ)
+- term: dip
+  frequency_in_corpus: 6
+  translations:
+    de: Dip
+    fr: Dip
+    it: Dip alle parallele
+    ja: ディップス
+- term: dips
+  frequency_in_corpus: 14
+  translations:
+    de: Dips
+    fr: Dips
+    it: Dip alle parallele
+    ja: ディップス
+- term: curl
+  frequency_in_corpus: 93
+  translations:
+    de: Curl
+    fr: Curl
+    it: Curl
+    ja: カール
+- term: curls
+  frequency_in_corpus: 31
+  translations:
+    de: Curls
+    fr: Curls
+    it: Curl
+    ja: カール
+- term: biceps curl
+  frequency_in_corpus: 7
+  translations:
+    de: Bizepscurl
+    fr: Curl biceps
+    it: Curl bicipiti
+    ja: バイセップスカール
+- term: hammer curl
+  frequency_in_corpus: 6
+  translations:
+    de: Hammercurl
+    fr: Curl marteau
+    it: Curl a martello
+    ja: ハンマーカール
+- term: preacher curl
+  frequency_in_corpus: 9
+  translations:
+    de: Scottcurl / Preacher Curl
+    fr: Curl pupitre (Larry Scott)
+    it: Curl su panca Scott
+    ja: プリーチャーカール
+- term: concentration curl
+  frequency_in_corpus: 3
+  translations:
+    de: Konzentrationscurl
+    fr: Curl concentré
+    it: Curl concentrato
+    ja: コンセントレーションカール
+- term: wrist curl
+  frequency_in_corpus: 4
+  translations:
+    de: Handgelenkcurl
+    fr: Flexion des poignets (curl)
+    it: Curl dei polsi
+    ja: リストカール
+- term: triceps extension
+  frequency_in_corpus: 4
+  translations:
+    de: Trizepsdrücken / Trizepsstrecken
+    fr: Extension triceps
+    it: Estensione tricipiti
+    ja: トライセプスエクステンション
+- term: skull crusher
+  frequency_in_corpus: 2
+  translations:
+    de: Skull Crusher (Stirndrücken)
+    fr: Barre au front (skull crusher)
+    it: French press / Skull crusher
+    ja: スカルクラッシャー (フレンチプレス)
+- term: overhead triceps extension
+  frequency_in_corpus: 2
+  translations:
+    de: Überkopf-Trizepsstrecken
+    fr: Extension triceps au-dessus de la tête
+    it: Estensioni tricipiti sopra la testa
+    ja: オーバーヘッドトライセプスエクステンション
+- term: triceps pushdown
+  frequency_in_corpus: 5
+  translations:
+    de: Trizepsdrücken am Kabelzug
+    fr: Extension triceps à la poulie
+    it: Pushdown tricipiti al cavo
+    ja: トライセプスプッシュダウン
+- term: kickback
+  frequency_in_corpus: 8
+  translations:
+    de: Kickback
+    fr: Kickback triceps
+    it: Kickback per tricipiti
+    ja: キックバック
+- term: raise
+  frequency_in_corpus: 119
+  translations:
+    de: Heben
+    fr: Élévation
+    it: Alzata
+    ja: レイズ
+- term: raises
+  frequency_in_corpus: 32
+  translations:
+    de: Heben
+    fr: Élévations
+    it: Alzate
+    ja: レイズ
+- term: lateral raise
+  frequency_in_corpus: 17
+  translations:
+    de: Seitheben
+    fr: Élévation latérale
+    it: Alzata laterale
+    ja: サイドレイズ (側方挙上)
+- term: front raise
+  frequency_in_corpus: 11
+  translations:
+    de: Frontheben
+    fr: Élévation frontale
+    it: Alzata frontale
+    ja: フロントレイズ (前方挙上)
+- term: rear delt raise
+  frequency_in_corpus: 1
+  translations:
+    de: Seitheben vorgebeugt
+    fr: Oiseau (élévation postérieure)
+    it: Alzate posteriori per deltoidi
+    ja: リアレイズ (後部挙上)
+- term: rear delt fly
+  frequency_in_corpus: 5
+  translations:
+    de: Reverse Fly (hintere Schulter)
+    fr: Écarté arrière (rear delt fly)
+    it: Croci inverse per deltoidi posteriori
+    ja: リアデルトフライ
+- term: calf raise
+  frequency_in_corpus: 4
+  translations:
+    de: Wadenheben
+    fr: Mollets debout / assis (élévation)
+    it: Calf raise (sollevamento polpacci)
+    ja: カーフレイズ
+- term: leg raise
+  frequency_in_corpus: 6
+  translations:
+    de: Beinheben
+    fr: Relevé de jambes
+    it: Sollevamento gambe
+    ja: レッグレイズ
+- term: shrug
+  frequency_in_corpus: 15
+  translations:
+    de: Schulterheben (Shrug)
+    fr: Haussement d'épaules (shrug)
+    it: Scrollata di spalle (shrug)
+    ja: シュラッグ
+- term: shrugs
+  frequency_in_corpus: 3
+  translations:
+    de: Schulterheben (Shrugs)
+    fr: Haussements d'épaules (shrugs)
+    it: Scrollate di spalle (shrugs)
+    ja: シュラッグ
+- term: face pull
+  frequency_in_corpus: 3
+  translations:
+    de: Face Pull
+    fr: Face pull
+    it: Face pull
+    ja: フェイスプル
+- term: crunch
+  frequency_in_corpus: 12
+  translations:
+    de: Crunch
+    fr: Crunch
+    it: Crunch addominale
+    ja: クランチ
+- term: crunches
+  frequency_in_corpus: 18
+  translations:
+    de: Crunches
+    fr: Crunches
+    it: Crunch addominali
+    ja: クランチ
+- term: plank
+  frequency_in_corpus: 56
+  translations:
+    de: Unterarmstütz (Plank)
+    fr: Gainage ventral (planche)
+    it: Plank
+    ja: プランク
+- term: side plank
+  frequency_in_corpus: 11
+  translations:
+    de: Seitstütz (Side Plank)
+    fr: Gainage latéral
+    it: Side plank (plank laterale)
+    ja: サイドプランク
+- term: reverse plank
+  frequency_in_corpus: 1
+  translations:
+    de: Reverser Unterarmstütz
+    fr: Planche inversée
+    it: Reverse plank
+    ja: リバースプランク
+- term: ab rollout
+  frequency_in_corpus: 1
+  translations:
+    de: Bauchroller-Ausrollen
+    fr: Déroulement à la roue abdominale
+    it: Rollout addominali
+    ja: アブロールアウト
+- term: leg press
+  frequency_in_corpus: 10
+  translations:
+    de: Beinpresse
+    fr: Presse à cuisses
+    it: Leg press (pressa)
+    ja: レッグプレス
+- term: leg extension
+  frequency_in_corpus: 9
+  translations:
+    de: Beinstrecken (an der Maschine)
+    fr: Leg extension
+    it: Leg extension
+    ja: レッグエクステンション
+- term: leg curl
+  frequency_in_corpus: 3
+  translations:
+    de: Beinbeugen (an der Maschine)
+    fr: Leg curl
+    it: Leg curl
+    ja: レッグカール
+- term: hip thrust
+  frequency_in_corpus: 6
+  translations:
+    de: Hip Thrust (Beckengewichtsheben)
+    fr: Hip thrust
+    it: Hip thrust
+    ja: ヒップスラスト
+- term: glute bridge
+  frequency_in_corpus: 5
+  translations:
+    de: Glute Bridge (Beckenheben)
+    fr: Pont de fessiers (glute bridge)
+    it: Ponte glutei
+    ja: グルートブリッジ
+- term: good morning
+  frequency_in_corpus: 4
+  translations:
+    de: Good Morning
+    fr: Good morning
+    it: Good morning
+    ja: グッドモーニング
+- term: hyperextension
+  frequency_in_corpus: 2
+  translations:
+    de: Hyperextension (Rumpfaufrichten)
+    fr: Banc à lombaires (hyperextension)
+    it: Iperextension
+    ja: ハイパーエクステンション
+- term: back extension
+  frequency_in_corpus: 1
+  translations:
+    de: Rumpfstrecken / Rückenstrecker
+    fr: Extension lombaire
+    it: Estensioni lombari
+    ja: バックエクステンション
+- term: jumping jacks
+  frequency_in_corpus: 2
+  translations:
+    de: Hampelmann
+    fr: Sauts écartés (jumping jacks)
+    it: Jumping jacks
+    ja: ジャンピングジャック
+- term: mountain climbers
+  frequency_in_corpus: 2
+  translations:
+    de: Bergsteiger (Mountain Climbers)
+    fr: Grimpeur (mountain climbers)
+    it: Mountain climbers
+    ja: マウンテンクライマー
+- term: burpee
+  frequency_in_corpus: 4
+  translations:
+    de: Burpee
+    fr: Burpee
+    it: Burpee
+    ja: バーピー
+- term: burpees
+  frequency_in_corpus: 3
+  translations:
+    de: Burpees
+    fr: Burpees
+    it: Burpees
+    ja: バーピー
+- term: chest
+  frequency_in_corpus: 271
+  translations:
+    de: Brust
+    fr: Poitrine
+    it: Petto
+    ja: 胸部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.chest
+    precedence: vocab label wins
+- term: upper chest
+  frequency_in_corpus: 17
+  translations:
+    de: Obere Brust
+    fr: Haut de la poitrine
+    it: Parte alta del petto
+    ja: 大胸筋上部
+- term: lower chest
+  frequency_in_corpus: 8
+  translations:
+    de: Untere Brust
+    fr: Bas de la poitrine
+    it: Parte bassa del petto
+    ja: 大胸筋下部
+- term: back
+  frequency_in_corpus: 568
+  translations:
+    de: Rücken
+    fr: Dos
+    it: Schiena
+    ja: 背部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.back
+    precedence: vocab label wins
+- term: upper back
+  frequency_in_corpus: 21
+  translations:
+    de: Oberer Rücken
+    fr: Haut du dos
+    it: Parte superiore della schiena
+    ja: 背部上部
+- term: lower back
+  frequency_in_corpus: 41
+  translations:
+    de: Unterer Rücken
+    fr: Bas du dos
+    it: Parte bassa della schiena
+    ja: 腰部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.lower_back
+    precedence: vocab label wins
+- term: shoulders
+  frequency_in_corpus: 147
+  translations:
+    de: Schultern
+    fr: Épaules
+    it: Spalle
+    ja: 肩部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.shoulders
+    precedence: vocab label wins
+- term: front delt
+  frequency_in_corpus: 0
+  translations:
+    de: Vordere Schulter
+    fr: Deltoïde antérieur
+    it: Deltoide anteriore
+    ja: 三角筋前部
+  collision:
+    vocab_ref: vocab/muscles.yaml::head.delt_anterior
+    precedence: vocab label wins
+- term: side delt
+  frequency_in_corpus: 0
+  translations:
+    de: Seitliche Schulter
+    fr: Deltoïde latéral
+    it: Deltoide laterale
+    ja: 三角筋中部 (側部)
+  collision:
+    vocab_ref: vocab/muscles.yaml::head.delt_lateral
+    precedence: vocab label wins
+- term: rear delt
+  frequency_in_corpus: 11
+  translations:
+    de: Hintere Schulter
+    fr: Deltoïde postérieur
+    it: Deltoide posteriore
+    ja: 三角筋後部
+  collision:
+    vocab_ref: vocab/muscles.yaml::head.delt_posterior
+    precedence: vocab label wins
+- term: biceps
+  frequency_in_corpus: 58
+  translations:
+    de: Bizeps
+    fr: Biceps
+    it: Bicipiti
+    ja: 上腕二頭筋
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.biceps
+    precedence: vocab label wins
+- term: triceps
+  frequency_in_corpus: 65
+  translations:
+    de: Trizeps
+    fr: Triceps
+    it: Tricipiti
+    ja: 上腕三頭筋
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.triceps
+    precedence: vocab label wins
+- term: forearms
+  frequency_in_corpus: 28
+  translations:
+    de: Unterarme
+    fr: Avant-bras
+    it: Avambracci
+    ja: 前腕部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.forearms
+    precedence: vocab label wins
+- term: wrists
+  frequency_in_corpus: 30
+  translations:
+    de: Handgelenke
+    fr: Poignets
+    it: Polsi
+    ja: 手首 / 手関節
+- term: core
+  frequency_in_corpus: 106
+  translations:
+    de: Rumpf
+    fr: Tronc / Sangle abdominale
+    it: Addominali / Core
+    ja: 体幹 / 腹部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.abs
+    precedence: vocab label wins
+- term: abs
+  frequency_in_corpus: 21
+  translations:
+    de: Bauchmuskeln
+    fr: Abdominaux
+    it: Addominali
+    ja: 腹筋
+- term: obliques
+  frequency_in_corpus: 11
+  translations:
+    de: Schräge Bauchmuskeln
+    fr: Obliques
+    it: Addominali obliqui
+    ja: 腹斜筋
+  collision:
+    vocab_ref: vocab/muscles.yaml::muscles.obliques
+    precedence: vocab label wins
+- term: glutes
+  frequency_in_corpus: 52
+  translations:
+    de: Gesäß
+    fr: Fessiers
+    it: Glutei
+    ja: 臀部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.glutes
+    precedence: vocab label wins
+- term: quads
+  frequency_in_corpus: 5
+  translations:
+    de: Quadrizeps
+    fr: Quadriceps
+    it: Quadricipiti
+    ja: 大腿四頭筋
+- term: hamstrings
+  frequency_in_corpus: 23
+  translations:
+    de: Beinbeuger
+    fr: Ischio-jambiers
+    it: Muscoli ischiocrurali (femorali)
+    ja: ハムストリングス
+  collision:
+    vocab_ref: vocab/muscles.yaml::muscles.hamstring_complex
+    precedence: vocab label wins
+- term: calves
+  frequency_in_corpus: 17
+  translations:
+    de: Waden
+    fr: Mollets
+    it: Polpacci
+    ja: ふくらはぎ
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.calves
+    precedence: vocab label wins
+- term: neck
+  frequency_in_corpus: 19
+  translations:
+    de: Nacken
+    fr: Cou
+    it: Collo
+    ja: 頸部
+  collision:
+    vocab_ref: vocab/muscles.yaml::groups.neck
+    precedence: vocab label wins
+- term: hip flexors
+  frequency_in_corpus: 8
+  translations:
+    de: Hüftbeuger
+    fr: Fléchisseurs de la hanche
+    it: Flessori dell'anca
+    ja: 腸腰筋 (股関節屈筋群)
+- term: rotator cuff
+  frequency_in_corpus: 5
+  translations:
+    de: Rotatorenmanschette
+    fr: Coiffe des rotateurs
+    it: Cuffia dei rotatori
+    ja: 回旋筋腱板 (ローテーターカフ)
+  collision:
+    vocab_ref: vocab/muscles.yaml::muscles.rotator_cuff
+    precedence: vocab label wins
+- term: spine
+  frequency_in_corpus: 32
+  translations:
+    de: Wirbelsäule
+    fr: Colonne vertébrale
+    it: Colonna vertebrale
+    ja: 脊柱 / 背骨
+- term: scapula
+  frequency_in_corpus: 1
+  translations:
+    de: Schulterblatt
+    fr: Omoplate
+    it: Scapola
+    ja: 肩甲骨
+- term: pelvis
+  frequency_in_corpus: 18
+  translations:
+    de: Becken
+    fr: Bassin
+    it: Bacino
+    ja: 骨盤
