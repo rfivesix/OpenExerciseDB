@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '961'
 language: de
 status: ai_raw
 translated_from: en
 name: 50m-Schwimmsprints
+description: 50-m-Schwimmsprints bei 1 Minute
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono

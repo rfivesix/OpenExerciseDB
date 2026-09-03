@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1516'
 language: de
 status: ai_raw
 translated_from: en
 name: Handstand
+description: |-
+  Freistehender Handstand, indem du die Arme in den Boden drückst und Rumpf und Gesäß anspannst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69

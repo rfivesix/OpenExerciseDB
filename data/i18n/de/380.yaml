@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '380'
 language: de
 status: ai_raw
 translated_from: en
 name: Rudern an der Hebelmaschine
+description: Stelle die Sitzhöhe so ein, dass die Griffe sich auf Höhe oder knapp unterhalb der Unterkante deiner Brustmuskeln befinden.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

@@ -1,8 +1,11 @@
 exercise_id: '2499'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Erhöhte Liegestütze (Incline Push-ups)
+description: |-
+  Benutzerdefinierte Progression erhöhter Liegestütze von Vasco für das Heimtraining für Anfänger. Überbrückt Wandliegestütze und Liegestütze am Boden. Teil des Push-Tags am Montag.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4981'

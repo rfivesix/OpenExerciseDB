@@ -4,14 +4,13 @@
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 # AI review provenance: GPT-5, 2026-09-03.
-exercise_id: '259'
+exercise_id: '1282'
 language: de
 status: ai_raw
 translated_from: en
-name: Frontziehen Eng
-description: |-
-  Setze oder stelle dich an einen hohen Kabelzug und greife eng. Ziehe den Griff, indem du die Ellbogen nach unten führst, zur oberen Brust und führe ihn dann kontrolliert zurück.
+name: Isometrischer Klimmzug im Untergriff
+description: Isometrische Klimmzüge mit Untergriff.
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '12'
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2249'

@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '687'
 language: de
 status: ai_raw
 translated_from: en
 name: Schulterdrücken stehend
+description: |-
+  Nimm eine Langhantel aus einem Kniebeugenständer und halte sie auf Schulterhöhe. Drücke sie über den Kopf und senke sie dann in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Vazco

@@ -1,8 +1,11 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2540'
 language: de
 status: ai_raw
 translated_from: en
 name: Latzug isometrisch
+description: |-
+  Ein isometrischer Latzug ist eine kraftaufbauende Übung, bei der du die Stange zur Brust ziehst und die kontrahierte Position unten für eine festgelegte Anzahl von Sekunden hältst, ohne die Gliedmaßen zu bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

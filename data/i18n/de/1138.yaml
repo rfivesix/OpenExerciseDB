@@ -1,8 +1,11 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1138'
 language: de
 status: ai_raw
 translated_from: en
 name: Latzug auf der Schrägbank
+description: |-
+  Liegend mit dem Gesicht nach unten auf der Schrägbank zur Kabelzugmaschine führst du den Latzug aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

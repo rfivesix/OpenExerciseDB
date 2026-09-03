@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1446'
 language: de
 status: ai_raw
 translated_from: en
 name: Stoßen und Reißen (Clean and Jerk)
+description: |-
+  Olympisches Heben: Umsetzen und Stoßen.
+  Kombination aus Umsetzen und Stoßen in einer Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

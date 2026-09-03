@@ -1,8 +1,13 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1439'
 language: de
 status: ai_raw
 translated_from: en
 name: Pin-Schulterdrücken (Pin OHP)
+description: |-
+  Stelle die Sicherheitsablagen auf Höhe deines unteren Kinns ein.
+  Lege die Langhantel unter Spannung auf den Ablagen ab.
+  Drücke die Hantel über den Kopf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

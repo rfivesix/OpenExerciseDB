@@ -3,10 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '177'
 language: de
-status: upstream_unreviewed
+status: ai_raw
+translated_from: en
 name: Fahrrad fahren
+description: |-
+  Fahrradfahren, auch Radfahren genannt, ist die Nutzung von Fahrrädern für Transport, Freizeit, Bewegung oder Sport. Menschen, die Rad fahren, werden als Radfahrer oder Biker bezeichnet. Neben zweirädrigen Fahrrädern umfasst das Fahrradfahren auch das Fahren von Einrädern, Dreirädern, Vierrädern, Liegerädern und ähnlichen von Menschen angetriebenen Fahrzeugen.
 upstream:
   license: CC0-1.0
   license_author: BFad07

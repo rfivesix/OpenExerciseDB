@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1492'
 language: de
 status: ai_raw
 translated_from: en
 name: High Row (Hohes Rudern)
+description: Knie auf einem Bein nieder und ziehe das Kabel nach unten, während du den Ellenbogen in Richtung Latissimus führst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja

@@ -1,8 +1,10 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1741'
 language: de
 status: ai_raw
 translated_from: en
 name: L-Sit-Klimmzüge
+description: L-Sit-Klimmzüge trainieren sowohl Oberkörper- als auch Rumpfmuskulatur.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

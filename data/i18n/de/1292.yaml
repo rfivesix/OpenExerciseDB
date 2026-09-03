@@ -1,8 +1,10 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1292'
 language: de
 status: ai_raw
 translated_from: en
 name: Klimmzüge im Untergriff
+description: Klimmzüge an der Stange, wobei deine Daumen nach außen zeigen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

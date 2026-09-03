@@ -1,8 +1,11 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1470'
 language: de
 status: ai_raw
 translated_from: en
 name: Einarmiger Latzug im halben Kniestand
+description: |-
+  Befestige einen D-Griff an einem hohen Flaschenzug. Ziehe das Gewicht einarmig mit deinem Latissimus nach unten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1100'
 language: de
 status: ai_raw
 translated_from: en
 name: Wall Balls
+description: |-
+  Nimm einen Medizinball, nimm einen schulterbreiten Stand ein, gehe in die Knie, stoße den Ball so hoch wie möglich gegen die Wand und fange ihn auf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

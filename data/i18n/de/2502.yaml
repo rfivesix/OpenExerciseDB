@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2502'
 language: de
 status: ai_raw
 translated_from: en
 name: Einarmiges Kurzhantelrudern
+description: Vasco-eigenes einarmiges Kurzhantelrudern mit einer 5-kg-Kurzhantel für das Heimtraining. Einseitiges horizontales Ziehen. Teil des Pull-Tags am Dienstag.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4983'

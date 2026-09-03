@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2480'
 language: de
 status: ai_raw
 translated_from: en
 name: Lockeres Dauerschwimmen (Kraul)
+description: |-
+  Schwimme Kraul in entspanntem, gleichmäßigem Tempo ohne anzuhalten — denke an Gesprächstempo, nicht an Rennen. Konzentriere dich auf ruhige, gleichmäßige Armzüge statt auf Geschwindigkeit oder Atemtechnik; das dient nur dazu, deinen Körper in Bewegung zu bringen und deinen Puls zu erhöhen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

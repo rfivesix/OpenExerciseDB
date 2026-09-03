@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2501'
 language: de
 status: ai_raw
 translated_from: en
 name: Tisch-Körpergewichtsrudern
+description: Vasco-eigenes Tisch-Körpergewichtsrudern für horizontales Ziehen im Heimtraining. Keine Geräte außer einem stabilen Tisch. Teil des Pull-Tags am Dienstag.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4982'

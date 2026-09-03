@@ -1,8 +1,10 @@
 exercise_id: '926'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Butterfly-Maschine
+description: Sitzende Maschine, Rücken gerade, langsame Übung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

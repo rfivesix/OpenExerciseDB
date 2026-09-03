@@ -1,0 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
+exercise_id: '2490'
+language: de
+status: ai_raw
+translated_from: en
+name: Kabelrudern am unteren Zug (Dreiecksgriff)
+description: Diese Übung basiert auf dem Technogym Pulley Sel. Halte das Dreieck mit beiden Händen und ziehe das Gewicht zum Bauch.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4968'

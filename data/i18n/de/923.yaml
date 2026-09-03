@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '923'
 language: de
 status: ai_raw
 translated_from: en
 name: Kurzhantelrudern liegend & Shrugs sitzend
+description: Bäuchlings auf einer leicht geneigten Bank liegend
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

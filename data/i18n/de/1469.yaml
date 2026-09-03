@@ -1,8 +1,10 @@
 exercise_id: '1469'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Vorgebeugte Kabelzug-Fliegende
+description: Halte deinen Oberkörper in einem Winkel von ungefähr 105°.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

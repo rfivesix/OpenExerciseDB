@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1575'
 language: de
 status: ai_raw
 translated_from: en
 name: Schulterdrücken mit Holzstab im Stand
+description: |-
+  Mobilität – Stabdrücken in Bauchlage oder Schulterdrücken mit Holzstab im Stand, abwechselnd zwischen vorne und hinten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato

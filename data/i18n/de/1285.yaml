@@ -4,14 +4,16 @@
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 # AI generation provenance: GPT-5, 2026-09-03.
-exercise_id: '543'
+exercise_id: '1285'
 language: de
 status: ai_raw
 translated_from: en
-name: Schultermaschine
-description: |-
-  Setze dich in die Schulterdrückmaschine und drücke die Griffe über den Kopf. Führe sie kontrolliert in die Ausgangsposition zurück.
+name: Anfersen
+description: Berühre mit den Fersen dein Gesäß, während du stehen bleibst oder dich fortbewegst.
+search_terms:
+  - Butt Kicks
+  - Talons fesses
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '53'
+  license: CC-BY-SA-4.0
+  license_author: painDpice
+  source_id: '2252'

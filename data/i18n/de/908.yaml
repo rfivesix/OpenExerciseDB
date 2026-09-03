@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '908'
 language: de
 status: ai_raw
 translated_from: en
 name: Zone-2-Lauf
+description: Zone-2-Cardio für die Ausdauer; du solltest während des Laufens sprechen können.
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

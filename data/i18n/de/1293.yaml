@@ -1,8 +1,10 @@
 exercise_id: '1293'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Einarmige Liegestütze
+description: Führe Liegestütze mit einer Hand aus und wechsle die Seite ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

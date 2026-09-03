@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '624'
 language: de
 status: ai_raw
 translated_from: en
 name: Fahrradergometer
+description: Fahre auf einem Fahrradergometer mit verschiedenen Widerständen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman

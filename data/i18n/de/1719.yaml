@@ -1,8 +1,10 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1719'
 language: de
 status: ai_raw
 translated_from: en
 name: Einarmiger Latzug im Kniestand
+description: Zug im Ritterstand ausgeführt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

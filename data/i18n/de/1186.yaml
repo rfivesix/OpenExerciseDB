@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1186'
 language: de
 status: ai_raw
 translated_from: en
 name: Einarmiges Kurzhantelrudern
+description: Einarmiges vorgebeugtes Rudern am Kabelzug an einer Maschine
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr

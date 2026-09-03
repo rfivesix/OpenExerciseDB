@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1471'
 language: de
 status: ai_raw
 translated_from: en
 name: Kroc Rows
+description: Kurzhantelrudern mit lockererer Technik, aber höherem Gewicht.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

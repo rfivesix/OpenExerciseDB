@@ -3,12 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '323'
 language: de
-status: upstream_unreviewed
+status: ai_raw
+translated_from: en
 name: Kabelcross
 search_terms:
   - Kabelziehen Über Kreuz
+description: |-
+  Beginne mit den Kabeln etwa auf Schulterhöhe, eines in jeder Hand. Mache für Stabilität einen Schritt nach vorn, sodass ein Fuß vor dem anderen steht und Spannung auf den Kabeln ist. Führe die Hände vor dir zusammen. Versuche, die Hände einige Zentimeter überlappen zu lassen, sodass sich die Kabel kreuzen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

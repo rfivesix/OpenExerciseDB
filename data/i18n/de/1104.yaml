@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1104'
 language: de
 status: ai_raw
 translated_from: en
 name: Gehen
+description: Gehen im Freien oder in Innenräumen; versuche, ein Tempo von mindestens 100 Schritten pro Minute einzuhalten.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'

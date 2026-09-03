@@ -1,8 +1,12 @@
 exercise_id: '2530'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Russische Liegestütze
+description: |-
+  Russische Liegestütze
+  Beginne in einer normalen Liegestützposition, die Hände etwas weiter als schulterbreit auseinander. Senke die Brust zum Boden ab und verlagere dann den Körper nach vorn, während die Brust nah am Boden bleibt. Strecke die Arme, um in die Ausgangsposition zurückzukehren, und kehre die Bewegung dann fließend um. Halte den Rumpf angespannt und führe die Bewegung während der gesamten Übung kontrolliert aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege

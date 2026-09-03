@@ -1,8 +1,10 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '354'
 language: de
 status: ai_raw
 translated_from: en
 name: Latzug mit Rücklage
+description: Lehne dich zurück und ziehe zur Brust.
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow

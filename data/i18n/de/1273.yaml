@@ -1,8 +1,11 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1273'
 language: de
 status: ai_raw
 translated_from: en
 name: Überzug
+description: |-
+  Als Rücken- und Brustübung kann der Kurzhantel-Überzug sowohl deine Brustmuskulatur als auch deinen Latissimus trainieren.
 upstream:
   license: CC-BY-SA-4.0
   license_author: 3leh

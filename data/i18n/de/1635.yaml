@@ -1,8 +1,11 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1635'
 language: de
 status: ai_raw
 translated_from: en
 name: Modifizierter Latzug
+description: |-
+  Mit einer Schrägbank vor der Latzugmaschine führst du Latzüge mit engem Griff und Fokus auf den Latissimus aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen

@@ -1,8 +1,10 @@
 exercise_id: '713'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Liegestütz an der Wand
+description: Liegestütz gegen eine Wand.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Dexter

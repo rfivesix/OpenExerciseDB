@@ -1,8 +1,11 @@
 exercise_id: '2497'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Einarmiges Kurzhantel-Bodendrücken
+description: |-
+  Benutzerdefiniertes einarmiges Kurzhantel-Bodendrücken von Vasco für das Heimtraining mit einer 5-kg-Kurzhantel. Einseitiges Training für Symmetrie und Rumpf-Anti-Rotation. Teil des Push-Tags am Montag.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4979'

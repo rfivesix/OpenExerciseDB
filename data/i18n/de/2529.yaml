@@ -1,0 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
+exercise_id: '2529'
+language: de
+status: ai_raw
+translated_from: en
+name: Explosive Liegestütze
+description: |-
+  Explosive Liegestütze
+
+  Beginne in einer normalen Liegestützposition, senke die Brust ab und drücke dich dann explosiv vom Boden ab, sodass deine Hände den Boden verlassen. Lande weich und wiederhole die Bewegung sofort.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ege
+  source_id: '4998'
+search_terms:
+  - explosive liegestütze

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1022'
 language: de
 status: ai_raw
 translated_from: en
 name: Einarmiger Plank mit Rudern
+description: Starte in der Ruderposition, gehe in die Plank-Position und zurück. Beende mit einer Ruderbewegung und wiederhole.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1965'

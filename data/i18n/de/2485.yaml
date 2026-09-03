@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2485'
 language: de
 status: ai_raw
 translated_from: en
 name: Armzug-Roll-Übung (Schwimmen)
+description: |-
+  Stoße dich ab, schwimme einige Züge und rolle dich bei jedem Atemzug für 2–3 Atemzüge vollständig auf den Rücken; rolle dann zurück in die Kraulposition. Dadurch lernst du, deinen Körper als Einheit zu drehen, statt nur den Kopf zu drehen, und es hilft, die Angst davor abzubauen, das Gesicht nicht im Wasser zu haben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

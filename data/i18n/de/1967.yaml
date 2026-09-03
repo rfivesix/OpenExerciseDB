@@ -1,0 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
+exercise_id: '1967'
+language: de
+status: ai_raw
+translated_from: en
+name: Sitzendes Frontdrücken mit Kurzhanteln
+description: Langsame, kontrollierte Übung im Sitzen mit Kurzhanteln.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Cf
+  source_id: '3122'

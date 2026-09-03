@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1119'
 language: de
 status: ai_raw
 translated_from: en
 name: Maschinenrudern enger Griff
+description: Rudern an der Maschine mit Stange im engen Griff
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

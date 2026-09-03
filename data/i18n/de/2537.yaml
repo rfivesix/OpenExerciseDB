@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2537'
 language: de
 status: ai_raw
 translated_from: en
 name: Schulterdrücken isometrisch
+description: |-
+  Ein isometrisches Schulterdrücken besteht darin, ein Gewicht statisch über dem Kopf zu halten oder an einem bestimmten Punkt der Druckbewegung gegen ein unbewegliches Objekt zu drücken, ohne das Gelenk zu bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

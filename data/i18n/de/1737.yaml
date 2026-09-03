@@ -1,8 +1,10 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1737'
 language: de
 status: ai_raw
 translated_from: en
 name: Unterstützte Klimmzüge (Untergriff)
+description: Klimmzüge im Untergriff mit Maschinenunterstützung (Gegengewichten).
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2867'

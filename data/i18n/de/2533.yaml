@@ -1,8 +1,16 @@
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2533'
 language: de
 status: ai_raw
 translated_from: en
 name: Bogenhang (Arch Hang)
+description: |-
+  https://www.youtube.com/watch?v=C995b3KLXS4&amp;t=7s
+
+  Die Ellbogen sollten gestreckt bleiben.
+  Halte die Position für Zeit/Wiederholungen.
+  Beginne in einem aktiven Hang: https://www.youtube.com/watch?v=HoE-C85ZlCE
+  Arbeite auf einen 90-Grad-Winkel in der Schulter hin.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan

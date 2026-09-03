@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2481'
 language: de
 status: ai_raw
 translated_from: en
 name: Beinschlag mit Schwimmbrett
+description: |-
+  Halte ein Schwimmbrett mit beiden Händen und strecke die Arme vor dir aus; das Gesicht ist im Wasser (hebe zum Atmen bei Bedarf den Kopf nach vorn). Der Beinschlag kommt aus der Hüfte, nicht aus den Knien; halte die Beine überwiegend gestreckt, mit leichter Beugung und einem gleichmäßigen, kompakten Kraulbeinschlag. Das stärkt die Ausdauer der Beine und hält den Körper horizontal, ohne dass du dich um die Arme kümmern musst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

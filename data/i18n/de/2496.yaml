@@ -1,8 +1,11 @@
 exercise_id: '2496'
 language: de
+# AI review provenance: GPT-5, 2026-09-03.
 status: ai_raw
 translated_from: en
 name: Wandliegestütze
+description: |-
+  Benutzerdefinierte Wandliegestütze für Anfänger von Vasco für das Heimtraining ohne Geräte. Teil einer 7-tägigen Periodisierung aus Drücken/Ziehen/Rumpf/Unterkörper/Ganzkörper/Erholung/Ruhe. Aufstehen um 6:30 Uhr, einstündige Einheiten. Schwerpunkt auf stoischer Disziplin.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4978'

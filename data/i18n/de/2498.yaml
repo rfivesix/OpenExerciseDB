@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2498'
 language: de
 status: ai_raw
 translated_from: en
 name: Pike-Liegestütze
+description: |-
+  Individuelle Pike-Liegestütze von Vasco für die Schulterentwicklung im Heimtraining für Anfänger. Nur Körpergewicht. Teil des Montag-Push-Tags.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4980'

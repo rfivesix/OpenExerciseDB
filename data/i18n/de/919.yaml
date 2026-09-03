@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '919'
 language: de
 status: ai_raw
 translated_from: en
 name: T-Bar-Rudern
+description: Vorgebeugt mit Dreiecksgriff, die Knie leicht gebeugt
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

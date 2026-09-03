@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '959'
 language: de
 status: ai_raw
 translated_from: en
 name: TRX-Rudern
+description: Diese Übung dient als Vorbereitung auf Klimmzüge.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

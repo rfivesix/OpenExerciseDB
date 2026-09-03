@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1372'
 language: de
 status: ai_raw
 translated_from: en
 name: Trizeps-Dips (unterstützt)
+description: |-
+  Unterstützte Trizeps-Dips sind eine Übung im Fitnessstudio, die den Trizeps trainiert und auch die Brust beansprucht.
 upstream:
   license: CC-BY-SA-4.0
   license_author: matpn

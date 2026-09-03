@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2487'
 language: de
 status: ai_raw
 translated_from: en
 name: Ausschwimmen
+description: |-
+  Schwimme in einem leichten, gemächlichen Tempo — Kraul, Rücken oder einfach treiben/gleiten — ohne dich auf Technik oder Übungen zu konzentrieren. Das einzige Ziel ist, deinen Puls allmählich sinken zu lassen und deine Muskeln zu entspannen, bevor du das Becken verlässt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

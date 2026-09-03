@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2489'
 language: de
 status: ai_raw
 translated_from: en
 name: Tiefes Rudern
+description: Basiert auf dem Low Row Sel. von Technogym. In dieser Version wird die Übung mit beiden Armen ausgeführt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

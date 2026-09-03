@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1204'
 language: de
 status: ai_raw
 translated_from: en
 name: Cardio-Fahrradeinheit
+description: Cardioeinheit auf einem Technogym Bike Excite 1000 Standfahrrad.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2164'
