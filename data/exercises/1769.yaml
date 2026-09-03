@@ -1,19 +1,88 @@
-# data/exercises/<id>.yaml — zurueckgeholter Eintrag.
-#
-# Diese Uebung wurde upstream geloescht, war aber bereits ausgeliefert und ist
-# damit in Nutzerdaten referenziert (SCHEMA.md 3). Sie bleibt als
-# `status: deprecated` bestehen: aufloesbar, aber aus Suche und Katalog heraus.
-#
-# Wiederhergestellt von import/recover_removed_exercises.py aus einer
-# ausgelieferten Datenbank, nicht aus der Quelle — die hat den Eintrag nicht mehr.
 id: '1769'
 slug: cabel
 status: deprecated
+modality: strength
+mechanic: isolation
+movement_pattern: other
+laterality: unilateral
+difficulty: beginner
+usage_tags:
+  - accessory
+tracking_type: weight_reps
+load_mode: external
+supports_added_weight: false
+primary_equipment: cable
+setup:
+  - cable_tower
+  - ankle_straps
+muscles:
+  - id: gluteus_maximus
+    role: primary
+  - id: hamstring_complex
+    role: secondary
 provenance:
-  id: {source: wger}
-  slug: {source: derived, at: '2026-09-03'}
-  status: {source: derived, at: '2026-09-03', note: 'Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.'}
-  upstream: {source: derived, at: '2026-09-03', note: "Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die alte Pipeline hat license/license_author verworfen. Konservativ auf die restriktivste im Bestand vorkommende Lizenz gesetzt."}
+  id:
+    source: wger
+  slug:
+    source: derived
+    at: '2026-09-03'
+  status:
+    source: derived
+    at: '2026-09-03'
+    note: Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.
+  upstream:
+    source: derived
+    at: '2026-09-03'
+    note: |-
+      Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die alte Pipeline hat license/license_author verworfen. Konservativ auf die restriktivste im Bestand vorkommende Lizenz gesetzt.
+  modality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  mechanic:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  movement_pattern:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  laterality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  difficulty:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  usage_tags:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  tracking_type:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  load_mode:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  supports_added_weight:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  primary_equipment:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  setup:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
 upstream:
   source: wger
   source_id: '1769'
