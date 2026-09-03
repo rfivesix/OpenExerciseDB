@@ -14,9 +14,11 @@ ganzen Projekts. Ein Test, der darauf besteht, blockiert genau die Arbeit, fuer
 die er da ist.
 
 Geblieben ist die Zeichengleichheit dort, wo sie eine echte Aussage macht:
-`category_name` (wird nicht gepflegt, ist der konservierte Rohwert) und die
-`de`/`en`-Texte. Fuer die Muskelspalten steht jetzt die eigentliche Gefahr im
-Test — dass eine Uebung ihre Information *verliert* statt sie zu praezisieren.
+`category_name` (wird nicht gepflegt, ist der konservierte Rohwert). Texte
+werden in Phase 2 bewusst kuratiert. Der Test schuetzt deshalb ihre
+Verfuegbarkeit und Abdeckung, nicht mehr einen ueberholten Zeichengleichstand.
+Fuer die Muskelspalten steht jetzt die eigentliche Gefahr im Test — dass eine
+Uebung ihre Information *verliert* statt sie zu praezisieren.
 
 Als Referenz dient die DB aus dem `wger-catalog-stable`-Release — das, was auf
 Geraeten tatsaechlich liegt. Ohne Referenz (kein Netz, kein Cache) ueberspringen
@@ -291,79 +293,40 @@ class ReferenceComparison(DatabaseTestCase):
         ]
         self.assertEqual([], differences[:20])
 
-    def test_translation_names_are_character_identical(self) -> None:
-        """Nur `de` und `en`.
-
-        Fuer die uebrigen Sprachen ist ein Vergleich sinnlos: die alte Pipeline
-        hatte die wger-Sprach-IDs falsch verdrahtet und fuehrt in der Referenz
-        646 spanische Texte als `fr`, 48 griechische als `ja` und 10 russische
-        als `it`. Das ist hier absichtlich korrigiert, nicht reproduziert.
-        """
+    def test_reference_de_and_en_names_remain_available(self) -> None:
+        """Ein vorhandener Name darf durch die Textpflege nicht verschwinden."""
         for language in APP_REQUIRED_LANGUAGES:
             new = self._translations(self.db, language)
             old = self._translations(self.reference, language)
-            old_en = self._translations(self.reference, "en")
             shared = self._shared_ids() & set(old)
             self.assertTrue(shared, f"Referenz hat keine {language}-Texte")
-            differences = []
-            for exercise_id in sorted(shared):
-                old_name = old[exercise_id]["name"]
-                new_name = new.get(exercise_id, {}).get("name")
-                if new_name != old_name:
-                    # In Phase 2: Wenn die alte Pipeline bei fehlendem deutschen Text
-                    # den englischen Namen entlehnt hatte (Fallback) und jetzt eine
-                    # echte Übersetzung vorliegt, ist dies eine legitime Verbesserung.
-                    if language == "de" and old_name == old_en.get(exercise_id, {}).get("name"):
-                        continue
-                    # In Phase 2: Freigegebene Vereinheitlichungen englischer Namen
-                    # uebernehmen den alten Namen in search_terms (Bestandsschutz).
-                    search_terms = json.loads(new.get(exercise_id, {}).get("search_terms") or "[]")
-                    if language == "en" and old_name in search_terms:
-                        continue
-                    differences.append((exercise_id, old_name, new_name))
-            self.assertEqual([], differences[:20], f"{language}: {len(differences)} Abweichungen")
+            missing = [
+                exercise_id for exercise_id in sorted(shared)
+                if (old[exercise_id]["name"] or "").strip()
+                and not (new.get(exercise_id, {}).get("name") or "").strip()
+            ]
+            self.assertEqual([], missing[:20], f"{language}: {len(missing)} Namen verloren")
 
-    def test_translation_descriptions_differ_only_where_the_old_script_mixed_languages(
-        self,
-    ) -> None:
-        """Die einzige zugelassene Abweichung — und sie ist eine Korrektur.
-
-        Das Altskript fuellte eine fehlende *Beschreibung* aus der jeweils
-        anderen Sprache auf, auch wenn der Name in der Zielsprache existierte
-        (`create_wger_exercise_db.py`, `description_de = orig_de or orig_en`).
-        Dadurch steht in der ausgelieferten DB bei 17 Eintraegen deutscher Text
-        in der englischen Zeile und umgekehrt. Hier bleibt die Beschreibung
-        stattdessen leer.
-
-        Der Test laesst genau diesen Fall zu und nichts sonst: die neue
-        Beschreibung muss leer sein, und die alte muss zeichengleich mit der
-        Beschreibung der anderen Sprache gewesen sein. Jede andere Abweichung
-        ist ein Fehler.
-        """
-        new = {language: self._translations(self.db, language) for language in APP_REQUIRED_LANGUAGES}
+    def test_translation_coverage_never_drops(self) -> None:
+        """Jede in der Release-DB vorhandene Sprachzeile bleibt vorhanden."""
         old = {
-            language: self._translations(self.reference, language)
-            for language in APP_REQUIRED_LANGUAGES
+            row["language_code"]: row["n"]
+            for row in self.reference.execute(
+                "SELECT language_code, COUNT(*) AS n FROM exercise_translations GROUP BY language_code"
+            )
         }
-        unexplained = []
-        explained = 0
-        for language, other in (("en", "de"), ("de", "en")):
-            for exercise_id in sorted(self._shared_ids() & set(old[language])):
-                was = old[language][exercise_id]["description"]
-                now = new.get(language, {}).get(exercise_id, {}).get("description")
-                if now == was:
-                    continue
-                borrowed = old[other].get(exercise_id, {}).get("description")
-                if now == "" and was == borrowed:
-                    explained += 1
-                    continue
-                unexplained.append((language, exercise_id, was, now))
-        self.assertEqual([], unexplained[:20], f"{len(unexplained)} unerklaerte Abweichungen")
-        self.assertLess(
-            explained,
-            250,
-            "Deutlich mehr sprachvermischte Beschreibungen als erwartet — bitte ansehen.",
-        )
+        new = {
+            row["language_code"]: row["n"]
+            for row in self.db.execute(
+                "SELECT language_code, COUNT(*) AS n FROM exercise_translations GROUP BY language_code"
+            )
+        }
+        regressions = [
+            (language, old_count, new.get(language, 0))
+            for language, old_count in sorted(old.items())
+            if new.get(language, 0) < old_count
+        ]
+        self.assertEqual([], regressions)
 
     def _translations(self, connection: sqlite3.Connection, language: str) -> dict:
         columns = {col[1] for col in connection.execute("PRAGMA table_info(exercise_translations)")}

@@ -13,3 +13,6 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# Ephemeral reviewer batches, model outputs, and local curation worksheets.
+scratch/
