@@ -3,10 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '803'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: One Arm Triceps Extensions on Cable
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1055'
+description: |-
+  Stand at a cable pulley and hold the attachment with one hand. Extend the elbow to press the handle down, then return it under control before repeating on the other side.

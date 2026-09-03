@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '165'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Ball crunches
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1051'
+description: |-
+  Lie on your back with your lower legs supported on a Swiss ball. Curl your upper body toward your knees, then lower it again.

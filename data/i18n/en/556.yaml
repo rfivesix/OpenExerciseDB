@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '556'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Side Bends on Machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann
   source_id: '1070'
+description: |-
+  Position yourself on the Roman chair with your body straight. Bend your torso toward the floor to the side, then return to the starting position. Keep your hands behind your head or in front of your chest.

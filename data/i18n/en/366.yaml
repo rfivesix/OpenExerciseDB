@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '366'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Leg Curls (sitting)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '117'
+description: |-
+  Sit in the leg curl machine and position your lower legs behind the pad. Bend your knees to pull the pad down, then return to the starting position under control.

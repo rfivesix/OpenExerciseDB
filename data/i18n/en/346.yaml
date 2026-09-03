@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '346'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Landmine press
 upstream:
   license: CC-BY-SA-4.0
   license_author: Torsten Linnecke
   source_id: '1066'
+description: |-
+  Hold the free end of a barbell fixed in a landmine with one hand. Press it away from your body without moving it toward your midline, keeping your body straight and braced.

@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '375'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Leg Press on Hackenschmidt Machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '130'
+description: |-
+  Sit in the Hackenschmidt machine with your shoulders against the pads and your feet about shoulder-width apart. Lower into the squat, then press back up without fully locking your knees.

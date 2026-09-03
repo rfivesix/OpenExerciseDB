@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '208'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Dumbbells on Scott Machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '87'
+description: |-
+  Sit at a preacher bench with your upper arms supported on the pad. Hold a dumbbell in each hand, curl the weights by bending your elbows, then lower them under control.

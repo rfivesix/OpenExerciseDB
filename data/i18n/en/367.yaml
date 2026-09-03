@@ -3,11 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '367'
 language: en
-status: upstream_unreviewed
+status: ai_raw
 name: Leg Curls (standing)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '118'
+description: |-
+  Perform the movement one leg at a time in the standing leg curl machine. Place your lower leg behind the pad, bend the knee until it reaches a right angle, then lower the weight under control.
