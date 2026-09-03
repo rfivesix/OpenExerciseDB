@@ -1,22 +1,86 @@
-# data/exercises/<id>.yaml — sprachneutrale Fakten.
-# Enthaelt KEINEN uebersetzbaren Text; der liegt unter data/i18n/<lang>/<id>.yaml.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Ab hier ist die Datei von Hand pflegbar — der Importer laeuft nicht erneut.
-# Die Klassifikationsfelder (modality, tracking_type, primary_equipment, ...)
-# fehlen absichtlich: wger liefert sie nicht, und geraten waere schlimmer als
-# leer. Siehe SCHEMA.md 6 und 11.
 id: '1117'
 slug: seated-cable-row
 status: active
+modality: strength
+mechanic: compound
+movement_pattern: horizontal_pull
+laterality: bilateral
+difficulty: beginner
+usage_tags:
+- accessory
+- main_lift
+tracking_type: weight_reps
+load_mode: external
+supports_added_weight: false
+primary_equipment: cable
+setup: []
 muscles:
-  - {id: latissimus_dorsi, role: primary}
-  - {id: biceps_brachii, role: secondary}
-  - {id: trapezius, role: secondary}
+- id: latissimus_dorsi
+  role: primary
+- id: rhomboids
+  role: primary
+- id: traps_middle
+  role: secondary
+- id: delt_posterior
+  role: secondary
+- id: biceps_brachii
+  role: secondary
+- id: brachialis
+  role: secondary
 provenance:
-  id: {source: wger}
-  slug: {source: derived, at: '2026-09-02'}
-  muscles: {source: wger, at: '2026-09-02'}
+  id:
+    source: wger
+  slug:
+    source: derived
+    at: '2026-09-02'
+  modality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  mechanic:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  movement_pattern:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  laterality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  difficulty:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  usage_tags:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  tracking_type:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  load_mode:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  supports_added_weight:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  primary_equipment:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  setup:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
 upstream:
   source: wger
   source_id: '1117'
@@ -26,4 +90,4 @@ upstream:
   source_fields:
     category: Back
     equipment:
-      - Cable machine
+    - Cable machine

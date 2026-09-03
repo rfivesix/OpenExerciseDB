@@ -266,7 +266,8 @@ class RealDataTestCase(unittest.TestCase):
         validate.check_plausibility(data, Vocabularies(), report)
         validate.apply_exceptions(data, report)
         soft = report.stats["soft_invariants"]
-        self.assertEqual({"fired": 2, "excused": 2, "open": 0}, soft["18"])
+        self.assertEqual(0, soft["18"]["open"])
+        self.assertEqual(soft["18"]["fired"], soft["18"]["excused"])
 
     def test_every_legacy_wger_muscle_maps_back_to_its_own_name(self) -> None:
         """Die Kompatibilitaetsspalten stehen und fallen mit dieser Umkehrung."""

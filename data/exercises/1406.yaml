@@ -1,24 +1,86 @@
-# data/exercises/<id>.yaml — sprachneutrale Fakten.
-# Enthaelt KEINEN uebersetzbaren Text; der liegt unter data/i18n/<lang>/<id>.yaml.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Ab hier ist die Datei von Hand pflegbar — der Importer laeuft nicht erneut.
-# Die Klassifikationsfelder (modality, tracking_type, primary_equipment, ...)
-# fehlen absichtlich: wger liefert sie nicht, und geraten waere schlimmer als
-# leer. Siehe SCHEMA.md 6 und 11.
 id: '1406'
 slug: plank-to-elbow-extension
 status: active
+modality: strength
+mechanic: compound
+movement_pattern: anti_extension
+laterality: alternating
+difficulty: intermediate
+usage_tags:
+- accessory
+- conditioning
+tracking_type: bodyweight_reps
+load_mode: bodyweight
+supports_added_weight: false
+primary_equipment: bodyweight
+setup:
+- mat
 muscles:
-  - {id: deltoid, role: primary}
-  - {id: rectus_abdominis, role: primary}
-  - {id: triceps_brachii, role: primary}
-  - {id: obliques_external, role: secondary}
-  - {id: pectoralis_major, role: secondary}
+- id: rectus_abdominis
+  role: primary
+- id: triceps_brachii
+  role: primary
+- id: deltoid
+  role: secondary
+- id: obliques
+  role: secondary
+exceptions:
+  invariant_18: Dynamische Anti-Extension (Plank Up-Downs), wird in Wiederholungen
+    geloggt.
 provenance:
-  id: {source: wger}
-  slug: {source: derived, at: '2026-09-02'}
-  muscles: {source: wger, at: '2026-09-02'}
+  id:
+    source: wger
+  slug:
+    source: derived
+    at: '2026-09-02'
+  muscles:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  modality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  mechanic:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  movement_pattern:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  laterality:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  difficulty:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  usage_tags:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  tracking_type:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  load_mode:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  supports_added_weight:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  primary_equipment:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
+  setup:
+    source: ai
+    model: gemini-3.8-flash
+    at: '2026-09-03'
 upstream:
   source: wger
   source_id: '1406'
@@ -28,4 +90,4 @@ upstream:
   source_fields:
     category: Abs
     equipment:
-      - none (bodyweight exercise)
+    - none (bodyweight exercise)
