@@ -59,12 +59,9 @@ movement_pattern:
   - { id: hip_abduction, names: { en: Hip abduction, de: Hüftabduktion } }
   - { id: hip_adduction, names: { en: Hip adduction, de: Hüftadduktion } }
   - { id: shoulder_abduction, names: { en: Shoulder abduction, de: Schulterabduktion } }
-  # OFFEN: buendelt zwei Bewegungen mit gegenlaeufigem force_vector — Front/Lateral
-  # Raise (Delta, push) und Shrug (Trapez, pull). Deshalb hat das Muster in
-  # `force_vector_by_pattern` keinen Wert. Aufzuteilen in `shoulder_raise` und
-  # `shrug`, sobald die inhaltliche Arbeit ohnehin durch die Schulteruebungen
-  # geht — siehe SCHEMA.md 12.
-  - { id: shoulder_raise, names: { en: Shoulder raise / shrug, de: Schulterheben } }
+  - { id: shoulder_flexion, names: { en: Shoulder flexion, de: Schulterbeugung / Frontheben } }
+  - { id: scapular_elevation, names: { en: Scapular elevation, de: Schulterblatthebung / Shrug } }
+  - { id: hip_extension, names: { en: Hip extension, de: Hüftstreckung } }
   - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung } }
   - { id: spinal_flexion, names: { en: Spinal flexion, de: Rumpfbeugung } }
   - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion } }
@@ -87,13 +84,13 @@ movement_pattern:
 # Zwei Zeilen weichen bewusst von dem ab, was das Modell geschrieben hat:
 #   shoulder_abduction: das Modell sagte `pull`. Ein Seitheben ist eine
 #     Drueck-Bewegung — der Arm geht vom Koerper weg. Hier steht `push`.
-#   shoulder_raise: das Modell sagte `pull`, aber das Muster buendelt Front
-#     Raise (Delta, push) und Shrug (Trapez, pull). Es kann keinen ehrlichen
-#     Wert haben, solange es beides ist -> null. Aufzuteilen, siehe oben.
+#   shoulder_flexion: Arm wird nach vorne/oben gehoben (Delta anterior) -> push.
+#   scapular_elevation: Schulterguertel wird nach oben gezogen (Trapez) -> pull.
 #
-# `hinge: pull` bricht die Beuge/Streck-Logik der Isolationsmuster (Hueftstreckung
-# waere `push`). Das ist Absicht: Kreuzheben ist in jeder Systematik eine
-# Zug-Uebung. Bitte nicht "korrigieren".
+# `hinge: pull` und `hip_extension: pull` brechen die Beuge/Streck-Logik der
+# reinen Isolationsmuster (Hueftstreckung waere anatomisch Druecken). Das ist Absicht:
+# Kreuzheben, Glute Bridges und Hip Thrusts sind posteriore Kettenuebungen
+# und gehoeren zur Zug-Systematik. Bitte nicht "korrigieren".
 force_vector_by_pattern:
   horizontal_push: push
   vertical_push: push
@@ -101,12 +98,15 @@ force_vector_by_pattern:
   vertical_pull: pull
   squat: push
   hinge: pull
+  hip_extension: pull
   lunge: push
   elbow_flexion: pull
   elbow_extension: push
   knee_flexion: pull
   knee_extension: push
   shoulder_abduction: push
+  shoulder_flexion: push
+  scapular_elevation: pull
   plantar_flexion: push
   dorsiflexion: pull
   wrist_flexion: pull
@@ -122,7 +122,6 @@ force_vector_by_pattern:
   rotation: null
   hip_abduction: null
   hip_adduction: null
-  shoulder_raise: null      # buendelt push und pull, siehe oben
   spinal_extension: null
   spinal_flexion: null
   gait: null

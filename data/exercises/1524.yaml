@@ -13,7 +13,8 @@ tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: other
-setup: []
+setup:
+  - battle_ropes
 muscles:
   - id: deltoid
     role: primary

@@ -13,6 +13,7 @@ load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup:
+  - sliders
   - mat
 muscles:
   - id: hamstring_complex

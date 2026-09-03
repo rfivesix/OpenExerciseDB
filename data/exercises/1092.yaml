@@ -12,7 +12,8 @@ tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: other
-setup: []
+setup:
+  - punching_bag
 muscles:
   - id: deltoid
     role: primary

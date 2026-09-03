@@ -12,7 +12,8 @@ tracking_type: weight_reps
 load_mode: external
 supports_added_weight: false
 primary_equipment: kettlebell
-setup: []
+setup:
+  - sliders
 muscles:
   - id: quadriceps
     role: primary

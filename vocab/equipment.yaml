@@ -91,3 +91,9 @@ setup:
     names: { en: Foam roller, de: Faszienrolle }
   - id: lacrosse_ball
     names: { en: Lacrosse ball / massage ball, de: Faszienball / Massageball }
+  - id: punching_bag
+    names: { en: Punching bag / heavy bag, de: Boxsack }
+  - id: battle_ropes
+    names: { en: Battle ropes, de: Battle Ropes }
+  - id: sliders
+    names: { en: Sliders / gliding discs, de: Slider / Gleitscheiben }
