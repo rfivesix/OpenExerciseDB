@@ -21,7 +21,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `92` | Bizeps KH-Curls | Kurzhantel-Bizepscurls |
 | de | `94` | Bizeps Curls Mit SZ-Stange | Bizeps-Curls mit SZ-Stange |
 | de | `95` | Bizeps am Kabel | Bizeps-Curls am Kabelzug |
-| de | `124` | Goblet-Kniebeuge mit Scheibe | Braced Squat |
+| de | `124` | Goblet-Kniebeuge mit Scheibe | Kniebeuge mit Gewichtsscheibe |
 | de | `146` | Wadendrücken an Beinpresse | Wadendrücken an der Beinpresse |
 | de | `148` | Wadenheben an Hackenschmidt | Wadenheben an der Hackenschmidt-Maschine |
 | de | `152` | Chin-ups | Klimmzug im Untergriff (Chin-up) |
@@ -47,7 +47,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `256` | Frontheben am Kabel | Frontheben mit Kurzhanteln |
 | de | `257` | Front Kniebeuge | Frontkniebeuge |
 | de | `260` | Full Sit Outs | Sit-Out |
-| de | `265` | Brücke Auf Dem Ball | Glute Bridge |
+| de | `265` | Brücke Auf Dem Ball | Hüftheben (Glute Bridge) |
 | de | `308` | Fliegende KH Schrägbank | Kurzhantel-Fliegende auf der Schrägbank |
 | de | `310` | Rudern KH Auf Schrägbank | Schrägbank-Kurzhantelrudern |
 | de | `312` | Negativ Plank Mit Abwechselnden Fuß-Kontakt | Decline-Plank mit Gymnastikball und abwechselndem Fußtippen |
@@ -65,7 +65,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `445` | Pause Bench | Pause-Bankdrücken |
 | de | `448` | Pendelay Rows | Pendlay-Rudern |
 | de | `454` | Hecht-Liegestütze | Pike-Liegestütze |
-| de | `456` | Einbeinige Kniebeuge | Pistol Squat |
+| de | `456` | Einbeinige Kniebeuge | Einbeinige Kniebeuge (Pistol Squat) |
 | de | `458` | Plank | Unterarmstütz (Plank) |
 | de | `465` | KH an Scottmaschine | Scott-Curls mit SZ-Stange |
 | de | `475` | Klimmzüge | Klimmzug |
@@ -87,7 +87,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `590` | Wadenheben Sitzend | Sitzendes Wadenheben |
 | de | `591` | Sit Ups | Sit-ups mit abgelegten Beinen |
 | de | `607` | Splinter Sit-ups | Splinter Sit-up |
-| de | `614` | Tiefe Hocksprünge | Squat Jumps |
+| de | `614` | Tiefe Hocksprünge | Kniebeugensprünge |
 | de | `616` | Hocksprung | Squat Thrust |
 | de | `622` | Wadenheben Stehend | Stehendes Wadenheben |
 | de | `628` | Lat-Ziehen Mit Gesteckten Armen Mit (Stange) | Überzug mit gestreckten Armen am Kabelzug mit Stange |
@@ -121,7 +121,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `999` | Umgekehrte Ausfallschritte | Ausfallschritte nach hinten (Reverse Lunges) |
 | de | `1000` | Bodensenken | Dips am Boden |
 | de | `1001` | Hohe Planke | High Plank (Liegestützposition) |
-| de | `1006` | Schluckübungen | Chin Tuck |
+| de | `1006` | Schluckübungen | Kinn einziehen (Chin Tuck) |
 | de | `1011` | Nackenstütze vorne | Vordere Halsdehnung |
 | de | `1013` | Dehnung des linken Schulterblattes | Dehnung des linken Musculus levator scapulae |
 | de | `1014` | Dehnung des rechten Schulterblattes | Dehnung des rechten Musculus levator scapulae |
@@ -135,7 +135,7 @@ This report compares the Job-A-reviewed source documents with the released refer
 | de | `1193` | Russian Twist | Russian Twist mit Kurzhantel |
 | de | `1198` | Inverted Rows (umgekehrtes Rudern) | Körpergewichtsrudern (Inverted Row) |
 | de | `1203` | Wadenheben, linkes Bein | Einbeiniges Wadenheben (links) |
-| de | `1219` | Australian Pull-ups (umgekehrtes Rudern) | Australian Pull-up |
+| de | `1219` | Australian Pull-ups (umgekehrtes Rudern) | Umgekehrtes Rudern (Australian Pull-up) |
 | de | `1248` | Ice Scream Maker | Ice Cream Maker |
 | de | `1259` | TRX Bauchmuskeln seitlich | TRX-Kniebeugen zur Seite |
 | de | `1262` | TRX einarmiger Bizeps-Curl | Einarmiger TRX-Bizeps-Curl |
