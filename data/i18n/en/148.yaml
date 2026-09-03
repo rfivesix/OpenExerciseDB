@@ -1,16 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '148'
 language: en
-status: upstream_unreviewed
-name: Calf Raises on Hackenschmitt Machine
-description: |-
-  Place yourself on the machine with your back firmly against the backrest, the feet are on the platform for calf raises. Check that the feet are half free and that you can completely stretch the calf muscles down.
-  With straight knees pull up your weight as much as you can. Go with a fluid movement down till the calves are completely stretched. Repeat.
+status: ai_reviewed
+name: Hack Squat Calf Raise
+description: 'Place yourself on the machine with your back firmly against the backrest,
+  the feet are on the platform for calf raises. Check that the feet are half free
+  and that you can completely stretch the calf muscles down.
+
+  With straight knees pull up your weight as much as you can. Go with a fluid movement
+  down till the calves are completely stretched. Repeat.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '104'
+search_terms:
+- Calf Raises on Hackenschmitt Machine

@@ -1,19 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1218'
 language: en
-status: upstream_unreviewed
-name: knee push-ups
-description: |-
-  Start by kneeling on the floor, keeping your knees together. Place your hands on the floor in front of you, slightly wider than shoulder-width apart.
-  Make sure your body forms a straight line from head to knees. Hands should be positioned below shoulders.
-  Lower your torso towards the ground, bending your elbows while keeping your trunk stable. Keep your knees in contact with the floor.
-  Push through your hands to return to the starting position. Be sure to maintain contraction of chest, shoulder and arm muscles at the top of the movement.
-  Perform the desired number of repetitions, controlling the movement and maintaining good form.
+status: ai_reviewed
+name: Knee Push-Up
+description: 'Start by kneeling on the floor, keeping your knees together. Place your
+  hands on the floor in front of you, slightly wider than shoulder-width apart.
+
+  Make sure your body forms a straight line from head to knees. Hands should be positioned
+  below shoulders.
+
+  Lower your torso towards the ground, bending your elbows while keeping your trunk
+  stable. Keep your knees in contact with the floor.
+
+  Push through your hands to return to the starting position. Be sure to maintain
+  contraction of chest, shoulder and arm muscles at the top of the movement.
+
+  Perform the desired number of repetitions, controlling the movement and maintaining
+  good form.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: PaukOne
   source_id: '2184'
+search_terms:
+- knee push-ups

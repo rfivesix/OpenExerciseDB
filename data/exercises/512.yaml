@@ -1,6 +1,6 @@
 id: '512'
 slug: rowing-seated-narrow-grip
-status: active
+status: merged
 modality: strength
 mechanic: compound
 movement_pattern: horizontal_pull
@@ -86,3 +86,4 @@ upstream:
   imported_at: '2026-09-02'
   source_fields:
     category: Back
+merged_into: '395'

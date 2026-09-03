@@ -1,21 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1205'
 language: en
-status: upstream_unreviewed
-name: Wrist curl, dumbbells
-description: |-
-  Sitting on a bench, grab the dumbbell with your palms facing up
+status: ai_reviewed
+name: Dumbbell Wrist Curl
+description: 'Sitting on a bench, grab the dumbbell with your palms facing up
+
   and your hands shoulder-width apart. Rest your forearms on your thighs
+
   and allow your wrists to hang over your knees.
+
   Perform the movement by
+
   curling your palms and wrists towards your face.
+
   (optional/variable) Pause at the top.
-  Slowly return to the starting position.
+
+  Slowly return to the starting position.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wakanda90
   source_id: '2165'
+search_terms:
+- Wrist curl, dumbbells

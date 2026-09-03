@@ -1,15 +1,13 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2531'
 language: en
-status: upstream_unreviewed
-name: elbow lever
-description: |-
-  ​A calisthenics static balance skill where the entire body is held straight and parallel to the ground, supported by tucking the elbows firmly into the abdomen or pelvic bones.
+status: ai_reviewed
+name: Elbow Lever
+description: ​A calisthenics static balance skill where the entire body is held straight
+  and parallel to the ground, supported by tucking the elbows firmly into the abdomen
+  or pelvic bones.
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '5000'
+search_terms:
+- elbow lever

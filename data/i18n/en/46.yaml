@@ -1,16 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '46'
 language: en
-status: upstream_unreviewed
-name: Barbell Lunges Standing
-description: |-
-  Put barbell on the back of your shoulders. Stand upright, then take the first step forward. Step should bring you forward so that your supporting legs knee can touch the floor. Then stand back up and repeat with the other leg.
-  Remember to keep good posture.
+status: ai_reviewed
+name: Standing Barbell Lunge
+description: 'Put barbell on the back of your shoulders. Stand upright, then take
+  the first step forward. Step should bring you forward so that your supporting legs
+  knee can touch the floor. Then stand back up and repeat with the other leg.
+
+  Remember to keep good posture.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mikko Ruohola
   source_id: '405'
+search_terms:
+- Barbell Lunges Standing

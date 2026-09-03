@@ -1,17 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1312'
 language: en
-status: upstream_unreviewed
-name: Bodyweight Squat HD
-description: |-
-  Squat is a type of bodyweight exercise. It is one of the most popular exercises for strength and muscle growth. Squat is particularly effective for focusing on the muscles of the leg and hips.
-  Squat are an easy exercise for beginners to do. It can help strengthen leg muscles, tighten hip muscles and burn calories to lose weight.
-  It tightens the butt and legs. Squats are very effective for firming and strengthening your legs by acting on the gluteus,hip flexors, quadriceps, hamstrings and inner thigh muscles. Also, bodyweight squats can help shape your glutes and butt.
+status: ai_reviewed
+name: Bodyweight Squat
+description: 'Squat is a type of bodyweight exercise. It is one of the most popular
+  exercises for strength and muscle growth. Squat is particularly effective for focusing
+  on the muscles of the leg and hips.
+
+  Squat are an easy exercise for beginners to do. It can help strengthen leg muscles,
+  tighten hip muscles and burn calories to lose weight.
+
+  It tightens the butt and legs. Squats are very effective for firming and strengthening
+  your legs by acting on the gluteus,hip flexors, quadriceps, hamstrings and inner
+  thigh muscles. Also, bodyweight squats can help shape your glutes and butt.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso
   source_id: '2277'
+search_terms:
+- Bodyweight Squat HD

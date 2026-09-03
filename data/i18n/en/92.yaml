@@ -1,16 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '92'
 language: en
-status: upstream_unreviewed
-name: Biceps Curls With Dumbbell
-description: |-
-  Hold two dumbbells, the arms are streched, the hands are on your side, the palms face inwards. Bend the arms and bring the weight with a fast movement up. At the same time, rotate your arms by 90 degrees at the very beginning of the movement. At the highest point, rotate a little the weights further outwards. Without a pause, bring them down, slowly.
-  Don't allow your body to swing during the exercise, all work is done by the biceps, which are the only mucles that should move (pay attention to the elbows).
+status: ai_reviewed
+name: Dumbbell Biceps Curl
+description: 'Hold two dumbbells, the arms are streched, the hands are on your side,
+  the palms face inwards. Bend the arms and bring the weight with a fast movement
+  up. At the same time, rotate your arms by 90 degrees at the very beginning of the
+  movement. At the highest point, rotate a little the weights further outwards. Without
+  a pause, bring them down, slowly.
+
+  Don''t allow your body to swing during the exercise, all work is done by the biceps,
+  which are the only mucles that should move (pay attention to the elbows).'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '81'
+search_terms:
+- Biceps Curls With Dumbbell

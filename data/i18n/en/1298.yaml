@@ -1,16 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1298'
 language: en
-status: upstream_unreviewed
-name: High-Cable Cross Tricep Extention - NB
-description: |-
-  The high-cable cross tricep extension is an isolation exercise for targeting the triceps,
-  particularly the long head. It utilizes cables and handles grasped with opposite hands, allowing for a unique pressing motion that can be effective for building tricep strength. Unlike exercises that use a straight bar or rope, this variation can be more comfortable on your wrists and elbows
+status: ai_reviewed
+name: High-Cable Triceps Extension
+description: 'The high-cable cross tricep extension is an isolation exercise for targeting
+  the triceps,
+
+  particularly the long head. It utilizes cables and handles grasped with opposite
+  hands, allowing for a unique pressing motion that can be effective for building
+  tricep strength. Unlike exercises that use a straight bar or rope, this variation
+  can be more comfortable on your wrists and elbows'
 upstream:
   license: CC-BY-SA-4.0
   license_author: JackSparrow
   source_id: '2264'
+search_terms:
+- High-Cable Cross Tricep Extention - NB

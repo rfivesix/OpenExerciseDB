@@ -1,15 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '693'
 language: en
-status: upstream_unreviewed
-name: Upright Row, SZ-bar
-description: |-
-  Stand straight, your feet are shoulder-width apart. Hold the SZ-bar with an overhand grip on your thighs, the arms are stretched. Lift the bar close to the body till your chin. The elbows point out so that at the highest point they form a V. Make here a short pause before going slowly down and repeating the movement.
+status: ai_reviewed
+name: EZ-Bar Upright Row
+description: Stand straight, your feet are shoulder-width apart. Hold the SZ-bar with
+  an overhand grip on your thighs, the arms are stretched. Lift the bar close to the
+  body till your chin. The elbows point out so that at the highest point they form
+  a V. Make here a short pause before going slowly down and repeating the movement.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '127'
+search_terms:
+- Upright Row, SZ-bar

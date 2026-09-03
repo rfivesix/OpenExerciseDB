@@ -1,14 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '43'
 language: en
-status: upstream_unreviewed
-name: Barbell Hack Squats
+status: ai_reviewed
+name: Barbell Hack Squat
 description: Perform leg squats with barbell behind your legs
 upstream:
   license: CC-BY-SA-4.0
   license_author: BePieToday
   source_id: '407'
+search_terms:
+- Barbell Hack Squats

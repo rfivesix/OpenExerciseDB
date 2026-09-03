@@ -1,15 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1296'
 language: en
-status: upstream_unreviewed
-name: Low-Cable Cross-Over - NB
-description: |-
-  The low-cable cross-over is an isolation movement that uses a cable stack to target the upper portion of the pectoral muscles. It is common in upper-body and chest-focused muscle-building workouts, often in combination with presses or flyes from other angles to target all portions of the chest.
+status: ai_reviewed
+name: Low-Cable Crossover
+description: The low-cable cross-over is an isolation movement that uses a cable stack
+  to target the upper portion of the pectoral muscles. It is common in upper-body
+  and chest-focused muscle-building workouts, often in combination with presses or
+  flyes from other angles to target all portions of the chest.
 upstream:
   license: CC-BY-SA-4.0
   license_author: JackSparrow
   source_id: '2262'
+search_terms:
+- Low-Cable Cross-Over - NB

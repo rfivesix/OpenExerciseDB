@@ -315,6 +315,11 @@ class ReferenceComparison(DatabaseTestCase):
                     # echte Übersetzung vorliegt, ist dies eine legitime Verbesserung.
                     if language == "de" and old_name == old_en.get(exercise_id, {}).get("name"):
                         continue
+                    # In Phase 2: Freigegebene Vereinheitlichungen englischer Namen
+                    # uebernehmen den alten Namen in search_terms (Bestandsschutz).
+                    search_terms = json.loads(new.get(exercise_id, {}).get("search_terms") or "[]")
+                    if language == "en" and old_name in search_terms:
+                        continue
                     differences.append((exercise_id, old_name, new_name))
             self.assertEqual([], differences[:20], f"{language}: {len(differences)} Abweichungen")
 
@@ -361,13 +366,14 @@ class ReferenceComparison(DatabaseTestCase):
         )
 
     def _translations(self, connection: sqlite3.Connection, language: str) -> dict:
+        columns = {col[1] for col in connection.execute("PRAGMA table_info(exercise_translations)")}
+        fields = ["exercise_id", "name", "description"]
+        if "search_terms" in columns:
+            fields.append("search_terms")
+        query = f"SELECT {', '.join(fields)} FROM exercise_translations WHERE language_code = ?"
         return {
             row["exercise_id"]: dict(row)
-            for row in connection.execute(
-                "SELECT exercise_id, name, description FROM exercise_translations "
-                "WHERE language_code = ?",
-                (language,),
-            )
+            for row in connection.execute(query, (language,))
         }
 
 
