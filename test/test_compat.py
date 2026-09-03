@@ -1,12 +1,22 @@
 #!/usr/bin/env python3
-"""Abnahmetest fuer Phase 1: laedt die heutige App diese Datenbank unveraendert?
+"""Abnahmetest: laedt die heutige App diese Datenbank noch?
 
 Die Schwelle steht in `_bootstrap/HANDOFF.md`: der Importer der App
 (`_mapExerciseBundle` in `lib/core/infrastructure/basis_data_manager.dart`) liest
 genau vier Spalten aus `exercises` — `id`, `category_name`, `muscles_primary`,
-`muscles_secondary` — plus `exercise_translations`. Solange die zeichengleich
-zur veroeffentlichten Referenz sind, ist der Umbau der Pipeline nachweislich
-folgenlos fuer Nutzer.
+`muscles_secondary` — plus `exercise_translations`.
+
+**Was sich mit Phase 2 an diesem Test geaendert hat.** In Phase 1 war
+Zeichengleichheit die richtige Schwelle: der Umbau der Pipeline sollte nachweislich
+folgenlos sein. Ab Phase 2 waere sie falsch — bessere Muskelzuweisungen aendern
+`muscles_primary` und `muscles_secondary` zwangslaeufig, das ist der Zweck des
+ganzen Projekts. Ein Test, der darauf besteht, blockiert genau die Arbeit, fuer
+die er da ist.
+
+Geblieben ist die Zeichengleichheit dort, wo sie eine echte Aussage macht:
+`category_name` (wird nicht gepflegt, ist der konservierte Rohwert) und die
+`de`/`en`-Texte. Fuer die Muskelspalten steht jetzt die eigentliche Gefahr im
+Test — dass eine Uebung ihre Information *verliert* statt sie zu praezisieren.
 
 Als Referenz dient die DB aus dem `wger-catalog-stable`-Release — das, was auf
 Geraeten tatsaechlich liegt. Ohne Referenz (kein Netz, kein Cache) ueberspringen
@@ -189,18 +199,84 @@ class ReferenceComparison(DatabaseTestCase):
     def test_exercise_count_does_not_drop(self) -> None:
         self.assertGreaterEqual(len(self._ids(self.db)), len(self._ids(self.reference)))
 
-    def test_compat_columns_are_character_identical(self) -> None:
-        columns = ("category_name", "muscles_primary", "muscles_secondary")
-        select = f"SELECT id, {', '.join(columns)} FROM exercises"
-        new = {row["id"]: row for row in self.db.execute(select)}
-        old = {row["id"]: row for row in self.reference.execute(select)}
+    def test_category_name_is_character_identical(self) -> None:
+        """`category_name` wird nicht gepflegt — es ist der konservierte
+        wger-Rohwert. Aendert es sich, stimmt etwas mit der Pipeline nicht."""
+        new = {row["id"]: row["category_name"] for row in self.db.execute(
+            "SELECT id, category_name FROM exercises")}
+        old = {row["id"]: row["category_name"] for row in self.reference.execute(
+            "SELECT id, category_name FROM exercises")}
         differences = [
-            (exercise_id, column, old[exercise_id][column], new[exercise_id][column])
-            for exercise_id in sorted(self._shared_ids())
-            for column in columns
-            if old[exercise_id][column] != new[exercise_id][column]
+            (i, old[i], new[i]) for i in sorted(self._shared_ids()) if old[i] != new[i]
         ]
         self.assertEqual([], differences[:20], f"{len(differences)} Abweichungen")
+
+    def test_muscle_columns_never_lose_data_silently(self) -> None:
+        """Ab Phase 2 duerfen sich die Muskelspalten aendern — das ist der Zweck.
+
+        Zeichengleichheit war die richtige Schwelle fuer Phase 1 (keine
+        Verhaltensaenderung). Ab Phase 2 wuerde sie genau die Arbeit blockieren,
+        fuer die es dieses Repo gibt: bessere Zuweisungen aendern diese Spalten
+        zwangslaeufig.
+
+        Was bleibt, ist die eigentliche Gefahr: dass eine Uebung ihre
+        Muskelinformation *verliert*. Deshalb wird hier nicht mehr auf Gleichheit
+        geprueft, sondern darauf, dass jede Abweichung durch praezisere Daten
+        gedeckt ist — `exercise_muscles` muss die Zuweisung enthalten, auch wenn
+        das alte 15-Werte-Vokabular sie nicht ausdruecken kann.
+        """
+        losses = []
+        for row in self.reference.execute(
+            "SELECT id, muscles_primary, muscles_secondary FROM exercises"
+        ):
+            exercise_id = row["id"]
+            if exercise_id not in self._shared_ids():
+                continue
+            precise = self.db.execute(
+                "SELECT COUNT(*) AS n FROM exercise_muscles WHERE exercise_id = ?",
+                (exercise_id,),
+            ).fetchone()["n"]
+            new_row = self.db.execute(
+                "SELECT muscles_primary, muscles_secondary FROM exercises WHERE id = ?",
+                (exercise_id,),
+            ).fetchone()
+            had = json.loads(row["muscles_primary"] or "[]") + json.loads(
+                row["muscles_secondary"] or "[]"
+            )
+            has = json.loads(new_row["muscles_primary"] or "[]") + json.loads(
+                new_row["muscles_secondary"] or "[]"
+            )
+            # Der einzige echte Verlust: vorher etwas, jetzt nichts — und auch
+            # keine praezise Zuweisung, die das erklaeren wuerde.
+            if had and not has and precise == 0:
+                losses.append(exercise_id)
+        self.assertEqual([], losses, f"{len(losses)} Uebungen ohne jede Muskelinformation")
+
+    def test_the_legacy_vocabulary_gap_is_small_and_named(self) -> None:
+        """Wie viele Uebungen das alte 15-Werte-Vokabular nicht mehr ausdruecken kann.
+
+        Kein Datenverlust — `exercise_muscles` traegt die praezise Zuweisung —,
+        aber ein Konsument, der nur die Legacy-Spalten liest, sieht sie nicht
+        mehr. Die Zahl gehoert sichtbar in den Test, damit sie nicht unbemerkt
+        waechst; behoben wird sie App-seitig durch den Umstieg auf die
+        mitgelieferten Vokabulare (SCHEMA.md 10, Punkt 6).
+        """
+        gap = []
+        for exercise_id in sorted(self._shared_ids(), key=str):
+            old = self.reference.execute(
+                "SELECT muscles_primary FROM exercises WHERE id = ?", (exercise_id,)
+            ).fetchone()["muscles_primary"]
+            new = self.db.execute(
+                "SELECT muscles_primary FROM exercises WHERE id = ?", (exercise_id,)
+            ).fetchone()["muscles_primary"]
+            if json.loads(old or "[]") and not json.loads(new or "[]"):
+                gap.append(exercise_id)
+        self.assertLessEqual(
+            len(gap),
+            10,
+            f"{len(gap)} Uebungen fallen aus den Legacy-Spalten heraus: {gap[:20]}. "
+            f"Wenn das waechst, lohnt der App-seitige Umstieg dringender.",
+        )
 
     def test_legacy_row_defaults_are_unchanged(self) -> None:
         columns = ("image_path", "is_custom", "created_by", "source")

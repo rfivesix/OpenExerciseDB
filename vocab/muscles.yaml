@@ -11,12 +11,22 @@
 # legacy_group: kanonische Gruppe, die die heutige App in
 #               recovery_domain_service.dart `_majorGroupMap` erwartet.
 #               Nur fuer die Kompatibilitaets-Spalten des DB-Builds relevant.
+# legacy_wger_name: der wger-Rohname FUER DIESEN KNOTEN, wenn er sich nicht
+#               ueber `legacy_wger_mapping` ergibt. Gebraucht auf Gruppenebene:
+#               das Mapping unten zeigt von wger-Namen auf MUSKEL-Knoten, also
+#               liefert eine Annotation auf Gruppenebene sonst gar nichts —
+#               obwohl sie laut SCHEMA.md 5 ausdruecklich zulaessig und die
+#               ehrlichere Angabe ist, wenn man sich beim Muskel nicht sicher ist.
+#               Nur dort gesetzt, wo wger tatsaechlich ein Gegenstueck hat;
+#               `back`, `lower_back`, `forearms`, `adductors` und `neck` kennt
+#               das alte Vokabular schlicht nicht.
 
 version: 1
 
 groups:
   - id: chest
     names: { en: Chest, de: Brust }
+    legacy_wger_name: Chest
     body_slugs: [chest]
 
   - id: back
@@ -29,14 +39,17 @@ groups:
 
   - id: shoulders
     names: { en: Shoulders, de: Schultern }
+    legacy_wger_name: Shoulders
     body_slugs: [frontDeltoids, backDeltoids]
 
   - id: biceps
     names: { en: Biceps, de: Bizeps }
+    legacy_wger_name: Biceps
     body_slugs: [biceps]
 
   - id: triceps
     names: { en: Triceps, de: Trizeps }
+    legacy_wger_name: Triceps
     body_slugs: [triceps]
 
   - id: forearms
@@ -45,18 +58,22 @@ groups:
 
   - id: abs
     names: { en: Core, de: Rumpf }
+    legacy_wger_name: Abs
     body_slugs: [abs, obliques]
 
   - id: glutes
     names: { en: Glutes, de: Gesäß }
+    legacy_wger_name: Glutes
     body_slugs: [gluteal]
 
   - id: quads
     names: { en: Quadriceps, de: Quadrizeps }
+    legacy_wger_name: Quads
     body_slugs: [quadriceps]
 
   - id: hamstrings
     names: { en: Hamstrings, de: Beinbeuger }
+    legacy_wger_name: Hamstrings
     body_slugs: [hamstrings]
 
   - id: adductors
@@ -65,6 +82,7 @@ groups:
 
   - id: calves
     names: { en: Calves, de: Waden }
+    legacy_wger_name: Calves
     body_slugs: [calves]
 
   # NEU gegenueber der App-Map: dort faellt 'neck' heute unter 'back'.

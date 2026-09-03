@@ -28,6 +28,9 @@ class MuscleNode:
     group_id: str
     names: dict[str, str]
     body_slugs: tuple[str, ...]
+    legacy_wger_name: str | None
+    """Rohname aus dem alten wger-Vokabular, falls dieser Knoten selbst einen hat."""
+
     legacy_group: str
     """Gruppe, die die heutige App erwartet. Weicht bei `serratus_anterior` und
     `hip_flexors` bewusst von `group_id` ab — siehe SCHEMA.md 5."""
@@ -83,6 +86,9 @@ class MuscleVocabulary:
         auch nicht in die Kompatibilitaetsspalte.
         """
         for candidate in [node_id, *self.ancestors(node_id)]:
+            explicit = self.nodes[candidate].legacy_wger_name
+            if explicit:
+                return explicit
             name = self._by_node.get(candidate)
             if name is not None:
                 return name
@@ -129,6 +135,7 @@ class Vocabularies:
                 group_id=gid,
                 names=dict(group.get("names", {})),
                 body_slugs=tuple(group.get("body_slugs") or []),
+                legacy_wger_name=group.get("legacy_wger_name"),
                 legacy_group=group.get("legacy_group") or gid,
             )
 
@@ -144,6 +151,7 @@ class Vocabularies:
                 group_id=gid,
                 names=dict(muscle.get("names", {})),
                 body_slugs=tuple(muscle.get("body_slugs") or []),
+                legacy_wger_name=muscle.get("legacy_wger_name"),
                 legacy_group=legacy,
             )
             for head in muscle.get("heads", []) or []:
@@ -155,6 +163,7 @@ class Vocabularies:
                     group_id=gid,
                     names=dict(head.get("names", {})),
                     body_slugs=tuple(head.get("body_slugs") or []),
+                    legacy_wger_name=head.get("legacy_wger_name"),
                     legacy_group=head.get("legacy_group") or legacy,
                 )
 
