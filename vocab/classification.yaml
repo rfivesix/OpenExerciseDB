@@ -49,15 +49,24 @@ movement_pattern:
   - { id: anti_rotation, names: { en: Anti-rotation, de: Anti-Rotation } }
   - { id: anti_extension, names: { en: Anti-extension, de: Anti-Extension } }
   - { id: anti_lateral_flexion, names: { en: Anti-lateral-flexion, de: Anti-Lateralflexion } }
+  - { id: anti_flexion, names: { en: Anti-flexion, de: Anti-Flexion } }
   - { id: elbow_flexion, names: { en: Elbow flexion, de: Ellbogenbeugung } }
   - { id: elbow_extension, names: { en: Elbow extension, de: Ellbogenstreckung } }
+  - { id: wrist_flexion, names: { en: Wrist flexion, de: Handgelenkbeugung } }
+  - { id: wrist_extension, names: { en: Wrist extension, de: Handgelenkstreckung } }
   - { id: knee_flexion, names: { en: Knee flexion, de: Kniebeugung } }
   - { id: knee_extension, names: { en: Knee extension, de: Kniestreckung } }
   - { id: hip_abduction, names: { en: Hip abduction, de: Hüftabduktion } }
   - { id: hip_adduction, names: { en: Hip adduction, de: Hüftadduktion } }
   - { id: shoulder_abduction, names: { en: Shoulder abduction, de: Schulterabduktion } }
+  # OFFEN: buendelt zwei Bewegungen mit gegenlaeufigem force_vector — Front/Lateral
+  # Raise (Delta, push) und Shrug (Trapez, pull). Deshalb hat das Muster in
+  # `force_vector_by_pattern` keinen Wert. Aufzuteilen in `shoulder_raise` und
+  # `shrug`, sobald die inhaltliche Arbeit ohnehin durch die Schulteruebungen
+  # geht — siehe SCHEMA.md 12.
   - { id: shoulder_raise, names: { en: Shoulder raise / shrug, de: Schulterheben } }
   - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung } }
+  - { id: spinal_flexion, names: { en: Spinal flexion, de: Rumpfbeugung } }
   - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion } }
   - { id: gait, names: { en: Gait / locomotion, de: Fortbewegung } }
   - { id: other, names: { en: Other, de: Sonstiges } }

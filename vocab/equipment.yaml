@@ -67,6 +67,8 @@ setup:
     names: { en: Dip bars, de: Dip-Barren }
   - id: cable_tower
     names: { en: Cable tower, de: Kabelturm }
+  - id: swiss_ball
+    names: { en: Swiss ball, de: Gymnastikball }
   - id: plyo_box
     names: { en: Plyo box / step, de: Sprungkasten / Stepper }
   - id: mat
