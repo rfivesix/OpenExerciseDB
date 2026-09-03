@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2454'
 language: de
 status: ai_raw
 translated_from: en
 name: YTW-Heben
+description: |-
+  Die YTW-Übung zur Schulterblattretraktion soll die Muskeln zwischen den Schulterblättern stärken, um die Schultern zurückzuziehen, und so eine aufrechte Haltung unterstützen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1873'
 language: de
 status: ai_raw
 translated_from: en
 name: Quadrizepsdehnung
+description: Sieh dir das Video an, um die Übung zu verstehen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

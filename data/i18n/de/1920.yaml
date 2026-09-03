@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1920'
 language: de
 status: ai_raw
 translated_from: en
 name: Intensive Schulterdehnung
+description: Tiefe belastete Dehnung für die Deltamuskeln, die nach Druckbewegungen ausgeführt wird.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3067'

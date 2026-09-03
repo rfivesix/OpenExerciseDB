@@ -1,8 +1,14 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2523'
 language: de
 status: ai_raw
 translated_from: en
 name: Serratus-Wandgleiten Dehnung
+description: |-
+  Stelle dich mit dem Gesicht zu einer Wand. Lege die Unterarme senkrecht an die Wand, sodass sowohl Ellbogen als auch Handgelenke die Wand berühren.
+  Richte die Arme leicht nach außen statt gerade nach oben.
+  Schiebe die Schultern stark nach vorn und gleite dann mit den Unterarmen an der Wand nach oben, bis die Ellbogen etwa auf Kinnhöhe sind.
+  Gleite mit den Unterarmen wieder an der Wand nach unten. Wiederhole dies nach Bedarf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

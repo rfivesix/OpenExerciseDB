@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1472'
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Shrugs eingedreht
+description: Befestige zwei D-Griffe an zwei tiefen Kabelzügen und ziehe die Schultern mit dem oberen Trapezmuskel nach innen hoch.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1919'
 language: de
 status: ai_raw
 translated_from: en
 name: Intensive Brustdehnung
+description: Tiefe belastete Dehnung für die Brustmuskeln, die üblicherweise am Ende des Brusttrainings ausgeführt wird.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3066'

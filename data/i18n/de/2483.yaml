@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2483'
 language: de
 status: ai_raw
 translated_from: en
 name: Rumpfdrehung am Beckenrand
+description: |-
+  Halte die Beckenwand oder den Beckenrand mit einer Hand, den Körper waagerecht an der Oberfläche, während die Beine sanft hinter dir schlagen. Halte das Gesicht im Wasser und atme kontinuierlich aus. Drehe dann den Kopf zur Seite — hebe ihn nicht an — sodass eine Schwimmbrille im Wasser bleibt, während die andere die Oberfläche verlässt. Atme kurz ein und drehe das Gesicht dann wieder nach unten in die neutrale Position. Dies isoliert die Kopfdrehung, ohne dass du an Armzüge denken musst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

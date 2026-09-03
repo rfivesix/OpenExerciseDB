@@ -1,8 +1,13 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1363'
 language: de
 status: ai_raw
 translated_from: en
 name: Faszienrolle (Blackroll)
+description: |-
+  Kontrollierte Bewegungen
+  Langsame Bewegungen
+  Nutze keinen Schwung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

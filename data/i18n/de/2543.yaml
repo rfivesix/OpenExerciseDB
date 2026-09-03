@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2543'
 language: de
 status: ai_raw
 translated_from: en
 name: Handgelenkkreisen
+description: |-
+  Handgelenkkreisen ist eine Aufwärmübung, bei der du die Handgelenke kreisförmig drehst. Es verbessert die Beweglichkeit und wird vor Übungen wie Klimmzügen, Handständen und anderen Übungen empfohlen, die Druck auf die Handgelenke ausüben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex

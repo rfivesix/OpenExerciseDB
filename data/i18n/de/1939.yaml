@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1939'
 language: de
 status: ai_raw
 translated_from: en
 name: Nackenkreisen kontrolliert (Neck CARs)
+description: Kontrollierte Gelenkrotationen. Langsame vollständige Kreise, drei in jede Richtung. Beweglichkeit der Halswirbelsäule.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3089'

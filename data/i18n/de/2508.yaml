@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2508'
 language: de
 status: ai_raw
 translated_from: en
 name: Bird Dog (Vierfüßlerstand)
+description: Vasco-spezifischer Bird Dog – grundlegende kontralaterale Gliedmaßenkoordination und Stabilität der Lendenwirbelsäule. Vermittelt die Trennung der Hüftbewegung von der Wirbelsäule, die Aktivierung der Gesäßmuskulatur und Schulterblattkontrolle.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4987'

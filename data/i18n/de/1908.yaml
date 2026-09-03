@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1908'
 language: de
 status: ai_raw
 translated_from: en
 name: Butterfly Superman
+description: Lege dich auf den Bauch, verschränke die Finger hinter dem Kopf, hebe den Kopf an und hebe die Ellbogen so weit wie möglich an.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro

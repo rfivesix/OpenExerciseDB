@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1938'
 language: de
 status: ai_raw
 translated_from: en
 name: Katze-Kuh
+description: Im Vierfüßlerstand den Rücken nach oben wölben (Katze), dann nach unten senken (Kuh). Mit der Bewegung atmen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3088'

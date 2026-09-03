@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1435'
 language: de
 status: ai_raw
 translated_from: en
 name: Skapula-Klimmzüge
+description: |-
+  Hänge gerade an einer Klimmzugstange.
+  Ziehe die Schulterblätter zusammen und bewege den Körper dabei leicht nach oben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

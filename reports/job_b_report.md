@@ -46,3 +46,31 @@ Source inconsistencies: `2452` introduces a chest-press variation but its
 instructions and attributes describe a wrist curl; `1241` names soleus and
 tibialis anterior in English while the attributes name only tibialis anterior.
 Both texts were translated without altering the attributes.
+
+## Batch 5 (2026-09-04)
+
+- Added German descriptions: **27**
+- New German translation documents: **1** (`2531`)
+- Left empty: **0**
+- English fallbacks: **0**
+
+Thin sources (11): `1143`, `1363`, `1536`, `1742`, `1858`, `1861`, `1868`,
+`1873`, `688`, `915` (and one fragment-only source in this batch).
+
+`2483` is contradictory: its title and attributes target trunk rotation while
+its English text describes a swimming head-rotation drill. `1858` contains a
+corrupted language-request fragment; `1143` is English-labelled but its source
+text is Spanish. All three were translated faithfully without changing names
+or attributes.
+
+## Completion summary
+
+- Active German description coverage: **868 / 868 (100%)**
+- Thin sources across Job B: **37**
+- Contradictory sources across Job B: **5** (`1717`, `1778`, `2452`, `1241`,
+  `2483`)
+- Corrupted or language-inconsistent sources: **4** (`1857`, `1858`, `1143`,
+  plus the malformed source text noted in Batch 3)
+
+Thin and contradictory source material was translated only as far as the
+source permits. It should be reviewed before deriving `fr`, `it`, or `ja`.

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1776'
 language: de
 status: ai_raw
 translated_from: en
 name: Koffertragen (Suitcase Carry)
+description: Gehe mit einer Hantel auf einer Seite vor und zurück, ohne dich gegen das Gewicht zu neigen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz

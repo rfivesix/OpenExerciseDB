@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1742'
 language: de
 status: ai_raw
 translated_from: en
 name: Back Lever
+description: An einer Klimmzugstange hängend, mit ausgestreckten Armen nach unten gerichtet.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

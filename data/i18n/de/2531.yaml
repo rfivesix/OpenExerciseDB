@@ -1,0 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-04.
+exercise_id: '2531'
+language: de
+status: ai_raw
+translated_from: en
+name: Ellbogenhebel (Elbow Lever)
+description: |-
+  Eine statische Gleichgewichtsfertigkeit aus der Calisthenics, bei der der gesamte Körper gerade und parallel zum Boden gehalten wird, indem die Ellbogen fest in den Bauch oder die Beckenknochen gedrückt werden.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ege
+  source_id: '5000'

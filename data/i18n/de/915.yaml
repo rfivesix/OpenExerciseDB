@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '915'
 language: de
 status: ai_raw
 translated_from: en
 name: Lenkrad-Drehen (Bus Drivers)
+description: Im Sitzen eine Gewichtsscheibe mit beiden Händen wie ein Lenkrad halten und etwas unter Augenhöhe anheben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

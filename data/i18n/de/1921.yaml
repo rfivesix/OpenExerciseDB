@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1921'
 language: de
 status: ai_raw
 translated_from: en
 name: Intensive Latissimusdehnung
+description: Tiefe belastete Dehnung für den Latissimus dorsi, die nach Zugbewegungen ausgeführt wird.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
