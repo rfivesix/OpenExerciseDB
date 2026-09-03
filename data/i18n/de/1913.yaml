@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1913'
 language: de
 status: ai_raw
 translated_from: en
 name: Einbeiniges Beckenheben (Hip Thrust)
+description: Strecke im Liegen ein Bein aus und beginne, deinen Körper anzuheben, während ein Bein mit der Ferse den Boden berührt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro

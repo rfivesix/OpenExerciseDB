@@ -1,8 +1,15 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1954'
 language: de
 status: ai_raw
 translated_from: en
 name: Rolle in den V-Sitz
+description: |-
+  Rollen in den V-Sitz
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 10 Wiederholungen
+  Typ: dynamisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation

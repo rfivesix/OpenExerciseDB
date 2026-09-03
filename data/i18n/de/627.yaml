@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '627'
 language: de
 status: ai_raw
 translated_from: en
 name: Gestrecktes Kreuzheben
+description: |-
+  Halte die Beine gestreckt.
+  Halte den Rücken gerade.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

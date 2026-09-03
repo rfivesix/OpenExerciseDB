@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Knieheben
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Das Beinheben um 90° an der Stange ist eine sehr intensive Übung, die alle Bauchmuskeln beansprucht.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

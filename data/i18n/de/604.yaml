@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '604'
 language: de
 status: ai_raw
 translated_from: en
 name: Speed-Kreuzheben
+description: Kreuzheben mit kurzen Pausen (unter einer Minute) zwischen den Sätzen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele

@@ -1,8 +1,14 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2527'
 language: de
 status: ai_raw
 translated_from: en
 name: Spagat-Dehnung
+description: |-
+  Beginne im Kniestand.
+  Strecke ein Bein vollständig gerade nach vorn aus. Folge mit der Hüfte, sodass sich das hintere Bein zu strecken beginnt.
+  Senke dich vorsichtig in die Dehnung. Gehe nicht über deine Grenze hinaus.
+  Halte die Dehnung für die erforderliche Zeit.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

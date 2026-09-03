@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Unterarmstütz (Forearm Plank)
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Vasco-eigener Unterarmstütz – grundlegende Übung für die vordere Rumpfstabilität. Vermittelt Ganzkörperspannung, Atemkontrolle und Anti-Extension. Voraussetzung für alle fortgeschrittenen Rumpfübungen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4986'

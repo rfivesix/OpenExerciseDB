@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1740'
 language: de
 status: ai_raw
 translated_from: en
 name: Einbeinige Gesäßbrücke
+description: Eine Gesäßbrücke, bei der du jeweils nur ein Bein verwendest.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1840'
 language: de
 status: ai_raw
 translated_from: en
 name: Beinbeuger-Dehnung mit angewinkeltem Bein
+description: 'Sieh dir dieses Anleitungsvideo von Stretch Therapy an: https://www.youtube.com/watch?v=CrF2iMnn09w .'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

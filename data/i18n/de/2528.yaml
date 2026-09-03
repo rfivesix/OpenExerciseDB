@@ -3,6 +3,15 @@ language: de
 status: ai_raw
 translated_from: en
 name: Kniebeuge mit Griff zum Himmel
+# AI generation provenance: GPT-5, 2026-09-03.
+description: |-
+  Gehe in eine Kniebeuge.
+  Halte mit der gegenüberliegenden Hand einen Knöchel fest.
+  Winkle den anderen Arm vor der Brust an.
+  Bleibe in der Kniebeuge und halte weiter deinen Knöchel fest; drehe dich, um die Hand vor deiner Brust nach hinten/außen zu führen, bis dein Ellbogen zum Himmel zeigt.
+  Kehre mit der Hand vor der Brust in die neutrale Kniebeugenposition zurück. Wiederhole die Bewegung nach Bedarf.
+
+  Wiederhole auf beiden Seiten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

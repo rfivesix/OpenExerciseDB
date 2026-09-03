@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Klappmesser-Crunch mit Medizinball
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Die Verwendung eines Medizinballs als Zusatzlast macht die Übung schwerer.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

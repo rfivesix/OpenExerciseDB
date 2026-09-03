@@ -3,10 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '507'
 language: de
-status: upstream_unreviewed
+status: ai_raw
+translated_from: en
 name: Rumänisches Kreuzheben
+description: 'Kreuzheben von oben bis Position 2: https://www.youtube.com/watch?v=WtWtjViRsKo'
 search_terms:
   - Romanian Deadlift
   - RDL

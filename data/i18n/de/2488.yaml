@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Hintere Beckenkippung
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Lege dich mit gebeugten Knien und flachen Füßen auf den Rücken. Drücke den unteren Rücken gegen den Boden, indem du dein Becken nach hinten kippst und Bauch und Gesäß anspannst. Halte 5 Sekunden, dann löse. Dies trainiert die Beckenposition neu, um einer vorderen Beckenkippung entgegenzuwirken.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj

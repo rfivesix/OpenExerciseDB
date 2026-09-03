@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1603'
 language: de
 status: ai_raw
 translated_from: en
 name: Beinbeugen mit Widerstandsband
+description: 'Stehend: Lege das Band mittig unter deine Füße und greife es im Hammergriff.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

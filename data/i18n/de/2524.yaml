@@ -1,8 +1,16 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2524'
 language: de
 status: ai_raw
 translated_from: en
 name: Good Morning im Grätschstand
+description: |-
+  Halte die Langhantel wie bei einer Kniebeuge auf den Schultern.
+  Mache mit einem Bein einen halben Schritt nach vorn und stelle den Fuß auf den Boden.
+  Strecke das vordere Bein durch; strecke das hintere Bein ebenfalls durch oder lasse es ganz leicht gebeugt.
+  Beuge dich kontrolliert nach vorn, um die Rückseite des vorderen Beins zu dehnen, und kehre dann in den Stand zurück.
+
+  Wiederhole dies nach Bedarf für Wiederholungen bzw. Zeit. Wiederhole es auch für das andere Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

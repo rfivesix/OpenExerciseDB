@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2534'
 language: de
 status: ai_raw
 translated_from: en
 name: Glute Bridge (Beckenheben)
+description: Lege dich auf den Rücken, Hüfte und Knie gebeugt, die Füße auf dem Boden. Hebe aus dieser Position dein Gesäß vom Boden an, bis dein Körper von den Knien bis zu den Schultern eine gerade Linie bildet. Um die Übung intensiver zu machen, kannst du Gewicht hinzufügen, indem du während der Bewegung eine Langhantel auf der Hüfte ruhen lässt, oder du stellst die Füße auf eine leicht erhöhte Fläche wie eine Stufe oder Bank.
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95

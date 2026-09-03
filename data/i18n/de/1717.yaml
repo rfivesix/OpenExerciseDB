@@ -1,0 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-03.
+exercise_id: '1717'
+language: de
+status: ai_raw
+translated_from: en
+name: Einarmiges Trizepsdrücken am Kabelzug
+description: |-
+  Einseitige Trizepsübung mit dem Rücken zum Kabelzug, wobei sich der Kabelzug oben befindet.
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: polloperro
+  source_id: '2840'

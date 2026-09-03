@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Dead Bug
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Vasco-eigener Dead Bug – grundlegende Stabilität der tiefen Rumpfmuskulatur und Anti-Extension. Vermittelt die Entkopplung von Lendenwirbelsäule und Becken, Atemkoordination und proximale Stabilität für distale Beweglichkeit. Voraussetzung für jedes Rumpftraining.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4990'

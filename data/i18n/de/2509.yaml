@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Seitstütz (Side Plank)
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Vasco-eigener Seitstütz – grundlegende seitliche Rumpfstabilität. Zielt auf schräge Bauchmuskeln, den Quadratischen Lendenmuskel und Hüftabduktoren. Wesentlich für Wirbelsäulenstabilität und Rotationskontrolle.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4988'

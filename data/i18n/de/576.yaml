@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Seitlicher Crunch
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Halte ein Gewicht in einer Hand. Beuge dich seitlich zum Knie. Richte dich mithilfe deiner schrägen Bauchmuskeln wieder auf.
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy

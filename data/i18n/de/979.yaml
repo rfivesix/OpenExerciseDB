@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Beinheben an der Klimmzugstange
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Hebe mit festem Griff beider Hände an der Stange die ausgestreckten Beine an, bis sie mit dem Oberkörper einen Winkel von 90° bilden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

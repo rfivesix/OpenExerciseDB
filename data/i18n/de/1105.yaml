@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Knieanziehen sitzend
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Setze dich auf den Boden oder eine Matte. Platziere die Arme leicht hinter dir. Hebe die Beine an. Strecke die Beine nun aus und ziehe sie wieder heran.
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb

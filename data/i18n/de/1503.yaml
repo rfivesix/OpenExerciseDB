@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1503'
 language: de
 status: ai_raw
 translated_from: en
 name: Kurzhantel Frog Press
+description: Ähnlich wie ein Hip Thrust, aber mit zusammengestellten Füßen; dabei wird das Gesäß in einer froschartigen Position vom Boden angehoben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1688'
 language: de
 status: ai_raw
 translated_from: en
 name: Stützbein-RDL (Kickstand RDL)
+description: Nutze die Zehen des nicht arbeitenden Beins zur Unterstützung des Gleichgewichts und führe einen RDL aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle

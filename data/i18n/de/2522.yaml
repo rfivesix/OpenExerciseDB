@@ -1,8 +1,17 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2522'
 language: de
 status: ai_raw
 translated_from: en
 name: Trizepsdrücken am Kabelzug
+description: |-
+  Befestige das Band über dir.
+
+  Stelle dich mit hüftbreit auseinander stehenden Füßen zum Band.
+  Beuge die Knie leicht, um deinen Rumpf anzuspannen.
+  Halte die Brust aufrecht, ziehe die Schulterblätter nach hinten und halte die Ellbogen eng an den Seiten deines Oberkörpers.
+  Atme aus und ziehe das Band gerade nach unten zu deinen Oberschenkeln.
+  Atme ein und kontrolliere das Band langsam, während du die Arme wieder in die Ausgangsposition nach oben führst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: G. Johnson

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2495'
 language: de
 status: ai_raw
 translated_from: en
 name: Beinbeugen an der Maschine
+description: Stelle den Rückensitz oder das Polster so ein, dass deine Knie mit der seitlichen Drehachse ausgerichtet sind. Lege das untere Rollenpolster an die unteren Waden, direkt über die Rückseite der Knöchel. Senke das obere Oberschenkel-Haltepolster ab, damit deine Beine fest auf dem Sitz bleiben. Wähle mit dem Stift ein leichtes Gewicht am Gewichtsblock.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me

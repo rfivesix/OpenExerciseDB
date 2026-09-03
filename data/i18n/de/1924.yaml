@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Bauchpresse (3008 Abdominal Crunch)
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Diese Übung ist speziell für das Gerät gym80 3008 Abdominal Crunch.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3073'

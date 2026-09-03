@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: L-Sit (fußunterstützt)
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Wie bei einem L-Sit, aber die Füße dürfen den Boden berühren, um einen Teil des Gewichts deiner Beine zu tragen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

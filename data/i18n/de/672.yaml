@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Rumpfrotation am Kabelzug
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Rumpfrotation im Sitzen am Kabelzug.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Robertcoop

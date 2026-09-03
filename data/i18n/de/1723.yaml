@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1723'
 language: de
 status: ai_raw
 translated_from: en
 name: Glute Kickback an der Maschine
+description: |-
+  Drücke über die Ferse und nicht über die Zehen, um den Gesäßmuskel zu treffen.
+  Überstrecke den unteren Rücken oben nicht.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

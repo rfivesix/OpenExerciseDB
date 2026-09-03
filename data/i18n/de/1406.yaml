@@ -3,6 +3,8 @@ language: de
 status: ai_raw
 translated_from: en
 name: Plank mit Trizepsstrecken
+# AI generation provenance: GPT-5, 2026-09-03.
+description: Die Plank mit Trizepsstrecken ist eine dynamische Übung, die die Plank mit einer Trizepsstreckbewegung kombiniert.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
