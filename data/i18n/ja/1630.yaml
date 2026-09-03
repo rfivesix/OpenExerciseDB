@@ -1,0 +1,9 @@
+exercise_id: '1630'
+language: ja
+status: ai_raw
+translated_from: en
+name: ブレイズ・サーキットトレーニング
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ricwheatley
+  source_id: '2739'

@@ -1,0 +1,9 @@
+exercise_id: '20'
+language: fr
+status: ai_raw
+translated_from: en
+name: Développé Arnold avec haltères
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: trzr23
+  source_id: '227'

@@ -1,0 +1,9 @@
+exercise_id: '629'
+language: ja
+status: ai_raw
+translated_from: en
+name: ランジ
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '215'

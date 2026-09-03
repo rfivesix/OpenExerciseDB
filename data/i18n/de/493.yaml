@@ -1,0 +1,9 @@
+exercise_id: '493'
+language: de
+status: ai_raw
+translated_from: en
+name: Reverse-Bizepscurl mit SZ-Stange
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '208'

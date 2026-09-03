@@ -1,0 +1,9 @@
+exercise_id: '630'
+language: it
+status: ai_raw
+translated_from: en
+name: Stacco sumo con bilanciere
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: magdy
+  source_id: '557'

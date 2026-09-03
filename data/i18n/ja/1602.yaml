@@ -1,0 +1,9 @@
+exercise_id: '1602'
+language: ja
+status: ai_raw
+translated_from: en
+name: ダンベル・スキャプション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: zdelko
+  source_id: '2571'

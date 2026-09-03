@@ -1,0 +1,9 @@
+exercise_id: '31'
+language: it
+status: ai_raw
+translated_from: en
+name: Tenuta statica con manubri (Axe Hold)
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: GrosseHund
+  source_id: '289'

@@ -1,0 +1,9 @@
+exercise_id: '9'
+language: de
+status: ai_raw
+translated_from: en
+name: Kettlebell-Swing beidhändig
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: deusinvictus
+  source_id: '345'

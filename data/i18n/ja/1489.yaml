@@ -1,0 +1,9 @@
+exercise_id: '1489'
+language: ja
+status: ai_raw
+translated_from: en
+name: プランクジャック
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: jayninja
+  source_id: '2452'

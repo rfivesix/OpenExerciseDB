@@ -1,0 +1,9 @@
+exercise_id: '1577'
+language: ja
+status: ai_raw
+translated_from: en
+name: ブレッツェル・ストレッチ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: mountain.potato
+  source_id: '2525'

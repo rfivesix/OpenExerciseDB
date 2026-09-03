@@ -1,0 +1,9 @@
+exercise_id: '1333'
+language: fr
+status: ai_raw
+translated_from: en
+name: Flexions des poignets en supination (avant-bras)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Anastasious
+  source_id: '2303'

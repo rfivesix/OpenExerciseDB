@@ -1,0 +1,9 @@
+exercise_id: '1380'
+language: it
+status: ai_raw
+translated_from: en
+name: Pull-apart con elastico
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: schwolfar
+  source_id: '2346'

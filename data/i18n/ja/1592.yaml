@@ -1,0 +1,9 @@
+exercise_id: '1592'
+language: ja
+status: ai_raw
+translated_from: en
+name: 瞑想 (ガイド付き・自由)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: MrAlfaRobot
+  source_id: '2541'

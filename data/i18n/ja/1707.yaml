@@ -1,0 +1,9 @@
+exercise_id: '1707'
+language: ja
+status: ai_raw
+translated_from: en
+name: ケーブル・サイドレイズ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: polloperro
+  source_id: '2829'

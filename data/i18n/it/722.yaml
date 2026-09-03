@@ -1,0 +1,9 @@
+exercise_id: '722'
+language: it
+status: ai_raw
+translated_from: en
+name: Step-up con sovraccarico
+upstream:
+  license: CC0-1.0
+  license_author: jigglychipmunk
+  source_id: '321'

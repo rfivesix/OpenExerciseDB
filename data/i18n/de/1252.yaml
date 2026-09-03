@@ -1,0 +1,9 @@
+exercise_id: '1252'
+language: de
+status: ai_raw
+translated_from: en
+name: Front-Lever-Klimmzug
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2211'

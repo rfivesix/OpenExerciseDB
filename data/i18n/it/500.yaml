@@ -1,0 +1,9 @@
+exercise_id: '500'
+language: it
+status: ai_raw
+translated_from: en
+name: Plank inverso (Reverse Plank)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: spacetowaste
+  source_id: '409'

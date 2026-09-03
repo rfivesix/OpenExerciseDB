@@ -1,0 +1,9 @@
+exercise_id: '1702'
+language: ja
+status: ai_raw
+translated_from: en
+name: ロングステップ・ウォーキングランジ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mariano_O
+  source_id: '2821'

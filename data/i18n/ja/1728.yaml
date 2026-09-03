@@ -1,0 +1,9 @@
+exercise_id: '1728'
+language: ja
+status: ai_raw
+translated_from: en
+name: スミスマシン・ベンチプレス
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: barry
+  source_id: '2854'

@@ -1,0 +1,9 @@
+exercise_id: '1529'
+language: ja
+status: ai_raw
+translated_from: en
+name: インクライン・チェストプレスマシン
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: florian.bussmann
+  source_id: '2487'

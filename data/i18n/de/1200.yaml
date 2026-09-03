@@ -1,0 +1,9 @@
+exercise_id: '1200'
+language: de
+status: ai_raw
+translated_from: en
+name: Schienbeinheben (Tibialis Raise)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cynomops
+  source_id: '2159'

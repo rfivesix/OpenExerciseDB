@@ -1,0 +1,9 @@
+exercise_id: '1493'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl bayesiano al cavo (Bayesian Curl)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: aahuja
+  source_id: '2456'

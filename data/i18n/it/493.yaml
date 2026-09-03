@@ -1,0 +1,9 @@
+exercise_id: '493'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl inverso con bilanciere EZ
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '208'

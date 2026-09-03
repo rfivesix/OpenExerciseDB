@@ -1,0 +1,9 @@
+exercise_id: '1492'
+language: fr
+status: ai_raw
+translated_from: en
+name: Rowing haut à la machine (High row)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: aahuja
+  source_id: '2455'

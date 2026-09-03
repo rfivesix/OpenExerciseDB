@@ -1,0 +1,9 @@
+exercise_id: '2530'
+language: fr
+status: ai_raw
+translated_from: en
+name: Pompes russes sur les avant-bras
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ege
+  source_id: '4999'

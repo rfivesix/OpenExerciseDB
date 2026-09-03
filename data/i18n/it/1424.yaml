@@ -1,0 +1,9 @@
+exercise_id: '1424'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl per bicipiti alla macchina
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: hpmbala@gmail.com
+  source_id: '2387'

@@ -1,0 +1,9 @@
+exercise_id: '695'
+language: fr
+status: ai_raw
+translated_from: en
+name: Tirage vertical avec poignée en V
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: apeschel
+  source_id: '424'

@@ -1,0 +1,9 @@
+exercise_id: '556'
+language: fr
+status: ai_raw
+translated_from: en
+name: Flexion latérale à la machine
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: klabautermann
+  source_id: '1070'

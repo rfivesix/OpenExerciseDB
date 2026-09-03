@@ -1,0 +1,9 @@
+exercise_id: '1605'
+language: ja
+status: ai_raw
+translated_from: en
+name: コペンハーゲン・アダクション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: RiccaBaro
+  source_id: '2578'

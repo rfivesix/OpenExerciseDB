@@ -1,0 +1,9 @@
+exercise_id: '1208'
+language: ja
+status: ai_raw
+translated_from: en
+name: プリズナースクワット
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2170'

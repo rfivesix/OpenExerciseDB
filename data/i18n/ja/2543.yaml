@@ -1,0 +1,9 @@
+exercise_id: '2543'
+language: ja
+status: ai_raw
+translated_from: en
+name: 手首回し (リストサークル)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Awlex
+  source_id: '5014'

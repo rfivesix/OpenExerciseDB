@@ -1,0 +1,9 @@
+exercise_id: '2489'
+language: fr
+status: ai_raw
+translated_from: en
+name: Rowing bas à la poulie
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4966'

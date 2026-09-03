@@ -1,0 +1,9 @@
+exercise_id: '1704'
+language: it
+status: ai_raw
+translated_from: en
+name: L-Sit raccolto (Tuck L-Sit)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2825'

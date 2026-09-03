@@ -1,0 +1,9 @@
+exercise_id: '320'
+language: ja
+status: ai_raw
+translated_from: en
+name: ジャンピングジャック
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: student1234
+  source_id: '810'

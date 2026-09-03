@@ -1,0 +1,9 @@
+exercise_id: '51'
+language: ja
+status: ai_raw
+translated_from: en
+name: バーベル・リストカール
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: burenl
+  source_id: '758'

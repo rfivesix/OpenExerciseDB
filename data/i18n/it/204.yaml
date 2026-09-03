@@ -1,0 +1,9 @@
+exercise_id: '204'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl con manubri su panca inclinata
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ExRx
+  source_id: '298'

@@ -1,0 +1,9 @@
+exercise_id: '820'
+language: ja
+status: ai_raw
+translated_from: en
+name: フィンガーボード20mmエッジ保持
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: marcelbader
+  source_id: '1074'

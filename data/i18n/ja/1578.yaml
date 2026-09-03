@@ -1,0 +1,9 @@
+exercise_id: '1578'
+language: ja
+status: ai_raw
+translated_from: en
+name: ヒップヒンジ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: mountain.potato
+  source_id: '2526'

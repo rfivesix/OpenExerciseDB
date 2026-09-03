@@ -1,0 +1,9 @@
+exercise_id: '498'
+language: de
+status: ai_raw
+translated_from: en
+name: Bankdrücken im Untergriff
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: bl0sh
+  source_id: '399'

@@ -1,0 +1,9 @@
+exercise_id: '260'
+language: ja
+status: ai_raw
+translated_from: en
+name: フル・シットアウト
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: http://www.realsimple.com/health/fitness-exercise/
+  source_id: '326'

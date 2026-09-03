@@ -1,0 +1,9 @@
+exercise_id: '1102'
+language: ja
+status: ai_raw
+translated_from: en
+name: オルタネイト・バックランジ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2063'

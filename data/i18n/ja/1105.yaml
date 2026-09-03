@@ -1,0 +1,9 @@
+exercise_id: '1105'
+language: ja
+status: ai_raw
+translated_from: en
+name: シーテッド・ニータック
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: utkb
+  source_id: '2070'

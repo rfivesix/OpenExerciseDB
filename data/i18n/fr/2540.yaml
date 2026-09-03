@@ -1,0 +1,9 @@
+exercise_id: '2540'
+language: fr
+status: ai_raw
+translated_from: en
+name: Tirage vertical isométrique
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: HexoctusEngineering
+  source_id: '5011'

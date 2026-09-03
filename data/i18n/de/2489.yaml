@@ -1,0 +1,9 @@
+exercise_id: '2489'
+language: de
+status: ai_raw
+translated_from: en
+name: Tiefes Rudern
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lbroggi
+  source_id: '4966'

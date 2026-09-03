@@ -1,0 +1,9 @@
+exercise_id: '821'
+language: ja
+status: ai_raw
+translated_from: en
+name: フィンガーボード懸垂
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: marcelbader
+  source_id: '1076'

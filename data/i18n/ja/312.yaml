@@ -1,0 +1,9 @@
+exercise_id: '312'
+language: ja
+status: ai_raw
+translated_from: en
+name: インクラインプランク・フロアタッチ
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: Mahoney
+  source_id: '165'

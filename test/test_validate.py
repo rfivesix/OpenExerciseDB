@@ -525,3 +525,20 @@ class NewLoadModeInvariantsTestCase(ValidatorTestCase):
         self.write_exercise(load_mode="assisted", primary_equipment="resistance_band")
         self.write_text()
         self.assertNotIn("25", self.invariants())
+
+
+class TranslationIdentityTestCase(ValidatorTestCase):
+    def test_translation_identity_triggers_warning_for_identical_ai_raw_name(self) -> None:
+        self.write_exercise(id="1")
+        self.write_text(language="en", exercise_id="1", name="Plank Hold", status="human")
+        self.write_text(language="de", exercise_id="1", name="Plank Hold", status="ai_raw")
+        findings = [f for f in self.report().warnings if f.invariant == "translation_identity"]
+        self.assertEqual(1, len(findings))
+        self.assertIn("Plank Hold", findings[0].message)
+
+    def test_translation_identity_does_not_trigger_when_names_differ(self) -> None:
+        self.write_exercise(id="1")
+        self.write_text(language="en", exercise_id="1", name="Bench Press", status="human")
+        self.write_text(language="de", exercise_id="1", name="Bankdrücken", status="ai_raw")
+        findings = [f for f in self.report().warnings if f.invariant == "translation_identity"]
+        self.assertEqual(0, len(findings))

@@ -1,0 +1,9 @@
+exercise_id: '1115'
+language: it
+status: ai_raw
+translated_from: en
+name: Riscaldamento con affondi tridimensionali (3D lunge)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: philip
+  source_id: '2078'

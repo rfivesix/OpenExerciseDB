@@ -1,0 +1,9 @@
+exercise_id: '1912'
+language: it
+status: ai_raw
+translated_from: en
+name: Rotazioni del busto da seduto a terra (Core Rotation)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3059'

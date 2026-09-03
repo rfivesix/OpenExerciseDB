@@ -1,0 +1,9 @@
+exercise_id: '961'
+language: de
+status: ai_raw
+translated_from: en
+name: 50m-Schwimmsprints
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: abuono
+  source_id: '1255'

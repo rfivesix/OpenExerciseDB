@@ -1,0 +1,9 @@
+exercise_id: '41'
+language: it
+status: ai_raw
+translated_from: en
+name: Ab Rollout con bilanciere
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sevae
+  source_id: '343'

@@ -1,0 +1,9 @@
+exercise_id: '477'
+language: fr
+status: ai_raw
+translated_from: en
+name: Tractions assistées à la machine
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '140'

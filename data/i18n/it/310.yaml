@@ -1,0 +1,9 @@
+exercise_id: '310'
+language: it
+status: ai_raw
+translated_from: en
+name: Rematore con manubri su panca inclinata
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '340'

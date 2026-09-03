@@ -1,0 +1,9 @@
+exercise_id: '1828'
+language: ja
+status: ai_raw
+translated_from: en
+name: ドローイン (腹横筋収縮)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: beagle
+  source_id: '2963'

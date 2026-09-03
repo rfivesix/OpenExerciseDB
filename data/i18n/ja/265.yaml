@@ -1,0 +1,9 @@
+exercise_id: '265'
+language: ja
+status: ai_raw
+translated_from: en
+name: グルートブリッジ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tdprice12
+  source_id: '408'

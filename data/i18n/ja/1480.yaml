@@ -1,0 +1,9 @@
+exercise_id: '1480'
+language: ja
+status: ai_raw
+translated_from: en
+name: ライイング・トライセプスエクステンション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2443'

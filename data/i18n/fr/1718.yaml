@@ -1,0 +1,9 @@
+exercise_id: '1718'
+language: fr
+status: ai_raw
+translated_from: en
+name: Rowing haut à la poulie haute
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: polloperro
+  source_id: '2842'

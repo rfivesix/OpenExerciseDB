@@ -1,0 +1,9 @@
+exercise_id: '2480'
+language: fr
+status: ai_raw
+translated_from: en
+name: Nage continue allure modérée (crawl)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imported from swim plan
+  source_id: '4957'

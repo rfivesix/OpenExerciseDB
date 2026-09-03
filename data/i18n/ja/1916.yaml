@@ -1,0 +1,9 @@
+exercise_id: '1916'
+language: ja
+status: ai_raw
+translated_from: en
+name: タックプランシェ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: ISSACS
+  source_id: '3063'

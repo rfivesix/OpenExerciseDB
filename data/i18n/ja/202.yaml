@@ -1,0 +1,9 @@
+exercise_id: '202'
+language: ja
+status: ai_raw
+translated_from: en
+name: ダンベル・コンセントレーションカール
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: http://www.exrx.net/WeightExercises/Brachialis/DBC
+  source_id: '275'

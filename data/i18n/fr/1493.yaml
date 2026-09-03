@@ -1,0 +1,9 @@
+exercise_id: '1493'
+language: fr
+status: ai_raw
+translated_from: en
+name: Curl bayésien à la poulie (Bayesian curl)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: aahuja
+  source_id: '2456'

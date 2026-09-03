@@ -1,0 +1,9 @@
+exercise_id: '1198'
+language: ja
+status: ai_raw
+translated_from: en
+name: インバーテッドロー
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Gavru
+  source_id: '2156'

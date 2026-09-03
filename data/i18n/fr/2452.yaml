@@ -1,0 +1,9 @@
+exercise_id: '2452'
+language: fr
+status: ai_raw
+translated_from: en
+name: Flexion du poignet avec barre
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: xWan
+  source_id: '4929'

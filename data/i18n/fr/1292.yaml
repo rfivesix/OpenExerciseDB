@@ -1,0 +1,9 @@
+exercise_id: '1292'
+language: fr
+status: ai_raw
+translated_from: en
+name: Tractions en supination (Chin-ups)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '2258'

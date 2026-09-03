@@ -1,0 +1,9 @@
+exercise_id: '1900'
+language: it
+status: ai_raw
+translated_from: en
+name: Pushdown tricipiti al cavo con corda
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: nishant0712
+  source_id: '3047'

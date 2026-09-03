@@ -1,0 +1,9 @@
+exercise_id: '1234'
+language: it
+status: ai_raw
+translated_from: en
+name: Hip thrust su una gamba con manubrio
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: carlos3c
+  source_id: '2199'

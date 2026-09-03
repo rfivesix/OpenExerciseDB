@@ -1,0 +1,9 @@
+exercise_id: '1912'
+language: ja
+status: ai_raw
+translated_from: en
+name: シーテッド・コアローテーション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cybro
+  source_id: '3059'

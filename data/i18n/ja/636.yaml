@@ -1,0 +1,9 @@
+exercise_id: '636'
+language: ja
+status: ai_raw
+translated_from: en
+name: ステップアップ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: baldurmen
+  source_id: '330'

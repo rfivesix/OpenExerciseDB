@@ -1,0 +1,9 @@
+exercise_id: '142'
+language: ja
+status: ai_raw
+translated_from: en
+name: ケーブル・エクスターナルローテーション
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: lauroernesto
+  source_id: '265'

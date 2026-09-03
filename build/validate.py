@@ -399,6 +399,20 @@ def check_translation_coverage(
                     f"Dateinamen {exercise_id!r}",
                     relative(translation.path),
                 )
+            elif code != "en" and translation.data.get("status") == "ai_raw":
+                en_translation = data.translations.get("en", {}).get(exercise_id)
+                if en_translation:
+                    en_name = (en_translation.name or "").strip().lower()
+                    tr_name = (translation.name or "").strip().lower()
+                    if tr_name and en_name and tr_name == en_name:
+                        # Nicht blockierend, aber als Warnliste im QA-Gate sichtbar
+                        report.add(
+                            "translation_identity",
+                            WARNING,
+                            f"Uebersetzter Name ({code}) ist identisch zum englischen Namen: {translation.name!r}",
+                            relative(translation.path),
+                            exercise_id,
+                        )
 
 
 def check_merges(data: dataset_mod.Dataset, report: Report) -> None:

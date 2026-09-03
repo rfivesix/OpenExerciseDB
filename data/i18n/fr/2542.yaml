@@ -1,0 +1,9 @@
+exercise_id: '2542'
+language: fr
+status: ai_raw
+translated_from: en
+name: Boxe et frappes au sac
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: SAH
+  source_id: '5013'

@@ -1,0 +1,9 @@
+exercise_id: '507'
+language: it
+status: ai_raw
+translated_from: en
+name: Stacco da terra rumeno (RDL)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: pjwirth
+  source_id: '351'

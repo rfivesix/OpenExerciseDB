@@ -1,0 +1,9 @@
+exercise_id: '475'
+language: ja
+status: ai_raw
+translated_from: en
+name: プッシュアップ (腕立て伏せ)
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: wger.de
+  source_id: '107'

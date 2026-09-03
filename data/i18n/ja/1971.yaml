@@ -1,0 +1,9 @@
+exercise_id: '1971'
+language: ja
+status: ai_raw
+translated_from: en
+name: メンツァー・プルダウン
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mike Mentzer
+  source_id: '3126'

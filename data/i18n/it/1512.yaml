@@ -1,0 +1,9 @@
+exercise_id: '1512'
+language: it
+status: ai_raw
+translated_from: en
+name: Drop curl con manubri
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Moffi
+  source_id: '2471'

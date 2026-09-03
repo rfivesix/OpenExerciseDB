@@ -1,0 +1,9 @@
+exercise_id: '925'
+language: ja
+status: ai_raw
+translated_from: en
+name: スミスマシン・インクラインプレス
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1204'

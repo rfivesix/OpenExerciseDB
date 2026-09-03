@@ -1,0 +1,9 @@
+exercise_id: '1707'
+language: de
+status: ai_raw
+translated_from: en
+name: Kabelzug-Seitheben
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: polloperro
+  source_id: '2829'

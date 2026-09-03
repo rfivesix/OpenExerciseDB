@@ -1,0 +1,9 @@
+exercise_id: '12'
+language: it
+status: ai_raw
+translated_from: en
+name: Adduzioni delle cosce da seduto alla macchina
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: flori
+  source_id: '377'

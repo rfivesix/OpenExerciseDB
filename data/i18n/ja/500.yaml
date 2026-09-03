@@ -1,0 +1,9 @@
+exercise_id: '500'
+language: ja
+status: ai_raw
+translated_from: en
+name: リバースプランク
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: spacetowaste
+  source_id: '409'

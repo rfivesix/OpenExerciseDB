@@ -1,0 +1,9 @@
+exercise_id: '915'
+language: de
+status: ai_raw
+translated_from: en
+name: Lenkrad-Drehen (Bus Drivers)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1194'

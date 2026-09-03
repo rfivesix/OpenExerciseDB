@@ -1,0 +1,9 @@
+exercise_id: '1082'
+language: ja
+status: ai_raw
+translated_from: en
+name: ベンチディップス
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: tinman
+  source_id: '2032'

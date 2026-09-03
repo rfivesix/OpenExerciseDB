@@ -1,0 +1,9 @@
+exercise_id: '314'
+language: it
+status: ai_raw
+translated_from: en
+name: Tergicristallo isometrico a terra
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '338'

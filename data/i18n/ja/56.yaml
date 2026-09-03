@@ -1,0 +1,9 @@
+exercise_id: '56'
+language: ja
+status: ai_raw
+translated_from: en
+name: 腹部スタビライゼーション
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: andikeller
+  source_id: '1061'

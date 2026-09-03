@@ -1,0 +1,9 @@
+exercise_id: '978'
+language: fr
+status: ai_raw
+translated_from: en
+name: Relevés de genoux suspendu
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: clafal
+  source_id: '1291'

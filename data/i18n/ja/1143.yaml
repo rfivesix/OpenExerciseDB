@@ -1,0 +1,9 @@
+exercise_id: '1143'
+language: ja
+status: ai_raw
+translated_from: en
+name: バックエクステンション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Franpol
+  source_id: '2122'

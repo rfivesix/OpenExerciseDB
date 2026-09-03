@@ -1,0 +1,9 @@
+exercise_id: '545'
+language: ja
+status: ai_raw
+translated_from: en
+name: シザーズ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: vkylamba
+  source_id: '631'

@@ -1,0 +1,9 @@
+exercise_id: '1822'
+language: it
+status: ai_raw
+translated_from: en
+name: Esercizio del libro aperto per mobilità toracica (Open Book)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: teus_ergaster
+  source_id: '2956'

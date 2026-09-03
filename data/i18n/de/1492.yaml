@@ -1,0 +1,9 @@
+exercise_id: '1492'
+language: de
+status: ai_raw
+translated_from: en
+name: High Row (Hohes Rudern)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: aahuja
+  source_id: '2455'

@@ -1,0 +1,9 @@
+exercise_id: '598'
+language: ja
+status: ai_raw
+translated_from: en
+name: フロントスプリット (前後開脚)
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
+  source_id: '218'

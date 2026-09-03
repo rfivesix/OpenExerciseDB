@@ -1,0 +1,9 @@
+exercise_id: '1970'
+language: ja
+status: ai_raw
+translated_from: en
+name: ケトルベル・スモウハイプル
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: wgerpott
+  source_id: '3125'

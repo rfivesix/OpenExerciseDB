@@ -1,0 +1,9 @@
+exercise_id: '1209'
+language: it
+status: ai_raw
+translated_from: en
+name: Piegamenti a tre punti con gamba sollevata
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: lxmx
+  source_id: '2172'

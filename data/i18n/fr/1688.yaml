@@ -1,0 +1,9 @@
+exercise_id: '1688'
+language: fr
+status: ai_raw
+translated_from: en
+name: Soulevé de terre jambes tendues unilatéral (Kickstand RDL)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: eriktrinkle
+  source_id: '2807'

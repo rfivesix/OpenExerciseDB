@@ -1,0 +1,9 @@
+exercise_id: '914'
+language: de
+status: ai_raw
+translated_from: en
+name: Reverse Kabelzug-Curls mit SZ-Stange
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1193'

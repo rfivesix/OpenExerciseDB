@@ -1,0 +1,9 @@
+exercise_id: '672'
+language: de
+status: ai_raw
+translated_from: en
+name: Rumpfrotation am Kabelzug
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Robertcoop
+  source_id: '310'

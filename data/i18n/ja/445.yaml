@@ -1,0 +1,9 @@
+exercise_id: '445'
+language: ja
+status: ai_raw
+translated_from: en
+name: ポーズ・バーベルベンチプレス
+upstream:
+  license: CC0-1.0
+  license_author: Mens Fitness
+  source_id: '270'

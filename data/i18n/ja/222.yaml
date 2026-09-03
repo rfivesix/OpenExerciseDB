@@ -1,0 +1,9 @@
+exercise_id: '222'
+language: ja
+status: ai_raw
+translated_from: en
+name: スーパーマン (背筋伸展)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: abeworld
+  source_id: '394'

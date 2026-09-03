@@ -1,0 +1,9 @@
+exercise_id: '1131'
+language: ja
+status: ai_raw
+translated_from: en
+name: ケーブル・グルートエクステンション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Franpol
+  source_id: '2108'

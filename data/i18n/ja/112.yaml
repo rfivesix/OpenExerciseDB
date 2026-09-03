@@ -1,0 +1,9 @@
+exercise_id: '112'
+language: ja
+status: ai_raw
+translated_from: en
+name: ボディアップ
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '341'

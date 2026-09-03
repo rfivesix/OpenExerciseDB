@@ -1,0 +1,9 @@
+exercise_id: '2483'
+language: ja
+status: ai_raw
+translated_from: en
+name: プール壁保持ローテーション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imported from swim plan
+  source_id: '4960'

@@ -1,0 +1,9 @@
+exercise_id: '2536'
+language: de
+status: ai_raw
+translated_from: en
+name: Bankdrücken isometrisch
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: HexoctusEngineering
+  source_id: '5007'

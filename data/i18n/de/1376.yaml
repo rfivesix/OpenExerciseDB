@@ -1,0 +1,9 @@
+exercise_id: '1376'
+language: de
+status: ai_raw
+translated_from: en
+name: Liegeergometer
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: pera_perkan
+  source_id: '2342'

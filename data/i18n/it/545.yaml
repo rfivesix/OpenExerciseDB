@@ -1,0 +1,9 @@
+exercise_id: '545'
+language: it
+status: ai_raw
+translated_from: en
+name: Forbici con le gambe (Scissors)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: vkylamba
+  source_id: '631'

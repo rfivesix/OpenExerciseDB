@@ -1,0 +1,9 @@
+exercise_id: '1971'
+language: it
+status: ai_raw
+translated_from: en
+name: Pulldown alla Mentzer al cavo
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mike Mentzer
+  source_id: '3126'

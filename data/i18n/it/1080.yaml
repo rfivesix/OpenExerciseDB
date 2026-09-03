@@ -1,0 +1,9 @@
+exercise_id: '1080'
+language: it
+status: ai_raw
+translated_from: en
+name: Piegamenti declinati con piedi rialzati
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Imobard
+  source_id: '2025'

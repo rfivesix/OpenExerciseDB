@@ -1,0 +1,9 @@
+exercise_id: '1274'
+language: fr
+status: ai_raw
+translated_from: en
+name: Étirement des mollets assis (dorsiflexion)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: erikocobra
+  source_id: '2242'

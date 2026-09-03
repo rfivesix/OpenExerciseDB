@@ -1,0 +1,9 @@
+exercise_id: '112'
+language: it
+status: ai_raw
+translated_from: en
+name: Body-Up alle parallele
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: cal.zabel
+  source_id: '341'

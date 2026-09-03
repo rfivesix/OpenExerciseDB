@@ -1,0 +1,9 @@
+exercise_id: '1240'
+language: fr
+status: ai_raw
+translated_from: en
+name: Étirement du soléaire debout
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: erikocobra
+  source_id: '2202'

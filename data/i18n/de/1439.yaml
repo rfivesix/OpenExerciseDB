@@ -1,0 +1,9 @@
+exercise_id: '1439'
+language: de
+status: ai_raw
+translated_from: en
+name: Pin-Schulterdrücken (Pin OHP)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: M9
+  source_id: '2403'

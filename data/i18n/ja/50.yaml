@@ -1,0 +1,9 @@
+exercise_id: '50'
+language: ja
+status: ai_raw
+translated_from: en
+name: バーベル・トライセップス・エクステンション
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: sevae
+  source_id: '344'

@@ -1,0 +1,9 @@
+exercise_id: '914'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl inverso al cavo con bilanciere sagomato
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1193'

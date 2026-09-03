@@ -1,0 +1,9 @@
+exercise_id: '1567'
+language: it
+status: ai_raw
+translated_from: en
+name: Curl a martello alternato con manubri
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Mariano_O
+  source_id: '2515'

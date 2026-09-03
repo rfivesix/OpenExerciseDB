@@ -1,0 +1,9 @@
+exercise_id: '501'
+language: de
+status: ai_raw
+translated_from: en
+name: Ring-Dips
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: Nash
+  source_id: '360'

@@ -1,0 +1,9 @@
+exercise_id: '1548'
+language: it
+status: ai_raw
+translated_from: en
+name: Simulatore di scale (StairMaster)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: MisterPinnacle
+  source_id: '2496'

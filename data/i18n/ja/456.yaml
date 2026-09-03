@@ -1,0 +1,9 @@
+exercise_id: '456'
+language: ja
+status: ai_raw
+translated_from: en
+name: ピストルスクワット
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: minifigmaster125
+  source_id: '160'

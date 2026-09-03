@@ -1,0 +1,9 @@
+exercise_id: '1730'
+language: fr
+status: ai_raw
+translated_from: en
+name: Élévations latérales à la poulie
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: barry
+  source_id: '2856'

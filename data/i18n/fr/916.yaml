@@ -1,0 +1,9 @@
+exercise_id: '916'
+language: fr
+status: ai_raw
+translated_from: en
+name: Développé épaules au cadre guidé (Smith machine)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: novadani
+  source_id: '1195'

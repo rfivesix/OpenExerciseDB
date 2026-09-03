@@ -1,0 +1,9 @@
+exercise_id: '312'
+language: it
+status: ai_raw
+translated_from: en
+name: Plank inclinato con tocco alternato a terra
+upstream:
+  license: CC-BY-SA-3.0
+  license_author: Mahoney
+  source_id: '165'

@@ -1,0 +1,9 @@
+exercise_id: '1526'
+language: ja
+status: ai_raw
+translated_from: en
+name: スキーマシン (スキーエルゴ)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: flanny
+  source_id: '2482'

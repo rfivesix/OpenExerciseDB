@@ -1,0 +1,9 @@
+exercise_id: '675'
+language: fr
+status: ai_raw
+translated_from: en
+name: Relevé turc (Turkish Get-Up)
+upstream:
+  license: CC-BY-SA-4.0
+  license_author: dookie1481
+  source_id: '318'
