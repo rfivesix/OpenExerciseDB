@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1200'
 language: de
 status: ai_raw
 translated_from: en
 name: Schienbeinheben (Tibialis Raise)
+description: |-
+  Stehe aufrecht.
+  Hebe die Fußballen an und bleibe auf den Fersen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

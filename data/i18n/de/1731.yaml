@@ -1,8 +1,12 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1731'
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Frontheben
+description: |-
+  Hebe den Griff in einem leichten Bogen kontrolliert an.
+  Schwinge den Oberkörper nicht, um die Wiederholung einzuleiten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

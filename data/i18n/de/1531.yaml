@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1531'
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Curls
+description: Bizepscurls am Kabelzug. Kann sitzend oder stehend ausgeführt werden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Brigade7938

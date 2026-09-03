@@ -1,8 +1,14 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1333'
 language: de
 status: ai_raw
 translated_from: en
 name: Unterarm-Curls im Untergriff
+description: |-
+  Aktiviere die Muskeln.
+  Nutze keinen Schwung.
+  Kontrollierte Bewegung.
+  Langsame Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

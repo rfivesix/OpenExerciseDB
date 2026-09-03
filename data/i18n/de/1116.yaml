@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1116'
 language: de
 status: ai_raw
 translated_from: en
 name: Farmers Walk mit Kurzhanteln
+description: Nimm in jede Hand die Hälfte deines Körpergewichts und gehe.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

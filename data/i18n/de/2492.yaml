@@ -1,8 +1,14 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2492'
 language: de
 status: ai_raw
 translated_from: en
 name: Adduktorenmaschine
+description: |-
+  Nach Adductor Sel. von Technogym.
+  Setze dich an die Maschine und stelle die Ruheposition auf einen angenehmen Öffnungswinkel ein.
+  Schließe deine Beine.
+  Kehre behutsam in die Ruheposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

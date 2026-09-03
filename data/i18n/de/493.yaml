@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '493'
 language: de
 status: ai_raw
 translated_from: en
 name: Reverse-Bizepscurl mit SZ-Stange
+description: Halte die Stange im umgekehrten (oder Ober-)Griff, die Handflächen zum Boden gerichtet.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

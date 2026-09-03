@@ -1,8 +1,11 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2486'
 language: de
 status: ai_raw
 translated_from: en
 name: Erholungs-Bobbing im Wasser
+description: |-
+  Gleiche Bewegung wie bei der Ausatmungsübung im Wasser, aber in etwas tieferem Wasser (sodass du den Boden nicht berührst) und in einem langsameren, entspannteren Tempo — als Erholungs-/Reset-Übung statt als anstrengender Drill. Nutze sie zwischen schwierigeren Drills, um deinen Atemrhythmus zurückzusetzen und dich zu beruhigen, wenn du dich gehetzt oder aus dem Takt fühlst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

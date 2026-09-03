@@ -1,8 +1,16 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2525'
 language: de
 status: ai_raw
 translated_from: en
 name: Couch Stretch
+description: |-
+  Stelle dich mit dem Rücken zu einer Bank, einem Sofa oder einem ähnlich hohen Gegenstand.
+  Strecke ein Bein nach hinten und lege den Fuß mit dem Spann nach unten auf die Kante der Bank.
+  Senke dich ab, bis dein hinteres Knie den Boden berührt und du dich in einer Ausfallschrittposition befindest, wobei dein Oberkörper leicht nach vorn hängt.
+  Spanne deinen Rumpf an, aktiviere den hinteren Gesäßmuskel und richte deinen Oberkörper kontrolliert senkrecht auf. Entspanne dich und wiederhole die Bewegung.
+
+  Wiederhole dies auch mit dem anderen Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

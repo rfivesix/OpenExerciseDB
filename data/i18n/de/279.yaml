@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '279'
 language: de
 status: ai_raw
 translated_from: en
 name: Unterarm-Gripper
+description: Verchromter Handgripper zum Aufbau der Unterarmmuskulatur.
 upstream:
   license: CC-BY-SA-4.0
   license_author: vince63

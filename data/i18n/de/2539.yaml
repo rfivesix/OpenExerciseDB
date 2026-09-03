@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2539'
 language: de
 status: ai_raw
 translated_from: en
 name: Preacher Curl isometrisch
+description: Ein isometrischer Preacher Curl ist eine statische Kraftübung, bei der du eine feste Position auf einem Scottpolster oder einer Schrägbank unter Spannung hältst, ohne das Gelenk zu bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

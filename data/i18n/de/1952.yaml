@@ -1,8 +1,15 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1952'
 language: de
 status: ai_raw
 translated_from: en
 name: Faszienmassage Gesäß (Lacrosseball)
+description: |-
+  Selbstmyofasziale Entspannung für das Gesäß (Lacrosseball)
+  Teil von: Limber 11
+  Quelle: Joe DeFranco
+  Vorgabe: 30 Sek.–2 Min.
+  Typ: Weichteilgewebe
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation

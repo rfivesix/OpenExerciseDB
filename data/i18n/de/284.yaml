@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '284'
 language: de
 status: ai_raw
 translated_from: en
 name: Herkulessäulen am Kabelzug
+description: Greife zwei Kabel, stelle dich in die Mitte, sodass beide unter Spannung stehen, und halte die Position.
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund

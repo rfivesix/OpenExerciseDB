@@ -1,8 +1,21 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2452'
 language: de
 status: ai_raw
 translated_from: en
 name: Handgelenkscurl mit Langhantel
+description: |-
+  Dies ist eine Variante des Flachbankdrückens, die den Schlüsselbeinkopf des großen Brustmuskels (den oberen Bereich) betonen soll. Durch das Neigen des Oberkörpers verändert sich der Winkel des Drückens, wodurch mehr Spannung auf die obere Brust und die Schultern verlagert wird, was zu einer ästhetischeren, ausgewogenen und dreidimensionalen Entwicklung des Oberkörpers beitragen soll.
+
+  Ausgangsposition: Greife eine Stange im Obergriff (Handflächen nach oben) etwa schulterbreit.
+
+  Position an der Bank: Knie dich vor eine Flachbank und lege die Rückseiten deiner Unterarme darauf ab. Deine Handgelenke und Hände sollten leicht über die Kante hinausragen, um einen vollen Bewegungsumfang zu ermöglichen.
+
+  Exzentrische Phase (Absenken): Senke die Stange kontrolliert ab, indem du die Handgelenke zum Boden streckst. Spreize am unteren Punkt die Finger leicht, damit die Stange ein Stück herunterrollen kann und die Dehnung maximiert wird.
+
+  Konzentrische Phase (Anheben): Schließe zuerst die Finger, um die Stange zu sichern, und beuge dann die Handgelenke explosiv, aber kontrolliert nach oben, sodass die Stange möglichst hoch kommt. Spanne die Unterarme in der obersten Position eine Sekunde lang kräftig an.
+
+  Ausführung: Halte die Unterarme während der gesamten Übung fest gegen die Bank gedrückt; nur die Handgelenke und Finger sollen sich bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: xWan

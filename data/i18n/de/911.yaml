@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '911'
 language: de
 status: ai_raw
 translated_from: en
 name: Schrägbank-Skullcrusher
+description: Sitzend in einem 45-Grad-Winkel einen Schrägbank-Skullcrusher mit Kurzhanteln ausführen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

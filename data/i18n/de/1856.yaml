@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1856'
 language: de
 status: ai_raw
 translated_from: en
 name: Faszienrolle vorderer Schienbeinmuskel
+description: Rolle mit der Faszienrolle langsam über den vorderen Schienbeinmuskel. Das ist auf Englisch, bitte.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

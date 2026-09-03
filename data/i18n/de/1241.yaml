@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1241'
 language: de
 status: ai_raw
 translated_from: en
 name: Dorsalflexion mit Widerstandsband
+description: Für diese Übung wird ein Widerstandsband verwendet. Sie zielt auf den Schollenmuskel und den vorderen Schienbeinmuskel ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

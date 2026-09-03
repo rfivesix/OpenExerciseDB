@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '914'
 language: de
 status: ai_raw
 translated_from: en
 name: Reverse Kabelzug-Curls mit SZ-Stange
+description: Stehend vor dem Kabelturm mit einer SZ-Stange.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

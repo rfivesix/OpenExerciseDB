@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1860'
 language: de
 status: ai_raw
 translated_from: en
 name: Faszienrolle Adduktoren
+description: Rolle mit der Faszienrolle über deine Adduktoren. Das ist auf Englisch, bitte.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

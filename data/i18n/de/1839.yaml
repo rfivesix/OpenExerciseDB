@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1839'
 language: de
 status: ai_raw
 translated_from: en
 name: Hüftbeuger-Dehnung
+description: 'Siehe dieses Anleitungsvideo: https://www.youtube.com/watch?v=qHwyBHS6MQs .'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

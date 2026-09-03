@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1240'
 language: de
 status: ai_raw
 translated_from: en
 name: Schollenmuskel-Dehnung stehend
+description: Diese Dehnung zielt auf den Schollenmuskel in deiner Wade. Sie kann an einer Wand oder einem Stuhl ausgeführt werden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '439'
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Bizepscurl im Obergriff
+description: Halte die Hände auf Schulterhöhe, ziehe die Arme zum Kopf hin und strecke sie dann wieder aus.
 upstream:
   license: CC-BY-SA-3.0
   license_author: ThisGirl0819

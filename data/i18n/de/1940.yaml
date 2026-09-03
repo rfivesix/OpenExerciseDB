@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1940'
 language: de
 status: ai_raw
 translated_from: en
 name: Zwerchfellatmung
+description: Bauchatmung. Die Hand auf der Brust bleibt ruhig, die Hand auf dem Bauch hebt sich. 8–10 langsame Atemzüge.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'

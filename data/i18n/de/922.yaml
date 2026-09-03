@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '922'
 language: de
 status: ai_raw
 translated_from: en
 name: Kabelzug-Shrugs sitzend (mittlerer Trapez)
+description: Sitzend mit geradem Rücken, oben kurz halten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

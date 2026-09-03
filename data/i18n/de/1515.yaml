@@ -1,8 +1,10 @@
+# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1515'
 language: de
 status: ai_raw
 translated_from: en
 name: Wadenheben an der Beinpresse
+description: Bewege die Beinpresse mit deinen Waden, indem du deine Füße unten auf der Plattform platzierst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
