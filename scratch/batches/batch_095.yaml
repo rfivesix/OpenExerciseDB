@@ -1,0 +1,15 @@
+batch_id: 95
+movement_pattern: gait
+primary_muscle: hamstring_complex
+items:
+- id: '1285'
+  name: Talons fesses
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: gait
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja

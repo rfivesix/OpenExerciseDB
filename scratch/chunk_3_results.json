@@ -1,0 +1,354 @@
+{
+  "448": {
+    "it": "Rematore Pendlay con bilanciere",
+    "ja": "ペンドレイ・バーベルロー"
+  },
+  "508": {
+    "it": "Rematore con bilanciere",
+    "ja": "バーベルローイング"
+  },
+  "1198": {
+    "it": "Trazioni orizzontali",
+    "ja": "インバーテッドロー"
+  },
+  "1248": {
+    "it": "Ice Cream Maker alla sbarra",
+    "ja": "アイスクリームメーカー"
+  },
+  "1486": {
+    "it": "Rematore alternato al cavo alto",
+    "ja": "オルタネイティング・ハイケーブルロー"
+  },
+  "1634": {
+    "it": "Pullover e rematore al cavo con corda",
+    "ja": "ケーブル・ロープ・プルオーバー＆ロー"
+  },
+  "1701": {
+    "it": "Rematore pesante a un braccio con manubrio",
+    "ja": "ワンアーム・ヘビーダンベルロー"
+  },
+  "1825": {
+    "it": "Alzate per deltoidi posteriori su panca inclinata con manubri",
+    "ja": "チェストサポーテッド・リアデルトレイズ"
+  },
+  "1928": {
+    "it": "Rematore da seduto al cavo con presa a V",
+    "ja": "シーテッド・Vグリップ・ケーブルロー"
+  },
+  "129": {
+    "it": "Distensioni alla chest press",
+    "ja": "チェストプレスマシン"
+  },
+  "186": {
+    "it": "Distensioni con manubri su panca declinata",
+    "ja": "デクライン・ダンベルベンチプレス"
+  },
+  "445": {
+    "it": "Distensioni su panca piana con pausa con bilanciere",
+    "ja": "ポーズ・バーベルベンチプレス"
+  },
+  "985": {
+    "it": "Piegamenti con rotazione",
+    "ja": "プッシュアップ・ローテーション"
+  },
+  "1228": {
+    "it": "Distensioni su panca piana a presa stretta con manubri",
+    "ja": "クローズグリップ・ダンベルベンチプレス"
+  },
+  "1457": {
+    "it": "Distensioni press-around al cavo",
+    "ja": "ケーブル・プレスアラウンド"
+  },
+  "1660": {
+    "it": "Distensioni inclinate al cavo per il petto",
+    "ja": "インクライン・ケーブルチェストプレス"
+  },
+  "1691": {
+    "it": "Croci ai cavi per il petto basso",
+    "ja": "ケーブルフライ (下部胸筋)"
+  },
+  "1964": {
+    "it": "Piegamenti a presa larga",
+    "ja": "ワイドグリップ・プッシュアップ"
+  },
+  "406": {
+    "it": "Rotazioni esterne con manubrio da sdraiato sul fianco",
+    "ja": "サイドライイング・ダンベル・外旋エクササイズ"
+  },
+  "995": {
+    "it": "Cerchi di braccia all'indietro",
+    "ja": "アームサークル (後方回転)"
+  },
+  "1377": {
+    "it": "Torsioni del busto in piedi",
+    "ja": "スタンディング・トーソツイスト"
+  },
+  "1475": {
+    "it": "Scivolamenti delle ginocchia Black Widow",
+    "ja": "ブラックウィドウ・ニースライド"
+  },
+  "1714": {
+    "it": "Esercizio del pendolo per la spalla con manubrio",
+    "ja": "ダンベル・ショルダーペンデュラム"
+  },
+  "1822": {
+    "it": "Esercizio del libro aperto per mobilità toracica (Open Book)",
+    "ja": "オープンブック (胸椎モビリティ)"
+  },
+  "1912": {
+    "it": "Rotazioni del busto da seduto a terra (Core Rotation)",
+    "ja": "シーテッド・コアローテーション"
+  },
+  "124": {
+    "it": "Squat con disco a braccia tese",
+    "ja": "ブレースドスクワット (プレート保持スクワット)"
+  },
+  "371": {
+    "it": "Pressa per le gambe alla macchina",
+    "ja": "レッグプレスマシン"
+  },
+  "456": {
+    "it": "Pistol squat (squat su una gamba)",
+    "ja": "ピストルスクワット"
+  },
+  "650": {
+    "it": "Thruster con bilanciere",
+    "ja": "バーベル・スラスター"
+  },
+  "1208": {
+    "it": "Prisoner squat con mani dietro la nuca",
+    "ja": "プリズナースクワット"
+  },
+  "1464": {
+    "it": "Hack squat alla macchina con pausa",
+    "ja": "ポーズ・ハックスクワット"
+  },
+  "1735": {
+    "it": "Pressa per glutei laterale a una gamba alla leg press",
+    "ja": "シングルレッグ・サイドグルートプレス"
+  },
+  "1963": {
+    "it": "Squat a corpo libero a ritmo controllato",
+    "ja": "スロースクワット"
+  },
+  "355": {
+    "it": "Lat machine a busto eretto",
+    "ja": "ストレートバック・ラットプルダウン"
+  },
+  "684": {
+    "it": "Lat machine a presa inversa (supinata)",
+    "ja": "アンダーハンド・ラットプルダウン"
+  },
+  "1127": {
+    "it": "Lat machine a presa stretta supinata",
+    "ja": "クローズグリップ・アンダーハンド・ラットプルダウン"
+  },
+  "1280": {
+    "it": "Lat machine a presa stretta per bicipiti",
+    "ja": "クローズグリップ・バイセップス・プルダウン"
+  },
+  "1607": {
+    "it": "Trazioni alla sbarra Typewriter",
+    "ja": "タイプライター・プルアップ"
+  },
+  "1726": {
+    "it": "Pulldown a braccia tese al cavo",
+    "ja": "ケーブル・ストレートアーム・プルダウン"
+  },
+  "1971": {
+    "it": "Pulldown alla Mentzer al cavo",
+    "ja": "メンツァー・プルダウン"
+  },
+  "272": {
+    "it": "Curl a martello con manubri",
+    "ja": "ダンベル・ハンマーカール"
+  },
+  "958": {
+    "it": "Curl per bicipiti al TRX",
+    "ja": "TRXバイセップスカール"
+  },
+  "1224": {
+    "it": "Drag curl con manubri",
+    "ja": "ダンベル・ドラッグカール"
+  },
+  "1289": {
+    "it": "Curl con manubri da seduto",
+    "ja": "シーテッド・ダンベルカール"
+  },
+  "1465": {
+    "it": "Spider curl con manubri",
+    "ja": "ダンベル・スパイダーカール"
+  },
+  "1530": {
+    "it": "Curl con manubri da sdraiato su panca",
+    "ja": "ライイング・ダンベルカール"
+  },
+  "1666": {
+    "it": "Curl con manubrio a gomito alto",
+    "ja": "ショルダーエレベーテッド・ダンベルカール"
+  },
+  "189": {
+    "it": "Stacco da terra con deficit con bilanciere",
+    "ja": "バーベル・デフィジット・デッドリフト"
+  },
+  "960": {
+    "it": "Kettlebell swing",
+    "ja": "ケトルベルスイング"
+  },
+  "1392": {
+    "it": "Good morning a corpo libero",
+    "ja": "自重グッドモーニング"
+  },
+  "1576": {
+    "it": "Discesa rapida in posizione atletica (Snap Down)",
+    "ja": "スナップダウン"
+  },
+  "1736": {
+    "it": "Stacco da terra a una gamba con manubrio",
+    "ja": "シングルレッグ・ダンベルデッドリフト"
+  },
+  "595": {
+    "it": "Salto con la corda standard",
+    "ja": "縄跳び (スタンダード)"
+  },
+  "1239": {
+    "it": "Stretching dei polpacci in piedi",
+    "ja": "スタンディング・カーフストレッチ"
+  },
+  "1525": {
+    "it": "Slam a terra con palla medica",
+    "ja": "メディシンボール・スラム"
+  },
+  "1710": {
+    "it": "Stretching del macellaio per dorsali e tricipiti (Butcher's Block)",
+    "ja": "ブッチャーズブロック・ストレッチ"
+  },
+  "1959": {
+    "it": "Stretching del piriforme da seduto",
+    "ja": "シーテッド・ピリフォルミス・ストレッチ"
+  },
+  "172": {
+    "it": "Crunch alla macchina per addominali",
+    "ja": "アブドミナル・クランチマシン"
+  },
+  "505": {
+    "it": "Crunch alla sedia romana",
+    "ja": "ローマンチェア・クランチ"
+  },
+  "1394": {
+    "it": "Flessione del busto in avanti da seduto (Sit and Reach)",
+    "ja": "長座体前屈 (シット＆リーチ)"
+  },
+  "1476": {
+    "it": "Sit-up a farfalla (Butterfly Sit-up)",
+    "ja": "バタフライ・シットアップ"
+  },
+  "1933": {
+    "it": "Crunch a terra per addominali",
+    "ja": "アブドミナル・クランチ"
+  },
+  "282": {
+    "it": "Piegamenti in verticale",
+    "ja": "ハンドスタンド・プッシュアップ"
+  },
+  "1360": {
+    "it": "Clean and press con due kettlebell",
+    "ja": "ダブル・ケトルベル・クリーン＆プレス"
+  },
+  "1504": {
+    "it": "Bradford press con manubri",
+    "ja": "ダンベル・ブラッドフォードプレス"
+  },
+  "1832": {
+    "it": "Tenuta in appoggio agli anelli",
+    "ja": "リング・サポートホールド"
+  },
+  "206": {
+    "it": "Affondi camminati con manubri",
+    "ja": "ウォーキング・ダンベルランジ"
+  },
+  "987": {
+    "it": "Squat laterali a destra",
+    "ja": "サイド・スプリットスクワット (右)"
+  },
+  "999": {
+    "it": "Affondi inversi a corpo libero",
+    "ja": "自重リバースランジ"
+  },
+  "1651": {
+    "it": "Affondi posteriori con manubri",
+    "ja": "ダンベル・リバースランジ"
+  },
+  "50": {
+    "it": "Estensioni per tricipiti con bilanciere",
+    "ja": "バーベル・トライセップス・エクステンション"
+  },
+  "1481": {
+    "it": "Drag pushdown al cavo con corda",
+    "ja": "ケーブル・ドラッグ・プッシュダウン"
+  },
+  "1668": {
+    "it": "Estensioni per tricipiti sopra la testa a un braccio al cavo",
+    "ja": "ワンアーム・オーバーヘッド・ケーブル・トライセップス・エクステンション"
+  },
+  "1514": {
+    "it": "Camminata laterale a corpo libero",
+    "ja": "ラテラルウォーク (サイドステップ)"
+  },
+  "1842": {
+    "it": "Clamshell con elastico",
+    "ja": "バンド・クラムシェル"
+  },
+  "962": {
+    "it": "Ellittica",
+    "ja": "エリプティカルトレーナー"
+  },
+  "1579": {
+    "it": "Test navetta Bronco a corpo libero",
+    "ja": "ブロンコ・シャトルラン"
+  },
+  "294": {
+    "it": "Hip thrust con bilanciere",
+    "ja": "バーベル・ヒップスラスト"
+  },
+  "1751": {
+    "it": "Pull through ai cavi per glutei",
+    "ja": "ケーブル・プルスルー"
+  },
+  "351": {
+    "it": "Alzate da laterali a frontali con manubri",
+    "ja": "ダンベル・ラテラル・トゥ・フロントレイズ"
+  },
+  "1679": {
+    "it": "Wall Angels alla parete",
+    "ja": "ウォールエンジェル"
+  },
+  "1263": {
+    "it": "Ponte posteriore a corpo libero",
+    "ja": "バックブリッジ"
+  },
+  "146": {
+    "it": "Pressa per polpacci alla Leg Press",
+    "ja": "レッグプレスマシン・カーフプレス"
+  },
+  "1243": {
+    "it": "Sollevamento polpacci a due gambe a corpo libero",
+    "ja": "ダブルレッグ・カーフレイズ"
+  },
+  "1426": {
+    "it": "Crunch laterali in piedi",
+    "ja": "スタンディング・サイドクランチ"
+  },
+  "910": {
+    "it": "Nordic hamstring curl a corpo libero",
+    "ja": "ノルディックハムストリングカール"
+  },
+  "1338": {
+    "it": "Alzate frontali con manubri",
+    "ja": "ダンベル・フロントレイズ"
+  },
+  "570": {
+    "it": "Scrollate di spalle a corpo libero",
+    "ja": "ショルダーシュラッグ (自重)"
+  }
+}

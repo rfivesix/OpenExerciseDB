@@ -1,0 +1,14 @@
+batch_id: 88
+movement_pattern: anti_extension
+primary_muscle: transversus_abdominis
+items:
+- id: '1828'
+  name: Abdominal Draw-In
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja

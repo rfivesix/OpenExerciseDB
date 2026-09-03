@@ -1,0 +1,98 @@
+[
+  {
+    "id": "12",
+    "language": "en",
+    "field": "description",
+    "old_value": "Starting Position: Sit on the machine with your knees inward and against the pads. Pull the pin to release the pads. Grab the handles on the sides.b",
+    "new_value": "Starting Position: Sit on the machine with your knees inward and against the pads. Pull the pin to release the pads. Grab the handles on the sides.",
+    "reason": "Remove stray trailing typo 'b' at the end of the description."
+  },
+  {
+    "id": "12",
+    "language": "de",
+    "field": "description",
+    "old_value": "in eine aufrechte Position setzen, bei der die Beine hüftbreit geöffnet sind\nden Rücken, die Knie und die Oberschenkelaußenseite an die jeweiligen Polster pressen\nmit den Händen an den Griffen festhalten\ndie Oberschenkel bis zum Anschlagpunkt der Hebelarme auseinander drücken\ndanach die Beine wieder zusammen führen\ndas Gesäß nicht vom Sitz abheben\nbeim Auseinanderdrücken der Hebelarme aus- und beim Zusammenführen einatmen",
+    "new_value": "Setze dich aufrecht in die Maschine und stelle das Polster so ein, dass die Oberschenkelinnenseiten an den Polstern anliegen. Halte dich an den seitlichen Griffen fest. Führe die Beine gegen das Polster kontrolliert zusammen (Adduktion). Halte die Kontraktion kurz und öffne die Beine langsam wieder in die Ausgangsposition, ohne das Gewicht ganz abzusetzen.",
+    "reason": "Die bestehende deutsche Beschreibung beschrieb eine Abduktion (Polster an Oberschenkelaußenseite, Auseinanderdrücken der Hebelarme), widerspricht jedoch der Klassifikation (hip_adduction, adductors). Gemäß Core Directive 1 ('The classification is the arbiter') wird die deutsche Beschreibung korrigiert, um der Adduktion zu entsprechen."
+  },
+  {
+    "id": "1901",
+    "language": "de",
+    "field": "name",
+    "old_value": "Umsetzen und Stoßen",
+    "new_value": "Umsetzen und Drücken",
+    "reason": "Korrektur des deutschen Namens: Clean and Press bedeutet Umsetzen und Drücken (Drücken über Schulterkraft/Strict Press). 'Stoßen' bezeichnet im Deutschen den 'Jerk' (Clean and Jerk) mit Untertauchen/Ausfallschritt."
+  },
+  {
+    "id": "962",
+    "language": "en",
+    "field": "description",
+    "old_value": "It improves muscle toning, strengthens the leg muscles (quads, glutes, calves), helps vascularisation and increases resistance. The elliptical is also very useful if you aim to lose weight. Teste",
+    "new_value": "It improves muscle toning, strengthens the leg muscles (quads, glutes, calves), helps vascularisation and increases resistance. The elliptical is also very useful if you aim to lose weight.",
+    "reason": "Remove stray trailing typo/test artifact 'Teste' at the end of the English description."
+  },
+  {
+    "id": "1680",
+    "language": "en",
+    "field": "description",
+    "old_value": "Seat on&nbsp; a bench. Feet flat on the ground. Place your left ankle over your right knee. Your right knee stays flat. Keep your back straight. Gently push your left knee down.",
+    "new_value": "Sit on a bench with your feet flat on the ground. Place your left ankle over your right knee. Your right knee stays flat. Keep your back straight. Gently push your left knee down.",
+    "reason": "Fix grammatical typo 'Seat on' -> 'Sit on' and remove raw HTML entity '&nbsp;' and redundant whitespace."
+  },
+  {
+    "id": "1548",
+    "language": "en",
+    "field": "description",
+    "old_value": "cardio and lower-body strength machine&nbsp;designed to simulate climbing stairs. It provides a&nbsp;low-impact, high-intensity workout&nbsp;that targets the legs, glutes, and core while improving cardiovascular endurance.",
+    "new_value": "Cardio and lower-body strength machine designed to simulate climbing stairs. It provides a low-impact, high-intensity workout that targets the legs, glutes, and core while improving cardiovascular endurance.",
+    "reason": "Capitalize first letter and remove raw HTML entities '&nbsp;' from the description."
+  },
+  {
+    "id": "1914",
+    "language": "en",
+    "field": "name",
+    "old_value": "Isometria alle parallele",
+    "new_value": "Parallel Bar Support Hold",
+    "reason": "English title was mistakenly kept in Italian ('Isometria alle parallele'). Translated to proper English fitness terminology matching exercise description and setup (dip_bars)."
+  },
+  {
+    "id": "194",
+    "language": "en",
+    "field": "description",
+    "old_value": "A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order).[1] Wide arm training places additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.",
+    "new_value": "A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order). Wide arm training places additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.",
+    "reason": "Remove Wikipedia footnote citation artifact '[1]' from description."
+  },
+  {
+    "id": "373",
+    "language": "de",
+    "field": "name",
+    "old_value": "Beinpresse Eng",
+    "new_value": "Beinpresse (enger Stand)",
+    "reason": "Formatierung des deutschen Namens nach dem Standard 'Beinpresse (enger Stand)' analog zu 'Beinpresse (breiter Stand)' gem. NAMING.md §3."
+  },
+  {
+    "id": "373",
+    "language": "de",
+    "field": "description",
+    "old_value": "In die Maschine setzten und die Füße auf die Auflage stellen. Dabei sollte etwa so viel Platz dazwischen bleiben, dass noch ein Fuß dazwischen Platz hätte. Die Füße sind wie beim normalen Bankdrücken etwas nach außen gedreht.\nDer Bewegungsablauf ist wie bei bei der breite Beinpresse: das Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Ohne Pause wird dann das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!",
+    "new_value": "Setze dich in die Beinpresse und platziere deine Füße eng auf der Fußplatte (etwa eine Fußbreite Abstand zwischen den Füßen). Die Füße sind leicht nach außen gedreht.\nSenke die Plattform kontrolliert ab, bis deine Knie einen Winkel von etwa 90 Grad bilden. Drücke das Gewicht anschließend kontrolliert wieder nach oben, ohne die Knie am obersten Punkt ganz durchzustrecken. Die Bewegung bleibt flüssig.",
+    "reason": "Korrektur grober Fehler im deutschen Text: 'setzten' -> 'setze dich', Beseitigung des absurden Vergleichs 'wie beim normalen Bankdrücken' (bei einer Beinübung!), Behebung der Wortwiederholung ('bei bei') und des Grammatikfehlers ('der breite Beinpresse')."
+  },
+  {
+    "id": "718",
+    "language": "de",
+    "field": "name",
+    "old_value": "Wall Squat",
+    "new_value": "Wandsitz",
+    "reason": "Ersetze unübersetztes englischsprachiges 'Wall Squat' durch den etablierten deutschen Begriff 'Wandsitz' (Wall Sit)."
+  },
+  {
+    "id": "718",
+    "language": "de",
+    "field": "description",
+    "old_value": "Mache einen klassischen Squat an der Wand. Lehne dich mit dem Rücken an die Wand und gleite langsam herunter bis du 90° in den Knien hast. Halte die Position 30 Sekunden.",
+    "new_value": "Lehne dich mit dem Rücken aufrecht an eine Wand und wandere mit den Füßen nach vorne. Gleite mit dem Rücken langsam an der Wand nach unten, bis Oberschenkel und Unterschenkel einen 90-Grad-Winkel bilden und die Oberschenkel parallel zum Boden sind. Halte diese Position statisch für die vorgegebene Dauer.",
+    "reason": "Präzisere Ausführungsbeschreibung des Wandsitzes; entfernt umgangssprachliches Denglisch ('Squat an der Wand')."
+  }
+]

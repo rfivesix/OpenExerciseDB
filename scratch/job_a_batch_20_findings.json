@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1387",
+    "language": "de",
+    "field": "description",
+    "old_value": "Stehen Sie mit hüftbreit geöffneten Füßen. Schwingen Sie ein Bein vor und zurück, wobei Sie es so gerade wie möglich halten und die Zehen nach oben zeigen. Wiederholen Sie dies mit dem anderen Bein.",
+    "new_value": "Stelle dich mit hüftbreit geöffneten Füßen hin und strecke einen Arm vor dir aus. Schwinge das Bein vor dir nach oben und wieder nach unten, während du das Bein so gerade wie möglich hältst und die Zehen nach oben zeigen. Wiederhole die Bewegung mit dem anderen Bein.",
+    "reason": "Correct register from formal 'Sie' to informal 'du' (standard across database) and restore missing instruction details from EN source (strecke einen Arm vor dir aus)."
+  },
+  {
+    "id": "1735",
+    "language": "de",
+    "field": "name",
+    "old_value": "Einbeinige seitliche Gesäßpresse",
+    "new_value": "Einbeinige Beinpresse seitlich für das Gesäß",
+    "reason": "Fix overly literal translation 'Gesäßpresse' to standard gym machine terminology 'Beinpresse' (equipment is machine / leg press)."
+  }
+]

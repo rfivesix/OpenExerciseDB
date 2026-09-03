@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1911",
+    "language": "en",
+    "field": "description",
+    "old_value": "On your fours and raise the knees of the floor ever so slightly.&nbsp;\nCurl your back out and push back from your shoulders as to resemble a cat making itself look large.",
+    "new_value": "Get on all fours and raise your knees off the floor ever so slightly.\nRound your back upward and push back through your shoulders to resemble a cat arching its back.",
+    "reason": "Fix grammatical errors ('raise the knees of the floor' -> 'off the floor'), unescaped HTML entity '&nbsp;', and unclear phrasing in English description."
+  },
+  {
+    "id": "2493",
+    "language": "de",
+    "field": "name",
+    "old_value": "Adductor side plank",
+    "new_value": "Adduktoren-Seitstütz",
+    "reason": "Translate English title to standard German gym terminology ('Adduktoren-Seitstütz' or 'Adduktoren-Side-Plank', matching German naming conventions)."
+  },
+  {
+    "id": "2493",
+    "language": "de",
+    "field": "description",
+    "old_value": "Im 90° Winkel zur Bank auf der Seite liegend positionieren. Ein Bein mit der Seite der Wade auf die Bank legen. Das andere Bein unter die Bank, so gut es geben geht. Dann auf den zum Boden zeigenden Arm im 90° Winkel stützen (Unterarmstütz). Die zur Decke zeigende Körperseite muss möglichst gerade sein (ein Side Plank eben).",
+    "new_value": "Lege dich im 90°-Winkel zur Bank auf die Seite. Platziere das obere Bein mit der Wadeninnenseite auf der Bank. Führe das untere Bein unter die Bank. Stütze dich auf den bodennahen Unterarm im 90°-Winkel (Unterarmstütz). Drücke dich vom Boden ab, sodass der gesamte Körper eine gerade Linie bildet, auf einer Höhe mit der Bank. Halte diese Position.",
+    "reason": "Fix typo/grammatical error ('so gut es geben geht') and colloquial tone ('ein Side Plank eben'), and align instructions cleanly with EN description and classification."
+  },
+  {
+    "id": "285",
+    "language": "en",
+    "field": "description",
+    "old_value": "Start with legs slightly wider than shoulder width\nDrop into a bodyweight squat\nAs you hit the bottom of the squat, explode upwards into a jump while simultaneously tucking your knees into your chest midflight.&nbsp; Remain tucked until the apex of your jump.\nLand on both feet, making sure your knees are not locked so as to avoid excessive strain upon your joints.&nbsp; Collect yourself into the next rep as quickly but under control as possible.",
+    "new_value": "Start with legs slightly wider than shoulder width.\nDrop into a bodyweight squat.\nAs you hit the bottom of the squat, explode upwards into a jump while simultaneously tucking your knees into your chest midflight. Remain tucked until the apex of your jump.\nLand on both feet, making sure your knees are not locked so as to avoid excessive strain upon your joints. Collect yourself into the next rep as quickly but under control as possible.",
+    "reason": "Clean up unescaped HTML entities (&nbsp;) in English description."
+  },
+  {
+    "id": "630",
+    "language": "de",
+    "field": "name",
+    "old_value": "Sumo Kreuzheben",
+    "new_value": "Sumo-Kreuzheben",
+    "reason": "Correct German spelling with hyphen for compound noun (Sumo-Kreuzheben)."
+  },
+  {
+    "id": "630",
+    "language": "de",
+    "field": "description",
+    "old_value": "Muskulatur anspannen\nRücken aufrecht halten\nRücken gerade halten\nLangsame Bewegung\nKontrollierte Bewegung\nNicht überdehnen",
+    "new_value": "Beginne mit einer beladenen Langhantel auf dem Boden. Tritt so an die Hantelstange heran, dass sie über der Mitte der Füße liegt. Die Füße stehen sehr breit, nahe an den Hantelscheiben. Beuge dich in der Hüfte, um die Stange zu greifen. Die Arme befinden sich direkt unter den Schultern innerhalb der Beine; du kannst einen Obergriff, Kreuzgriff oder Hakengriff verwenden. Entspanne die Schultern, wodurch die Arme effektiv verlängert werden.\nAtme ein, senke die Hüfte ab und blicke mit aufrechter Brust nach vorne. Drücke dich durch den Boden ab, während das Gewicht auf der hinteren Fußhälfte liegt. Strecke Hüfte und Knie.\nSobald die Stange die Knie passiert, führe die Hüfte nach vorne an die Stange und ziehe die Schulterblätter zusammen.\nSenke das Gewicht kontrolliert wieder zum Boden ab, indem du dich in der Hüfte beugst.",
+    "reason": "German description had only generic bullet points missing the actual exercise execution; translated full barbell Sumo Deadlift instructions matching classification and EN description."
+  },
+  {
+    "id": "632",
+    "language": "en",
+    "field": "description",
+    "old_value": "Stand with your feet wider than your shoulders, with your toes pointed out at a 45 degree angle and barbell on your shoulder.\nWhile keeping your back straight, descend slowly by bending at the knees and hips as if you are sitting down (squatting).\nLower yourself until your quadriceps and hamstrings are parallel to the floor.\nReturn to the starting position by pressing upwards and extending your legs while maintaining an equal distribution of weight on your forefoot and heel.",
+    "new_value": "Stand with your feet wider than your shoulders, with your toes pointed out at a 45-degree angle.\nWhile keeping your back straight, descend slowly by bending at the knees and hips as if you are sitting down (squatting).\nLower yourself until your thighs are parallel to the floor.\nReturn to the starting position by pressing upwards and extending your legs while maintaining an equal distribution of weight on your forefoot and heel.",
+    "reason": "Classification specifies primary_equipment: bodyweight. Removed 'and barbell on your shoulder' from English description to match classification."
+  },
+  {
+    "id": "632",
+    "language": "de",
+    "field": "name",
+    "old_value": "Sumo Kniebeuge",
+    "new_value": "Sumo-Kniebeugen",
+    "reason": "Correct German spelling with hyphen and plural standard convention (Sumo-Kniebeugen)."
+  },
+  {
+    "id": "632",
+    "language": "de",
+    "field": "description",
+    "old_value": "Variante der Kniebeuge: breiter Stand, Füße leicht nach außen\nOptional mit Langhantel oder Kettlebell (Kugelhantel) vor der Brust",
+    "new_value": "Stelle dich mit den Füßen weiter als schulterbreit auf, die Fußspitzen in einem 45-Grad-Winkel nach außen gedreht.\nHalte den Rücken gerade und senke dich langsam ab, indem du Knie und Hüfte beugst, als ob du dich hinsetzt.\nGehe so weit nach unten, bis deine Oberschenkel parallel zum Boden sind.\nKehre in die Ausgangsposition zurück, indem du dich nach oben drückst und die Beine streckst, während das Gewicht gleichmäßig auf Vorfuß und Ferse verteilt bleibt.",
+    "reason": "Classification is primary_equipment: bodyweight. Old German text was an incomplete stub mentioning barbell/kettlebell. Rewritten to full bodyweight squat instructions consistent with EN description and classification."
+  },
+  {
+    "id": "711",
+    "language": "de",
+    "field": "name",
+    "old_value": "Handstand Gegen Die Wand",
+    "new_value": "Handstand gegen die Wand",
+    "reason": "Fix title-case capitalization in German title ('Gegen Die Wand' -> 'gegen die Wand')."
+  },
+  {
+    "id": "711",
+    "language": "de",
+    "field": "description",
+    "old_value": "Handstand gegen eine Wand zur Unterstützung (Brust zugewandte Wand).",
+    "new_value": "Handstand gegen eine Wand zur Unterstützung (Brust zur Wand gewandt).",
+    "reason": "Fix awkward, ungrammatical literal translation ('Brust zugewandte Wand' -> 'Brust zur Wand gewandt')."
+  },
+  {
+    "id": "716",
+    "language": "en",
+    "field": "description",
+    "old_value": "Stand with heels,&nbsp;shoulders, back of head, and hips touching the wall. Start with biceps straight out and elbows at a 90 degree angle. Straighten the arms while remaining againstthe wall without arching the back off of the wall, mimicking a shoulder press movement.",
+    "new_value": "Stand with heels, shoulders, back of head, and hips touching the wall. Start with upper arms straight out to the sides and elbows at a 90-degree angle. Straighten the arms while remaining against the wall without arching the back off of the wall, mimicking a shoulder press movement.",
+    "reason": "Fix HTML entity '&nbsp;', run-together words ('againstthe'), and inaccurate cue ('biceps straight out' -> 'upper arms straight out to the sides')."
+  },
+  {
+    "id": "996",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nBeginnen Sie in der aufrechten Liegestützposition, auch bekannt als die hohe Plank-Position.Die Hände sollten sich direkt unter den Schultern befinden.Halten Sie Ihren Kopf in einer Linie mit dem Rücken und schauen Sie zum Boden.Die Füße sollten etwa hüftbreit auseinander stehen.\nDie Schritte:\n\nBewegen Sie ein Knie in Richtung Körpermitte zu den Ellbogen und lassen Sie das andere Bein gestreckt.\nIn einer schnellen, hüpfenden Bewegung strecken Sie das gebeugte Bein aus und ziehen das andere Knie zum Körper.\nWiederholen Sie Schritt 2 im Wechsel mit dem anderen Bein.\n\nAnmerkungen:\nWährend der gesamten Übung sollte Ihr Rücken so gerade wie möglich bleiben - vermeiden Sie einen Buckel oder einen durchhängenden Rücken.",
+    "new_value": "Ausgangsposition:\nBeginne in der oberen Liegestützposition, auch bekannt als hohe Plank-Position. Die Hände sollten sich direkt unter den Schultern befinden. Halte den Kopf in einer Linie mit dem Rücken mit Blick zum Boden. Die Füße stehen etwa hüftbreit auseinander.\n\nSchritte:\n1. Führe ein Knie in Richtung Körpermitte zu den Ellbogen, während das andere Bein gestreckt bleibt.\n2. In einer schnellen, dynamischen Wechselbewegung streckst du das gebeugte Bein nach hinten aus und ziehst gleichzeitig das andere Knie nach vorne.\n3. Wiederhole die Bewegung fortlaufend im Wechsel.\n\nHinweise:\nHalte den Rücken während der gesamten Übung möglichst gerade – vermeide einen Rundrücken oder ein Durchhängen der Hüfte.",
+    "reason": "Correct register from formal 'Sie' to informal 'du', add missing spaces between sentences, and clean up formatting."
+  }
+]

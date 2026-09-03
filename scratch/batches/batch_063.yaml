@@ -1,0 +1,35 @@
+batch_id: 63
+movement_pattern: horizontal_push
+primary_muscle: deltoid
+items:
+- id: '1462'
+  name: punches
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1092'
+  name: Bag training
+  primary_equipment: other
+  setup:
+  - punching_bag
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - ja
+- id: '2542'
+  name: Boxing
+  primary_equipment: other
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja

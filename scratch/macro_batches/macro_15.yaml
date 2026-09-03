@@ -1,0 +1,343 @@
+batch_id: 15
+movement_pattern: hinge
+items:
+- id: '1438'
+  name: Clean
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1087'
+  name: Dumbbell Hang Power Cleans
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1947'
+  name: dumbbell snatch
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '683'
+  name: Power Clean
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1141'
+  name: Arabesque
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1388'
+  name: Single Leg RDL
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1652'
+  name: Dumbbell Romanian Deadlift
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '630'
+  name: Sumo Deadlift
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1845'
+  name: Seated Pancake Good Morning
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1003'
+  name: Kettlebell deadlifts
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1392'
+  name: Good Morning
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1393'
+  name: Single Leg Hamstring Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1700'
+  name: Barbell Romanian Deadlift (RDL)
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '627'
+  name: Stiff-legged Deadlifts
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1612'
+  name: kettlebell sumo deadlift
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1736'
+  name: Single-Leg Deadlift with Dumbbell
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1370'
+  name: Dumbbell Deadlift
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '484'
+  name: Rack Deadlift
+  primary_equipment: barbell
+  setup:
+  - power_rack
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1576'
+  name: Snap Down
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '184'
+  name: Deadlifts
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - ja
+- id: '604'
+  name: Speed Deadlift
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2524'
+  name: Straddle Stance Good Morning
+  primary_equipment: barbell
+  setup:
+  - squat_rack
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1390'
+  name: Toe Touch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '960'
+  name: Kettlebell Swing
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - ja
+- id: '331'
+  name: Kettlebell Swings
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1578'
+  name: Hip hinge
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '189'
+  name: Deficit Deadlift
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1688'
+  name: Kickstand RDL
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1396'
+  name: Standing Pancake
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1400'
+  name: Crossbody Hamstring Stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2447'
+  name: Hip Airplane
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '9'
+  name: 2 Handed Kettlebell Swing
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '507'
+  name: Romanian Deadlift
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1088'
+  name: Dumbbell sumo deadlift
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1641'
+  name: Kettlebell One Legged Deadlift
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1397'
+  name: Standing Pancake Good Morning
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: bilateral
+  needs:
+  - it
+  - ja

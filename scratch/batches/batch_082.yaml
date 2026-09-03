@@ -1,0 +1,22 @@
+batch_id: 82
+movement_pattern: vertical_pull
+primary_muscle: gluteus_maximus
+items:
+- id: '1447'
+  name: Snatch OL
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '599'
+  name: Snatch
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

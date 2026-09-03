@@ -1,0 +1,48 @@
+batch_id: 55
+movement_pattern: other
+primary_muscle: erector_spinae
+items:
+- id: '1592'
+  name: Guided or free meditation
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1244'
+  name: 'Yoga exercise: Cow-cat'
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1938'
+  name: Cat-Cow
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1363'
+  name: Blackroll
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

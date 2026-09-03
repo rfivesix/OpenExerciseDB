@@ -1,0 +1,42 @@
+batch_id: 57
+movement_pattern: rotation
+primary_muscle: neck_flexors
+items:
+- id: '1015'
+  name: Clockwise neck circles
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1017'
+  name: Neck half circles
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1939'
+  name: Neck CARs
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1016'
+  name: Counterclockwise neck circles
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - it
+  - ja

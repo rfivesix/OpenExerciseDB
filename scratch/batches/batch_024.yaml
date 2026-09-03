@@ -1,0 +1,98 @@
+batch_id: 24
+movement_pattern: hip_abduction
+primary_muscle: gluteus_medius
+items:
+- id: '1823'
+  name: Clamshell
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1842'
+  name: Banded Clamshell
+  primary_equipment: resistance_band
+  setup:
+  - mat
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2491'
+  name: Abductors
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_abduction
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1672'
+  name: Seated Hip Abduction
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_abduction
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1202'
+  name: Side Lying Hip Abduction
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1886'
+  name: Supine Hip Abduction
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1096'
+  name: Abduction while standing
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1514'
+  name: Lateral Walk
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hip_abduction
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1915'
+  name: Quadruped Hip Abduction
+  primary_equipment: resistance_band
+  setup:
+  - mat
+  movement_pattern: hip_abduction
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1748'
+  name: Machine Hip Abduction
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_abduction
+  laterality: bilateral
+  needs:
+  - it
+  - ja

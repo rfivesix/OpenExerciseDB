@@ -1,0 +1,414 @@
+[
+  {
+    "id": "1286",
+    "language": "en",
+    "field": "name",
+    "old_value": "Dynamic Planche",
+    "new_value": "Plank Tuck Jump",
+    "reason": "The exercise described is a plank tuck jump / frogger jump from a plank position, not a gymnastic planche. Renamed per NAMING.md §1 and §2 to accurately describe the movement."
+  },
+  {
+    "id": "1286",
+    "language": "de",
+    "field": "name",
+    "old_value": "Dynamische Planche",
+    "new_value": "Plank Tuck Jump",
+    "reason": "Die Übung beschreibt Sprünge aus der Liegestützposition (Plank Tuck Jumps) und keine gymnastische Planche. Angepasst an die tatsächliche Ausführung."
+  },
+  {
+    "id": "1287",
+    "language": "en",
+    "field": "name",
+    "old_value": "Reach ups",
+    "new_value": "Reach-up",
+    "reason": "Standardize to singular and Title Case per NAMING.md §3 and §4."
+  },
+  {
+    "id": "1287",
+    "language": "de",
+    "field": "name",
+    "old_value": "Reach-ups",
+    "new_value": "Reach-up",
+    "reason": "Standardize to singular per NAMING.md §3."
+  },
+  {
+    "id": "1415",
+    "language": "en",
+    "field": "name",
+    "old_value": "Dumbbell Crunches",
+    "new_value": "Dumbbell Crunch",
+    "reason": "Standardize to singular noun per NAMING.md §3."
+  },
+  {
+    "id": "1415",
+    "language": "de",
+    "field": "name",
+    "old_value": "Kurzhantel-Crunches",
+    "new_value": "Kurzhantel-Crunch",
+    "reason": "Standardize to singular noun matching vocab/glossary.yaml."
+  },
+  {
+    "id": "1474",
+    "language": "en",
+    "field": "description",
+    "old_value": "This challenging exercise is a variation of reverse crunches that is made up of three parts in which we’re basically drawing an upside down ‘W’ with our legs.\nStart position is lying face up flat on the floor with legs extended at the low point of the outer leg of the ‘W’. Keeping a strong core and legs straight, go up, rise your hips and then slowly lower your legs down halfway. Then, lifting your legs back up to the top, rise your hips again, maintaining that straight line, use your core strength to finally come back all the way down to the other outer leg of the W. Then you reverse the ‘W’ to return to the start.",
+    "new_value": "This challenging exercise is a variation of reverse crunches that is made up of three parts in which we’re basically drawing an upside down ‘W’ with our legs.\nStart position is lying face up flat on the floor with legs extended at the low point of the outer leg of the ‘W’. Keeping a strong core and legs straight, go up, raise your hips and then slowly lower your legs down halfway. Then, lifting your legs back up to the top, raise your hips again, maintaining that straight line, use your core strength to finally come back all the way down to the other outer leg of the W. Then you reverse the ‘W’ to return to the start.",
+    "reason": "Fix grammatical errors: 'rise your hips' -> 'raise your hips'."
+  },
+  {
+    "id": "1476",
+    "language": "en",
+    "field": "name",
+    "old_value": "Butterfly Sit Up",
+    "new_value": "Butterfly Sit-up",
+    "reason": "Standardize hyphenation of Sit-up per NAMING.md §4."
+  },
+  {
+    "id": "1476",
+    "language": "en",
+    "field": "description",
+    "old_value": "In\nthis midrange exercise your arm muscles provide you with a little bit of\nmomentum to help to get you off the ground. You also open them up in overhead\nposition which engages the upper back. Start\nlying with feet flat on the ground, knees at an angle, arms crossed in towards your chest. Using\nyour ab muscles, bring your upper body off the ground as you open your arms\ninto goal post position, then slowly lower yourself back down to return to\nstarting position.",
+    "new_value": "In this midrange exercise your arm muscles provide you with a little bit of momentum to help to get you off the ground. You also open them up in overhead position which engages the upper back.\nStart lying with feet flat on the ground, knees at an angle, arms crossed in towards your chest. Using your ab muscles, bring your upper body off the ground as you open your arms into goal post position, then slowly lower yourself back down to return to starting position.",
+    "reason": "Clean up awkward mid-sentence line breaks."
+  },
+  {
+    "id": "1476",
+    "language": "de",
+    "field": "description",
+    "old_value": "Bei\ndieser Übung im mittleren Bewegungsbereich verleihen dir deine Armmuskeln ein wenig\nSchwung, der dir hilft, vom Boden hochzukommen. Du öffnest sie außerdem in der Überkopf-Position,\nwas den oberen Rücken aktiviert. Beginne\nliegend mit flach auf dem Boden stehenden Füßen, die Knie angewinkelt, die Arme vor der Brust gekreuzt. Hebe\nmit deiner Bauchmuskulatur deinen Oberkörper vom Boden ab, während du deine Arme\nin die Goalpost-Position öffnest, und senke dich dann langsam wieder ab, um in die\nAusgangsposition zurückzukehren.",
+    "new_value": "Bei dieser Übung im mittleren Bewegungsbereich verleihen dir deine Armmuskeln ein wenig Schwung, der dir hilft, vom Boden hochzukommen. Du öffnest sie außerdem in der Überkopf-Position, was den oberen Rücken aktiviert.\nBeginne liegend mit flach auf dem Boden stehenden Füßen, die Knie angewinkelt, die Arme vor der Brust gekreuzt. Hebe mit deiner Bauchmuskulatur deinen Oberkörper vom Boden ab, während du deine Arme in die Goalpost-Position öffnest, und senke dich dann langsam wieder ab, um in die Ausgangsposition zurückzukehren.",
+    "reason": "Bereinigt willkürliche Zeilenumbrüche mitten im Satz."
+  },
+  {
+    "id": "1478",
+    "language": "en",
+    "field": "description",
+    "old_value": "For\nthis top down movement, we’re trying to move the upper torso without moving the\nlower torso. Start lying on the ground with feet flat on the floor and crossed\narms above your head with hands behind head. Lift upper body up and clear your\nshoulder blades off the ground and then hold and pause at the top for a one or\ntwo count. Try to make the upper abs work and hold that contraction for 10 good\nquality reps.",
+    "new_value": "For this top down movement, we’re trying to move the upper torso without moving the lower torso. Start lying on the ground with feet flat on the floor and crossed arms above your head with hands behind head. Lift upper body up and clear your shoulder blades off the ground and then hold and pause at the top for a one or two count. Try to make the upper abs work and hold that contraction for 10 good quality reps.",
+    "reason": "Clean up awkward mid-sentence line breaks."
+  },
+  {
+    "id": "1478",
+    "language": "de",
+    "field": "description",
+    "old_value": "Bei\ndieser Bewegung von oben nach unten versuchen wir, den oberen Oberkörper zu bewegen, ohne den\nunteren Oberkörper zu bewegen. Beginne auf dem Boden liegend mit flach auf dem Boden stehenden Füßen und gekreuzten\nArmen über dem Kopf, die Hände hinter dem Kopf. Hebe den Oberkörper an und löse deine\nSchulterblätter vom Boden, halte dann und pausiere am oberen Punkt für ein bis\nzwei Zählzeiten. Versuche, die obere Bauchmuskulatur arbeiten zu lassen, und halte diese Anspannung für 10 saubere\nWiederholungen in guter Qualität.",
+    "new_value": "Bei dieser Bewegung von oben nach unten versuchen wir, den oberen Oberkörper zu bewegen, ohne den unteren Oberkörper zu bewegen. Beginne auf dem Boden liegend mit flach auf dem Boden stehenden Füßen und gekreuzten Armen über dem Kopf, die Hände hinter dem Kopf. Hebe den Oberkörper an und löse deine Schulterblätter vom Boden, halte dann und pausiere am oberen Punkt für ein bis zwei Zählzeiten. Versuche, die obere Bauchmuskulatur arbeiten zu lassen, und halte diese Anspannung für 10 saubere Wiederholungen in guter Qualität.",
+    "reason": "Bereinigt willkürliche Zeilenumbrüche mitten im Satz."
+  },
+  {
+    "id": "1529",
+    "language": "en",
+    "field": "name",
+    "old_value": "Toes to bar",
+    "new_value": "Toes-to-Bar",
+    "reason": "Standardize capitalization and hyphenation for standard CrossFit/gym compound movement per NAMING.md §4."
+  },
+  {
+    "id": "1529",
+    "language": "de",
+    "field": "name",
+    "old_value": "Toes to bar",
+    "new_value": "Toes-to-Bar",
+    "reason": "Standardize capitalization and hyphenation for standard CrossFit/gym compound movement."
+  },
+  {
+    "id": "1529",
+    "language": "de",
+    "field": "description",
+    "old_value": "Der Name „Toes to Bar“ sagt es bereits: Bei dieser Übung, bei der Sie an einer Klimmzugstange hängen, geht es darum, die Zehenspitzen zur Stange Richtung Gesicht zu bringen. Dabei werden die Bauchmuskeln ordentlich gefordert. „Toes to Bar“ sind beliebt im Functional Fitness wie Freeletics oder CrossFit sowie eine wirksame Übung im Sixpack-Training.",
+    "new_value": "Der Name „Toes-to-Bar“ sagt es bereits: Bei dieser Übung hängst du an einer Klimmzugstange und bringst deine Zehenspitzen nach oben an die Stange. Dabei wird die Bauchmuskulatur intensiv gefordert. Toes-to-Bar sind ein Klassiker im Functional Fitness sowie im Turn- und Krafttraining.",
+    "reason": "Harmonize formal 'Sie' to informal 'du' address, standardize hyphenation, and refine style."
+  },
+  {
+    "id": "1648",
+    "language": "en",
+    "field": "name",
+    "old_value": "Weighted Crunch",
+    "new_value": "Weight Plate Crunch",
+    "reason": "Specify primary_equipment: weight_plate per NAMING.md §2 formula [Equipment] + [Movement]."
+  },
+  {
+    "id": "1648",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunch mit Zusatzgewicht",
+    "new_value": "Hantelscheiben-Crunch",
+    "reason": "Präzisierung des Übungsnamens mit dem autoritativen Ausrüstungsbegriff Hantelscheibe (vocab/equipment.yaml) passend zu primary_equipment: weight_plate."
+  },
+  {
+    "id": "1648",
+    "language": "en",
+    "field": "description",
+    "old_value": "The Weighted Crunch is a variation of the classic crunch exercise that involves adding resistance (a weight) to increase the intensity of the abdominal work.\n\nLay down\n(Optional) Bend your knees to add difficulty\n(Optional) Bend your knees and let your feet rest on a bench or a box or something (90 degree angle on knees)\nLift your head and torso while bending your back forward (if you don't it's a sit-up and also involves some back muscles). The higher you go, the more you should feel your abs contracting.\nGo back to starting position an repeat",
+    "new_value": "The Weight Plate Crunch is a variation of the classic crunch exercise that involves holding a weight plate to increase the intensity of the abdominal work.\n\nLie flat on your back on a mat with your knees bent and feet flat on the floor.\nHold a weight plate securely across your chest or extended above you.\nLift your shoulders and upper back off the floor by flexing your spine, contracting your abs.\nLower slowly back to the starting position and repeat.",
+    "reason": "Align with primary_equipment: weight_plate, fix grammatical errors ('Lay down' -> 'Lie flat', 'an repeat' -> 'and repeat'), and format into clean execution steps."
+  },
+  {
+    "id": "1648",
+    "language": "de",
+    "field": "description",
+    "old_value": "Der Crunch mit Zusatzgewicht ist eine Variante des klassischen Crunch, bei der ein Widerstand (ein Gewicht) hinzugefügt wird, um die Intensität der Bauchmuskelarbeit zu erhöhen.\n\nLege dich hin\n(Optional) Beuge die Knie, um die Übung zu erschweren\n(Optional) Beuge die Knie und lege deine Füße auf einer Bank, einer Box oder etwas Ähnlichem ab (90-Grad-Winkel in den Knien)\nHebe Kopf und Oberkörper an, während du den Rücken nach vorne rundest (tust du das nicht, ist es ein Sit-up und beansprucht auch einige Rückenmuskeln). Je höher du kommst, desto stärker solltest du das Anspannen deiner Bauchmuskulatur spüren.\nKehre in die Ausgangsposition zurück und wiederhole",
+    "new_value": "Der Hantelscheiben-Crunch ist eine Variante des klassischen Crunchs, bei der eine Hantelscheibe als zusätzlicher Widerstand genutzt wird, um die Intensität zu steigern.\n\nLege dich mit dem Rücken flach auf eine Matte, beuge die Knie und stelle die Füße flach auf den Boden.\nHalte eine Hantelscheibe sicher vor der Brust oder über dem Oberkörper.\nHebe Schultern und oberen Rücken durch Beugen der Wirbelsäule vom Boden ab und spanne die Bauchmuskeln fest an.\nSenke den Oberkörper langsam wieder in die Ausgangsposition ab und wiederhole die Bewegung.",
+    "reason": "Abstimmung auf primary_equipment: weight_plate (Hantelscheibe) und Formulierung klarer Übungsschritte."
+  },
+  {
+    "id": "167",
+    "language": "en",
+    "field": "name",
+    "old_value": "Crunches",
+    "new_value": "Crunch",
+    "reason": "Standardize to singular noun per NAMING.md §3 and vocab/glossary.yaml."
+  },
+  {
+    "id": "167",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches",
+    "new_value": "Crunch",
+    "reason": "Standardize to singular noun per NAMING.md §3 and vocab/glossary.yaml."
+  },
+  {
+    "id": "167",
+    "language": "de",
+    "field": "description",
+    "old_value": "Lege dich auf eine Matte mit angewinkelten Beinen. Die Füße werden irgendwie festgehalten (Partner, Lanhghantel, o.Ä.) und die Hände werden hinter dem Nacken verschränkt. Aus dieser Position führe den Oberkörper so weit nach oben, bis Kopf oder Ellenbogen die angewinkelten Beine berühren.\nEs ist wichtig, dass dieser Vorgang mit einer rollenden Bewegung durchgeführt wird: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden.",
+    "new_value": "Lege dich mit angewinkelten Beinen auf eine Matte. Die Füße werden fixiert (z. B. durch einen Partner oder eine Langhantel) und die Hände hinter dem Kopf gehalten. Führe aus dieser Position den Oberkörper mit einer rollenden Bewegung nach oben, sodass sich die oberen Wirbel von der Matte lösen.\nSenke den Oberkörper anschließend kontrolliert wieder ab. Ein Hohlkreuz ist stets zu vermeiden.",
+    "reason": "Beseitigt Tippfehler ('Lanhghantel' -> 'Langhantel'), korrigiert die Beschreibung von Sit-up-Bewegungsumfang ('bis Kopf oder Ellenbogen die Beine berühren') zu klassischem Crunch-Bewegungsumfang und verbessert den Stil."
+  },
+  {
+    "id": "171",
+    "language": "en",
+    "field": "name",
+    "old_value": "Incline Crunches",
+    "new_value": "Decline Crunch",
+    "reason": "Setup is decline_bench (head down, feet anchored at high end). In gym nomenclature, an inverted crunch bench is a decline bench. Renamed to Decline Crunch per NAMING.md §2 and classification setup: decline_bench (id 427 is the identical setup)."
+  },
+  {
+    "id": "171",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches an Schrägbank",
+    "new_value": "Crunches an Negativbank",
+    "reason": "Das Gerät ist eine Negativbank (decline_bench), an der die Füße oben fixiert werden und der Kopf tiefer liegt. Korrektur von Schrägbank zu Negativbank gemäß vocab/equipment.yaml (setup: decline_bench)."
+  },
+  {
+    "id": "171",
+    "language": "de",
+    "field": "description",
+    "old_value": "Der Ablauf der Übung ist im Prinzip wie bei den normalen Crunches, nur legst du dich auf eine Schrägbank oder eine andere geeignete Fläche. Stelle sicher, dass du nicht rutschen kannst indem du die Beine über den Rand anwikelst oder sonstwo festhalten kannst. Halte die Hände hinter dem Nacken verschränkt. Aus dieser Position führe den Oberkörper so weit nach oben, bis Kopf oder Ellenbogen die Knie berühren.\nEs ist wichtig, dass dieser Vorgang mit einer rollenden Bewegung durchgeführt wird: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden.",
+    "new_value": "Der Ablauf der Übung ist im Prinzip wie bei normalen Crunches, nur legst du dich auf eine Negativbank. Fixiere deine Beine in den Polstern, um nicht abzurutschen. Halte die Hände an den Schläfen oder hinter dem Kopf. Hebe aus dieser Position den Oberkörper mit einer rollenden Bewegung kontrolliert an, bis sich die Schulterblätter und der obere Rücken von der Bank lösen.\nSenke den Oberkörper langsam wieder ab. Ein Hohlkreuz ist stets zu vermeiden.",
+    "reason": "Korrigiert Schrägbank zu Negativbank (setup: decline_bench), beseitigt Tippfehler ('anwikelst'), korrigiert die falsche Erwähnung einer Matte (auf der Bank) und stellt den korrekten Crunch-Bewegungsumfang dar."
+  },
+  {
+    "id": "172",
+    "language": "en",
+    "field": "name",
+    "old_value": "Crunches on Machine",
+    "new_value": "Machine Crunch",
+    "reason": "Standardize word order to [Equipment] + [Movement] and singular noun per NAMING.md §2 and §3."
+  },
+  {
+    "id": "172",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches an Maschine",
+    "new_value": "Maschinen-Crunch",
+    "reason": "Standardize to singular compound noun per vocab/equipment.yaml and vocab/glossary.yaml."
+  },
+  {
+    "id": "172",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ablauf wie bei reguläre Crunches, nur mit zusätzlichem Gewicht an der Maschine.\nSetzte dich hin, beide Füße stabil auf dem Boden. Nehme die Gewichte, Kabel, etc. fest und führe eine rollende Bewegung nach vorn (die Wirbelsäule sollte sich idealerweise Wirbel für Wirbel von der Lehne lösen). Kehre langsam in die Ausgangsposition zurück.",
+    "new_value": "Ablauf wie bei regulären Crunches, nur mit dem geführten Widerstand der Maschine.\nSetze dich in die Maschine, beide Füße stehen stabil auf dem Boden. Fasse die Griffe oder Polster und führe eine rollende Bewegung nach vorne aus (die Wirbelsäule sollte sich idealerweise Wirbel für Wirbel von der Rückenlehne lösen). Kehre langsam und kontrolliert in die Ausgangsposition zurück.",
+    "reason": "Korrigiert Grammatik ('reguläre' -> 'regulären', 'Setzte' -> 'Setze', 'Nehme' -> 'Fasse') und präzisiert die Beschreibung auf reine Maschinenmechanik (keine freien Kabel)."
+  },
+  {
+    "id": "173",
+    "language": "en",
+    "field": "name",
+    "old_value": "Crunches With Cable",
+    "new_value": "Cable Kneeling Crunch",
+    "reason": "Standardize to [Equipment] + [Modifier] + [Movement] in Title Case and singular noun per NAMING.md §2, §3, §4."
+  },
+  {
+    "id": "173",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches am Seil",
+    "new_value": "Kabelzug-Crunch kniend",
+    "reason": "Verwendet die autoritative Gerätebezeichnung Kabelzug (vocab/equipment.yaml) und Singular gemäß Vokabular."
+  },
+  {
+    "id": "173",
+    "language": "en",
+    "field": "description",
+    "old_value": "Take the cable on your hands and hold it next to your temples. Knee down and hold your upper body straight and bend forward. Go down with a fast movement, rolling your back in (your ellbows point to your knees). Once down, go slowly back to the initial position.",
+    "new_value": "Grasp the cable attachment (rope) with both hands and hold it next to your temples. Kneel down facing or facing away from the cable stack with your torso upright and slightly hinged forward. Crunch down by rolling your spine inward, bringing your elbows toward your knees. Pause briefly, then slowly return under control to the starting position.",
+    "reason": "Fix spelling ('Knee down' -> 'Kneel down', 'ellbows' -> 'elbows', 'Take the cable on your hands' -> 'Grasp the cable attachment') and align with controlled strength mechanics."
+  },
+  {
+    "id": "173",
+    "language": "de",
+    "field": "description",
+    "old_value": "Nehme das Kabel in die Hand und halte es neben den Schläfen fest. Knie dich nun vor dem Kabelzug mit geradem aber nach vorne gebeugtem Oberkörper hin. Rolle dich mit einer schnellen Bewegung zusammen, die Ellenbogen zeigen zu den Knien. Gehe langsam wieder zur Anfangsposition zurück.",
+    "new_value": "Nimm das Seil am Kabelzug in beide Hände und halte die Enden neben den Schläfen fest. Knie dich vor dem Kabelturm auf eine Matte, mit aufrechtem und leicht nach vorne gebeugtem Oberkörper. Rolle dich kontrolliert zusammen, sodass die Ellbogen in Richtung der Oberschenkel wandern. Kehre langsam wieder in die Ausgangsposition zurück.",
+    "reason": "Korrigiert Imperativ ('Nehme' -> 'Nimm'), ergänzt Matten-Setup (setup: mat) und korrigiert 'schnelle Bewegung' zu kontrollierter Ausführung."
+  },
+  {
+    "id": "174",
+    "language": "en",
+    "field": "name",
+    "old_value": "Crunches With Legs Up",
+    "new_value": "Vertical Leg Crunch",
+    "reason": "Standardize to canonical fitness industry name 'Vertical Leg Crunch' in singular per NAMING.md §2 and §3."
+  },
+  {
+    "id": "174",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches mit gestreckten Beinen",
+    "new_value": "Vertical Leg Crunch",
+    "reason": "Standardize to canonical gym term 'Vertical Leg Crunch' in singular."
+  },
+  {
+    "id": "174",
+    "language": "de",
+    "field": "description",
+    "old_value": "Lege dich auf den Rücken, strecke die Beine gerade nach oben, greife mit den Händen in Richtung deiner Zehen und hebe dabei die Schulterblätter vom Boden ab und nach hinten.",
+    "new_value": "Lege dich auf den Rücken, strecke die Beine senkrecht nach oben, führe die Hände in Richtung deiner Zehen und hebe dabei die Schulterblätter vom Boden ab. Senke den oberen Rücken anschließend wieder kontrolliert ab.",
+    "reason": "Korrigiert die widersinnige Formulierung 'ab und nach hinten' (Übersetzungsfehler von 'off the ground and back') zu sauberem Hoch- und Absenken."
+  },
+  {
+    "id": "1772",
+    "language": "en",
+    "field": "name",
+    "old_value": "Reverse crunch",
+    "new_value": "Reverse Crunch",
+    "reason": "Title Case capitalization per NAMING.md §4."
+  },
+  {
+    "id": "1889",
+    "language": "de",
+    "field": "name",
+    "old_value": "Beinheben auf der Schrägbank",
+    "new_value": "Beinheben auf der Negativbank",
+    "reason": "Das Setup ist decline_bench (Negativbank). Korrektur von 'Schrägbank' zu 'Negativbank' gemäß vocab/equipment.yaml und englischem Namen Decline Bench Leg Raise."
+  },
+  {
+    "id": "1889",
+    "language": "de",
+    "field": "description",
+    "old_value": "Aufbau: Lege dich auf eine Schrägbank, mit dem Kopf am oberen Ende, und greife die Griffe.\nDer Start: Strecke die Beine vollständig und halte sie leicht angehoben, um deinen Rumpf zu aktivieren.\nDas Anheben: Hebe deine Beine in Richtung Decke, indem du die Bauchmuskulatur einsetzt, nicht den Schwung.\nDas Anspannen: Halte kurz inne und ziehe oben deine untere Bauchmuskulatur zusammen.\nDie Rückführung: Senke deine Beine langsam und kontrolliert in die Ausgangsposition.",
+    "new_value": "Aufbau: Lege dich auf eine Negativbank, mit dem Kopf am oberen Ende, und halte dich an den Griffen fest.\nDer Start: Strecke die Beine vollständig und halte sie leicht angehoben, um deinen Rumpf zu aktivieren.\nDas Anheben: Hebe deine Beine in Richtung Decke, indem du die Bauchmuskulatur einsetzt, nicht den Schwung.\nDas Anspannen: Halte kurz inne und spanne die Bauchmuskulatur oben fest an.\nDie Rückführung: Senke deine Beine langsam und kontrolliert in die Ausgangsposition ab.",
+    "reason": "Korrektur von Schrägbank zu Negativbank (setup: decline_bench) und stilistische Glättung."
+  },
+  {
+    "id": "283",
+    "language": "en",
+    "field": "name",
+    "old_value": "Hanging Leg Raises",
+    "new_value": "Hanging Leg Raise",
+    "reason": "Standardize to singular noun per NAMING.md §3."
+  },
+  {
+    "id": "283",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangspostion im Hang, die Beine sind angebhoben (Oberschenkel-Rumpf-Winkel 90°)\nVon hier aus kleine Hebebewegungen ausführen, die Hüftgelenke bleiben in der Endposition gebeugt (90°)",
+    "new_value": "Ausgangsposition im Hang an der Klimmzugstange: Hebe die Beine gestreckt oder mit leicht gebeugten Knien kontrolliert nach oben an.\nSenke die Beine langsam und ohne Schwung wieder in die Ausgangsposition ab.",
+    "reason": "Beseitigt Tippfehler ('Ausgangspostion', 'angebhoben'), ergänzt die Klimmzugstange (setup: pullup_bar) und beschreibt den vollen Bewegungsumfang statt einer isolierten Teilbewegung."
+  },
+  {
+    "id": "377",
+    "language": "de",
+    "field": "name",
+    "old_value": "Beinheben Liegend",
+    "new_value": "Beinheben im Liegen",
+    "reason": "Standardisierung auf natürliche deutsche Übungsbezeichnung ohne invertierte Großschreibung."
+  },
+  {
+    "id": "377",
+    "language": "de",
+    "field": "description",
+    "old_value": "Lege dich auf die Bank und greife mit den Armen die Lehne o.Ä. damit du stabil liegst. Halte die Beine ausgestreckt und hebe sie, bis sie einen Winkel von etwa 45° bilden. Mache eine kleine Pause von ca. 1 sek. und gehe langsam wieder runter. Du kannst zur Steigerung z.B. jedes 5. Mal, eine längere Pause von 7 Sekunden machen.",
+    "new_value": "Lege dich flach auf die Bank und halte dich am Kopfende der Bank mit den Händen fest, um stabil zu liegen. Halte die Beine gestreckt und hebe sie kontrolliert an. Halte oben kurz für 1 Sekunde die Spannung und senke die Beine langsam wieder ab.",
+    "reason": "Beseitigt eigenwillige Wiederholungsschemata ('jedes 5. Mal eine Pause von 7 Sekunden') und ungenaue Formulierungen ('runter'), orientiert an standardisierten Ausführungshinweisen."
+  },
+  {
+    "id": "378",
+    "language": "en",
+    "field": "name",
+    "old_value": "Standing Leg Raise",
+    "new_value": "Dip Station Leg Raise",
+    "reason": "Exercise is performed supported on forearms on a power tower / captain's chair / dip station (setup: dip_bars), hanging freely, not standing on feet. Renamed per NAMING.md §1 and §2 to Dip Station Leg Raise to accurately match classification setup: dip_bars."
+  },
+  {
+    "id": "378",
+    "language": "de",
+    "field": "name",
+    "old_value": "Beinheben Aufrecht",
+    "new_value": "Beinheben an der Dip-Station",
+    "reason": "Korrektur des irreführenden Namens 'Beinheben Aufrecht': Die Übung wird auf den Unterarmpolstern einer Dip-Station ausgeführt (setup: dip_bars)."
+  },
+  {
+    "id": "378",
+    "language": "de",
+    "field": "description",
+    "old_value": "Stelle dich mit den Unterarmen fest auf die Polster der Beinhebemaschine, der Körper hängt frei nach unten. Hebe nun die Beine so weit wie möglich nach oben, wobei an der höchsten Stelle eine kurze Pause eingelegt wird. Bringe sie dann langsam und kontrolliert wieder nach unten. Während der Übung darf der Körper nicht mitschwingen, nur die Beine sollten sich hier bewegen.",
+    "new_value": "Stütze dich mit den Unterarmen auf den Polstern der Dip-Station ab, sodass der Körper frei hängt. Hebe die Beine kontrolliert nach oben an und halte am höchsten Punkt kurz die Spannung. Senke die Beine anschließend langsam und kontrolliert wieder ab. Vermeide jeglichen Schwung aus dem Oberkörper.",
+    "reason": "Korrigiert die unlogische Formulierung 'Stelle dich mit den Unterarmen fest auf die Polster' zu 'Stütze dich mit den Unterarmen auf den Polstern ab' und passt die Gerätebezeichnung an setup: dip_bars an."
+  },
+  {
+    "id": "427",
+    "language": "en",
+    "field": "name",
+    "old_value": "Negative Crunches",
+    "new_value": "Decline Crunch",
+    "reason": "Exercise is performed on a decline bench with fixed legs (setup: decline_bench). 'Negative' is a mistranslation of German 'Negativbank'. Renamed to standard English 'Decline Crunch' per NAMING.md §2 and §3."
+  },
+  {
+    "id": "427",
+    "language": "de",
+    "field": "name",
+    "old_value": "Crunches an Negativbank",
+    "new_value": "Crunch an der Negativbank",
+    "reason": "Standardize to singular noun per NAMING.md §3 and standard German grammar."
+  },
+  {
+    "id": "427",
+    "language": "de",
+    "field": "description",
+    "old_value": "Setze dich auf die Negativbank und fixiere deine Beine. Kreuze deine Arme über die Brust und bringe den Oberkörper nach oben, den Kopf dabei nicht nach vorn kippen. Gehe langsam wieder runter.",
+    "new_value": "Setze dich auf die Negativbank und fixiere deine Beine unter den Polstern. Kreuze die Arme über der Brust und hebe den Oberkörper mit einer rollenden Bewegung kontrolliert an. Halte den Nacken stabil und kippe den Kopf nicht nach vorne. Senke den Oberkörper anschließend langsam wieder ab.",
+    "reason": "Ergänzt Details zur Rollbewegung des Crunchs und glättet die Umgangssprache ('runter' -> 'ab')."
+  },
+  {
+    "id": "505",
+    "conflict": "EN describes Crunches on a Roman chair (setup: roman_chair), while DE describes Hanging Knee Raises with forearms supported on pads (Beinheben/Knieheben mit Unterarmstütz im Gerät, corresponding to Captain's Chair / dip_bars). Classification setup: roman_chair matches the English text, while the German text describes captain's chair dip bars."
+  },
+  {
+    "id": "591",
+    "language": "en",
+    "field": "name",
+    "old_value": "Sit-ups",
+    "new_value": "Bench-Elevated Sit-up",
+    "reason": "Standardize to singular per NAMING.md §3 and add setup qualifier (setup: mat, flat_bench - calves resting on bench) per NAMING.md §2."
+  },
+  {
+    "id": "591",
+    "language": "de",
+    "field": "name",
+    "old_value": "Sit Ups",
+    "new_value": "Sit-ups mit abgelegten Beinen",
+    "reason": "Koppelung mit Bindestrich und Ergänzung des Setup-Merkmals (Fersen/Waden auf einer Flachbank abgelegt)."
+  },
+  {
+    "id": "591",
+    "language": "de",
+    "field": "description",
+    "old_value": "Lege dich auf eine Matte, die Knie sind rechtwiklig angewinkelt und die Fersen liegen auf eine Bank. Die Hände sind hinter dem Nacken. Das Hochgehen wird mit einer rollenden Bewegung durchgeführt: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden. Auf der höchsten Stelle sollten die Muskeln etwa 2 sek. maximal angespannt werden bevor die rollende Bewegung in der Gegenrichtung durchgeführt wird.",
+    "new_value": "Lege dich auf eine Matte, winkle die Knie rechtwinklig an und lege die Unterschenkel auf einer Flachbank ab. Platziere die Hände hinter dem Kopf oder an den Schläfen. Rolle den Oberkörper Wirbel für Wirbel kontrolliert nach oben auf. Halte am höchsten Punkt für etwa zwei Sekunden die maximale Spannung in der Bauchmuskulatur, bevor du den Oberkörper langsam wieder abrollst. Ein Hohlkreuz ist stets zu vermeiden.",
+    "reason": "Beseitigt Tippfehler ('rechtwiklig', 'auf eine Bank' -> 'auf einer Flachbank'), korrigiert 'Hände hinter dem Nacken' und glättet die Grammatik."
+  }
+]

@@ -1,0 +1,1611 @@
+[
+  {
+    "id": "1548",
+    "name": "Stair Master",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "cardio_machine",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "MisterPinnacle",
+      "source_id": "2496"
+    }
+  },
+  {
+    "id": "1579",
+    "name": "Bronco",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "calves"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "MU5H",
+      "source_id": "2527"
+    }
+  },
+  {
+    "id": "1584",
+    "name": "March or jog in place",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "calves"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "MrAlfaRobot",
+      "source_id": "2532"
+    }
+  },
+  {
+    "id": "1615",
+    "name": "Treadmill Cardio",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "cardio_machine",
+    "muscles": [
+      "quadriceps",
+      "calves"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2592"
+    }
+  },
+  {
+    "id": "1618",
+    "name": "Stationary bike cardio",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "cardio_machine",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2601"
+    }
+  },
+  {
+    "id": "2481",
+    "name": "Kick with Board",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "gait",
+    "equipment": "other",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Imported from swim plan",
+      "source_id": "4958"
+    }
+  },
+  {
+    "id": "9",
+    "name": "2 Handed Kettlebell Swing",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "kettlebell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "deusinvictus",
+      "source_id": "345"
+    }
+  },
+  {
+    "id": "184",
+    "name": "Deadlifts",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "105"
+    }
+  },
+  {
+    "id": "189",
+    "name": "Deficit Deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "bobbyprince89",
+      "source_id": "381"
+    }
+  },
+  {
+    "id": "331",
+    "name": "Kettlebell Swings",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "kettlebell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "J120290,cerin",
+      "source_id": "249"
+    }
+  },
+  {
+    "id": "484",
+    "name": "Rack Deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "Mahoney",
+      "source_id": "161"
+    }
+  },
+  {
+    "id": "630",
+    "name": "Sumo Deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex",
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "magdy",
+      "source_id": "557"
+    }
+  },
+  {
+    "id": "683",
+    "name": "Power Clean",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "189"
+    }
+  },
+  {
+    "id": "960",
+    "name": "Kettlebell Swing",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "kettlebell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "1252"
+    }
+  },
+  {
+    "id": "1003",
+    "name": "Kettlebell deadlifts",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "kettlebell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1803"
+    }
+  },
+  {
+    "id": "1087",
+    "name": "Dumbbell Hang Power Cleans",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "philip",
+      "source_id": "2037"
+    }
+  },
+  {
+    "id": "1088",
+    "name": "Dumbbell sumo deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "philip",
+      "source_id": "2038"
+    }
+  },
+  {
+    "id": "1141",
+    "name": "Arabesque",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cleen",
+      "source_id": "2120"
+    }
+  },
+  {
+    "id": "1370",
+    "name": "Dumbbell Deadlift",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Anastasious",
+      "source_id": "2337"
+    }
+  },
+  {
+    "id": "1438",
+    "name": "Clean",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus",
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "M9",
+      "source_id": "2402"
+    }
+  },
+  {
+    "id": "1576",
+    "name": "Snap Down",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus",
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "mountain.potato",
+      "source_id": "2524"
+    }
+  },
+  {
+    "id": "1578",
+    "name": "Hip hinge",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "mountain.potato",
+      "source_id": "2526"
+    }
+  },
+  {
+    "id": "2447",
+    "name": "Hip Airplane",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "TobiasFalk",
+      "source_id": "3553"
+    }
+  },
+  {
+    "id": "507",
+    "name": "Romanian Deadlift",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "pjwirth",
+      "source_id": "351"
+    }
+  },
+  {
+    "id": "604",
+    "name": "Speed Deadlift",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "MrSteele",
+      "source_id": "328"
+    }
+  },
+  {
+    "id": "627",
+    "name": "Stiff-legged Deadlifts",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "tuckerm",
+      "source_id": "209"
+    }
+  },
+  {
+    "id": "1388",
+    "name": "Single Leg RDL",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2355"
+    }
+  },
+  {
+    "id": "1390",
+    "name": "Toe Touch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2357"
+    }
+  },
+  {
+    "id": "1392",
+    "name": "Good Morning",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2359"
+    }
+  },
+  {
+    "id": "1393",
+    "name": "Single Leg Hamstring Stretch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2360"
+    }
+  },
+  {
+    "id": "1396",
+    "name": "Standing Pancake",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex",
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2363"
+    }
+  },
+  {
+    "id": "1397",
+    "name": "Standing Pancake Good Morning",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex",
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2364"
+    }
+  },
+  {
+    "id": "1400",
+    "name": "Crossbody Hamstring Stretch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2367"
+    }
+  },
+  {
+    "id": "1641",
+    "name": "Kettlebell One Legged Deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "kettlebell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "AlucardEvil40",
+      "source_id": "2749"
+    }
+  },
+  {
+    "id": "1652",
+    "name": "Dumbbell Romanian Deadlift",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "AlucardEvil40",
+      "source_id": "2770"
+    }
+  },
+  {
+    "id": "1688",
+    "name": "Kickstand RDL",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "eriktrinkle",
+      "source_id": "2807"
+    }
+  },
+  {
+    "id": "1700",
+    "name": "Barbell Romanian Deadlift (RDL)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "daiben",
+      "source_id": "2819"
+    }
+  },
+  {
+    "id": "1736",
+    "name": "Single-Leg Deadlift with Dumbbell",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2865"
+    }
+  },
+  {
+    "id": "1845",
+    "name": "Seated Pancake Good Morning",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex",
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "2980"
+    }
+  },
+  {
+    "id": "2524",
+    "name": "Straddle Stance Good Morning",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hinge",
+    "equipment": "barbell",
+    "muscles": [
+      "hamstring_complex",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "4993"
+    }
+  },
+  {
+    "id": "1096",
+    "name": "Abduction while standing",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "tregga",
+      "source_id": "2055"
+    }
+  },
+  {
+    "id": "1202",
+    "name": "Side Lying Hip Abduction",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "wakanda90",
+      "source_id": "2161"
+    }
+  },
+  {
+    "id": "1514",
+    "name": "Lateral Walk",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cozyGalvinism",
+      "source_id": "2473"
+    }
+  },
+  {
+    "id": "1672",
+    "name": "Seated Hip Abduction",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Iko",
+      "source_id": "2795"
+    }
+  },
+  {
+    "id": "1748",
+    "name": "Machine Hip Abduction",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2882"
+    }
+  },
+  {
+    "id": "1823",
+    "name": "Clamshell",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "teus_ergaster",
+      "source_id": "2957"
+    }
+  },
+  {
+    "id": "1842",
+    "name": "Banded Clamshell",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "resistance_band",
+    "muscles": [
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "2977"
+    }
+  },
+  {
+    "id": "1886",
+    "name": "Supine Hip Abduction",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "teus_ergaster",
+      "source_id": "3032"
+    }
+  },
+  {
+    "id": "1915",
+    "name": "Quadruped Hip Abduction",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "resistance_band",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_minimus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "treder",
+      "source_id": "3062"
+    }
+  },
+  {
+    "id": "2491",
+    "name": "Abductors",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "lbroggi",
+      "source_id": "4970"
+    }
+  },
+  {
+    "id": "1395",
+    "name": "Crossbody Leg Swings",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hip_adductors",
+      "gluteus_medius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2362"
+    }
+  },
+  {
+    "id": "1844",
+    "name": "Frog Stretch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "2979"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Seated Hip Adduction",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_adduction",
+    "equipment": "machine",
+    "muscles": [
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "flori",
+      "source_id": "377"
+    }
+  },
+  {
+    "id": "1605",
+    "name": "Copenhagen Adduction Exercise",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hip_adduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "RiccaBaro",
+      "source_id": "2578"
+    }
+  },
+  {
+    "id": "1724",
+    "name": "Standing Adduction (Cable)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_adduction",
+    "equipment": "cable",
+    "muscles": [
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "barry",
+      "source_id": "2850"
+    }
+  },
+  {
+    "id": "2492",
+    "name": "Adductors",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "hip_adduction",
+    "equipment": "machine",
+    "muscles": [
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "lbroggi",
+      "source_id": "4972"
+    }
+  },
+  {
+    "id": "2493",
+    "name": "Adductor Side Plank",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_adduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hip_adductors",
+      "obliques"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "hurr99",
+      "source_id": "4974"
+    }
+  },
+  {
+    "id": "265",
+    "name": "Glute Bridge",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "tdprice12",
+      "source_id": "408"
+    }
+  },
+  {
+    "id": "294",
+    "name": "Hip Thrust",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "barbell",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Bret Contreras",
+      "source_id": "854"
+    }
+  },
+  {
+    "id": "990",
+    "name": "Kneeling kickbacks",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1630"
+    }
+  },
+  {
+    "id": "1131",
+    "name": "Cable glute extension",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "cable",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Franpol",
+      "source_id": "2108"
+    }
+  },
+  {
+    "id": "1132",
+    "name": "Machine glute extension",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Franpol",
+      "source_id": "2109"
+    }
+  },
+  {
+    "id": "1234",
+    "name": "Dumbbell Single-leg Hip Thrust",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "carlos3c",
+      "source_id": "2199"
+    }
+  },
+  {
+    "id": "1503",
+    "name": "Dumbbell Frog Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "JohnPreston",
+      "source_id": "2465"
+    }
+  },
+  {
+    "id": "1528",
+    "name": "Glute Drive",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "schweezer",
+      "source_id": "2485"
+    }
+  },
+  {
+    "id": "1616",
+    "name": "Dumbbell donkey kick",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2598"
+    }
+  },
+  {
+    "id": "1642",
+    "name": "Dumbbell Hip Thrust",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "dumbbell",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "AlucardEvil40",
+      "source_id": "2751"
+    }
+  },
+  {
+    "id": "1723",
+    "name": "Glute Kickback (Machine)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "barry",
+      "source_id": "2849"
+    }
+  },
+  {
+    "id": "1740",
+    "name": "Single Leg Glute Bridge",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Happy",
+      "source_id": "2870"
+    }
+  },
+  {
+    "id": "1751",
+    "name": "Cable pull through",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "cable",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "manuher89",
+      "source_id": "2887"
+    }
+  },
+  {
+    "id": "1809",
+    "name": "Reverse Hyperextension",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus",
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "2938"
+    }
+  },
+  {
+    "id": "1906",
+    "name": "Hip Bridge",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cybro",
+      "source_id": "3053"
+    }
+  },
+  {
+    "id": "1913",
+    "name": "Unilateral Hip Thrust",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cybro",
+      "source_id": "3060"
+    }
+  },
+  {
+    "id": "2534",
+    "name": "(D) Puente de glúteos",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "hip_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "dvdfernandez95",
+      "source_id": "5003"
+    }
+  },
+  {
+    "id": "284",
+    "name": "Hercules Pillars",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "cable",
+    "muscles": [
+      "biceps_brachii",
+      "deltoid"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "GrosseHund",
+      "source_id": "291"
+    }
+  },
+  {
+    "id": "79",
+    "name": "Bent High Pulls",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_posterior",
+      "traps_middle"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "lakerbeezel",
+      "source_id": "268"
+    }
+  },
+  {
+    "id": "139",
+    "name": "Butterfly Reverse",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "machine",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "124"
+    }
+  },
+  {
+    "id": "222",
+    "name": "Facepull",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "cable",
+    "muscles": [
+      "delt_posterior",
+      "traps_middle"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "abeworld",
+      "source_id": "394"
+    }
+  },
+  {
+    "id": "487",
+    "name": "Rear Delt Raises",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "YYCfit",
+      "source_id": "237"
+    }
+  },
+  {
+    "id": "822",
+    "name": "Cable Rear Delt Fly",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "cable",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cshep442",
+      "source_id": "1078"
+    }
+  },
+  {
+    "id": "828",
+    "name": "Incline Bench Reverse Fly",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cshep442",
+      "source_id": "1080"
+    }
+  },
+  {
+    "id": "1098",
+    "name": "Seated rear delt rise",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "philip",
+      "source_id": "2057"
+    }
+  },
+  {
+    "id": "1227",
+    "name": "Dumbbell rear delt row",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_posterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Lynn_McIntyre",
+      "source_id": "2192"
+    }
+  },
+  {
+    "id": "1380",
+    "name": "Band pull-aparts",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "resistance_band",
+    "muscles": [
+      "delt_posterior",
+      "rhomboids"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "schwolfar",
+      "source_id": "2346"
+    }
+  },
+  {
+    "id": "1458",
+    "name": "Cross-Body Cable Y-Raise",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_pull",
+    "equipment": "cable",
+    "muscles": [
+      "delt_posterior",
+      "traps_lower"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2423"
+    }
+  }
+]

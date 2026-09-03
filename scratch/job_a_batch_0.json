@@ -1,0 +1,630 @@
+[
+  {
+    "id": "1084",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Floor Press",
+    "en_desc": "Grab your dumbbells and lay flat on your back with your knees bent and your feet flat on the ground (use a bench if you have one). Press the weights up, locking out your elbows (A). Lower them slowly until your upper arms are resting on the floor (B) close to your body. Pause here before explosively pressing back up. Squeeze your chest hard and repeat.",
+    "de_name": "Kurzhantel-Bodendrücken",
+    "de_desc": "Nimm deine Kurzhanteln und lege dich flach auf den Rücken, die Knie angewinkelt und die Füße flach auf dem Boden (benutze eine Bank, falls du eine hast). Drücke die Gewichte nach oben und strecke die Ellbogen durch (A). Senke sie langsam ab, bis deine Oberarme nah am Körper auf dem Boden ruhen (B). Halte hier kurz inne, bevor du sie explosiv wieder nach oben drückst. Spanne die Brust kräftig an und wiederhole."
+  },
+  {
+    "id": "1094",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Seated Bench Press",
+    "en_desc": "Set up the chest press machine so that the grips are aligned with your lower chest when you sit down. Make sure you're sitting with your back flat against the seat. Grab a handle in each hand, stick your chest out, and keep your head against the headrest. Breathe deeply and slowly push the handles forward until your arms are almost fully extended. Pause just before the lockout, then slowly return the handles to the starting position. Pause just before the handles come to a complete stop and perform another repetition.",
+    "de_name": "Brustpresse im Sitzen",
+    "de_desc": "Stelle die Brustpressmaschine so ein, dass die Griffe im Sitzen auf Höhe deiner unteren Brust sind. Achte darauf, dass dein Rücken flach an der Lehne anliegt. Greife in jede Hand einen Griff, schiebe die Brust heraus und halte den Kopf an der Kopfstütze. Atme tief ein und drücke die Griffe langsam nach vorne, bis deine Arme nahezu vollständig gestreckt sind. Halte kurz vor der vollständigen Streckung inne und führe die Griffe dann langsam in die Ausgangsposition zurück. Halte kurz inne, bevor die Griffe vollständig zur Ruhe kommen, und führe eine weitere Wiederholung aus."
+  },
+  {
+    "id": "1111",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Push-Ups | Incline",
+    "en_desc": "Inclined push-ups primarily target the chest muscles (pectoralis major and minor), but also work the triceps, shoulders, and core to a lesser extent. Because the upper body is elevated, the incline push-up places less emphasis on the triceps compared to regular push-ups, which may be beneficial for individuals looking to specifically target their chest muscles.",
+    "de_name": "Liegestütze | erhöht (Incline)",
+    "de_desc": "Erhöhte Liegestütze trainieren vor allem die Brustmuskulatur (großer und kleiner Brustmuskel), beanspruchen aber in geringerem Maße auch den Trizeps, die Schultern und den Rumpf. Da der Oberkörper erhöht ist, belastet der Incline-Liegestütz den Trizeps weniger als der normale Liegestütz, was für alle von Vorteil sein kann, die gezielt ihre Brustmuskulatur ansprechen möchten."
+  },
+  {
+    "id": "1112",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Push-Ups | Decline",
+    "en_desc": "Decline push-ups are another modified version of the traditional push-up that target the upper body muscles in a different way. To perform a decline push-up, elevate your feet on an elevated surface, such as a bench, chair, or step, while placing your hands on the ground in a push-up position. Lower your body towards the ground while maintaining a straight line from your shoulders to your ankles, and then push back up to the starting position.\nUnlike the inclined push-up, the decline push-up places more emphasis on the shoulders and triceps, while still engaging the chest muscles to a lesser extent. By elevating your feet, you increase the difficulty of the exercise by placing more weight on your upper body, forcing your shoulders and triceps to work harder to push your body back up. The decline push-up can be a great way to challenge your upper body strength and improve your ability to perform other push-up variations. As with any exercise, be sure to use proper form and start with a height that is appropriate for your strength and fitness level.",
+    "de_name": "Liegestütze | abfallend (Decline)",
+    "de_desc": "Abfallende Liegestütze sind eine weitere abgewandelte Version des klassischen Liegestützes, die die Oberkörpermuskulatur auf andere Weise trainiert. Um einen abfallenden Liegestütz auszuführen, stellst du deine Füße auf eine erhöhte Fläche wie eine Bank, einen Stuhl oder eine Stufe und setzt deine Hände in der Liegestützposition auf den Boden. Senke deinen Körper zum Boden, während du eine gerade Linie von den Schultern bis zu den Knöcheln hältst, und drücke dich dann wieder in die Ausgangsposition hoch.\nAnders als der Incline-Liegestütz legt der abfallende Liegestütz mehr Betonung auf die Schultern und den Trizeps, während die Brustmuskulatur weiterhin in geringerem Maße beansprucht wird. Indem du deine Füße erhöhst, steigerst du die Schwierigkeit der Übung, weil mehr Gewicht auf deinem Oberkörper lastet und deine Schultern und dein Trizeps härter arbeiten müssen, um deinen Körper wieder hochzudrücken. Der abfallende Liegestütz kann eine großartige Möglichkeit sein, deine Oberkörperkraft herauszufordern und deine Fähigkeit zu verbessern, andere Liegestützvarianten auszuführen. Achte wie bei jeder Übung auf eine saubere Ausführung und beginne mit einer Höhe, die zu deiner Kraft und deinem Fitnesslevel passt."
+  },
+  {
+    "id": "1113",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "parallettes"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Push-Ups | Parallettes",
+    "en_desc": "Parallettes push-ups are a variation of the traditional push-up that are performed with the hands on parallel bars, known as parallettes. To perform a parallettes push-up, assume a push-up position with your hands on the parallettes and your feet on the ground. Lower your body towards the ground while keeping your elbows close to your sides, and then push back up to the starting position.\nParallettes push-ups place more emphasis on the chest and shoulders compared to traditional push-ups, as they allow for a greater range of motion in the shoulder joint. This increased range of motion can also help to improve shoulder stability and mobility. Additionally, parallettes push-ups engage the core muscles more than traditional push-ups, as the instability of the parallettes requires greater activation of the core muscles to maintain proper form.\nThe added challenge of balancing on the parallettes also requires greater upper body strength and control, making parallettes push-ups a more advanced variation of the traditional push-up. They can be a great way to challenge yourself and add variety to your upper body workout routine. As always, be sure to use proper form and start with a level that is appropriate for your strength and fitness level.",
+    "de_name": "Liegestütze | Parallettes",
+    "de_desc": "Parallettes-Liegestütze sind eine Variante des klassischen Liegestützes, die mit den Händen auf parallelen Stangen, den sogenannten Parallettes, ausgeführt wird. Um einen Parallettes-Liegestütz auszuführen, nimmst du eine Liegestützposition ein, die Hände auf den Parallettes und die Füße auf dem Boden. Senke deinen Körper zum Boden, während du die Ellbogen nah am Körper hältst, und drücke dich dann wieder in die Ausgangsposition hoch.\nParallettes-Liegestütze legen im Vergleich zu klassischen Liegestützen mehr Betonung auf Brust und Schultern, da sie einen größeren Bewegungsumfang im Schultergelenk ermöglichen. Dieser größere Bewegungsumfang kann auch helfen, die Stabilität und Beweglichkeit der Schulter zu verbessern. Außerdem beanspruchen Parallettes-Liegestütze die Rumpfmuskulatur stärker als klassische Liegestütze, da die Instabilität der Parallettes eine stärkere Aktivierung des Rumpfes erfordert, um die saubere Ausführung zu halten.\nDie zusätzliche Herausforderung, auf den Parallettes zu balancieren, erfordert außerdem mehr Kraft und Kontrolle im Oberkörper, wodurch Parallettes-Liegestütze eine fortgeschrittenere Variante des klassischen Liegestützes sind. Sie können eine großartige Möglichkeit sein, dich selbst herauszufordern und Abwechslung in dein Oberkörpertraining zu bringen. Achte wie immer auf eine saubere Ausführung und beginne mit einem Niveau, das zu deiner Kraft und deinem Fitnesslevel passt."
+  },
+  {
+    "id": "1209",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Shoulder width three-point push-up",
+    "en_desc": "Get into a push-up position with your shoulders directly above your hands and your feet hip-width apart. Draw your belly button in towards your spine and tighten your abdominal muscles. Lift your left foot about five centimetres off the floor. Point your toes straight down. Do not move your hips. Your body forms a straight line from your head to your heels throughout the exercise. Now bend your elbows, lower your chest to the floor and push yourself back up. Repeat the exercise on the other side.",
+    "de_name": "Schulterbreite Dreipunkt-Liegestütze",
+    "de_desc": "Geh in die Liegestützposition, deine Schultern befinden sich direkt über den Händen, deine Füße sind hüftbreit voneinander entfernt. Zieh den Bauchnabel in Richtung Wirbelsäule und spann die Bauchmuskulatur an. Hebe deinen linken Fuß etwa fünf Zentimeter vom Boden an. Die Zehen zeigen gerade nach unten. Bewege dabei nicht deine Hüften. Dein Körper bildet während der ganzen Übung eine gerade Linie vom Kopf bis zu den Fersen. Nun beuge die Ellbogen, senke deinen Brustkorb bis zum Boden ab und drück dich wieder nach oben. Wiederhole die Übung auf der anderen Seite."
+  },
+  {
+    "id": "1218",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Knee Push-Up",
+    "en_desc": "Start by kneeling on the floor, keeping your knees together. Place your hands on the floor in front of you, slightly wider than shoulder-width apart.\nMake sure your body forms a straight line from head to knees. Hands should be positioned below shoulders.\nLower your torso towards the ground, bending your elbows while keeping your trunk stable. Keep your knees in contact with the floor.\nPush through your hands to return to the starting position. Be sure to maintain contraction of chest, shoulder and arm muscles at the top of the movement.\nPerform the desired number of repetitions, controlling the movement and maintaining good form.",
+    "de_name": "Liegestütze auf den Knien",
+    "de_desc": "Knie dich zunächst auf den Boden und halte die Knie zusammen. Stütze deine Hände vor dir auf dem Boden ab, etwas weiter als schulterbreit auseinander.\nAchte darauf, dass dein Körper eine gerade Linie von Kopf bis Knie bildet. Die Hände sollten sich unter den Schultern befinden.\nSenke deinen Oberkörper Richtung Boden, indem du die Ellbogen beugst, während du den Rumpf stabil hältst. Halte die Knie in Kontakt mit dem Boden.\nDrücke dich über die Hände in die Ausgangsposition zurück. Achte darauf, am höchsten Punkt der Bewegung die Spannung in Brust-, Schulter- und Armmuskulatur zu halten.\nFühre die gewünschte Anzahl an Wiederholungen aus, kontrolliere die Bewegung und behalte eine saubere Ausführung bei."
+  },
+  {
+    "id": "1270",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Low Pulley Cable Fly",
+    "en_desc": "Adjust the cable machine: Set the pulley to the lowest setting possible.\nChoose your handles: You can use neutral grip handles (palms facing each other) or straight handles depending on your preference. Neutral grip might be easier on your wrists.\nStand with proper form: Stand with your feet shoulder-width apart, knees slightly bent, and core engaged. Maintain a slight arch in your lower back throughout the exercise.\nGrip the handles: Grab the handles with your chosen grip and step back a small step or two until there's slight tension on the cables.\nInitiate the movement: Keep your elbows slightly bent throughout the exercise. Imagine you're giving someone a big hug. Squeeze your chest muscles as you bring your hands together in front of your chest.\nControl the movement: Focus on squeezing your chest muscles rather than using your arms to pull the handles.\nPeak contraction: Briefly hold the squeeze at the top of the movement with your hands together at chest level.\nReturn slowly: Slowly release the tension and return the handles back down to the starting position with your arms slightly extended but not locked out.",
+    "de_name": "Kabel-Fly am unteren Kabelzug",
+    "de_desc": "Stelle die Kabelmaschine ein: Setze den Kabelzug auf die niedrigstmögliche Position.\nWähle deine Griffe: Du kannst Griffe mit neutralem Griff (Handflächen zueinander) oder gerade Griffe verwenden, je nach Vorliebe. Ein neutraler Griff ist möglicherweise schonender für deine Handgelenke.\nStelle dich in der richtigen Haltung hin: Stelle dich mit schulterbreit aufgestellten Füßen hin, die Knie leicht gebeugt und die Rumpfmuskulatur angespannt. Halte während der gesamten Übung eine leichte Wölbung im unteren Rücken.\nGreife die Griffe: Greife die Griffe mit deinem gewählten Griff und gehe ein bis zwei kleine Schritte zurück, bis eine leichte Spannung auf den Kabeln liegt.\nLeite die Bewegung ein: Halte deine Ellbogen während der gesamten Übung leicht gebeugt. Stelle dir vor, du würdest jemanden fest umarmen. Spanne deine Brustmuskeln an, während du deine Hände vor deiner Brust zusammenführst.\nKontrolliere die Bewegung: Konzentriere dich darauf, deine Brustmuskeln anzuspannen, statt mit deinen Armen die Griffe zu ziehen.\nMaximale Kontraktion: Halte die Anspannung kurz am oberen Punkt der Bewegung, mit deinen Händen zusammen auf Brusthöhe.\nKehre langsam zurück: Löse langsam die Spannung und führe die Griffe wieder nach unten in die Ausgangsposition, mit leicht gestreckten, aber nicht durchgedrückten Armen."
+  },
+  {
+    "id": "129",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Chest Press",
+    "en_desc": "Adjust the seat height so that the grips are parallel to your chest.\nUse your legs to push the foot forward pedal.\nBring the handles to the start position.\nKeep your back in contact with the back pad, press outwards.\nPress the handles away from your chest and exhale.\nAllow the handles to come in gently until they reach your chest.\nAllow the handles to return to your chest as you inhale.",
+    "de_name": "Brustpresse",
+    "de_desc": "Stelle die Sitzhöhe so ein, dass sich die Griffe auf Höhe deiner Brust befinden.\nDrücke mit deinen Beinen das Fußpedal nach vorne.\nBringe die Griffe in die Ausgangsposition.\nHalte deinen Rücken in Kontakt mit dem Polster und drücke nach außen.\nDrücke die Griffe von deiner Brust weg und atme aus.\nLasse die Griffe sanft zurückkommen, bis sie deine Brust erreichen.\nLasse die Griffe zu deiner Brust zurückkehren, während du einatmest."
+  },
+  {
+    "id": "1296",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Low-Cable Crossover",
+    "en_desc": "The low-cable cross-over is an isolation movement that uses a cable stack to target the upper portion of the pectoral muscles. It is common in upper-body and chest-focused muscle-building workouts, often in combination with presses or flyes from other angles to target all portions of the chest.",
+    "de_name": "Low-Cable Cross-Over am Kabelzug",
+    "de_desc": "Der Low-Cable Cross-Over ist eine Isolationsübung, die den Kabelzug nutzt, um den oberen Teil der Brustmuskulatur gezielt zu beanspruchen. Sie kommt häufig in Oberkörper- und brustorientierten Muskelaufbau-Workouts vor, oft in Kombination mit Drück- oder Flyes-Übungen aus anderen Winkeln, um alle Bereiche der Brust zu treffen."
+  },
+  {
+    "id": "135",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Butterfly",
+    "en_desc": "Sit on the butterfly machine, the feet have a good contact with the floor, the upper arms are parallel to the floor. Press your arms together till the handles are practically together (but aren't!). Go slowly back. The weights should stay all the time in the air.",
+    "de_name": "Butterfly",
+    "de_desc": "Setzte dich auf den Sitz der Butterflymaschine, die Füße sollen dabei guten Kontakt mit dem Boden machen, die Oberarme sind waagerecht zum Boden. Drücke nun die Gewichte zusammen, wobei die Griffe sich nicht berühren sollen. Gehe nun wieder zurück, das Trainingsgewicht darf dabei nicht abgelegt werden."
+  },
+  {
+    "id": "1353",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Hex Press",
+    "en_desc": "Engage the muscles\nPosition your feet wide\nControlled movement\nSlow movement\nBring the weights toward your lower chest/stomach",
+    "de_name": "Hex Press mit Kurzhanteln",
+    "de_desc": "Muskulatur anspannen\nFüße breit positionieren\nKontrollierte Bewegung\nLangsame Bewegung\nGewichte zur unteren Brust/zum Bauch führen"
+  },
+  {
+    "id": "137",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Butterfly Narrow Grip",
+    "en_desc": "The movement is the same as with a regular butterfly, only that the grip is narrow:\nSit on the butterfly machine, the feet have a good contact with the floor, the upper arms are parallel to the floor. Press your arms together till the handles are practically together (but aren't!). Go slowly back. The weights should stay all the time in the air.",
+    "de_name": "Butterfly Eng",
+    "de_desc": "Setzte dich auf den Sitz der Butterflymaschine, die Füße sollen dabei guten Kontakt mit dem Boden machen, die Ellenbogen machen etwa einen Rechten Winkel, die Oberarme sind waagerecht zum Boden. Drücke nun die Gewichte zusammen, wobei die Griffe sich nicht berühren sollen. Gehe nun wieder zurück, das Trainingsgewicht darf dabei nicht abgelegt werden."
+  },
+  {
+    "id": "1436",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "barbell",
+    "setup": [
+      "flat_bench",
+      "power_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Pin Bench Press BB",
+    "en_desc": "Set security pins to about the height of your sticking point\nLower the bar, rest on the pins for 1s while holding tension\nMove bar up with maximum force",
+    "de_name": "Pin Bench Press LH",
+    "de_desc": "Stelle die Sicherheitsablagen ungefähr auf die Höhe deines Sticking Points ein\nSenke die Stange ab, lasse sie 1 s auf den Ablagen ruhen und halte dabei die Spannung\nBewege die Stange mit maximaler Kraft nach oben"
+  },
+  {
+    "id": "1457",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Press Around",
+    "en_desc": "Set the cable pulley at chest height and attach a D-handle bar. Grab\nthe handle with a neutral grip and hold it next to your chest with your\nelbow fully flexed and tight to your side. Turn away from the pulley so\nyour torso is at 45 degrees.\nHold the other side of the functional trainer with your corresponding hand. Assume a staggered stance for better balance.\nWhile keeping your chest proud, extend your elbow at 45 degrees\nacross your midline while keeping your arm parallel to the floor. Stop\nshy of lockout and contract your chest at the top of the range of motion\n(ROM).",
+    "de_name": "Cable Press Around",
+    "de_desc": "Stelle den Kabelzug auf Brusthöhe ein und bringe einen D-Griff an. Greife\nden Griff mit einem neutralen Griff und halte ihn neben deiner Brust, mit\nvollständig gebeugtem Ellbogen eng am Körper. Drehe dich vom Kabelzug weg, sodass\ndein Oberkörper im 45-Grad-Winkel steht.\nHalte dich mit der entsprechenden Hand an der anderen Seite des Functional Trainers fest. Nimm eine versetzte Standposition für besseres Gleichgewicht ein.\nWährend du die Brust aufgerichtet hältst, strecke den Ellbogen im 45-Grad-Winkel\nüber deine Körpermitte, während du den Arm parallel zum Boden hältst. Stoppe\nkurz vor dem Lockout und spanne die Brust am oberen Ende des Bewegungsumfangs\n(ROM) an."
+  },
+  {
+    "id": "1461",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "No Leg Drive Dumbbell Chest Press",
+    "en_desc": "Set up for a normal Dumbbell chest press but lift your leg ups straight or put them on another bench to remove the leg drive.",
+    "de_name": "Kurzhantel-Brustdrücken ohne Beineinsatz",
+    "de_desc": "Bereite dich wie für ein normales Kurzhantel-Brustdrücken vor, aber hebe die Beine gestreckt an oder lege sie auf eine andere Bank, um den Beineinsatz auszuschalten."
+  },
+  {
+    "id": "1484",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Omni Cable Cross-over",
+    "en_desc": "Adjust the weights based on the\nmotion. When pulling from top to bottom, increase the weight by 20% to 40%\nmore than the bottom-to-top motion. This accounts for the fact that when\noperating from top down, the upper chest muscles are naturally weaker than\nthe lower chest muscles. So, adjust your weight stack to\ncompensate.\n\nPosition one cable at a high\nsetting and the other at the lowest level setting. Get into a staggered\nstance in between the cable towers.\nFor the cable set low, pull it\nupward and across your body. This effectively targets the upper chest.\nFor the cable set high, draw it\ndownward and across your body. This will primarily engage the lower chest.\n\nOnce you’re done, swap the\npositions of the cables. Change the previously high cable to the lowest\nposition and vice versa. Repeat the exercise sequence, ensuring you’re\ntargeting both chest regions effectively.",
+    "de_name": "Omni Cable Crossover",
+    "de_desc": "Passe die Gewichte je nach\nBewegung an. Wenn du von oben nach unten ziehst, erhöhe das Gewicht um 20 % bis 40 %\ngegenüber der Bewegung von unten nach oben. Das berücksichtigt die Tatsache, dass beim\nArbeiten von oben nach unten die obere Brustmuskulatur von Natur aus schwächer ist als\ndie untere Brustmuskulatur. Passe also deinen Gewichtsstapel entsprechend an,\num das auszugleichen.\n\nPositioniere ein Kabel auf einer hohen\nEinstellung und das andere auf der niedrigsten Einstellung. Nimm eine versetzte\nStandposition zwischen den Kabeltürmen ein.\nBei dem niedrig eingestellten Kabel ziehst du es\nnach oben und quer über deinen Körper. Das beansprucht effektiv die obere Brust.\nBei dem hoch eingestellten Kabel ziehst du es\nnach unten und quer über deinen Körper. Das beansprucht hauptsächlich die untere Brust.\n\nWenn du fertig bist, tausche die\nPositionen der Kabel. Stelle das zuvor hohe Kabel auf die niedrigste\nPosition und umgekehrt. Wiederhole den Übungsablauf und stelle sicher, dass du\nbeide Brustbereiche effektiv ansprichst."
+  },
+  {
+    "id": "1496",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "DB Upper Chest Variation",
+    "en_desc": "Dumbbell in hand in a curl fashion, lean body into the arm to help the dumbbell up above the chest, next to the head, to activate chest and delt combo",
+    "de_name": "Kurzhantel-Variation für die obere Brust",
+    "de_desc": "Halte die Kurzhantel wie bei einem Curl in der Hand und lehne deinen Körper in den Arm, um die Kurzhantel über die Brust nach oben zu führen, neben den Kopf, um die Brustmuskulatur und den Deltamuskel gemeinsam zu aktivieren."
+  },
+  {
+    "id": "1551",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Push-Up",
+    "en_desc": "The push-up is a fundamental bodyweight exercise that targets the chest, arms, and shoulders while engaging the core for stability. It requires no equipment and is excellent for building upper body strength.\nInstructions:\n\nStart in a plank position with hands placed slightly wider than shoulder-width, feet together, and body in a straight line from head to heels.\nEngage your core and lower your body by bending your elbows, keeping them close to your body or flared slightly outward.\nLower until your chest nearly touches the ground while maintaining a neutral spine.\nPush through your palms to return to the starting position, fully extending your arms.",
+    "de_name": "Liegestütz",
+    "de_desc": "Der Liegestütz ist eine grundlegende Körpergewichtsübung, die Brust, Arme und Schultern beansprucht und gleichzeitig den Rumpf zur Stabilisierung aktiviert. Sie erfordert keine Ausrüstung und eignet sich hervorragend zum Aufbau der Oberkörperkraft.\nAnleitung:\n\nBeginne in einer Liegestützposition mit den Händen etwas weiter als schulterbreit, die Füße zusammen und der Körper in einer geraden Linie von Kopf bis Fersen.\nSpanne deinen Rumpf an und senke deinen Körper, indem du die Ellbogen beugst und sie nah am Körper hältst oder leicht nach außen abspreizt.\nSenke dich ab, bis deine Brust fast den Boden berührt, während du eine neutrale Wirbelsäule beibehältst.\nDrücke dich über die Handflächen in die Ausgangsposition zurück und strecke die Arme vollständig durch."
+  },
+  {
+    "id": "1554",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Clap Push-UP",
+    "en_desc": "The clap push-up is an explosive upper body movement that builds power and fast-twitch muscle strength. It adds a plyometric challenge to the traditional push-up by requiring the hands to leave the ground mid-rep.\n\nStart in a strong push-up position with your hands slightly wider than shoulder-width and core engaged\nLower your body explosively and push off the ground with enough force to lift your hands.\nQuickly clap your hands together at chest level before returning them to the floor.\nLand with soft elbows to absorb the impact and immediately move into the next rep",
+    "de_name": "Liegestütz mit Klatschen",
+    "de_desc": "Der Liegestütz mit Klatschen ist eine explosive Oberkörperbewegung, die Schnellkraft und die Stärke der schnellzuckenden Muskelfasern aufbaut. Er fügt dem klassischen Liegestütz eine plyometrische Komponente hinzu, da die Hände während der Wiederholung den Boden verlassen müssen.\n\nBeginne in einer stabilen Liegestützposition mit den Händen etwas weiter als schulterbreit und angespanntem Rumpf\nSenke deinen Körper explosiv ab und drücke dich so kraftvoll vom Boden ab, dass deine Hände abheben.\nKlatsche schnell auf Brusthöhe in die Hände, bevor du sie wieder auf den Boden setzt.\nLande mit leicht gebeugten Ellbogen, um den Aufprall abzufedern, und gehe sofort in die nächste Wiederholung über"
+  },
+  {
+    "id": "1581",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Trap press",
+    "en_desc": "Laying flat with arm pointing straight upwards, elbow fully extended, use only your shoulder to raise the weight as high as comfortable and back to rest.",
+    "de_name": "Trapez-Press",
+    "de_desc": "Lege dich flach hin, der Arm zeigt gerade nach oben und der Ellbogen ist vollständig gestreckt. Hebe das Gewicht nur mit der Schulter so weit wie angenehm möglich an und senke es wieder ab."
+  },
+  {
+    "id": "1656",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Chest Press - Decline",
+    "en_desc": "Single arm chest press done with the cable machine. Use the other arm to brace bodyweight to focus on strength of the press, rather than balancing of the body. Start with the hand as close to the chest as possible, and then press against the cable at a slight decline and aiming towards the center of your chest.",
+    "de_name": "Brustdrücken am Kabelzug - negativ geneigt",
+    "de_desc": "Einarmiges Brustdrücken am Kabelzug. Nutze den anderen Arm, um das Körpergewicht abzustützen, damit du dich auf die Kraft des Drückens konzentrieren kannst und nicht auf das Ausbalancieren des Körpers. Beginne mit der Hand so nah wie möglich an der Brust und drücke dann gegen den Kabelzug in einer leicht abfallenden Linie und in Richtung der Mitte deiner Brust."
+  },
+  {
+    "id": "1660",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Chest Press - Incline",
+    "en_desc": "Single arm chest press done with the cable machine. Use the other arm to brace bodyweight to focus on strength of the press, rather than balancing of the body. Start with the hand as close to the chest as possible, and then press against the cable at a slight incline and aiming towards the center of your chest.",
+    "de_name": "Brustdrücken am Kabelzug auf der Schrägbank",
+    "de_desc": "Einarmiges Brustdrücken am Kabelzug. Nutze den anderen Arm, um den Körper abzustützen, damit du dich auf die Kraft beim Drücken konzentrieren kannst und nicht auf das Ausbalancieren des Körpers. Beginne mit der Hand so nah wie möglich an der Brust und drücke dann gegen das Kabel in einem leichten Schrägwinkel, wobei du zur Mitte deiner Brust hin zielst."
+  },
+  {
+    "id": "1689",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Cable Fly Middle Chest",
+    "en_desc": "Execution\n\n\nStart position:&nbsp;Arms extended out to your sides (a big “T” shape), feeling a stretch in your chest.\n\n\nMovement:&nbsp;Bring your hands together in front of your chest in a&nbsp;wide hugging motion.\n\nFocus on squeezing your chest at the center.\nDo&nbsp;not lock your elbows&nbsp;or turn it into a press.\n\n\n\nReturn:&nbsp;Slowly open your arms back to the start, maintaining tension on the chest.",
+    "de_name": "Kabelzug-Fly für die mittlere Brust",
+    "de_desc": "Ausführung\n\n\nStartposition: Die Arme sind seitlich ausgestreckt (eine große „T\"-Form), sodass du eine Dehnung in der Brust spürst.\n\n\nBewegung: Führe deine Hände in einer weiten umarmenden Bewegung vor der Brust zusammen.\n\nKonzentriere dich darauf, die Brustmuskulatur in der Mitte zusammenzudrücken.\nStrecke die Ellenbogen nicht durch und mache daraus kein Drücken.\n\n\n\nRückführung: Öffne die Arme langsam wieder zurück in die Startposition und halte dabei die Spannung in der Brust."
+  },
+  {
+    "id": "1690",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Cable Fly Upper Chest",
+    "en_desc": "Execution\n\n\nStart position:\n\nArms down and slightly behind your body, elbows slightly bent.\nFeel a light stretch across your chest.\n\n\n\nMovement:\n\nBring your hands&nbsp;upward and together&nbsp;in front of your upper chest — roughly at&nbsp;chin to collarbone level.\nUse a smooth, controlled motion (avoid jerking).\nSqueeze&nbsp;your chest at the top for 1–2 seconds.\n\n\n\nReturn:\n\nSlowly let your arms move back down and out to the sides, keeping control and tension.",
+    "de_name": "Kabelzug-Fly für die obere Brust",
+    "de_desc": "Ausführung\n\n\nStartposition:\n\nDie Arme sind nach unten und leicht hinter dem Körper, die Ellenbogen leicht gebeugt.\nSpüre eine leichte Dehnung in der Brust.\n\n\n\nBewegung:\n\nFühre deine Hände nach oben und zusammen vor deiner oberen Brust — etwa auf Kinn- bis Schlüsselbeinhöhe.\nNutze eine flüssige, kontrollierte Bewegung (vermeide Ruckeln).\nDrücke deine Brustmuskulatur oben für 1–2 Sekunden zusammen.\n\n\n\nRückführung:\n\nLass die Arme langsam wieder nach unten und zu den Seiten zurückgehen, kontrolliert und unter Spannung."
+  },
+  {
+    "id": "1691",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Cable Fly Lower Chest",
+    "en_desc": "Execution\n\n\nStart position:\n\nArms extended out to your sides in a “Y” shape.\nFeel a stretch in your chest (slight bend in elbows — don’t lock them).\n\n\n\nMovement:\n\nBring your hands&nbsp;downward and together&nbsp;in front of your&nbsp;lower chest or upper abs, in a smooth arc motion.\nSqueeze your chest&nbsp;hard at the bottom for 1–2 seconds.\n\n\n\nReturn:\n\nSlowly raise your arms back up along the same path until you feel a good stretch in your chest.\nMaintain control — don’t let the weights pull you back too quickly.",
+    "de_name": "Kabelzug-Fly für die untere Brust",
+    "de_desc": "Ausführung\n\n\nStartposition:\n\nDie Arme sind seitlich in einer „Y\"-Form ausgestreckt.\nSpüre eine Dehnung in der Brust (leichte Beugung in den Ellenbogen — strecke sie nicht durch).\n\n\n\nBewegung:\n\nFühre deine Hände nach unten und zusammen vor deiner unteren Brust oder oberen Bauchmuskulatur, in einer flüssigen Bogenbewegung.\nDrücke deine Brustmuskulatur unten für 1–2 Sekunden kräftig zusammen.\n\n\n\nRückführung:\n\nHebe deine Arme langsam auf demselben Weg wieder nach oben, bis du eine gute Dehnung in der Brust spürst.\nBleibe kontrolliert — lass dich nicht zu schnell von den Gewichten zurückziehen."
+  },
+  {
+    "id": "1693",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Static Hold",
+    "en_desc": "Execution\n\n\nHold Position:\n\nLower the dumbbells&nbsp;a few inches above your chest&nbsp;— about the&nbsp;midpoint&nbsp;of a normal incline press.\nThis is where your upper chest is under maximum tension.\n\n\n\nStatic Hold:\n\nHold the position for&nbsp;20–45 seconds&nbsp;while keeping the chest tight.\nBreathe slowly but stay tense —&nbsp;do not relax your chest or shoulders.\n\n\n\nEnd the set:\n\nAfter the hold, carefully bring the dumbbells down and rest.",
+    "de_name": "Statisches Halten auf der Schrägbank",
+    "de_desc": "Ausführung\n\n\nHalteposition:\n\nSenke die Kurzhanteln bis wenige Zentimeter über deine Brust — etwa auf den Mittelpunkt eines normalen Schrägbankdrückens.\nHier steht deine obere Brust unter maximaler Spannung.\n\n\n\nStatisches Halten:\n\nHalte die Position für 20–45 Sekunden und halte dabei die Brust angespannt.\nAtme langsam, bleibe aber unter Spannung — entspanne weder deine Brust noch deine Schultern.\n\n\n\nSatz beenden:\n\nFühre die Kurzhanteln nach dem Halten vorsichtig nach unten und ruhe dich aus."
+  },
+  {
+    "id": "1694",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Flat Machine Press",
+    "en_desc": "Execution\n\n\nStart position:\n\nElbows bent at roughly 90°, hands just outside your chest.\nKeep wrists straight and aligned with your forearms.\n\n\n\nPressing phase (concentric):\n\nPush the handles forward until your arms are&nbsp;almost fully extended&nbsp;— don’t lock out.\nFocus on&nbsp;squeezing your chest&nbsp;at the end of the movement.\n\n\n\nReturning phase (eccentric):\n\nSlowly bring the handles back toward your chest, feeling the&nbsp;stretch in your pecs.\nMaintain tension — don’t let the weight stack touch down between reps.",
+    "de_name": "Brustdrücken an der Maschine (flach)",
+    "de_desc": "Ausführung\n\n\nStartposition:\n\nDie Ellenbogen sind etwa 90° gebeugt, die Hände knapp außerhalb deiner Brust.\nHalte die Handgelenke gerade und in einer Linie mit deinen Unterarmen.\n\n\n\nDrückphase (konzentrisch):\n\nDrücke die Griffe nach vorne, bis deine Arme fast vollständig gestreckt sind — strecke sie nicht ganz durch.\nKonzentriere dich darauf, deine Brustmuskulatur am Ende der Bewegung zusammenzudrücken.\n\n\n\nRückführphase (exzentrisch):\n\nFühre die Griffe langsam wieder zur Brust zurück und spüre dabei die Dehnung in deiner Brustmuskulatur.\nHalte die Spannung — lass den Gewichtsstapel zwischen den Wiederholungen nicht aufsetzen."
+  },
+  {
+    "id": "1716",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Shoulder Press Up",
+    "en_desc": "Place your hands on the bench in a press up position\nPush your chest away from the bench to separate your shoulder blades\nKeeping your elbows straight, lower your chest towards the bench so your shoulder blades move closer together\nPush your chest away from the bench again",
+    "de_name": "Schulterdrücken auf der Bank (Scapular Push-up)",
+    "de_desc": "Lege deine Hände auf der Bank in einer Liegestützposition ab.\nDrücke deine Brust von der Bank weg, um die Schulterblätter auseinanderzuführen.\nHalte die Ellbogen gestreckt und senke deine Brust Richtung Bank, sodass sich die Schulterblätter wieder annähern.\nDrücke deine Brust erneut von der Bank weg."
+  },
+  {
+    "id": "1831",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hammerstrength Decline Chest Press",
+    "en_desc": "Sit upright in a hammerstrength decline chest press machine while squeezing your shoulder blades together and placing your heels firmly on the ground underneath your knees.\nThe back pad should be contact with your head, shoulders, and butt at all times.\nGrab ahold of the handles with an overhand grip just outside shoulder-width apart just below your chest.\nKeeping your core braced by breathing into your stomach and flexing the abdominal muscles, push through your palms to extend your elbows while keeping them at a 45 degree angle from your torso.\nOnce your arms are fully extended, return to the starting position.",
+    "de_name": "Hammer-Strength-Bankdrücken negativ (Decline)",
+    "de_desc": "Setze dich aufrecht in eine Hammer-Strength-Maschine für negatives Bankdrücken, ziehe dabei die Schulterblätter zusammen und stelle die Fersen fest auf den Boden unter deinen Knien.\nDas Rückenpolster sollte stets Kontakt zu Kopf, Schultern und Gesäß haben.\nGreife die Griffe im Obergriff, etwas mehr als schulterbreit, knapp unterhalb deiner Brust.\nHalte deinen Rumpf angespannt, indem du in den Bauch atmest und die Bauchmuskulatur anspannst, und drücke über die Handflächen, um die Ellenbogen zu strecken, während du sie in einem 45-Grad-Winkel zum Oberkörper hältst.\nSobald deine Arme vollständig gestreckt sind, kehre in die Ausgangsposition zurück."
+  },
+  {
+    "id": "185",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "barbell",
+    "setup": [
+      "decline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Decline Bench Press Barbell",
+    "en_desc": "Lay down on a decline bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.",
+    "de_name": "Negativ Bankdrücken",
+    "de_desc": "Lege dich auf die Negativbank hin, die Oberschenkel und der Rücken legen fest auf der drauf. Greife die Stange breit und lasse sie langsam und kontrolliert runter, dabei sollte die Stange kurz auf Brustwarzenhöhe den Körper berühren. Dann das Gewicht wieder hochdrücken bis die Arme durchgestreckt sind."
+  },
+  {
+    "id": "186",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "decline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Decline Bench Press Dumbbell",
+    "en_desc": "Take two dumbbells and sit on a decline bench, the feet are firmly on the floor, the head is resting the bench. Hold the weights next to the chest, at the height of your nipples and press them up till the arms are stretched. Let the weight slowly and controlled down.",
+    "de_name": "Negativ Bankdrücken KH",
+    "de_desc": "Nehmen Sie zwei Hanteln und setzen Sie sich auf eine Negativ Bank, die Füße stehen fest auf dem Boden, der Kopf ruht auf der Bank. Halten Sie die Gewichte neben die Brust auf Höhe Ihrer Brustwarzen und drücken Sie sie nach oben, bis die Arme gestreckt sind. Lassen Sie das Gewicht langsam und kontrolliert runter."
+  },
+  {
+    "id": "1902",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Weighted push-ups",
+    "en_desc": "Setup: Begin in a standard plank position with a weight plate balanced securely on your upper back.\nAlignment: Maintain a straight line from your head to your heels, engaging your core to prevent your back from sagging.\nExecution: Lower your body until your chest nearly touches the floor, keeping your elbows at a&nbsp;forty-five degrees.\nAscent: Press through your palms to return to the starting position, fully extending your arms.",
+    "de_name": "Liegestütze mit Zusatzgewicht",
+    "de_desc": "Aufbau: Beginne in einer normalen Plank-Position mit einer Gewichtsscheibe, die sicher auf deinem oberen Rücken balanciert.\nAusrichtung: Halte eine gerade Linie vom Kopf bis zu den Fersen und spanne deinen Rumpf an, damit dein Rücken nicht durchhängt.\nAusführung: Senke deinen Körper, bis deine Brust den Boden fast berührt, und halte die Ellbogen in einem 45-Grad-Winkel.\nAufwärtsbewegung: Drücke dich über die Handflächen zurück in die Ausgangsposition und strecke die Arme vollständig durch."
+  },
+  {
+    "id": "1922",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower",
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Seated Cable chest fly",
+    "en_desc": "Place a bench between two cable pulleys and adjust the pulleys so they are at chest/shoulder height when you are seated.\nGrab the handles with a neutral grip and lean against the upright backrest.\nBring your arms together in front of your chest in a controlled motion, focusing on squeezing your chest muscles. Keep your elbows slightly bent throughout the movement.\nPause briefly at the top position.\nSlowly lower your arms back to the starting position while maintaining control of the movement.\nRepeat for reps.",
+    "de_name": "Butterfly am Kabelzug",
+    "de_desc": "Die Übung wird auch als \"Cable Fly\", \"Cable Crossover\" oder \"Butterfly am Kabelzug\" bezeichnet"
+  },
+  {
+    "id": "1964",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Wide Push-Up",
+    "en_desc": "​A push-up variation with a wider hand placement to increase the emphasis on the outer chest muscles and shoulders.\n\n​Setup: Place hands wider than shoulder-width apart on the floor.\nLower: Descend until your chest nearly touches the floor, keeping your core tight.\n​Push: Drive through your palms to return to the start position.\n​Form: Don't let your lower back sag; keep a straight line from head to heels.",
+    "de_name": "Breiter Liegestütz",
+    "de_desc": "Eine Variante des Liegestützes mit weiterer Handposition, um die äußere Brustmuskulatur und die Schultern stärker zu beanspruchen.\n\nAufbau: Setze die Hände weiter als schulterbreit auf dem Boden auf.\nAbsenken: Senke dich ab, bis deine Brust den Boden fast berührt, und halte dabei deinen Rumpf angespannt.\nDrücken: Drücke dich über die Handflächen wieder in die Ausgangsposition.\nHaltung: Lass dein unteres Rücken nicht durchhängen; halte eine gerade Linie von Kopf bis Fersen."
+  },
+  {
+    "id": "238",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Fly With Dumbbells",
+    "en_desc": "Take two dumbbells and lay on a bench, make sure the feet are firmly on the ground and your back is not arched, but has good contact with the bench. The arms are stretched in front of you, about shoulder wide. Bend now the arms a bit and let them down with a half-circle movement to the side. Without changing the angle of the elbow bring them in a fluid movement back up.",
+    "de_name": "Fliegende KH Flachbank",
+    "de_desc": "Greife zwei Kurzhanteln und lege dich auf eine Bank und strecke die Arme schulterbreit vollständig aus. Füße, Rücken und Kopf liegen fest auf Boden/Bank und geben Halt. Beuge nun leicht die Arme am Ellenbogengelenk und lasse sie mit einer Halbkreisbewegung seitlich runter. Ohne diesen Winkel zu verändern bringe sie wieder nach oben."
+  },
+  {
+    "id": "239",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "decline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Decline Dumbbell Fly",
+    "en_desc": "The exercise is the same as with a regular bench:\nTake two dumbbells and lay on a bench, make sure the feet are firmly on the ground and your back is not arched, but has good contact with the bench. The arms are stretched in front of you, about shoulder wide. Bend now the arms a bit and let them down with a half-circle movement to the side. Without changing the angle of the elbow bring them in a fluid movement back up.",
+    "de_name": "Negativ Fliegende Mit KH",
+    "de_desc": "Die Übung ist die gleiche wie bei einer normalen Bank:\nNehmen Sie zwei Hanteln und legen Sie sich auf eine Bank. Stellen Sie sicher, dass die Füße fest auf dem Boden stehen und Ihr Rücken nicht gewölbt ist, sondern guten Kontakt mit der Bank hat. Die Arme sind etwa schulterbreit vor dir ausgestreckt. Beugen Sie nun die Arme etwas und lassen Sie sie mit einer Halbkreisbewegung zur Seite runter. Ohne den Winkel des Ellbogens zu verändern, bringen Sie sie in einer fließenden Bewegung wieder nach oben."
+  },
+  {
+    "id": "308",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Dumbbell Fly",
+    "en_desc": "Use inclined bench. Hold dumbbells straight out to your sides, elbows slightly bent. Bring arms together above you, keeping angle of elbows fixed.",
+    "de_name": "Fliegende KH Schrägbank",
+    "de_desc": "Greife zwei Kurzhanteln und lege dich auf eine Schrägbank und strecke die Arme schulterbreit vollständig aus. Füße, Rücken und Kopf liegen fest auf Boden/Bank und geben Halt. Beuge nun leicht die Arme am Ellenbogengelenk und lasse sie mit einer Halbkreisbewegung seitlich runter. Ohne diesen Winkel zu verändern bringe sie wieder nach oben."
+  },
+  {
+    "id": "314",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Isometric Wipers",
+    "en_desc": "Assume push-up position, with hands slightly wider than&nbsp;shoulder width.\nShift body weight as far as possible to one side,&nbsp;allowing the elbow on that side to flex.\nReverse the motion, moving completely over to the other side.\nReturn to the starting position, and repeat for the desired number of repetitions.",
+    "de_name": "Isometric Wipers",
+    "de_desc": "Nehmen Sie die Liegestütze-Position ein, wobei die Hände etwas breiter als die Schulterbreite sind.\nDas Körpergewicht so weit wie möglich zur Seite verlagern, damit sich der Ellbogen auf dieser Seite beugen kann.\nKehren Sie die Bewegung um und bewegen Sie sich vollständig auf die andere Seite.\nKehren Sie in die Ausgangsposition zurück und wiederholen Sie den Vorgang für die gewünschte Anzahl von Wiederholungen."
+  },
+  {
+    "id": "445",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "barbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Pause Bench",
+    "en_desc": "Lower the bar to your chest and pause (but do not rest) there for 2 seconds. Press back up. use the same weight you would on bench press, but perform only single reps. Total the number of reps you did in one set of bench press (if you did 3 sets of 8 do 8 sinlge pause bench reps.",
+    "de_name": "Pause Bench",
+    "de_desc": "Senken Sie den Riegel auf Ihre Brust und halten Sie dort 2 Sekunden lang inne (ruhen Sie sich jedoch nicht aus). Drücken Sie wieder hoch. Verwenden Sie das gleiche Gewicht wie beim Bankdrücken, aber führen Sie nur einzelne Wiederholungen durch. Insgesamt die Anzahl der Wiederholungen, die Sie in einem Satz Bankdrücken gemacht haben (wenn Sie 3 Sätze mit 8 Wiederholungen gemacht haben, machen Sie 8 Einzelpausen-Bankwiederholungen."
+  },
+  {
+    "id": "537",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Bench Press - Dumbbell",
+    "en_desc": "This is a variation of the flat bench press designed to emphasize the clavicular head of the pectoralis major (the upper portion). By tilting the torso, the angle of the push changes, shifting more tension to the upper chest and shoulders, which helps achieve a more aesthetic, balanced, and three-dimensional development of the torso.\n\n\nBench Adjustment and Preparation: Set the bench to an incline of between 30 and 45 degrees (an incline greater than 45° will place too much strain on the shoulders and reduce the stimulus to the chest). Sit down with a dumbbell on each thigh.\n\n\nStarting position: Lean back, resting your back against the bench, while using your knees one after the other to push the dumbbells upward to shoulder height.\n\n\nAnatomical Stabilization: Plant your feet firmly on the floor. Retract your scapulas (bring your shoulder blades together and press them into the bench) to protect your shoulders and stabilize the load.\n\n\nEccentric Phase (Lowering): Lower the dumbbells slowly and in a controlled manner toward the upper part of your chest. Your elbows should not splay out to the sides (90°); maintain a safe angle of about 45 to 60 degrees relative to your torso.\n\n\nConcentric Phase (Lift): Push the dumbbells vertically upward as you exhale. Follow a slightly converging path (without letting them touch at the top). Stop the movement just before locking out your elbows to maintain muscle tension in the upper pectoral.",
+    "de_name": "Schrägbankdrücken KH",
+    "de_desc": "Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt, der Kopf liegt auf der Bank. Nehme die Hanteln in die Hand und drücke sie nach oben. Bringe die Hanteln nach unten, bis sie neben der Brust sind. Drücke das Gewicht wieder nach oben."
+  },
+  {
+    "id": "538",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "barbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Bench Press - Barbell",
+    "en_desc": "To do slowly, tempo is 4010",
+    "de_name": "Schrägbankdrücken LH",
+    "de_desc": "Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt der Kopf liegt auf der Bank. Nehme die Hantel etwas mehr als Schulterbreit aus der Halterung raus und drücke sie nach oben. Bringe die Hantel nach unten, bis sie die Brust kurz berührt. Drücke das Gewicht wieder nach oben."
+  },
+  {
+    "id": "583",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Side to Side Push Ups",
+    "en_desc": "-start in push up position\n-lean the body weight to the right side, and complete a push up with the chest over the right hand\n-come back to the centered position\n-on rep 2, lean to the left side",
+    "de_name": "Liegestütze seitlich",
+    "de_desc": "-Beginne in der Liegestützposition\n-Verlagere das Körpergewicht auf die rechte Seite und führe einen Liegestütz aus, bei dem die Brust über der rechten Hand ist\n-Kehre in die mittige Position zurück\n-Verlagere bei Wiederholung 2 das Gewicht auf die linke Seite"
+  },
+  {
+    "id": "73",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "barbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Bench Press",
+    "en_desc": "Lay down on a bench, the bar should be directly above your eyes, the knees are somewhat angled and the feet are firmly on the floor. Concentrate, breath deeply and grab the bar more than shoulder wide. Bring it slowly down till it briefly touches your chest at the height of your nipples. Push the bar up.\nIf you train with a high weight it is advisable to have a spotter that can help you up if you can't lift the weight on your own.\nWith the width of the grip you can also control which part of the chest is trained more:\n\nwide grip: outer chest muscles\nnarrow grip: inner chest muscles and triceps",
+    "de_name": "Bankdrücken LH",
+    "de_desc": "Lege dich auf die Bank, die Stange direkt über die Augen, die Knie etwas angewinkelt und die Füße fest auf dem Boden. Greife die Stange breit und lasse sie langsam und kontrolliert runter, dabei sollte die Stange kurz auf Brustwarzenhöhe den Körper berühren. Dann das Gewicht wieder hochdrücken bis die Arme durchgestreckt sind.\nBei hohem Gewicht, empfielt sich natürlich einen Spotter zu haben, der einen hilft falls man die Stange nicht alleine hochdrücken kann.\nMit der Breite des Griffs kann außerdem kontrolliert werden, welcher Bereich der Brust stärker belastet wird:\n\nbreiter Griff: äußere Brustmuskeln\nenger Griff: innere Brustmuskeln und Trizeps"
+  },
+  {
+    "id": "75",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Bench Press",
+    "en_desc": "Setup and Starting Position: Sit at the end of a flat bench with a dumbbell resting vertically against each thigh. Carefully lean back while driving the dumbbells toward your chest with your knees.\n\n\nThe “Leg Drive” and Posture: Plant your feet firmly on the floor. Retract your shoulder blades (press them together against the bench) and maintain a slight natural lumbar curve.\n\n\nStarting Position: Push the dumbbells toward the ceiling. Your wrists should be aligned with your elbows. Rotate the dumbbells slightly inward (about 45 degrees) so that your elbows do not splay out too far to the sides, thereby protecting your shoulders.\n\n\nEccentric Phase (Lowering): Lower the dumbbells in a controlled manner toward the sides of your chest. Your elbows should lower at an angle of about 45–60 degrees relative to your body. Feel the stretch in the lower part of your chest.\n\n\nConcentric Phase (Lift): Push the weight upward in a slight arc (toward the center), without letting the dumbbells collide at the top or fully locking out your elbows to maintain muscle tension. Exhale as you lift.\n\n\nTranslated with DeepL.com (free version)",
+    "de_name": "Bankdrücken KH",
+    "de_desc": "Der Bewegungsablauf ist ähnlich zur Übung mit einer Langhantel.\nNehme die Gewichte in die Hände und lege dich auf die Bank. Halte die Hanteln neben der Brust auf Brustwarzenhöhe und drücke sie nun nach oben, bis die Arme ausgestreckt sind. Lasse die Gewichte nun langsam und kontrolliert runter."
+  },
+  {
+    "id": "925",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "smith_machine",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Smith Machine Slight Incline Press",
+    "en_desc": "* Execution * Start position:\n\nUnrack the bar and hold it above your upper chest with arms fully extended.\nKeep your shoulder blades&nbsp;retracted and pressed into the bench.\nLowering phase (eccentric):\nSlowly bring the bar down to just below your collarbone or upper chest.\nMaintain control — don’t bounce the bar.\nPressing phase (concentric):\nPush the bar upward in a straight line until your arms are fully extended.\nFocus on&nbsp;squeezing your upper chest&nbsp;at the top.\nLock and repeat:\nComplete your reps, then safely rack the bar back into the hooks.",
+    "de_name": "Schrägbankdrücken an der Smith-Maschine",
+    "de_desc": "* Ausführung * Startposition:\n\nHebe die Stange aus der Halterung und halte sie über deiner oberen Brust mit vollständig gestreckten Armen.\nHalte deine Schulterblätter zurückgezogen und in die Bank gedrückt.\nAbsenkphase (exzentrisch):\nFühre die Stange langsam bis knapp unter dein Schlüsselbein oder deine obere Brust.\nBleibe kontrolliert — lass die Stange nicht abprallen.\nDrückphase (konzentrisch):\nDrücke die Stange in einer geraden Linie nach oben, bis deine Arme vollständig gestreckt sind.\nKonzentriere dich darauf, deine obere Brust oben zusammenzudrücken.\nEinrasten und wiederholen:\nVollende deine Wiederholungen und setze die Stange dann sicher in die Haken zurück."
+  },
+  {
+    "id": "985",
+    "pattern": "horizontal_push",
+    "primary_group": "chest",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Push-up rotations",
+    "en_desc": "Starting position:\nGet into the starting push-up position, with your hands and toes touching the ground and back, arms and legs straight. To get to this position, you can lie down on your stomach, place your hands facing down next to your head, and lifting your arms up until they are straight.\nSteps:\n\nPerform a standard push-up:\n\n1.a Bend arms until chest almost touches the ground, making sure the back is straight.1.b Use your arms to lift yourself back up to starting position.\n\nRotate your body to the side so that the back is straight, the bottom hand supporting the body is fully extended, and only the bottom hand and foot touch the floor.\nRepeat, changing sides at step 2 each time.",
+    "de_name": "Liegestütz-Drehungen",
+    "de_desc": "Ausgangsposition:\nBegeben Sie sich in die Ausgangsposition für Liegestütze, wobei Hände und Zehen den Boden berühren und Arme und Beine gerade sind. Um diese Position zu erreichen, können Sie sich auf den Bauch legen, die Hände nach unten neben den Kopf legen und die Arme nach oben heben, bis sie gerade sind.\nDie Schritte:\n\nFühren Sie einen normalen Liegestütz durch:\n\n1.a Beugen Sie die Arme, bis die Brust fast den Boden berührt, und achten Sie darauf, dass der Rücken gerade ist.1.b Heben Sie sich mit den Armen wieder in die Ausgangsposition.\n\nDrehen Sie Ihren Körper zur Seite, so dass der Rücken gerade ist, die untere Hand, die den Körper stützt, vollständig gestreckt ist und nur die untere Hand und der Fuß den Boden berühren.\nWiederholen Sie den Vorgang, wobei Sie bei Schritt 2 jedes Mal die Seite wechseln."
+  }
+]

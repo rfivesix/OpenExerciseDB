@@ -1,0 +1,13 @@
+batch_id: 114
+movement_pattern: shoulder_abduction
+primary_muscle: deltoid
+items:
+- id: '1606'
+  name: Arm Raises (T/Y/I)
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: shoulder_abduction
+  laterality: bilateral
+  needs:
+  - it
+  - ja

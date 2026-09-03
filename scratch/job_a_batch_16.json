@@ -1,0 +1,395 @@
+[
+  {
+    "id": "1091",
+    "pattern": "anti_rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Plank Shoulder Taps",
+    "en_desc": "In the correct plank position, place your feet slightly wider than shoulder-width apart. alternately lift and touch the opposite shoulder with one hand.",
+    "de_name": "Plank Shoulder Taps",
+    "de_desc": "Begib dich in die korrekte Plank-Position und stelle deine Füße etwas weiter als schulterbreit auseinander. Hebe abwechselnd eine Hand und berühre damit die gegenüberliegende Schulter."
+  },
+  {
+    "id": "1194",
+    "pattern": "anti_rotation",
+    "primary_group": "abs",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Pallof Press",
+    "en_desc": "The Pallof press is an anti-rotation exercise that trains the larger and smaller muscles around the spine to resist rotation.\n\nStand parallel to the cable machine or to the anchor point to the\nresistance band and clasp with the handle or band with both hands.\nMake sure your torso is front on and bring your hands to the center of your chest and slowly press out.\nSlowly return your hands to the chest and repeat.",
+    "de_name": "Pallof Press",
+    "de_desc": "Der Pallof Press ist eine Anti-Rotations-Übung, die die größeren und kleineren Muskeln rund um die Wirbelsäule trainiert, der Rotation zu widerstehen.\n\nStelle dich parallel zum Kabelzug oder zum Befestigungspunkt des\nWiderstandsbands und greife mit beiden Händen den Griff oder das Band.\nAchte darauf, dass dein Oberkörper nach vorne zeigt, führe die Hände zur Mitte deiner Brust und drücke sie langsam nach vorne aus.\nFühre die Hände langsam zur Brust zurück und wiederhole die Bewegung."
+  },
+  {
+    "id": "1687",
+    "pattern": "anti_rotation",
+    "primary_group": "abs",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Bear crawl pull through",
+    "en_desc": "Place a dumbbell at around hip level and assume a bear crawl position. Push the knees off the floor and hold.\nWith the opposite hand reach for the dumbbell and pull it to the other side. Place your hand back on the floor and repeat with your other hand.",
+    "de_name": "Bear Crawl Pull Through",
+    "de_desc": "Lege eine Kurzhantel ungefähr auf Hüfthöhe ab und nimm eine Bear-Crawl-Position ein. Drücke die Knie vom Boden weg und halte die Position.\nGreife mit der gegenüberliegenden Hand nach der Kurzhantel und ziehe sie auf die andere Seite. Setze deine Hand wieder auf dem Boden ab und wiederhole die Bewegung mit der anderen Hand."
+  },
+  {
+    "id": "1766",
+    "pattern": "anti_rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Plank Reach",
+    "en_desc": "Position your body in plank position, keeping your eyes on the ground. Raise one arm in front of you and return it. Repeat with the other arm. Raise and return slowly while keeping your body as still as possible.",
+    "de_name": "Unterarmstütz mit Armheben",
+    "de_desc": "Bringe deinen Körper in die Planken-Position. Halte den Blick auf den Boden gerichtet und hebe abwechselnd deine Arme langsam nach vorne und zurück. Versuche dabei deinen Körper so ruhig wie möglich zu halten."
+  },
+  {
+    "id": "1205",
+    "pattern": "wrist_flexion",
+    "primary_group": "forearms",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Wrist Curl",
+    "en_desc": "Sitting on a bench, grab the dumbbell with your palms facing up\nand your hands shoulder-width apart. Rest your forearms on your thighs\nand allow your wrists to hang over your knees.\nPerform the movement by\ncurling your palms and wrists towards your face.\n(optional/variable) Pause at the top.\nSlowly return to the starting position.",
+    "de_name": "Handgelenk-Curl mit Kurzhanteln",
+    "de_desc": "Setze dich auf eine Bank und greife die Kurzhantel mit den Handflächen nach oben\nund schulterbreitem Handabstand. Lege deine Unterarme auf den Oberschenkeln ab\nund lass die Handgelenke über die Knie hinaushängen.\nFühre die Bewegung aus, indem du\nHandflächen und Handgelenke in Richtung deines Gesichts einrollst.\n(optional/variabel) Halte kurz oben inne.\nKehre langsam in die Ausgangsposition zurück."
+  },
+  {
+    "id": "1771",
+    "pattern": "wrist_flexion",
+    "primary_group": "forearms",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Wrist Curl",
+    "en_desc": "Extend your arm down, then slightly lift your forearm\nExtend your wrist in a supinated form (palm up)\nAdjust cable height so that the cable handle is in your supinated hand\nPerform the movement by\ncurling your palms and wrists upwards\n(optional/variable) Pause at the top\nSlowly return to the starting position",
+    "de_name": "Handgelenk-Curl am Kabelzug",
+    "de_desc": "Strecke deinen Arm nach unten und hebe dann deinen Unterarm leicht an\nStrecke dein Handgelenk in supinierter Haltung (Handfläche nach oben)\nStelle die Höhe des Kabelzugs so ein, dass der Griff in deiner supinierten Hand liegt\nFühre die Bewegung aus, indem du\ndeine Handflächen und Handgelenke nach oben rollst\n(optional/variabel) Halte oben kurz inne\nKehre langsam in die Ausgangsposition zurück"
+  },
+  {
+    "id": "51",
+    "pattern": "wrist_flexion",
+    "primary_group": "forearms",
+    "primary_equipment": "barbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Barbell Wrist Curl",
+    "en_desc": "Sitting on a bench, grab a barbell with your palms facing up and your hands shoulder-width apart. Rest your forearms on your thighs and allow your wrists to hang over your knees. Perform the movement by curling your palms and wrists towards your face.\nPause for a moment in the top position, then slowly return the barbell to the starting position.",
+    "de_name": "Handgelenkstreckung",
+    "de_desc": "Im Sitzen Unterarme auf die Oberschenkel, Handrücken nach oben (Obergriff) und dann Kurzhanteln nach oben bewegen."
+  },
+  {
+    "id": "623",
+    "pattern": "wrist_flexion",
+    "primary_group": "forearms",
+    "primary_equipment": "other",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Standing Rope Forearm",
+    "en_desc": "Grab a wrist roller tool with both hands while standing with your feet about shoulder width apart. If your gym does not have a wrist roller tool, you can easily put one together. All you need is a 5 or 10 pound weight plate, a strong thin rope about 3 feet long and a 6-8 inch stick or bar. Securely fasten the rope to the middle of the bar/stick and tie the other end of the rope to the weight plate. To begin this exercise, grab the bar/stick with both hands using an overhand grip. Extend both arms straight out in front of you, parallel to the floor. Next, roll the weight up from the floor by rapidly twisting the bar/stick with your hands and wrists. Once the weight reaches the top, slowly lower the plate back to the floor by reversing the motion of your hands and wrists. Repeat (if you can!).",
+    "de_name": "Unterarmtraining mit Rollstange im Stehen",
+    "de_desc": "Greife eine Unterarmrolle mit beiden Händen, während du mit etwa schulterbreit auseinander stehenden Füßen stehst. Falls dein Fitnessstudio keine Unterarmrolle hat, kannst du ganz leicht selbst eine bauen. Alles, was du brauchst, ist eine Gewichtsscheibe mit 5 oder 10 Pfund, ein starkes, dünnes Seil von etwa 90 cm Länge und ein 15 bis 20 cm langer Stab oder eine Stange. Befestige das Seil sicher in der Mitte der Stange bzw. des Stabs und binde das andere Ende des Seils an die Gewichtsscheibe. Um diese Übung zu beginnen, greife die Stange bzw. den Stab mit beiden Händen im Obergriff. Strecke beide Arme gerade vor dir aus, parallel zum Boden. Rolle als Nächstes das Gewicht vom Boden hoch, indem du die Stange bzw. den Stab schnell mit deinen Händen und Handgelenken drehst. Sobald das Gewicht oben angekommen ist, senke die Scheibe langsam wieder zum Boden, indem du die Bewegung deiner Hände und Handgelenke umkehrst. Wiederhole (wenn du kannst!)."
+  },
+  {
+    "id": "1210",
+    "pattern": "spinal_extension",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Skydiver with arms in T-position",
+    "en_desc": "Lie on your stomach with your legs more than shoulder-width apart and your feet up. Your arms are stretched out to the side and form a T with your upper body, your palms are on the floor. Now raise your upper body, arms and legs as high as you can while keeping your body under tension. Turn your thumbs towards the ceiling and pull your shoulder blades together. While keeping your upper body and all limbs in the air, bring your legs together and then spread them again, keeping them constantly in the air. For the remaining repetitions, only move your legs open and closed.",
+    "de_name": "Fallschirmspringer in T-Position",
+    "de_desc": "Leg dich auf deinen Bauch, deine Beine sind mehr als schulterbreit gespreizt, die Füße aufgestellt. Deine Arme sind zur Seite ausgestreckt und bilden mit deinem Oberkörper ein T, deine Handflächen liegen auf dem Boden. Hebe nun unter Körperspannung deinen Oberkörper mitsamt Armen und deine Beine so weit an, wie du kannst. Dreh dabei die Daumen Richtung Decke und zieh deine Schulterblätter zusammen. Während du den Oberkörper und alle Gliedmaßen in der Luft hältst, bring deine Beine zusammen und spreiz sie dann wieder, dabei hältst du sie stetig in der Luft. Bei den weiteren Wiederholungen bewegst du nur noch die Beine auf und zu."
+  },
+  {
+    "id": "1263",
+    "pattern": "spinal_extension",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Back bridge",
+    "en_desc": "Lie on the floor with your back resting on the floor and your legs bent, feet flat on the floor, leaving about 20 cm between your feet and your buttocks. Your hands remain flat on the floor, pressed against your ears, with your fingers pointing toward your toes. Your elbows are bent and pointing toward the ceiling. This is the starting position. Now push your hips as high as you can, raising your body off the floor, and continue pushing through your hands, extending your elbows and knees, until your back is fully arched (lumbar bridge). Your head also comes off the floor and should be level with your elbows, looking back. This is the final position. The descent should be slow and controlled. Your spine should be in a convex curve. It's not good to lift your back off the floor; it should remain straight. It should be well rounded. You'll also notice a feeling of increased oxygenation in your back. After lifting off the floor, your hips should be very high, even above the level of your head. Your arms and legs should remain straight. It seems easy, but it requires a good level of flexibility. Breathing should be deep. This posture stretches the rib cage and puts pressure on the diaphragm. If the posture is performed correctly, breathing will be perfect. Never hold your breath during the exercise.",
+    "de_name": "Rückenbrücke",
+    "de_desc": "Lege dich mit dem Rücken auf den Boden, die Beine gebeugt, die Füße flach auf dem Boden, und lasse etwa 20 cm zwischen deinen Füßen und deinem Gesäß. Deine Hände bleiben flach auf dem Boden, an deine Ohren gedrückt, wobei die Finger zu deinen Zehen zeigen. Deine Ellbogen sind gebeugt und zeigen zur Decke. Das ist die Ausgangsposition. Drücke nun deine Hüfte so hoch wie möglich, hebe deinen Körper vom Boden ab und drücke dich weiter über deine Hände hoch, indem du Ellbogen und Knie streckst, bis dein Rücken vollständig durchgewölbt ist (Lendenbrücke). Auch dein Kopf hebt sich vom Boden und sollte auf Höhe deiner Ellbogen sein, der Blick geht nach hinten. Das ist die Endposition. Das Absenken sollte langsam und kontrolliert erfolgen. Deine Wirbelsäule sollte eine konvexe Kurve bilden. Es ist nicht gut, den Rücken nur vom Boden zu heben; er sollte nicht gerade bleiben. Er sollte gut gerundet sein. Du wirst außerdem ein Gefühl verstärkter Sauerstoffversorgung in deinem Rücken bemerken. Nach dem Abheben vom Boden sollte deine Hüfte sehr hoch sein, sogar über der Höhe deines Kopfes. Deine Arme und Beine sollten gerade bleiben. Es wirkt einfach, erfordert aber ein gutes Maß an Beweglichkeit. Die Atmung sollte tief sein. Diese Haltung dehnt den Brustkorb und übt Druck auf das Zwerchfell aus. Wenn die Haltung korrekt ausgeführt wird, ist die Atmung perfekt. Halte während der Übung niemals die Luft an."
+  },
+  {
+    "id": "1348",
+    "pattern": "spinal_extension",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Lower Back Extensions",
+    "en_desc": "Engage the muscles\nLift your bottom slightly\nControlled movement\nSlow movement\nDon't use momentum\nKeep your upper body straight",
+    "de_name": "Rückenstrecker (unterer Rücken)",
+    "de_desc": "Muskulatur anspannen\nHintern ein wenig anheben\nKontrollierte Bewegung\nLangsame Bewegung\nKein Schwung holen\nOberkörper gerade halten"
+  },
+  {
+    "id": "636",
+    "pattern": "spinal_extension",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Superman",
+    "en_desc": "Lay flat on your stomach with your arms extended in front of you on the ground as your legs are lying flat. Lift both your arms and legs at the same time, as if you were flying, and contract the lower back. Make sure that you are breathing and, depending on your fitness level, hold the movement for at least two to five seconds per repetition.",
+    "de_name": "Superman",
+    "de_desc": "Legen Sie sich flach auf den Bauch und strecken Sie die Arme vor sich auf den Boden, während Ihre Beine flach liegen. Heben Sie beide Arme und Beine gleichzeitig an, als ob Sie fliegen würden, und ziehen Sie den unteren Rücken zusammen. Stellen Sie sicher, dass Sie atmen und halten Sie die Bewegung, abhängig von Ihrer Fitness, mindestens zwei bis fünf Sekunden pro Wiederholung."
+  },
+  {
+    "id": "1338",
+    "pattern": "shoulder_flexion",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Shoulder Raise (Dumbbell)",
+    "en_desc": "Engage the muscles\nDon't use momentum\nControlled movement\nSlow movement\nAlways keep the arms bent\nDon't overextend",
+    "de_name": "Schulterheben (Kurzhantel)",
+    "de_desc": "Muskulatur anspannen\nKein Schwung holen\nKontrollierte Bewegung\nLangsame Bewegung\nImmer angewinkelt lassen\nNicht überdehnen"
+  },
+  {
+    "id": "1745",
+    "pattern": "shoulder_flexion",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Cable Front Raise with a small bar",
+    "en_desc": "The Cable Front Raise with a small bar isolates your anterior deltoids (front shoulders) by providing constant tension, requiring you to stand facing away from a low pulley, grab the bar with an overhand grip, and lift it in front of you to shoulder height with slightly bent arms, avoiding swinging and keeping your core tight for controlled movement up and down. Use a light-to-moderate weight, focusing on slow, controlled reps to feel the muscle work, not momentum.\nHow to Perform the Cable Front Raise (Bar)\nSetup: Attach a small straight bar to a low cable pulley. Set the weight to a light or moderate setting.\nStarting Position: Stand with your back to the machine, holding the bar with an overhand grip (palms facing down) at hip level, arms extended but not locked. Feet shoulder-width apart, core braced, shoulders back and down.\nThe Lift: Exhale and slowly raise the bar straight up in front of you, keeping a slight bend in your elbows, until your hands reach shoulder height (or slightly below).\nThe Hold: Pause briefly at the top, squeezing your front delts.\nThe Lower: Inhale as you slowly and controllably lower the bar back to the starting position, maintaining tension.",
+    "de_name": "Frontheben am Kabelzug mit kurzer Stange",
+    "de_desc": "Das Frontheben am Kabelzug mit kurzer Stange isoliert deinen vorderen Deltamuskel (vordere Schulter) durch konstante Spannung. Dabei stehst du mit dem Rücken zu einem niedrigen Kabelzug, greifst die Stange im Obergriff und hebst sie mit leicht gebeugten Armen vor dir auf Schulterhöhe an, ohne zu schwingen, und hältst deinen Rumpf für eine kontrollierte Aufwärts- und Abwärtsbewegung angespannt. Verwende ein leichtes bis moderates Gewicht und konzentriere dich auf langsame, kontrollierte Wiederholungen, um den Muskel arbeiten zu spüren, nicht den Schwung.\nSo führst du das Frontheben am Kabelzug (Stange) aus\nAufbau: Befestige eine kurze gerade Stange an einem niedrigen Kabelzug. Stelle das Gewicht leicht bis moderat ein.\nAusgangsposition: Stelle dich mit dem Rücken zur Maschine und halte die Stange im Obergriff (Handflächen nach unten) auf Hüfthöhe, die Arme gestreckt, aber nicht durchgedrückt. Die Füße schulterbreit, der Rumpf angespannt, die Schultern nach hinten und unten.\nDas Heben: Atme aus und hebe die Stange langsam gerade vor dir nach oben, wobei du eine leichte Beugung in den Ellbogen beibehältst, bis deine Hände Schulterhöhe (oder etwas darunter) erreichen.\nDas Halten: Halte oben kurz inne und spanne deinen vorderen Deltamuskel an.\nDas Absenken: Atme ein, während du die Stange langsam und kontrolliert in die Ausgangsposition zurückführst und dabei die Spannung beibehältst."
+  },
+  {
+    "id": "254",
+    "pattern": "shoulder_flexion",
+    "primary_group": "shoulders",
+    "primary_equipment": "weight_plate",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Front Raises with Plates",
+    "en_desc": "The plate front raise is a variation of the dumbbell front raise where the lifter holds a weight plate between two hands, rather than using a dumbbell, barbell, or other weight. It can provide variety in a shoulder-focused muscle-building workout, or as part of an upper body or full-body circuit.\n\nWhile standing straight, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended and locked with a slight bend at the elbows and the plate should be down near your waist in front of you as far as you can go. Tip: The arms will remain in this position throughout the exercise. This will be your starting position.\nSlowly raise the plate as you exhale until it is a little above shoulder level. Hold the contraction for a second. As you inhale, slowly lower the plate back down to the starting position.\nRepeat for the recommended amount of repetitions.",
+    "de_name": "Frontheben Mit Scheibe",
+    "de_desc": "Das Frontheben mit Gewichtsscheibe ist eine Variante des Fronthebens mit Kurzhantel, bei der du eine Gewichtsscheibe zwischen beiden Händen hältst, statt eine Kurzhantel, Langhantel oder ein anderes Gewicht zu verwenden. Es kann für Abwechslung in einem schulterbetonten Muskelaufbautraining sorgen oder Teil eines Oberkörper- oder Ganzkörper-Zirkels sein.\n\nHalte im aufrechten Stand eine Hantelscheibe mit beiden Händen auf der 3- und 9-Uhr-Position. Deine Handflächen sollten einander zugewandt sein, deine Arme gestreckt und mit einer leichten Beugung im Ellbogen fixiert, und die Scheibe sollte so weit wie möglich unten vor dir auf Höhe der Taille gehalten werden. Tipp: Die Arme bleiben während der gesamten Übung in dieser Position. Das ist deine Ausgangsposition.\nHebe die Scheibe langsam an, während du ausatmest, bis sie etwas über Schulterhöhe ist. Halte die Kontraktion eine Sekunde lang. Während du einatmest, senke die Scheibe langsam wieder in die Ausgangsposition.\nWiederhole für die empfohlene Anzahl an Wiederholungen."
+  },
+  {
+    "id": "256",
+    "pattern": "shoulder_flexion",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Front Raises",
+    "en_desc": "To execute the exercise, the lifter stands with their feet shoulder width apart and weights or resistance handles held by their side with a pronated (overhand) grip.\nThe movement is to bring the arms up in front of the body to eye level and with only a slight bend in the elbow. This isolates the anterior deltoid muscle (front of the shoulder) and uses the anterior deltoid to lift the weight.\nWhen lifting it is important to keep the body still so the anterior deltoid is fully utilised; if the weight cannot be lifted by standing still then it is too heavy and a lower weight is needed. It is important to keep a slight bend in the elbow when lifting as keeping the elbow locked will add stress to the elbow joint and could cause injury.\nA neutral grip, similar to that used in the hammer curl, can also be used. With this variation the weight is again raised to eye level, but out to a 45 degree angle from the front of the body. This may be beneficial for those with shoulder injuries, particularly those related to the rotator cuff.",
+    "de_name": "Frontheben am Kabel",
+    "de_desc": "Stelle dich mit dem Rücken zum Kabel, halte aber genügend Abstand, dass du es durch die Beine nach oben ziehen kannst. Greife die Stange, strecke die Arme komplett aus und ziehe das Seil hoch, bis sie waagerecht sind. Bringe dann wieder das Gewicht runter."
+  },
+  {
+    "id": "1925",
+    "pattern": "scapular_elevation",
+    "primary_group": "back",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Barbell Silverback Shrug",
+    "en_desc": "Stand with your feet shoulder width apart holding the barbell with both hands in front just past shoulder width.\nBend forward at the hips with a slight bend in your knees, keeping your back straight.\nEngage your shoulder blades, as if you are trying to touch them together.\nRelease the shrug.\nDescription taken from MuscleWiki",
+    "de_name": "Langhantel-Silverback-Shrug",
+    "de_desc": "Stelle dich schulterbreit hin und halte die Langhantel mit beiden Händen vor dem Körper, etwas weiter als schulterbreit.\nBeuge dich in der Hüfte nach vorne, mit einer leichten Beugung in den Knien, und halte deinen Rücken gerade.\nSpanne deine Schulterblätter an, als würdest du versuchen, sie zusammenzuführen.\nLöse das Schulterziehen wieder.\nBeschreibung übernommen von MuscleWiki"
+  },
+  {
+    "id": "570",
+    "pattern": "scapular_elevation",
+    "primary_group": "back",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Shoulder Shrug",
+    "en_desc": "The shoulder shrug (usually called simply the shrug) is an exercise in weight training used to develop the upper trapezius muscle. The lifter stands erect, hands about shoulder width apart, and raises the shoulders as high as possible, and then lowers them, while not bending the elbows, or moving the body at all. The lifter may not have as large a range of motion as in a normal shrug done for active flexibility. It is usually considered good form if the slope of the shoulders is horizontal in the elevated position.",
+    "de_name": "Schulterzucken",
+    "de_desc": "Ausgangsposition:\nSitzen oder stehen Sie mit geradem Rücken.\nSchritte:\n\nHeben Sie die Schultern so weit wie möglich gerade nach oben und halten Sie sie 5 Sekunden lang.\nLassen Sie die Schultern wieder in eine entspannte Position sinken.\nWiederholen Sie die Übung."
+  },
+  {
+    "id": "571",
+    "pattern": "scapular_elevation",
+    "primary_group": "back",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Barbell Shrug",
+    "en_desc": "Take a barbell and stand with a straight body, the arms are hanging freely in front of you. Lift from this position the shoulders as high as you can, but don't bend the arms during the movement. On the highest point, make a short pause of 1 or 2 seconds before returning slowly to the initial position.\nWhen training with a higher weight, make sure that you still do the whole movement!",
+    "de_name": "Shrugs LH",
+    "de_desc": "Stelle dich mit geradem Oberkörper hin, die Hände hängen frei nach unten und halten die Langhantel. Hebe aus dieser Position die Schultern so weit nach oben, wie es geht, beuge aber die Arme während der Übung nicht. Am höchsten Punkt kannst du eine oder zwei Sekunden Pause machen bevor du langsam wieder runtergehst.\nBei größerem Gewicht, beachte immer, dass du immer noch die volle Bewegungsamplitude durchführen kannst."
+  },
+  {
+    "id": "572",
+    "pattern": "scapular_elevation",
+    "primary_group": "back",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Shrug",
+    "en_desc": "Stand with straight body, the hands are hanging freely on the side and hold each a dumbbell. Lift from this position the shoulders as high as you can, but don't bend the arms during the movement. On the highest point, make a short pause of 1 or 2 seconds before returning slowly to the initial position.\nWhen training with a higher weight, make sure that you still do the whole movement!",
+    "de_name": "Shrugs KH",
+    "de_desc": "Stelle dich mit geradem Oberkörper hin, die Hände hängen frei nach unten und halten je eine Kurzhantel. Hebe aus dieser Position die Schultern so weit nach oben, wie es geht, beuge aber die Arme während der Übung nicht. Am höchsten Punkt kannst du eine oder zwei Sekunden Pause machen bevor du langsam wieder runtergehst.\nBei größerem Gewicht, beachte immer, dass du immer noch die volle Bewegungsamplitude durchführen kannst."
+  },
+  {
+    "id": "289",
+    "pattern": "vertical_pull",
+    "primary_group": "back+shoulders",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "High Pull",
+    "en_desc": "Use a light barbell, perform explosive lift up starting from underneath knee cap level. Lift/raise explosively using hips, at shoulder level. Tempo: 2111",
+    "de_name": "High Pull",
+    "de_desc": "Verwende eine leichte Langhantel und führe ein explosives Hochziehen aus, beginnend unterhalb der Kniescheibe. Hebe/ziehe explosiv mithilfe der Hüfte bis auf Schulterhöhe. Tempo: 2111"
+  },
+  {
+    "id": "691",
+    "pattern": "vertical_pull",
+    "primary_group": "back+shoulders",
+    "primary_equipment": "smith_machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Smith Machine Upright Row",
+    "en_desc": "The movements are basically the same as with an SZ-bar, but you use the bar on the multi press:\nStand straight, your feet are shoulder-width apart. Hold the bar with an overhand grip on your thighs, the arms are stretched. Lift the bar close to the body till your chin. The elbows point out so that at the highest point they form a V. Make here a short pause before going slowly down and repeating the movement.",
+    "de_name": "Rudern Aufrecht MP",
+    "de_desc": "Der Bewegungsablauf ist derselbe wie bei Ausführung mit einer ß-Stange.\nStelle dich gerade hin, die Füße etwa schulterbreit. Halte die Stange mit einem Obergriff vor den Oberschenkel, die Arme ausgestreckt. Ziehe dann die Stange dicht am Körper hoch, bis etwa zum Kinn. Die Ellenbogen zeigen nach oben, so, dass in der höchsten Position die Arme ein leichtes V machen. Mache nach Möglichkeit hier eine kurze Pause und gehe dann langsam wieder runter."
+  },
+  {
+    "id": "693",
+    "pattern": "vertical_pull",
+    "primary_group": "back+shoulders",
+    "primary_equipment": "ez_bar",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "EZ-Bar Upright Row",
+    "en_desc": "Stand straight, your feet are shoulder-width apart. Hold the SZ-bar with an overhand grip on your thighs, the arms are stretched. Lift the bar close to the body till your chin. The elbows point out so that at the highest point they form a V. Make here a short pause before going slowly down and repeating the movement.",
+    "de_name": "Rudern Aufrecht ß-Stange",
+    "de_desc": "Stelle dich gerade hin, die Füße etwa schulterbreit. Halte die ß-Stange mit einem Obergriff vor den Oberschenkel, die Arme ausgestreckt. Ziehe dann die Stange dicht am Körper hoch, bis etwa zum Kinn. Die Ellenbogen zeigen nach oben, so, dass in der höchsten Position die Arme ein leichtes V machen. Mache nach Möglichkeit hier eine kurze Pause und gehe dann langsam wieder runter."
+  },
+  {
+    "id": "694",
+    "pattern": "vertical_pull",
+    "primary_group": "back+shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Upright Row w/ Dumbbells",
+    "en_desc": "Hold a dumbbell in each hand in front of your body. Keep your palms towards your body. Lift you hands straight up until your hands are under your chin, then lower them. Repeat the exercise.",
+    "de_name": "Aufrechtes Rudern mit Kurzhanteln",
+    "de_desc": "Halte in jeder Hand eine Kurzhantel vor deinem Körper. Die Handflächen zeigen zum Körper. Hebe die Hände gerade nach oben, bis sie unter deinem Kinn sind, und senke sie dann wieder. Wiederhole die Übung."
+  },
+  {
+    "id": "1028",
+    "pattern": "rotation",
+    "primary_group": "abs+back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Quadruped thoracic rotation left",
+    "en_desc": "Starting position:\nStart kneeling on all fours, knees shoulder-width apart. Place your left hand behind your head while keeping your right hand outstretched and touching the floor.\nSteps:\n\nOn inhale, move your left elbow toward your right hand, keeping your left hand behind your head.\nOn exhale, move your left elbow to point up toward the ceiling.\nRepeat.",
+    "de_name": "Brustwirbelsäulen-Rotation im Vierfüßlerstand links",
+    "de_desc": "Ausgangsposition:\nBeginne im Vierfüßlerstand, die Knie schulterbreit auseinander. Lege deine linke Hand hinter den Kopf, während du die rechte Hand ausgestreckt lässt und den Boden berührst.\nAblauf:\n\nFühre beim Einatmen deinen linken Ellbogen in Richtung deiner rechten Hand, wobei die linke Hand hinter dem Kopf bleibt.\nBewege beim Ausatmen deinen linken Ellbogen so, dass er nach oben zur Decke zeigt.\nWiederhole."
+  },
+  {
+    "id": "1029",
+    "pattern": "rotation",
+    "primary_group": "abs+back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Quadruped thoracic rotation right",
+    "en_desc": "Starting position:\nStart kneeling on all fours, knees shoulder-width apart. Place your right hand behind your head while keeping your left hand outstretched and touching the floor.\nSteps:\n\nOn inhale, move your right elbow toward your left hand, keeping your right hand behind your head.\nOn exhale, move your right elbow to point up toward the ceiling.\nRepeat.",
+    "de_name": "Brustwirbelsäulen-Rotation im Vierfüßlerstand rechts",
+    "de_desc": "Ausgangsposition:\nBeginne im Vierfüßlerstand, die Knie schulterbreit auseinander. Lege deine rechte Hand hinter den Kopf, während du die linke Hand ausgestreckt lässt und den Boden berührst.\nAblauf:\n\nFühre beim Einatmen deinen rechten Ellbogen in Richtung deiner linken Hand, wobei die rechte Hand hinter dem Kopf bleibt.\nBewege beim Ausatmen deinen rechten Ellbogen so, dass er nach oben zur Decke zeigt.\nWiederhole."
+  },
+  {
+    "id": "1822",
+    "pattern": "rotation",
+    "primary_group": "abs+back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall",
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Open Book",
+    "en_desc": "Basic exercise\n\nFocus: enhances thoracic mobility and\nspinal segmentation while opening the shoulders and chest.\n**Position:**kneeling on the floor with your right side facing a wall. Hips are square and stable, with the right knee down and the left foot forward. Lengthen your spine and align your head comfortably.\nBegin with your arms relaxed and open in front of your chest, palms\nfacing each other and hands apart.\nInhale\nto initiate the movement, allowing your left arm —the one farther from\nthe wall— to open outward and backward. Lead the twist from your thoracic\nspine, rotating your upper back progressively while keeping your pelvis\nstill.\nExhale as you complete the rotation, guiding your left hand\ntoward the wall as your gaze follows your hand.\nReturn by inhaling and\nslowly bringing your arm forward, reversing the spinal rotation segment\nby segment.\nRepeat on the opposite side.\n\nProgression\n\n**Position:**kneeling on the floor with your right side facing a wall. Left knee down and right foot forward.\nBefore the basic exercise: inhale,&nbsp;exhalewhile moving the right arm along the wall with a circle upwards and backwards,&nbsp;inhalewhile bringing back the arm.\nBasic exercise.\nRepeat on the opposite side.",
+    "de_name": "Buch aufschlagen (Open Book)",
+    "de_desc": "Grundübung\n\nFokus: verbessert die Beweglichkeit der Brustwirbelsäule und\ndie segmentale Bewegung der Wirbelsäule, während Schultern und Brustkorb geöffnet werden.\nPosition: Knie auf dem Boden, mit der rechten Seite zu einer Wand gewandt. Das Becken ist gerade und stabil, das rechte Knie unten und der linke Fuß nach vorne. Strecke deine Wirbelsäule und richte deinen Kopf bequem aus.\nBeginne mit entspannten, vor der Brust geöffneten Armen, die Handflächen einander zugewandt und die Hände auseinander.\nEinatmen,\num die Bewegung einzuleiten, und lasse deinen linken Arm – den weiter\nvon der Wand entfernten – nach außen und hinten öffnen. Leite die Drehung\naus der Brustwirbelsäule ein und drehe deinen oberen Rücken allmählich, während du dein Becken\nruhig hältst.\nAusatmen, während du die Drehung vollendest und deine linke Hand\nzur Wand führst, wobei dein Blick der Hand folgt.\nKehre einatmend zurück und\nführe deinen Arm langsam nach vorne, wobei du die Drehung der Wirbelsäule Segment\nfür Segment rückgängig machst.\nWiederhole auf der gegenüberliegenden Seite.\n\nSteigerung\n\nPosition: Knie auf dem Boden, mit der rechten Seite zu einer Wand gewandt. Linkes Knie unten und rechter Fuß nach vorne.\nVor der Grundübung: einatmen, ausatmen, während du den rechten Arm in einem Kreis nach oben und hinten an der Wand entlangführst, einatmen, während du den Arm zurückbringst.\nGrundübung.\nWiederhole auf der gegenüberliegenden Seite."
+  },
+  {
+    "id": "1132",
+    "pattern": "hip_extension",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "roman_chair"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Machine glute extension",
+    "en_desc": "A GHD hip extension is one of the best exercises for the glutes. While the exercise mainly targets the glutes, it is also excellent for the lower back, the calves and the hamstrings.",
+    "de_name": "Gesäßstrecken an der Maschine",
+    "de_desc": "Eine Hüftstreckung am GHD ist eine der besten Übungen für die Gesäßmuskulatur. Obwohl die Übung sich hauptsächlich auf die Gesäßmuskulatur konzentriert, ist sie auch hervorragend für die Lendengegend, die Waden und die hintere Oberschenkelmuskulatur."
+  },
+  {
+    "id": "1751",
+    "pattern": "hip_extension",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Cable pull through",
+    "en_desc": "The Cable Pull Through is a lower-body exercise that targets the glutes and hamstrings using a \"hip hinge\" motion. To perform it, attach a rope to the lowest pulley setting, face away from the machine with the rope between your legs, and step forward to create tension. Keeping your back flat and knees slightly soft, push your hips backward as if trying to close a door behind you until you feel a deep stretch in your hamstrings.\nTo finish the rep, explosively drive your hips forward to return to a standing position, squeezing your glutes hard at the top. It is vital to remember that this is not a squat; your knees should not bend deeply, and your arms should remain straight and relaxed, acting only as hooks for the rope. This movement provides constant tension on the glutes while placing less stress on the lower back than a traditional deadlift.",
+    "de_name": "Cable Pull Through",
+    "de_desc": "Der Cable Pull Through ist eine Übung für den Unterkörper, die mit einer „Hüftbeuge\"-Bewegung (Hip Hinge) die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur beansprucht. Um sie auszuführen, befestige ein Seil an der niedrigsten Einstellung des Kabelzugs, wende dich von der Maschine ab, sodass das Seil zwischen deinen Beinen verläuft, und mache einen Schritt nach vorne, um Spannung aufzubauen. Halte deinen Rücken flach und deine Knie leicht gebeugt und schiebe deine Hüften nach hinten, als wolltest du eine Tür hinter dir schließen, bis du eine tiefe Dehnung in deiner hinteren Oberschenkelmuskulatur spürst.\nUm die Wiederholung abzuschließen, schiebe deine Hüften explosiv nach vorne, um in die stehende Position zurückzukehren, und spanne dabei oben deine Gesäßmuskulatur kräftig an. Es ist wichtig, sich zu merken, dass dies keine Kniebeuge ist; deine Knie sollten sich nicht tief beugen, und deine Arme sollten gestreckt und entspannt bleiben und nur als Haken für das Seil dienen. Diese Bewegung sorgt für konstante Spannung auf der Gesäßmuskulatur und belastet dabei den unteren Rücken weniger als ein klassisches Kreuzheben."
+  },
+  {
+    "id": "1809",
+    "pattern": "hip_extension",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "roman_chair"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Reverse Hyperextension",
+    "en_desc": "Lie face-down on a bench with your legs hanging off the edge.\n\nBend your hips so your thighs are vertical, bending your knees at the same time so your shins stay horizontal.\nStraighten out your legs so they are not bent and your toes are pointing backwards horizontally.\nReturn to the original position, and repeat.",
+    "de_name": "Umgekehrte Hyperextension",
+    "de_desc": "Lege dich mit dem Gesicht nach unten auf eine Bank, sodass deine Beine über die Kante hinausragen.\n\nBeuge deine Hüften, sodass deine Oberschenkel senkrecht stehen, und beuge gleichzeitig die Knie, sodass deine Unterschenkel waagerecht bleiben.\nStrecke deine Beine, sodass sie nicht mehr gebeugt sind und deine Fußspitzen waagerecht nach hinten zeigen.\nKehre in die Ausgangsposition zurück und wiederhole die Bewegung."
+  }
+]

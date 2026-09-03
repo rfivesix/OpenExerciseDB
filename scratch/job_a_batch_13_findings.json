@@ -1,0 +1,62 @@
+[
+  {
+    "id": "577",
+    "language": "de",
+    "field": "name",
+    "old_value": "Seitliches Oberkörperbeugen Mit KH",
+    "new_value": "Seitbeugen mit Kurzhantel",
+    "reason": "Ersetzt die ungelenke Abkürzung 'KH' und die holprige Bezeichnung durch den etablierten deutschen Fachbegriff 'Seitbeugen mit Kurzhantel' (Dumbbell Side Bend), passend zur Klassifikation (primary_equipment: dumbbell)."
+  },
+  {
+    "id": "577",
+    "language": "en",
+    "field": "description",
+    "old_value": "AKA dumbbell side bends. Stand in line with the hips with slightly bent knees, maintain the natural curvature of the spine, hand stretched by the body, grip the barbell with one hand. Make slow and controlled torso side flexions till you reach the angle of approximately 45°.",
+    "new_value": "AKA dumbbell side bends. Stand in line with the hips with slightly bent knees, maintain the natural curvature of the spine, hand stretched by the body, grip the dumbbell with one hand. Make slow and controlled torso side flexions till you reach the angle of approximately 45°.",
+    "reason": "Corrects erroneous equipment reference 'barbell' to 'dumbbell', matching exercise name and classification (primary_equipment: dumbbell)."
+  },
+  {
+    "id": "577",
+    "language": "de",
+    "field": "description",
+    "old_value": "Zielmuskeln: Schräger Bauchmuskel\nUnterstützende Muskulatur: Gerader Bauchmuskel",
+    "new_value": "Stelle dich aufrecht mit leicht gebeugten Knien und hüftbreitem Stand hin. Halte eine Kurzhantel mit gestrecktem Arm seitlich am Körper. Beuge den Oberkörper langsam und kontrolliert zur Seite der Hantel, halte die natürliche Wirbelsäulenkrümmung bei und richte dich anschließend wieder auf.",
+    "reason": "Die deutsche Beschreibung enthielt lediglich eine Muskelaufzählung ('Zielmuskeln: ...') ohne Ausführungsanleitung. Ergänzt die eigentliche Übungsbeschreibung analog zum englischen Text und der Klassifikation (anti_lateral_flexion, dumbbell, unilateral)."
+  },
+  {
+    "id": "1019",
+    "language": "de",
+    "field": "name",
+    "old_value": "Seitenplanke rechts",
+    "new_value": "Seitstütz rechts",
+    "reason": "Harmonisierung mit etablierten Fachtermini ('Seitstütz' statt 'Seitenplanke')."
+  },
+  {
+    "id": "1019",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nLegen Sie sich auf die Seite, wobei der untere Ellbogen einen rechten Winkel bildet und der Arm ausgestreckt ist. Heben Sie Ihr Becken vom Boden ab, indem Sie die untere Schulter anheben und den Unterarm auf dem Boden lassen; Ihr Kopf, Ihr Becken und Ihre Füße sollten eine gerade Linie bilden.\nDie Schritte:\n\nHalten Sie diese Position.",
+    "new_value": "Ausgangsposition:\nLege dich auf die rechte Seite. Der rechte Unterarm liegt auf dem Boden auf, der Ellbogen befindet sich unter der Schulter. Hebe das Becken an, sodass Kopf, Oberkörper, Becken und Beine eine gerade Linie bilden.\nAusführung:\nHalte diese Position stabil.",
+    "reason": "Harmonisierung der veralteten Höflichkeitsform ('Sie') zur einheitlichen Du-Form sowie Glättung ungelenker Formulierungen."
+  },
+  {
+    "id": "580",
+    "language": "de",
+    "field": "name",
+    "old_value": "Side Plank",
+    "new_value": "Seitstütz",
+    "reason": "Verwendung des gängigen deutschen Fachbegriffs 'Seitstütz' (Side Plank)."
+  },
+  {
+    "id": "580",
+    "language": "de",
+    "field": "description",
+    "old_value": "Legen Sie sich auf die Seite und stützen Sie Ihren Körper zwischen Unterarm und Knie bis zu den Füßen.",
+    "new_value": "Lege dich auf die Seite, stütze dich auf den Unterarm und hebe das Becken an, sodass der Körper von Kopf bis Fuß eine gerade Linie bildet. Halte die Position stabil.",
+    "reason": "Harmonisierung der veralteten Höflichkeitsform ('Sie') zur einheitlichen Du-Form und Vervollständigung der Übungsanleitung analog zum englischen Text ('Works your obliques and helps stabilize your spine')."
+  },
+  {
+    "id": "1426",
+    "conflict": "Die Klassifikation gibt primary_equipment: bodyweight vor. Beide Beschreibungen (EN und DE) beschreiben primär eine Bodyweight-Übung, erwähnen aber alternativ eine Kurzhantel ('or holding a dumbbell in one hand' / 'oder mit einer Kurzhantel in einer Hand')."
+  }
+]

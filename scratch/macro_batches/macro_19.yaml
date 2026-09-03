@@ -1,0 +1,245 @@
+batch_id: 19
+movement_pattern: lunge
+items:
+- id: '987'
+  name: Side split squats right
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '991'
+  name: Split squats left
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '986'
+  name: Side split squats left
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '206'
+  name: Dumbbell Lunges Walking
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1907'
+  name: Unilateral Lunges
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1706'
+  name: Bulgarian Squat with Dumbbells
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1593'
+  name: Smith Machine Split Squat
+  primary_equipment: smith_machine
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2526'
+  name: Long Lunge Pulse Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '981'
+  name: Step-ups
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - ja
+- id: '46'
+  name: Barbell Lunges Standing
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '722'
+  name: Weighted Step-ups
+  primary_equipment: barbell
+  setup:
+  - plyo_box
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1604'
+  name: Sliding Lateral Lunge
+  primary_equipment: kettlebell
+  setup:
+  - sliders
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1366'
+  name: Dumbbell Split Squat
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1324'
+  name: Bodyweight lunge HD
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1830'
+  name: Barbell Step Back Lunge
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '999'
+  name: Reverse lunges
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - ja
+- id: '1651'
+  name: Dumbbell Rear Lunge
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1734'
+  name: 'Single-Leg Lunge with Kettlebell:'
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '989'
+  name: Bulgarian split squats right
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1115'
+  name: 3D lunge warmup
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '205'
+  name: Dumbbell Lunges Standing
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - fr
+  - it
+  - ja
+- id: '802'
+  name: Barbell Lunges Walking
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '984'
+  name: Lunges
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - ja
+- id: '992'
+  name: Split squats right
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '988'
+  name: Bulgarian split squats left
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: lunge
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1102'
+  name: Alternate back lunges
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: lunge
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - ja

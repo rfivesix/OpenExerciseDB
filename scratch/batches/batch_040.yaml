@@ -1,0 +1,50 @@
+batch_id: 40
+movement_pattern: elbow_flexion
+primary_muscle: brachialis
+items:
+- id: '495'
+  name: Reverse Curl
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1511'
+  name: Kong Curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1261'
+  name: TRX gorilla biceps curl
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1502'
+  name: DB Cross Body Hammer Curls
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1512'
+  name: Drop Curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: alternating
+  needs:
+  - it
+  - ja

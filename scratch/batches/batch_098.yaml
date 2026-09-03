@@ -1,0 +1,14 @@
+batch_id: 98
+movement_pattern: horizontal_pull
+primary_muscle: quadriceps
+items:
+- id: '1093'
+  name: Rowing Machine
+  primary_equipment: cardio_machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja

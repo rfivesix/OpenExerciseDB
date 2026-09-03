@@ -1,0 +1,13 @@
+batch_id: 99
+movement_pattern: horizontal_push
+primary_muscle: quadriceps
+items:
+- id: '1523'
+  name: Sled Push
+  primary_equipment: sled
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - it
+  - ja

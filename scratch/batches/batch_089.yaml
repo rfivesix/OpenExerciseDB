@@ -1,0 +1,16 @@
+batch_id: 89
+movement_pattern: anti_flexion
+primary_muscle: latissimus_dorsi
+items:
+- id: '1742'
+  name: Back Lever
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

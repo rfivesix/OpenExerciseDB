@@ -1,0 +1,77 @@
+batch_id: 29
+movement_pattern: wrist_flexion
+items:
+- id: '1771'
+  name: Wrist curl, cable
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: wrist_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2452'
+  name: Curl De Muñeca Con Barra
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1205'
+  name: Wrist curl, dumbbells
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '51'
+  name: Barbell Wrist Curl
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '279'
+  name: Hand Grip
+  primary_equipment: other
+  setup: []
+  movement_pattern: wrist_flexion
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1333'
+  name: Forearm Curls (underhand grip)
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '623'
+  name: Standing Rope Forearm
+  primary_equipment: other
+  setup: []
+  movement_pattern: wrist_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1089",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "medicine_ball",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Medicine ball twist",
+    "en_desc": "In a seated position, the torso is rotated from side to side without forcing, approaching the knees and making the ball touch the ground from time to time",
+    "de_name": "Medizinball-Drehung",
+    "de_desc": "In sitzender Position wird der Oberkörper ohne Zwang von einer Seite zur anderen gedreht, du näherst dich dabei den Knien und lässt den Ball von Zeit zu Zeit den Boden berühren."
+  },
+  {
+    "id": "1193",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Russian Twist",
+    "en_desc": "Hold a dumbbell, barbell weight or something else that is heavy with both hands, but make sure it is not too heavy and you are able to keep in form.\nLean back to a 45-degree angle from the floor. For an extra challenge, lift your feet off the floor.\nRotate your arms to one side to the same level as your chest, touch the floor for a little extra challenge, and then do the same to the other side. When you're back in your original position after doing both sides it will count as 1 rep.",
+    "de_name": "Russian Twist",
+    "de_desc": "Halte eine Kurzhantel, eine Hantelscheibe oder etwas anderes Schweres mit beiden Händen, aber achte darauf, dass es nicht zu schwer ist und du die Form halten kannst.\nLehne dich in einem Winkel von 45 Grad zum Boden zurück. Für eine zusätzliche Herausforderung hebst du die Füße vom Boden ab.\nDrehe deine Arme zu einer Seite auf Brusthöhe, berühre für eine kleine zusätzliche Herausforderung den Boden und mache dann dasselbe zur anderen Seite. Wenn du nach beiden Seiten wieder in der Ausgangsposition bist, zählt das als 1 Wiederholung."
+  },
+  {
+    "id": "1259",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "suspension_trainer",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "TRX Obliques",
+    "en_desc": "Place your feet in the stirrups and assume a high plank with your hands directly beneath your shoulders.\nPull your knees to your right elbow, then push them back out and to the centre.",
+    "de_name": "TRX Bauchmuskeln seitlich",
+    "de_desc": "Setze deine Füße in die Schlaufen und nimm einen hohen Liegestütz ein, mit deinen Händen direkt unter deinen Schultern.\nZiehe deine Knie zu deinem rechten Ellbogen, dann drücke sie wieder heraus und zur Mitte."
+  },
+  {
+    "id": "1374",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Rotary Torso Machine",
+    "en_desc": "Slow and Steady\nNot too much weight",
+    "de_name": "Bauch-Twist Gerät",
+    "de_desc": "Langsam und stätig\nNicht zu viel Gewicht nutzen"
+  },
+  {
+    "id": "1377",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Torso Twist",
+    "en_desc": "Standing Torso Twist WorkoutTarget your core and improve flexibility with this dynamic standing exercise! The Standing Torso Twist Workout involves twisting your torso while keeping your feet and hips stable, engaging your obliques, and stretching your entire upper body. This movement helps to:Strengthen core musclesIncrease flexibility in the spine and torsoImprove posture and balanceEnhance overall athletic performancePerform 3 sets of 10-15 reps, twisting to each side, to feel the benefits of this effective and efficient workout!",
+    "de_name": "Rumpfdrehung",
+    "de_desc": "Rumpfdrehung im Stehen: Beanspruche deinen Rumpf und verbessere deine Beweglichkeit mit dieser dynamischen Übung im Stehen! Bei der Rumpfdrehung im Stehen drehst du deinen Oberkörper, während du Füße und Hüfte stabil hältst, deine schrägen Bauchmuskeln anspannst und deinen gesamten Oberkörper dehnst. Diese Bewegung hilft dabei: die Rumpfmuskulatur zu kräftigen, die Beweglichkeit von Wirbelsäule und Oberkörper zu erhöhen, die Haltung und das Gleichgewicht zu verbessern und die allgemeine sportliche Leistung zu steigern. Führe 3 Sätze mit je 10-15 Wiederholungen aus, indem du dich zu jeder Seite drehst, um die Vorteile dieser wirksamen und effizienten Übung zu spüren!"
+  },
+  {
+    "id": "1412",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Bicycle Crunch",
+    "en_desc": "Bicycle crunches are a core exercise performed on the floor. Lie on your back with your hands behind your head and legs extended. Lift your shoulders off the ground, bring one knee toward your chest, and twist your torso so your opposite elbow meets the knee. Alternate sides in a pedaling motion, ensuring controlled movements and engaging your core throughout the exercise.",
+    "de_name": "Bicycle Crunches",
+    "de_desc": "Bicycle Crunches sind eine Rumpfübung, die auf dem Boden ausgeführt wird. Lege dich auf den Rücken, die Hände hinter dem Kopf und die Beine ausgestreckt. Hebe deine Schultern vom Boden ab, ziehe ein Knie zur Brust und drehe deinen Oberkörper, sodass dein gegenüberliegender Ellbogen das Knie trifft. Wechsle die Seiten in einer tretenden Bewegung ab, achte dabei auf kontrollierte Bewegungen und halte deinen Rumpf während der gesamten Übung angespannt."
+  },
+  {
+    "id": "1433",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "resistance_band",
+    "setup": [
+      "power_rack"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Reverse Wood Chops",
+    "en_desc": "Attach a looping resistance band to a rack below knee height\nGrip the other end of the band like holding a baseball bat with both hands\nStretch the band facing it\nStart with your hands at the side of your hips, knees bent\nRotate your hips while moving your hands towards over the top of your opposite shoulder\nImagine the motion as striking a baseball with a bat",
+    "de_name": "Umgekehrte Holzhacker",
+    "de_desc": "Befestige ein geschlossenes Widerstandsband unterhalb der Kniehöhe an einem Rack\nGreife das andere Ende des Bandes mit beiden Händen wie einen Baseballschläger\nSpanne das Band vor, indem du dich ihm zuwendest\nBeginne mit deinen Händen seitlich an deiner Hüfte, die Knie gebeugt\nRotiere deine Hüften, während du deine Hände nach oben über deine gegenüberliegende Schulter führst\nStelle dir die Bewegung vor, als würdest du einen Baseball mit einem Schläger schlagen"
+  },
+  {
+    "id": "145",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Woodchoppers",
+    "en_desc": "Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. &nbsp;Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.",
+    "de_name": "Holzhacker am Kabelzug",
+    "de_desc": "Stelle die Kabelrolle etwas niedriger als auf Brusthöhe ein. Halte den Körper nach vorne gerichtet und die Hüfte stabil. Greife den Griff der Rolle, strecke deine Arme vollständig und führe sie nach vorne und diagonal über deinen Körper. Halte am Ende der Bewegung 1 Sekunde lang inne und kehre langsam in die Ausgangsposition zurück."
+  },
+  {
+    "id": "1451",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Torso rotation stretch",
+    "en_desc": "The torso rotation stretch helps improve spinal mobility and relieves tension in the lower back and obliques. It can be performed standing or seated.\n\nStanding Variation: Stand upright with your feet shoulder-width apart. Place your hands on your hips or extend your arms in front of you. Slowly rotate your torso to one side, keeping your hips stable. Hold for a few seconds, then rotate to the opposite side.\nSeated Variation: Sit on a chair with your feet flat on the floor. Place one hand on the outside of your opposite thigh and gently twist your torso toward that side. Hold the stretch before switching sides.",
+    "de_name": "Rumpfrotations-Dehnung",
+    "de_desc": "Die Rumpfrotations-Dehnung hilft, die Beweglichkeit der Wirbelsäule zu verbessern und Verspannungen im unteren Rücken und in der seitlichen Bauchmuskulatur zu lösen. Sie kann im Stehen oder im Sitzen ausgeführt werden.\n\nStehende Variante: Stehe aufrecht mit den Füßen schulterbreit auseinander. Lege die Hände auf die Hüften oder strecke die Arme vor dir aus. Drehe den Oberkörper langsam zu einer Seite und halte die Hüften stabil. Halte die Position für ein paar Sekunden und drehe dich dann zur anderen Seite.\nSitzende Variante: Setze dich auf einen Stuhl mit flach auf dem Boden stehenden Füßen. Lege eine Hand an die Außenseite des gegenüberliegenden Oberschenkels und drehe deinen Oberkörper sanft zu dieser Seite. Halte die Dehnung, bevor du die Seite wechselst."
+  },
+  {
+    "id": "1475",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Black Widow Knee Slides",
+    "en_desc": "In\nthis bottom-up rotation exercise movement, you’ll cross your knee over and\ndrive it into that opposite elbow. Start in high plank position (or tabletop\nposition) with hands directly beneath your shoulders. Lift the left knee toward\nthe right arm and slide it up the forearm to get more of that posterior pelvic\ntilt and engagement of the abdominal muscles. Then do the opposite side,\nbringing your right knee toward your left hand.",
+    "de_name": "Black Widow Knee Slides",
+    "de_desc": "Bei\ndieser Rotationsbewegung von unten nach oben kreuzt du dein Knie hinüber und\ndrückst es zum gegenüberliegenden Ellbogen. Beginne in der hohen Plank-Position (oder\nTabletop-Position) mit den Händen direkt unter den Schultern. Hebe das linke Knie zum\nrechten Arm und schiebe es am Unterarm hinauf, um mehr von dieser posterioren Beckenkippung\nund Aktivierung der Bauchmuskulatur zu erreichen. Mach dann die andere Seite\nund führe dein rechtes Knie zur linken Hand."
+  },
+  {
+    "id": "1477",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Seated Corkscrew",
+    "en_desc": "To\ndo this abs and obliques exercise, start with your hands back behind your body\nand bring your knees in and across, really trying to contract the obliques.\nThen extend your legs back out to starting position and repeat toward the\nopposite side of the abs.\nBeginners\nmight find that they can’t even get through the first 45 seconds of this\nchallenging reverse crunches variation.&nbsp; That’s ok because it gives you a\nplace to start and something to improve upon.",
+    "de_name": "Sitzender Korkenzieher",
+    "de_desc": "Um\ndiese Übung für Bauch- und seitliche Bauchmuskulatur auszuführen, beginne mit den Händen hinter deinem Körper\nund ziehe deine Knie heran und quer hinüber, wobei du wirklich versuchst, die seitliche Bauchmuskulatur\nanzuspannen. Strecke dann deine Beine wieder in die Ausgangsposition aus und wiederhole zur\ngegenüberliegenden Seite der Bauchmuskulatur.\nAnfänger\nstellen vielleicht fest, dass sie nicht einmal die ersten 45 Sekunden dieser\nanspruchsvollen Variante des umgekehrten Crunches durchhalten. Das ist in Ordnung, denn es gibt dir einen\nPunkt, an dem du anfangen kannst, und etwas, woran du dich verbessern kannst."
+  },
+  {
+    "id": "1479",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Sit Up Elbow Thrust",
+    "en_desc": "This\nis a top down rotation movement, and it’s a bit more\nexplosive, too.\nLying with knees bent and feet on the floor, sit up and then drive your left elbow across your entire body toward the right, then come back\nto center and then finally lower yourself down. Then hit the other side.",
+    "de_name": "Sit-Ups (Ellenbogen zum Knie)",
+    "de_desc": "Füße fixieren\nMuskulatur anspannen\nKein Schwung holen\nKontrollierte Bewegung\nLangsame Durchführung\nGleichmäßig atmen"
+  },
+  {
+    "id": "1743",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "pullup_bar"
+    ],
+    "laterality": "alternating",
+    "en_name": "Windshield Wipers",
+    "en_desc": "Hang from a pull-up bar, raise your legs to the ceiling. Move lower body from left to right with straight legs like a windshield wiper",
+    "de_name": "Scheibenwischer",
+    "de_desc": "Hänge dich an eine Klimmzugstange und hebe deine Beine zur Decke. Bewege deinen Unterkörper mit gestreckten Beinen von links nach rechts wie ein Scheibenwischer."
+  },
+  {
+    "id": "1779",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "barbell",
+    "setup": [
+      "landmine"
+    ],
+    "laterality": "alternating",
+    "en_name": "Landmine Rotation",
+    "en_desc": "Start with landmine barbell straight up by using your shoulders to push it up above you. Then, from that position, bring it your side to target your abdominals and return to starting position.",
+    "de_name": "Landmine-Rotation",
+    "de_desc": "Beginne mit der Landmine-Langhantel gerade nach oben, indem du sie mit deinen Schultern über dich drückst. Führe sie dann aus dieser Position seitlich nach unten, um deine Bauchmuskulatur zu beanspruchen, und kehre in die Ausgangsposition zurück."
+  },
+  {
+    "id": "1912",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Core Rotation",
+    "en_desc": "Sit back, raise feet above the ground with knees bent and start rotating left and right with hands touching the ground every move.",
+    "de_name": "Rumpfrotation",
+    "de_desc": "Setze dich zurück, hebe die Füße mit gebeugten Knien vom Boden ab und beginne, dich nach links und rechts zu drehen, wobei du bei jeder Bewegung mit den Händen den Boden berührst."
+  },
+  {
+    "id": "1966",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall",
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "1/2 Kneeling Thoracic Rotation",
+    "en_desc": "Begin in a half kneeling position with the\nleg away from the wall stabilized against the wall\nwith a ball.\nWith both hands directly in front of\nyou, rotate one arm open attempting to reach\nthe wall behind you.\nExhale as you rotate, inhale\nas you return to neutral and repeat.",
+    "de_name": "Brustwirbelsäulen-Rotation im halben Kniestand",
+    "de_desc": "Beginne im halben Kniestand, wobei das von der Wand abgewandte\nBein mit einem Ball an der Wand stabilisiert\nwird.\nHalte beide Hände direkt vor\ndir und drehe einen Arm geöffnet auf, um\ndie Wand hinter dir zu erreichen.\nAtme beim Drehen aus, atme ein,\nwenn du in die neutrale Position zurückkehrst, und wiederhole."
+  },
+  {
+    "id": "260",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Full Sit Outs",
+    "en_desc": "(A) Get in high plank position on your hands and toes.(B) Shift your weight to your left hand as you turn your body to the right; bend your right leg behind you and extend your right arm up. Return to the center and repeat on the opposite side. Continue, alternating sides.Make it easier:&nbsp;Don’t raise your arm after you bend your leg behind you.Make it harder:&nbsp;Balance with your arm and leg extended for two counts.",
+    "de_name": "Full Sit Outs",
+    "de_desc": "(A) Stellen Sie sich auf Ihre Hände und Zehen in eine hohe Plankenposition. (B) Verlagern Sie Ihr Gewicht auf Ihre linke Hand, während Sie Ihren Körper nach rechts drehen. beugen Sie Ihr rechtes Bein hinter sich und strecken Sie Ihren rechten Arm nach oben. Kehre in die Mitte zurück und wiederhole dies auf der anderen Seite. Fahren Sie mit abwechselnden Seiten fort. Machen Sie es einfacher: Heben Sie Ihren Arm nicht an, nachdem Sie Ihr Bein hinter sich gebeugt haben. Machen Sie es schwieriger: Halten Sie Arm und Bein für zwei Zählungen gestreckt."
+  },
+  {
+    "id": "607",
+    "pattern": "rotation",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Splinter Sit-ups",
+    "en_desc": "Lie on your back with your legs straight and arms at your sides, keeping your elbows bent at 90 degrees. As you sit up, twist your upper body to the right and bring your left knee toward your right elbow while you swing your left arm back. Lower your body to the starting position, and repeat to your right. That's 1 rep.",
+    "de_name": "Splinter Sit-ups",
+    "de_desc": "Lege dich auf den Rücken, die Beine gestreckt und die Arme an den Seiten, wobei du die Ellenbogen im 90-Grad-Winkel gebeugt hältst. Während du dich aufsetzt, drehe deinen Oberkörper nach rechts und führe dein linkes Knie in Richtung deines rechten Ellenbogens, während du deinen linken Arm nach hinten schwingst. Senke deinen Körper in die Ausgangsposition ab und wiederhole das Ganze zur rechten Seite. Das ist 1 Wiederholung."
+  }
+]

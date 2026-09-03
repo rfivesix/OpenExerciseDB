@@ -1,0 +1,14 @@
+batch_id: 100
+movement_pattern: knee_extension
+primary_muscle: hamstring_complex
+items:
+- id: '1398'
+  name: Hamstring Chokes
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: knee_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,199 @@
+batch_id: 21
+movement_pattern: hip_extension
+items:
+- id: '1642'
+  name: Dumbbell Hip Thrust
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1906'
+  name: Hip Bridge
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '990'
+  name: Kneeling kickbacks
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - ja
+- id: '292'
+  name: Hip Raise, Lying
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1751'
+  name: Cable pull through
+  primary_equipment: cable
+  setup: []
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1131'
+  name: Cable glute extension
+  primary_equipment: cable
+  setup:
+  - ankle_straps
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1234'
+  name: Dumbbell Single-leg Hip Thrust
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1740'
+  name: Single Leg Glute Bridge
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1613'
+  name: rubber band glute kickback
+  primary_equipment: resistance_band
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1809'
+  name: Reverse Hyperextension
+  primary_equipment: bodyweight
+  setup:
+  - roman_chair
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '294'
+  name: Hip Thrust
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1723'
+  name: Glute Kickback (Machine)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1503'
+  name: Dumbbell Frog Press
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1132'
+  name: Machine glute extension
+  primary_equipment: bodyweight
+  setup:
+  - roman_chair
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1528'
+  name: Glute Drive
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2534'
+  name: (D) Puente de glúteos
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '265'
+  name: Glute Bridge
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1616'
+  name: Dumbbell donkey kick
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1913'
+  name: Unilateral Hip Thrust
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: hip_extension
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

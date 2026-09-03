@@ -1,0 +1,70 @@
+batch_id: 28
+movement_pattern: shoulder_flexion
+items:
+- id: '1731'
+  name: Front Raise (Cable)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '256'
+  name: Front Raises
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1223'
+  name: Claps over the head
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '254'
+  name: Front Raises with Plates
+  primary_equipment: weight_plate
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '917'
+  name: Straight Bar Cable Front Raise
+  primary_equipment: cable
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1338'
+  name: Shoulder Raise (Dumbbell)
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1745'
+  name: Cable Front Raise with a small bar
+  primary_equipment: cable
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,350 @@
+batch_id: 16
+movement_pattern: anti_extension
+items:
+- id: '1245'
+  name: Front Lever
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '178'
+  name: Deadbug
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '545'
+  name: Scissors
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1911'
+  name: Cat Plank
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '41'
+  name: Barbell Ab Rollout
+  primary_equipment: barbell
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1828'
+  name: Abdominal Draw-In
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1214'
+  name: Front lever tuck
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1238'
+  name: Frog stand
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1853'
+  name: L-Sit (Foot Supported)
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2510'
+  name: Hollow Body Hold (Core L1)
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1852'
+  name: L-sit
+  primary_equipment: bodyweight
+  setup:
+  - parallettes
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2507'
+  name: Forearm Plank (Core L1)
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1307'
+  name: Front Plank
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1409'
+  name: Dragon-flag
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '312'
+  name: Incline Plank With Alternate Floor Touch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  - swiss_ball
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1425'
+  name: Toe Taps
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '297'
+  name: Hollow Hold
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1410'
+  name: Plank with Alternating Leg Lift
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1406'
+  name: Plank-to-Elbow Extension
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1001'
+  name: High plank
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1847'
+  name: Straddle L-Sit
+  primary_equipment: bodyweight
+  setup:
+  - parallettes
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '235'
+  name: Flutter Kicks
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '2505'
+  name: Dead Bug (Core L1)
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1827'
+  name: Double-Leg Abdominal Press
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1489'
+  name: Plank Jacks
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1103'
+  name: walking bridge
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '458'
+  name: Plank
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '376'
+  name: Leg Raise
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1573'
+  name: Ab wheel
+  primary_equipment: bodyweight
+  setup:
+  - ab_wheel
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '382'
+  name: L Hold
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1909'
+  name: Leg Wheel
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1246'
+  name: TRX roll out
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1704'
+  name: Tuck L-sit
+  primary_equipment: bodyweight
+  setup:
+  - parallettes
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1010'
+  name: Back neck stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja

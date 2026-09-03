@@ -1,0 +1,64 @@
+batch_id: 46
+movement_pattern: other
+primary_muscle: hip_flexors
+items:
+- id: '1874'
+  name: Runners Lunge Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1839'
+  name: Solo Hip Flexor Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1960'
+  name: Rear-foot-elevated Hip Flexor Stretch
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1867'
+  name: Hip Flexor Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2525'
+  name: Couch Stretch
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

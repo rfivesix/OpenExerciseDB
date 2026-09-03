@@ -1,0 +1,251 @@
+batch_id: 5
+movement_pattern: other
+items:
+- id: '1857'
+  name: Foam Roller Iliotibial band
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1841'
+  name: Seated Shoulder Extension Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '675'
+  name: Turkish Get-Up
+  primary_equipment: kettlebell
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1314'
+  name: Jumping Jack HD
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1713'
+  name: Doorway Pectoral Stretch
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1590'
+  name: Arm and neck stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1949'
+  name: Limber 11
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '993'
+  name: 'Jump rope: basic jumps'
+  primary_equipment: jump_rope
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1363'
+  name: Blackroll
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1861'
+  name: Side stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1027'
+  name: Elevated prayer stretch
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1524'
+  name: Battle Ropes
+  primary_equipment: other
+  setup:
+  - battle_ropes
+  movement_pattern: other
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1876'
+  name: Supported Calf Stretch
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1525'
+  name: Ball Slams
+  primary_equipment: medicine_ball
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2523'
+  name: Serratus Wall Slide Stretch
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1860'
+  name: Foam Roller Adductors
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1591'
+  name: Deep breathing (standing or seated)
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1712'
+  name: Horizontal Shoulder Flexion Stretch
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '320'
+  name: Jumping Jacks
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1006'
+  name: Chin tuck
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1840'
+  name: Bent-Leg Hamstring Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1952'
+  name: SMR Glutes (lax ball)
+  primary_equipment: bodyweight
+  setup:
+  - lacrosse_ball
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1856'
+  name: Foam Roller Anterior tibialis
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

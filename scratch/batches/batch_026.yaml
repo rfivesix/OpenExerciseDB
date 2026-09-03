@@ -1,0 +1,96 @@
+batch_id: 26
+movement_pattern: horizontal_push
+primary_muscle: triceps_brachii
+items:
+- id: '1228'
+  name: Dumbbell close grip bench press
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '76'
+  name: Bench Press Narrow Grip
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1086'
+  name: Close-grip Press-ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1583'
+  name: Supine press
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '386'
+  name: Diamond push ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1467'
+  name: Incline Close Grip Barbell Bench Press
+  primary_equipment: barbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '598'
+  name: Smith Machine Close-grip Bench Press
+  primary_equipment: smith_machine
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1302'
+  name: JM Press
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1498'
+  name: Elbows Tucked DB Bench Press
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

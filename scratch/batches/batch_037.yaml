@@ -1,0 +1,61 @@
+batch_id: 37
+movement_pattern: other
+primary_muscle: quadriceps
+items:
+- id: '1858'
+  name: Foam Roller quadriceps
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1873'
+  name: Quad Stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '997'
+  name: 4-count burpees
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '132'
+  name: Burpees
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '998'
+  name: No push-up burpees
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1962'
+  name: Step Jack
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: alternating
+  needs:
+  - it
+  - ja

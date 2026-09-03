@@ -1,0 +1,137 @@
+batch_id: 19
+movement_pattern: rotation
+primary_muscle: rotator_cuff
+items:
+- id: '1711'
+  name: Sleeper Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1838'
+  name: Banded Shoulder Drills
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1835'
+  name: External Rotation Stretch
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '142'
+  name: Cable External Rotation
+  primary_equipment: cable
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '578'
+  name: Side-lying External Rotation
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1081'
+  name: Shoulder dislocates
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1582'
+  name: Side-laying interior rotation
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1429'
+  name: Dumbbell Shoulder Rotations
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '406'
+  name: Lying Rotator Cuff Exercise
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1826'
+  name: Band pull-apart with external rotation
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1715'
+  name: Shoulder External Rotation with Dumbbell
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1082'
+  name: Bent over row to external rotation
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: rotation
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1729'
+  name: Shoulder External Rotation (Cable)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1728'
+  name: Shoulder Internal Rotation (Cable)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja

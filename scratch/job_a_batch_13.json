@@ -1,0 +1,340 @@
+[
+  {
+    "id": "1096",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Abduction while standing",
+    "en_desc": "Training a stable stance, predominantly on one leg, is crucial for both sides. On the one hand, it prevents discomfort and, on the other, it establishes a stable foundation. The practitioner assumes the usual standing position and, with a stable upper body, attempts to repeatedly lift the unloaded leg, bend it at the hip and knee, and then lower it again. The movement is also repeated on the other side. The exercise trains the stability of the hip-surrounding muscles.",
+    "de_name": "Abduktion im Stand",
+    "de_desc": "Das Training des stabilen Standes dominat auf einem Bein ist beiseitig entscheidend. Einerseits um Beschwerden vorzubeugen und andererseits um eine stabile Basis zu legen.Die übende Person stellt sich in die gewohnte Standposition und versucht bei stabilem Oberkörper das unbelastete Bein wiederholt zu heben und und in Hüfte und Knie zu beugen und wieder zu senken. Die Bewegung wird jedenfalls auch mit der anderen Seite wiederholt. Die Übung trainiert die Stabilität der hüftumgebenden Muskulatur"
+  },
+  {
+    "id": "1202",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Side Lying Hip Abduction",
+    "en_desc": "Begin by lying down on your side with your top leg straight and your bottom leg bent for support.\nLift your top leg off the ground\n(optional) - Hold position at the top\n\nResources:\n\n40 seconds YouTube video: https://www.youtube.com/watch?v=g9FtnmsIYgI",
+    "de_name": "Hüftabduktion in Seitenlage",
+    "de_desc": "Lege dich zunächst auf die Seite, das obere Bein ist gestreckt und das untere Bein zur Stabilisierung angewinkelt.\nHebe dein oberes Bein vom Boden ab.\n(optional) - Halte die Position oben.\n\nQuellen:\n\n40-sekündiges YouTube-Video: https://www.youtube.com/watch?v=g9FtnmsIYgI"
+  },
+  {
+    "id": "1514",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Lateral Walk",
+    "en_desc": "Lateral walks, also known as side steps or squat walks, are a type of exercise where you move sideways in a squatting position. They can be performed with or without resistance bands. These exercises strengthen the hip abductors, glutes, and other stabilizing muscles.",
+    "de_name": "Seitwärtsgehen (Lateral Walk)",
+    "de_desc": "Seitwärtsgehen, auch als Side Steps oder Squat Walks bekannt, ist eine Übung, bei der du dich in einer Hockposition seitwärts bewegst. Sie kann mit oder ohne Widerstandsbänder ausgeführt werden. Diese Übungen kräftigen die Hüftabduktoren, die Gesäßmuskulatur und weitere stabilisierende Muskeln."
+  },
+  {
+    "id": "1672",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Seated Hip Abduction",
+    "en_desc": "Starting Position:\n\nAdjust the seat height so that your knees are aligned with the pivot point of the machine.\nSit with your back flat against the backrest, maintaining good posture.\nPlace the outside of your thighs against the machine's padded levers.\nPosition your feet flat on the footrests or platform of the machine.\nGrasp the handles or sides of the seat for stability.\nEnsure your spine is neutral and your core is slightly engaged.\n\nMovement:\n\nExhale as you slowly push your legs outward against the resistance pads.\nFocus on initiating the movement from your hips, not your knees.\nContinue opening your legs until you feel a strong contraction in your outer hips and thighs.\nHold the fully abducted position briefly (1-2 seconds) to maximize muscle engagement.\nInhale as you slowly control the return of your legs to the starting position, resisting the weight throughout the movement.\nAvoid allowing the weight stack to touch down between repetitions to maintain constant tension on the muscles.\nRepeat for the desired number of repetitions, maintaining control throughout the set.",
+    "de_name": "Hüftabduktion sitzend",
+    "de_desc": "Ausgangsposition:\n\nStelle die Sitzhöhe so ein, dass deine Knie auf einer Linie mit dem Drehpunkt der Maschine liegen.\nSetze dich mit dem Rücken flach an die Rückenlehne und behalte eine gute Haltung bei.\nLege die Außenseite deiner Oberschenkel gegen die gepolsterten Hebel der Maschine.\nStelle deine Füße flach auf die Fußstützen oder die Plattform der Maschine.\nGreife die Griffe oder die Seiten des Sitzes für mehr Stabilität.\nAchte darauf, dass deine Wirbelsäule neutral ist und dein Rumpf leicht angespannt ist.\n\nBewegung:\n\nAtme aus, während du deine Beine langsam gegen die Widerstandspolster nach außen drückst.\nKonzentriere dich darauf, die Bewegung aus deiner Hüfte zu initiieren, nicht aus den Knien.\nÖffne deine Beine weiter, bis du eine starke Kontraktion in deiner äußeren Hüfte und in den Oberschenkeln spürst.\nHalte die vollständig abduzierte Position kurz (1-2 Sekunden), um die Muskelaktivierung zu maximieren.\nAtme ein, während du die Rückkehr deiner Beine in die Ausgangsposition langsam kontrollierst und dem Gewicht während der gesamten Bewegung Widerstand entgegensetzt.\nVermeide es, den Gewichtsblock zwischen den Wiederholungen aufsetzen zu lassen, um eine konstante Spannung auf den Muskeln zu halten.\nWiederhole es für die gewünschte Anzahl an Wiederholungen und behalte die Kontrolle während des gesamten Satzes bei."
+  },
+  {
+    "id": "1748",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Machine Hip Abduction",
+    "en_desc": "Technique and Execution\nStarting Position\nSeated Positioning: Sit in the machine with back against the pad\nLeg Placement: Inner thighs against the machine's padded resistance points\nAdjust Machine: Set seat position to align your hip joint with the machine's pivot point\nMovement Technique\nStart with legs together or slightly pressed against the inner pads\nSlowly push legs outward, spreading them apart\nMove until maximum comfortable lateral range is reached\nPause briefly at the outer point of the movement\nSlowly return to the starting position with controlled movement\nBiomechanical Breakdown\nMuscle Engagement\nPrimary Activation: Gluteus Medius (side hip muscle)\nStabilization: Engages core and lower back muscles\nFunctional Movement: Mimics lateral leg movement used in walking, sports, and daily activities\nBenefits\nStrength and Stability\nImproves Hip Stability\nReduces Risk of Knee Injuries\nEnhances Lateral Movement Capabilities\nTargets Often-Neglected Muscle Groups",
+    "de_name": "Hüftabduktion an der Maschine",
+    "de_desc": "Technik und Ausführung\nAusgangsposition\nSitzposition: Setze dich in die Maschine, den Rücken am Polster\nBeinplatzierung: Die Innenseiten der Oberschenkel liegen an den gepolsterten Widerstandspunkten der Maschine an\nMaschine einstellen: Stelle die Sitzposition so ein, dass dein Hüftgelenk auf einer Linie mit dem Drehpunkt der Maschine liegt\nBewegungstechnik\nBeginne mit geschlossenen Beinen oder leicht gegen die inneren Polster gedrückt\nDrücke die Beine langsam nach außen und spreize sie auseinander\nBewege dich, bis der maximale, angenehme seitliche Bewegungsumfang erreicht ist\nHalte am äußeren Punkt der Bewegung kurz inne\nKehre mit kontrollierter Bewegung langsam in die Ausgangsposition zurück\nBiomechanische Aufschlüsselung\nMuskelbeanspruchung\nHauptaktivierung: Gluteus medius (seitlicher Hüftmuskel)\nStabilisierung: Beansprucht die Rumpf- und untere Rückenmuskulatur\nFunktionelle Bewegung: Ahmt seitliche Beinbewegungen nach, wie sie beim Gehen, beim Sport und im Alltag vorkommen\nVorteile\nKraft und Stabilität\nVerbessert die Hüftstabilität\nVerringert das Risiko von Knieverletzungen\nVerbessert die Fähigkeit zu seitlichen Bewegungen\nBeansprucht oft vernachlässigte Muskelgruppen"
+  },
+  {
+    "id": "1823",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Clamshell",
+    "en_desc": "Position\nSide plank with the elbow and the forearm on the ground and the legs slightly bent.\nExecution\nLift your upper knee while keeping your feet close together, like a “shell opening,” then slowly return to the starting position. Keep your core stable and your hips aligned.",
+    "de_name": "Clamshell (Muschel)",
+    "de_desc": "Position\nSeitlicher Unterarmstütz, mit Ellenbogen und Unterarm auf dem Boden und leicht gebeugten Beinen.\nAusführung\nHebe dein oberes Knie an, während du deine Füße eng beieinander hältst, wie eine sich „öffnende Muschel“, und kehre dann langsam in die Ausgangsposition zurück. Halte deinen Rumpf stabil und deine Hüften ausgerichtet."
+  },
+  {
+    "id": "1842",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "resistance_band",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Banded Clamshell",
+    "en_desc": "Position\nSide plank with the elbow and the forearm on the ground and the legs slightly bent. Stretch a doubled-up resistance band between your thighs, just above the knee.\nExecution\nLift\nyour upper knee while keeping your feet close together, like a “shell\nopening,” then slowly return to the starting position. Keep your core\nstable and your hips aligned.",
+    "de_name": "Clamshell mit Band",
+    "de_desc": "Position\nSeitlicher Unterarmstütz, mit Ellenbogen und Unterarm auf dem Boden und leicht gebeugten Beinen. Spanne ein doppelt gelegtes Widerstandsband zwischen deinen Oberschenkeln, knapp oberhalb des Knies.\nAusführung\nHebe\ndein oberes Knie an, während du deine Füße eng beieinander hältst, wie eine sich\n„öffnende Muschel“, und kehre dann langsam in die Ausgangsposition zurück. Halte deinen Rumpf\nstabil und deine Hüften ausgerichtet."
+  },
+  {
+    "id": "1886",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Supine Hip Abduction",
+    "en_desc": "Starting Position:\nLie on your back (supine) on a mat, with your legs extended and\nrelaxed. Arms can be placed alongside your body or out to the sides for\nstability.\nThe Movement:\nSlightly lift one leg off the floor (keeping it straight or with a\nslight bend). Move it laterally outward, away from the other leg, as if\nstepping over a small obstacle.\nRange of Motion:\nMove the leg as far as comfortable without lifting your pelvis or\nrotating your torso, feeling a stretch in the inner thigh and hip.\nReturn: Slowly bring the leg back to the starting position with controlled movement.\nGoal: Improves lateral hip mobility (abduction) and strengthens the pelvic stabilizer muscles.",
+    "de_name": "Hüftabduktion in Rückenlage",
+    "de_desc": "Ausgangsposition:\nLege dich auf den Rücken (Rückenlage) auf eine Matte, mit gestreckten und\nentspannten Beinen. Die Arme kannst du seitlich am Körper oder zur Seite ausgestreckt\nfür mehr Stabilität ablegen.\nDie Bewegung:\nHebe ein Bein leicht vom Boden ab (halte es gestreckt oder mit einer\nleichten Beugung). Bewege es seitlich nach außen, weg vom anderen Bein, als würdest\ndu über ein kleines Hindernis steigen.\nBewegungsumfang:\nBewege das Bein so weit, wie es angenehm ist, ohne dein Becken anzuheben oder\ndeinen Oberkörper zu drehen, und spüre dabei eine Dehnung an der Innenseite des Oberschenkels und der Hüfte.\nZurückführen: Bringe das Bein langsam und mit kontrollierter Bewegung in die Ausgangsposition zurück.\nZiel: Verbessert die seitliche Hüftbeweglichkeit (Abduktion) und kräftigt die stabilisierende Beckenmuskulatur."
+  },
+  {
+    "id": "1915",
+    "pattern": "hip_abduction",
+    "primary_group": "glutes",
+    "primary_equipment": "resistance_band",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Quadruped Hip Abduction",
+    "en_desc": "Distribute your body weight evenly on all knees and arms.\nKeep the torso stable, with the abdomen engaged and the lumbar spine\nstraight without twisting the back (imagine: a glass on your lower back\nwon't fall off). Raise one leg outwards without twisting it.\nPay attention to the right angle at the hips and knees.&nbsp;Always train both sides of the body.\nTo increase resistance, a resistance band can be used.",
+    "de_name": "Hüftabduktion im Vierfüßlerstand",
+    "de_desc": "Verteile dein Körpergewicht gleichmäßig auf alle Knie und Arme.\nHalte den Oberkörper stabil, die Bauchmuskulatur angespannt und die Lendenwirbelsäule\ngerade, ohne den Rücken zu verdrehen (Vorstellung: ein Glas auf deinem unteren Rücken\nwürde nicht herunterfallen). Hebe ein Bein nach außen, ohne es zu verdrehen.\nAchte auf den rechten Winkel an Hüfte und Knie. Trainiere immer beide Körperseiten.\nUm den Widerstand zu erhöhen, kannst du ein Widerstandsband verwenden."
+  },
+  {
+    "id": "1227",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell rear delt row",
+    "en_desc": "Hold a dumbbell in each hand. Bend at your hips to make your back almost parallel to the floor. Let your arms hang down. Keep your arms in line with your shoulders. bend and lift your elbows out to the sides until your upper arms are parallel to the floor. Slowly return and repeat",
+    "de_name": "Kurzhantel-Rudern für die hintere Schulter",
+    "de_desc": "Halte in jeder Hand eine Kurzhantel. Beuge dich in der Hüfte nach vorne, bis dein Rücken nahezu parallel zum Boden ist. Lass deine Arme nach unten hängen. Halte die Arme in einer Linie mit deinen Schultern. Beuge und hebe die Ellbogen seitlich nach außen, bis deine Oberarme parallel zum Boden sind. Kehre langsam zurück und wiederhole die Bewegung."
+  },
+  {
+    "id": "1709",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Reverse Fly Standing",
+    "en_desc": "Stand with a good posture holding a cable in each hand opposite the machine\nStarting with the hands in front of your chest pull the arms out to\nyour side into the shape of a T with the elbows nearly straight\nSlowly release the arms forward to the start\nRepeat with the arms moving into the shape of a Y\nRepeat with the arms in the shape of a W\nRepeat with the arms in the shape of an L by your side",
+    "de_name": "Reverse Fly im Stehen",
+    "de_desc": "Stehe mit guter Haltung und halte in jeder Hand ein Kabel gegenüber der Maschine\nBeginne mit den Händen vor deiner Brust und ziehe die Arme zur Seite\nin die Form eines T, wobei die Ellbogen nahezu gestreckt sind\nFühre die Arme langsam wieder nach vorn in die Ausgangsposition\nWiederhole es, indem du die Arme in die Form eines Y bewegst\nWiederhole es mit den Armen in der Form eines W\nWiederhole es mit den Armen in der Form eines L seitlich am Körper"
+  },
+  {
+    "id": "1775",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Pec deck rear delt fly",
+    "en_desc": "Seated rear delt fly on pec deck machine (facing the machine and extending arms backwards, the hands should be at the height of the shoulders)",
+    "de_name": "Reverse Butterfly für die hintere Schulter",
+    "de_desc": "Sitzendes Reverse Butterfly für die hintere Schulter an der Butterfly-Maschine (zur Maschine gewandt und die Arme nach hinten streckend; die Hände sollten sich auf Schulterhöhe befinden)."
+  },
+  {
+    "id": "1825",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Chest-Supported Rear Delt Raise",
+    "en_desc": "\"The Y\"Position: Set an incline bench to 30-45 degrees. Lie face-down with your chest supported, keeping your head neutral or looking slightly down to avoid neck strain.Grip: Hold light dumbbells with a neutral or thumbs-up grip (thumb pointing to the ceiling).Movement: With straight or slightly bent elbows, raise the dumbbells up and out in a \"Y\" shape. Focus on moving the shoulders and shoulder blades rather than just lifting the arms.Top Position: Squeeze the shoulder blades together and reach high, ensuring the arms are angled to form a \"Y\".Control: Lower the dumbbells slowly to the starting position.",
+    "de_name": "Reverse Flys für die hintere Schulter mit Brustauflage",
+    "de_desc": "„Das Y“ – Position: Stelle eine Schrägbank auf 30–45 Grad ein. Lege dich mit dem Gesicht nach unten und gestützter Brust hin und halte den Kopf neutral oder schaue leicht nach unten, um die Nackenmuskulatur zu schonen. Griff: Halte leichte Kurzhanteln mit neutralem Griff oder mit dem Daumen nach oben (Daumen zeigt zur Decke). Bewegung: Mit gestreckten oder leicht gebeugten Ellenbogen hebst du die Kurzhanteln nach oben und außen in eine „Y“-Form. Konzentriere dich darauf, die Schultern und Schulterblätter zu bewegen, statt nur die Arme anzuheben. Obere Position: Ziehe die Schulterblätter zusammen und strecke dich weit nach oben, sodass die Arme ein „Y“ bilden. Kontrolle: Senke die Kurzhanteln langsam in die Ausgangsposition zurück."
+  },
+  {
+    "id": "1936",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable Rear-Delt Fly (single arm)",
+    "en_desc": "Cable rear delt fly (single arm):\nStand sideways to a cable machine with the handle set around shoulder height. With a slight bend in the elbow, pull the handle out and back in a wide arc so the upper arm moves away from the body. Keep your torso still and focus on the rear delt doing the work. Use light to moderate weight and controlled reps.",
+    "de_name": "Reverse Butterfly am Kabel (einarmig)",
+    "de_desc": "Reverse Butterfly am Kabel (einarmig):\nStelle dich seitlich zu einem Kabelzug, mit dem Griff auf etwa Schulterhöhe. Mit einer leichten Beugung im Ellbogen ziehst du den Griff in einem weiten Bogen nach außen und hinten, sodass sich der Oberarm vom Körper wegbewegt. Halte deinen Oberkörper ruhig und konzentriere dich darauf, dass der hintere Deltamuskel die Arbeit verrichtet. Verwende leichtes bis mittleres Gewicht und kontrollierte Wiederholungen."
+  },
+  {
+    "id": "487",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Rear Delt Raises",
+    "en_desc": "Seated on a bench with the dumbbells on the floor bend over at 45 Degrees and then slowly raise each dumbbell to shoulder height and hold for a couple seconds before lowering to the starting position.",
+    "de_name": "Reverse Flys (hintere Schulter)",
+    "de_desc": "Sitze auf einer Bank mit den Kurzhanteln auf dem Boden, beuge dich um 45 Grad nach vorne und hebe dann langsam jede Kurzhantel auf Schulterhöhe an. Halte sie ein paar Sekunden, bevor du sie wieder in die Ausgangsposition absenkst."
+  },
+  {
+    "id": "82",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Bent-Over Lateral Raise",
+    "en_desc": "Sit on bench while holding weights. Bend forward as far as possible, with arms slightly bent at the elbow. Perform a lateral raise while maintaining the bend in your elbow.",
+    "de_name": "Vorgebeugtes Seitheben",
+    "de_desc": "Setze dich auf dem Rand einer Flachbank und beuge den Körper so weit nach vorne, dass er parallel zum Boden ist. Nehme nun die Hanteln und hebe sie seitwärts bis etwas über schulterhöhe. Gehe langsam wieder runter.\nEs ist wichtig, während der Übung, die Arme nicht nach vorn oder nach hinten zu bewegen, sie sollten stets einen rechten Winkel mit dem Körper haben. Wie beim Seitheben im Stehen, sollten sich die Handflächen nicht drehen, sie zeigen also immer zum Boden oder zum Körper."
+  },
+  {
+    "id": "822",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Cable Rear Delt Fly",
+    "en_desc": "The reverse cable fly, also known as the cable rear delt fly, is a deltoid muscle strengthening and definition exercise. It’s one of the best isolation exercises for your back and posterior deltoid.This workout targets your posterior (back) deltoids while using a range of upper body muscles.\n\nAdjust the weight and the pulleys to the right height. You should be able to see the pulleys because they should be above your head.\nWith your right hand, grab the left pulley, and with your left hand, grab the right pulley, crossing them in front of you. This is where you’ll begin your journey.\nStart the movement by moving your arms back and forth while keeping your arms straight.\nPause at the finish of the move for a brief moment before returning the handles to their starting positions.",
+    "de_name": "Reverse Butterfly am Kabel",
+    "de_desc": "Der Reverse Butterfly am Kabel, auch als Cable Rear Delt Fly bekannt, ist eine Übung zur Kräftigung und Definition des Deltamuskels. Sie ist eine der besten Isolationsübungen für deinen Rücken und den hinteren Deltamuskel. Dieses Training beansprucht deine hinteren Deltamuskeln und nutzt dabei eine Reihe von Oberkörpermuskeln.\n\nStelle das Gewicht und die Umlenkrollen auf die richtige Höhe ein. Du solltest die Rollen sehen können, denn sie sollten sich über deinem Kopf befinden.\nGreife mit deiner rechten Hand die linke Rolle und mit deiner linken Hand die rechte Rolle, sodass sie sich vor dir kreuzen. Hier beginnt deine Reise.\nStarte die Bewegung, indem du deine Arme vor- und zurückbewegst und dabei die Arme gestreckt hältst.\nHalte am Ende der Bewegung einen kurzen Moment inne, bevor du die Griffe in ihre Ausgangsposition zurückführst."
+  },
+  {
+    "id": "828",
+    "pattern": "horizontal_pull",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline Bench Reverse Fly",
+    "en_desc": "The incline dumbbell reverse fly is an upper-body exercise targeting the posterior or rear deltoids, as well as the postural muscles of the upper back. Because it targets such small muscles, this exercise is usually performed with light weight for high reps, such as 10-15 reps per set or more.",
+    "de_name": "Reverse Fly auf der Schrägbank",
+    "de_desc": "Der Reverse Fly mit Kurzhanteln auf der Schrägbank ist eine Übung für den Oberkörper, die die hinteren Deltamuskeln sowie die Haltemuskulatur des oberen Rückens beansprucht. Da sie so kleine Muskeln anspricht, wird diese Übung üblicherweise mit leichtem Gewicht und vielen Wiederholungen ausgeführt, etwa 10-15 Wiederholungen pro Satz oder mehr."
+  },
+  {
+    "id": "1019",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Side plank right",
+    "en_desc": "Starting position:\nLie down on your side, with your bottom elbow at a right angle, arm sticking out. Lift your pelvis off the floor by lifting your bottom shoulder up, keeping the forearm on the floor; your head, pelvis, and feet should be in a straight line.\nSteps:\n\nHold this position.",
+    "de_name": "Seitenplanke rechts",
+    "de_desc": "Ausgangsposition:\nLegen Sie sich auf die Seite, wobei der untere Ellbogen einen rechten Winkel bildet und der Arm ausgestreckt ist. Heben Sie Ihr Becken vom Boden ab, indem Sie die untere Schulter anheben und den Unterarm auf dem Boden lassen; Ihr Kopf, Ihr Becken und Ihre Füße sollten eine gerade Linie bilden.\nDie Schritte:\n\nHalten Sie diese Position."
+  },
+  {
+    "id": "1099",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Dynamic side hold",
+    "en_desc": "Sling a rubber band on a kettlebell and lift the kettlebell by the rubber band. Let it hang by your side and stand on one leg, switch leg while continuing hold. Repeat with other hand",
+    "de_name": "Dynamisches seitliches Halten",
+    "de_desc": "Lege ein Gummiband um eine Kettlebell und hebe die Kettlebell am Gummiband an. Lass sie an deiner Seite hängen und stelle dich auf ein Bein, wechsle dann das Bein, während du sie weiter hältst. Wiederhole das Ganze mit der anderen Hand."
+  },
+  {
+    "id": "1188",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Side bend",
+    "en_desc": "With a weight in one hand, extend that arm down and bend the other arm, resting your hand on your head. Now move the hand holding the weight by rotating your torso up and down.",
+    "de_name": "Seitneigung",
+    "de_desc": "Mit einer Hantel in einer Hand streckst du den Arm nach unten und beugst den anderen Arm, wobei du die Hand an den Kopf legst. Nun führst du die Hand mit der Hantel nach oben und unten, während du den Oberkörper drehst."
+  },
+  {
+    "id": "1288",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Dynamic side plank",
+    "en_desc": "The dynamic side plank involves positioning yourself on your side, supported on one elbow and the side of your foot, then dipping your hips up and down while keeping your body in a straight line.",
+    "de_name": "Dynamischer Seitstütz",
+    "de_desc": "Der dynamische Seitstütz beinhaltet, dich auf die Seite zu legen, gestützt auf einen Ellbogen und die Außenseite des Fußes, und dann die Hüfte auf und ab zu kippen, während du eine gerade Körperlinie hältst."
+  },
+  {
+    "id": "1426",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Standing Side Crunches",
+    "en_desc": "Standing side crunches are a dynamic exercise that targets the obliques while improving balance and stability. Stand upright with your feet shoulder-width apart and hands behind your head or holding a dumbbell in one hand. Lean your torso to one side, contracting your obliques, while bringing your elbow toward your hip (or crunching toward the weight if using a dumbbell). Return to the starting position and alternate sides or perform all repetitions on one side before switching.",
+    "de_name": "Stehende seitliche Crunches",
+    "de_desc": "Stehende seitliche Crunches sind eine dynamische Übung, die die seitliche Bauchmuskulatur beansprucht und zugleich Gleichgewicht und Stabilität verbessert. Stelle dich aufrecht hin, die Füße schulterbreit auseinander und die Hände hinter dem Kopf oder mit einer Kurzhantel in einer Hand. Neige deinen Oberkörper zu einer Seite, spanne dabei deine seitliche Bauchmuskulatur an und führe deinen Ellbogen in Richtung deiner Hüfte (oder crunche in Richtung des Gewichts, wenn du eine Kurzhantel verwendest). Kehre in die Startposition zurück und wechsle die Seiten ab oder führe alle Wiederholungen auf einer Seite aus, bevor du wechselst."
+  },
+  {
+    "id": "1650",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell Side Bend",
+    "en_desc": "This exercise involves holding a dumbbell in one hand and bending sideways to work the oblique muscles on the side of the body. It can be done standing or seated and is often used as a core strengthening exercise.",
+    "de_name": "Seitneigung mit Kurzhantel",
+    "de_desc": "Bei dieser Übung hältst du eine Kurzhantel in einer Hand und neigst dich zur Seite, um die seitliche Bauchmuskulatur (Obliques) zu trainieren. Sie kann im Stehen oder im Sitzen ausgeführt werden und wird häufig zur Kräftigung des Rumpfes eingesetzt."
+  },
+  {
+    "id": "577",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Side Dumbbell Trunk Flexion",
+    "en_desc": "AKA dumbbell side bends. Stand in line with the hips with slightly bent knees, maintain the natural curvature of the spine, hand stretched by the body, grip the barbell with one hand. Make slow and controlled torso side flexions till you reach the angle of approximately 45°.",
+    "de_name": "Seitliches Oberkörperbeugen Mit KH",
+    "de_desc": "Zielmuskeln: Schräger Bauchmuskel\nUnterstützende Muskulatur: Gerader Bauchmuskel"
+  },
+  {
+    "id": "580",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Side Plank",
+    "en_desc": "Works your obliques and helps stabilize your spine. Lie on your side and support your body between your forearm and knee to your feet.",
+    "de_name": "Side Plank",
+    "de_desc": "Legen Sie sich auf die Seite und stützen Sie Ihren Körper zwischen Unterarm und Knie bis zu den Füßen."
+  }
+]

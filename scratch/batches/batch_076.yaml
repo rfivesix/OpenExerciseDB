@@ -1,0 +1,27 @@
+batch_id: 76
+movement_pattern: other
+primary_muscle: hip_adductors
+items:
+- id: '1843'
+  name: Butterfly Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1860'
+  name: Foam Roller Adductors
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

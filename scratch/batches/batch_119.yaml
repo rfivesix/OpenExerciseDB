@@ -1,0 +1,14 @@
+batch_id: 119
+movement_pattern: spinal_flexion
+primary_muscle: erector_spinae
+items:
+- id: '1399'
+  name: Roll Down
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

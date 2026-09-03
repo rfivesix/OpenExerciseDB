@@ -1,0 +1,86 @@
+[
+  {
+    "id": "142",
+    "classification_issue": "Both English and German descriptions explicitly describe using a resistance band ('extension band around a post', 'Widerstandsband um einen Pfosten'), but primary_equipment is classified as cable."
+  },
+  {
+    "id": "1004",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege Deine Hände auf Deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.",
+    "new_value": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege deine Hände auf deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.",
+    "reason": "Harmonize capitalization of informal personal pronouns ('Deine' -> 'deine') per project guidelines."
+  },
+  {
+    "id": "1005",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege Deine Hände auf Deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.",
+    "new_value": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege deine Hände auf deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.",
+    "reason": "Harmonize capitalization of informal personal pronouns ('Deine' -> 'deine') per project guidelines."
+  },
+  {
+    "id": "1582",
+    "language": "en",
+    "field": "name",
+    "old_value": "Side-laying interior rotation",
+    "new_value": "Side-Lying Internal Rotation",
+    "reason": "Correct non-standard anatomy term 'interior' to standard biomechanical term 'Internal' and fix participle 'laying' to 'Lying' with Title Case per NAMING.md §1, §4."
+  },
+  {
+    "id": "1835",
+    "language": "en",
+    "field": "description",
+    "old_value": "Sit with your feet pressed against each other, and one knee raised all the way out to the side of your body.\nPlace your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your barbell/dumbbell.\nKeep your shoulder depressed and retracted, raise your hand until your forearm is vertical, as if you were about to wave at someone like a robot.\nLower your hand to the original position and repeat.",
+    "new_value": "Sit with your feet pressed against each other, and one knee raised all the way out to the side of your body.\nPlace your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your dumbbell.\nKeep your shoulder depressed and retracted, raise your hand until your forearm is vertical, as if you were about to wave at someone like a robot.\nLower your hand to the original position and repeat.",
+    "reason": "Classification specifies primary_equipment: dumbbell; remove 'barbell/' to align text with classification arbiter."
+  },
+  {
+    "id": "1835",
+    "language": "de",
+    "field": "description",
+    "old_value": "Setze dich mit aneinandergedrückten Fußsohlen hin und hebe ein Knie ganz zur Seite deines Körpers an.\nLege deinen Ellenbogen auf dein angehobenes Knie, beuge ihn im 90-Grad-Winkel und richte deine Hand direkt nach vorne, während du deine Langhantel/Kurzhantel hältst.\nHalte deine Schulter abgesenkt und zurückgezogen und hebe deine Hand an, bis dein Unterarm senkrecht steht, als würdest du jemandem wie ein Roboter zuwinken.\nSenke deine Hand in die Ausgangsposition zurück und wiederhole die Bewegung.",
+    "new_value": "Setze dich mit aneinandergedrückten Fußsohlen hin und hebe ein Knie ganz zur Seite deines Körpers an.\nLege deinen Ellenbogen auf dein angehobenes Knie, beuge ihn im 90-Grad-Winkel und richte deine Hand direkt nach vorne, während du deine Kurzhantel hältst.\nHalte deine Schulter abgesenkt und zurückgezogen und hebe deine Hand an, bis dein Unterarm senkrecht steht, als würdest du jemandem wie ein Roboter zuwinken.\nSenke deine Hand in die Ausgangsposition zurück und wiederhole die Bewegung.",
+    "reason": "Classification specifies primary_equipment: dumbbell; remove 'Langhantel/' to align text with classification arbiter."
+  },
+  {
+    "id": "1838",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schulterübungen mit Band",
+    "new_value": "Schulterübungen mit Widerstandsband",
+    "reason": "Use authoritative terminology 'Widerstandsband' per vocab/equipment.yaml instead of colloquial 'Band'."
+  },
+  {
+    "id": "406",
+    "language": "en",
+    "field": "description",
+    "old_value": "This is an excercise for problems with the rotator cuff. Primary  Infraspinatus, secondary Teres Minor.\nLying on side. Keep elbow on waist and in 90 dgr angle. Rotate towards stomach. Add weight as fit.",
+    "new_value": "This is an exercise for problems with the rotator cuff. Primary Infraspinatus, secondary Teres Minor.\nLying on side. Keep elbow on waist and at a 90-degree angle. Rotate towards stomach. Add weight as fit.",
+    "reason": "Correct spelling errors ('excercise' -> 'exercise', double space) and colloquial abbreviations ('90 dgr angle' -> '90-degree angle')."
+  },
+  {
+    "id": "578",
+    "language": "en",
+    "field": "description",
+    "old_value": "With a weight in one hand, lie on your side opposite the weight. Keep your knees slightly bent. Hold your elbow against your side, and extend your upper arm straight ahead of you. While continuing to hold your elbow against your side, rotate your upper arm 90 degrees upwards.\nIt is helpful to place a towel under your armpit to help with the form on this exercise. Placing a support under your head for the duration of the exercise is also a good idea.",
+    "new_value": "With a weight in one hand, lie on your side opposite the weight. Keep your knees slightly bent. Hold your elbow against your side, and extend your forearm straight ahead of you. While continuing to hold your elbow against your side, rotate your forearm 90 degrees upwards.\nIt is helpful to place a towel under your armpit to help with the form on this exercise. Placing a support under your head for the duration of the exercise is also a good idea.",
+    "reason": "Correct anatomical error in English description: 'extend your upper arm straight ahead of you' and 'rotate your upper arm 90 degrees upwards' mistakenly refers to the upper arm instead of the forearm (in side-lying external rotation the upper arm stays against the torso/armpit while the forearm rotates upward)."
+  },
+  {
+    "id": "994",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nStehen Sie aufrecht mit geradem Rücken.\nSchritte:\n\nFühren Sie die Arme bei gestrecktem Körper vor sich her, führen Sie sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.\nLassen Sie die Arme wie in Schritt 1 beschrieben kreisen.",
+    "new_value": "Ausgangsposition:\nStehe aufrecht mit geradem Rücken.\nSchritte:\n\nFühre die Arme gestreckt vor deinen Körper, bewege sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.\nLasse die Arme wie in Schritt 1 beschrieben kreisen.",
+    "reason": "Harmonize formal address 'Sie' to standard informal address 'du' across descriptions and correct clumsy phrasing ('bei gestrecktem Körper vor sich her' -> 'gestreckt vor deinen Körper')."
+  },
+  {
+    "id": "995",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nStehen Sie aufrecht mit geradem Rücken.\nSchritte:\n\nHalten Sie die Arme gestreckt und führen Sie sie vor sich her, heben Sie sie über den Kopf und setzen Sie die Bewegung hinter dem Rücken fort, bis Sie wieder in die Ausgangsposition gelangen.\nKreisen Sie die Arme weiter wie in Schritt 1 beschrieben.",
+    "new_value": "Ausgangsposition:\nStehe aufrecht mit geradem Rücken.\nSchritte:\n\nHalte die Arme gestreckt und führe sie vor deinen Körper, hebe sie über den Kopf und setze die Bewegung hinter dem Rücken fort, bis du wieder in die Ausgangsposition gelangst.\nKreise die Arme weiter wie in Schritt 1 beschrieben.",
+    "reason": "Harmonize formal address 'Sie' to standard informal address 'du' across descriptions and refine phrasing ('vor sich her' -> 'vor deinen Körper')."
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "1440",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Push OHP",
+    "en_desc": "Rest bar in front on your shoulders\nBend knees while keeping upper body straight\nExtend legs pushing the bar overhead with force",
+    "de_name": "Push Press",
+    "de_desc": "Lege die Stange vorne auf deinen Schultern ab\nBeuge die Knie, während du den Oberkörper aufrecht hältst\nStrecke die Beine und drücke die Stange mit Schwung über deinen Kopf"
+  },
+  {
+    "id": "1441",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Incline OHP DB",
+    "en_desc": "Sit on a bench with 45° incline\nEllbows 45° out\nMove dumbbells down until upper arms are parallel to shoulders\nMove dumbbells up, meeting overhead",
+    "de_name": "Schrägbank-Schulterdrücken mit Kurzhanteln",
+    "de_desc": "Setze dich auf eine Bank mit 45° Neigung\nEllbogen 45° nach außen\nSenke die Kurzhanteln ab, bis die Oberarme parallel zu den Schultern sind\nBewege die Kurzhanteln nach oben, bis sie sich über dem Kopf treffen"
+  },
+  {
+    "id": "1442",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Kreis Press DB",
+    "en_desc": "Sit on a bench with 45° incline\nHold dumbbells overhead\nMove dumbbells down as if doing overhead press\nRotate dumbbells palms facing up and extend your arms in front of your body\nMove hands together until dumbbells meet, keep arms extended\nReverse the motion until dumbbells are overhead again\nThis is one repetition",
+    "de_name": "Kreis-Press mit Kurzhanteln",
+    "de_desc": "Setze dich auf eine Bank mit 45° Neigung\nHalte die Kurzhanteln über dem Kopf\nSenke die Kurzhanteln ab, als würdest du Schulterdrücken machen\nDrehe die Kurzhanteln so, dass die Handflächen nach oben zeigen, und strecke die Arme vor deinem Körper aus\nFühre die Hände zusammen, bis sich die Kurzhanteln berühren, und halte die Arme gestreckt\nKehre die Bewegung um, bis die Kurzhanteln wieder über dem Kopf sind\nDas ist eine Wiederholung"
+  },
+  {
+    "id": "1504",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Bradford press",
+    "en_desc": "From a front hold of the DBs in a OHP, press above the head, bring back towards the rear of the shoulders, down, and press back forward.",
+    "de_name": "Bradford-Drücken mit Kurzhanteln",
+    "de_desc": "Halte die Kurzhanteln vorne wie beim Schulterdrücken über dem Kopf, drücke sie über den Kopf, führe sie nach hinten zum Nacken, senke sie ab und drücke sie wieder nach vorne."
+  },
+  {
+    "id": "193",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "barbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Diagonal Shoulder Press",
+    "en_desc": "You sit at the bench press device, back slightly tilted to the back. The bar should be about 20 cm in front of you. Then you push the bar and take it back again, as you would with a bench press.\nIn this position you strain your chest muscles a lot less, which is nice if you want to train, but your chest hasn't recovered yet.",
+    "de_name": "Diagonales Schulterdrücken",
+    "de_desc": "Du sitzt am Bankdrück-Gerät, den Rücken leicht nach hinten geneigt. Die Stange sollte sich etwa 20 cm vor dir befinden. Dann drückst du die Stange weg und führst sie wieder zurück, so wie du es beim Bankdrücken tun würdest.\nIn dieser Position belastest du deine Brustmuskulatur deutlich weniger, was praktisch ist, wenn du trainieren möchtest, deine Brust sich aber noch nicht erholt hat."
+  },
+  {
+    "id": "1968",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Single-arm dumbbell shoulder press",
+    "en_desc": "Press the dumbbell vertically overhead in a controlled motion until your arm is fully extended, without locking the elbow. Slowly lower the dumbbell back to the starting position at shoulder height.",
+    "de_name": "Einarmiges Schulterdrücken mit Kurzhantel",
+    "de_desc": "Drücke die Kurzhantel in einer kontrollierten Bewegung senkrecht über den Kopf, bis dein Arm vollständig gestreckt ist, ohne den Ellbogen durchzudrücken. Senke die Kurzhantel langsam wieder in die Ausgangsposition auf Schulterhöhe ab."
+  },
+  {
+    "id": "20",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Arnold Shoulder Press",
+    "en_desc": "Very common shoulder exercise.\nAs shown here:&nbsp;https://www.youtube.com/watch?v=vj2w851ZHRM",
+    "de_name": "Arnold Press",
+    "de_desc": "Zwei Kurzhanteln mit den Handflächen nach innen vor der Brust halten, Ellbogen unterhalb der Handgelenke.\nEllbogen nach außen bringen und Hanteln über den Kopf heben. Drehung kommt aus dem Ellbogen, nicht aus den Armen!\nWenn die Arme durchgestreckt sind, die gleiche Bewegung rückwärts ausführen."
+  },
+  {
+    "id": "454",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Pike Push Ups",
+    "en_desc": "Push Up performed from a pike position (optional to have feet elevated).",
+    "de_name": "Hecht-Liegestütze",
+    "de_desc": "Starre Position:\nDer nach unten gerichtete Hund:Ihr Körper sollte eine V-Form bilden, mit geradem Rücken, Armen und Beinen. Ihre Hüften sollten in der Luft sein.Sie können diese Position erreichen, indem Sie die Hände aus einem hohen Plankenstand nach hinten führen.\nDie Schritte:\n\nBeugen Sie die Ellbogen zur Seite, halten Sie Rücken und Beine gerade und bringen Sie den Kopf näher zum Boden.\nStrecken Sie die Arme aus, drücken Sie die Hüfte wieder nach oben und halten Sie Rücken und Beine gerade.\nWiederholen Sie den Vorgang."
+  },
+  {
+    "id": "478",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Push Press",
+    "en_desc": "Clean your dumbbells onto your shoulders, palms facing in. Take a breath and brace your core.&nbsp;(picture 1)Dip at the knees and use your legs to help&nbsp;(picture 2)&nbsp;press your dumbbells overhead. Lower under control with a slow tempo to your shoulders and repeat.",
+    "de_name": "Push Press",
+    "de_desc": "Bringe deine Kurzhanteln im Cleanen auf deine Schultern, die Handflächen zeigen nach innen. Atme ein und spanne deinen Rumpf an. (Bild 1) Gehe in die Knie und nutze deine Beine, um die Kurzhanteln (Bild 2) über den Kopf zu drücken. Senke sie kontrolliert und in langsamem Tempo wieder zu deinen Schultern ab und wiederhole."
+  },
+  {
+    "id": "567",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Shoulder Press",
+    "en_desc": "Sit on a bench, the back rest should be almost vertical. Take two dumbbells and bring them up to shoulder height, the palms and the elbows point during the whole exercise to the front. Press the weights up, at the highest point they come very near but don't touch. Go slowly down and repeat.",
+    "de_name": "Schulterdrücken KH",
+    "de_desc": "Übung kann im Sitzen oder im Stehen ausgeführt werden\nRücken durchgestreckt, Blick geradeaus, unteren Rücken und Bauchmuskulatur anspannen\nEllenbogen nicht zu weit absenken, idealerweise bis maximal zur Schulterhöhe"
+  },
+  {
+    "id": "569",
+    "pattern": "vertical_push",
+    "primary_group": "shoulders",
+    "primary_equipment": "smith_machine",
+    "setup": [
+      "incline_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Smith Machine Shoulder Press",
+    "en_desc": "The exercise is basically the same as with a free barbell:\nSit on a bench, the back rest should be almost vertical. Take a bar with a shoulder wide grip and bring it down to chest height. Press the weight up, but don't stretch the arms completely. Go slowly down and repeat.",
+    "de_name": "Frontdrücken MP",
+    "de_desc": "Selbe Durchführung wie mit der Langhantel. Setze dich auf eine Bank, stelle die Lehne fast Senkrecht ein. Greife die Stange etwas mehr als Schulterbreit und hebe sie auf Brusthöhe. Drücke sie nun nach oben, strecke die Arme aber nicht vollständig aus. Bringe das Gewicht langsam wieder runter, bis sie wie beim Bankdrücken die Brust kurz berührt."
+  },
+  {
+    "id": "1378",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Cable Lateral Raises (Single Arm)",
+    "en_desc": "The single arm cable lateral raise is a variation of the lateral raise and an exercise used to build the muscles of the shoulders.\n\nPosition a cable at the lowest position possible and attach a single handle.\nReach across your body and grab the handle with a neutral grip.\nKeep the elbow slightly bent and pull the handle across your body and raise laterally.\nSlowly lower the handle back to the starting position under control.",
+    "de_name": "Seitheben am Kabelzug (einarmig)",
+    "de_desc": "Das einarmige Seitheben am Kabelzug ist eine Variation des Seithebens und eine Übung, mit der die Schultermuskulatur aufgebaut wird.\n\nPositioniere ein Kabel in der niedrigstmöglichen Position und befestige einen einzelnen Griff.\nGreife mit der gegenüberliegenden Hand über deinen Körper hinweg den Griff mit neutralem Griff.\nHalte den Ellbogen leicht gebeugt und ziehe den Griff über deinen Körper, während du seitlich anhebst.\nSenke den Griff langsam und kontrolliert zurück in die Startposition."
+  },
+  {
+    "id": "1443",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Shoulder Raise Side and Front DB",
+    "en_desc": "Stand while holding dumbbells beside body\nKeep arms almost fully extended\nWithout momentum raise dumbbells to the side of your body until shoulder height, palms facing down\nLower dumbbells beside body, palms facing inwards\nImmediately raise dumbbells in front of your body until shoulder height, palms facing down\nDown again\nThis is one repetition",
+    "de_name": "Seitheben und Frontheben mit Kurzhanteln",
+    "de_desc": "Stehe aufrecht und halte die Kurzhanteln seitlich am Körper\nHalte die Arme nahezu vollständig gestreckt\nHebe die Kurzhanteln ohne Schwung seitlich bis auf Schulterhöhe an, Handflächen nach unten\nSenke die Kurzhanteln seitlich am Körper ab, Handflächen nach innen\nHebe die Kurzhanteln sofort vor dem Körper bis auf Schulterhöhe an, Handflächen nach unten\nWieder absenken\nDas ist eine Wiederholung"
+  },
+  {
+    "id": "1602",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Scaption",
+    "en_desc": "Starting position:\nStand upright with your feet shoulder-width apart.\nHold a dumbbell in each hand with a neutral grip (palms facing each other).\nKeep a slight bend in your elbows, shoulders relaxed and shoulder blades pulled back.\nExecution:\nSlowly raise the dumbbells forward and slightly to the side, at about a 30–45° angle from your body (between a front raise and a lateral raise).\nLift until your arms are about shoulder height (do not go overhead).\nPause for a second at the top and feel the activation in your shoulders and scapular stabilizers.\nLower the dumbbells back down under control to the starting position.\nBreathing:\nInhale as you lower the dumbbells.\nExhale as you lift them.\nCommon mistakes:\nUsing dumbbells that are too heavy (causing jerky movements).\nLifting above shoulder height (puts unnecessary stress on the shoulder joint).\nArching the lower back instead of keeping the movement controlled at the shoulders.\nPurpose of the exercise:\nActivates the lower trapezius, serratus anterior, and scapular stabilizers.\nHelps correct posture and improve shoulder balance.",
+    "de_name": "Kurzhantel-Scaption",
+    "de_desc": "Ausgangsposition:\nStelle dich aufrecht hin, mit den Füßen schulterbreit auseinander.\nHalte in jeder Hand eine Kurzhantel mit neutralem Griff (Handflächen zeigen zueinander).\nHalte die Ellbogen leicht gebeugt, die Schultern entspannt und die Schulterblätter nach hinten gezogen.\nAusführung:\nHebe die Kurzhanteln langsam nach vorn und leicht zur Seite, in einem Winkel von etwa 30–45° zu deinem Körper (zwischen einem Frontheben und einem Seitheben).\nHebe sie an, bis deine Arme etwa auf Schulterhöhe sind (gehe nicht über den Kopf).\nHalte am höchsten Punkt eine Sekunde inne und spüre die Aktivierung in deinen Schultern und den Schulterblattstabilisatoren.\nSenke die Kurzhanteln kontrolliert wieder in die Ausgangsposition ab.\nAtmung:\nAtme ein, während du die Kurzhanteln absenkst.\nAtme aus, während du sie anhebst.\nHäufige Fehler:\nDie Verwendung zu schwerer Kurzhanteln (was zu ruckartigen Bewegungen führt).\nDas Anheben über Schulterhöhe (was das Schultergelenk unnötig belastet).\nEin Hohlkreuz im unteren Rücken, anstatt die Bewegung kontrolliert aus den Schultern auszuführen.\nZweck der Übung:\nAktiviert den unteren Trapezmuskel, den vorderen Sägemuskel und die Schulterblattstabilisatoren.\nHilft, die Haltung zu korrigieren und das Gleichgewicht der Schultern zu verbessern."
+  },
+  {
+    "id": "1654",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Machine Lateral Raise",
+    "en_desc": "The machine lateral raise is an isolation exercise that targets the medial (side) deltoid muscle to build wider, more defined shoulders. The machine's fixed path of motion provides greater stability than dumbbells, making it ideal for beginners or those who want to focus solely on muscle activation.",
+    "de_name": "Seitheben an der Maschine",
+    "de_desc": "Das Seitheben an der Maschine ist eine Isolationsübung, die den mittleren (seitlichen) Anteil des Deltamuskels trainiert, um breitere und definiertere Schultern aufzubauen. Die feste Bewegungsbahn der Maschine bietet mehr Stabilität als Kurzhanteln und macht sie ideal für Einsteiger oder alle, die sich ganz auf die Muskelaktivierung konzentrieren möchten."
+  },
+  {
+    "id": "1807",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Behind the Back Cable Lateral Raise",
+    "en_desc": "Lateral raises have long been a staple for building capped delts, and lifters use everything from dumbbells and bands to machines and single-arm variations to make them grow.",
+    "de_name": "Seitheben am Kabelzug hinter dem Rücken",
+    "de_desc": "Seitheben ist seit Langem ein Klassiker zum Aufbau ausgeprägter Schultern, und Trainierende nutzen alles von Kurzhanteln und Bändern bis hin zu Maschinen und einarmigen Varianten, um sie wachsen zu lassen."
+  },
+  {
+    "id": "1882",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "High-Cable Lateral Raise",
+    "en_desc": "Stand next to a cable machine with the pulley set to waist height.\nGrab the opposite-side handle with the hand farthest from the\npulley, keeping your palm facing in.\nKeep your core engaged, chest lifted, and shoulders relaxed. Maintain a slight bend in the elbow throughout the lift.\nLift your arm out to the side until your elbow reaches shoulder height, keeping your wrist aligned with your elbow.\nBriefly pause at the top, then slowly lower the handle back to your side with control. Repeat for the desired reps.",
+    "de_name": "Seitheben am hohen Kabelzug",
+    "de_desc": "Stelle dich neben eine Kabelzugmaschine, mit der Rolle auf Hüfthöhe eingestellt.\nGreife den Griff der gegenüberliegenden Seite mit der Hand, die am weitesten von der Rolle entfernt ist, und halte deine Handfläche nach innen.\nHalte deinen Rumpf angespannt, die Brust aufgerichtet und die Schultern entspannt. Behalte während des gesamten Hebens eine leichte Beugung im Ellenbogen bei.\nHebe deinen Arm zur Seite an, bis dein Ellenbogen Schulterhöhe erreicht, und halte dein Handgelenk auf einer Linie mit deinem Ellenbogen.\nHalte am obersten Punkt kurz inne und senke den Griff dann langsam und kontrolliert wieder zu deiner Seite. Wiederhole für die gewünschte Anzahl an Wiederholungen."
+  },
+  {
+    "id": "31",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Axe Hold",
+    "en_desc": "Grab dumbbells and extend arms to side and hold as long as you can",
+    "de_name": "Axe Hold",
+    "de_desc": "Nehmen Sie die Hanteln und strecken Sie die Arme zur Seite. Halten Sie sie so lange wie möglich."
+  },
+  {
+    "id": "348",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Lateral Raises",
+    "en_desc": "This exercise works the deltoid muscle of the shoulder. The movement starts with the arms straight, and the hands holding weights at the sides or in front of the body. Body is in a slight forward-leaning position with hips and knees bent a little. Arms are kept straight or slightly bent, and raised through an arc of movement in the coronal plane that terminates when the hands are at approximately shoulder height. Weights are lowered to the starting position, completing one rep. When using a cable machine the individual stands with the coronal plane in line with the pulley, which is at or near the ground.[9] The exercise can be completed one shoulder at a time (with the other hand used to stabilize the body against the weight moved), or with both hands simultaneously if two parallel pulleys are available.",
+    "de_name": "Seitheben KH",
+    "de_desc": "Aufrechter Stand, Kopf nach vorne gerichtet, eine Kurzhantel in jeder Hand.\nHandflächen nach innen, in Richtung des Körpers, gerichtet.\nHebe die Hanteln seitlich nach oben, ohne Schwung zu holen. Atme aus. Die Ellenbogen sind leicht gebeugt. Hebe die Kurzhanteln soweit, bis die Arme parallel zum Boden sind.\nAm obersten Punkt sollten deine Handflächen nach unten zeigen.\nAm höchsten Punkt hältst du für 1-2 Sekunden inne und ziehst deine Schulterblätter zusammen.\nFühre die Hanteln langsam wieder nach unten in die Ausgangsposition und atme ein."
+  },
+  {
+    "id": "349",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "One-Arm Cable Lateral Row",
+    "en_desc": "Set cable at waist height, start with arm across your belly and move han over and out too other side, one arm at the time.",
+    "de_name": "Seitheben am Kabel, Einarmig",
+    "de_desc": "Stelle dich aufrecht neben einem Kabelzug und halte dich mit der einen Hand fest, mit der anderen nimmst du den Kabelgriff. Hebe nun den Arm mit dem Gewicht seitlich, strecke ihn aber nicht aus. Bewege während der Übung nur diesen Arm, schwinge nicht mit und drehe deinen Rumpf auch nicht mit. Auf dem höchsten Punkt machst du 1sek. Pause und gehst dann langsam runter. Wenn deine Hand kurz vor deinem Körper ist, bringst du das Gewicht wieder rauf."
+  },
+  {
+    "id": "351",
+    "pattern": "shoulder_abduction",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Lateral-to-Front Raises",
+    "en_desc": "-(1) Perform a lateral raise, pausing at the top of the lift (2).\n-Instead of lowering the weight, bring it to the front of your body so that you appear to be at the top position of a front raise.&nbsp; You will do this by using a Pec Fly motion, maintaining straight arms. (3)\n-Now lower the weight to your quadriceps, or, in other words, lower the dumbbells as though you are completing a Front Raise repetition. (4)\n-Reverse the motion:&nbsp; Perform a front raise (5), at the apex of the lift use a Reverse Fly motion to position the weights at the top of a Lateral Raise (6), and finally, lower the weights until your palms are essentially touching the sides of your thighs (7).&nbsp; THIS IS ONE REP.\n(1) l&nbsp; front view(2) -l-&nbsp; FV&nbsp; (3) l-&nbsp; side view &nbsp; (4) l&nbsp; SV/FV &nbsp; (5) l-&nbsp; SV (6) -l- &nbsp;FV&nbsp; (7)&nbsp; l&nbsp; FV/SV",
+    "de_name": "Seitheben zum Frontheben",
+    "de_desc": "-(1) Führe ein Seitheben aus und halte am höchsten Punkt der Bewegung kurz inne (2).\n-Anstatt das Gewicht abzusenken, führe es vor deinen Körper, sodass du dich scheinbar in der oberen Position eines Fronthebens befindest. Dies erreichst du mit einer Pec-Fly-Bewegung bei gestreckten Armen. (3)\n-Senke nun das Gewicht zu deinen Oberschenkeln ab, mit anderen Worten, senke die Kurzhanteln so, als würdest du eine Frontheben-Wiederholung abschließen. (4)\n-Kehre die Bewegung um: Führe ein Frontheben aus (5), nutze am höchsten Punkt der Bewegung eine umgekehrte Fly-Bewegung, um die Gewichte in die obere Position eines Seithebens zu bringen (6), und senke schließlich die Gewichte ab, bis deine Handflächen praktisch die Außenseiten deiner Oberschenkel berühren (7). DAS IST EINE WIEDERHOLUNG.\n(1) l Frontansicht (2) -l- FA (3) l- Seitenansicht (4) l SA/FA (5) l- SA (6) -l- FA (7) l FA/SA"
+  },
+  {
+    "id": "1021",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Right-Leg Calf Raise",
+    "en_desc": "Stand on the floor or on the edge of a step to increase the range of movement.\nRaise one foot.\nLift your heel until you're standing on your toes.\n(variable) Stay in this position for three seconds\nSlowly lower your foot until you almost touch the ground with your heel - don't slam your foot!",
+    "de_name": "Wadenheben rechtes Bein",
+    "de_desc": "Stelle Dich auf den Boden oder auf die Kante einer Stufe. Hebe einen Fuß an und lege den oberen Teil auf die Wade.\nHebe die Fersen an, bis Du auf den Zehenspitzen stehst.\nBleibe drei Sekunden lang in dieser Position und senke dann den Fuß, ohne mit der Ferse den Boden zu berühren."
+  },
+  {
+    "id": "1203",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Left-Leg Calf Raise",
+    "en_desc": "Stand on the floor or on the edge of a step to increase the range of movement.\nRaise one foot.\nLift your heel until you're standing on your toes.\n(variable) Stay in this position for three seconds\nSlowly lower your foot until you almost touch the ground with your heel - don't slam your foot!",
+    "de_name": "Wadenheben, linkes Bein",
+    "de_desc": "Stelle dich auf den Boden oder auf die Kante einer Stufe, um den Bewegungsumfang zu vergrößern.\nHebe einen Fuß an.\nHebe die Ferse, bis du auf den Zehenspitzen stehst.\n(variabel) Bleibe drei Sekunden lang in dieser Position.\nSenke deinen Fuß langsam ab, bis du mit der Ferse fast den Boden berührst - lass den Fuß nicht herunterfallen!"
+  },
+  {
+    "id": "1242",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "resistance_band",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Exercise Band Plantarflexion",
+    "en_desc": "Banded plantarflexion is a great way to bridge the gap between plantarflexion range of motion and the more strenuous calf raises in weight bearing. This can help strengthen the calf muscles, load the Achilles tendon, and improve plantarflexion range of motion.",
+    "de_name": "Plantarflexion mit Widerstandsband",
+    "de_desc": "Die Plantarflexion mit Band ist eine gute Möglichkeit, die Lücke zwischen dem Bewegungsumfang der Plantarflexion und den anstrengenderen Wadenheben unter Belastung zu überbrücken. Das kann helfen, die Wadenmuskulatur zu stärken, die Achillessehne zu belasten und den Bewegungsumfang der Plantarflexion zu verbessern."
+  },
+  {
+    "id": "1243",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Double Leg Calf Raise",
+    "en_desc": "The double leg heel raise is important to strengthen and create control and stability around the ankle and knee, and provide balance and control for the hip and pelvis.",
+    "de_name": "Beidbeiniges Wadenheben",
+    "de_desc": "Das beidbeinige Wadenheben ist wichtig, um Kontrolle und Stabilität rund um Sprunggelenk und Knie zu stärken und aufzubauen sowie Gleichgewicht und Kontrolle für Hüfte und Becken zu schaffen."
+  },
+  {
+    "id": "146",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Calf Press Using Leg Press Machine",
+    "en_desc": "Put&nbsp; the balls of your feet on an extended leg press pad.&nbsp; Use your calves to press the weight by flexing your feet/toes into a pointed position, and releasing back into a relaxed position.\nThis exercise builds mass and strength in the Gastrocnemius and Soleus muscles as well, if not better, than any calf exercise.",
+    "de_name": "Wadendrücken an Beinpresse",
+    "de_desc": "Legen Sie die Fußballen auf eine Beinpresse. Verwenden Sie Ihre Waden, um das Gewicht zu drücken, indem Sie Ihre Füße / Zehen in eine spitze Position beugen und in eine entspannte Position zurücklassen.\nDiese Übung baut Masse und Kraft in den Gastrocnemius- und Soleus-Muskeln auf, wenn nicht sogar besser als jede Wadenübung."
+  },
+  {
+    "id": "148",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hack Squat Calf Raise",
+    "en_desc": "Place yourself on the machine with your back firmly against the backrest, the feet are on the platform for calf raises. Check that the feet are half free and that you can completely stretch the calf muscles down.\nWith straight knees pull up your weight as much as you can. Go with a fluid movement down till the calves are completely stretched. Repeat.",
+    "de_name": "Wadenheben an Hackenschmidt",
+    "de_desc": "Setze dich auf die Maschine mit dem Rücken fest gegen die Lehne und stelle die Füße auf die Plattform für Wadenheben etwa schulterbreit. Prüfe dass etwa die Hälfte noch drauf sind und du die Wadenmuskeln nach unten komplett austrecken kannst.\nMit geraden Knien strecke dann die Waden und gehe so hoch wie möglich. Gehe dann runter bis die Waden komplet ausgestreckt sind und wiederhole die Bewegung."
+  },
+  {
+    "id": "1620",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Seated Dumbbell Calf Raise",
+    "en_desc": "The seated dumbbell calf raise is a targeted exercise for strengthening the lower leg muscles. It follows the same movement pattern as the machine version: you place the weight on your knees, and by extending and flexing your ankles, you move the weight.",
+    "de_name": "Sitzendes Wadenheben mit Kurzhantel",
+    "de_desc": "Das sitzende Wadenheben mit Kurzhantel ist eine gezielte Übung zur Kräftigung der Unterschenkelmuskulatur. Sie folgt demselben Bewegungsablauf wie die Variante an der Maschine: Du legst das Gewicht auf deine Knie und bewegst es durch Strecken und Beugen der Fußgelenke."
+  },
+  {
+    "id": "590",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "machine",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Sitting Calf Raises",
+    "en_desc": "Sit on a bench for calf raises and check that the feet are half free and that you can completely stretch the calf muscles down. Pull your calves up, going as far (up) as you can. Make at the highest point a short pause of 1 or 2 seconds and go down.",
+    "de_name": "Wadenheben Sitzend",
+    "de_desc": "Setze dich auf die Bank und stelle die Fußspitzen so auf den Rand, dass du die Waden komplett nach unten austrecken kannst. Ziehe nun die Wadenmuskeln zusammen und gehe so hoch es geht. Mache auf dem höchsten Punkt eine kurze Pause (1-2 sek.) und gehe dann runter."
+  },
+  {
+    "id": "622",
+    "pattern": "plantar_flexion",
+    "primary_group": "calves",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Standing Calf Raises",
+    "en_desc": "Get onto the calf raises machine, you should able to completely push your calves down. Stand straight, don't make a hollow back and don't bend your legs. Pull yourself up as high as you can. Make a small pause of 1 - 2 seconds and go slowly down.",
+    "de_name": "Wadenheben Stehend",
+    "de_desc": "Die Füße werden auf die in der Maschine dafür vorgesehene Stelle positioniert, wobei man die Fersen (und damit die Wadenmuskeln) komplett nach unten austrecken kann. Halte den Körper gerade, mache kein Hohlkreuz und beuge die Beine nicht.\nZiehe nun die Wadenmuskeln zusammen und gehe so hoch es geht. Mache auf dem höchsten Punkt eine kurze Pause (1-2 sek.) und gehe dann runter."
+  }
+]

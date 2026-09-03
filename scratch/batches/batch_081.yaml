@@ -1,0 +1,22 @@
+batch_id: 81
+movement_pattern: vertical_pull
+primary_muscle: biceps_brachii
+items:
+- id: '1971'
+  name: Mentzer Pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1280'
+  name: Biceps Close Grip Pull Down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

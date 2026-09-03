@@ -1,0 +1,14 @@
+batch_id: 102
+movement_pattern: other
+primary_muscle: delt_anterior
+items:
+- id: '1841'
+  name: Seated Shoulder Extension Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja

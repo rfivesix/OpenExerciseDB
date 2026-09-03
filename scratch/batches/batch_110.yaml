@@ -1,0 +1,12 @@
+batch_id: 110
+movement_pattern: rotation
+primary_muscle: neck_extensors
+items:
+- id: '1007'
+  name: Head turns
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - ja

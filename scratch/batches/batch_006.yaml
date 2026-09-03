@@ -1,0 +1,299 @@
+batch_id: 6
+movement_pattern: spinal_flexion
+primary_muscle: rectus_abdominis
+items:
+- id: '1286'
+  name: Dynamic Planche
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '378'
+  name: Leg Raises, Standing
+  primary_equipment: bodyweight
+  setup:
+  - dip_bars
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '505'
+  name: Roman Chair Crunch
+  primary_equipment: bodyweight
+  setup:
+  - roman_chair
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '591'
+  name: Sit-ups
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  - flat_bench
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1474'
+  name: W-Raise
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1415'
+  name: Dumbbell Crunches
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1287'
+  name: Reach ups
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '174'
+  name: Crunches With Legs Up
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1478'
+  name: Levitation Crunch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '283'
+  name: Hanging Leg Raises
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - fr
+  - ja
+- id: '1648'
+  name: Weighted Crunch
+  primary_equipment: weight_plate
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '978'
+  name: Knee Raises
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '173'
+  name: Crunches With Cable
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '427'
+  name: Negative Crunches
+  primary_equipment: bodyweight
+  setup:
+  - decline_bench
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '165'
+  name: Ball crunches
+  primary_equipment: bodyweight
+  setup:
+  - swiss_ball
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '172'
+  name: Crunches on Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '979'
+  name: Leg raises pull up bar
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '167'
+  name: Crunches
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '976'
+  name: Medicine ball booklet crunch
+  primary_equipment: medicine_ball
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1105'
+  name: Seated Knee Tuck
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '171'
+  name: Incline Crunches
+  primary_equipment: bodyweight
+  setup:
+  - incline_bench
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1889'
+  name: Decline Bench Leg Raise
+  primary_equipment: bodyweight
+  setup:
+  - decline_bench
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1772'
+  name: Reverse crunch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1924'
+  name: 3008 Abdominal Crunch
+  primary_equipment: machine
+  setup: []
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2488'
+  name: Posterior Pelvic Tilt
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1933'
+  name: Abdominal Crunch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1476'
+  name: Butterfly Sit Up
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '377'
+  name: Leg Raises, Lying
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1529'
+  name: Toes to bar
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

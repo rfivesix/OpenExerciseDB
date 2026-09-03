@@ -1,0 +1,14 @@
+batch_id: 115
+movement_pattern: shoulder_abduction
+primary_muscle: traps_lower
+items:
+- id: '1679'
+  name: Wall Angels
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: shoulder_abduction
+  laterality: bilateral
+  needs:
+  - it
+  - ja

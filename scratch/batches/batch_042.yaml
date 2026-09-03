@@ -1,0 +1,55 @@
+batch_id: 42
+movement_pattern: hip_adduction
+primary_muscle: hip_adductors
+items:
+- id: '1605'
+  name: Copenhagen Adduction Exercise
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: hip_adduction
+  laterality: unilateral
+  needs:
+  - ja
+- id: '12'
+  name: Seated Hip Adduction
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_adduction
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2492'
+  name: Adductors
+  primary_equipment: machine
+  setup: []
+  movement_pattern: hip_adduction
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1724'
+  name: Standing Adduction (Cable)
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  - ankle_straps
+  movement_pattern: hip_adduction
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2493'
+  name: Adductor Side Plank
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: hip_adduction
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja

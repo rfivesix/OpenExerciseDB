@@ -1,0 +1,36 @@
+batch_id: 11
+movement_pattern: elbow_flexion
+items:
+- id: '1483'
+  name: Bizeps Curls Trifecta
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2539'
+  name: Preacher Curl Isometric
+  primary_equipment: dumbbell
+  setup:
+  - preacher_bench
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '208'
+  name: Dumbbells on Scott Machine
+  primary_equipment: dumbbell
+  setup:
+  - preacher_bench
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

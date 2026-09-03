@@ -1,0 +1,13 @@
+batch_id: 96
+movement_pattern: hinge
+primary_muscle: gluteus_medius
+items:
+- id: '2447'
+  name: Hip Airplane
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: hinge
+  laterality: unilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,15 @@
+batch_id: 107
+movement_pattern: rotation
+primary_muscle: calves
+items:
+- id: '1864'
+  name: Ankle Roll
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

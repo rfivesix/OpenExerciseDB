@@ -1,0 +1,13 @@
+batch_id: 123
+movement_pattern: squat
+primary_muscle: gluteus_medius
+items:
+- id: '1735'
+  name: Single-leg side glute press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: squat
+  laterality: unilateral
+  needs:
+  - it
+  - ja

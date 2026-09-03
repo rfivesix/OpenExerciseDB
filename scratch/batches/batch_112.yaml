@@ -1,0 +1,15 @@
+batch_id: 112
+movement_pattern: rotation
+primary_muscle: trapezius
+items:
+- id: '1822'
+  name: Open Book
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja

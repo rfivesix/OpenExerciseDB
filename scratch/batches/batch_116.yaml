@@ -1,0 +1,15 @@
+batch_id: 116
+movement_pattern: shoulder_flexion
+primary_muscle: deltoid
+items:
+- id: '1223'
+  name: Claps over the head
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: shoulder_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

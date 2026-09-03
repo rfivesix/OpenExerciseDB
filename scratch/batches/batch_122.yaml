@@ -1,0 +1,16 @@
+batch_id: 122
+movement_pattern: spinal_flexion
+primary_muscle: obliques_external
+items:
+- id: '688'
+  name: Upper External Oblique
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: spinal_flexion
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja

@@ -1,0 +1,24 @@
+batch_id: 79
+movement_pattern: plantar_flexion
+primary_muscle: soleus
+items:
+- id: '590'
+  name: Sitting Calf Raises
+  primary_equipment: machine
+  setup:
+  - flat_bench
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1620'
+  name: Seated Dumbbell Calf Raise
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,1590 @@
+[
+  {
+    "id": "1730",
+    "name": "Side Lateral Raise (Cable)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "barry",
+      "source_id": "2856"
+    }
+  },
+  {
+    "id": "1752",
+    "name": "Side lateral raise - Front (Cable)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2889"
+    }
+  },
+  {
+    "id": "1753",
+    "name": "Side lateral raise - Back (Cable)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2890"
+    }
+  },
+  {
+    "id": "1754",
+    "name": "45° lateral raises",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2891"
+    }
+  },
+  {
+    "id": "1807",
+    "name": "Behind the Back Cable Lateral Raise",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "LEBRERO",
+      "source_id": "2934"
+    }
+  },
+  {
+    "id": "1879",
+    "name": "Incline DB Y-Raise",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_lateral",
+      "traps_lower"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Deflation",
+      "source_id": "3023"
+    }
+  },
+  {
+    "id": "1882",
+    "name": "High-Cable Lateral Raise",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Deflation",
+      "source_id": "3026"
+    }
+  },
+  {
+    "id": "2538",
+    "name": "Lateral Raise Isometric",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "cable",
+    "muscles": [
+      "delt_lateral"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "HexoctusEngineering",
+      "source_id": "5009"
+    }
+  },
+  {
+    "id": "1606",
+    "name": "Arm Raises (T/Y/I)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "deltoid",
+      "trapezius"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "WiNNiE",
+      "source_id": "2580"
+    }
+  },
+  {
+    "id": "1679",
+    "name": "Wall Angels",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_abduction",
+    "equipment": "bodyweight",
+    "muscles": [
+      "traps_lower"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "bbayuwega",
+      "source_id": "2801"
+    }
+  },
+  {
+    "id": "254",
+    "name": "Front Raises with Plates",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "weight_plate",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "Marius",
+      "source_id": "1047"
+    }
+  },
+  {
+    "id": "256",
+    "name": "Front Raises",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "Manu, wikipedia",
+      "source_id": "233"
+    }
+  },
+  {
+    "id": "917",
+    "name": "Straight Bar Cable Front Raise",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "cable",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "novadani",
+      "source_id": "1196"
+    }
+  },
+  {
+    "id": "1338",
+    "name": "Shoulder Raise (Dumbbell)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "dumbbell",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Anastasious",
+      "source_id": "2308"
+    }
+  },
+  {
+    "id": "1731",
+    "name": "Front Raise (Cable)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "cable",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "barry",
+      "source_id": "2857"
+    }
+  },
+  {
+    "id": "1745",
+    "name": "Cable Front Raise with a small bar",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "cable",
+    "muscles": [
+      "delt_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2876"
+    }
+  },
+  {
+    "id": "1223",
+    "name": "Claps over the head",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "shoulder_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "deltoid"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Lynn_McIntyre",
+      "source_id": "2188"
+    }
+  },
+  {
+    "id": "301",
+    "name": "Hyperextensions",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "128"
+    }
+  },
+  {
+    "id": "516",
+    "name": "Front Wood Chop",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Konsumopfer",
+      "source_id": "1063"
+    }
+  },
+  {
+    "id": "636",
+    "name": "Superman",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "baldurmen",
+      "source_id": "330"
+    }
+  },
+  {
+    "id": "1143",
+    "name": "Back extensión",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "machine",
+    "muscles": [
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Franpol",
+      "source_id": "2122"
+    }
+  },
+  {
+    "id": "1210",
+    "name": "Skydiver with arms in T-position",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "lxmx",
+      "source_id": "2174"
+    }
+  },
+  {
+    "id": "1263",
+    "name": "Back bridge",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cynomops",
+      "source_id": "2220"
+    }
+  },
+  {
+    "id": "1348",
+    "name": "Lower Back Extensions",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Anastasious",
+      "source_id": "2318"
+    }
+  },
+  {
+    "id": "1455",
+    "name": "Towel Superman",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "latissimus_dorsi"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Yderkone",
+      "source_id": "2421"
+    }
+  },
+  {
+    "id": "1487",
+    "name": "Hyper Y W Combo",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "weight_plate",
+    "muscles": [
+      "erector_spinae",
+      "traps_lower"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Moffi",
+      "source_id": "2450"
+    }
+  },
+  {
+    "id": "1810",
+    "name": "Sphinx",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Joculari",
+      "source_id": "2939"
+    }
+  },
+  {
+    "id": "1908",
+    "name": "Butterfly Superman",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cybro",
+      "source_id": "3055"
+    }
+  },
+  {
+    "id": "1011",
+    "name": "Front neck stretch",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "neck_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1896"
+    }
+  },
+  {
+    "id": "1450",
+    "name": "Cobra Stretch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "hpmbala@gmail.com",
+      "source_id": "2415"
+    }
+  },
+  {
+    "id": "1399",
+    "name": "Roll Down",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "erector_spinae",
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2366"
+    }
+  },
+  {
+    "id": "1394",
+    "name": "Sit & Reach",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2361"
+    }
+  },
+  {
+    "id": "1002",
+    "name": "Child's pose",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "latissimus_dorsi",
+      "erector_spinae"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1791"
+    }
+  },
+  {
+    "id": "688",
+    "name": "Upper External Oblique",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "obliques_external"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "http://www.carinatum.com/",
+      "source_id": "258"
+    }
+  },
+  {
+    "id": "165",
+    "name": "Ball crunches",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Konsumopfer",
+      "source_id": "1051"
+    }
+  },
+  {
+    "id": "167",
+    "name": "Crunches",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "91"
+    }
+  },
+  {
+    "id": "171",
+    "name": "Incline Crunches",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "1052"
+    }
+  },
+  {
+    "id": "172",
+    "name": "Crunches on Machine",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "94"
+    }
+  },
+  {
+    "id": "173",
+    "name": "Crunches With Cable",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "cable",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "92"
+    }
+  },
+  {
+    "id": "174",
+    "name": "Crunches With Legs Up",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "krisbbb",
+      "source_id": "416"
+    }
+  },
+  {
+    "id": "283",
+    "name": "Hanging Leg Raises",
+    "needs": [
+      "fr",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "robhoyt",
+      "source_id": "166"
+    }
+  },
+  {
+    "id": "427",
+    "name": "Negative Crunches",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "93"
+    }
+  },
+  {
+    "id": "505",
+    "name": "Roman Chair Crunch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "MaddieBeasley",
+      "source_id": "263"
+    }
+  },
+  {
+    "id": "591",
+    "name": "Sit-ups",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "95"
+    }
+  },
+  {
+    "id": "976",
+    "name": "Medicine ball booklet crunch",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "medicine_ball",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "1286"
+    }
+  },
+  {
+    "id": "978",
+    "name": "Knee Raises",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "1291"
+    }
+  },
+  {
+    "id": "979",
+    "name": "Leg raises pull up bar",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "1293"
+    }
+  },
+  {
+    "id": "1105",
+    "name": "Seated Knee Tuck",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "utkb",
+      "source_id": "2070"
+    }
+  },
+  {
+    "id": "1286",
+    "name": "Dynamic Planche",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "painDpice",
+      "source_id": "2253"
+    }
+  },
+  {
+    "id": "1287",
+    "name": "Reach ups",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "painDpice",
+      "source_id": "2254"
+    }
+  },
+  {
+    "id": "1415",
+    "name": "Dumbbell Crunches",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "dumbbell",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "hpmbala@gmail.com",
+      "source_id": "2385"
+    }
+  },
+  {
+    "id": "1474",
+    "name": "W-Raise",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "obliques"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Moffi",
+      "source_id": "2437"
+    }
+  },
+  {
+    "id": "1476",
+    "name": "Butterfly Sit Up",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Moffi",
+      "source_id": "2439"
+    }
+  },
+  {
+    "id": "1478",
+    "name": "Levitation Crunch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Moffi",
+      "source_id": "2441"
+    }
+  },
+  {
+    "id": "1529",
+    "name": "Toes to bar",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "florian.bussmann",
+      "source_id": "2487"
+    }
+  },
+  {
+    "id": "1648",
+    "name": "Weighted Crunch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "weight_plate",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "AlucardEvil40",
+      "source_id": "2759"
+    }
+  },
+  {
+    "id": "1772",
+    "name": "Reverse crunch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "eufvksruh",
+      "source_id": "2906"
+    }
+  },
+  {
+    "id": "1889",
+    "name": "Decline Bench Leg Raise",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "nishant0712",
+      "source_id": "3036"
+    }
+  },
+  {
+    "id": "1924",
+    "name": "3008 Abdominal Crunch",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "3073"
+    }
+  },
+  {
+    "id": "1933",
+    "name": "Abdominal Crunch",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "amaesc",
+      "source_id": "3082"
+    }
+  },
+  {
+    "id": "2488",
+    "name": "Posterior Pelvic Tilt",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "spinal_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "rectus_abdominis"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Raj",
+      "source_id": "4965"
+    }
+  },
+  {
+    "id": "1735",
+    "name": "Single-leg side glute press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "machine",
+    "muscles": [
+      "gluteus_medius",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Tierrasverdes",
+      "source_id": "2863"
+    }
+  },
+  {
+    "id": "124",
+    "name": "Braced Squat",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "weight_plate",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "sevae",
+      "source_id": "342"
+    }
+  },
+  {
+    "id": "203",
+    "name": "Dumbbell Goblet Squat",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "dumbbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "ataraxie67",
+      "source_id": "300"
+    }
+  },
+  {
+    "id": "257",
+    "name": "Front Squats",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "sistab2",
+      "source_id": "191"
+    }
+  },
+  {
+    "id": "285",
+    "name": "High Knee Jumps",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus",
+      "hip_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "nate303303",
+      "source_id": "304"
+    }
+  },
+  {
+    "id": "291",
+    "name": "Hindu Squats",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Vilhelmo",
+      "source_id": "650"
+    }
+  },
+  {
+    "id": "341",
+    "name": "Squats on Multipress",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "smith_machine",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "1054"
+    }
+  },
+  {
+    "id": "371",
+    "name": "Leg Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "BFad07",
+      "source_id": "788"
+    }
+  },
+  {
+    "id": "373",
+    "name": "Leg Presses (narrow)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "115"
+    }
+  },
+  {
+    "id": "374",
+    "name": "Leg Presses (wide)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "114"
+    }
+  },
+  {
+    "id": "375",
+    "name": "Leg Press on Hackenschmidt Machine",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "130"
+    }
+  },
+  {
+    "id": "397",
+    "name": "Low Box Squat - Wide Stance",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "taylorbarbell",
+      "source_id": "389"
+    }
+  },
+  {
+    "id": "441",
+    "name": "Overhead Squat",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "geraldbaeck",
+      "source_id": "355"
+    }
+  },
+  {
+    "id": "456",
+    "name": "Pistol Squat",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "minifigmaster125",
+      "source_id": "160"
+    }
+  },
+  {
+    "id": "614",
+    "name": "Squat Jumps",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "OGhTebfCxhexZXuf35mUxV9C--A",
+      "source_id": "185"
+    }
+  },
+  {
+    "id": "615",
+    "name": "Squats",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "111"
+    }
+  },
+  {
+    "id": "616",
+    "name": "Squat Thrust",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "BFad07",
+      "source_id": "795"
+    }
+  },
+  {
+    "id": "632",
+    "name": "Sumo Squats",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus",
+      "hip_adductors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "sophialj",
+      "source_id": "570"
+    }
+  },
+  {
+    "id": "650",
+    "name": "Thruster",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus",
+      "deltoid"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "BeLikeWater",
+      "source_id": "396"
+    }
+  },
+  {
+    "id": "718",
+    "name": "Wall Squat",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "Blablabla",
+      "source_id": "387"
+    }
+  },
+  {
+    "id": "977",
+    "name": "Box squat",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "1288"
+    }
+  },
+  {
+    "id": "1020",
+    "name": "Pistol squats right",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1938"
+    }
+  },
+  {
+    "id": "1195",
+    "name": "Side Slides + Squats",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Insight",
+      "source_id": "2152"
+    }
+  },
+  {
+    "id": "1201",
+    "name": "Dragon squat",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "squat",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cynomops",
+      "source_id": "2160"
+    }
+  }
+]

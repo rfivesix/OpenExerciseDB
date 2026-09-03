@@ -1,0 +1,298 @@
+[
+  {
+    "id": "1198",
+    "language": "en",
+    "field": "name",
+    "old_value": "Inverted Rows",
+    "new_value": "Inverted Row",
+    "reason": "Standardize to singular noun per NAMING.md §3."
+  },
+  {
+    "id": "1198",
+    "language": "de",
+    "field": "name",
+    "old_value": "Inverted Rows (umgekehrtes Rudern)",
+    "new_value": "Körpergewichtsrudern (Inverted Row)",
+    "reason": "Use authoritative translation from vocab/glossary.yaml and replace literal translation 'umgekehrtes Rudern'."
+  },
+  {
+    "id": "1219",
+    "language": "en",
+    "field": "name",
+    "old_value": "Australian pull-ups",
+    "new_value": "Australian Pull-up",
+    "reason": "Standardize to singular and Title Case per NAMING.md §3 and §4."
+  },
+  {
+    "id": "1219",
+    "language": "de",
+    "field": "name",
+    "old_value": "Australian Pull-ups (umgekehrtes Rudern)",
+    "new_value": "Australian Pull-up",
+    "reason": "Standardize to singular and remove literal translation 'umgekehrtes Rudern'."
+  },
+  {
+    "id": "1381",
+    "language": "en",
+    "field": "name",
+    "old_value": "Upper Back",
+    "new_value": "Machine Upper Back Row",
+    "reason": "Per NAMING.md §2, add equipment and movement noun to form a descriptive exercise name rather than a body region / brand label."
+  },
+  {
+    "id": "1381",
+    "language": "de",
+    "field": "name",
+    "old_value": "Upper Back",
+    "new_value": "Rudern an der Maschine (oberer Rücken)",
+    "reason": "Translate English body region / machine label into standard German exercise name per vocab/equipment.yaml and gym terminology."
+  },
+  {
+    "id": "1381",
+    "language": "de",
+    "field": "description",
+    "old_value": "Upper Back eignet sich für den Aufbau der Rumpfmuskultur mit besonderem Schwerpunkt auf den Delta- und Rautenmuskel und der oberen Rückenmuskulatur",
+    "new_value": "Die Übung eignet sich für den Aufbau der Rumpfmuskulatur mit besonderem Schwerpunkt auf Delta- und Rautenmuskeln sowie die obere Rückenmuskulatur.",
+    "reason": "Fix typo 'Rumpfmuskultur' -> 'Rumpfmuskulatur' and correct grammatical inflection."
+  },
+  {
+    "id": "1463",
+    "language": "en",
+    "field": "description",
+    "old_value": "The Dumbbell Underhand Dead Row will involve the back, which means you can try a bit heavier weight. The catch is that you need to be able to control the weight for all the reps.\n\nStart by holding a pair of dumbbells with your feet shoulder-wide apart and your knees slightly bent.\nHinge at your hips to lower your torse forward until it's almost parallel to the floor, keeping your back flat and maintaining a slight bend in your knees.\nExhale as you row the dumbbells to your sides up to chest height, leading with your elbows until your upper arms are just past parallel to the floor and the dumbbells are at ribcage level.\nSlowly lower to the starting position and repeat. Keep your back flat all the time.",
+    "new_value": "The Dumbbell Underhand Dead Row will involve the back, which means you can try a bit heavier weight. The catch is that you need to be able to control the weight for all the reps.\n\nStart by holding a pair of dumbbells with your feet shoulder-wide apart and your knees slightly bent.\nHinge at your hips to lower your torso forward until it's almost parallel to the floor, keeping your back flat and maintaining a slight bend in your knees.\nExhale as you row the dumbbells to your sides up to chest height, leading with your elbows until your upper arms are just past parallel to the floor and the dumbbells are at ribcage level.\nSlowly lower to the starting position and repeat. Keep your back flat all the time.",
+    "reason": "Fix typo 'torse' -> 'torso'."
+  },
+  {
+    "id": "1486",
+    "language": "de",
+    "field": "name",
+    "old_value": "Abwechselndes hohes Kabelrudern",
+    "new_value": "Abwechselndes hohes Rudern am Kabelzug",
+    "reason": "Use standard German terminology 'Rudern am Kabelzug' per vocab/equipment.yaml."
+  },
+  {
+    "id": "1501",
+    "language": "en",
+    "field": "name",
+    "old_value": "Alternative DB Gorilla rows",
+    "new_value": "Alternating Dumbbell Gorilla Row",
+    "reason": "Expand 'DB' to 'Dumbbell', singularize 'rows' to 'Row', and fix 'Alternative' to 'Alternating' per laterality classification and NAMING.md §3-§4."
+  },
+  {
+    "id": "1501",
+    "language": "de",
+    "field": "name",
+    "old_value": "Alternatives Gorilla-Rudern mit Kurzhanteln",
+    "new_value": "Alternierendes Gorilla-Rudern mit Kurzhanteln",
+    "reason": "Fix mistranslation 'Alternatives' (substitute) to 'Alternierendes' (alternating laterality)."
+  },
+  {
+    "id": "1621",
+    "language": "en",
+    "field": "name",
+    "old_value": "Unilateral Cable row",
+    "new_value": "Unilateral Cable Row",
+    "reason": "Capitalize 'Row' for Title Case per NAMING.md §4."
+  },
+  {
+    "id": "1621",
+    "language": "de",
+    "field": "description",
+    "old_value": "Stelle eine senkrechte Sitzbank vor die Kabelzug-Rudermaschine. Positioniere sie so, dass du dich auf eine Seite konzentrieren kannst, und führe dann langsame Züge aus, wobei du dich auf die seitliche Muskulatur konzentrierst und in der gedehnten Position für Spannung in diesen Muskeln sorgst.",
+    "new_value": "Stelle eine senkrechte Sitzbank vor die Kabelzug-Rudermaschine. Positioniere sie so, dass du dich auf eine Seite konzentrieren kannst, und führe dann langsame Züge aus, wobei du dich auf den Latissimus konzentrierst und in der gedehnten Position für Spannung in diesen Muskeln sorgst.",
+    "reason": "'lateral muscles' in English text refers to the lats (latissimus dorsi); translated literally as 'seitliche Muskulatur' instead of 'Latissimus'."
+  },
+  {
+    "id": "1634",
+    "language": "en",
+    "field": "name",
+    "old_value": "Rope Pullover/row",
+    "new_value": "Cable Rope Pullover Row",
+    "reason": "Format to standard Title Case without slash per NAMING.md §2 and §4."
+  },
+  {
+    "id": "1634",
+    "language": "de",
+    "field": "name",
+    "old_value": "Seilzug-Pullover/Rudern",
+    "new_value": "Kabel-Pullover-Rudern mit Seil",
+    "reason": "Standardize German name to authoritative gym terminology without slash."
+  },
+  {
+    "id": "1637",
+    "classification_issue": "Text describes a seated unilateral lat pulldown from a high cable (vertical_pull), but classification movement_pattern is horizontal_pull and name is Single arm row."
+  },
+  {
+    "id": "1701",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausführung\n\n\nRuderphase (konzentrisch):\n\nZiehe die Kurzhantel zu deiner unteren Brust oder Taille, wobei du mit dem Ellenbogen führst.\nHalte deinen Oberkörper stabil — vermeide ein Verdrehen oder Rotieren der Schultern.\nHalte oben inne und drücke deinen Latissimus zusammen.",
+    "new_value": "Ausführung\n\n\nRuderphase (konzentrisch):\n\nZiehe die Kurzhantel zu deiner unteren Brust oder Taille, wobei du mit dem Ellenbogen führst.\nHalte deinen Oberkörper stabil — vermeide ein Verdrehen oder Rotieren der Schultern.\nHalte oben inne und spanne deinen Latissimus an.",
+    "reason": "Fix over-literal machine translation 'drücke deinen Latissimus zusammen' (calque of 'squeeze your lats') to idiomatic German 'spanne deinen Latissimus an'."
+  },
+  {
+    "id": "1877",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schulter-Rückzieher",
+    "new_value": "Schulterblatt-Retraktion mit Widerstandsband",
+    "reason": "'Schulter-Rückzieher' is an inaccurate, colloquial translation. The standard German fitness term for scapular retraction is 'Schulterblatt-Retraktion', combined with 'Widerstandsband' per vocab/equipment.yaml."
+  },
+  {
+    "id": "1877",
+    "language": "de",
+    "field": "description",
+    "old_value": "Band in Schullterhöhe an Wand/Pfosten/... anbringen. Arm durch die Schlaufe und am Trizeps anlegen. Band straff ziehen. Ellenbogen und Schulter dann nach hinten ziehen.",
+    "new_value": "Band in Schulterhöhe an Wand/Pfosten/... anbringen. Arm durch die Schlaufe und am Trizeps anlegen. Band straff ziehen. Ellenbogen und Schulter dann nach hinten ziehen.",
+    "reason": "Fix typo 'Schullterhöhe' -> 'Schulterhöhe'."
+  },
+  {
+    "id": "1885",
+    "classification_issue": "Text describes a bodyweight warm-up/prehab movement performed standing or on an incline bench with thumbs pointing up throughout, but classification sets primary_equipment to dumbbell."
+  },
+  {
+    "id": "310",
+    "language": "de",
+    "field": "name",
+    "old_value": "Rudern KH Auf Schrägbank",
+    "new_value": "Schrägbank-Kurzhantelrudern",
+    "reason": "Replace catalog inversion and abbreviation 'KH' with standard German gym term 'Schrägbank-Kurzhantelrudern' per vocab/equipment.yaml."
+  },
+  {
+    "id": "310",
+    "language": "de",
+    "field": "description",
+    "old_value": "Lehnen Sie sich mit einem neutralen Griff in eine Schrägbank.\nNehmen Sie eine Hantel mit neutralem Griff in jede Hand und beginnen Sie mit geraden Armen. Dies wird Ihre Startposition sein.\nZiehen Sie die Schulterblätter zurück und beugen Sie die Ellbogen, um die Hanteln zu Ihnen zu rudern.\nHalten Sie am oberen Rand der Bewegung an und kehren Sie dann in die Ausgangsposition zurück.",
+    "new_value": "Lehne dich gegen eine Schrägbank. Nimm in jede Hand eine Kurzhantel im neutralen Griff, beginnend mit ausgestreckten Armen. Dies ist deine Ausgangsposition.\nZiehe die Schulterblätter zurück und beuge die Ellbogen, um die Kurzhanteln zu deinen Seiten zu rudern.\nHalte am obersten Punkt der Bewegung kurz inne und kehre dann in die Ausgangsposition zurück.",
+    "reason": "Replace erroneous/literal machine translations ('am oberen Rand der Bewegung', 'Hanteln zu Ihnen zu rudern'), use authoritative 'Kurzhantel', and harmonize formal 'Sie' to standard instruction style."
+  },
+  {
+    "id": "394",
+    "language": "en",
+    "field": "name",
+    "old_value": "Long-Pulley (low Row)",
+    "new_value": "Seated Cable Row (Wide Grip)",
+    "reason": "Replace legacy manufacturer slang 'Long-Pulley' with standard descriptive name 'Seated Cable Row (Wide Grip)' per NAMING.md §1-§2, aligning with 395 'Seated Cable Row (Narrow Grip)'."
+  },
+  {
+    "id": "394",
+    "language": "de",
+    "field": "name",
+    "old_value": "Long-Pulley",
+    "new_value": "Sitzendes Rudern am Kabelzug (breiter Griff)",
+    "reason": "Replace legacy machine slang 'Long-Pulley' with authoritative German gym terminology 'Sitzendes Rudern am Kabelzug (breiter Griff)' per vocab/equipment.yaml and glossary.yaml."
+  },
+  {
+    "id": "395",
+    "language": "en",
+    "field": "description",
+    "old_value": "The exercise is the same as the regular long pulley, but with a narrow grip:\nSit down, put your feet on the supporting points and grab the bar with a wide grip. Pull the weight with a rapid movement towards your belly button, not upper. Keep your arms and elbows during the movement close to your body. Your shoulders are pulled together. Let the weight slowly down till your arms are completely stretched.",
+    "new_value": "The exercise is the same as the regular long pulley, but with a narrow grip:\nSit down, put your feet on the supporting points and grab the handle with a narrow grip. Pull the weight with a rapid movement towards your belly button, not upper. Keep your arms and elbows during the movement close to your body. Your shoulders are pulled together. Let the weight slowly down till your arms are completely stretched.",
+    "reason": "Fix contradiction within description where text mistakenly said 'grab the bar with a wide grip' on a narrow-grip row."
+  },
+  {
+    "id": "395",
+    "language": "de",
+    "field": "name",
+    "old_value": "Long-Pulley (eng)",
+    "new_value": "Sitzendes Rudern am Kabelzug (enger Griff)",
+    "reason": "Replace legacy machine slang 'Long-Pulley (eng)' with authoritative German gym terminology 'Sitzendes Rudern am Kabelzug (enger Griff)' per vocab/equipment.yaml and glossary.yaml."
+  },
+  {
+    "id": "448",
+    "language": "en",
+    "field": "name",
+    "old_value": "Pendelay Rows",
+    "new_value": "Pendlay Row",
+    "reason": "Correct spelling of Coach Glenn Pendlay's name ('Pendelay' -> 'Pendlay') and singularize 'Rows' -> 'Row' per NAMING.md §3."
+  },
+  {
+    "id": "448",
+    "language": "de",
+    "field": "name",
+    "old_value": "Pendelay Rows",
+    "new_value": "Pendlay-Rudern",
+    "reason": "Correct spelling ('Pendelay' -> 'Pendlay') and use standard German gym term 'Pendlay-Rudern'."
+  },
+  {
+    "id": "448",
+    "language": "de",
+    "field": "description",
+    "old_value": "Rückenübung mit einer Langhantel mit einer Ausgangsposition, die mit der Rückenparallele zum Boden gebeugt ist. Die Langhantel liegt auf Brusthöhe auf dem Boden. Für die Bewegung die Langhantel am schulterbreiten Griff ergreifen und in Richtung Brust ziehen, ohne die gebeugte Position zu verlieren und ohne etwas anderes als Ihre Arme zu bewegen",
+    "new_value": "Rückenübung mit einer Langhantel. Die Ausgangsposition ist vorgebeugt mit dem Rücken parallel zum Boden. Die Langhantel liegt auf dem Boden auf Brusthöhe. Greife die Langhantel etwa schulterbreit und ziehe sie zur Brust, ohne die vorgebeugte Position zu verlieren und ohne etwas anderes als die Arme zu bewegen.",
+    "reason": "Fix garbled machine translation ('Ausgangsposition, die mit der Rückenparallele zum Boden gebeugt ist') and harmonize mixed formal pronoun 'Ihre'."
+  },
+  {
+    "id": "508",
+    "classification_issue": "Text describes rowing generically as an exercise category quoting Wikipedia (mentioning seated row, rowing machines, etc.) rather than a barbell exercise, but classification specifies primary_equipment: barbell."
+  },
+  {
+    "id": "513",
+    "language": "en",
+    "field": "name",
+    "old_value": "T-Bar Row",
+    "new_value": "T-Bar Row (Wide Grip)",
+    "reason": "Disambiguate from generic T-Bar Row (ID 919) as description specifically specifies wide grip ('slightly more than shoulder wide') and German name is already '(breit)'."
+  },
+  {
+    "id": "513",
+    "language": "de",
+    "field": "name",
+    "old_value": "T-Bar Rudern (breit)",
+    "new_value": "T-Bar-Rudern (breit)",
+    "reason": "Add standard German hyphenation for compound noun (T-Bar-Rudern)."
+  },
+  {
+    "id": "674",
+    "language": "en",
+    "field": "name",
+    "old_value": "Rowing with TRX band",
+    "new_value": "TRX Row",
+    "reason": "Standardize to 'TRX Row' per NAMING.md §4 (TRX capitalized, singular noun, formula [Equipment] + [Movement])."
+  },
+  {
+    "id": "674",
+    "language": "de",
+    "field": "name",
+    "old_value": "TRX Rudern",
+    "new_value": "TRX-Rudern",
+    "reason": "Add standard German hyphenation for acronym/brand compound (TRX-Rudern)."
+  },
+  {
+    "id": "674",
+    "language": "en",
+    "field": "description",
+    "old_value": "Rowing with resistance bands - Bodyweight Exercise",
+    "new_value": "Rowing with a suspension trainer - bodyweight exercise",
+    "reason": "Correct implement from 'resistance bands' to 'suspension trainer' to resolve internal contradiction and align with primary_equipment: suspension_trainer."
+  },
+  {
+    "id": "81",
+    "conflict": "EN describes a standing bilateral bent-over dumbbell row without a bench ('With dumbbells in hand... similar to straight-legged-deadlift starting position'), whereas DE describes a unilateral dumbbell row with knee supported on a flat bench ('Nehme eine Flachbank und setze das Knie eines Beines auf ein Ende... Greife die Hantel mit der freien Hand'). Classification follows the German version (unilateral, flat_bench)."
+  },
+  {
+    "id": "83",
+    "language": "en",
+    "field": "name",
+    "old_value": "Bent Over Rowing",
+    "new_value": "Barbell Bent-Over Row",
+    "reason": "Standardize per NAMING.md §2, §3, §4 (singular 'Row', hyphenated 'Bent-Over', implement-first formula)."
+  },
+  {
+    "id": "83",
+    "language": "de",
+    "field": "name",
+    "old_value": "Rudern Vorgebeugt LH",
+    "new_value": "Vorgebeugtes Langhantelrudern",
+    "reason": "Replace catalog inversion and abbreviation 'LH' with authoritative German gym terminology 'Vorgebeugtes Langhantelrudern' per vocab/equipment.yaml."
+  },
+  {
+    "id": "83",
+    "language": "de",
+    "field": "description",
+    "old_value": "Greife die Langhantel mit breitem (etwas mehr als Schulterbreit) Griff und beuge dich nach vorne. Dabei ist der Oberkörper nicht ganz Waagerecht, sonder ein bisschen steiler, der Kopf schaut nach vorn und die Brust is rausgestreckt.\nZiehe nun das Gewicht in richtung Bauchnabel. Schwinge während der Bewegung den Oberkörper nicht und halte die Arme dicht am Körper wenn du sie hochziehst. Bringe die Hantel langsam wieder nach unten.",
+    "new_value": "Greife die Langhantel mit breitem (etwas mehr als schulterbreitem) Griff und beuge dich nach vorne. Dabei ist der Oberkörper nicht ganz waagerecht, sondern ein bisschen steiler, der Kopf schaut nach vorn und die Brust ist herausgestreckt.\nZiehe nun das Gewicht in Richtung Bauchnabel. Schwinge während der Bewegung den Oberkörper nicht und halte die Arme dicht am Körper, wenn du sie hochziehst. Bringe die Langhantel langsam wieder nach unten.",
+    "reason": "Fix spelling and capitalization errors ('Schulterbreit', 'Waagerecht', 'sonder', 'is', 'in richtung', 'Hantel' -> 'Langhantel')."
+  }
+]

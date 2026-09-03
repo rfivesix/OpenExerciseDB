@@ -1,0 +1,22 @@
+batch_id: 84
+movement_pattern: vertical_push
+primary_muscle: pectoralis_major
+items:
+- id: '1832'
+  name: Ring Support Hold
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '194'
+  name: Dips
+  primary_equipment: bodyweight
+  setup:
+  - dip_bars
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - ja

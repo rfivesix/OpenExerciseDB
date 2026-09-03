@@ -1,0 +1,58 @@
+batch_id: 47
+movement_pattern: other
+primary_muscle: latissimus_dorsi
+items:
+- id: '1710'
+  name: Butchers Block Stretch
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1921'
+  name: Extreme Lat Stretch
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1861'
+  name: Side stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1027'
+  name: Elevated prayer stretch
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1525'
+  name: Ball Slams
+  primary_equipment: medicine_ball
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja

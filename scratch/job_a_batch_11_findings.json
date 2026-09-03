@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1003",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nStellen Sie sich hüftbreit auseinander, die Kettlebell befindet sich in der Mitte zwischen Ihren Knöcheln. Der Rücken sollte gerade sein, der Kopf nach vorne zeigen.\nSchritte:\n\nBeugen Sie sich in der Hüfte und gehen Sie leicht in die Knie, um die Hände auf die Kettlebell-Griffe zu legen. Der Rücken sollte gerade sein, während Sie die Bewegung ausführen.\nGreifen Sie die Kettlebell-Griffe und drücken Sie mit den Händen in entgegengesetzte Richtungen, als ob Sie die Griffe auseinanderziehen wollten.\nWährend Sie Ihre Bauch- und Gesäßmuskeln anspannen, richten Sie sich auf.\nBeugen Sie sich wieder in die Hüfte, um die Kettlebell wieder nach unten zu bringen, ähnlich wie in Schritt 1.\nWiederholen Sie den Vorgang ab Schritt 3.\n\nTipps:\n\nAchten Sie darauf, dass Sie die Bewegungen korrekt ausführen, da dies sonst zu Verletzungen führen kann. Gehen Sie z.B. nicht in die Hocke statt in die Hüfte, machen Sie den Rücken nicht rund, wenn Sie nach der Kettlebell greifen, und lehnen Sie sich beim Aufstehen nicht zurück.",
+    "new_value": "Ausgangsposition:\nStelle dich hüftbreit hin, die Kettlebell befindet sich mittig zwischen deinen Knöcheln. Der Rücken ist gerade, der Blick nach vorne gerichtet.\nSchritte:\n\nBeuge dich in der Hüfte und gehe leicht in die Knie, um die Hände an den Kettlebell-Griff zu legen. Der Rücken bleibt während der Ausführung gerade.\nGreife den Griff der Kettlebell und baue Spannung im Oberkörper auf.\nSpanne Bauch und Gesäß an und richte dich kontrolliert auf.\nBeuge dich wieder in der Hüfte, um die Kettlebell wieder kontrolliert nach unten zu führen.\nWiederhole den Vorgang ab Schritt 3.\n\nTipps:\n\nAchte auf eine korrekte Bewegungsausführung, um Verletzungen zu vermeiden: Führe die Bewegung aus der Hüfte aus (Hinge) statt einer reinen Kniebeuge, runde den Rücken nicht beim Greifen der Kettlebell und überstrecke die Wirbelsäule beim Aufstehen nicht nach hinten.",
+    "reason": "Harmonisierung der veralteten Höflichkeitsform ('Sie') zur einheitlichen Du-Form, Korrektur von Plural ('Griffe' -> 'Griff', da eine Kettlebell typischerweise einen Griff hat) sowie Glättung ungelenker Phrasen."
+  },
+  {
+    "id": "683",
+    "language": "de",
+    "field": "description",
+    "old_value": ".",
+    "new_value": "Olympisches Gewichtheben / Kraftsport: Explosives Umsetzen der Langhantel vom Boden oder aus dem Hang auf die vorderen Schultern (Front-Rack-Position).",
+    "reason": "Ersetzt den bedeutungslosen Platzhalter-Punkt (.) durch eine adäquate Kurzbeschreibung entsprechend der englischen Beschreibung ('Olympic weight lifting') und der Übungsklassifikation (Langhantel-Umsetzen)."
+  },
+  {
+    "id": "1616",
+    "language": "de",
+    "field": "name",
+    "old_value": "Eselstritt mit Kurzhantel",
+    "new_value": "Donkey Kicks mit Kurzhantel",
+    "reason": "Ersetzt die über-wörtliche Übersetzung 'Eselstritt' durch den im deutschsprachigen Krafttraining etablierten Fachbegriff 'Donkey Kicks'."
+  },
+  {
+    "id": "1616",
+    "language": "de",
+    "field": "description",
+    "old_value": "Der Eselstritt mit Kurzhantel ist eine effektive Übung, um die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur zu trainieren. Diese Übung wird in der Regel im Vierfüßlerstand ausgeführt, wobei eine Kurzhantel verwendet wird, um den Widerstand zu erhöhen. Im Folgenden werden die Schritte beschrieben, um sie korrekt durchzuführen.\nAusgangsposition: Begib dich auf einer Matte in den Vierfüßlerstand, wobei deine Hände auf einer Linie mit den Schultern und deine Knie auf einer Linie mit den Hüften sind.\nPlatzierung der Kurzhantel: Nimm eine Kurzhantel und klemme sie hinter dem Knie des Beins ein, das du anheben möchtest. Achte darauf, dass sie gut fixiert ist, damit sie während der Übung nicht herunterfällt.\nÜbung:\nAtme ein und hebe beim Ausatmen das Bein mit der Kurzhantel nach oben, wobei du das Knie in einem 90-Grad-Winkel gebeugt hältst.\nHebe das Bein an, bis es parallel zum Boden ist, und spüre dabei die Kontraktion in der Gesäßmuskulatur.\nHalte die Position oben eine Sekunde lang und senke das Bein dann langsam in die Ausgangsposition zurück.\nWiederholungen: Führe 10 bis 15 Wiederholungen pro Bein aus und achte dabei während der gesamten Übung auf eine saubere Ausführung.\nSätze: Absolviere 2 bis 3 Sätze, je nach deinem Fitnesslevel.",
+    "new_value": "Donkey Kicks mit Kurzhantel sind eine effektive Übung, um die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur zu trainieren. Diese Übung wird im Vierfüßlerstand ausgeführt, wobei eine Kurzhantel in der Kniekehle für zusätzlichen Widerstand sorgt.\nAusgangsposition: Begib dich auf einer Matte in den Vierfüßlerstand, wobei sich deine Hände unter den Schultern und deine Knie unter den Hüften befinden.\nPlatzierung der Kurzhantel: Klemme eine Kurzhantel in die Kniekehle des Beins ein, das du anheben möchtest. Halte das Knie gebeugt, um die Hantel sicher zu fixieren.\nAusführung:\nHebe das gebeugte Bein nach oben an, wobei das Knie im 90-Grad-Winkel gebeugt bleibt.\nFühre die Ferse nach oben, bis der Oberschenkel etwa parallel zum Boden steht, und spanne die Gesäßmuskulatur am höchsten Punkt an.\nHalte die Kontraktion kurz und senke das Bein langsam und kontrolliert wieder in die Ausgangsposition ab.",
+    "reason": "Ersetzt die über-wörtliche Übersetzung 'Eselstritt' durch 'Donkey Kicks', präzisiert die Formulierung zur Hantelfixierung ('in die Kniekehle') und entfernt überflüssige Wiederholungs-/Satzempfehlungen gemäß Core Directives."
+  },
+  {
+    "id": "265",
+    "language": "de",
+    "field": "name",
+    "old_value": "Brücke Auf Dem Ball",
+    "new_value": "Glute Bridge",
+    "reason": "Die Klassifikation spezifiziert primary_equipment: bodyweight und setup: [mat] ohne Ball. Der deutsche Name beschrieb fälschlicherweise eine Pezziball-Übung ('Brücke Auf Dem Ball'), während das englische Original 'Glute Bridge' mit der Klassifikation übereinstimmt."
+  },
+  {
+    "id": "265",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition: Auf den Rücken legen. Großer Gymnastikball unter die Beine legen und schräg in der Brücke mit angespanntem Körper bleiben.\nAnschließend die Beine bis 90 Grad anwinkeln und wieder absetzten in Ausgangsposition zurück.",
+    "new_value": "Lege dich mit angewinkelten Knien auf den Rücken, die Füße stehen flach und etwa hüftbreit auf dem Boden.\nDrücke deine Fersen in den Boden und hebe dein Becken an, bis Oberschenkel und Oberkörper eine gerade Linie bilden. Spanne am höchsten Punkt die Gesäßmuskulatur fest an.\nSenke das Becken anschließend langsam und kontrolliert wieder in Richtung Boden ab.",
+    "reason": "Die bisherige deutsche Beschreibung bezog sich fälschlicherweise auf einen Gymnastikball (Pezziball Leg Curls), wohingegen die Klassifikation (bodyweight, mat) und das englische Original eine klassische Glute Bridge / Beckenheben am Boden vorgeben."
+  },
+  {
+    "id": "990",
+    "language": "de",
+    "field": "name",
+    "old_value": "Kniende Rückschläge",
+    "new_value": "Glute Kickbacks im Vierfüßlerstand",
+    "reason": "Ersetzt die absurde Maschinenübersetzung 'Kniende Rückschläge' (von 'Kneeling kickbacks') durch den etablierten Fachbegriff 'Glute Kickbacks im Vierfüßlerstand'."
+  },
+  {
+    "id": "990",
+    "language": "de",
+    "field": "description",
+    "old_value": "Ausgangsposition:\nGehen Sie auf alle Viere.\nSchritte:\n\nDrücken Sie einen Fuß nach hinten, bis er ganz gestreckt ist, und konzentrieren Sie sich dabei auf die Gesäßmuskeln.\nVerweilen Sie eine Sekunde lang und kehren Sie dann in die Ausgangsposition zurück.\nWiederholen Sie den Vorgang, indem Sie die Füße abwechseln.",
+    "new_value": "Ausgangsposition:\nBegib dich in den Vierfüßlerstand auf einer Matte.\nSchritte:\n\nStrecke ein Bein kontrolliert nach hinten oben aus und spanne dabei die Gesäßmuskulatur an.\nHalte die Kontraktion für eine Sekunde und kehre dann in die Ausgangsposition zurück.\nWiederhole die Bewegung und wechsle die Seite.",
+    "reason": "Harmonisierung der veralteten Höflichkeitsform ('Sie') zur einheitlichen Du-Form und Verbesserung der sportfachlichen Formulierungen."
+  }
+]

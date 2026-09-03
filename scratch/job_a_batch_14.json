@@ -1,0 +1,348 @@
+[
+  {
+    "id": "1127",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Close-grip supinated lat pulldown",
+    "en_desc": "Downward movement\n•  Pull the bar down so that it passes close to your chin and touches the upper part of your chest.\n•  Keep the rest of your body still.",
+    "de_name": "Latzug mit engem Untergriff",
+    "de_desc": "Abwärtsbewegung\n• Ziehe die Stange nach unten, sodass sie nah an deinem Kinn vorbeigeht und den oberen Teil deiner Brust berührt.\n• Halte den Rest deines Körpers ruhig."
+  },
+  {
+    "id": "1280",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Biceps Close Grip Pull Down",
+    "en_desc": "On a lat pull down machine, hold the bar keeping your hands relatively close. Use an underhand grip (I.E.: the back of your hand must be facing the machine). Then pull down the bar in a straight line towards the ground. Make sure your biceps are the main drivers of the motion. You will probably feel your shoulders and lats working, but make sure your biceps are working more.",
+    "de_name": "Bizeps-Latzug mit engem Griff",
+    "de_desc": "Halte an einer Latzugmaschine die Stange mit relativ eng zusammenstehenden Händen. Verwende einen Untergriff (das heißt: dein Handrücken muss zur Maschine zeigen). Ziehe dann die Stange in einer geraden Linie nach unten zum Boden. Achte darauf, dass dein Bizeps der Hauptantrieb der Bewegung ist. Du wirst wahrscheinlich spüren, wie deine Schultern und dein Latissimus arbeiten, aber achte darauf, dass dein Bizeps stärker arbeitet."
+  },
+  {
+    "id": "152",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "pullup_bar"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Chin Up",
+    "en_desc": "The chin-up (also known as a chin or chinup) is a strength training exercise. People frequently do this exercise with the intention of strengthening muscles such as the latissimus dorsi and biceps, which extend the shoulder and flex the elbow, respectively. In this maneuver, the palms are faced towards the body. It is a form of pull-up in which the range of motion is established in relation to a person's chin.",
+    "de_name": "Chin-ups",
+    "de_desc": "Wie normale Klimmzüge, aber im Untergriff."
+  },
+  {
+    "id": "1927",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Inverted Lat Pull Down",
+    "en_desc": "The Inverted Lat Pull Down (most commonly known as the Reverse Grip Lat Pull Down) is a variation of the standard exercise that uses an underhand (supinated) grip with hands at shoulder-width. This position shifts more emphasis to the lower lats and increases biceps involvement, often allowing for a greater range of motion and a deeper squeeze at the bottom of the movement.",
+    "de_name": "Latzug mit Untergriff",
+    "de_desc": "Der Latzug mit Untergriff (am häufigsten als Reverse-Grip-Latzug bekannt) ist eine Variante der Standardübung, die einen supinierten Untergriff mit schulterbreiter Handhaltung verwendet. Diese Position verlagert mehr Betonung auf den unteren Latissimus und steigert die Beteiligung des Bizeps, was oft einen größeren Bewegungsumfang und ein tieferes Zusammenziehen am unteren Punkt der Bewegung ermöglicht."
+  },
+  {
+    "id": "1971",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Mentzer Pulldown",
+    "en_desc": "Close grip front facing Pull down, while focusing on Biceps, Increases activation of biceps over the whole range, Avoid activating Lats.",
+    "de_name": "Mentzer-Latzug",
+    "de_desc": "Latzug mit engem Griff zur Vorderseite, mit Fokus auf den Bizeps. Erhöht die Aktivierung des Bizeps über den gesamten Bewegungsumfang. Vermeide es, den Latissimus zu aktivieren."
+  },
+  {
+    "id": "684",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Underhand Lat Pull Down",
+    "en_desc": "Grip the pull-down bar with your palms facing you and your hands closer than shoulder-width apart. Lean back slightly and keep your back straight. Pull the bar down towards your chest, pulling your shoulders back slightly at the end of the motion.",
+    "de_name": "Latzug im Untergriff",
+    "de_desc": "Greife die Latzugstange so, dass deine Handflächen zu dir zeigen und deine Hände enger als schulterbreit sind. Lehne dich leicht zurück und halte den Rücken gerade. Ziehe die Stange zur Brust und ziehe am Ende der Bewegung die Schultern leicht nach hinten."
+  },
+  {
+    "id": "980",
+    "pattern": "vertical_pull",
+    "primary_group": "back+biceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "pullup_bar"
+    ],
+    "laterality": "alternating",
+    "en_name": "Commando Pull-Up",
+    "en_desc": "variation of the pull-up exercise, it is performed with a grip of one hand supine and one hand prone,&nbsp;do not twist the torso to get back to the front, the head passes once to one side, once to the other.",
+    "de_name": "Commando Pull-ups",
+    "de_desc": "Eine Variante des Klimmzugs, die mit einem Griff ausgeführt wird, bei dem eine Hand im Untergriff und eine Hand im Obergriff liegt. Verdrehe den Oberkörper nicht, um wieder nach vorne zu gelangen; der Kopf geht einmal auf die eine Seite, einmal auf die andere."
+  },
+  {
+    "id": "1579",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Bronco",
+    "en_desc": "Finess test for rugby.5 x shuttle runs of 20m, 40m, and 60m (20yd, 45yd, 65yd/far 45yd mark)\nComplete as fast as possible",
+    "de_name": "Bronco",
+    "de_desc": "Fitnesstest für Rugby. 5 x Pendelläufe über 20 m, 40 m und 60 m (20 yd, 45 yd, 65 yd / entfernte 45-yd-Marke)\nSo schnell wie möglich absolvieren"
+  },
+  {
+    "id": "1584",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "March or jog in place",
+    "en_desc": "Low-impact cardiovascular exercise that simulates running without moving, ideal for warming up, improving endurance, or training in small spaces.",
+    "de_name": "Auf der Stelle marschieren oder joggen",
+    "de_desc": "Gelenkschonende Herz-Kreislauf-Übung, die das Laufen ohne Fortbewegung simuliert. Ideal zum Aufwärmen, zur Verbesserung der Ausdauer oder zum Training auf kleinem Raum."
+  },
+  {
+    "id": "1615",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Treadmill Cardio",
+    "en_desc": "It's a cardiovascular workout performed on a treadmill to improve endurance, burn calories, and promote heart health. It offers multiple benefits, such as the ability to easily adjust speed and incline, allowing for a variety of workouts, from hill walking to high-intensity interval training (HIIT) and tempo runs. To optimize results, it's important to vary your workouts.\nBenefits of Treadmill Cardio:\n\nImproved Cardiovascular Health:\nRegular aerobic exercise on a treadmill strengthens the heart and lungs, which can help prevent heart disease.\nWeight Loss:\nBy burning calories, treadmill training can be an effective tool for weight loss and maintaining a healthy weight.\nMuscle Strengthening:\nIt strengthens the muscles in the legs and glutes, helping to prevent muscle loss, which is especially important with age.\nTraining Flexibility:\nAllows you to vary speed, incline, and intervals, making your workout more dynamic and adaptable to different fitness levels.\nTypes of Treadmill Training:\nHill Walking:\nIncreasing the incline of the treadmill and walking at a brisk pace can improve endurance and work your leg muscles.\nEndurance Jog:\nA run at a comfortable, steady pace that keeps your heart rate in a target zone (such as Zone 2) to build endurance.\nInterval Training:\nAlternating periods of high intensity (fast running) with periods of low intensity (easy walking or jogging) to maximize calorie burn and cardiovascular improvement.\nTempo Run:\nA run at a steady, sustained pace that is slightly faster than a normal jog, which challenges your ability to sustain a more intense effort for an extended period.",
+    "de_name": "Laufband-Cardio",
+    "de_desc": "Es handelt sich um ein Herz-Kreislauf-Training auf dem Laufband, um die Ausdauer zu verbessern, Kalorien zu verbrennen und die Herzgesundheit zu fördern. Es bietet zahlreiche Vorteile, etwa die Möglichkeit, Geschwindigkeit und Steigung einfach anzupassen, was eine Vielzahl von Trainingseinheiten ermöglicht, vom Bergaufgehen über hochintensives Intervalltraining (HIIT) bis hin zu Tempoläufen. Um die Ergebnisse zu optimieren, ist es wichtig, deine Trainingseinheiten zu variieren.\nVorteile von Laufband-Cardio:\n\nVerbesserte Herz-Kreislauf-Gesundheit:\nRegelmäßiges aerobes Training auf dem Laufband stärkt Herz und Lunge, was helfen kann, Herzerkrankungen vorzubeugen.\nGewichtsabnahme:\nDurch das Verbrennen von Kalorien kann das Laufbandtraining ein wirksames Mittel zur Gewichtsabnahme und zum Halten eines gesunden Gewichts sein.\nMuskelstärkung:\nEs stärkt die Muskeln der Beine und der Gesäßmuskulatur und hilft, dem Muskelabbau vorzubeugen, was besonders mit zunehmendem Alter wichtig ist.\nFlexibilität beim Training:\nEs ermöglicht dir, Geschwindigkeit, Steigung und Intervalle zu variieren, wodurch dein Training dynamischer und an verschiedene Fitnessniveaus anpassbar wird.\nArten des Laufbandtrainings:\nBergaufgehen:\nWenn du die Steigung des Laufbands erhöhst und in zügigem Tempo gehst, kannst du deine Ausdauer verbessern und deine Beinmuskulatur beanspruchen.\nAusdauerjoggen:\nEin Lauf in angenehmem, gleichmäßigem Tempo, der deine Herzfrequenz in einer Zielzone hält (wie Zone 2), um die Ausdauer aufzubauen.\nIntervalltraining:\nDer Wechsel zwischen Phasen hoher Intensität (schnelles Laufen) und Phasen niedriger Intensität (lockeres Gehen oder Joggen), um den Kalorienverbrauch und die kardiovaskuläre Verbesserung zu maximieren.\nTempolauf:\nEin Lauf in gleichmäßigem, anhaltendem Tempo, das etwas schneller als ein normales Joggen ist und deine Fähigkeit fordert, eine intensivere Anstrengung über einen längeren Zeitraum aufrechtzuerhalten."
+  },
+  {
+    "id": "527",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Run",
+    "en_desc": "Running or jogging outside in a park, on the tracks,...",
+    "de_name": "Rennen",
+    "de_desc": "Durch die Nase atmen\nKontrollierte Atmung\nNicht zu schnell am Anfang"
+  },
+  {
+    "id": "529",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Run - Interval Training",
+    "en_desc": "Run and do some interval trainings such as hill repat, fartlek,..",
+    "de_name": "HIIT",
+    "de_desc": "Interval Sprints\n20 sec Belastung\n30 sec Regen."
+  },
+  {
+    "id": "530",
+    "pattern": "gait",
+    "primary_group": "calves+quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Run - Treadmill",
+    "en_desc": "Run on a treadmill",
+    "de_name": "Laufen an Laufband",
+    "de_desc": "Laufen auf dem Laufband ist eine effektive Cardio-Übung, die die Herzfrequenz erhöht und die Ausdauer trainiert. Sie beansprucht hauptsächlich die Beinmuskulatur, darunter die Waden, Oberschenkel und Gesäßmuskeln."
+  },
+  {
+    "id": "1000",
+    "pattern": "vertical_push",
+    "primary_group": "triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Floor dips",
+    "en_desc": "Starting position:\nSit with your arms behind you, supporting your back.Your fingers should point forward.Your knees should be bent, feet together.\nSteps:\n\nRaise your hips off the ground, straightening your arms.\nBend your elbows, bringing your hips down.\nStraighten your arms, returning to the previous position.\nRepeat steps 2 and 3.\n\nNotes:\nThe exercise's difficulty depends on how high you bring your hips.",
+    "de_name": "Bodensenken",
+    "de_desc": "Ausgangsposition:\nSetzen Sie sich mit den Armen hinter den Rücken und stützen Sie ihn ab.Die Finger sollten nach vorne zeigen.Die Knie sind gebeugt, die Füße stehen zusammen.\nDie Schritte:\n\nHeben Sie die Hüfte vom Boden ab und strecken Sie die Arme aus.\nBeugen Sie die Ellbogen und bringen Sie die Hüfte nach unten.\nStrecken Sie die Arme durch und kehren Sie in die vorherige Position zurück.\nWiederholen Sie die Schritte 2 und 3.\n\nAnmerkungen:\nDer Schwierigkeitsgrad der Übung hängt davon ab, wie hoch Sie Ihre Hüften bringen."
+  },
+  {
+    "id": "1269",
+    "pattern": "vertical_push",
+    "primary_group": "triceps",
+    "primary_equipment": "suspension_trainer",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "TRX dips",
+    "en_desc": "Start with the hands on the suspension trainer and feet on the ground.\nYour hands should be under your shoulders with the feet slightly in front.\nLower yourself by bringing the hips between the handles and flexing the elbows.\nExtend the elbows to come back to the starting position and repeat.",
+    "de_name": "TRX Dips",
+    "de_desc": "Beginne mit den Händen am Schlingentrainer und den Füßen auf dem Boden.\nDeine Hände sollten unter deinen Schultern sein, die Füße leicht nach vorne versetzt.\nSenke dich ab, indem du die Hüfte zwischen die Griffe bringst und die Ellbogen beugst.\nStrecke die Ellbogen, um in die Ausgangsposition zurückzukehren, und wiederhole."
+  },
+  {
+    "id": "1320",
+    "pattern": "vertical_push",
+    "primary_group": "triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Bench Dips On Floor",
+    "en_desc": "Triceps dips on floor are a compound exercise as they worked multiple muscle groups simultaneously. Although this bodyweight exercise mainly targets the triceps, it also hits your chest and front of your shoulder.\nTriceps dips on floor are one of the most effective exercises to increase arm strength and also build lean muscle in your upper arms.\nTriceps dips on floor are a closed kinetic chain exercise and express that you do the movements around a fixed point. It increases compression force on your joints thereby improving stability.",
+    "de_name": "Bench Dips am Boden",
+    "de_desc": "Trizeps-Dips am Boden sind eine Verbundübung, da sie mehrere Muskelgruppen gleichzeitig beanspruchen. Obwohl diese Körpergewichtsübung hauptsächlich den Trizeps trainiert, beansprucht sie auch deine Brust und die Vorderseite deiner Schulter.\nTrizeps-Dips am Boden gehören zu den wirksamsten Übungen, um die Armkraft zu steigern und außerdem schlanke Muskeln in deinen Oberarmen aufzubauen.\nTrizeps-Dips am Boden sind eine Übung mit geschlossener kinetischer Kette, das heißt, du führst die Bewegungen um einen festen Punkt herum aus. Das erhöht die Druckkraft auf deine Gelenke und verbessert dadurch die Stabilität."
+  },
+  {
+    "id": "1774",
+    "pattern": "vertical_push",
+    "primary_group": "triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Chair dips",
+    "en_desc": "Starting position:\nSit down on the front edge of a chair, back straight, hands holding the front edge. Still holding the edge of the chair, arms extended, lift your butt and walk forward slightly so that it is a few inches from the chair.\nSteps:\n\n\nSlowly lower your body, keeping the back straight, until your arms are at a right angle.\n\n\nRaise your body again to the initial position, arms extended.\n\n\nRepeat.",
+    "de_name": "Dips am Stuhl",
+    "de_desc": "Ausgangsposition:\nSetze dich auf die vordere Kante eines Stuhls, der Rücken gerade, die Hände halten die vordere Kante. Hebe – während du dich weiterhin an der Stuhlkante festhältst und die Arme gestreckt sind – dein Gesäß an und gehe ein kleines Stück nach vorne, sodass es einige Zentimeter vom Stuhl entfernt ist.\nSchritte:\n\n\nSenke deinen Körper langsam ab, wobei du den Rücken gerade hältst, bis deine Arme einen rechten Winkel bilden.\n\n\nHebe deinen Körper wieder in die Ausgangsposition an, die Arme gestreckt.\n\n\nWiederhole."
+  },
+  {
+    "id": "197",
+    "pattern": "vertical_push",
+    "primary_group": "triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dips Between Two Benches",
+    "en_desc": "Put two benches so far appart, that you can hold onto one with your hands and are just able to reach the other with your feet. The legs stay during the exercise completely stretched. With your elbows facing back, bend them as much as you can. Push yourself up, but don't stretch out the arms.",
+    "de_name": "Dips Zwischen 2 Bänke",
+    "de_desc": "Stelle zwei Bänke so weit ausernander, dass du die Hände am Rand der einen und du die Füße auf der anderen noch knapp draufstellen kannst. Die Beine bleiben während der Übung ausgestreckt. Beuge nun die Arme und gehe so tief wie möglich runter, die Ellenbogen zeigen nach hinten. Hebe den Körper wieder, achte aber darauf, dass du die Arme nicht ganz austreckst."
+  },
+  {
+    "id": "1196",
+    "pattern": "gait",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "alternating",
+    "en_name": "Wall Drills",
+    "en_desc": "Exercises for strengthening knee and leg musculature.\n\nLateral Wall Drills March - https://youtu.be/9RiTlJ6Mmek\nLateral Wall Drills OPEN - https://youtu.be/ADRlN8-Wfdg\nLateral Wall Drills CROSS - https://youtu.be/hGH2sj0Tzu4",
+    "de_name": "Wand-Drills",
+    "de_desc": "Übungen zur Stärkung der Knie- und Beinmuskulatur.\n\nLateral Wall Drills March - https://youtu.be/9RiTlJ6Mmek\nLateral Wall Drills OPEN - https://youtu.be/ADRlN8-Wfdg\nLateral Wall Drills CROSS - https://youtu.be/hGH2sj0Tzu4"
+  },
+  {
+    "id": "1318",
+    "pattern": "gait",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "High Knee Skips",
+    "en_desc": "You can use this exercise both as a dynamic warm-up before training and add it to your cardio training routine to burn fat.\nHigh knee skips are a plyometric exercise. Plyometrics are explosive aerobic moves that increase speed, quickness, and power and they work your whole body.\nHigh knee skips target the oblique, leg muscles, hip muscles and hip flexors and also work on the thighs, knee tendons, quadriceps and shoulders.\nJumps are beneficial to your health because they combine cardiovascular conditioning with strength work. Since jumps elevate your heart rate, they can also improve your cardiovascular fitness.",
+    "de_name": "High Knee Skips",
+    "de_desc": "Du kannst diese Übung sowohl als dynamisches Aufwärmen vor dem Training nutzen als auch in dein Cardio-Training einbauen, um Fett zu verbrennen.\nHigh Knee Skips sind eine plyometrische Übung. Plyometrie besteht aus explosiven aeroben Bewegungen, die Schnelligkeit, Reaktionsschnelligkeit und Kraft steigern und den ganzen Körper beanspruchen.\nHigh Knee Skips trainieren die schrägen Bauchmuskeln, die Beinmuskulatur, die Hüftmuskulatur und die Hüftbeuger und beanspruchen außerdem die Oberschenkel, die Kniesehnen, die vordere Oberschenkelmuskulatur und die Schultern.\nSprünge sind gut für deine Gesundheit, weil sie ein Herz-Kreislauf-Training mit Kraftarbeit verbinden. Da Sprünge deine Herzfrequenz erhöhen, können sie auch deine Herz-Kreislauf-Fitness verbessern."
+  },
+  {
+    "id": "1965",
+    "pattern": "gait",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Marching High Knees",
+    "en_desc": "A low-impact cardio and mobility exercise that strengthens the hip flexors and improves balance.\n\n​Movement: Stand tall and lift one knee toward your chest as high as comfortable.\n​Arms: Swing the opposite arm forward as you lift your knee, similar to a walking motion.\n​Core: Keep your abs engaged to maintain an upright posture.\n​Pace: Perform the movement with control, alternating legs rhythmically.",
+    "de_name": "Knieheben im Stand",
+    "de_desc": "Eine gelenkschonende Cardio- und Mobilitätsübung, die die Hüftbeuger stärkt und das Gleichgewicht verbessert.\n\nBewegung: Stehe aufrecht und hebe ein Knie so weit wie angenehm zur Brust.\nArme: Schwinge den gegenüberliegenden Arm nach vorne, während du das Knie hebst, ähnlich wie beim Gehen.\nRumpf: Halte deine Bauchmuskulatur angespannt, um eine aufrechte Haltung zu bewahren.\nTempo: Führe die Bewegung kontrolliert aus und wechsle die Beine rhythmisch ab."
+  },
+  {
+    "id": "57",
+    "pattern": "gait",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Bear Walk 2",
+    "en_desc": "-Rest your weight on your palms and the balls of your feet, not dissimilar to normal pushup position\n-Move by stepping with your R palm and L foot, then your L palm and R foot.&nbsp; Basically, walk like a lumbering bear.\n-Move as fast as you can.&nbsp; Measure your reps/sets in either distance (i.e. 40 yards) or time (i.e. 45 seconds)\n-Works your Pecs, Deltoids, Triceps, Traps, Lats, Abs and Lower Back, Hip Flexors, Quads, Glutes and Calves",
+    "de_name": "Bear Walk",
+    "de_desc": "-Stützen Sie Ihr Gewicht auf Ihren Handflächen und Ihren Füßen, nicht anders als in der normalen Liegestützposition\n\nBewegen Sie sich, indem Sie mit der R-Handfläche und dem L-Fuß, dann mit der L-Handfläche und dem R-Fuß treten. Gehen Sie im Grunde wie ein trampelnder Bär.\n\n-Bewegen Sie sich so schnell wie möglich. Messen Sie Ihre Wiederholungen / Sätze entweder in der Entfernung (d. H. 40 Meter) oder in der Zeit (d. H. 45 Sekunden).\n-Arbeitet an Pecs, Deltamuskeln, Trizeps, Trapezius, Lats, Abs und Lendenwirbelsäule, Hüftbeugern, Quads, Gesäßmuskeln und Waden"
+  },
+  {
+    "id": "983",
+    "pattern": "gait",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "High knees",
+    "en_desc": "Starting positionStand straight.\nSteps:\n\nRun in place, putting knees as high up as is comfortable and switching legs at a quick pace.",
+    "de_name": "Knie hoch",
+    "de_desc": "Auf der Stelle laufen, dabei die Knie so hoch wie möglich ansetzen und die Beine in schnellem Tempo wechseln."
+  },
+  {
+    "id": "1290",
+    "pattern": "elbow_flexion",
+    "primary_group": "biceps+forearms",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Reverse Grip Barbell Curls",
+    "en_desc": "Hold the barbell with an overhand grip (palms facing down) approximately shoulder-width apart. Ensure your back is straight, shoulders slightly pulled back, and arms fully extended.\nCurl the barbell upwards towards your chest in a controlled motion, keeping your elbows close to your body. The motion should be smooth without any swinging or momentum use.\nOnce the barbell is at chest level, pause briefly to maximize contraction in the biceps and forearms.\nSlowly lower the barbell back to the starting position with a controlled movement, fully extending your arms.",
+    "de_name": "Langhantel-Curls im Obergriff",
+    "de_desc": "Halte die Langhantel im Obergriff (Handflächen nach unten) etwa schulterbreit. Achte darauf, dass dein Rücken gerade ist, die Schultern leicht zurückgezogen und die Arme vollständig gestreckt.\nCurle die Langhantel in einer kontrollierten Bewegung nach oben zu deiner Brust und halte deine Ellbogen dabei nah am Körper. Die Bewegung sollte gleichmäßig sein, ohne Schwung oder Schwungholen.\nSobald die Langhantel auf Brusthöhe ist, halte kurz inne, um die Kontraktion in Bizeps und Unterarmen zu maximieren.\nSenke die Langhantel langsam und kontrolliert zurück in die Ausgangsposition und strecke deine Arme vollständig."
+  },
+  {
+    "id": "1567",
+    "pattern": "elbow_flexion",
+    "primary_group": "biceps+forearms",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Alternating dumbbell hammer curl",
+    "en_desc": "Stand with your knees slightly bent and your back straight. Hold a dumbbell in each hand, using a neutral grip at your sides.",
+    "de_name": "Hammercurl mit Kurzhanteln, abwechselnd",
+    "de_desc": "Stehen Sie mit leicht gebeugten Knien und geradem Rücken. Halten Sie in jeder Hand eine Hantel und verwenden Sie einen neutralen Griff an Ihren Seiten."
+  },
+  {
+    "id": "272",
+    "pattern": "elbow_flexion",
+    "primary_group": "biceps+forearms",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hammer Curls",
+    "en_desc": "Start: Hold dumbbells at your sides with palms facing your torso.\nCurl: Lift the weights toward your shoulders while maintaining the neutral grip (like holding a hammer).\nSqueeze: Contract the biceps at the top without moving your elbows forward.\nLower: Slowly return to the starting position with full control.",
+    "de_name": "Hammercurls",
+    "de_desc": "Greife zwei Hanteln, die Handflächen zeigen zum Körper.&nbsp; Beuge die Arme und brige die Hanteln mit einer schnellen Bewegung nach oben wobei sie im Unterschied zu den normalen KH Curls nicht um 90 Grad gedreht werden, die Handflächen zeigen also die ganze Zeit nach innen. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.\nWährend des Bewegungablaufs darf der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle."
+  },
+  {
+    "id": "275",
+    "pattern": "elbow_flexion",
+    "primary_group": "biceps+forearms",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hammercurls on Cable",
+    "en_desc": "Take a cable in your hands (palms parallel, point to each other), the body is straight. Bend the arms and bring the weight up with a fast movement. Without any pause bring it back down with a slow, controlled movement, but don't stretch completely your arms.\nDon't swing your body during the exercise, the biceps should do all the work here. The elbows are at your side and don't move.",
+    "de_name": "Hammercurls am Seil",
+    "de_desc": "Nehme das Kabel in die Hände (Handflächen parallel, zeigen aufeinander), der Körper steht gerade und ist etwas vom Kabelzug entfernt.\nBeuge nun die Arme und bringe das Kabel mit einer schnellen Bewegung nach oben. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht (Arme aber nicht ganz austrecken). Während des Bewegungablaufs darf der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle."
+  },
+  {
+    "id": "495",
+    "pattern": "elbow_flexion",
+    "primary_group": "biceps+forearms",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Reverse Curl",
+    "en_desc": "The reverse-grip barbell curl is a variation on the biceps curl where the palms face downward. The switch from an underhand to an overhand grip brings the forearm and brachialis muscles more into the exercise.",
+    "de_name": "Reverse Curls",
+    "de_desc": "Bewegungablauf ist wie bei normalen Langhantel Curls für den Bizeps, nur die Handstellung ist reverse, also die Handflächen zeigen nach hinten.\nHalte die Hantel mit etwa schulterbreitem Griff, die Arme sind ausgestreckt. Beuge die Arme und brige die Hantel mit einer schnellen Bewegung nach oben. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.\nWährend des Bewegungablaufs sollte der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle."
+  }
+]

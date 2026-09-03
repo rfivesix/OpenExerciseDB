@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1545",
+    "language": "en",
+    "field": "name",
+    "old_value": "Archer Pull Up",
+    "new_value": "Archer Pull-Up",
+    "reason": "Standardizes hyphenation for Pull-Up per NAMING.md §4."
+  },
+  {
+    "id": "158",
+    "language": "en",
+    "field": "name",
+    "old_value": "Close-grip Lat Pull Down",
+    "new_value": "Close-Grip Lat Pulldown",
+    "reason": "Standardizes compound noun Pulldown and title case capitalization per NAMING.md §4."
+  },
+  {
+    "id": "158",
+    "language": "de",
+    "field": "name",
+    "old_value": "Latzug Eng",
+    "new_value": "Latzug mit engem Griff",
+    "reason": "Replaces abrupt pseudo-tag title Latzug Eng with natural German gym terminology."
+  },
+  {
+    "id": "158",
+    "language": "de",
+    "field": "description",
+    "old_value": "Körper leicht nach hinten geneigt\nkein Hohlkreuz\nRumpfmuskulatur angespannt\nschulterbreiter Untergriff\nStange vor dem Kopf auf Brust herunterziehen\nEllenbogen möglichst eng am Körper\nStange soweit zurück, dass Ellenbogen leicht gebeugt",
+    "new_value": "Körper leicht nach hinten geneigt\nkein Hohlkreuz\nRumpfmuskulatur angespannt\nenger Obergriff (Hände enger als schulterbreit)\nStange vor dem Kopf auf Brust herunterziehen\nEllenbogen möglichst eng am Körper\nStange soweit zurück, dass Ellenbogen leicht gebeugt",
+    "reason": "Corrects grip from schulterbreiter Untergriff to enger Obergriff to align with exercise definition (Close-Grip Lat Pulldown with palms facing away) and classification attributes."
+  },
+  {
+    "id": "1607",
+    "language": "en",
+    "field": "name",
+    "old_value": "Typewriter Pull-ups",
+    "new_value": "Typewriter Pull-Up",
+    "reason": "Applies singular form rule per NAMING.md §3 (Typewriter Pull-ups -> Typewriter Pull-Up)."
+  },
+  {
+    "id": "1607",
+    "language": "de",
+    "field": "name",
+    "old_value": "Typewriter-Klimmzüge",
+    "new_value": "Typewriter-Klimmzug",
+    "reason": "Standardizes singular form in German exercise name."
+  },
+  {
+    "id": "1659",
+    "language": "en",
+    "field": "name",
+    "old_value": "Lat Pulldown - Cross Body Single Arm",
+    "new_value": "Single-Arm Cross-Body Lat Pulldown",
+    "reason": "Fixes word order and removes hyphen artifact per NAMING.md §1-2 ([Equipment / Setup] [Position / Modifier] [Movement])."
+  },
+  {
+    "id": "1695",
+    "language": "en",
+    "field": "name",
+    "old_value": "Pull-Ups (Wide Grip)",
+    "new_value": "Wide-Grip Pull-Up",
+    "reason": "Converts parenthetical phrasing to standard modifier order and enforces singular form per NAMING.md §2 and §3."
+  },
+  {
+    "id": "1695",
+    "language": "de",
+    "field": "name",
+    "old_value": "Klimmzüge (weiter Griff)",
+    "new_value": "Klimmzug mit weitem Griff",
+    "reason": "Standardizes German title to singular and natural phrasing."
+  },
+  {
+    "id": "1696",
+    "language": "en",
+    "field": "name",
+    "old_value": "Pull-Ups (Neutral Grip)",
+    "new_value": "Neutral-Grip Pull-Up",
+    "reason": "Converts parenthetical phrasing to standard modifier order and enforces singular form per NAMING.md §2 and §3."
+  },
+  {
+    "id": "1696",
+    "language": "de",
+    "field": "name",
+    "old_value": "Klimmzüge (neutraler Griff)",
+    "new_value": "Klimmzug mit neutralem Griff",
+    "reason": "Standardizes German title to singular and natural phrasing."
+  },
+  {
+    "id": "1702",
+    "language": "en",
+    "field": "name",
+    "old_value": "Jalón al pecho con agarre ancho",
+    "new_value": "Wide-Grip Lat Pulldown",
+    "reason": "Translates Spanish name leakage into standard English per NAMING.md §5.3."
+  },
+  {
+    "id": "1726",
+    "language": "en",
+    "field": "name",
+    "old_value": "Straight-Arm Pulldown (Cable)",
+    "new_value": "Cable Straight-Arm Pulldown",
+    "reason": "Standardizes equipment placement at the beginning without parentheses per NAMING.md §2."
+  },
+  {
+    "id": "1726",
+    "language": "de",
+    "field": "name",
+    "old_value": "Überzüge mit gestreckten Armen am Kabelzug",
+    "new_value": "Überzug mit gestreckten Armen am Kabelzug",
+    "reason": "Uses singular form in German exercise name."
+  },
+  {
+    "id": "1727",
+    "language": "en",
+    "field": "name",
+    "old_value": "Side Straight-Arm Pulldown (Cable)",
+    "new_value": "Cable Standing Lateral Straight-Arm Pulldown",
+    "reason": "Standardizes implement placement at the front and removes parenthetical notation per NAMING.md §2."
+  },
+  {
+    "id": "1738",
+    "classification_issue": "Exercise title and description combine two completely distinct movements with different equipment and patterns (Neutral-grip pull-ups / vertical_pull / pullup_bar vs. TRX rows / horizontal_pull / suspension_trainer), while classification attributes only reflect the pull-up."
+  },
+  {
+    "id": "1795",
+    "language": "de",
+    "field": "name",
+    "old_value": "Einarmiger Cable Pulldown über Kreuz",
+    "new_value": "Einarmiger Überzug am Kabelzug über Kreuz",
+    "reason": "Replaces Denglish Cable Pulldown with standard German gym terminology (Überzug am Kabelzug) matching its straight-arm isolation mechanics."
+  },
+  {
+    "id": "1929",
+    "classification_issue": "Classification specifies primary_equipment: resistance_band and setup: [pullup_bar], but description describes either a counterweight assisted pull-up machine or resistance bands, creating an equipment mismatch if performed on an assisted pull-up machine."
+  },
+  {
+    "id": "355",
+    "language": "en",
+    "field": "name",
+    "old_value": "Lat Pull Down (Straight Back)",
+    "new_value": "Lat Pulldown (Straight Back)",
+    "reason": "Standardizes spelling to Pulldown per NAMING.md."
+  },
+  {
+    "id": "475",
+    "language": "en",
+    "field": "name",
+    "old_value": "Pull-ups",
+    "new_value": "Pull-Up",
+    "reason": "Enforces singular form and title case per NAMING.md §3 and §4."
+  },
+  {
+    "id": "475",
+    "language": "de",
+    "field": "name",
+    "old_value": "Klimmzüge",
+    "new_value": "Klimmzug",
+    "reason": "Standardizes singular form in German exercise name."
+  },
+  {
+    "id": "628",
+    "language": "en",
+    "field": "name",
+    "old_value": "Straight-arm Pull Down (bar Attachment)",
+    "new_value": "Cable Straight-Arm Pulldown with Straight Bar",
+    "reason": "Standardizes naming structure with implement first, corrects capitalization and compound Pulldown per NAMING.md §2 and §4."
+  },
+  {
+    "id": "628",
+    "language": "de",
+    "field": "name",
+    "old_value": "Lat-Ziehen Mit Gesteckten Armen Mit (Stange)",
+    "new_value": "Überzug mit gestreckten Armen am Kabelzug mit Stange",
+    "reason": "Fixes typos (Gesteckten -> Gestreckten, doubled Mit, weird parentheses) and uses standard German gym terminology Überzug am Kabelzug."
+  },
+  {
+    "id": "628",
+    "language": "de",
+    "field": "description",
+    "old_value": "Verwenden Sie den Aufsatz für die gerade Stange. Fassen Sie die beiden Enden der Stange mit den Handflächen nach unten und den Armen gerade vor Ihnen. Ziehen Sie Ihre Hände nach unten in Richtung Ihrer Hüften, während Sie Ihre Arme gerade halten, und heben Sie sie dann wieder in die Ausgangsposition.",
+    "new_value": "Verwende die gerade Stange am oberen Kabelzug. Fasse die Stange im Obergriff (Handflächen nach unten) mit gestreckten Armen vor dir. Führe deine Hände mit gestreckten Armen nach unten in Richtung deiner Hüfte und kehre anschließend kontrolliert in die Ausgangsposition zurück.",
+    "reason": "Replaces formal Sie address with standard informal Du address, refines phrasing to standard German gym terminology and clarifies cable pulley setup."
+  },
+  {
+    "id": "629",
+    "language": "en",
+    "field": "name",
+    "old_value": "Straight-arm Pull Down (rope Attachment)",
+    "new_value": "Cable Straight-Arm Pulldown with Rope",
+    "reason": "Standardizes implement first, compound Pulldown and title case per NAMING.md §2 and §4."
+  },
+  {
+    "id": "629",
+    "language": "de",
+    "field": "name",
+    "old_value": "Lat-Zug am Seil",
+    "new_value": "Überzug mit gestreckten Armen am Kabelzug mit Seil",
+    "reason": "Standardizes name to accurately describe straight-arm pulldown with rope (Überzug mit gestrecktem Arm / Seil) instead of generic lat pull."
+  },
+  {
+    "id": "629",
+    "language": "de",
+    "field": "description",
+    "old_value": "Sie stehen mit leicht gegrätschten Beinen vor dem Gerät und umfassen die Stange in Schulterbreite von oben, die Arme sind getreckt.\nbeim Einatmen die Stange bis zu den Oberschenkeln führen, wobei die Arme gesteckt bleiben (die Ellbogen können ganz leicht gebeugt sein)\nDabei halten Sie den Rücken gerade und spannen die Bauchmuskeln an.\nAm Ende der Bewegung ausatmen",
+    "new_value": "Stehe mit leicht gebeugten Knien und hüftbreitem Stand vor dem Kabelzug und greife die Enden des Seils von oben mit ausgestreckten Armen vor dir.\nFühre das Seil mit gestreckten Armen (Ellenbogen minimal gebeugt) nach unten zu den Oberschenkeln bzw. Hüften.\nHalte den Rücken gerade und die Rumpfmuskulatur angespannt.\nFühre das Seil kontrolliert wieder in die Ausgangsposition zurück.",
+    "reason": "Corrects contradiction where German text described a bar (Stange) instead of rope (Seil), fixes typos (getreckt -> gestreckt, gesteckt -> gestreckt), and standardizes from formal Sie to imperative / infinitive gym cues."
+  },
+  {
+    "id": "723",
+    "language": "en",
+    "field": "name",
+    "old_value": "Wide-grip Pulldown",
+    "new_value": "Wide-Grip Lat Pulldown",
+    "reason": "Standardizes title capitalization and adds explicit Lat Pulldown naming per NAMING.md §2 and §4."
+  },
+  {
+    "id": "723",
+    "language": "de",
+    "field": "name",
+    "old_value": "Latzug Breit",
+    "new_value": "Latzug mit weitem Griff",
+    "reason": "Replaces abrupt tag-like title Latzug Breit with natural German gym terminology."
+  }
+]

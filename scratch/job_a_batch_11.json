@@ -1,0 +1,334 @@
+[
+  {
+    "id": "1003",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Kettlebell deadlifts",
+    "en_desc": "Starting position:\nStand hip-width apart, with your kettlebell centered between your ankles. Your back should be straight, your head facing forward.\nSteps:\n\nHinge at the hips and slightly bend at the knees to put your hands on the kettlebell handles. Your back should be straight as you perform the movement.\nGrab the kettlebell handles, with your hands pushing in opposite directions as if to pull the handle apart.\nWhile contacting your abs and glutes, stand straight up.\nHinge at the hips again to bring the kettlebell back down, similarly to step 1.\nRepeat from step 3.\n\nTips:\n\nBe sure you're performing the movements correctly, as doing otherwise can lead to injury. For example, do not squat instead of hinging at the hips, do not round your back while reaching for the kettlebell, and do not lean back while standing up.",
+    "de_name": "Kettlebell Kreuzheben",
+    "de_desc": "Ausgangsposition:\nStellen Sie sich hüftbreit auseinander, die Kettlebell befindet sich in der Mitte zwischen Ihren Knöcheln. Der Rücken sollte gerade sein, der Kopf nach vorne zeigen.\nSchritte:\n\nBeugen Sie sich in der Hüfte und gehen Sie leicht in die Knie, um die Hände auf die Kettlebell-Griffe zu legen. Der Rücken sollte gerade sein, während Sie die Bewegung ausführen.\nGreifen Sie die Kettlebell-Griffe und drücken Sie mit den Händen in entgegengesetzte Richtungen, als ob Sie die Griffe auseinanderziehen wollten.\nWährend Sie Ihre Bauch- und Gesäßmuskeln anspannen, richten Sie sich auf.\nBeugen Sie sich wieder in die Hüfte, um die Kettlebell wieder nach unten zu bringen, ähnlich wie in Schritt 1.\nWiederholen Sie den Vorgang ab Schritt 3.\n\nTipps:\n\nAchten Sie darauf, dass Sie die Bewegungen korrekt ausführen, da dies sonst zu Verletzungen führen kann. Gehen Sie z.B. nicht in die Hocke statt in die Hüfte, machen Sie den Rücken nicht rund, wenn Sie nach der Kettlebell greifen, und lehnen Sie sich beim Aufstehen nicht zurück."
+  },
+  {
+    "id": "1087",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Hang Power Cleans",
+    "en_desc": "On your feet, stand tall with your dumbbells, holding them at your sides. Hinge at the hips to lower them to your knees (picture 1). Stand back up with a slight jump, using the momentum to pull the dumbbells up on to your shoulders (picture 2). Stand up straight, then lower under control to your sides and repeat. Keep this fast and explosive; if your heart rate doesn’t hit the roof, you’re doing them wrong.",
+    "de_name": "Hang Power Cleans mit Kurzhanteln",
+    "de_desc": "Stehe aufrecht auf deinen Füßen mit deinen Kurzhanteln und halte sie an den Seiten. Beuge dich in der Hüfte, um sie bis zu den Knien abzusenken (Bild 1). Richte dich mit einem leichten Sprung wieder auf und nutze den Schwung, um die Kurzhanteln auf deine Schultern zu ziehen (Bild 2). Stelle dich gerade hin, senke sie dann kontrolliert wieder an die Seiten und wiederhole. Halte dies schnell und explosiv; wenn dein Puls nicht in die Höhe schießt, machst du sie falsch."
+  },
+  {
+    "id": "1088",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell sumo deadlift",
+    "en_desc": "Lower your dumbbell to the ground between your legs. Assume a wide stance and with a straight back squat down. With the dumbbell standing upright, grip it by the top of the ‘head’&nbsp;(picture 1).Keeping your chest up and core braced, push the floor away, driving back upwards to a standing position&nbsp;(picture 2). Repeat. If you can easily achieve 20-30 reps, use two dumbbells.",
+    "de_name": "Sumo-Kreuzheben mit Kurzhantel",
+    "de_desc": "Senke deine Kurzhantel zwischen deinen Beinen zum Boden. Nimm eine breite Standposition ein und gehe mit geradem Rücken in die Kniebeuge. Greife die aufrecht stehende Kurzhantel an der Oberseite des \"Kopfes\" (Bild 1). Halte deine Brust aufrecht und deinen Rumpf angespannt, drücke dich vom Boden ab und treibe dich wieder nach oben in den Stand (Bild 2). Wiederhole. Wenn du problemlos 20-30 Wiederholungen schaffst, verwende zwei Kurzhanteln."
+  },
+  {
+    "id": "1141",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Arabesque",
+    "en_desc": "Take all your weight onto one&nbsp;leg&nbsp;and you're going to&nbsp;maintain that position, keeping your hips and pelvis level the whole time. With&nbsp;your back in a neutral position you want to tilt yourself forward kicking your leg back up and then slowly with your glutes bring yourself back up to neutral.",
+    "de_name": "Arabeske",
+    "de_desc": "Verlagere dein gesamtes Gewicht auf ein Bein und halte diese Position, wobei Hüfte und Becken die ganze Zeit über waagerecht bleiben. Halte deinen Rücken in einer neutralen Position und neige dich nach vorne, während du das andere Bein nach hinten oben streckst. Anschließend richtest du dich langsam mit der Kraft deiner Gesäßmuskulatur wieder in die neutrale Ausgangsposition auf."
+  },
+  {
+    "id": "1388",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Single Leg RDL",
+    "en_desc": "Stand upright and hold weights in both hands if using loads.\nBrace your core and lift one leg off the ground.\nKeep your back straight, hinge at the hips while lowering your torso forward, ensuring you don’t rotate your hips.\nLower until you feel a stretch in your standing leg's hamstring, then return to standing position. Repeat on both sides.",
+    "de_name": "Einbeiniges Kreuzheben mit gestreckten Beinen (Single Leg RDL)",
+    "de_desc": "Stehe aufrecht und halte bei Verwendung von Gewichten in beiden Händen eine Last.\nSpanne deinen Rumpf an und hebe ein Bein vom Boden ab.\nHalte deinen Rücken gerade, beuge dich in der Hüfte und senke deinen Oberkörper nach vorne, wobei du darauf achtest, deine Hüfte nicht zu verdrehen.\nSenke dich ab, bis du eine Dehnung in der hinteren Oberschenkelmuskulatur deines Standbeins spürst, und kehre dann in die aufrechte Position zurück. Wiederhole es auf beiden Seiten."
+  },
+  {
+    "id": "1392",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Good Morning",
+    "en_desc": "Stand with your feet more than shoulder-width apart (wider stance) and place your hands on your hips. Hinge at your hips and lower your upper body towards the ground while keeping your back straight then come back up.",
+    "de_name": "Good Morning",
+    "de_desc": "Stelle dich mit den Füßen mehr als schulterbreit auseinander hin (breiter Stand) und lege deine Hände auf die Hüften. Beuge dich aus der Hüfte und senke deinen Oberkörper in Richtung Boden, während du den Rücken gerade hältst, und richte dich anschließend wieder auf."
+  },
+  {
+    "id": "1578",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hip hinge",
+    "en_desc": "Hip Hinge Exercise DescriptionThe hip hinge is a fundamental movement pattern that involves bending at the hips while keeping the spine neutral. It is commonly used in exercises like deadlifts, kettlebell swings, and good mornings. To perform a hip hinge:&nbsp; &nbsp; Starting Position: Stand with your feet hip-width apart and a slight bend in your knees.&nbsp; &nbsp; Hinge at the Hips: Push your hips back while maintaining a straight back. Your torso should lean forward, and your chest should stay up.&nbsp; &nbsp; Lowering Phase: Continue to hinge until your torso is nearly parallel to the ground, or until you feel a stretch in your hamstrings.&nbsp; &nbsp; Return to Standing: Drive through your heels and thrust your hips forward to return to the starting position.",
+    "de_name": "Hip Hinge",
+    "de_desc": "Beschreibung der Übung Hip HingeDer Hip Hinge ist ein grundlegendes Bewegungsmuster, bei dem du dich in den Hüften beugst, während die Wirbelsäule neutral bleibt. Er wird häufig bei Übungen wie Kreuzheben, Kettlebell-Swings und Good Mornings eingesetzt. So führst du einen Hip Hinge aus:    Ausgangsposition: Stelle dich hüftbreit hin und beuge die Knie leicht.    Beuge in den Hüften: Schiebe deine Hüften nach hinten, während du den Rücken gerade hältst. Dein Oberkörper neigt sich nach vorn, und dein Brustkorb bleibt aufgerichtet.    Absenkphase: Beuge dich weiter, bis dein Oberkörper nahezu parallel zum Boden ist oder bis du eine Dehnung in der hinteren Oberschenkelmuskulatur spürst.    Zurück in den Stand: Drücke dich über die Fersen ab und schiebe deine Hüften nach vorn, um in die Ausgangsposition zurückzukehren."
+  },
+  {
+    "id": "1641",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Kettlebell One Legged Deadlift",
+    "en_desc": "This exercise involves holding a kettlebell in one hand and standing on one leg while bending forward to touch the kettlebell to the ground. It targets the hamstrings, glutes, and lower back while also improving balance and stability.",
+    "de_name": "Einbeiniges Kreuzheben mit Kettlebell",
+    "de_desc": "Bei dieser Übung hältst du eine Kettlebell in einer Hand und stehst auf einem Bein, während du dich nach vorne beugst, um die Kettlebell zum Boden zu führen. Sie trainiert die hintere Oberschenkelmuskulatur, die Gesäßmuskulatur und den unteren Rücken und verbessert zugleich Gleichgewicht und Stabilität."
+  },
+  {
+    "id": "1652",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Romanian Deadlift",
+    "en_desc": "This exercise involves holding a dumbbell in each hand and bending forward at the hips while keeping the back straight, then returning to a standing position. It primarily targets the hamstrings and glutes.",
+    "de_name": "Rumänisches Kreuzheben mit Kurzhanteln",
+    "de_desc": "Bei dieser Übung hältst du in jeder Hand eine Kurzhantel und beugst dich aus der Hüfte nach vorne, während du den Rücken gerade hältst, um anschließend wieder in den aufrechten Stand zurückzukehren. Sie trainiert vor allem die hintere Oberschenkelmuskulatur und die Gesäßmuskulatur."
+  },
+  {
+    "id": "1700",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Barbell Romanian Deadlift (RDL)",
+    "en_desc": "Execution\n\n\nHinge at the hips:\n\nPush your&nbsp;hips backward, keeping a slight bend in the knees (soft knees).\nLower the barbell&nbsp;along the front of your thighs/shins&nbsp;while maintaining a&nbsp;neutral spine.\nKeep the bar&nbsp;close to your body.",
+    "de_name": "Rumänisches Kreuzheben mit Langhantel (RDL)",
+    "de_desc": "Ausführung\n\n\nIn der Hüfte beugen:\n\nSchiebe deine Hüfte nach hinten und halte dabei eine leichte Beugung in den Knien (weiche Knie).\nSenke die Langhantel an der Vorderseite deiner Oberschenkel/Schienbeine entlang ab, während du eine neutrale Wirbelsäule beibehältst.\nHalte die Stange nah an deinem Körper."
+  },
+  {
+    "id": "1736",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Single-Leg Deadlift with Dumbbell",
+    "en_desc": "Starting Position: Stand upright with a slight bend in your knees, holding a dumbbell in one or both hands. Shift your weight onto your supporting leg (e.g., your right leg) and lift your non-supporting foot slightly off the floor.\nThe Hinge: Keeping your back flat and core engaged, hinge at your hips, pushing your glutes backward. As your torso lowers, extend your non-supporting leg straight back behind you for balance, keeping your hips square to the floor. The dumbbell(s) should lower toward the ground along the line of your supporting leg.\nRange of Motion: Continue lowering your torso until it is nearly parallel to the floor, or you feel an intense stretch in your supporting hamstring, ensuring your back remains neutral throughout the movement.\nReturn to Start: Pause at the bottom, then contract your glutes and hamstrings to slowly raise your torso back to the starting position. Your non-supporting leg should return in line with the supporting one.\nSwitch Sides: After completing your desired number of repetitions on one side, switch your weight and repeat the movement on the other leg.",
+    "de_name": "Einbeiniges Kreuzheben mit Kurzhantel",
+    "de_desc": "Ausgangsposition: Stelle dich aufrecht mit leicht gebeugten Knien hin und halte eine Kurzhantel in einer oder beiden Händen. Verlagere dein Gewicht auf dein Standbein (z. B. dein rechtes Bein) und hebe deinen anderen Fuß leicht vom Boden ab.\nDie Hüftbeuge: Halte deinen Rücken flach und deinen Rumpf angespannt und beuge dich aus der Hüfte, indem du dein Gesäß nach hinten schiebst. Während sich dein Oberkörper senkt, streckst du dein freies Bein gerade nach hinten aus, um das Gleichgewicht zu halten, und hältst dabei deine Hüften parallel zum Boden. Die Kurzhantel(n) sollte(n) entlang deines Standbeins zum Boden hin absinken.\nBewegungsumfang: Senke deinen Oberkörper weiter ab, bis er nahezu parallel zum Boden ist oder du eine intensive Dehnung in der hinteren Oberschenkelmuskulatur deines Standbeins spürst, und achte darauf, dass dein Rücken während der gesamten Bewegung neutral bleibt.\nRückkehr zur Ausgangsposition: Halte am tiefsten Punkt kurz inne, spanne dann deine Gesäß- und hintere Oberschenkelmuskulatur an, um deinen Oberkörper langsam wieder in die Ausgangsposition anzuheben. Dein freies Bein sollte wieder auf eine Linie mit dem Standbein zurückkehren.\nSeite wechseln: Nachdem du die gewünschte Anzahl an Wiederholungen auf einer Seite absolviert hast, verlagere dein Gewicht und wiederhole die Bewegung mit dem anderen Bein."
+  },
+  {
+    "id": "184",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Deadlifts",
+    "en_desc": "Stand firmly, with your feet slightly more than shoulder wide apart. Stand directly behind the bar where it should barely touch your shin, your feet pointing a bit out. Bend down with a straight back, the knees also pointing somewhat out. Grab the bar with a shoulder wide grip, one overhand, one underhand (mixed grip).\nPull the weight up. At the highest point make a slight hollow back and pull the bar back. Hold 1 or 2 seconds that position. Go down, making sure the back is not bent. Once down you can either go back again as soon as the weights touch the floor, or make a pause, depending on the weight.",
+    "de_name": "Kreuzheben",
+    "de_desc": "Stelle dich mit etwas mehr als schulterbreitem Stand vor der Stange, die Füße zeigen leicht nach außen, die Stange ist direkt darüber und sehr nahe am Schienbein. Beuge die Knie (zeigen ebenfalls etwas nach außen) und neige den Oberkörper (bleibt während der ganzen Übung gerade). Greife die Stange schulterbreit mit einem Unter- und einem Obergriff.\nZiehe nun die Stange nach oben. An der höchsten Stelle mache ein leichtes Hohlkreuz und drücke die Schultern nach hinten. Gehe wieder runter, wobei du darauf achtest, dass der Rücken gerade bleibt und sich nicht krümmt. Du kannst unten angekommen eine kleine Pause einlegen oder sofort weitermachen."
+  },
+  {
+    "id": "331",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Kettlebell Swings",
+    "en_desc": "Hold the kettlebell securely in both hands. Keep your back flat throughout the move, avoiding any rounding of the spine.Keeping your knees \"soft\", hinge your hips backwards, letting the kettlebell swing between your knees.\nYou want to bend from the hips as far as you can without letting your back round forwards. Then, snap your hips forwards quickly and standing up straight, locking your body in an upright posture.\nThe speed you do this will cause your arms and the kettlebell to swing up in front of you. Don't try to lift the kettlebell with your arms. The snapping forwards of your hips will cause the kettlebell to swing forwards through momentum. Depending on the weight of the kettlebell and the speed of your hip movement, your arms will swing up to about shoulder height. At the top of this swing, let your hips hinge backwards again as the kettlebell swings back down to between your legs and the start of the next repetition.",
+    "de_name": "Kettlebell Swings",
+    "de_desc": "Halte die Kettlebell sicher mit beiden Händen. Halte deinen Rücken während der gesamten Bewegung gerade und vermeide jegliches Rundmachen der Wirbelsäule. Halte die Knie \"weich\" und schiebe die Hüfte nach hinten, sodass die Kettlebell zwischen deinen Knien durchschwingt.\nDu solltest dich so weit aus der Hüfte beugen, wie du kannst, ohne dass dein Rücken sich nach vorne rundet. Schiebe dann die Hüfte schnell nach vorne und richte dich gerade auf, sodass dein Körper in einer aufrechten Haltung verriegelt ist.\nDie Geschwindigkeit, mit der du das machst, lässt deine Arme und die Kettlebell vor dir nach oben schwingen. Versuche nicht, die Kettlebell mit den Armen anzuheben. Das nach vorne Schnellen deiner Hüfte lässt die Kettlebell durch den Schwung nach vorne schwingen. Je nach Gewicht der Kettlebell und Geschwindigkeit deiner Hüftbewegung schwingen deine Arme bis etwa auf Schulterhöhe nach oben. Am höchsten Punkt dieses Schwungs lässt du die Hüfte wieder nach hinten klappen, während die Kettlebell zurück zwischen deine Beine und in den Beginn der nächsten Wiederholung schwingt."
+  },
+  {
+    "id": "683",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Power Clean",
+    "en_desc": "Olympic weight lifting",
+    "de_name": "Umsetzen",
+    "de_desc": "."
+  },
+  {
+    "id": "960",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Kettlebell Swing",
+    "en_desc": "While kettlebell swings are a full-body workout, they mostly target the muscles along the posterior chain (back of the body). The main muscles used are the glutes, hamstrings, spinal erectors, and muscles of the upper back.",
+    "de_name": "Kettlebell Swing",
+    "de_desc": "Obwohl Kettlebell Swings den ganzen Körper trainieren, beanspruchen sie vor allem die Muskeln entlang der hinteren Kette (Rückseite des Körpers). Die wichtigsten beteiligten Muskeln sind die Gesäßmuskulatur, die hintere Oberschenkelmuskulatur, die Rückenstrecker und die Muskeln des oberen Rückens."
+  },
+  {
+    "id": "1131",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "cable",
+    "setup": [
+      "ankle_straps"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Cable glute extension",
+    "en_desc": "This exercise lets you work the upper, or larger, part of the glutes. For that reason, it should never be missing from your routine of isolated exercises for training the glutes.\nStand in front of a cable machine and locate the low pulley. Then attach the ankle strap to work on the low pulley. As for your posture, you should stay upright at all times. Pay special attention to your back to keep it straight and avoid injury.\nIt is advisable to hold on to the machine for better balance. With the leg that is holding the weight of the cable, perform a slow stretch backward without bending the knee.",
+    "de_name": "Gesäßstrecken am Kabelzug",
+    "de_desc": "Diese Übung ermöglicht es dir, den Bereich der oberen bzw. großen Gesäßmuskulatur zu trainieren. Deshalb darf sie in deiner Routine aus isolierten Übungen für die Gesäßmuskulatur nie fehlen.\nStelle dich vor eine Kabelzugmaschine und suche den unteren Haken. Befestige ihn dann an den Fußschlaufen, um am unteren Kabelzug zu arbeiten. Was die Haltung betrifft, musst du jederzeit aufrecht bleiben. Achte besonders auf deinen Rücken, um ihn gerade zu halten und dich nicht zu verletzen.\nEs ist empfehlenswert, dich an der Maschine festzuhalten, um mehr Gleichgewicht zu haben. Führe mit dem Bein, das das Gewicht des Kabelzugs trägt, eine langsame Streckung nach hinten aus, ohne das Knie zu beugen."
+  },
+  {
+    "id": "1234",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell Single-leg Hip Thrust",
+    "en_desc": "The single-leg hip thrust is performed by placing your upper back on a weight bench, raising one leg, and extending the hip of the other leg to achieve an isolated contraction of the glute.\nBy working each side separately, you can fully isolate your glutes unilaterally, providing maximal training stimulus.",
+    "de_name": "Einbeiniger Hip Thrust mit Kurzhantel",
+    "de_desc": "Der einbeinige Hip Thrust wird ausgeführt, indem du deinen oberen Rücken auf eine Hantelbank legst, ein Bein anhebst und die Hüfte des anderen Beins streckst, um eine isolierte Kontraktion der Gesäßmuskulatur zu erreichen.\nIndem du jede Seite einzeln trainierst, kannst du deine Gesäßmuskulatur unilateral vollständig isolieren und so einen maximalen Trainingsreiz setzen."
+  },
+  {
+    "id": "1528",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Glute Drive",
+    "en_desc": "Lie down on the back pad and strap yourself in with the waistband. Position yout feet&nbsp;shoulder-length apart. They should be slightly splayed.",
+    "de_name": "Glute Drive",
+    "de_desc": "Lege dich auf das Rückenpolster und schnalle dich mit dem Bauchgurt fest. Positioniere deine Füße schulterbreit auseinander. Sie sollten leicht nach außen gedreht sein."
+  },
+  {
+    "id": "1613",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "resistance_band",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Rubber Band Glute Kickback",
+    "en_desc": "A rubber band glute kickback is an exercise performed on hands and knees, where you anchor a resistance band to your foot and kick your heel back and up, squeezing your glute at the top of the movement, while maintaining a stable core and flat back to target and strengthen the gluteal muscles.",
+    "de_name": "Glute Kickback mit Widerstandsband",
+    "de_desc": "Der Glute Kickback mit Widerstandsband ist eine Übung, die im Vierfüßlerstand ausgeführt wird. Dabei befestigst du ein Widerstandsband an deinem Fuß und drückst deine Ferse nach hinten und oben, wobei du am höchsten Punkt der Bewegung deine Gesäßmuskulatur anspannst. Gleichzeitig hältst du den Rumpf stabil und den Rücken gerade, um gezielt die Gesäßmuskulatur zu beanspruchen und zu stärken."
+  },
+  {
+    "id": "1616",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell donkey kick",
+    "en_desc": "The dumbbell donkey kick is an effective exercise for working the glute and hamstring muscles. This exercise is usually performed on all fours, using a dumbbell to add resistance. The steps for performing it correctly are described below.\nStarting position: Get on all fours on a mat, with your hands aligned under your shoulders and your knees aligned under your hips.\nPlacing the dumbbell: Take a dumbbell and place it behind the knee of the leg you are going to lift. Make sure it is held securely to prevent it from falling during the exercise.\nExercise:\nInhale and, as you exhale, lift the leg with the dumbbell upward, keeping the knee bent at a 90-degree angle.\nRaise the leg until it is parallel to the floor, feeling the contraction in the glutes.\nHold the position for one second at the top and then slowly lower the leg back to the starting position.\nRepetitions: Perform 10 to 15 repetitions per leg, making sure to maintain good form throughout the exercise.\nSets: Complete 2 to 3 sets, depending on your fitness level.",
+    "de_name": "Eselstritt mit Kurzhantel",
+    "de_desc": "Der Eselstritt mit Kurzhantel ist eine effektive Übung, um die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur zu trainieren. Diese Übung wird in der Regel im Vierfüßlerstand ausgeführt, wobei eine Kurzhantel verwendet wird, um den Widerstand zu erhöhen. Im Folgenden werden die Schritte beschrieben, um sie korrekt durchzuführen.\nAusgangsposition: Begib dich auf einer Matte in den Vierfüßlerstand, wobei deine Hände auf einer Linie mit den Schultern und deine Knie auf einer Linie mit den Hüften sind.\nPlatzierung der Kurzhantel: Nimm eine Kurzhantel und klemme sie hinter dem Knie des Beins ein, das du anheben möchtest. Achte darauf, dass sie gut fixiert ist, damit sie während der Übung nicht herunterfällt.\nÜbung:\nAtme ein und hebe beim Ausatmen das Bein mit der Kurzhantel nach oben, wobei du das Knie in einem 90-Grad-Winkel gebeugt hältst.\nHebe das Bein an, bis es parallel zum Boden ist, und spüre dabei die Kontraktion in der Gesäßmuskulatur.\nHalte die Position oben eine Sekunde lang und senke das Bein dann langsam in die Ausgangsposition zurück.\nWiederholungen: Führe 10 bis 15 Wiederholungen pro Bein aus und achte dabei während der gesamten Übung auf eine saubere Ausführung.\nSätze: Absolviere 2 bis 3 Sätze, je nach deinem Fitnesslevel."
+  },
+  {
+    "id": "1642",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Hip Thrust",
+    "en_desc": "This exercise involves sitting on the ground with a dumbbell resting on the hips, then thrusting the hips upward while squeezing the glutes. It is a great exercise for strengthening the glutes and improving hip mobility.",
+    "de_name": "Hip Thrust mit Kurzhantel",
+    "de_desc": "Bei dieser Übung sitzt du auf dem Boden, eine Kurzhantel ruht auf deiner Hüfte, und du drückst die Hüfte nach oben, während du die Gesäßmuskulatur anspannst. Es ist eine hervorragende Übung, um die Gesäßmuskulatur zu kräftigen und die Hüftbeweglichkeit zu verbessern."
+  },
+  {
+    "id": "1906",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Hip Bridge",
+    "en_desc": "Get into bridge position, balance yourself on heels and start extending legs unilaterally.\nKeep hip extended as much as possible.",
+    "de_name": "Hüftbrücke",
+    "de_desc": "Gehe in die Brückenposition, balanciere dich auf den Fersen und beginne, die Beine einseitig zu strecken.\nHalte die Hüfte so weit wie möglich gestreckt."
+  },
+  {
+    "id": "265",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Glute Bridge",
+    "en_desc": "Lie on you back with your hips and knees flexed, feet on the ground. From this position, raise your butt off of the ground to a height where your body makes a straight line from your knees to your shoulders. To make the exercise more intense, you can add weight by letting a barbell rest on your hips as you complete the motion, or you can put your feet on a slightly higher surface such as a step or a bench.",
+    "de_name": "Brücke Auf Dem Ball",
+    "de_desc": "Ausgangsposition: Auf den Rücken legen. Großer Gymnastikball unter die Beine legen und schräg in der Brücke mit angespanntem Körper bleiben.\nAnschließend die Beine bis 90 Grad anwinkeln und wieder absetzten in Ausgangsposition zurück."
+  },
+  {
+    "id": "292",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Lying Hip Raise",
+    "en_desc": "Lying down on your back, with your feet flat on the floor. Raise your hips up evenly as high as you can and hold for as long as you can.",
+    "de_name": "Hüftheben in Rückenlage",
+    "de_desc": "Lege dich auf den Rücken, die Füße flach auf dem Boden. Hebe deine Hüfte gleichmäßig so hoch wie möglich an und halte die Position so lange wie möglich."
+  },
+  {
+    "id": "294",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "barbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Hip Thrust",
+    "en_desc": "The bar should go directly on your upper thigh, directly below your crotch. Your feet should be directly under your knees. Push your hips up so that you form a straight line from your knees to your shoulders. Use a pad for comfort.",
+    "de_name": "Beckenheben",
+    "de_desc": "Setze dich auf den Boden mit einer Bank hinter dir, beuge die Knie, sodass deine Füße flach auf dem Boden stehen, und halte eine Langhantel, die unterhalb deiner Hüfte aufliegt. Wenn du eine gepolsterte Stange hast oder etwas, das du zwischen Stange und Körper schieben kannst, trägt das viel dazu bei, die Übung angenehmer zu machen."
+  },
+  {
+    "id": "990",
+    "pattern": "hip_extension",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Kneeling kickbacks",
+    "en_desc": "Starting position:\nGet down on all fours.\nSteps:\n\nPush one foot back until fully extended, concentrating on the gluteus muscles.\nStay for one second, then return to the initial position.\nRepeat, alternating feet.",
+    "de_name": "Kniende Rückschläge",
+    "de_desc": "Ausgangsposition:\nGehen Sie auf alle Viere.\nSchritte:\n\nDrücken Sie einen Fuß nach hinten, bis er ganz gestreckt ist, und konzentrieren Sie sich dabei auf die Gesäßmuskeln.\nVerweilen Sie eine Sekunde lang und kehren Sie dann in die Ausgangsposition zurück.\nWiederholen Sie den Vorgang, indem Sie die Füße abwechseln."
+  }
+]

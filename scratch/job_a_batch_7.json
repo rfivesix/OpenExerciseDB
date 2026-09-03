@@ -1,0 +1,264 @@
+[
+  {
+    "id": "1115",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "3D lunge warmup",
+    "en_desc": "As a warmup, use light dumbbells, one in each hand. Lunge in alternating directions, forward, sideways, backwards and 45 degree angles.",
+    "de_name": "3D-Ausfallschritt zum Aufwärmen",
+    "de_desc": "Verwende zum Aufwärmen leichte Kurzhanteln, eine in jeder Hand. Mache Ausfallschritte in wechselnde Richtungen: nach vorne, zur Seite, nach hinten und in 45-Grad-Winkeln."
+  },
+  {
+    "id": "1324",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Bodyweight Lunge",
+    "en_desc": "Bodyweight lunges are an effective calisthenic exercise for\nstrengthening the lower body, improving balance and stability, and\ndeveloping functional strength. They are a popular choice for bodyweight workouts, home workouts, and can also be included as part of a larger strength training routine.",
+    "de_name": "Ausfallschritt mit Körpergewicht",
+    "de_desc": "Ausfallschritte mit Körpergewicht sind eine wirksame Calisthenics-Übung, um\nden Unterkörper zu kräftigen, das Gleichgewicht und die Stabilität zu verbessern und\nfunktionelle Kraft zu entwickeln. Sie sind eine beliebte Wahl für Körpergewichts-Workouts, Heimtrainings und können auch als Teil eines umfangreicheren Krafttrainings eingebaut werden."
+  },
+  {
+    "id": "1366",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell Split Squat",
+    "en_desc": "Controlled execution\nNo momentum\nExecute slowly",
+    "de_name": "Dumbbell Split Squat",
+    "de_desc": "Kontrollierte Ausführung\nKein Schwung holen\nLangsam Ausführen"
+  },
+  {
+    "id": "1593",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "smith_machine",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Smith Machine Split Squat",
+    "en_desc": "The \"Smith Machine Split Squat\" is a strength exercise\nperformed on the Smith machine, ideal for targeting the legs and glutes.\nIt involves placing one foot forward and the other back, lowering the\nbody until the front thigh is parallel to the ground while the bar\nslides vertically along the machine. This exercise helps improve\nstability, correct muscle imbalances, and reduces stress on the back,\nproviding a safe environment for strength training.",
+    "de_name": "Split-Kniebeuge an der Smith-Maschine",
+    "de_desc": "Die \"Split-Kniebeuge an der Smith-Maschine\" ist eine Kraftübung,\ndie an der Smith-Maschine ausgeführt wird und sich ideal zum Beanspruchen von Beinen und Gesäßmuskulatur eignet.\nDabei stellst du einen Fuß nach vorn und den anderen nach hinten und senkst den\nKörper ab, bis der vordere Oberschenkel parallel zum Boden ist, während die Stange\nvertikal an der Maschine entlanggleitet. Diese Übung hilft, die\nStabilität zu verbessern, muskuläre Dysbalancen auszugleichen und die Belastung des Rückens zu reduzieren,\nund bietet so eine sichere Umgebung für das Krafttraining."
+  },
+  {
+    "id": "1604",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "kettlebell",
+    "setup": [
+      "sliders"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Sliding Lateral Lunge",
+    "en_desc": "Stand upright with your feet hip-width apart, holding a kettlebell close to your chest in goblet position. Place one foot on a slider, gliding disc, or towel. Keep your chest tall and core engaged. Slowly slide the foot outward to the side while bending the opposite knee, lowering your hips into a lateral lunge. Keep the working leg’s knee aligned with the toes and avoid letting it collapse inward. The non-working leg remains straight and slides smoothly along the floor. Push through the heel of the bent leg to return to the starting position while maintaining control of the kettlebell.",
+    "de_name": "Seitlicher Ausfallschritt mit Slider",
+    "de_desc": "Stelle dich aufrecht hin, mit den Füßen hüftbreit auseinander, und halte eine Kettlebell in der Goblet-Position nah an deiner Brust. Stelle einen Fuß auf einen Slider, eine Gleitscheibe oder ein Handtuch. Halte deinen Brustkorb aufrecht und den Rumpf angespannt. Gleite den Fuß langsam zur Seite nach außen, während du das gegenüberliegende Knie beugst und deine Hüften in einen seitlichen Ausfallschritt absenkst. Halte das Knie des arbeitenden Beins in einer Linie mit den Zehen und lass es nicht nach innen einknicken. Das nicht arbeitende Bein bleibt gestreckt und gleitet sanft über den Boden. Drücke dich über die Ferse des gebeugten Beins ab, um in die Ausgangsposition zurückzukehren, während du die Kontrolle über die Kettlebell behältst."
+  },
+  {
+    "id": "1651",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Dumbbell Rear Lunge",
+    "en_desc": "This exercise involves holding a dumbbell in each hand and stepping back into a lunge position, then returning to standing. It primarily targets the glutes, hamstrings, and quadriceps.",
+    "de_name": "Rückwärtiger Ausfallschritt mit Kurzhanteln",
+    "de_desc": "Bei dieser Übung hältst du in jeder Hand eine Kurzhantel und trittst rückwärts in einen Ausfallschritt, um anschließend wieder in den Stand zurückzukehren. Sie trainiert vor allem die Gesäßmuskulatur, die hintere Oberschenkelmuskulatur und die vordere Oberschenkelmuskulatur (Quadrizeps)."
+  },
+  {
+    "id": "1706",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Bulgarian Squat with Dumbbells",
+    "en_desc": "The Bulgarian split squat consists of performing a squat on one leg with the rear foot resting on a raised platform. Elevating your back leg on a bench creates instability and increases the range of motion of the exercise.",
+    "de_name": "Bulgarische Kniebeuge mit Kurzhanteln",
+    "de_desc": "Die bulgarische Split-Kniebeuge besteht darin, eine einbeinige Kniebeuge auszuführen, während der hintere Fuß auf einer erhöhten Plattform aufliegt. Wenn du dein hinteres Bein auf einer Bank erhöhst, entsteht Instabilität und der Bewegungsumfang der Übung wird größer."
+  },
+  {
+    "id": "1734",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Single-Leg Lunge with Kettlebell:",
+    "en_desc": "How to do a single-leg kettlebell lunge\nPreparation: Stand with your feet together. Hold the kettlebell with both hands by the handle, keeping it close to your chest, or hold it with one hand (on the same side as the working leg).\nStep and Lower: Take a large step forward (or backward, which is safer for your knees) with one leg, lowering your hips until both knees form a 90-degree angle.\nFocus: Shift your weight onto your front (or bent) leg, keeping your back straight and your torso upright.\nReturn: Push off with your front leg to return to the starting position.",
+    "de_name": "Einbeiniger Ausfallschritt mit Kettlebell",
+    "de_desc": "So führst du einen einbeinigen Ausfallschritt mit Kettlebell aus\nVorbereitung: Stelle dich mit geschlossenen Füßen hin. Halte die Kettlebell mit beiden Händen am Griff dicht an deiner Brust oder halte sie mit einer Hand (auf der gleichen Seite wie das arbeitende Bein).\nSchritt und Absenken: Mache mit einem Bein einen großen Schritt nach vorne (oder nach hinten, was schonender für deine Knie ist) und senke deine Hüften ab, bis beide Knie einen 90-Grad-Winkel bilden.\nFokus: Verlagere dein Gewicht auf dein vorderes (oder gebeugtes) Bein, halte deinen Rücken gerade und deinen Oberkörper aufrecht.\nRückkehr: Drücke dich mit deinem vorderen Bein ab, um in die Ausgangsposition zurückzukehren."
+  },
+  {
+    "id": "1830",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Barbell Step Back Lunge",
+    "en_desc": "Step 1: Stand with your feet hip-width apart, holding a barbell on your upper back.\nStep 2: Keep your back straight, chest up, and core engaged.\nStep 3: Take a step back with one leg and lower your body by bending both knees. Ensure that your back knee nearly touches the ground.\nStep 4: Push off your back foot to return to the starting position.\nStep 5: Repeat the movement with the other leg.\nContinue alternating between legs for the desired repetitions.",
+    "de_name": "Ausfallschritt nach hinten mit Langhantel",
+    "de_desc": "Schritt 1: Stehe mit hüftbreit aufgestellten Füßen und halte eine Langhantel auf deinem oberen Rücken.\nSchritt 2: Halte deinen Rücken gerade, die Brust aufgerichtet und den Rumpf angespannt.\nSchritt 3: Mache mit einem Bein einen Schritt nach hinten und senke deinen Körper, indem du beide Knie beugst. Achte darauf, dass dein hinteres Knie den Boden fast berührt.\nSchritt 4: Drücke dich mit dem hinteren Fuß ab, um in die Ausgangsposition zurückzukehren.\nSchritt 5: Wiederhole die Bewegung mit dem anderen Bein.\nWechsle weiter zwischen den Beinen für die gewünschte Anzahl an Wiederholungen ab."
+  },
+  {
+    "id": "205",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Dumbbell Lunges Standing",
+    "en_desc": ".",
+    "de_name": "Ausfallschritte Stehend",
+    "de_desc": "."
+  },
+  {
+    "id": "206",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Dumbbell Lunges Walking",
+    "en_desc": "Starting Position: Stand with feet hip-width apart and hands either on your hips or holding dumbbells at your sides.\nThe Stride: Take a wide step forward with your right leg.\nThe Descent: Lower your hips until both knees are bent at approximately 90-degree angles.\nThe Transition: Drive through your front heel to stand up, bringing your back foot forward to step directly into the next lunge.",
+    "de_name": "Ausfallschritte im Gehen",
+    "de_desc": "Ausgangsposition: Stelle dich hüftbreit hin, die Hände entweder in der Hüfte oder mit Kurzhanteln seitlich am Körper.\nDer Schritt: Mache mit deinem rechten Bein einen weiten Schritt nach vorne.\nDie Abwärtsbewegung: Senke deine Hüfte, bis beide Knie etwa im 90-Grad-Winkel gebeugt sind.\nDer Übergang: Drücke dich über die vordere Ferse nach oben und führe den hinteren Fuß direkt nach vorne in den nächsten Ausfallschritt."
+  },
+  {
+    "id": "46",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Standing Barbell Lunge",
+    "en_desc": "Put barbell on the back of your shoulders. Stand upright, then take the first step forward. Step should bring you forward so that your supporting legs knee can touch the floor. Then stand back up and repeat with the other leg.\nRemember to keep good posture.",
+    "de_name": "Stehende Ausfallschritte mit Langhantel",
+    "de_desc": "Lege die Langhantel auf die Rückseite deiner Schultern. Stelle dich aufrecht hin und mache dann den ersten Schritt nach vorne. Der Schritt sollte dich so weit nach vorne bringen, dass das Knie deines stützenden Beins den Boden berühren kann. Richte dich anschließend wieder auf und wiederhole das Ganze mit dem anderen Bein.\nDenk daran, eine gute Körperhaltung zu bewahren."
+  },
+  {
+    "id": "981",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "alternating",
+    "en_name": "Step-ups",
+    "en_desc": "Starting position:\nStand facing a chair.\nSteps:\n\nStep up onto the chair.\nStep off the chair.\nRepeat.",
+    "de_name": "Steigungen",
+    "de_desc": "Ausgangsposition:\nStellen Sie sich vor einen Stuhl.\nSchritte:\n\nSteigen Sie auf den Stuhl.\nSteigen Sie vom Stuhl ab.\nWiederholen Sie"
+  },
+  {
+    "id": "984",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Lunges",
+    "en_desc": "Starting position:\nStand with back straight.\nSteps:\n\nTake a large step forward with your left leg.\nBring your pelvis down until you almost touch the floor with your right knee.\nBring your pelvis back up.\nReturn to the starting position by stepping back.\nRepeat, switching legs each time.",
+    "de_name": "Ausfallschritte",
+    "de_desc": "Ausgangsposition:\nMit geradem Rücken stehen.\nSchritte:\n\nMachen Sie mit dem linken Bein einen großen Schritt nach vorn.\nSenken Sie Ihr Becken, bis Sie mit dem rechten Knie fast den Boden berühren.\nBringen Sie Ihr Becken wieder nach oben.\nKehren Sie in die Ausgangsposition zurück, indem Sie einen Schritt zurücktreten.\nWiederholen Sie den Vorgang und wechseln Sie dabei jedes Mal die Beine."
+  },
+  {
+    "id": "986",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Side split squats left",
+    "en_desc": "Starting position:\n\nStand tall and take a wide lateral stride, just greater than shoulder width.\n\nSteps:\n\nBend one knee until your thigh is parallel to the floor. The bent knee must be in line with the foot.\nPush back to the starting position.\nRepeat.",
+    "de_name": "Seitliche Kniebeugen links",
+    "de_desc": "Ausgangsposition:\n\nStehen Sie aufrecht und machen Sie einen weiten seitlichen Schritt, etwas mehr als schulterbreit.\n\nSchritte:\n\nBeugen Sie ein Knie, bis Ihr Oberschenkel parallel zum Boden ist. Das gebeugte Knie muss sich in einer Linie mit dem Fuß befinden.\nDrücken Sie sich zurück in die Ausgangsposition.\nWiederholen Sie die Übung."
+  },
+  {
+    "id": "987",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Side split squats right",
+    "en_desc": "Starting position:\n\nStand tall and take a wide lateral stride, just greater than shoulder width.\n\nSteps:\n\nBend one knee until your thigh is parallel to the floor. The bent knee must be in line with the foot.\nPush back to the starting position.\nRepeat.",
+    "de_name": "Seitliche Kniebeugen rechts",
+    "de_desc": "Ausgangsposition:\n\nStehen Sie aufrecht und machen Sie einen weiten seitlichen Schritt, etwas mehr als schulterbreit.\n\nSchritte:\n\nBeugen Sie ein Knie, bis Ihr Oberschenkel parallel zum Boden ist. Das gebeugte Knie muss sich in einer Linie mit dem Fuß befinden.\nDrücken Sie sich zurück in die Ausgangsposition.\nWiederholen Sie die Übung."
+  },
+  {
+    "id": "988",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Bulgarian split squats left",
+    "en_desc": "Stand tall in front of a chair and take a large step. Put the upper part of one of your feet on the chair.\nBend the front knee, balancing with arms until the back knee almost touches the ground.\nPush back to the starting position and repeat.",
+    "de_name": "Bulgarische geteilte Kniebeugen links",
+    "de_desc": "Stelle Dich aufrecht vor einen Stuhl und machen einen großen Schritt. Stelle den oberen Teil einer Deiner Füße auf den Stuhl.\nBeuge das vordere Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt\nGehe in die Ausgangsposition zurück und wiederhole."
+  },
+  {
+    "id": "989",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Bulgarian split squats right",
+    "en_desc": "Stand tall in front of a chair and take a large step. Put the upper part of one of your feet on the chair.\nBend the front knee, balancing with arms until the back knee almost touches the ground.\nPush back to the starting position and repeat.",
+    "de_name": "Bulgarische geteilte Kniebeugen rechts",
+    "de_desc": "Stelle Dich aufrecht vor einen Stuhl und machen einen großen Schritt. Stelle den oberen Teil einer Deiner Füße auf den Stuhl.\nBeuge das vordere Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt\nGehe in die Ausgangsposition zurück und wiederhole."
+  },
+  {
+    "id": "991",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Split squats left",
+    "en_desc": "Starting position:\nStand with your back straight. Take a large step forward with your left leg.\nSteps:\n\nBring your pelvis down until you almost touch the floor with your right knee.\nBring your pelvis back up.\nRepeat.",
+    "de_name": "Geteilte Kniebeugen links",
+    "de_desc": "Ausgangsposition:\nStellen Sie sich mit geradem Rücken hin. Machen Sie mit dem linken Bein einen großen Schritt nach vorn.\nSchritte:\n\nBringen Sie Ihr Becken nach unten, bis Sie mit dem rechten Knie fast den Boden berühren.\nBringen Sie Ihr Becken wieder nach oben.\nWiederholen Sie die Übung."
+  },
+  {
+    "id": "992",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Split squats right",
+    "en_desc": "Starting position:\nStand with your back straight. Take a large step forward with your right leg.\nSteps:\n\nBring your pelvis down until you almost touch the floor with your left knee.\nBring your pelvis back up.\nRepeat.",
+    "de_name": "Geteilte Kniebeugen rechts",
+    "de_desc": "Ausgangsposition:\nStellen Sie sich mit geradem Rücken hin. Machen Sie mit dem rechten Bein einen großen Schritt nach vorn.\nSchritte:\n\nBringen Sie Ihr Becken nach unten, bis Sie mit dem linken Knie fast den Boden berühren.\nBringen Sie Ihr Becken wieder nach oben.\nWiederholen Sie die Übung."
+  },
+  {
+    "id": "999",
+    "pattern": "lunge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Reverse lunges",
+    "en_desc": "Starting position:\nStand straight, feet hip-width apart.\nSteps:\n\nStep backward with one leg so it can bend comfortably to a 90 degree angle.\nSlowly bend both knees to form 90 degree angles.\nReturn to the starting position.\nRepeat, alternating legs.",
+    "de_name": "Umgekehrte Ausfallschritte",
+    "de_desc": "Ausgangsposition:\nGerade stehen, Füße hüftbreit auseinander.\nSchritte:\n\nTreten Sie mit einem Bein nach hinten, so dass Sie es bequem bis zu einem Winkel von 90 Grad beugen können.\nBeugen Sie langsam beide Knie, um einen 90-Grad-Winkel zu bilden.\nKehren Sie in die Ausgangsposition zurück.\nWiederholen, dabei die Beine abwechseln."
+  }
+]

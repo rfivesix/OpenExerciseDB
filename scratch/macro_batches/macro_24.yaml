@@ -1,0 +1,113 @@
+batch_id: 24
+movement_pattern: plantar_flexion
+items:
+- id: '590'
+  name: Sitting Calf Raises
+  primary_equipment: machine
+  setup:
+  - flat_bench
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '702'
+  name: Calf raises, one legged
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1243'
+  name: Double Leg Calf Raise
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1242'
+  name: Exercise Band Plantarflexion
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '148'
+  name: Calf Raises on Hackenschmitt Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1203'
+  name: Calf raises, left leg
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1021'
+  name: Calf raises, right leg
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1515'
+  name: Leg Press Toe Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '146'
+  name: Calf Press Using Leg Press Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1466'
+  name: Calf Raise using Hack Squat Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '622'
+  name: Standing Calf Raises
+  primary_equipment: machine
+  setup: []
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1620'
+  name: Seated Dumbbell Calf Raise
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: plantar_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

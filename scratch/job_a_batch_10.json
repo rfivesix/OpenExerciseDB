@@ -1,0 +1,220 @@
+[
+  {
+    "id": "1004",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Forward shoulder rotation",
+    "en_desc": "Starting position:\nSit or stand with your back straight.\nSteps:\n\nPlace your hands on your shoulders.\nRepeatedly rotate both shoulder joints in a circular motion at a moderate pace.",
+    "de_name": "Vorwärtsdrehung der Schulter",
+    "de_desc": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege Deine Hände auf Deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo."
+  },
+  {
+    "id": "1005",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Backward shoulder rotation",
+    "en_desc": "Starting position:\nSit or stand with your back straight.\nSteps:\n\nPlace your hands on your shoulders.\nRepeatedly rotate both shoulder joints in a circular motion at a moderate pace.",
+    "de_name": "Rückwärtsdrehung der Schulter",
+    "de_desc": "Ausgangsposition:\nSitze oder stehe mit geradem Rücken.\nSchritte:\n\nLege Deine Hände auf Deine Schultern.\nDrehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo."
+  },
+  {
+    "id": "1081",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "resistance_band",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Shoulder dislocates",
+    "en_desc": "Starting position:\nStand up with your back straight and a resistance band, towel, or broomstick handle in hand. With your hands straight in front of your body and the band between your hands, push your hands apart to both be at around 45 degrees from your body, thumbs facing down. If using a towel or broomstick handle instead, grab it with an overhand grip.\nSteps:\n\nKeeping your arms outstretched, rotate at the shoulders to bring your arms overhead and then down toward your glutes.\nRotate at the shoulders in the opposite direction — overhead and then toward your groin.\nRepeat.",
+    "de_name": "Schulterdislokationen",
+    "de_desc": "Ausgangsposition:\nStelle dich mit geradem Rücken hin und nimm ein Widerstandsband, ein Handtuch oder einen Besenstiel in die Hände. Halte die Hände gerade vor deinem Körper, das Band zwischen den Händen, und schiebe deine Hände auseinander, sodass beide etwa 45 Grad von deinem Körper entfernt sind, die Daumen nach unten zeigend. Wenn du stattdessen ein Handtuch oder einen Besenstiel verwendest, greife es im Obergriff.\nAblauf:\n\nHalte deine Arme gestreckt und rotiere in den Schultern, um deine Arme über den Kopf und dann nach unten in Richtung deiner Gesäßmuskulatur zu führen.\nRotiere in den Schultern in die entgegengesetzte Richtung – über den Kopf und dann in Richtung deiner Leiste.\nWiederhole."
+  },
+  {
+    "id": "142",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Cable External Rotation",
+    "en_desc": "Steps:\n\nStart off placing an extension band around a post or in a secure position where it will not release and is at elbow level.\nPosition yourself to the side of the band and with your hand that is opposite of the band, reach out and grab the handle.\nBring the band to your chest keeping your elbow bent in a 90 degree angle then slowly rotate your arm in a backhand motion so that the band externally rotates out\nContinue out as far as possible so that you feel a stretch in your shoulders, hold for a count and then return back to the starting position.\nRepeat for as many reps and sets as desired.",
+    "de_name": "Außenrotation am Kabelzug",
+    "de_desc": "Schritte:\n\nBefestige zunächst ein Widerstandsband um einen Pfosten oder an einer sicheren Position, an der es sich nicht löst und auf Ellbogenhöhe liegt.\nStelle dich seitlich zum Band und greife mit der Hand, die dem Band gegenüberliegt, nach dem Griff.\nFühre das Band zu deiner Brust, halte deinen Ellbogen in einem 90-Grad-Winkel gebeugt und rotiere dann langsam deinen Arm in einer Rückhandbewegung, sodass das Band nach außen rotiert.\nFühre die Bewegung so weit wie möglich nach außen aus, sodass du eine Dehnung in deinen Schultern spürst, halte einen Moment und kehre dann in die Ausgangsposition zurück.\nWiederhole dies für so viele Wiederholungen und Sätze wie gewünscht."
+  },
+  {
+    "id": "1429",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell Shoulder Rotations",
+    "en_desc": "Dumbbell shoulder rotations are designed to strengthen the rotator cuff muscles and improve shoulder stability and mobility.\n\nExternal Rotation: Hold a dumbbell in one hand, keeping your elbow bent at 90 degrees and close to your body. Rotate your forearm outward, away from your body, keeping your elbow stationary. Slowly return to the starting position.\nInternal Rotation: Hold a dumbbell in one hand, keeping your elbow bent at 90 degrees and close to your body. Rotate your forearm inward, toward your body, and slowly return to the starting position. Perform the exercise with controlled movements to avoid strain.",
+    "de_name": "Schulterrotationen mit Kurzhantel",
+    "de_desc": "Schulterrotationen mit Kurzhantel sind darauf ausgelegt, die Muskulatur der Rotatorenmanschette zu stärken sowie die Stabilität und Mobilität der Schulter zu verbessern.\n\nAußenrotation: Halte eine Kurzhantel in einer Hand, den Ellbogen im 90-Grad-Winkel gebeugt und nah am Körper. Rotiere deinen Unterarm nach außen, weg von deinem Körper, und halte dabei deinen Ellbogen ruhig. Kehre langsam in die Startposition zurück.\nInnenrotation: Halte eine Kurzhantel in einer Hand, den Ellbogen im 90-Grad-Winkel gebeugt und nah am Körper. Rotiere deinen Unterarm nach innen, zu deinem Körper hin, und kehre langsam in die Startposition zurück. Führe die Übung mit kontrollierten Bewegungen aus, um Verletzungen zu vermeiden."
+  },
+  {
+    "id": "1582",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Side-laying interior rotation",
+    "en_desc": "Laying on your side and using the arm closest to the bench, maintain a 90 degree bend at the elbow and allow the weight to fall towards the ground past the bench as low as comfortable. Bring the weight up using only rotation of the shoulder to the opposing shoulder.",
+    "de_name": "Innenrotation in Seitenlage",
+    "de_desc": "Lege dich auf die Seite und verwende den Arm, der der Bank am nächsten ist. Halte einen 90-Grad-Winkel im Ellbogen und lasse das Gewicht an der Bank vorbei so weit wie angenehm möglich in Richtung Boden sinken. Hebe das Gewicht wieder an, indem du nur die Schulter in Richtung der gegenüberliegenden Schulter rotierst."
+  },
+  {
+    "id": "1711",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Sleeper Stretch",
+    "en_desc": "Lie on your side so that you are resting a little weight on your shoulder blade to keep it still\nExtend your arm to 90 degrees in front of you, resting on the floor/mat\nLift your hand with your elbow so that your fingers point to the ceiling and your palm points towards your feet\nKeeping your elbow still, gently lower your palm toward the floor",
+    "de_name": "Sleeper Stretch",
+    "de_desc": "Lege dich auf die Seite, sodass ein wenig Gewicht auf deinem Schulterblatt ruht, um es ruhig zu halten\nStrecke deinen Arm 90 Grad vor dir aus und lege ihn auf dem Boden bzw. der Matte ab\nHebe deine Hand vom Ellbogen aus an, sodass deine Finger zur Decke zeigen und deine Handfläche in Richtung deiner Füße weist\nHalte den Ellbogen ruhig und senke deine Handfläche langsam in Richtung Boden"
+  },
+  {
+    "id": "1714",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Shoulder Dumbbell Pendular Exercise",
+    "en_desc": "Lean forward to rest your hand on a chair or other object, holding a dumbbell in the other hand\nGently swing the dumbbell in a circular motion",
+    "de_name": "Pendelübung für die Schulter mit Kurzhantel",
+    "de_desc": "Beuge dich nach vorne und stütze eine Hand auf einem Stuhl oder einem anderen Gegenstand ab, während du in der anderen Hand eine Kurzhantel hältst.\nSchwinge die Kurzhantel sanft in kreisenden Bewegungen."
+  },
+  {
+    "id": "1715",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Shoulder External Rotation with Dumbbell",
+    "en_desc": "Lie on your side holding a dumbbell in your upper hand\nTuck your elbow into your side and rest the hand in front of you\nRotate the shoulder so the hand raises up\nLower the hand down",
+    "de_name": "Außenrotation der Schulter mit Kurzhantel",
+    "de_desc": "Lege dich auf die Seite und halte eine Kurzhantel in der oben liegenden Hand.\nLege den Ellbogen an deine Seite an und halte die Hand vor dir.\nRotiere die Schulter, sodass sich die Hand nach oben hebt.\nSenke die Hand wieder ab."
+  },
+  {
+    "id": "1728",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Shoulder Internal Rotation (Cable)",
+    "en_desc": "Keep your elbow tucked to your side like it's superglued there.\nDon’t rotate your torso — only your forearm should move.",
+    "de_name": "Innenrotation der Schulter am Kabelzug",
+    "de_desc": "Halte deinen Ellbogen so eng an deiner Seite, als wäre er dort festgeklebt.\nRotiere nicht deinen Oberkörper – nur dein Unterarm sollte sich bewegen."
+  },
+  {
+    "id": "1729",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Shoulder External Rotation (Cable)",
+    "en_desc": "Keep elbow fixed at your side and rotate forearm outward smoothly.\nDon’t let your wrist or elbow drift upward — stay in one plane.",
+    "de_name": "Außenrotation der Schulter am Kabelzug",
+    "de_desc": "Halte den Ellbogen an deiner Seite fixiert und rotiere den Unterarm gleichmäßig nach außen.\nLass dein Handgelenk oder deinen Ellbogen nicht nach oben wandern – bleibe in einer Ebene."
+  },
+  {
+    "id": "1835",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "External Rotation Stretch",
+    "en_desc": "Sit with your feet pressed against each other, and one knee raised all the way out to the side of your body.\nPlace your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your barbell/dumbbell.\nKeep your shoulder depressed and retracted, raise your hand until your forearm is vertical, as if you were about to wave at someone like a robot.\nLower your hand to the original position and repeat.",
+    "de_name": "Dehnung mit Außenrotation",
+    "de_desc": "Setze dich mit aneinandergedrückten Fußsohlen hin und hebe ein Knie ganz zur Seite deines Körpers an.\nLege deinen Ellenbogen auf dein angehobenes Knie, beuge ihn im 90-Grad-Winkel und richte deine Hand direkt nach vorne, während du deine Langhantel/Kurzhantel hältst.\nHalte deine Schulter abgesenkt und zurückgezogen und hebe deine Hand an, bis dein Unterarm senkrecht steht, als würdest du jemandem wie ein Roboter zuwinken.\nSenke deine Hand in die Ausgangsposition zurück und wiederhole die Bewegung."
+  },
+  {
+    "id": "1838",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "resistance_band",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Banded Shoulder Drills",
+    "en_desc": "Attach a resistance band to something solid behind you. Stand away from it, holding it in your hand so it is taut.\nSee the attached youtube video: https://www.youtube.com/watch?v=zdwEWchSjrI .",
+    "de_name": "Schulterübungen mit Band",
+    "de_desc": "Befestige ein Widerstandsband hinter dir an etwas Stabilem. Stelle dich davon weg und halte es in der Hand, sodass es straff gespannt ist.\nSiehe das beigefügte YouTube-Video: https://www.youtube.com/watch?v=zdwEWchSjrI ."
+  },
+  {
+    "id": "406",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Lying Rotator Cuff Exercise",
+    "en_desc": "This is an excercise for problems with the rotator cuff. Primary  Infraspinatus, secondary Teres Minor.\nLying on side. Keep elbow on waist and in 90 dgr angle. Rotate towards stomach. Add weight as fit.",
+    "de_name": "Rotatorenmanschette im Liegen",
+    "de_desc": "Dies ist eine Übung bei Problemen mit der Rotatorenmanschette. Primär wird der Infraspinatus beansprucht, sekundär der Teres minor.\nLege dich auf die Seite. Halte den Ellbogen an der Taille und in einem 90°-Winkel. Rotiere in Richtung Bauch. Füge nach Belieben Gewicht hinzu."
+  },
+  {
+    "id": "578",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Side-lying External Rotation",
+    "en_desc": "With a weight in one hand, lie on your side opposite the weight. Keep your knees slightly bent. Hold your elbow against your side, and extend your upper arm straight ahead of you. While continuing to hold your elbow against your side, rotate your upper arm 90 degrees upwards.\nIt is helpful to place a towel under your armpit to help with the form on this exercise. Placing a support under your head for the duration of the exercise is also a good idea.",
+    "de_name": "Außenrotation in Seitenlage",
+    "de_desc": "Halte ein Gewicht in einer Hand und lege dich auf die dem Gewicht entgegengesetzte Seite. Halte die Knie leicht gebeugt. Halte deinen Ellbogen an der Körperseite und strecke deinen Oberarm gerade nach vorne aus. Während du den Ellbogen weiterhin an der Körperseite hältst, rotiere deinen Unterarm 90 Grad nach oben.\nEs ist hilfreich, ein Handtuch unter die Achsel zu legen, um die Ausführung dieser Übung zu erleichtern. Eine Unterlage unter dem Kopf während der gesamten Übung ist ebenfalls eine gute Idee."
+  },
+  {
+    "id": "994",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Forward arm circles",
+    "en_desc": "Starting position:\nStand tall with your back straight.\nSteps:\n\nKeeping your arms straight, bring them in front of you, move them down, behind your back, then over your head, and back to the initial position.\nKeep circling your arms as described in step 1.",
+    "de_name": "Armkreisen vorwärts",
+    "de_desc": "Ausgangsposition:\nStehen Sie aufrecht mit geradem Rücken.\nSchritte:\n\nFühren Sie die Arme bei gestrecktem Körper vor sich her, führen Sie sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.\nLassen Sie die Arme wie in Schritt 1 beschrieben kreisen."
+  },
+  {
+    "id": "995",
+    "pattern": "rotation",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Backward arm circles",
+    "en_desc": "Starting position:\nStand tall with your back straight.\nSteps:\n\nKeeping your arms straight, bring them in front of you, raise them over your head, then continue the motion behind your back and down to the initial position.\nKeep circling your arms as described in step 1.",
+    "de_name": "Armkreisen rückwärts",
+    "de_desc": "Ausgangsposition:\nStehen Sie aufrecht mit geradem Rücken.\nSchritte:\n\nHalten Sie die Arme gestreckt und führen Sie sie vor sich her, heben Sie sie über den Kopf und setzen Sie die Bewegung hinter dem Rücken fort, bis Sie wieder in die Ausgangsposition gelangen.\nKreisen Sie die Arme weiter wie in Schritt 1 beschrieben."
+  }
+]

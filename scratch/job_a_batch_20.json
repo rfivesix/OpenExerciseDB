@@ -1,0 +1,392 @@
+[
+  {
+    "id": "132",
+    "pattern": "other",
+    "primary_group": "chest+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Burpees",
+    "en_desc": "Jump, lay down on your chest, do a pushup then jump, repeat",
+    "de_name": "Burpees",
+    "de_desc": "Spring, leg dich auf deine Brust, mach einen Liegestütz und spring, wiederhole"
+  },
+  {
+    "id": "1360",
+    "pattern": "vertical_push",
+    "primary_group": "glutes+shoulders",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Double Kettlebell Clean and Press",
+    "en_desc": "Full-body muscles building exercise.&nbsp;This exercise provides a huge range of benefits in terms of strength &amp; size and is extremely functional.",
+    "de_name": "Doppeltes Kettlebell Clean and Press",
+    "de_desc": "Ganzkörper-Übung für den Muskelaufbau. Diese Übung bietet eine enorme Bandbreite an Vorteilen in Bezug auf Kraft und Größe und ist äußerst funktionell."
+  },
+  {
+    "id": "1387",
+    "pattern": "other",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Hamstring Kicks",
+    "en_desc": "Stand with your feet hip-width apart and extend one arm in front of you. Swing that leg up in front of you and back down while keeping your leg as straight as possible and your toes pointed up.Repeat with the other leg.",
+    "de_name": "Hamstring-Kicks",
+    "de_desc": "Stehen Sie mit hüftbreit geöffneten Füßen. Schwingen Sie ein Bein vor und zurück, wobei Sie es so gerade wie möglich halten und die Zehen nach oben zeigen. Wiederholen Sie dies mit dem anderen Bein."
+  },
+  {
+    "id": "1394",
+    "pattern": "spinal_flexion",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Sit & Reach",
+    "en_desc": "Sit on the ground with your legs extended straight in front of you. Reach both hands forward, trying to reach past your toes or as far as you can go. Return to the starting position and repeat.",
+    "de_name": "Sit & Reach",
+    "de_desc": "Setze dich auf den Boden, die Beine gerade nach vorne ausgestreckt. Strecke beide Hände nach vorne und versuche, über deine Zehen hinaus oder so weit wie möglich zu reichen. Kehre in die Startposition zurück und wiederhole die Bewegung."
+  },
+  {
+    "id": "1395",
+    "pattern": "hip_abduction",
+    "primary_group": "adductors+glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Crossbody Leg Swings",
+    "en_desc": "Hold onto a wall or something near you for support. Swing one leg across the front of your body, then back and out to the side. Repeat while slowly increasing your range of motion.",
+    "de_name": "Beinschwingen über Kreuz",
+    "de_desc": "Halte dich an einer Wand oder etwas in deiner Nähe fest, um dich abzustützen. Schwinge ein Bein vor deinem Körper über Kreuz, dann zurück und zur Seite hinaus. Wiederhole die Bewegung und vergrößere dabei langsam deinen Bewegungsumfang."
+  },
+  {
+    "id": "1398",
+    "pattern": "knee_extension",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Hamstring Chokes",
+    "en_desc": "Sit on the ground and bend one leg, bringing your knee toward you. Place your hand behind your hamstring and gently pull your leg toward your chest, feeling a stretch in the back of your thigh. Straighten your leg, extending up toward the ceiling.",
+    "de_name": "Hamstring Chokes",
+    "de_desc": "Setze dich auf den Boden und beuge ein Bein, indem du dein Knie zu dir heranziehst. Lege deine Hand hinter deine hintere Oberschenkelmuskulatur und ziehe dein Bein sanft zur Brust, sodass du eine Dehnung in der Rückseite deines Oberschenkels spürst. Strecke dein Bein und führe es nach oben in Richtung Decke aus."
+  },
+  {
+    "id": "1399",
+    "pattern": "spinal_flexion",
+    "primary_group": "abs+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Roll Down",
+    "en_desc": "Stand with your feet hip-width apart and slowly roll your upper body forward, one vertebra at a time, until your hands touch the ground or as far as you can comfortably go. Roll back up to the starting position in the same controlled manner.",
+    "de_name": "Roll Down",
+    "de_desc": "Stelle dich mit den Füßen hüftbreit auseinander hin und rolle deinen Oberkörper langsam Wirbel für Wirbel nach vorne ab, bis deine Hände den Boden berühren oder so weit, wie es dir angenehm möglich ist. Rolle dich auf dieselbe kontrollierte Weise wieder in die Startposition hoch."
+  },
+  {
+    "id": "1411",
+    "pattern": "anti_lateral_flexion",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Heel Touches",
+    "en_desc": "Starting Position:\n\nLie on your back on an exercise mat.\nBend your knees, keeping your feet flat on the floor and hip-width apart.\nPlace your arms along your sides, palms facing inward, just off the floor.\n\n\n\nEngage Core:\n\nLift your head, shoulders, and upper back slightly off the ground.\nKeep your neck neutral and chin slightly tucked.\n\n\n\nPerform the Movement:\n\nSide-bend to the right, reaching your right hand toward your right heel.\nReturn to the center, then side-bend to the left, reaching your left hand toward your left heel.\nContinue alternating sides in a controlled manner.\n\n\n\nBreathing:\n\nExhale as you reach toward your heel and inhale as you return to the center.",
+    "de_name": "Fersenberührungen",
+    "de_desc": "Startposition:\n\nLege dich auf dem Rücken auf eine Trainingsmatte.\nBeuge deine Knie und halte deine Füße flach auf dem Boden, hüftbreit auseinander.\nLege deine Arme seitlich an deinen Körper, die Handflächen nach innen gerichtet, knapp über dem Boden.\n\n\n\nRumpf anspannen:\n\nHebe deinen Kopf, deine Schultern und deinen oberen Rücken leicht vom Boden ab.\nHalte deinen Nacken neutral und das Kinn leicht eingezogen.\n\n\n\nBewegung ausführen:\n\nBeuge dich seitlich nach rechts und greife mit deiner rechten Hand in Richtung deiner rechten Ferse.\nKehre in die Mitte zurück, beuge dich dann seitlich nach links und greife mit deiner linken Hand in Richtung deiner linken Ferse.\nWechsle kontrolliert weiter die Seiten ab.\n\n\n\nAtmung:\n\nAtme aus, während du nach deiner Ferse greifst, und atme ein, während du in die Mitte zurückkehrst."
+  },
+  {
+    "id": "1430",
+    "pattern": "carry",
+    "primary_group": "forearms",
+    "primary_equipment": "weight_plate",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Plate Pinch Hold",
+    "en_desc": "The plate pinch hold is a grip strength exercise designed to target the forearms and improve grip endurance. Select one or two weight plates (smooth-edged plates work best) and pinch them together between your thumb and fingers. Hold the plates with your arm straight down by your side or extended slightly in front of you. Maintain the hold for as long as you can, keeping your shoulders relaxed and your grip firm. This exercise can be done for time or repetitions.",
+    "de_name": "Plate Pinch Hold",
+    "de_desc": "Der Plate Pinch Hold ist eine Übung für die Griffkraft, die darauf ausgelegt ist, die Unterarme zu beanspruchen und die Griffausdauer zu verbessern. Wähle eine oder zwei Hantelscheiben aus (Scheiben mit glatten Kanten eignen sich am besten) und klemme sie zwischen deinem Daumen und deinen Fingern zusammen. Halte die Scheiben mit gestrecktem Arm seitlich an deinem Körper oder leicht nach vorne ausgestreckt. Halte den Griff so lange wie möglich, halte dabei deine Schultern entspannt und deinen Griff fest. Diese Übung kann auf Zeit oder auf Wiederholungen ausgeführt werden."
+  },
+  {
+    "id": "1450",
+    "pattern": "spinal_extension",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Cobra Stretch",
+    "en_desc": "The Cobra Stretch is a back extension exercise that helps improve spinal flexibility and relieve lower back tension. To perform, lie face down on the floor with your hands placed under your shoulders. Press your palms into the floor and lift your chest while keeping your hips on the ground. Keep your elbows slightly bent and your shoulders relaxed. Hold the stretch for a few seconds, then slowly lower yourself back down. This exercise is beneficial for improving posture and reducing lower back stiffness.",
+    "de_name": "Kobra-Dehnung",
+    "de_desc": "Die Kobra-Dehnung ist eine Rückenstreckungsübung, die hilft, die Flexibilität der Wirbelsäule zu verbessern und Verspannungen im unteren Rücken zu lösen. Lege dich dazu mit dem Gesicht nach unten auf den Boden und platziere deine Hände unter den Schultern. Drücke die Handflächen in den Boden und hebe die Brust an, während du die Hüften am Boden lässt. Halte die Ellbogen leicht gebeugt und die Schultern entspannt. Halte die Dehnung für ein paar Sekunden und senke dich dann langsam wieder ab. Diese Übung ist hilfreich, um die Haltung zu verbessern und Steifheit im unteren Rücken zu verringern."
+  },
+  {
+    "id": "1523",
+    "pattern": "horizontal_push",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "sled",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Sled Push",
+    "en_desc": "Load the sled with 25% of your maximum load. If you don’t know this, choose a weight you can push for 10 minutes with short breaks. Beginners may choose to push the sled with no weight.\nStand behind the sled and grab the poles with a high-grip hand position.\nEngage your core muscles and start pushing the sled forward as fast as you can, powering through your entire leg. Extend your hips and knees as you move the sled forward. Your foot stance should resemble your natural running position.",
+    "de_name": "Schlitten schieben",
+    "de_desc": "Belade den Schlitten mit 25 % deiner maximalen Last. Wenn du diese nicht kennst, wähle ein Gewicht, das du 10 Minuten lang mit kurzen Pausen schieben kannst. Anfänger können den Schlitten auch ohne Gewicht schieben.\nStelle dich hinter den Schlitten und greife die Stangen mit einer hohen Handposition.\nSpanne deine Rumpfmuskulatur an und beginne, den Schlitten so schnell wie möglich nach vorne zu schieben, wobei du die Kraft aus dem gesamten Bein nimmst. Strecke deine Hüfte und Knie, während du den Schlitten nach vorne bewegst. Deine Fußstellung sollte deiner natürlichen Laufposition entsprechen."
+  },
+  {
+    "id": "1525",
+    "pattern": "other",
+    "primary_group": "abs+back",
+    "primary_equipment": "medicine_ball",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Ball Slams",
+    "en_desc": "Stand with your feet about shoulder-width apart, your knees and hips slightly bent, holding the ball in both hands at chest height. Engage your core, and keep a good posture.\nExtend your knees and drive your hips forward while simultaneously lifting the ball. Aim for being as tall as possible, the ball overhead, arms up, hips slightly forward, and on your toes from the force of your drive.\nUse your core and arms to slam the medicine ball straight down between your feet with as much force as possible. Press your hips back and bend your knees to further power the slam. Exhale as you slam the ball down.\nSquat down to pick up the ball from the floor, then immediately move into the next slam by repeating the movement. Repeat for reps or time.",
+    "de_name": "Ball Slams",
+    "de_desc": "Stelle dich mit den Füßen etwa schulterbreit auseinander, die Knie und Hüften leicht gebeugt, und halte den Ball mit beiden Händen auf Brusthöhe. Spanne deine Rumpfmuskulatur an und behalte eine gute Haltung bei.\nStrecke deine Knie und schiebe deine Hüfte nach vorne, während du gleichzeitig den Ball anhebst. Strecke dich so groß wie möglich, der Ball über dem Kopf, die Arme nach oben, die Hüfte leicht nach vorne, und durch die Kraft deines Antriebs auf den Zehenspitzen.\nNutze deine Rumpfmuskulatur und deine Arme, um den Medizinball mit so viel Kraft wie möglich gerade nach unten zwischen deine Füße zu schmettern. Drücke deine Hüfte zurück und beuge deine Knie, um den Schlag weiter zu verstärken. Atme aus, während du den Ball nach unten schmetterst.\nGehe in die Hocke, um den Ball vom Boden aufzuheben, und gehe dann sofort in den nächsten Schlag über, indem du die Bewegung wiederholst. Wiederhole für Wiederholungen oder auf Zeit."
+  },
+  {
+    "id": "1526",
+    "pattern": "vertical_pull",
+    "primary_group": "abs+back+triceps",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Ski Machine",
+    "en_desc": "Start standing on the platform with your feet hip-width apart.\nReach overhead to grip the handles with your palms facing in.\nSoften your knees, then simultaneously drive your butt back as if you're closing a door behind you while pulling your arms straight down past your hips until your hands pass by the side of your knees.\nNext, bring your arms back overhead while thrusting your hips forward until you're standing with your arms fully extended.\nRepeat for reps, time or distance.",
+    "de_name": "Ski-Maschine",
+    "de_desc": "Beginne stehend auf der Plattform, die Füße hüftbreit auseinander.\nGreife über Kopf nach den Griffen, die Handflächen zeigen nach innen.\nBeuge die Knie leicht, schiebe dann gleichzeitig dein Gesäß nach hinten, als würdest du eine Tür hinter dir schließen, während du deine Arme gerade nach unten an deinen Hüften vorbeiziehst, bis deine Hände seitlich an deinen Knien vorbeigehen.\nFühre als Nächstes deine Arme wieder über den Kopf, während du deine Hüfte nach vorne schiebst, bis du mit vollständig gestreckten Armen stehst.\nWiederhole für Wiederholungen, auf Zeit oder auf Distanz."
+  },
+  {
+    "id": "1556",
+    "pattern": "other",
+    "primary_group": "glutes+shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Devil’s Press",
+    "en_desc": "The Devil’s Press is a hybrid movement combining a dumbbell burpee and a double dumbbell snatch. It’s a full-body, high-intensity exercise that develops strength, power, and metabolic conditioning.\n\nStart with a dumbbell in each hand and perform a burpee, letting your chest touch the ground while holding the dumbbells.\nExplosively jump your feet forward and swing the dumbbells between your legs.\nDrive the dumbbells overhead in one continuous motion, locking out your arms.\nLower the dumbbells with control to return to the starting position and repeat",
+    "de_name": "Devil's Press",
+    "de_desc": "Der Devil's Press ist eine Hybridbewegung, die einen Burpee mit Kurzhanteln und einen beidarmigen Kurzhantel-Snatch kombiniert. Es ist eine hochintensive Ganzkörperübung, die Kraft, Schnellkraft und die metabolische Kondition entwickelt.\n\nBeginne mit einer Kurzhantel in jeder Hand und führe einen Burpee aus, wobei deine Brust den Boden berührt, während du die Kurzhanteln festhältst.\nSpringe explosiv mit den Füßen nach vorn und schwinge die Kurzhanteln zwischen deinen Beinen hindurch.\nReiße die Kurzhanteln in einer durchgehenden Bewegung über den Kopf und strecke die Arme vollständig aus.\nSenke die Kurzhanteln kontrolliert ab, um in die Ausgangsposition zurückzukehren, und wiederhole die Bewegung"
+  },
+  {
+    "id": "1576",
+    "pattern": "hinge",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Snap Down",
+    "en_desc": "Begin in a standing position with your\narms up over your head and your toes pushing into the ground raising\nyour heels up becoming as tall as you can. From this position, perform a\nsmall hop with both feet slightly coming off of the ground. As you\nland, bend your knees and begin to hinge forward at your hips absorbing\nthe landing. Return to the starting position and repeat.&nbsp;\nYou should feel the muscles in your lower body working.&nbsp;\nStart with your arms and knees fully\nstraightened out. Keep a stable balance as you land and briefly hold\nthat end position, don’t go too fast and become off balanced. Keep your\nchest up.&nbsp;\nFor a detailed video on landing mechanics, click here: https://youtu.be/RThUCYRDyZw",
+    "de_name": "Snap Down",
+    "de_desc": "Beginne im Stand mit den Armen über dem Kopf und drücke deine Zehen in den Boden, sodass sich deine Fersen heben und du dich so groß wie möglich machst. Führe aus dieser Position einen kleinen Sprung aus, bei dem beide Füße leicht vom Boden abheben. Beuge beim Landen die Knie und beginne, die Hüften nach vorn zu beugen, um die Landung abzufedern. Kehre in die Ausgangsposition zurück und wiederhole die Bewegung.\nDu solltest spüren, wie die Muskeln in deinem Unterkörper arbeiten.\nBeginne mit vollständig gestreckten Armen und Knien. Halte ein stabiles Gleichgewicht, während du landest, und halte diese Endposition kurz. Mach es nicht zu schnell und gerate nicht aus dem Gleichgewicht. Halte deinen Brustkorb aufrecht.\nEin ausführliches Video zur Landetechnik findest du hier: https://youtu.be/RThUCYRDyZw"
+  },
+  {
+    "id": "1577",
+    "pattern": "rotation",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Bretzel stretch",
+    "en_desc": "How to Perform the Bretzel Stretch&nbsp; &nbsp; Starting Position:&nbsp; &nbsp; &nbsp; &nbsp; Lie on your back on a flat surface, such as a mat.&nbsp; &nbsp; &nbsp; &nbsp; Bend your knees and place your feet flat on the ground.&nbsp; &nbsp; Leg Positioning:&nbsp; &nbsp; &nbsp; &nbsp; Lift your right leg and cross it over your left leg, placing your right foot on the outside of your left knee.&nbsp; &nbsp; &nbsp; &nbsp; Your left leg should remain flat on the ground.&nbsp; &nbsp; Arm Positioning:&nbsp; &nbsp; &nbsp; &nbsp; Extend your left arm out to the side at shoulder height, keeping it straight.&nbsp; &nbsp; &nbsp; &nbsp; Use your right hand to gently pull your right knee towards the floor on the left side of your body.&nbsp; &nbsp; Stretching:&nbsp; &nbsp; &nbsp; &nbsp; As you pull your knee down, try to keep your left shoulder flat on the ground.&nbsp; &nbsp; &nbsp; &nbsp; You should feel a stretch in your hip, lower back, and possibly your chest.&nbsp; &nbsp; Hold the Position:&nbsp; &nbsp; &nbsp; &nbsp; Maintain this position for 20-30 seconds, breathing deeply and relaxing into the stretch.&nbsp; &nbsp; &nbsp; &nbsp; Switch sides and repeat the process.",
+    "de_name": "Bretzel-Dehnung",
+    "de_desc": "So führst du die Bretzel-Dehnung aus    Ausgangsposition:        Lege dich auf den Rücken auf eine flache Unterlage, zum Beispiel eine Matte.        Beuge die Knie und stelle die Füße flach auf den Boden.    Beinposition:        Hebe dein rechtes Bein an und kreuze es über dein linkes Bein, wobei du deinen rechten Fuß an der Außenseite deines linken Knies platzierst.        Dein linkes Bein bleibt flach auf dem Boden.    Armposition:        Strecke deinen linken Arm auf Schulterhöhe gerade zur Seite aus.        Ziehe mit deiner rechten Hand dein rechtes Knie sanft auf die linke Seite deines Körpers in Richtung Boden.    Dehnung:        Während du das Knie nach unten ziehst, versuche, deine linke Schulter flach auf dem Boden zu halten.        Du solltest eine Dehnung in der Hüfte, im unteren Rücken und möglicherweise im Brustkorb spüren.    Halte die Position:        Halte diese Position 20-30 Sekunden, atme tief durch und entspanne dich in die Dehnung hinein.        Wechsle die Seite und wiederhole den Ablauf."
+  },
+  {
+    "id": "1590",
+    "pattern": "other",
+    "primary_group": "back+neck",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Arm and neck stretch",
+    "en_desc": "Relieves tension in the upper body, especially useful for people with office jobs or prolonged postures.",
+    "de_name": "Arm- und Nackendehnung",
+    "de_desc": "Löst Verspannungen im oberen Körperbereich und ist besonders hilfreich für Menschen mit Bürotätigkeit oder langen, gleichbleibenden Haltungen."
+  },
+  {
+    "id": "1592",
+    "pattern": "other",
+    "primary_group": "lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Guided or free meditation",
+    "en_desc": "A mental mindfulness exercise that helps reduce anxiety, improve focus and enhance overall well-being.",
+    "de_name": "Geführte oder freie Meditation",
+    "de_desc": "Mentale Übung der Achtsamkeit (Mindfulness), die hilft, Ängste zu reduzieren, die Konzentration zu verbessern und das allgemeine Wohlbefinden zu steigern."
+  },
+  {
+    "id": "1612",
+    "pattern": "hinge",
+    "primary_group": "adductors+glutes",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Kettlebell Sumo Deadlift",
+    "en_desc": "Place your feet wider than shoulder-width apart, pointing your toes outward.\nKeep your back straight, shoulders back, and chest up.\nThe knees must follow the same direction as the toes and not move forward.\nWhen going up, it is advisable to contract your glutes to maximize the effectiveness of the exercise..",
+    "de_name": "Sumo-Kreuzheben mit Kettlebell",
+    "de_desc": "Stelle deine Füße weiter als schulterbreit auseinander und zeige mit den Zehen nach außen.\nHalte deinen Rücken gerade, die Schultern zurück und den Brustkorb aufgerichtet.\nDie Knie müssen in dieselbe Richtung wie die Zehen zeigen und dürfen sich nicht nach vorn bewegen.\nBeim Hochkommen ist es ratsam, deine Gesäßmuskulatur anzuspannen, um die Wirksamkeit der Übung zu maximieren."
+  },
+  {
+    "id": "1618",
+    "pattern": "gait",
+    "primary_group": "quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Stationary bike cardio",
+    "en_desc": "Benefits of Stationary Bike Cardio\nStationary bike cardio is an excellent form of exercise that offers multiple benefits for health and well-being. Here are some of the most notable ones:\nImproved Cardiovascular Health\nStrengthens the heart: Regular exercise helps improve the heart's efficiency and reduce the risk of cardiovascular disease.\nIncreases circulation: It improves blood flow, which can help lower blood pressure.\nCalorie Burning and Weight Loss\nEfficient for burning calories: Depending on the intensity, you can burn between 400 and 600 calories per hour.\nHelps with weight loss: Combined with a balanced diet, stationary bike cardio can be effective for losing weight.\nMuscle Strengthening\nTones the legs: It mainly works the leg muscles, including the quadriceps, hamstrings and calves.\nImproves muscular endurance: Over time, you can increase the endurance and strength in your legs.\nMental Health Benefits\nReduces stress: Exercise releases endorphins, which can improve your mood and reduce stress.\nBoosts energy: Regular physical activity can raise your energy levels and improve sleep quality.",
+    "de_name": "Cardio auf dem Heimtrainer",
+    "de_desc": "Vorteile von Cardio auf dem Heimtrainer\nCardio auf dem Heimtrainer ist eine hervorragende Form des Trainings, die zahlreiche Vorteile für Gesundheit und Wohlbefinden bietet. Hier nennen wir dir einige der wichtigsten:\nVerbesserung der Herz-Kreislauf-Gesundheit\nStärkt das Herz: Regelmäßiges Training hilft, die Effizienz des Herzens zu verbessern und das Risiko von Herz-Kreislauf-Erkrankungen zu senken.\nFördert die Durchblutung: Verbessert den Blutfluss, was helfen kann, den Blutdruck zu senken.\nKalorienverbrennung und Gewichtsabnahme\nEffizient zum Verbrennen von Kalorien: Je nach Intensität kannst du zwischen 400 und 600 Kalorien pro Stunde verbrennen.\nUnterstützt die Gewichtsabnahme: In Kombination mit einer ausgewogenen Ernährung kann Cardio auf dem Heimtrainer wirksam zum Abnehmen sein.\nStärkung der Muskulatur\nStrafft die Beine: Trainiert vor allem die Beinmuskulatur, einschließlich der vorderen und hinteren Oberschenkelmuskulatur sowie der Waden.\nVerbessert die Muskelausdauer: Mit der Zeit kannst du die Ausdauer und Kraft in den Beinen steigern.\nVorteile für die psychische Gesundheit\nReduziert Stress: Das Training setzt Endorphine frei, die deine Stimmung verbessern und Stress abbauen können.\nSteigert die Energie: Regelmäßige körperliche Aktivität kann dein Energieniveau erhöhen und die Schlafqualität verbessern."
+  },
+  {
+    "id": "1630",
+    "pattern": "other",
+    "primary_group": "glutes+quads+shoulders",
+    "primary_equipment": "other",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Blaze",
+    "en_desc": "BLAZE is a full-body HIIT workout. Designed to supercharge your cardio fitness and strength.&nbsp;Delivered in its own purpose-built studio, BLAZE is a unique mix of martial arts, intense cardio and strength training.",
+    "de_name": "Blaze",
+    "de_desc": "BLAZE ist ein HIIT-Training für den ganzen Körper. Es ist darauf ausgelegt, deine Ausdauer und Kraft kräftig zu steigern. BLAZE findet in einem eigens dafür gestalteten Studio statt und ist eine einzigartige Mischung aus Kampfsport, intensivem Cardio und Krafttraining."
+  },
+  {
+    "id": "1670",
+    "pattern": "other",
+    "primary_group": "abs+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Leg Swings (Front–Back)",
+    "en_desc": "Stand tall next to a wall or stable support. Swing one leg forward and backward in a controlled motion, keeping the torso upright and the core engaged. Alternate legs after completing the repetitions.",
+    "de_name": "Beinpendel (vor und zurück)",
+    "de_desc": "Stelle dich aufrecht neben eine Wand oder eine stabile Stütze. Schwinge ein Bein in einer kontrollierten Bewegung nach vorne und nach hinten, wobei du den Oberkörper aufrecht hältst und den Rumpf anspannst. Wechsle das Bein, nachdem du die Wiederholungen abgeschlossen hast."
+  },
+  {
+    "id": "1679",
+    "pattern": "shoulder_abduction",
+    "primary_group": "back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Wall Angels",
+    "en_desc": "The Wall Angels exercise primarily targets the upper back and shoulder muscles, helping improve posture, shoulder mobility, and scapular control.",
+    "de_name": "Wall Angels",
+    "de_desc": "Die Übung Wall Angels beansprucht in erster Linie die oberen Rücken- und Schultermuskeln und hilft dabei, die Haltung, die Schulterbeweglichkeit und die Kontrolle der Schulterblätter zu verbessern."
+  },
+  {
+    "id": "1684",
+    "pattern": "vertical_push",
+    "primary_group": "glutes+quads+shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Thruster",
+    "en_desc": "Start with the dumbbells resting on your shoulders and squat down. Push\ninto standing and raise the dumbbells into an overhead position. Bring\nthe dumbbells back to your shoulders and repeat.",
+    "de_name": "Kurzhantel-Thruster",
+    "de_desc": "Beginne mit den Kurzhanteln auf deinen Schultern und gehe in die Kniebeuge. Drücke dich\nin den Stand hoch und hebe die Kurzhanteln in eine Position über dem Kopf. Bringe\ndie Kurzhanteln zurück zu deinen Schultern und wiederhole die Bewegung."
+  },
+  {
+    "id": "1686",
+    "pattern": "horizontal_push",
+    "primary_group": "chest+glutes",
+    "primary_equipment": "dumbbell",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Glute Bridge Single-Arm Press",
+    "en_desc": "With one dumbbell in hand, perform a glute bridge. Now hold the dumbbell above your chest, this is the rep starting position.&nbsp;Lower the dumbbell so that your elbow touches the floor or is roughly 45 degrees below your shoulder if using a bench. Push the dumbbell back into the starting position.",
+    "de_name": "Glute Bridge mit einarmigem Drücken",
+    "de_desc": "Halte eine Kurzhantel in einer Hand und führe eine Glute Bridge aus. Halte nun die Kurzhantel über deiner Brust, das ist die Startposition der Wiederholung. Senke die Kurzhantel ab, sodass dein Ellbogen den Boden berührt oder sich etwa 45 Grad unterhalb deiner Schulter befindet, wenn du eine Bank verwendest. Drücke die Kurzhantel zurück in die Startposition."
+  },
+  {
+    "id": "1735",
+    "pattern": "squat",
+    "primary_group": "glutes",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Single-leg side glute press",
+    "en_desc": "The Single-Leg Side Glute Press is a leg press machine variation where you angle your body sideways on the pad, placing one foot high and slightly angled to press the weight, powerfully targeting the outer glute (gluteus medius/minimus) and hamstrings for balanced leg development and stability, requiring focus on pushing through the heel and maintaining control without locking out.\nHow to Perform:\nSetup: Sit in the leg press machine, rotate your body to one hip, placing one foot high on the platform at about a 45-degree angle with toes pointed slightly out/forward.\nPositioning: Keep your hip, knee, and ankle aligned, and ensure your lower back stays on the pad.\nDescent: Slowly lower the weight, allowing your knee to bend deeply (near 90 degrees), feeling a stretch in your glute and hamstring.\nPress: Drive through your heel (not your toes) to press the weight back up, squeezing your glutes and hamstrings, stopping just before your leg fully extends.\nControl: Avoid bouncing and don't let your lower back lift off the pad; maintain tension throughout the movement.",
+    "de_name": "Einbeinige seitliche Gesäßpresse",
+    "de_desc": "Die einbeinige seitliche Gesäßpresse ist eine Variante an der Beinpresse, bei der du deinen Körper seitlich auf das Polster drehst und einen Fuß hoch und leicht angewinkelt aufsetzt, um das Gewicht zu drücken. Sie beansprucht kraftvoll die äußere Gesäßmuskulatur (Gluteus medius/minimus) und die hintere Oberschenkelmuskulatur und sorgt für eine ausgewogene Beinentwicklung und Stabilität. Dabei kommt es darauf an, über die Ferse zu drücken und die Kontrolle zu behalten, ohne das Bein durchzustrecken.\nSo führst du sie aus:\nAufbau: Setze dich in die Beinpresse, drehe deinen Körper auf eine Hüftseite und platziere einen Fuß hoch auf der Plattform in einem Winkel von etwa 45 Grad, mit den Zehen leicht nach außen/vorne zeigend.\nPositionierung: Halte Hüfte, Knie und Fußgelenk in einer Linie und achte darauf, dass dein unterer Rücken am Polster bleibt.\nAbsenken: Senke das Gewicht langsam ab und lass dein Knie tief beugen (fast 90 Grad), sodass du eine Dehnung in deiner Gesäß- und hinteren Oberschenkelmuskulatur spürst.\nDrücken: Drücke über deine Ferse (nicht über die Zehen), um das Gewicht wieder nach oben zu pressen, spanne dabei deine Gesäß- und hintere Oberschenkelmuskulatur an und stoppe kurz bevor dein Bein vollständig gestreckt ist.\nKontrolle: Vermeide ruckartige Bewegungen und lass deinen unteren Rücken nicht vom Polster abheben; halte die Spannung während der gesamten Bewegung aufrecht."
+  },
+  {
+    "id": "1804",
+    "pattern": "dorsiflexion",
+    "primary_group": "calves",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Ankle Dorsiflexion Rocks",
+    "en_desc": "Move your knee forward, keeping your heel on the ground. Hold the position for a couple of seconds and return to the starting position.",
+    "de_name": "Wippen in die Sprunggelenk-Dorsalflexion",
+    "de_desc": "Bewege dein Knie nach vorne und halte dabei deine Ferse am Boden. Halte die Position einige Sekunden und kehre in die Ausgangsposition zurück."
+  },
+  {
+    "id": "1841",
+    "pattern": "other",
+    "primary_group": "shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Seated Shoulder Extension Stretch",
+    "en_desc": "Sit with your hands behind you, shoulder width apart.\nLock your elbows.\nScoot your feet and hips out forwards, lowering your shoulders down towards ground.\nGo as far as possible to obtain a good stretch.\n\nSee the video: https://www.youtube.com/watch?v=ihUAbG0e8zw",
+    "de_name": "Sitzende Schulterextensions-Dehnung",
+    "de_desc": "Setze dich mit den Händen hinter dir hin, schulterbreit auseinander.\nStrecke deine Ellenbogen durch.\nSchiebe deine Füße und Hüften nach vorne und senke deine Schultern zum Boden ab.\nGehe so weit wie möglich, um eine gute Dehnung zu erreichen.\n\nSiehe das Video: https://www.youtube.com/watch?v=ihUAbG0e8zw"
+  },
+  {
+    "id": "1843",
+    "pattern": "other",
+    "primary_group": "adductors",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Butterfly Stretch",
+    "en_desc": "Sit in a prayer position with the soles of your feet gently pressed together.\nUse your hands to slowly pull your feet inwards towards your groin. Hold for as long as required.",
+    "de_name": "Schmetterlingsdehnung",
+    "de_desc": "Setze dich in eine betende Haltung, wobei die Fußsohlen sanft aneinandergedrückt sind.\nZiehe deine Füße mit den Händen langsam nach innen in Richtung deines Schritts. Halte so lange, wie nötig."
+  },
+  {
+    "id": "1844",
+    "pattern": "hip_abduction",
+    "primary_group": "adductors",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Frog Stretch",
+    "en_desc": "Get on your hands and knees.\nWiden your knees outwards, and drop to your elbows.\nWithout moving your elbows or knees, start to rock forwards and backwards, trying to get your bum closer to your feet.",
+    "de_name": "Froschdehnung",
+    "de_desc": "Begib dich in den Vierfüßlerstand.\nSpreize deine Knie weit nach außen und senke dich auf deine Ellbogen ab.\nWippe, ohne deine Ellbogen oder Knie zu bewegen, langsam vor und zurück und versuche, dein Gesäß näher an deine Füße zu bringen."
+  }
+]

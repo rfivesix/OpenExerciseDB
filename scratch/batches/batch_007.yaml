@@ -1,0 +1,242 @@
+batch_id: 7
+movement_pattern: elbow_flexion
+primary_muscle: biceps_brachii
+items:
+- id: '95'
+  name: Biceps Curl With Cable
+  primary_equipment: cable
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1224'
+  name: Dumbbell drag curls
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '912'
+  name: Straight Bar Cable Curls
+  primary_equipment: cable
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1531'
+  name: Cable Curls
+  primary_equipment: cable
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1931'
+  name: Dumbbell Curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1012'
+  name: Alternating bicep curls
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '94'
+  name: Biceps Curls With SZ-bar
+  primary_equipment: ez_bar
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '621'
+  name: Standing Bicep Curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1424'
+  name: Biceps Curl Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '958'
+  name: Biceps with TRX
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '974'
+  name: Curl with kettlebell two hands
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '975'
+  name: one-handed kettlebell curls
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: unilateral
+  needs:
+  - ja
+- id: '92'
+  name: Biceps Curls With Dumbbell
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1192'
+  name: Alternating Biceps Curls With Dumbbell
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: alternating
+  needs:
+  - ja
+- id: '1262'
+  name: Trx Single Arm Bicep Curl
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1608'
+  name: Bodyweight Biceps Curl
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1109'
+  name: Cable Concentration Curl
+  primary_equipment: cable
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1666'
+  name: Curl  - With Shoulder Elevated
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '91'
+  name: Biceps Curls With Barbell
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1260'
+  name: TRX hammer curl
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '202'
+  name: Dumbbell Concentration Curl
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: elbow_flexion
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1683'
+  name: Zottman curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1482'
+  name: Dumbbell Cheat Curl
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '439'
+  name: Overhand Cable Curl
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1289'
+  name: Seated Dumbbell Curls
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1483'
+  name: Bizeps Curls Trifecta
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: elbow_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

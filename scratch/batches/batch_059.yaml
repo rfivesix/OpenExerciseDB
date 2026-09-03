@@ -1,0 +1,45 @@
+batch_id: 59
+movement_pattern: vertical_pull
+primary_muscle: wrist_flexors
+items:
+- id: '820'
+  name: Fingerboard 20 mm edge
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1216'
+  name: Recruitment Pulls
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '804'
+  name: Sloper hanging
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '182'
+  name: Deadhang
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

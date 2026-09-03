@@ -1,0 +1,272 @@
+[
+  {
+    "id": "139",
+    "name_en": "Butterfly Reverse",
+    "name_de": "Butterfly Reverse",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "horizontal_pull",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "165",
+    "name_en": "Ball crunches",
+    "name_de": "Crunch am TRX Oder Auf Ball",
+    "has_de": true,
+    "de_desc": "Beine in die TRX-Schlingen oder auf einem großen Ball auflegen und mit den Händen unter den Schultern in eine Stützposition (Plank) kommen. Dann die Beine anziehen.",
+    "equipment": "bodyweight",
+    "setup": [
+      "swiss_ball"
+    ],
+    "pattern": "spinal_flexion",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "208",
+    "name_en": "Dumbbells on Scott Machine",
+    "name_de": "Scott-Curl mit Kurzhanteln",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "dumbbell",
+    "setup": [
+      "preacher_bench"
+    ],
+    "pattern": "elbow_flexion",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "258",
+    "name_en": "Front pull wide",
+    "name_de": "Frontziehen Breit",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "cable",
+    "setup": [],
+    "pattern": "vertical_pull",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "259",
+    "name_en": "Front Pull narrow",
+    "name_de": "Frontziehen Eng",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "cable",
+    "setup": [],
+    "pattern": "vertical_pull",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "341",
+    "name_en": "Squats on Multipress",
+    "name_de": "Kniebeuge an Multipresse - Eng",
+    "has_de": true,
+    "de_desc": ".",
+    "equipment": "smith_machine",
+    "setup": [],
+    "pattern": "squat",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "346",
+    "name_en": "Landmine press",
+    "name_de": "Landmine-Press, Einarmig",
+    "has_de": true,
+    "de_desc": "Diese Übung kann wahlweise im parallelen oder versetzten Stand durchgeführt werden.\nGreife das Ende einer Langhantel, während das andere Ende fixiert am Boden ist und versuche das Gewicht von dir wegzudrücken ohne dabei die Langhantel Richtung Körpermittelpunkt zu bewegen. Der ganze Körper bleibt während der Übungsausführung gerade und angespannt.",
+    "equipment": "barbell",
+    "setup": [
+      "landmine"
+    ],
+    "pattern": "vertical_push",
+    "laterality": "unilateral"
+  },
+  {
+    "id": "366",
+    "name_en": "Leg Curls (sitting)",
+    "name_de": "Beinbeugen sitzend",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "knee_flexion",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "367",
+    "name_en": "Leg Curls (standing)",
+    "name_de": "Beinbeuger Stehend",
+    "has_de": true,
+    "de_desc": "Diese Übung wird jeweils mit einem Bein durchgeführt.\nStelle dich vor der Maschine und stelle deine Waden hinter dem Polster (setzte die Höhe so ein, dass es knapp unter den Waden ansetzt). Beuge nun das Bein bis dein Knie einen rechten Winkel einnimmt, bringe das Gewicht nun langsam und kontrolliert wieder nach unten.",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "knee_flexion",
+    "laterality": "unilateral"
+  },
+  {
+    "id": "375",
+    "name_en": "Leg Press on Hackenschmidt Machine",
+    "name_de": "Kniebeuge an Hackenschmidtmaschine",
+    "has_de": true,
+    "de_desc": "Setze dich in die Maschine und drücke deine Schultern auf das Polster. Deine Füße sind etwa Schulterbreit auseinander und zeigen leicht nach außen. Gehe nun langsam nach unten in die Knie bis sich, wie bei der regulären Kniebeuge, einen Winken von ca. 90° ergibt. Drücke dich wieder nach oben und wiederhole die Bewegung. Wichtig ist hier, dass du die Knie nicht ganz ausstreckst.",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "squat",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "477",
+    "name_en": "Pull Ups on Machine",
+    "name_de": "Klimmzüge an Maschine",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "vertical_pull",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "510",
+    "name_en": "Chest-Supported Dumbbell Row on Bench",
+    "name_de": null,
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "barbell",
+    "setup": [
+      "flat_bench"
+    ],
+    "pattern": "horizontal_pull",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "516",
+    "name_en": "Front Wood Chop",
+    "name_de": "Rückenstrecker im Stehen",
+    "has_de": true,
+    "de_desc": "Ball zwischen die Hände klemmen oder Handtuch auseinanderziehen und dann im Stand nach oben mit ausgestreckten Armen über den Kopf ziehen, dabei je Wiederholung abwechselnd ein Bein heben. Die Beine können mit einem Widerstandsband verbunden sein.",
+    "equipment": "bodyweight",
+    "setup": [],
+    "pattern": "spinal_extension",
+    "laterality": "alternating"
+  },
+  {
+    "id": "539",
+    "name_en": "Incline Bench Press - MP",
+    "name_de": "Schrägbankdrücken MP",
+    "has_de": true,
+    "de_desc": "Selbe Ausführung wie beim Schrägbankdrücken mit der Langhantel, aber in der Multipresse eben: Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt der Kopf liegt auf der Bank. Nehme die Stange etwas mehr als Schulterbreit aus der Halterung raus und drücke sie nach oben. Bringe die Stange nach unten, bis sie die Brust kurz berührt. Drücke das Gewicht wieder nach oben.",
+    "equipment": "smith_machine",
+    "setup": [
+      "incline_bench"
+    ],
+    "pattern": "horizontal_push",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "543",
+    "name_en": "Machine Shoulder Press",
+    "name_de": "Schultermaschine",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "vertical_push",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "556",
+    "name_en": "Side Bends on Machine",
+    "name_de": "Seitliches Oberkörperbeugen am Gerät",
+    "has_de": true,
+    "de_desc": "Zielmuskeln: Schräger Bauchmuskel\nUnterstützende Muskulatur: Gerader Bauchmuskel\nErforderliches Equipment: Roman Chair\n\nGerader Körper in der Ausgangsposition\nOberkörper in Richtung Boden beugen\nWenn der Oberkörper ungefähr parallel zum Boden ist, mit der Aufwärtsbewegung beginnen\nHände wahlweise hinter dem Kopf oder vor der Brust",
+    "equipment": "bodyweight",
+    "setup": [
+      "roman_chair"
+    ],
+    "pattern": "anti_lateral_flexion",
+    "laterality": "unilateral"
+  },
+  {
+    "id": "56",
+    "name_en": "Abdominal Stabilization",
+    "name_de": "Bauch Stabilisation",
+    "has_de": true,
+    "de_desc": "Auf Rolle liegend",
+    "equipment": "bodyweight",
+    "setup": [
+      "foam_roller",
+      "mat"
+    ],
+    "pattern": "anti_rotation",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "575",
+    "name_en": "Smith Machine Shrug",
+    "name_de": "Shrugs an der MP",
+    "has_de": true,
+    "de_desc": "Greife die Stange der Multipresse, stelle dich mit Schulterbreitem Stand und sehr leicht gebeugte Beine auf und lasse den Blick nach vorn. Die Arme hängen am Körper. Aus dieser Position hebst du nun das Gewicht, indem du die Schultern nach oben ziehst. Beuge dabei die Arme nicht. Auf dem höchsten Punkt kannst du 1 oder 2 Sekunden ausharren, bringe dann die Schultern langsam nach unten.",
+    "equipment": "smith_machine",
+    "setup": [],
+    "pattern": "scapular_elevation",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "687",
+    "name_en": "Overhead Press",
+    "name_de": "Schulterdrücken stehend",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "barbell",
+    "setup": [
+      "squat_rack"
+    ],
+    "pattern": "vertical_push",
+    "laterality": "bilateral"
+  },
+  {
+    "id": "702",
+    "name_en": "Single-Leg Calf Raise",
+    "name_de": "Wadenheben, Einbenig",
+    "has_de": true,
+    "de_desc": "Wenn man möchte mit extra Gewicht",
+    "equipment": "bodyweight",
+    "setup": [],
+    "pattern": "plantar_flexion",
+    "laterality": "unilateral"
+  },
+  {
+    "id": "71",
+    "name_en": "Single Leg Extension",
+    "name_de": "Beinstrecker Einbeinig",
+    "has_de": true,
+    "de_desc": "Der Bewegungsablauf ist wie beim beidbeinigem Beinstrecker:\nSetze dich in die Beinstreckermaschine. Der Rücken soll einen festen Halt haben, stelle die Maschine so ein, dass du fest sitzt. In der Anfangsposition sind die Beine entwas nach hinten angewinkelt. Drücke das Gewicht nach oben bis die Beine nahezu vollständig ausgestreckt sind. Gehe langsam und kontrolliert wieder runter.",
+    "equipment": "machine",
+    "setup": [],
+    "pattern": "knee_extension",
+    "laterality": "unilateral"
+  },
+  {
+    "id": "802",
+    "name_en": "Barbell Lunges Walking",
+    "name_de": "Ausfallschritte gehend mit Langhantel",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "barbell",
+    "setup": [],
+    "pattern": "lunge",
+    "laterality": "alternating"
+  },
+  {
+    "id": "803",
+    "name_en": "One Arm Triceps Extensions on Cable",
+    "name_de": "Trizeps Seildrücken Einarmig",
+    "has_de": false,
+    "de_desc": "",
+    "equipment": "cable",
+    "setup": [],
+    "pattern": "elbow_extension",
+    "laterality": "unilateral"
+  }
+]

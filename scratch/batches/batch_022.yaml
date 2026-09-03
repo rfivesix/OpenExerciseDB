@@ -1,0 +1,117 @@
+batch_id: 22
+movement_pattern: knee_flexion
+primary_muscle: hamstring_complex
+items:
+- id: '1603'
+  name: Leg curl with elastic
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '364'
+  name: Leg Curl
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '365'
+  name: Leg Curls (laying)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2478'
+  name: Glute-Ham Raise
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1833'
+  name: Floor Glider Hamstring Curls
+  primary_equipment: bodyweight
+  setup:
+  - sliders
+  - mat
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1294'
+  name: Single-leg hamstring curl
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: knee_flexion
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '366'
+  name: Leg Curls (sitting)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2495'
+  name: Machine Leg Flexion
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '367'
+  name: Leg Curls (standing)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1391'
+  name: Elephant Walks
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: knee_flexion
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '910'
+  name: Nordic Curl
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: knee_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

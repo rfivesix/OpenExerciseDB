@@ -1,0 +1,92 @@
+batch_id: 27
+movement_pattern: vertical_push
+primary_muscle: triceps_brachii
+items:
+- id: '1269'
+  name: TRX dips
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1320'
+  name: Bench Dips On Floor HD
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '197'
+  name: Dips Between Two Benches
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1808'
+  name: Parallel Bar Hold
+  primary_equipment: bodyweight
+  setup:
+  - dip_bars
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1774'
+  name: Chair dips
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '501'
+  name: Ring Dips
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1914'
+  name: Isometria alle parallele
+  primary_equipment: bodyweight
+  setup:
+  - dip_bars
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1000'
+  name: Floor dips
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1372'
+  name: Triceps Dips (Assisted)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: vertical_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

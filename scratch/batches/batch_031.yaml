@@ -1,0 +1,85 @@
+batch_id: 31
+movement_pattern: other
+primary_muscle: gluteus_medius
+items:
+- id: '1875'
+  name: Standing IT Band Stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1680'
+  name: seated figure four
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1950'
+  name: Foam Roll IT Band
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1869'
+  name: Lying Figure Four Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1959'
+  name: Seated Piriformis Stretch
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1325'
+  name: Lateral Push Off
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1857'
+  name: Foam Roller Iliotibial band
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

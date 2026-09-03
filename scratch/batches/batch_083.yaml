@@ -1,0 +1,22 @@
+batch_id: 83
+movement_pattern: vertical_pull
+primary_muscle: traps_upper
+items:
+- id: '289'
+  name: High Pull
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1970'
+  name: Kettlebell sumo high pull
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

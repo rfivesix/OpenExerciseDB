@@ -1,0 +1,190 @@
+[
+  {
+    "id": "1112",
+    "language": "de",
+    "field": "name",
+    "old_value": "Liegestütze | abfallend (Decline)",
+    "new_value": "Liegestütze | negativ (Decline)",
+    "reason": "'Abfallend' ist eine über-wörtliche Übersetzung für 'Decline'. Im deutschen Kraftsport ist 'negativ' der etablierte Fachbegriff (analog zu 'erhöht' bei ID 1111 und Negativbankdrücken)."
+  },
+  {
+    "id": "1112",
+    "language": "de",
+    "field": "description",
+    "old_value": "Abfallende Liegestütze sind eine weitere abgewandelte Version des klassischen Liegestützes, die die Oberkörpermuskulatur auf andere Weise trainiert. Um einen abfallenden Liegestütz auszuführen, stellst du deine Füße auf eine erhöhte Fläche wie eine Bank, einen Stuhl oder eine Stufe und setzt deine Hände in der Liegestützposition auf den Boden. Senke deinen Körper zum Boden, während du eine gerade Linie von den Schultern bis zu den Knöcheln hältst, und drücke dich dann wieder in die Ausgangsposition hoch.\nAnders als der Incline-Liegestütz legt der abfallende Liegestütz mehr Betonung auf die Schultern und den Trizeps, während die Brustmuskulatur weiterhin in geringerem Maße beansprucht wird. Indem du deine Füße erhöhst, steigerst du die Schwierigkeit der Übung, weil mehr Gewicht auf deinem Oberkörper lastet und deine Schultern und dein Trizeps härter arbeiten müssen, um deinen Körper wieder hochzudrücken. Der abfallende Liegestütz kann eine großartige Möglichkeit sein, deine Oberkörperkraft herauszufordern und deine Fähigkeit zu verbessern, andere Liegestützvarianten auszuführen. Achte wie bei jeder Übung auf eine saubere Ausführung und beginne mit einer Höhe, die zu deiner Kraft und deinem Fitnesslevel passt.",
+    "new_value": "Negativ-Liegestütze sind eine weitere abgewandelte Version des klassischen Liegestützes, die die Oberkörpermuskulatur auf andere Weise trainiert. Um einen Negativ-Liegestütz auszuführen, stellst du deine Füße auf eine erhöhte Fläche wie eine Bank, einen Stuhl oder eine Stufe und setzt deine Hände in der Liegestützposition auf den Boden. Senke deinen Körper zum Boden, während du eine gerade Linie von den Schultern bis zu den Knöcheln hältst, und drücke dich dann wieder in die Ausgangsposition hoch.\nAnders als der Incline-Liegestütz legt der Negativ-Liegestütz mehr Betonung auf die Schultern und den Trizeps, während die Brustmuskulatur weiterhin in geringerem Maße beansprucht wird. Indem du deine Füße erhöhst, steigerst du die Schwierigkeit der Übung, weil mehr Gewicht auf deinem Oberkörper lastet und deine Schultern und dein Trizeps härter arbeiten müssen, um deinen Körper wieder hochzudrücken. Der Negativ-Liegestütz kann eine großartige Möglichkeit sein, deine Oberkörperkraft herauszufordern und deine Fähigkeit zu verbessern, andere Liegestützvarianten auszuführen. Achte wie bei jeder Übung auf eine saubere Ausführung und beginne mit einer Höhe, die zu deiner Kraft und deinem Fitnesslevel passt.",
+    "reason": "Ersetzt die über-wörtliche Übersetzung 'abfallende(r) Liegestütz' durch den im deutschen Gym-Kontext maßgeblichen Fachbegriff 'Negativ-Liegestütz'."
+  },
+  {
+    "id": "1436",
+    "language": "de",
+    "field": "name",
+    "old_value": "Pin Bench Press LH",
+    "new_value": "Pin-Bankdrücken mit Langhantel",
+    "reason": "Eindeutschung des englischen Begriffs 'Bench Press' zu 'Bankdrücken' und Auflösung des Kürzels 'LH' zu 'Langhantel' gemäß Fachvokabular."
+  },
+  {
+    "id": "1660",
+    "classification_issue": "Text describes a standing single-arm cable chest press executed at an upward angle ('incline') using the other arm to brace bodyweight, but classification specifies setup: ['incline_bench'] instead of ['cable_tower']."
+  },
+  {
+    "id": "1660",
+    "language": "de",
+    "field": "name",
+    "old_value": "Brustdrücken am Kabelzug auf der Schrägbank",
+    "new_value": "Brustdrücken am Kabelzug - positiv geneigt",
+    "reason": "Die Übung wird stehend am Kabelzug ausgeführt (Gegenstück zu ID 1656), nicht auf einer Schrägbank. 'Auf der Schrägbank' beruhte auf einer Fehlinterpretation des Worts 'Incline' im englischen Titel."
+  },
+  {
+    "id": "1716",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schulterdrücken auf der Bank (Scapular Push-up)",
+    "new_value": "Scapular Push-Up auf der Bank",
+    "reason": "'Schulterdrücken' bezeichnet im Deutschen das vertikale Überkopfdrücken (Overhead Press). Es handelt sich hier jedoch um einen Liegestütz mit Schulterblattbewegung (Scapular Push-Up / horizontal push) mit aufgestützten Händen auf einer Bank."
+  },
+  {
+    "id": "185",
+    "language": "de",
+    "field": "name",
+    "old_value": "Negativ Bankdrücken",
+    "new_value": "Langhantel-Negativbankdrücken",
+    "reason": "Korrektur der Getrenntschreibung und Vereinheitlichung auf die etablierte Gerätebezeichnung (Negativbankdrücken mit Langhantel gemäß equipment.yaml und glossary.yaml)."
+  },
+  {
+    "id": "186",
+    "language": "de",
+    "field": "name",
+    "old_value": "Negativ Bankdrücken KH",
+    "new_value": "Kurzhantel-Negativbankdrücken",
+    "reason": "Auflösung des Kürzels 'KH' und Vereinheitlichung auf das Fachvokabular gemäß equipment.yaml und glossary.yaml."
+  },
+  {
+    "id": "1922",
+    "language": "de",
+    "field": "name",
+    "old_value": "Butterfly am Kabelzug",
+    "new_value": "Kabelzug-Flyes im Sitzen",
+    "reason": "Präzisere Übersetzung des englischen Titels 'Seated Cable chest fly' unter Beibehaltung der Sitzposition ('im Sitzen')."
+  },
+  {
+    "id": "1922",
+    "language": "de",
+    "field": "description",
+    "old_value": "Die Übung wird auch als \"Cable Fly\", \"Cable Crossover\" oder \"Butterfly am Kabelzug\" bezeichnet",
+    "new_value": "Stelle eine Bank zwischen zwei Kabeltürme und stelle die Seilrollen so ein, dass sie sich im Sitzen auf Brust- bzw. Schulterhöhe befinden.\nGreife die Griffe im neutralen Griff und lehne dich an die aufrechte Rückenlehne.\nFühre deine Arme in einer kontrollierten Bewegung vor der Brust zusammen und konzentriere dich darauf, deine Brustmuskeln zusammenzudrücken. Halte deine Ellbogen während der gesamten Bewegung leicht gebeugt.\nHalte kurz in der Endposition inne.\nSenke deine Arme langsam und kontrolliert wieder in die Ausgangsposition ab.\nWiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen.",
+    "reason": "Die deutsche Beschreibung enthielt bisher keinerlei Ausführungsanweisung, sondern nur alternative Namen, während der englische Text eine vollständige Anleitung liefert. Übersetzung der englischen Ausführung ohne Hinzufügung neuer Instruktionen."
+  },
+  {
+    "id": "1964",
+    "language": "de",
+    "field": "description",
+    "old_value": "Eine Variante des Liegestützes mit weiterer Handposition, um die äußere Brustmuskulatur und die Schultern stärker zu beanspruchen.\n\nAufbau: Setze die Hände weiter als schulterbreit auf dem Boden auf.\nAbsenken: Senke dich ab, bis deine Brust den Boden fast berührt, und halte dabei deinen Rumpf angespannt.\nDrücken: Drücke dich über die Handflächen wieder in die Ausgangsposition.\nHaltung: Lass dein unteres Rücken nicht durchhängen; halte eine gerade Linie von Kopf bis Fersen.",
+    "new_value": "Eine Variante des Liegestützes mit weiterer Handposition, um die äußere Brustmuskulatur und die Schultern stärker zu beanspruchen.\n\nAufbau: Setze die Hände weiter als schulterbreit auf dem Boden auf.\nAbsenken: Senke dich ab, bis deine Brust den Boden fast berührt, und halte dabei deinen Rumpf angespannt.\nDrücken: Drücke dich über die Handflächen wieder in die Ausgangsposition.\nHaltung: Lass deinen unteren Rücken nicht durchhängen; halte eine gerade Linie von Kopf bis Fersen.",
+    "reason": "Grammatikkorrektur: 'Lass dein unteres Rücken nicht durchhängen' -> 'Lass deinen unteren Rücken nicht durchhängen'."
+  },
+  {
+    "id": "238",
+    "language": "de",
+    "field": "name",
+    "old_value": "Fliegende KH Flachbank",
+    "new_value": "Kurzhantel-Fliegende auf der Flachbank",
+    "reason": "Auflösung des Kürzels 'KH' zu 'Kurzhantel' und Standardisierung der Übungsbezeichnung gemäß Fachvokabular."
+  },
+  {
+    "id": "239",
+    "language": "de",
+    "field": "name",
+    "old_value": "Negativ Fliegende Mit KH",
+    "new_value": "Kurzhantel-Fliegende auf der Negativbank",
+    "reason": "Auflösung des Kürzels 'KH', Korrektur der Großschreibung von 'Mit' und Vereinheitlichung auf Standardbegriff."
+  },
+  {
+    "id": "308",
+    "language": "de",
+    "field": "name",
+    "old_value": "Fliegende KH Schrägbank",
+    "new_value": "Kurzhantel-Fliegende auf der Schrägbank",
+    "reason": "Auflösung des Kürzels 'KH' zu 'Kurzhantel' und Standardisierung der Übungsbezeichnung gemäß Fachvokabular."
+  },
+  {
+    "id": "314",
+    "language": "de",
+    "field": "name",
+    "old_value": "Isometric Wipers",
+    "new_value": "Isometrische Wipers",
+    "reason": "Übersetzung des englischen Adjektivs 'Isometric' ins Deutsche ('Isometrische')."
+  },
+  {
+    "id": "445",
+    "language": "de",
+    "field": "name",
+    "old_value": "Pause Bench",
+    "new_value": "Pause-Bankdrücken",
+    "reason": "Eindeutschung des unübersetzten englischen Namens 'Pause Bench' zum im Kraftsport etablierten 'Pause-Bankdrücken'."
+  },
+  {
+    "id": "445",
+    "language": "de",
+    "field": "description",
+    "old_value": "Senken Sie den Riegel auf Ihre Brust und halten Sie dort 2 Sekunden lang inne (ruhen Sie sich jedoch nicht aus). Drücken Sie wieder hoch. Verwenden Sie das gleiche Gewicht wie beim Bankdrücken, aber führen Sie nur einzelne Wiederholungen durch. Insgesamt die Anzahl der Wiederholungen, die Sie in einem Satz Bankdrücken gemacht haben (wenn Sie 3 Sätze mit 8 Wiederholungen gemacht haben, machen Sie 8 Einzelpausen-Bankwiederholungen.",
+    "new_value": "Senke die Hantelstange auf deine Brust und pausiere dort für 2 Sekunden (ohne das Gewicht abzulegen). Drücke sie wieder nach oben. Verwende das gleiche Gewicht wie beim normalen Bankdrücken, führe jedoch nur Einzelwiederholungen aus. Mache insgesamt so viele Wiederholungen, wie du in einem regulären Satz Bankdrücken machen würdest (wenn du 3 Sätze à 8 Wiederholungen machst, führe 8 Einzelwiederholungen mit Pause aus).",
+    "reason": "Beseitigung grober Übersetzungsfehler: 'bar' wurde fehlerhaft als 'Riegel' übersetzt; 'Einzelpausen-Bankwiederholungen' ist unverständlich. Umstellung auf die standardmäßige Du-Form und korrekte Powerlifting-Terminologie."
+  },
+  {
+    "id": "537",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schrägbankdrücken KH",
+    "new_value": "Kurzhantel-Schrägbankdrücken",
+    "reason": "Auflösung des Kürzels 'KH' zu 'Kurzhantel' und Vereinheitlichung gemäß Fachvokabular."
+  },
+  {
+    "id": "538",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schrägbankdrücken LH",
+    "new_value": "Langhantel-Schrägbankdrücken",
+    "reason": "Auflösung des Kürzels 'LH' zu 'Langhantel' und Vereinheitlichung gemäß Fachvokabular."
+  },
+  {
+    "id": "538",
+    "language": "en",
+    "field": "description",
+    "old_value": "To do slowly, tempo is 4010",
+    "new_value": "Sit on the incline bench with your feet firmly on the floor for stability and your head resting on the bench. Unrack the barbell slightly wider than shoulder-width and press it upward. Lower the barbell until it briefly touches your chest, then press the weight back up. Perform slowly (tempo: 4010).",
+    "reason": "The original English description contained only a tempo cue ('To do slowly, tempo is 4010') without any exercise instructions. The complete instructions are translated from the German original while preserving the tempo cue."
+  },
+  {
+    "id": "73",
+    "language": "de",
+    "field": "name",
+    "old_value": "Bankdrücken LH",
+    "new_value": "Langhantel-Bankdrücken",
+    "reason": "Auflösung des Kürzels 'LH' zu 'Langhantel' zur Vereinheitlichung mit den anderen Langhantel-/Kurzhantel-Übungen."
+  },
+  {
+    "id": "75",
+    "language": "de",
+    "field": "name",
+    "old_value": "Bankdrücken KH",
+    "new_value": "Kurzhantel-Bankdrücken",
+    "reason": "Auflösung des Kürzels 'KH' zu 'Kurzhantel' gemäß Fachvokabular (vocab/equipment.yaml) und Angleichung an bestehende Einträge wie ID 1228 ('Kurzhantel-Bankdrücken...')."
+  },
+  {
+    "id": "75",
+    "language": "en",
+    "field": "description",
+    "old_value": "Setup and Starting Position: Sit at the end of a flat bench with a dumbbell resting vertically against each thigh. Carefully lean back while driving the dumbbells toward your chest with your knees.\n\n\nThe “Leg Drive” and Posture: Plant your feet firmly on the floor. Retract your shoulder blades (press them together against the bench) and maintain a slight natural lumbar curve.\n\n\nStarting Position: Push the dumbbells toward the ceiling. Your wrists should be aligned with your elbows. Rotate the dumbbells slightly inward (about 45 degrees) so that your elbows do not splay out too far to the sides, thereby protecting your shoulders.\n\n\nEccentric Phase (Lowering): Lower the dumbbells in a controlled manner toward the sides of your chest. Your elbows should lower at an angle of about 45–60 degrees relative to your body. Feel the stretch in the lower part of your chest.\n\n\nConcentric Phase (Lift): Push the weight upward in a slight arc (toward the center), without letting the dumbbells collide at the top or fully locking out your elbows to maintain muscle tension. Exhale as you lift.\n\n\nTranslated with DeepL.com (free version)",
+    "new_value": "Setup and Starting Position: Sit at the end of a flat bench with a dumbbell resting vertically against each thigh. Carefully lean back while driving the dumbbells toward your chest with your knees.\n\n\nThe “Leg Drive” and Posture: Plant your feet firmly on the floor. Retract your shoulder blades (press them together against the bench) and maintain a slight natural lumbar curve.\n\n\nStarting Position: Push the dumbbells toward the ceiling. Your wrists should be aligned with your elbows. Rotate the dumbbells slightly inward (about 45 degrees) so that your elbows do not splay out too far to the sides, thereby protecting your shoulders.\n\n\nEccentric Phase (Lowering): Lower the dumbbells in a controlled manner toward the sides of your chest. Your elbows should lower at an angle of about 45–60 degrees relative to your body. Feel the stretch in the lower part of your chest.\n\n\nConcentric Phase (Lift): Push the weight upward in a slight arc (toward the center), without letting the dumbbells collide at the top or fully locking out your elbows to maintain muscle tension. Exhale as you lift.",
+    "reason": "Entfernung des DeepL-Wasserzeichens ('Translated with DeepL.com (free version)') am Ende des englischen Beschreibungstextes."
+  },
+  {
+    "id": "925",
+    "language": "de",
+    "field": "name",
+    "old_value": "Schrägbankdrücken an der Smith-Maschine",
+    "new_value": "Schrägbankdrücken an der Multipresse",
+    "reason": "Ersetzung des Anglizismus 'Smith-Maschine' durch den verbindlichen deutschen Fachbegriff 'Multipresse' (vocab/equipment.yaml)."
+  }
+]

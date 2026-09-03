@@ -1,0 +1,302 @@
+batch_id: 3
+movement_pattern: horizontal_pull
+items:
+- id: '1098'
+  name: Seated rear delt rise
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '310'
+  name: Incline Dumbbell Row
+  primary_equipment: dumbbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1775'
+  name: Pec deck rear delt fly
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '828'
+  name: Incline Bench Reverse Fly
+  primary_equipment: dumbbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - ja
+- id: '490'
+  name: Renegade Row
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: horizontal_pull
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1380'
+  name: Band pull-aparts
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '81'
+  name: Bent Over Dumbbell Rows
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2502'
+  name: DB Single-Arm Row (5kg)
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1093'
+  name: Rowing Machine
+  primary_equipment: cardio_machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1928'
+  name: Seated V-Grip Row
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1621'
+  name: Unilateral Cable row
+  primary_equipment: cable
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1699'
+  name: Barbell Row (Underhand)
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1119'
+  name: Remo maquina agarre estrecho
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1725'
+  name: Seated Row (Machine)
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1637'
+  name: Single arm row
+  primary_equipment: cable
+  setup:
+  - mat
+  movement_pattern: horizontal_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1709'
+  name: Reverse Fly Standing
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1877'
+  name: Banded Scapular Retraction
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '395'
+  name: Long-Pulley, Narrow
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '394'
+  name: Long-Pulley (low Row)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - ja
+- id: '510'
+  name: Rowing, Lying on Bench
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2489'
+  name: Low row
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1227'
+  name: Dumbbell rear delt row
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1698'
+  name: Barbell Row (Overhand)
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1732'
+  name: Face pulls with yellow/green band
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1303'
+  name: Helms Row
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '674'
+  name: Rowing with TRX band
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1905'
+  name: Pullback
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2503'
+  name: Face Pulls (Bodyweight Doorframe/Towel)
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '79'
+  name: Bent High Pulls
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '822'
+  name: Cable Rear Delt Fly
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1381'
+  name: Upper Back
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

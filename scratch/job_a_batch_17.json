@@ -1,0 +1,396 @@
+[
+  {
+    "id": "12",
+    "pattern": "hip_adduction",
+    "primary_group": "adductors",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Seated Hip Adduction",
+    "en_desc": "Starting Position: Sit on the machine with your knees inward and against the pads. Pull the pin to release the pads. Grab the handles on the sides.b",
+    "de_name": "Adduktoren-Maschine",
+    "de_desc": "in eine aufrechte Position setzen, bei der die Beine hüftbreit geöffnet sind\nden Rücken, die Knie und die Oberschenkelaußenseite an die jeweiligen Polster pressen\nmit den Händen an den Griffen festhalten\ndie Oberschenkel bis zum Anschlagpunkt der Hebelarme auseinander drücken\ndanach die Beine wieder zusammen führen\ndas Gesäß nicht vom Sitz abheben\nbeim Auseinanderdrücken der Hebelarme aus- und beim Zusammenführen einatmen"
+  },
+  {
+    "id": "1605",
+    "pattern": "hip_adduction",
+    "primary_group": "adductors",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Copenhagen Adduction Exercise",
+    "en_desc": "Lie on your side with the elbow placed directly under the shoulder, similar to a side plank position. Place the upper leg on a bench with the inside of the foot or ankle resting on it. Lift your hips and hold your body in a straight line while keeping the lower leg off the floor. The exercise strongly activates the adductors of the upper leg while also challenging the core and hip stabilizers.",
+    "de_name": "Copenhagen-Adduktion",
+    "de_desc": "Lege dich auf die Seite, mit dem Ellbogen direkt unter der Schulter, ähnlich wie bei einem seitlichen Unterarmstütz. Lege das obere Bein auf eine Bank, sodass die Innenseite des Fußes oder Knöchels darauf ruht. Hebe deine Hüften und halte deinen Körper in einer geraden Linie, während du das untere Bein vom Boden abhebst. Die Übung aktiviert die Adduktoren des oberen Beins stark und fordert gleichzeitig den Rumpf und die Hüftstabilisatoren."
+  },
+  {
+    "id": "1724",
+    "pattern": "hip_adduction",
+    "primary_group": "adductors",
+    "primary_equipment": "cable",
+    "setup": [
+      "cable_tower",
+      "ankle_straps"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Standing Adduction (Cable)",
+    "en_desc": "Keep your hips square and still, pulling the cable across your opposing leg using only your inner thigh.\nDon’t let your torso lean or twist — no side bending to help the rep.",
+    "de_name": "Adduktion im Stehen (Kabelzug)",
+    "de_desc": "Halte deine Hüften gerade und ruhig und ziehe das Kabel nur mit deiner Oberschenkelinnenseite über dein gegenüberliegendes Bein.\nLass deinen Oberkörper nicht zur Seite neigen oder verdrehen – kein seitliches Beugen, um bei der Wiederholung nachzuhelfen."
+  },
+  {
+    "id": "1390",
+    "pattern": "hinge",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Toe Touch",
+    "en_desc": "Stand with your feet closer together. Hinge at your hips and lower your upper body towards your toes. Reach your hands towards your feet, try to touch your toes, the ground, or as far down your legs as you can comfortably go.",
+    "de_name": "Zehenberührung",
+    "de_desc": "Stelle dich mit den Füßen enger zusammen hin. Beuge dich aus der Hüfte und senke deinen Oberkörper in Richtung deiner Zehen. Strecke deine Hände zu den Füßen und versuche, deine Zehen, den Boden oder so weit nach unten an deinen Beinen zu reichen, wie es dir angenehm möglich ist."
+  },
+  {
+    "id": "1393",
+    "pattern": "hinge",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Single Leg Hamstring Stretch",
+    "en_desc": "Sit on the ground with one leg straight out in front of you and the other leg bent in toward you. Reach forward with both hands, trying to touch the toes of your straight leg.",
+    "de_name": "Einbeiniges Dehnen der hinteren Oberschenkelmuskulatur",
+    "de_desc": "Setze dich auf den Boden, ein Bein gerade nach vorne ausgestreckt und das andere zu dir herangebeugt. Strecke beide Hände nach vorne und versuche, die Zehen deines gestreckten Beins zu berühren."
+  },
+  {
+    "id": "1400",
+    "pattern": "hinge",
+    "primary_group": "hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Crossbody Hamstring Stretch",
+    "en_desc": "While standing, cross one leg behind the other (keep this leg straight). Reach downward and try to touch the toes of that leg. Slightly bend the other leg so that you can bend down.",
+    "de_name": "Dehnung der hinteren Oberschenkelmuskulatur über Kreuz",
+    "de_desc": "Kreuze im Stand ein Bein hinter dem anderen (halte dieses Bein gestreckt). Greife nach unten und versuche, die Zehen dieses Beins zu berühren. Beuge das andere Bein leicht, damit du dich nach unten beugen kannst."
+  },
+  {
+    "id": "1396",
+    "pattern": "hinge",
+    "primary_group": "adductors+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Standing Pancake",
+    "en_desc": "Stand and open your legs as wide as possible into a straddle position. Then bend at the hips, pushing them back while keeping your back straight.",
+    "de_name": "Stehender Pancake",
+    "de_desc": "Stelle dich hin und öffne deine Beine so weit wie möglich in eine Grätsche. Beuge dich dann aus der Hüfte und schiebe sie nach hinten, während du den Rücken gerade hältst."
+  },
+  {
+    "id": "1397",
+    "pattern": "hinge",
+    "primary_group": "adductors+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Standing Pancake Good Morning",
+    "en_desc": "Stand with your feet wider than shoulder-width apart and toes pointed slightly outward. Place your hands on the back of your head. Hinge at your hips and lower your upper body towards the ground, keeping your back straight and chest open.",
+    "de_name": "Stehendes Good Morning mit weitem Stand (Pancake)",
+    "de_desc": "Stelle dich mit den Füßen mehr als schulterbreit auseinander und den Fußspitzen leicht nach außen. Lege deine Hände an den Hinterkopf. Beuge dich aus der Hüfte und senke deinen Oberkörper zum Boden, während du deinen Rücken gerade und die Brust offen hältst."
+  },
+  {
+    "id": "1845",
+    "pattern": "hinge",
+    "primary_group": "adductors+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Seated Pancake Good Morning",
+    "en_desc": "Sit with your legs completely straight (knees locked), spread wide in a straddle position.\nPlace your hands on the back of your neck.\nHinge your torso and head towards the floor.",
+    "de_name": "Sitzendes Good Morning mit weitem Stand (Pancake)",
+    "de_desc": "Setze dich mit vollständig gestreckten Beinen (Knie durchgedrückt) hin, weit gespreizt in einer Grätschstellung.\nLege deine Hände an deinen Nacken.\nBeuge deinen Oberkörper und Kopf zum Boden."
+  },
+  {
+    "id": "1445",
+    "pattern": "vertical_push",
+    "primary_group": "quads+shoulders",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Jerk OL",
+    "en_desc": "Olympic lift jerk\n\nHold bar in front on shoulders like push press\nBend and extend knees pushing bar up while diving under the bar\nCatch bar overhead with straight arms using lunge\nMove feet parallel while holding bar in lockout",
+    "de_name": "Jerk (Stoßen)",
+    "de_desc": "Olympisches Stoßen\n\nHalte die Stange vorne auf den Schultern wie beim Push Press\nBeuge und strecke die Knie, um die Stange nach oben zu drücken, während du dich unter die Stange tauchst\nFange die Stange mit gestreckten Armen über dem Kopf in einem Ausfallschritt auf\nBringe die Füße parallel, während du die Stange im Lockout hältst"
+  },
+  {
+    "id": "1638",
+    "pattern": "vertical_push",
+    "primary_group": "quads+shoulders",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Barbell Clean and press",
+    "en_desc": "This exercise involves lifting a barbell from the ground to the shoulders, then pressing it overhead. It is a compound movement that targets multiple muscle groups, including the legs, back, shoulders, and arms. It is often used in strength and conditioning programs to improve overall power and athleticism.",
+    "de_name": "Umsetzen und Drücken mit der Langhantel",
+    "de_desc": "Bei dieser Übung hebst du eine Langhantel vom Boden bis zu den Schultern und drückst sie anschließend über den Kopf. Es ist eine Verbundübung, die mehrere Muskelgruppen beansprucht, darunter die Beine, den Rücken, die Schultern und die Arme. Sie wird häufig in Kraft- und Konditionsprogrammen eingesetzt, um die allgemeine Kraft und Athletik zu verbessern."
+  },
+  {
+    "id": "1901",
+    "pattern": "vertical_push",
+    "primary_group": "quads+shoulders",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Clean and Press",
+    "en_desc": "The First Pull: Lift the bar from the floor to knee-height by driving with the legs, keeping the angle of your back constant.\nThe \"Power\" Position: As the bar reaches mid-thigh, explosively shrug and extend your hips to create vertical momentum.\nThe Quick Elbow Turnover: In the catch phase, rotate your elbows rapidly under the bar to create a \"shelf\" on your front deltoids.\nThe Vertical Press: Press the bar in a straight line; your head should shift slightly forward once the bar clears your forehead to reach full lockout.",
+    "de_name": "Umsetzen und Stoßen",
+    "de_desc": "Der erste Zug: Hebe die Stange vom Boden bis auf Kniehöhe, indem du aus den Beinen arbeitest und den Winkel deines Rückens konstant hältst.\nDie \"Power\"-Position: Sobald die Stange die Mitte der Oberschenkel erreicht, ziehe explosiv die Schultern hoch und strecke die Hüfte, um vertikalen Schwung zu erzeugen.\nDas schnelle Umsetzen der Ellbogen: In der Fangphase drehst du die Ellbogen rasch unter die Stange, um ein \"Ablagebrett\" auf deinen vorderen Deltamuskeln zu schaffen.\nDas senkrechte Drücken: Drücke die Stange in einer geraden Linie nach oben; dein Kopf sollte sich leicht nach vorne schieben, sobald die Stange deine Stirn passiert, um die volle Streckung zu erreichen."
+  },
+  {
+    "id": "1449",
+    "pattern": "gait",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "ClimbMill",
+    "en_desc": "The ClimbMill, also known as a stair climber, is a cardio-focused machine that simulates climbing stairs. It provides an effective way to improve endurance while strengthening the lower body. To use the machine, step onto the moving stairs, maintain an upright posture, and use the handrails for balance if needed. Adjust the speed and intensity to match your fitness level. This exercise helps improve cardiovascular health, burns calories, and enhances lower body muscle endurance.",
+    "de_name": "ClimbMill",
+    "de_desc": "Die ClimbMill, auch als Treppensteiger bekannt, ist ein auf Cardio ausgerichtetes Gerät, das das Treppensteigen simuliert. Sie bietet eine effektive Möglichkeit, die Ausdauer zu verbessern und gleichzeitig den Unterkörper zu kräftigen. Um das Gerät zu benutzen, steige auf die sich bewegenden Stufen, halte eine aufrechte Haltung und nutze bei Bedarf die Handläufe zum Gleichgewicht. Passe Geschwindigkeit und Intensität an dein Fitnesslevel an. Diese Übung verbessert die Herz-Kreislauf-Gesundheit, verbrennt Kalorien und steigert die Muskelausdauer des Unterkörpers."
+  },
+  {
+    "id": "1548",
+    "pattern": "gait",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Stair Master",
+    "en_desc": "cardio and lower-body strength machine&nbsp;designed to simulate climbing stairs. It provides a&nbsp;low-impact, high-intensity workout&nbsp;that targets the legs, glutes, and core while improving cardiovascular endurance.",
+    "de_name": "Stair Master",
+    "de_desc": "Ein Ausdauer- und Kraftgerät für den Unterkörper, das entwickelt wurde, um das Treppensteigen zu simulieren. Es bietet ein gelenkschonendes, hochintensives Training, das Beine, Gesäßmuskulatur und Rumpf beansprucht und gleichzeitig die kardiovaskuläre Ausdauer verbessert."
+  },
+  {
+    "id": "962",
+    "pattern": "gait",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "cardio_machine",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Elliptical",
+    "en_desc": "It improves muscle toning, strengthens the leg muscles (quads, glutes, calves), helps vascularisation and increases resistance. The elliptical is also very useful if you aim to lose weight. Teste",
+    "de_name": "Crosstrainer",
+    "de_desc": "Er verbessert die Muskelstraffung, stärkt die Beinmuskulatur (vordere Oberschenkelmuskulatur, Gesäßmuskulatur, Waden), fördert die Durchblutung und steigert die Ausdauer. Der Crosstrainer ist außerdem sehr nützlich, wenn du abnehmen möchtest."
+  },
+  {
+    "id": "1452",
+    "pattern": "other",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Knee to Chest Stretch",
+    "en_desc": "The knee to chest stretch is a simple yet effective exercise for relieving lower back tension and improving hip mobility. To perform, lie flat on your back with your legs extended. Bring one knee toward your chest, wrapping your hands around your shin or behind your thigh. Gently pull the knee closer to your chest while keeping the other leg straight on the floor. Hold the stretch for 15–30 seconds, then switch sides. For a deeper stretch, both knees can be pulled toward the chest simultaneously.",
+    "de_name": "Knie-zur-Brust-Dehnung",
+    "de_desc": "Die Knie-zur-Brust-Dehnung ist eine einfache, aber effektive Übung, um Verspannungen im unteren Rücken zu lösen und die Hüftbeweglichkeit zu verbessern. Lege dich dazu flach auf den Rücken mit gestreckten Beinen. Ziehe ein Knie zur Brust und umfasse mit den Händen das Schienbein oder die Rückseite des Oberschenkels. Ziehe das Knie sanft näher zur Brust, während du das andere Bein gestreckt auf dem Boden lässt. Halte die Dehnung 15–30 Sekunden und wechsle dann die Seite. Für eine intensivere Dehnung können beide Knie gleichzeitig zur Brust gezogen werden."
+  },
+  {
+    "id": "1680",
+    "pattern": "other",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Seated Figure Four",
+    "en_desc": "Seat on&nbsp; a bench. Feet flat on the ground. Place your left ankle over your right knee. Your right knee stays flat. Keep your back straight. Gently push your left knee down.",
+    "de_name": "Figur-Vier-Dehnung im Sitzen",
+    "de_desc": "Setze dich auf eine Bank. Die Füße flach auf dem Boden. Lege deinen linken Knöchel über dein rechtes Knie. Dein rechtes Knie bleibt flach. Halte deinen Rücken gerade. Drücke dein linkes Knie sanft nach unten."
+  },
+  {
+    "id": "1959",
+    "pattern": "other",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "chair",
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Seated Piriformis Stretch",
+    "en_desc": "Seated Piriformis Stretch\nPart of: Limber 11\nSource: Joe DeFranco\nPrescription: 20-30 sec each side\nType: static\nIncludes isometric hold.",
+    "de_name": "Sitzende Piriformis-Dehnung",
+    "de_desc": "Sitzende Piriformis-Dehnung\nTeil von: Limber 11\nQuelle: Joe DeFranco\nVorgabe: 20-30 Sek pro Seite\nTyp: statisch\nBeinhaltet isometrisches Halten."
+  },
+  {
+    "id": "1572",
+    "pattern": "anti_rotation",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Bird Dog",
+    "en_desc": "The Bird Dog is a core stability exercise that enhances balance, coordination, and spinal alignment. It’s a low-impact movement ideal for strengthening the posterior chain and improving overall functional control.\n\nBegin on all fours with hands under shoulders and knees under hips, keeping your spine neutral.\nExtend your right arm forward and left leg backward simultaneously, keeping hips square.\nPause briefly at full extension while engaging your core and glutes.\nReturn to the starting position and repeat on the opposite side",
+    "de_name": "Bird Dog",
+    "de_desc": "Der Bird Dog ist eine Übung für die Rumpfstabilität, die Gleichgewicht, Koordination und die Ausrichtung der Wirbelsäule verbessert. Es ist eine gelenkschonende Bewegung, die sich ideal zum Stärken der hinteren Muskelkette und zur Verbesserung der allgemeinen funktionellen Kontrolle eignet.\n\nBeginne im Vierfüßlerstand mit den Händen unter den Schultern und den Knien unter den Hüften und halte deine Wirbelsäule neutral.\nStrecke gleichzeitig deinen rechten Arm nach vorn und dein linkes Bein nach hinten und halte die Hüften gerade.\nHalte bei voller Streckung kurz inne, während du Rumpf und Gesäßmuskulatur anspannst.\nKehre in die Ausgangsposition zurück und wiederhole die Bewegung auf der anderen Seite"
+  },
+  {
+    "id": "1910",
+    "pattern": "anti_rotation",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Kneeling Superman",
+    "en_desc": "Push one foot back until leg fully extended, concentrating on the having the foot high and pushed back as if pulled.\n\n\nExtend arm forward with focus having the shoulder high up.\n\n\nUnilateral and static hold.",
+    "de_name": "Kniender Superman",
+    "de_desc": "Schiebe einen Fuß nach hinten, bis das Bein vollständig gestreckt ist, und konzentriere dich darauf, den Fuß hoch und nach hinten geschoben zu halten, als würde er gezogen.\n\n\nStrecke den Arm nach vorne und achte darauf, die Schulter hoch oben zu halten.\n\n\nEinseitig und statisch gehalten."
+  },
+  {
+    "id": "957",
+    "pattern": "anti_rotation",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Quadriped Arm and Leg Raise",
+    "en_desc": "In this exercise, the back muscles and the muscles of the back of the leg and back of the arm are activated by lifting the crossed arm and leg at the same time in the crawling position. It also improves balance and proprioception. The movement is done symmetrically.\n\nGet into a crawling posture.2. Draw your abdomen in, then raise your right leg and left arm.3. You should keep your abdomen in for 8 seconds.4. After 8 seconds, slowly lower your arm and leg.5. Then release your muscle.",
+    "de_name": "Arm- und Beinheben im Vierfüßlerstand",
+    "de_desc": "Bei dieser Übung werden die Rückenmuskulatur sowie die Muskeln der Beinrückseite und der Armrückseite aktiviert, indem du im Vierfüßlerstand gleichzeitig den diagonal gegenüberliegenden Arm und das Bein anhebst. Sie verbessert außerdem das Gleichgewicht und die Propriozeption. Die Bewegung wird symmetrisch ausgeführt.\n\nBegib dich in den Vierfüßlerstand.2. Ziehe den Bauch ein und hebe dann dein rechtes Bein und deinen linken Arm an.3. Halte den Bauch 8 Sekunden lang eingezogen.4. Senke nach 8 Sekunden langsam deinen Arm und dein Bein.5. Entspanne anschließend deine Muskeln."
+  },
+  {
+    "id": "1832",
+    "pattern": "vertical_push",
+    "primary_group": "chest+triceps",
+    "primary_equipment": "suspension_trainer",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Ring Support Hold",
+    "en_desc": "Hold yourself in a support position on gymnastic rings with arms straight at sides. Focus on keeping rings turned out slightly and maintaining hollow body position. This is an isometric hold for chest, shoulders, and triceps.",
+    "de_name": "Stützhalt an den Ringen",
+    "de_desc": "Halte dich in einer Stützposition auf Turnringen, die Arme gestreckt an den Seiten. Achte darauf, die Ringe leicht nach außen gedreht zu halten und eine Hollow-Body-Position einzunehmen. Dies ist ein isometrischer Halt für Brust, Schultern und Trizeps."
+  },
+  {
+    "id": "1914",
+    "pattern": "vertical_push",
+    "primary_group": "chest+triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "dip_bars"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Isometria alle parallele",
+    "en_desc": "The parallel bars isometric hold is a static upper-body exercise performed on dip bars (parallel bars). Instead of moving up and down like in a traditional dip, you hold a fixed position under tension.",
+    "de_name": "Isometrisches Halten am Barren",
+    "de_desc": "Das isometrische Halten am Barren ist eine statische Oberkörperübung, die an Dip-Stangen (Parallelbarren) ausgeführt wird. Anstatt dich wie bei einem klassischen Dip auf und ab zu bewegen, hältst du unter Spannung eine feste Position."
+  },
+  {
+    "id": "194",
+    "pattern": "vertical_push",
+    "primary_group": "chest+triceps",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "dip_bars"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Dips",
+    "en_desc": "A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles (sternal, clavicular, and minor), and the rhomboid muscles of the back (in that order).[1] Wide arm training places additional emphasis on the pectoral muscles, similar in respect to the way a wide grip bench press would focus more on the pectorals and less on the triceps.",
+    "de_name": "Dips",
+    "de_desc": "Greife die Stangen an einer engen Stelle und drücke dich hoch. Strecke dabei die Arme nicht ganz aus, dann bleiben während des gesamten Bewegungablaufs die Muskeln immer unter Spannung. Beuge nun die Arme und gehe so tief wie möglich runter, die Ellenbogen zeigen nach hinten. Du kannst an dieser Stelle einige Sekunden bleiben, bevor du die Übung weitermachst."
+  },
+  {
+    "id": "1884",
+    "pattern": "rotation",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Shinbox IR Stretch",
+    "en_desc": "Starting Position: Sit on the floor with both hips and knees bent at 90-degree angles.\nLeg Placement:\nPlace one leg in front of you (external rotation) and the other leg out\nto the side/behind you (internal rotation). The shins and knees should\nremain flat on the ground.\nThe Movement:\nKeeping your hips square, hinge your torso forward or tilt it laterally\n(side-to-side) toward the front leg to deepen the stretch.\nTarget Areas:\nStretches the glutes and piriformis (front leg) and the hip flexors and\nquads (back leg). Engages the core and obliques during lateral flexion.\nGoal: Improves hip mobility, specifically internal and external rotation, and relieves lower back tension.",
+    "de_name": "Shinbox-Innenrotations-Dehnung",
+    "de_desc": "Ausgangsposition: Setze dich auf den Boden, mit Hüften und Knien im 90-Grad-Winkel gebeugt.\nBeinstellung:\nLege ein Bein vor dich (Außenrotation) und das andere Bein zur Seite\nbzw. hinter dich (Innenrotation). Die Unterschenkel und Knie sollten\nflach auf dem Boden bleiben.\nDie Bewegung:\nHalte deine Hüften gerade und beuge deinen Oberkörper nach vorne oder neige ihn seitlich\n(von Seite zu Seite) in Richtung des vorderen Beins, um die Dehnung zu vertiefen.\nZielbereiche:\nDehnt die Gesäßmuskulatur und den Piriformis (vorderes Bein) sowie die Hüftbeuger und\ndie vordere Oberschenkelmuskulatur (hinteres Bein). Beansprucht bei der seitlichen Beugung den Rumpf und die schrägen Bauchmuskeln.\nZiel: Verbessert die Hüftbeweglichkeit, insbesondere die Innen- und Außenrotation, und löst Verspannungen im unteren Rücken."
+  },
+  {
+    "id": "2448",
+    "pattern": "rotation",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Reverse Clamshell",
+    "en_desc": "Lie on your side with your hips and knees bent, keeping your knees stacked on top of each other. Keep your feet together at first, then keep your knees touching while lifting your top foot upward. Slowly lower the foot back down with control.\nMove only through the hip and avoid rolling your pelvis backward. The movement should be small, controlled, and focused on hip rotation.",
+    "de_name": "Reverse Clamshell",
+    "de_desc": "Lege dich auf die Seite, Hüfte und Knie gebeugt, wobei die Knie übereinander liegen. Halte die Füße zunächst zusammen, lass dann die Knie aneinander, während du den oberen Fuß nach oben hebst. Senke den Fuß langsam und kontrolliert wieder ab.\nBewege dich nur aus der Hüfte und vermeide es, das Becken nach hinten zu rollen. Die Bewegung sollte klein, kontrolliert und auf die Hüftrotation konzentriert sein."
+  },
+  {
+    "id": "2449",
+    "pattern": "rotation",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Clamshell to Reverse Clamshell",
+    "en_desc": "Lie on your side with your hips and knees bent, keeping your legs stacked. Lift your top knee into a clamshell position and keep the leg elevated throughout the movement. From there, alternate between opening the knee upward and lifting the foot upward, moving through hip external and internal rotation.\nKeep the movement slow and controlled. Do not let the top leg rest on the bottom leg between repetitions.",
+    "de_name": "Clamshell zu Reverse Clamshell",
+    "de_desc": "Lege dich auf die Seite, Hüfte und Knie gebeugt, die Beine übereinander. Hebe dein oberes Knie in eine Clamshell-Position und halte das Bein während der gesamten Bewegung angehoben. Wechsle von dort aus zwischen dem Öffnen des Knies nach oben und dem Anheben des Fußes nach oben, indem du durch die Außen- und Innenrotation der Hüfte gehst.\nHalte die Bewegung langsam und kontrolliert. Lass das obere Bein zwischen den Wiederholungen nicht auf dem unteren Bein ablegen."
+  },
+  {
+    "id": "291",
+    "pattern": "squat",
+    "primary_group": "quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hindu Squats",
+    "en_desc": "Start with your feet shoulder width apart and arms slightly behind your back.\nAs you descend towards the floor, raise your heels off the ground, while keeping your back as vertical&nbsp; as possible.\nUpon attaining the bottom position, touch the hands to the heels.\nThen stand up ending with the heels on the ground, arms extended in front of the chest then rowing into the start position.",
+    "de_name": "Hindu-Kniebeugen",
+    "de_desc": "Beginne mit schulterbreit aufgestellten Füßen und den Armen leicht hinter dem Rücken.\nWährend du dich zum Boden absenkst, hebe die Fersen vom Boden ab und halte den Rücken dabei so senkrecht wie möglich.\nWenn du die unterste Position erreichst, berühre mit den Händen die Fersen.\nRichte dich anschließend wieder auf, sodass du am Ende mit den Fersen auf dem Boden stehst und die Arme vor der Brust gestreckt hast, und ziehe sie dann in die Ausgangsposition zurück."
+  },
+  {
+    "id": "373",
+    "pattern": "squat",
+    "primary_group": "quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Leg Presses (narrow)",
+    "en_desc": "The exercise is very similar to the wide leg press:\nSit on the machine and put your feet on the platform so far apart&nbsp; that you could just put another foot in between them. The feet are parallel and point up.\nLower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.",
+    "de_name": "Beinpresse Eng",
+    "de_desc": "In die Maschine setzten und die Füße auf die Auflage stellen. Dabei sollte etwa so viel Platz dazwischen bleiben, dass noch ein Fuß dazwischen Platz hätte. Die Füße sind wie beim normalen Bankdrücken etwas nach außen gedreht.\nDer Bewegungsablauf ist wie bei bei der breite Beinpresse: das Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Ohne Pause wird dann das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!"
+  },
+  {
+    "id": "718",
+    "pattern": "squat",
+    "primary_group": "quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Wall Squat",
+    "en_desc": "Find a nice flat piece of wall and stand with your back leaning against the wall. Slowly slide down the wall while moving your feet away from it, until your thighs are parallel to the ground and both your knees and your hips are bent at a 90° angle. Cross your arms in front of your chest and hold this position for 30 seconds.\nVariant: put a big inflated rubber ball (like a small basketball) between your knees and squeeze the ball while holding the squat position",
+    "de_name": "Wall Squat",
+    "de_desc": "Mache einen klassischen Squat an der Wand. Lehne dich mit dem Rücken an die Wand und gleite langsam herunter bis du 90° in den Knien hast. Halte die Position 30 Sekunden."
+  }
+]

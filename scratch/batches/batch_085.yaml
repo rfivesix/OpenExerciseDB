@@ -1,0 +1,24 @@
+batch_id: 85
+movement_pattern: wrist_extension
+primary_muscle: wrist_extensors
+items:
+- id: '1881'
+  name: DB Wrist Extension
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '48'
+  name: Barbell Reverse Wrist Curl
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: wrist_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja

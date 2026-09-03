@@ -1,0 +1,15 @@
+batch_id: 92
+movement_pattern: carry
+primary_muscle: obliques
+items:
+- id: '1776'
+  name: Suitcase Carry
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: carry
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

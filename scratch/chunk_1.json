@@ -1,0 +1,714 @@
+[
+  {
+    "id": "84",
+    "name": "Bent Over Rowing Reverse",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "487",
+    "name": "Rear Delt Raises",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "822",
+    "name": "Cable Rear Delt Fly",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1219",
+    "name": "Australian pull-ups",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1380",
+    "name": "Band pull-aparts",
+    "equipment": "resistance_band",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1580",
+    "name": "Perpendicular Unilateral Landmine Row",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1698",
+    "name": "Barbell Row (Overhand)",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1725",
+    "name": "Seated Row (Machine)",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "1877",
+    "name": "Banded Scapular Retraction",
+    "equipment": "resistance_band",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_pull"
+  },
+  {
+    "id": "73",
+    "name": "Bench Press",
+    "equipment": "barbell",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "137",
+    "name": "Butterfly Narrow Grip",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "314",
+    "name": "Isometric Wipers",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "583",
+    "name": "Side to Side Push Ups",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "1113",
+    "name": "Push-Ups | Parallettes",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "1302",
+    "name": "JM Press",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "1484",
+    "name": "Omni Cable Cross-over",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "1689",
+    "name": "Cable Fly Middle Chest",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "1716",
+    "name": "Incline Shoulder Press Up",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "horizontal_push"
+  },
+  {
+    "id": "145",
+    "name": "Cable Woodchoppers",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "607",
+    "name": "Splinter Sit-ups",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "1193",
+    "name": "Russian Twist",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "1433",
+    "name": "Reverse Wood Chops",
+    "equipment": "resistance_band",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "1577",
+    "name": "Bretzel stretch",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "1729",
+    "name": "Shoulder External Rotation (Cable)",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "1835",
+    "name": "External Rotation Stretch",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "2448",
+    "name": "Reverse Clamshell",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "rotation"
+  },
+  {
+    "id": "285",
+    "name": "High Knee Jumps",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "397",
+    "name": "Low Box Squat - Wide Stance",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "616",
+    "name": "Squat Thrust",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "977",
+    "name": "Box squat",
+    "equipment": "barbell",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "1414",
+    "name": "Hack Squats",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "1653",
+    "name": "Dumbbell Side Squat",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "1803",
+    "name": "Trap Bar Squat",
+    "equipment": "trap_bar",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "squat"
+  },
+  {
+    "id": "158",
+    "name": "Close-grip Lat Pull Down",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "599",
+    "name": "Snatch",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "723",
+    "name": "Wide-grip Pulldown",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "1137",
+    "name": "High-pulley pullover",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "1526",
+    "name": "Ski Machine",
+    "equipment": "cardio_machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "1695",
+    "name": "Pull-Ups (Wide Grip)",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "1927",
+    "name": "Inverted Lat Pull Down",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_pull"
+  },
+  {
+    "id": "202",
+    "name": "Dumbbell Concentration Curl",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "584",
+    "name": "Single-arm Preacher Curl",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1109",
+    "name": "Cable Concentration Curl",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1261",
+    "name": "TRX gorilla biceps curl",
+    "equipment": "suspension_trainer",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1424",
+    "name": "Biceps Curl Machine",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1511",
+    "name": "Kong Curl",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1608",
+    "name": "Bodyweight Biceps Curl",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "1931",
+    "name": "Dumbbell Curl",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_flexion"
+  },
+  {
+    "id": "484",
+    "name": "Rack Deadlift",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hinge"
+  },
+  {
+    "id": "1388",
+    "name": "Single Leg RDL",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hinge"
+  },
+  {
+    "id": "1396",
+    "name": "Standing Pancake",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hinge"
+  },
+  {
+    "id": "1652",
+    "name": "Dumbbell Romanian Deadlift",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hinge"
+  },
+  {
+    "id": "2447",
+    "name": "Hip Airplane",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hinge"
+  },
+  {
+    "id": "996",
+    "name": "Mountain climbers",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "other"
+  },
+  {
+    "id": "1452",
+    "name": "Knee to Chest Stretch",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "other"
+  },
+  {
+    "id": "1630",
+    "name": "Blaze",
+    "equipment": "other",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "other"
+  },
+  {
+    "id": "1841",
+    "name": "Seated Shoulder Extension Stretch",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "other"
+  },
+  {
+    "id": "167",
+    "name": "Crunches",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "spinal_flexion"
+  },
+  {
+    "id": "174",
+    "name": "Crunches With Legs Up",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "spinal_flexion"
+  },
+  {
+    "id": "1286",
+    "name": "Dynamic Planche",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "spinal_flexion"
+  },
+  {
+    "id": "1415",
+    "name": "Dumbbell Crunches",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "spinal_flexion"
+  },
+  {
+    "id": "1648",
+    "name": "Weighted Crunch",
+    "equipment": "weight_plate",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "spinal_flexion"
+  },
+  {
+    "id": "194",
+    "name": "Dips",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "vertical_push"
+  },
+  {
+    "id": "716",
+    "name": "Wall Slides",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "vertical_push"
+  },
+  {
+    "id": "1442",
+    "name": "Kreis Press DB",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_push"
+  },
+  {
+    "id": "1774",
+    "name": "Chair dips",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_push"
+  },
+  {
+    "id": "1901",
+    "name": "Clean and Press",
+    "equipment": "barbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "vertical_push"
+  },
+  {
+    "id": "984",
+    "name": "Lunges",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "lunge"
+  },
+  {
+    "id": "989",
+    "name": "Bulgarian split squats right",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "lunge"
+  },
+  {
+    "id": "1593",
+    "name": "Smith Machine Split Squat",
+    "equipment": "smith_machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "lunge"
+  },
+  {
+    "id": "1734",
+    "name": "Single-Leg Lunge with Kettlebell:",
+    "equipment": "kettlebell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "lunge"
+  },
+  {
+    "id": "549",
+    "name": "Seated Triceps Press",
+    "equipment": "dumbbell",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "elbow_extension"
+  },
+  {
+    "id": "1519",
+    "name": "Overhead Triceps Extension",
+    "equipment": "ez_bar",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "elbow_extension"
+  },
+  {
+    "id": "1202",
+    "name": "Side Lying Hip Abduction",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hip_abduction"
+  },
+  {
+    "id": "1748",
+    "name": "Machine Hip Abduction",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hip_abduction"
+  },
+  {
+    "id": "1886",
+    "name": "Supine Hip Abduction",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "hip_abduction"
+  },
+  {
+    "id": "1449",
+    "name": "ClimbMill",
+    "equipment": "cardio_machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "gait"
+  },
+  {
+    "id": "1965",
+    "name": "Marching High Knees",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "gait"
+  },
+  {
+    "id": "1131",
+    "name": "Cable glute extension",
+    "equipment": "cable",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hip_extension"
+  },
+  {
+    "id": "1906",
+    "name": "Hip Bridge",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "hip_extension"
+  },
+  {
+    "id": "1602",
+    "name": "Dumbbell Scaption",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "shoulder_abduction"
+  },
+  {
+    "id": "301",
+    "name": "Hyperextensions",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "spinal_extension"
+  },
+  {
+    "id": "1487",
+    "name": "Hyper Y W Combo",
+    "equipment": "weight_plate",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "spinal_extension"
+  },
+  {
+    "id": "622",
+    "name": "Standing Calf Raises",
+    "equipment": "machine",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "plantar_flexion"
+  },
+  {
+    "id": "1188",
+    "name": "Side bend",
+    "equipment": "dumbbell",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "anti_lateral_flexion"
+  },
+  {
+    "id": "364",
+    "name": "Leg Curl",
+    "equipment": "machine",
+    "needs_it": true,
+    "needs_ja": true,
+    "pattern": "knee_flexion"
+  },
+  {
+    "id": "254",
+    "name": "Front Raises with Plates",
+    "equipment": "weight_plate",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "shoulder_flexion"
+  },
+  {
+    "id": "909",
+    "name": "Reverse Nordic Curl",
+    "equipment": "bodyweight",
+    "needs_it": true,
+    "needs_ja": false,
+    "pattern": "knee_extension"
+  },
+  {
+    "id": "1605",
+    "name": "Copenhagen Adduction Exercise",
+    "equipment": "bodyweight",
+    "needs_it": false,
+    "needs_ja": true,
+    "pattern": "hip_adduction"
+  }
+]

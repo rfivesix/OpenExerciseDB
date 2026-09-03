@@ -1,0 +1,210 @@
+[
+  {
+    "id": "1846",
+    "pattern": "squat",
+    "primary_group": "adductors+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Horse Stance (Side Splits)",
+    "en_desc": "Stand as for a squat, with your feet wide and your toes pointed slightly outwards.\nGently squat into a deep, wide squat - your hips should be below your knees.\nHold for 3 to 5 seconds.\nCome up under control, and repeat as needed.",
+    "de_name": "Reiterstellung (Seitspagat)",
+    "de_desc": "Stelle dich wie für eine Kniebeuge hin, mit weit auseinanderstehenden Füßen und leicht nach außen gedrehten Fußspitzen.\nGehe sanft in eine tiefe, breite Kniebeuge – deine Hüften sollten unter deinen Knien sein.\nHalte 3 bis 5 Sekunden.\nKomme kontrolliert wieder hoch und wiederhole nach Bedarf."
+  },
+  {
+    "id": "1905",
+    "pattern": "horizontal_pull",
+    "primary_group": "back+lower_back",
+    "primary_equipment": "cable",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Pullback",
+    "en_desc": "Set weight and grip for the cables in the cage. Take a few steps away, bend over, pull and extend the back at the same time.",
+    "de_name": "Pullback",
+    "de_desc": "Stelle Gewicht und Griff für die Kabel im Rack ein. Gehe ein paar Schritte zurück, beuge dich vor, ziehe und strecke gleichzeitig den Rücken."
+  },
+  {
+    "id": "1911",
+    "pattern": "anti_extension",
+    "primary_group": "abs+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Cat Plank",
+    "en_desc": "On your fours and raise the knees of the floor ever so slightly.&nbsp;\nCurl your back out and push back from your shoulders as to resemble a cat making itself look large.",
+    "de_name": "Katzen-Plank",
+    "de_desc": "Gehe in den Vierfüßlerstand und hebe die Knie nur ganz leicht vom Boden ab.\nRunde deinen Rücken nach oben und drücke dich aus den Schultern zurück, so wie eine Katze, die sich groß macht."
+  },
+  {
+    "id": "1947",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings+shoulders",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Dumbbell Snatch",
+    "en_desc": "Key Steps to Execute Correctly:\nSetup: Place the dumbbell between your feet, with your shoulders above your hips, chest up, and back flat.\nThe Pull: Explosively extend your hips, knees, and ankles (triple extension) to drive the dumbbell upward, keeping your elbow high and the dumbbell close to your body.\nThe Catch: Quickly flex your hips and knees to drop under the dumbbell and receive it overhead with your arm locked in position, landing in a half-squat stance.\nCommon Mistakes: Using your arms too much to lift the weight instead of your legs, having a low elbow during the pull phase, and misaligning your shoulder, elbow, and wrist in the final position. For beginners, it’s recommended to start with light loads, focus on technique, and perform 3 to 5 sets of 3 to 5 reps per arm.",
+    "de_name": "Kurzhantel-Reißen (Dumbbell Snatch)",
+    "de_desc": "Wichtige Schritte zur korrekten Ausführung:\nAufbau: Lege die Kurzhantel zwischen deine Füße, mit den Schultern über den Hüften, der Brust aufgerichtet und flachem Rücken.\nDer Zug: Strecke explosiv deine Hüften, Knie und Sprunggelenke (Dreifachstreckung), um die Kurzhantel nach oben zu treiben, wobei du den Ellenbogen hoch und die Kurzhantel nah am Körper hältst.\nDas Auffangen: Beuge schnell deine Hüften und Knie, um unter die Kurzhantel zu gehen und sie mit fixiertem Arm über dem Kopf aufzunehmen, wobei du in einer halben Kniebeuge landest.\nHäufige Fehler: Das Gewicht zu sehr mit den Armen statt mit den Beinen anzuheben, einen tiefen Ellenbogen in der Zugphase zu haben und Schulter, Ellenbogen und Handgelenk in der Endposition nicht auszurichten. Anfängern wird empfohlen, mit leichten Gewichten zu beginnen, sich auf die Technik zu konzentrieren und 3 bis 5 Sätze mit 3 bis 5 Wiederholungen pro Arm auszuführen."
+  },
+  {
+    "id": "1949",
+    "pattern": "other",
+    "primary_group": "abs+adductors+glutes+hamstrings",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "foam_roller",
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Limber 11",
+    "en_desc": "Limber 11\nSource: Joe DeFranco\n\n1. Foam Roll IT Band [soft_tissue] - 10-15 passes\n2. Foam Roll Adductors [soft_tissue] - 10-15 passes\n3. SMR Glutes (lax ball) [soft_tissue] - 30 sec-2 min\n4. Bent-knee Iron Cross [dynamic] - 5-10 reps each side\n5. Roll-overs into V-sits [dynamic] - 10 reps\n6. Rocking Frog Stretch [dynamic] - 10 reps\n7. Fire Hydrant Circles [dynamic] - 10 forward / 10 backward\n8. Mountain Climbers [dynamic] - 10 reps each leg\n9. Cossack Squats [dynamic] - 5-10 reps each side\n10. Seated Piriformis Stretch [isometric] - 20-30 sec each side\n11. Rear-foot-elevated Hip Flexor Stretch [dynamic + 3s hold] - 5-10 reps each side",
+    "de_name": "Limber 11",
+    "de_desc": "Limber 11\nQuelle: Joe DeFranco\n\nFoam-Rolling Tractus iliotibialis [soft_tissue] - 10-15 Durchgänge\nFoam-Rolling Adduktoren [soft_tissue] - 10-15 Durchgänge\nSMR Gesäßmuskulatur (Lacrosse-Ball) [soft_tissue] - 30 Sek-2 Min\nBent-knee Iron Cross [dynamic] - 5-10 Wiederholungen pro Seite\nRoll-overs in V-Sits [dynamic] - 10 Wiederholungen\nRocking Frog Stretch [dynamic] - 10 Wiederholungen\nFire Hydrant Circles [dynamic] - 10 vorwärts / 10 rückwärts\nMountain Climbers [dynamic] - 10 Wiederholungen pro Bein\nCossack Squats [dynamic] - 5-10 Wiederholungen pro Seite\nSitzende Piriformis-Dehnung [isometric] - 20-30 Sek pro Seite\nHüftbeuger-Dehnung mit erhöhtem hinterem Fuß [dynamic + 3s halten] - 5-10 Wiederholungen pro Seite"
+  },
+  {
+    "id": "1970",
+    "pattern": "vertical_pull",
+    "primary_group": "back+glutes",
+    "primary_equipment": "kettlebell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Kettlebell sumo high pull",
+    "en_desc": "A compound exercise combining elements of a sumo deadlift and a high pull. It targets the posterior chain, particularly the glutes, hamstrings, and upper back. The sumo stance increases hip engagement, while the high pull adds an explosive element, promoting power development.\n\nStand upright overtop of a kettlebell with your feet wider than shoulder-width apart angled out slightly.\nMaintain a braced core and neutral spine throughout the exercise.\nHinge your hips backward and extend your arms to grab ahold the kettlebell with a double overhand grip.\nWith you lower legs nearly vertical to the ground, extend your hips to raise the kettlebell with your elbows high keeping it close to your body.\nOnce the kettlebell has reached shoulder height, lower back to the starting position.",
+    "de_name": "Kettlebell Sumo High Pull",
+    "de_desc": "Eine Verbundübung, die Elemente des Sumo-Kreuzhebens und des High Pull kombiniert. Sie beansprucht die hintere Kette, insbesondere die Gesäßmuskulatur, die hintere Oberschenkelmuskulatur und den oberen Rücken. Der Sumo-Stand erhöht die Hüftbeteiligung, während der High Pull ein explosives Element hinzufügt und so die Entwicklung von Kraft fördert.\n\nStehe aufrecht über einer Kettlebell, die Füße weiter als schulterbreit und die Fußspitzen leicht nach außen gedreht.\nHalte deinen Rumpf während der gesamten Übung angespannt und die Wirbelsäule neutral.\nBeuge die Hüfte nach hinten und strecke die Arme, um die Kettlebell mit einem doppelten Obergriff zu greifen.\nWährend deine Unterschenkel nahezu senkrecht zum Boden stehen, strecke die Hüfte, um die Kettlebell mit hohen Ellbogen anzuheben und sie dabei nah am Körper zu halten.\nSobald die Kettlebell die Schulterhöhe erreicht hat, senke sie wieder in die Ausgangsposition ab."
+  },
+  {
+    "id": "2447",
+    "pattern": "hinge",
+    "primary_group": "glutes",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Hip Airplane",
+    "en_desc": "Stand on one leg and lean your upper body slightly forward while keeping your back straight. Extend the free leg behind you so that your torso and leg form roughly one line. Slowly open your hip to the side by rotating your pelvis and upper body in a controlled way. Then close the hip again and return to the starting position.\nThe movement should mainly come from the hip. Keep your standing foot stable and avoid letting your knee collapse inward.",
+    "de_name": "Hip Airplane",
+    "de_desc": "Stehe auf einem Bein und neige deinen Oberkörper leicht nach vorne, während du den Rücken gerade hältst. Strecke das freie Bein nach hinten aus, sodass dein Oberkörper und das Bein ungefähr eine Linie bilden. Öffne deine Hüfte langsam zur Seite, indem du Becken und Oberkörper kontrolliert drehst. Schließe die Hüfte dann wieder und kehre in die Ausgangsposition zurück.\nDie Bewegung sollte hauptsächlich aus der Hüfte kommen. Halte deinen Standfuß stabil und vermeide es, dass dein Knie nach innen einknickt."
+  },
+  {
+    "id": "2493",
+    "pattern": "hip_adduction",
+    "primary_group": "abs+adductors",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "flat_bench",
+      "mat"
+    ],
+    "laterality": "unilateral",
+    "en_name": "Adductor Side Plank",
+    "en_desc": "Set up next to a bench in a  90° angle on your side. One leg goes up on the bench with the side of your calf touching it. The other leg goes below the bench. Forearm closer to the ground is at a 90° angle, hand pointing front. Now push off the floor with the forearm closer to the ground, upper side of your body should be completely straight, level with the bench (it's a side plank after all). Hold that position.",
+    "de_name": "Adductor side plank",
+    "de_desc": "Im 90° Winkel zur Bank auf der Seite liegend positionieren. Ein Bein mit der Seite der Wade auf die Bank legen. Das andere Bein unter die Bank, so gut es geben geht. Dann auf den zum Boden zeigenden Arm im 90° Winkel stützen (Unterarmstütz). Die zur Decke zeigende Körperseite muss möglichst gerade sein (ein Side Plank eben)."
+  },
+  {
+    "id": "285",
+    "pattern": "squat",
+    "primary_group": "abs+glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "High Knee Jumps",
+    "en_desc": "Start with legs slightly wider than shoulder width\nDrop into a bodyweight squat\nAs you hit the bottom of the squat, explode upwards into a jump while simultaneously tucking your knees into your chest midflight.&nbsp; Remain tucked until the apex of your jump.\nLand on both feet, making sure your knees are not locked so as to avoid excessive strain upon your joints.&nbsp; Collect yourself into the next rep as quickly but under control as possible.",
+    "de_name": "Hohe Knie-Sprünge",
+    "de_desc": "Beginne mit den Beinen etwas weiter als schulterbreit\nSenke dich in eine Kniebeuge mit dem eigenen Körpergewicht ab\nWenn du den tiefsten Punkt der Kniebeuge erreichst, explodiere nach oben in einen Sprung und ziehe gleichzeitig die Knie in der Luft zur Brust. Bleib in dieser angehockten Position bis zum höchsten Punkt deines Sprungs.\nLande auf beiden Füßen und achte darauf, dass deine Knie nicht durchgedrückt sind, um eine übermäßige Belastung deiner Gelenke zu vermeiden. Sammle dich so schnell wie möglich, aber kontrolliert, für die nächste Wiederholung."
+  },
+  {
+    "id": "369",
+    "pattern": "knee_extension",
+    "primary_group": "quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Leg Extension",
+    "en_desc": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different. Most gym and weight rooms will have the machine in their facility. The leg extension is an isolated exercise targeting one specific muscle group, the quadriceps. It should not be considered as a total leg workout, such as the squat or deadlift. The exercise consists of bending the leg at the knee and extending the legs, then lowering them back to the original position.",
+    "de_name": "Beinstrecker (Leg Extension)",
+    "de_desc": "Der Beinstrecker ist eine Krafttrainingsübung mit Widerstand, die auf die vordere Oberschenkelmuskulatur (Quadrizeps) abzielt. Die Übung wird an einer Maschine namens Beinstrecker-Maschine ausgeführt. Es gibt verschiedene Hersteller dieser Maschinen und jede ist ein wenig anders. Die meisten Fitnessstudios und Krafträume haben die Maschine in ihrer Einrichtung. Der Beinstrecker ist eine isolierte Übung, die auf eine spezifische Muskelgruppe abzielt, den Quadrizeps. Er sollte nicht als komplettes Beintraining betrachtet werden, wie etwa die Kniebeuge oder das Kreuzheben. Die Übung besteht darin, das Bein im Knie zu beugen und die Beine zu strecken und sie anschließend wieder in die Ausgangsposition abzusenken."
+  },
+  {
+    "id": "500",
+    "pattern": "anti_flexion",
+    "primary_group": "glutes+lower_back",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Reverse Plank",
+    "en_desc": "Plank with stomach towards ceiling",
+    "de_name": "Reverse Plank",
+    "de_desc": "Umgekehrte Plank mit Bauch nach oben."
+  },
+  {
+    "id": "630",
+    "pattern": "hinge",
+    "primary_group": "glutes+hamstrings+quads",
+    "primary_equipment": "barbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Sumo Deadlift",
+    "en_desc": "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.\nTake a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.\nAs the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.\nReturn the weight to the ground by bending at the hips and controlling the weight on the way down.",
+    "de_name": "Sumo Kreuzheben",
+    "de_desc": "Muskulatur anspannen\nRücken aufrecht halten\nRücken gerade halten\nLangsame Bewegung\nKontrollierte Bewegung\nNicht überdehnen"
+  },
+  {
+    "id": "632",
+    "pattern": "squat",
+    "primary_group": "adductors+glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Sumo Squats",
+    "en_desc": "Stand with your feet wider than your shoulders, with your toes pointed out at a 45 degree angle and barbell on your shoulder.\nWhile keeping your back straight, descend slowly by bending at the knees and hips as if you are sitting down (squatting).\nLower yourself until your quadriceps and hamstrings are parallel to the floor.\nReturn to the starting position by pressing upwards and extending your legs while maintaining an equal distribution of weight on your forefoot and heel.",
+    "de_name": "Sumo Kniebeuge",
+    "de_desc": "Variante der Kniebeuge: breiter Stand, Füße leicht nach außen\nOptional mit Langhantel oder Kettlebell (Kugelhantel) vor der Brust"
+  },
+  {
+    "id": "711",
+    "pattern": "vertical_push",
+    "primary_group": "back+shoulders",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Wall Handstand",
+    "en_desc": "Handstand against a wall for support (chest facing wall).",
+    "de_name": "Handstand Gegen Die Wand",
+    "de_desc": "Handstand gegen eine Wand zur Unterstützung (Brust zugewandte Wand)."
+  },
+  {
+    "id": "716",
+    "pattern": "vertical_push",
+    "primary_group": "back+chest",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Wall Slides",
+    "en_desc": "Stand with heels,&nbsp;shoulders, back of head, and hips touching the wall. Start with biceps straight out and elbows at a 90 degree angle. Straighten the arms while remaining againstthe wall without arching the back off of the wall, mimicking a shoulder press movement.",
+    "de_name": "Wandgleiten",
+    "de_desc": "Stelle dich so hin, dass Fersen, Schultern, Hinterkopf und Hüfte die Wand berühren. Beginne mit den Oberarmen gerade zur Seite ausgestreckt und den Ellbogen in einem 90-Grad-Winkel. Strecke die Arme, während du an der Wand bleibst, ohne den Rücken von der Wand abzuheben, und ahme dabei die Bewegung eines Schulterdrückens nach."
+  },
+  {
+    "id": "996",
+    "pattern": "other",
+    "primary_group": "abs",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "mat"
+    ],
+    "laterality": "alternating",
+    "en_name": "Mountain climbers",
+    "en_desc": "Starting position:\nStart in the upright push-up position, aka. the high plank position.Hands should be directly under your shoulders.Keep your head in line with your back, facing the floor.Feet should be about hip-width apart.\nSteps:\n\nMove one knee toward the center of your body, towards your elbows, keeping the other leg extended.\nIn a quick jumping movement, straighten the bent leg out and pull the other knee toward your body.\nKeep repeating step 2, alternating legs.\n\nNotes:\nThroughout the exercise, your back should remain as straight as possible – avoid a hump or a sagging back.",
+    "de_name": "Bergsteiger",
+    "de_desc": "Ausgangsposition:\nBeginnen Sie in der aufrechten Liegestützposition, auch bekannt als die hohe Plank-Position.Die Hände sollten sich direkt unter den Schultern befinden.Halten Sie Ihren Kopf in einer Linie mit dem Rücken und schauen Sie zum Boden.Die Füße sollten etwa hüftbreit auseinander stehen.\nDie Schritte:\n\nBewegen Sie ein Knie in Richtung Körpermitte zu den Ellbogen und lassen Sie das andere Bein gestreckt.\nIn einer schnellen, hüpfenden Bewegung strecken Sie das gebeugte Bein aus und ziehen das andere Knie zum Körper.\nWiederholen Sie Schritt 2 im Wechsel mit dem anderen Bein.\n\nAnmerkungen:\nWährend der gesamten Übung sollte Ihr Rücken so gerade wie möglich bleiben - vermeiden Sie einen Buckel oder einen durchhängenden Rücken."
+  }
+]

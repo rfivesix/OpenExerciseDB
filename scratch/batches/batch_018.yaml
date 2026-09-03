@@ -1,0 +1,180 @@
+batch_id: 18
+movement_pattern: horizontal_push
+primary_muscle: pecs_clavicular
+items:
+- id: '1496'
+  name: DB Upper Chest Variation
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '925'
+  name: Smith Machine Slight Incline Press
+  primary_equipment: smith_machine
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '498'
+  name: Reverse Grip Bench Press
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1497'
+  name: DB Underhand bench press
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '539'
+  name: Incline Bench Press - MP
+  primary_equipment: smith_machine
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - fr
+  - ja
+- id: '1296'
+  name: Low-Cable Cross-Over - NB
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '308'
+  name: Incline Dumbbell Fly
+  primary_equipment: dumbbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1690'
+  name: Cable Fly Upper Chest
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '538'
+  name: Incline Bench Press - Barbell
+  primary_equipment: barbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - fr
+  - ja
+- id: '537'
+  name: Incline Bench Press - Dumbbell
+  primary_equipment: dumbbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1693'
+  name: Incline Static Hold
+  primary_equipment: dumbbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1778'
+  name: Supino inclinado
+  primary_equipment: barbell
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1112'
+  name: Push-Ups | Decline
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1508'
+  name: High-Incline Smith Machine Press
+  primary_equipment: smith_machine
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1660'
+  name: Cable Chest Press - Incline
+  primary_equipment: cable
+  setup:
+  - incline_bench
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1773'
+  name: Legend Incline Bench Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1270'
+  name: Low Pulley Cable Fly
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja

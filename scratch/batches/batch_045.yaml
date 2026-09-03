@@ -1,0 +1,57 @@
+batch_id: 45
+movement_pattern: other
+primary_muscle: deltoid
+items:
+- id: '1920'
+  name: Extreme Shoulder Stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1536'
+  name: Delt Stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1630'
+  name: Blaze
+  primary_equipment: other
+  setup:
+  - flat_bench
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '675'
+  name: Turkish Get-Up
+  primary_equipment: kettlebell
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1524'
+  name: Battle Ropes
+  primary_equipment: other
+  setup:
+  - battle_ropes
+  movement_pattern: other
+  laterality: alternating
+  needs:
+  - it
+  - ja

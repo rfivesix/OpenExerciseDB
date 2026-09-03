@@ -1,0 +1,33 @@
+batch_id: 65
+movement_pattern: rotation
+primary_muscle: rectus_abdominis
+items:
+- id: '1479'
+  name: Sit Up Elbow Thrust
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1412'
+  name: bicycle crunches
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '607'
+  name: Splinter Sit-ups
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - ja

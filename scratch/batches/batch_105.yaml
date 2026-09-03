@@ -1,0 +1,16 @@
+batch_id: 105
+movement_pattern: other
+primary_muscle: soleus
+items:
+- id: '1240'
+  name: Standing Soleus Stretch
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

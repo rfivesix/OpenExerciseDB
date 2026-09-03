@@ -1,0 +1,80 @@
+batch_id: 32
+movement_pattern: rotation
+primary_muscle: gluteus_medius
+items:
+- id: '1863'
+  name: Hip Crossover
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2449'
+  name: Clamshell to Reverse Clamshell
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2448'
+  name: Reverse Clamshell
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1862'
+  name: Hip Circles
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1956'
+  name: Fire Hydrant Circles
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1884'
+  name: Shinbox IR Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: unilateral
+  needs:
+  - ja
+- id: '1953'
+  name: Bent-knee Iron Cross
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: rotation
+  laterality: alternating
+  needs:
+  - de
+  - fr
+  - it
+  - ja

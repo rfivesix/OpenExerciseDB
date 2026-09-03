@@ -1,0 +1,12 @@
+batch_id: 117
+movement_pattern: spinal_extension
+primary_muscle: neck_flexors
+items:
+- id: '1011'
+  name: Front neck stretch
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: spinal_extension
+  laterality: bilateral
+  needs:
+  - ja

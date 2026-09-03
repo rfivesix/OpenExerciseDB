@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1193",
+    "language": "en",
+    "field": "name",
+    "old_value": "Russian Twist",
+    "new_value": "Dumbbell Russian Twist",
+    "reason": "Per NAMING.md §2, add primary equipment prefix to distinguish the external loaded dumbbell variation from the bodyweight rotation variant."
+  },
+  {
+    "id": "1193",
+    "language": "de",
+    "field": "name",
+    "old_value": "Russian Twist",
+    "new_value": "Russian Twist mit Kurzhantel",
+    "reason": "Add equipment specification to German name to reflect primary_equipment dumbbell per vocab/equipment.yaml."
+  },
+  {
+    "id": "1259",
+    "language": "en",
+    "field": "name",
+    "old_value": "TRX Obliques",
+    "new_value": "TRX Knee Tuck to Elbow",
+    "reason": "Per NAMING.md §2, replace vague body part label 'Obliques' with descriptive movement noun matching the exercise description."
+  },
+  {
+    "id": "1259",
+    "language": "de",
+    "field": "name",
+    "old_value": "TRX Bauchmuskeln seitlich",
+    "new_value": "TRX-Kniebeugen zur Seite",
+    "reason": "Replace literal muscle group name with standard descriptive exercise term in German gym vocabulary."
+  },
+  {
+    "id": "1374",
+    "language": "de",
+    "field": "name",
+    "old_value": "Bauch-Twist Gerät",
+    "new_value": "Rotary-Torso-Maschine",
+    "reason": "Replace informal German phrasing and Deppenleerzeichen with authoritative equipment terminology (Maschine per vocab/equipment.yaml) and standard gym designation."
+  },
+  {
+    "id": "1374",
+    "language": "de",
+    "field": "description",
+    "old_value": "Langsam und stätig\nNicht zu viel Gewicht nutzen",
+    "new_value": "Langsam und stetig durchführen.\nNicht zu viel Gewicht wählen.",
+    "reason": "Correct orthographical spelling error 'stätig' -> 'stetig' and improve grammatical phrasing."
+  },
+  {
+    "id": "1377",
+    "language": "en",
+    "field": "name",
+    "old_value": "Torso Twist",
+    "new_value": "Standing Torso Twist",
+    "reason": "Per NAMING.md §2, include the stance modifier 'Standing' from the description to clarify the bodyweight movement and distinguish it from seated variations."
+  },
+  {
+    "id": "1377",
+    "language": "de",
+    "field": "name",
+    "old_value": "Rumpfdrehung",
+    "new_value": "Rumpfdrehung im Stehen",
+    "reason": "Add stance modifier 'im Stehen' matching English title and description to clearly distinguish from seated/mat variations."
+  },
+  {
+    "id": "1412",
+    "language": "en",
+    "field": "name",
+    "old_value": "Bicycle Crunch",
+    "new_value": "Bicycle Crunch",
+    "reason": "Kept as Bicycle Crunch (already singular per NAMING.md §3)."
+  },
+  {
+    "id": "1412",
+    "language": "de",
+    "field": "name",
+    "old_value": "Bicycle Crunches",
+    "new_value": "Bicycle Crunch",
+    "reason": "Standardize plural noun 'Crunches' to singular 'Crunch' per NAMING.md §3 and catalog conventions."
+  },
+  {
+    "id": "1433",
+    "language": "de",
+    "field": "name",
+    "old_value": "Umgekehrte Holzhacker",
+    "new_value": "Umgekehrter Holzhacker mit Widerstandsband",
+    "reason": "Correct plural 'Holzhacker' to singular masculine and add authoritative equipment term Widerstandsband per vocab/equipment.yaml."
+  },
+  {
+    "id": "145",
+    "language": "en",
+    "field": "name",
+    "old_value": "Cable Woodchoppers",
+    "new_value": "Cable Woodchopper",
+    "reason": "Standardize plural noun to singular per NAMING.md §3."
+  },
+  {
+    "id": "145",
+    "language": "en",
+    "field": "description",
+    "old_value": "Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. &nbsp;Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.",
+    "new_value": "Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.",
+    "reason": "Remove raw HTML non-breaking space entity (&nbsp;)."
+  },
+  {
+    "id": "145",
+    "language": "de",
+    "field": "name",
+    "old_value": "Holzhacker am Kabelzug",
+    "new_value": "Holzhacker am Kabelzug",
+    "reason": "Valid name."
+  },
+  {
+    "id": "1451",
+    "language": "en",
+    "field": "name",
+    "old_value": "Torso rotation stretch",
+    "new_value": "Torso Rotation Stretch",
+    "reason": "Standardize to Title Case per NAMING.md §4."
+  },
+  {
+    "id": "1477",
+    "language": "en",
+    "field": "description",
+    "old_value": "To\ndo this abs and obliques exercise, start with your hands back behind your body\nand bring your knees in and across, really trying to contract the obliques.\nThen extend your legs back out to starting position and repeat toward the\nopposite side of the abs.\nBeginners\nmight find that they can’t even get through the first 45 seconds of this\nchallenging reverse crunches variation.&nbsp; That’s ok because it gives you a\nplace to start and something to improve upon.",
+    "new_value": "To\ndo this abs and obliques exercise, start with your hands back behind your body\nand bring your knees in and across, really trying to contract the obliques.\nThen extend your legs back out to starting position and repeat toward the\nopposite side of the abs.\nBeginners\nmight find that they can’t even get through the first 45 seconds of this\nchallenging reverse crunches variation. That’s ok because it gives you a\nplace to start and something to improve upon.",
+    "reason": "Remove raw HTML non-breaking space entity (&nbsp;)."
+  },
+  {
+    "id": "1479",
+    "conflict": "EN describes Sit Up Elbow Thrust (explosively sitting up and driving elbow across the body to the opposite side), while DE describes standard slow Sit-ups with fixed feet and general cues (Füße fixieren, Muskulatur anspannen, Kein Schwung holen, Langsame Durchführung) which directly contradicts the explosive rotation movement."
+  },
+  {
+    "id": "1743",
+    "language": "en",
+    "field": "name",
+    "old_value": "Windshield Wipers",
+    "new_value": "Hanging Windshield Wiper",
+    "reason": "Per NAMING.md §2 and §3, prefix with stance modifier 'Hanging' to distinguish from floor windshield wipers and standardize plural to singular."
+  },
+  {
+    "id": "1743",
+    "language": "de",
+    "field": "name",
+    "old_value": "Scheibenwischer",
+    "new_value": "Hängender Scheibenwischer",
+    "reason": "Specify modifier 'Hängend' to distinguish hanging bar variation from floor windshield wipers in German gym terminology."
+  },
+  {
+    "id": "1966",
+    "language": "en",
+    "field": "name",
+    "old_value": "1/2 Kneeling Thoracic Rotation",
+    "new_value": "Half-Kneeling Thoracic Rotation",
+    "reason": "Spell out fraction '1/2' as 'Half-Kneeling' per NAMING.md §4 standard orthography."
+  },
+  {
+    "id": "260",
+    "language": "en",
+    "field": "name",
+    "old_value": "Full Sit Outs",
+    "new_value": "Full Sit-Out",
+    "reason": "Hyphenate compound noun and standardize plural to singular per NAMING.md §3 and §4."
+  },
+  {
+    "id": "260",
+    "language": "en",
+    "field": "description",
+    "old_value": "(A) Get in high plank position on your hands and toes.(B) Shift your weight to your left hand as you turn your body to the right; bend your right leg behind you and extend your right arm up. Return to the center and repeat on the opposite side. Continue, alternating sides.Make it easier:&nbsp;Don’t raise your arm after you bend your leg behind you.Make it harder:&nbsp;Balance with your arm and leg extended for two counts.",
+    "new_value": "(A) Get in high plank position on your hands and toes. (B) Shift your weight to your left hand as you turn your body to the right; bend your right leg behind you and extend your right arm up. Return to the center and repeat on the opposite side. Continue, alternating sides. Make it easier: Don’t raise your arm after you bend your leg behind you. Make it harder: Balance with your arm and leg extended for two counts.",
+    "reason": "Fix missing spacing between sentences and remove HTML non-breaking space entities (&nbsp;)."
+  },
+  {
+    "id": "260",
+    "language": "de",
+    "field": "name",
+    "old_value": "Full Sit Outs",
+    "new_value": "Sit-Out",
+    "reason": "Standardize to singular and common gym term Sit-Out."
+  },
+  {
+    "id": "260",
+    "language": "de",
+    "field": "description",
+    "old_value": "(A) Stellen Sie sich auf Ihre Hände und Zehen in eine hohe Plankenposition. (B) Verlagern Sie Ihr Gewicht auf Ihre linke Hand, während Sie Ihren Körper nach rechts drehen. beugen Sie Ihr rechtes Bein hinter sich und strecken Sie Ihren rechten Arm nach oben. Kehre in die Mitte zurück und wiederhole dies auf der anderen Seite. Fahren Sie mit abwechselnden Seiten fort. Machen Sie es einfacher: Heben Sie Ihren Arm nicht an, nachdem Sie Ihr Bein hinter sich gebeugt haben. Machen Sie es schwieriger: Halten Sie Arm und Bein für zwei Zählungen gestreckt.",
+    "new_value": "(A) Begib dich auf Händen und Zehenspitzen in eine hohe Liegestützposition (High Plank). (B) Verlagere dein Gewicht auf deine linke Hand, während du deinen Körper nach rechts drehst; winkle dein rechtes Bein hinter dir an und strecke deinen rechten Arm nach oben. Kehre in die Mitte zurück und wiederhole dies auf der anderen Seite. Fahre im Wechsel fort. Leichtere Variante: Hebe den Arm nicht an, nachdem du das Bein gebeugt hast. Schwerere Variante: Halte Arm und Bein für zwei Zählzeiten ausgestreckt.",
+    "reason": "Harmonize mixed grammatical address (Sie/du) to consistent informal 'du' per German catalog guidelines, fix capitalization ('beugen'), and replace literal calques ('hohe Plankenposition' -> 'hohe Liegestützposition (High Plank)')."
+  },
+  {
+    "id": "607",
+    "language": "en",
+    "field": "name",
+    "old_value": "Splinter Sit-ups",
+    "new_value": "Splinter Sit-up",
+    "reason": "Standardize plural noun to singular per NAMING.md §3."
+  },
+  {
+    "id": "607",
+    "language": "de",
+    "field": "name",
+    "old_value": "Splinter Sit-ups",
+    "new_value": "Splinter Sit-up",
+    "reason": "Standardize plural noun to singular per NAMING.md §3."
+  }
+]

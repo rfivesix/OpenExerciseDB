@@ -1,0 +1,14 @@
+batch_id: 120
+movement_pattern: spinal_flexion
+primary_muscle: hamstring_complex
+items:
+- id: '1394'
+  name: Sit & Reach
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - it
+  - ja

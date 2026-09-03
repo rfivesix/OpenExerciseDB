@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "185",
+    "name": "Decline Bench Press Barbell",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pecs_sternocostal"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "100"
+    }
+  },
+  {
+    "id": "186",
+    "name": "Decline Bench Press Dumbbell",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pecs_sternocostal"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "101"
+    }
+  },
+  {
+    "id": "1656",
+    "name": "Cable Chest Press - Decline",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pecs_sternocostal"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Shiladree",
+      "source_id": "2777"
+    }
+  },
+  {
+    "id": "1691",
+    "name": "Cable Fly Lower Chest",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pecs_sternocostal"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "daiben",
+      "source_id": "2810"
+    }
+  },
+  {
+    "id": "1831",
+    "name": "Hammerstrength Decline Chest Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pecs_sternocostal"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2966"
+    }
+  },
+  {
+    "id": "73",
+    "name": "Bench Press",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "sistab2",
+      "source_id": "192"
+    }
+  },
+  {
+    "id": "129",
+    "name": "Chest Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "1064"
+    }
+  },
+  {
+    "id": "135",
+    "name": "Butterfly",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "98"
+    }
+  },
+  {
+    "id": "137",
+    "name": "Butterfly Narrow Grip",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "99"
+    }
+  },
+  {
+    "id": "237",
+    "name": "Fly With Cable",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "122"
+    }
+  },
+  {
+    "id": "238",
+    "name": "Fly With Dumbbells",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "145"
+    }
+  },
+  {
+    "id": "314",
+    "name": "Isometric Wipers",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "cal.zabel",
+      "source_id": "338"
+    }
+  },
+  {
+    "id": "323",
+    "name": "Cable Cross-over",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "207"
+    }
+  },
+  {
+    "id": "379",
+    "name": "Leverage Machine Chest Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "tuckerm",
+      "source_id": "211"
+    }
+  },
+  {
+    "id": "445",
+    "name": "Pause Bench",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "Mens Fitness",
+      "source_id": "270"
+    }
+  },
+  {
+    "id": "583",
+    "name": "Side to Side Push Ups",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "nate303303",
+      "source_id": "302"
+    }
+  },
+  {
+    "id": "713",
+    "name": "Wall Pushup",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "Dexter",
+      "source_id": "203"
+    }
+  },
+  {
+    "id": "801",
+    "name": "Dumbbell Push-Up",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "896"
+    }
+  },
+  {
+    "id": "926",
+    "name": "Machine chest fly",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "novadani",
+      "source_id": "1205"
+    }
+  },
+  {
+    "id": "927",
+    "name": "Suspended crossess",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "suspension_trainer",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1206"
+    }
+  },
+  {
+    "id": "985",
+    "name": "Push-up rotations",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1559"
+    }
+  },
+  {
+    "id": "1084",
+    "name": "Dumbbell Floor Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2034"
+    }
+  },
+  {
+    "id": "1094",
+    "name": "Seated Bench Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "colundrum",
+      "source_id": "2052"
+    }
+  },
+  {
+    "id": "1111",
+    "name": "Push-Ups | Incline",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "anon1337",
+      "source_id": "2074"
+    }
+  },
+  {
+    "id": "1113",
+    "name": "Push-Ups | Parallettes",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "anon1337",
+      "source_id": "2076"
+    }
+  },
+  {
+    "id": "1209",
+    "name": "Shoulder width three-point push-up",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "lxmx",
+      "source_id": "2172"
+    }
+  },
+  {
+    "id": "1217",
+    "name": "Finger Pushup",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major",
+      "wrist_flexors"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2183"
+    }
+  },
+  {
+    "id": "1293",
+    "name": "One armed push-ups",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major",
+      "triceps_brachii"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "2259"
+    }
+  },
+  {
+    "id": "1353",
+    "name": "Dumbbell Hex Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Anastasious",
+      "source_id": "2323"
+    }
+  },
+  {
+    "id": "1436",
+    "name": "Pin Bench Press BB",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "M9",
+      "source_id": "2400"
+    }
+  },
+  {
+    "id": "1457",
+    "name": "Cable Press Around",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2422"
+    }
+  },
+  {
+    "id": "1461",
+    "name": "No Leg Drive Dumbbell Chest Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2424"
+    }
+  },
+  {
+    "id": "1469",
+    "name": "Bent over Cable Flye",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2432"
+    }
+  },
+  {
+    "id": "1484",
+    "name": "Omni Cable Cross-over",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Moffi",
+      "source_id": "2447"
+    }
+  },
+  {
+    "id": "1546",
+    "name": "Larsen Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2495"
+    }
+  },
+  {
+    "id": "1551",
+    "name": "Push-Up",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Settebello",
+      "source_id": "2498"
+    }
+  },
+  {
+    "id": "1554",
+    "name": "Clap Push-UP",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Settebello",
+      "source_id": "2501"
+    }
+  },
+  {
+    "id": "1686",
+    "name": "Glute Bridge Single-Arm Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "meldun",
+      "source_id": "2805"
+    }
+  },
+  {
+    "id": "1689",
+    "name": "Cable Fly Middle Chest",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "daiben",
+      "source_id": "2808"
+    }
+  },
+  {
+    "id": "1694",
+    "name": "Flat Machine Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "daiben",
+      "source_id": "2813"
+    }
+  },
+  {
+    "id": "1777",
+    "name": "Deficit Push ups",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Rottekongen",
+      "source_id": "2911"
+    }
+  },
+  {
+    "id": "1902",
+    "name": "Weighted push-ups",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "nishant0712",
+      "source_id": "3049"
+    }
+  },
+  {
+    "id": "1904",
+    "name": "Pec Deck",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "3051"
+    }
+  },
+  {
+    "id": "1918",
+    "name": "Legend Chest Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "machine",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "3065"
+    }
+  },
+  {
+    "id": "1922",
+    "name": "Seated Cable chest fly",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "cable",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "shushu",
+      "source_id": "3069"
+    }
+  },
+  {
+    "id": "1964",
+    "name": "Wide Push-Up",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Anon#2",
+      "source_id": "3119"
+    }
+  },
+  {
+    "id": "2496",
+    "name": "Wall Push-ups (Vasco L1)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "4978"
+    }
+  },
+  {
+    "id": "2497",
+    "name": "DB Floor Press (5kg Single Arm)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "4979"
+    }
+  },
+  {
+    "id": "2499",
+    "name": "Incline Push-ups (Vasco L2)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "4981"
+    }
+  },
+  {
+    "id": "2530",
+    "name": "Russian Push Ups",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "ege",
+      "source_id": "4999"
+    }
+  },
+  {
+    "id": "2536",
+    "name": "Bench Press Isometric",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "HexoctusEngineering",
+      "source_id": "5007"
+    }
+  },
+  {
+    "id": "1523",
+    "name": "Sled Push",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "sled",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "flanny",
+      "source_id": "2479"
+    }
+  },
+  {
+    "id": "1581",
+    "name": "Trap press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "serratus_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "CptnFatbeard",
+      "source_id": "2529"
+    }
+  },
+  {
+    "id": "1716",
+    "name": "Incline Shoulder Press Up",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "serratus_anterior"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "2839"
+    }
+  },
+  {
+    "id": "76",
+    "name": "Bench Press Narrow Grip",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "triceps_brachii"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "88"
+    }
+  },
+  {
+    "id": "386",
+    "name": "Diamond push ups",
+    "needs": [
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "notdefine",
+      "source_id": "1050"
+    }
+  },
+  {
+    "id": "598",
+    "name": "Smith Machine Close-grip Bench Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "smith_machine",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "tuckerm",
+      "source_id": "218"
+    }
+  },
+  {
+    "id": "1086",
+    "name": "Close-grip Press-ups",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "bodyweight",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "philip",
+      "source_id": "2036"
+    }
+  },
+  {
+    "id": "1228",
+    "name": "Dumbbell close grip bench press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Lynn_McIntyre",
+      "source_id": "2193"
+    }
+  },
+  {
+    "id": "1302",
+    "name": "JM Press",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "triceps_brachii"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Epiphany8424",
+      "source_id": "2265"
+    }
+  },
+  {
+    "id": "1467",
+    "name": "Incline Close Grip Barbell Bench Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "triceps_brachii",
+      "pecs_clavicular"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Expenses7000",
+      "source_id": "2430"
+    }
+  },
+  {
+    "id": "1498",
+    "name": "Elbows Tucked DB Bench Press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "dumbbell",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "JohnPreston",
+      "source_id": "2460"
+    }
+  },
+  {
+    "id": "1583",
+    "name": "Supine press",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "horizontal_push",
+    "equipment": "barbell",
+    "muscles": [
+      "triceps_brachii",
+      "pectoralis_major"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "CptnFatbeard",
+      "source_id": "2531"
+    }
+  },
+  {
+    "id": "1398",
+    "name": "Hamstring Chokes",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2365"
+    }
+  },
+  {
+    "id": "71",
+    "name": "Single Leg Extension",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "1057"
+    }
+  },
+  {
+    "id": "369",
+    "name": "Leg Extension",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "BFad07",
+      "source_id": "804"
+    }
+  },
+  {
+    "id": "909",
+    "name": "Reverse Nordic Curl",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "bodyweight",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "karly",
+      "source_id": "1188"
+    }
+  },
+  {
+    "id": "2494",
+    "name": "Band Terminal Knee extension",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "resistance_band",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Rehab Hero",
+      "source_id": "4976"
+    }
+  },
+  {
+    "id": "2535",
+    "name": "Leg Extension Isometric",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_extension",
+    "equipment": "machine",
+    "muscles": [
+      "quadriceps"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "HexoctusEngineering",
+      "source_id": "5006"
+    }
+  },
+  {
+    "id": "364",
+    "name": "Leg Curl",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "BFad07",
+      "source_id": "792"
+    }
+  },
+  {
+    "id": "365",
+    "name": "Leg Curls (laying)",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "154"
+    }
+  },
+  {
+    "id": "366",
+    "name": "Leg Curls (sitting)",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "117"
+    }
+  },
+  {
+    "id": "367",
+    "name": "Leg Curls (standing)",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "118"
+    }
+  },
+  {
+    "id": "910",
+    "name": "Nordic Curl",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "karly",
+      "source_id": "1189"
+    }
+  },
+  {
+    "id": "1294",
+    "name": "Single-leg hamstring curl",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "2260"
+    }
+  },
+  {
+    "id": "1391",
+    "name": "Elephant Walks",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "captive0592",
+      "source_id": "2358"
+    }
+  },
+  {
+    "id": "1603",
+    "name": "Leg curl with elastic",
+    "needs": [
+      "de",
+      "fr",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "resistance_band",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "clafal",
+      "source_id": "2574"
+    }
+  },
+  {
+    "id": "1833",
+    "name": "Floor Glider Hamstring Curls",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "2968"
+    }
+  },
+  {
+    "id": "2478",
+    "name": "Glute-Ham Raise",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "4955"
+    }
+  },
+  {
+    "id": "2495",
+    "name": "Machine Leg Flexion",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "knee_flexion",
+    "equipment": "machine",
+    "muscles": [
+      "hamstring_complex"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Me",
+      "source_id": "4977"
+    }
+  },
+  {
+    "id": "2526",
+    "name": "Long Lunge Pulse Stretch",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "lunge",
+    "equipment": "bodyweight",
+    "muscles": [
+      "hip_flexors",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "license_author": "Croak6728",
+      "source_id": "4995"
+    }
+  },
+  {
+    "id": "205",
+    "name": "Dumbbell Lunges Standing",
+    "needs": [
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "lunge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "112"
+    }
+  },
+  {
+    "id": "206",
+    "name": "Dumbbell Lunges Walking",
+    "needs": [
+      "it",
+      "ja"
+    ],
+    "pattern": "lunge",
+    "equipment": "dumbbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-3.0",
+      "license_author": "wger.de",
+      "source_id": "113"
+    }
+  },
+  {
+    "id": "722",
+    "name": "Weighted Step-ups",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "lunge",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC0-1.0",
+      "license_author": "jigglychipmunk",
+      "source_id": "321"
+    }
+  },
+  {
+    "id": "802",
+    "name": "Barbell Lunges Walking",
+    "needs": [
+      "de",
+      "fr",
+      "it",
+      "ja"
+    ],
+    "pattern": "lunge",
+    "equipment": "barbell",
+    "muscles": [
+      "quadriceps",
+      "gluteus_maximus"
+    ],
+    "upstream": {
+      "license": "CC-BY-SA-4.0",
+      "source_id": "1053"
+    }
+  }
+]

@@ -1,0 +1,66 @@
+batch_id: 30
+movement_pattern: knee_extension
+items:
+- id: '909'
+  name: Reverse Nordic Curl
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: knee_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1398'
+  name: Hamstring Chokes
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: knee_extension
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '71'
+  name: Single Leg Extension
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_extension
+  laterality: unilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '369'
+  name: Leg Extension
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_extension
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2494'
+  name: Band Terminal Knee extension
+  primary_equipment: resistance_band
+  setup: []
+  movement_pattern: knee_extension
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2535'
+  name: Leg Extension Isometric
+  primary_equipment: machine
+  setup: []
+  movement_pattern: knee_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja

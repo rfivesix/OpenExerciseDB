@@ -1,0 +1,420 @@
+[
+  {
+    "id": "1020",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Pistol squats right",
+    "en_desc": "Stand on one leg, with your other leg straight and slightly forward.\nBend one knee slowly, descending into a squat and keeping your back and your other leg straight.\nSlowly raise yourself from the squat, straightening the bent knee and keeping the other leg straight.\nRepeat.",
+    "de_name": "Einbeinige Kniebeugen rechts",
+    "de_desc": "Stelle Dich auf ein Bein, wobei das andere Bein gerade und leicht nach vorne zeigt.\nBeuge langsam ein Knie, gehen in die Hocke und halte den Rücken und das andere Bein gerade.\nGehe langsam aus der Hocke, strecke das gebeugte Knie und halte das andere Bein gerade.\nWiederhole"
+  },
+  {
+    "id": "1195",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Side Slides + Squats",
+    "en_desc": "With feet a little wider than shoulder-width apart and staying low to mimic a defensive position, you should step with their lead leg and push off with their plant leg.\nAfter three slides, rotate your body for 180 degree on the guiding (/outer) leg and do a squat. Continue.",
+    "de_name": "Seitliche Slides + Kniebeugen",
+    "de_desc": "Mit den Füßen etwas weiter als schulterbreit auseinander und in einer tiefen, defensiven Haltung trittst du mit dem führenden Bein zur Seite und stößt dich mit dem Standbein ab.\nNach drei Slides drehst du deinen Körper um 180 Grad auf dem führenden (äußeren) Bein und machst eine Kniebeuge. Fahre fort."
+  },
+  {
+    "id": "1201",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Dragon squat",
+    "en_desc": "Start standing with your feet hip-width apart. Cross your right foot behind you to the left corner and back of the room while bending both knees. Return and repeat, alternating sides. Keep your hips and shoulders forward as you cross your feet and bend your knees.",
+    "de_name": "Dragon Squat",
+    "de_desc": "Beginne im Stand mit hüftbreit aufgestellten Füßen. Kreuze deinen rechten Fuß hinter dir zur linken hinteren Ecke des Raumes, während du beide Knie beugst. Kehre zurück und wiederhole die Bewegung im Wechsel der Seiten. Halte Hüfte und Schultern nach vorne gerichtet, während du die Füße kreuzt und die Knie beugst."
+  },
+  {
+    "id": "1208",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Prisoner Squat",
+    "en_desc": "Stand upright with your chest slightly raised, your feet hip-width apart and your toes pointing straight ahead.\nBring your hands to the back of your head with your fingers slightly interlaced and your elbows pointing to the side. Push your hips back and bend your knees, keeping your upper body as upright as possible.&nbsp;\nPush your knees outwards, they must never point towards each other. If your upper body moves slightly forward, make sure that it does not bend. Always keep your elbows level with your ears by tensing the muscles between your shoulder blades. If you are flexible enough, you can sink down until your buttocks touch your calves.\nHowever, make sure that you do not bend your spine.&nbsp;\nBefore this happens, reverse the movement and use your heels and glutes to push yourself upwards with so much momentum that your feet lift off briefly and you do a little hop.&nbsp;\nIf necessary, correct the position of your feet, arms and upper body before you move on to the next repetition.\nTranslated with www.DeepL.com/Translator (free version)",
+    "de_name": "Prisoner Squat",
+    "de_desc": "Stell dich mit leicht angehobenem Brustkorb aufrecht hin, deine Füße sind hüftbreit voneinander entfernt, die Zehen zeigen gerade nach vorne. Nimm deine Hände mit leicht verschränkten Fingern an den Hinterkopf, die Ellbogen zeigen zur Seite. Schiebe deine Hüfte nach hinten und beuge deine Knie, der Oberkörper bleibt dabei so aufrecht wie möglich. Drück deine Knie nach außen, sie dürfen auf keinen Fall zueinanderzeigen. Wenn sich dein Oberkörper leicht nach vorne bewegt, achte darauf, dass er sich nicht krümmt. Halte die Ellbogen stets auf Höhe der Ohren, indem du die Muskeln zwischen deinen Schulterblättern anspannst. Wenn du beweglich genug bist, kannst du so weit nach unten sinken, bis dein Gesäß deine Waden berührt. Achte dabei aber darauf, dass du deine Wirbelsäule nicht krümmst. Bevor das passiert, kehrst du die Bewegung um und drückst dich aus deinen Fersen und Gesäßmuskeln mit so viel Schwung nach oben, dass deine Füße kurz abheben und du einen kleinen Hüpfer machst. Korrigiere gegebenenfalls die Position der Füße, Arme und des Oberkörpers, bevor du die nächste Wiederholung anschließt."
+  },
+  {
+    "id": "124",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "weight_plate",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Braced Squat",
+    "en_desc": "Stand with feet slightly wider than shoulder-width apart, while standing as tall as you can.\nGrab a weight plate and hold it out in front of your body with arms straight out. Keep your core tight and stand with a natural arch in your back.\nNow, push hips back and bend knees down into a squat as far as you can. Hold for a few moments and bring yourself back up to the starting position.",
+    "de_name": "Goblet-Kniebeuge mit Scheibe",
+    "de_desc": "Stelle dich mit den Füßen etwas weiter als schulterbreit hin und richte dich dabei so groß wie möglich auf.\nNimm eine Gewichtsscheibe und halte sie mit gestreckten Armen vor deinem Körper. Halte deinen Rumpf angespannt und stehe mit einer natürlichen Wölbung im Rücken.\nSchiebe nun die Hüfte nach hinten und beuge die Knie so tief wie möglich in eine Kniebeuge. Halte einige Augenblicke und richte dich dann wieder in die Ausgangsposition auf."
+  },
+  {
+    "id": "1312",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Bodyweight Squat",
+    "en_desc": "Squat is a type of bodyweight exercise. It is one of the most popular exercises for strength and muscle growth. Squat is particularly effective for focusing on the muscles of the leg and hips.\nSquat are an easy exercise for beginners to do. It can help strengthen leg muscles, tighten hip muscles and burn calories to lose weight.\nIt tightens the butt and legs. Squats are very effective for firming and strengthening your legs by acting on the gluteus,hip flexors, quadriceps, hamstrings and inner thigh muscles. Also, bodyweight squats can help shape your glutes and butt.",
+    "de_name": "Kniebeuge mit Körpergewicht",
+    "de_desc": "Die Kniebeuge ist eine Art Körpergewichtsübung. Sie ist eine der beliebtesten Übungen für Kraft und Muskelwachstum. Die Kniebeuge ist besonders wirksam, um gezielt die Muskeln von Bein und Hüfte zu beanspruchen.\nKniebeugen sind eine einfache Übung für Anfänger. Sie können dabei helfen, die Beinmuskulatur zu kräftigen, die Hüftmuskulatur zu straffen und Kalorien zu verbrennen, um Gewicht zu verlieren.\nSie straffen Gesäß und Beine. Kniebeugen sind sehr wirksam, um deine Beine zu festigen und zu kräftigen, indem sie auf die Gesäßmuskulatur, die Hüftbeuger, die vordere Oberschenkelmuskulatur, die hintere Oberschenkelmuskulatur und die Muskeln der Oberschenkelinnenseite wirken. Außerdem können Kniebeugen mit Körpergewicht dabei helfen, deine Gesäßmuskulatur und dein Gesäß zu formen."
+  },
+  {
+    "id": "1373",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "plyo_box"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Box Jump",
+    "en_desc": "Jump from a standing position onto the box, stretch your body, then step down again (do not jump)",
+    "de_name": "Boxsprünge",
+    "de_desc": "Sprung aus dem Stand auf die Box, Körperstreckung durchführen, dann wieder heruntersteigen (nicht springen)"
+  },
+  {
+    "id": "1407",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Cossack squat",
+    "en_desc": "The Cossack Squat is a multi-joint exercise that works mainly on the legs and buttocks, but also involves stabilizing muscles. It is an excellent exercise for improving strength, mobility and stability in a functional way.",
+    "de_name": "Kosaken-Kniebeuge",
+    "de_desc": "Die Kosaken-Kniebeuge ist eine mehrgelenkige Übung, die hauptsächlich die Beine und das Gesäß beansprucht, aber auch die stabilisierende Muskulatur einbezieht. Sie ist eine hervorragende Übung, um Kraft, Mobilität und Stabilität auf funktionelle Weise zu verbessern."
+  },
+  {
+    "id": "1408",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "wall"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Wall-sit",
+    "en_desc": "The Wall Sit (or wall chair) is an isometric exercise that mainly involves the leg muscles, improving muscular endurance and stability. Here are the main and secondary muscles activated during the exercise.",
+    "de_name": "Wandsitz",
+    "de_desc": "Der Wandsitz (oder Wandstuhl) ist eine isometrische Übung, die vor allem die Beinmuskulatur beansprucht und die muskuläre Ausdauer sowie die Stabilität verbessert. Hier sind die wichtigsten und sekundären Muskeln, die während der Übung aktiviert werden."
+  },
+  {
+    "id": "1414",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Hack Squats",
+    "en_desc": "Hack squats target the lower body and are performed on a hack squat machine or with a barbell. For the machine variation, position yourself on the platform with your shoulders under the pads and feet slightly forward. Push through your heels to lift the weight, then bend your knees to lower the platform in a controlled motion until your thighs are parallel to the ground. Push back up to the starting position. For the barbell variation, hold the bar behind your legs with your arms extended and perform a squat-like motion.",
+    "de_name": "Hack Squats",
+    "de_desc": "Hack Squats beanspruchen den Unterkörper und werden an einer Hackenschmidt-Maschine oder mit einer Langhantel ausgeführt. Für die Maschinen-Variante positionierst du dich auf der Plattform mit den Schultern unter den Polstern und den Füßen leicht nach vorne. Drücke durch die Fersen, um das Gewicht anzuheben, und beuge dann die Knie, um die Plattform in einer kontrollierten Bewegung abzusenken, bis deine Oberschenkel parallel zum Boden sind. Drücke dich zurück in die Startposition hoch. Für die Langhantel-Variante hältst du die Stange mit gestreckten Armen hinter deinen Beinen und führst eine kniebeugenähnliche Bewegung aus."
+  },
+  {
+    "id": "1437",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "power_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Pin Squat",
+    "en_desc": "Set security pins to about the height of your sticking point\nLower the bar, rest on the pins for 2s keeping tension\nStand up with maximum force",
+    "de_name": "Pin Squat",
+    "de_desc": "Stelle die Sicherheitsablagen ungefähr auf die Höhe deines Sticking Points ein\nSenke die Stange ab, lasse sie 2 s auf den Ablagen ruhen und halte dabei die Spannung\nStehe mit maximaler Kraft auf"
+  },
+  {
+    "id": "1464",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Pause Hack Squats",
+    "en_desc": "Hack Squats but with a 1-2s pause at the bottom of the movement. This makes sure that there is no more elastic energy stored in the muscles.",
+    "de_name": "Hack Squats mit Pause",
+    "de_desc": "Hack Squats, aber mit einer Pause von 1-2 Sekunden am unteren Ende der Bewegung. Dadurch wird sichergestellt, dass keine elastische Energie mehr in den Muskeln gespeichert ist."
+  },
+  {
+    "id": "1527",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Pendulum Squat",
+    "en_desc": "Place your feet in the middle of the plate at about shoulder width. Tense your torso. Keep your neck relaxed.",
+    "de_name": "Pendelkniebeube",
+    "de_desc": "Platziere die Füße in der Mitte der Platte und ca. schulterbreit. Spanne den Bauch an. Entspanne den Nacken während der gesamten Übung."
+  },
+  {
+    "id": "1640",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Front Squat",
+    "en_desc": "This exercise involves holding a dumbbell in each hand at shoulder height and performing a squat. It targets the lower body muscles, including the quads, hamstrings, and glutes, while also engaging the core and upper body.",
+    "de_name": "Frontkniebeuge mit Kurzhanteln",
+    "de_desc": "Bei dieser Übung hältst du in jeder Hand eine Kurzhantel auf Schulterhöhe und führst eine Kniebeuge aus. Sie trainiert die Muskulatur des Unterkörpers, einschließlich der vorderen Oberschenkelmuskulatur (Quadrizeps), der hinteren Oberschenkelmuskulatur und der Gesäßmuskulatur, und beansprucht zugleich den Rumpf und den Oberkörper."
+  },
+  {
+    "id": "1653",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "alternating",
+    "en_name": "Dumbbell Side Squat",
+    "en_desc": "This exercise involves holding a dumbbell in one hand and performing a squat while stepping to the side. It targets the legs, glutes, and core muscles.",
+    "de_name": "Seitliche Kniebeuge mit Kurzhantel",
+    "de_desc": "Bei dieser Übung hältst du eine Kurzhantel in einer Hand und führst eine Kniebeuge aus, während du zur Seite trittst. Sie trainiert die Beine, die Gesäßmuskulatur und die Rumpfmuskulatur."
+  },
+  {
+    "id": "1733",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Isometric Squat to Failure",
+    "en_desc": "sometric Squat to Failure: A Strength Training Technique\nDefinition\nThe isometric squat to failure is a variation of the squat exercise where you hold a static squat position at a specific angle, maintaining the position until your muscles can no longer sustain the contraction.",
+    "de_name": "Isometrische Kniebeuge bis zum Muskelversagen",
+    "de_desc": "Isometrische Kniebeuge bis zum Muskelversagen: eine Krafttrainingstechnik\nDefinition\nDie isometrische Kniebeuge bis zum Muskelversagen ist eine Variante der Kniebeuge, bei der du eine statische Hocke in einem bestimmten Winkel hältst und die Position so lange beibehältst, bis deine Muskeln die Kontraktion nicht mehr aufrechterhalten können."
+  },
+  {
+    "id": "1747",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "smith_machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Smith machine squat",
+    "en_desc": "Technique and Execution\nThe Smith machine squat is a variation of the traditional barbell squat that uses a guided, fixed-path barbell. Here's a detailed breakdown of the proper technique:\nStarting Position\nFoot Placement: Position feet slightly forward of the bar, about shoulder-width apart\nBar Position: Rest the bar on your upper trapezius/shoulders, similar to a traditional back squat\nStance: Feet can be slightly angled outward for natural hip rotation\nSquat Movement\nUnrack the bar by rotating it to release from the safety hooks\nSlowly lower your body by bending knees and hips\nDescend until thighs are parallel to the ground (or slightly below)\nPause briefly at the bottom of the movement\nDrive through your heels to return to the starting position\nBenefits and Considerations\nAdvantages\nReduced Balance Requirements: Fixed bar path makes it easier for beginners\nControlled Movement: Less risk of improper form compared to free weight squats\nIsolation: Allows focused leg muscle development",
+    "de_name": "Kniebeuge in der Multipresse",
+    "de_desc": "Technik und Ausführung\nDie Kniebeuge in der Multipresse ist eine Variante der klassischen Langhantel-Kniebeuge, bei der eine geführte Langhantel mit festgelegter Bewegungsbahn verwendet wird. Hier eine ausführliche Aufschlüsselung der korrekten Technik:\nAusgangsposition\nFußstellung: Positioniere die Füße leicht vor der Stange, etwa schulterbreit\nStangenposition: Lege die Stange auf deinen oberen Trapezmuskel/deine Schultern, ähnlich wie bei einer klassischen Kniebeuge mit der Stange im Nacken\nStand: Die Füße können für eine natürliche Hüftrotation leicht nach außen gedreht sein\nKniebeugenbewegung\nHake die Stange aus, indem du sie drehst, um sie aus den Sicherheitshaken zu lösen\nSenke deinen Körper langsam ab, indem du Knie und Hüften beugst\nGehe so tief, bis deine Oberschenkel parallel zum Boden sind (oder etwas darunter)\nHalte am tiefsten Punkt der Bewegung kurz inne\nDrücke dich über deine Fersen nach oben, um in die Ausgangsposition zurückzukehren\nVorteile und Hinweise\nVorteile\nGeringere Anforderungen an das Gleichgewicht: Die feste Bewegungsbahn der Stange macht es Anfängern leichter\nKontrollierte Bewegung: Geringeres Risiko einer fehlerhaften Ausführung im Vergleich zu Kniebeugen mit freien Gewichten\nIsolation: Ermöglicht eine gezielte Entwicklung der Beinmuskulatur"
+  },
+  {
+    "id": "1801",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Barbell Full Squat",
+    "en_desc": "The barbell full squat is a&nbsp;compound exercise&nbsp;that&nbsp;targets multiple muscle groups&nbsp;in the lower body, including the quadriceps, hamstrings, and glutes.\nProper form is crucial for maximizing results and preventing injuries during the barbell full squat. This includes maintaining a shoulder-width stance, creating whole body tension, controlling your descent, and maintaining proper depth and knee positioning.\nAssistance moves such as the front squat, goblet squat, split squat, and Bulgarian split squat can help improve your performance in the barbell full squat by targeting specific muscle groups and improving overall technique.\nTo&nbsp;achieve new personal records&nbsp;in your back squat, gradually increase weight over time, vary rep ranges and sets to stimulate muscle growth, and&nbsp;prioritize rest and recovery&nbsp;between training sessions.",
+    "de_name": "Tiefe Kniebeuge mit Langhantel",
+    "de_desc": "Die tiefe Kniebeuge mit Langhantel ist eine Grundübung, die mehrere Muskelgruppen im Unterkörper anspricht, darunter die vordere Oberschenkelmuskulatur, die hintere Oberschenkelmuskulatur und die Gesäßmuskulatur.\nEine korrekte Ausführung ist entscheidend, um die Ergebnisse zu maximieren und Verletzungen während der tiefen Kniebeuge mit Langhantel zu vermeiden. Dazu gehören ein schulterbreiter Stand, eine Ganzkörperspannung, ein kontrolliertes Absenken sowie die richtige Tiefe und Knieposition.\nHilfsübungen wie die Frontkniebeuge, die Goblet-Kniebeuge, die Split-Kniebeuge und die bulgarische Split-Kniebeuge können deine Leistung in der tiefen Kniebeuge mit Langhantel verbessern, indem sie bestimmte Muskelgruppen ansprechen und die Gesamttechnik verbessern.\nUm neue persönliche Rekorde in der Kniebeuge zu erreichen, steigere das Gewicht nach und nach, variiere die Wiederholungs- und Satzbereiche, um das Muskelwachstum zu stimulieren, und priorisiere Ruhe und Erholung zwischen den Trainingseinheiten."
+  },
+  {
+    "id": "1803",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "trap_bar",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Trap Bar Squat",
+    "en_desc": "A combination of squat and deadlift principles with the use of a hex/trap bar, easing stress on the lower back by better centering the weight.",
+    "de_name": "Trap-Bar-Kniebeuge",
+    "de_desc": "Eine Kombination aus den Prinzipien von Kniebeuge und Kreuzheben unter Verwendung einer Hex-/Trap-Bar, die den unteren Rücken entlastet, indem das Gewicht besser zentriert wird."
+  },
+  {
+    "id": "1935",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Belt Squat",
+    "en_desc": "Belt Squat: a squat variation done with a belt attached to a loading machine or platform so the weight is supported at the hips instead of on the spine. It mainly trains the quads and glutes, with much less lower-back fatigue than a barbell squat. Use a full range of motion, keep the torso upright, and drive through the mid-foot.",
+    "de_name": "Belt Squat",
+    "de_desc": "Belt Squat: eine Kniebeuge-Variante, die mit einem Gürtel ausgeführt wird, der an einer Lademaschine oder Plattform befestigt ist, sodass das Gewicht an der Hüfte statt auf der Wirbelsäule getragen wird. Sie trainiert vor allem die vordere Oberschenkelmuskulatur und die Gesäßmuskulatur, mit deutlich weniger Belastung für den unteren Rücken als eine Langhantel-Kniebeuge. Nutze den vollen Bewegungsumfang, halte den Oberkörper aufrecht und drücke über den Mittelfuß."
+  },
+  {
+    "id": "1948",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [
+      "plyo_box"
+    ],
+    "laterality": "unilateral",
+    "en_name": "1 Leg Box Squat",
+    "en_desc": "This exercise requires a sturdy box or a chair. Simple stand ~6 inches in front of it and balance yourself on one leg. From here, begin squatting down in a smooth controlled motion while keeping your other leg straight out in front of you for balance. Slowly sit down on the box, pause for a 1 count and push back up with the working leg, while never letting your other leg touch the ground.",
+    "de_name": "Einbeinige Box-Kniebeuge",
+    "de_desc": "Für diese Übung benötigst du eine stabile Box oder einen Stuhl. Stelle dich einfach etwa 15 cm davor und balanciere auf einem Bein. Beginne von hier aus in einer gleichmäßigen, kontrollierten Bewegung herunterzugehen, während du dein anderes Bein zur Balance gerade vor dir ausstreckst. Setze dich langsam auf die Box, halte eine Sekunde inne und drücke dich mit dem arbeitenden Bein wieder hoch, ohne dass dein anderes Bein jemals den Boden berührt."
+  },
+  {
+    "id": "1963",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Slow Squat",
+    "en_desc": "​A tempo-based squat that uses controlled movement to increase muscle tension and improve lower-body stability.\n\n​Lower: Descend slowly for 3 seconds.\n​Pause: Hold at the bottom for 1 second.\n​Stand: Return to the starting position at a normal pace.\nForm: Keep your chest up and weight in your heels.",
+    "de_name": "Langsame Kniebeuge",
+    "de_desc": "Eine tempobasierte Kniebeuge, die durch eine kontrollierte Bewegung die Muskelspannung erhöht und die Stabilität des Unterkörpers verbessert.\n\nAbsenken: Senke dich 3 Sekunden lang langsam ab.\nPause: Halte unten 1 Sekunde lang inne.\nAufstehen: Kehre in normalem Tempo in die Ausgangsposition zurück.\nHaltung: Halte deine Brust aufrecht und das Gewicht auf den Fersen."
+  },
+  {
+    "id": "203",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "dumbbell",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Dumbbell Goblet Squat",
+    "en_desc": "Grasp dumbbell with both hands at the sides of the upper plates. Hold dumbbell in front of chest, close to torso. Place feet about shoulderwide apart, keep knees slightly bent.\nSquat down until thighs are parallel to floor. Keep back straight, bend and move hips backward to keep knees above feet. Return, keep knees slightly flexed. Repeat.\nKeep bodyweight on heels and look ahead or slightly above to keep back straight.",
+    "de_name": "Goblet Squat mit Kurzhantel",
+    "de_desc": "Greife die Kurzhantel mit beiden Händen an den Seiten der oberen Gewichtsscheiben. Halte die Kurzhantel vor der Brust, nah am Oberkörper. Stelle die Füße etwa schulterbreit auseinander und halte die Knie leicht gebeugt.\nGehe in die Hocke, bis die Oberschenkel parallel zum Boden sind. Halte den Rücken gerade, beuge dich und schiebe die Hüfte nach hinten, damit die Knie über den Füßen bleiben. Komme wieder hoch und halte die Knie leicht gebeugt. Wiederhole die Bewegung.\nVerlagere dein Körpergewicht auf die Fersen und blicke geradeaus oder leicht nach oben, um den Rücken gerade zu halten."
+  },
+  {
+    "id": "257",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Front Squats",
+    "en_desc": "This variation of the squat trains the hamstrings and gluteus maximus. It also works the back extensors and abductors.",
+    "de_name": "Front Kniebeuge",
+    "de_desc": "Bei dieser Variante des Kniebeugens werden der Beinbizeps und der Große Gesäßmuskel trainiert.\nDaneben werden die Rückenstrecker und die Abduktoren beansprucht."
+  },
+  {
+    "id": "371",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Leg Press",
+    "en_desc": "The leg press is a weight training exercise in which the individual pushes a weight or resistance away from them using their legs.",
+    "de_name": "Beinpresse",
+    "de_desc": "In die Maschine setzten und die Füße auf die Auflage stellen, der Abstand, etwas mehr als schulterbreit. Die Füße sind etwas nach außen gedreht.\nDas Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Sofort wird das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!"
+  },
+  {
+    "id": "374",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "machine",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Leg Presses (wide)",
+    "en_desc": "Sit on the machine and put your feet on the platform, a bit more than shoulder wide. The feet are turned outwards by a few degrees.\nLower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.",
+    "de_name": "Beinpresse (weit)",
+    "de_desc": "Setze dich an die Maschine und stelle die Füße etwas mehr als schulterbreit auf die Plattform. Die Füße sind ein paar Grad nach außen gedreht.\nSenke das Gewicht so weit ab, dass die Knie einen rechten Winkel bilden. Drücke die Plattform sofort wieder nach oben, ohne Pause. In der unteren Position zeigen die Knie etwas nach außen, und die Bewegung sollte stets flüssig sein."
+  },
+  {
+    "id": "397",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "plyo_box",
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Low Box Squat - Wide Stance",
+    "en_desc": "Unrack the bar and set your stance wide, beyond your hips.&nbsp; Push your hips back and sit down to a box that takes you below parallel.&nbsp; Sit completely down, do not touch and go.&nbsp; Then explosively stand up.&nbsp; Stay tight in your upper back and torso throughout the movement.",
+    "de_name": "Box Squat mit weitem Stand",
+    "de_desc": "Nimm die Stange aus der Ablage und nimm einen weiten Stand ein, breiter als deine Hüfte. Schiebe die Hüfte nach hinten und setze dich auf eine Box, die dich unter die Parallele bringt. Setze dich vollständig hin, kein Touch-and-go. Stehe dann explosiv auf. Bleibe während der gesamten Bewegung im oberen Rücken und Oberkörper fest angespannt."
+  },
+  {
+    "id": "441",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Overhead Squat",
+    "en_desc": "The barbell is held overhead in a wide-arm&nbsp;snatch&nbsp;grip; however, it is also possible to use a closer grip if balance allows.",
+    "de_name": "Überkopfkniebeuge",
+    "de_desc": "Die Langhantel wird über dem Kopf im breiten Reißgriff gehalten; es ist jedoch auch möglich, einen engeren Griff zu verwenden, sofern es das Gleichgewicht zulässt."
+  },
+  {
+    "id": "456",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "unilateral",
+    "en_name": "Pistol Squat",
+    "en_desc": "Stand with feet hip-width apart, toes pointed forward, and chest tall.\nExtend your leg straight out; extend both arms in front of you, at shoulder level. Brace your core and look straight ahead.\nSlowly squat down.\n(optional) pause at the bottom.\n\nKeep your (free) leg and arms extended for the whole duration.",
+    "de_name": "Einbeinige Kniebeuge",
+    "de_desc": "Ein Bein nach hinten auf einem Stuhl oder Bank ablegen, mit dem anderen Bein eine Kniebeuge machen. Gewicht optional mit Langhantel auf Rücken, Kurzhantel in den Armen oder Kugelhantel in Brusthöhe."
+  },
+  {
+    "id": "614",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Squat Jumps",
+    "en_desc": "Jump wide, then close",
+    "de_name": "Tiefe Hocksprünge",
+    "de_desc": "5 Sekunden parallel zum Boden mit den Oberschenkeln. Dann hoch springen und in Anfangsphase begeben. Arme verschränkt hinter dem Kopf die ganze Zeit."
+  },
+  {
+    "id": "615",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Squats",
+    "en_desc": "Place a barbell in a rack just below shoulder-height. Dip under the bar to put it behind the neck across the top of the back, and grip the bar with the hands wider than shoulder-width apart. Lift the chest up and squeeze the shoulder blades together to keep the straight back throughout the entire movement. Stand up to bring the bar off the rack and step backwards, then place the feet so that they are a little wider than shoulder-width apart. Sit back into hips and keep the back straight and the chest up, squatting down so the hips are below the knees. From the bottom of the squat, press feet into the ground and push hips forward to return to the top of the standing position.",
+    "de_name": "Kniebeuge",
+    "de_desc": "Stelle die Halterung der Langhantel auf so eine Höhe ein, dass du sie bequem raus- und wieder reinbringen kannst. Bereite dich vor:\n\ndie Stange ist etwas tiefer als Schulterhöhe\ndie Füße sind ziemlich auseinander und zeigen leicht nach außen\nder Kopf ist im Nacken und schaut nach vorne/oben.\ndie Brust wird nach außen gebracht\n\nGehe nun langsam runter, bis der Oberschenkel einen rechten Winkel bildet, nicht tiefer. Die Knie zeigen leicht nach außen, dein Gesäß nach hinten. Mache eine kleine Pause und gehe mit so viel Energie wie du aufbringen kannst, wieder nach oben. Nach 2 Sekunden Pause gehe wieder runter."
+  },
+  {
+    "id": "616",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "bodyweight",
+    "setup": [],
+    "laterality": "bilateral",
+    "en_name": "Squat Thrust",
+    "en_desc": "The burpee, or squat thrust, is a full body exercise used in strength training and as an aerobic exercise. The basic movement is performed in four steps and known as a four-count burpee: Begin in a standing position. Move into a squat position with your hands on the ground. (count 1) Kick your feet back into a plank position, while keeping your arms extended. (count 2) Immediately return your feet into squat position. (count 3) Stand up from the squat position (count 4)",
+    "de_name": "Hocksprung",
+    "de_desc": "Ausgangsposition:\nBeginne in der hohen Plank-Position:Rücken, Arme und Beine sind gestreckt, die Hände sind schulterbreit auseinander.\nSchritte:\n\nSpringe mit den Füßen zwischen den Armen nach vorne und halte den Rücken flach.\nLasse die Hände auf dem Boden und springe mit den Beinen zurück in die hohe Plank-Position.\nWiederhole die Übung."
+  },
+  {
+    "id": "977",
+    "pattern": "squat",
+    "primary_group": "glutes+quads",
+    "primary_equipment": "barbell",
+    "setup": [
+      "plyo_box",
+      "squat_rack"
+    ],
+    "laterality": "bilateral",
+    "en_name": "Box squat",
+    "en_desc": "Set up the box: Position the box behind you, about 3 feet from a squat rack if you're using a barbell. Choose a height that allows you to squat down and gently tap your glutes on the box with your back straight.\nStand with proper form: Stand with your feet shoulder-width apart, toes pointed slightly outward. Engage your core and keep your back neutral. If using a barbell, rack it at shoulder height.\nLower down: Sit back as if going to sit on a chair, bending your knees and lowering your hips towards the box. Keep your core tight and back straight throughout the movement.\nControlled descent: Descend in a controlled manner until your glutes gently touch the box. Don't plop down.\nPause and press up: Briefly pause at the bottom with your back straight and core engaged. Then, press through your heels to drive yourself back up to the starting position.\n\nImprovements in coordination, balance and endurance, toning of the leg and buttock muscles and an overall increase in bone density eliminating the risk of osteoporosis.",
+    "de_name": "Box Squat",
+    "de_desc": "Box aufstellen: Positioniere die Box hinter dir, etwa 90 cm von einem Kniebeugenständer entfernt, falls du eine Langhantel verwendest. Wähle eine Höhe, bei der du dich absenken und mit geradem Rücken die Gesäßmuskulatur sanft auf der Box auftippen kannst.\nMit korrekter Haltung stehen: Stehe mit schulterbreit aufgestellten Füßen, die Fußspitzen leicht nach außen gedreht. Spanne deinen Rumpf an und halte den Rücken neutral. Wenn du eine Langhantel verwendest, lege sie auf Schulterhöhe ab.\nAbsenken: Setze dich nach hinten, als würdest du dich auf einen Stuhl setzen, beuge die Knie und senke die Hüfte zur Box ab. Halte deinen Rumpf angespannt und den Rücken während der gesamten Bewegung gerade.\nKontrolliertes Absenken: Senke dich kontrolliert ab, bis deine Gesäßmuskulatur die Box sanft berührt. Lass dich nicht fallen.\nInnehalten und hochdrücken: Halte unten kurz inne, mit geradem Rücken und angespanntem Rumpf. Drücke dich dann über die Fersen wieder in die Ausgangsposition hoch.\n\nVerbesserungen bei Koordination, Gleichgewicht und Ausdauer, Straffung der Bein- und Gesäßmuskulatur sowie eine allgemeine Steigerung der Knochendichte, die das Risiko einer Osteoporose verringert."
+  }
+]

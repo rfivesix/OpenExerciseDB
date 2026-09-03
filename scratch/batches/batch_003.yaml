@@ -1,0 +1,499 @@
+batch_id: 3
+movement_pattern: horizontal_push
+primary_muscle: pectoralis_major
+items:
+- id: '323'
+  name: Cable Cross-over
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1551'
+  name: Push-Up
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2536'
+  name: Bench Press Isometric
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '801'
+  name: Dumbbell Push-Up
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '713'
+  name: Wall Pushup
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '314'
+  name: Isometric Wipers
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1209'
+  name: Shoulder width three-point push-up
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '379'
+  name: Leverage Machine Chest Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '135'
+  name: Butterfly
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1546'
+  name: Larsen Press
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2530'
+  name: Russian Push Ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1218'
+  name: knee push-ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '237'
+  name: Fly With Cable
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1469'
+  name: Bent over Cable Flye
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '2496'
+  name: Wall Push-ups (Vasco L1)
+  primary_equipment: bodyweight
+  setup:
+  - wall
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1111'
+  name: Push-Ups | Incline
+  primary_equipment: bodyweight
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1686'
+  name: Glute Bridge Single-Arm Press
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '2497'
+  name: DB Floor Press (5kg Single Arm)
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '129'
+  name: Chest Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1777'
+  name: Deficit Push ups
+  primary_equipment: bodyweight
+  setup:
+  - parallettes
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1918'
+  name: Legend Chest Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '583'
+  name: Side to Side Push Ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - ja
+- id: '1689'
+  name: Cable Fly Middle Chest
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1922'
+  name: Seated Cable chest fly
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1113'
+  name: Push-Ups | Parallettes
+  primary_equipment: bodyweight
+  setup:
+  - parallettes
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1902'
+  name: Weighted push-ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1353'
+  name: Dumbbell Hex Press
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1484'
+  name: Omni Cable Cross-over
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2529'
+  name: explosive push ups
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1094'
+  name: Seated Bench Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1217'
+  name: Finger Pushup
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1554'
+  name: Clap Push-UP
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '238'
+  name: Fly With Dumbbells
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '2499'
+  name: Incline Push-ups (Vasco L2)
+  primary_equipment: bodyweight
+  setup:
+  - chair
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '445'
+  name: Pause Bench
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '73'
+  name: Bench Press
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '927'
+  name: Suspended crossess
+  primary_equipment: suspension_trainer
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1904'
+  name: Pec Deck
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1457'
+  name: Cable Press Around
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '985'
+  name: Push-up rotations
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: alternating
+  needs:
+  - ja
+- id: '1461'
+  name: No Leg Drive Dumbbell Chest Press
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1436'
+  name: Pin Bench Press BB
+  primary_equipment: barbell
+  setup:
+  - flat_bench
+  - power_rack
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1964'
+  name: Wide Push-Up
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '75'
+  name: Benchpress Dumbbells
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1084'
+  name: Dumbbell Floor Press
+  primary_equipment: dumbbell
+  setup:
+  - mat
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '137'
+  name: Butterfly Narrow Grip
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1694'
+  name: Flat Machine Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '926'
+  name: Machine chest fly
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1293'
+  name: One armed push-ups
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - ja

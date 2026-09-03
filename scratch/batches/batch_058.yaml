@@ -1,0 +1,43 @@
+batch_id: 58
+movement_pattern: vertical_pull
+primary_muscle: delt_lateral
+items:
+- id: '694'
+  name: Upright Row w/ Dumbbells
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '693'
+  name: Upright Row, SZ-bar
+  primary_equipment: ez_bar
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1755'
+  name: Shoulder Y-pull cable
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '691'
+  name: Upright Row, on Multi Press
+  primary_equipment: smith_machine
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

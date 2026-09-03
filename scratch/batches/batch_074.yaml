@@ -1,0 +1,25 @@
+batch_id: 74
+movement_pattern: horizontal_pull
+primary_muscle: traps_middle
+items:
+- id: '922'
+  name: Seated Cable Mid Trap Shrug
+  primary_equipment: cable
+  setup: []
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1215'
+  name: Reverse Snow Angel
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: horizontal_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

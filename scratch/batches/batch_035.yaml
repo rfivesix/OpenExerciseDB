@@ -1,0 +1,61 @@
+batch_id: 35
+movement_pattern: horizontal_push
+primary_muscle: pecs_sternocostal
+items:
+- id: '186'
+  name: Decline Bench Press Dumbbell
+  primary_equipment: dumbbell
+  setup:
+  - decline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1691'
+  name: Cable Fly Lower Chest
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '239'
+  name: Fly With Dumbbells, Decline Bench
+  primary_equipment: dumbbell
+  setup:
+  - decline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1831'
+  name: Hammerstrength Decline Chest Press
+  primary_equipment: machine
+  setup: []
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '185'
+  name: Decline Bench Press Barbell
+  primary_equipment: barbell
+  setup:
+  - decline_bench
+  movement_pattern: horizontal_push
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1656'
+  name: Cable Chest Press - Decline
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: horizontal_push
+  laterality: unilateral
+  needs:
+  - it
+  - ja

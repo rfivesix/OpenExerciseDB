@@ -1,0 +1,38 @@
+batch_id: 35
+movement_pattern: anti_flexion
+items:
+- id: '2531'
+  name: elbow lever
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1742'
+  name: Back Lever
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_flexion
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '500'
+  name: Reverse Plank
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: anti_flexion
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja

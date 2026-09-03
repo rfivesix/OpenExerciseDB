@@ -1,0 +1,498 @@
+batch_id: 6
+movement_pattern: vertical_pull
+items:
+- id: '289'
+  name: High Pull
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1510'
+  name: Neutral Grip Lat Pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '821'
+  name: Pullup on fingerboard
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1101'
+  name: Horizontal traction isometry
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1526'
+  name: Ski Machine
+  primary_equipment: cardio_machine
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '694'
+  name: Upright Row w/ Dumbbells
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1971'
+  name: Mentzer Pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1137'
+  name: High-pulley pullover
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1635'
+  name: Modified pulldown
+  primary_equipment: cable
+  setup:
+  - incline_bench
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1727'
+  name: Side Straight-Arm Pulldown (Cable)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '354'
+  name: Lat Pull Down (Leaning Back)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1273'
+  name: Pullover
+  primary_equipment: dumbbell
+  setup:
+  - flat_bench
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '355'
+  name: Lat Pull Down (Straight Back)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1726'
+  name: Straight-Arm Pulldown (Cable)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1970'
+  name: Kettlebell sumo high pull
+  primary_equipment: kettlebell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1136'
+  name: Neutral-grip chest pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '695'
+  name: V-Bar Pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1927'
+  name: Inverted Lat Pull Down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1435'
+  name: Scapula Pulls
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1659'
+  name: Lat Pulldown - Cross Body Single Arm
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '477'
+  name: Pull Ups on Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1696'
+  name: Pull-Ups (Neutral Grip)
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '2540'
+  name: Lat Pulldown Isometric
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '820'
+  name: Fingerboard 20 mm edge
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '158'
+  name: Close-grip Lat Pull Down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '684'
+  name: Underhand Lat Pull Down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1127'
+  name: Close-grip supinated lat pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1737'
+  name: Assisted chin-ups
+  primary_equipment: machine
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1280'
+  name: Biceps Close Grip Pull Down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1795'
+  name: unilateral cross body cable pull down
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1384'
+  name: Pullover Machine
+  primary_equipment: machine
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1741'
+  name: L-Sit Pull-ups
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '723'
+  name: Wide-grip Pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '980'
+  name: commando pull-ups
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: alternating
+  needs:
+  - ja
+- id: '693'
+  name: Upright Row, SZ-bar
+  primary_equipment: ez_bar
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '152'
+  name: Chin Up
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - ja
+- id: '1537'
+  name: Pull-up Isometric Hold
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '628'
+  name: Straight-arm Pull Down (bar Attachment)
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1125'
+  name: Wide-grip supinated lat pulldown
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1719'
+  name: Jalon caballero unialteral
+  primary_equipment: cable
+  setup:
+  - mat
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1447'
+  name: Snatch OL
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '599'
+  name: Snatch
+  primary_equipment: barbell
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '258'
+  name: Front pull wide
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1282'
+  name: Isometria trazioni impugnatura inversa
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1216'
+  name: Recruitment Pulls
+  primary_equipment: bodyweight
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1607'
+  name: Typewriter Pull-ups
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: alternating
+  needs:
+  - it
+  - ja
+- id: '1755'
+  name: Shoulder Y-pull cable
+  primary_equipment: cable
+  setup:
+  - cable_tower
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1702'
+  name: Jalón al pecho con agarre ancho
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '259'
+  name: Front Pull narrow
+  primary_equipment: cable
+  setup: []
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - fr
+  - it
+  - ja
+- id: '1738'
+  name: Neutral-grip pull-ups or TRX rows
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: vertical_pull
+  laterality: bilateral
+  needs:
+  - it
+  - ja

@@ -1,0 +1,13 @@
+batch_id: 121
+movement_pattern: spinal_flexion
+primary_muscle: latissimus_dorsi
+items:
+- id: '1002'
+  name: Child's pose
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: spinal_flexion
+  laterality: bilateral
+  needs:
+  - ja

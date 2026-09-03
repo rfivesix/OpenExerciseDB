@@ -1,0 +1,24 @@
+batch_id: 67
+movement_pattern: anti_extension
+primary_muscle: latissimus_dorsi
+items:
+- id: '1245'
+  name: Front Lever
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - de
+  - fr
+  - ja
+- id: '1214'
+  name: Front lever tuck
+  primary_equipment: bodyweight
+  setup:
+  - pullup_bar
+  movement_pattern: anti_extension
+  laterality: bilateral
+  needs:
+  - ja

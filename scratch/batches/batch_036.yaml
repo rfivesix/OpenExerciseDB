@@ -1,0 +1,72 @@
+batch_id: 36
+movement_pattern: other
+primary_muscle: gluteus_maximus
+items:
+- id: '1859'
+  name: Foam Roller Gluteus
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1556'
+  name: Devil’s Press
+  primary_equipment: dumbbell
+  setup: []
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1452'
+  name: Knee to Chest Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - it
+  - ja
+- id: '1872'
+  name: Pigeon Stretch
+  primary_equipment: bodyweight
+  setup:
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
+- id: '1949'
+  name: Limber 11
+  primary_equipment: bodyweight
+  setup:
+  - foam_roller
+  - mat
+  movement_pattern: other
+  laterality: bilateral
+  needs:
+  - it
+  - ja
+- id: '1952'
+  name: SMR Glutes (lax ball)
+  primary_equipment: bodyweight
+  setup:
+  - lacrosse_ball
+  - mat
+  movement_pattern: other
+  laterality: unilateral
+  needs:
+  - de
+  - fr
+  - it
+  - ja
