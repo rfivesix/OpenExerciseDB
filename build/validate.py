@@ -723,20 +723,23 @@ def check_pattern_expectations(
     expectations = yamlio.read(table_path).get("expectations") or {}
     for exercise in data.exercises.values():
         pattern = exercise.get("movement_pattern")
+        if not pattern or pattern == "other":
+            continue
         expected = expectations.get(pattern)
-        if not pattern or not expected:
+        if not expected:
             continue
         groups = {
             vocab.muscles[node].group_id
             for node in exercise.muscle_ids("primary")
             if node in vocab.muscles
         }
-        if groups and not (groups & set(expected)):
+        if groups and not groups.issubset(set(expected)):
+            unexpected = sorted(groups - set(expected))
             report.add(
                 "20",
                 WARNING,
                 f"movement_pattern {pattern!r} erwartet Primaermuskeln aus {sorted(expected)}, "
-                f"gefunden {sorted(groups)}",
+                f"unerwartete Gruppe(n): {unexpected}",
                 relative(exercise.path),
                 exercise.id,
             )

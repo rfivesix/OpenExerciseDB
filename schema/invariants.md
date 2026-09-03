@@ -92,8 +92,10 @@ Alles hier ist **weich**, sofern nicht anders vermerkt: entschärfbar über
     sie ist in die Datenstruktur gewandert, und das ist die bessere Sorte
     Invariante: eine, die man nicht brechen kann, statt einer, die man prüft.
 20. Primärmuskel-Gruppe muss zum `movement_pattern` passen — Tabelle in
-    `vocab/pattern_muscle_expectations.yaml`. Verstoß ist eine **Warnung**,
-    kein Fehler: Ausnahmen existieren, aber jede will einmal angeschaut werden.
+    `vocab/pattern_muscle_expectations.yaml`. Jede Primärmuskelgruppe einer Übung
+    wird gegen die für das Muster erwarteten Gruppen geprüft. `movement_pattern: other`
+    ist von der Prüfung ausgenommen. Verstoß ist eine **Warnung**, kein Fehler:
+    Ausnahmen existieren, aber jede will einmal angeschaut werden.
 
 ## Aus `load_mode`
 

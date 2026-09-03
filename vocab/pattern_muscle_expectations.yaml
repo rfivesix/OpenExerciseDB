@@ -1,0 +1,164 @@
+# Erwartete Muskelgruppen je Bewegungsmuster.
+#
+# Ableitungsmethode:
+# 1. Statistische Basis: abgeleitet aus den 819 Nicht-Golden-Übungen bei einer
+#    relativen Mindesthäufigkeit von >= 5 % und einer Mindestanzahl von >= 2 Übungen.
+# 2. Golden-Set-Validierung: Gegen die 50 handgeprüften Golden-Set-Übungen getestet.
+#    Dabei fielen 6 Übungen durch (12,0 % gemessene Fehlalarmquote der Rohstatistik),
+#    alle 6 fachlich vollkommen korrekt annotiert.
+# 3. Gezielte Golden-Set-Ergänzungen: Die legitimen Muskelgruppen dieser 6 Fälle wurden
+#    danach je Muster explizit und begründet ergänzt (nicht in die statistische
+#    Häufigkeitsrechnung eingerührt, um Fehllizenzierungen wie Quads beim Bankdrücken
+#    zu vermeiden).
+#
+# Hinweis: `other` ist als unklassifiziertes Sammelbecken von Invariante 20 ausgenommen.
+
+version: 1
+
+expectations:
+  horizontal_push:
+    - chest
+    - triceps
+    - shoulders
+    # Golden Set (1523 Sled Push): Horizontaler Ganzkörper-Beinvortrieb
+    - quads
+    - glutes
+
+  vertical_push:
+    - shoulders
+    - triceps
+    - chest
+    - quads
+    # Golden Set (1100 Wall-Balls, 1684 Dumbbell Thruster): Beinkraftübertrag aus der Kniebeuge
+    - glutes
+
+  horizontal_pull:
+    - back
+    - shoulders
+    - abs
+    - biceps
+
+  vertical_pull:
+    - back
+    - biceps
+    - forearms
+    - shoulders
+    # Golden Set (423 Muscle-Up): Dip-Übergang über die Stange
+    - chest
+
+  squat:
+    - quads
+    - glutes
+
+  hinge:
+    - hamstrings
+    - glutes
+    - adductors
+    - quads
+    - lower_back
+
+  hip_extension:
+    - glutes
+    - hamstrings
+
+  lunge:
+    - glutes
+    - quads
+
+  carry:
+    # Golden Set (1116 Farmer's Carry) & Bestand (1430 Plate Pinch, 1776 Suitcase Carry):
+    # Haltekraft der Unterarme, Schultergürtel-Trapez und Rumpfstabilisation
+    - forearms
+    - back
+    - abs
+    - lower_back
+
+  rotation:
+    - abs
+    - shoulders
+    - glutes
+    - neck
+    - back
+
+  anti_rotation:
+    - abs
+    - glutes
+    - lower_back
+
+  anti_extension:
+    - abs
+    - back
+    - triceps
+
+  anti_lateral_flexion:
+    - abs
+    - lower_back
+    - neck
+    - back
+
+  anti_flexion:
+    - lower_back
+    # Golden Set (500 Reverse Plank): Isometrische Hüftstreckung gegen Schwerkraft
+    - glutes
+
+  elbow_flexion:
+    - biceps
+    - forearms
+
+  elbow_extension:
+    - triceps
+    - biceps
+
+  wrist_flexion:
+    - forearms
+
+  wrist_extension:
+    - forearms
+
+  knee_flexion:
+    - hamstrings
+
+  knee_extension:
+    - quads
+
+  hip_abduction:
+    - glutes
+    - adductors
+
+  hip_adduction:
+    - adductors
+
+  shoulder_abduction:
+    - shoulders
+    - back
+
+  shoulder_flexion:
+    - shoulders
+
+  scapular_elevation:
+    - back
+
+  spinal_extension:
+    - lower_back
+    - glutes
+    - back
+
+  spinal_flexion:
+    - abs
+    - lower_back
+
+  plantar_flexion:
+    - calves
+
+  dorsiflexion:
+    - calves
+
+  gait:
+    - quads
+    - calves
+    - glutes
+    - abs
+    - back
+    - shoulders
+
+  other: []

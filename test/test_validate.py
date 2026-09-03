@@ -70,6 +70,7 @@ class ValidatorTestCase(unittest.TestCase):
         validate.check_merges(data, report)
         validate.check_muscles(data, self.vocab, report, profile=profile)
         validate.check_plausibility(data, self.vocab, report)
+        validate.check_pattern_expectations(data, self.vocab, report)
         return report
 
     def invariants(self, profile: str = "phase1", severity: str = validate.ERROR) -> set[str]:
@@ -224,6 +225,24 @@ class ValidatorTestCase(unittest.TestCase):
         allowed = set(vocab.classification("force_vector")) | {None}
         self.assertTrue(set(vocab.force_vector_by_pattern.values()) <= allowed)
 
+    def test_20_pattern_muscle_expectations(self) -> None:
+        self.write_exercise(
+            movement_pattern="squat",
+            muscles=[{"id": "biceps_brachii", "role": "primary"}],
+        )
+        self.write_text()
+        warnings = self.invariants(severity=validate.WARNING)
+        self.assertIn("20", warnings)
+
+    def test_20_pattern_other_is_exempt(self) -> None:
+        self.write_exercise(
+            movement_pattern="other",
+            muscles=[{"id": "biceps_brachii", "role": "primary"}],
+        )
+        self.write_text()
+        warnings = self.invariants(severity=validate.WARNING)
+        self.assertNotIn("20", warnings)
+
 
 class RealDataTestCase(unittest.TestCase):
     """Der Bestand im Repo selbst — die Gegenprobe."""
@@ -239,6 +258,7 @@ class RealDataTestCase(unittest.TestCase):
         validate.check_merges(data, report)
         validate.check_muscles(data, vocab, report, profile="phase1")
         validate.check_plausibility(data, vocab, report)
+        validate.check_pattern_expectations(data, vocab, report)
         # Wie in main(): zuletzt, und es entscheidet nicht ueber Befunde, sondern
         # darueber, ob sie erklaert sind.
         validate.apply_exceptions(data, report)

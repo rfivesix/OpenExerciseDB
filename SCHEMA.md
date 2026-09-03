@@ -203,6 +203,24 @@ Zwei Zuordnungen weichen bewusst von der heutigen App-Map ab und sind in
 (App: `back`) und `hip_flexors` (App: `glutes`). Der Build schreibt für die
 Kompatibilitätsspalten weiterhin die Legacy-Gruppe.
 
+### Semantik von `role: primary` bei Dehnübungen (`modality: stretch`)
+
+Bei Dehnübungen (`modality: stretch`) bezeichnet `role: primary` die
+anatomische Zielmuskelgruppe, die **gedehnt** wird (z. B. `hamstring_complex`
+beim Sit & Reach, `rectus_abdominis` beim Cobra Stretch, `triceps_brachii` beim
+Überkopf-Trizeps-Stretch, `latissimus_dorsi` bei Child's Pose). Sie bezeichnet
+**nicht** den kontrahierenden Antagonisten.
+
+Begründung:
+1. Dehnungen sind oft passiv (Schwerkraft, Wand, Schlinge) ohne messbare
+   Agonistenaktivität.
+2. In der Trainings-App sucht der Anwender Übungen nach dem Zielbereich („ich will
+   meine Beinbeuger dehnen“) und nicht nach dem Gelenkhebel.
+3. Bei der Plausibilitätsprüfung (Invariante 20) stehen Dehnungen deshalb häufig
+   scheinbar im Widerspruch zum Gelenkmuster (z. B. `spinal_extension` mit `abs` beim
+   Cobra Stretch oder `elbow_flexion` mit `triceps` beim Trizeps-Stretch) — sie
+   dehnen die Muskeln der anatomischen Gegenseite.
+
 ---
 
 ## 6. Klassifikation
