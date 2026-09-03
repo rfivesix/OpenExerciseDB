@@ -217,6 +217,7 @@ Kompatibilitätsspalten weiterhin die Legacy-Gruppe.
 | `laterality` | genau 1 | bilateral / unilateral / alternating |
 | `difficulty` | optional | beginner / intermediate / advanced |
 | `tracking_type` | genau 1 | bestimmt die Log-Maske |
+| `load_mode` | genau 1 | was die eingegebene Zahl *bedeutet* |
 | `primary_equipment` | genau 1 | das lasterzeugende Gerät |
 | `setup` | 0…n | was außerdem dastehen muss |
 
@@ -229,10 +230,34 @@ im Hotelzimmer machen?" filterbar wird: `primary_equipment == bodyweight`
 **und** `setup == []`.
 
 `tracking_type` (`weight_reps`, `bodyweight_reps`, `time`, `time_weight`,
-`distance_time`, `distance_only`) plus die Flags `supports_added_weight` und
-`supports_assistance` ersetzen `Exercise.isCardio`. Damit bekommen Plank
-(Zeit), Klimmzug (Wiederholungen, optional Zusatzgewicht *oder* Unterstützung)
-und Laufband (Distanz + Zeit) endlich die richtige Eingabemaske.
+`distance_time`, `distance_only`) plus das Flag `supports_added_weight`
+ersetzen `Exercise.isCardio`. Damit bekommen Plank (Zeit), Klimmzug
+(Wiederholungen, optional Zusatzgewicht) und Laufband (Distanz + Zeit) endlich
+die richtige Eingabemaske.
+
+`tracking_type` sagt aber nur, welche **Form** die Log-Maske hat — nicht, was
+die eingegebene Zahl *bedeutet*. Das ist ein Unterschied mit Folgen: an einer
+Assistenzmaschine ist die Zahl Entlastung und nicht Last. Mehr Kilo heißt
+leichter. Als `weight_reps` geloggt lesen e1RM, Volumenrechnung und
+Progressionserkennung die Entwicklung exakt rückwärts — und zwar ohne dass
+irgendwo ein Fehler sichtbar würde.
+
+Deshalb `load_mode`, genau ein Wert:
+
+| Wert | Die Zahl ist … | Beispiele |
+|---|---|---|
+| `external` | der Widerstand | Langhantel, Maschine, Kabel |
+| `bodyweight` | optionales Zusatzgewicht | Klimmzug, Dip, Liegestütz |
+| `assisted` | eine **Verringerung** des Widerstands | Assistenzmaschine |
+| `variable` | kein Kilogramm | Widerstandsband |
+
+`supports_added_weight` bleibt daneben bestehen — „Klimmzug geht mit Gürtel"
+ist eine echte optionale Fähigkeit und keine Aussage über die Grundform.
+
+Ein früheres Gegenstück `supports_assistance` ist ersatzlos entfallen. Es war
+ein Flag an der falschen Achse: die dazugehörige Invariante sperrte es auf
+`primary_equipment: bodyweight` und erzwang damit ausgerechnet für die
+Assistenzmaschine — den Fall, um den es geht — die sachlich falsche Antwort.
 
 `body_region` wird aus den Primärmuskeln **abgeleitet** und nicht von Hand
 gepflegt — dann kann sie auch nicht mehr widersprüchlich werden.
@@ -285,8 +310,8 @@ CREATE TABLE exercises (
   laterality            TEXT NOT NULL,
   difficulty            TEXT,
   tracking_type         TEXT NOT NULL,
+  load_mode             TEXT NOT NULL,          -- was die geloggte Zahl bedeutet
   supports_added_weight INTEGER NOT NULL DEFAULT 0,
-  supports_assistance   INTEGER NOT NULL DEFAULT 0,
   primary_equipment     TEXT NOT NULL,
   body_region           TEXT,                   -- abgeleitet aus Primärmuskeln
 
@@ -383,7 +408,7 @@ CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT);
 
 Zwei Punkte, die beim Bau des Generators konkret wurden:
 
-- **`NOT NULL` ist datenabhängig.** Die sieben Klassifikationsspalten oben sind
+- **`NOT NULL` ist datenabhängig.** Die Klassifikationsspalten oben sind
   in Phase 1 noch nicht befüllt (wger liefert sie nicht). Der Build setzt die
   Bedingung deshalb genau dann, wenn der Bestand sie trägt, und schreibt in
   `metadata.nullable_columns`, welche noch offen sind. Damit zieht sich das

@@ -4,7 +4,10 @@
 #
 # Beispiel gewaehlt, weil es zeigt, was das alte Schema nicht ausdruecken kann:
 # Klimmzuege sind bodyweight, brauchen aber eine Stange; sie werden in
-# Wiederholungen geloggt, koennen aber Zusatzgewicht ODER Unterstuetzung haben.
+# Wiederholungen geloggt und koennen Zusatzgewicht tragen. Die
+# unterstuetzte Variante ist keine Eigenschaft dieser Uebung, sondern eine
+# eigene mit `load_mode: assisted` — an der Assistenzmaschine bedeutet die
+# eingegebene Zahl Entlastung statt Last.
 
 id: "475"                 # wger-Bestands-ID, unveraendert uebernommen
 slug: pull-up             # stabil, menschenlesbar, fuer URLs und Debugging
@@ -19,8 +22,8 @@ difficulty: intermediate
 usage_tags: [main_lift, accessory]
 
 tracking_type: bodyweight_reps
+load_mode: bodyweight        # Koerpergewicht bewegt sich; eine Zahl waere Zusatzgewicht
 supports_added_weight: true
-supports_assistance: true
 
 primary_equipment: bodyweight
 setup: [pullup_bar]
@@ -43,6 +46,7 @@ provenance:
   primary_equipment: { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
   setup:             { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
   tracking_type:     { source: human, at: 2026-09-02 }
+  load_mode:         { source: human, at: 2026-09-03 }
 
 # Lizenz-Provenienz. wger lizenziert pro Eintrag, nicht pauschal — siehe
 # SCHEMA.md §3b. Wird beim Import gesetzt und danach nie mehr angefasst.

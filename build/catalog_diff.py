@@ -58,7 +58,7 @@ OPTIONAL_EXERCISE_COLUMNS = (
     "difficulty",
     "tracking_type",
     "supports_added_weight",
-    "supports_assistance",
+    "load_mode",
     "primary_equipment",
     "body_region",
     "upstream_source",

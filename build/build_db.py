@@ -58,6 +58,7 @@ STRICT_WHEN_COMPLETE = (
     "movement_pattern",
     "laterality",
     "tracking_type",
+    "load_mode",
     "primary_equipment",
 )
 """In SCHEMA.md 8 als NOT NULL gefuehrt, in Phase 1 aber noch nicht befuellt.
@@ -110,8 +111,8 @@ def build_ddl(nullable: set[str]) -> list[str]:
           laterality            TEXT{null('laterality')},
           difficulty            TEXT,
           tracking_type         TEXT{null('tracking_type')},
+          load_mode             TEXT{null('load_mode')},
           supports_added_weight INTEGER NOT NULL DEFAULT 0,
-          supports_assistance   INTEGER NOT NULL DEFAULT 0,
           primary_equipment     TEXT{null('primary_equipment')},
           body_region           TEXT,
 
@@ -372,8 +373,8 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                 exercise.get("laterality"),
                 exercise.get("difficulty"),
                 exercise.get("tracking_type"),
+                exercise.get("load_mode"),
                 1 if exercise.get("supports_added_weight") else 0,
-                1 if exercise.get("supports_assistance") else 0,
                 exercise.get("primary_equipment"),
                 exercise.get("body_region"),
                 # --- Kompatibilitaetsspalten

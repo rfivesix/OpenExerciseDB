@@ -16,6 +16,7 @@
     "laterality",
     "usage_tags",
     "tracking_type",
+    "load_mode",
     "primary_equipment",
     "setup",
     "muscles",
@@ -67,13 +68,14 @@
     "tracking_type": {
       "$ref": "#/$defs/vocabRef"
     },
+    "load_mode": {
+      "$ref": "#/$defs/vocabRef",
+      "description": "Was die geloggte Zahl bedeutet - external, bodyweight, assisted oder variable. Ohne das Feld ist eine Assistenzmaschine von einer Kraftmaschine nicht zu unterscheiden, und jede Auswertung liest ihren Verlauf rueckwaerts."
+    },
     "supports_added_weight": {
       "type": "boolean",
-      "default": false
-    },
-    "supports_assistance": {
-      "type": "boolean",
-      "default": false
+      "default": false,
+      "description": "Optionale Faehigkeit, nicht der Normalfall: Klimmzug geht mit Guertel. Setzt load_mode: bodyweight voraus (Invariante 24)."
     },
     "primary_equipment": {
       "$ref": "#/$defs/vocabRef"

@@ -61,6 +61,7 @@ PHASE2_FIELDS = (
     "laterality",
     "usage_tags",
     "tracking_type",
+    "load_mode",
     "primary_equipment",
     "setup",
     "muscles",
@@ -218,6 +219,7 @@ def check_vocabulary(data: dataset_mod.Dataset, vocab: Vocabularies, report: Rep
         "laterality": set(vocab.classification("laterality")),
         "difficulty": set(vocab.classification("difficulty")),
         "tracking_type": set(vocab.classification("tracking_type")),
+        "load_mode": set(vocab.classification("load_mode")),
         "primary_equipment": set(vocab.primary_equipment),
     }
     usage_tags = set(vocab.classification("usage_tags"))
@@ -518,14 +520,6 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 "15",
                 ERROR,
                 "mechanic: compound mit nur einem beteiligten Muskel",
-                location,
-            )
-        # 16
-        if exercise.get("supports_assistance") and equipment and equipment != "bodyweight":
-            report.add(
-                "16",
-                ERROR,
-                f"supports_assistance verlangt primary_equipment: bodyweight, ist {equipment!r}",
                 location,
             )
         # 17

@@ -204,9 +204,6 @@ class ValidatorTestCase(unittest.TestCase):
     def test_15_compound_with_a_single_muscle(self) -> None:
         self.assertTriggers("15", mechanic="compound")
 
-    def test_16_assistance_without_bodyweight(self) -> None:
-        self.assertTriggers("16", supports_assistance=True, primary_equipment="barbell")
-
     def test_17_added_weight_with_the_wrong_tracker(self) -> None:
         self.assertTriggers("17", supports_added_weight=True, tracking_type="weight_reps")
 

@@ -12,7 +12,6 @@ usage_tags:
 - activation
 tracking_type: time
 supports_added_weight: false
-supports_assistance: false
 primary_equipment: bodyweight
 setup:
 - mat
@@ -70,10 +69,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   supports_added_weight:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  supports_assistance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

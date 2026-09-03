@@ -32,7 +32,12 @@ Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
 13. `modality: strength` ⇒ `tracking_type` ∉ {`distance_only`}.
 14. `mechanic: isolation` ⇒ höchstens 2 primäre Muskeln.
 15. `mechanic: compound` ⇒ mindestens 2 beteiligte Muskeln insgesamt.
-16. `supports_assistance: true` ⇒ `primary_equipment: bodyweight`.
+16. *(gestrichen)* Die Regel lautete `supports_assistance: true ⇒
+    primary_equipment: bodyweight` — und war die Ursache des Fehlers, den sie
+    verhindern sollte. Sie sperrte die Aussage „wird unterstützt" auf
+    Körpergewichtsübungen und erzwang damit für die Assistenzmaschine die
+    sachlich falsche Antwort. `supports_assistance` ist ersatzlos entfallen;
+    was gemeint war, sagt jetzt `load_mode: assisted` (Invariante 25).
 17. `supports_added_weight: true` ⇒ `tracking_type` ∈ {`bodyweight_reps`, `time`}.
 18. `force_vector: static` ⇒ `tracking_type` ∈ {`time`, `time_weight`}.
 19. `movement_pattern` passt zu `force_vector`

@@ -13,7 +13,6 @@ usage_tags:
 - warmup
 tracking_type: bodyweight_reps
 supports_added_weight: true
-supports_assistance: false
 primary_equipment: bodyweight
 setup:
 - roman_chair
@@ -67,10 +66,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   supports_added_weight:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  supports_assistance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

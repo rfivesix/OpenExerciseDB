@@ -12,7 +12,6 @@ usage_tags:
 - accessory
 tracking_type: bodyweight_reps
 supports_added_weight: true
-supports_assistance: true
 primary_equipment: bodyweight
 setup:
 - pullup_bar
@@ -74,10 +73,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   supports_added_weight:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  supports_assistance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

@@ -91,6 +91,27 @@ tracking_type:
   - id: distance_only
     names: { en: Distance, de: Distanz }
 
+# Was die geloggte ZAHL bedeutet. Genau ein Wert.
+#
+# `tracking_type` sagt, welche FORM die Log-Maske hat. Das reicht nicht: an einer
+# Assistenzmaschine ist die eingegebene Zahl Entlastung und nicht Last — mehr
+# Kilo heisst leichter. Als `weight_reps` geloggt lesen e1RM, Volumen und
+# Progressionserkennung die Entwicklung exakt rueckwaerts.
+load_mode:
+  - id: external
+    names: { en: External load, de: Externe Last }
+    # Die Zahl IST der Widerstand. Langhantel, Maschine, Kabel.
+  - id: bodyweight
+    names: { en: Bodyweight, de: Körpergewicht }
+    # Koerpergewicht bewegt sich; eine Zahl ist optionales Zusatzgewicht.
+    # Klimmzug, Dip, Liegestuetz.
+  - id: assisted
+    names: { en: Assisted, de: Unterstützt }
+    # Die Zahl VERRINGERT den Widerstand. Assistenzmaschine — mehr ist leichter.
+  - id: variable
+    names: { en: Variable resistance, de: Variabler Widerstand }
+    # Die Zahl ist kein Kilogramm. Widerstandsband.
+
 difficulty:
   - { id: beginner, names: { en: Beginner, de: Anfänger } }
   - { id: intermediate, names: { en: Intermediate, de: Fortgeschritten } }
