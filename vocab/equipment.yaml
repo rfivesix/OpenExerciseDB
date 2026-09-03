@@ -43,6 +43,8 @@ primary_equipment:
     names: { en: Sled, de: Schlitten }
   - id: cardio_machine
     names: { en: Cardio machine, de: Cardiogerät }
+  - id: jump_rope
+    names: { en: Jump rope, de: Springseil }
   - id: other
     names: { en: Other, de: Sonstiges }
 
@@ -87,3 +89,5 @@ setup:
     names: { en: Chair / elevated surface, de: Stuhl / erhöhte Fläche }
   - id: foam_roller
     names: { en: Foam roller, de: Faszienrolle }
+  - id: lacrosse_ball
+    names: { en: Lacrosse ball / massage ball, de: Faszienball / Massageball }

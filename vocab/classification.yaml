@@ -68,6 +68,7 @@ movement_pattern:
   - { id: spinal_extension, names: { en: Spinal extension, de: Rumpfstreckung } }
   - { id: spinal_flexion, names: { en: Spinal flexion, de: Rumpfbeugung } }
   - { id: plantar_flexion, names: { en: Plantar flexion, de: Plantarflexion } }
+  - { id: dorsiflexion, names: { en: Dorsiflexion, de: Dorsalflexion } }
   - { id: gait, names: { en: Gait / locomotion, de: Fortbewegung } }
   - { id: other, names: { en: Other, de: Sonstiges } }
 
@@ -107,6 +108,7 @@ force_vector_by_pattern:
   knee_extension: push
   shoulder_abduction: push
   plantar_flexion: push
+  dorsiflexion: pull
   wrist_flexion: pull
   wrist_extension: push
 

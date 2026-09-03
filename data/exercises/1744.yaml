@@ -1,20 +1,19 @@
-# data/exercises/<id>.yaml — sprachneutrale Fakten.
-# Enthaelt KEINEN uebersetzbaren Text; der liegt unter data/i18n/<lang>/<id>.yaml.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Ab hier ist die Datei von Hand pflegbar — der Importer laeuft nicht erneut.
-# Die Klassifikationsfelder (modality, tracking_type, primary_equipment, ...)
-# fehlen absichtlich: wger liefert sie nicht, und geraten waere schlimmer als
-# leer. Siehe SCHEMA.md 6 und 11.
 id: '1744'
 slug: machine-side-lateral-raises
-status: active
+status: merged
 muscles:
-  - {id: deltoid, role: primary}
+  - id: deltoid
+    role: primary
 provenance:
-  id: {source: wger}
-  slug: {source: derived, at: '2026-09-02'}
-  muscles: {source: wger, at: '2026-09-02'}
+  id:
+    source: wger
+  slug:
+    source: derived
+    at: '2026-09-02'
+  muscles:
+    source: wger
+    at: '2026-09-02'
+  merged_into: {source: human, at: '2026-09-03'}
 upstream:
   source: wger
   source_id: '1744'
@@ -23,3 +22,4 @@ upstream:
   imported_at: '2026-09-02'
   source_fields:
     category: Shoulders
+merged_into: '1654'

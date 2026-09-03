@@ -1,6 +1,6 @@
 id: '1943'
 slug: neck-cars-1943
-status: deprecated
+status: merged
 modality: mobility
 mechanic: isolation
 movement_pattern: rotation
@@ -85,6 +85,7 @@ provenance:
     source: ai
     model: gemini-3.8-flash
     at: '2026-09-03'
+  merged_into: {source: human, at: '2026-09-03'}
 upstream:
   source: wger
   source_id: '1943'
@@ -93,3 +94,4 @@ upstream:
   imported_at: '2026-09-03'
   source_fields:
     category: Shoulders
+merged_into: '1939'

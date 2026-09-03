@@ -380,7 +380,7 @@ class PublishedIdsTestCase(unittest.TestCase):
         report = validate.Report(profile="phase1")
         validate.check_published_ids(data, report)
         self.assertEqual([], [f.as_dict() for f in report.errors][:10])
-        self.assertGreaterEqual(report.stats["deprecated"], 38)
+        self.assertGreaterEqual(report.stats["deprecated"] + report.stats["merged"], 38)
 
 
 class ExceptionsTestCase(ValidatorTestCase):

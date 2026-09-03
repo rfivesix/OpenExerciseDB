@@ -423,7 +423,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         for old_id in exercise.get("aliases") or []:
             alias_rows.append((str(old_id), exercise.id, "renamed_id", version))
         if exercise.status == "merged" and exercise.get("merged_into"):
-            alias_rows.append((exercise.id, str(exercise["merged_into"]), "merged", version))
+            alias_rows.append((exercise.id, str(exercise.get("merged_into")), "merged", version))
 
     cursor.executemany(
         f"INSERT INTO exercises VALUES ({', '.join('?' * len(exercise_rows[0]))})", exercise_rows

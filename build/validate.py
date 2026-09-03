@@ -450,8 +450,10 @@ def check_muscles(
         entries = [entry for entry in exercise.muscles if isinstance(entry, dict)]
         node_ids = [str(entry["id"]) for entry in entries if "id" in entry]
 
-        # 8 — mindestens ein primaerer Muskel
-        if not any(entry.get("role") == "primary" for entry in entries):
+        # 8 — mindestens ein primaerer Muskel (gilt fuer aktive Uebungen)
+        if exercise.status == "active" and not any(
+            entry.get("role") == "primary" for entry in entries
+        ):
             if profile == "full":
                 report.add("8", ERROR, "kein Muskel mit role: primary", location)
             else:
@@ -790,6 +792,9 @@ def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
     report.stats["published_ids"] = len(registry)
     report.stats["deprecated"] = sum(
         1 for exercise in data.exercises.values() if exercise.status == "deprecated"
+    )
+    report.stats["merged"] = sum(
+        1 for exercise in data.exercises.values() if exercise.status == "merged"
     )
 
     # Der zweite Teil von 21: ein `merged` braucht ein auflösbares Ziel — das

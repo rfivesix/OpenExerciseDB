@@ -17,8 +17,10 @@ primary_equipment: bodyweight
 setup:
   - mat
 muscles:
-  - id: transversus_abdominis
+  - id: diaphragm
     role: primary
+  - id: transversus_abdominis
+    role: secondary
   - id: rectus_abdominis
     role: secondary
 provenance:

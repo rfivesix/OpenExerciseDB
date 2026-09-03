@@ -15,6 +15,7 @@ load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup:
+  - lacrosse_ball
   - mat
 muscles:
   - id: gluteus_maximus

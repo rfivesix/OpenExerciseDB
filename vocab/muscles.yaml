@@ -234,6 +234,10 @@ muscles:
     group: abs
     names: { en: Transversus abdominis, de: Querer Bauchmuskel }
     body_slugs: [abs]
+  - id: diaphragm
+    group: abs
+    names: { en: Diaphragm, de: Zwerchfell }
+    body_slugs: []
   - id: hip_flexors
     group: abs
     names: { en: Hip flexors (iliopsoas), de: Hüftbeuger }

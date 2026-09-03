@@ -1,17 +1,24 @@
 id: '1114'
 slug: rest-for-timed-workouts
-status: active
+status: deprecated
 tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup: []
+muscles:
+  - id: erector_spinae
+    role: primary
 provenance:
   id:
     source: wger
   slug:
     source: derived
     at: '2026-09-02'
+  status:
+    source: human
+    at: '2026-09-03'
+    note: Pausentimer-Dummy aus wger, keine körperliche Übung
   tracking_type:
     source: ai
     model: gemini-3.8-flash
