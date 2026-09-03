@@ -3,7 +3,7 @@ slug: walking-bridge
 status: active
 modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: anti_extension
 laterality: bilateral
 difficulty: intermediate
 usage_tags:
@@ -11,6 +11,7 @@ usage_tags:
 - warmup
 - activation
 tracking_type: bodyweight_reps
+load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup:
@@ -28,6 +29,9 @@ muscles:
   role: secondary
 - id: hamstring_complex
   role: secondary
+exceptions:
+  invariant_18: Walkout ist dynamische Anti-Extension und wird in Wiederholungen
+    geloggt, nicht auf Zeit. Die Regel beschreibt den Normalfall, nicht diesen.
 provenance:
   id:
     source: wger
@@ -47,8 +51,7 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   movement_pattern:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
     at: '2026-09-03'
   laterality:
     source: ai
@@ -65,6 +68,9 @@ provenance:
   tracking_type:
     source: ai
     model: gemini-3.7-flash
+    at: '2026-09-03'
+  load_mode:
+    source: derived
     at: '2026-09-03'
   supports_added_weight:
     source: ai

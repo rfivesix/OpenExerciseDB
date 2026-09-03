@@ -9,7 +9,8 @@ difficulty: beginner
 usage_tags:
 - main_lift
 - accessory
-tracking_type: weight_reps
+tracking_type: bodyweight_reps
+load_mode: assisted
 supports_added_weight: false
 primary_equipment: machine
 setup: []
@@ -61,8 +62,10 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   tracking_type:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
+    at: '2026-09-03'
+  load_mode:
+    source: human
     at: '2026-09-03'
   supports_added_weight:
     source: ai

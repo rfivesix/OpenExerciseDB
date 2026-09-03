@@ -9,6 +9,7 @@ difficulty: intermediate
 usage_tags:
 - conditioning
 tracking_type: time
+load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup: []
@@ -56,6 +57,9 @@ provenance:
   tracking_type:
     source: ai
     model: gemini-3.7-flash
+    at: '2026-09-03'
+  load_mode:
+    source: derived
     at: '2026-09-03'
   supports_added_weight:
     source: ai

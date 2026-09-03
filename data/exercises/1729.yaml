@@ -11,6 +11,7 @@ usage_tags:
 - warmup
 - accessory
 tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
 primary_equipment: cable
 setup: []
@@ -56,6 +57,9 @@ provenance:
   tracking_type:
     source: ai
     model: gemini-3.7-flash
+    at: '2026-09-03'
+  load_mode:
+    source: derived
     at: '2026-09-03'
   supports_added_weight:
     source: ai

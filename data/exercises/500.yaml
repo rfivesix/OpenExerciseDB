@@ -3,7 +3,7 @@ slug: reverse-plank
 status: active
 modality: strength
 mechanic: compound
-movement_pattern: anti_extension
+movement_pattern: anti_flexion
 laterality: bilateral
 difficulty: intermediate
 usage_tags:
@@ -11,6 +11,7 @@ usage_tags:
 - activation
 - prehab
 tracking_type: time
+load_mode: bodyweight
 supports_added_weight: true
 primary_equipment: bodyweight
 setup:
@@ -43,8 +44,7 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   movement_pattern:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
     at: '2026-09-03'
   laterality:
     source: ai
@@ -61,6 +61,9 @@ provenance:
   tracking_type:
     source: ai
     model: gemini-3.7-flash
+    at: '2026-09-03'
+  load_mode:
+    source: derived
     at: '2026-09-03'
   supports_added_weight:
     source: ai

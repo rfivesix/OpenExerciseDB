@@ -251,9 +251,22 @@ class RealDataTestCase(unittest.TestCase):
         validate.check_merges(data, report)
         validate.check_muscles(data, vocab, report, profile="phase1")
         validate.check_plausibility(data, vocab, report)
+        # Wie in main(): zuletzt, und es entscheidet nicht ueber Befunde, sondern
+        # darueber, ob sie erklaert sind.
+        validate.apply_exceptions(data, report)
         self.assertEqual(
             [], [f.as_dict() for f in report.errors][:20], f"{len(report.errors)} Fehler"
         )
+
+    def test_the_only_soft_invariant_that_fires_is_excused(self) -> None:
+        """1103 Walkout — die Uebung, deren Wert fuer die alte Regelkette
+        verbogen worden war. Sie steht jetzt richtig da und ist begruendet."""
+        data = dataset_mod.load()
+        report = validate.Report(profile="phase1")
+        validate.check_plausibility(data, Vocabularies(), report)
+        validate.apply_exceptions(data, report)
+        soft = report.stats["soft_invariants"]
+        self.assertEqual({"fired": 1, "excused": 1, "open": 0}, soft["18"])
 
     def test_every_legacy_wger_muscle_maps_back_to_its_own_name(self) -> None:
         """Die Kompatibilitaetsspalten stehen und fallen mit dieser Umkehrung."""
