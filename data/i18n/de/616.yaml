@@ -3,18 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '616'
 language: de
-status: upstream_unreviewed
-name: Hocksprung
+status: ai_reviewed
+name: Squat Thrust
 description: |-
-  Ausgangsposition:
-  Beginne in der hohen Plank-Position:Rücken, Arme und Beine sind gestreckt, die Hände sind schulterbreit auseinander.
-  Schritte:
-
-  Springe mit den Füßen zwischen den Armen nach vorne und halte den Rücken flach.
-  Lasse die Hände auf dem Boden und springe mit den Beinen zurück in die hohe Plank-Position.
-  Wiederhole die Übung.
+  Beginne im Stand. Gehe mit den Händen zum Boden in die Hocke, springe mit den Füßen in eine Plank-Position, springe zurück in die Hocke und richte dich wieder auf.
 search_terms:
   - Stützstrecke
   - Squat Thrusts

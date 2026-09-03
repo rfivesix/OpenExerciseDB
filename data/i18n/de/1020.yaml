@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1020'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Einbeinige Kniebeugen rechts
 description: |-
-  Stelle Dich auf ein Bein, wobei das andere Bein gerade und leicht nach vorne zeigt.
-  Beuge langsam ein Knie, gehen in die Hocke und halte den Rücken und das andere Bein gerade.
+  Stelle dich auf ein Bein, wobei das andere Bein gerade und leicht nach vorne zeigt.
+  Beuge langsam ein Knie, gehe in die Hocke und halte den Rücken und das andere Bein gerade.
   Gehe langsam aus der Hocke, strecke das gebeugte Knie und halte das andere Bein gerade.
-  Wiederhole
+  Wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1937'

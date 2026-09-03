@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '161'
 language: de
-status: upstream_unreviewed
-name: Pull-Over KH
+status: ai_reviewed
+name: Kurzhantel-Überzüge
 description: |-
   Sie Liegen auf einer Bank, die Füße stehen am Boden, die Arme sind nach oben gesteckt.
 

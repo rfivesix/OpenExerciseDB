@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1262'
 language: de
-status: upstream_unreviewed
-name: TRX einarmiger Bizeps-Curl
+status: ai_reviewed
+name: Einarmiger TRX-Bizeps-Curl
 description: |-
   Schritt 1: Stelle dich bequem hin und greife die Griffe des Schlingentrainers. Schritt 2: Lehne dich zurück und stütze dein Gewicht auf einen Arm, wobei du die Wirbelsäule neutral hältst. Schritt 3: Führe langsam einen Curl aus, um dein Körpergewicht in die obere Position zu ziehen. Supiniere den Arm und spanne ihn an, während du dich der Endposition näherst. Schritt 4: Senke dich wieder ab und wiederhole.
 upstream:

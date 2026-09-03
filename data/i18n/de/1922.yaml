@@ -3,12 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1922'
 language: de
-status: upstream_unreviewed
-name: Butterfly am Kabelzug
+status: ai_reviewed
+name: Kabelzug-Flyes im Sitzen
 description: |-
-  Die Übung wird auch als "Cable Fly", "Cable Crossover" oder "Butterfly am Kabelzug" bezeichnet
+  Stelle eine Bank zwischen zwei Kabeltürme und stelle die Seilrollen so ein, dass sie sich im Sitzen auf Brust- bzw. Schulterhöhe befinden.
+  Greife die Griffe im neutralen Griff und lehne dich an die aufrechte Rückenlehne.
+  Führe deine Arme in einer kontrollierten Bewegung vor der Brust zusammen und konzentriere dich darauf, deine Brustmuskeln zusammenzudrücken. Halte deine Ellbogen während der gesamten Bewegung leicht gebeugt.
+  Halte kurz in der Endposition inne.
+  Senke deine Arme langsam und kontrolliert wieder in die Ausgangsposition ab.
+  Wiederhole die Bewegung für die gewünschte Anzahl an Wiederholungen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: shushu

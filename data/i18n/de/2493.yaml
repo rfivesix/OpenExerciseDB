@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2493'
 language: de
-status: upstream_unreviewed
-name: Adductor side plank
+status: ai_reviewed
+name: Adduktoren-Seitstütz
 description: |-
-  Im 90° Winkel zur Bank auf der Seite liegend positionieren. Ein Bein mit der Seite der Wade auf die Bank legen. Das andere Bein unter die Bank, so gut es geben geht. Dann auf den zum Boden zeigenden Arm im 90° Winkel stützen (Unterarmstütz). Die zur Decke zeigende Körperseite muss möglichst gerade sein (ein Side Plank eben).
+  Lege dich im 90°-Winkel zur Bank auf die Seite. Platziere das obere Bein mit der Wadeninnenseite auf der Bank. Führe das untere Bein unter die Bank. Stütze dich auf den bodennahen Unterarm im 90°-Winkel (Unterarmstütz). Drücke dich vom Boden ab, sodass der gesamte Körper eine gerade Linie bildet, auf einer Höhe mit der Bank. Halte diese Position.
 upstream:
   license: CC-BY-SA-4.0
   license_author: hurr99

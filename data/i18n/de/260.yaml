@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '260'
 language: de
-status: upstream_unreviewed
-name: Full Sit Outs
+status: ai_reviewed
+name: Sit-Out
 description: |-
-  (A) Stellen Sie sich auf Ihre Hände und Zehen in eine hohe Plankenposition. (B) Verlagern Sie Ihr Gewicht auf Ihre linke Hand, während Sie Ihren Körper nach rechts drehen. beugen Sie Ihr rechtes Bein hinter sich und strecken Sie Ihren rechten Arm nach oben. Kehre in die Mitte zurück und wiederhole dies auf der anderen Seite. Fahren Sie mit abwechselnden Seiten fort. Machen Sie es einfacher: Heben Sie Ihren Arm nicht an, nachdem Sie Ihr Bein hinter sich gebeugt haben. Machen Sie es schwieriger: Halten Sie Arm und Bein für zwei Zählungen gestreckt.
+  (A) Begib dich auf Händen und Zehenspitzen in eine hohe Liegestützposition (High Plank). (B) Verlagere dein Gewicht auf deine linke Hand, während du deinen Körper nach rechts drehst; winkle dein rechtes Bein hinter dir an und strecke deinen rechten Arm nach oben. Kehre in die Mitte zurück und wiederhole dies auf der anderen Seite. Fahre im Wechsel fort. Leichtere Variante: Hebe den Arm nicht an, nachdem du das Bein gebeugt hast. Schwerere Variante: Halte Arm und Bein für zwei Zählzeiten ausgestreckt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: http://www.realsimple.com/health/fitness-exercise/

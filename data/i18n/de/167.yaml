@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '167'
 language: de
-status: upstream_unreviewed
-name: Crunches
+status: ai_reviewed
+name: Crunch
 description: |-
-  Lege dich auf eine Matte mit angewinkelten Beinen. Die Füße werden irgendwie festgehalten (Partner, Lanhghantel, o.Ä.) und die Hände werden hinter dem Nacken verschränkt. Aus dieser Position führe den Oberkörper so weit nach oben, bis Kopf oder Ellenbogen die angewinkelten Beine berühren.
-  Es ist wichtig, dass dieser Vorgang mit einer rollenden Bewegung durchgeführt wird: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden.
+  Lege dich mit angewinkelten Beinen auf eine Matte. Die Füße werden fixiert (z. B. durch einen Partner oder eine Langhantel) und die Hände hinter dem Kopf gehalten. Führe aus dieser Position den Oberkörper mit einer rollenden Bewegung nach oben, sodass sich die oberen Wirbel von der Matte lösen.
+  Senke den Oberkörper anschließend kontrolliert wieder ab. Ein Hohlkreuz ist stets zu vermeiden.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

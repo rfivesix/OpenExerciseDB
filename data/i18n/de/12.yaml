@@ -3,18 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '12'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Adduktoren-Maschine
 description: |-
-  in eine aufrechte Position setzen, bei der die Beine hüftbreit geöffnet sind
-  den Rücken, die Knie und die Oberschenkelaußenseite an die jeweiligen Polster pressen
-  mit den Händen an den Griffen festhalten
-  die Oberschenkel bis zum Anschlagpunkt der Hebelarme auseinander drücken
-  danach die Beine wieder zusammen führen
-  das Gesäß nicht vom Sitz abheben
-  beim Auseinanderdrücken der Hebelarme aus- und beim Zusammenführen einatmen
+  Setze dich aufrecht in die Maschine und stelle das Polster so ein, dass die Oberschenkelinnenseiten an den Polstern anliegen. Halte dich an den seitlichen Griffen fest. Führe die Beine gegen das Polster kontrolliert zusammen (Adduktion). Halte die Kontraktion kurz und öffne die Beine langsam wieder in die Ausgangsposition, ohne das Gewicht ganz abzusetzen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: flori

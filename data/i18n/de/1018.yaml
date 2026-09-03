@@ -3,20 +3,21 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1018'
 language: de
-status: upstream_unreviewed
-name: Kopf neigen
+status: ai_reviewed
+name: Kopfneigen
 description: |-
   Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken.
+  Sitze oder stehe mit aufrechtem Rücken.
   Schritte:
 
-  Neigen Sie den Kopf zu einer Seite und halten Sie ihn ein wenig.
-  Bringen Sie den Kopf in die neutrale Position zurück und halten Sie ihn kurz.
-  Neigen Sie den Kopf auf die andere Seite und halten Sie ihn kurz.
-  Bringen Sie den Kopf wieder in die neutrale Position und halten Sie ihn ein wenig.
-  Wiederholen Sie die Übung.
+  Neige den Kopf langsam zu einer Seite und halte die Dehnung kurz.
+  Bringe den Kopf in die neutrale Ausgangsposition zurück.
+  Neige den Kopf zur anderen Seite und halte die Dehnung kurz.
+  Bringe den Kopf wieder in die neutrale Position zurück.
+  Wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1918'

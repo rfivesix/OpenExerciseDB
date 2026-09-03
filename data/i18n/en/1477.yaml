@@ -3,9 +3,10 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1477'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Corkscrew
 description: |-
   To
@@ -15,7 +16,7 @@ description: |-
   opposite side of the abs.
   Beginners
   might find that they can’t even get through the first 45 seconds of this
-  challenging reverse crunches variation.&nbsp; That’s ok because it gives you a
+  challenging reverse crunches variation. That’s ok because it gives you a
   place to start and something to improve upon.
 upstream:
   license: CC-BY-SA-4.0

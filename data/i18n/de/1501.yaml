@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1501'
 language: de
-status: upstream_unreviewed
-name: Alternatives Gorilla-Rudern mit Kurzhanteln
+status: ai_reviewed
+name: Alternierendes Gorilla-Rudern mit Kurzhanteln
 description: |-
   Beuge dich leicht nach vorne und winkle die Knie an, um eine Gorilla-Position nachzuahmen, und ziehe bzw. rudere die Kurzhanteln zur Brust. Die Kurzhanteln bleiben gerade (Daumen zeigen nach oben).
 upstream:

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1743'
 language: de
-status: upstream_unreviewed
-name: Scheibenwischer
+status: ai_reviewed
+name: Hängender Scheibenwischer
 description: |-
   Hänge dich an eine Klimmzugstange und hebe deine Beine zur Decke. Bewege deinen Unterkörper mit gestreckten Beinen von links nach rechts wie ein Scheibenwischer.
 upstream:

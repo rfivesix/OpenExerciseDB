@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '148'
 language: de
-status: upstream_unreviewed
-name: Wadenheben an Hackenschmidt
+status: ai_reviewed
+name: Wadenheben an der Hackenschmidt-Maschine
 description: |-
-  Setze dich auf die Maschine mit dem Rücken fest gegen die Lehne und stelle die Füße auf die Plattform für Wadenheben etwa schulterbreit. Prüfe dass etwa die Hälfte noch drauf sind und du die Wadenmuskeln nach unten komplett austrecken kannst.
-  Mit geraden Knien strecke dann die Waden und gehe so hoch wie möglich. Gehe dann runter bis die Waden komplet ausgestreckt sind und wiederhole die Bewegung.
+  Positioniere dich in der Hackenschmidt-Maschine mit dem Rücken fest an der Rückenlehne und platziere die Fußballen etwa schulterbreit auf dem Rand der Plattform, sodass deine Fersen frei beweglich sind.
+  Drücke dich mit fast gestreckten Knien über die Fußballen so weit wie möglich nach oben. Senke die Fersen langsam wieder kontrolliert ab, bis die Wadenmuskeln voll gedehnt sind, und wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

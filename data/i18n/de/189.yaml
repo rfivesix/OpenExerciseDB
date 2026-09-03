@@ -3,18 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '189'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Defizit Kreuzheben
 description: |-
   Vorbereitung
-  Stellen Sie sich auf eine Hantelscheibe, eine Stoßstangenplatte oder eine flache, erhöhte Plattform mit einer geladenen Stange über den Füßen. Hocken Sie sich hin und fassen Sie die Stange mit schulterbreitem oder etwas breiterem Überhand- oder Mischgriff.
+  Stelle dich auf eine Hantelscheibe, Bumper Plate oder flache, erhöhte Plattform mit einer beladenen Hantelstange über den Füßen. Gehe in die Hocke und greife die Stange mit schulterbreitem oder etwas breiterem Obergriff oder Kreuzgriff.
   Ausführung
-  Heben Sie die Stange an, indem Sie die Hüften und Knie ganz ausstrecken. Ziehen Sie die Schultern oben am Lift zurück, wenn sie abgerundet sind. Bringen Sie die Gewichte wieder auf den Boden, indem Sie die Hüften nach hinten beugen, während Sie die Knie nach vorne beugen. Halten Sie dabei den Rücken gerade und die Knie in dieselbe Richtung wie die Füße. Wiederholen.
-  Bemerkungen
-  Halten Sie beim Heben die Hüften niedrig, die Schultern hoch, die Arme und den Rücken gerade. Die Knie sollten während der gesamten Bewegung in dieselbe Richtung zeigen wie die Füße. Halten Sie die Stange dicht am Körper, um die mechanische Hebelwirkung zu verbessern. Griffkraft und Kraftausdauer schränken häufig die Fähigkeit ein, bei starken Widerständen mehrere Wiederholungen durchzuführen. Gymnastikkreide, Handgelenkbänder, Griffarbeit und gemischter Griff können verwendet werden, um den Griff zu verbessern. Gemischter Griff bedeutet, dass eine Hand mit Überhandgriff und die andere Hand mit Unterhandgriff gehalten wird. Mit dem Hebelhantelheber kann die Hantel vom Boden gehoben werden, um das Be- und Entladen von Hantelscheiben zu erleichtern.
-  Unterer Rücken
+  Hebe die Stange an, indem du Hüfte und Knie vollständig streckst. Ziehe die Schultern am obersten Punkt zurück, falls sie eingerundet sind. Senke das Gewicht wieder zum Boden ab, indem du die Hüfte nach hinten schiebst und die Knie beugst. Halte dabei den Rücken gerade und die Knie in die gleiche Richtung wie die Füße zeigend. Wiederhole die Bewegung.
+  Hinweise
+  Halte während des Hebens die Hüfte tief, die Schultern oben sowie Arme und Rücken gerade. Die Knie sollten während der gesamten Bewegung in dieselbe Richtung wie die Füße zeigen. Führe die Stange eng am Körper, um den Hebelweg zu optimieren. Griffkraft und Kraftausdauer limitieren häufig schwerere Sätze. Magnesia (Chalk), Zughilfen und ein Kreuzgriff (eine Hand im Obergriff, eine im Untergriff) können zur Unterstützung verwendet werden. Ein Hantelheber (Deadlift Jack) erleichtert das Be- und Entladen der Hantelscheiben.
 search_terms:
   - Deficit deadlift
 upstream:

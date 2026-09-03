@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1203'
 language: de
-status: upstream_unreviewed
-name: Wadenheben, linkes Bein
+status: ai_reviewed
+name: Einbeiniges Wadenheben (links)
 description: |-
   Stelle dich auf den Boden oder auf die Kante einer Stufe, um den Bewegungsumfang zu vergrößern.
   Hebe einen Fuß an.

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1092'
 language: de
-status: upstream_unreviewed
-name: Sandsacktraining
+status: ai_reviewed
+name: Boxsacktraining
 description: |-
   Sandsacktraining verbessert die Muskeldefinition von: Deltamuskel; hinterem Deltamuskel; Trizeps; Bizeps und ist zudem eine hervorragende Cardio-Übung
 upstream:

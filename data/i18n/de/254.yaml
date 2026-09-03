@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '254'
 language: de
-status: upstream_unreviewed
-name: Frontheben Mit Scheibe
+status: ai_reviewed
+name: Frontheben mit Hantelscheibe
 description: |-
   Das Frontheben mit Gewichtsscheibe ist eine Variante des Fronthebens mit Kurzhantel, bei der du eine Gewichtsscheibe zwischen beiden Händen hältst, statt eine Kurzhantel, Langhantel oder ein anderes Gewicht zu verwenden. Es kann für Abwechslung in einem schulterbetonten Muskelaufbautraining sorgen oder Teil eines Oberkörper- oder Ganzkörper-Zirkels sein.
 

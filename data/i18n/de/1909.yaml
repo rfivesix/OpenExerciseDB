@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1909'
 language: de
-status: upstream_unreviewed
-name: Beinkreisen
+status: ai_reviewed
+name: Beinkreisen in Rückenlage
 description: |-
   Lege dich auf den Rücken und hebe die Beine senkrecht nach oben, wobei du die Knie zusammenhältst.
   Beginne, mit beiden Knien kleine Kreise in eine Richtung zu beschreiben, mit sehr geringem Bewegungsumfang, konzentriere dich auf die Bauchmuskulatur und halte deinen Rücken in Kontakt mit dem Boden.

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '382'
 language: de
-status: upstream_unreviewed
-name: L Sit
+status: ai_reviewed
+name: L-Hang an der Klimmzugstange
 description: |-
   Hänge dich an eine Klimmzugstange und hebe die Beine gerade an bis du einen 90° Winkel zwischen Beine und Oberkörper hast (L-Form). Halte die Position.
 search_terms:

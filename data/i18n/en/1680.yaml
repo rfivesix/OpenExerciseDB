@@ -1,13 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1680'
 language: en
 status: ai_reviewed
 name: Seated Figure Four
-description: Seat on&nbsp; a bench. Feet flat on the ground. Place your left ankle
-  over your right knee. Your right knee stays flat. Keep your back straight. Gently
-  push your left knee down.
+description: |-
+  Sit on a bench with your feet flat on the ground. Place your left ankle over your right knee. Your right knee stays flat. Keep your back straight. Gently push your left knee down.
 upstream:
   license: CC-BY-SA-4.0
   license_author: ricardodavidrd
   source_id: '2802'
 search_terms:
-- seated figure four
+  - seated figure four

@@ -3,18 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '981'
 language: de
-status: upstream_unreviewed
-name: Steigungen
+status: ai_reviewed
+name: Step-ups
 description: |-
   Ausgangsposition:
-  Stellen Sie sich vor einen Stuhl.
+  Stelle dich vor einen Stuhl oder eine stabile Erhöhung.
   Schritte:
 
-  Steigen Sie auf den Stuhl.
-  Steigen Sie vom Stuhl ab.
-  Wiederholen Sie
+  Steige auf den Stuhl.
+  Steige wieder herunter.
+  Wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1498'

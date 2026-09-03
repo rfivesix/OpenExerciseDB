@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '974'
 language: de
-status: upstream_unreviewed
-name: Curl mit Kettlebell beidhändig
+status: ai_reviewed
+name: Beidhändiger Kettlebell-Curl
 description: |-
   Stelle dich aufrecht hin und greife die Kettlebell mit beiden Händen. Führe die Ellbogenbeugung aus, beginnend aus der vollständig gestreckten Position, bis deine Hand Schulterhöhe erreicht. Stelle die Beine für mehr Stabilität etwas auseinander und versuche, die Übung korrekt auszuführen, indem du nicht mit dem Rücken oder dem Körper allgemein schwingst. Ändere das Gewicht der Kettlebell, um die Schwierigkeit anzupassen.
 upstream:

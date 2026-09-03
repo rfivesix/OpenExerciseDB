@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1463'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Underhand Dead Row
 description: |-
   The Dumbbell Underhand Dead Row will involve the back, which means you can try a bit heavier weight. The catch is that you need to be able to control the weight for all the reps.
 
   Start by holding a pair of dumbbells with your feet shoulder-wide apart and your knees slightly bent.
-  Hinge at your hips to lower your torse forward until it's almost parallel to the floor, keeping your back flat and maintaining a slight bend in your knees.
+  Hinge at your hips to lower your torso forward until it's almost parallel to the floor, keeping your back flat and maintaining a slight bend in your knees.
   Exhale as you row the dumbbells to your sides up to chest height, leading with your elbows until your upper arms are just past parallel to the floor and the dumbbells are at ribcage level.
   Slowly lower to the starting position and repeat. Keep your back flat all the time.
 upstream:

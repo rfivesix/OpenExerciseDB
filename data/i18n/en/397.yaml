@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '397'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Low Box Squat - Wide Stance
 description: |-
-  Unrack the bar and set your stance wide, beyond your hips.&nbsp; Push your hips back and sit down to a box that takes you below parallel.&nbsp; Sit completely down, do not touch and go.&nbsp; Then explosively stand up.&nbsp; Stay tight in your upper back and torso throughout the movement.
+  Unrack the bar and set your stance wide, beyond your hips. Push your hips back and sit down to a box that takes you below parallel. Sit completely down, do not touch and go. Then explosively stand up. Stay tight in your upper back and torso throughout the movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: taylorbarbell

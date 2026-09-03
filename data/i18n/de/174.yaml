@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '174'
 language: de
-status: upstream_unreviewed
-name: Crunches mit gestreckten Beinen
+status: ai_reviewed
+name: Vertical Leg Crunch
 description: |-
-  Lege dich auf den Rücken, strecke die Beine gerade nach oben, greife mit den Händen in Richtung deiner Zehen und hebe dabei die Schulterblätter vom Boden ab und nach hinten.
+  Lege dich auf den Rücken, strecke die Beine senkrecht nach oben, führe die Hände in Richtung deiner Zehen und hebe dabei die Schulterblätter vom Boden ab. Senke den oberen Rücken anschließend wieder kontrolliert ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

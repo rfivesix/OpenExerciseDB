@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '569'
 language: de
-status: upstream_unreviewed
-name: Frontdrücken MP
+status: ai_reviewed
+name: Schulterdrücken an der Multipresse
 description: |-
-  Selbe Durchführung wie mit der Langhantel. Setze dich auf eine Bank, stelle die Lehne fast Senkrecht ein. Greife die Stange etwas mehr als Schulterbreit und hebe sie auf Brusthöhe. Drücke sie nun nach oben, strecke die Arme aber nicht vollständig aus. Bringe das Gewicht langsam wieder runter, bis sie wie beim Bankdrücken die Brust kurz berührt.
+  Gleiche Durchführung wie mit der freien Langhantel. Setze dich auf eine Bank und stelle die Rückenlehne fast senkrecht ein. Greife die Stange etwas mehr als schulterbreit. Drücke sie nach oben, ohne die Arme vollständig durchzustrecken. Senke das Gewicht langsam wieder ab, bis die Stange kurz über der oberen Brust ist, und wiederhole die Bewegung.
 search_terms:
   - Schulterdrücken MP
   - Military Press MP

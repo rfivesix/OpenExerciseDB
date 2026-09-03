@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '312'
 language: en
-status: upstream_unreviewed
-name: Incline Plank With Alternate Floor Touch
+status: ai_reviewed
+name: Decline Swiss Ball Plank with Alternating Toe Tap
 description: |-
   Perform the plank with legs elevated, feet on a gymball. Once stabilised, slowly move one foot sideways off the ball, then make it touch the floor, then come back to starting position. Alternate with the other foot.
   This is a core exercise.

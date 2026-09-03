@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '614'
 language: de
-status: upstream_unreviewed
-name: Tiefe Hocksprünge
+status: ai_reviewed
+name: Squat Jumps
 description: |-
-  5 Sekunden parallel zum Boden mit den Oberschenkeln. Dann hoch springen und in Anfangsphase begeben. Arme verschränkt hinter dem Kopf die ganze Zeit.
+  Springe aus einem breiten Stand ab und lande im engen Stand. Wiederhole die Bewegung im Wechsel zwischen weitem und engem Stand.
 upstream:
   license: CC-BY-SA-3.0
   license_author: OGhTebfCxhexZXuf35mUxV9C--A

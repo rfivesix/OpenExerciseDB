@@ -1,17 +1,19 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '395'
 language: en
 status: ai_reviewed
 name: Seated Cable Row (Narrow Grip)
-description: 'The exercise is the same as the regular long pulley, but with a narrow
-  grip:
-
-  Sit down, put your feet on the supporting points and grab the bar with a wide grip.
-  Pull the weight with a rapid movement towards your belly button, not upper. Keep
-  your arms and elbows during the movement close to your body. Your shoulders are
-  pulled together. Let the weight slowly down till your arms are completely stretched.'
+description: |-
+  The exercise is the same as the regular long pulley, but with a narrow grip:
+  Sit down, put your feet on the supporting points and grab the handle with a narrow grip. Pull the weight with a rapid movement towards your belly button, not upper. Keep your arms and elbows during the movement close to your body. Your shoulders are pulled together. Let the weight slowly down till your arms are completely stretched.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '144'
 search_terms:
-- Long-Pulley, Narrow
+  - Long-Pulley, Narrow

@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1733'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Isometric Squat to Failure
 description: |-
-  sometric Squat to Failure: A Strength Training Technique
+  Isometric Squat to Failure: A Strength Training Technique
   Definition
   The isometric squat to failure is a variation of the squat exercise where you hold a static squat position at a specific angle, maintaining the position until your muscles can no longer sustain the contraction.
 upstream:

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '238'
 language: de
-status: upstream_unreviewed
-name: Fliegende KH Flachbank
+status: ai_reviewed
+name: Kurzhantel-Fliegende auf der Flachbank
 description: |-
   Greife zwei Kurzhanteln und lege dich auf eine Bank und strecke die Arme schulterbreit vollständig aus. Füße, Rücken und Kopf liegen fest auf Boden/Bank und geben Halt. Beuge nun leicht die Arme am Ellenbogengelenk und lasse sie mit einer Halbkreisbewegung seitlich runter. Ohne diesen Winkel zu verändern bringe sie wieder nach oben.
 upstream:

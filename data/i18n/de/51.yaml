@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '51'
 language: de
-status: upstream_unreviewed
-name: Handgelenkstreckung
+status: ai_reviewed
+name: Langhantel-Handgelenkcurl
 description: |-
-  Im Sitzen Unterarme auf die Oberschenkel, Handrücken nach oben (Obergriff) und dann Kurzhanteln nach oben bewegen.
+  Setze dich auf eine Flachbank, halte eine Langhantel im Untergriff schulterbreit und lege die Unterarme auf den Oberschenkeln ab. Lasse die Handgelenke über die Knie hängen, beuge sie zur Körperseite und senke die Stange wieder ab.
 search_terms:
   - Kurzhantel-Unterarmcurl
 upstream:

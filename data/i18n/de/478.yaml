@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '478'
 language: de
-status: upstream_unreviewed
-name: Push Press
+status: ai_reviewed
+name: Push Press mit Kurzhanteln
 description: |-
-  Bringe deine Kurzhanteln im Cleanen auf deine Schultern, die Handflächen zeigen nach innen. Atme ein und spanne deinen Rumpf an. (Bild 1) Gehe in die Knie und nutze deine Beine, um die Kurzhanteln (Bild 2) über den Kopf zu drücken. Senke sie kontrolliert und in langsamem Tempo wieder zu deinen Schultern ab und wiederhole.
+  Bringe deine Kurzhanteln mit einem Umsetzen auf deine Schultern, die Handflächen zeigen nach innen. Atme ein und spanne deinen Rumpf an. Gehe leicht in die Knie und nutze den Schwung der Beine, um die Kurzhanteln über den Kopf zu drücken. Senke sie kontrolliert wieder zu deinen Schultern ab und wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '174'
 language: en
-status: upstream_unreviewed
-name: Crunches With Legs Up
+status: ai_reviewed
+name: Vertical Leg Crunch
 description: |-
   On your back, legs extended straight up, reach toward your toes with your hands and lift your shoulder blades off the ground and back.
 upstream:

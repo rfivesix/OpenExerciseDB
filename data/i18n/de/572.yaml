@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '572'
 language: de
-status: upstream_unreviewed
-name: Shrugs KH
+status: ai_reviewed
+name: Shrugs mit Kurzhanteln
 description: |-
   Stelle dich mit geradem Oberkörper hin, die Hände hängen frei nach unten und halten je eine Kurzhantel. Hebe aus dieser Position die Schultern so weit nach oben, wie es geht, beuge aber die Arme während der Übung nicht. Am höchsten Punkt kannst du eine oder zwei Sekunden Pause machen bevor du langsam wieder runtergehst.
   Bei größerem Gewicht, beachte immer, dass du immer noch die volle Bewegungsamplitude durchführen kannst.

@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '245'
 language: de
-status: upstream_unreviewed
-name: Frenchpress KH
+status: ai_reviewed
+name: Kurzhantel-French-Press
 description: |-
-  Nehme die Hanteln in die Hand, lege dich auf eine Bank und stelle dich so hin, dass ca. 1/4 des Kopfes nicht mehr auf der Bank liegt. Strecke die Arme aus und lasse nun mit einem Bogen die Gewichte runter. Wenn die Hanteln knapp über die Stirn sind, drücke sie wieder nach oben.
-  Es ist wichtig die Ellenbogen während der ganzen Übung wenig zu bewegen, damit die Trizeps die Arbeit machen.
+  Nimm die Kurzhanteln in die Hand, lege dich auf eine Bank, sodass ca. 1/4 deines Kopfes über das Bankende hinausragt. Strecke die Arme nach oben aus und senke die Gewichte in einem Bogen kontrolliert ab. Wenn die Kurzhanteln knapp über der Stirn sind, drücke sie wieder nach oben.
+  Es ist wichtig, die Ellenbogen während der gesamten Übung möglichst stabil zu halten, damit der Trizeps die Arbeit leistet.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

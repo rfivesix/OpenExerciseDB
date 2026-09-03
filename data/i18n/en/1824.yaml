@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1824'
 language: en
-status: upstream_unreviewed
-name: Dumbell Tate Press
+status: ai_reviewed
+name: Dumbbell Tate Press
 description: |-
   Set Up: Lie flat with a dumbbell in each hand. Extend your arms straight up over your chest as if you were at the top of a dumbbell bench press
   Starting Position: Position the dumbbells so they are touching or very close together with a pronated grip (palms facing your feet and thumbs facing each other)
@@ -14,7 +15,7 @@ description: |-
   Touch and Pause: Gently touch the dumbbells to your chest. Do not rest the weight on your body; maintain constant tension in your triceps
   Press: Forcefully extend your elbows to return the dumbbells to the starting position. Focus on "pushing your pinkies toward the sky" to maximize triceps engagement
 
-  https://www.youtube.com/watch?v=IgSjoXbpy1M&amp;t=2
+  https://www.youtube.com/watch?v=IgSjoXbpy1M&t=2
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

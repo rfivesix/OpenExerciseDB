@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '628'
 language: de
-status: upstream_unreviewed
-name: Lat-Ziehen Mit Gesteckten Armen Mit (Stange)
+status: ai_reviewed
+name: Überzug mit gestreckten Armen am Kabelzug mit Stange
 description: |-
-  Verwenden Sie den Aufsatz für die gerade Stange. Fassen Sie die beiden Enden der Stange mit den Handflächen nach unten und den Armen gerade vor Ihnen. Ziehen Sie Ihre Hände nach unten in Richtung Ihrer Hüften, während Sie Ihre Arme gerade halten, und heben Sie sie dann wieder in die Ausgangsposition.
+  Verwende die gerade Stange am oberen Kabelzug. Fasse die Stange im Obergriff (Handflächen nach unten) mit gestreckten Armen vor dir. Führe deine Hände mit gestreckten Armen nach unten in Richtung deiner Hüfte und kehre anschließend kontrolliert in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

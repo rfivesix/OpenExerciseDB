@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '655'
 language: de
-status: upstream_unreviewed
-name: Kick-Backs
+status: ai_reviewed
+name: Kurzhantel-Kickbacks
 description: |-
-  Stelle dich auf einer Bank, wie beim einarmigen KH-rudern: ein Knie und eine Hand auf die Bank, das andere Bein ist auf dem Boden und gibt Halt. Nehme die KH, der Vorderarm macht einen rechten Winkel und zeigt nach unten. Ohne die Ellenbogen zu bewegen, bringe das Gewicht hoch.
+  Positioniere dich an einer Flachbank wie beim einarmigen Kurzhantelrudern: Platziere ein Knie und eine Hand auf der Bank, während das andere Bein stabil auf dem Boden steht. Nimm die Kurzhantel in die freie Hand, sodass der Oberarm parallel zum Oberkörper anliegt und der Unterarm im 90-Grad-Winkel nach unten zeigt. Strecke nun den Arm ausschließlich über das Ellbogengelenk nach hinten durch und bringe das Gewicht kontrolliert nach oben.
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.bodybuilding.com/

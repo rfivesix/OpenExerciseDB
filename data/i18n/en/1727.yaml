@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1727'
 language: en
-status: upstream_unreviewed
-name: Side Straight-Arm Pulldown (Cable)
+status: ai_reviewed
+name: Cable Standing Lateral Straight-Arm Pulldown
 description: |-
   Keep your torso still, pulling the handle down along your side using the outer lat.
   Don’t twist your body or rotate your torso to cheat the rep.

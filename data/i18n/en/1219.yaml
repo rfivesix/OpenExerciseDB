@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1219'
 language: en
-status: upstream_unreviewed
-name: Australian pull-ups
+status: ai_reviewed
+name: Australian Pull-up
 description: |-
   Lie down under a high bar or suspension bar, positioned at an appropriate height.
   Position yourself on your back under the bar, gripping the bar with a supinated grip (palms facing you).

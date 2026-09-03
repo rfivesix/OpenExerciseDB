@@ -3,18 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '570'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Schulterzucken
 description: |-
   Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken.
+  Sitze oder stehe mit geradem Rücken.
   Schritte:
 
-  Heben Sie die Schultern so weit wie möglich gerade nach oben und halten Sie sie 5 Sekunden lang.
-  Lassen Sie die Schultern wieder in eine entspannte Position sinken.
-  Wiederholen Sie die Übung.
+  Hebe die Schultern so weit wie möglich gerade nach oben und halte sie kurz an.
+  Lasse die Schultern wieder in eine entspannte Position sinken.
+  Wiederhole die Übung.
 upstream:
   license: CC0-1.0
   license_author: BFad07

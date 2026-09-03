@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '975'
 language: de
-status: upstream_unreviewed
-name: Einarmige Kettlebell-Curls
+status: ai_reviewed
+name: Einarmiger Kettlebell-Curl
 description: |-
   Stehe mit der Kettlebell in einer Hand und im Ellbogen angewinkelt. Beginne aus einer vollständig gestreckten Position, bis deine Hand die Schulterhöhe erreicht. Um die Bewegung korrekt auszuführen, versuche nicht, mit dem Rücken oder dem Körper Schwung zu holen.
 upstream:

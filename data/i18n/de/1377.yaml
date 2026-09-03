@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1377'
 language: de
-status: upstream_unreviewed
-name: Rumpfdrehung
+status: ai_reviewed
+name: Rumpfdrehung im Stehen
 description: |-
   Rumpfdrehung im Stehen: Beanspruche deinen Rumpf und verbessere deine Beweglichkeit mit dieser dynamischen Übung im Stehen! Bei der Rumpfdrehung im Stehen drehst du deinen Oberkörper, während du Füße und Hüfte stabil hältst, deine schrägen Bauchmuskeln anspannst und deinen gesamten Oberkörper dehnst. Diese Bewegung hilft dabei: die Rumpfmuskulatur zu kräftigen, die Beweglichkeit von Wirbelsäule und Oberkörper zu erhöhen, die Haltung und das Gleichgewicht zu verbessern und die allgemeine sportliche Leistung zu steigern. Führe 3 Sätze mit je 10-15 Wiederholungen aus, indem du dich zu jeder Seite drehst, um die Vorteile dieser wirksamen und effizienten Übung zu spüren!
 upstream:

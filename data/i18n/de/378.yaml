@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '378'
 language: de
-status: upstream_unreviewed
-name: Beinheben Aufrecht
+status: ai_reviewed
+name: Beinheben an der Dip-Station
 description: |-
-  Stelle dich mit den Unterarmen fest auf die Polster der Beinhebemaschine, der Körper hängt frei nach unten. Hebe nun die Beine so weit wie möglich nach oben, wobei an der höchsten Stelle eine kurze Pause eingelegt wird. Bringe sie dann langsam und kontrolliert wieder nach unten. Während der Übung darf der Körper nicht mitschwingen, nur die Beine sollten sich hier bewegen.
+  Stütze dich mit den Unterarmen auf den Polstern der Dip-Station ab, sodass der Körper frei hängt. Hebe die Beine kontrolliert nach oben an und halte am höchsten Punkt kurz die Spannung. Senke die Beine anschließend langsam und kontrolliert wieder ab. Vermeide jeglichen Schwung aus dem Oberkörper.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

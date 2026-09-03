@@ -3,9 +3,10 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1964'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Breiter Liegestütz
 description: |-
   Eine Variante des Liegestützes mit weiterer Handposition, um die äußere Brustmuskulatur und die Schultern stärker zu beanspruchen.
@@ -13,7 +14,7 @@ description: |-
   Aufbau: Setze die Hände weiter als schulterbreit auf dem Boden auf.
   Absenken: Senke dich ab, bis deine Brust den Boden fast berührt, und halte dabei deinen Rumpf angespannt.
   Drücken: Drücke dich über die Handflächen wieder in die Ausgangsposition.
-  Haltung: Lass dein unteres Rücken nicht durchhängen; halte eine gerade Linie von Kopf bis Fersen.
+  Haltung: Lass deinen unteren Rücken nicht durchhängen; halte eine gerade Linie von Kopf bis Fersen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -3,13 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '577'
 language: de
-status: upstream_unreviewed
-name: Seitliches Oberkörperbeugen Mit KH
+status: ai_reviewed
+name: Seitbeugen mit Kurzhantel
 description: |-
-  Zielmuskeln: Schräger Bauchmuskel
-  Unterstützende Muskulatur: Gerader Bauchmuskel
+  Stelle dich aufrecht mit leicht gebeugten Knien und hüftbreitem Stand hin. Halte eine Kurzhantel mit gestrecktem Arm seitlich am Körper. Beuge den Oberkörper langsam und kontrolliert zur Seite der Hantel, halte die natürliche Wirbelsäulenkrümmung bei und richte dich anschließend wieder auf.
 upstream:
   license: CC-BY-SA-3.0
   license_author: GiglioRosso

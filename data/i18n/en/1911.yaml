@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1911'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cat Plank
 description: |-
-  On your fours and raise the knees of the floor ever so slightly.&nbsp;
-  Curl your back out and push back from your shoulders as to resemble a cat making itself look large.
+  Get on all fours and raise your knees off the floor ever so slightly.
+  Round your back upward and push back through your shoulders to resemble a cat arching its back.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro

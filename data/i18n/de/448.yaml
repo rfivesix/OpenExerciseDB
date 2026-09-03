@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '448'
 language: de
-status: upstream_unreviewed
-name: Pendelay Rows
+status: ai_reviewed
+name: Pendlay-Rudern
 description: |-
-  Rückenübung mit einer Langhantel mit einer Ausgangsposition, die mit der Rückenparallele zum Boden gebeugt ist. Die Langhantel liegt auf Brusthöhe auf dem Boden. Für die Bewegung die Langhantel am schulterbreiten Griff ergreifen und in Richtung Brust ziehen, ohne die gebeugte Position zu verlieren und ohne etwas anderes als Ihre Arme zu bewegen
+  Rückenübung mit einer Langhantel. Die Ausgangsposition ist vorgebeugt mit dem Rücken parallel zum Boden. Die Langhantel liegt auf dem Boden auf Brusthöhe. Greife die Langhantel etwa schulterbreit und ziehe sie zur Brust, ohne die vorgebeugte Position zu verlieren und ohne etwas anderes als die Arme zu bewegen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Nallitnas

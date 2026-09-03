@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '659'
 language: en
-status: upstream_unreviewed
-name: Triceps Extensions on Cable
+status: ai_reviewed
+name: Cable Rope Triceps Extension
 description: |-
-  Grab the cable, stand with your feet shoulder wide, keep your back straight and lean forward a little. Push the bar down, making sure the elbows don't move during the exercise. Rotate your hands outwards at the very end and go back to the initial position without pause.
+  Grab the rope attachment on the cable, stand with your feet shoulder-width apart, keep your back straight and lean forward a little. Push the rope down, making sure the elbows don't move during the exercise. Rotate your hands outwards at the very end and return to the initial position in a controlled manner.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

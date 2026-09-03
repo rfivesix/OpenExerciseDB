@@ -3,9 +3,10 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '145'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Holzhacker am Kabelzug
 description: |-
   Stelle die Kabelrolle etwas niedriger als auf Brusthöhe ein. Halte den Körper nach vorne gerichtet und die Hüfte stabil. Greife den Griff der Rolle, strecke deine Arme vollständig und führe sie nach vorne und diagonal über deinen Körper. Halte am Ende der Bewegung 1 Sekunde lang inne und kehre langsam in die Ausgangsposition zurück.

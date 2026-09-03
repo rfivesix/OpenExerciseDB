@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1661'
 language: de
-status: upstream_unreviewed
-name: Trizepsdrücken am Kabelzug
+status: ai_reviewed
+name: Einarmiges Trizepsdrücken am Kabelzug
 description: |-
   Eine einarmige Übung, die mit der Hand nah an der Brust und gebeugtem, nach außen abgespreiztem Ellbogen beginnt. Drücke nach vorne und unten gegen das Kabel und strecke dabei den Ellbogen.
 upstream:

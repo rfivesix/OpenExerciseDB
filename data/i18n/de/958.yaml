@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '958'
 language: de
-status: upstream_unreviewed
-name: Bizeps mit TRX
+status: ai_reviewed
+name: TRX-Bizepscurl
 description: |-
   Greife die Griffe der TRX-Schlaufen, lehne deinen Körper nach hinten, Arme und Beine gestreckt, wobei dein Körper eine einzige gerade Linie bildet. (Dies ist eine Übung für die Arme, nicht für die Bauchmuskulatur.)
 upstream:

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '185'
 language: de
-status: upstream_unreviewed
-name: Negativ Bankdrücken
+status: ai_reviewed
+name: Langhantel-Negativbankdrücken
 description: |-
   Lege dich auf die Negativbank hin, die Oberschenkel und der Rücken legen fest auf der drauf. Greife die Stange breit und lasse sie langsam und kontrolliert runter, dabei sollte die Stange kurz auf Brustwarzenhöhe den Körper berühren. Dann das Gewicht wieder hochdrücken bis die Arme durchgestreckt sind.
 upstream:

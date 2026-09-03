@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1882'
 language: de
-status: upstream_unreviewed
-name: Seitheben am hohen Kabelzug
+status: ai_reviewed
+name: Seitheben am Kabelzug auf Hüfthöhe
 description: |-
   Stelle dich neben eine Kabelzugmaschine, mit der Rolle auf Hüfthöhe eingestellt.
   Greife den Griff der gegenüberliegenden Seite mit der Hand, die am weitesten von der Rolle entfernt ist, und halte deine Handfläche nach innen.

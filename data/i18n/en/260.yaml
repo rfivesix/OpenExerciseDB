@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '260'
 language: en
-status: upstream_unreviewed
-name: Full Sit Outs
+status: ai_reviewed
+name: Full Sit-Out
 description: |-
-  (A) Get in high plank position on your hands and toes.(B) Shift your weight to your left hand as you turn your body to the right; bend your right leg behind you and extend your right arm up. Return to the center and repeat on the opposite side. Continue, alternating sides.Make it easier:&nbsp;Don’t raise your arm after you bend your leg behind you.Make it harder:&nbsp;Balance with your arm and leg extended for two counts.
+  (A) Get in high plank position on your hands and toes. (B) Shift your weight to your left hand as you turn your body to the right; bend your right leg behind you and extend your right arm up. Return to the center and repeat on the opposite side. Continue, alternating sides. Make it easier: Don’t raise your arm after you bend your leg behind you. Make it harder: Balance with your arm and leg extended for two counts.
 upstream:
   license: CC-BY-SA-4.0
   license_author: http://www.realsimple.com/health/fitness-exercise/

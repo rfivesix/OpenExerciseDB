@@ -3,20 +3,21 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '984'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ausfallschritte
 description: |-
   Ausgangsposition:
-  Mit geradem Rücken stehen.
+  Mit geradem Rücken aufrecht stehen.
   Schritte:
 
-  Machen Sie mit dem linken Bein einen großen Schritt nach vorn.
-  Senken Sie Ihr Becken, bis Sie mit dem rechten Knie fast den Boden berühren.
-  Bringen Sie Ihr Becken wieder nach oben.
-  Kehren Sie in die Ausgangsposition zurück, indem Sie einen Schritt zurücktreten.
-  Wiederholen Sie den Vorgang und wechseln Sie dabei jedes Mal die Beine.
+  Mache mit einem Bein einen großen Schritt nach vorn.
+  Senke das Becken, bis das hintere Knie fast den Boden berührt.
+  Drücke dich wieder nach oben.
+  Kehre durch einen Schritt zurück in die Ausgangsposition zurück.
+  Wiederhole den Vorgang und wechsle dabei die Beine ab.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1543'

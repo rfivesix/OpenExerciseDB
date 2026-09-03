@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '622'
 language: de
-status: upstream_unreviewed
-name: Wadenheben Stehend
+status: ai_reviewed
+name: Stehendes Wadenheben
 description: |-
-  Die Füße werden auf die in der Maschine dafür vorgesehene Stelle positioniert, wobei man die Fersen (und damit die Wadenmuskeln) komplett nach unten austrecken kann. Halte den Körper gerade, mache kein Hohlkreuz und beuge die Beine nicht.
-  Ziehe nun die Wadenmuskeln zusammen und gehe so hoch es geht. Mache auf dem höchsten Punkt eine kurze Pause (1-2 sek.) und gehe dann runter.
+  Platziere deine Fußballen auf der Trittfläche des Geräts, sodass du deine Fersen für eine volle Dehnung der Wadenmuskulatur weit nach unten absenken kannst. Halte den Körper aufrecht, vermeide ein Hohlkreuz und halte die Beine fast gestreckt.
+  Drücke dich über die Fußballen so weit wie möglich nach oben. Halte am obersten Punkt für 1–2 Sekunden die Spannung und senke die Fersen langsam wieder ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

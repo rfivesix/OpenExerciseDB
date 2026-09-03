@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1573'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bauchroller
 description: |-
-  Ausgangsposition: Knie dich auf den Boden, mit dem Bauchroller vor dir.
-  Greife den Roller: Halte die Griffe fest.
-  Ausrollen: Rolle den Roller langsam nach vorn und strecke deinen Körper aus, während du den Rumpf angespannt hältst.
-  Zurückkehren: Ziehe den Roller wieder zurück zu deinen Knien und halte die Spannung im Rumpf.
+  Ausgangsposition: Knie dich auf den Boden, mit dem Bauchroller vor dir auf der Matte.
+  Greife den Roller: Fasse die Griffe fest.
+  Ausrollen: Rolle das Rad langsam nach vorne und strecke deinen Körper, während du den Rumpf fest angespannt hältst.
+  Zurückkehren: Ziehe den Roller wieder kontrolliert zurück in Richtung der Knie und halte die Spannung im Rumpf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

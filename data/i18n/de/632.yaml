@@ -3,13 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '632'
 language: de
-status: upstream_unreviewed
-name: Sumo Kniebeuge
+status: ai_reviewed
+name: Sumo-Kniebeugen
 description: |-
-  Variante der Kniebeuge: breiter Stand, Füße leicht nach außen
-  Optional mit Langhantel oder Kettlebell (Kugelhantel) vor der Brust
+  Stelle dich mit den Füßen weiter als schulterbreit auf, die Fußspitzen in einem 45-Grad-Winkel nach außen gedreht.
+  Halte den Rücken gerade und senke dich langsam ab, indem du Knie und Hüfte beugst, als ob du dich hinsetzt.
+  Gehe so weit nach unten, bis deine Oberschenkel parallel zum Boden sind.
+  Kehre in die Ausgangsposition zurück, indem du dich nach oben drückst und die Beine streckst, während das Gewicht gleichmäßig auf Vorfuß und Ferse verteilt bleibt.
 search_terms:
   - Sumo Squats
   - Pilé Squats

@@ -3,17 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '630'
 language: de
-status: upstream_unreviewed
-name: Sumo Kreuzheben
+status: ai_reviewed
+name: Sumo-Kreuzheben
 description: |-
-  Muskulatur anspannen
-  Rücken aufrecht halten
-  Rücken gerade halten
-  Langsame Bewegung
-  Kontrollierte Bewegung
-  Nicht überdehnen
+  Beginne mit einer beladenen Langhantel auf dem Boden. Tritt so an die Hantelstange heran, dass sie über der Mitte der Füße liegt. Die Füße stehen sehr breit, nahe an den Hantelscheiben. Beuge dich in der Hüfte, um die Stange zu greifen. Die Arme befinden sich direkt unter den Schultern innerhalb der Beine; du kannst einen Obergriff, Kreuzgriff oder Hakengriff verwenden. Entspanne die Schultern, wodurch die Arme effektiv verlängert werden.
+  Atme ein, senke die Hüfte ab und blicke mit aufrechter Brust nach vorne. Drücke dich durch den Boden ab, während das Gewicht auf der hinteren Fußhälfte liegt. Strecke Hüfte und Knie.
+  Sobald die Stange die Knie passiert, führe die Hüfte nach vorne an die Stange und ziehe die Schulterblätter zusammen.
+  Senke das Gewicht kontrolliert wieder zum Boden ab, indem du dich in der Hüfte beugst.
 search_terms:
   - Sumo Deadlift
 upstream:

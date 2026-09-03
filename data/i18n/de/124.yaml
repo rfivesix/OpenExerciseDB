@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '124'
 language: de
-status: upstream_unreviewed
-name: Goblet-Kniebeuge mit Scheibe
+status: ai_reviewed
+name: Braced Squat
 description: |-
   Stelle dich mit den Füßen etwas weiter als schulterbreit hin und richte dich dabei so groß wie möglich auf.
   Nimm eine Gewichtsscheibe und halte sie mit gestreckten Armen vor deinem Körper. Halte deinen Rumpf angespannt und stehe mit einer natürlichen Wölbung im Rücken.

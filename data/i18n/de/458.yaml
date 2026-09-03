@@ -3,12 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '458'
 language: de
-status: upstream_unreviewed
-name: Plank
+status: ai_reviewed
+name: Unterarmstütz (Plank)
 description: |-
-  Mit dem Bauch auf den Boden legen und den Körper mit Unterarmen und Zehen abstützen. Beine, Rücken und Kopf sollten eine gerade Linie bilden.
+  Begib dich in Bauchlage auf die Matte und stütze dein Gewicht auf Unterarme und Zehenspitzen. Die Ellbogen befinden sich senkrecht unter den Schultern.
+  Halte deinen Körper von Kopf bis Fuß in einer geraden Linie und spanne Bauch und Gesäß fest an. Halte diese Position so lange wie möglich.
 search_terms:
   - Unterarmstütze
 upstream:

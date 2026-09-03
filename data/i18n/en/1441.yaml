@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1441'
 language: en
-status: upstream_unreviewed
-name: Incline OHP DB
+status: ai_reviewed
+name: Incline Dumbbell Overhead Press
 description: |-
   Sit on a bench with 45° incline
-  Ellbows 45° out
+  Elbows 45° out
   Move dumbbells down until upper arms are parallel to shoulders
   Move dumbbells up, meeting overhead
 upstream:

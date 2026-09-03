@@ -1,14 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '378'
 language: en
 status: ai_reviewed
-name: Standing Leg Raise
-description: Put your forearms on the pads on the leg raise machine, the body is hanging
-  freely. Lift now your legs with a fast movement as high as you can, make a short
-  pause of 1sec at the top, and bring them down again. Make sure that during the exercise
-  your body does not swing, only the legs should move.
+name: Dip Station Leg Raise
+description: |-
+  Put your forearms on the pads on the leg raise machine, the body is hanging freely. Lift now your legs with a fast movement as high as you can, make a short pause of 1sec at the top, and bring them down again. Make sure that during the exercise your body does not swing, only the legs should move.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '126'
 search_terms:
-- Leg Raises, Standing
+  - Leg Raises, Standing

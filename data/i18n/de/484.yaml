@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '484'
 language: de
-status: upstream_unreviewed
-name: Rack Deadlift
+status: ai_reviewed
+name: Rack-Pull
 description: |-
   Kreuzheben, ausgeführt an einer Smith-Maschine oder einem freien Rack. Die Stange bzw. Langhantel sollte sich knapp unterhalb der Kniescheibe befinden. Hebe mit der Gesäßmuskulatur und über die Fersen und kehre dann mit einer kontrollierten Bewegung von 2 Sekunden in die Ausgangsposition zurück.
   Diese Übung beansprucht hauptsächlich den unteren Rücken und die Gesäßmuskulatur.

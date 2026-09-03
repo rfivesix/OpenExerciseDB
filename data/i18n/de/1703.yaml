@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1703'
 language: de
-status: upstream_unreviewed
-name: Kickbacks (Trizepsdrücken nach hinten)
+status: ai_reviewed
+name: Kurzhantel-Kickback
 description: |-
   Der Kurzhantel-Kickback ist eine beliebte Krafttrainingsübung, die den Trizeps auf der Rückseite deiner Oberarme anspricht. Sie hilft, den Trizeps zu kräftigen und zu straffen und trägt so zur allgemeinen Armkraft und Ästhetik bei.
   Unter den Übungen, die die Armmuskulatur beanspruchen, sind der Kickback und seine Varianten sehr effektiv. Du kannst diese Übungen problemlos mit Kurzhanteln, Kabelzügen oder Widerstandsbändern ausführen.

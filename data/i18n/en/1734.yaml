@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1734'
 language: en
-status: upstream_unreviewed
-name: 'Single-Leg Lunge with Kettlebell:'
+status: ai_reviewed
+name: Single-Leg Lunge with Kettlebell
 description: |-
   How to do a single-leg kettlebell lunge
   Preparation: Stand with your feet together. Hold the kettlebell with both hands by the handle, keeping it close to your chest, or hold it with one hand (on the same side as the working leg).

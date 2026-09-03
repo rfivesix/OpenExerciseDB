@@ -3,16 +3,17 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1001'
 language: de
-status: upstream_unreviewed
-name: Hohe Planke
+status: ai_reviewed
+name: High Plank (Liegestützposition)
 description: |-
   Ausgangsposition:
-  Nehmen Sie die hohe Planke ein:Ihre Hände und Zehen sollten den Boden berühren, Ihr Rücken, Ihre Arme und Beine sollten gerade sein.Um in diese Position zu gelangen, können Sie sich auf den Bauch legen, die Hände mit dem Gesicht nach unten neben den Kopf legen und die Arme anheben, bis sie gerade sind.
-  Die Schritte:
+  Nimm die Liegestützposition (High Plank) ein: Deine Hände und Zehen berühren den Boden, dein Rücken, deine Arme und Beine sind gestreckt. Um in diese Position zu gelangen, kannst du dich auf den Bauch legen, die Handflächen neben deinen Schultern auf den Boden setzen und dich nach oben drücken, bis die Arme gestreckt sind.
+  Schritte:
 
-  Behalten Sie die Ausgangsposition während der gesamten Dauer der Übung bei.
+  Halte diese Ausgangsposition über die gesamte Dauer der Übung stabil.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1778'

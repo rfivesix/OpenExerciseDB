@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1901'
 language: de
-status: upstream_unreviewed
-name: Umsetzen und Stoßen
+status: ai_reviewed
+name: Umsetzen und Drücken
 description: |-
   Der erste Zug: Hebe die Stange vom Boden bis auf Kniehöhe, indem du aus den Beinen arbeitest und den Winkel deines Rückens konstant hältst.
   Die "Power"-Position: Sobald die Stange die Mitte der Oberschenkel erreicht, ziehe explosiv die Schultern hoch und strecke die Hüfte, um vertikalen Schwung zu erzeugen.

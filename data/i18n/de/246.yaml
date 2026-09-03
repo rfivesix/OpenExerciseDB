@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '246'
 language: de
-status: upstream_unreviewed
-name: Frenchpress SZ-Stange
+status: ai_reviewed
+name: French-Press mit SZ-Stange
 description: |-
-  Nehme die Hantel, lege dich auf eine Bank und stelle dich so hin, dass ca. 1/4 des Kopfes nicht mehr auf der Bank liegt. Strecke die Arme aus und lasse nun mit einem Bogen das Gewicht runter. Wenn die Stange knapp über die Stirn ist, drücke sie wieder nach oben.
-  Es ist wichtig die Ellenbogen während der ganzen Übung wenig zu bewegen, damit die Trizeps die Arbeit machen.
+  Nimm die SZ-Stange in die Hand, lege dich auf eine Bank, sodass ca. 1/4 deines Kopfes über das Bankende hinausragt. Strecke die Arme aus und senke das Gewicht in einem Bogen kontrolliert ab. Wenn die Stange knapp über der Stirn ist, drücke sie wieder nach oben.
+  Es ist wichtig, die Ellenbogen während der gesamten Übung möglichst stabil zu halten, damit der Trizeps die Arbeit leistet.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

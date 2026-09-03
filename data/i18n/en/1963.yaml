@@ -3,16 +3,17 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1963'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Slow Squat
 description: |-
-  ​A tempo-based squat that uses controlled movement to increase muscle tension and improve lower-body stability.
+  A tempo-based squat that uses controlled movement to increase muscle tension and improve lower-body stability.
 
-  ​Lower: Descend slowly for 3 seconds.
-  ​Pause: Hold at the bottom for 1 second.
-  ​Stand: Return to the starting position at a normal pace.
+  Lower: Descend slowly for 3 seconds.
+  Pause: Hold at the bottom for 1 second.
+  Stand: Return to the starting position at a normal pace.
   Form: Keep your chest up and weight in your heels.
 search_terms:
   - Tempo Squat

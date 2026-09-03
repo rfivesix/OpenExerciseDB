@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1660'
 language: de
-status: upstream_unreviewed
-name: Brustdrücken am Kabelzug auf der Schrägbank
+status: ai_reviewed
+name: Brustdrücken am Kabelzug - positiv geneigt
 description: |-
   Einarmiges Brustdrücken am Kabelzug. Nutze den anderen Arm, um den Körper abzustützen, damit du dich auf die Kraft beim Drücken konzentrieren kannst und nicht auf das Ausbalancieren des Körpers. Beginne mit der Hand so nah wie möglich an der Brust und drücke dann gegen das Kabel in einem leichten Schrägwinkel, wobei du zur Mitte deiner Brust hin zielst.
 upstream:

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1193'
 language: de
-status: upstream_unreviewed
-name: Russian Twist
+status: ai_reviewed
+name: Russian Twist mit Kurzhantel
 description: |-
   Halte eine Kurzhantel, eine Hantelscheibe oder etwas anderes Schweres mit beiden Händen, aber achte darauf, dass es nicht zu schwer ist und du die Form halten kannst.
   Lehne dich in einem Winkel von 45 Grad zum Boden zurück. Für eine zusätzliche Herausforderung hebst du die Füße vom Boden ab.

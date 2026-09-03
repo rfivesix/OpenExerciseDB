@@ -3,19 +3,20 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '999'
 language: de
-status: upstream_unreviewed
-name: Umgekehrte Ausfallschritte
+status: ai_reviewed
+name: Ausfallschritte nach hinten (Reverse Lunges)
 description: |-
   Ausgangsposition:
   Gerade stehen, Füße hüftbreit auseinander.
   Schritte:
 
-  Treten Sie mit einem Bein nach hinten, so dass Sie es bequem bis zu einem Winkel von 90 Grad beugen können.
-  Beugen Sie langsam beide Knie, um einen 90-Grad-Winkel zu bilden.
-  Kehren Sie in die Ausgangsposition zurück.
-  Wiederholen, dabei die Beine abwechseln.
+  Tritt mit einem Bein nach hinten, sodass du es bequem bis zu einem Winkel von 90 Grad beugen kannst.
+  Beuge langsam beide Knie, bis sie etwa einen 90-Grad-Winkel bilden.
+  Kehre in die Ausgangsposition zurück.
+  Wiederhole die Bewegung und wechsle dabei die Beine ab.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1752'

@@ -3,18 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '990'
 language: de
-status: upstream_unreviewed
-name: Kniende Rückschläge
+status: ai_reviewed
+name: Glute Kickbacks im Vierfüßlerstand
 description: |-
   Ausgangsposition:
-  Gehen Sie auf alle Viere.
+  Begib dich in den Vierfüßlerstand auf einer Matte.
   Schritte:
 
-  Drücken Sie einen Fuß nach hinten, bis er ganz gestreckt ist, und konzentrieren Sie sich dabei auf die Gesäßmuskeln.
-  Verweilen Sie eine Sekunde lang und kehren Sie dann in die Ausgangsposition zurück.
-  Wiederholen Sie den Vorgang, indem Sie die Füße abwechseln.
+  Strecke ein Bein kontrolliert nach hinten oben aus und spanne dabei die Gesäßmuskulatur an.
+  Halte die Kontraktion für eine Sekunde und kehre dann in die Ausgangsposition zurück.
+  Wiederhole die Bewegung und wechsle die Seite.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1629'

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1659'
 language: en
-status: upstream_unreviewed
-name: Lat Pulldown - Cross Body Single Arm
+status: ai_reviewed
+name: Single-Arm Cross-Body Lat Pulldown
 description: |-
   Sit at lat pulldown machine with body at a diagonal angle so that only one leg is under the pad. Pull the cable down with the opposite arm. this will force the cable to across your body while pulling down. Emphasises the stretch of the lat.
 upstream:

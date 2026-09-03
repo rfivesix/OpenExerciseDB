@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '456'
 language: de
-status: upstream_unreviewed
-name: Einbeinige Kniebeuge
+status: ai_reviewed
+name: Pistol Squat
 description: |-
-  Ein Bein nach hinten auf einem Stuhl oder Bank ablegen, mit dem anderen Bein eine Kniebeuge machen. Gewicht optional mit Langhantel auf Rücken, Kurzhantel in den Armen oder Kugelhantel in Brusthöhe.
+  Stehe hüftbreit mit aufrechtem Oberkörper. Strecke ein Bein und beide Arme auf Schulterhöhe nach vorn. Gehe langsam in die einbeinige Kniebeuge und halte das freie Bein und die Arme dabei gestreckt.
 search_terms:
   - Pistol squat
 upstream:

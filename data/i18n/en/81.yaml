@@ -1,15 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '81'
 language: en
 status: ai_reviewed
-name: Bent-Over Dumbbell Row
-description: With dumbbells in hand, bend at the hip until hands hang just below the
-  knees (similar to straight-legged-deadlift starting position). Keep upper body angle
-  constant while contracting your lats to pull you ellbows back pinching the shoulder
-  blades at the top. Try not to stand up with every rep, check hands go below knees
-  on every rep.
+name: One-Arm Dumbbell Row
+description: |-
+  Place one knee on a flat bench and brace yourself with the hand on the same side. Hold a dumbbell in the free hand, pull it close to your body, lower it under control, then repeat on the other side.
 search_terms:
-- One Arm DB Rows
-- Bent Over Dumbbell Rows
+  - One Arm DB Rows
+  - Bent Over Dumbbell Rows
 upstream:
   license: CC-BY-SA-4.0
   license_author: sebk

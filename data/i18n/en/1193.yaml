@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1193'
 language: en
-status: upstream_unreviewed
-name: Russian Twist
+status: ai_reviewed
+name: Dumbbell Russian Twist
 description: |-
   Hold a dumbbell, barbell weight or something else that is heavy with both hands, but make sure it is not too heavy and you are able to keep in form.
   Lean back to a 45-degree angle from the floor. For an extra challenge, lift your feet off the floor.

@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '41'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rollout mit der Langhantel
 description: |-
-  Lege eine Langhantel auf den Boden vor deine Füße.
-  Beuge dich in der Hüfte und greife die Langhantel schulterbreit im Obergriff.
-  Rolle die Stange in einer langsamen, kontrollierten Bewegung nach vorne aus, sodass dein Rücken gerade ist.
-  Rolle wieder zurück und hebe dabei deine Hüfte und dein Gesäß an, während du in die Ausgangsposition zurückkehrst.
+  Knie dich auf die Matte und platziere eine Langhantel vor dir auf dem Boden.
+  Greife die Hantelstange etwa schulterbreit im Obergriff.
+  Rolle die Stange in einer langsamen, kontrollierten Bewegung nach vorne aus, bis dein Körper gestreckt und der Rücken gerade ist.
+  Ziehe die Hantel mit der Bauchmuskulatur wieder zurück, um in die Ausgangsposition zurückzukehren.
 search_terms:
   - Bauchroller mit der Langhantel
 upstream:

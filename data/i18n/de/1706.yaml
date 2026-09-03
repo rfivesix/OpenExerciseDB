@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1706'
 language: de
-status: upstream_unreviewed
-name: Bulgarische Kniebeuge mit Kurzhanteln
+status: ai_reviewed
+name: Bulgarian Split Squat mit Kurzhanteln
 description: |-
   Die bulgarische Split-Kniebeuge besteht darin, eine einbeinige Kniebeuge auszuführen, während der hintere Fuß auf einer erhöhten Plattform aufliegt. Wenn du dein hinteres Bein auf einer Bank erhöhst, entsteht Instabilität und der Bewegungsumfang der Übung wird größer.
 upstream:

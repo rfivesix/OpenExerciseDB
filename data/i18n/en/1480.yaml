@@ -3,22 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1480'
 language: en
-status: upstream_unreviewed
-name: Lying Triceps Extensions
+status: ai_reviewed
+name: Lying Barbell Triceps Extension
 description: |-
-  Starting position for this
-  practical triceps exercise is lying on a standard bench holding a barbell or two dumbbells in both hands with an overhand grip, hands at shoulder width apart.
-  Begin with arms over your upper
-  chest and elbows bent back at about a 45-degree angle.
-  First bend at the elbows and
-  then allow the upper arm to drop back, bringing the barbell/dumbbells behind your
-  head and down toward the floor. In terms of upper arm position, the barbell/dumbbells should never be fully above your head, but instead behind it, to
-  ensure that you’re targeting the triceps.
-  Keep the shoulder blades tucked
-  under, the elbows tight in toward your head and your core active during
-  this entire movement.
+  Starting position for this practical triceps exercise is lying on a standard bench holding a barbell in both hands with an overhand grip, hands at shoulder width apart.
+  Begin with arms over your upper chest and elbows bent back at about a 45-degree angle.
+  First bend at the elbows and then allow the upper arm to drop back, bringing the barbell behind your head and down toward the floor. In terms of upper arm position, the barbell should never be fully above your head, but instead behind it, to ensure that you’re targeting the triceps.
+  Keep the shoulder blades tucked under, the elbows tight in toward your head and your core active during this entire movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1604'
 language: de
-status: upstream_unreviewed
-name: Seitlicher Ausfallschritt mit Slider
+status: ai_reviewed
+name: Seitlicher Ausfallschritt mit Kettlebell und Slider
 description: |-
   Stelle dich aufrecht hin, mit den Füßen hüftbreit auseinander, und halte eine Kettlebell in der Goblet-Position nah an deiner Brust. Stelle einen Fuß auf einen Slider, eine Gleitscheibe oder ein Handtuch. Halte deinen Brustkorb aufrecht und den Rumpf angespannt. Gleite den Fuß langsam zur Seite nach außen, während du das gegenüberliegende Knie beugst und deine Hüften in einen seitlichen Ausfallschritt absenkst. Halte das Knie des arbeitenden Beins in einer Linie mit den Zehen und lass es nicht nach innen einknicken. Das nicht arbeitende Bein bleibt gestreckt und gleitet sanft über den Boden. Drücke dich über die Ferse des gebeugten Beins ab, um in die Ausgangsposition zurückzukehren, während du die Kontrolle über die Kettlebell behältst.
 upstream:

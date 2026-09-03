@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '427'
 language: de
-status: upstream_unreviewed
-name: Crunches an Negativbank
+status: ai_reviewed
+name: Crunch an der Negativbank
 description: |-
-  Setze dich auf die Negativbank und fixiere deine Beine. Kreuze deine Arme über die Brust und bringe den Oberkörper nach oben, den Kopf dabei nicht nach vorn kippen. Gehe langsam wieder runter.
+  Setze dich auf die Negativbank und fixiere deine Beine unter den Polstern. Kreuze die Arme über der Brust und hebe den Oberkörper mit einer rollenden Bewegung kontrolliert an. Halte den Nacken stabil und kippe den Kopf nicht nach vorne. Senke den Oberkörper anschließend langsam wieder ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

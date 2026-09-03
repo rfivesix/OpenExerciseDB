@@ -3,11 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '538'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Incline Bench Press - Barbell
-description: To do slowly, tempo is 4010
+description: |-
+  Sit on the incline bench with your feet firmly on the floor for stability and your head resting on the bench. Unrack the barbell slightly wider than shoulder-width and press it upward. Lower the barbell until it briefly touches your chest, then press the weight back up. Perform slowly (tempo: 4010).
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

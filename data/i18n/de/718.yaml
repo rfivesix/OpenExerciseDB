@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '718'
 language: de
-status: upstream_unreviewed
-name: Wall Squat
+status: ai_reviewed
+name: Wandsitz
 description: |-
-  Mache einen klassischen Squat an der Wand. Lehne dich mit dem Rücken an die Wand und gleite langsam herunter bis du 90° in den Knien hast. Halte die Position 30 Sekunden.
+  Lehne dich mit dem Rücken aufrecht an eine Wand und wandere mit den Füßen nach vorne. Gleite mit dem Rücken langsam an der Wand nach unten, bis Oberschenkel und Unterschenkel einen 90-Grad-Winkel bilden und die Oberschenkel parallel zum Boden sind. Halte diese Position statisch für die vorgegebene Dauer.
 upstream:
   license: CC0-1.0
   license_author: Blablabla

@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '145'
 language: en
-status: upstream_unreviewed
-name: Cable Woodchoppers
+status: ai_reviewed
+name: Cable Woodchopper
 description: |-
-  Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. &nbsp;Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.
+  Set cable pulley slightly lower than chest height. Keep body facing forward with hips stable. Grab the pulley handle, fully extend your arms and bring your arms forward and across your body. Hold for 1 second at the end of the movement and slowly return to starting position.
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt

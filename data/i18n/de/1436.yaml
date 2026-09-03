@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1436'
 language: de
-status: upstream_unreviewed
-name: Pin Bench Press LH
+status: ai_reviewed
+name: Pin-Bankdrücken mit Langhantel
 description: |-
   Stelle die Sicherheitsablagen ungefähr auf die Höhe deines Sticking Points ein
   Senke die Stange ab, lasse sie 1 s auf den Ablagen ruhen und halte dabei die Spannung

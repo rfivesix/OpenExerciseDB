@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1246'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: TRX Roll-out
 description: |-
-  Halte die Griffe mit den Händen, strecke die Arme aus und halte sie parallel auf Brusthöhe. Die Bewegung, die du ausführen sollst, ist ein Öffnen der Arme in einer Linie mit den Schultern, während du den Körper nach vorne neigst. Versuche, keine Schulterstreckung über 90° hinaus auszuführen, und halte die Bauchmuskulatur und die Gesäßmuskulatur angespannt. Beteiligte Muskeln: Transversus, gerader Bauchmuskel und Rückenstrecker
+  Halte die Griffe mit den Händen, strecke die Arme aus und halte sie parallel auf Brusthöhe. Führe die Arme nach vorne oben über den Kopf, während du deinen Körper nach vorne neigst. Halte deine Bauchmuskeln und dein Gesäß fest angespannt und überstrecke die Schultern nicht. Beteiligte Muskeln: querer Bauchmuskel, gerader Bauchmuskel und Rückenstrecker.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

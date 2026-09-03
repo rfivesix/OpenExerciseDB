@@ -3,20 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1616'
 language: de
-status: upstream_unreviewed
-name: Eselstritt mit Kurzhantel
+status: ai_reviewed
+name: Donkey Kicks mit Kurzhantel
 description: |-
-  Der Eselstritt mit Kurzhantel ist eine effektive Übung, um die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur zu trainieren. Diese Übung wird in der Regel im Vierfüßlerstand ausgeführt, wobei eine Kurzhantel verwendet wird, um den Widerstand zu erhöhen. Im Folgenden werden die Schritte beschrieben, um sie korrekt durchzuführen.
-  Ausgangsposition: Begib dich auf einer Matte in den Vierfüßlerstand, wobei deine Hände auf einer Linie mit den Schultern und deine Knie auf einer Linie mit den Hüften sind.
-  Platzierung der Kurzhantel: Nimm eine Kurzhantel und klemme sie hinter dem Knie des Beins ein, das du anheben möchtest. Achte darauf, dass sie gut fixiert ist, damit sie während der Übung nicht herunterfällt.
-  Übung:
-  Atme ein und hebe beim Ausatmen das Bein mit der Kurzhantel nach oben, wobei du das Knie in einem 90-Grad-Winkel gebeugt hältst.
-  Hebe das Bein an, bis es parallel zum Boden ist, und spüre dabei die Kontraktion in der Gesäßmuskulatur.
-  Halte die Position oben eine Sekunde lang und senke das Bein dann langsam in die Ausgangsposition zurück.
-  Wiederholungen: Führe 10 bis 15 Wiederholungen pro Bein aus und achte dabei während der gesamten Übung auf eine saubere Ausführung.
-  Sätze: Absolviere 2 bis 3 Sätze, je nach deinem Fitnesslevel.
+  Donkey Kicks mit Kurzhantel sind eine effektive Übung, um die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur zu trainieren. Diese Übung wird im Vierfüßlerstand ausgeführt, wobei eine Kurzhantel in der Kniekehle für zusätzlichen Widerstand sorgt.
+  Ausgangsposition: Begib dich auf einer Matte in den Vierfüßlerstand, wobei sich deine Hände unter den Schultern und deine Knie unter den Hüften befinden.
+  Platzierung der Kurzhantel: Klemme eine Kurzhantel in die Kniekehle des Beins ein, das du anheben möchtest. Halte das Knie gebeugt, um die Hantel sicher zu fixieren.
+  Ausführung:
+  Hebe das gebeugte Bein nach oben an, wobei das Knie im 90-Grad-Winkel gebeugt bleibt.
+  Führe die Ferse nach oben, bis der Oberschenkel etwa parallel zum Boden steht, und spanne die Gesäßmuskulatur am höchsten Punkt an.
+  Halte die Kontraktion kurz und senke das Bein langsam und kontrolliert wieder in die Ausgangsposition ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

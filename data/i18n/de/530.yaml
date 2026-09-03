@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '530'
 language: de
-status: upstream_unreviewed
-name: Laufen an Laufband
+status: ai_reviewed
+name: Laufen auf dem Laufband
 description: |-
   Laufen auf dem Laufband ist eine effektive Cardio-Übung, die die Herzfrequenz erhöht und die Ausdauer trainiert. Sie beansprucht hauptsächlich die Beinmuskulatur, darunter die Waden, Oberschenkel und Gesäßmuskeln.
 upstream:

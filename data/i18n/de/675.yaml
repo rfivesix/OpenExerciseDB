@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '675'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Turkish Get-Up
 description: |-
-  Beginnen Sie auf dem Rücken und stellen Sie sich mit einer Hantel in der Hand auf. Wechseln Sie die Hände zwischen den Wiederholungen.
+  Lege dich auf den Rücken und bewege dich mit einer Kettlebell über Kopf in einer Hand kontrolliert in den aufrechten Stand und wieder zurück. Wechsle nach jeder Wiederholung die Seite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: dookie1481

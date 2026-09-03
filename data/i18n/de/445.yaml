@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '445'
 language: de
-status: upstream_unreviewed
-name: Pause Bench
+status: ai_reviewed
+name: Pause-Bankdrücken
 description: |-
-  Senken Sie den Riegel auf Ihre Brust und halten Sie dort 2 Sekunden lang inne (ruhen Sie sich jedoch nicht aus). Drücken Sie wieder hoch. Verwenden Sie das gleiche Gewicht wie beim Bankdrücken, aber führen Sie nur einzelne Wiederholungen durch. Insgesamt die Anzahl der Wiederholungen, die Sie in einem Satz Bankdrücken gemacht haben (wenn Sie 3 Sätze mit 8 Wiederholungen gemacht haben, machen Sie 8 Einzelpausen-Bankwiederholungen.
+  Senke die Hantelstange auf deine Brust und pausiere dort für 2 Sekunden (ohne das Gewicht abzulegen). Drücke sie wieder nach oben. Verwende das gleiche Gewicht wie beim normalen Bankdrücken, führe jedoch nur Einzelwiederholungen aus. Mache insgesamt so viele Wiederholungen, wie du in einem regulären Satz Bankdrücken machen würdest (wenn du 3 Sätze à 8 Wiederholungen machst, führe 8 Einzelwiederholungen mit Pause aus).
 upstream:
   license: CC0-1.0
   license_author: Mens Fitness

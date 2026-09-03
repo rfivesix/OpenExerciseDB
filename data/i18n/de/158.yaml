@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '158'
 language: de
-status: upstream_unreviewed
-name: Latzug Eng
+status: ai_reviewed
+name: Latzug mit engem Griff
 description: |-
   Körper leicht nach hinten geneigt
   kein Hohlkreuz
   Rumpfmuskulatur angespannt
-  schulterbreiter Untergriff
+  enger Obergriff (Hände enger als schulterbreit)
   Stange vor dem Kopf auf Brust herunterziehen
   Ellenbogen möglichst eng am Körper
   Stange soweit zurück, dass Ellenbogen leicht gebeugt

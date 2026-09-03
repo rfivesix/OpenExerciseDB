@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '465'
 language: de
-status: upstream_unreviewed
-name: KH an Scottmaschine
+status: ai_reviewed
+name: Scott-Curls mit SZ-Stange
 description: |-
-  Setze dich vor der Scottmaschine, stelle die Höhe so ein, dass die Achselhöhlen auf die Oberkante liegen. Die Oberarme liegen parallel auf der Fläche und bleiben während der Übung auch so. Ziehe die Hanteln so weit wie möglich hoch und bringe sie ohne Pause wieder runter. Strecke dabei die Arme ganz aus.
+  Lege die SZ-Stange auf die Ablagen vor der Scottbank. Setze dich so hin, dass die Oberarme auf dem Polster liegen und die Brust am Polster anliegt. Senke die Stange, bis die Arme gestreckt sind, und beuge die Ellenbogen, um sie wieder anzuheben.
 search_terms:
   - Scott Curls
   - Preacher Curls

@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '590'
 language: de
-status: upstream_unreviewed
-name: Wadenheben Sitzend
+status: ai_reviewed
+name: Sitzendes Wadenheben
 description: |-
-  Setze dich auf die Bank und stelle die Fußspitzen so auf den Rand, dass du die Waden komplett nach unten austrecken kannst. Ziehe nun die Wadenmuskeln zusammen und gehe so hoch es geht. Mache auf dem höchsten Punkt eine kurze Pause (1-2 sek.) und gehe dann runter.
+  Setze dich an das Gerät und platziere deine Fußballen so auf dem Rand der Plattform, dass du die Fersen komplett nach unten absenken kannst. Drücke dich nun über die Fußballen so weit wie möglich nach oben. Halte am höchsten Punkt kurz inne (1–2 Sekunden) und senke die Fersen anschließend langsam wieder ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

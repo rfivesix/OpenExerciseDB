@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1486'
 language: de
-status: upstream_unreviewed
-name: Abwechselndes hohes Kabelrudern
+status: ai_reviewed
+name: Abwechselndes hohes Rudern am Kabelzug
 description: |-
   Beginne,
   indem du den Aufsatz hoch an der Kabelstation positionierst und etwa 1 m vom Aufsatz zurücktrittst. Greife

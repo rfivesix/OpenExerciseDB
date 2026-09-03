@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1198'
 language: de
-status: upstream_unreviewed
-name: Inverted Rows (umgekehrtes Rudern)
+status: ai_reviewed
+name: Körpergewichtsrudern (Inverted Row)
 description: |-
   Halte deinen Körper gerade, ziehe die Schulterblätter zusammen und ziehe deine
   Brust zur Stange für ein effektives Training von Rücken und Oberkörper.

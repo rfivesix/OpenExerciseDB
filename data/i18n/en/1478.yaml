@@ -3,18 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1478'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Levitation Crunch
 description: |-
-  For
-  this top down movement, we’re trying to move the upper torso without moving the
-  lower torso. Start lying on the ground with feet flat on the floor and crossed
-  arms above your head with hands behind head. Lift upper body up and clear your
-  shoulder blades off the ground and then hold and pause at the top for a one or
-  two count. Try to make the upper abs work and hold that contraction for 10 good
-  quality reps.
+  For this top down movement, we’re trying to move the upper torso without moving the lower torso. Start lying on the ground with feet flat on the floor and crossed arms above your head with hands behind head. Lift upper body up and clear your shoulder blades off the ground and then hold and pause at the top for a one or two count. Try to make the upper abs work and hold that contraction for 10 good quality reps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

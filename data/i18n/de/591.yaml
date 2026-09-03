@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '591'
 language: de
-status: upstream_unreviewed
-name: Sit Ups
+status: ai_reviewed
+name: Sit-ups mit abgelegten Beinen
 description: |-
-  Lege dich auf eine Matte, die Knie sind rechtwiklig angewinkelt und die Fersen liegen auf eine Bank. Die Hände sind hinter dem Nacken. Das Hochgehen wird mit einer rollenden Bewegung durchgeführt: die Wirbelsäule sollte sich Wirbel für Wirbel von der Matte lösen. Ein Hohlkreuz ist stets zu vermeiden. Auf der höchsten Stelle sollten die Muskeln etwa 2 sek. maximal angespannt werden bevor die rollende Bewegung in der Gegenrichtung durchgeführt wird.
+  Lege dich auf eine Matte, winkle die Knie rechtwinklig an und lege die Unterschenkel auf einer Flachbank ab. Platziere die Hände hinter dem Kopf oder an den Schläfen. Rolle den Oberkörper Wirbel für Wirbel kontrolliert nach oben auf. Halte am höchsten Punkt für etwa zwei Sekunden die maximale Spannung in der Bauchmuskulatur, bevor du den Oberkörper langsam wieder abrollst. Ein Hohlkreuz ist stets zu vermeiden.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

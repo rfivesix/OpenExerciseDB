@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '283'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Beinheben im Hang
 description: |-
-  Ausgangspostion im Hang, die Beine sind angebhoben (Oberschenkel-Rumpf-Winkel 90°)
-  Von hier aus kleine Hebebewegungen ausführen, die Hüftgelenke bleiben in der Endposition gebeugt (90°)
+  Ausgangsposition im Hang an der Klimmzugstange: Hebe die Beine gestreckt oder mit leicht gebeugten Knien kontrolliert nach oben an.
+  Senke die Beine langsam und ohne Schwung wieder in die Ausgangsposition ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt

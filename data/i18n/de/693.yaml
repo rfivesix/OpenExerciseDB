@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '693'
 language: de
-status: upstream_unreviewed
-name: Rudern Aufrecht ß-Stange
+status: ai_reviewed
+name: Aufrechtes Rudern mit SZ-Stange
 description: |-
-  Stelle dich gerade hin, die Füße etwa schulterbreit. Halte die ß-Stange mit einem Obergriff vor den Oberschenkel, die Arme ausgestreckt. Ziehe dann die Stange dicht am Körper hoch, bis etwa zum Kinn. Die Ellenbogen zeigen nach oben, so, dass in der höchsten Position die Arme ein leichtes V machen. Mache nach Möglichkeit hier eine kurze Pause und gehe dann langsam wieder runter.
+  Stelle dich aufrecht hin, die Füße etwa schulterbreit. Halte die SZ-Stange im Obergriff vor den Oberschenkeln mit gestreckten Armen. Ziehe die Stange dicht am Körper nach oben bis etwa zum Kinn. Die Ellenbogen führen die Bewegung nach oben an, sodass die Arme am höchsten Punkt ein V bilden. Halte kurz inne und senke die Stange langsam wieder ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

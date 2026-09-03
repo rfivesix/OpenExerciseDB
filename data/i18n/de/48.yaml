@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '48'
 language: de
-status: upstream_unreviewed
-name: Langhantel-Handgelenkcurl mit Untergriff
+status: ai_reviewed
+name: Langhantel-Handgelenkcurl im Obergriff
 description: |-
   Setze dich auf eine Bank und greife eine Langhantel mit nach unten zeigenden Handflächen, die Hände schulterbreit auseinander. Lege deine Unterarme auf den Oberschenkeln ab und lass deine Handgelenke über die Knie hinausragen.
   Rolle deine Knöchel in Richtung deines Gesichts und hebe dabei die Langhantel an. Halte einen Moment in der oberen Position inne und führe die Langhantel dann langsam zurück in die Ausgangsposition.

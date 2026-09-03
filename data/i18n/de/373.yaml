@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '373'
 language: de
-status: upstream_unreviewed
-name: Beinpresse Eng
+status: ai_reviewed
+name: Beinpresse (enger Stand)
 description: |-
-  In die Maschine setzten und die Füße auf die Auflage stellen. Dabei sollte etwa so viel Platz dazwischen bleiben, dass noch ein Fuß dazwischen Platz hätte. Die Füße sind wie beim normalen Bankdrücken etwas nach außen gedreht.
-  Der Bewegungsablauf ist wie bei bei der breite Beinpresse: das Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Ohne Pause wird dann das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!
+  Setze dich in die Beinpresse und platziere deine Füße eng auf der Fußplatte (etwa eine Fußbreite Abstand zwischen den Füßen). Die Füße sind leicht nach außen gedreht.
+  Senke die Plattform kontrolliert ab, bis deine Knie einen Winkel von etwa 90 Grad bilden. Drücke das Gewicht anschließend kontrolliert wieder nach oben, ohne die Knie am obersten Punkt ganz durchzustrecken. Die Bewegung bleibt flüssig.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

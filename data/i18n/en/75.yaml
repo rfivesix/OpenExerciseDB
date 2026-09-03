@@ -1,42 +1,30 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '75'
 language: en
 status: ai_reviewed
 name: Dumbbell Bench Press
-description: 'Setup and Starting Position: Sit at the end of a flat bench with a dumbbell
-  resting vertically against each thigh. Carefully lean back while driving the dumbbells
-  toward your chest with your knees.
+description: |-
+  Setup and Starting Position: Sit at the end of a flat bench with a dumbbell resting vertically against each thigh. Carefully lean back while driving the dumbbells toward your chest with your knees.
 
 
-
-  The “Leg Drive” and Posture: Plant your feet firmly on the floor. Retract your shoulder
-  blades (press them together against the bench) and maintain a slight natural lumbar
-  curve.
+  The “Leg Drive” and Posture: Plant your feet firmly on the floor. Retract your shoulder blades (press them together against the bench) and maintain a slight natural lumbar curve.
 
 
-
-  Starting Position: Push the dumbbells toward the ceiling. Your wrists should be
-  aligned with your elbows. Rotate the dumbbells slightly inward (about 45 degrees)
-  so that your elbows do not splay out too far to the sides, thereby protecting your
-  shoulders.
+  Starting Position: Push the dumbbells toward the ceiling. Your wrists should be aligned with your elbows. Rotate the dumbbells slightly inward (about 45 degrees) so that your elbows do not splay out too far to the sides, thereby protecting your shoulders.
 
 
-
-  Eccentric Phase (Lowering): Lower the dumbbells in a controlled manner toward the
-  sides of your chest. Your elbows should lower at an angle of about 45–60 degrees
-  relative to your body. Feel the stretch in the lower part of your chest.
+  Eccentric Phase (Lowering): Lower the dumbbells in a controlled manner toward the sides of your chest. Your elbows should lower at an angle of about 45–60 degrees relative to your body. Feel the stretch in the lower part of your chest.
 
 
-
-  Concentric Phase (Lift): Push the weight upward in a slight arc (toward the center),
-  without letting the dumbbells collide at the top or fully locking out your elbows
-  to maintain muscle tension. Exhale as you lift.
-
-
-
-  Translated with DeepL.com (free version)'
+  Concentric Phase (Lift): Push the weight upward in a slight arc (toward the center), without letting the dumbbells collide at the top or fully locking out your elbows to maintain muscle tension. Exhale as you lift.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '97'
 search_terms:
-- Benchpress Dumbbells
+  - Benchpress Dumbbells

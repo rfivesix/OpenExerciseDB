@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '202'
 language: de
-status: upstream_unreviewed
-name: Konzentrations-Curls
+status: ai_reviewed
+name: Kurzhantel-Konzentrationscurl
 description: |-
-  Setz dich auf die Bank. Fassen Sie die Hantel zwischen den Beinen. Legen Sie den Oberarm an den inneren Oberschenkel. Unterarm anheben.
+  Setze dich auf eine Bank. Greife die Kurzhantel zwischen den Füßen. Lege die Rückseite des Oberarms an die Innenseite des Oberschenkels. Lehne dich gegen das Bein, um den Ellbogen leicht anzuheben.
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.exrx.net/WeightExercises/Brachialis/DBC

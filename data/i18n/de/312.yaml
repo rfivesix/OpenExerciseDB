@@ -3,13 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '312'
 language: de
-status: upstream_unreviewed
-name: Negativ Plank Mit Abwechselnden Fuß-Kontakt
+status: ai_reviewed
+name: Decline-Plank mit Gymnastikball und abwechselndem Fußtippen
 description: |-
-  Führen Sie die Planke mit erhobenen Beinen und Füßen auf einem Gymball durch. Sobald Sie sich stabilisiert haben, bewegen Sie langsam einen Fuß seitlich vom Ball weg, lassen Sie ihn den Boden berühren und kehren Sie dann in die Ausgangsposition zurück. Wechseln Sie mit dem anderen Fuß.
-  Dies ist eine Core-Übung.
+  Nimm die Unterarmstütz-Position mit den Füßen auf einem Gymnastikball ein. Sobald du stabil bist, bewege langsam einen Fuß seitlich vom Ball herab und tippe kurz den Boden an. Kehre anschließend in die Ausgangsposition auf dem Ball zurück und wiederhole die Bewegung mit dem anderen Fuß.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney

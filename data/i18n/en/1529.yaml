@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1529'
 language: en
-status: upstream_unreviewed
-name: Toes to bar
+status: ai_reviewed
+name: Toes-to-Bar
 description: |-
   The name "Toes to Bar" says it all: This exercise, in which you hang from a pull-up bar, involves bringing your toes toward the bar, pointing toward your face. This really works your abdominal muscles. "Toes to Bar" is popular in functional fitness programs like Freeletics and CrossFit, and is an effective exercise for six-pack training.
 upstream:

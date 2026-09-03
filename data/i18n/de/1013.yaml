@@ -3,16 +3,17 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1013'
 language: de
-status: upstream_unreviewed
-name: Dehnung des linken Schulterblattes
+status: ai_reviewed
+name: Dehnung des linken Musculus levator scapulae
 description: |-
   Ausgangsposition:
-  Beginnen Sie im Stehen oder Sitzen. Drehen Sie Ihren Kopf in eine Richtung, etwa um 45 Grad oder direkt über Ihre Brustwarze. Legen Sie die andere Hand hinter den Rücken oder setzen Sie sich auf sie. Nehmen Sie Ihre nähere Hand und halten Sie damit Ihren Hinterkopf. Führen Sie Ihren Kopf leicht nach unten.
-  Die Schritte:
+  Nimm eine aufrechte Haltung im Stehen oder Sitzen ein. Drehe den Kopf um etwa 45 Grad nach links. Lege die rechte Hand hinter den Rücken (oder fixiere sie unter dem Oberschenkel). Fasse mit der linken Hand an den Hinterkopf und neige das Kinn sanft nach unten in Richtung der linken Achselhöhle.
+  Schritte:
 
-  Nachdem Sie die Ausgangsposition eingenommen haben, drücken Sie Ihren Kopf mit leichter Kraft gegen Ihre Hand. Ihre Hand sollte mit gleicher Kraft zurückdrücken, so dass sich Ihr Kopf nicht bewegt. Halten Sie diese Position.
+  Baue aus dieser Position einen leichten isometrischen Druck mit dem Kopf gegen die linke Hand auf, während die Hand mit gleicher Kraft gegenhält, sodass der Kopf fixiert bleibt. Halte diese Position.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1908'

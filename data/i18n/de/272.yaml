@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '272'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hammercurls
 description: |-
-  Greife zwei Hanteln, die Handflächen zeigen zum Körper.&nbsp; Beuge die Arme und brige die Hanteln mit einer schnellen Bewegung nach oben wobei sie im Unterschied zu den normalen KH Curls nicht um 90 Grad gedreht werden, die Handflächen zeigen also die ganze Zeit nach innen. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.
-  Während des Bewegungablaufs darf der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle.
+  Greife zwei Kurzhanteln im neutralen Griff, sodass die Handflächen zueinander zeigen. Beuge die Arme und führe die Kurzhanteln kontrolliert nach oben, ohne die Unterarme einzudrehen; die Handflächen bleiben durchgehend einander zugewandt. Senke das Gewicht anschließend langsam und kontrolliert wieder ab.
+  Halte den Oberkörper stabil ohne Schwung zu holen. Die Ellbogen bleiben eng am Körper und bewegen sich während der Ausführung nicht.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1529'
 language: de
-status: upstream_unreviewed
-name: Toes to bar
+status: ai_reviewed
+name: Toes-to-Bar
 description: |-
-  Der Name „Toes to Bar“ sagt es bereits: Bei dieser Übung, bei der Sie an einer Klimmzugstange hängen, geht es darum, die Zehenspitzen zur Stange Richtung Gesicht zu bringen. Dabei werden die Bauchmuskeln ordentlich gefordert. „Toes to Bar“ sind beliebt im Functional Fitness wie Freeletics oder CrossFit sowie eine wirksame Übung im Sixpack-Training.
+  Der Name „Toes-to-Bar“ sagt es bereits: Bei dieser Übung hängst du an einer Klimmzugstange und bringst deine Zehenspitzen nach oben an die Stange. Dabei wird die Bauchmuskulatur intensiv gefordert. Toes-to-Bar sind ein Klassiker im Functional Fitness sowie im Turn- und Krafttraining.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

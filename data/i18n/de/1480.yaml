@@ -3,22 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1480'
 language: de
-status: upstream_unreviewed
-name: Liegendes Trizepsstrecken
+status: ai_reviewed
+name: Liegendes Trizepsstrecken mit Langhantel
 description: |-
-  Die Ausgangsposition für diese
-  praktische Trizepsübung ist liegend auf einer normalen Bank, mit einer Langhantel oder zwei Kurzhanteln in beiden Händen im Obergriff, die Hände schulterbreit auseinander.
-  Beginne mit den Armen über deiner oberen
-  Brust und den Ellbogen in einem Winkel von etwa 45 Grad nach hinten gebeugt.
-  Beuge zuerst die Ellbogen und
-  lasse dann den Oberarm nach hinten sinken, sodass die Langhantel/Kurzhanteln hinter deinen
-  Kopf und nach unten Richtung Boden kommen. Was die Oberarmposition betrifft, sollte sich die Langhantel/sollten sich die Kurzhanteln nie vollständig über deinem Kopf befinden, sondern hinter ihm, um
-  sicherzustellen, dass du den Trizeps ansprichst.
-  Halte die Schulterblätter unten
-  eingezogen, die Ellbogen eng am Kopf und deine Rumpfmuskulatur während
-  der gesamten Bewegung aktiv.
+  Die Ausgangsposition für diese praktische Trizepsübung ist liegend auf einer normalen Bank, mit einer Langhantel in beiden Händen im Obergriff, die Hände schulterbreit auseinander.
+  Beginne mit den Armen über deiner oberen Brust und den Ellbogen in einem Winkel von etwa 45 Grad nach hinten gebeugt.
+  Beuge zuerst die Ellbogen und lasse dann die Oberarme nach hinten sinken, sodass die Langhantel hinter deinen Kopf und nach unten Richtung Boden geführt wird. Was die Oberarmposition betrifft, sollte sich die Langhantel nie vollständig über deinem Kopf befinden, sondern hinter ihm, um sicherzustellen, dass du den Trizeps optimal triffst.
+  Halte die Schulterblätter zusammengezogen, die Ellbogen eng am Kopf und deine Rumpfmuskulatur während der gesamten Bewegung aktiv.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

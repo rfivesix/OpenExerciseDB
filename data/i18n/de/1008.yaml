@@ -3,19 +3,20 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1008'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Linke Nackendehnung
 description: |-
   Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken.
+  Sitze oder stehe mit aufrechtem Rücken.
   Schritte:
 
-  Neigen Sie den Kopf zur Seite.
-  Nehmen Sie die Hand, die näher am Kopf ist, und fassen Sie damit Ihren Kopf von der anderen Seite.
-  Drücken Sie mit der Hand gegen den Kopf und mit dem Kopf gegen die Hand, damit sich die Kräfte ausgleichen und der Kopf ruhig bleibt.
-  Halten Sie diese Spannung bis zum Ende der Übung aufrecht.
+  Neige den Kopf zur Seite.
+  Führe die linke Hand über den Kopf an die rechte Schläfe.
+  Übe mit der Hand leichten Druck gegen den Kopf und mit dem Kopf isometrisch Gegendruck gegen die Hand aus, sodass der Kopf stabil bleibt.
+  Halte diese Spannung für die vorgegebene Dauer aufrecht.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1859'

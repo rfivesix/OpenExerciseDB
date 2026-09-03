@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1504'
 language: en
-status: upstream_unreviewed
-name: Dumbbell Bradford press
+status: ai_reviewed
+name: Dumbbell Bradford Press
 description: |-
-  From a front hold of the DBs in a OHP, press above the head, bring back towards the rear of the shoulders, down, and press back forward.
+  From a front hold of the dumbbells in an overhead press, press above the head, bring back towards the rear of the shoulders, down, and press back forward.
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston

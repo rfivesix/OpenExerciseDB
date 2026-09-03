@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1852'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: L-Sit
 description: |-
-  Setze dich auf den Boden mit geschlossenen Beinen und den Armen an den Seiten. Drücke deinen Körper mithilfe der Hände vom Boden ab und halte dabei dieselbe Sitzposition, sodass deine Beine gerade sind und deine Füße den Boden nicht berühren.
-  Halte die Position so lange wie nötig.
+  Setze dich zwischen Parallettes oder auf den Boden mit geschlossenen Beinen und den Händen neben der Hüfte. Drücke deinen Körper nach oben ab, halte die Beine waagerecht durchgestreckt und achte darauf, dass Gesäß und Füße frei in der Luft schweben.
+  Halte die Position für die vorgegebene Zeit.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

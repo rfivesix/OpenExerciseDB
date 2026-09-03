@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1835'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dehnung mit Außenrotation
 description: |-
   Setze dich mit aneinandergedrückten Fußsohlen hin und hebe ein Knie ganz zur Seite deines Körpers an.
-  Lege deinen Ellenbogen auf dein angehobenes Knie, beuge ihn im 90-Grad-Winkel und richte deine Hand direkt nach vorne, während du deine Langhantel/Kurzhantel hältst.
+  Lege deinen Ellenbogen auf dein angehobenes Knie, beuge ihn im 90-Grad-Winkel und richte deine Hand direkt nach vorne, während du deine Kurzhantel hältst.
   Halte deine Schulter abgesenkt und zurückgezogen und hebe deine Hand an, bis dein Unterarm senkrecht steht, als würdest du jemandem wie ein Roboter zuwinken.
   Senke deine Hand in die Ausgangsposition zurück und wiederhole die Bewegung.
 upstream:

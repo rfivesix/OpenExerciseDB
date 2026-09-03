@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '716'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wall Slides
 description: |-
-  Stand with heels,&nbsp;shoulders, back of head, and hips touching the wall. Start with biceps straight out and elbows at a 90 degree angle. Straighten the arms while remaining againstthe wall without arching the back off of the wall, mimicking a shoulder press movement.
+  Stand with heels, shoulders, back of head, and hips touching the wall. Start with upper arms straight out to the sides and elbows at a 90-degree angle. Straighten the arms while remaining against the wall without arching the back off of the wall, mimicking a shoulder press movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Whythebigpaws

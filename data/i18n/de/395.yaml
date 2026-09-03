@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '395'
 language: de
-status: upstream_unreviewed
-name: Long-Pulley (eng)
+status: ai_reviewed
+name: Sitzendes Rudern am Kabelzug (enger Griff)
 description: |-
   Der Bewegungsablauf ist wie der vom Long-Pulley mit breitem Griff.
   Setze dich hin, stelle die Füße auf die Stützstellen ab und greife die Stange. Ziehe nun die Hände auf den Nabel, nicht höher. Dabei sollten die Arme nahe am Körper bleiben und die Schultern so weit wie möglich zusammengezogen werden. Lasse langsam und kontrolliert das Gewicht wieder nach vorne bis die Arme vollständig ausgestreckt sind.

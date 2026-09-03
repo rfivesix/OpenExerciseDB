@@ -3,16 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1019'
 language: de
-status: upstream_unreviewed
-name: Seitenplanke rechts
+status: ai_reviewed
+name: Seitstütz rechts
 description: |-
   Ausgangsposition:
-  Legen Sie sich auf die Seite, wobei der untere Ellbogen einen rechten Winkel bildet und der Arm ausgestreckt ist. Heben Sie Ihr Becken vom Boden ab, indem Sie die untere Schulter anheben und den Unterarm auf dem Boden lassen; Ihr Kopf, Ihr Becken und Ihre Füße sollten eine gerade Linie bilden.
-  Die Schritte:
-
-  Halten Sie diese Position.
+  Lege dich auf die rechte Seite. Der rechte Unterarm liegt auf dem Boden auf, der Ellbogen befindet sich unter der Schulter. Hebe das Becken an, sodass Kopf, Oberkörper, Becken und Beine eine gerade Linie bilden.
+  Ausführung:
+  Halte diese Position stabil.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1922'

@@ -3,13 +3,15 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '265'
 language: de
-status: upstream_unreviewed
-name: Brücke Auf Dem Ball
+status: ai_reviewed
+name: Glute Bridge
 description: |-
-  Ausgangsposition: Auf den Rücken legen. Großer Gymnastikball unter die Beine legen und schräg in der Brücke mit angespanntem Körper bleiben.
-  Anschließend die Beine bis 90 Grad anwinkeln und wieder absetzten in Ausgangsposition zurück.
+  Lege dich mit angewinkelten Knien auf den Rücken, die Füße stehen flach und etwa hüftbreit auf dem Boden.
+  Drücke deine Fersen in den Boden und hebe dein Becken an, bis Oberschenkel und Oberkörper eine gerade Linie bilden. Spanne am höchsten Punkt die Gesäßmuskulatur fest an.
+  Senke das Becken anschließend langsam und kontrolliert wieder in Richtung Boden ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: tdprice12

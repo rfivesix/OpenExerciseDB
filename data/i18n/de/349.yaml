@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '349'
 language: de
-status: upstream_unreviewed
-name: Seitheben am Kabel, Einarmig
+status: ai_reviewed
+name: Einarmiges Seitheben am Kabelzug
 description: |-
-  Stelle dich aufrecht neben einem Kabelzug und halte dich mit der einen Hand fest, mit der anderen nimmst du den Kabelgriff. Hebe nun den Arm mit dem Gewicht seitlich, strecke ihn aber nicht aus. Bewege während der Übung nur diesen Arm, schwinge nicht mit und drehe deinen Rumpf auch nicht mit. Auf dem höchsten Punkt machst du 1sek. Pause und gehst dann langsam runter. Wenn deine Hand kurz vor deinem Körper ist, bringst du das Gewicht wieder rauf.
+  Stelle dich aufrecht neben einen Kabelzug und halte dich mit einer Hand fest, mit der anderen greifst du den Griff. Hebe nun den Arm mit dem Gewicht seitlich an, ohne ihn ganz durchzustrecken. Bewege während der Übung nur den arbeitenden Arm, ohne Schwung und ohne den Rumpf zu verdrehen. Halte am höchsten Punkt für eine Sekunde inne und senke das Gewicht langsam wieder ab. Bevor die Spannung nachlässt, hebst du das Gewicht erneut an.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

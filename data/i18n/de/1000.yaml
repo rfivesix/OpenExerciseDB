@@ -3,22 +3,23 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1000'
 language: de
-status: upstream_unreviewed
-name: Bodensenken
+status: ai_reviewed
+name: Dips am Boden
 description: |-
   Ausgangsposition:
-  Setzen Sie sich mit den Armen hinter den Rücken und stützen Sie ihn ab.Die Finger sollten nach vorne zeigen.Die Knie sind gebeugt, die Füße stehen zusammen.
-  Die Schritte:
+  Setze dich auf den Boden und stütze dich mit den Händen hinter dem Körper ab. Die Finger zeigen nach vorne. Die Knie sind gebeugt, die Füße stehen nebeneinander auf dem Boden.
+  Schritte:
 
-  Heben Sie die Hüfte vom Boden ab und strecken Sie die Arme aus.
-  Beugen Sie die Ellbogen und bringen Sie die Hüfte nach unten.
-  Strecken Sie die Arme durch und kehren Sie in die vorherige Position zurück.
-  Wiederholen Sie die Schritte 2 und 3.
+  Hanthalte Körperspannung, hebe die Hüfte leicht vom Boden ab und strecke die Arme.
+  Beuge die Ellbogen kontrolliert nach hinten und senke die Hüfte ab.
+  Drücke dich über den Trizeps wieder nach oben in die Ausgangsposition.
+  Wiederhole die Bewegung.
 
-  Anmerkungen:
-  Der Schwierigkeitsgrad der Übung hängt davon ab, wie hoch Sie Ihre Hüften bringen.
+  Hinweis:
+  Der Schwierigkeitsgrad lässt sich darüber variieren, wie weit die Hüfte angehoben wird.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1766'

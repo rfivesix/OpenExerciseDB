@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '505'
 language: de
-status: upstream_unreviewed
-name: Beinheben am Roman Chair
+status: ai_reviewed
+name: Crunch am Römischen Stuhl
 description: |-
-  Stütze dich mit dem Unterarmen ab und hänge im Gerät. Ziehe die Knie Richtung Brust und lasse sie wieder kontrolliert zum Boden zurück.
+  Führe Crunches am Römischen Stuhl aus. Halte den Oberkörper gerade und die Bauchmuskeln angespannt; richte dich nicht vollständig auf und lege dich nicht ganz zurück, damit die Spannung erhalten bleibt.
 upstream:
   license: CC-BY-SA-3.0
   license_author: MaddieBeasley

@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1112'
 language: de
-status: upstream_unreviewed
-name: Liegestütze | abfallend (Decline)
+status: ai_reviewed
+name: Liegestütze | negativ (Decline)
 description: |-
-  Abfallende Liegestütze sind eine weitere abgewandelte Version des klassischen Liegestützes, die die Oberkörpermuskulatur auf andere Weise trainiert. Um einen abfallenden Liegestütz auszuführen, stellst du deine Füße auf eine erhöhte Fläche wie eine Bank, einen Stuhl oder eine Stufe und setzt deine Hände in der Liegestützposition auf den Boden. Senke deinen Körper zum Boden, während du eine gerade Linie von den Schultern bis zu den Knöcheln hältst, und drücke dich dann wieder in die Ausgangsposition hoch.
-  Anders als der Incline-Liegestütz legt der abfallende Liegestütz mehr Betonung auf die Schultern und den Trizeps, während die Brustmuskulatur weiterhin in geringerem Maße beansprucht wird. Indem du deine Füße erhöhst, steigerst du die Schwierigkeit der Übung, weil mehr Gewicht auf deinem Oberkörper lastet und deine Schultern und dein Trizeps härter arbeiten müssen, um deinen Körper wieder hochzudrücken. Der abfallende Liegestütz kann eine großartige Möglichkeit sein, deine Oberkörperkraft herauszufordern und deine Fähigkeit zu verbessern, andere Liegestützvarianten auszuführen. Achte wie bei jeder Übung auf eine saubere Ausführung und beginne mit einer Höhe, die zu deiner Kraft und deinem Fitnesslevel passt.
+  Negativ-Liegestütze sind eine weitere abgewandelte Version des klassischen Liegestützes, die die Oberkörpermuskulatur auf andere Weise trainiert. Um einen Negativ-Liegestütz auszuführen, stellst du deine Füße auf eine erhöhte Fläche wie eine Bank, einen Stuhl oder eine Stufe und setzt deine Hände in der Liegestützposition auf den Boden. Senke deinen Körper zum Boden, während du eine gerade Linie von den Schultern bis zu den Knöcheln hältst, und drücke dich dann wieder in die Ausgangsposition hoch.
+  Anders als der Incline-Liegestütz legt der Negativ-Liegestütz mehr Betonung auf die Schultern und den Trizeps, während die Brustmuskulatur weiterhin in geringerem Maße beansprucht wird. Indem du deine Füße erhöhst, steigerst du die Schwierigkeit der Übung, weil mehr Gewicht auf deinem Oberkörper lastet und deine Schultern und dein Trizeps härter arbeiten müssen, um deinen Körper wieder hochzudrücken. Der Negativ-Liegestütz kann eine großartige Möglichkeit sein, deine Oberkörperkraft herauszufordern und deine Fähigkeit zu verbessern, andere Liegestützvarianten auszuführen. Achte wie bei jeder Übung auf eine saubere Ausführung und beginne mit einer Höhe, die zu deiner Kraft und deinem Fitnesslevel passt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

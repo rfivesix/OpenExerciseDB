@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1527'
 language: de
-status: upstream_unreviewed
-name: Pendelkniebeube
+status: ai_reviewed
+name: Pendelkniebeuge
 description: |-
   Platziere die Füße in der Mitte der Platte und ca. schulterbreit. Spanne den Bauch an. Entspanne den Nacken während der gesamten Übung.
 upstream:

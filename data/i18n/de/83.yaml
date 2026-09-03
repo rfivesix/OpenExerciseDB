@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '83'
 language: de
-status: upstream_unreviewed
-name: Rudern Vorgebeugt LH
+status: ai_reviewed
+name: Vorgebeugtes Langhantelrudern
 description: |-
-  Greife die Langhantel mit breitem (etwas mehr als Schulterbreit) Griff und beuge dich nach vorne. Dabei ist der Oberkörper nicht ganz Waagerecht, sonder ein bisschen steiler, der Kopf schaut nach vorn und die Brust is rausgestreckt.
-  Ziehe nun das Gewicht in richtung Bauchnabel. Schwinge während der Bewegung den Oberkörper nicht und halte die Arme dicht am Körper wenn du sie hochziehst. Bringe die Hantel langsam wieder nach unten.
+  Greife die Langhantel mit breitem (etwas mehr als schulterbreitem) Griff und beuge dich nach vorne. Dabei ist der Oberkörper nicht ganz waagerecht, sondern ein bisschen steiler, der Kopf schaut nach vorn und die Brust ist herausgestreckt.
+  Ziehe nun das Gewicht in Richtung Bauchnabel. Schwinge während der Bewegung den Oberkörper nicht und halte die Arme dicht am Körper, wenn du sie hochziehst. Bringe die Langhantel langsam wieder nach unten.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

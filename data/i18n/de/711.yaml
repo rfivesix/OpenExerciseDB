@@ -3,11 +3,12 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '711'
 language: de
-status: upstream_unreviewed
-name: Handstand Gegen Die Wand
-description: Handstand gegen eine Wand zur Unterstützung (Brust zugewandte Wand).
+status: ai_reviewed
+name: Handstand gegen die Wand
+description: Handstand gegen eine Wand zur Unterstützung (Brust zur Wand gewandt).
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

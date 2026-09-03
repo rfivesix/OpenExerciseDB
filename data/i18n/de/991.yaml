@@ -3,18 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '991'
 language: de
-status: upstream_unreviewed
-name: Geteilte Kniebeugen links
+status: ai_reviewed
+name: Split Squats links
 description: |-
   Ausgangsposition:
-  Stellen Sie sich mit geradem Rücken hin. Machen Sie mit dem linken Bein einen großen Schritt nach vorn.
+  Stelle dich mit geradem Rücken hin. Mache mit dem linken Bein einen großen Ausfallschritt nach vorn.
   Schritte:
 
-  Bringen Sie Ihr Becken nach unten, bis Sie mit dem rechten Knie fast den Boden berühren.
-  Bringen Sie Ihr Becken wieder nach oben.
-  Wiederholen Sie die Übung.
+  Senke dein Becken ab, bis das rechte Knie fast den Boden berührt.
+  Richte dich wieder auf.
+  Wiederhole die Übung.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1642'

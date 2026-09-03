@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '629'
 language: de
-status: upstream_unreviewed
-name: Lat-Zug am Seil
+status: ai_reviewed
+name: Überzug mit gestreckten Armen am Kabelzug mit Seil
 description: |-
-  Sie stehen mit leicht gegrätschten Beinen vor dem Gerät und umfassen die Stange in Schulterbreite von oben, die Arme sind getreckt.
-  beim Einatmen die Stange bis zu den Oberschenkeln führen, wobei die Arme gesteckt bleiben (die Ellbogen können ganz leicht gebeugt sein)
-  Dabei halten Sie den Rücken gerade und spannen die Bauchmuskeln an.
-  Am Ende der Bewegung ausatmen
+  Stehe mit leicht gebeugten Knien und hüftbreitem Stand vor dem Kabelzug und greife die Enden des Seils von oben mit ausgestreckten Armen vor dir.
+  Führe das Seil mit gestreckten Armen (Ellenbogen minimal gebeugt) nach unten zu den Oberschenkeln bzw. Hüften.
+  Halte den Rücken gerade und die Rumpfmuskulatur angespannt.
+  Führe das Seil kontrolliert wieder in die Ausgangsposition zurück.
 search_terms:
   - Lat ziehen am Seil
   - Lat Pulldown am Seil

@@ -3,18 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '454'
 language: de
-status: upstream_unreviewed
-name: Hecht-Liegestütze
+status: ai_reviewed
+name: Pike-Liegestütze
 description: |-
-  Starre Position:
-  Der nach unten gerichtete Hund:Ihr Körper sollte eine V-Form bilden, mit geradem Rücken, Armen und Beinen. Ihre Hüften sollten in der Luft sein.Sie können diese Position erreichen, indem Sie die Hände aus einem hohen Plankenstand nach hinten führen.
-  Die Schritte:
-
-  Beugen Sie die Ellbogen zur Seite, halten Sie Rücken und Beine gerade und bringen Sie den Kopf näher zum Boden.
-  Strecken Sie die Arme aus, drücken Sie die Hüfte wieder nach oben und halten Sie Rücken und Beine gerade.
-  Wiederholen Sie den Vorgang.
+  Ausgangsposition:
+  Der herabschauende Hund: Dein Körper sollte eine V-Form bilden, mit geradem Rücken, Armen und Beinen. Deine Hüfte sollte in der Luft sein. Du kannst diese Position erreichen, indem du die Hände aus einem hohen Liegestütz nach hinten führst.
+  Ausführung:
+  Beuge die Ellbogen, halte Rücken und Beine gerade und bringe den Kopf kontrolliert Richtung Boden.
+  Strecke die Arme durch, drücke die Hüfte wieder nach oben und halte Rücken und Beine gerade.
+  Wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

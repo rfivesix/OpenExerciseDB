@@ -3,18 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1648'
 language: en
-status: upstream_unreviewed
-name: Weighted Crunch
+status: ai_reviewed
+name: Weight Plate Crunch
 description: |-
-  The Weighted Crunch is a variation of the classic crunch exercise that involves adding resistance (a weight) to increase the intensity of the abdominal work.
+  The Weight Plate Crunch is a variation of the classic crunch exercise that involves holding a weight plate to increase the intensity of the abdominal work.
 
-  Lay down
-  (Optional) Bend your knees to add difficulty
-  (Optional) Bend your knees and let your feet rest on a bench or a box or something (90 degree angle on knees)
-  Lift your head and torso while bending your back forward (if you don't it's a sit-up and also involves some back muscles). The higher you go, the more you should feel your abs contracting.
-  Go back to starting position an repeat
+  Lie flat on your back on a mat with your knees bent and feet flat on the floor.
+  Hold a weight plate securely across your chest or extended above you.
+  Lift your shoulders and upper back off the floor by flexing your spine, contracting your abs.
+  Lower slowly back to the starting position and repeat.
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40

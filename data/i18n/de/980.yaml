@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '980'
 language: de
-status: upstream_unreviewed
-name: Commando Pull-ups
+status: ai_reviewed
+name: Commando Pull-up
 description: |-
   Eine Variante des Klimmzugs, die mit einem Griff ausgeführt wird, bei dem eine Hand im Untergriff und eine Hand im Obergriff liegt. Verdrehe den Oberkörper nicht, um wieder nach vorne zu gelangen; der Kopf geht einmal auf die eine Seite, einmal auf die andere.
 upstream:

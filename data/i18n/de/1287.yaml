@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1287'
 language: de
-status: upstream_unreviewed
-name: Reach-ups
+status: ai_reviewed
+name: Reach-up
 description: |-
   Um diese Übung auszuführen, lege dich auf den Rücken, die Arme über dem Kopf gestreckt. Spanne dann deine Bauchmuskeln an und hebe deinen Oberkörper vom Boden, indem du die Arme zur Decke streckst, um so hoch wie möglich zu "reichen". Kehre langsam und kontrolliert in die Ausgangsposition zurück. Die Reach-ups stärken die Bauchmuskeln und verbessern die Beweglichkeit der Wirbelsäule. Sie lassen sich in vielfältige Trainingsroutinen einbauen, um Kraft und Stabilität des Rumpfes zu trainieren.
 upstream:

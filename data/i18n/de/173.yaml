@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '173'
 language: de
-status: upstream_unreviewed
-name: Crunches am Seil
+status: ai_reviewed
+name: Kabelzug-Crunch kniend
 description: |-
-  Nehme das Kabel in die Hand und halte es neben den Schläfen fest. Knie dich nun vor dem Kabelzug mit geradem aber nach vorne gebeugtem Oberkörper hin. Rolle dich mit einer schnellen Bewegung zusammen, die Ellenbogen zeigen zu den Knien. Gehe langsam wieder zur Anfangsposition zurück.
+  Nimm das Seil am Kabelzug in beide Hände und halte die Enden neben den Schläfen fest. Knie dich vor dem Kabelturm auf eine Matte, mit aufrechtem und leicht nach vorne gebeugtem Oberkörper. Rolle dich kontrolliert zusammen, sodass die Ellbogen in Richtung der Oberschenkel wandern. Kehre langsam wieder in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -3,18 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1648'
 language: de
-status: upstream_unreviewed
-name: Crunch mit Zusatzgewicht
+status: ai_reviewed
+name: Hantelscheiben-Crunch
 description: |-
-  Der Crunch mit Zusatzgewicht ist eine Variante des klassischen Crunch, bei der ein Widerstand (ein Gewicht) hinzugefügt wird, um die Intensität der Bauchmuskelarbeit zu erhöhen.
+  Der Hantelscheiben-Crunch ist eine Variante des klassischen Crunchs, bei der eine Hantelscheibe als zusätzlicher Widerstand genutzt wird, um die Intensität zu steigern.
 
-  Lege dich hin
-  (Optional) Beuge die Knie, um die Übung zu erschweren
-  (Optional) Beuge die Knie und lege deine Füße auf einer Bank, einer Box oder etwas Ähnlichem ab (90-Grad-Winkel in den Knien)
-  Hebe Kopf und Oberkörper an, während du den Rücken nach vorne rundest (tust du das nicht, ist es ein Sit-up und beansprucht auch einige Rückenmuskeln). Je höher du kommst, desto stärker solltest du das Anspannen deiner Bauchmuskulatur spüren.
-  Kehre in die Ausgangsposition zurück und wiederhole
+  Lege dich mit dem Rücken flach auf eine Matte, beuge die Knie und stelle die Füße flach auf den Boden.
+  Halte eine Hantelscheibe sicher vor der Brust oder über dem Oberkörper.
+  Hebe Schultern und oberen Rücken durch Beugen der Wirbelsäule vom Boden ab und spanne die Bauchmuskeln fest an.
+  Senke den Oberkörper langsam wieder in die Ausgangsposition ab und wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

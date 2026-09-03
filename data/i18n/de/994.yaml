@@ -3,17 +3,18 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '994'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Armkreisen vorwärts
 description: |-
   Ausgangsposition:
-  Stehen Sie aufrecht mit geradem Rücken.
+  Stehe aufrecht mit geradem Rücken.
   Schritte:
 
-  Führen Sie die Arme bei gestrecktem Körper vor sich her, führen Sie sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.
-  Lassen Sie die Arme wie in Schritt 1 beschrieben kreisen.
+  Führe die Arme gestreckt vor deinen Körper, bewege sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.
+  Lasse die Arme wie in Schritt 1 beschrieben kreisen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1686'

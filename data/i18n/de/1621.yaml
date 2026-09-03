@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1621'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Einarmiges Rudern am Kabelzug
 description: |-
-  Stelle eine senkrechte Sitzbank vor die Kabelzug-Rudermaschine. Positioniere sie so, dass du dich auf eine Seite konzentrieren kannst, und führe dann langsame Züge aus, wobei du dich auf die seitliche Muskulatur konzentrierst und in der gedehnten Position für Spannung in diesen Muskeln sorgst.
+  Stelle eine senkrechte Sitzbank vor die Kabelzug-Rudermaschine. Positioniere sie so, dass du dich auf eine Seite konzentrieren kannst, und führe dann langsame Züge aus, wobei du dich auf den Latissimus konzentrierst und in der gedehnten Position für Spannung in diesen Muskeln sorgst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

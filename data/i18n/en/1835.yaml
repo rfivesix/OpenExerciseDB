@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1835'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: External Rotation Stretch
 description: |-
   Sit with your feet pressed against each other, and one knee raised all the way out to the side of your body.
-  Place your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your barbell/dumbbell.
+  Place your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your dumbbell.
   Keep your shoulder depressed and retracted, raise your hand until your forearm is vertical, as if you were about to wave at someone like a robot.
   Lower your hand to the original position and repeat.
 upstream:

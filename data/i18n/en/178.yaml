@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '178'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Deadbug
 description: |-
-  Lie on your back, with your hips and knees bent to 90°. Raise both arms toward the ceiling. Pull your lower back to the floor to eliminate the gap. Start by pressing one leg out, and tapping the heel to the floor. "As you extend one leg, exhale as much as you can, keeping your lower back glued to the floor," Dunham says. When you can’t exhale any more, pull your knee back to the starting position. Make this more difficult by holding weight in your hands, or by lowering opposite arm and leg.
+  Lie on your back with hips and knees bent to 90 degrees and arms extended toward the ceiling. Press your lower back flat against the floor. Slowly lower one leg and tap the heel to the floor while keeping your lower back pressed to the floor. Return the knee to the starting position and repeat on the other side. To increase difficulty, lower the opposite arm and leg simultaneously.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Metin

@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '172'
 language: de
-status: upstream_unreviewed
-name: Crunches an Maschine
+status: ai_reviewed
+name: Maschinen-Crunch
 description: |-
-  Ablauf wie bei reguläre Crunches, nur mit zusätzlichem Gewicht an der Maschine.
-  Setzte dich hin, beide Füße stabil auf dem Boden. Nehme die Gewichte, Kabel, etc. fest und führe eine rollende Bewegung nach vorn (die Wirbelsäule sollte sich idealerweise Wirbel für Wirbel von der Lehne lösen). Kehre langsam in die Ausgangsposition zurück.
+  Ablauf wie bei regulären Crunches, nur mit dem geführten Widerstand der Maschine.
+  Setze dich in die Maschine, beide Füße stehen stabil auf dem Boden. Fasse die Griffe oder Polster und führe eine rollende Bewegung nach vorne aus (die Wirbelsäule sollte sich idealerweise Wirbel für Wirbel von der Rückenlehne lösen). Kehre langsam und kontrolliert in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

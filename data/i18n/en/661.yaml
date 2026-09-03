@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '661'
 language: en
-status: upstream_unreviewed
-name: Triceps on Machine
+status: ai_reviewed
+name: Machine Triceps Extension
 description: |-
   Sit down and hold the bar firmly with your hands. Now press the weight upwards (don't fully extend your arms) and lower it slowly again. As with other triceps exercises, it's important not to move your upper arms.
 upstream:

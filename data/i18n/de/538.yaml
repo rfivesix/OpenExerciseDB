@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '538'
 language: de
-status: upstream_unreviewed
-name: Schrägbankdrücken LH
+status: ai_reviewed
+name: Langhantel-Schrägbankdrücken
 description: |-
   Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt der Kopf liegt auf der Bank. Nehme die Hantel etwas mehr als Schulterbreit aus der Halterung raus und drücke sie nach oben. Bringe die Hantel nach unten, bis sie die Brust kurz berührt. Drücke das Gewicht wieder nach oben.
 upstream:

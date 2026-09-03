@@ -3,14 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1828'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abdominal Draw-In
 description: |-
-  Lie
-  on your back with knees bent. Gently pull your belly button toward your
-  spine without moving your hips or holding your breath.
+  Lie on your back with knees bent. Gently pull your belly button toward your spine without moving your hips or holding your breath.
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

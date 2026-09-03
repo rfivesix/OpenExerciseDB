@@ -3,18 +3,19 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1006'
 language: de
-status: upstream_unreviewed
-name: Schluckübungen
+status: ai_reviewed
+name: Chin Tuck
 description: |-
   Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken.
+  Sitze oder stehe mit aufrechtem Rücken.
   Schritte:
 
-  Ziehen Sie mit den Fingern am Kinn langsam das Kinn nach innen und bewegen Sie den Kopf zurück, um ihn mit der Wirbelsäule in Einklang zu bringen.
-  Halten Sie die Position für 5 Sekunden.
-  Gehen Sie zurück in die normale Kopfposition und wiederholen Sie den Vorgang.
+  Führe mit den Fingern am Kinn das Kinn langsam nach hinten-unten (Doppelkinn machen) und bewege den Kopf nach hinten, um die Halswirbelsäule aufzurichten.
+  Halte die Position für 5 Sekunden.
+  Kehre kontrolliert in die neutrale Kopfposition zurück und wiederhole den Vorgang.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1837'

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '805'
 language: de
-status: upstream_unreviewed
-name: Trizepsdrücken am Kabelzug
+status: ai_reviewed
+name: Trizeps-Seildrücken am Kabelzug
 description: |-
   Das Trizepsdrücken mit dem Seil am Kabelzug ist eine beliebte Übung, die die Trizepsmuskulatur beansprucht. Sie ist leicht zu erlernen und auszuführen, was sie sowohl bei Anfängern als auch bei Fortgeschrittenen beliebt macht. Sie wird üblicherweise mit mittlerer bis hoher Wiederholungszahl ausgeführt, etwa 8-12 Wiederholungen oder mehr pro Satz, als Teil eines Trainings für den Oberkörper oder mit Fokus auf die Arme.
 upstream:

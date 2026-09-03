@@ -3,16 +3,15 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '235'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flutter Kicks
 description: |-
-  -Laying on the back, lift your straightened legs from the ground at a 45 degree angle.
-  -As your Left foot travels downward and nearly touches the floor, your Right foot should seek to reach a 90 degree angle, or as close to one as possible.
-  -Bring your R foot down until it nearly touches the floor, and bring your L foot upwards.&nbsp; Maintain leg rigidity throughout the exercise.&nbsp; Your head should stay off the ground, supported by tightened upper abdominals.
-  -(L up R down, L down R up, x2)&nbsp; ^v, v^, ^v, v^ = 1 rep
-  -Primarily works the Rectus Abdominus, the hip flexors and the lower back. Secondarily works the Obliques.&nbsp; Emphasis placed on the lower quadrant of the abs.
+  Lie on your back and lift both legs slightly off the floor, keeping them straight.
+  Alternately kick your legs up and down in a fluttering motion without letting your feet touch the floor.
+  Keep your core tight and your lower back firmly pressed against the floor throughout the movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303

@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1716'
 language: de
-status: upstream_unreviewed
-name: Schulterdrücken auf der Bank (Scapular Push-up)
+status: ai_reviewed
+name: Scapular Push-Up auf der Bank
 description: |-
   Lege deine Hände auf der Bank in einer Liegestützposition ab.
   Drücke deine Brust von der Bank weg, um die Schulterblätter auseinanderzuführen.

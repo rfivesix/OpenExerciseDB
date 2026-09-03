@@ -3,12 +3,15 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '197'
 language: de
-status: upstream_unreviewed
-name: Dips Zwischen 2 Bänke
+status: ai_reviewed
+name: Dips zwischen zwei Bänken
 description: |-
-  Stelle zwei Bänke so weit ausernander, dass du die Hände am Rand der einen und du die Füße auf der anderen noch knapp draufstellen kannst. Die Beine bleiben während der Übung ausgestreckt. Beuge nun die Arme und gehe so tief wie möglich runter, die Ellenbogen zeigen nach hinten. Hebe den Körper wieder, achte aber darauf, dass du die Arme nicht ganz austreckst.
+  Stelle zwei Flachbänke parallel zueinander auf, sodass du dich mit den Händen auf der einen Bank abstützen und die Fersen auf die andere Bank auflegen kannst. Die Beine bleiben während der Übung gestreckt.
+  Beuge die Arme kontrolliert, bis die Oberarme etwa parallel zum Boden sind, wobei die Ellbogen nach hinten zeigen.
+  Drücke dich über den Trizeps wieder nach oben in die Ausgangsposition, ohne die Arme ganz durchzustrecken.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

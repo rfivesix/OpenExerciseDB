@@ -3,18 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1478'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Levitation Crunch
 description: |-
-  Bei
-  dieser Bewegung von oben nach unten versuchen wir, den oberen Oberkörper zu bewegen, ohne den
-  unteren Oberkörper zu bewegen. Beginne auf dem Boden liegend mit flach auf dem Boden stehenden Füßen und gekreuzten
-  Armen über dem Kopf, die Hände hinter dem Kopf. Hebe den Oberkörper an und löse deine
-  Schulterblätter vom Boden, halte dann und pausiere am oberen Punkt für ein bis
-  zwei Zählzeiten. Versuche, die obere Bauchmuskulatur arbeiten zu lassen, und halte diese Anspannung für 10 saubere
-  Wiederholungen in guter Qualität.
+  Bei dieser Bewegung von oben nach unten versuchen wir, den oberen Oberkörper zu bewegen, ohne den unteren Oberkörper zu bewegen. Beginne auf dem Boden liegend mit flach auf dem Boden stehenden Füßen und gekreuzten Armen über dem Kopf, die Hände hinter dem Kopf. Hebe den Oberkörper an und löse deine Schulterblätter vom Boden, halte dann und pausiere am oberen Punkt für ein bis zwei Zählzeiten. Versuche, die obere Bauchmuskulatur arbeiten zu lassen, und halte diese Anspannung für 10 saubere Wiederholungen in guter Qualität.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

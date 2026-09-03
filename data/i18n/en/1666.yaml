@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1666'
 language: en
-status: upstream_unreviewed
-name: Curl  - With Shoulder Elevated
+status: ai_reviewed
+name: Curl with Shoulder Elevated
 description: |-
   Place elbow so that it is about level with the shoulder. Curl the wieght to your shoulder. Focus on the stretch in the&nbsp;eccentric part of the curl
 upstream:

@@ -3,15 +3,16 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '112'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Body-Ups
 description: |-
-  Nehmen Sie eine Dielenposition auf dem Boden ein. Sie sollten Ihr Körpergewicht auf Zehen und Unterarmen abstützen und Ihren Oberkörper gerade halten. Ihre Unterarme sollten schulterbreit auseinander liegen. Dies wird Ihre Startposition sein.
-  Drücken Sie Ihre Handflächen fest in den Boden und strecken Sie sie durch die Ellbogen, um Ihren Körper vom Boden abzuheben. Halten Sie Ihren Oberkörper steif, während Sie die Bewegung ausführen.
-  Lassen Sie Ihre Unterarme langsam wieder auf den Boden sinken, indem Sie die Ellbogen beugen.
-  Wiederholen Sie diesen Vorgang nach Bedarf.
+  Nimm eine Unterarmstütz-Position (Plank) auf dem Boden ein. Stütze dein Körpergewicht auf Zehen und Unterarmen ab und halte deinen Oberkörper gerade. Deine Unterarme sollten schulterbreit auseinanderliegen. Dies ist deine Ausgangsposition.
+  Drücke deine Handflächen fest in den Boden und strecke die Ellbogen durch, um deinen Körper vom Boden anzuheben. Halte deinen Oberkörper während der gesamten Bewegung stabil und gerade.
+  Senke deine Unterarme langsam wieder auf den Boden ab, indem du die Ellbogen beugst.
+  Wiederhole die Bewegung nach Bedarf.
 search_terms:
   - Body up
 upstream:

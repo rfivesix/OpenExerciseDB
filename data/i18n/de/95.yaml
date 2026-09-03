@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '95'
 language: de
-status: upstream_unreviewed
-name: Bizeps am Kabel
+status: ai_reviewed
+name: Bizeps-Curls am Kabelzug
 description: |-
-  Stelle dich gerade etwa 30 - 40 cm. vor dem Kabel hin, die Füße sind fest auf dem Boden. Nehme die Stange in die Hände und hebe das Gewicht mit einer schnellen Bewegung. Lassie die Stange wie bei den KH Curls kontrolliert wieder runter.
+  Stelle dich gerade etwa 30 - 40 cm vor den Kabelzug, die Füße stehen fest auf dem Boden. Nimm die Stange in die Hände und hebe das Gewicht mit einer schnellen Bewegung. Lass die Stange wie bei den Kurzhantel-Curls kontrolliert wieder herab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

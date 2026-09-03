@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1696'
 language: en
-status: upstream_unreviewed
-name: Pull-Ups (Neutral Grip)
+status: ai_reviewed
+name: Neutral-Grip Pull-Up
 description: |-
   Execution
 

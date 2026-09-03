@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '206'
 language: de
-status: upstream_unreviewed
-name: Ausfallschritte im Gehen
+status: ai_reviewed
+name: Ausfallschritte im Gehen mit Kurzhanteln
 description: |-
   Ausgangsposition: Stelle dich hüftbreit hin, die Hände entweder in der Hüfte oder mit Kurzhanteln seitlich am Körper.
   Der Schritt: Mache mit deinem rechten Bein einen weiten Schritt nach vorne.

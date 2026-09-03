@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '50'
 language: de
-status: upstream_unreviewed
-name: Trizepsdrücken KH Über Kopf
+status: ai_reviewed
+name: Langhantel-Trizepsstrecken
 description: |-
-  Setze dich auf eine Bank und nehme eine Kurzhantel in die Hand. Strecke den Arm fast vollständig aus und lasse nun das Gewicht langsam bis hinter dem Kopf herunter. Während der Übung darf nur der Trizeps die Arbeit machen, achte darauf, dass sich die Ellenbogen nicht bewegen. Zur Stabilisierung kannst du den freien Arm nehmen.
+  Setze dich auf eine Flachbank und halte eine Langhantel mit gestreckten Armen über dem Kopf. Beuge die Ellenbogen, um die Stange hinter den Kopf abzusenken, und strecke die Arme wieder.
 upstream:
   license: CC-BY-SA-4.0
   license_author: sevae

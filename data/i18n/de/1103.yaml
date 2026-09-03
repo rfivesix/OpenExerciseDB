@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1103'
 language: de
-status: upstream_unreviewed
-name: Wandernde Brücke
+status: ai_reviewed
+name: Walking Bridge (Hand Walkout)
 description: |-
   Beginne aus dem Stand mit leicht gebeugten Knien und den Händen auf dem Boden. Bewege dich von hier aus mit den Händen nach vorne, während du die Gesäßmuskulatur angespannt hältst und nicht die Kontrolle über deinen unteren Rücken verlierst.
 upstream:

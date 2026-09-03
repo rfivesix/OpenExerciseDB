@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '91'
 language: de
-status: upstream_unreviewed
-name: Bizeps LH-Curls
+status: ai_reviewed
+name: Langhantel-Bizepscurls
 description: |-
-  Halte die Hantel mit etwa schulterbreitem Griff, die Arme sind ausgestreckt. Beuge die Arme und brige die Hantel mit einer schnellen Bewegung nach oben. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.
-  Während des Bewegungablaufs sollte der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle.
+  Halte die Langhantel mit etwa schulterbreitem Griff, die Arme sind ausgestreckt. Beuge die Arme und bringe die Hantel mit einer schnellen Bewegung nach oben. Ohne Pause wird das Gewicht nun kontrolliert nach unten gebracht. Beachte, dass die Bewegung nach oben schneller ist als nach unten.
+  Während des Bewegungsablaufs sollte der Körper nicht mitschwingen. Die Ellenbogen bleiben dabei immer an der Stelle.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

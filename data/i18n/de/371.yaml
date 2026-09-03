@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '371'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Beinpresse
 description: |-
-  In die Maschine setzten und die Füße auf die Auflage stellen, der Abstand, etwas mehr als schulterbreit. Die Füße sind etwas nach außen gedreht.
+  In die Maschine setzen und die Füße auf die Auflage stellen, der Abstand etwas mehr als schulterbreit. Die Füße sind etwas nach außen gedreht.
   Das Gewicht wird so weit abgesenkt, dass die Knie einen rechten Winkel machen. Sofort wird das Gewicht nach oben gedrückt. Die Knie zeigen etwas nach außen und werden nie ganz ausgestreckt, die Bewegung bleibt immer flüssig, also weder oben noch unten irgendwelche Pausen einlegen!
 upstream:
   license: CC0-1.0

@@ -3,9 +3,10 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1701'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Schweres einarmiges Rudern
 description: |-
   Ausführung
@@ -15,7 +16,7 @@ description: |-
 
   Ziehe die Kurzhantel zu deiner unteren Brust oder Taille, wobei du mit dem Ellenbogen führst.
   Halte deinen Oberkörper stabil — vermeide ein Verdrehen oder Rotieren der Schultern.
-  Halte oben inne und drücke deinen Latissimus zusammen.
+  Halte oben inne und spanne deinen Latissimus an.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

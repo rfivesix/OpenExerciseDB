@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '173'
 language: en
-status: upstream_unreviewed
-name: Crunches With Cable
+status: ai_reviewed
+name: Cable Kneeling Crunch
 description: |-
-  Take the cable on your hands and hold it next to your temples. Knee down and hold your upper body straight and bend forward. Go down with a fast movement, rolling your back in (your ellbows point to your knees). Once down, go slowly back to the initial position.
+  Grasp the cable attachment (rope) with both hands and hold it next to your temples. Kneel down facing or facing away from the cable stack with your torso upright and slightly hinged forward. Crunch down by rolling your spine inward, bringing your elbows toward your knees. Pause briefly, then slowly return under control to the starting position.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

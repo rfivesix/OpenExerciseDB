@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1425'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Toe Taps
 description: |-
-  Toe Taps sind eine rumpforientierte Übung, die in Rückenlage ausgeführt wird. Lege dich flach hin, die Arme seitlich neben deinem Körper und die Beine in eine Tabletop-Position angehoben (Knie im 90-Grad-Winkel gebeugt). Senke langsam einen Fuß ab, um sanft den Boden zu tippen, halte dabei deinen Rumpf angespannt und deinen unteren Rücken in den Boden gedrückt. Kehre in die Startposition zurück und wechsle die Beine ab. Diese Übung stärkt den Rumpf, während sie die Belastung des unteren Rückens minimiert.
+  Toe Taps sind eine rumpforientierte Übung, die in Rückenlage ausgeführt wird. Lege dich flach hin, die Arme seitlich neben deinem Körper und die Beine in eine Tabletop-Position angehoben (Knie im 90-Grad-Winkel gebeugt). Senke langsam einen Fuß ab, um kurz den Boden anzutippen. Halte dabei deinen Rumpf angespannt und deinen unteren Rücken in den Boden gedrückt. Kehre in die Ausgangsposition zurück und wechsle das Bein ab. Diese Übung stärkt den Rumpf, während sie die Belastung des unteren Rückens minimiert.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

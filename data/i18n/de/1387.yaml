@@ -3,12 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1387'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hamstring-Kicks
 description: |-
-  Stehen Sie mit hüftbreit geöffneten Füßen. Schwingen Sie ein Bein vor und zurück, wobei Sie es so gerade wie möglich halten und die Zehen nach oben zeigen. Wiederholen Sie dies mit dem anderen Bein.
+  Stelle dich mit hüftbreit geöffneten Füßen hin und strecke einen Arm vor dir aus. Schwinge das Bein vor dir nach oben und wieder nach unten, während du das Bein so gerade wie möglich hältst und die Zehen nach oben zeigen. Wiederhole die Bewegung mit dem anderen Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592

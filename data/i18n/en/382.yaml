@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '382'
 language: en
-status: upstream_unreviewed
-name: L Hold
+status: ai_reviewed
+name: Hanging L-Sit Hold
 description: Hold the L position for as long as possible
 upstream:
   license: CC-BY-SA-3.0

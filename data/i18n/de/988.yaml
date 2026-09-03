@@ -3,14 +3,15 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '988'
 language: de
-status: upstream_unreviewed
-name: Bulgarische geteilte Kniebeugen links
+status: ai_reviewed
+name: Bulgarian Split Squats links
 description: |-
-  Stelle Dich aufrecht vor einen Stuhl und machen einen großen Schritt. Stelle den oberen Teil einer Deiner Füße auf den Stuhl.
-  Beuge das vordere Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt
-  Gehe in die Ausgangsposition zurück und wiederhole.
+  Stelle dich aufrecht vor einen Stuhl und mache einen großen Schritt nach vorn. Lege den Spann deines hinteren Fußes auf dem Stuhl ab.
+  Beuge das vordere linke Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt.
+  Drücke dich zurück in die Ausgangsposition und wiederhole die Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1601'

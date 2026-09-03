@@ -3,13 +3,14 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '146'
 language: de
-status: upstream_unreviewed
-name: Wadendrücken an Beinpresse
+status: ai_reviewed
+name: Wadendrücken an der Beinpresse
 description: |-
-  Legen Sie die Fußballen auf eine Beinpresse. Verwenden Sie Ihre Waden, um das Gewicht zu drücken, indem Sie Ihre Füße / Zehen in eine spitze Position beugen und in eine entspannte Position zurücklassen.
-  Diese Übung baut Masse und Kraft in den Gastrocnemius- und Soleus-Muskeln auf, wenn nicht sogar besser als jede Wadenübung.
+  Platziere deine Fußballen auf der Fußplatte der Beinpresse. Drücke das Gewicht aus den Waden nach vorne, indem du die Füße streckst (Plantarflexion), und senke die Fersen anschließend kontrolliert wieder ab.
+  Diese Übung baut effektiv Masse und Kraft im Gastrocnemius und Soleus auf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303

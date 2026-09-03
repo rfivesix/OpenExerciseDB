@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '186'
 language: de
-status: upstream_unreviewed
-name: Negativ Bankdrücken KH
+status: ai_reviewed
+name: Kurzhantel-Negativbankdrücken
 description: |-
   Nehmen Sie zwei Hanteln und setzen Sie sich auf eine Negativ Bank, die Füße stehen fest auf dem Boden, der Kopf ruht auf der Bank. Halten Sie die Gewichte neben die Brust auf Höhe Ihrer Brustwarzen und drücken Sie sie nach oben, bis die Arme gestreckt sind. Lassen Sie das Gewicht langsam und kontrolliert runter.
 upstream:

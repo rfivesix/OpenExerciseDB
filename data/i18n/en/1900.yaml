@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1900'
 language: en
-status: upstream_unreviewed
-name: Tricep Rope Pushdowns
+status: ai_reviewed
+name: Cable Rope Triceps Pushdown
 description: |-
   Setup: Stand facing the cable, feet shoulder-width apart, with a slight forward lean.
   Grip: Hold the rope with palms facing each other and elbows tucked tight to your ribs.

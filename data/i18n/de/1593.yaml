@@ -3,16 +3,17 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1593'
 language: de
-status: upstream_unreviewed
-name: Split-Kniebeuge an der Smith-Maschine
+status: ai_reviewed
+name: Split Squat an der Multipresse
 description: |-
-  Die "Split-Kniebeuge an der Smith-Maschine" ist eine Kraftübung,
-  die an der Smith-Maschine ausgeführt wird und sich ideal zum Beanspruchen von Beinen und Gesäßmuskulatur eignet.
+  Der Split Squat an der Multipresse ist eine Kraftübung,
+  die an der Multipresse ausgeführt wird und sich ideal zum Beanspruchen von Beinen und Gesäßmuskulatur eignet.
   Dabei stellst du einen Fuß nach vorn und den anderen nach hinten und senkst den
   Körper ab, bis der vordere Oberschenkel parallel zum Boden ist, während die Stange
-  vertikal an der Maschine entlanggleitet. Diese Übung hilft, die
+  vertikal geführt entlanggleitet. Diese Übung hilft, die
   Stabilität zu verbessern, muskuläre Dysbalancen auszugleichen und die Belastung des Rückens zu reduzieren,
   und bietet so eine sichere Umgebung für das Krafttraining.
 upstream:

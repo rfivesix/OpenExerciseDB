@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '239'
 language: de
-status: upstream_unreviewed
-name: Negativ Fliegende Mit KH
+status: ai_reviewed
+name: Kurzhantel-Fliegende auf der Negativbank
 description: |-
   Die Übung ist die gleiche wie bei einer normalen Bank:
   Nehmen Sie zwei Hanteln und legen Sie sich auf eine Bank. Stellen Sie sicher, dass die Füße fest auf dem Boden stehen und Ihr Rücken nicht gewölbt ist, sondern guten Kontakt mit der Bank hat. Die Arme sind etwa schulterbreit vor dir ausgestreckt. Beugen Sie nun die Arme etwas und lassen Sie sie mit einer Halbkreisbewegung zur Seite runter. Ohne den Winkel des Ellbogens zu verändern, bringen Sie sie in einer fließenden Bewegung wieder nach oben.

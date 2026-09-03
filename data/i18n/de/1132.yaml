@@ -3,10 +3,11 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
+# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1132'
 language: de
-status: upstream_unreviewed
-name: Gesäßstrecken an der Maschine
+status: ai_reviewed
+name: Glute Extension am GHD
 description: |-
   Eine Hüftstreckung am GHD ist eine der besten Übungen für die Gesäßmuskulatur. Obwohl die Übung sich hauptsächlich auf die Gesäßmuskulatur konzentriert, ist sie auch hervorragend für die Lendengegend, die Waden und die hintere Oberschenkelmuskulatur.
 upstream:
