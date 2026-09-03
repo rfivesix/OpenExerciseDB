@@ -73,9 +73,11 @@ class ValidatorTestCase(unittest.TestCase):
         return report
 
     def invariants(self, profile: str = "phase1", severity: str = validate.ERROR) -> set[str]:
+        # open_findings: entschaerfte Befunde bleiben im Bericht stehen, zaehlen
+        # aber nicht als offen — genau das ist der Zweck der Ausnahmen.
         return {
             finding.invariant
-            for finding in self.report(profile).findings
+            for finding in self.report(profile).open_findings
             if finding.severity == severity
         }
 
@@ -366,3 +368,138 @@ class PublishedIdsTestCase(unittest.TestCase):
         validate.check_published_ids(data, report)
         self.assertEqual([], [f.as_dict() for f in report.errors][:10])
         self.assertGreaterEqual(report.stats["deprecated"], 38)
+
+
+class ExceptionsTestCase(ValidatorTestCase):
+    """Die Ausnahmen-Mechanik: entschaerfen, aber nicht alles und nicht stumm.
+
+    Sie existiert, weil eine zu strenge Regel keinen sichtbaren Fehler erzeugt,
+    sondern eine still verbogene Annotation — bei Uebung 1103 wurde
+    `anti_extension` gegen `other` getauscht, damit die Regelkette aufging. Das
+    Ergebnis war eine gruene CI und ein falscher Wert in den Daten.
+    """
+
+    def report(self, profile: str = "phase1") -> "validate.Report":
+        report = super().report(profile)
+        data = dataset_mod.load(self.exercises_dir, self.i18n_dir)
+        validate.apply_exceptions(data, report)
+        return report
+
+    def test_a_soft_invariant_can_be_excused(self) -> None:
+        """Ab-Wheel-Rollout: dynamische Anti-Extension, in Reps geloggt."""
+        self.write_exercise(movement_pattern="anti_extension", tracking_type="bodyweight_reps")
+        self.write_text()
+        self.assertIn("18", self.invariants())
+
+        self.write_exercise(
+            movement_pattern="anti_extension",
+            tracking_type="bodyweight_reps",
+            exceptions={"invariant_18": "Rollout ist dynamische Anti-Extension, Reps."},
+        )
+        self.assertNotIn("18", self.invariants())
+
+    def test_the_excused_finding_is_kept_with_its_reason(self) -> None:
+        """Entschaerft heisst nicht verschwunden — der Bericht behaelt beides."""
+        self.write_exercise(
+            movement_pattern="anti_extension",
+            tracking_type="bodyweight_reps",
+            exceptions={"invariant_18": "Rollout ist dynamische Anti-Extension, Reps."},
+        )
+        self.write_text()
+        report = self.report()
+        excused = [f for f in report.findings if f.invariant == "18"]
+        self.assertEqual(1, len(excused))
+        self.assertIn("Rollout", excused[0].excused or "")
+        self.assertEqual({"fired": 1, "excused": 1, "open": 0}, report.stats["soft_invariants"]["18"])
+
+    def test_an_exception_on_a_hard_invariant_is_an_error(self) -> None:
+        self.write_exercise(
+            supports_added_weight=True,
+            tracking_type="weight_reps",
+            exceptions={"invariant_17": "Weil ich es so will, wirklich."},
+        )
+        self.write_text()
+        invariants = self.invariants()
+        self.assertIn("exceptions", invariants)
+        self.assertIn("17", invariants, "die harte Regel feuert trotzdem")
+
+    def test_an_exception_without_a_reason_is_an_error(self) -> None:
+        self.write_exercise(
+            movement_pattern="anti_extension",
+            tracking_type="bodyweight_reps",
+            exceptions={"invariant_18": "   "},
+        )
+        self.write_text()
+        self.assertIn("exceptions", self.invariants())
+        self.assertIn("18", self.invariants(), "ohne Begruendung wird nicht entschaerft")
+
+    def test_an_exception_that_never_fires_is_a_warning(self) -> None:
+        """Karteileichen schicken den naechsten Leser in die Irre."""
+        self.write_exercise(
+            movement_pattern="anti_extension",
+            tracking_type="time",
+            exceptions={"invariant_18": "War mal noetig, ist es nicht mehr."},
+        )
+        self.write_text()
+        self.assertNotIn("exceptions", self.invariants())
+        self.assertIn("exceptions", self.invariants(severity=validate.WARNING))
+
+    def test_an_exception_on_an_unknown_invariant_is_an_error(self) -> None:
+        self.write_exercise(exceptions={"invariant_99": "Gibt es nicht, sollte auffallen."})
+        self.write_text()
+        self.assertIn("exceptions", self.invariants())
+
+    def test_an_exception_only_covers_its_own_exercise(self) -> None:
+        self.write_exercise(
+            id="1",
+            slug="a",
+            movement_pattern="anti_extension",
+            tracking_type="bodyweight_reps",
+            exceptions={"invariant_18": "Hier begruendet, dort nicht."},
+        )
+        self.write_exercise(
+            id="2", slug="b", movement_pattern="anti_extension", tracking_type="bodyweight_reps"
+        )
+        self.write_text()
+        open_18 = [f for f in self.report().errors if f.invariant == "18"]
+        self.assertEqual(["2"], [f.exercise_id for f in open_18])
+
+
+class HardSoftSplitTestCase(unittest.TestCase):
+    def test_every_invariant_is_classified_exactly_once(self) -> None:
+        overlap = validate.HARD_INVARIANTS & validate.SOFT_INVARIANTS
+        self.assertEqual(set(), overlap, "eine Regel kann nicht hart und weich sein")
+
+    def test_the_split_matches_the_documented_one(self) -> None:
+        """Gegen schema/invariants.md, damit Code und Dokument nicht auseinanderlaufen."""
+        self.assertEqual(
+            {"11", "12", "13", "14", "15", "18", "20"}, validate.SOFT_INVARIANTS
+        )
+        for hard in ("1", "2", "3", "8", "9", "17", "21", "24", "25"):
+            self.assertIn(hard, validate.HARD_INVARIANTS)
+
+
+class NewLoadModeInvariantsTestCase(ValidatorTestCase):
+    def test_24_added_weight_requires_bodyweight_load_mode(self) -> None:
+        self.assertTriggers("24", supports_added_weight=True, load_mode="external",
+                            tracking_type="bodyweight_reps")
+
+    def test_24_accepts_bodyweight(self) -> None:
+        self.write_exercise(
+            supports_added_weight=True, load_mode="bodyweight", tracking_type="bodyweight_reps"
+        )
+        self.write_text()
+        self.assertNotIn("24", self.invariants())
+
+    def test_25_assisted_requires_a_machine_or_a_band(self) -> None:
+        self.assertTriggers("25", load_mode="assisted", primary_equipment="barbell")
+
+    def test_25_accepts_a_machine(self) -> None:
+        self.write_exercise(load_mode="assisted", primary_equipment="machine")
+        self.write_text()
+        self.assertNotIn("25", self.invariants())
+
+    def test_25_accepts_a_band(self) -> None:
+        self.write_exercise(load_mode="assisted", primary_equipment="resistance_band")
+        self.write_text()
+        self.assertNotIn("25", self.invariants())

@@ -53,6 +53,24 @@ from oedb.vocab import Vocabularies  # noqa: E402
 ERROR = "error"
 WARNING = "warning"
 
+HARD_INVARIANTS = {
+    "1", "1b", "1c", "2", "3", "3b", "4", "5", "6", "7",
+    "8", "9", "10", "17", "21", "22", "23", "24", "25",
+}
+"""Strukturell und referenziell: eine ID zeigt ins Leere, ein Vokabularwert
+existiert nicht, ein Muskel steht zweimal da. Keine legitimen Ausnahmen."""
+
+SOFT_INVARIANTS = {"11", "12", "13", "14", "15", "18", "20"}
+"""Plausibilitaet — Korrelationen, keine Gesetze.
+
+`anti_*` ist statisch, ausser beim Ab-Wheel-Rollout. Cardio wird nicht in
+Wiederholungen geloggt, ausser bei Burpees. Der Schaden einer zu strengen Regel
+ist nicht der Fehlalarm — der ist sichtbar —, sondern die still verbogene
+Annotation, die ihn vermeidet. Deshalb sind diese Regeln pro Uebung
+entschaerfbar, mit Begruendung im Klartext."""
+
+EXCEPTION_PREFIX = "invariant_"
+
 PHASE2_FIELDS = (
     "modality",
     "mechanic",
@@ -77,6 +95,7 @@ HEAVY_SETUP = ("squat_rack", "power_rack", "cable_tower", "landmine")
 CARDIO_TRACKING = {"time", "distance_time", "distance_only"}
 STATIC_TRACKING = {"time", "time_weight"}
 ADDED_WEIGHT_TRACKING = {"bodyweight_reps", "time"}
+ASSISTED_EQUIPMENT = {"machine", "resistance_band"}
 
 
 @dataclass
@@ -85,6 +104,9 @@ class Finding:
     severity: str
     message: str
     location: str | None = None
+    exercise_id: str | None = None
+    excused: str | None = None
+    """Begruendung, falls der Befund per `exceptions` entschaerft wurde."""
 
     def as_dict(self) -> dict[str, Any]:
         return {
@@ -92,6 +114,8 @@ class Finding:
             "severity": self.severity,
             "message": self.message,
             "location": self.location,
+            "exercise_id": self.exercise_id,
+            "excused": self.excused,
         }
 
 
@@ -102,19 +126,31 @@ class Report:
     skipped: dict[str, str] = field(default_factory=dict)
     stats: dict[str, Any] = field(default_factory=dict)
 
-    def add(self, invariant: str, severity: str, message: str, location: str | None = None) -> None:
-        self.findings.append(Finding(invariant, severity, message, location))
+    def add(
+        self,
+        invariant: str,
+        severity: str,
+        message: str,
+        location: str | None = None,
+        exercise_id: str | None = None,
+    ) -> None:
+        self.findings.append(Finding(invariant, severity, message, location, exercise_id))
+
+    @property
+    def open_findings(self) -> list[Finding]:
+        """Alles, was nicht per Ausnahme entschaerft wurde."""
+        return [f for f in self.findings if f.excused is None]
 
     def skip(self, invariant: str, reason: str) -> None:
         self.skipped[invariant] = reason
 
     @property
     def errors(self) -> list[Finding]:
-        return [f for f in self.findings if f.severity == ERROR]
+        return [f for f in self.open_findings if f.severity == ERROR]
 
     @property
     def warnings(self) -> list[Finding]:
-        return [f for f in self.findings if f.severity == WARNING]
+        return [f for f in self.open_findings if f.severity == WARNING]
 
 
 # --------------------------------------------------------------------- checks
@@ -458,26 +494,31 @@ def check_muscles(
 
 
 def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: Report) -> None:
-    """Invarianten 11 bis 19.
+    """Invarianten 11 bis 18 (weich) sowie 24 und 25 (hart).
 
-    Alle konditional: was nicht da ist, wird nicht geprueft. In Phase 1 laeuft
-    hier deshalb fast nichts an — sobald Phase 2 ein Feld befuellt, greift die
-    zugehoerige Regel automatisch fuer genau diese Uebung.
+    Alle konditional: was nicht da ist, wird nicht geprueft. Sobald Phase 2 ein
+    Feld befuellt, greift die zugehoerige Regel automatisch fuer genau diese
+    Uebung.
+
+    Die weichen Regeln sind ueber `exceptions` entschaerfbar — sie beschreiben,
+    was ueblich ist, nicht was gelten muss. Die harten nicht.
     """
     muscles = vocab.muscles
 
     for exercise in data.exercises.values():
         location = relative(exercise.path)
+        eid = exercise.id
         equipment = exercise.get("primary_equipment")
         setup = list(exercise.get("setup") or [])
         modality = exercise.get("modality")
         mechanic = exercise.get("mechanic")
         tracking = exercise.get("tracking_type")
+        load_mode = exercise.get("load_mode")
         pattern = exercise.get("movement_pattern")
         primary = exercise.muscle_ids("primary")
         entries = [entry for entry in exercise.muscles if isinstance(entry, dict)]
 
-        # 11
+        # --- 11 (weich)
         if equipment == "bodyweight":
             for item in sorted(set(setup) & set(HEAVY_SETUP)):
                 report.add(
@@ -485,8 +526,9 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                     ERROR,
                     f"primary_equipment: bodyweight, aber setup enthaelt {item!r}",
                     location,
+                    eid,
                 )
-        # 12
+        # --- 12 (weich) — Burpees sind Cardio in Wiederholungen.
         if modality == "cardio" and tracking and tracking not in CARDIO_TRACKING:
             report.add(
                 "12",
@@ -494,27 +536,28 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 f"modality: cardio verlangt tracking_type aus {sorted(CARDIO_TRACKING)}, "
                 f"ist {tracking!r}",
                 location,
+                eid,
             )
-        # 13
+        # --- 13 (weich)
         if modality == "strength" and tracking == "distance_only":
-            report.add("13", ERROR, "modality: strength mit tracking_type: distance_only", location)
-        # 14
+            report.add(
+                "13", ERROR, "modality: strength mit tracking_type: distance_only", location, eid
+            )
+        # --- 14 (weich)
         if mechanic == "isolation" and len(primary) > 2:
             report.add(
                 "14",
                 ERROR,
                 f"mechanic: isolation mit {len(primary)} primaeren Muskeln (hoechstens 2)",
                 location,
+                eid,
             )
-        # 15
+        # --- 15 (weich)
         if mechanic == "compound" and entries and len(entries) < 2:
             report.add(
-                "15",
-                ERROR,
-                "mechanic: compound mit nur einem beteiligten Muskel",
-                location,
+                "15", ERROR, "mechanic: compound mit nur einem beteiligten Muskel", location, eid
             )
-        # 17
+        # --- 17 (hart)
         if (
             exercise.get("supports_added_weight")
             and tracking
@@ -526,9 +569,12 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 f"supports_added_weight verlangt tracking_type aus "
                 f"{sorted(ADDED_WEIGHT_TRACKING)}, ist {tracking!r}",
                 location,
+                eid,
             )
-        # 18 — frueher ueber force_vector: static formuliert. Das Feld wird
-        # nicht mehr annotiert (19), die Regel haengt jetzt direkt am Muster.
+        # --- 18 (weich) — frueher ueber `force_vector: static` formuliert. Das
+        # Feld wird nicht mehr annotiert (19), die Regel haengt jetzt am Muster.
+        # Ab-Wheel-Rollout und Inchworm sind dynamische Anti-Extension; genau
+        # dafuer gibt es `exceptions`.
         if pattern and pattern.startswith("anti_") and tracking and tracking not in STATIC_TRACKING:
             report.add(
                 "18",
@@ -536,12 +582,138 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 f"movement_pattern {pattern!r} verlangt tracking_type aus "
                 f"{sorted(STATIC_TRACKING)}, ist {tracking!r}",
                 location,
+                eid,
+            )
+        # --- 24 (hart) — etwas dazuzuladen setzt voraus, dass die Grundform das
+        # eigene Koerpergewicht ist.
+        if exercise.get("supports_added_weight") and load_mode and load_mode != "bodyweight":
+            report.add(
+                "24",
+                ERROR,
+                f"supports_added_weight verlangt load_mode: bodyweight, ist {load_mode!r}",
+                location,
+                eid,
+            )
+        # --- 25 (hart) — Entlastung erzeugt eine Maschine oder ein Band.
+        if load_mode == "assisted" and equipment and equipment not in ASSISTED_EQUIPMENT:
+            report.add(
+                "25",
+                ERROR,
+                f"load_mode: assisted verlangt primary_equipment aus "
+                f"{sorted(ASSISTED_EQUIPMENT)}, ist {equipment!r}",
+                location,
+                eid,
             )
         # Muskelknoten muessen aufloesbar sein, sonst laufen 10 und 20 ins Leere.
         for node_id in primary:
-            if node_id in muscles:
+            if node_id not in muscles:
+                report.add("2", ERROR, f"muscles: unbekannter Knoten {node_id!r}", location, eid)
+
+
+def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
+    """Wertet `exceptions` aus: entschaerfen, pruefen, zaehlen.
+
+    Muss nach allen anderen Pruefungen laufen — sie entscheidet nicht, ob etwas
+    ein Befund ist, sondern ob ein Befund erklaert ist.
+
+    Drei Regeln, jede mit einem Grund:
+
+    * Eine Ausnahme auf eine **harte** Invariante ist ein Fehler. Harte Regeln
+      sind strukturell; eine Ausnahme davon waere kein Sonderfall, sondern ein
+      kaputter Datensatz mit Zettel dran.
+    * Eine Ausnahme **ohne Begruendung** ist ein Fehler. Der Text ist der ganze
+      Zweck: er ist das, was ein Reviewer in einem Jahr liest.
+    * Eine Ausnahme, die **nicht greift**, ist eine Warnung. Sie wurde entweder
+      nie gebraucht oder ihr Anlass ist behoben — so oder so ist sie ab jetzt
+      eine Karteileiche, die den naechsten Leser in die Irre schickt.
+    """
+    declared: dict[tuple[str, str], str] = {}
+
+    for exercise in data.exercises.values():
+        location = relative(exercise.path)
+        for key, reason in (exercise.get("exceptions") or {}).items():
+            invariant = str(key)[len(EXCEPTION_PREFIX):] if str(key).startswith(
+                EXCEPTION_PREFIX
+            ) else None
+            if invariant is None:
+                report.add(
+                    "exceptions",
+                    ERROR,
+                    f"{key!r} ist kein gueltiger Schluessel — erwartet "
+                    f"`{EXCEPTION_PREFIX}<nummer>`",
+                    location,
+                    exercise.id,
+                )
                 continue
-            report.add("2", ERROR, f"muscles: unbekannter Knoten {node_id!r}", location)
+            if not isinstance(reason, str) or not reason.strip():
+                report.add(
+                    "exceptions",
+                    ERROR,
+                    f"Ausnahme auf Invariante {invariant} ohne Begruendung",
+                    location,
+                    exercise.id,
+                )
+                continue
+            if invariant in HARD_INVARIANTS:
+                report.add(
+                    "exceptions",
+                    ERROR,
+                    f"Invariante {invariant} ist hart und nicht entschaerfbar. Harte Regeln "
+                    f"sind strukturell — eine Ausnahme waere ein kaputter Datensatz mit "
+                    f"Zettel dran.",
+                    location,
+                    exercise.id,
+                )
+                continue
+            if invariant not in SOFT_INVARIANTS:
+                report.add(
+                    "exceptions",
+                    ERROR,
+                    f"Invariante {invariant} gibt es nicht",
+                    location,
+                    exercise.id,
+                )
+                continue
+            declared[(exercise.id, invariant)] = reason.strip()
+
+    fired: dict[str, int] = {}
+    excused: dict[str, int] = {}
+    used: set[tuple[str, str]] = set()
+
+    for finding in report.findings:
+        if finding.invariant not in SOFT_INVARIANTS:
+            continue
+        fired[finding.invariant] = fired.get(finding.invariant, 0) + 1
+        key = (finding.exercise_id or "", finding.invariant)
+        reason = declared.get(key)
+        if reason is not None:
+            finding.excused = reason
+            excused[finding.invariant] = excused.get(finding.invariant, 0) + 1
+            used.add(key)
+
+    for (exercise_id, invariant), reason in sorted(declared.items()):
+        if (exercise_id, invariant) in used:
+            continue
+        exercise = data.exercises.get(exercise_id)
+        report.add(
+            "exceptions",
+            WARNING,
+            f"Ausnahme auf Invariante {invariant} greift nicht — die Regel feuert hier gar "
+            f"nicht. Entweder wurde sie nie gebraucht oder ihr Anlass ist behoben; so oder "
+            f"so gehoert sie geloescht. ({reason[:60]})",
+            relative(exercise.path) if exercise else None,
+            exercise_id,
+        )
+
+    report.stats["soft_invariants"] = {
+        invariant: {
+            "fired": fired.get(invariant, 0),
+            "excused": excused.get(invariant, 0),
+            "open": fired.get(invariant, 0) - excused.get(invariant, 0),
+        }
+        for invariant in sorted(SOFT_INVARIANTS, key=_invariant_key)
+        if fired.get(invariant, 0)
+    }
 
 
 def check_pattern_expectations(
@@ -579,6 +751,7 @@ def check_pattern_expectations(
                 f"movement_pattern {pattern!r} erwartet Primaermuskeln aus {sorted(expected)}, "
                 f"gefunden {sorted(groups)}",
                 relative(exercise.path),
+                exercise.id,
             )
 
 
@@ -695,7 +868,7 @@ def summarize(report: Report, data: dataset_mod.Dataset) -> None:
 
 def print_report(report: Report, limit: int) -> None:
     by_invariant: dict[str, list[Finding]] = defaultdict(list)
-    for finding in report.findings:
+    for finding in report.open_findings:
         by_invariant[finding.invariant].append(finding)
 
     stats = report.stats
@@ -711,6 +884,10 @@ def print_report(report: Report, limit: int) -> None:
         errors = sum(1 for f in findings if f.severity == ERROR)
         warnings = len(findings) - errors
         label = f"Invariante {invariant}"
+        if invariant in SOFT_INVARIANTS:
+            label += " (weich)"
+        elif invariant == "exceptions":
+            label = "Ausnahmen"
         marker = "FEHLER " if errors else "WARNUNG"
         print(f"{marker} {label}: {errors} Fehler, {warnings} Warnungen")
         for finding in findings[:limit]:
@@ -718,6 +895,24 @@ def print_report(report: Report, limit: int) -> None:
             print(f"        {finding.message}{where}")
         if len(findings) > limit:
             print(f"        ... und {len(findings) - limit} weitere")
+        print()
+
+    soft = report.stats.get("soft_invariants") or {}
+    if soft:
+        # Haeufung ist ein Signal, dass die Regel falsch ist und nicht die Daten.
+        print("Weiche Invarianten:")
+        print(f"  {'Regel':<8} {'gefeuert':>9} {'entschaerft':>12} {'offen':>7}")
+        for invariant, counts in soft.items():
+            print(
+                f"  {invariant:<8} {counts['fired']:>9} {counts['excused']:>12} "
+                f"{counts['open']:>7}"
+            )
+        loud = [i for i, c in soft.items() if c["excused"] >= 5]
+        if loud:
+            print(
+                f"  Haeufig entschaerft: {', '.join(loud)}. Das ist ein Signal, dass die "
+                f"Regel falsch ist und nicht die Daten."
+            )
         print()
 
     if report.skipped:
@@ -771,6 +966,8 @@ def main() -> int:
     check_pattern_expectations(data, vocab, report)
     check_published_ids(data, report)
     check_regression(report)
+    # Zuletzt: entscheidet nicht, ob etwas ein Befund ist, sondern ob er erklaert ist.
+    apply_exceptions(data, report)
     check_golden_set(data, report)
     summarize(report, data)
 
@@ -787,6 +984,7 @@ def main() -> int:
                     "error_count": len(report.errors),
                     "warning_count": len(report.warnings),
                     "skipped": report.skipped,
+                    "soft_invariants": report.stats.get("soft_invariants", {}),
                     "findings": [f.as_dict() for f in report.findings],
                 },
                 ensure_ascii=False,

@@ -119,6 +119,17 @@
       },
       "description": "Frueher vergebene IDs, die auf diese Uebung zeigen. Wird zu exercise_aliases im DB-Build."
     },
+    "exceptions": {
+      "type": "object",
+      "description": "Entschaerft eine WEICHE Invariante fuer genau diese Uebung. Schluessel ist `invariant_<nummer>`, Wert die Begruendung im Klartext. Nur weiche Invarianten sind entschaerfbar: harte Regeln sind strukturell und haben keine legitimen Ausnahmen. Eine Ausnahme ohne Begruendung ist ein Fehler, eine Ausnahme die nicht greift eine Warnung - sonst sammeln sich Karteileichen an, die niemand mehr zuordnen kann.",
+      "propertyNames": {
+        "pattern": "^invariant_[0-9]+[a-z]?$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 12
+      }
+    },
     "provenance": {
       "type": "object",
       "description": "Feldname -> Herkunft. Feldnamen sind die Top-Level-Keys dieser Datei.",

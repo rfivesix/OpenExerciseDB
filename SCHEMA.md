@@ -506,6 +506,19 @@ und eine falsche Zuweisung plausibel aussieht. Deshalb:
 - **Provenance pro Feld**, wie im Beispiel `examples/exercises/475.yaml`.
 - **Invarianten als CI-Gate** (`schema/invariants.md`), nicht als
   Review-Aufgabe. Sie fangen den mechanischen Anteil der Fehler ab.
+- **Harte und weiche Regeln auseinanderhalten.** Strukturelles (IDs,
+  Vokabular, Referenzen) blockiert. Plausibilität (`anti_*` ist statisch,
+  Cardio wird nicht in Wiederholungen geloggt) blockiert nur, solange der
+  Verstoß nicht erklärt ist — über einen `exceptions`-Eintrag mit Begründung
+  in der Übungsdatei.
+
+  Der Grund dafür ist die teuerste Lektion aus dem ersten Annotationslauf: der
+  Schaden einer zu strengen Regel ist nicht der Fehlalarm, sondern die still
+  verbogene Annotation, die ihn vermeidet. Bei Übung 1103 wurde
+  `anti_extension` gegen `other` getauscht, damit die Regelkette aufging —
+  grüne CI, falscher Wert. Deshalb zählt der Validator pro weicher Invariante
+  mit, wie oft sie gefeuert und wie oft sie entschärft wurde: **Häufung ist ein
+  Signal, dass die Regel falsch ist und nicht die Daten.**
 - **Golden Set**: ~50 handgeprüfte Übungen quer über alle Muskelgruppen und
   Equipment-Typen. Jeder Prompt-Durchlauf wird zuerst dagegen evaluiert.
   Ohne das optimiert man blind.

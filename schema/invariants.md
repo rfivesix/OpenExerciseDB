@@ -4,6 +4,45 @@ Diese Regeln laufen bei jedem Push. Sie sind der eigentliche Qualitätsmechanism
 — sie fangen den Großteil des KI-Unsinns automatisch ab, sodass der menschliche
 Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
 
+## Hart und weich
+
+Die Regeln sind nicht gleich viel wert, und sie so zu behandeln hat Schaden
+angerichtet.
+
+**HART** (1, 2, 3, 3b, 4, 5, 6, 7, 8, 9, 10, 17, 21, 22, 23, 24, 25) sind
+strukturell und referenziell: eine ID zeigt ins Leere, ein Vokabularwert
+existiert nicht, ein Muskel steht zweimal da. Dafür gibt es keine legitime
+Ausnahme, und ein Verstoß blockiert.
+
+**WEICH** (11, 12, 13, 14, 15, 18, 20) sind Plausibilitätsregeln. Sie
+formulieren Korrelationen, keine Gesetze. „`anti_*` ist statisch" stimmt
+meistens — aber Ab-Wheel-Rollout und Inchworm sind dynamische Anti-Extension und
+werden in Wiederholungen geloggt. „Cardio wird nicht in Wiederholungen geloggt"
+stimmt meistens — aber Burpees.
+
+**Der Schaden einer zu strengen Regel ist nicht der Fehlalarm.** Ein Fehlalarm
+ist sichtbar. Der Schaden ist die still verbogene Annotation: bei Übung 1103
+wurde `anti_extension` gegen `other` getauscht, damit die Kette 19→18 aufgeht.
+Das Ergebnis war eine grüne CI und ein falscher Wert in den Daten — genau die
+Sorte Fehler, die dieses Regelwerk verhindern soll.
+
+Eine weiche Invariante wird deshalb pro Übung entschärfbar:
+
+```yaml
+exceptions:
+  invariant_18: "Rollout ist dynamische Anti-Extension, wird in Reps geloggt."
+```
+
+Dafür gilt:
+
+- Eine Ausnahme auf eine **harte** Invariante ist selbst ein Fehler.
+- Eine Ausnahme **ohne Begründungstext** ist ein Fehler.
+- Eine Ausnahme, die **gar nicht greift**, ist eine Warnung. Sonst sammeln sich
+  Karteileichen an, die niemand mehr zuordnen kann.
+- `build/validate.py` zählt am Ende pro weicher Invariante, wie oft sie gefeuert
+  hat und wie oft sie entschärft wurde. **Häufung ist ein Signal, dass die Regel
+  falsch ist und nicht die Daten.**
+
 ## Struktur
 
 1. Jede Datei unter `data/exercises/` validiert gegen `exercise.schema.json`.
@@ -22,9 +61,12 @@ Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
 
 ## Inhaltliche Plausibilität
 
-8. Mindestens ein Muskel mit `role: primary`.
-9. Kein Muskel doppelt; kein Muskel gleichzeitig primary und secondary.
-10. Kein Muskel-Knoten zusammen mit einem seiner Vorfahren oder Nachfahren
+Alles hier ist **weich**, sofern nicht anders vermerkt: entschärfbar über
+`exceptions`, mit Begründung.
+
+8. **(hart)** Mindestens ein Muskel mit `role: primary`.
+9. **(hart)** Kein Muskel doppelt; kein Muskel gleichzeitig primary und secondary.
+10. **(hart)** Kein Muskel-Knoten zusammen mit einem seiner Vorfahren oder Nachfahren
     (`latissimus_dorsi` + `back` ist redundant, `trapezius` + `traps_upper` auch).
 11. `primary_equipment: bodyweight` ⇒ kein Krafthantel-Setup in `setup`
     (`squat_rack`, `power_rack`, `cable_tower`, `landmine` verboten).
@@ -38,7 +80,8 @@ Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
     Körpergewichtsübungen und erzwang damit für die Assistenzmaschine die
     sachlich falsche Antwort. `supports_assistance` ist ersatzlos entfallen;
     was gemeint war, sagt jetzt `load_mode: assisted` (Invariante 25).
-17. `supports_added_weight: true` ⇒ `tracking_type` ∈ {`bodyweight_reps`, `time`}.
+17. **(hart)** `supports_added_weight: true` ⇒ `tracking_type` ∈
+    {`bodyweight_reps`, `time`}.
 18. `movement_pattern` `anti_*` ⇒ `tracking_type` ∈ {`time`, `time_weight`}.
     (Früher über `force_vector: static` formuliert; das Feld wird nicht mehr
     annotiert, siehe 19.)
@@ -51,6 +94,17 @@ Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
 20. Primärmuskel-Gruppe muss zum `movement_pattern` passen — Tabelle in
     `vocab/pattern_muscle_expectations.yaml`. Verstoß ist eine **Warnung**,
     kein Fehler: Ausnahmen existieren, aber jede will einmal angeschaut werden.
+
+## Aus `load_mode`
+
+24. **(hart)** `supports_added_weight: true` ⇒ `load_mode: bodyweight`. Etwas
+    dazuzuladen setzt voraus, dass die Grundform das eigene Körpergewicht ist.
+25. **(hart)** `load_mode: assisted` ⇒ `primary_equipment` ∈ {`machine`,
+    `resistance_band`}. Entlastung erzeugt entweder eine Maschine oder ein Band.
+
+Mehr nicht. Der Rest der denkbaren Regeln um `load_mode` sind Korrelationen, und
+Korrelationen zu Gesetzen zu machen war der Fehler, der diese Aufteilung nötig
+gemacht hat.
 
 ## Regression
 
