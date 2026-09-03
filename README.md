@@ -5,10 +5,11 @@ An open, structured, machine-readable strength-training exercise database.
 Every exercise is a plain text file you can read, diff, and send a pull request
 against. Every release ships a single SQLite file you can drop into an app.
 
-> **Status: pre-release.** The import has run — 871 exercises and 3,336
-> translations in 22 languages are in `data/`, and the build produces a database
-> that today's consumer loads unchanged. The content work has not started and
-> there is no published release yet. See [Roadmap](#roadmap).
+> **Status: pre-release.** The import and the classification work are done: all
+> 868 active exercises carry a full set of attributes, and English and German
+> text is complete. French, Italian and Japanese descriptions are still being
+> derived. There is no published release yet. See [Where it stands](#where-it-stands)
+> and [Roadmap](#roadmap).
 
 ---
 
@@ -19,14 +20,16 @@ The best freely licensed exercise dataset available today is the one from the
 is a fork of it. It is also, measured against what a training app needs,
 incomplete in specific and fixable ways.
 
-At the time of the import (2026-09-02, 871 exercises):
+At the time of the import (2026-09-02, 871 exercises) — and where the same
+measurements stand today:
 
-| | |
-|---|---|
-| Exercises with **no muscle assignment at all** | **129** (15%) |
-| Exercises with no *primary* muscle | 135 (16%) |
-| Distinct muscle values in the entire dataset | **15** |
-| Exercises with no German text | 243 (28%) |
+| | At import | Today |
+|---|---|---|
+| Exercises with **no muscle assignment at all** | **129** (15%) | **0** |
+| Exercises with no *primary* muscle | 135 (16%) | **0** |
+| Distinct muscle values in use | **15** | **51** (of 69 in the vocabulary) |
+| Exercises with no German description | 243 (28%) | **0** |
+| Exercises with a full attribute set | 0 | **868 of 868** |
 
 Fifteen values, mixing coarse groups (`Chest`, `Shoulders`) with single
 anatomical muscles (`Obliquus externus abdominis`, `Soleus`, `Brachialis`).
@@ -46,7 +49,7 @@ the model.
 ## What's different
 
 **Muscles are a hierarchy, and you may annotate at any depth.**
-14 groups → 32 muscles → 22 heads. If you are confident an exercise hits the
+14 groups → 33 muscles → 22 heads. If you are confident an exercise hits the
 long head of the triceps, say so. If you are only confident it is triceps, say
 that. If you are only confident it is arms, say that. Every level resolves
 upward, so statistics always work — and "which entries still lack head-level
@@ -90,7 +93,32 @@ oedb/                         Shared library used by the import, build and valid
 build/                        YAML -> SQLite + manifest + reports
 import/                       One-time upstream importer
 test/                         Acceptance and rule tests; test/golden/ is the phase 2 eval set
+reports/                      Generated review reports: outliers, name changes, language checks
 ```
+
+## Where it stands
+
+```
+909 exercises   868 active · 15 merged · 26 deprecated
+                868 of 868 active exercises fully classified
+```
+
+| Language | Names | Descriptions |
+|---|---|---|
+| English | 868 | 868 |
+| German | 868 | 868 |
+| French | 855 | 566 |
+| Italian | 819 | 142 |
+| Japanese | 807 | 0 |
+| Spanish | 644 | 644 |
+
+English and German are curated: every entry was read in both languages
+together and checked against the exercise's own attributes. The remaining
+description gaps are derived from those two in a later round — never from an
+unverified source, because one wrong description would otherwise become four.
+
+Sixteen further languages carry partial upstream text. They are shipped as they
+are and marked accordingly; none of them is claimed to be complete.
 
 ## Building it yourself
 
@@ -138,10 +166,16 @@ Do not edit `id` or `slug` — see [SCHEMA.md §3](SCHEMA.md) for why.
 - [x] **Phase 1 — Import.** Upstream data into source files; the generated
       database is a drop-in replacement for the current one, asserted against
       the published release in `test/test_compat.py`.
-- [ ] **Phase 2 — Content.** Fill the 129 empty muscle assignments, then
-      equipment and tracking types, then classification, then muscle detail,
-      then text.
-- [ ] **Phase 3 — Schema v2.** Ship the new tables and the alias mechanism.
+- [x] **Phase 2 — Classification.** All 868 active exercises carry modality,
+      mechanic, movement pattern, laterality, tracking type, load mode,
+      equipment and muscles. The empty muscle assignments are gone.
+- [x] **Phase 2 — English and German text.** Names standardised, every
+      description read in both languages against the attributes, contradictions
+      between the two resolved or recorded.
+- [ ] **Phase 2 — Derived languages.** French, Italian and Japanese
+      descriptions from the curated English and German.
+- [ ] **Phase 3 — Schema v2 in the consuming app.** The new tables, the alias
+      mechanism, and the `schema_version` guard.
 - [ ] **Phase 4 — First public release.**
 
 ## License

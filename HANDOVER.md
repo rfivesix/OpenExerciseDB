@@ -8,10 +8,34 @@ Prompt für den nächsten Schritt.
 
 ## 1. Stand
 
-Working Tree sauber, Validator 0 Fehler / 1 Warnung (Golden Set noch leer).
+Stand 2026-09-04. Working Tree sauber, Validator 0 Fehler / 55 weiche
+Warnungen (36 aus Invariante 20, 19 aus der Übersetzungsidentität — beide
+dokumentiert, keine offenen Fehler).
 
 | | |
 |---|---|
+| Übungen | 909 — **868 aktiv**, 15 `merged`, 26 `deprecated` |
+| vollständig klassifiziert | **868 von 868 aktiven** |
+| ohne primären Muskel | **0** |
+| Text `en` / `de` | Namen und Beschreibungen **vollständig und kuratiert** |
+| Text `fr` / `it` / `ja` | Namen vollständig, Beschreibungen offen (566 / 142 / 0) |
+| Sprachen registriert | 23 |
+| Phase 1 | **abgenommen**, in der App durchgeklickt |
+| Phase 2 | Klassifikation und `en`/`de`-Text **fertig**, abgeleitete Sprachen offen |
+
+Letzte Commits:
+
+```
+396d091 Complete German exercise description coverage
+f2e29f4 Translate German arm and lower-body descriptions
+f108218 Translate German upper-body and lower-body descriptions
+aa754cc Translate German core and lower-body descriptions
+3b573e3 Add German exercise descriptions and provenance metadata
+d6ad58c Restore descriptive German exercise names
+1ba2966 Document curated text changes and retire phase-one text checks
+```
+
+---|---|
 | Übungen | 909 — 871 aktiv, 38 `deprecated` |
 | vollständig klassifiziert | **50** von 909 |
 | ohne primären Muskel | **131** |
@@ -88,17 +112,30 @@ Die erste Runde hat gezeigt, wo es klemmt. Vier Dinge übernehmen:
 
 ## 4. Offene Punkte
 
+### Erledigt seit der ersten Fassung
+
+Golden Set (50 handgeprüfte Einträge in `test/golden/`) · Invariante 20 samt
+Erwartungstabelle · `shoulder_raise` in `shoulder_flexion` und
+`scapular_elevation` aufgeteilt · `hip_extension` eingeführt · EN/DE-Konsistenz
+über alle 603 Paare geprüft · Alias-Tabelle mit 15 Einträgen · `512` nach `395`
+gemerged · englische Namen vereinheitlicht · `en`/`de`-Beschreibungen
+vollständig.
+
+### Offen
+
 | Punkt | Wo |
 |---|---|
-| **Manueller Review der 50** → daraus das Golden Set in `test/golden/` | dein Schritt, blockiert alles Weitere |
-| **Invariante 20** (`movement_pattern` ↔ erwartete Muskelgruppe) | leitet sich aus dem fertigen Golden Set ab |
-| **`shoulder_raise` aufteilen** — bündelt Front Raise (push) und Shrug (pull) | SCHEMA §12, Vokabular |
-| **EN/DE-Konsistenzprüfung** — mind. 5 Einträge widersprechen sich | neuer Arbeitsstrang, §5 |
-| **4 aktiv-aktiv-Dubletten** dedupen: `382/1852`, `478/1440`, `1654/1744`, `805/1661` | erster echter Test des Merge-Mechanismus |
-| **Alias-Vorschläge der 38** eintragen (`build/propose_aliases.py --apply`) | 13 eindeutige Kandidaten |
+| **Abgeleitete Sprachen** — `fr` 302, `it` 726, `ja` 868 Beschreibungen | die nächste große Runde |
+| **Dünne Quellen zuerst** — 119 englische Beschreibungen unter 12 Wörtern | vor der Ableitung, sonst werden daraus 357 dünne Texte |
+| **Vorhandene `fr`/`it` prüfen** — 566 + 142 ungeprüfte Alttexte | die zwei mechanischen Prüfungen genügen |
+| **3 aktiv-aktiv-Dubletten** dedupen: `382/1852`, `478/1440`, `805/1661` | `1654/1744` ist über den Merge-Mechanismus erledigt |
+| **`languages.displayable`** steht für `it`/`ja` auf 0 trotz >90 % Abdeckung | die App soll dem Feld glauben können |
+| **`languages.completeness`** liefert Werte über 1 (`en` 1,047) | Zählfehler im Build |
+| **`exercises.body_region`** ist in allen 909 Zeilen NULL | SCHEMA §6 verspricht sie als abgeleitet — füllen oder streichen |
+| **`delt_lateral`** trägt beide Delta-Slugs, färbt Seitheben auf beiden Ansichten | eine Zeile in `vocab/muscles.yaml` |
 | **Attribution in der Train-Libre-App** — die ausgelieferte DB hat keine Lizenzangaben | eigenes Ticket im App-Repo |
 
-### Punkte aus dem Review der ersten 50, die noch niemand entschieden hat
+### Einzelfälle, die noch niemand entschieden hat
 
 - `320 Jumping Jacks` — `calves` als einziger Primärmuskel, Quads sekundär.
   Vermutlich falsch gewichtet.
@@ -110,6 +147,9 @@ Die erste Runde hat gezeigt, wo es klemmt. Vier Dinge übernehmen:
 - `1083 YWTs` — `time`, obwohl üblicherweise in Wiederholungen.
 - `312` — `laterality: alternating` plus `tracking_type: time`; die
   abwechselnden Bodenberührungen *sind* Wiederholungen.
+- Sieben Klassifikationsverdachtsfälle aus Job A, in
+  `reports/job_a_review_report.md` dokumentiert und bewusst nicht geändert:
+  `1660`, `1637`, `1885`, `508`, `142`, `1738`, `1929`.
 
 ---
 

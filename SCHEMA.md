@@ -36,6 +36,12 @@ Muskeln stillschweigend `null` zurück, und die Übung fällt aus Recovery und
 Volumenstatistik heraus. Zusammen mit den 189 leeren Zuweisungen heißt das:
 **ein signifikanter Teil des geloggten Trainingsvolumens landet heute nirgends.**
 
+> **Stand heute.** Die Befunde dieses Abschnitts sind Ausgangslage, nicht
+> Gegenwart. Keine aktive Übung ist mehr ohne Muskelzuweisung, das Vokabular
+> umfasst 69 Knoten (51 davon im Bestand verwendet), und Englisch und Deutsch
+> sind vollständig und gegen die Attribute geprüft. Der Abschnitt bleibt
+> stehen, weil er begründet, warum das Schema so aussieht, wie es aussieht.
+
 Zweites Strukturproblem: `category_name` ist gleichzeitig Körperregion
 (`Legs`, `Back`, `Arms`, …) *und* Trainingsart (`Cardio`). Deshalb ist
 `Exercise.isCardio` heute ein String-Vergleich auf einem Feld, das eigentlich
