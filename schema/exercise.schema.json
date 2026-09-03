@@ -11,7 +11,6 @@
     "status",
     "modality",
     "mechanic",
-    "force_vector",
     "movement_pattern",
     "laterality",
     "usage_tags",
@@ -43,9 +42,6 @@
       "$ref": "#/$defs/vocabRef"
     },
     "mechanic": {
-      "$ref": "#/$defs/vocabRef"
-    },
-    "force_vector": {
       "$ref": "#/$defs/vocabRef"
     },
     "movement_pattern": {

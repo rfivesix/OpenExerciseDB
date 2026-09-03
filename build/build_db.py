@@ -54,7 +54,6 @@ heutige App darauf trifft."""
 STRICT_WHEN_COMPLETE = (
     "modality",
     "mechanic",
-    "force_vector",
     "movement_pattern",
     "laterality",
     "tracking_type",
@@ -67,7 +66,13 @@ Der Build setzt die Bedingung genau dann, wenn die Daten sie tragen — und
 schreibt in `metadata.nullable_columns`, welche noch offen sind. Damit zieht
 sich das Schema mit dem Fortschritt von Phase 2 von selbst fest, statt auf einen
 Menschen zu warten, der daran denkt. Ein Platzhalterwert waere die Alternative
-gewesen; der waere von einem echten Wert nicht zu unterscheiden."""
+gewesen; der waere von einem echten Wert nicht zu unterscheiden.
+
+`force_vector` steht bewusst NICHT in dieser Liste: acht Bewegungsmuster bilden
+per Design auf `null` ab (ein Lauf ist weder Druecken noch Ziehen). Die Spalte
+wird also nie durchgaengig befuellt sein — stuende sie hier, koennte
+`nullable_columns` nie leer werden, und die Frage "ist v2 inhaltlich fertig?"
+waere nicht mehr beantwortbar."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -106,7 +111,9 @@ def build_ddl(nullable: set[str]) -> list[str]:
           merged_into           TEXT REFERENCES exercises(id),
           modality              TEXT{null('modality')},
           mechanic              TEXT{null('mechanic')},
-          force_vector          TEXT{null('force_vector')},
+          -- Immer nullable: abgeleitet aus movement_pattern, und acht Muster
+          -- bilden per Design auf NULL ab (SCHEMA.md 6).
+          force_vector          TEXT,
           movement_pattern      TEXT{null('movement_pattern')},
           laterality            TEXT{null('laterality')},
           difficulty            TEXT,
@@ -368,7 +375,10 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                 exercise.get("merged_into"),
                 exercise.get("modality"),
                 exercise.get("mechanic"),
-                exercise.get("force_vector"),
+                # Abgeleitet, nicht aus der Quelldatei uebernommen: force_vector
+                # ist eine Funktion von movement_pattern (SCHEMA.md 6). Der Build
+                # ist der einzige Schreiber dieser Spalte — sonst driftet sie.
+                vocab.force_vector_for(exercise.get("movement_pattern")),
                 exercise.get("movement_pattern"),
                 exercise.get("laterality"),
                 exercise.get("difficulty"),

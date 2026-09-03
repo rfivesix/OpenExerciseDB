@@ -3,7 +3,6 @@ slug: standing-rope-forearm
 status: active
 modality: strength
 mechanic: isolation
-force_vector: pull
 movement_pattern: other
 laterality: bilateral
 difficulty: intermediate
@@ -33,10 +32,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   mechanic:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  force_vector:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

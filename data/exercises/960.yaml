@@ -3,7 +3,6 @@ slug: kettlebell-swing
 status: active
 modality: strength
 mechanic: compound
-force_vector: pull
 movement_pattern: hinge
 laterality: bilateral
 difficulty: intermediate
@@ -45,10 +44,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   mechanic:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  force_vector:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

@@ -3,7 +3,6 @@ slug: forward-shoulder-rotation
 status: active
 modality: mobility
 mechanic: isolation
-force_vector: pull
 movement_pattern: rotation
 laterality: bilateral
 difficulty: beginner
@@ -35,10 +34,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   mechanic:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  force_vector:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

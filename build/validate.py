@@ -74,12 +74,6 @@ Ueberall sonst gilt: ist das Feld da, wird es voll geprueft."""
 HEAVY_SETUP = ("squat_rack", "power_rack", "cable_tower", "landmine")
 """Invariante 11: mit reinem Koerpergewicht unvereinbares Setup."""
 
-PATTERN_FORCE_VECTOR = {
-    "_push": "push",
-    "_pull": "pull",
-}
-"""Invariante 19, Suffix-Regel. `anti_*` wird gesondert behandelt."""
-
 CARDIO_TRACKING = {"time", "distance_time", "distance_only"}
 STATIC_TRACKING = {"time", "time_weight"}
 ADDED_WEIGHT_TRACKING = {"bodyweight_reps", "time"}
@@ -214,7 +208,6 @@ def check_vocabulary(data: dataset_mod.Dataset, vocab: Vocabularies, report: Rep
         "status": set(vocab.classification("status")),
         "modality": set(vocab.classification("modality")),
         "mechanic": set(vocab.classification("mechanic")),
-        "force_vector": set(vocab.classification("force_vector")),
         "movement_pattern": set(vocab.classification("movement_pattern")),
         "laterality": set(vocab.classification("laterality")),
         "difficulty": set(vocab.classification("difficulty")),
@@ -480,7 +473,6 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
         modality = exercise.get("modality")
         mechanic = exercise.get("mechanic")
         tracking = exercise.get("tracking_type")
-        force = exercise.get("force_vector")
         pattern = exercise.get("movement_pattern")
         primary = exercise.muscle_ids("primary")
         entries = [entry for entry in exercise.muscles if isinstance(entry, dict)]
@@ -535,32 +527,16 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 f"{sorted(ADDED_WEIGHT_TRACKING)}, ist {tracking!r}",
                 location,
             )
-        # 18
-        if force == "static" and tracking and tracking not in STATIC_TRACKING:
+        # 18 — frueher ueber force_vector: static formuliert. Das Feld wird
+        # nicht mehr annotiert (19), die Regel haengt jetzt direkt am Muster.
+        if pattern and pattern.startswith("anti_") and tracking and tracking not in STATIC_TRACKING:
             report.add(
                 "18",
                 ERROR,
-                f"force_vector: static verlangt tracking_type aus {sorted(STATIC_TRACKING)}, "
-                f"ist {tracking!r}",
+                f"movement_pattern {pattern!r} verlangt tracking_type aus "
+                f"{sorted(STATIC_TRACKING)}, ist {tracking!r}",
                 location,
             )
-        # 19
-        if pattern and force:
-            expected = None
-            if pattern.startswith("anti_"):
-                expected = "static"
-            else:
-                for suffix, value in PATTERN_FORCE_VECTOR.items():
-                    if pattern.endswith(suffix):
-                        expected = value
-            if expected and expected != force:
-                report.add(
-                    "19",
-                    ERROR,
-                    f"movement_pattern {pattern!r} verlangt force_vector {expected!r}, "
-                    f"ist {force!r}",
-                    location,
-                )
         # Muskelknoten muessen aufloesbar sein, sonst laufen 10 und 20 ins Leere.
         for node_id in primary:
             if node_id in muscles:
@@ -659,7 +635,13 @@ def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
 
 
 def check_regression(report: Report) -> None:
-    """Invariante 22 braucht zwei Datenbanken."""
+    """Invariante 22 braucht zwei Datenbanken; 19 ist strukturell erfuellt."""
+    report.skip(
+        "19",
+        "strukturell erfuellt: force_vector wird nicht annotiert, sondern aus "
+        "movement_pattern abgeleitet (vocab/classification.yaml). Ein Verstoss "
+        "ist nicht mehr formulierbar.",
+    )
     report.skip(
         "22",
         "Mengenvergleich zweier Releases — laeuft in build/catalog_diff.py "

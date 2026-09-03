@@ -199,6 +199,19 @@ class Vocabularies:
         return _entry_ids(self._classification_raw.get(axis, []))
 
     @cached_property
+    def force_vector_by_pattern(self) -> dict[str, str | None]:
+        """movement_pattern -> force_vector. `None` heisst "keine ehrliche Antwort".
+
+        force_vector ist eine Funktion von movement_pattern und wird deshalb
+        abgeleitet statt annotiert (SCHEMA.md 6). Diese Tabelle ist die einzige
+        Stelle, an der die Zuordnung steht.
+        """
+        return dict(self._classification_raw.get("force_vector_by_pattern") or {})
+
+    def force_vector_for(self, pattern: str | None) -> str | None:
+        return self.force_vector_by_pattern.get(pattern) if pattern else None
+
+    @cached_property
     def classification_axes(self) -> list[str]:
         return [k for k, v in self._classification_raw.items() if isinstance(v, list)]
 

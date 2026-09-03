@@ -71,6 +71,61 @@ movement_pattern:
   - { id: gait, names: { en: Gait / locomotion, de: Fortbewegung } }
   - { id: other, names: { en: Other, de: Sonstiges } }
 
+# force_vector wird ABGELEITET, nicht annotiert.
+#
+# Auswertung der ersten 50 annotierten Uebungen: 19 der 20 vorkommenden
+# movement_pattern hatten genau einen force_vector. Der einzige mehrdeutige war
+# `other` — der Eimer, der ohnehin "keine Aussage" heisst. force_vector ist also
+# eine Funktion von movement_pattern und keine unabhaengige Information; sie zu
+# annotieren heisst, dasselbe zweimal zu behaupten und irgendwann zu widersprechen.
+#
+# `null` heisst ausdruecklich "es gibt keine ehrliche Antwort" und ist kein
+# Fehler. Ein Lauf ist weder Druecken noch Ziehen, und `push` dranzuschreiben,
+# weil ein Modell konsistent geraten hat, waere Scheinpraezision.
+#
+# Zwei Zeilen weichen bewusst von dem ab, was das Modell geschrieben hat:
+#   shoulder_abduction: das Modell sagte `pull`. Ein Seitheben ist eine
+#     Drueck-Bewegung — der Arm geht vom Koerper weg. Hier steht `push`.
+#   shoulder_raise: das Modell sagte `pull`, aber das Muster buendelt Front
+#     Raise (Delta, push) und Shrug (Trapez, pull). Es kann keinen ehrlichen
+#     Wert haben, solange es beides ist -> null. Aufzuteilen, siehe oben.
+#
+# `hinge: pull` bricht die Beuge/Streck-Logik der Isolationsmuster (Hueftstreckung
+# waere `push`). Das ist Absicht: Kreuzheben ist in jeder Systematik eine
+# Zug-Uebung. Bitte nicht "korrigieren".
+force_vector_by_pattern:
+  horizontal_push: push
+  vertical_push: push
+  horizontal_pull: pull
+  vertical_pull: pull
+  squat: push
+  hinge: pull
+  lunge: push
+  elbow_flexion: pull
+  elbow_extension: push
+  knee_flexion: pull
+  knee_extension: push
+  shoulder_abduction: push
+  plantar_flexion: push
+  wrist_flexion: pull
+  wrist_extension: push
+
+  anti_rotation: static
+  anti_extension: static
+  anti_lateral_flexion: static
+  anti_flexion: static
+
+  # Kein ehrlicher Wert:
+  carry: null
+  rotation: null
+  hip_abduction: null
+  hip_adduction: null
+  shoulder_raise: null      # buendelt push und pull, siehe oben
+  spinal_extension: null
+  spinal_flexion: null
+  gait: null
+  other: null
+
 laterality:
   - { id: bilateral, names: { en: Bilateral, de: Beidseitig } }
   - { id: unilateral, names: { en: Unilateral, de: Einseitig } }

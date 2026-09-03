@@ -212,7 +212,7 @@ Kompatibilitätsspalten weiterhin die Legacy-Gruppe.
 | `modality` | genau 1 | Was die Übung *ist*: strength, cardio, plyometric, mobility, stretch, balance |
 | `usage_tags` | ≥ 1 | Wofür sie *eingesetzt* wird: warmup, activation, main_lift, accessory, conditioning, finisher, cooldown, prehab |
 | `mechanic` | genau 1 | compound / isolation |
-| `force_vector` | genau 1 | push / pull / static |
+| `force_vector` | *abgeleitet* | push / pull / static — aus `movement_pattern` |
 | `movement_pattern` | genau 1 | 24 Muster, von `vertical_pull` bis `anti_rotation` |
 | `laterality` | genau 1 | bilateral / unilateral / alternating |
 | `difficulty` | optional | beginner / intermediate / advanced |
@@ -305,7 +305,7 @@ CREATE TABLE exercises (
   merged_into           TEXT REFERENCES exercises(id),
   modality              TEXT NOT NULL,
   mechanic              TEXT NOT NULL,
-  force_vector          TEXT NOT NULL,
+  force_vector          TEXT,                   -- abgeleitet, siehe unten
   movement_pattern      TEXT NOT NULL,
   laterality            TEXT NOT NULL,
   difficulty            TEXT,
@@ -416,6 +416,16 @@ Zwei Punkte, die beim Bau des Generators konkret wurden:
   warten, der daran denkt — und `nullable_columns == []` ist die Antwort auf
   „ist v2 inhaltlich erreicht?". Ein Platzhalterwert wäre die Alternative
   gewesen; der wäre von einem echten Wert nicht zu unterscheiden.
+- **`force_vector` wird vom Build befüllt, nicht aus der Quelldatei
+  übernommen.** Es ist eine Funktion von `movement_pattern` — bei den ersten 50
+  annotierten Übungen hatten 19 der 20 vorkommenden Muster genau einen Wert, der
+  einzige mehrdeutige war `other`, also der Eimer für „keine Aussage". Zwei
+  Felder, die dasselbe behaupten, widersprechen sich irgendwann; die Tabelle
+  steht in `vocab/classification.yaml` unter `force_vector_by_pattern`. Acht
+  Muster bilden dort bewusst auf `NULL` ab — ein Lauf ist weder Drücken noch
+  Ziehen, und `push` hinzuschreiben, weil ein Modell konsistent geraten hat,
+  wäre Scheinpräzision. Deshalb ist die Spalte nullable und zählt nicht in
+  `nullable_columns` mit.
 - **`category_name` speist sich aus `upstream.source_fields.category`.** Die
   Spalte ist Legacy und wird nicht gepflegt, aber die App liest sie. Der Build
   darf nicht selbst in den Snapshot greifen, also reist der Rohwert in der

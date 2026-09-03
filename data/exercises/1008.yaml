@@ -3,7 +3,6 @@ slug: left-neck-stretch
 status: active
 modality: stretch
 mechanic: isolation
-force_vector: static
 movement_pattern: anti_lateral_flexion
 laterality: unilateral
 difficulty: beginner
@@ -33,10 +32,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   mechanic:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  force_vector:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

@@ -207,19 +207,32 @@ class ValidatorTestCase(unittest.TestCase):
     def test_17_added_weight_with_the_wrong_tracker(self) -> None:
         self.assertTriggers("17", supports_added_weight=True, tracking_type="weight_reps")
 
-    def test_18_static_hold_counted_in_reps(self) -> None:
-        self.assertTriggers("18", force_vector="static", tracking_type="bodyweight_reps")
+    def test_18_anti_pattern_counted_in_reps(self) -> None:
+        """Frueher ueber `force_vector: static` formuliert; das Feld wird nicht
+        mehr annotiert, die Regel haengt jetzt direkt am Muster."""
+        self.assertTriggers(
+            "18", movement_pattern="anti_rotation", tracking_type="bodyweight_reps"
+        )
 
-    def test_19_pattern_contradicts_force_vector(self) -> None:
-        self.assertTriggers("19", movement_pattern="vertical_pull", force_vector="push")
-
-    def test_19_anti_pattern_must_be_static(self) -> None:
-        self.assertTriggers("19", movement_pattern="anti_rotation", force_vector="pull")
-
-    def test_19_accepts_a_matching_pair(self) -> None:
-        self.write_exercise(movement_pattern="vertical_pull", force_vector="pull")
+    def test_18_accepts_a_timed_anti_pattern(self) -> None:
+        self.write_exercise(movement_pattern="anti_rotation", tracking_type="time")
         self.write_text()
-        self.assertNotIn("19", self.invariants())
+        self.assertNotIn("18", self.invariants())
+
+    def test_19_cannot_be_violated_any_more(self) -> None:
+        """force_vector ist abgeleitet — ein Widerspruch ist nicht formulierbar.
+
+        Der Test haelt fest, dass die Ableitungstabelle jedes Muster kennt.
+        Faellt spaeter ein Muster ins Vokabular ohne Eintrag dort, wuerde der
+        Build stillschweigend NULL schreiben statt aufzufallen.
+        """
+        vocab = Vocabularies()
+        patterns = set(vocab.classification("movement_pattern"))
+        table = set(vocab.force_vector_by_pattern)
+        self.assertEqual(set(), patterns - table, "Muster ohne Eintrag in der Ableitungstabelle")
+        self.assertEqual(set(), table - patterns, "Ableitungstabelle kennt unbekannte Muster")
+        allowed = set(vocab.classification("force_vector")) | {None}
+        self.assertTrue(set(vocab.force_vector_by_pattern.values()) <= allowed)
 
 
 class RealDataTestCase(unittest.TestCase):

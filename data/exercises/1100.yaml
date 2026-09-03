@@ -3,7 +3,6 @@ slug: wall-balls
 status: active
 modality: plyometric
 mechanic: compound
-force_vector: push
 movement_pattern: vertical_push
 laterality: bilateral
 difficulty: intermediate
@@ -45,10 +44,6 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   mechanic:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
-  force_vector:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'

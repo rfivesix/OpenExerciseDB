@@ -15,8 +15,7 @@ status: active
 
 modality: strength
 mechanic: compound
-force_vector: pull
-movement_pattern: vertical_pull
+movement_pattern: vertical_pull   # force_vector wird daraus abgeleitet
 laterality: bilateral
 difficulty: intermediate
 usage_tags: [main_lift, accessory]

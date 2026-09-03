@@ -39,9 +39,15 @@ Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
     sachlich falsche Antwort. `supports_assistance` ist ersatzlos entfallen;
     was gemeint war, sagt jetzt `load_mode: assisted` (Invariante 25).
 17. `supports_added_weight: true` ⇒ `tracking_type` ∈ {`bodyweight_reps`, `time`}.
-18. `force_vector: static` ⇒ `tracking_type` ∈ {`time`, `time_weight`}.
-19. `movement_pattern` passt zu `force_vector`
-    (`*_push` ⇒ `push`, `*_pull` ⇒ `pull`, `anti_*` ⇒ `static`).
+18. `movement_pattern` `anti_*` ⇒ `tracking_type` ∈ {`time`, `time_weight`}.
+    (Früher über `force_vector: static` formuliert; das Feld wird nicht mehr
+    annotiert, siehe 19.)
+19. *(strukturell erfüllt)* Die Regel lautete „`movement_pattern` passt zu
+    `force_vector`". `force_vector` wird nicht mehr annotiert, sondern vom Build
+    aus `force_vector_by_pattern` in `vocab/classification.yaml` abgeleitet — ein
+    Verstoß ist damit nicht mehr formulierbar. Die Regel ist nicht abgeschafft,
+    sie ist in die Datenstruktur gewandert, und das ist die bessere Sorte
+    Invariante: eine, die man nicht brechen kann, statt einer, die man prüft.
 20. Primärmuskel-Gruppe muss zum `movement_pattern` passen — Tabelle in
     `vocab/pattern_muscle_expectations.yaml`. Verstoß ist eine **Warnung**,
     kein Fehler: Ausnahmen existieren, aber jede will einmal angeschaut werden.
