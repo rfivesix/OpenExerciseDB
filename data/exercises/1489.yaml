@@ -24,9 +24,7 @@ muscles:
   role: secondary
 - id: deltoid
   role: secondary
-exceptions:
-  invariant_18: Dynamische Anti-Extension mit Spreizsprüngen, wird in Wiederholungen
-    geloggt.
+
 provenance:
   id:
     source: wger

@@ -20,9 +20,7 @@ muscles:
   role: primary
 - id: rectus_abdominis
   role: secondary
-exceptions:
-  invariant_18: 'Dynamische Lateralflexion (Side Bend) wird in Wiederholungen geloggt.
-    Vokabularlücke: es existiert kein movement_pattern: lateral_flexion.'
+
 provenance:
   id:
     source: wger

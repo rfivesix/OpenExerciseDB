@@ -206,20 +206,8 @@ class ValidatorTestCase(unittest.TestCase):
     def test_15_compound_with_a_single_muscle(self) -> None:
         self.assertTriggers("15", mechanic="compound")
 
-    def test_17_added_weight_with_the_wrong_tracker(self) -> None:
+    def test_17_added_weight_requires_reps_or_time(self) -> None:
         self.assertTriggers("17", supports_added_weight=True, tracking_type="weight_reps")
-
-    def test_18_anti_pattern_counted_in_reps(self) -> None:
-        """Frueher ueber `force_vector: static` formuliert; das Feld wird nicht
-        mehr annotiert, die Regel haengt jetzt direkt am Muster."""
-        self.assertTriggers(
-            "18", movement_pattern="anti_rotation", tracking_type="bodyweight_reps"
-        )
-
-    def test_18_accepts_a_timed_anti_pattern(self) -> None:
-        self.write_exercise(movement_pattern="anti_rotation", tracking_type="time")
-        self.write_text()
-        self.assertNotIn("18", self.invariants())
 
     def test_19_cannot_be_violated_any_more(self) -> None:
         """force_vector ist abgeleitet — ein Widerspruch ist nicht formulierbar.
@@ -259,15 +247,15 @@ class RealDataTestCase(unittest.TestCase):
         )
 
     def test_the_only_soft_invariant_that_fires_is_excused(self) -> None:
-        """1103 Walkout und 312 Incline Plank — Uebungen mit dynamischer
-        Anti-Extension, die in Wiederholungen geloggt werden."""
+        """616 Squat Thrust — Cardio-Uebung, die in Wiederholungen geloggt wird."""
         data = dataset_mod.load()
         report = validate.Report(profile="phase1")
         validate.check_plausibility(data, Vocabularies(), report)
         validate.apply_exceptions(data, report)
         soft = report.stats["soft_invariants"]
-        self.assertEqual(0, soft["18"]["open"])
-        self.assertEqual(soft["18"]["fired"], soft["18"]["excused"])
+        self.assertEqual(0, soft["12"]["open"])
+        self.assertEqual(1, soft["12"]["excused"])
+        self.assertEqual(1, soft["12"]["fired"])
 
     def test_every_legacy_wger_muscle_maps_back_to_its_own_name(self) -> None:
         """Die Kompatibilitaetsspalten stehen und fallen mit dieser Umkehrung."""
@@ -400,31 +388,31 @@ class ExceptionsTestCase(ValidatorTestCase):
         return report
 
     def test_a_soft_invariant_can_be_excused(self) -> None:
-        """Ab-Wheel-Rollout: dynamische Anti-Extension, in Reps geloggt."""
-        self.write_exercise(movement_pattern="anti_extension", tracking_type="bodyweight_reps")
+        """Squat Thrust: Cardio-Uebung, in Reps geloggt."""
+        self.write_exercise(modality="cardio", tracking_type="bodyweight_reps")
         self.write_text()
-        self.assertIn("18", self.invariants())
+        self.assertIn("12", self.invariants())
 
         self.write_exercise(
-            movement_pattern="anti_extension",
+            modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_18": "Rollout ist dynamische Anti-Extension, Reps."},
+            exceptions={"invariant_12": "Cardio in Reps."},
         )
-        self.assertNotIn("18", self.invariants())
+        self.assertNotIn("12", self.invariants())
 
     def test_the_excused_finding_is_kept_with_its_reason(self) -> None:
         """Entschaerft heisst nicht verschwunden — der Bericht behaelt beides."""
         self.write_exercise(
-            movement_pattern="anti_extension",
+            modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_18": "Rollout ist dynamische Anti-Extension, Reps."},
+            exceptions={"invariant_12": "Cardio in Reps."},
         )
         self.write_text()
         report = self.report()
-        excused = [f for f in report.findings if f.invariant == "18"]
+        excused = [f for f in report.findings if f.invariant == "12"]
         self.assertEqual(1, len(excused))
-        self.assertIn("Rollout", excused[0].excused or "")
-        self.assertEqual({"fired": 1, "excused": 1, "open": 0}, report.stats["soft_invariants"]["18"])
+        self.assertIn("Cardio", excused[0].excused or "")
+        self.assertEqual({"fired": 1, "excused": 1, "open": 0}, report.stats["soft_invariants"]["12"])
 
     def test_an_exception_on_a_hard_invariant_is_an_error(self) -> None:
         self.write_exercise(
@@ -439,20 +427,20 @@ class ExceptionsTestCase(ValidatorTestCase):
 
     def test_an_exception_without_a_reason_is_an_error(self) -> None:
         self.write_exercise(
-            movement_pattern="anti_extension",
+            modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_18": "   "},
+            exceptions={"invariant_12": "   "},
         )
         self.write_text()
         self.assertIn("exceptions", self.invariants())
-        self.assertIn("18", self.invariants(), "ohne Begruendung wird nicht entschaerft")
+        self.assertIn("12", self.invariants(), "ohne Begruendung wird nicht entschaerft")
 
     def test_an_exception_that_never_fires_is_a_warning(self) -> None:
         """Karteileichen schicken den naechsten Leser in die Irre."""
         self.write_exercise(
-            movement_pattern="anti_extension",
+            modality="cardio",
             tracking_type="time",
-            exceptions={"invariant_18": "War mal noetig, ist es nicht mehr."},
+            exceptions={"invariant_12": "War mal noetig, ist es nicht mehr."},
         )
         self.write_text()
         self.assertNotIn("exceptions", self.invariants())
@@ -467,16 +455,16 @@ class ExceptionsTestCase(ValidatorTestCase):
         self.write_exercise(
             id="1",
             slug="a",
-            movement_pattern="anti_extension",
+            modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_18": "Hier begruendet, dort nicht."},
+            exceptions={"invariant_12": "Hier begruendet, dort nicht."},
         )
         self.write_exercise(
-            id="2", slug="b", movement_pattern="anti_extension", tracking_type="bodyweight_reps"
+            id="2", slug="b", modality="cardio", tracking_type="bodyweight_reps"
         )
         self.write_text()
-        open_18 = [f for f in self.report().errors if f.invariant == "18"]
-        self.assertEqual(["2"], [f.exercise_id for f in open_18])
+        open_12 = [f for f in self.report().errors if f.invariant == "12"]
+        self.assertEqual(["2"], [f.exercise_id for f in open_12])
 
 
 class HardSoftSplitTestCase(unittest.TestCase):
@@ -487,7 +475,7 @@ class HardSoftSplitTestCase(unittest.TestCase):
     def test_the_split_matches_the_documented_one(self) -> None:
         """Gegen schema/invariants.md, damit Code und Dokument nicht auseinanderlaufen."""
         self.assertEqual(
-            {"11", "12", "13", "14", "15", "18", "20"}, validate.SOFT_INVARIANTS
+            {"11", "12", "13", "14", "15", "20"}, validate.SOFT_INVARIANTS
         )
         for hard in ("1", "2", "3", "8", "9", "17", "21", "24", "25"):
             self.assertIn(hard, validate.HARD_INVARIANTS)

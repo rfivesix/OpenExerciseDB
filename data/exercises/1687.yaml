@@ -26,9 +26,7 @@ muscles:
   role: secondary
 - id: transversus_abdominis
   role: secondary
-exceptions:
-  invariant_18: Dynamische Anti-Rotation in der Bear-Crawl-Position mit Kurzhantelzug,
-    wird in Wiederholungen geloggt.
+
 provenance:
   id:
     source: wger

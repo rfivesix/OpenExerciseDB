@@ -25,8 +25,7 @@ muscles:
   role: secondary
 - id: obliques
   role: secondary
-exceptions:
-  invariant_18: Dynamische Anti-Extension, wird in Wiederholungen geloggt.
+
 provenance:
   id:
     source: wger

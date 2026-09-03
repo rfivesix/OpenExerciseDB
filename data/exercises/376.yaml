@@ -21,9 +21,7 @@ muscles:
     role: primary
   - id: obliques
     role: secondary
-exceptions:
-  invariant_18: |-
-    Lying Leg Raise ist dynamische Anti-Extension der Rumpfmuskulatur gegen den Hebel der Beine und wird in Wiederholungen geloggt.
+
 provenance:
   id:
     source: wger

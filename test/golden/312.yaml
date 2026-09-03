@@ -27,9 +27,7 @@ muscles:
   role: secondary
 - id: gluteus_medius
   role: secondary
-exceptions:
-  invariant_18: Abwechselnde Fußkontakte werden als diskrete Wiederholungen geloggt,
-    nicht auf Zeit. Die Regel beschreibt den Normalfall, nicht diesen.
+
 provenance:
   id:
     source: wger

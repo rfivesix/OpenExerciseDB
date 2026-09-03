@@ -26,9 +26,7 @@ muscles:
   role: secondary
 - id: gluteus_medius
   role: secondary
-exceptions:
-  invariant_18: Dynamisch ausgeführte Pallof Press (Drücken und Halten) wird in Wiederholungen
-    geloggt.
+
 provenance:
   id:
     source: wger

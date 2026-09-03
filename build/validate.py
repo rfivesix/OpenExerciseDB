@@ -60,14 +60,13 @@ HARD_INVARIANTS = {
 """Strukturell und referenziell: eine ID zeigt ins Leere, ein Vokabularwert
 existiert nicht, ein Muskel steht zweimal da. Keine legitimen Ausnahmen."""
 
-SOFT_INVARIANTS = {"11", "12", "13", "14", "15", "18", "20"}
+SOFT_INVARIANTS = {"11", "12", "13", "14", "15", "20"}
 """Plausibilitaet — Korrelationen, keine Gesetze.
 
-`anti_*` ist statisch, ausser beim Ab-Wheel-Rollout. Cardio wird nicht in
-Wiederholungen geloggt, ausser bei Burpees. Der Schaden einer zu strengen Regel
-ist nicht der Fehlalarm — der ist sichtbar —, sondern die still verbogene
-Annotation, die ihn vermeidet. Deshalb sind diese Regeln pro Uebung
-entschaerfbar, mit Begruendung im Klartext."""
+Cardio wird nicht in Wiederholungen geloggt, ausser bei Burpees. Der Schaden
+einer zu strengen Regel ist nicht der Fehlalarm — der ist sichtbar —, sondern
+die still verbogene Annotation, die ihn vermeidet. Deshalb sind diese Regeln
+pro Uebung entschaerfbar, mit Begruendung im Klartext."""
 
 EXCEPTION_PREFIX = "invariant_"
 
@@ -93,7 +92,6 @@ HEAVY_SETUP = ("squat_rack", "power_rack", "cable_tower", "landmine")
 """Invariante 11: mit reinem Koerpergewicht unvereinbares Setup."""
 
 CARDIO_TRACKING = {"time", "distance_time", "distance_only"}
-STATIC_TRACKING = {"time", "time_weight"}
 ADDED_WEIGHT_TRACKING = {"bodyweight_reps", "time"}
 ASSISTED_EQUIPMENT = {"machine", "resistance_band"}
 
@@ -570,19 +568,6 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
                 ERROR,
                 f"supports_added_weight verlangt tracking_type aus "
                 f"{sorted(ADDED_WEIGHT_TRACKING)}, ist {tracking!r}",
-                location,
-                eid,
-            )
-        # --- 18 (weich) — frueher ueber `force_vector: static` formuliert. Das
-        # Feld wird nicht mehr annotiert (19), die Regel haengt jetzt am Muster.
-        # Ab-Wheel-Rollout und Inchworm sind dynamische Anti-Extension; genau
-        # dafuer gibt es `exceptions`.
-        if pattern and pattern.startswith("anti_") and tracking and tracking not in STATIC_TRACKING:
-            report.add(
-                "18",
-                ERROR,
-                f"movement_pattern {pattern!r} verlangt tracking_type aus "
-                f"{sorted(STATIC_TRACKING)}, ist {tracking!r}",
                 location,
                 eid,
             )

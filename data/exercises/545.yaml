@@ -23,8 +23,7 @@ muscles:
   role: secondary
 - id: obliques
   role: secondary
-exceptions:
-  invariant_18: Dynamische Anti-Extension mit Beinschere, wird in Wiederholungen geloggt.
+
 provenance:
   id:
     source: wger

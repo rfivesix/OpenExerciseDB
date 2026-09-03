@@ -20,8 +20,7 @@ muscles:
   role: primary
 - id: rectus_abdominis
   role: secondary
-exceptions:
-  invariant_18: Dynamische Lateralflexion im Stehen, wird in Wiederholungen geloggt.
+
 provenance:
   id:
     source: wger
