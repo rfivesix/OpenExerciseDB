@@ -1,0 +1,16 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1897'
+language: en
+status: upstream_unreviewed
+name: Close-Grip Bench Press
+description: |-
+  Setup: Lie flat on the bench and grip the bar at shoulder-width (closer than a standard bench press).
+  Descent: Lower the bar with control to your lower chest.
+  Form: Keep your elbows tucked in tight against your torso—do not let them flare out.
+  Ascent: Press the bar straight back up, squeezing your triceps at the top.
+upstream:
+  license: CC-BY-SA-4.0

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '993'
 language: he
-status: human
+status: upstream_unreviewed
 name: 'חבל קפיצה: קפיצות בסיסיות'
 upstream:
   license: CC-BY-SA-4.0

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: en
-status: human
+status: upstream_unreviewed
 name: Spider Curl
 description: |-
   To get the most out of DB Spider Curls, you need an

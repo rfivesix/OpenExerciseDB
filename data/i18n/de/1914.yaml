@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1914'
 language: de
-status: human
+status: upstream_unreviewed
 name: Isometrisches Halten am Barren
 description: |-
   Das isometrische Halten am Barren ist eine statische Oberkörperübung, die an Dip-Stangen (Parallelbarren) ausgeführt wird. Anstatt dich wie bei einem klassischen Dip auf und ab zu bewegen, hältst du unter Spannung eine feste Position.

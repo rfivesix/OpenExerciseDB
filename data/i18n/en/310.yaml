@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '310'
 language: en
-status: human
+status: upstream_unreviewed
 name: Incline Dumbbell Row
 description: |-
   Using a neutral grip, lean into an incline bench.

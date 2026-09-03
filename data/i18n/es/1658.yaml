@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1658'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl en banco Scott - rotación externa
 description: |-
   Curl a un brazo que se puede realizar con una mancuerna y un banco Scott, o en una máquina de curl Scott. Gira el cuerpo alejándolo del peso.

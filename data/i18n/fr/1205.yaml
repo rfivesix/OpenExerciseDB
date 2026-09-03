@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1205'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl des poignets, haltères
 description: |-
   Assis sur un banc, saisissez l'haltère, les paumes tournées vers le haut

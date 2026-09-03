@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '129'
 language: de
-status: human
+status: upstream_unreviewed
 name: Brustpresse
 description: |-
   Stelle die Sitzhöhe so ein, dass sich die Griffe auf Höhe deiner Brust befinden.

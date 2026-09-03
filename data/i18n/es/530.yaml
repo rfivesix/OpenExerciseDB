@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '530'
 language: es
-status: human
+status: upstream_unreviewed
 name: Correr en cinta
 description: |-
   La caminadora, o cinta de correr, es una herramienta versátil para el ejercicio que permite caminar, trotar o correr a diferentes velocidades e inclinaciones. Se puede utilizar para mejorar la salud cardiovascular, fortalecer músculos, quemar calorías y aumentar la resistencia.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1968'
 language: es
-status: human
+status: upstream_unreviewed
 name: Press de hombro con mancuerna a un brazo
 description: |-
   Presiona la mancuerna verticalmente por encima de la cabeza con un movimiento controlado hasta que el brazo quede completamente extendido, sin bloquear el codo. Baja la mancuerna lentamente de vuelta a la posición inicial a la altura del hombro.

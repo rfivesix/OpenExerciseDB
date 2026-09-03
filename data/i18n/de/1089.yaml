@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: de
-status: human
+status: upstream_unreviewed
 name: Medizinball-Drehung
 description: |-
   In sitzender Position wird der Oberkörper ohne Zwang von einer Seite zur anderen gedreht, du näherst dich dabei den Knien und lässt den Ball von Zeit zu Zeit den Boden berühren.

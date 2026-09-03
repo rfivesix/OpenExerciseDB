@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1963'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadilla lenta
 description: |-
   Una sentadilla basada en el tempo que utiliza un movimiento controlado para aumentar la tensión muscular y mejorar la estabilidad del tren inferior.

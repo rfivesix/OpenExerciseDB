@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1511'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Kong curl
 description: |-
   Cet exercice ressemble quelque peu à un curl à la poulie et à un écarté à la poulie. Mais au lieu de cibler les pectoraux ou les biceps, il sollicite le muscle brachial, responsable de cette largeur de bras visible de face.

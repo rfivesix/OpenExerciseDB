@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2489'
 language: it
-status: human
+status: upstream_unreviewed
 name: Trazioni
 description: |-
   Basato sulla macchina Low Row Sel. di Technogym. In questa versione si usano due braccia.

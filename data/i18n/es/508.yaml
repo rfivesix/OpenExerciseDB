@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '508'
 language: es
-status: human
+status: upstream_unreviewed
 name: Remo maquina abierto
 description: Remo en maquina o maquina de polea con barra ancha y agarre supino
 upstream:

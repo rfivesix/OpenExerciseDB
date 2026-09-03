@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '320'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Skákací panák
 description: |-
   Stůj vzpřímeně, nohy těsně vedle sebe a ruce podél těla

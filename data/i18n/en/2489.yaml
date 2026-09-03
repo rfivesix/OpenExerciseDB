@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2489'
 language: en
-status: human
+status: upstream_unreviewed
 name: Low row
 description: Based on Low Row Sel. by Technogym. In this version, you use it with two arms.
 upstream:

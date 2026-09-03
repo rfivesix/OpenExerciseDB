@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1688'
 language: en
-status: human
+status: upstream_unreviewed
 name: Kickstand RDL
 description: use non-working leg's toes to help with balance and perform an RDL.
 upstream:

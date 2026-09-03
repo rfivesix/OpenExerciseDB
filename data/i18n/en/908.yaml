@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '908'
 language: en
-status: human
+status: upstream_unreviewed
 name: Zone 2 Running
 description: Zone two Cardio for endurance, you should be able to speak while running
 upstream:

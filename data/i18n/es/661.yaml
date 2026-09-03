@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '661'
 language: es
-status: human
+status: upstream_unreviewed
 name: Tríceps en máquina
 description: |-
   Siéntate y sujeta firmemente la barra con las manos. Ahora empuja el peso hacia arriba (sin extender del todo los brazos) y bájalo de nuevo lentamente. Como en otros ejercicios de tríceps, es importante no mover los brazos.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1808'
 language: en
-status: human
+status: upstream_unreviewed
 name: Parallel Bar Hold
 description: |-
   Stand between a set of parallel bars.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1325'
 language: en
-status: human
+status: upstream_unreviewed
 name: Lateral Push Off
 description: |-
   Push off the ground and land on one leg and regain balance before jumping to the other leg

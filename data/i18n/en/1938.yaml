@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1938'
 language: en
-status: human
+status: upstream_unreviewed
 name: Cat-Cow
 description: |-
   On all fours. Arch spine up (cat) then drop it down (cow). Breathe with movement.

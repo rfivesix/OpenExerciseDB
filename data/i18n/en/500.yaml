@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '500'
 language: en
-status: human
+status: upstream_unreviewed
 name: Reverse Plank
 description: Plank with stomach towards ceiling
 upstream:

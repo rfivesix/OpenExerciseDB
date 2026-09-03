@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Výšlapy
 description: |-
   Stůj čelem k židli.

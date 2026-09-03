@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1015'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Cercles du cou dans le sens horaire
 description: |-
   Position de départ :

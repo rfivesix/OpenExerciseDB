@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '985'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Kliky s rotací
 description: |-
   Proveďte standardní push-up:

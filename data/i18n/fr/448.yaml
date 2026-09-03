@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '448'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Rowing Pendlay
 description: |-
   Exercice de dos avec une barre, dont la position de départ est penchée en avant, le dos parallèle au sol. La barre repose au sol à hauteur de la poitrine. Pour le mouvement, saisissez la barre avec une prise à largeur d'épaules et tirez-la vers votre poitrine sans perdre la position penchée et sans bouger autre chose que vos bras.

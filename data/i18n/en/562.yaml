@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '562'
 language: en
-status: human
+status: upstream_unreviewed
 name: Shotgun Row
 description: |-
   Attach a single handle to a low cable.

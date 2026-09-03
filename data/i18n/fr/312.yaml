@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '312'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Planche inclinée avec touche du sol alternée
 description: |-
   Réalisez la planche jambes surélevées, les pieds sur un gym ball. Une fois stabilisé, déplacez lentement un pied sur le côté pour le sortir de la balle, faites-le toucher le sol, puis revenez à la position de départ. Alternez avec l'autre pied.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '916'
 language: en
-status: human
+status: upstream_unreviewed
 name: Smith Press
 description: Sitting almost 90 degree angle, smith machine
 upstream:

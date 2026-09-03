@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '454'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pike Push Ups
 description: Push Up performed from a pike position (optional to have feet elevated).
 upstream:

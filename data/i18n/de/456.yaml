@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: de
-status: human
+status: upstream_unreviewed
 name: Einbeinige Kniebeuge
 description: |-
   Ein Bein nach hinten auf einem Stuhl oder Bank ablegen, mit dem anderen Bein eine Kniebeuge machen. Gewicht optional mit Langhantel auf Rücken, Kurzhantel in den Armen oder Kugelhantel in Brusthöhe.

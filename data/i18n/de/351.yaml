@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '351'
 language: de
-status: human
+status: upstream_unreviewed
 name: Seitheben zum Frontheben
 description: |-
   -(1) Führe ein Seitheben aus und halte am höchsten Punkt der Bewegung kurz inne (2).

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '314'
 language: es
-status: human
+status: upstream_unreviewed
 name: Limpiaparabrisas isométricos
 description: |-
   Adopta la posición de flexión, con las manos un poco más separadas que el ancho de los hombros.

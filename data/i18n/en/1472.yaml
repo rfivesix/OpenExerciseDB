@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1472'
 language: en
-status: human
+status: upstream_unreviewed
 name: Cable Shrug-In
 description: Attach two D-Handles to two low cables and shrug in using your upper traps.
 upstream:

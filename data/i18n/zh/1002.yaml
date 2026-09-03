@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: zh
-status: human
+status: upstream_unreviewed
 name: 婴儿式
 description: |-
   起始姿势：开始时四肢着地，膝盖、脚趾、手接触地面，两个大脚趾相碰。

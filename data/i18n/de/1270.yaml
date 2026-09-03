@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: de
-status: human
+status: upstream_unreviewed
 name: Kabel-Fly am unteren Kabelzug
 description: |-
   Stelle die Kabelmaschine ein: Setze den Kabelzug auf die niedrigstmögliche Position.

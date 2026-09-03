@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1905'
 language: es
-status: human
+status: upstream_unreviewed
 name: Pullback
 description: |-
   Ajusta el peso y el agarre de las poleas en la jaula. Da unos pasos hacia atrás, inclínate hacia delante, tira y extiende la espalda al mismo tiempo.

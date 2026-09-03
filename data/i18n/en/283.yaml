@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '283'
 language: en
-status: human
+status: upstream_unreviewed
 name: Hanging Leg Raises
 description: Hanging from bar or straps, bring legs up with knees extended or flexed
 upstream:

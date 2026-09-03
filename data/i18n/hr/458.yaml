@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '458'
 language: hr
-status: human
+status: upstream_unreviewed
 name: Izdržaj na podlakticama
 upstream:
   license: CC-BY-SA-3.0

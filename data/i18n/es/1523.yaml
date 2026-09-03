@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: es
-status: human
+status: upstream_unreviewed
 name: Empuje de trineo
 description: |-
   Carga el trineo con el 25 % de tu carga máxima. Si no la conoces, elige un peso que puedas empujar durante 10 minutos con pausas cortas. Los principiantes pueden empujar el trineo sin peso.

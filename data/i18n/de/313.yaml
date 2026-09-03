@@ -1,0 +1,12 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '313'
+language: de
+status: upstream_unreviewed
+name: Incline Push up
+description: Regular push with a 30 degree incline.
+upstream:
+  license: CC-BY-SA-4.0

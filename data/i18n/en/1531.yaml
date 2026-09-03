@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1531'
 language: en
-status: human
+status: upstream_unreviewed
 name: Cable Curls
 description: Bicep Curls using cables. Can be seated or standing
 upstream:

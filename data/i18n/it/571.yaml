@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '571'
 language: it
-status: human
+status: upstream_unreviewed
 name: Scrollate con bilanciere
 description: Scrollate con bilanciereScrollate con bilanciere
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '406'
 language: de
-status: human
+status: upstream_unreviewed
 name: Rotatorenmanschette im Liegen
 description: |-
   Dies ist eine Übung bei Problemen mit der Rotatorenmanschette. Primär wird der Infraspinatus beansprucht, sekundär der Teres minor.

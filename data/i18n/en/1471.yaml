@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1471'
 language: en
-status: human
+status: upstream_unreviewed
 name: Kroc Row
 description: Dumbbell rows with looser technique but heavier weight.
 upstream:

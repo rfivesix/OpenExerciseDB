@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '915'
 language: es
-status: human
+status: upstream_unreviewed
 name: Volante
 description: |-
   Este ejercicio, que simula el movimiento de girar el volante de un autobús, es excelente para trabajar la resistencia y la fuerza de rotación del core, además de los deltoides.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '998'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Burpees sans saut
 description: |-
   Position de départ :

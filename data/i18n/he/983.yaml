@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '983'
 language: he
-status: human
+status: upstream_unreviewed
 name: ברכיים גבוהות
 description: לרוץ במקום, להרים את הברכיים כמה שנוח לך ואז להחליף בין הרגליים במהירות
 upstream:

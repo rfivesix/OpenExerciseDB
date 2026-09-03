@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1693'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Maintien statique incliné
 description: |-
   Exécution

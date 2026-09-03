@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1380'
 language: de
-status: human
+status: upstream_unreviewed
 name: Band Pull-Aparts
 description: |-
   Halte das Band mit ausgestreckten Armen auf Schulterhöhe vor dir.

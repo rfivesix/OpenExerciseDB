@@ -1,0 +1,23 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1488'
+language: en
+status: upstream_unreviewed
+name: Dumbbell Pullover
+description: |-
+  Starting
+  position is lying across a flat bench perpendicularly with your feet flat
+  on the ground, holding a dumbbell overhead with both hands.
+  With
+  a slight bend in the elbow, begin lowering the dumbbell over and behind
+  the head with the arm muscles in extended position.
+  Then
+  reverse the movement bringing the dumbbell back up and over the head.
+  Keep
+  your abdominal muscles tight and spine stable throughout allow repetitions
+  and don’t allow your back to arch up away from the flat bench.
+upstream:
+  license: CC-BY-SA-4.0

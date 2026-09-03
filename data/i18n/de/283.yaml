@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '283'
 language: de
-status: human
+status: upstream_unreviewed
 name: Beinheben im Hang
 description: |-
   Ausgangspostion im Hang, die Beine sind angebhoben (Oberschenkel-Rumpf-Winkel 90°)

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Wood chops inversés (rotation du tronc)
 description: |-
   Fixez un élastique en boucle à un rack en dessous de la hauteur des genoux

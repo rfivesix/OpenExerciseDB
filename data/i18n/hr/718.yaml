@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: hr
-status: human
+status: upstream_unreviewed
 name: Čučnjevi uz zid
 upstream:
   license: CC0-1.0

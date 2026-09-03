@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '999'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Výpady vzad
 description: |-
   Výchozí pozice:

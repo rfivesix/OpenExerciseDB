@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1219'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tractions australiennes
 description: |-
   Allongez-vous sous une barre fixe ou une barre de suspension, positionnée à une hauteur appropriée.

@@ -1,0 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1692'
+language: en
+status: upstream_unreviewed
+name: Incline Smith Press
+description: |-
+  * Execution * Start position:
+
+  Unrack the bar and hold it above your upper chest with arms fully extended.
+  Keep your shoulder blades&nbsp;retracted and pressed into the bench.
+  Lowering phase (eccentric):
+  Slowly bring the bar down to just below your collarbone or upper chest.
+  Maintain control — don’t bounce the bar.
+  Pressing phase (concentric):
+  Push the bar upward in a straight line until your arms are fully extended.
+  Focus on&nbsp;squeezing your upper chest&nbsp;at the top.
+  Lock and repeat:
+  Complete your reps, then safely rack the bar back into the hooks.
+upstream:
+  license: CC-BY-SA-4.0

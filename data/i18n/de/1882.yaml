@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1882'
 language: de
-status: human
+status: upstream_unreviewed
 name: Seitheben am hohen Kabelzug
 description: |-
   Stelle dich neben eine Kabelzugmaschine, mit der Rolle auf Hüfthöhe eingestellt.

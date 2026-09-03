@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1441'
 language: es
-status: human
+status: upstream_unreviewed
 name: Press militar en banco inclinado con mancuernas
 description: |-
   Siéntate en un banco con una inclinación de 45°

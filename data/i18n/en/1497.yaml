@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1497'
 language: en
-status: human
+status: upstream_unreviewed
 name: DB Underhand bench press
 description: |-
   Underhand grip DB, perform a normal bench press movement, keeping the elbows close to the chest

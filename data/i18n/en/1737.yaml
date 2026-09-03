@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1737'
 language: en
-status: human
+status: upstream_unreviewed
 name: Assisted chin-ups
 description: Chin-ups with machine assistance (counterweights)
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '820'
 language: de
-status: human
+status: upstream_unreviewed
 name: Leisten hängen an 20 mm Kante
 description: 10 Sekunden&nbsp;an einer 20 mm Leiste des Fingerboards hängen
 upstream:

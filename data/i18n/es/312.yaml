@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '312'
 language: es
-status: human
+status: upstream_unreviewed
 name: Plancha inclinada con toque alterno al suelo
 description: |-
   Realiza la plancha con las piernas elevadas y los pies sobre una pelota de gimnasia. Una vez estabilizado, desplaza lentamente un pie hacia un lado fuera de la pelota, haz que toque el suelo y luego vuelve a la posición inicial. Alterna con el otro pie.

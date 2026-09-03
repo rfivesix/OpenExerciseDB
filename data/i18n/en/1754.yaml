@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1754'
 language: en
-status: human
+status: upstream_unreviewed
 name: 45° lateral raises
 description: dumbbell raise in the space between front and side raises
 upstream:

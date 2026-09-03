@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1716'
 language: es
-status: human
+status: upstream_unreviewed
 name: Push-up escapular en banco inclinado
 description: |-
   Coloca las manos en el banco en posición de flexión.

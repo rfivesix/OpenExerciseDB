@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '272'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curls marteau
 description: |-
   Départ : Tenez les haltères le long du corps, les paumes tournées vers le torse.

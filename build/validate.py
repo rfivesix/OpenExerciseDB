@@ -43,6 +43,7 @@ from oedb.paths import (  # noqa: E402
     EXAMPLES_DIR,
     EXERCISE_SCHEMA,
     GOLDEN_DIR,
+    PUBLISHED_IDS,
     ROOT,
     TRANSLATION_SCHEMA,
     VOCAB_DIR,
@@ -611,14 +612,65 @@ def check_pattern_expectations(
             )
 
 
-def check_regression(report: Report) -> None:
-    """Invarianten 21 und 22 brauchen ein Vorgaenger-Release."""
-    report.skip(
-        "21",
-        "Vergleich gegen das vorige Release — laeuft in build/wger_catalog_diff.py, "
-        "nicht hier, weil dafuer zwei Datenbanken noetig sind.",
+def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
+    """Invariante 21: keine je ausgelieferte ID verschwindet.
+
+    Geprueft wird gegen `data/published_ids.yaml`, **nicht** gegen das vorige
+    Release. Der Unterschied ist der Punkt: ein Vergleich mit dem Vorgaenger hat
+    eine Ratsche. Rutscht ein Verlust einmal durch, ist die ID aus der Baseline
+    verschwunden und danach fuer immer unsichtbar — jeder folgende Diff meldet
+    voellig korrekt "null Entfernungen".
+
+    Genau so sind 38 Uebungen verlorengegangen: sie standen im ausgelieferten
+    Stand vom 2026-06-15 (852 IDs), fehlten im Release vom 2026-08-31 (862) und
+    waren ab da nicht mehr nachweisbar. Ein Register im Repo kann das nicht
+    passieren.
+    """
+    if not PUBLISHED_IDS.exists():
+        report.skip(
+            "21",
+            f"{relative(PUBLISHED_IDS)} existiert noch nicht. Anlegen mit "
+            f"`build/update_published_ids.py --from-db <ausgelieferte.db>`.",
+        )
+        return
+
+    registry = (yamlio.read(PUBLISHED_IDS) or {}).get("ids") or {}
+    missing = sorted((str(key) for key in registry if str(key) not in data.exercises), key=str)
+    for exercise_id in missing:
+        report.add(
+            "21",
+            ERROR,
+            f"Uebung {exercise_id} wurde einmal ausgeliefert, fehlt aber in data/exercises/. "
+            f"Loeschen ist verboten (SCHEMA.md 3) — sie gehoert als status: deprecated zurueck.",
+            relative(PUBLISHED_IDS),
+        )
+    report.stats["published_ids"] = len(registry)
+    report.stats["deprecated"] = sum(
+        1 for exercise in data.exercises.values() if exercise.status == "deprecated"
     )
-    report.skip("22", "wie 21: build/wger_catalog_diff.py --fail-on-removed-threshold")
+
+    # Der zweite Teil von 21: ein `merged` braucht ein auflösbares Ziel — das
+    # prueft check_merges. Hier bleibt die Frage, ob ein stillgelegter Eintrag
+    # ueberhaupt noch Text hat, sonst zeigt die App eine leere Zeile.
+    for exercise in data.exercises.values():
+        if exercise.status == "active":
+            continue
+        if not any(exercise.id in bucket for bucket in data.translations.values()):
+            report.add(
+                "21",
+                ERROR,
+                f"{exercise.status}-Eintrag ohne jeden Text — die App haette nichts anzuzeigen",
+                relative(exercise.path),
+            )
+
+
+def check_regression(report: Report) -> None:
+    """Invariante 22 braucht zwei Datenbanken."""
+    report.skip(
+        "22",
+        "Mengenvergleich zweier Releases — laeuft in build/catalog_diff.py "
+        "(INVARIANT_22_ACTIVE_COUNT_DROP), nicht hier.",
+    )
 
 
 def check_golden_set(data: dataset_mod.Dataset, report: Report) -> None:
@@ -741,6 +793,7 @@ def main() -> int:
     check_muscles(data, vocab, report, profile=args.profile)
     check_plausibility(data, vocab, report)
     check_pattern_expectations(data, vocab, report)
+    check_published_ids(data, report)
     check_regression(report)
     check_golden_set(data, report)
     summarize(report, data)

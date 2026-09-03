@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '275'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl marteau à la poulie
 description: |-
   Saisissez une poignée de poulie dans les mains (paumes parallèles, l'une face à l'autre), le corps droit. Fléchissez les bras et montez la charge d'un mouvement rapide. Sans aucune pause, redescendez-la d'un mouvement lent et contrôlé, mais sans tendre complètement les bras.

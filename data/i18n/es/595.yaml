@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '595'
 language: es
-status: human
+status: upstream_unreviewed
 name: Saltar a la comba – estándar
 description: |-
   Haz un único salto con ambos pies por cada giro de la cuerda.

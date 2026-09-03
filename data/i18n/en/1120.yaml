@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1120'
 language: en
-status: human
+status: upstream_unreviewed
 name: Remo maquina agarre estrecho supino
 description: Remo en máquina o polea con agarre cerrado supino
 upstream:

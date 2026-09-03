@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '256'
 language: es
-status: human
+status: upstream_unreviewed
 name: Elevaciones frontales
 description: |-
   Para ejecutar el ejercicio, el levantador se para con los pies separados al ancho de los hombros y las pesas o los mangos de resistencia se sostienen a los lados con un agarre en pronación (por encima de la cabeza).

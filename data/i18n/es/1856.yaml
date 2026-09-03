@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1856'
 language: es
-status: human
+status: upstream_unreviewed
 name: Foam Roller Tibial anterior
 description: Deslice el tibial anterior lentamente sobre el Foam Roller
 upstream:

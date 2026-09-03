@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '132'
 language: en
-status: human
+status: upstream_unreviewed
 name: Burpees
 description: Jump, lay down on your chest, do a pushup then jump, repeat
 upstream:

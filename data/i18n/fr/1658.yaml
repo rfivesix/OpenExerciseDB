@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1658'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl au pupitre - rotation externe
 description: |-
   Curl à un bras qui peut être réalisé avec un haltère et un banc Larry Scott (pupitre), ou sur une machine à curl au pupitre. Tournez le corps à l'opposé de la charge.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '382'
 language: en
-status: human
+status: upstream_unreviewed
 name: L Hold
 description: Hold the L position for as long as possible
 upstream:

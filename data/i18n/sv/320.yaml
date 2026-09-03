@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '320'
 language: sv
-status: human
+status: upstream_unreviewed
 name: Hoppande jacks
 description: |-
   Stå med fötterna ihop och armarna utmed sidorna

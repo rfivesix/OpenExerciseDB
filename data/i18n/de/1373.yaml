@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1373'
 language: de
-status: human
+status: upstream_unreviewed
 name: Boxsprünge
 description: |-
   Sprung aus dem Stand auf die Box, Körperstreckung durchführen, dann wieder heruntersteigen (nicht springen)

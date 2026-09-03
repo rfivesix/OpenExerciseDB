@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1216'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tractions de recrutement
 description: |-
   Repérez quelques tailles de réglettes spécifiques sur une poutre d'entraînement, placez-vous en suspension en dessous avec la poutre au-dessus de votre tête, et tirez avec un effort maximal, un bras à la fois, pendant 3 à 5 secondes. Pour vous positionner, installez-vous avec un grand angle au coude (120 à 150 degrés) et non en pleine extension.

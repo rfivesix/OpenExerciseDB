@@ -1,0 +1,12 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '907'
+language: de
+status: upstream_unreviewed
+name: Handstand Push Up
+description: Handstands Push Up which demand high level of skill
+upstream:
+  license: CC-BY-SA-4.0

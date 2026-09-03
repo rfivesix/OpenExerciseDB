@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1462'
 language: en
-status: human
+status: upstream_unreviewed
 name: punches
 description: stand stable and throw normal straight punches
 upstream:

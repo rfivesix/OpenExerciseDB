@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '320'
 language: tr
-status: human
+status: upstream_unreviewed
 name: Jack zıplama
 description: |-
   Ayaklar bir arada ve kollar yanlarda olacak şekilde ayakta durun

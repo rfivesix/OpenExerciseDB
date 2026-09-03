@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Accroupi
 description: |-
   Debout, les pieds écartés à la largeur des épaules

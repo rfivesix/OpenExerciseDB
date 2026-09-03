@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '987'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadilla de lado derecho
 description: |-
   Póngase de pie y dé un amplio paso lateral, un poco más grande que el ancho de los hombros

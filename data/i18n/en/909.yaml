@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '909'
 language: en
-status: human
+status: upstream_unreviewed
 name: Reverse Nordic Curl
 description: Natural Leg Extension is alternative to Leg Extension machine with no equipment.
 upstream:

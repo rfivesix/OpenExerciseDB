@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '182'
 language: en
-status: human
+status: upstream_unreviewed
 name: Deadhang
 description: |-
   Deadhang performed on an edge&nbsp;either with or without added weight (adujst edge or weight to adjust difficulty)

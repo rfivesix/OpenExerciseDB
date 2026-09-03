@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2501'
 language: en
-status: human
+status: upstream_unreviewed
 name: Table Bodyweight Rows (Vasco L1)
 description: |-
   Vasco custom table bodyweight row for horizontal pulling in home training. Zero equipment except sturdy table. Part of Tuesday Pull day.

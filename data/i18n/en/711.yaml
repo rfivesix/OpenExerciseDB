@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '711'
 language: en
-status: human
+status: upstream_unreviewed
 name: Wall Handstand
 description: Handstand against a wall for support (chest facing wall).
 upstream:

@@ -1,0 +1,12 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '921'
+language: de
+status: upstream_unreviewed
+name: Seated Cable Rows
+description: “Stay leaned forward - tuck elbows in on the negative”
+upstream:
+  license: CC-BY-SA-4.0

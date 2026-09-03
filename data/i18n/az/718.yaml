@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: az
-status: human
+status: upstream_unreviewed
 name: Divarda oturma
 upstream:
   license: CC0-1.0

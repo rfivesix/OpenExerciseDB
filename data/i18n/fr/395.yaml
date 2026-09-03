@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '395'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage à la poulie basse, prise serrée
 description: |-
   L'exercice est identique au tirage classique à la poulie basse, mais avec une prise serrée :

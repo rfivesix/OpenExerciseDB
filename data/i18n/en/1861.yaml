@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1861'
 language: en
-status: human
+status: upstream_unreviewed
 name: Side stretch
 description: View the video to undestand the exercise
 upstream:

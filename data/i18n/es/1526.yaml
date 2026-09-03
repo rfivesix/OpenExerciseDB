@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1526'
 language: es
-status: human
+status: upstream_unreviewed
 name: Máquina de esquí
 description: |-
   Comienza de pie sobre la plataforma con los pies a la anchura de las caderas.

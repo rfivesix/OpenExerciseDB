@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '51'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl de Muñeca con Barra (Agarre Supino)
 description: |-
   Este ejercicio es fundamental para desarrollar los músculos flexores del antebrazo (la parte interna o de abajo), que son cruciales para la fuerza de agarre.

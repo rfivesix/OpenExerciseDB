@@ -1,0 +1,17 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1951'
+language: en
+status: upstream_unreviewed
+name: Foam Roll Adductors
+description: |-
+  Foam Roll Adductors
+  Part of: Limber 11
+  Source: Joe DeFranco
+  Prescription: 10-15 passes
+  Type: soft_tissue
+upstream:
+  license: CC-BY-SA-4.0

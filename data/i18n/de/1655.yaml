@@ -1,0 +1,13 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1655'
+language: de
+status: upstream_unreviewed
+name: Machine Chest Press Exercise
+description: |-
+  . It provides an effective but straightforward way to work your upper body. With no weights to balance and no tricky techniques to master, the chest press leaves you free to focus on your training.
+upstream:
+  license: CC-BY-SA-4.0

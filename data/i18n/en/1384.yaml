@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1384'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pullover Machine
 description: Pullover machine, sitting, elbows on pads
 upstream:

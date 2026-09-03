@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1694'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Développé à la machine sur plat
 description: |-
   Exécution

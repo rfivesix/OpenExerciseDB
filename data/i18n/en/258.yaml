@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '258'
 language: en
-status: human
+status: upstream_unreviewed
 name: Front pull wide
 upstream:
   license: CC-BY-SA-3.0

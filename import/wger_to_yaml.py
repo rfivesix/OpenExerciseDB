@@ -382,11 +382,12 @@ def run(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
             doc: dict[str, Any] = {
                 "exercise_id": exercise_id,
                 "language": code,
-                # Der Text stammt von Menschen aus der wger-Community. Was ihm
-                # fehlt, ist ein Review DURCH DIESES PROJEKT — das haelt
-                # vocab/languages.yaml ueber `tier: upstream` fest, nicht
-                # dieses Feld.
-                "status": "human",
+                # Von Menschen aus der wger-Community geschrieben, aber von
+                # diesem Projekt nie abgenommen — und bei 511 Eintraegen ohne
+                # jede Autorenangabe. `human` wuerde in sechs Monaten als "das
+                # hat jemand geprueft" gelesen; der Unterschied waere dann nicht
+                # mehr rekonstruierbar.
+                "status": "upstream_unreviewed",
                 "name": text["name"],
             }
             if text["description"]:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '998'
 language: es
-status: human
+status: upstream_unreviewed
 name: Burpees sin Flexión
 description: |-
   Esta es la variante del burpee que omite la flexión de pecho pero sí incluye el salto vertical al final, haciéndola más explosiva que la versión de 4 tiempos.

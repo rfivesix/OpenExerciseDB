@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '911'
 language: en
-status: human
+status: upstream_unreviewed
 name: Incline Skull Crush
 description: Siting in a 45 Degree Angle, using DB to do Incline Skull Crush
 upstream:

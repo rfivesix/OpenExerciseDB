@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: en
-status: human
+status: upstream_unreviewed
 name: Dumbbell Single-leg Hip Thrust
 description: |-
   The single-leg hip thrust is performed by placing your upper back on a weight bench, raising one leg, and extending the hip of the other leg to achieve an isolated contraction of the glute.

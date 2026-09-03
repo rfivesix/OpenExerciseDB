@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1537'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pull-up Isometric Hold
 description: Hold the pull-up movement in any position
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1406'
 language: en
-status: human
+status: upstream_unreviewed
 name: Plank-to-Elbow Extension
 description: |-
   The Plank-to-Elbow Extension is a dynamic exercise that combines the plank with an elbow extension movement

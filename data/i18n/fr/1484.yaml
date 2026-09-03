@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1484'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Croisé de poulies omni
 description: |-
   Ajustez les charges en fonction du mouvement. Lorsque vous tirez de haut en bas, augmentez la charge de 20 % à 40 % de plus que pour le mouvement de bas en haut. Cela tient compte du fait que, lorsqu'on travaille de haut en bas, les muscles du haut des pectoraux sont naturellement plus faibles que ceux du bas des pectoraux. Ajustez donc votre colonne de poids pour compenser.

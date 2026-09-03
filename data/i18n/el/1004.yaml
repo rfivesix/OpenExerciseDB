@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1004'
 language: el
-status: human
+status: upstream_unreviewed
 name: Περιστροφή ώμου εμπρός
 description: |-
   Θέση εκκίνησης:

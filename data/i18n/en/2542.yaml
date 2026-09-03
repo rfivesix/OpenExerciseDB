@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2542'
 language: en
-status: human
+status: upstream_unreviewed
 name: Boxing
 description: Bag workout for boxing skill development and cardio improvement
 search_terms:

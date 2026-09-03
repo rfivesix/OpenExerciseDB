@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '997'
 language: es
-status: human
+status: upstream_unreviewed
 name: Burpees de 4 Tiempos
 description: |-
   Esta es la versión del burpee sin la flexión de pecho ni el salto vertical. La secuencia de 4 pasos es la siguiente:

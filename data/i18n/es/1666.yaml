@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1666'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl con el hombro elevado
 description: |-
   Coloca el codo de modo que quede aproximadamente a la altura del hombro. Lleva el peso hacia tu hombro con un curl. Concéntrate en el estiramiento durante la fase excéntrica del curl.

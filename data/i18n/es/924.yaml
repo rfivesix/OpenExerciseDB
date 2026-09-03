@@ -1,0 +1,13 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '924'
+language: es
+status: upstream_unreviewed
+name: Cruce de Poleas
+description: |-
+  Ubica las poleas en una posición alta. Toma los agarres, da uno o dos pasos hacia adelante e inclina el torso ligeramente, manteniendo la espalda recta. Con una leve flexión en los codos, junta las manos al frente de tu pecho en un movimiento de arco amplio, apretando los pectorales. Regresa de forma controlada.
+upstream:
+  license: CC-BY-SA-4.0

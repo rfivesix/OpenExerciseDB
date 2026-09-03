@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: zh
-status: human
+status: upstream_unreviewed
 name: 仰卧起坐
 description: |-
   起始姿势：面对椅子站立。

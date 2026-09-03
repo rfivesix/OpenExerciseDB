@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '275'
 language: de
-status: human
+status: upstream_unreviewed
 name: Hammercurls am Seil
 description: |-
   Nehme das Kabel in die Hände (Handflächen parallel, zeigen aufeinander), der Körper steht gerade und ist etwas vom Kabelzug entfernt.

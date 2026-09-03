@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1010'
 language: de
-status: human
+status: upstream_unreviewed
 name: Nackendehnung
 description: |-
   Ausgangsposition:

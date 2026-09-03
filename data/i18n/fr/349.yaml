@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '349'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage latéral à la poulie, à un bras
 description: |-
   Réglez la poulie à hauteur de la taille, commencez le bras en travers du ventre puis déplacez la main vers l'autre côté en l'éloignant, un bras à la fois.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1410'
 language: es
-status: human
+status: upstream_unreviewed
 name: Plancha con elevación de pierna
 description: En posición de plancha, levanta una pierna alternadamente.
 upstream:

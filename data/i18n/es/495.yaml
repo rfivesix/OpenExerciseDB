@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '495'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl invertido
 description: |-
   El curl con barra y agarre invertido es una variante del curl de bíceps en la que las palmas miran hacia abajo. El cambio de un agarre supino a un agarre prono involucra más en el ejercicio los músculos del antebrazo y el braquial.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '980'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tractions commando
 description: |-
   Variante de la traction, elle s'exécute avec une main en supination et une main en pronation. Ne tordez pas le torse pour revenir de face : la tête passe une fois d'un côté, une fois de l'autre.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '314'
 language: en
-status: human
+status: upstream_unreviewed
 name: Isometric Wipers
 description: |-
   Assume push-up position, with hands slightly wider than&nbsp;shoulder width.

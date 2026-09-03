@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1744'
 language: es
-status: human
+status: upstream_unreviewed
 name: Elevación lateral en maquina
 description: |-
   Técnica de Ejecución

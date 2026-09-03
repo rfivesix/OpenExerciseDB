@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1829'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadilla con barra landmine y press
 description: |-
   Posición de la barra: Ancla un extremo de una barra en un soporte landmine o en una esquina segura.

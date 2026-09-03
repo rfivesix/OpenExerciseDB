@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '530'
 language: it
-status: human
+status: upstream_unreviewed
 name: Tapis roulant
 description: Corri su un tapis roulant (correre su tappeto rotante in palestra)
 upstream:

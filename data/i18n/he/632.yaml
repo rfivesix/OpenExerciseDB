@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '632'
 language: he
-status: human
+status: upstream_unreviewed
 name: סומו־סקוואט
 upstream:
   license: CC-BY-SA-4.0

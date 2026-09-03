@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: en
-status: human
+status: upstream_unreviewed
 name: Weighted push-ups
 description: |-
   Setup: Begin in a standard plank position with a weight plate balanced securely on your upper back.

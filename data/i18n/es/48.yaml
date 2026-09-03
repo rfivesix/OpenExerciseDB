@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '48'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl de Muñeca Inverso con Barra
 description: |-
   Este ejercicio se enfoca en fortalecer los músculos extensores del antebrazo, ubicados en la parte superior del mismo. Es clave para mejorar la fuerza de agarre y la estabilidad de la muñeca.

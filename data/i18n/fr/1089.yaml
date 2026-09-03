@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Rotation avec ballon médicinal
 description: |-
   En position assise, le buste pivote d'un côté à l'autre sans forcer, en s'approchant des genoux et en faisant toucher le sol au ballon de temps en temps.

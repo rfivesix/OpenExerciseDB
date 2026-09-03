@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1777'
 language: en
-status: human
+status: upstream_unreviewed
 name: Deficit Push ups
 description: Pushup on blocks or grips, so you can dip lower than the hands in the decent.
 upstream:

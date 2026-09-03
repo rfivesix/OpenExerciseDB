@@ -1,0 +1,13 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '829'
+language: es
+status: upstream_unreviewed
+name: Elevación Deltoides Posterior
+description: |-
+  Sentado en un banco con las mancuernas en el suelo, inclínate a 45 grados y luego levanta lentamente cada mancuerna hasta la altura del hombro y mantén durante un par de segundos antes de bajar a la posición inicial.
+upstream:
+  license: CC-BY-SA-4.0

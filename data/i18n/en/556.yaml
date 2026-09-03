@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '556'
 language: en
-status: human
+status: upstream_unreviewed
 name: Side Bends on Machine
 upstream:
   license: CC-BY-SA-3.0

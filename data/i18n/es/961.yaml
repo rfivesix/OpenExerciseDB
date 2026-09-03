@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '961'
 language: es
-status: human
+status: upstream_unreviewed
 name: Piques de 50m en Natación
 description: |-
   Este es un set de entrenamiento de velocidad en natación. La indicación "a 1 minuto" se refiere al intervalo de tiempo total para nadar el pique y descansar.

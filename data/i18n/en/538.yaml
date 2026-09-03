@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '538'
 language: en
-status: human
+status: upstream_unreviewed
 name: Incline Bench Press - Barbell
 description: To do slowly, tempo is 4010
 upstream:

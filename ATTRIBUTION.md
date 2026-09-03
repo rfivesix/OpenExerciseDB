@@ -24,13 +24,13 @@ eventually. Attribution is owed to those individual contributors, not to "wger"
 as a whole.
 
 <!-- BEGIN GENERATED LIST -->
-Across 871 exercises and 3336 translations, **253 distinct upstream authors** are credited. 595 of 4207 records carry no author upstream.
+Across 909 exercises and 3422 translations, **249 distinct upstream authors** are credited. 719 of 4331 records carry no author upstream.
 
 ### Original licenses
 
 | License | Records |
 |---|---|
-| `CC-BY-SA-4.0` | 3640 |
+| `CC-BY-SA-4.0` | 3764 |
 | `CC-BY-SA-3.0` | 461 |
 | `CC0-1.0` | 106 |
 
@@ -41,11 +41,11 @@ Across 871 exercises and 3336 translations, **253 distinct upstream authors** ar
 | `ar` | 48 | 11 |
 | `az` | 1 | 1 |
 | `cs` | 51 | 15 |
-| `de` | 628 | 66 |
+| `de` | 666 | 66 |
 | `el` | 48 | 11 |
-| `en` | 871 | 240 |
+| `en` | 909 | 240 |
 | `eo` | 2 | 0 |
-| `es` | 646 | 35 |
+| `es` | 656 | 35 |
 | `fa` | 3 | 2 |
 | `fr` | 582 | 17 |
 | `he` | 22 | 7 |
@@ -63,7 +63,7 @@ Across 871 exercises and 3336 translations, **253 distinct upstream authors** ar
 
 ### Contributors
 
-Listed by the name each contributor recorded upstream, with the number of records they authored. Sorted alphabetically, case-insensitively.
+Listed by the name each contributor recorded upstream, with the number of records they authored. Sorted alphabetically, case-insensitively. Where someone recorded an email address, only the name part is shown — attribution is owed a name, not a mailbox.
 
 - 2dPREtEZP221u68Akf0JImv5L48 (2)
 - 3leh (2)
@@ -96,7 +96,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Behrooz (3)
 - bel (2)
 - BeLikeWater (8)
-- benjamin.yildiz@proton.me (2)
+- benjamin.yildiz (2)
 - BePieToday (2)
 - BFad07 (71)
 - bizyguy (3)
@@ -167,11 +167,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Happy (10)
 - hektkaso (15)
 - HexoctusEngineering (14)
-- hpmbala@gmail.com (42)
-- http://www.bodybuilding.com/ (20)
-- http://www.carinatum.com/ (2)
-- http://www.exrx.net/WeightExercises/Brachialis/DBC (3)
-- http://www.realsimple.com/health/fitness-exercise/ (3)
+- hpmbala (42)
 - hurr99 (7)
 - Iko (2)
 - Imobard (3)
@@ -260,7 +256,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Rehab Hero (2)
 - ricardodavidrd (2)
 - RiccaBaro (6)
-- richmr2174@gmail.com (4)
+- richmr2174 (4)
 - ricwheatley (2)
 - Robertcoop (2)
 - robhoyt (6)
@@ -283,7 +279,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - stwalkerster (1)
 - taylorbarbell (3)
 - tdprice12 (3)
-- tekknokrat@gmx.de (2)
+- tekknokrat (2)
 - tenebrizz (6)
 - teus_ergaster (14)
 - ThisGirl0819 (2)
@@ -312,14 +308,23 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Whythebigpaws (3)
 - WiNNiE (2)
 - wintercyan (2)
-- workout@rooven.anonaddy.me (2)
+- workout (2)
 - xWan (3)
 - Yderkone (2)
 - YYCfit (2)
 - YYCfit / BFad07 (17)
 - zdelko (3)
 
-A further 595 records carry no author upstream and are attributed to *the wger project and its contributors*. They are counted here rather than dropped, so the gap stays visible.
+### Sources
+
+These were recorded upstream in the author field but are references to where an entry came from, not people.
+
+- <http://www.bodybuilding.com/> (20)
+- <http://www.carinatum.com/> (2)
+- <http://www.exrx.net/WeightExercises/Brachialis/DBC> (3)
+- <http://www.realsimple.com/health/fitness-exercise/> (3)
+
+A further 719 records carry no author upstream and are attributed to *the wger project and its contributors*. They are counted here rather than dropped, so the gap stays visible.
 <!-- END GENERATED LIST -->
 
 ## Note on missing authors

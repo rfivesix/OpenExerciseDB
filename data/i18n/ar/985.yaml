@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '985'
 language: ar
-status: human
+status: upstream_unreviewed
 name: تمرين الضغط المتناوب
 description: |-
   قم بتمرين الضغط القياسي:

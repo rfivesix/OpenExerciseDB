@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '980'
 language: es
-status: human
+status: upstream_unreviewed
 name: Dominadas comando
 description: |-
   Variación del ejercicio de dominadas (pull-ups). Se realiza con un agarre mixto, con una mano en supinación y la otra en pronación. No gires el torso para volver al frente; la cabeza pasa una vez por un lado de la barra y la siguiente vez por el otro.

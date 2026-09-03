@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1004'
 language: zh
-status: human
+status: upstream_unreviewed
 name: 肩部向前绕环
 description: |-
   起始姿势：坐位或站位，背部挺直。

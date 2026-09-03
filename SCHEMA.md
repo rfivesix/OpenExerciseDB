@@ -249,8 +249,12 @@ Eine Datei je Übung je Sprache unter `data/i18n/<lang>/<id>.yaml`. Felder:
   App kann sie dann als Schritte rendern statt als Absatz.
 - `search_terms` sind Synonyme und gängige Falschschreibungen. Gehen in den
   Suchindex, werden nie angezeigt.
-- `status` je Dokument: `human` | `ai_reviewed` | `ai_raw`. Damit lässt sich
-  später gezielt nachbessern, statt pauschal zu misstrauen.
+- `status` je Dokument: `human` | `ai_reviewed` | `ai_raw` |
+  `upstream_unreviewed`. Damit lässt sich später gezielt nachbessern, statt
+  pauschal zu misstrauen. Alles, was der Import gebracht hat, ist
+  `upstream_unreviewed`: von Menschen geschrieben, von diesem Projekt nie
+  abgenommen. `human` heißt, dass jemand hier hingesehen hat — die beiden zu
+  vermischen wäre eine Information, die sich später nicht mehr herstellen lässt.
 
 **Beliebig viele Sprachen:** `vocab/languages.yaml` ist die Registry. Eine
 neue Sprache = ein Eintrag + ein Verzeichnis. Kein Schema-Change, kein
@@ -293,7 +297,7 @@ CREATE TABLE exercises (
   category_name         TEXT,
   muscles_primary       TEXT,                   -- JSON-Array, Legacy-Namen
   muscles_secondary     TEXT,                   -- JSON-Array, Legacy-Namen
-  image_path            TEXT,                   -- immer NULL, es gibt keine Medien
+  image_path            TEXT,                   -- immer "", es gibt keine Medien
   is_custom             INTEGER NOT NULL DEFAULT 0,
   created_by            TEXT DEFAULT 'system',
   source                TEXT DEFAULT 'base',

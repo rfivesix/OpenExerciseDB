@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadillas en pistol izquierda
 description: |-
   Párese en una pierna, con la otra pierna estirada y ligeramente hacia adelante.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '501'
 language: en
-status: human
+status: upstream_unreviewed
 name: Ring Dips
 description: Dips peformed on gymnastic rings.
 upstream:

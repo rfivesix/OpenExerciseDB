@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: it
-status: human
+status: upstream_unreviewed
 name: Squat a pistola a sinistra
 description: |-
   Stai in piedi su una gamba, con l'altra gamba dritta e leggermente in avanti.

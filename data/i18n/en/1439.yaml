@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1439'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pin OHP
 description: |-
   Set security pins to the height of your lower chin

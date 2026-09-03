@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1740'
 language: en
-status: human
+status: upstream_unreviewed
 name: Single Leg Glute Bridge
 description: A glute bridge, where you use just one leg at a time.
 upstream:

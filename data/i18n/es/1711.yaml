@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1711'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sleeper Stretch
 description: |-
   Túmbate de lado de modo que apoyes un poco de peso sobre el omóplato para mantenerlo quieto

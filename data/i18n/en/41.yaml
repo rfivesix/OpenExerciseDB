@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '41'
 language: en
-status: human
+status: upstream_unreviewed
 name: Barbell Ab Rollout
 description: |-
   Place a barbell on the floor at your feet.

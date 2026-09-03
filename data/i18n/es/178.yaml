@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '178'
 language: es
-status: human
+status: upstream_unreviewed
 name: Bicho Muerto
 description: |-
   Este es un ejercicio fundamental para el control y la estabilidad del core, enfocado en mantener la espalda baja segura mientras se mueven las extremidades.

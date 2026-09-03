@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1579'
 language: es
-status: human
+status: upstream_unreviewed
 name: Bronco
 description: |-
   Test de condición física para rugby. 5 x carreras de ida y vuelta de 20 m, 40 m y 60 m (20 yd, 45 yd, 65 yd / marca lejana de 45 yd)

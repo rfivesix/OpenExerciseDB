@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1290'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl de bíceps con barra en agarre invertido
 description: |-
   Sujeta la barra con un agarre prono (palmas hacia abajo) aproximadamente al ancho de los hombros. Asegúrate de mantener la espalda recta, los hombros ligeramente hacia atrás y los brazos completamente extendidos.

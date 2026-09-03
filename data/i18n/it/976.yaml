@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '976'
 language: it
-status: human
+status: upstream_unreviewed
 name: Crunch a libretto con palla medica
 description: L'uso di una palla medica come sovraccarico renderà l'esercizio più pesante.
 upstream:

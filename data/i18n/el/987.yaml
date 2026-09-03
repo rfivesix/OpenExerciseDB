@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '987'
 language: el
-status: human
+status: upstream_unreviewed
 name: Πλευρικά σπαστά καθίσματα δεξιά
 description: |-
   Σταθείτε όρθιοι και κάντε ένα ευρύ πλευρικό βήμα, λίγο μεγαλύτερο από το πλάτος των ώμων.

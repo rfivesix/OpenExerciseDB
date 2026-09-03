@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1018'
 language: de
-status: human
+status: upstream_unreviewed
 name: Kopf neigen
 description: |-
   Ausgangsposition:

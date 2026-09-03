@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1916'
 language: en
-status: human
+status: upstream_unreviewed
 name: Tuck planche
 description: Basic calisthenics progression for the full planche
 upstream:

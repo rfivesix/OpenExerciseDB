@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1795'
 language: es
-status: human
+status: upstream_unreviewed
 name: Jalón cruzado unilateral en polea
 description: |-
   En una torre de poleas, coloca la polea en una posición alta y, con el brazo recto, tira del cable de arriba hacia abajo cruzándolo por delante de ti. Concéntrate en la tensión del hombro posterior.

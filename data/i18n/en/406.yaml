@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '406'
 language: en
-status: human
+status: upstream_unreviewed
 name: Lying Rotator Cuff Exercise
 description: |-
   This is an excercise for problems with the rotator cuff. Primary  Infraspinatus, secondary Teres Minor.

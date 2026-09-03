@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '355'
 language: pt
-status: human
+status: upstream_unreviewed
 name: Puxada Alta
 description: Puxe a barra para baixo até o strenum e mantenha as costas retas.
 upstream:

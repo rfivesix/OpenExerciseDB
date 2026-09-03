@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1380'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Pull-apart avec élastique
 description: |-
   Tiens l'élastique avec les bras tendus devant toi, à hauteur des épaules.

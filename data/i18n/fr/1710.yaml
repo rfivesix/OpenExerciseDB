@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1710'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Étirement du billot de boucher (butcher's block)
 description: |-
   Agenouillez-vous, les mains jointes

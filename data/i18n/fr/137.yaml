@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '137'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Butterfly à prise serrée
 description: |-
   Le mouvement est identique à celui du butterfly classique, à ceci près que la prise est serrée :

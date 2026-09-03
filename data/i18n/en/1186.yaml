@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1186'
 language: en
-status: human
+status: upstream_unreviewed
 name: One Arm Bent Row
 description: One arm bent over row on cable with a machine
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1487'
 language: es
-status: human
+status: upstream_unreviewed
 name: Combinación hiperextensión Y-W
 description: |-
   Usa una máquina de glute-ham raise o una

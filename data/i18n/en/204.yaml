@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '204'
 language: en
-status: human
+status: upstream_unreviewed
 name: Dumbbell Incline Curl
 description: |-
   Setup: Set an adjustable bench to an incline of approximately 45 to 60 degrees.

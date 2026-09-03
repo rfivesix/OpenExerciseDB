@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2490'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pulley (low, with triangle)
 description: |-
   This exercise is based on Technogym Pulley Sel. Hold the triangle with both hands and bring the weight towards your belly.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1536'
 language: en
-status: human
+status: upstream_unreviewed
 name: Delt Stretch
 description: Stretch your deltoids for a certain period of time.
 upstream:

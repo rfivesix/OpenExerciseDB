@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2502'
 language: en
-status: human
+status: upstream_unreviewed
 name: DB Single-Arm Row (5kg)
 description: |-
   Vasco custom single-arm DB row for 5kg dumbbell home training. Unilateral horizontal pull. Part of Tuesday Pull day.

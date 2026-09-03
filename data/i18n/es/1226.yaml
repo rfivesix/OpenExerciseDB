@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1226'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl de bíceps con press de hombros con mancuernas
 description: |-
   Flexiona los codos y eleva las mancuernas hasta los hombros.

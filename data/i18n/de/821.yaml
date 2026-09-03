@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '821'
 language: de
-status: human
+status: upstream_unreviewed
 name: Klimmzug an Leiste
 description: Klimmzüge an einer gewählten Leiste eines Fingerboards / Hangboards
 upstream:

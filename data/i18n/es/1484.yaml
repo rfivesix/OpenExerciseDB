@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1484'
 language: es
-status: human
+status: upstream_unreviewed
 name: Cruce de poleas omni
 description: |-
   Ajusta los pesos según el

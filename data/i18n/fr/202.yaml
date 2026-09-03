@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '202'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl biceps avec haltère
 description: |-
   Cet exercice consiste à tenir un haltère dans une main et à le lever (ou le "curler") vers l'épaule tout en gardant le haut du bras immobile. Il cible principalement le muscle biceps.

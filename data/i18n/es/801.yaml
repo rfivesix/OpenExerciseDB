@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '801'
 language: es
-status: human
+status: upstream_unreviewed
 name: Flexiones con mancuernas
 description: |-
   Son flexiones normales realizadas sobre mancuernas. Esto permite un rango de movimiento más amplio.

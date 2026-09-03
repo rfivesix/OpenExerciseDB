@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1090'
 language: it
-status: human
+status: upstream_unreviewed
 name: Vpushup
 description: Sollevare il proprio corpo da terra spingendosi con le braccia verso l'alto
 upstream:

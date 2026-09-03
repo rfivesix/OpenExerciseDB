@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1482'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl con trampa con mancuernas
 description: |-
   La posición inicial es de pie

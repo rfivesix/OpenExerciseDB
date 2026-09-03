@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '177'
 language: ru
-status: human
+status: upstream_unreviewed
 name: Велотренажор
 description: занятие на велотренажоре
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2492'
 language: it
-status: human
+status: upstream_unreviewed
 name: Adduttori
 description: |-
   Basato su Adductor Sel. di Technogym.

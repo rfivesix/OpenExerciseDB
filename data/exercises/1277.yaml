@@ -1,0 +1,29 @@
+# data/exercises/<id>.yaml — zurueckgeholter Eintrag.
+#
+# Diese Uebung wurde upstream geloescht, war aber bereits ausgeliefert und ist
+# damit in Nutzerdaten referenziert (SCHEMA.md 3). Sie bleibt als
+# `status: deprecated` bestehen: aufloesbar, aber aus Suche und Katalog heraus.
+#
+# Wiederhergestellt von import/recover_removed_exercises.py aus einer
+# ausgelieferten Datenbank, nicht aus der Quelle — die hat den Eintrag nicht mehr.
+id: '1277'
+slug: incline-dumbbell-press
+status: deprecated
+muscles:
+  - {id: pectoralis_major, role: primary}
+  - {id: deltoid, role: secondary}
+  - {id: triceps_brachii, role: secondary}
+provenance:
+  id: {source: wger}
+  slug: {source: derived, at: '2026-09-03'}
+  status: {source: derived, at: '2026-09-03', note: 'Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.'}
+  muscles: {source: wger, at: '2026-09-03'}
+  upstream: {source: derived, at: '2026-09-03', note: "Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die alte Pipeline hat license/license_author verworfen. Konservativ auf die restriktivste im Bestand vorkommende Lizenz gesetzt."}
+upstream:
+  source: wger
+  source_id: '1277'
+  license: CC-BY-SA-4.0
+  license_author: null
+  imported_at: '2026-09-03'
+  source_fields:
+    category: Chest

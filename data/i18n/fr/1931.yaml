@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl avec haltères
 description: |-
   Le curl avec haltères est un exercice d'isolation classique pour les bras. Contrairement au curl marteau, il implique une rotation des poignets (supination) au moment de soulever les charges, ce qui permet une contraction complète des biceps.

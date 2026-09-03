@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: zh
-status: human
+status: upstream_unreviewed
 name: 左腿手枪式深蹲
 description: |-
   单腿站立，另一条腿伸直，略微向前。

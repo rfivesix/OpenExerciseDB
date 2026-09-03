@@ -1,0 +1,13 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '851'
+language: es
+status: upstream_unreviewed
+name: Extensión de cuádriceps
+description: |-
+  Es un ejercicio de aislamiento centrado en los cuádriceps, que están formados por cuatro músculos específicos de la parte anterior del muslo: el recto femoral, el vasto lateral, el vasto medio y el vasto intermedio.
+upstream:
+  license: CC-BY-SA-4.0

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '57'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Marche de l'ours 2
 description: |-
   -Répartissez votre poids sur les paumes et la plante des pieds, à la manière d'une position de pompe classique.

@@ -1,0 +1,18 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '188'
+language: es
+status: upstream_unreviewed
+name: Flexiones Declinadas
+description: |-
+  Esta es una variante más avanzada de la flexión de pecho que, al elevar los pies, aumenta la carga y enfoca el trabajo en la parte superior del pectoral (las fibras claviculares) y en los hombros.
+  Instrucciones
+
+  Posición: Coloca los pies sobre una superficie elevada (como un banco, silla o cajón) y las manos en el suelo, un poco más abiertas que el ancho de tus hombros, como en una flexión normal.
+  Movimiento: Manteniendo el cuerpo en una línea recta desde la cabeza hasta los talones, baja el pecho hacia el suelo de forma controlada.
+  Ascenso: Empuja con fuerza para volver a la posición inicial, contrayendo el pecho y los hombros.
+upstream:
+  license: CC-BY-SA-4.0

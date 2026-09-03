@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1905'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pullback
 description: |-
   Set weight and grip for the cables in the cage. Take a few steps away, bend over, pull and extend the back at the same time.

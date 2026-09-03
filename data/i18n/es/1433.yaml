@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: es
-status: human
+status: upstream_unreviewed
 name: Leñador inverso
 description: |-
   Engancha una banda de resistencia cerrada a un rack por debajo de la altura de la rodilla

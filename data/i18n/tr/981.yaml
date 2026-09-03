@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: tr
-status: human
+status: upstream_unreviewed
 name: Adım atma
 description: |-
   Sandalyeye dönük şekilde durun

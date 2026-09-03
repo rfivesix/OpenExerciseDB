@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1579'
 language: de
-status: human
+status: upstream_unreviewed
 name: Bronco
 description: |-
   Fitnesstest für Rugby. 5 x Pendelläufe über 20 m, 40 m und 60 m (20 yd, 45 yd, 65 yd / entfernte 45-yd-Marke)

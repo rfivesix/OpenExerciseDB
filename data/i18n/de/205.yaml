@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '205'
 language: de
-status: human
+status: upstream_unreviewed
 name: Ausfallschritte Stehend
 description: .
 upstream:

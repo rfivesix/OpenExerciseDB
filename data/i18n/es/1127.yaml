@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1127'
 language: es
-status: human
+status: upstream_unreviewed
 name: Jalón cerrado supino
 description: |-
   Movimiento descendente

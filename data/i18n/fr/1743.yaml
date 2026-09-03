@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1743'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Essuie-glaces
 description: |-
   Suspendez-vous à une barre de traction et levez les jambes vers le plafond. Déplacez le bas du corps de gauche à droite, jambes tendues, comme un essuie-glace.

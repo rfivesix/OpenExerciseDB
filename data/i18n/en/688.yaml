@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '688'
 language: en
-status: human
+status: upstream_unreviewed
 name: Upper External Oblique
 description: Exercise for upper external oblique muscles
 upstream:

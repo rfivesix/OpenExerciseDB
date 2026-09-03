@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1968'
 language: en
-status: human
+status: upstream_unreviewed
 name: Single-arm dumbbell shoulder press
 description: |-
   Press the dumbbell vertically overhead in a controlled motion until your arm is fully extended, without locking the elbow. Slowly lower the dumbbell back to the starting position at shoulder height.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '674'
 language: en
-status: human
+status: upstream_unreviewed
 name: Rowing with TRX band
 description: Rowing with resistance bands - Bodyweight Exercise
 upstream:

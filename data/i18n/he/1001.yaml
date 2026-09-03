@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1001'
 language: he
-status: human
+status: upstream_unreviewed
 name: פלאנק גבוה
 upstream:
   license: CC-BY-SA-4.0

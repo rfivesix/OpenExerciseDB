@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1778'
 language: en
-status: human
+status: upstream_unreviewed
 name: Supino inclinado
 description: Inclinado 90 graus e movimentos leves e precisos
 upstream:

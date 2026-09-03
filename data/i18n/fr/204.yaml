@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '204'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl incliné aux haltères
 description: |-
   Installation : Réglez un banc ajustable sur une inclinaison d'environ 45 à 60 degrés.

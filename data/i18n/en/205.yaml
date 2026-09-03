@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '205'
 language: en
-status: human
+status: upstream_unreviewed
 name: Dumbbell Lunges Standing
 description: .
 upstream:

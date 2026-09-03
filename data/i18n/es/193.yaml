@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '193'
 language: es
-status: human
+status: upstream_unreviewed
 name: Press Diagonal para Hombros
 description: |-
   Este ejercicio se realiza en una máquina convergente específica que permite un movimiento de empuje en un ángulo diagonal, situándose a medio camino entre un press de banca y un press militar. Es ideal para trabajar los hombros, especialmente la cabeza anterior del deltoides, minimizando la implicación del pectoral.

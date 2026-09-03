@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: en
-status: human
+status: upstream_unreviewed
 name: Pistol Squat
 description: |-
   Stand with feet hip-width apart, toes pointed forward, and chest tall.

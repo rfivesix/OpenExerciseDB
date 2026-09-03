@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl con mancuerna
 description: |-
   El curl con mancuerna es un ejercicio de aislamiento clásico para los brazos. A diferencia del curl martillo, implica rotar las muñecas (supinación) mientras levantas las pesas, lo que permite una contracción completa del bíceps.

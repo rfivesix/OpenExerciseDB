@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '376'
 language: he
-status: human
+status: upstream_unreviewed
 name: הרמת הרגליים
 upstream:
   license: CC0-1.0

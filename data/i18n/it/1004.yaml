@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1004'
 language: it
-status: human
+status: upstream_unreviewed
 name: Rotazione della spalla in avanti
 description: |-
   Posizione di partenza:

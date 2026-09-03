@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1241'
 language: en
-status: human
+status: upstream_unreviewed
 name: Exercise Band Dorsiflexion
 description: |-
   This exercise uses an exercise band. It targets the Soleus and Tibialis anterior.

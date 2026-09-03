@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1709'
 language: es
-status: human
+status: upstream_unreviewed
 name: Pájaro de pie
 description: |-
   Ponte de pie con una buena postura sujetando un cable en cada mano, de cara a la máquina

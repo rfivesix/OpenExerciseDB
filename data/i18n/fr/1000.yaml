@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1000'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Dips au sol
 description: |-
   Position de départ :

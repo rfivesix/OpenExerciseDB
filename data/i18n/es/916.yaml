@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '916'
 language: es
-status: human
+status: upstream_unreviewed
 name: Prensa Smith
 description: Sentado en un ángulo de casi 90 grados, máquina Smith
 upstream:

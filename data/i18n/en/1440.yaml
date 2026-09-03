@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1440'
 language: en
-status: human
+status: upstream_unreviewed
 name: Push OHP
 description: |-
   Rest bar in front on your shoulders

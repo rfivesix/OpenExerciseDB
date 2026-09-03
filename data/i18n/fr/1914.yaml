@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1914'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Maintien isométrique aux barres parallèles
 description: |-
   Le maintien isométrique aux barres parallèles est un exercice statique pour le haut du corps réalisé sur des barres de dips (barres parallèles). Au lieu de monter et descendre comme dans un dip traditionnel, vous maintenez une position fixe sous tension.

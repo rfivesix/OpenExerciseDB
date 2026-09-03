@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1607'
 language: uk
-status: human
+status: upstream_unreviewed
 name: Підтягування-друкарська машинка
 description: |-
   Підтягуєшся вгору, утримуєш верхню точку → переводиш тіло вліво → вправо → опускаєшся.

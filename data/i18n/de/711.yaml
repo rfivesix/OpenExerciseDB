@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '711'
 language: de
-status: human
+status: upstream_unreviewed
 name: Handstand Gegen Die Wand
 description: Handstand gegen eine Wand zur Unterstützung (Brust zugewandte Wand).
 upstream:

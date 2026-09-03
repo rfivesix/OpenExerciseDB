@@ -1,0 +1,15 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1319'
+language: de
+status: upstream_unreviewed
+name: Crunches HD
+description: |-
+  Crunch movement is one of the most basic exercises designed to strengthen the core muscles of the body. Exercise helps to strengthen core muscles, improve posture, and increase muscle mobility and flexibility.
+  Improves six pack muscles: When crunch exercise is done, the rectus abdominus and oblique muscles are tightened, so the upper abdominal muscles and six pack muscles develop.
+  Increases the strength of the abdominal muscles: The primary role of your abdominal muscles is to stabilize your mid-section. It supports you while lifting heavy objects, allowing you to twist and rotate your body. These are all day long actions that you do not notice, so it is important that your abdominal muscles can sustain long hours of work. Crunch exercise helps build this important endurance in the abdominal muscles. Muscular endurance is the ability of these fibers to resist resistance for a long time.
+upstream:
+  license: CC-BY-SA-4.0

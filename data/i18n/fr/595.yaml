@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '595'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Saut à la corde - Standard
 description: |-
   Effectuez un seul saut à pieds joints à chaque tour de corde.

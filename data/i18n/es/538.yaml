@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '538'
 language: es
-status: human
+status: upstream_unreviewed
 name: Press de banca inclinado
 description: Press de banca inclinado con barra fija.
 upstream:

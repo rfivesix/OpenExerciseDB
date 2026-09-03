@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '320'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Sauts en étoile
 description: |-
   Debout, pieds joints et bras le long du corps

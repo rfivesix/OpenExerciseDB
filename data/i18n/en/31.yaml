@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '31'
 language: en
-status: human
+status: upstream_unreviewed
 name: Axe Hold
 description: Grab dumbbells and extend arms to side and hold as long as you can
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1521'
 language: es
-status: human
+status: upstream_unreviewed
 name: Pendular hack
 description: Pendular hack, realizado en máquina pendular
 upstream:

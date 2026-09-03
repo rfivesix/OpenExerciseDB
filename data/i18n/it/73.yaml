@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '73'
 language: it
-status: human
+status: upstream_unreviewed
 name: Distensione Panca Piana con Bilanciere
 description: Distensione Panca Piana con BilanciereDistensione Panca Piana con Bilanciere
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '456'
 language: pt
-status: human
+status: upstream_unreviewed
 name: Pistol squats esquerda
 description: |-
   Fique de pé em uma perna, com a outra perna reta e ligeiramente para frente.

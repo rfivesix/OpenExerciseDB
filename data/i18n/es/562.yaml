@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '562'
 language: es
-status: human
+status: upstream_unreviewed
 name: Shotgun Row
 description: |-
   Engancha una sola agarradera a una polea baja.

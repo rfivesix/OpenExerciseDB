@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1493'
 language: en
-status: human
+status: upstream_unreviewed
 name: Bayesian Curl
 description: Cable curl with stretched shoulder (backwards)
 upstream:

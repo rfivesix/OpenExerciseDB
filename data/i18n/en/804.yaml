@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '804'
 language: en
-status: human
+status: upstream_unreviewed
 name: Sloper hanging
 description: Hanging on sloper holds of a fingerboard for a amount of seconds
 upstream:

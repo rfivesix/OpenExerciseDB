@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1100'
 language: en
-status: human
+status: upstream_unreviewed
 name: Wall balls
 description: |-
   Get a medicine ball, shoulder width stance, squat, thrust the ball as high as possible against the wall and catch

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1864'
 language: en
-status: human
+status: upstream_unreviewed
 name: Ankle Roll
 description: View the video to undestand the exercise
 upstream:

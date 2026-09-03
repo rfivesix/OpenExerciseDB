@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: de
-status: human
+status: upstream_unreviewed
 name: Umgekehrte Holzhacker
 description: |-
   Befestige ein geschlossenes Widerstandsband unterhalb der Kniehöhe an einem Rack

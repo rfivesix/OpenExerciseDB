@@ -268,3 +268,91 @@ class RealDataTestCase(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class PublishedIdsTestCase(unittest.TestCase):
+    """Invariante 21 gegen das Register — die Regel, die 38 Uebungen gekostet hat.
+
+    Der urspruengliche Entwurf verglich gegen das *vorige* Release. Das hat eine
+    Ratsche: ist ein Verlust einmal durch, kennt die naechste Baseline die ID
+    nicht mehr, und jeder folgende Diff meldet voellig korrekt null
+    Entfernungen. Diese Tests halten fest, dass die Pruefung jetzt gegen einen
+    Bestand laeuft, der nur wachsen kann.
+    """
+
+    def setUp(self) -> None:
+        self.tmp = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmp.name)
+        self.exercises_dir = self.root / "exercises"
+        self.i18n_dir = self.root / "i18n"
+        self.exercises_dir.mkdir(parents=True)
+        self.i18n_dir.mkdir(parents=True)
+        self.registry = self.root / "published_ids.yaml"
+        self._real_registry = validate.PUBLISHED_IDS
+        validate.PUBLISHED_IDS = self.registry
+
+    def tearDown(self) -> None:
+        validate.PUBLISHED_IDS = self._real_registry
+        self.tmp.cleanup()
+
+    def write(self, exercise_id: str, status: str = "active", with_text: bool = True) -> None:
+        yamlio.write(
+            self.exercises_dir / f"{exercise_id}.yaml",
+            {**MINIMAL, "id": exercise_id, "slug": f"slug-{exercise_id}", "status": status},
+        )
+        if with_text:
+            yamlio.write(
+                self.i18n_dir / "en" / f"{exercise_id}.yaml",
+                {**MINIMAL_TEXT, "exercise_id": exercise_id},
+            )
+
+    def register(self, *ids: str) -> None:
+        yamlio.write(self.registry, {"version": 1, "ids": {i: "202601010000" for i in ids}})
+
+    def findings(self) -> list:
+        data = dataset_mod.load(self.exercises_dir, self.i18n_dir)
+        report = validate.Report(profile="phase1")
+        validate.check_published_ids(data, report)
+        return [f for f in report.findings if f.severity == validate.ERROR]
+
+    def test_a_published_id_that_disappeared_is_an_error(self) -> None:
+        self.register("1", "2")
+        self.write("1")
+        self.assertEqual(1, len(self.findings()))
+        self.assertIn("2", self.findings()[0].message)
+
+    def test_a_deprecated_entry_satisfies_the_rule(self) -> None:
+        """Der vorgesehene Weg: nicht loeschen, sondern stilllegen."""
+        self.register("1", "2")
+        self.write("1")
+        self.write("2", status="deprecated")
+        self.assertEqual([], self.findings())
+
+    def test_a_merged_entry_satisfies_the_rule(self) -> None:
+        self.register("1", "2")
+        self.write("1")
+        self.write("2", status="merged")
+        self.assertEqual([], self.findings())
+
+    def test_a_silenced_entry_without_any_text_is_an_error(self) -> None:
+        """Eine Zeile, die die App nicht anzeigen kann, ist keine Rettung."""
+        self.register("1", "2")
+        self.write("1")
+        self.write("2", status="deprecated", with_text=False)
+        self.assertEqual(1, len(self.findings()))
+
+    def test_new_ids_outside_the_registry_are_fine(self) -> None:
+        """Das Register waechst nach dem Release, nicht davor."""
+        self.register("1")
+        self.write("1")
+        self.write("2")
+        self.assertEqual([], self.findings())
+
+    def test_the_repository_registry_is_complete(self) -> None:
+        """Der Bestand selbst — die Gegenprobe zur Wiederherstellung der 38."""
+        validate.PUBLISHED_IDS = self._real_registry
+        data = dataset_mod.load()
+        report = validate.Report(profile="phase1")
+        validate.check_published_ids(data, report)
+        self.assertEqual([], [f.as_dict() for f in report.errors][:10])
+        self.assertGreaterEqual(report.stats["deprecated"], 38)

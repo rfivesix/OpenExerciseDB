@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1862'
 language: en
-status: human
+status: upstream_unreviewed
 name: Hip Circles
 description: View the video to undestand the exercise
 upstream:

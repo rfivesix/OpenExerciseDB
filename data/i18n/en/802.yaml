@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '802'
 language: en
-status: human
+status: upstream_unreviewed
 name: Barbell Lunges Walking
 upstream:
   license: CC-BY-SA-4.0

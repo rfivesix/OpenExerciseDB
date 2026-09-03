@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '139'
 language: es
-status: human
+status: upstream_unreviewed
 name: Pec-Deck Inverso
 description: |-
   Este ejercicio en máquina es excelente para aislar los músculos deltoides posteriores (la parte trasera del hombro) y la espalda alta (romboides y trapecios).

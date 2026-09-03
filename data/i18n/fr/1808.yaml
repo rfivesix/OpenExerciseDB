@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1808'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Maintien aux barres parallèles
 description: |-
   Placez-vous entre une paire de barres parallèles.

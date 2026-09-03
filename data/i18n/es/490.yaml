@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '490'
 language: es
-status: human
+status: upstream_unreviewed
 name: Remo renegado
 description: |-
   Colócate en posición de flexión agarrando un par de mancuernas. Realiza una flexión y luego lleva el codo izquierdo hacia arriba, subiendo la mancuerna hacia tu cuerpo. Devuelve la mancuerna a la posición inicial.

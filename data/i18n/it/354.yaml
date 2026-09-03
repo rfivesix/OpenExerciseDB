@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '354'
 language: it
-status: human
+status: upstream_unreviewed
 name: Lat Machine (Piegati Indietro)
 description: Piegarsi all'indietro, tirare verso il petto
 upstream:

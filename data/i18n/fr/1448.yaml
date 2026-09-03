@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1448'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl incliné avec haltères
 description: |-
   Asseyez-vous sur un banc incliné à 60∘.

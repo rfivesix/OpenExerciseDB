@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '691'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage menton, à la Smith machine
 description: |-
   Les mouvements sont fondamentalement les mêmes qu'avec une barre EZ, mais vous utilisez la barre de la Smith machine :

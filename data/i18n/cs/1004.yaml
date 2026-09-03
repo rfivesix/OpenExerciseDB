@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1004'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Kroužení rameny dopředu
 upstream:
   license: CC-BY-SA-4.0

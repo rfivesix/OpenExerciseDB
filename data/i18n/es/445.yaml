@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '445'
 language: es
-status: human
+status: upstream_unreviewed
 name: Press de banca con pausa
 description: |-
   Baja la barra al pecho y haz una pausa (pero sin descansar) durante 2 segundos. Empuja de nuevo hacia arriba. Usa el mismo peso que usarías en el press de banca, pero realiza solo repeticiones individuales. Suma el número total de repeticiones que harías en una serie de press de banca (si hicieras 3 series de 8, haz 8 repeticiones individuales de press de banca con pausa).

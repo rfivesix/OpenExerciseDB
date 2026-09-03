@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1101'
 language: en
-status: human
+status: upstream_unreviewed
 name: Horizontal traction isometry
 description: Perform a timed isometric pull-up on the bar
 upstream:

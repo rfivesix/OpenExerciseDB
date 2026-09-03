@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1662'
 language: es
-status: human
+status: upstream_unreviewed
 name: Extensión de tríceps en polea con rotación interna
 description: |-
   Ejercicio a un brazo en el que se sujeta el cable junto al hombro contrario con el codo flexionado. Gira hacia el cable y después estira el codo cruzando el cuerpo.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1668'
 language: es
-status: human
+status: upstream_unreviewed
 name: Extensión de tríceps sobre la cabeza a una mano en polea
 description: |-
   Coloca la polea en la parte inferior de la máquina de cables y agárrala sin usar ningún accesorio. Extiende el cable directamente por encima de la cabeza.

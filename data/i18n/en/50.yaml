@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '50'
 language: en
-status: human
+status: upstream_unreviewed
 name: Barbell Triceps Extension
 description: |-
   Position barbell overhead with narrow overhand grip.

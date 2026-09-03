@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Dřep na pravé noze
 description: |-
   Postavte se na jednu nohu, druhou nohu rovně a mírně dopředu.

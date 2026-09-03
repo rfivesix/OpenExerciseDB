@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Écarté à la poulie basse
 description: |-
   Réglez la machine à poulie : positionnez la poulie au réglage le plus bas possible.

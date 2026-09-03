@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1803'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadilla con barra hexagonal
 description: |-
   Una combinación de los principios de la sentadilla y el peso muerto mediante el uso de una barra hexagonal (trap bar), que reduce el estrés sobre la zona lumbar al centrar mejor el peso.

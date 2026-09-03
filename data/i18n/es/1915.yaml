@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1915'
 language: es
-status: human
+status: upstream_unreviewed
 name: Abducción de cadera en cuadrupedia
 description: |-
   Reparte el peso del cuerpo de forma uniforme sobre las rodillas y los brazos.

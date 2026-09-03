@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '91'
 language: it
-status: human
+status: upstream_unreviewed
 name: Curl con bilanciere
 description: Curl con bilanciereCurl con bilanciere
 upstream:

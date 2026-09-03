@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '986'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Boční výpady nalevo
 description: |-
   Postavte se vysoko a vezměte široký boční krok, jen větší než šířka ramen.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '50'
 language: it
-status: human
+status: upstream_unreviewed
 name: Estensione dei Tricipiti con Bilanciere
 description: |-
   Posizionare il bilanciere in alto con una presa stretta.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '987'
 language: hr
-status: human
+status: upstream_unreviewed
 name: Bočni podijeljeni čučnjevi desno
 upstream:
   license: CC-BY-SA-4.0

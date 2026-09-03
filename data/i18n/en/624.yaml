@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '624'
 language: en
-status: human
+status: upstream_unreviewed
 name: Stationary Bike
 description: Ride a Stationary Bike with various&nbsp;tensions.
 upstream:

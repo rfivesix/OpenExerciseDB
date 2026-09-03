@@ -1,0 +1,13 @@
+# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+#
+# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
+# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
+# Uebungsdatei fuer den Vermerk.
+exercise_id: '1313'
+language: en
+status: upstream_unreviewed
+name: Lying Leg Raise
+description: |-
+  Leg raise is one of the most effective exercises for the lower abdominal muscles. Although this exercise targets the rectus abdominus and oblique muscles, it is particularly useful for burning and tightening the lower fat.
+upstream:
+  license: CC-BY-SA-4.0

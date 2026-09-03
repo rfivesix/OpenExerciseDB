@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1574'
 language: en
-status: human
+status: upstream_unreviewed
 name: Schwimmen
 description: 800m Schwimmen in 20 Minuten
 upstream:

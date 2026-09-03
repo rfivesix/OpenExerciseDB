@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1512'
 language: es
-status: human
+status: upstream_unreviewed
 name: Drop Curl
 description: |-
   Los drop curls en una posición modificada y a ritmo lento activan eficazmente el braquial para dar anchura al brazo.

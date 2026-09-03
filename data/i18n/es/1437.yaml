@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: es
-status: human
+status: upstream_unreviewed
 name: Sentadilla con pines
 description: |-
   Coloca los pines de seguridad aproximadamente a la altura de tu punto de estancamiento

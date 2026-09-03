@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: de
-status: human
+status: upstream_unreviewed
 name: Spider Curl
 description: |-
   Um das Beste aus Kurzhantel-Spider-Curls herauszuholen, brauchst du eine

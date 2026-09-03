@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1634'
 language: de
-status: human
+status: upstream_unreviewed
 name: Seilzug-Pullover/Rudern
 description: |-
   Stelle eine Bank vor die Kabelzug-Rudermaschine. Beuge dich über die Bank, um mit dem Seil ein Rudern/einen Pullover auszuführen, das den Latissimus beansprucht. Siehe Bild.

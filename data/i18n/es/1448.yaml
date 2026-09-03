@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1448'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl inclinado con mancuernas
 description: |-
   Sentado en un banco con el respaldo inclinado en un ángulo de 40 a 60 grados. Deja que tus brazos cuelguen hacia el suelo. Sujeta una mancuerna en cada mano en supinación.

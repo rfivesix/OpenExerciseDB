@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1483'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl de bíceps trifecta
 description: |-
   Este ejercicio es una mezcla de tres curls diferentes: el curl cruzado en supinación, el curl cruzado en pronación y el no money curl. Vas

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: es
-status: human
+status: upstream_unreviewed
 name: Flexiones con peso
 description: |-
   Preparación: Comienza en una posición de plancha estándar con un disco de peso equilibrado de forma segura sobre la parte alta de la espalda.

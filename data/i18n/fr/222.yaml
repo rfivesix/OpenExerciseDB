@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '222'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage à la face (Face pull)
 description: |-
   Fixez une corde à une poulie réglée environ à hauteur de poitrine.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '208'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl con Mancuernas en Banco Scott
 description: |-
   Este ejercicio utiliza el banco Scott (o banco predicador) para aislar completamente el bíceps, eliminando cualquier impulso o ayuda de los hombros y la espalda. Usar mancuernas permite un movimiento más natural para la muñeca y un trabajo unilateral.

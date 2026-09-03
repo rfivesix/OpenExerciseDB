@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '915'
 language: en
-status: human
+status: upstream_unreviewed
 name: Bus Drivers
 description: |-
   Sitting with a Weight Plate, used as wheel, in both hands; raised slightly below eye level

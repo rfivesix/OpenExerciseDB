@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Poussée de traîneau
 description: |-
   Chargez le traîneau avec 25 % de votre charge maximale. Si vous ne la connaissez pas, choisissez un poids que vous pouvez pousser pendant 10 minutes avec de courtes pauses. Les débutants peuvent choisir de pousser le traîneau sans poids.

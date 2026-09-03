@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '172'
 language: de
-status: human
+status: upstream_unreviewed
 name: Crunches an Maschine
 description: |-
   Ablauf wie bei reguläre Crunches, nur mit zusätzlichem Gewicht an der Maschine.

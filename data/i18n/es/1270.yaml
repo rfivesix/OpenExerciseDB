@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: es
-status: human
+status: upstream_unreviewed
 name: Aperturas en polea baja
 description: |-
   Ajusta la máquina de poleas: Coloca la polea en la posición más baja posible.

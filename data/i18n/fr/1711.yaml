@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1711'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Étirement du dormeur (sleeper stretch)
 description: |-
   Allongez-vous sur le côté de façon à reposer un peu de poids sur votre omoplate pour la maintenir immobile

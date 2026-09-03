@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1719'
 language: en
-status: human
+status: upstream_unreviewed
 name: Jalon caballero unialteral
 description: Pull performed in knight's stance
 upstream:

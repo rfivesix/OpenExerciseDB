@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1714'
 language: es
-status: human
+status: upstream_unreviewed
 name: Ejercicio pendular de hombro con mancuerna
 description: |-
   Inclínate hacia delante para apoyar una mano en una silla u otro objeto, sujetando una mancuerna con la otra mano.

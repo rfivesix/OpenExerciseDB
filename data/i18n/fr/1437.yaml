@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Squat aux barres d'arrêt
 description: |-
   Réglez les barres d'arrêt environ à la hauteur de votre point de blocage

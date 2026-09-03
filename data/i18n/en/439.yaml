@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '439'
 language: en
-status: human
+status: upstream_unreviewed
 name: Overhand Cable Curl
 description: Hands at shoulder height, curl arms in toward head, then back out.
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '976'
 language: en
-status: human
+status: upstream_unreviewed
 name: Medicine ball booklet crunch
 description: Using a medicine ball as an overload will make the exercise heavier.
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '925'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Développé incliné à la Smith machine
 description: |-
   * Exécution * Position de départ :

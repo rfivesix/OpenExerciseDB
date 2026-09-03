@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Pompes lestées
 description: |-
   Mise en place : Commencez en position de planche classique avec un disque de poids posé de façon stable sur le haut du dos.

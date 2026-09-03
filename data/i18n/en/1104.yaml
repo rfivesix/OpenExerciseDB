@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1104'
 language: en
-status: human
+status: upstream_unreviewed
 name: Walking
 description: Walking outdoor or indoor, try keeping a pace of at list 100 steps per minute.
 upstream:

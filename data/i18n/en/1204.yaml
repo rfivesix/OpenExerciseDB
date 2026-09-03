@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1204'
 language: en
-status: human
+status: upstream_unreviewed
 name: Cycling cardio session
 description: Cardio session on a Technogym Bike Excite 1000 stationary bike.
 upstream:

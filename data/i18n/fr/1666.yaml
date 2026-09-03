@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1666'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl - épaule surélevée
 description: |-
   Placez le coude de manière à ce qu'il soit à peu près au niveau de l'épaule. Fléchissez le bras pour ramener la charge vers votre épaule. Concentrez-vous sur l'étirement pendant la phase excentrique du curl.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '584'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Curl au pupitre à un bras
 description: |-
   Asseyez-vous sur le banc Larry Scott et effectuez un curl biceps avec un haltère dans une main. Votre autre main peut rester au repos, ou se placer sous le coude de votre bras qui travaille.

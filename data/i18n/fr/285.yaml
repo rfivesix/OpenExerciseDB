@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '285'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Sauts genoux hauts
 description: |-
   Commencez avec les jambes légèrement plus écartées que la largeur des épaules

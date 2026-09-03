@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '308'
 language: es
-status: human
+status: upstream_unreviewed
 name: Aperturas con mancuernas en banco inclinado
 description: |-
   Utiliza un banco inclinado. Sujeta las mancuernas con los brazos extendidos hacia los lados, con los codos ligeramente flexionados. Junta los brazos por encima de ti, manteniendo fijo el ángulo de los codos.

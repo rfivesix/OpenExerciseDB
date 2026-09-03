@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: de
-status: human
+status: upstream_unreviewed
 name: Schlitten schieben
 description: |-
   Belade den Schlitten mit 25 % deiner maximalen Last. Wenn du diese nicht kennst, wähle ein Gewicht, das du 10 Minuten lang mit kurzen Pausen schieben kannst. Anfänger können den Schlitten auch ohne Gewicht schieben.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: he
-status: human
+status: upstream_unreviewed
 name: ישיבת קיר
 upstream:
   license: CC0-1.0

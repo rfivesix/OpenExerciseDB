@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: es
-status: human
+status: upstream_unreviewed
 name: Empuje de cadera a una pierna con mancuerna
 description: |-
   El empuje de cadera a una pierna se realiza apoyando la parte superior de la espalda en un banco de pesas, levantando una pierna y extendiendo la cadera de la otra pierna para lograr una contracción aislada del glúteo.

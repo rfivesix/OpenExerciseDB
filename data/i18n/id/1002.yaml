@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: id
-status: human
+status: upstream_unreviewed
 name: Pose anak
 description: |-
   Posisi awal:

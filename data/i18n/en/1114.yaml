@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1114'
 language: en
-status: human
+status: upstream_unreviewed
 name: Rest (for timed workouts)
 description: When creating a workout based on time, add this to add rest time in the program
 upstream:

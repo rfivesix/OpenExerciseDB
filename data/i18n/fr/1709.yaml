@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1709'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Oiseau debout
 description: |-
   Tenez-vous debout avec une bonne posture, une poignée de poulie dans chaque main, face à la machine

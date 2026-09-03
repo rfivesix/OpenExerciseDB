@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '148'
 language: es
-status: human
+status: upstream_unreviewed
 name: Elevación de Pantorrillas en Hack
 description: |-
   Este ejercicio permite aislar las pantorrillas (gemelos) con la estabilidad de la máquina Hack, facilitando el uso de cargas pesadas y un rango de movimiento completo.

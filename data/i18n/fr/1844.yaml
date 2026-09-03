@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1844'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Étirement de la grenouille
 description: |-
   Mettez-vous à quatre pattes.

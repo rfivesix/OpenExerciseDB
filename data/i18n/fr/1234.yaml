@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Hip thrust à une jambe avec haltère
 description: |-
   Le hip thrust à une jambe s'effectue en plaçant le haut du dos sur un banc de musculation, en levant une jambe et en étendant la hanche de l'autre jambe afin d'obtenir une contraction isolée du fessier.

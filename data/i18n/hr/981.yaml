@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: hr
-status: human
+status: upstream_unreviewed
 name: Stupanje na stolicu
 description: |-
   Stani ispred stolca

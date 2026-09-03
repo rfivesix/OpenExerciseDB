@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '238'
 language: it
-status: human
+status: upstream_unreviewed
 name: Croci su panca Inclinata
 description: Croci su panca InclinataCroci su panca Inclinata
 upstream:

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: es
-status: human
+status: upstream_unreviewed
 name: Curl Araña
 description: |-
   Comience colocando la barra en la parte del banco en la que normalmente se sentaría. Debe asegurarse de alinear la barra correctamente para que no se caiga y esté equilibrada.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '983'
 language: ar
-status: human
+status: upstream_unreviewed
 name: الركبتين العالية
 description: الجري في المكان، وضع الركبتين عاليا كما هو مريح وتبديل بين الساقين بوتيرة سريعة
 upstream:

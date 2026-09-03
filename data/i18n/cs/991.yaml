@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '991'
 language: cs
-status: human
+status: upstream_unreviewed
 name: Dřep ve výpadu nalevo
 description: |-
   Postavte se zády rovně

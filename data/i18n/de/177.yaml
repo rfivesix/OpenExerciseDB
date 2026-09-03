@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '177'
 language: de
-status: human
+status: upstream_unreviewed
 name: Fahrrad fahren
 upstream:
   license: CC0-1.0

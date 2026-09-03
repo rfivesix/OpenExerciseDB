@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: it
-status: human
+status: upstream_unreviewed
 name: Squat (Stacchi)
 description: |-
   Stai con i piedi alla larghezza delle spalle

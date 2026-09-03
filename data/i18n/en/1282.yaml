@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1282'
 language: en
-status: human
+status: upstream_unreviewed
 name: Isometria trazioni impugnatura inversa
 description: Trazioni in isometria con impugnatura inversa
 upstream:

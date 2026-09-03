@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '351'
 language: en
-status: human
+status: upstream_unreviewed
 name: Lateral-to-Front Raises
 description: |-
   -(1) Perform a lateral raise, pausing at the top of the lift (2).

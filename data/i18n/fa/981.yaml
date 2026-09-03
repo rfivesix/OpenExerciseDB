@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: fa
-status: human
+status: upstream_unreviewed
 name: گام به گام
 upstream:
   license: CC-BY-SA-4.0

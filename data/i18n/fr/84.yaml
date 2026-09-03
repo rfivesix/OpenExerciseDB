@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '84'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Rowing penché en supination
 description: |-
   Identique au rowing classique, mais avec une prise inversée (les paumes pointant vers l'avant) :

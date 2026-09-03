@@ -183,6 +183,13 @@ jobs:
         run: |
           python build/validate.py --profile phase1 --json-out "$VALIDATION_REPORT_PATH"
 
+      # Invariante 21 gegen das Register — die Pruefung, die den Verlust von 38
+      # Uebungen zwischen 2026-06-15 und 2026-08-31 verhindert haette. Sie steht
+      # hier zusaetzlich zum Validator, weil sie die teuerste Regel des Repos ist:
+      # eine verschwundene ID macht Trainingsdaten auf Geraeten unaufloesbar.
+      - name: Check that no published ID disappeared
+        run: python build/update_published_ids.py --check
+
       # ATTRIBUTION.md wird gerechnet, nicht gepflegt (SCHEMA.md 3b). Laeuft sie
       # dem Datenstand hinterher, ist die Namensnennung unvollstaendig — und das
       # ist eine Lizenzbedingung, kein Schoenheitsfehler.
@@ -290,6 +297,21 @@ jobs:
             ${{ env.DIFF_REPORT_PATH }}
             ${{ env.MANIFEST_PATH }}
           bodyFile: ${{ env.RELEASE_NOTES_PATH }}
+
+      # Nach dem Release: die gerade ausgelieferten IDs ins Register aufnehmen.
+      # Ab jetzt sind sie ein Vertrag mit den Nutzerdaten, die darauf zeigen.
+      - name: Record the published IDs
+        if: github.event_name != 'pull_request' &&
+          steps.publish_release.outcome == 'success'
+        run: |
+          python build/update_published_ids.py --from-db "$GENERATED_DB_PATH"
+          if ! git diff --quiet data/published_ids.yaml; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/published_ids.yaml
+            git commit -m "Record IDs published in $(python -c "import json;print(json.load(open('$MANIFEST_PATH'))['version'])")"
+            git push
+          fi
 
       - name: Publish run summary
         if: always()

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1795'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage croisé unilatéral à la poulie
 description: |-
   Sur une station à poulies, placez la poulie en position haute et, le bras tendu, tirez le câble en travers de votre corps, du haut vers le bas. Concentrez-vous sur la tension dans l'arrière de l'épaule.

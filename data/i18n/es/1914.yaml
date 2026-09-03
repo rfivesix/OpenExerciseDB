@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1914'
 language: es
-status: human
+status: upstream_unreviewed
 name: Isometría en las paralelas
 description: |-
   La sujeción isométrica en las paralelas es un ejercicio estático para el tren superior que se realiza en las barras de fondos (barras paralelas). En lugar de subir y bajar como en un fondo tradicional, mantienes una posición fija bajo tensión.

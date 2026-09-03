@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '914'
 language: en
-status: human
+status: upstream_unreviewed
 name: Reverse EZ Bar Cable Curls
 description: Standing in front of cable tower using a SZ Bar
 upstream:

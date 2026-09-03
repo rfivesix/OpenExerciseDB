@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1901'
 language: en
-status: human
+status: upstream_unreviewed
 name: Clean and Press
 description: |-
   The First Pull: Lift the bar from the floor to knee-height by driving with the legs, keeping the angle of your back constant.

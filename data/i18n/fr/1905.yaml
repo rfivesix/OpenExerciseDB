@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1905'
 language: fr
-status: human
+status: upstream_unreviewed
 name: Tirage en arrière (pullback)
 description: |-
   Réglez la charge et la prise des câbles dans la cage. Reculez de quelques pas, penchez-vous vers l'avant, puis tirez et étendez le dos en même temps.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '355'
 language: it
-status: human
+status: upstream_unreviewed
 name: Lat pull down
 description: |-
   afferrare la sbarra larga e portare fino al mento sentendo sempre l'adduzione scapolare durante l'esecuzione
