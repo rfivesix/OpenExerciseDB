@@ -1,27 +1,33 @@
-id: '320'
-slug: jumping-jacks
+id: '977'
+slug: box-squat
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: squat
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- main_lift
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: barbell
+setup:
+- plyo_box
+- squat_rack
 muscles:
-- id: calves
-  role: primary
 - id: quadriceps
   role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
+  role: primary
+- id: hamstring_complex
   role: secondary
-- id: deltoid
+- id: erector_spinae
+  role: secondary
+- id: rectus_abdominis
+  role: secondary
+- id: calves
   role: secondary
 provenance:
   id:
@@ -78,9 +84,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '977'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: clafal
   imported_at: '2026-09-02'
   source_fields:
     category: Legs
+    equipment:
+    - none (bodyweight exercise)

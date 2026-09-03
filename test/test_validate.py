@@ -259,14 +259,14 @@ class RealDataTestCase(unittest.TestCase):
         )
 
     def test_the_only_soft_invariant_that_fires_is_excused(self) -> None:
-        """1103 Walkout — die Uebung, deren Wert fuer die alte Regelkette
-        verbogen worden war. Sie steht jetzt richtig da und ist begruendet."""
+        """1103 Walkout und 312 Incline Plank — Uebungen mit dynamischer
+        Anti-Extension, die in Wiederholungen geloggt werden."""
         data = dataset_mod.load()
         report = validate.Report(profile="phase1")
         validate.check_plausibility(data, Vocabularies(), report)
         validate.apply_exceptions(data, report)
         soft = report.stats["soft_invariants"]
-        self.assertEqual({"fired": 1, "excused": 1, "open": 0}, soft["18"])
+        self.assertEqual({"fired": 2, "excused": 2, "open": 0}, soft["18"])
 
     def test_every_legacy_wger_muscle_maps_back_to_its_own_name(self) -> None:
         """Die Kompatibilitaetsspalten stehen und fallen mit dieser Umkehrung."""

@@ -1,27 +1,36 @@
-id: '320'
-slug: jumping-jacks
+id: '1116'
+slug: dumbbell-farmer-s-carry
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: carry
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
 - conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+- finisher
+tracking_type: distance_time
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: dumbbell
 setup: []
 muscles:
-- id: calves
+- id: wrist_flexors
   role: primary
-- id: quadriceps
+- id: traps_upper
   role: primary
+- id: obliques
+  role: secondary
+- id: rectus_abdominis
+  role: secondary
+- id: erector_spinae
+  role: secondary
 - id: gluteus_medius
   role: secondary
-- id: deltoid
+- id: quadriceps
+  role: secondary
+- id: calves
   role: secondary
 provenance:
   id:
@@ -29,10 +38,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -76,11 +81,17 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1116'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: philip
   imported_at: '2026-09-02'
   source_fields:
     category: Legs
+    equipment:
+    - Dumbbell

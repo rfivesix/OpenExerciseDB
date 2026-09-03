@@ -1,25 +1,31 @@
-id: '320'
-slug: jumping-jacks
+id: '1019'
+slug: side-plank-right
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
-laterality: bilateral
+movement_pattern: anti_lateral_flexion
+laterality: unilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
+- accessory
+- activation
+- prehab
+tracking_type: time
 load_mode: bodyweight
-supports_added_weight: false
+supports_added_weight: true
 primary_equipment: bodyweight
-setup: []
+setup:
+- mat
 muscles:
-- id: calves
+- id: obliques
   role: primary
-- id: quadriceps
+- id: quadratus_lumborum
   role: primary
 - id: gluteus_medius
+  role: secondary
+- id: rectus_abdominis
+  role: secondary
+- id: transversus_abdominis
   role: secondary
 - id: deltoid
   role: secondary
@@ -78,9 +84,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1019'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: null
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Abs
+    equipment:
+    - none (bodyweight exercise)

@@ -1,27 +1,34 @@
-id: '320'
-slug: jumping-jacks
+id: '423'
+slug: muscle-up
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_pull
 laterality: bilateral
-difficulty: beginner
+difficulty: advanced
 usage_tags:
-- warmup
-- conditioning
+- main_lift
+- accessory
 tracking_type: bodyweight_reps
 load_mode: bodyweight
-supports_added_weight: false
+supports_added_weight: true
 primary_equipment: bodyweight
-setup: []
+setup:
+- pullup_bar
 muscles:
-- id: calves
+- id: latissimus_dorsi
   role: primary
-- id: quadriceps
+- id: pectoralis_major
   role: primary
-- id: gluteus_medius
+- id: triceps_brachii
+  role: secondary
+- id: biceps_brachii
   role: secondary
 - id: deltoid
+  role: secondary
+- id: rectus_abdominis
+  role: secondary
+- id: traps_lower
   role: secondary
 provenance:
   id:
@@ -78,9 +85,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '423'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: arson
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back
+    equipment:
+    - Pull-up bar

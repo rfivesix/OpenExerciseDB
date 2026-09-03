@@ -1,27 +1,31 @@
-id: '320'
-slug: jumping-jacks
+id: '456'
+slug: pistol-squat
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
-laterality: bilateral
-difficulty: beginner
+movement_pattern: squat
+laterality: unilateral
+difficulty: advanced
 usage_tags:
-- warmup
-- conditioning
+- main_lift
+- accessory
 tracking_type: bodyweight_reps
 load_mode: bodyweight
-supports_added_weight: false
+supports_added_weight: true
 primary_equipment: bodyweight
 setup: []
 muscles:
-- id: calves
-  role: primary
 - id: quadriceps
   role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
+  role: primary
+- id: hamstring_complex
   role: secondary
-- id: deltoid
+- id: calves
+  role: secondary
+- id: rectus_abdominis
+  role: secondary
+- id: hip_flexors
   role: secondary
 provenance:
   id:
@@ -78,9 +82,9 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
-  license: CC-BY-SA-4.0
-  license_author: student1234
+  source_id: '456'
+  license: CC-BY-SA-3.0
+  license_author: minifigmaster125
   imported_at: '2026-09-02'
   source_fields:
     category: Legs

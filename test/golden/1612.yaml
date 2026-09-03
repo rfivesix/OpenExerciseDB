@@ -1,27 +1,33 @@
-id: '320'
-slug: jumping-jacks
+id: '1612'
+slug: kettlebell-sumo-deadlift
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: hinge
 laterality: bilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- main_lift
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: kettlebell
 setup: []
 muscles:
-- id: calves
+- id: gluteus_maximus
   role: primary
-- id: quadriceps
+- id: hip_adductors
   role: primary
-- id: gluteus_medius
+- id: hamstring_complex
   role: secondary
-- id: deltoid
+- id: quadriceps
+  role: secondary
+- id: erector_spinae
+  role: secondary
+- id: trapezius
+  role: secondary
+- id: forearms
   role: secondary
 provenance:
   id:
@@ -78,9 +84,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1612'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: Tierrasverdes
   imported_at: '2026-09-02'
   source_fields:
     category: Legs
+    equipment:
+    - Kettlebell

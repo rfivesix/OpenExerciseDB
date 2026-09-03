@@ -1,27 +1,34 @@
-id: '320'
-slug: jumping-jacks
+id: '1100'
+slug: wall-balls
 status: active
 modality: plyometric
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_push
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
 - conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- finisher
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: medicine_ball
+setup:
+- wall
 muscles:
-- id: calves
-  role: primary
 - id: quadriceps
   role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
+  role: primary
+- id: delt_anterior
   role: secondary
-- id: deltoid
+- id: triceps_brachii
+  role: secondary
+- id: hamstring_complex
+  role: secondary
+- id: calves
+  role: secondary
+- id: rectus_abdominis
   role: secondary
 provenance:
   id:
@@ -78,9 +85,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1100'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: philip
   imported_at: '2026-09-02'
   source_fields:
     category: Legs
+    equipment:
+    - Swiss Ball

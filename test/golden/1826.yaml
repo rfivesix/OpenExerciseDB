@@ -1,27 +1,29 @@
-id: '320'
-slug: jumping-jacks
+id: '1826'
+slug: band-pull-apart-with-external-rotation
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: rotation
 laterality: bilateral
 difficulty: beginner
 usage_tags:
 - warmup
-- conditioning
+- prehab
+- accessory
+- activation
 tracking_type: bodyweight_reps
-load_mode: bodyweight
+load_mode: variable
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: resistance_band
 setup: []
 muscles:
-- id: calves
+- id: rotator_cuff
   role: primary
-- id: quadriceps
+- id: rhomboids
   role: primary
-- id: gluteus_medius
+- id: traps_middle
   role: secondary
-- id: deltoid
+- id: delt_posterior
   role: secondary
 provenance:
   id:
@@ -78,9 +80,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1826'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: beagle
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Shoulders
+    equipment:
+    - Resistance band

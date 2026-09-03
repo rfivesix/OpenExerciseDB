@@ -1,27 +1,33 @@
-id: '320'
-slug: jumping-jacks
+id: '1634'
+slug: rope-pullover-row
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: horizontal_pull
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: cable
+setup:
+- incline_bench
 muscles:
-- id: calves
+- id: latissimus_dorsi
   role: primary
-- id: quadriceps
+- id: teres_major
   role: primary
-- id: gluteus_medius
+- id: rhomboids
   role: secondary
-- id: deltoid
+- id: delt_posterior
+  role: secondary
+- id: traps_lower
+  role: secondary
+- id: triceps_long_head
+  role: secondary
+- id: biceps_brachii
   role: secondary
 provenance:
   id:
@@ -78,9 +84,12 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1634'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: Rottekongen
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back
+    equipment:
+    - Cable machine
+    - Incline bench

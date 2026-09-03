@@ -1,27 +1,28 @@
-id: '320'
-slug: jumping-jacks
+id: '1660'
+slug: cable-chest-press-incline
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
-laterality: bilateral
-difficulty: beginner
+movement_pattern: horizontal_push
+laterality: unilateral
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+- main_lift
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: cable
+setup:
+- incline_bench
 muscles:
-- id: calves
+- id: pecs_clavicular
   role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
+- id: delt_anterior
   role: secondary
-- id: deltoid
+- id: triceps_brachii
+  role: secondary
+- id: serratus_anterior
   role: secondary
 provenance:
   id:
@@ -78,9 +79,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1660'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: Shiladree
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Chest
+    equipment:
+    - Cable machine

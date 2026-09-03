@@ -1,27 +1,26 @@
-id: '320'
-slug: jumping-jacks
+id: '1683'
+slug: zottman-curl
 status: active
-modality: plyometric
-mechanic: compound
-movement_pattern: other
+modality: strength
+mechanic: isolation
+movement_pattern: elbow_flexion
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: dumbbell
 setup: []
 muscles:
-- id: calves
+- id: biceps_brachii
   role: primary
-- id: quadriceps
+- id: brachialis
   role: primary
-- id: gluteus_medius
+- id: brachioradialis
   role: secondary
-- id: deltoid
+- id: wrist_extensors
   role: secondary
 provenance:
   id:
@@ -78,9 +77,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1683'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: meldun
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Arms
+    equipment:
+    - Dumbbell

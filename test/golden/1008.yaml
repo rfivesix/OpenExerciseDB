@@ -1,27 +1,26 @@
-id: '320'
-slug: jumping-jacks
+id: '1008'
+slug: left-neck-stretch
 status: active
-modality: plyometric
-mechanic: compound
-movement_pattern: other
-laterality: bilateral
+modality: stretch
+mechanic: isolation
+movement_pattern: anti_lateral_flexion
+laterality: unilateral
 difficulty: beginner
 usage_tags:
+- cooldown
+- prehab
 - warmup
-- conditioning
-tracking_type: bodyweight_reps
+tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup: []
 muscles:
-- id: calves
+- id: neck_extensors
   role: primary
-- id: quadriceps
+- id: neck_flexors
   role: primary
-- id: gluteus_medius
-  role: secondary
-- id: deltoid
+- id: traps_upper
   role: secondary
 provenance:
   id:
@@ -29,10 +28,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -76,11 +71,17 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1008'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: null
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Shoulders
+    equipment:
+    - none (bodyweight exercise)

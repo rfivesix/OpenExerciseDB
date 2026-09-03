@@ -1,27 +1,27 @@
-id: '320'
-slug: jumping-jacks
+id: '301'
+slug: hyperextensions
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: spinal_extension
 laterality: bilateral
 difficulty: beginner
 usage_tags:
+- accessory
+- prehab
 - warmup
-- conditioning
 tracking_type: bodyweight_reps
 load_mode: bodyweight
-supports_added_weight: false
+supports_added_weight: true
 primary_equipment: bodyweight
-setup: []
+setup:
+- roman_chair
 muscles:
-- id: calves
+- id: erector_spinae
   role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
   role: secondary
-- id: deltoid
+- id: hamstring_complex
   role: secondary
 provenance:
   id:
@@ -78,9 +78,9 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
-  license: CC-BY-SA-4.0
-  license_author: student1234
+  source_id: '301'
+  license: CC-BY-SA-3.0
+  license_author: wger.de
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back

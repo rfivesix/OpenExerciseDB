@@ -1,27 +1,37 @@
-id: '320'
-slug: jumping-jacks
+id: '675'
+slug: turkish-get-up
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
 movement_pattern: other
-laterality: bilateral
-difficulty: beginner
+laterality: unilateral
+difficulty: advanced
 usage_tags:
-- warmup
+- accessory
+- activation
 - conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: kettlebell
+setup:
+- mat
 muscles:
-- id: calves
-  role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
-  role: secondary
 - id: deltoid
+  role: primary
+- id: obliques
+  role: primary
+- id: rectus_abdominis
+  role: secondary
+- id: gluteus_maximus
+  role: secondary
+- id: quadriceps
+  role: secondary
+- id: triceps_brachii
+  role: secondary
+- id: trapezius
+  role: secondary
+- id: serratus_anterior
   role: secondary
 provenance:
   id:
@@ -78,9 +88,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '675'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: dookie1481
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Abs
+    equipment:
+    - Dumbbell

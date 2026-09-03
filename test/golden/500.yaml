@@ -1,27 +1,33 @@
-id: '320'
-slug: jumping-jacks
+id: '500'
+slug: reverse-plank
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: anti_flexion
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
+- accessory
+- activation
+- prehab
+tracking_type: time
 load_mode: bodyweight
-supports_added_weight: false
+supports_added_weight: true
 primary_equipment: bodyweight
-setup: []
+setup:
+- mat
 muscles:
-- id: calves
+- id: erector_spinae
   role: primary
-- id: quadriceps
+- id: gluteus_maximus
   role: primary
-- id: gluteus_medius
+- id: hamstring_complex
   role: secondary
-- id: deltoid
+- id: delt_posterior
+  role: secondary
+- id: triceps_brachii
+  role: secondary
+- id: rectus_abdominis
   role: secondary
 provenance:
   id:
@@ -29,10 +35,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -42,8 +44,7 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   movement_pattern:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
     at: '2026-09-03'
   laterality:
     source: ai
@@ -76,11 +77,17 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '500'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: spacetowaste
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Abs
+    equipment:
+    - none (bodyweight exercise)

@@ -1,27 +1,32 @@
-id: '320'
-slug: jumping-jacks
+id: '996'
+slug: mountain-climbers
 status: active
 modality: plyometric
 mechanic: compound
 movement_pattern: other
-laterality: bilateral
+laterality: alternating
 difficulty: beginner
 usage_tags:
-- warmup
 - conditioning
-tracking_type: bodyweight_reps
+- warmup
+tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
-setup: []
+setup:
+- mat
 muscles:
-- id: calves
+- id: rectus_abdominis
+  role: primary
+- id: hip_flexors
   role: primary
 - id: quadriceps
-  role: primary
-- id: gluteus_medius
   role: secondary
 - id: deltoid
+  role: secondary
+- id: serratus_anterior
+  role: secondary
+- id: calves
   role: secondary
 provenance:
   id:
@@ -29,10 +34,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -76,11 +77,17 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '996'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: null
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Chest
+    equipment:
+    - none (bodyweight exercise)

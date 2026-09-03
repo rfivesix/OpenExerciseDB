@@ -1,27 +1,30 @@
-id: '320'
-slug: jumping-jacks
+id: '916'
+slug: smith-press
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_push
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- main_lift
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: smith_machine
+setup:
+- incline_bench
 muscles:
-- id: calves
+- id: delt_anterior
   role: primary
-- id: quadriceps
+- id: delt_lateral
   role: primary
-- id: gluteus_medius
+- id: triceps_brachii
   role: secondary
-- id: deltoid
+- id: traps_upper
+  role: secondary
+- id: pecs_clavicular
   role: secondary
 provenance:
   id:
@@ -78,9 +81,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '916'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: novadani
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Shoulders
+    equipment:
+    - Incline bench

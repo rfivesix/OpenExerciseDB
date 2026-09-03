@@ -1,27 +1,28 @@
-id: '320'
-slug: jumping-jacks
+id: '1004'
+slug: forward-shoulder-rotation
 status: active
-modality: plyometric
-mechanic: compound
-movement_pattern: other
+modality: mobility
+mechanic: isolation
+movement_pattern: rotation
 laterality: bilateral
 difficulty: beginner
 usage_tags:
 - warmup
-- conditioning
-tracking_type: bodyweight_reps
+- cooldown
+- prehab
+tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
 setup: []
 muscles:
-- id: calves
-  role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
-  role: secondary
 - id: deltoid
+  role: primary
+- id: trapezius
+  role: secondary
+- id: rhomboids
+  role: secondary
+- id: rotator_cuff
   role: secondary
 provenance:
   id:
@@ -29,10 +30,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -76,11 +73,17 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1004'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: null
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back
+    equipment:
+    - none (bodyweight exercise)

@@ -1,27 +1,28 @@
-id: '320'
-slug: jumping-jacks
+id: '624'
+slug: stationary-bike
 status: active
-modality: plyometric
+modality: cardio
 mechanic: compound
-movement_pattern: other
-laterality: bilateral
+movement_pattern: gait
+laterality: alternating
 difficulty: beginner
 usage_tags:
 - warmup
 - conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- cooldown
+tracking_type: distance_time
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: cardio_machine
 setup: []
 muscles:
-- id: calves
-  role: primary
 - id: quadriceps
   role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
   role: secondary
-- id: deltoid
+- id: hamstring_complex
+  role: secondary
+- id: calves
   role: secondary
 provenance:
   id:
@@ -29,10 +30,6 @@ provenance:
   slug:
     source: derived
     at: '2026-09-02'
-  muscles:
-    source: ai
-    model: gemini-3.7-flash
-    at: '2026-09-03'
   modality:
     source: ai
     model: gemini-3.7-flash
@@ -76,11 +73,15 @@ provenance:
     source: ai
     model: gemini-3.7-flash
     at: '2026-09-03'
+  muscles:
+    source: ai
+    model: gemini-3.7-flash
+    at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '624'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: intelman
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Cardio

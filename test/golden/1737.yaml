@@ -1,27 +1,31 @@
-id: '320'
-slug: jumping-jacks
+id: '1737'
+slug: assisted-chin-ups
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_pull
 laterality: bilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
+- main_lift
+- accessory
 tracking_type: bodyweight_reps
-load_mode: bodyweight
+load_mode: assisted
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: machine
 setup: []
 muscles:
-- id: calves
+- id: latissimus_dorsi
   role: primary
-- id: quadriceps
+- id: biceps_brachii
   role: primary
-- id: gluteus_medius
+- id: brachialis
   role: secondary
-- id: deltoid
+- id: teres_major
+  role: secondary
+- id: rhomboids
+  role: secondary
+- id: traps_lower
   role: secondary
 provenance:
   id:
@@ -58,11 +62,10 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   tracking_type:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
     at: '2026-09-03'
   load_mode:
-    source: derived
+    source: human
     at: '2026-09-03'
   supports_added_weight:
     source: ai
@@ -78,9 +81,9 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1737'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: null
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back

@@ -1,27 +1,31 @@
-id: '320'
-slug: jumping-jacks
+id: '158'
+slug: close-grip-lat-pull-down
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_pull
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+- main_lift
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: cable
 setup: []
 muscles:
-- id: calves
+- id: latissimus_dorsi
   role: primary
-- id: quadriceps
+- id: teres_major
   role: primary
-- id: gluteus_medius
+- id: biceps_brachii
   role: secondary
-- id: deltoid
+- id: brachialis
+  role: secondary
+- id: rhomboids
+  role: secondary
+- id: traps_middle
   role: secondary
 provenance:
   id:
@@ -78,9 +82,9 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
-  license: CC-BY-SA-4.0
-  license_author: student1234
+  source_id: '158'
+  license: CC-BY-SA-3.0
+  license_author: tuckerm
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back

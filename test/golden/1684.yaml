@@ -1,27 +1,35 @@
-id: '320'
-slug: jumping-jacks
+id: '1684'
+slug: dumbbell-thruster
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: vertical_push
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
-- warmup
 - conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- main_lift
+- accessory
+- finisher
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: dumbbell
 setup: []
 muscles:
-- id: calves
-  role: primary
 - id: quadriceps
   role: primary
-- id: gluteus_medius
+- id: gluteus_maximus
+  role: primary
+- id: delt_anterior
+  role: primary
+- id: triceps_brachii
   role: secondary
-- id: deltoid
+- id: hamstring_complex
+  role: secondary
+- id: calves
+  role: secondary
+- id: rectus_abdominis
   role: secondary
 provenance:
   id:
@@ -78,9 +86,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1684'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: meldun
   imported_at: '2026-09-02'
   source_fields:
     category: Legs
+    equipment:
+    - Dumbbell

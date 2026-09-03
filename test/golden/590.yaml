@@ -1,27 +1,23 @@
-id: '320'
-slug: jumping-jacks
+id: '590'
+slug: sitting-calf-raises
 status: active
-modality: plyometric
-mechanic: compound
-movement_pattern: other
+modality: strength
+mechanic: isolation
+movement_pattern: plantar_flexion
 laterality: bilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
-setup: []
+primary_equipment: machine
+setup:
+- flat_bench
 muscles:
-- id: calves
+- id: soleus
   role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
-  role: secondary
-- id: deltoid
+- id: gastrocnemius
   role: secondary
 provenance:
   id:
@@ -78,9 +74,9 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
-  license: CC-BY-SA-4.0
-  license_author: student1234
+  source_id: '590'
+  license: CC-BY-SA-3.0
+  license_author: wger.de
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Calves

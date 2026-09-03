@@ -1,27 +1,24 @@
-id: '320'
-slug: jumping-jacks
+id: '571'
+slug: shrugs-barbells
 status: active
-modality: plyometric
-mechanic: compound
-movement_pattern: other
+modality: strength
+mechanic: isolation
+movement_pattern: shoulder_raise
 laterality: bilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
-tracking_type: bodyweight_reps
-load_mode: bodyweight
+- accessory
+tracking_type: weight_reps
+load_mode: external
 supports_added_weight: false
-primary_equipment: bodyweight
+primary_equipment: barbell
 setup: []
 muscles:
-- id: calves
+- id: traps_upper
   role: primary
-- id: quadriceps
-  role: primary
-- id: gluteus_medius
+- id: rhomboids
   role: secondary
-- id: deltoid
+- id: forearms
   role: secondary
 provenance:
   id:
@@ -78,9 +75,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
-  license: CC-BY-SA-4.0
-  license_author: student1234
+  source_id: '571'
+  license: CC-BY-SA-3.0
+  license_author: wger.de
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Shoulders
+    equipment:
+    - Barbell

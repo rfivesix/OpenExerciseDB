@@ -1,27 +1,35 @@
-id: '320'
-slug: jumping-jacks
+id: '957'
+slug: quadriped-arm-and-leg-raise
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
-laterality: bilateral
+movement_pattern: anti_rotation
+laterality: alternating
 difficulty: beginner
 usage_tags:
 - warmup
-- conditioning
-tracking_type: bodyweight_reps
+- activation
+- prehab
+tracking_type: time
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
-setup: []
+setup:
+- mat
 muscles:
-- id: calves
+- id: erector_spinae
   role: primary
-- id: quadriceps
+- id: gluteus_maximus
   role: primary
-- id: gluteus_medius
+- id: rectus_abdominis
   role: secondary
-- id: deltoid
+- id: obliques
+  role: secondary
+- id: delt_posterior
+  role: secondary
+- id: traps_middle
+  role: secondary
+- id: hamstring_complex
   role: secondary
 provenance:
   id:
@@ -78,9 +86,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '957'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: utkb
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back
+    equipment:
+    - none (bodyweight exercise)

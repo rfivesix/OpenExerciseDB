@@ -1,28 +1,37 @@
-id: '320'
-slug: jumping-jacks
+id: '1103'
+slug: walking-bridge
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: anti_extension
 laterality: bilateral
-difficulty: beginner
+difficulty: intermediate
 usage_tags:
+- accessory
 - warmup
-- conditioning
+- activation
 tracking_type: bodyweight_reps
 load_mode: bodyweight
 supports_added_weight: false
 primary_equipment: bodyweight
-setup: []
+setup:
+- mat
 muscles:
-- id: calves
+- id: rectus_abdominis
   role: primary
-- id: quadriceps
+- id: transversus_abdominis
   role: primary
-- id: gluteus_medius
-  role: secondary
 - id: deltoid
   role: secondary
+- id: serratus_anterior
+  role: secondary
+- id: gluteus_maximus
+  role: secondary
+- id: hamstring_complex
+  role: secondary
+exceptions:
+  invariant_18: Walkout ist dynamische Anti-Extension und wird in Wiederholungen
+    geloggt, nicht auf Zeit. Die Regel beschreibt den Normalfall, nicht diesen.
 provenance:
   id:
     source: wger
@@ -42,8 +51,7 @@ provenance:
     model: gemini-3.7-flash
     at: '2026-09-03'
   movement_pattern:
-    source: ai
-    model: gemini-3.7-flash
+    source: human
     at: '2026-09-03'
   laterality:
     source: ai
@@ -78,9 +86,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '1103'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: clafal
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Abs
+    equipment:
+    - none (bodyweight exercise)

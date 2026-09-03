@@ -1,27 +1,33 @@
-id: '320'
-slug: jumping-jacks
+id: '959'
+slug: trx-rows
 status: active
-modality: plyometric
+modality: strength
 mechanic: compound
-movement_pattern: other
+movement_pattern: horizontal_pull
 laterality: bilateral
 difficulty: beginner
 usage_tags:
-- warmup
-- conditioning
+- accessory
+- main_lift
 tracking_type: bodyweight_reps
 load_mode: bodyweight
-supports_added_weight: false
-primary_equipment: bodyweight
+supports_added_weight: true
+primary_equipment: suspension_trainer
 setup: []
 muscles:
-- id: calves
+- id: latissimus_dorsi
   role: primary
-- id: quadriceps
+- id: rhomboids
   role: primary
-- id: gluteus_medius
+- id: traps_middle
   role: secondary
-- id: deltoid
+- id: delt_posterior
+  role: secondary
+- id: biceps_brachii
+  role: secondary
+- id: brachialis
+  role: secondary
+- id: rectus_abdominis
   role: secondary
 provenance:
   id:
@@ -78,9 +84,11 @@ provenance:
     at: '2026-09-03'
 upstream:
   source: wger
-  source_id: '320'
+  source_id: '959'
   license: CC-BY-SA-4.0
-  license_author: student1234
+  license_author: clafal
   imported_at: '2026-09-02'
   source_fields:
-    category: Legs
+    category: Back
+    equipment:
+    - none (bodyweight exercise)
