@@ -1,9 +1,11 @@
 exercise_id: '1916'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Tuck planche
+name: Tuck planche (gainage planche groupée)
 upstream:
   license: CC-BY-SA-4.0
   license_author: ISSACS
   source_id: '3063'
+description: |-
+  Figure de gymnastique : en appui sur les mains bras tendus, soulevez le corps du sol avec les genoux groupés contre la poitrine en arrondissant le haut du dos.

@@ -1,9 +1,11 @@
 exercise_id: '2454'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations Y-T-W au sol
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging
   source_id: '4931'
+description: |-
+  Allongé sur le ventre au sol ou sur un banc, levez les bras en formant successivement les lettres Y, T et W pour renforcer la rétraction scapulaire et les rotateurs d'épaule.

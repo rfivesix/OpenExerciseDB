@@ -1,8 +1,10 @@
 exercise_id: '2501'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing inversé sous une table
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4982'
+description: |-
+  Allongé sous une table solide, saisissez le rebord avec les mains et tirez la poitrine vers le plateau en gardant le corps gainé et les talons au sol.

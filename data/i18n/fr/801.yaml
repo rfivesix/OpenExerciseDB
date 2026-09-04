@@ -1,8 +1,10 @@
 exercise_id: '801'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pompes sur haltères
 upstream:
   license: CC-BY-SA-4.0
   source_id: '896'
+description: |-
+  Effectuez des pompes les mains en appui sur les poignées de deux haltères posés au sol, ce qui offre une amplitude de mouvement accrue pour étirer les pectoraux.

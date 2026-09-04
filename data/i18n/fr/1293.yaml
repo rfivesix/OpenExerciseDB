@@ -1,9 +1,11 @@
 exercise_id: '1293'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pompes sur un bras
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2259'
+description: |-
+  En appui sur un seul bras, pieds largement écartés pour assurer la stabilité, fléchissez le coude pour descendre la poitrine puis repoussez le sol avec puissance.

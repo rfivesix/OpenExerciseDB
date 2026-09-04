@@ -1,8 +1,10 @@
 exercise_id: '2499'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pompes inclinées mains surélevées
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4981'
+description: |-
+  Pompes réalisées les mains surélevées sur une table ou un banc solide, réduisant la charge corporelle tout en habituant au schéma moteur complet des pompes.

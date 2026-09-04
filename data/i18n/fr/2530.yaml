@@ -1,9 +1,11 @@
 exercise_id: '2530'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pompes russes sur les avant-bras
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '4999'
+description: |-
+  Depuis la pompe, descendez la poitrine puis glissez vers l'arrière pour poser les avant-bras au sol, repartez vers l'avant sur les mains et repoussez le sol.

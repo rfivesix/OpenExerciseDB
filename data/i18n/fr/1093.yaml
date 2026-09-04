@@ -1,9 +1,11 @@
 exercise_id: '1093'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rameur ergonomique
 upstream:
   license: CC-BY-SA-4.0
   license_author: Boertie
   source_id: '2049'
+description: |-
+  Assis sur le rameur, le dos droit, poussez puissamment sur les jambes tout en tirant la poignée vers le bas de la poitrine avec les dorsaux et les bras.

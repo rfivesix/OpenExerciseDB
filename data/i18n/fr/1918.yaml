@@ -1,8 +1,10 @@
 exercise_id: '1918'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé assis pour pectoraux (Legend)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3065'
+description: |-
+  Développé assis sur machine à charges libres convergente, assurant une trajectoire naturelle pour travailler la masse pectorale.

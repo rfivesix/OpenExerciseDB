@@ -1,8 +1,10 @@
 exercise_id: '2497'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé au sol unilatéral avec haltère (Floor press)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4979'
+description: |-
+  Allongé au sol sur le dos, développez un haltère d'un seul bras vers le plafond jusqu'à extension complète, le sol limitant l'amplitude pour protéger l'épaule.

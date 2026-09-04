@@ -1,9 +1,11 @@
 exercise_id: '539'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé couché incliné au cadre guidé
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1049'
+description: |-
+  Même mouvement que le développé incliné libre, exécuté dans le cadre guidé de la machine Smith pour une trajectoire sécurisée et un contrôle strict de la charge.

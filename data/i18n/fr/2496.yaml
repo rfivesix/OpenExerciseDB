@@ -1,8 +1,10 @@
 exercise_id: '2496'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pompes contre le mur
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4978'
+description: |-
+  Pompes d'initiation réalisées contre un mur, idéales pour apprendre le gainage du corps et la poussée des bras en douceur.

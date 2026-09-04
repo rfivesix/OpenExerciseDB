@@ -1,9 +1,11 @@
 exercise_id: '538'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé couché incliné à la barre
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '163'
+description: |-
+  Allongé sur un banc incliné à environ 30-45°, les pieds bien à plat au sol, descendez la barre de façon contrôlée sur le haut des pectoraux puis développez-la vers le haut.

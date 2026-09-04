@@ -1,8 +1,10 @@
 exercise_id: '1904'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pec Deck à la machine
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3051'
+description: |-
+  Assis à la machine d'écarté assis (pec-deck), coudes fléchis ou bras tendus, serrez les coussins l'un vers l'autre devant le visage avec une contraction maximale en fin de course.

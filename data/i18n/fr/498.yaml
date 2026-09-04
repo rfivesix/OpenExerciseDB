@@ -1,9 +1,11 @@
 exercise_id: '498'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé couché prise inversée
 upstream:
   license: CC-BY-SA-4.0
   license_author: bl0sh
   source_id: '399'
+description: |-
+  Allongé sur le banc, saisissez la barre en prise inversée (supination) pour concentrer l'effort de poussée sur la portion claviculaire des pectoraux et le triceps.

@@ -1,9 +1,11 @@
 exercise_id: '1492'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rowing haut à la machine (High row)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja
   source_id: '2455'
+description: |-
+  Un genou au sol face à la poulie haute ou assis à la machine, tirez la poignée vers le bas et l'arrière en amenant le coude vers la hanche.

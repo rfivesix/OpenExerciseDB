@@ -1,9 +1,11 @@
 exercise_id: '1497'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé couché avec haltères prise inversée
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2459'
+description: |-
+  Développé couché avec haltères tenus en prise supination (paumes orientées vers le visage), les coudes restant proches du torse pour solliciter le haut de la poitrine.

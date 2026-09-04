@@ -1,9 +1,11 @@
 exercise_id: '2532'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Maintien penché en planche (Planche lean)
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '5001'
+description: |-
+  En position de planche haute bras tendus, avancez les épaules bien en avant des poignets en maintenant le corps parfaitement rigide pour habituer les épaules à la planche.

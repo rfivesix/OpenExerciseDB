@@ -1,9 +1,11 @@
 exercise_id: '1508'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé très incliné au cadre guidé
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2467'
+description: |-
+  Banc incliné entre 45 et 60 degrés dans le cadre guidé : descendez la barre jusqu'à effleurer le haut de la poitrine avant de développer.

@@ -1,9 +1,11 @@
 exercise_id: '926'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Écarté à la machine (Pec Deck)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1205'
+description: |-
+  Assis à la machine pour pectoraux, le dos fermement calé, ramenez les bras l'un vers l'autre devant la poitrine avec un mouvement lent et continu.

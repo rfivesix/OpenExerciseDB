@@ -24,13 +24,13 @@ eventually. Attribution is owed to those individual contributors, not to "wger"
 as a whole.
 
 <!-- BEGIN GENERATED LIST -->
-Across 909 exercises and 5427 translations, **249 distinct upstream authors** are credited. 934 of 6336 records carry no author upstream.
+Across 909 exercises and 5430 translations, **249 distinct upstream authors** are credited. 934 of 6339 records carry no author upstream.
 
 ### Original licenses
 
 | License | Records |
 |---|---|
-| `CC-BY-SA-4.0` | 5514 |
+| `CC-BY-SA-4.0` | 5517 |
 | `CC-BY-SA-3.0` | 683 |
 | `CC0-1.0` | 139 |
 
@@ -47,7 +47,7 @@ Across 909 exercises and 5427 translations, **249 distinct upstream authors** ar
 | `eo` | 2 | 0 |
 | `es` | 656 | 35 |
 | `fa` | 3 | 2 |
-| `fr` | 861 | 112 |
+| `fr` | 864 | 113 |
 | `he` | 22 | 7 |
 | `hr` | 31 | 8 |
 | `id` | 48 | 11 |
@@ -140,7 +140,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - drthurlow (10)
 - Dulive (4)
 - dvdfernandez95 (8)
-- ege (19)
+- ege (20)
 - Epiphany8424 (4)
 - er0355 (14)
 - erikocobra (36)
@@ -194,9 +194,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - kwrindy (7)
 - lakerbeezel (4)
 - lauroernesto (4)
-- lbroggi (22)
+- lbroggi (23)
 - LEBRERO (6)
-- lh1701 (3)
+- lh1701 (4)
 - lhegedus (4)
 - lion (4)
 - lxmx (20)

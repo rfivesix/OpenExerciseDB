@@ -1,8 +1,10 @@
 exercise_id: '1778'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé couché incliné
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'
+description: |-
+  Développé incliné exécuté sur banc à angle marqué avec des mouvements fluides et précis pour solliciter le faisceau claviculaire des pectoraux.

@@ -1,9 +1,11 @@
 exercise_id: '139'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Écarté inversé à la machine (Butterfly reverse)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '124'
+description: |-
+  Assis à la machine d'écarté inversé, le torse appuyé contre le dossier, écartez les poignées vers l'arrière en ouvrant les bras pour cibler l'arrière de l'épaule.

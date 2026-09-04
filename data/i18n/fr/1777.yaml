@@ -1,9 +1,11 @@
 exercise_id: '1777'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pompes en déficit
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2911'
+description: |-
+  Pompes réalisées avec les mains surélevées sur des blocs ou des poignées, permettant à la poitrine de descendre plus bas que le niveau des mains pour un étirement maximal.

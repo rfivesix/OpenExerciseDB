@@ -1,9 +1,11 @@
 exercise_id: '1098'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Élévations postérieures assises (oiseau)
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2057'
+description: |-
+  Assis sur un banc, le buste incliné à 45 degrés vers les cuisses, élevez les haltères latéralement jusqu'à hauteur des épaules en contractant les deltoïdes postérieurs.

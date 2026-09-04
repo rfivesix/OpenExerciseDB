@@ -1,9 +1,11 @@
 exercise_id: '1473'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Écarté inversé à la poulie (Reverse flye)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2436'
+description: |-
+  Debout face à la double poulie haute, croisez les bras pour saisir les poignées opposées et écartez les bras vers l'arrière et les côtés à l'horizontale.

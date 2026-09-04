@@ -1,9 +1,11 @@
 exercise_id: '1434'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirage vertical avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2398'
+description: |-
+  Buste penché vers l'avant, tirez les haltères vers les hanches en gardant les coudes près du corps et en resserrant le grand dorsal.

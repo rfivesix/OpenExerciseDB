@@ -1,9 +1,11 @@
 exercise_id: '1471'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing Kroc unilatéral lourd
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2434'
+description: |-
+  Tirage rowing lourd avec haltère à un bras, exécuté avec une charge élevée et une trajectoire explosive pour un nombre élevé de répétitions.

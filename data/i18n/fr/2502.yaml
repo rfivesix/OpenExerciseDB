@@ -1,8 +1,10 @@
 exercise_id: '2502'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing unilatéral avec haltère
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4983'
+description: |-
+  En appui d'une main sur une table ou un banc, tirez l'haltère d'un côté vers la hanche en serrant le dos sans tourner le buste.

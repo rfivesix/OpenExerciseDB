@@ -1,9 +1,11 @@
 exercise_id: '1546'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Larsen press (développé couché jambes levées)
+name: Développé couché jambes surélevées (Larsen press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2495'
+description: |-
+  Développé couché exécuté les jambes tendues ou surélevées sur un banc, supprimant toute poussée avec les jambes (leg drive) pour focaliser la force sur le haut du corps.

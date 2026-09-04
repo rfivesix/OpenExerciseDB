@@ -1,9 +1,11 @@
 exercise_id: '1469'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Écarté à la poulie buste penché
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2432'
+description: |-
+  Le buste penché vers l'avant à environ 45-60 degrés, ramenez les poignées de la poulie l'une vers l'autre sous la poitrine pour cibler les fibres pectorales inférieures et médianes.

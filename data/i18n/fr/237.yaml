@@ -1,9 +1,11 @@
 exercise_id: '237'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Écarté à la poulie vis-à-vis
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '122'
+description: |-
+  Debout entre deux poulies à mi-hauteur ou hautes, avancez d'un pas pour mettre les câbles sous tension et ramenez les mains l'une vers l'autre devant la poitrine en arc de cercle.

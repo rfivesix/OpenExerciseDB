@@ -1,9 +1,11 @@
 exercise_id: '284'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piliers d'Hercule à la poulie
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '291'
+description: |-
+  Debout au centre d'une double poulie, tenez un câble dans chaque main bras écartés à l'horizontale et résistez à la tension de manière isométrique.

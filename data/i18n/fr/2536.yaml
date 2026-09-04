@@ -1,9 +1,11 @@
 exercise_id: '2536'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé couché isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5007'
+description: |-
+  Maintien isométrique au développé couché : poussez la barre contre les butées d'une cage à un angle fixe en exerçant une force maximale sans déplacement.

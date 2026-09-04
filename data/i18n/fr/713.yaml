@@ -1,9 +1,11 @@
 exercise_id: '713'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pompes contre le mur
 upstream:
   license: CC-BY-SA-3.0
   license_author: Dexter
   source_id: '203'
+description: |-
+  Face à un mur, posez les mains à largeur d'épaules, fléchissez les bras pour approcher le torse de la paroi, puis repoussez fermement le mur en maintenant le corps droit.
