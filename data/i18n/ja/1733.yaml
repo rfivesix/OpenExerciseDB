@@ -1,9 +1,20 @@
 exercise_id: '1733'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アイソメトリック・スクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2859'
+description: |-
+  開始姿勢:
+  足を肩幅に開いて立ち、胸を張って体幹を引き締めます。
+
+  動作手順:
+  1. スクワットを行い、太ももが床と平行（膝が約90度）になる深さまで腰を下ろします。
+  2. その位置で身体を完全に静止させ、大腿四頭筋とお尻に強い力を入れ続けます。
+  3. 筋肉が限界（筋疲労・オールアウト）に達するまでその姿勢をキープします。
+
+  ポイント:
+  関節を動かさずに最大筋緊張を長時間維持することで、筋力と筋持久力を限界まで追い込めます。

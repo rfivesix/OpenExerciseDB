@@ -1,9 +1,11 @@
 exercise_id: '1727'
 language: ja
-status: ai_raw
-translated_from: en
-name: サイド・ストレートアーム・プルダウン
+status: ai_reviewed
+translated_from: de
+name: スタンディング・サイド・ストレートアームプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2853'
+description: |-
+  開始姿勢: ケーブルマシンの横に立ち、片腕を伸ばして高い位置のハンドルを握ります。体幹を安定させます。動作手順: 上体を固定したまま、腕を伸ばした状態でハンドルを体側・太ももの横に向かって弧を描くように引き下ろします。広背筋の外側を強く収縮させ、ゆっくり戻します。ポイント: 体を傾けたり回旋させたりせず、純粋に広背筋の側方からの引きで行います。

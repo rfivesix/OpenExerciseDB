@@ -1,9 +1,11 @@
 exercise_id: '1742'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バックレバー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2872'
+description: |-
+  開始姿勢: 懸垂バーまたは吊り輪から体を後方に回転させ、うつ伏せの状態でぶら下がります。動作手順: 体幹を引き締め、腕を真っ直ぐ伸ばしたまま身体全体が床と平行になる水平の一直線を保ちます。指定された秒数静止します。ポイント: 肩関節の伸展力、広背筋、上背部、そして脊柱起立筋と大臀筋を含む後面チェーン全体を極限まで強化します。

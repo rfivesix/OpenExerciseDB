@@ -1,9 +1,11 @@
 exercise_id: '1741'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lシット・プルアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2871'
+description: |-
+  開始姿勢: 懸垂バーを握ってぶら下がり、脚を床と平行になるように真っ直ぐ前方へ持ち上げて「L」字の姿勢をとります。動作手順: Lシットの体幹姿勢を完全に保ったまま、肘を曲げて胸をバーに近づけるように懸垂を行います。顎がバーを超えたらコントロールしながら下ろします。ポイント: 腹筋・腸腰筋の強力な等尺性収縮と広背筋の牽引力を同時に鍛える高度な自重複合種目です。

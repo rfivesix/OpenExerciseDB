@@ -1,9 +1,11 @@
 exercise_id: '1713'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ドアウェイ・胸筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2836'
+description: |-
+  【開始姿勢】ドアフレームの間に立ち、前腕をフレームに当てて肘を直角に曲げます。【動作手順】片足を一歩前へ踏み出し、上体を前方にスライドさせて胸を開きます。【ポイント】大胸筋全体をしっかりとストレッチし、無理のない強さでキープします。

@@ -1,9 +1,20 @@
 exercise_id: '1724'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スタンディング・ケーブルヒップアダクション
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2850'
+description: |-
+  開始姿勢:
+  ロープーリーケーブルにアンクルストラップを装着し、マシンに近い方の足首に固定します。マシンから少し離れて横向きに立ちます。
+
+  動作手順:
+  1. 軸足で安定して立ち、ストラップをつけた脚を軸足の前を横切るように内側へ引き寄せます。
+  2. 股関節内転筋群が強く収縮する位置で1秒キープします。
+  3. ケーブルの負荷に抵抗しながら、ゆっくりと脚を開始位置まで戻します。
+
+  ポイント:
+  骨盤を水平に固定し、太ももの内側の力だけでケーブルを引きます。

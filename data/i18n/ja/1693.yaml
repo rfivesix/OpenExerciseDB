@@ -1,9 +1,11 @@
 exercise_id: '1693'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: インクライン・ダンベルスタティックホールド
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2812'
+description: |-
+  【開始姿勢】インクラインベンチでダンベルプレスのボトムポジションで構えます。【動作手順】大胸筋上部に強い緊張をかけたまま、指定された時間静止し続けます。【ポイント】大胸筋上部 (鎖骨部)のテンションを逃がさず、呼吸を続けながら耐えます。

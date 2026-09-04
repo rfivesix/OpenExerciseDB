@@ -1,9 +1,11 @@
 exercise_id: '1698'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: オーバーハンド・バーベルベントオーバーロー
+name: バーベル・ベントオーバーロー (オーバーハンドグリップ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2817'
+description: |-
+  開始姿勢: バーベルを肩幅でオーバーハンドグリップ (順手) で握り、膝を軽く曲げて股関節から上体を前傾させます。背筋を真っ直ぐ伸ばし、腕を床に向かって垂直に下ろします。動作手順: 背中の筋肉の緊張を保ちながら、肘を引いてバーベルをみぞおちへ引き上げます。トップで肩甲骨を寄せて収縮させ、ゆっくりと元の位置に戻します。ポイント: 広背筋上部、菱形筋、僧帽筋中部をバランスよく強化できます。

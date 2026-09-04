@@ -1,9 +1,11 @@
 exercise_id: '1738'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: コサックスクワット
+name: ニュートラルグリップ懸垂 / TRXローイング
 upstream:
   license: CC-BY-SA-4.0
   license_author: 54str
   source_id: '2868'
+description: |-
+  概要: 背中の幅と厚みを強化するコンビネーション種目です。ニュートラルグリップ・プルアップは垂直方向の牽引で主に広背筋 (背中の広がり) を刺激し、TRXローイングは水平方向の牽引で菱形筋や僧帽筋 (背中の厚みと姿勢保持) を集中的に鍛えます。動作手順: プルアップでは顎がバーを超えるまで引き上げ、TRXローでは胸をハンドルに引き寄せて肩甲骨を寄せます。ポイント: 目的に応じて使い分けるか、組み合わせてバランスよく背中を鍛えます。

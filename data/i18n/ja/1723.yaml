@@ -1,9 +1,20 @@
 exercise_id: '1723'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マシン・グルートキックバック
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2849'
+description: |-
+  開始姿勢:
+  グルートキックバックマシンに乗り、胸パッドに上体を預けます。片足の足裏（踵）をプッシュパッドに当てます。
+
+  動作手順:
+  1. 踵でパッドを後上方に向かって力強く押し出します。
+  2. 大臀筋が最大収縮する位置まで脚を押し込み、トップで1秒間静止します。
+  3. 腰を過度に反らせないよう注意しながら、ゆっくりと脚を元の位置に戻します。
+
+  ポイント:
+  つま先ではなく踵で押すことで、大臀筋への刺激を最大化します。

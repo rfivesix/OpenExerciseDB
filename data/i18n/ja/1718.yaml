@@ -1,9 +1,11 @@
 exercise_id: '1718'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ハイプーリー・ハイロー
+name: ハイプーリー・ハイロー (斜め上方ケーブルロー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2842'
+description: |-
+  開始姿勢: ケーブルマシンのハイプーリーの前に座るか立ち、片手または両手でハンドルを握ります。胸を張ります。動作手順: 高い位置から斜め後ろに向かって肘を引き寄せ、肩甲骨を寄せて上背部と三角筋後部を強く収縮させます。コントロールしながらゆっくり戻します。ポイント: 引く角度を斜め上に設定することで、僧帽筋中部・菱形筋・三角筋後部を効果的に刺激します。

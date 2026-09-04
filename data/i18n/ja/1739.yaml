@@ -1,9 +1,20 @@
 exercise_id: '1739'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: シュリンプスクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2869'
+description: |-
+  開始姿勢:
+  片足で立ち、もう一方の脚は膝を後ろに曲げて手で足首またはつま先を掴みます。
+
+  動作手順:
+  1. 軸足の股関節と膝を曲げ、上体をわずかに前傾させながら腰を深く下ろしていきます。
+  2. 後ろに曲げた脚の膝が床に優しく触れるまでしゃがみ込みます。
+  3. 軸足の踵で床を力強く押し込み、大腿四頭筋とお尻の力で元の立ち上がり位置まで戻ります。
+
+  ポイント:
+  ピストルスクワットと並ぶ高難度の自重単脚種目で、大腿四頭筋と臀部の圧倒的な筋力を養成します。

@@ -1,9 +1,11 @@
 exercise_id: '1726'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・ストレートアーム・プルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2852'
+description: |-
+  開始姿勢: ケーブルマシンのハイプーリーの前に立ち、バーをオーバーハンドグリップで握ります。肘は軽く伸ばしたまま固定します。動作手順: 肩をすくめず、肩関節の伸展を使って弧を描くようにバーを太ももに向かって引き下げます。ボトムで広背筋を力強く収縮させ、ゆっくりと頭上まで戻します。ポイント: 腕の力ではなく、広背筋の力だけでバーを押し下げる感覚を掴みます。

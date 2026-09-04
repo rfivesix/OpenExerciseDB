@@ -1,9 +1,11 @@
 exercise_id: '1701'
 language: ja
-status: ai_raw
-translated_from: en
-name: ワンアーム・ヘビーダンベルロー
+status: ai_reviewed
+translated_from: de
+name: ヘビー・ワンハンド・ダンベルロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2820'
+description: |-
+  開始姿勢: ベンチに片手と片膝をついて上半身を支え、背筋を真っ直ぐ伸ばします。もう一方の手で重いダンベルを握ります。動作手順: 肘を天井に向かって力強く引き上げ、ダンベルを腰の横まで持ち上げます。背中の筋肉の収縮を意識したら、ゆっくりとコントロールして下ろします。ポイント: 重い負荷を片側ずつ安全に扱い、広背筋の筋力と厚みを徹底的に向上させます。

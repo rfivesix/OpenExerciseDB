@@ -1,9 +1,11 @@
 exercise_id: '1728'
 language: ja
-status: ai_raw
-translated_from: en
-name: スミスマシン・ベンチプレス
+status: ai_reviewed
+translated_from: de
+name: ケーブル・インターナルローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2854'
+description: |-
+  【開始姿勢】ケーブルのプーリーを肘の高さに合わせ、マシンの横に立ちます。【動作手順】肘を90度に曲げて脇腹に密着させ、前腕をお腹に向けて内側へ引き寄せます。【ポイント】回旋筋腱板 (ローテーターカフ)の内旋筋を鍛え、肘が浮かないよう注意します。

@@ -1,9 +1,11 @@
 exercise_id: '1694'
 language: ja
-status: ai_raw
-translated_from: en
-name: オルタネイティング・ジャンプランジ
+status: ai_reviewed
+translated_from: de
+name: マシン・チェストプレス (フラット)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2813'
+description: |-
+  【開始姿勢】チェストプレスマシンの座席に座り、グリップが胸の高さになるよう調整します。【動作手順】背中をパッドにつけて胸を張り、息を吐きながらグリップを前方に押し出します。【ポイント】大胸筋を意識して押し切り、負荷をコントロールしながら戻します。

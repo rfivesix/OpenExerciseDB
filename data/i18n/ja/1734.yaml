@@ -1,9 +1,20 @@
 exercise_id: '1734'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケトルベル・ランジ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2861'
+description: |-
+  開始姿勢:
+  両手にケトルベルを持つか、胸の前でゴブレットスタイルで保持します。足を腰幅に開いて直立します。
+
+  動作手順:
+  1. 片足を大きく前へ一歩踏み出し、前後の膝が90度になるまで腰を垂直に沈めます。
+  2. 前足の膝がつま先の真上に来るように保ち、後ろ膝は床スレスレまで下げます。
+  3. 前足の踵で地面を強く押し返して元の直立姿勢に戻ります。
+
+  ポイント:
+  ケトルベルの負荷により大腿四頭筋、大臀筋、体幹の安定性を一段と強化できます。

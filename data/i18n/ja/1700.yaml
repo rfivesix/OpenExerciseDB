@@ -1,9 +1,20 @@
 exercise_id: '1700'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・ルーマニアンデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2819'
+description: |-
+  開始姿勢:
+  バーベルを肩幅の順手で持ち、足を腰幅に開いて直立します。胸を張り、肩甲骨を軽く寄せて体幹を固めます。
+
+  動作手順:
+  1. 膝をわずかに曲げた状態を維持し、お尻を真後ろへ突き出すように股関節から前傾します。
+  2. バーを太ももから脛に密着させて滑らせるように下ろし、ハムストリングスが十分に伸張する深さまで下ろします。
+  3. 大臀筋とハムストリングスを強く収縮させて腰を前に押し出し、直立姿勢に戻ります。
+
+  ポイント:
+  腰を丸めずに骨盤から折り曲げるヒンジ動作を厳格に保ちます。

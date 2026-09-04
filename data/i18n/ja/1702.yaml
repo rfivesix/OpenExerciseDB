@@ -1,9 +1,11 @@
 exercise_id: '1702'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ロングステップ・ウォーキングランジ
+name: ワイドグリップ・ラットプルダウン (胸引き)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mariano_O
   source_id: '2821'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、太ももをパッドで固定します。肩幅より広いワイドグリップでバーを握り、胸を張ります。動作手順: 肘を斜め後ろへ引き下げるようにして、バーを鎖骨のあたりまで引き下ろします。肩甲骨を寄せて広背筋を強く収縮させ、抵抗を感じながらゆっくりとバーを戻します。ポイント: 背中を過度に後傾させず、胸を突き出すようにして引きます。

@@ -1,9 +1,11 @@
 exercise_id: '1712'
 language: ja
-status: ai_raw
-translated_from: en
-name: 45度インクライン・ダンベルプレス
+status: ai_reviewed
+translated_from: de
+name: 水平肩屈曲ストレッチ (大胸筋ストレッチ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2835'
+description: |-
+  【開始姿勢】壁や柱の横に立ち、片手を肩の高さで壁につけます。【動作手順】上体を腕と反対側へゆっくり回旋させ、胸の筋肉を伸ばします。【ポイント】大胸筋と三角筋前部が心地よくストレッチされる位置で深呼吸しながら静止します。

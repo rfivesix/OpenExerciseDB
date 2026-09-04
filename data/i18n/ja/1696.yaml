@@ -1,9 +1,11 @@
 exercise_id: '1696'
 language: ja
-status: ai_raw
-translated_from: en
-name: パラレルグリップ・プルアップ
+status: ai_reviewed
+translated_from: de
+name: ニュートラルグリップ・プルアップ (平行握り懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2815'
+description: |-
+  開始姿勢: 手のひらが向かい合うパラレルバーを肩幅で握り、ぶら下がります。肩甲骨を下げて胸を張ります。動作手順: 肘を下および後方に引き、胸を手元の高さに近づけるように身体を引き上げます。トップで広背筋と上背部をしっかりと収縮させ、コントロールしながら元の位置へ戻します。ポイント: 肩や手首へのストレスが少なく、安定して高負荷を背中にかけられます。

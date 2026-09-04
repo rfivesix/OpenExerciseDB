@@ -1,9 +1,11 @@
 exercise_id: '1695'
 language: ja
-status: ai_raw
-translated_from: en
-name: ワイドグリップ・プルアップ
+status: ai_reviewed
+translated_from: de
+name: ワイドグリップ・プルアップ (幅広順手懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2814'
+description: |-
+  開始姿勢: 肩幅の約1.5倍の広いオーバーハンドグリップでバーを握り、ぶら下がります。肩甲骨を引き下げておきます。動作手順: 肘を斜め後ろ・下方に引きながら、胸をバーに近づけるように身体を引き上げます。顎ではなく胸をバーに向ける意識で引き、トップで広背筋を強く絞り込みます。コントロールしながらゆっくりと下ろします。ポイント: 背中の広がり (大円筋・広背筋上部) を集中的に発達させます。

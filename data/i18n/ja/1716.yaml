@@ -1,9 +1,11 @@
 exercise_id: '1716'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・スキャプラプッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2839'
+description: |-
+  【開始姿勢】ベンチに手をついて腕立て伏せの姿勢をとります。【動作手順】肘を伸ばしたまま、肩甲骨を寄せて胸を落とし、次に床を強く押して肩甲骨を大きく外へ開きます。【ポイント】前鋸筋をダイレクトに刺激し、肩甲骨の安定化を図ります。

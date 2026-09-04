@@ -1,9 +1,11 @@
 exercise_id: '1725'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・マシンローイング
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2851'
+description: |-
+  開始姿勢: マシンのシートに座り、胸をパッドにつけて背筋を伸ばします。ハンドルを両手で握ります。動作手順: 胸を張ったまま、肘を後方に引いて肩甲骨をしっかりと寄せます。背中の筋肉の収縮を意識したら、ゆっくりと負荷をコントロールしながら戻します。ポイント: 動作中に背中を丸めたり、体を前後に揺らしたりせず、胸をパッドにつけたまま引きます。

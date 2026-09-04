@@ -1,9 +1,11 @@
 exercise_id: '1709'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スタンディング・ケーブルリバースフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2832'
+description: |-
+  【開始姿勢】ケーブルマシンの前で直立し、交差させた左右のハンドルを胸の前で持ちます。【動作手順】腕をほぼまっすぐに保ったまま、真横から後方へ大きく開きます。【ポイント】三角筋後部を強く収縮させ、肩甲骨をコントロールして戻します。

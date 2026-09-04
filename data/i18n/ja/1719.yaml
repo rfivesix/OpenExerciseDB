@@ -1,9 +1,11 @@
 exercise_id: '1719'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 片膝立ち・ワンアームラットプル
+name: 片膝立ち・ワンハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2844'
+description: |-
+  開始姿勢: ケーブルマシンのハイプーリーの前で片膝立ち (ハーフニーリング) になり、片手でハンドルを握ります。体幹を真っ直ぐ立てます。動作手順: 肘を腰に向かって真っ直ぐ引き下ろし、広背筋を収縮させます。ゆっくりと腕を伸ばしてストレッチポジションへ戻します。ポイント: 下半身を安定させることで体幹のブレを防ぎ、広背筋をダイレクトに刺激します。

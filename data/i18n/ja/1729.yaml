@@ -1,9 +1,11 @@
 exercise_id: '1729'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・ショルダー・エクスターナルローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2855'
+description: |-
+  【開始姿勢】肘の高さにセットしたケーブルを反対側の手で持ち、肘を脇につけます。【動作手順】肘を固定したまま前腕を外側へ回旋させ、ケーブルを引きます。【ポイント】回旋筋腱板 (ローテーターカフ)の外旋筋を意識し、丁寧に行います。
