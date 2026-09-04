@@ -1,9 +1,11 @@
 exercise_id: '2537'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lento avanti per spalle isometrico
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5008'
+description: |-
+  Esercizio statico che consiste nel mantenere un carico fermo sopra la testa a braccia tese, oppure nello spingere contro una resistenza inamovibile a un punto prestabilito della traiettoria, sviluppando forza nei deltoidi senza movimento articolare.

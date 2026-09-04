@@ -1,9 +1,11 @@
 exercise_id: '2523'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Scivolamento delle braccia al muro per dentato anteriore
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4992'
+description: |-
+  Mettiti di fronte a una parete e appoggia gli avambracci verticalmente contro il muro, con gomiti e polsi a contatto. Spingi attivamente le spalle in avanti (protrazione) e fai scivolare gli avambracci verso l'alto lungo la parete fino all'altezza degli occhi o oltre, attivando il dentato anteriore. Fai scivolare le braccia verso il basso e ripeti.

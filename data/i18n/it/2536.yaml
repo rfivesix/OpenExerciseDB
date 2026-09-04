@@ -1,9 +1,11 @@
 exercise_id: '2536'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni su panca piana isometriche
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5007'
+description: |-
+  Esercizio di forza statica su panca piana in cui trattieni il bilanciere o i manubri senza movimento a un'altezza prestabilita (sul petto, a metà corsa o vicino al blocco) per un tempo determinato, massimizzando la tensione muscolare.

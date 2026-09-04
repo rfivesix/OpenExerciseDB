@@ -1,9 +1,11 @@
 exercise_id: '2530'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti russi con transizione sugli avambracci
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '4999'
+description: |-
+  Inizia in posizione di piegamento con mani leggermente più larghe delle spalle. Abbassa il petto verso terra, poi sposta il corpo all'indietro scendendo sugli avambracci a raso terra. Ritorna in avanti sui palmi e spingi verso l'alto distendendo le braccia. Mantieni il core saldo per tutta la durata dell'esercizio.

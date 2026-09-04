@@ -1,8 +1,10 @@
 exercise_id: '2498'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pike push-ups per spalle a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4980'
+description: |-
+  Piegamenti a squadra (pike push-ups) a corpo libero per sviluppare la forza delle spalle nei movimenti verticali senza attrezzatura.

@@ -1,8 +1,10 @@
 exercise_id: '2496'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti al muro (Livello base)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4978'
+description: |-
+  Piegamenti al muro per principianti senza attrezzi. In piedi davanti alla parete, appoggia le mani ad altezza spalle e fletti i gomiti avvicinando il petto al muro prima di distendere le braccia.

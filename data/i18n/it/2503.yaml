@@ -1,8 +1,10 @@
 exercise_id: '2503'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Face pull a corpo libero allo stipite con asciugamano
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4984'
+description: |-
+  Variante di face pull a corpo libero eseguita con un asciugamano attorno a uno stipite della porta per rinforzare i deltoidi posteriori senza attrezzi.

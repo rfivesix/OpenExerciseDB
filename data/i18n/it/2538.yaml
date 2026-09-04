@@ -1,9 +1,11 @@
 exercise_id: '2538'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate laterali isometriche
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5009'
+description: |-
+  Esercizio per i deltoidi in cui mantieni le braccia sollevate lateralmente all'altezza delle spalle in modo statico per il tempo stabilito, mantenendo una tensione continua senza oscillazioni.

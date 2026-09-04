@@ -1,9 +1,11 @@
 exercise_id: '2542'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pugilato e colpi a vuoto
 upstream:
   license: CC-BY-SA-4.0
   license_author: SAH
   source_id: '5013'
+description: |-
+  Allenamento al sacco o a vuoto per sviluppare le tecniche di pugilato, velocità delle braccia e resistenza cardiovascolare.

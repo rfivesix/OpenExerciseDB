@@ -1,8 +1,10 @@
 exercise_id: '2499'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti inclinati con mani su supporto
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4981'
+description: |-
+  Progressione intermedia per piegamenti a casa: appoggia le mani su una superficie rialzata come un tavolo o una sedia per preparare il corpo ai piegamenti a terra.

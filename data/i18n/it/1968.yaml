@@ -1,9 +1,11 @@
 exercise_id: '1968'
 language: it
-status: ai_raw
-translated_from: en
-name: Distensioni per spalle con kettlebell da seduti
+status: ai_reviewed
+translated_from: de
+name: Distensioni per spalle a un braccio con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: evtimovgeorg
   source_id: '3123'
+description: |-
+  Spingi il manubrio verticalmente sopra la testa con movimento controllato fino alla completa estensione del braccio, senza serrare rigidamente il gomito. Abbassa lentamente il manubrio tornando all'altezza della spalla e ripeti.
