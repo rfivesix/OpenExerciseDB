@@ -55,6 +55,92 @@ that. If you are only confident it is arms, say that. Every level resolves
 upward, so statistics always work — and "which entries still lack head-level
 precision?" is a query, not a guess.
 
+### Muscle hierarchy
+
+The vocabulary is ordered from broad group to increasingly precise muscle and,
+where useful, head or subdivision. A value at any leaf therefore also belongs
+to every node above it — for example, *Triceps long head* → *Triceps brachii*
+→ *Triceps* (group).
+
+<details>
+<summary>Show the complete hierarchy (group → muscle → head)</summary>
+
+```mermaid
+mindmap
+  root((Muscle hierarchy))
+    Chest
+      Pectoralis major
+        Upper chest (clavicular)
+        Mid/lower chest (sternocostal)
+      Pectoralis minor
+      Serratus anterior
+    Back
+      Latissimus dorsi
+      Trapezius
+        Upper traps
+        Middle traps
+        Lower traps
+      Rhomboids
+      Teres major
+    Lower back
+      Erector spinae
+      Quadratus lumborum
+    Shoulders
+      Deltoid
+        Front delt
+        Side delt
+        Rear delt
+      Rotator cuff
+    Biceps
+      Biceps brachii
+        Biceps long head
+        Biceps short head
+      Brachialis
+    Triceps
+      Triceps brachii
+        Triceps long head
+        Triceps lateral head
+        Triceps medial head
+    Forearms
+      Brachioradialis
+      Wrist flexors
+      Wrist extensors
+    Core
+      Rectus abdominis
+      Obliques
+        External obliques
+        Internal obliques
+      Transversus abdominis
+      Diaphragm
+      Hip flexors (iliopsoas)
+    Glutes
+      Gluteus maximus
+      Gluteus medius
+      Gluteus minimus
+    Quadriceps
+      Quadriceps
+        Rectus femoris
+        Vastus lateralis
+        Vastus medialis
+        Vastus intermedius
+    Hamstrings
+      Hamstrings
+        Biceps femoris
+        Semitendinosus
+        Semimembranosus
+    Adductors
+      Hip adductors
+    Calves
+      Gastrocnemius
+      Soleus
+      Tibialis anterior
+    Neck
+      Neck flexors
+      Neck extensors
+```
+
+</details>
+
 **Orthogonal axes instead of one overloaded category.**
 `modality` (what it is) · `usage_tags` (what it is used for, multi-valued)
 · `mechanic` · `force_vector` · `movement_pattern` · `laterality`
