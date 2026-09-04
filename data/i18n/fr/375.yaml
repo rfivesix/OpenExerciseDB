@@ -1,9 +1,11 @@
 exercise_id: '375'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Presse à cuisses inclinée (Hack squat)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '130'
+description: |-
+  Calé dans la machine Hack Squat, les épaules sous les coussins rembourrés, fléchissez les genoux jusqu'à 90 degrés ou plus bas avant de repousser la plateforme par les talons.

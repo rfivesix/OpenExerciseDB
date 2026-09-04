@@ -1,9 +1,11 @@
 exercise_id: '1292'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tractions en supination (Chin-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2258'
+description: |-
+  Suspendu à la barre fixe en prise supination (paumes vers vous), hissez le corps jusqu'à dépasser la barre avec le menton en sollicitant biceps et dorsaux.

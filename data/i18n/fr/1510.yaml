@@ -1,9 +1,11 @@
 exercise_id: '1510'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirage vertical prise neutre
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2469'
+description: |-
+  Assis à la poulie haute, saisissez la barre en prise neutre (paumes face à face) et tirez verticalement vers le haut du torse en serrant les dorsaux.

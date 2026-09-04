@@ -1,9 +1,11 @@
 exercise_id: '2488'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rétroversion du bassin au sol
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj
   source_id: '4965'
+description: |-
+  Allongé sur le dos genoux pliés et pieds à plat, basculez le bassin vers l'arrière pour plaquer complètement le bas du dos contre le sol en activant les abdominaux profonds.

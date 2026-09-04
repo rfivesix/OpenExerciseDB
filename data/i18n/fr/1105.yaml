@@ -1,9 +1,11 @@
 exercise_id: '1105'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Regroupement de genoux assis (Seated knee tuck)
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '2070'
+description: |-
+  Assis au sol, mains posées en arrière pour l'équilibre, ramenez les genoux vers la poitrine tout en rapprochant légèrement le buste, puis étendez les jambes sans toucher le sol.

@@ -1,9 +1,11 @@
 exercise_id: '1138'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirage vertical assis sur banc incliné
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2115'
+description: |-
+  Allongé face contre un banc incliné devant la poulie haute, tirez la barre vers la poitrine pour isoler le grand dorsal sans aucune compensation lombaire.

@@ -1,9 +1,11 @@
 exercise_id: '917'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations frontales à la poulie avec barre droite
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1196'
+description: |-
+  Dos à la poulie basse, le câble passant entre les jambes, tenez la barre à deux mains et élevez les bras devant vous jusqu'à hauteur des yeux.

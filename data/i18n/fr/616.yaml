@@ -1,13 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '616'
 language: fr
-status: upstream_unreviewed
-name: Poussées de squat
+status: ai_reviewed
+name: Poussées de squat (Squat thrust)
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '1447'
+translated_from: en
+description: |-
+  Depuis la position debout, posez les mains au sol, projetez les pieds en arrière en planche, ramenez immédiatement les pieds vers les mains et redressez-vous.

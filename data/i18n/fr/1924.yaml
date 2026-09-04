@@ -1,8 +1,10 @@
 exercise_id: '1924'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Crunch abdominal à la machine (3008)
+name: Crunch abdominal à la machine
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3073'
+description: |-
+  Assis sur la machine de crunch abdominal, calez le coussin contre la poitrine ou les épaules et enroulez le torse vers l'avant en contractant puissamment le grand droit.

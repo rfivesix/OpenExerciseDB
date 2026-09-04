@@ -1,9 +1,11 @@
 exercise_id: '979'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Relevés de jambes à la barre de traction
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1293'
+description: |-
+  Prise solide sur la barre de traction, montez les jambes tendues à l'horizontale ou plus haut sans balancement parasite en contrôlant la descente.

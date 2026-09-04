@@ -1,9 +1,11 @@
 exercise_id: '354'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirage poitrine incliné en arrière
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow
   source_id: '188'
+description: |-
+  Tirage à la poulie haute avec le torse légèrement incliné vers l'arrière pour faciliter l'engagement des dorsaux et des rotateurs scapulaires.

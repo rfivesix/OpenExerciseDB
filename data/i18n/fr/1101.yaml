@@ -1,9 +1,11 @@
 exercise_id: '1101'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Traction horizontale isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2061'
+description: |-
+  Maintien isométrique en position haute ou médiane de traction à la barre fixe, coudes fléchis, pendant une durée chronométrée.

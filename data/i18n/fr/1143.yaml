@@ -1,9 +1,11 @@
 exercise_id: '1143'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Extensions lombaires au banc à lombaire
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2122'
+description: |-
+  Calé sur le banc à lombaires, fléchissez le buste vers le bas puis redressez le dos jusqu'à alignement avec les cuisses en contractant les érecteurs du rachis.

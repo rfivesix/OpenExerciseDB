@@ -1,9 +1,11 @@
 exercise_id: '821'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Traction sur poutre d'escalade
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1076'
+description: |-
+  Traction des doigts en suspension sur une réglette ou une prise d'une poutre d'escalade, développant la force de préhension et la traction du dos.

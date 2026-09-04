@@ -1,9 +1,11 @@
 exercise_id: '283'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Relevés de jambes suspendu
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt
   source_id: '166'
+description: |-
+  Suspendu à la barre de traction, levez les jambes tendues ou légèrement fléchies vers le haut jusqu'à ce que les pieds atteignent la hauteur du bassin ou de la barre en enroulant le bassin.

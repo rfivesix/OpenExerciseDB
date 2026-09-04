@@ -1,9 +1,11 @@
 exercise_id: '516'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Bûcheron frontal (Wood Chop)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1063'
+description: |-
+  Debout, tenez un médecine-ball ou une charge à deux mains, descendez en diagonale vers le genou opposé puis remontez en étendant le torse vers le haut comme pour fendre du bois.

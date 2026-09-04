@@ -1,9 +1,11 @@
 exercise_id: '1435'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tractions scapulaires
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2399'
+description: |-
+  Suspendu à la barre bras tendus, rétractez et abaissez les omoplates pour remonter le corps de quelques centimètres sans plier les coudes.

@@ -1,9 +1,11 @@
 exercise_id: '1223'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Claquements de mains au-dessus de la tête
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2188'
+description: |-
+  Debout pieds écartés à largeur d'épaules, levez les bras tendus sur les côtés et venez frapper dans vos mains au-dessus de la tête dans un mouvement dynamique.

@@ -1,9 +1,11 @@
 exercise_id: '1527'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat pendulaire
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2484'
+description: |-
+  Pieds placés au centre du plateau de la machine pendulaire, fléchissez les jambes de manière contrôlée pour un travail ciblé et isolé des quadriceps.

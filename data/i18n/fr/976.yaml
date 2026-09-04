@@ -1,9 +1,11 @@
 exercise_id: '976'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Crunch portefeuille avec médecine-ball
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1286'
+description: |-
+  Allongé sur le dos, un médecine-ball tenu entre les mains ou les chevilles, refermez le haut et le bas du corps en portefeuille simultanément.

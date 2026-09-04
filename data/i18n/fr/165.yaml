@@ -1,9 +1,11 @@
 exercise_id: '165'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch sur ballon de gymnastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1051'
+description: |-
+  Les pieds posés sur un ballon de gymnastique ou calés dans des sangles TRX, mains au sol en planche, fléchissez les genoux pour amener le ballon vers la poitrine en enroulant le bassin.

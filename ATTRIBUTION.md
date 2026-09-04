@@ -24,13 +24,13 @@ eventually. Attribution is owed to those individual contributors, not to "wger"
 as a whole.
 
 <!-- BEGIN GENERATED LIST -->
-Across 909 exercises and 5431 translations, **249 distinct upstream authors** are credited. 934 of 6340 records carry no author upstream.
+Across 909 exercises and 5434 translations, **249 distinct upstream authors** are credited. 934 of 6343 records carry no author upstream.
 
 ### Original licenses
 
 | License | Records |
 |---|---|
-| `CC-BY-SA-4.0` | 5517 |
+| `CC-BY-SA-4.0` | 5520 |
 | `CC-BY-SA-3.0` | 684 |
 | `CC0-1.0` | 139 |
 
@@ -47,7 +47,7 @@ Across 909 exercises and 5431 translations, **249 distinct upstream authors** ar
 | `eo` | 2 | 0 |
 | `es` | 656 | 35 |
 | `fa` | 3 | 2 |
-| `fr` | 865 | 113 |
+| `fr` | 868 | 115 |
 | `he` | 22 | 7 |
 | `hr` | 31 | 8 |
 | `id` | 48 | 11 |
@@ -98,7 +98,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - bel (2)
 - BeLikeWater (16)
 - benjamin.yildiz (4)
-- BePieToday (3)
+- BePieToday (4)
 - BFad07 (90)
 - bizyguy (6)
 - bl0sh (6)
@@ -116,7 +116,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Cerin (5)
 - Cf (3)
 - cgoob883 (5)
-- clafal (153)
+- clafal (154)
 - cleen (10)
 - colundrum (5)
 - cozyGalvinism (4)
@@ -280,7 +280,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - stwalkerster (1)
 - taylorbarbell (5)
 - tdprice12 (5)
-- tekknokrat (2)
+- tekknokrat (3)
 - tenebrizz (10)
 - teus_ergaster (20)
 - ThisGirl0819 (6)

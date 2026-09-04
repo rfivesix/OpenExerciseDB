@@ -1,9 +1,11 @@
 exercise_id: '1908'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Superman papillon au sol
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3055'
+description: |-
+  Allongé sur le ventre, mains croisées derrière la nuque et coudes écartés, décollez simultanément le haut du torse et les cuisses du sol en serrant le dos et les fessiers.

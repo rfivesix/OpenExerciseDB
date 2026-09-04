@@ -1,9 +1,11 @@
 exercise_id: '257'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Front squat à la barre
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '191'
+description: |-
+  Barre reposant sur l'avant des épaules et les clavicules, descendez en squat complet en maintenant le torse le plus vertical possible pour solliciter les quadriceps.

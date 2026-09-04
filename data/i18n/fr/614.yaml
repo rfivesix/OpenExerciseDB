@@ -1,9 +1,11 @@
 exercise_id: '614'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squats sautés (Jump squats)
 upstream:
   license: CC-BY-SA-3.0
   license_author: OGhTebfCxhexZXuf35mUxV9C--A
   source_id: '185'
+description: |-
+  Effectuez un squat complet puis propulsez-vous dans un saut vertical explosif en amortissant la réception souplement sur l'avant des pieds.

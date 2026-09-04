@@ -1,9 +1,11 @@
 exercise_id: '259'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirage vertical prise serrée à la poulie haute
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1058'
+description: |-
+  Assis à la poulie haute, tenez la barre avec une prise serrée ou neutre et tirez vers la poitrine en gardant les coudes près du corps pour étirer le grand dorsal.

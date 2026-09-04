@@ -1,9 +1,11 @@
 exercise_id: '1739'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Shrimp squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2869'
+description: |-
+  Squat unilatéral au poids du corps où une jambe est fléchie vers l'arrière, pied tenu par la main, en descendant sur l'autre jambe jusqu'à effleurer le sol du genou libre.

@@ -1,9 +1,11 @@
 exercise_id: '1384'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Machine de pull-over
 upstream:
   license: CC-BY-SA-4.0
   license_author: Paul@Chemistry
   source_id: '2352'
+description: |-
+  Assis à la machine de pull-over, coudes appuyés sur les coussins, abaissez les bras en arc de cercle vers le bas pour isoler le grand dorsal.

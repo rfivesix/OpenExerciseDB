@@ -1,9 +1,11 @@
 exercise_id: '2538'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales isométriques
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5009'
+description: |-
+  Maintien statique des bras à l'horizontale sur les côtés, avec haltères ou câbles, pour isoler les faisceaux latéraux du deltoïde en contraction isométrique.

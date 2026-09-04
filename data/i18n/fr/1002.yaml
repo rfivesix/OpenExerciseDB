@@ -1,12 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: fr
-status: upstream_unreviewed
-name: Position de l'enfant
+status: ai_reviewed
+name: Position de l'enfant (Child's pose)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1792'
+translated_from: de
+description: |-
+  À genoux sur les talons, penchez le torse vers l'avant jusqu'à poser le front au sol et étirez les bras loin devant vous pour allonger le dos et relâcher les tensions.

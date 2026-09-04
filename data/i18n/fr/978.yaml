@@ -1,9 +1,11 @@
 exercise_id: '978'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Relevés de genoux suspendu
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1291'
+description: |-
+  Suspendu à la barre de traction, montez les genoux fléchis vers la poitrine en basculant le bassin vers l'avant pour solliciter intensément les abdominaux.
