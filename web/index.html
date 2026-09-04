@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Browse the complete OpenExerciseDB SQLite catalog.">
+    <title>OpenExerciseDB Explorer</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">OpenExerciseDB</p>
+        <h1>Database Explorer</h1>
+        <p class="subhead">Search titles across every language and inspect the complete published SQLite catalog.</p>
+      </div>
+      <a class="download" href="catalog.db" download>Download catalog.db</a>
+    </header>
+
+    <main>
+      <section id="loading" class="notice" aria-live="polite">Loading catalog.db…</section>
+      <section id="app" hidden>
+        <div id="summary" class="summary" aria-label="Database summary"></div>
+        <nav class="tabs" aria-label="Explorer sections">
+          <button class="tab active" data-panel="exercises">Exercises</button>
+          <button class="tab" data-panel="tables">All database tables</button>
+        </nav>
+
+        <section id="exercises" class="panel active">
+          <label class="search-label" for="search">Search titles in every language, or enter an exercise ID</label>
+          <input id="search" type="search" autocomplete="off" placeholder="e.g. squat, Kniebeuge, sentadilla…">
+          <p id="result-count" class="hint"></p>
+          <div class="exercise-layout">
+            <div id="results" class="result-list" aria-label="Search results"></div>
+            <article id="exercise-detail" class="detail empty">Select an exercise to inspect all its data.</article>
+          </div>
+        </section>
+
+        <section id="tables" class="panel">
+          <div class="table-controls">
+            <label for="table-select">Database table</label>
+            <select id="table-select"></select>
+            <span id="table-count" class="hint"></span>
+          </div>
+          <p class="hint">Every table in <code>catalog.db</code> is available here. Results are capped at 300 rows for readability.</p>
+          <div id="table-view" class="table-view"></div>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a href="legal.html">Legal Notice</a>
+      <a href="legal.html#privacy-policy">Privacy Policy</a>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/sql.js@1.12.0/dist/sql-wasm.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
