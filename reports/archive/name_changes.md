@@ -1,10 +1,10 @@
 # Proposed English Name Standardizations (reports/name_changes.md)
 
-This report catalogs all proposed English exercise name standardizations according to [NAMING.md](../NAMING.md).
+This report catalogs all proposed English exercise name standardizations according to [NAMING.md](../../NAMING.md).
 
 **Invariants & Scope**:
 - Restricted strictly to `status: active` exercises (deprecated entries `1319`, `1768`, `1769` excluded).
-- `id` and `slug` remain strictly immutable (HANDOVER.md §2).
+- `id` and `slug` remain strictly immutable ([SCHEMA.md §3](../../SCHEMA.md#3-der-id-vertrag--der-teil-der-nicht-nachrüstbar-ist)).
 - When applied, original English names will be preserved in `search_terms` so existing user logs and queries resolve seamlessly.
 - Frozen cases `1717`, `1967`, and `1833` remain strictly untouched.
 - As instructed, these changes remain in the working tree for user review.

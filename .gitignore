@@ -5,6 +5,7 @@ artifacts/
 *.sqlite
 
 __pycache__/
+.pytest_cache/
 *.py[cod]
 .venv/
 venv/
@@ -16,3 +17,10 @@ venv/
 
 # Ephemeral reviewer batches, model outputs, and local curation worksheets.
 scratch/
+
+# Agent session outputs in the repository root; keep working files in scratch/.
+/last_response*.txt
+/batch*_analysis.json
+
+# GitHub Pages build output.
+/_site/
