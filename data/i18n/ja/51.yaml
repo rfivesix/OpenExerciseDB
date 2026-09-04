@@ -1,9 +1,13 @@
 exercise_id: '51'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バーベル・リストカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: burenl
   source_id: '758'
+description: |-
+  開始姿勢：ベンチに座り、前腕部を大腿に乗せて手首を膝の先に出し、バーベルを逆手で握ります。
+  動作手順：手首を反らせてバーを指先まで転がしてから、手根屈筋群を使って手首を巻き上げます。
+  ポイント：前腕部が太ももから離れないように固定し、可動域を広く使います。

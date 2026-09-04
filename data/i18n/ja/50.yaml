@@ -1,9 +1,13 @@
 exercise_id: '50'
 language: ja
-status: ai_raw
-translated_from: en
-name: バーベル・トライセップス・エクステンション
+status: ai_reviewed
+translated_from: de
+name: バーベル・トライセプスエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: sevae
   source_id: '344'
+description: |-
+  開始姿勢：フラットベンチに座り、バーベルを肩幅の順手で頭上に真っ直ぐ保持します。
+  動作手順：肘の位置を固定したままゆっくりと肘を曲げてバーを頭の後ろへ下ろし、上腕三頭筋を使って押し上げます。
+  ポイント：肘が外側に開かないように意識し、コントロールして動作します。

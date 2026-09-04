@@ -1,9 +1,13 @@
 exercise_id: '145'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・ウッドチョッパー
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt
   source_id: '167'
+description: |-
+  開始姿勢：ケーブルの横に立ち、胸の高さに設定したハンドルを両手で握ります。
+  動作手順：腕を伸ばしたまま体幹を回旋させ、腹斜筋を使って対角線前方へハンドルを引きます。
+  ポイント：骨盤を安定させ、腕の力ではなく体幹のひねりでケーブルを動かします。

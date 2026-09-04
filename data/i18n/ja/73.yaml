@@ -1,9 +1,11 @@
 exercise_id: '73'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バーベル・ベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '192'
+description: |-
+  【開始姿勢】フラットベンチに仰向けになり、バーベルを肩幅よりやや広めに握ります。【動作手順】肩甲骨を寄せて胸を張り、バーベルを胸の乳頭ラインへゆっくり下ろし、大胸筋を意識して押し上げます。【ポイント】腰を反らせすぎず、足の裏をしっかり床につけて安定させます。

@@ -1,9 +1,13 @@
 exercise_id: '174'
 language: ja
-status: ai_raw
-translated_from: en
-name: レッグレイズド・クランチ
+status: ai_reviewed
+translated_from: de
+name: ヴァーティカル・レッグクランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: krisbbb
   source_id: '416'
+description: |-
+  開始姿勢：マットに仰向けになり、両脚を垂直に天井へ向けて伸ばします。
+  動作手順：両手を足先に向かって伸ばしながら肩甲骨を床から浮かせ、腹直筋上部を強く収縮させます。
+  ポイント：脚の位置を垂直に保ち、首を痛めないよう目線は斜め上に向けて動作します。

@@ -1,9 +1,20 @@
 exercise_id: '12'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・ヒップアダクション
 upstream:
   license: CC-BY-SA-3.0
   license_author: flori
   source_id: '377'
+description: |-
+  開始姿勢:
+  アダクターマシンに背中をしっかりとつけて座り、パッドが両膝または大腿部の内側に当たるように設定します。
+
+  動作手順:
+  1. 息を吐きながら、股関節内転筋群を収縮させて両脚を内側へゆっくりと引き寄せます。
+  2. パッドが合流するポイントで一瞬静止し、内転筋の最大収縮を意識します。
+  3. 負荷に抵抗しながら、コントロールを保ってゆっくりと脚を開き、開始姿勢に戻ります。
+
+  ポイント:
+  動作中に背中やお尻をシートから浮かせず、反動を使わずに内転筋を集中して稼働させます。

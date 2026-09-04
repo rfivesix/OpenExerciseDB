@@ -1,9 +1,11 @@
 exercise_id: '139'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバース・ペックフライ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '124'
+description: |-
+  【開始姿勢】マシンのシートに胸をパッドに当てて座り、両手でハンドルを握ります。【動作手順】肘をわずかに曲げたまま、腕を真横から後方へ大きく開き、三角筋後部を収縮させます。【ポイント】肩甲骨を過度に寄せすぎず、三角筋後部と菱形筋で負荷を受け止めながら戻します。

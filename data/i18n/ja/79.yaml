@@ -1,9 +1,11 @@
 exercise_id: '79'
 language: ja
-status: ai_raw
-translated_from: en
-name: ベントハイプル
+status: ai_reviewed
+translated_from: de
+name: ベントオーバー・ハイプル
 upstream:
   license: CC-BY-SA-3.0
   license_author: lakerbeezel
   source_id: '268'
+description: |-
+  【開始姿勢】上体を前傾させ、背筋をまっすぐに保ちながらバーベルをオーバーハンドで握ります。【動作手順】肘を高く引き上げながら、バーベルを胸の上部に向けて爆発的に引き上げます。【ポイント】僧帽筋上部と三角筋後部を強く意識し、体幹を安定させて反動を抑えます。

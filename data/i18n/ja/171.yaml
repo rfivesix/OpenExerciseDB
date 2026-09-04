@@ -1,9 +1,13 @@
 exercise_id: '171'
 language: ja
-status: ai_raw
-translated_from: en
-name: インクライン・クランチ
+status: ai_reviewed
+translated_from: de
+name: デクライン・クランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1052'
+description: |-
+  開始姿勢：デクラインベンチに仰向けになり、足首をパッドにしっかりと固定します。
+  動作手順：腹直筋を意識しながら背中を丸めるように上体を巻き上げ、トップで静止してからゆっくり戻します。
+  ポイント：腰を過度に反らせず、重力に抗いながらコントロールして下降します。

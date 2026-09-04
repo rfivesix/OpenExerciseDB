@@ -1,9 +1,13 @@
 exercise_id: '56'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 腹部スタビライゼーション
 upstream:
   license: CC-BY-SA-3.0
   license_author: andikeller
   source_id: '1061'
+description: |-
+  開始姿勢：マットの上に置いたフォームローラーに背骨を沿わせるように仰向けになります。
+  動作手順：両膝を曲げて足裏を床につけ、腹横筋と腹直筋を意識して体幹を安定させた姿勢を保ちます。
+  ポイント：腰が過度に浮かないよう腹圧を高め、自然な呼吸を続けます。

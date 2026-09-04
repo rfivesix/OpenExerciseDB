@@ -1,9 +1,19 @@
 exercise_id: '57'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ベアウォーク
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '307'
+description: |-
+  開始姿勢:
+  四つん這いの姿勢になり、手は肩の真下、膝は股関節の真下に置きます。つま先を立て、膝を床から数センチだけ浮かせます。
+
+  動作手順:
+  1. 背筋を床と平行に平らに保ちながら、対角となる手と足（右手と左足など）を同時に前へ踏み出します。
+  2. 骨盤の左右の揺れを最小限に抑えながら、交互に一定のリズムで前進します。
+
+  ポイント:
+  腰が高く上がらないように注意し、体幹と大腿四頭筋を常に緊張させて安定性を維持します。

@@ -1,9 +1,11 @@
 exercise_id: '158'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ナローグリップ・ラットプルダウン
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '213'
+description: |-
+  開始姿勢: ラットプルダウンマシンのシートに座り、肩幅より狭い間隔でバーをオーバーハンドグリップで握ります。上半身をわずかに後傾させます。動作手順: 肘を体側に引き寄せるようにして、バーを胸の上部まで引き下げます。動作の最後で肩甲骨をしっかりと引き下げて寄せ、ゆっくりコントロールしながらバーを元の位置へ戻します。ポイント: 広背筋下部と大円筋を意識して引きます。

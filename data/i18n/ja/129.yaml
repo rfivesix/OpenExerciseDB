@@ -1,9 +1,11 @@
 exercise_id: '129'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: チェストプレスマシン
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1064'
+description: |-
+  【開始姿勢】マシンのシートに座り、グリップが胸の高さになるよう調整します。【動作手順】肩甲骨を寄せて背もたれにつけ、息を吐きながらグリップを前方に押し出し、大胸筋を収縮させます。【ポイント】肘を伸ばし切らず、ゆっくりとストレッチを感じながら元の位置に戻します。

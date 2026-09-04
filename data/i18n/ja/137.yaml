@@ -1,9 +1,11 @@
 exercise_id: '137'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ナローグリップ・バタフライマシン
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '99'
+description: |-
+  【開始姿勢】バタフライマシンの座席に座り、狭い手幅の内側グリップを握ります。【動作手順】背筋を伸ばし、肘を軽く曲げたまま両手を胸の中央へ引き寄せます。【ポイント】大胸筋の内側と中部を意識して強く絞り込み、戻す際も負荷を逃がさずコントロールします。

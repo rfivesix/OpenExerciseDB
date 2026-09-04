@@ -1,9 +1,11 @@
 exercise_id: '20'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アーノルドプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: trzr23
   source_id: '227'
+description: |-
+  【開始姿勢】両手にダンベルを持ち、手のひらを胸に向け、肘を手首の真下に構えます。【動作手順】肘を外側に開きながらダンベルを頭上へ押し上げ、腕が伸びたら逆の軌道で開始姿勢へ戻します。【ポイント】三角筋前部と三角筋中部 (側部)の収縮を意識し、動作全体をコントロールします。

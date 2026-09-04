@@ -1,9 +1,11 @@
 exercise_id: '83'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バーベル・ベントオーバーロー
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '109'
+description: |-
+  開始姿勢: 肩幅程度でバーベルをオーバーハンドグリップ (順手) で握り、膝を軽く曲げて股関節から上体を前傾させます。背筋を真っ直ぐ伸ばし、床とほぼ平行に保ちます。動作手順: 息を吐きながら、肘を体側に引き寄せるようにバーベルを腹部へ引き上げます。トップで肩甲骨を寄せて広背筋と菱形筋を収縮させ、息を吸いながらゆっくりと下ろします。ポイント: 上体が起き上がらないよう姿勢を固定します。

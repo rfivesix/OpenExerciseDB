@@ -1,9 +1,13 @@
 exercise_id: '167'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: クランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '91'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を直角に曲げて両手を頭の後ろまたは胸の前に添えます。
+  動作手順：息を吐きながら背中を丸めるように上体を起こし、腹直筋を強く収縮させてからゆっくり戻します。
+  ポイント：腰を床につけたまま肩甲骨を浮かせ、首を無理に引っ張らないようにします。

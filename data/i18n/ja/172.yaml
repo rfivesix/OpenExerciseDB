@@ -1,9 +1,13 @@
 exercise_id: '172'
 language: ja
-status: ai_raw
-translated_from: en
-name: アブドミナル・クランチマシン
+status: ai_reviewed
+translated_from: de
+name: マシン・クランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '94'
+description: |-
+  開始姿勢：マシンのシートに深く座り、胸パッドまたはグリップを握って足を固定します。
+  動作手順：息を吐きながら背中を丸めるように前方に上体を倒し、腹直筋を最大限に収縮させます。
+  ポイント：腕の力で引かず、腹筋の力でパッドを押し込むように動作します。

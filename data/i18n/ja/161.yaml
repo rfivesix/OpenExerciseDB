@@ -1,9 +1,11 @@
 exercise_id: '161'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クロスベンチ・ダンベルプルオーバー
 upstream:
   license: CC-BY-SA-3.0
   license_author: powerade69
   source_id: '194'
+description: |-
+  開始姿勢: フラットベンチに対して体を垂直に置き、肩と上背部のみをベンチに乗せます。両手でダンベルの内側プレートを支え、胸の上に持ち上げます。肘をわずかに曲げた状態を保ちます。動作手順: 息を吸いながら、ダンベルを頭の後方へゆっくりと弧を描くように下ろし、広背筋と大胸筋をストレッチさせます。息を吐きながら胸の上まで引き戻します。ポイント: 腰を落としすぎず体幹を安定させます。

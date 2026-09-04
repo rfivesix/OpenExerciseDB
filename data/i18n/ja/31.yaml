@@ -1,9 +1,11 @@
 exercise_id: '31'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アックスホールド
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '289'
+description: |-
+  【開始姿勢】直立姿勢で両手にダンベルを持ち、腕を前方に肩の高さまで伸ばします。【動作手順】ダンベルを身体の前に保持したまま、指定された時間静止します。【ポイント】反動を使わず三角筋前部と体幹で姿勢を維持し、背筋をまっすぐに保ちます。

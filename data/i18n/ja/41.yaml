@@ -1,9 +1,13 @@
 exercise_id: '41'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バーベル・アブローラー
 upstream:
   license: CC-BY-SA-4.0
   license_author: sevae
   source_id: '343'
+description: |-
+  開始姿勢：マットに膝立ちになり、床に置いたバーベルを肩幅の順手で握ります。
+  動作手順：体幹を固め、ゆっくりとバーベルを前方へ転がして体を伸ばし、腹直筋を強く収縮させて元の位置へ引き戻します。
+  ポイント：腰を反らさず、動作中は常に腹圧を保ちます。
