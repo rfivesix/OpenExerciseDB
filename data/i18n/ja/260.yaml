@@ -1,9 +1,13 @@
 exercise_id: '260'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: フル・シットアウト
 upstream:
   license: CC-BY-SA-4.0
   license_author: http://www.realsimple.com/health/fitness-exercise/
   source_id: '326'
+description: |-
+  開始姿勢：四つ這いの姿勢から膝をわずかに床から浮かせ、つま先と両手で体重を支えます。
+  動作手順：片手を床から離し、反対側の脚を前方へ蹴り出すように体幹を回転させて戻します。
+  ポイント：腹斜筋と体幹を意識し、低い重心を保ちながらリズミカルに行います。

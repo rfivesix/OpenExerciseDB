@@ -1,9 +1,20 @@
 exercise_id: '285'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハイニージャンプ
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '304'
+description: |-
+  開始姿勢:
+  足を肩幅に開いて直立し、腕を自然にリラックスさせて構えます。
+
+  動作手順:
+  1. 軽く膝を曲げて腰を落とし、爆発的な力で真上へ高くジャンプします。
+  2. 空中で素早く両膝を引き上げ、太ももを胸の高さまで引き寄せます。
+  3. 脚を素早く伸ばし、つま先から柔らかく着地して衝撃を膝と股関節で吸収します。
+
+  ポイント:
+  瞬発力と心肺機能を同時に高める高強度プライオメトリック種目です。連続してリズミカルに行います。

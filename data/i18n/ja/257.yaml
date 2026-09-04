@@ -1,9 +1,20 @@
 exercise_id: '257'
 language: ja
-status: ai_raw
-translated_from: en
-name: フロントスクワット
+status: ai_reviewed
+translated_from: de
+name: バーベル・フロントスクワット
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '191'
+description: |-
+  開始姿勢:
+  バーベルを三角筋前部と鎖骨の上に載せ、指先でバーを支えて肘を高く前方へ突き出します。足は肩幅に開きます。
+
+  動作手順:
+  1. 肘を高い位置にキープしたまま、上体を真っ直ぐ立てて膝と股関節を曲げ、深くしゃがみ込みます。
+  2. 大腿部が床と平行になる深さまで下ろします。
+  3. 足裏全体で床を押して立ち上がり、大腿四頭筋と大臀筋を収縮させます。
+
+  ポイント:
+  バックスクワットに比べて上体が直立するため、腰への負担が少なく大腿四頭筋へ集中的に負荷が入ります。

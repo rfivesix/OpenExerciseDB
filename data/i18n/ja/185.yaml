@@ -1,9 +1,11 @@
 exercise_id: '185'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: デクライン・バーベルベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '100'
+description: |-
+  【開始姿勢】デクラインベンチに横になり、バーベルを肩幅よりやや広めに握ります。【動作手順】バーベルをラックから外し、下胸部に向けてゆっくり下ろし、大胸筋中部・下部 (胸肋部)の力で押し上げます。【ポイント】足をしっかり固定し、肘を外に開きすぎないよう注意します。

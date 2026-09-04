@@ -1,9 +1,11 @@
 exercise_id: '254'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: プレート・フロントレイズ
 upstream:
   license: CC-BY-SA-3.0
   license_author: Marius
   source_id: '1047'
+description: |-
+  【開始姿勢】直立してプレートの両端を両手で持ち、腰の前に構えます。【動作手順】肘をわずかに曲げた状態を保ち、息を吐きながらプレートを肩の高さまでゆっくり引き上げます。【ポイント】反動を使わず三角筋前部を意識し、トップで一瞬静止してから制御して下ろします。

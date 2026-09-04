@@ -1,9 +1,13 @@
 exercise_id: '178'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: デッドバグ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Metin
   source_id: '544'
+description: |-
+  開始姿勢：仰向けに寝て両手を天井に伸ばし、股関節と膝を90度に曲げて持ち上げます。
+  動作手順：腰を床に押し付けたまま、対角の手と足を同時に床すれすれまで下ろして戻します。
+  ポイント：腹横筋と腹直筋を意識し、動作中に腰が床から浮かないように注意します。

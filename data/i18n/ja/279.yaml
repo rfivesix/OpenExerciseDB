@@ -1,9 +1,13 @@
 exercise_id: '279'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ハンドグリップ (握力トレーニング)
 upstream:
   license: CC-BY-SA-4.0
   license_author: vince63
   source_id: '317'
+description: |-
+  開始姿勢：ハンドグリッパーを手のひらにしっかりと収め、指を均等に掛けます。
+  動作手順：手根屈筋群と前腕部を使ってグリッパーのハンドル同士が触れるまで強く握り込み、ゆっくり開きます。
+  ポイント：急激に緩めず、ネガティブ動作でもしっかりと力を制御しながら行います。

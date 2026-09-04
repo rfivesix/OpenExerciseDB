@@ -1,9 +1,11 @@
 exercise_id: '222'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: スーパーマン (背筋伸展)
+name: フェイスプル
 upstream:
   license: CC-BY-SA-4.0
   license_author: abeworld
   source_id: '394'
+description: |-
+  【開始姿勢】ケーブルのプーリーを胸から顔の高さに設定し、ロープアタッチメントを両手で握ります。【動作手順】一歩下がって腕を伸ばし、肘を高く保ちながらロープを顔（鼻や額）へ引き寄せ、同時に外旋させます。【ポイント】三角筋後部と僧帽筋中部を強く収縮させ、ゆっくり戻します。

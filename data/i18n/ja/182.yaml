@@ -1,9 +1,13 @@
 exercise_id: '182'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: デッドハング (ぶら下がり)
 upstream:
   license: CC-BY-SA-4.0
   license_author: 2dPREtEZP221u68Akf0JImv5L48
   source_id: '347'
+description: |-
+  開始姿勢：プルアップバーを肩幅よりやや広めの順手でしっかりと握ります。
+  動作手順：足を床から離して全身をまっすぐに垂らし、手根屈筋群と前腕部を使ってぶら下がりを維持します。
+  ポイント：肩をすくめず適度に力を入れ、体幹をまっすぐに保って呼吸を続けます。

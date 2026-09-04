@@ -1,9 +1,20 @@
 exercise_id: '206'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ウォーキング・ダンベルランジ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '113'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、体側に構えて直立します。背筋を伸ばし、視線をまっすぐ前に向けます。
+
+  動作手順:
+  1. 片足を大きく前に一歩踏み出し、両膝が直角に曲がるまで腰を深く落とします。
+  2. 前足の踵で地面を押しながら立ち上がると同時に、後ろ足を前方に振り出して次のランジへ連続して移行します。
+  3. 流れるようなリズムを保ちながら前進を続けます。
+
+  ポイント:
+  常に上半身の安定性を保ち、歩幅を均等にして大臀筋と大腿四頭筋への負荷を維持します。

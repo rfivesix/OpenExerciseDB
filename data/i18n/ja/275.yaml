@@ -1,9 +1,13 @@
 exercise_id: '275'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: グッドモーニング
+name: ケーブル・ハンマーカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '138'
+description: |-
+  開始姿勢：ロープを装着したロープーリーケーブルの前に立ち、手のひらを向かい合わせてロープを握ります。
+  動作手順：肘を脇腹に固定し、腕橈骨筋と上腕二頭筋を使ってロープを胸に向けて引き上げます。
+  ポイント：トップポジションでロープの端を少し外側に開き、強い収縮を得るようにします。

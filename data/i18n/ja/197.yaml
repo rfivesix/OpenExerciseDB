@@ -1,9 +1,13 @@
 exercise_id: '197'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ベンチディップス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '83'
+description: |-
+  開始姿勢：平行に置いた2つのフラットベンチの間に体を置き、片方に手を、もう片方に足を乗せます。
+  動作手順：肘を直角になるまで曲げて体をゆっくり沈め、上腕三頭筋の力で押し上げます。
+  ポイント：肘を外側に開かず体側に寄せ、肩への過度な負担を避けるため深く下ろしすぎないようにします。

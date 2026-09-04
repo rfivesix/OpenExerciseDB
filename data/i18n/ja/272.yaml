@@ -1,9 +1,13 @@
 exercise_id: '272'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・ハンマーカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '86'
+description: |-
+  開始姿勢：両手にダンベルを持ち、手のひらを向かい合わせたニュートラルグリップで直立します。
+  動作手順：肘を体側に固定したままダンベルを胸の高さまで持ち上げ、腕橈骨筋と上腕筋を収縮させます。
+  ポイント：手首の向きを変えずに縦に保持し、ゆっくりと下ろして筋肉に緊張を与えます。

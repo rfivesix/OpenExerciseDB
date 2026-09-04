@@ -1,9 +1,13 @@
 exercise_id: '235'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: フラッターキック
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '303'
+description: |-
+  開始姿勢：マットに仰向けになり、両手を臀部の下に置いて脚を床から少し浮かせます。
+  動作手順：腹直筋と腸腰筋を締め、左右の脚を上下に細かく交互にバタ足のように動かします。
+  ポイント：腰を床にしっかりと密着させ、膝を伸ばしたままリズミカルに行います。

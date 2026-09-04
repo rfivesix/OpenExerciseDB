@@ -1,9 +1,11 @@
 exercise_id: '259'
 language: ja
-status: ai_raw
-translated_from: en
-name: ナローグリップ・ラットプルダウン
+status: ai_reviewed
+translated_from: de
+name: ナローグリップ・フロントラットプル
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1058'
+description: |-
+  開始姿勢: ケーブルタワーの前に座るか立ち、肩幅より狭いナローグリップでハンドルを握ります。胸を張って背筋を真っ直ぐ保ちます。動作手順: 肘を体側に沿わせながら下方向へ引き、ハンドルを胸の上部まで引き寄せます。広背筋の収縮を感じたら、負荷を感じながらコントロールして開始姿勢に戻します。ポイント: 体幹をぶらさず、反動を使わないように行います。

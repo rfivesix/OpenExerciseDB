@@ -1,9 +1,11 @@
 exercise_id: '186'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: デクライン・ダンベルベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '101'
+description: |-
+  【開始姿勢】デクラインベンチに仰向けになり、両手にダンベルを持ち胸の高さに構えます。【動作手順】足をパッドに固定し、大胸筋中部・下部 (胸肋部)を意識しながらダンベルを頭上へ押し上げます。【ポイント】腕を伸ばし切らず、ゆっくりとコントロールしながら胸の横へ下ろします。

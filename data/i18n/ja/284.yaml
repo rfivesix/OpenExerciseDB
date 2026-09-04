@@ -1,9 +1,13 @@
 exercise_id: '284'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ヘラクレスピラー (ケーブルホールド)
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '291'
+description: |-
+  開始姿勢：左右のケーブルタワーの中央に立ち、両手で高い位置のケーブルハンドルを握ります。
+  動作手順：腕を左右に広げたT字の姿勢を保ち、上腕二頭筋と三角筋を使ってケーブルの負荷に耐えます。
+  ポイント：体幹を固めて体が前後に傾かないようにし、一定の時間を耐えるアイソメトリック動作です。

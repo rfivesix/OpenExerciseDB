@@ -1,9 +1,20 @@
 exercise_id: '294'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・ヒップスラスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: Bret Contreras
   source_id: '854'
+description: |-
+  開始姿勢:
+  ベンチの前に座り、肩甲骨の下部をベンチの端に預けます。バーベルを骨盤の上にセットし、足裏を肩幅で床に置きます。
+
+  動作手順:
+  1. 顎を引き、踵で強く床を押して股関節を真上へ力強く伸展させます。
+  2. 上半身と太ももが床と平行になる高さまで押し上げ、大臀筋を最大限に収縮させて一時静止します。
+  3. コントロールしながら骨盤をゆっくりと下ろし、開始位置へ戻ります。
+
+  ポイント:
+  腰椎の過伸展（反り腰）を避け、骨盤後傾と臀筋の収縮によってトップを形成します。

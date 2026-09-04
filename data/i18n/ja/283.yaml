@@ -1,9 +1,13 @@
 exercise_id: '283'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハンギング・レッグレイズ
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt
   source_id: '166'
+description: |-
+  開始姿勢：プルアップバーに順手でぶら下がり、体をまっすぐに安定させます。
+  動作手順：体を揺らさずに腹直筋と腸腰筋を使って両脚を水平以上まで持ち上げ、ゆっくり下ろします。
+  ポイント：反動やモメンタムを使わず、骨盤を後傾させて腹筋の下部をしっかりと巻き込みます。

@@ -1,9 +1,19 @@
 exercise_id: '177'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: サイクリング
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '806'
+description: |-
+  開始姿勢:
+  自転車またはエアロバイクにまたがり、ペダルが最下点に達した際に膝がわずかに曲がる高さにサドルを調整します。
+
+  動作手順:
+  1. ペダルに足裏を均等に乗せ、一定のリズムとケイデンスを保ちながらスムーズにペダリングします。
+  2. 大腿四頭筋、ハムストリングス、大臀筋の連動を意識しながら漕ぎ進めます。
+
+  ポイント:
+  上体が左右にブレないよう体幹を安定させ、有酸素運動としての心拍数や負荷を適切に管理します。

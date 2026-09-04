@@ -1,9 +1,13 @@
 exercise_id: '211'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・トライセプスエクステンション
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuninx
   source_id: '274'
+description: |-
+  開始姿勢：フラットベンチに座り、ダンベルのプレート内側を両手で支えて頭上に持ち上げます。
+  動作手順：肘を頭の横に固定したまま肘を曲げてダンベルを後頭部へ下ろし、上腕三頭筋で押し上げます。
+  ポイント：肘が左右に広がらないように締め、腰を過度に反らせないよう注意します。

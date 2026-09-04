@@ -1,9 +1,13 @@
 exercise_id: '202'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・コンセントレーションカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.exrx.net/WeightExercises/Brachialis/DBC
   source_id: '275'
+description: |-
+  開始姿勢：ベンチに座り、片手でダンベルを持ち、肘を同じ側の大腿内側に固定します。
+  動作手順：上腕を動かさずに上腕二頭筋を収縮させてダンベルを巻き上げ、トップで静止してから下ろします。
+  ポイント：反動を使わず肘の位置を完全に固定し、二頭筋の収縮に意識を集中します。

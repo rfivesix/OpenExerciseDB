@@ -1,9 +1,13 @@
 exercise_id: '301'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハイパーエクステンション
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '128'
+description: |-
+  開始姿勢：バックエクステンションベンチに骨盤を当ててうつ伏せになり、足をパッドに固定します。
+  動作手順：股関節から上体を前方へ倒し、脊柱起立筋と大臀筋を使って体が一直線になるまで起こします。
+  ポイント：腰を過度に反らしすぎず、背筋をまっすぐに伸ばした状態でコントロールします。

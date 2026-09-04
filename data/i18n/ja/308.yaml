@@ -1,9 +1,11 @@
 exercise_id: '308'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: インクライン・ダンベルフライ
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '206'
+description: |-
+  【開始姿勢】インクラインベンチに仰向けになり、両手にダンベルを持ち胸の上に腕を伸ばします。【動作手順】肘を軽く曲げた角度を維持し、胸を張りながらダンベルを横へ広げて下ろします。【ポイント】大胸筋上部 (鎖骨部)のストレッチを感じ、弧を描くようにスムーズに元の位置へ戻します。
