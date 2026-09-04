@@ -1,26 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '161'
 language: de
 status: ai_reviewed
 name: Kurzhantel-Überzüge
-description: |-
-  Sie Liegen auf einer Bank, die Füße stehen am Boden, die Arme sind nach oben gesteckt.
-
-
-  Beide Hände halten eine Kurzhantel so, dass die Scheibe auf den Handflächen liegt, Daumen und Zeigefinger umschließen den Griff der Hantel
-
-
-  beim Einatmen die Hantel hinter den Kopf sinken lassen und dabei leicht die Ellbogen beugen
-
-
-  beim Zurückkehren in die Ausgangsposition ausatmen
 search_terms:
-  - KH Überzüge
+- KH Überzüge
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings quer über eine Flachbank, sodass nur der obere Rücken und die Schultern auf dem Polster aufliegen. Die Füße stehen fest und schulterbreit am Boden, das Becken wird leicht abgesenkt gehalten. Halte eine Kurzhantel mit beiden Händen direkt über deiner Brust: Die Handflächen liegen flach an der Innenseite der oberen Hantelscheibe an.
+
+  Bewegung:
+  1. Lasse die Hantel mit leicht gebeugten Ellbogen (ca. 15 Grad Beugung) in einem weiten Bogen langsam hinter den Kopf absinken, bis du eine intensive Dehnung in Brust und Latissimus spürst.
+  2. Atme während des Absenkens tief ein, um den Brustkorb zu weiten.
+  3. Ziehe die Hantel auf demselben Bogen kontrolliert wieder nach oben über die Brust und atme dabei aus.
+
+  Hinweise:
+  Verändere den Beugewinkel der Ellbogen während der Bewegung nicht, um die Übung nicht in ein Trizepsdrücken zu verwandeln.
 upstream:
   license: CC-BY-SA-3.0
   license_author: powerade69

@@ -1,13 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '73'
 language: it
-status: upstream_unreviewed
-name: Distensione Panca Piana con Bilanciere
-description: Distensione Panca Piana con BilanciereDistensione Panca Piana con Bilanciere
+status: ai_reviewed
+name: Panca piana con bilanciere
+search_terms:
+- Distensione Panca Piana con Bilanciere
+description: |-
+  Posizione di partenza:
+  Sdraiati su una panca piana con gli occhi allineati direttamente sotto il bilanciere. Pianta i piedi saldamente a terra, adduci e abbassa le scapole per stabilizzare le spalle. Afferra la barra con presa prona leggermente più ampia della larghezza delle spalle.
+
+  Esecuzione:
+  1. Stacca il bilanciere dai supporti e posizionalo a braccia tese sopra la parte media del petto.
+  2. Abbassa la sbarra in modo controllato fino a sfiorare il petto all'altezza dei capezzoli, mantenendo i gomiti a circa 45-75 gradi rispetto al busto.
+  3. Spingi con forza il bilanciere verso l'alto tornando alla posizione iniziale a braccia distese.
+
+  Note:
+  Non rimbalzare con il bilanciere sul torace e mantieni i glutei sempre a contatto con la panca durante la spinta.
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2

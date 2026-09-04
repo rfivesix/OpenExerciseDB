@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '272'
 language: it
-status: upstream_unreviewed
-name: Hummer curl con manubri
-description: Hummer curl con manubriHummer curl con manubri
+status: ai_reviewed
+name: Hammer curl con manubri
+search_terms:
+  - Hummer curl con manubri
+  - Curl a martello
+description: |-
+  In piedi o seduto, impugna una coppia di manubri lungo i fianchi con presa neutra (i palmi delle mani si guardano come se impugnassi un martello).
+  Mantenendo i gomiti aderenti al busto, fletti le braccia e solleva i manubri verso le spalle senza ruotare i polsi durante l'intero arco di movimento.
+  Contrai con forza il bicipite brachiale e il brachioradiale nella fase apicale, poi abbassa i manubri lentamente e sotto controllo fino alla distensione completa.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

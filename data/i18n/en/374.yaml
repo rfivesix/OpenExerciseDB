@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '374'
 language: en
-status: upstream_unreviewed
-name: Leg Presses (wide)
+status: ai_reviewed
+name: Wide Stance Leg Press
+search_terms:
+  - Leg Presses (wide)
 description: |-
-  Sit on the machine and put your feet on the platform, a bit more than shoulder wide. The feet are turned outwards by a few degrees.
-  Lower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.
+  Sit on the leg press machine with your back firmly against the pad. Place your feet high and wide on the platform, wider than shoulder-width, with your toes pointed slightly outward.
+  Release the safety bars and lower the sled under control until your knees reach approximately a 90-degree angle, tracking in line with your toes. Drive through your heels and midfoot to return to the starting position without locking your knees.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

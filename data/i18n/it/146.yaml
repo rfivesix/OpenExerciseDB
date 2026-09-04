@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '146'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pressa per polpacci alla Leg Press
 description: |-
   Metter le punte dei piedi sulla base di spinta della leg press. Usate i polpacci per premere il peso flettendo i piedi/le dita dei piedi in una posizione appuntita e rilasciandoli in una posizione rilassata.

@@ -6,10 +6,12 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '319'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Joggen
-description: Zieh deine Schuhe an, geh nach draußen und beginne in gemäßigtem Tempo zu laufen.
+description: |-
+  Zieh passende Laufschuhe an und beginne mit einer lockeren, aufrechten Körperhaltung draußen oder auf dem Laufband in einem gleichmäßigen, moderaten Tempo zu laufen.
+  Halte die Atmung ruhig und rhythmisch, die Schultern locker und schwinge die angewinkelten Arme parallel zur Laufrichtung mit. Ideale Grundausdauer- und Cardio-Übung.
 search_terms:
   - Rennen
   - Laufen

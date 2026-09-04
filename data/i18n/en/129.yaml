@@ -1,12 +1,9 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '129'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Chest Press
+search_terms:
+- Machine Chest Press
 description: |-
   Adjust the seat height so that the grips are parallel to your chest.
   Use your legs to push the foot forward pedal.
@@ -15,8 +12,6 @@ description: |-
   Press the handles away from your chest and exhale.
   Allow the handles to come in gently until they reach your chest.
   Allow the handles to return to your chest as you inhale.
-search_terms:
-  - Machine Chest Press
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

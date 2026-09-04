@@ -1,16 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '81'
 language: de
-status: upstream_unreviewed
-name: Rudern Einarmig KH
-description: |-
-  Nehme eine Flachbank und setze das Knie eines Beines auf ein Ende, das andere Bein ist daneben und leicht angewinkelt. Beuge deinen Oberkörper nach vorn und benutze deine Hand um dich abzustützen. Der Rücken macht einen leichten Hohlkreuz. Greife die Hantel mit der freien Hand und hebe sie eng am Körper entlang (achte auf die Ellenbogen). Bringe sie langsam nach unten und wiederhole die Bewegung sobald du unten angekommen bist. Wechsle danach die Seite.
+status: ai_reviewed
+name: Einarmiges Kurzhantelrudern
 search_terms:
-  - KH Rudern
+- KH Rudern
+- Rudern Einarmig KH
+- Einarmiges Rudern mit Kurzhantel
+description: |-
+  Ausgangsposition:
+  Platziere das Knie und die Hand einer Körperseite auf einer Flachbank, sodass der Oberkörper etwa parallel zum Boden ausgerichtet ist. Das andere Bein steht seitlich stabil auf dem Boden. Halte in der freien Hand eine Kurzhantel mit gestrecktem Arm nach unten.
+
+  Bewegung:
+  1. Ziehe die Kurzhantel eng am Körper entlang nach oben in Richtung Hüfte, indem du den Ellbogen nach hinten oben führst.
+  2. Ziehe am obersten Punkt das Schulterblatt aktiv zur Wirbelsäule und halte die Kontraktion kurz.
+  3. Senke das Gewicht langsam und kontrolliert wieder nach unten ab, bis der Latissimus voll gedehnt ist.
+
+  Hinweise:
+  Halte den Rücken gerade und verdrehe den Oberkörper während des Zugs nicht. Nach Beendigung des Satzes Seite wechseln.
 upstream:
   license: CC-BY-SA-4.0
   license_author: sebk

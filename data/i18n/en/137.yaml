@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '137'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Butterfly Narrow Grip
 description: |-
   The movement is the same as with a regular butterfly, only that the grip is narrow:

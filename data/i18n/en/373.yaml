@@ -5,12 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '373'
 language: en
-status: upstream_unreviewed
-name: Leg Presses (narrow)
+status: ai_reviewed
+name: Narrow Stance Leg Press
+search_terms:
+  - Leg Presses (narrow)
 description: |-
-  The exercise is very similar to the wide leg press:
-  Sit on the machine and put your feet on the platform so far apart&nbsp; that you could just put another foot in between them. The feet are parallel and point up.
-  Lower the weight so much, that the knees form a right angle. Push immediately the platform up again, without any pause. When in the lower position, the knees point a bit outwards and the movement should be always fluid.
+  Sit on the leg press machine with your back firmly against the pad. Place your feet on the platform in a narrow stance (a few inches apart, roughly hip-width or narrower) with toes pointing slightly outward or forward.
+  Release the safety bars and lower the sled under control until your knees bend to approximately 90 degrees. Press through your entire foot to push the platform back up, without locking out your knees at the top.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

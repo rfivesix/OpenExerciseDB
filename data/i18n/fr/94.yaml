@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '94'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl biceps avec barre SZ
 description: |-
   Tenez la barre SZ à la largeur des épaules, le dos droit, les épaules légèrement en arrière, les bras tendus. Fléchissez les bras en montant la charge d'un mouvement rapide. Sans marquer de pause, redescendez la barre d'un mouvement lent et contrôlé.

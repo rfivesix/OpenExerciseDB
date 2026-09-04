@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '386'
 language: en
-status: upstream_unreviewed
-name: Diamond push ups
+status: ai_reviewed
+name: Diamond Push-Up
+search_terms:
+  - Diamond push ups
 description: |-
-  Start: Get into a plank. Place hands close together under your chest so thumbs and index fingers form a diamond shape.
-  Lower: Bend your elbows to lower your chest toward your hands. Keep your body straight.
-  Push: Push back up until arms are fully extended.
-  New note Keep elbows close to your body and core tight.
+  Start: Get into a high plank position. Place your hands close together directly beneath your chest so that your thumbs and index fingers form a diamond shape.
+  Lower: Bend your elbows to lower your chest toward your hands, keeping your elbows tucked close to your ribs and your core braced.
+  Push: Press firmly through your palms to return to full arm extension.
 upstream:
   license: CC-BY-SA-4.0
   license_author: notdefine

@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '279'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Unterarm-Gripper
-description: Verchromter Handgripper zum Aufbau der Unterarmmuskulatur.
+search_terms:
+  - Hand-Gripper
+  - Griffkrafttrainer
+description: |-
+  Ausgangsposition: Nimm den Handgripper fest in eine Hand, sodass ein Schenkel in der Handfläche und der andere an den Fingern anliegt.
+  Ausführung: Drücke die beiden Griffe mit maximaler Kraft zusammen, bis sie sich berühren oder der maximale Bewegungsumfang erreicht ist.
+  Rückkehr: Halte die Spannung kurz und öffne die Hand langsam und kontrolliert gegen den Federwiderstand. Nach dem Satz mit der anderen Hand wiederholen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: vince63

@@ -5,16 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '454'
 language: nl
-status: upstream_unreviewed
-name: Snoekpush-ups
+status: ai_reviewed
+name: Pike push-up
+search_terms:
+  - Snoekpush-ups
+  - Pike push-ups
 description: |-
   Startpositie:
-  Zet je lichaam in een omlaagwijzende V-positie, met rechte rug en gestrekte armen en benen. Je heupen moeten omhoogstaan.Je kunt deze positie aannemen door een hoge plank te doen en met je handen naar achteren te lopen.
-  Steps:
-
-  Buig je ellebogen opzij, houd je rug recht en benen gestrekt en breng je hoofd dichter naar de grond;
-  Strek je armen, duw je heupen omhoog en houd je rug recht en benen gestrekt;
-  Herhaal.
+  Neem een omgekeerde V-positie aan (neerwaartse hond), met een rechte rug en gestrekte benen en armen. De heupen wijzen omhoog in de lucht.
+  Uitvoering:
+  1. Buig je ellebogen gecontroleerd en breng de bovenkant van je hoofd schuin naar voren richting de grond.
+  2. Duw jezelf krachtig omhoog vanuit de schouders totdat je armen weer volledig gestrekt zijn.
+  3. Herhaal voor het gewenste aantal herhalingen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

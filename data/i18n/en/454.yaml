@@ -8,7 +8,13 @@ exercise_id: '454'
 language: en
 status: ai_reviewed
 name: Pike Push-Up
-description: Push Up performed from a pike position (optional to have feet elevated).
+description: |-
+  Starting Position:
+  Get into a downward-facing dog / pike position with your hands shoulder-width apart, hips raised high, and body forming an inverted V-shape.
+  Execution:
+  1. Bend your elbows and lower the top of your head forward toward the floor between or slightly ahead of your hands.
+  2. Press firmly through your palms to push yourself back up to the starting pike position.
+  3. Keep your core braced and legs as straight as possible throughout. Feet can optionally be elevated on a bench or box for increased difficulty.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

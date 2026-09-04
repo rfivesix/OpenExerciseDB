@@ -62,84 +62,85 @@ where useful, head or subdivision. A value at any leaf therefore also belongs
 to every node above it — for example, *Triceps long head* → *Triceps brachii*
 → *Triceps* (group).
 
-<details>
-<summary>Show the complete hierarchy (group → muscle → head)</summary>
-
 ```mermaid
-mindmap
-  root((Muscle hierarchy))
-    Chest
-      Pectoralis major
-        Upper chest (clavicular)
-        Mid/lower chest (sternocostal)
-      Pectoralis minor
-      Serratus anterior
-    Back
-      Latissimus dorsi
-      Trapezius
-        Upper traps
-        Middle traps
-        Lower traps
-      Rhomboids
-      Teres major
-    Lower back
-      Erector spinae
-      Quadratus lumborum
-    Shoulders
-      Deltoid
-        Front delt
-        Side delt
-        Rear delt
-      Rotator cuff
-    Biceps
-      Biceps brachii
-        Biceps long head
-        Biceps short head
-      Brachialis
-    Triceps
-      Triceps brachii
-        Triceps long head
-        Triceps lateral head
-        Triceps medial head
-    Forearms
-      Brachioradialis
-      Wrist flexors
-      Wrist extensors
-    Core
-      Rectus abdominis
-      Obliques
-        External obliques
-        Internal obliques
-      Transversus abdominis
-      Diaphragm
-      Hip flexors (iliopsoas)
-    Glutes
-      Gluteus maximus
-      Gluteus medius
-      Gluteus minimus
-    Quadriceps
-      Quadriceps
-        Rectus femoris
-        Vastus lateralis
-        Vastus medialis
-        Vastus intermedius
-    Hamstrings
-      Hamstrings
-        Biceps femoris
-        Semitendinosus
-        Semimembranosus
-    Adductors
-      Hip adductors
-    Calves
-      Gastrocnemius
-      Soleus
-      Tibialis anterior
-    Neck
-      Neck flexors
-      Neck extensors
-```
+flowchart LR
+  %% Read from left to right: group → muscle → head / subdivision.
+  chest[Chest] --> pmajor[Pectoralis major]
+  chest --> pminor[Pectoralis minor]
+  chest --> serratus[Serratus anterior]
+  pmajor --> clavicular["Upper chest (clavicular)"]
+  pmajor --> sternocostal["Mid/lower chest (sternocostal)"]
 
-</details>
+  back[Back] --> lats[Latissimus dorsi]
+  back --> traps[Trapezius]
+  back --> rhomboids[Rhomboids]
+  back --> teres[Teres major]
+  traps --> upperTraps[Upper traps]
+  traps --> middleTraps[Middle traps]
+  traps --> lowerTraps[Lower traps]
+
+  lowerBack[Lower back] --> erectors[Erector spinae]
+  lowerBack --> quadratus[Quadratus lumborum]
+
+  shoulders[Shoulders] --> deltoid[Deltoid]
+  shoulders --> cuff[Rotator cuff]
+  deltoid --> frontDelt[Front delt]
+  deltoid --> sideDelt[Side delt]
+  deltoid --> rearDelt[Rear delt]
+
+  biceps[Biceps] --> bicepsBrachii[Biceps brachii]
+  biceps --> brachialis[Brachialis]
+  bicepsBrachii --> bicepsLong[Biceps long head]
+  bicepsBrachii --> bicepsShort[Biceps short head]
+
+  triceps[Triceps] --> tricepsBrachii[Triceps brachii]
+  tricepsBrachii --> tricepsLong[Triceps long head]
+  tricepsBrachii --> tricepsLateral[Triceps lateral head]
+  tricepsBrachii --> tricepsMedial[Triceps medial head]
+
+  forearms[Forearms] --> brachioradialis[Brachioradialis]
+  forearms --> flexors[Wrist flexors]
+  forearms --> extensors[Wrist extensors]
+
+  core[Core] --> rectus[Rectus abdominis]
+  core --> obliques[Obliques]
+  core --> transversus[Transversus abdominis]
+  core --> diaphragm[Diaphragm]
+  core --> hipFlexors["Hip flexors (iliopsoas)"]
+  obliques --> externalObliques[External obliques]
+  obliques --> internalObliques[Internal obliques]
+
+  glutes[Glutes] --> gluteMax[Gluteus maximus]
+  glutes --> gluteMed[Gluteus medius]
+  glutes --> gluteMin[Gluteus minimus]
+
+  quads[Quadriceps] --> quadriceps[Quadriceps]
+  quadriceps --> rectusFemoris[Rectus femoris]
+  quadriceps --> vastusLateral[Vastus lateralis]
+  quadriceps --> vastusMedial[Vastus medialis]
+  quadriceps --> vastusIntermedius[Vastus intermedius]
+
+  hamstrings[Hamstrings] --> hamstringComplex[Hamstrings]
+  hamstringComplex --> bicepsFemoris[Biceps femoris]
+  hamstringComplex --> semitendinosus[Semitendinosus]
+  hamstringComplex --> semimembranosus[Semimembranosus]
+
+  adductors[Adductors] --> hipAdductors[Hip adductors]
+
+  calves[Calves] --> gastrocnemius[Gastrocnemius]
+  calves --> soleus[Soleus]
+  calves --> tibialis[Tibialis anterior]
+
+  neck[Neck] --> neckFlexors[Neck flexors]
+  neck --> neckExtensors[Neck extensors]
+
+  classDef group fill:#1d4ed8,color:#fff,stroke:#1e3a8a,stroke-width:2px
+  classDef muscle fill:#dbeafe,color:#172554,stroke:#60a5fa
+  classDef head fill:#f0fdf4,color:#14532d,stroke:#86efac
+  class chest,back,lowerBack,shoulders,biceps,triceps,forearms,core,glutes,quads,hamstrings,adductors,calves,neck group
+  class pmajor,pminor,serratus,lats,traps,rhomboids,teres,erectors,quadratus,deltoid,cuff,bicepsBrachii,brachialis,tricepsBrachii,brachioradialis,flexors,extensors,rectus,obliques,transversus,diaphragm,hipFlexors,gluteMax,gluteMed,gluteMin,quadriceps,hamstringComplex,hipAdductors,gastrocnemius,soleus,tibialis,neckFlexors,neckExtensors muscle
+  class clavicular,sternocostal,upperTraps,middleTraps,lowerTraps,frontDelt,sideDelt,rearDelt,bicepsLong,bicepsShort,tricepsLong,tricepsLateral,tricepsMedial,externalObliques,internalObliques,rectusFemoris,vastusLateral,vastusMedial,vastusIntermedius,bicepsFemoris,semitendinosus,semimembranosus head
+```
 
 **Orthogonal axes instead of one overloaded category.**
 `modality` (what it is) · `usage_tags` (what it is used for, multi-valued)

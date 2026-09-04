@@ -7,10 +7,11 @@
 exercise_id: '406'
 language: en
 status: ai_reviewed
-name: Lying Rotator Cuff Exercise
+name: Side-Lying External Shoulder Rotation
+search_terms:
+  - Lying Rotator Cuff Exercise
 description: |-
-  This is an exercise for problems with the rotator cuff. Primary Infraspinatus, secondary Teres Minor.
-  Lying on side. Keep elbow on waist and at a 90-degree angle. Rotate towards stomach. Add weight as fit.
+  Lie on your side on a mat, holding a light dumbbell in your top hand. Keep your top elbow bent at a 90-degree angle and pressed lightly against your side/waist. Rotate your forearm upward toward the ceiling against gravity, engaging the infraspinatus and teres minor, then lower slowly under control. Do not let your body roll backward.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Trix

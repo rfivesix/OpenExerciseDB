@@ -1,16 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '165'
 language: en
-status: ai_raw
-name: Ball crunches
+status: ai_reviewed
+name: Swiss Ball Knee Tuck
+search_terms:
+- Ball crunches
+- Swiss Ball Jackknife
+- Swiss Ball Roll-In
+description: |-
+  Starting position:
+  Assume a high plank / push-up position with your hands shoulder-width apart on the floor and your shins resting on top of a Swiss ball. Keep your body in a straight line from shoulders to ankles with your core braced.
+
+  Execution:
+  1. Contract your abdominals and hip flexors to pull your knees forward toward your chest, rolling the ball forward onto your toes.
+  2. Squeeze your core at the peak contraction for one second.
+  3. Slowly extend your legs back out, rolling the ball backward until you return to the straight plank position.
+
+  Notes:
+  Do not let your lower back sag or your hips drop below parallel. Keep your shoulders locked directly over your wrists.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1051'
-description: |-
-  Lie on your back with your lower legs supported on a Swiss ball. Curl your upper body toward your knees, then lower it again.

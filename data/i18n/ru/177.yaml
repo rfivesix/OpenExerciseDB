@@ -1,13 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '177'
 language: ru
-status: upstream_unreviewed
-name: Велотренажор
-description: занятие на велотренажоре
+status: ai_reviewed
+name: Велотренажёр / Велоспорт
+search_terms:
+- Велотренажор
+- Езда на велосипеде
+- Сайклинг
+description: |-
+  Исходное положение:
+  Отрегулируйте высоту седла велосипеда или велотренажёра так, чтобы в нижней точке педали нога оставалась слегка согнутой в колене (угол 25–35 градусов). Спина прямая, плечи опущены, руки свободно лежат на руле.
+
+  Выполнение:
+  1. Вращайте педали плавно и непрерывно по круговой траектории, соблюдая стабильный ритм и каденс.
+  2. Оказывайте давление на педаль подушечками стоп, избегая резких рывков.
+  3. Поддерживайте ровный темп в соответствии с тренировочным планом.
+
+  Примечания:
+  Держите корпус и таз стабильными, не раскачиваясь в седле из стороны в сторону.
 upstream:
   license: CC0-1.0
   license_author: BFad07

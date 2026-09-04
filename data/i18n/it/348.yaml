@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '348'
 language: it
-status: upstream_unreviewed
-name: Alzate Laterali
-description: Alzate LateraliAlzate Laterali
+status: ai_reviewed
+name: Alzate laterali con manubri
+description: |-
+  In posizione eretta con le ginocchia leggermente flesse e il busto lievemente inclinato in avanti, impugna due manubri lungo i fianchi. Solleva le braccia lateralmente fino all'altezza delle spalle mantenendo i gomiti appena flessi, quindi abbassa lentamente i pesi alla posizione di partenza.
+search_terms:
+  - Alzate Laterali
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

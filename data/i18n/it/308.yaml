@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '308'
 language: it
-status: upstream_unreviewed
-name: Distensione Panca Inclinata Bilanciere
+status: ai_reviewed
+name: Croci con manubri su panca inclinata
+search_terms:
+  - Distensione Panca Inclinata Bilanciere
+  - Croci inclinate con manubri
 description: |-
-  DistDistensione Panca Inclinata con BilanciereDistensione Panca Inclinata con Bilanciere
+  Regola una panca inclinata a circa 30-45 gradi. Sdraiati con la schiena ben aderente allo schienale e tieni due manubri distesi sopra il petto, con i gomiti leggermente flessi e i palmi rivolti l'uno verso l'altro.
+  Apri le braccia verso l'esterno compiendo un arco ampio e controllato, fino a percepire un profondo allungamento della parte superiore del grande pettorale.
+  Mantenendo fisso l'angolo dei gomiti, riporta i manubri verso l'alto contraendo i pettorali fino alla posizione di partenza.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

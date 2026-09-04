@@ -1,13 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '132'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Burpees
-description: Jump, lay down on your chest, do a pushup then jump, repeat
+description: |-
+  Starting position:
+  Stand upright with your feet shoulder-width apart and your arms at your sides.
+
+  Execution:
+  1. Drop your hips into a squat and place your hands flat on the floor in front of your feet.
+  2. Jump both feet back simultaneously into a high plank position.
+  3. Lower your body and perform a full push-up, touching your chest to the floor.
+  4. Push back up, then jump your feet forward toward your hands to return to the deep squat position.
+  5. Explosively jump straight up into the air, reaching your arms overhead, and land softly on the balls of your feet to immediately begin the next repetition.
+
+  Notes:
+  Keep your core braced during the plank and push-up phase to avoid sagging your hips.
 upstream:
   license: CC-BY-SA-4.0
   license_author: er0355

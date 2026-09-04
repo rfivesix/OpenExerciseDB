@@ -5,12 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '423'
 language: en
-status: upstream_unreviewed
-name: Muscle up
+status: ai_reviewed
+name: Muscle-Up
+search_terms:
+  - Muscle up
 description: |-
-  The body is then explosively pulled up by the arms in a radial pull-up, with greater speed than a regular&nbsp;pull-up. When the bar approaches the upper chest, the wrists are swiftly flexed to bring the forearms above the bar. The body is leaned forward, and the elbows are straightened by activating the triceps. The routine is considered complete when the bar is at the level of the waist and the arms are fully straight.
-  To dismount, the arms are bent at the elbow, and the body is lowered to the floor, and the exercise can be repeated.
-  As a relatively advanced exercise, muscle-ups are typically first learned with an assistive kip. The legs swing (kip) up and provide momentum to assist in the explosive upward force needed to ascend above the bar. More advanced athletes can perform a strict variation of the muscle-up which is done slowly, without any kip. This variation begins with a still dead hang and uses isometric muscle contraction to ascend above the bar in a slow, controlled fashion.
+  From a dead hang on a pull-up bar, pull your body up explosively in an arcing motion. As your chest clears the bar, lean your torso forward over the bar and roll your wrists and forearms on top of the bar (the transition). Press through your palms and extend your elbows to push your body up until your arms are fully locked out and the bar is at waist level.
+  Lower yourself back down under control through the dip and pull-up phases to the starting dead hang. Advanced athletes perform this strictly without a kip, while developing athletes often use a moderate kip for momentum.
 upstream:
   license: CC-BY-SA-4.0
   license_author: arson

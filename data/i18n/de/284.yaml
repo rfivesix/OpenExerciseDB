@@ -1,10 +1,13 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '284'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Herkulessäulen am Kabelzug
-description: Greife zwei Kabel, stelle dich in die Mitte, sodass beide unter Spannung stehen, und halte die Position.
+description: |-
+  Ausgangsposition: Stelle dich mittig zwischen zwei Kabeltürme. Führe die Arme seitlich auf Schulterhöhe auseinander und greife die Griffe der hohen Kabelzüge mit den Handflächen nach vorne oder unten.
+  Ausführung: Halte die Arme fast vollständig gestreckt in T-Position seitlich ausgestreckt und stabilisiere den gesamten Körper gegen den Zug der Gewichte.
+  Hinweis: Dies ist eine isometrische Halteübung für Schultern, oberen Rücken und Arme. Halte den Rumpf fest angespannt und weiche nicht nach vorne oder hinten aus.
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund

@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '83'
 language: it
-status: upstream_unreviewed
-name: Rematore presa neutra con bilanciere
+status: ai_reviewed
+name: Rematore con bilanciere a busto flesso
+search_terms:
+- Rematore presa neutra con bilanciere
+- Rematore bilanciere
 description: |-
-  Impugnando un bilanciere con presa in pronazione (palmi rivolti verso il basso), piegare leggermente le ginocchia e portare il busto in avanti, piegando in vita, mantenendo la schiena dritta fino a portarla quasi parallela al pavimento. Suggerimento: assicurati di tenere la testa alta. Il bilanciere dovrebbe pendere direttamente davanti a te mentre le tue braccia pendono perpendicolarmente al pavimento e al busto. Questa è la tua posizione di partenza.&nbsp;&nbsp;&nbsp;&nbsp; Ora, mantenendo fermo il busto, espira e solleva il bilanciere verso di te. Tieni i gomiti vicini al corpo e usa solo gli avambracci per sostenere il peso. Nella posizione contratta in alto, contrai i muscoli della schiena e mantieni la posizione per una breve pausa.&nbsp;&nbsp;&nbsp;&nbsp; Quindi inspira e abbassa lentamente il bilanciere nella posizione iniziale.&nbsp;&nbsp;&nbsp;&nbsp; Ripeti per la quantità consigliata di ripetizioni.
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle spalle, impugna un bilanciere con presa prona (palmi verso il basso). Fletti leggermente le ginocchia e inclina il busto in avanti flettendo le anche, mantenendo la schiena dritta a circa 45 gradi o quasi parallela al pavimento. Il bilanciere pende verticalmente davanti a te con le braccia distese.
+
+  Esecuzione:
+  1. Mantenendo il busto immobile, tira il bilanciere verso la parte bassa dell'addome/ombelico portando i gomiti verso l'alto e vicino ai fianchi.
+  2. Contrai intensamente i muscoli della schiena e adduci le scapole in cima, facendo una breve pausa.
+  3. Abbassa lentamente il bilanciere fino alla posizione di partenza con pieno controllo.
+
+  Note:
+  Mantieni la colonna vertebrale in posizione neutra durante tutto l'esercizio. Non strappare con le gambe o la schiena.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

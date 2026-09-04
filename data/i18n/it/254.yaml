@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '254'
 language: it
-status: upstream_unreviewed
-name: Trazioni al mento Bilanciere
-description: Trazioni al mento BilanciereTrazioni al mento Bilanciere
+status: ai_reviewed
+name: Alzate frontali con disco
+search_terms:
+  - Trazioni al mento Bilanciere
+  - Front raise con piastra
+description: |-
+  In piedi con le gambe alla larghezza delle spalle e il busto eretto. Afferra un disco gommato con entrambe le mani alle estremità laterali (alle posizioni ore 3 e ore 9), tenendolo davanti al bacino con le braccia distese o leggermente flesse.
+  Solleva il disco davanti a te controllando il movimento fino all'altezza degli occhi o delle spalle, contraendo la parte anteriore dei deltoidi.
+  Mantieni la posizione per un secondo e abbassa lentamente il disco tornando alla posizione di partenza senza oscillare con il busto.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Marius

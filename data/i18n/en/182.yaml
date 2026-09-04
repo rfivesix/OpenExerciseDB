@@ -1,14 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '182'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Deadhang
 description: |-
-  Deadhang performed on an edge&nbsp;either with or without added weight (adujst edge or weight to adjust difficulty)
+  Starting position:
+  Grasp a pull-up bar or hangboard edge with an overhand grip roughly shoulder-width apart. Hang freely with your arms extended and feet off the floor.
+
+  Execution:
+  1. Secure a firm grip around the bar.
+  2. You can perform either a passive hang (shoulders fully relaxed to decompress the spine) or an active hang (drawing shoulder blades slightly down and back to engage scapular stabilizers).
+  3. Hold the suspended position for the designated duration.
+
+  Notes:
+  Breathe steadily and keep your body still without swinging. Adjust difficulty by hanging from narrower edges, thicker bars, or adding weight.
 upstream:
   license: CC-BY-SA-4.0
   license_author: 2dPREtEZP221u68Akf0JImv5L48

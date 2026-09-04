@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '174'
 language: cs
-status: upstream_unreviewed
-name: Obrácené Zkracovačky
+status: ai_reviewed
+name: Zkracovačky se zvednutýma nohama
+search_terms:
+- Obrácené Zkracovačky
+- Vertical Leg Crunch
 description: |-
-  Lehneme si na záda, k lavici, nebo na lavici. Chytneme se za hlavou a pak zvedáme nohy do svíčky tak, aby se lehce nadzvedla pánev. Rozsah pohybu není velký, přibližně okolo 10 cm maximálně však 15 cm a závisí na ohebnosti a zdatnosti. Je dobré vycítit, kdy už nepracují svaly břicha a práci přebírají ohýbače kyčlí.
+  Výchozí pozice:
+  Lehněte si na záda na podložku a zvedněte nohy kolmo k zemi (směrem ke stropu) s mírně pokrčenými nebo nataženými koleny. Paže natáhněte nahoru směrem ke špičkám.
+
+  Provedení:
+  1. Kontrakcí přímého břišního svalu odlepte lopatky a horní část zad od země a natahujte se rukama k prstům u nohou.
+  2. V horní poloze na moment podržte maximální kontrakci břicha.
+  3. Pomalu a kontrolovaně se spusťte zpět dolů, aniž byste zcela uvolnili napětí v břiše.
+
+  Upozornění:
+  Udržujte nohy stabilně ve vertikální poloze a bedra pevně přitisknutá k podložce.
 upstream:
   license: CC-BY-SA-4.0
   license_author: krisbbb

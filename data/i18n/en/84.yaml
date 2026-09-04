@@ -1,12 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '84'
 language: en
-status: upstream_unreviewed
-name: Bent Over Rowing Reverse
+status: ai_reviewed
+name: Reverse-Grip Barbell Bent-Over Row
+search_terms:
+- Bent Over Rowing Reverse
+- Underhand Barbell Row
 description: |-
   The same as regular rowing, but holding a reversed grip (your palms pointing forwards):
   Grab the barbell with a wide grIp (slightly more than shoulder wide) and lean forward. Your upper body is not quite parallel to the floor, but forms a slight angle. The chest's out during the whole exercise.

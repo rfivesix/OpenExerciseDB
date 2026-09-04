@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '182'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Deadhang (Aushängen)
-description: Aushängen an einer Kante, mit oder ohne Zusatzgewicht (passe Kante oder Gewicht an, um die Schwierigkeit anzupassen).
+description: |-
+  Ausgangsposition:
+  Greife eine Klimmzugstange oder Hangboard-Kante im etwa schulterbreiten Obergriff. Löse die Füße vom Boden und lasse den Körper frei hängen.
+
+  Bewegung:
+  1. Halte die Hängeposition mit festem Griff.
+  2. Der Deadhang kann passiv (vollständig entspannte Schultern zur Dekompression der Wirbelsäule) oder aktiv (Schulterblätter leicht nach hinten und unten gezogen zur Aktivierung der Rumpf- und Schultermuskulatur) ausgeführt werden.
+  3. Halte die Position für die vorgegebene Zeitdauer.
+
+  Hinweise:
+  Atme ruhig und gleichmäßig. Vermeide Pendelbewegungen des Körpers. Die Übung stärkt intensiv die Griffkraft und Unterarmmuskulatur.
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: 2dPREtEZP221u68Akf0JImv5L48

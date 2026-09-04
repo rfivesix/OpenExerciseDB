@@ -1,14 +1,9 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '82'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Élévations latérales buste penché
-description: |-
-  Asseyez-vous sur un banc en tenant des charges. Penchez-vous vers l'avant aussi loin que possible, les bras légèrement fléchis au niveau des coudes. Effectuez une élévation latérale tout en conservant la flexion de vos coudes.
+description: Asseyez-vous sur un banc en tenant des charges. Penchez-vous vers l'avant aussi loin que possible, les bras légèrement
+  fléchis au niveau des coudes. Effectuez une élévation latérale tout en conservant la flexion de vos coudes.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

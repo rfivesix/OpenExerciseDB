@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '43'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Hackenschmidt-Kniebeuge mit Langhantel
-description: Führe Kniebeugen aus, wobei sich die Langhantel hinter deinen Beinen befindet.
+description: |-
+  Ausgangsposition:
+  Platziere eine Langhantel auf dem Boden direkt hinter deinen Fersen. Stelle dich schulter- bis hüftbreit hin, gehe mit geradem Rücken in die Kniebeuge und greife die Hantelstange hinter deinen Beinen im Obergriff (Handflächen nach hinten).
+
+  Bewegung:
+  1. Drücke dich über die Fersen und den gesamten Fuß nach oben, indem du Knie und Hüfte streckst.
+  2. Führe die Langhantel eng an den Waden und der Rückseite der Oberschenkel entlang nach oben, bis du vollständig aufrecht stehst.
+  3. Senke das Gewicht kontrolliert auf demselben Weg wieder ab, bis die Hantelscheiben den Boden berühren.
+
+  Hinweise:
+  Halte die Brust stolz und den Oberkörper so aufrecht wie möglich. Diese Übung isoliert die Oberschenkelvorderseite (Quadrizeps) besonders intensiv.
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: BePieToday

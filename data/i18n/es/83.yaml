@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '83'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo Inclinado con Barra (agarre prono)
 description: |-
   Sujeta la barra con un agarre prono (palmas hacia abajo) y las manos un poco más abiertas que el ancho de tus hombros. Inclina tu torso hacia adelante desde la cadera, manteniendo la espalda completamente recta y las rodillas ligeramente flexionadas, hasta que el torso quede casi paralelo al suelo. La barra debe colgar con los brazos extendidos.

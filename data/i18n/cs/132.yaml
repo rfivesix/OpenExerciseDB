@@ -1,12 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '132'
 language: cs
-status: upstream_unreviewed
+status: ai_reviewed
 name: Angličáky
+description: |-
+  Výchozí pozice:
+  Postavte se vzpřímeně s nohama na šířku ramen a pažemi podél těla.
+
+  Provedení:
+  1. Přejděte do hlubokého dřepu a položte dlaně na podlahu před chodidla.
+  2. Dynamicky odskočte nohama dozadu do pozice vzporu (vysokého prkna).
+  3. Proveďte klik tak, aby se hrudník dotkl země, a zatlačte zpět nahoru.
+  4. Přiskočte nohama zpět k rukám do dřepu.
+  5. Z dřepu explozivně vyskočte do výšky se vzpaženýma rukama a po měkkém dopadu plynule navažte dalším opakováním.
+
+  Upozornění:
+  V pozici kliku a vzporu držte zpevněný střed těla, aby nedocházelo k prohýbání v bedrech.
 upstream:
   license: CC-BY-SA-4.0
   license_author: er0355

@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '165'
 language: de
-status: upstream_unreviewed
-name: Crunch am TRX Oder Auf Ball
+status: ai_reviewed
+name: Knee Tuck auf dem Gymnastikball
+search_terms:
+- Crunch am TRX Oder Auf Ball
+- Ball Roll-in
+- Swiss Ball Jackknife
 description: |-
-  Beine in die TRX-Schlingen oder auf einem großen Ball auflegen und mit den Händen unter den Schultern in eine Stützposition (Plank) kommen. Dann die Beine anziehen.
+  Ausgangsposition:
+  Begib dich in eine Liegestützposition (Plank) mit den Händen schulterbreit flach auf dem Boden und platziere deine Schienbeine oder Fußrücken oben auf einem Gymnastikball (oder in TRX-Schlingen). Der Körper bildet eine stabile, gerade Linie.
+
+  Bewegung:
+  1. Ziehe die Knie kontrolliert nach vorne in Richtung deiner Brust, indem du die Bauchmuskeln anspannst und das Becken leicht einrollst, sodass der Ball nach vorne rollt.
+  2. Halte die maximale Kontraktion im Bauch für eine Sekunde.
+  3. Rolle den Ball langsam und kontrolliert wieder nach hinten zurück, bis dein Körper wieder in der gestreckten Plank-Position ist.
+
+  Hinweise:
+  Lasse die Hüfte in der Ausgangsposition nicht durchhängen und halte die Schultern stabil direkt über den Händen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer

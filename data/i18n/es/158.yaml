@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '158'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón al Pecho con Agarre Cerrado
 description: |-
   Esta variante del jalón, con un agarre más estrecho, se enfoca en la densidad de la espalda y permite un mayor rango de movimiento para la contracción de los dorsales.

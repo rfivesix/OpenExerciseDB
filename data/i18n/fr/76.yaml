@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '76'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé couché prise serrée
 description: |-
   Mise en place : Allongez-vous à plat sur le banc et saisissez la barre à la largeur des épaules (plus serré qu'un développé couché classique).

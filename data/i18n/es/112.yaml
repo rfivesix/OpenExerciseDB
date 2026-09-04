@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '112'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plancha a Flexión
 description: |-
   Comienza en una posición de plancha baja, apoyado sobre tus antebrazos y con el cuerpo formando una línea recta. Desde ahí, apoya una mano en el suelo y luego la otra para subir hasta una plancha alta (la posición de una flexión).

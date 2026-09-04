@@ -1,14 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '20'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press Arnold
-description: |-
-  Siéntate en un banco con la espalda bien apoyada. Sostén un par de mancuernas frente a tus hombros, con las palmas de las manos mirando hacia tu cuerpo. A medida que empujas las mancuernas hacia arriba, rota las muñecas de forma que al final del movimiento tus palmas miren hacia el frente. Invierte el movimiento de forma controlada para volver a la posición inicial.
+description: Siéntate en un banco con la espalda bien apoyada. Sostén un par de mancuernas frente a tus hombros, con las palmas
+  de las manos mirando hacia tu cuerpo. A medida que empujas las mancuernas hacia arriba, rota las muñecas de forma que al
+  final del movimiento tus palmas miren hacia el frente. Invierte el movimiento de forma controlada para volver a la posición
+  inicial.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

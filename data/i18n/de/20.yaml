@@ -1,16 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '20'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arnold Press
 description: |-
-  Zwei Kurzhanteln mit den Handflächen nach innen vor der Brust halten, Ellbogen unterhalb der Handgelenke.
-  Ellbogen nach außen bringen und Hanteln über den Kopf heben. Drehung kommt aus dem Ellbogen, nicht aus den Armen!
-  Wenn die Arme durchgestreckt sind, die gleiche Bewegung rückwärts ausführen.
+  Ausgangsposition:
+  Setze dich aufrecht auf eine Bank mit Rückenlehne. Halte zwei Kurzhanteln auf Schulterhöhe vor deiner Brust, die Handflächen zeigen zum Körper (Untergriff), die Ellbogen sind gebeugt direkt unter den Handgelenken.
+
+  Bewegung:
+  1. Drücke die Hanteln über den Kopf nach oben und drehe dabei gleichzeitig die Arme und Handgelenke nach außen.
+  2. Am obersten Punkt sind die Arme fast ganz gestreckt und die Handflächen zeigen nach vorne (Obergriff).
+  3. Senke die Kurzhanteln kontrolliert ab und drehe die Handgelenke wieder kontinuierlich zurück in die Ausgangsposition.
+
+  Hinweise:
+  Die Drehung erfolgt fließend während der gesamten Drückbewegung. Halte den Rumpf fest angespannt, um ein Überstrecken im unteren Rücken zu vermeiden.
 upstream:
   license: CC-BY-SA-3.0
   license_author: trzr23

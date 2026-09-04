@@ -1,14 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '79'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bent High Pulls
 description: |-
-  Bend over slightly while holding two dumbbells.&nbsp; Pull the dumbbells up to your chest, keeping your elbows as high as you can.
+  Starting position:
+  Stand with feet shoulder-width apart, holding a pair of dumbbells in front of your thighs. Hinge forward at the hips with slightly bent knees and a flat back until your torso is angled forward, arms hanging straight down.
+
+  Execution:
+  1. Pull the dumbbells up vertically toward your chest/armpits, flaring your elbows high and wide.
+  2. Squeeze your rear deltoids and upper back at the top of the movement.
+  3. Lower the dumbbells slowly and under control back to the starting hang position.
+
+  Notes:
+  Keep your back straight and core tight throughout. The movement should be driven by the elbows pulling high.
 upstream:
   license: CC-BY-SA-3.0
   license_author: lakerbeezel

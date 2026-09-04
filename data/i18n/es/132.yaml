@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '132'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Burpees
 description: |-
   El burpee es uno de los ejercicios de acondicionamiento metabólico más completos, combinando fuerza de empuje, potencia de piernas y alta exigencia cardiovascular.

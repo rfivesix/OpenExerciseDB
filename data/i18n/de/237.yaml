@@ -1,10 +1,13 @@
 exercise_id: '237'
 language: de
 # AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Fliegende
-description: Kabelzugmaschine, zwei Schritte nach vorne, Rücken gerade.
+description: |-
+  Ausgangsposition: Stelle dich mittig zwischen zwei Kabelzüge und greife die Griffe auf Brust- bis Schulterhöhe. Mache einen Ausfallschritt nach vorne für stabilen Stand, sodass bereits in der Ausgangsstellung Spannung auf den Kabeln liegt. Der Oberkörper ist minimal nach vorne geneigt.
+  Ausführung: Führe die Griffe mit leicht gebeugten Ellenbogen in einer weiten Halbkreisbewegung kontrolliert vor der Brust zusammen. Spanne die Brustmuskulatur im Umkehrpunkt kurz intensiv an.
+  Rückkehr: Öffne die Arme langsam und kontrolliert zurück in die Ausgangsstellung, bis du eine angenehme Dehnung in der Brust spürst.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

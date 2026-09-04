@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '83'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remada Curvada
 description: |-
   Segurando uma barra com pegada pronada (palmas das mãos voltadas para baixo), dobre ligeiramente os joelhos e incline o tronco para a frente, flexionando a cintura, mantendo as costas retas até que fiquem quase paralelas ao chão. Dica: Certifique-se de manter a cabeça erguida. A barra deve ficar pendurada diretamente à sua frente, com os braços perpendiculares ao chão e ao tronco. Esta é a sua posição inicial.

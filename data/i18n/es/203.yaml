@@ -5,14 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '203'
 language: es
-status: upstream_unreviewed
-name: Sentadilla con disco
+status: ai_reviewed
+name: Sentadilla goblet con mancuerna
+search_terms:
+  - Sentadilla con disco
+  - Goblet Squat con mancuerna
 description: |-
-  Tipos de sentadillas con disco
-  Goblet Squat:
-  Es la sentadilla con disco más común, donde el disco se sostiene a la altura del pecho, ayudando a mantener una buena postura y mejorando la estabilidad del tobillo.&nbsp;
-  Overhead Plate Squat:
-  En esta variación, el disco se mantiene por encima de la cabeza durante todo el movimiento de la sentadilla, lo que aumenta la demanda de movilidad y estabilidad del hombro.
+  Sujeta una mancuerna verticalmente con ambas manos pegada al pecho, sosteniéndola por los lados de la cabeza superior del peso. Coloca los pies aproximadamente al ancho de los hombros con las puntas ligeramente hacia afuera.
+  Desciende flexionando las caderas y las rodillas como si fueras a sentarte, manteniendo la espalda recta y el pecho erguido, hasta que los muslos queden al menos paralelos al suelo. Los codos deben pasar por dentro de las rodillas.
+  Empuja con fuerza a través de los talones para volver a la posición inicial, contrayendo los glúteos en la parte superior.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

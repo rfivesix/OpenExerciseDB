@@ -1,17 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '165'
 language: es
-status: upstream_unreviewed
-name: Abdominales en Bola de Estabilidad
+status: ai_reviewed
+name: Encogimientos en balón suizo (Knee Tuck)
+search_terms:
+- Abdominales en Bola de Estabilidad
+- Jackknife en balón suizo
 description: |-
-  Realizar el crunch sobre una bola aumenta el rango de movimiento, permitiendo un mayor estiramiento y contracción del abdomen, además de activar los músculos estabilizadores del core para mantener el equilibrio.
-  Instrucciones:
-  Apoya la parte baja y media de tu espalda sobre la bola, con los pies firmes en el suelo y las rodillas flexionadas a 90 grados. Coloca las manos a los lados de la cabeza (sin jalar el cuello) o cruzadas sobre el pecho.
-  Contrae el abdomen para elevar tus hombros y la parte alta de la espalda. Haz una pausa en la cima y baja de forma controlada. La clave es mantener la bola lo más estable posible durante todo el movimiento.
+  Posición inicial:
+  Colócate en posición de flexión (plancha alta) con las manos en el suelo separadas al ancho de los hombros y las espinillas apoyadas sobre la parte superior de una pelota suiza (fitball). Tu cuerpo debe formar una línea recta.
+
+  Ejecución:
+  1. Contrae los abdominales y flexores de cadera para llevar las rodillas hacia el pecho, haciendo rodar la pelota hacia adelante.
+  2. Aprieta el core en el punto de máxima flexión durante un segundo.
+  3. Extiende lentamente las piernas hacia atrás para regresar a la posición inicial de plancha de forma controlada.
+
+  Notas:
+  Evita que la pelvis caiga hacia abajo arqueando la espalda baja. Mantén los hombros estables sobre las muñecas.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

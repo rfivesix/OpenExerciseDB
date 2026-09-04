@@ -5,14 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '351'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seitheben zum Frontheben
 description: |-
-  -(1) Führe ein Seitheben aus und halte am höchsten Punkt der Bewegung kurz inne (2).
-  -Anstatt das Gewicht abzusenken, führe es vor deinen Körper, sodass du dich scheinbar in der oberen Position eines Fronthebens befindest. Dies erreichst du mit einer Pec-Fly-Bewegung bei gestreckten Armen. (3)
-  -Senke nun das Gewicht zu deinen Oberschenkeln ab, mit anderen Worten, senke die Kurzhanteln so, als würdest du eine Frontheben-Wiederholung abschließen. (4)
-  -Kehre die Bewegung um: Führe ein Frontheben aus (5), nutze am höchsten Punkt der Bewegung eine umgekehrte Fly-Bewegung, um die Gewichte in die obere Position eines Seithebens zu bringen (6), und senke schließlich die Gewichte ab, bis deine Handflächen praktisch die Außenseiten deiner Oberschenkel berühren (7). DAS IST EINE WIEDERHOLUNG.
-  (1) l Frontansicht (2) -l- FA (3) l- Seitenansicht (4) l SA/FA (5) l- SA (6) -l- FA (7) l FA/SA
+  - Führe ein Seitheben bis auf Schulterhöhe aus und halte kurz die Position.
+  - Anstatt das Gewicht abzusenken, führe die Hanteln bei gestreckten Armen vor deinem Körper zusammen in die obere Position des Fronthebens.
+  - Senke die Kurzhanteln nun kontrolliert vor deinen Oberschenkeln ab.
+  - Kehre die Bewegung um: Hebe die Hanteln im Frontheben nach oben, öffne die Arme auf Schulterhöhe nach außen in die obere Position des Seithebens und senke sie seitlich wieder ab. Das ist eine Wiederholung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

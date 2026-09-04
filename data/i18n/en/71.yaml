@@ -1,16 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '71'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Single Leg Extension
+description: |-
+  Starting position:
+  Sit in the leg extension machine with your back firmly supported by the backrest. Position the padded lever against the lower shin of one leg, just above the ankle. The non-working leg remains relaxed.
+
+  Execution:
+  1. Extend your working leg upward by contracting your quadriceps until the knee is nearly straight.
+  2. Hold the peak contraction at the top for one second.
+  3. Lower the weight slowly and under control back to the starting position without letting the weight stack touch down.
+
+  Notes:
+  Complete all repetitions on one leg before switching to the other. Keep your hips and back pressed firmly into the seat.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1057'
-description: |-
-  Sit in the leg extension machine with your back supported. Extend one leg until it is nearly straight, then lower the weight slowly and under control.

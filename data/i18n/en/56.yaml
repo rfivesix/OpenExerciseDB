@@ -1,15 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '56'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Abdominal Stabilization
+description: |-
+  Starting position:
+  Lie lengthwise on a foam roller placed along your spine, ensuring your head, back, and tailbone are all supported. Bend your knees and place your feet flat on the floor hip-width apart.
+
+  Execution:
+  1. Engage your deep core muscles (transverse abdominis) by gently flattening your lower back toward the roller.
+  2. Maintain balance and stability using core contraction. Keep your fingertips lightly resting on the floor for support, or cross your arms over your chest to increase the challenge.
+  3. Hold the position for the prescribed duration while maintaining slow, deep breaths.
+
+  Notes:
+  Do not let your lower back arch off the roller. Keep your pelvis neutral and stable.
 upstream:
   license: CC-BY-SA-3.0
   license_author: andikeller
   source_id: '1061'
-description: Lie on a foam roller on a mat and maintain an abdominal stabilization position.

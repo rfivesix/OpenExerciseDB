@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '355'
 language: pt
-status: upstream_unreviewed
-name: Puxada Alta
-description: Puxe a barra para baixo até o strenum e mantenha as costas retas.
+status: ai_reviewed
+name: Puxada alta (costas retas)
+description: |-
+  Sente-se no aparelho de puxada alta com as coxas presas sob os apoios. Segure a barra com uma pegada aberta, mantenha o tronco ereto e puxe a barra verticalmente para baixo em direção ao esterno, aproximando as escápulas. Retorne controladamente à posição inicial.
+search_terms:
+  - Puxada Alta
 upstream:
   license: CC-BY-SA-4.0
   license_author: br_Orion

@@ -1,13 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '31'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Axe Hold
-description: Grab dumbbells and extend arms to side and hold as long as you can
+description: |-
+  Starting position:
+  Stand upright with feet shoulder-width apart and your core braced. Hold a dumbbell in each hand at your sides.
+
+  Execution:
+  1. Raise both dumbbells out to your sides (lateral abduction) with arms straight or slightly bent at the elbows until they are parallel to the floor at shoulder height.
+  2. Hold this static isometric position for as long as prescribed or until failure, keeping your lateral deltoids contracted.
+  3. Lower the weights slowly and under control once time expires.
+
+  Notes:
+  Do not shrug your shoulders toward your ears or arch your lower back. Maintain a steady breathing rhythm during the hold.
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund

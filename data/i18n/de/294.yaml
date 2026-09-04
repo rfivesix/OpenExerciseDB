@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '294'
 language: de
-status: upstream_unreviewed
-name: Beckenheben
-description: |-
-  Setze dich auf den Boden mit einer Bank hinter dir, beuge die Knie, sodass deine Füße flach auf dem Boden stehen, und halte eine Langhantel, die unterhalb deiner Hüfte aufliegt. Wenn du eine gepolsterte Stange hast oder etwas, das du zwischen Stange und Körper schieben kannst, trägt das viel dazu bei, die Übung angenehmer zu machen.
+status: ai_reviewed
+name: Langhantel-Hip-Thrust
 search_terms:
+  - Beckenheben
   - Hip Thrust mit der Langhantel
+  - Hip Thrust
+description: |-
+  Ausgangsposition: Setze dich vor eine stabile Flachbank und lehne die oberen Schulterblätter an die Kante. Rolle eine gepolsterte Langhantel über deine Beine direkt in die Hüftbeuge. Stelle die Füße schulterbreit flach auf den Boden, sodass die Schienbeine in der oberen Position senkrecht stehen.
+  Ausführung: Drücke dich explosiv und kontrolliert über die Fersen nach oben, indem du die Hüfte vollständig streckst, bis Oberschenkel und Oberkörper eine gerade Linie bilden. Spanne die Gesäßmuskeln am höchsten Punkt fest an.
+  Rückkehr: Senke das Becken kontrolliert wieder ab, ohne die Spannung komplett zu verlieren, und wiederhole die Bewegung. Halte das Kinn leicht zur Brust geneigt, um ein Überstrecken der Lendenwirbelsäule zu vermeiden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Bret Contreras

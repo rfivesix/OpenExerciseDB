@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '165'
 language: cs
-status: upstream_unreviewed
-name: Zkracovačky s Medicinbalem
+status: ai_reviewed
+name: Přítahy kolen na gymnastickém míči (Knee Tuck)
+search_terms:
+- Zkracovačky s Medicinbalem
 description: |-
-  lehneme na podložku. Medicinbal do ruky natáhneme jí před sebe a provádíme zkracovačky .
+  Výchozí pozice:
+  Zaujměte pozici vzporu ležmo (vysokého prkna) s dlaněmi na šířku ramen a holeněmi opřenými o vrchol gymnastického míče. Tělo tvoří pevnou přímou linii.
+
+  Provedení:
+  1. Kontrakcí břišních svalů a ohybačů kyčlí přitáhněte kolena směrem k hrudníku, čímž míč přikoulíte k rukám.
+  2. V maximálním zkrácení břicha na sekundu setrvejte.
+  3. Pomalu a kontrolovaně nohy natáhněte zpět do výchozí pozice vzporu.
+
+  Upozornění:
+  Vyvarujte se prohýbání v bedrech a udržujte ramena stabilní přímo nad zápěstími.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer

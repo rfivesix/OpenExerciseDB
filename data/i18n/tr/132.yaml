@@ -1,12 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '132'
 language: tr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Şınav ile burpee
+description: |-
+  Başlangıç pozisyonu:
+  Ayaklar omuz genişliğinde açık, dik bir şekilde durun ve kollarınızı yanlarda tutun.
+
+  Uygulama:
+  1. Squat pozisyonuna inerek ellerinizi ayaklarınızın hemen önüne yere koyun.
+  2. Ayaklarınızı aynı anda geriye doğru fırlatarak yüksek plank (şınav) pozisyonuna geçin.
+  3. Göğsünüzü yere değdirerek tam bir şınav çekin ve kendinizi tekrar yukarı itin.
+  4. Ayaklarınızı sıçrayarak ellerinizin yanına çekip tekrar squat pozisyonuna dönün.
+  5. Yerden patlayıcı bir şekilde yukarı zıplayın, kollarınızı başınızın üzerine kaldırın ve yumuşak bir iniş yaparak hemen sonraki tekrara geçin.
+
+  Notlar:
+  Plank ve şınav aşamasında belinizin aşağı çökmesini önlemek için karın kaslarınızı sıkı tutun.
 upstream:
   license: CC-BY-SA-4.0
   license_author: er0355

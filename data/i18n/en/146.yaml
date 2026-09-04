@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '146'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Calf Press Using Leg Press Machine
 description: |-
-  Put&nbsp; the balls of your feet on an extended leg press pad.&nbsp; Use your calves to press the weight by flexing your feet/toes into a pointed position, and releasing back into a relaxed position.
-  This exercise builds mass and strength in the Gastrocnemius and Soleus muscles as well, if not better, than any calf exercise.
+  Starting position:
+  Sit in the leg press machine and place the balls of your feet on the lower edge of the sled/footplate, allowing your heels to hang free off the bottom. Disengage the safety stops with your knees slightly bent (not locked).
+
+  Execution:
+  1. Lower your heels backward by flexing your ankles to get a full stretch in your calf muscles.
+  2. Push through the balls of your feet and toes to press the platform away, achieving full plantarflexion.
+  3. Squeeze your calves at the peak contraction for one second, then slowly lower back to the stretched position.
+
+  Notes:
+  Keep your knees slightly unlocked throughout the entire set to focus the tension entirely on the gastrocnemius.
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303

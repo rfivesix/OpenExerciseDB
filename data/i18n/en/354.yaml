@@ -5,9 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '354'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Lat Pull Down (Leaning Back)
-description: Lean Back, Pull into chest
+description: |-
+  Sit at a lat pulldown station with your thighs secured under the pads. Grip the bar wider than shoulder-width. Lean your torso back slightly (approximately 20–30 degrees) and pull the bar down toward your upper chest, focusing on driving your elbows down and squeezing your lats. Return the bar upward under control to full extension.
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow

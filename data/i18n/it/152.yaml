@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '152'
 language: it
-status: upstream_unreviewed
-name: Trazioni alla sbarra
+status: ai_reviewed
+name: Trazioni alla sbarra in supinazione (Chin-up)
+search_terms:
+- Trazioni alla sbarra
+- Chin Up
 description: |-
-  Il chin-up (noto anche come mento o chinup) è un esercizio di allenamento della forza. Le persone spesso eseguono questo esercizio con l'intenzione di rafforzare muscoli come il gran dorsale e il bicipite, che rispettivamente estendono la spalla e flettono il gomito. In questa manovra, i palmi sono rivolti verso il corpo. È una forma di pull-up in cui il range di movimento è stabilito in relazione al mento di una persona.
+  Posizione di partenza:
+  Appenditi a una sbarra per trazioni con una presa supina (palmi rivolti verso di te) alla larghezza delle spalle. Braccia completamente distese e core contratto.
+
+  Esecuzione:
+  1. Tira il corpo verso l'alto guidando con i gomiti verso il basso e indietro, finché il mento non supera l'altezza della sbarra.
+  2. Mantieni la contrazione massima per un istante contraendo dorsali e bicipiti.
+  3. Riscendi lentamente e in modo controllato fino alla distensione completa delle braccia prima di ripetere.
+
+  Note:
+  Evita di darti slancio con le gambe e controlla sempre la discesa.
 upstream:
   license: CC0-1.0
   license_author: BFad07

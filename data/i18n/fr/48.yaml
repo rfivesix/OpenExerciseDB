@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '48'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl inversé des poignets à la barre
 description: |-
   Assis sur un banc, saisissez une barre, paumes tournées vers le bas et mains écartées à la largeur des épaules. Posez vos avant-bras sur vos cuisses et laissez vos poignets dépasser au-delà de vos genoux.

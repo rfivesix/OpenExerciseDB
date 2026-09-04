@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '46'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Fentes debout à la barre
 description: |-
   Placez la barre sur l'arrière de vos épaules. Tenez-vous droit, puis faites un premier pas en avant. Le pas doit vous amener suffisamment loin pour que le genou de votre jambe d'appui puisse toucher le sol. Redressez-vous ensuite et répétez avec l'autre jambe.

@@ -1,13 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '56'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bauch Stabilisation
-description: Auf Rolle liegend
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings der Länge nach auf eine Schaumstoffrolle (Foam Roller), sodass Kopf, Wirbelsäule und Steißbein vollständig aufliegen. Die Knie sind angewinkelt, die Füße stehen flach und etwa hüftbreit auf dem Boden.
+
+  Bewegung:
+  1. Spanne die tiefe Bauchmuskulatur (Transversus abdominis) aktiv an und drücke den unteren Rücken sanft in Richtung der Rolle.
+  2. Halte die Balance, indem du die Rumpfmuskulatur stabilisierst. Zur Unterstützung können die Fingerspitzen leicht am Boden abstützen; zur Steigerung hebe die Arme vor die Brust oder hebe abwechselnd leicht einen Fuß an.
+  3. Halte die Position für die vorgegebene Zeitdauer unter gleichmäßiger Atmung.
+
+  Hinweise:
+  Vermeide ein Hohlkreuz und halte das Becken ruhig, ohne zur Seite zu kippen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: andikeller

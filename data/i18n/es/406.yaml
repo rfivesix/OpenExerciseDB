@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '406'
 language: es
-status: upstream_unreviewed
-name: Ejercicio del manguito rotador tumbado
+status: ai_reviewed
+name: Rotación externa de hombro acostado de lado
+search_terms:
+  - Ejercicio del manguito rotador tumbado
 description: |-
-  Este es un ejercicio para problemas del manguito rotador. Trabaja principalmente el infraespinoso y, de forma secundaria, el redondo menor.
-  Túmbate de lado. Mantén el codo pegado a la cintura y en un ángulo de 90°. Rota hacia el estómago. Añade peso según te convenga.
+  Túmbate de lado sobre una esterilla con una mancuerna ligera en la mano superior. Mantén el codo doblado a 90° y apoyado sobre el costado. Rota el antebrazo hacia arriba alejándolo del abdomen contra la gravedad para trabajar el manguito rotador (infraespinoso y redondo menor). Baja de manera lenta y controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -2,10 +2,20 @@ exercise_id: '43'
 language: en
 status: ai_reviewed
 name: Barbell Hack Squat
-description: Perform leg squats with barbell behind your legs
+search_terms:
+- Barbell Hack Squats
+description: |-
+  Starting position:
+  Place a barbell on the floor directly behind your heels. Stand with feet hip-width to shoulder-width apart. Squat down keeping your chest up and back flat, and grasp the barbell behind your legs with an overhand grip (palms facing backward).
+
+  Execution:
+  1. Drive through your heels and feet to extend your knees and hips, lifting the barbell up along the backs of your legs until you are standing fully erect.
+  2. Squeeze your quadriceps and glutes at the top.
+  3. Lower the barbell back down under control along the same path until the plates touch the floor.
+
+  Notes:
+  Keep your torso as upright as possible throughout the movement to emphasize the quadriceps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: BePieToday
   source_id: '407'
-search_terms:
-- Barbell Hack Squats

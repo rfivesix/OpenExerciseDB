@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '9'
 language: en
-status: upstream_unreviewed
-name: 2 Handed Kettlebell Swing
-description: Two Handed Russian Style Kettlebell swing
+status: ai_reviewed
+name: Two-Arm Kettlebell Swing
+search_terms:
+- Two Arm Kettlebell Swing
+- Kettlebell Swing
+description: |-
+  Starting position:
+  Stand with your feet slightly wider than shoulder-width apart, with the kettlebell placed on the floor about a foot in front of you. Hinge at your hips with a flat back and grasp the kettlebell handle firmly with both hands.
+
+  Execution:
+  1. Hike the kettlebell back between your legs like a center passing a football.
+  2. Explosively snap your hips forward and contract your glutes and hamstrings to swing the kettlebell up to chest/eye level.
+  3. Guide the kettlebell as it falls back down, absorbing the weight into your hips, and repeat in a fluid rhythm.
+
+  Notes:
+  The movement is an explosive hip hinge, not a squat. Do not lift the weight with your arms or shoulders.
 upstream:
   license: CC-BY-SA-4.0
   license_author: deusinvictus

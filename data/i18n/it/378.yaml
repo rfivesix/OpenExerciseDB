@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '378'
 language: it
-status: upstream_unreviewed
-name: Sollevamento Gambe
-description: Sollevamento GambeSollevamento Gambe
+status: ai_reviewed
+name: Sollevamento gambe alle parallele
+search_terms:
+  - Sollevamento Gambe
+description: |-
+  Appoggia gli avambracci sui cuscinetti della postazione per addominali (sedia del capitano), afferra le maniglie e mantieni il corpo sospeso con il busto stabile contro lo schienale. Solleva le gambe in avanti in modo controllato contraendo l'addome fino a formare un angolo retto con il busto, fai una breve pausa e ridiscendi lentamente senza oscillare.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

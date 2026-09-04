@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '71'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensión de Cuádriceps a una Pierna
 description: |-
   Esta variante es excelente para aislar cada cuádriceps de forma individual, ayudando a corregir desbalances de fuerza y a mejorar la conexión mente-músculo.

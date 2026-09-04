@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '9'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Kettlebell-Swing beidhändig
-description: Beidhändiger Kettlebell-Swing im russischen Stil.
+description: |-
+  Ausgangsposition:
+  Stelle dich etwas mehr als schulterbreit hin. Die Kettlebell steht etwa eine Schuhlänge vor dir auf dem Boden. Beuge die Hüfte nach hinten (Hip Hinge) bei geradem Rücken und leicht gebeugten Knien und greife das Horn der Kettlebell mit beiden Händen.
+
+  Bewegung:
+  1. Ziehe die Kettlebell aktiv wie bei einem Football-Snap nach hinten durch die Beine.
+  2. Strecke explosiv die Hüfte und Knie durch kraftvolle Kontraktion von Gesäß- und Oberschenkelmuskulatur, um die Kettlebell auf Brust- bzw. Augenhöhe nach oben schwingen zu lassen.
+  3. Lasse die Kugel kontrolliert zurückschwingen, federe den Schwung in der Hüfte ab und wiederhole die Bewegung rhythmisch.
+
+  Hinweise:
+  Die Bewegung ist ein Hüftschwung (Hinge), kein Kniebeugen. Die Arme bleiben locker und heben das Gewicht nicht aktiv an.
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: deusinvictus

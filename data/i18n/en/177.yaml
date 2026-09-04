@@ -1,14 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '177'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cycling
 description: |-
-  Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport. People engaged in cycling are referred to as cyclists, bicyclists, or bikers. Apart from two-wheeled bicycles, cycling also includes the riding of unicycles, tricycles, quadracycles, recumbent and similar human-powered vehicles.
+  Starting position:
+  Adjust your bicycle or stationary bike saddle height so that when the pedal is at the bottom of the stroke, your knee has a slight bend (about 25–35 degrees). Position the handlebars so you can grip them comfortably with relaxed shoulders and a neutral spine.
+
+  Execution:
+  1. Pedal in smooth, continuous circles with a steady cadence.
+  2. Apply force through the balls of your feet, pressing down and pulling through the rotation.
+  3. Maintain an even pace and adjust resistance according to your workout target.
+
+  Notes:
+  Keep your core stable to prevent your hips from rocking side-to-side in the saddle. Maintain regular, rhythmic breathing.
 upstream:
   license: CC0-1.0
   license_author: BFad07

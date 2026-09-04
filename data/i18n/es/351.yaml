@@ -5,14 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '351'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Elevaciones lateral a frontal
 description: |-
-  -(1) Realiza una elevación lateral y haz una pausa en la parte alta del movimiento (2).
-  -En lugar de bajar el peso, llévalo hacia el frente de tu cuerpo, de modo que parezca que estás en la posición alta de una elevación frontal. Esto lo lograrás con un movimiento de aperturas (Pec Fly), manteniendo los brazos rectos. (3)
-  -Ahora baja el peso hacia los cuádriceps, es decir, baja las mancuernas como si completaras una repetición de elevación frontal. (4)
-  -Invierte el movimiento: realiza una elevación frontal (5), en el punto más alto del movimiento usa un movimiento de aperturas inversas para colocar los pesos en la posición alta de una elevación lateral (6), y por último, baja los pesos hasta que las palmas prácticamente toquen los laterales de tus muslos (7). ESTO ES UNA REPETICIÓN.
-  (1) l vista frontal (2) -l- VF (3) l- vista lateral (4) l VL/VF (5) l- VL (6) -l- VF (7) l VF/VL
+  - Realiza una elevación lateral hasta la altura de los hombros y haz una breve pausa.
+  - En lugar de bajar el peso, lleva las mancuernas hacia el frente de tu cuerpo con los brazos rectos, terminando en la posición alta de una elevación frontal.
+  - Baja las mancuernas de forma controlada frente a tus muslos.
+  - Invierte el movimiento: realiza una elevación frontal hasta la altura de los hombros, abre los brazos hacia los laterales a la posición de elevación lateral y baja los pesos a los lados del cuerpo. Esto completa una repetición.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

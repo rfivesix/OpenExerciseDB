@@ -1,10 +1,10 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '354'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Latzug mit Rücklage
-description: Lehne dich zurück und ziehe zur Brust.
+description: |-
+  Setze dich an den Latzugturm, fixiere die Oberschenkel unter den Polstern und greife die Latzugstange etwas mehr als schulterbreit. Lehne den Oberkörper leicht nach hinten (ca. 20–30 Grad) und ziehe die Stange kontrolliert zum oberen Brustbereich, während du die Schulterblätter aktiv nach hinten-unten ziehst. Führe das Gewicht langsam wieder nach oben zurück.
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow

@@ -1,12 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '167'
 language: hr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trbušnjaci
+description: |-
+  Početni položaj:
+  Lezite na leđa na prostirku sa savijenim koljenima i stopalima ravno na podu u širini kukova. Ruke postavite lagano iza glave ili ih prekrižite na prsima.
+
+  Izvođenje:
+  1. Kontrakcijom trbušnih mišića podignite lopatice i gornji dio leđa od poda, savijajući kralježnicu prema zdjelici.
+  2. Zadržite maksimalnu kontrakciju jednu sekundu na vrhu pokreta uz izdisaj.
+  3. Polako i kontrolirano se spustite natrag u početni položaj bez potpunog opuštanja napetosti u trbuhu.
+
+  Napomene:
+  Nemojte rukama povlačiti vrat prema naprijed. Donji dio leđa mora ostati u stalnom kontaktu s podlogom.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '148'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extension des mollets à la machine Hackenschmidt
 description: |-
   Installez-vous sur la machine, le dos fermement appuyé contre le dossier, les pieds posés sur la plateforme pour les extensions de mollets. Vérifiez que les pieds dépassent à moitié et que vous pouvez étirer complètement les muscles des mollets vers le bas.

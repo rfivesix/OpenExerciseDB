@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '71'
 language: de
-status: upstream_unreviewed
-name: Beinstrecker Einbeinig
+status: ai_reviewed
+name: Einbeiniger Beinstrecker
+search_terms:
+- Beinstrecker Einbeinig
+- Einbeiniges Beinstrecken
 description: |-
-  Der Bewegungsablauf ist wie beim beidbeinigem Beinstrecker:
-  Setze dich in die Beinstreckermaschine. Der Rücken soll einen festen Halt haben, stelle die Maschine so ein, dass du fest sitzt. In der Anfangsposition sind die Beine entwas nach hinten angewinkelt. Drücke das Gewicht nach oben bis die Beine nahezu vollständig ausgestreckt sind. Gehe langsam und kontrolliert wieder runter.
+  Ausgangsposition:
+  Setze dich in die Beinstreckermaschine und stelle die Rückenlehne so ein, dass deine Kniekehle an der Sitzkante anliegt und der Rücken fest abgestützt ist. Platziere das Polster am unteren Schienbein knapp über dem Sprunggelenk des aktiven Beins. Das andere Bein bleibt entspannt am Boden oder auf der Fußraste.
+
+  Bewegung:
+  1. Strecke das Bein über die Kraft des Quadrizeps kontrolliert nach oben, bis das Knie fast vollständig gestreckt ist.
+  2. Halte die Kontraktion am obersten Punkt für eine Sekunde.
+  3. Senke das Gewicht langsam und kontrolliert wieder ab, ohne dass die Gewichtsplatten aufsetzen, und wiederhole die Bewegung.
+
+  Hinweise:
+  Führe erst alle Wiederholungen mit einem Bein aus, bevor du zum anderen Bein wechselst. Das einbeinige Training hilft, muskuläre Dysbalancen auszugleichen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

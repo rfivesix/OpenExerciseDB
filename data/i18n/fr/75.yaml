@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '75'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé couché avec haltères
 description: |-
   Le mouvement est très similaire au développé couché avec une barre, mais le poids est ramené plus bas sur la poitrine.

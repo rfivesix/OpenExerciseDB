@@ -5,16 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '454'
 language: it
-status: upstream_unreviewed
-name: Flessioni del luccio
+status: ai_reviewed
+name: Pike Push-Up
+search_terms:
+  - Flessioni del luccio
+  - Piegamenti a V
 description: |-
-  Posizione di sguardo:
-  Cane rivolto verso il basso:Il tuo corpo dovrebbe formare una forma a V, con la schiena, le braccia e le gambe dritte. I tuoi fianchi dovrebbero essere in aria.Puoi raggiungere questa posizione camminando con le mani indietro da un plank alto.
-  Passi:
-
-  Piegare i gomiti di lato, mantenendo la schiena e le gambe dritte e avvicinando la testa al pavimento.
-  Raddrizzare le braccia, spingendo i fianchi verso l'alto e mantenendo la schiena e le gambe dritte.
-  Ripetere.
+  Posizione di partenza:
+  Assumi la posizione a V rovesciata (cane a testa in giù) con bacino alto in aria, braccia, gambe e schiena distese. Le mani sono leggermente più larghe delle spalle.
+  Esecuzione:
+  1. Fletti i gomiti controllando il movimento, portando la sommità della testa in avanti verso il pavimento.
+  2. Spingi con forza attraverso i palmi per tornare alla posizione di partenza estendendo completamente le braccia.
+  3. Ripeti per il numero desiderato di ripetizioni.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

@@ -1,19 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '112'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Body-Ups
+search_terms:
+- Body up
 description: |-
   Assume a plank position on the ground. You should be supporting your bodyweight on your toes and forearms, keeping your torso straight. Your forearms should be shoulder-width apart. This will be your starting position.
   Pressing your palms firmly into the ground, extend through the elbows to raise your body from the ground. Keep your torso rigid as you perform the movement.
   Slowly lower your forearms back to the ground by allowing the elbows to flex.
   Repeat as needed.
-search_terms:
-  - Body up
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel

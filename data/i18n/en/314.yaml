@@ -5,11 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '314'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Isometric Wipers
 description: |-
-  Assume push-up position, with hands slightly wider than&nbsp;shoulder width.
-  Shift body weight as far as possible to one side,&nbsp;allowing the elbow on that side to flex.
+  Assume push-up position, with hands slightly wider than shoulder width.
+  Shift body weight as far as possible to one side, allowing the elbow on that side to flex.
   Reverse the motion, moving completely over to the other side.
   Return to the starting position, and repeat for the desired number of repetitions.
 upstream:

@@ -1,14 +1,9 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '73'
 language: pl
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wyciskanie leżąc
 description: |-
-  Połóż się na ławce, sztanga powinna znajdować się bezpośrednio nad twoimi oczami, kolana są ugięte, nogi w lekkim rozkroku a stopy mocno oparte na podłodze. Skoncentruj się, oddychaj prawidłowo i chwyć drążek szerzej niż na szerokość barków. Opuść go powoli, aż na chwilę dotknie klatki piersiowej na wysokości sutków. Popchnij sztangę&nbsp;do góry.
+  Połóż się na ławce, sztanga powinna znajdować się bezpośrednio nad twoimi oczami, kolana są ugięte, nogi w lekkim rozkroku a stopy mocno oparte na podłodze. Skoncentruj się, oddychaj prawidłowo i chwyć drążek szerzej niż na szerokość barków. Opuść go powoli, aż na chwilę dotknie klatki piersiowej na wysokości sutków. Popchnij sztangę do góry.
   Jeśli trenujesz z dużymi ciężarami, wskazane jest posiadanie asekuranta, który pomoże Ci podnieść sztangę, jeśli nie jesteś w stanie samodzielnie unieść ciężaru.
   Dzięki szerokości chwytu możesz także kontrolować, która część klatki piersiowej jest bardziej trenowana:
 

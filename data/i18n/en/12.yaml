@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '12'
 language: en
 status: ai_reviewed
 name: Seated Hip Adduction
 description: |-
-  Starting Position: Sit on the machine with your knees inward and against the pads. Pull the pin to release the pads. Grab the handles on the sides.
+  Starting position:
+  Sit upright on the machine with your back firmly against the backrest and the pads resting against the inside of your thighs/knees. Grab the side handles for stability.
+
+  Execution:
+  1. Squeeze your thighs together against the resistance pads in a controlled movement by contracting your adductors.
+  2. Hold the peak contraction briefly as the pads come close together.
+  3. Slowly reverse the movement and open your legs, controlling the weight stack without letting the plates crash.
+
+  Notes:
+  Keep your torso stable and back flat against the pad throughout the movement.
 upstream:
   license: CC-BY-SA-3.0
   license_author: flori

@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '184'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kreuzheben
-description: |-
-  Stelle dich mit etwas mehr als schulterbreitem Stand vor der Stange, die Füße zeigen leicht nach außen, die Stange ist direkt darüber und sehr nahe am Schienbein. Beuge die Knie (zeigen ebenfalls etwas nach außen) und neige den Oberkörper (bleibt während der ganzen Übung gerade). Greife die Stange schulterbreit mit einem Unter- und einem Obergriff.
-  Ziehe nun die Stange nach oben. An der höchsten Stelle mache ein leichtes Hohlkreuz und drücke die Schultern nach hinten. Gehe wieder runter, wobei du darauf achtest, dass der Rücken gerade bleibt und sich nicht krümmt. Du kannst unten angekommen eine kleine Pause einlegen oder sofort weitermachen.
 search_terms:
-  - Deadlift
+- Deadlift
+- Konventionelles Kreuzheben
+description: |-
+  Ausgangsposition:
+  Stelle dich hüftbreit vor die Langhantel, sodass die Stange über der Mitte deiner Füße liegt (ca. 2–3 cm vor den Schienbeinen), die Fußspitzen zeigen leicht nach außen. Beuge die Hüfte nach hinten und gehe in die Knie, während der Rücken vollkommen gerade bleibt. Greife die Stange knapp außerhalb deiner Beine im Obergriff oder Kreuzgriff.
+
+  Bewegung:
+  1. Baue Körperspannung und Atemdruck (Valsalva-Manöver) auf. Drücke die Füße fest in den Boden und hebe die Hantel, indem du Knie und Hüfte gleichzeitig streckst.
+  2. Führe die Hantelstange während des gesamten Hebens eng am Körper (Schienbeine und Oberschenkel) entlang.
+  3. Richte dich ganz auf und spanne oben Gesäß und Oberschenkel an. Halte die Wirbelsäule neutral und überstrecke den unteren Rücken keinesfalls nach hinten (kein Hohlkreuz!).
+  4. Senke das Gewicht auf demselben Weg kontrolliert wieder ab, indem du zuerst die Hüfte nach hinten schiebst.
+
+  Hinweise:
+  Der Rücken muss während der gesamten Übung gerade bleiben; ein Einrunden der Wirbelsäule ist unbedingt zu vermeiden.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

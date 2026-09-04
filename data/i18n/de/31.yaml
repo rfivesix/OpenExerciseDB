@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '31'
 language: de
 status: ai_reviewed
 name: Axe Hold
 description: |-
-  Nimm die Kurzhanteln und strecke die Arme seitlich aus. Halte die Position so lange wie möglich.
+  Ausgangsposition:
+  Stelle dich aufrecht mit etwa schulterbreitem Stand hin. Spanne Bauch und Gesäß fest an. Halte in jeder Hand eine Kurzhantel seitlich am Körper.
+
+  Bewegung:
+  1. Hebe beide Kurzhanteln mit gestreckten (nur minimal im Ellbogen gebeugten) Armen seitlich an, bis die Arme parallel zum Boden auf Schulterhöhe sind.
+  2. Halte diese isometrische Position (Axe Hold) so lange wie möglich, während du die seitliche Schultermuskulatur anspannst.
+  3. Senke die Gewichte anschließend langsam und kontrolliert wieder ab.
+
+  Hinweise:
+  Ziehe die Schultern nicht zu den Ohren und halte den Oberkörper absolut aufrecht, ohne ins Hohlkreuz zu fallen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund

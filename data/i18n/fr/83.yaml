@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '83'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing buste penché
 description: |-
   En tenant une barre en prise pronation (paumes tournées vers le bas), fléchissez légèrement les genoux et penchez le buste vers l'avant en vous inclinant au niveau de la taille, tout en gardant le dos droit, jusqu'à ce qu'il soit presque parallèle au sol. Conseil : veillez à garder la tête relevée. La barre doit pendre directement devant vous, vos bras étant perpendiculaires au sol et à votre buste. C'est votre position de départ.

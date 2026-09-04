@@ -5,18 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '454'
 language: es
-status: upstream_unreviewed
-name: Flexiones de pica
+status: ai_reviewed
+name: Flexiones en pica
+search_terms:
+  - Flexiones de pica
+  - Pike push-up
 description: |-
-  Posición de mirada fija:
-  Perro mirando hacia abajo:Tu cuerpo debe hacer una forma de V, con la espalda, los brazos y las piernas rectas. Las caderas deben estar en el aire.Puedes llegar a esta posición caminando con las manos hacia atrás desde una plancha alta.
+  Posición inicial:
+  Colócate en posición de V invertida (perro boca abajo), con los brazos, piernas y espalda rectos y las caderas elevadas. Las manos deben estar a una anchura ligeramente mayor que la de los hombros.
   Pasos:
-  1.Dobla los codos hacia los lados, manteniendo la espalda y las piernas rectas y acercando la cabeza al suelo.
-
-  Estira los brazos, empujando las caderas hacia atrás y manteniendo la espalda y las piernas rectas.
-
-
-  Repite la operación.
+  1. Flexiona los codos de manera controlada llevando la coronilla hacia el suelo ligeramente por delante de las manos.
+  2. Empuja con fuerza con los hombros y tríceps para volver a extender los brazos por completo.
+  3. Repite la operación.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

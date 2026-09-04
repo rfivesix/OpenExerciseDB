@@ -1,14 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '152'
 language: de
 status: ai_reviewed
 name: Klimmzug im Untergriff (Chin-up)
-description: Wie normale Klimmzüge, aber im Untergriff.
+description: |-
+  Ausgangsposition:
+  Hänge dich an eine Klimmzugstange mit schulterbreitem Untergriff (Kammgriff / Supination), sodass deine Handflächen zu deinem Gesicht zeigen. Die Arme sind vollständig gestreckt, der Rumpf ist angespannt und die Schulterblätter sind leicht nach unten gezogen.
+
+  Bewegung:
+  1. Ziehe deinen Körper kraftvoll nach oben, indem du die Ellbogen nach unten und hinten führst, bis sich dein Kinn deutlich über der Stange befindet.
+  2. Halte die Kontraktion am obersten Punkt für einen kurzen Moment und spanne Bizeps und Latissimus an.
+  3. Senke dich langsam und kontrolliert wieder in die vollständige Streckung (Deadhang) ab.
+
+  Hinweise:
+  Vermeide Schwungholen oder Treten mit den Beinen. Der Untergriff beansprucht neben dem Latissimus besonders stark den Bizeps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

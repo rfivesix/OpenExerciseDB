@@ -1,14 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '171'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Addominali su panca inclinata
-description: |-
-  Sdraiarsi sulla schiena su una panca inclinata, i piedi sono su un'estremità della panca. Chiedete a un compagno o utilizzate un altro aiuto (bilanciere, ecc.) per tenerli fissi, le mani sono dietro la testa. Da questa posizione, muovete il busto verso l'alto finché la testa o i gomiti non toccano le ginocchia. Eseguire questo movimento arrotolando la schiena.
+description: Sdraiarsi sulla schiena su una panca inclinata, i piedi sono su un'estremità della panca. Chiedete a un compagno
+  o utilizzate un altro aiuto (bilanciere, ecc.) per tenerli fissi, le mani sono dietro la testa. Da questa posizione, muovete
+  il busto verso l'alto finché la testa o i gomiti non toccano le ginocchia. Eseguire questo movimento arrotolando la schiena.
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO

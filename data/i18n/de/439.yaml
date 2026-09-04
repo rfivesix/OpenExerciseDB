@@ -1,10 +1,10 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '439'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Kabelzug-Bizepscurl im Obergriff
-description: Halte die Hände auf Schulterhöhe, ziehe die Arme zum Kopf hin und strecke sie dann wieder aus.
+description: |-
+  Stelle dich vor den Kabelzug und greife den Griff im Obergriff (Pronation, Handrücken nach oben). Halte die Oberarme stabil etwa auf Schulterhöhe und beuge die Arme, um den Griff kontrolliert zum Gesicht bzw. oberen Brustbereich zu ziehen. Strecke die Arme anschließend langsam wieder gegen den Widerstand aus.
 upstream:
   license: CC-BY-SA-3.0
   license_author: ThisGirl0819

@@ -1,20 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '142'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotation externe à la poulie
 description: |-
-  Étapes :
+  Position de départ :
+  Réglez la poulie à hauteur de coude. Placez-vous de profil par rapport à la tour de poulies et saisissez la poignée avec la main la plus éloignée (bras extérieur). Fléchissez le coude à 90 degrés et gardez-le bien calé contre le flanc.
 
-  Commencez par fixer un élastique autour d'un poteau ou dans un endroit sûr où il ne se détachera pas, à hauteur du coude.
-  Placez-vous sur le côté de l'élastique et, avec la main opposée à l'élastique, tendez le bras et saisissez la poignée.
-  Ramenez l'élastique vers votre poitrine en gardant le coude plié à un angle de 90 degrés, puis tournez lentement votre bras vers l'arrière de manière à effectuer une rotation externe.
-  Continuez vers l'extérieur aussi loin que possible afin de ressentir un étirement dans vos épaules, maintenez la position le temps d'un décompte, puis revenez à la position de départ.
-  Répétez pour autant de répétitions et de séries que vous le souhaitez.
+  Exécution :
+  1. En gardant le coude fixe contre le corps, pivotez l'avant-bras vers l'extérieur de manière à effectuer une rotation externe de l'épaule.
+  2. Marquez un temps d'arrêt en fin de mouvement en contractant la coiffe des rotateurs.
+  3. Revenez lentement à la position de départ en contrôlant le retour.
+
+  Conseils :
+  Ne tournez pas le buste ; le mouvement doit provenir exclusivement de l'articulation de l'épaule.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '81'
 language: es
-status: upstream_unreviewed
-name: Remo con mancuernas
+status: ai_reviewed
+name: Remo con mancuerna a una mano en banco
+search_terms:
+- Remo con mancuernas
+- Remo unilateral con mancuerna
 description: |-
-  Con las mancuernas en la mano, flexiona la cadera hasta que las manos cuelguen justo por debajo de las rodillas (similar a la posición inicial de pierna recta). Mantenga constante el ángulo de la parte superior del cuerpo mientras contrae los músculos dorsales para llevar los codos hacia atrás, pellizcando los omóplatos en la parte superior. Intenta no levantarte en cada repetición, comprueba que las manos quedan por debajo de las rodillas en cada repetición.
+  Posición inicial:
+  Apoya una rodilla y la mano del mismo lado sobre un banco plano, manteniendo la espalda recta y el torso paralelo al suelo. Apoya el otro pie firmemente en el piso para darte estabilidad. Sujeta una mancuerna con la mano libre, dejando que el brazo cuelgue hacia abajo.
+
+  Ejecución:
+  1. Jala la mancuerna hacia tu cadera llevando el codo hacia atrás y arriba, manteniéndolo cerca del cuerpo.
+  2. Aprieta el dorsal y retrae la escápula en la parte superior del movimiento durante un segundo.
+  3. Baja la mancuerna de forma lenta y controlada hasta estirar completamente el dorsal.
+
+  Notas:
+  Mantén el torso estable sin rotar la columna al subir el peso. Completa las repeticiones con un brazo antes de cambiar al otro.
 upstream:
   license: CC-BY-SA-4.0
   license_author: sebk

@@ -1,20 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '142'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable External Rotation
 description: |-
-  Steps:
+  Starting position:
+  Set the cable pulley to elbow height. Stand sideways to the cable tower and grasp the handle with your outside hand (the hand furthest from the cable). Bend your elbow to a 90-degree angle and keep it pinned against your flank (you may place a small rolled towel between your elbow and torso).
 
-  Start off placing an extension band around a post or in a secure position where it will not release and is at elbow level.
-  Position yourself to the side of the band and with your hand that is opposite of the band, reach out and grab the handle.
-  Bring the band to your chest keeping your elbow bent in a 90 degree angle then slowly rotate your arm in a backhand motion so that the band externally rotates out
-  Continue out as far as possible so that you feel a stretch in your shoulders, hold for a count and then return back to the starting position.
-  Repeat for as many reps and sets as desired.
+  Execution:
+  1. Keeping your elbow securely tucked against your side, rotate your forearm outward away from your body as far as comfortable.
+  2. Squeeze your rotator cuff muscles at the end range of motion and pause for a second.
+  3. Slowly return the handle back across your torso to the starting position under control.
+
+  Notes:
+  Keep your torso stationary without twisting your spine or hips. The rotation must originate purely from the shoulder joint.
 upstream:
   license: CC-BY-SA-3.0
   license_author: lauroernesto

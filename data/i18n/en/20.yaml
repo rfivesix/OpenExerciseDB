@@ -1,22 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '20'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arnold Shoulder Press
-# Description expanded from German source (source_id: 228)
-description: |-
-  Hold two dumbbells in front of your chest with palms facing inwards, elbows below the wrists.
-  Bring the elbows outward and press the dumbbells overhead, rotating from the elbows rather than the arms.
-  Once arms are extended, reverse the movement back to the starting position.
 search_terms:
-  - Schwarzenegger Press
-  - Palm-to-Palm Overhead Press
-  - Rotational Dumbbell Press
-  - Dumbbell Corkscrew Press
+- Schwarzenegger Press
+- Palm-to-Palm Overhead Press
+- Rotational Dumbbell Press
+- Dumbbell Corkscrew Press
+description: |-
+  Starting position:
+  Sit upright on a bench with back support. Hold two dumbbells in front of your chest at shoulder height, palms facing your body (supinated) with elbows tucked under your wrists.
+
+  Execution:
+  1. Press the dumbbells overhead while smoothly rotating your hands outward so that your palms face forward (pronated) at the top of the lift.
+  2. Fully extend your arms without locking out your elbows.
+  3. Slowly lower the dumbbells back along the same path, rotating your palms back toward your chest to return to the starting position.
+
+  Notes:
+  Perform the rotation smoothly throughout the upward and downward press. Maintain a tight core and neutral spine against the backrest.
 upstream:
   license: CC-BY-SA-3.0
   license_author: trzr23

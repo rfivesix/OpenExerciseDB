@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '406'
 language: fr
-status: upstream_unreviewed
-name: Exercice de coiffe des rotateurs allongé
+status: ai_reviewed
+name: Rotation externe de l'épaule couché sur le côté
+search_terms:
+  - Exercice de coiffe des rotateurs allongé
 description: |-
-  Il s'agit d'un exercice pour les problèmes de la coiffe des rotateurs. Muscle principal : l'infra-épineux ; muscle secondaire : le petit rond.
-  Allongez-vous sur le côté. Gardez le coude calé contre la taille et fléchi à 90°. Effectuez une rotation vers le ventre. Ajoutez du poids selon votre niveau.
+  Allongez-vous sur le côté sur un tapis avec un haltère léger dans la main supérieure. Gardez le coude plié à 90° et plaqué contre le flanc. Effectuez une rotation externe de l'avant-bras vers le haut, en éloignant la charge de l'abdomen pour cibler l'infra-épineux et le petit rond, puis redescendez lentement sous contrôle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

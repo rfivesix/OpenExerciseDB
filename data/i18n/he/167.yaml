@@ -1,12 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '167'
 language: he
-status: upstream_unreviewed
+status: ai_reviewed
 name: כפיפות בטן
+description: |-
+  עמדת מוצא:
+  שכב על הגב על גבי מזרן כאשר הברכיים כפופות וכפות הרגליים מונחות שטוחות על הרצפה ברוחב האגן. הנח את הידיים בקלילות מאחורי הראש או שלב אותן על החזה.
+
+  ביצוע:
+  1. כווץ את שרירי הבטן וגלגל את פלג הגוף העליון קדימה, תוך הרמת השכמות והגב העליון מהרצפה.
+  2. החזק את הכיווץ המרבי לשנייה אחת בשיא התנועה תוך כדי הוצאת אוויר.
+  3. רד באיטיות ובאופן מבוקר בחזרה לעמדת המוצא מבלי לנתק את הגב התחתון מהקרקע.
+
+  דגשים:
+  הימנע ממשיכת הצוואר בעזרת הידיים ושמור על מבט באלכסון למעלה.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

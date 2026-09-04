@@ -1,16 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '177'
 language: de
-status: ai_raw
-translated_from: en
-name: Fahrrad fahren
+status: ai_reviewed
+name: Radfahren
+search_terms:
+- Fahrrad fahren
+- Fahrradfahren
+- Indoor Cycling
+- Ergometer
 description: |-
-  Fahrradfahren, auch Radfahren genannt, ist die Nutzung von Fahrrädern für Transport, Freizeit, Bewegung oder Sport. Menschen, die Rad fahren, werden als Radfahrer oder Biker bezeichnet. Neben zweirädrigen Fahrrädern umfasst das Fahrradfahren auch das Fahren von Einrädern, Dreirädern, Vierrädern, Liegerädern und ähnlichen von Menschen angetriebenen Fahrzeugen.
+  Ausgangsposition:
+  Stelle die Sattelhöhe deines Fahrrads oder Ergometers so ein, dass das Knie am tiefsten Punkt der Kurbelumdrehung noch leicht gebeugt ist (ca. 25–35 Grad). Halte den Lenker mit entspannten Schultern und geradem Rücken.
+
+  Bewegung:
+  1. Trete gleichmäßig und rhythmisch in die Pedale.
+  2. Achte auf einen runden Tritt, bei dem du sowohl nach unten drückst als auch aktiv über den Totpunkt führst.
+  3. Halte eine gleichmäßige Trittfrequenz (Kadenz) und wähle den Widerstand entsprechend deinem Trainingsziel.
+
+  Hinweise:
+  Vermeide es, im Sattel von Seite zu Seite zu wiegen. Halte den Rumpf stabil und atme gleichmäßig.
+translated_from: en
 upstream:
   license: CC0-1.0
   license_author: BFad07

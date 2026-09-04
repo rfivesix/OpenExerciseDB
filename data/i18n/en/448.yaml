@@ -9,7 +9,8 @@ language: en
 status: ai_reviewed
 name: Pendlay Row
 description: |-
-  Back excercise with a barbell with a starting position which is in a bent over position with the back paralell to the ground. The barbell is on the ground at chest level.For the movement grab the barbell at shoulder width grip and pull towards your chest without losing the bent over position and without moving anything but your arms
+  A barbell back exercise performed from a bent-over stance with your torso parallel to the ground. The barbell starts at rest on the floor for every repetition.
+  Grip the barbell with a shoulder-width overhand grip, brace your core, and pull the bar explosively to your lower chest or upper abdomen without altering your hip angle. Lower the bar completely back to the floor before starting the next rep.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Nallitnas

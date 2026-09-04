@@ -2,12 +2,8 @@ exercise_id: '418'
 language: en
 status: ai_reviewed
 name: EZ-Bar Military Press
-description: On an SZ-bar grip your hands on the outside of each bend and stand with
-  your arms straight down, palms facing your legs. Pull the bar (bending your arms
-  at the elbow) to your chest, and the push the bar above your head (arms as straight
-  as possible). Return the bar to your chest by dropping your arms at the elbows.
-  Return the bar to it's origional position (stand with your arms straight down, palms
-  facing your legs.)
+description: |-
+  Stand tall holding an EZ-curl bar at shoulder level in front of your upper chest with an overhand grip. Brace your core and press the bar vertically overhead until your arms are fully extended. Lower the bar smoothly under control back to your upper chest and repeat.
 upstream:
   license: CC-BY-SA-3.0
   license_author: mbozi1

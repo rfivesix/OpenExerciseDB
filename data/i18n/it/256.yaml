@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '256'
 language: it
-status: upstream_unreviewed
-name: Distensione lento avanti Bilanciere
-description: Distensione lento avanti BilanciereDistensione lento avanti Bilanciere
+status: ai_reviewed
+name: Alzate frontali con manubri
+search_terms:
+  - Distensione lento avanti Bilanciere
+  - Front raise con manubri
+description: |-
+  In piedi con le gambe alla larghezza delle spalle, impugna un manubrio in ciascuna mano tenendoli davanti alle cosce con presa prona (palmi rivolti verso il corpo) oppure neutra.
+  Solleva le braccia in avanti mantenendo i gomiti appena flessi, fino a portare i manubri all'altezza degli occhi o delle spalle per isolare il deltoide anteriore.
+  Evita di darti slancio con la schiena o il bacino. Abbassa lentamente i manubri in modo controllato tornando alla posizione iniziale.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Manu, wikipedia

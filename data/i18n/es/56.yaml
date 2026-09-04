@@ -1,14 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '56'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estabilización abdominal
-description: |-
-  Acuéstate con las rodillas flexionadas y contrae el abdomen como si te prepararas para recibir un golpe suave. Siente la tensión en el frente, los costados y la espalda baja. Mantén esta firmeza durante 10-20 segundos sin dejar de respirar y sin aplastar la zona lumbar contra el suelo.
+description: Acuéstate con las rodillas flexionadas y contrae el abdomen como si te prepararas para recibir un golpe suave.
+  Siente la tensión en el frente, los costados y la espalda baja. Mantén esta firmeza durante 10-20 segundos sin dejar de
+  respirar y sin aplastar la zona lumbar contra el suelo.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

@@ -8,7 +8,11 @@ exercise_id: '205'
 language: de
 status: ai_reviewed
 name: Ausfallschritte mit Kurzhanteln im Stehen
-description: .
+description: |-
+  Ausgangsposition: Stelle dich aufrecht hin, halte in jeder Hand eine Kurzhantel seitlich am Körper und stelle die Füße etwa hüftbreit auf.
+  Ausführung: Mache mit einem Bein einen weiten Schritt nach vorne und senke die Hüfte kontrolliert ab, bis beide Knie etwa einen 90-Grad-Winkel bilden. Das hintere Knie stoppt kurz vor dem Boden.
+  Rückkehr: Drücke dich über die Ferse des vorderen Fußes kräftig zurück in die Ausgangsposition und wiederhole die Bewegung mit dem anderen Bein.
+  Hinweis: Halte den Oberkörper stets aufrecht und die Bauchmuskulatur angespannt.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

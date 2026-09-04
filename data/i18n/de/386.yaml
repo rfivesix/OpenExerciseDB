@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '386'
 language: de
-status: upstream_unreviewed
-name: Liegestüzten Diamond
+status: ai_reviewed
+name: Diamant-Liegestütze
+search_terms:
+  - Liegestüzten Diamond
+  - Diamond Push-ups
 description: |-
-  Liegestütze mit Händen zusammen. Die Hände werden so nebeneinander gelegt, das Daumen und Zeigefinger eine Raute (Diamant) bilden
+  Begib dich in die Liegestützposition und platziere die Hände eng unter der Brust, sodass Daumen und Zeigefinger ein Dreieck bzw. eine Raute (Diamant) bilden. Senke die Brust kontrolliert ab, wobei die Ellbogen nah am Körper bleiben, und drücke dich mit Betonung auf den Trizeps wieder nach oben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: notdefine

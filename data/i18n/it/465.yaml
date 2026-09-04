@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '465'
 language: it
-status: upstream_unreviewed
-name: Curl su Panca a 45°
+status: ai_reviewed
+name: Curl alla panca Scott con bilanciere EZ
+search_terms:
+  - Curl su Panca a 45°
+  - Preacher curl
 description: |-
-  Posiziona la barra EZ curl sulle maniglie di riposo davanti alla panca del predicatore. Appoggiati alla panca e afferra la barra EZ curl con i palmi rivolti verso l'alto. Sedersi sulla panca del predicatore in modo che la parte superiore delle braccia poggi sulla parte superiore dell'imbottitura e il petto sia premuto contro l'imbottitura. Abbassa il peso finché i gomiti non sono estesi e le braccia sono dritte. Riporta i pesi al punto di partenza contraendo i bicipiti. Ripetere
+  Posiziona il bilanciere EZ sui supporti davanti alla panca Scott. Siediti mantenendo le braccia e il petto ben appoggiati al cuscino inclinato e afferra l'asta con presa supina. Abbassa il peso in modo controllato fino a quasi distendere completamente i gomiti, quindi fletti le braccia contraendo i bicipiti per risalire. Ripeti.
 upstream:
   license: CC-BY-SA-3.0
   license_author: cgoob883

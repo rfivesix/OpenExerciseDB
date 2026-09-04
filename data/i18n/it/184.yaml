@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '184'
 language: it
-status: upstream_unreviewed
-name: Stacco
+status: ai_reviewed
+name: Stacco da terra
+search_terms:
+- Stacco
+- Stacco con bilanciere
 description: |-
-  StaccoStacco
-  Stacco
+  Posizione di partenza:
+  Posizionati davanti al bilanciere con i piedi alla larghezza dei fianchi e le punte leggermente all'infuori. La barra deve trovarsi a metà del piede, a circa 2-3 cm dagli stinchi. Fletti i fianchi e piega le ginocchia mantenendo la schiena dritta e il petto aperto; afferra il bilanciere appena all'esterno delle gambe con presa prona o mista.
+
+  Esecuzione:
+  1. Inspira profondamente, crea pressione intra-addominale e spingi energicamente il pavimento attraverso i talloni.
+  2. Solleva il bilanciere mantenendolo sempre aderente agli stinchi e alle cosce mentre estendi contemporaneamente ginocchia e anche.
+  3. Raggiungi la posizione eretta contraendo i glutei al lockout, mantenendo la colonna vertebrale neutra (senza iperestendere la zona lombare).
+  4. Riporta il bilanciere a terra invertendo il movimento in modo controllato.
+
+  Note:
+  Non curvare mai la schiena e mantieni le scapole retratte durante tutta l'alzata.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
