@@ -1,9 +1,11 @@
 exercise_id: '1436'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ピン・ベンチプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2400'
+description: |-
+  【開始姿勢】パワーラックのセーフティピンを胸の少し上に設定し、ベンチに仰向けになります。【動作手順】ピンの上からバーベルを押し上げ、再びピンの上に着地させて一瞬脱力・静止してから押し上げます。【ポイント】大胸筋の初動力とスティッキングポイントの強化に効果的です。

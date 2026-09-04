@@ -1,9 +1,11 @@
 exercise_id: '1441'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: インクライン・ダンベルショルダープレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2405'
+description: |-
+  【開始姿勢】背もたれを70〜80度の高角度に設定したインクラインベンチに座り、ダンベルを肩の高さに構えます。【動作手順】息を吐きながらダンベルを頭上へ押し上げ、三角筋前部を収縮させます。【ポイント】腰を反らせず背もたれに密着させ、安全に肩の前部を鍛えます。

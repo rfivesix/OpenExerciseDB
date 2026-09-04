@@ -1,9 +1,13 @@
 exercise_id: '1410'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: プランク・レッグリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2374'
+description: |-
+  開始姿勢：床に前腕部とつま先をつき、体をまっすぐに伸ばしたプランクをとります。
+  動作手順：体幹を水平に維持したまま片脚を床から持ち上げ、大臀筋を収縮させてから戻し、交互に行います。
+  ポイント：脚を持ち上げたときに腰が反ったり骨盤が傾いたりしないよう、腹直筋を強く引き締めます。

@@ -1,9 +1,13 @@
 exercise_id: '1430'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: プレートピンチホールド
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2395'
+description: |-
+  開始姿勢：滑らかなウェイトプレートを親指と他の4本の指で挟むようにして持ちます。
+  動作手順：腕を下ろして直立し、手根屈筋群と指の力でプレートを一定時間落とさないよう保持します。
+  ポイント：手首をまっすぐに固定し、指先のピンチグリップ力を最大限に動員して耐えます。

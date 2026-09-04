@@ -1,9 +1,13 @@
 exercise_id: '1426'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スタンディング・サイドクランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2391'
+description: |-
+  開始姿勢：足を肩幅に開いて直立し、片手を頭の後ろに添え、体重を反対側の足に乗せます。
+  動作手順：同じ側の肘と膝を真横で引き合わせるように引き上げ、腹斜筋を強く収縮させます。
+  ポイント：体が前傾しないよう真横で動かし、バランスを保ちながらリズミカルに行います。

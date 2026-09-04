@@ -1,9 +1,11 @@
 exercise_id: '1447'
 language: ja
-status: ai_raw
-translated_from: en
-name: スナッチ (ウエイトリフティング)
+status: ai_reviewed
+translated_from: de
+name: オリンピック・スナッチ (競技スナッチ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2411'
+description: |-
+  開始姿勢: バーベルの前にワイドスタンスで構え、幅広のグリップでバーを握ります。背筋を真っ直ぐ伸ばして腰を落とします。動作手順: 床からバーベルを爆発的に引き上げ、トリプルエクステンション (股関節・膝・足首の伸展) を経て、素早くオーバーヘッドスクワットの姿勢でバーの下に潜り込みます。腕を完全にロックアウトしてキャッチし、立ち上がります。ポイント: 瞬発力、全身の連動性、柔軟性を極限まで高めるウエイトリフティング種目です。

@@ -1,9 +1,11 @@
 exercise_id: '1445'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ジャーク (重量挙げ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2409'
+description: |-
+  【開始姿勢】鎖骨の上にバーベルを保持して直立します。【動作手順】膝を素早く曲げて伸ばす反動を利用し、頭上へバーベルを突き上げると同時に前後に足を開いて下に入り込みます。【ポイント】三角筋と全身の瞬発力をフルに活用し、頭上でバーを安定させます。

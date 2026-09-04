@@ -1,9 +1,11 @@
 exercise_id: '1458'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クロスボディ・ケーブルYレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2423'
+description: |-
+  【開始姿勢】左右のクロスケーブルを交差させて握り、プーリーを低い位置に設定します。【動作手順】腕を斜め上前方へ引き上げ、三角筋中部と僧帽筋下部を収縮させます。【ポイント】僧帽筋上部に頼りすぎず、肩甲骨の自然な上方回旋を意識します。

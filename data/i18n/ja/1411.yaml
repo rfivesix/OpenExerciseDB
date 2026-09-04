@@ -1,9 +1,13 @@
 exercise_id: '1411'
 language: ja
-status: ai_raw
-translated_from: en
-name: ペンドレイロー
+status: ai_reviewed
+translated_from: de
+name: ヒールタッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2376'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を曲げて足を床につけ、腕を体側に伸ばします。
+  動作手順：肩甲骨を床から少し浮かせ、上体を横に屈曲させて指先で同じ側の踵にタッチし、交互に行います。
+  ポイント：腹斜筋をしっかりと収縮させ、首を痛めないよう目線はおへそに向けて動作します。

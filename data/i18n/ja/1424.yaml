@@ -1,9 +1,13 @@
 exercise_id: '1424'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マシン・バイセップスカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2387'
+description: |-
+  開始姿勢：マシンのシートに座り、肘をパッドの回転軸に合わせてグリップを握ります。
+  動作手順：肘を固定したままグリップを手前に巻き上げ、上腕二頭筋を力強く収縮させます。
+  ポイント：背筋を伸ばし、戻す局面でも重りの負荷を感じながらコントロールして腕を伸ばします。

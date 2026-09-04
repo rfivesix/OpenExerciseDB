@@ -1,9 +1,13 @@
 exercise_id: '1450'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダイヤモンド・プッシュアップ
+status: ai_reviewed
+translated_from: de
+name: コブラストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2415'
+description: |-
+  開始姿勢：マットの上にうつ伏せになり、両手を胸の横の床につけます。
+  動作手順：手のひらで床を押して胸を持ち上げ、骨盤を床につけたまま腹直筋を心地よく伸ばします。
+  ポイント：腰に負担がかからないよう肩を下げ、深呼吸を繰り返しながらリラックスして伸ばします。

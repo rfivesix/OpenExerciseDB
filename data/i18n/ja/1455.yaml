@@ -1,9 +1,13 @@
 exercise_id: '1455'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: タオル・スーパーマン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Yderkone
   source_id: '2421'
+description: |-
+  開始姿勢：マットにうつ伏せになり、両手でタオルの両端をピンと張った状態で頭上に伸ばします。
+  動作手順：タオルを引っ張り合いながら胸を持ち上げ、肘を曲げてタオルを胸元へ引き寄せて戻します。
+  ポイント：脊柱起立筋と広背筋を意識し、背中のアーチを保ったまま肩甲骨を寄せます。

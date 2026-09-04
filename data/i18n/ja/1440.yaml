@@ -1,9 +1,11 @@
 exercise_id: '1440'
 language: ja
-status: ai_raw
-translated_from: en
-name: デクライン・バーベルベンチプレス
+status: ai_reviewed
+translated_from: de
+name: プッシュプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2404'
+description: |-
+  【開始姿勢】バーベルを鎖骨の高さで構え、足を腰幅に開いて立ちます。【動作手順】膝を軽く曲げてディップし、脚の反動を使ってバーベルを頭上へ一気に押し上げます。【ポイント】下半身のパワーを三角筋前部と上腕三頭筋に伝え、頭上でしっかりとロックします。

@@ -1,9 +1,11 @@
 exercise_id: '1442'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: インクライン・ダンベル・クライスプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2406'
+description: |-
+  【開始姿勢】インクラインベンチに座り、ダンベルを構えます。【動作手順】頭上へのプレスの軌道に沿って、両ダンベルを円を描くように回しながら押し上げます。【ポイント】三角筋前部と上腕三頭筋を連動させ、滑らかな円軌道で動作します。

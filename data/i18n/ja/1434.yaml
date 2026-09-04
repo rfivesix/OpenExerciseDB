@@ -1,9 +1,11 @@
 exercise_id: '1434'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダンベル・ラットプル
+status: ai_reviewed
+translated_from: de
+name: ダンベル・ラットプル (前傾ダンベルプル)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2398'
+description: |-
+  開始姿勢: 膝を軽く曲げ、股関節から上体を前傾させます。両手にダンベルを持ち、腕を斜め下方に伸ばします。動作手順: 肘を軽く曲げた状態を保ちながら、ダンベルを体側に沿わせて背中の方向へ引き寄せます。広背筋の収縮を意識したら、ゆっくりとコントロールして開始位置に戻します。ポイント: 背中を丸めず、腹圧を高めて腰を守りながら行います。

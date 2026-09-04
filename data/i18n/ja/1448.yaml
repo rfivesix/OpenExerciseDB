@@ -1,9 +1,13 @@
 exercise_id: '1448'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・Wカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2412'
+description: |-
+  開始姿勢：インクラインベンチに座り、両手にダンベルを持って腕を斜め外側に垂らします。
+  動作手順：肘を固定したままダンベルを外側へ向けて巻き上げ、上腕二頭筋短頭を強く収縮させます。
+  ポイント：腕をWの字を描くように広げて行い、二頭筋内側のストレッチと収縮を強調します。

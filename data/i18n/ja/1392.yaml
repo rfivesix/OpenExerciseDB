@@ -1,9 +1,20 @@
 exercise_id: '1392'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 自重グッドモーニング
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2359'
+description: |-
+  開始姿勢:
+  足を肩幅よりやや広めに開き、両手を後頭部に添えて立ちます。背筋を伸ばして胸を張ります。
+
+  動作手順:
+  1. 膝をごくわずかに曲げた状態を保ち、股関節を後方へ突き出すように上体を前に倒します（ヒンジ動作）。
+  2. 背筋を真っ直ぐにしたまま、上体が床と平行近くになるまで前傾させます。
+  3. 大臀筋とハムストリングスを収縮させ、腰を前に押し出して元の直立姿勢に戻ります。
+
+  ポイント:
+  背中が丸まらないように肩甲骨を寄せ、股関節の折り曲げ動作を意識します。

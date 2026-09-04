@@ -1,9 +1,11 @@
 exercise_id: '1439'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ピン・オーバーヘッドプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2403'
+description: |-
+  【開始姿勢】パワーラックのピンを顎の高さにセットし、バーベルをその上に置きます。【動作手順】バーの下に入り込み、静止した状態から頭上へ爆発的にバーベルを押し上げます。【ポイント】三角筋前部と上腕三頭筋の立ち上がり筋力を鍛え、反動を使わずに行います。

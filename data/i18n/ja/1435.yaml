@@ -1,9 +1,11 @@
 exercise_id: '1435'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スキャプラプル (肩甲骨懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2399'
+description: |-
+  開始姿勢: 肩幅よりやや広めのグリップで懸垂バーを握り、腕を真っ直ぐ伸ばして完全にぶら下がります (デッドハング)。動作手順: 肘を曲げずに、肩甲骨を下方へ引き下げて寄せる力だけで身体を数センチ持ち上げます。トップで一瞬静止し、ゆっくりと脱力して元のぶら下がり姿勢に戻ります。ポイント: 懸垂の初動強化や肩関節の安定性向上、僧帽筋下部の活性化に最適です。

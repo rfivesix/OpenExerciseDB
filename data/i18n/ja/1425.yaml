@@ -1,9 +1,13 @@
 exercise_id: '1425'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: トータップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2389'
+description: |-
+  開始姿勢：仰向けに寝て両膝と股関節を90度に曲げて持ち上げます（テーブルトップ姿勢）。
+  動作手順：腰を床に押し付けたまま、片脚ずつ膝の角度を保ってつま先で床を軽くタップして戻します。
+  ポイント：腹直筋と腹横筋を意識し、足を下ろしたときに腰が床から浮かないよう注意します。

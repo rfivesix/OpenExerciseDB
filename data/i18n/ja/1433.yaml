@@ -1,9 +1,13 @@
 exercise_id: '1433'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バンド・リバースウッドチョップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2397'
+description: |-
+  開始姿勢：低い位置に固定したレジスタンスバンドの端を両手で持ち、横向きに構えます。
+  動作手順：対角線上の斜め上方に向かって腕を振り上げながら体幹を回旋させ、腹斜筋を収縮させます。
+  ポイント：腕だけで引っ張らず、下半身から体幹のひねりを連動させて力強く回転させます。

@@ -1,9 +1,20 @@
 exercise_id: '1408'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ウォールシット
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2372'
+description: |-
+  開始姿勢:
+  壁に背中を密着させ、足を肩幅に開いて壁から約2歩前に出します。
+
+  動作手順:
+  1. 背中を壁につけたまま滑り降り、太ももが床と平行（膝の角度が90度）になる位置で止まります。
+  2. 膝がつま先の真上に来るように保ち、両手は太ももから離して胸の前や体側に置きます。
+  3. この姿勢を保ったまま、大腿四頭筋に力を入れて指定の時間キープします。
+
+  ポイント:
+  関節を動かさずに大腿四頭筋を等尺性収縮（アイソメトリック）で追い込む定番種目です。
