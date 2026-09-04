@@ -1,9 +1,11 @@
 exercise_id: '2540'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirage vertical isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5011'
+description: |-
+  Assis à la poulie haute, descendez la barre à hauteur de clavicules et maintenez la contraction de manière isométrique continue contre la charge.

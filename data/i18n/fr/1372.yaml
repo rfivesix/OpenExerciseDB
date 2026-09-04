@@ -1,9 +1,11 @@
 exercise_id: '1372'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dips assistés à la machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: matpn
   source_id: '2338'
+description: |-
+  Dips réalisés sur une machine à contrepoids réglable, facilitant l'apprentissage du mouvement de poussée verticale pour les triceps et les pectoraux.

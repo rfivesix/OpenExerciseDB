@@ -1,9 +1,11 @@
 exercise_id: '1516'
 language: fr
-status: ai_raw
-translated_from: en
-name: Équilibre sur les mains (Handstand)
+status: ai_reviewed
+translated_from: de
+name: Équilibre sur les mains libre (Handstand)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69
   source_id: '2475'
+description: |-
+  Équilibre libre sur les mains sans support mural : verrouillez les coudes, engagez les deltoïdes et maintenez l'alignement par des micro-ajustements des doigts au sol.

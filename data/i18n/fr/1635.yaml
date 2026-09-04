@@ -1,9 +1,11 @@
 exercise_id: '1635'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirage vertical modifié
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2741'
+description: |-
+  Face à la poulie haute, assis sur un banc légèrement incliné, effectuez un tirage vertical prise serrée en focalisant l'effort sur le bas des dorsaux.

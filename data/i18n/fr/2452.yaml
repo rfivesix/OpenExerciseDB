@@ -1,9 +1,11 @@
 exercise_id: '2452'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Flexion du poignet avec barre
+name: Flexion des poignets à la barre (avant-bras)
 upstream:
   license: CC-BY-SA-4.0
   license_author: xWan
   source_id: '4929'
+description: |-
+  Assis sur un banc, les avant-bras reposant à plat sur les cuisses avec les poignets dépassant des genoux, tenez une barre en supination et effectuez des flexions de poignets de bas en haut pour renforcer les avant-bras.

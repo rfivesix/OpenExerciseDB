@@ -1,9 +1,11 @@
 exercise_id: '279'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pince de musculation des avant-bras (Hand Grip)
 upstream:
   license: CC-BY-SA-4.0
   license_author: vince63
   source_id: '317'
+description: |-
+  Serrez fermement une pince de musculation (hand grip) dans la paume de la main jusqu'à fermeture complète pour développer la force des doigts et des avant-bras.

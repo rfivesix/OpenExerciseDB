@@ -1,8 +1,10 @@
 exercise_id: '1755'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirage en Y pour épaules à la poulie
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2892'
+description: |-
+  Debout au centre d'une double poulie, croisez les câbles et tirez les coudes vers le haut et l'extérieur en formant un Y pour solliciter les rotateurs d'épaule.

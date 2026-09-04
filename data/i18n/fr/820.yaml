@@ -1,9 +1,11 @@
 exercise_id: '820'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Suspension sur réglette de 20 mm (Poutre)
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1074'
+description: |-
+  Suspension chronométrée sur une réglette de 20 mm d'une poutre de suspension pour développer la force de préhension des doigts.

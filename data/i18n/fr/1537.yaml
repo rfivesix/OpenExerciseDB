@@ -1,9 +1,11 @@
 exercise_id: '1537'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Suspension isométrique en haut de traction
 upstream:
   license: CC-BY-SA-4.0
   license_author: DiscoCop
   source_id: '2492'
+description: |-
+  Maintenez la position haute ou médiane d'une traction à la barre fixe de façon statique pendant la durée indiquée.

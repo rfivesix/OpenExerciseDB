@@ -1,9 +1,11 @@
 exercise_id: '20'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé Arnold avec haltères
 upstream:
   license: CC-BY-SA-3.0
   license_author: trzr23
   source_id: '227'
+description: |-
+  Haltères tenus devant la poitrine, paumes vers l'intérieur, développez les charges vers le haut tout en effectuant une rotation des poignets vers l'extérieur pour terminer paumes vers l'avant.

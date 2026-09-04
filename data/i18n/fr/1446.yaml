@@ -1,9 +1,11 @@
 exercise_id: '1446'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Épaulé-jeté d'haltérophilie (Clean and Jerk)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2410'
+description: |-
+  Mouvement olympique complet combinant l'épaulé de la barre depuis le sol jusqu'aux clavicules, suivi immédiatement du jeté explosif au-dessus de la tête.

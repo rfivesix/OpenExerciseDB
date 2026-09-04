@@ -1,8 +1,10 @@
 exercise_id: '2498'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pompes en pique (Pike push-ups)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4980'
+description: |-
+  Variante de pompe pour débutants avec le bassin levé vers le haut, permettant d'apprendre la poussée verticale au poids du corps avec une charge adaptée.

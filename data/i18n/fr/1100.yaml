@@ -1,9 +1,11 @@
 exercise_id: '1100'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Wall Balls avec médecine-ball
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2059'
+description: |-
+  Tenez un médecine-ball devant la poitrine, descendez en squat complet puis projetez la balle de façon explosive contre une cible murale en hauteur avant de la rattraper.

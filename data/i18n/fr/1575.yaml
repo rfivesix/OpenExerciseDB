@@ -1,9 +1,11 @@
 exercise_id: '1575'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé épaules debout avec bâton
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2523'
+description: |-
+  Debout, développez un bâton de bois ou un manche léger au-dessus de la tête en maintenant une trajectoire parfaite pour échauffer et mobiliser les épaules.

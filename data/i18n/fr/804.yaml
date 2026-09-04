@@ -1,9 +1,11 @@
 exercise_id: '804'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Suspension sur prises fuyantes (Slopers)
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1071'
+description: |-
+  Suspension statique bras tendus sur les prises plates et fuyantes (slopers) d'une poutre d'entraînement d'escalade.

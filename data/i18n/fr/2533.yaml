@@ -1,9 +1,11 @@
 exercise_id: '2533'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Suspension en arche (Arch hang)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan
   source_id: '5002'
+description: |-
+  Suspendu à la barre bras tendus, creusez le haut du dos en engageant fortement les omoplates et les dorsaux vers l'arrière sans plier les bras.

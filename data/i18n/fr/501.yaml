@@ -1,9 +1,11 @@
 exercise_id: '501'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Dips aux anneaux
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '360'
+description: |-
+  En appui sur des anneaux de gymnastique, descendez en fléchissant les coudes jusqu'à 90 degrés tout en stabilisant les anneaux, puis repoussez pour remonter.

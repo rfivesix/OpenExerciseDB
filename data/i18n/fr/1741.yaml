@@ -1,9 +1,11 @@
 exercise_id: '1741'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tractions en L-Sit
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2871'
+description: |-
+  Maintenez les jambes tendues à l'horizontale en L-sit tout en effectuant des tractions à la barre fixe, combinant force de tirage et gainage intense.

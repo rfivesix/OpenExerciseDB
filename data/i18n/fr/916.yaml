@@ -1,9 +1,11 @@
 exercise_id: '916'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé épaules au cadre guidé (Smith machine)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1195'
+description: |-
+  Assis sur un banc réglé à 85-90 degrés dans le cadre guidé, poussez la barre guidée au-dessus de la tête en contrôlant la descente jusqu'au menton.

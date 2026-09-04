@@ -1,9 +1,11 @@
 exercise_id: '1333'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Flexions des poignets en supination (avant-bras)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2303'
+description: |-
+  Assis, avant-bras posés sur les cuisses, tenez une barre ou des haltères en supination et effectuez des enroulements des poignets vers le haut.

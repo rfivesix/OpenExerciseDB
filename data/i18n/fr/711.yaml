@@ -1,9 +1,11 @@
 exercise_id: '711'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Équilibre contre le mur (Handstand)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '359'
+description: |-
+  En équilibre sur les mains face ou dos au mur pour sécuriser l'appui, maintenez l'alignement vertical du corps en repoussant le sol activement avec les épaules.

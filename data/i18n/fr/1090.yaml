@@ -1,9 +1,11 @@
 exercise_id: '1090'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pompes en V (V-Push-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2042'
+description: |-
+  Pompes avec le bassin surélevé en V inversé, focalisant la poussée sur les deltoïdes antérieurs et le haut de la poitrine.

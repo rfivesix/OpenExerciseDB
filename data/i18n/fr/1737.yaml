@@ -1,8 +1,10 @@
 exercise_id: '1737'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tractions en supination assistées
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2867'
+description: |-
+  Réalisez des tractions en prise supination (paumes tournées vers vous) avec l'assistance d'un contrepoids ou d'un élastique pour alléger la charge.

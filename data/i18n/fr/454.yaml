@@ -1,13 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '454'
 language: fr
-status: upstream_unreviewed
-name: Pompes piquées
+status: ai_reviewed
+name: Pompes piquées (Pike push-up)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '1356'
+translated_from: de
+description: |-
+  En position de V inversé (fesses hautes et jambes droites), fléchissez les coudes pour descendre le sommet du crâne vers le sol puis repoussez fermement avec les épaules.

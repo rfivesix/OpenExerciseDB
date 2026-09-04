@@ -1,9 +1,11 @@
 exercise_id: '2537'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Développé militaire isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5008'
+description: |-
+  Maintenez une charge fixe au-dessus de la tête à bout de bras en contraction isométrique statique pour développer la stabilité des épaules.

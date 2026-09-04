@@ -1,9 +1,11 @@
 exercise_id: '1719'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirage unilatéral un genou à terre à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2844'
+description: |-
+  Un genou au sol (position du chevalier servant), tirez la poignée de la poulie haute d'une main vers l'épaule en gardant le buste immobile et gainé.

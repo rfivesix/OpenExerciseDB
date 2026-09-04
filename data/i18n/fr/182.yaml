@@ -1,9 +1,11 @@
 exercise_id: '182'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Suspension à la barre (Deadhang)
 upstream:
   license: CC-BY-SA-4.0
   license_author: 2dPREtEZP221u68Akf0JImv5L48
   source_id: '347'
+description: |-
+  Suspension passive ou active à la barre fixe ou sur une réglette, à deux mains, permettant de décompresser la colonne et de renforcer le grip.
