@@ -283,8 +283,15 @@ ein Flag an der falschen Achse: die dazugehörige Invariante sperrte es auf
 `primary_equipment: bodyweight` und erzwang damit ausgerechnet für die
 Assistenzmaschine — den Fall, um den es geht — die sachlich falsche Antwort.
 
-`body_region` wird aus den Primärmuskeln **abgeleitet** und nicht von Hand
-gepflegt — dann kann sie auch nicht mehr widersprüchlich werden.
+`body_region` wird im SQLite-Artefakt aus den Primärmuskeln **abgeleitet**
+(`upper_body`, `lower_body`, `core`, oder `full_body` bei Muskeln aus mehreren
+Regionen) und nicht von Hand gepflegt — dann kann sie auch nicht mehr
+widersprüchlich werden:
+- `upper_body`: chest, back, shoulders, biceps, triceps, forearms, neck
+- `lower_body`: glutes, quads, hamstrings, adductors, calves
+- `core`: abs, lower_back
+- `full_body`: Primärmuskeln spannen über mehrere der obigen Regionen
+
 
 ---
 
@@ -569,8 +576,9 @@ und eine falsche Zuweisung plausibel aussieht. Deshalb:
   Übergang ab.
 - **`contribution`-Gewichte**: Zeitpunkt der Einführung, frühestens nach
   stabilen Zuweisungen.
-- **Kategorie-Ableitung**: exakte Regel für `body_region` aus den
-  Primärmuskeln bei Übungen mit Primärmuskeln aus mehreren Gruppen.
+- **Kategorie-Ableitung**: Exakte Regel für `body_region` ist in
+  `build/build_db.py` umgesetzt (`upper_body`, `lower_body`, `core`, `full_body`).
+
 - **`de` zurück auf `tier: curated`.** Deutsch ist beim Import auf `upstream`
   gesetzt, weil es nur 628 von 871 Übungen abdeckt und Invariante 4 sonst ab
   Tag eins rot stünde. Sobald die Lücke geschlossen ist, gehört es zurück auf

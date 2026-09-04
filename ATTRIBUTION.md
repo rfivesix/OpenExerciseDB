@@ -24,14 +24,14 @@ eventually. Attribution is owed to those individual contributors, not to "wger"
 as a whole.
 
 <!-- BEGIN GENERATED LIST -->
-Across 909 exercises and 5413 translations, **249 distinct upstream authors** are credited. 934 of 6322 records carry no author upstream.
+Across 909 exercises and 5423 translations, **249 distinct upstream authors** are credited. 934 of 6332 records carry no author upstream.
 
 ### Original licenses
 
 | License | Records |
 |---|---|
-| `CC-BY-SA-4.0` | 5502 |
-| `CC-BY-SA-3.0` | 681 |
+| `CC-BY-SA-4.0` | 5511 |
+| `CC-BY-SA-3.0` | 682 |
 | `CC0-1.0` | 139 |
 
 ### Languages
@@ -41,7 +41,7 @@ Across 909 exercises and 5413 translations, **249 distinct upstream authors** ar
 | `ar` | 48 | 11 |
 | `az` | 1 | 1 |
 | `cs` | 51 | 15 |
-| `de` | 898 | 136 |
+| `de` | 908 | 140 |
 | `el` | 48 | 11 |
 | `en` | 909 | 240 |
 | `eo` | 2 | 0 |
@@ -98,7 +98,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - bel (2)
 - BeLikeWater (16)
 - benjamin.yildiz (4)
-- BePieToday (2)
+- BePieToday (3)
 - BFad07 (90)
 - bizyguy (6)
 - bl0sh (6)
@@ -114,9 +114,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - captive0592 (52)
 - carlos3c (20)
 - Cerin (5)
-- Cf (2)
+- Cf (3)
 - cgoob883 (5)
-- clafal (152)
+- clafal (153)
 - cleen (10)
 - colundrum (5)
 - cozyGalvinism (4)
@@ -140,7 +140,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - drthurlow (10)
 - Dulive (4)
 - dvdfernandez95 (8)
-- ege (16)
+- ege (18)
 - Epiphany8424 (4)
 - er0355 (14)
 - erikocobra (36)
@@ -194,9 +194,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - kwrindy (7)
 - lakerbeezel (4)
 - lauroernesto (4)
-- lbroggi (21)
+- lbroggi (22)
 - LEBRERO (6)
-- lh1701 (2)
+- lh1701 (3)
 - lhegedus (4)
 - lion (4)
 - lxmx (20)
@@ -237,7 +237,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - oboema (4)
 - OGhTebfCxhexZXuf35mUxV9C--A (6)
 - p177erpher (1)
-- painDpice (14)
+- painDpice (15)
 - Papazit (7)
 - PaukOne (8)
 - Paul@Chemistry (6)
@@ -248,7 +248,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - philip (40)
 - phpi (5)
 - pjwirth (7)
-- polloperro (30)
+- polloperro (31)
 - powerade69 (5)
 - prevail90 (4)
 - probablyforging (6)
@@ -303,7 +303,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - vkylamba (4)
 - wakanda90 (8)
 - wampir5000 (3)
-- wger.de (1708)
+- wger.de (1709)
 - wgerjhn (105)
 - wgerpott (4)
 - Whythebigpaws (4)

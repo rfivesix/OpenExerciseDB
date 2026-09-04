@@ -162,14 +162,14 @@ muscles:
         body_slugs: [frontDeltoids]
       - id: delt_lateral
         names: { en: Side delt, de: Seitliche Schulter, fr: Deltoïde latéral, it: Deltoide laterale, ja: "三角筋中部 (側部)" }
-        body_slugs: [frontDeltoids, backDeltoids]
+        body_slugs: [frontDeltoids]
       - id: delt_posterior
         names: { en: Rear delt, de: Hintere Schulter, fr: Deltoïde postérieur, it: Deltoide posteriore, ja: 三角筋後部 }
         body_slugs: [backDeltoids]
   - id: rotator_cuff
     group: shoulders
     names: { en: Rotator cuff, de: Rotatorenmanschette, fr: Coiffe des rotateurs, it: Cuffia dei rotatori, ja: "回旋筋腱板 (ローテーターカフ)" }
-    body_slugs: [backDeltoids]
+    body_slugs: []
 
   # ---------------- Arms ----------------
   - id: biceps_brachii

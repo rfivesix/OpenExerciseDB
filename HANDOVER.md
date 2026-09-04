@@ -129,10 +129,10 @@ vollständig.
 | **Dünne Quellen zuerst** — 119 englische Beschreibungen unter 12 Wörtern | vor der Ableitung, sonst werden daraus 357 dünne Texte |
 | **Vorhandene `fr`/`it` prüfen** — 566 + 142 ungeprüfte Alttexte | die zwei mechanischen Prüfungen genügen |
 | **3 aktiv-aktiv-Dubletten** dedupen: `382/1852`, `478/1440`, `805/1661` | `1654/1744` ist über den Merge-Mechanismus erledigt |
-| **`languages.displayable`** steht für `it`/`ja` auf 0 trotz >90 % Abdeckung | die App soll dem Feld glauben können |
-| **`languages.completeness`** liefert Werte über 1 (`en` 1,047) | Zählfehler im Build |
-| **`exercises.body_region`** ist in allen 909 Zeilen NULL | SCHEMA §6 verspricht sie als abgeleitet — füllen oder streichen |
-| **`delt_lateral`** trägt beide Delta-Slugs, färbt Seitheben auf beiden Ansichten | eine Zeile in `vocab/muscles.yaml` |
+| **`languages.displayable`** steht für `it`/`ja` auf 0 | wird mit Paket 2 (Vollständigkeit ≥95 %) automatisch 1 |
+| **`languages.completeness`** lieferte Werte über 1 | Behoben in `build/build_db.py` (nur aktive Übungen zählen) |
+| **`exercises.body_region`** war in allen Zeilen NULL | Behoben in `build/build_db.py` (aus Primärmuskeln abgeleitet) |
+| **`delt_lateral`** trug beide Delta-Slugs | Behoben in `vocab/muscles.yaml` (nur `frontDeltoids`; `rotator_cuff` leer) |
 | **Attribution in der Train-Libre-App** — die ausgelieferte DB hat keine Lizenzangaben | eigenes Ticket im App-Repo |
 
 ### Einzelfälle, die noch niemand entschieden hat

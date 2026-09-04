@@ -228,6 +228,40 @@ def json_array(values: list[Any] | None) -> str | None:
     return json.dumps(values, ensure_ascii=False) if values else None
 
 
+GROUP_TO_BODY_REGION: dict[str, str] = {
+    "chest": "upper_body",
+    "back": "upper_body",
+    "shoulders": "upper_body",
+    "biceps": "upper_body",
+    "triceps": "upper_body",
+    "forearms": "upper_body",
+    "neck": "upper_body",
+    "glutes": "lower_body",
+    "quads": "lower_body",
+    "hamstrings": "lower_body",
+    "adductors": "lower_body",
+    "calves": "lower_body",
+    "abs": "core",
+    "lower_back": "core",
+}
+
+
+def derive_body_region(vocab: Vocabularies, primary_muscle_ids: list[str]) -> str | None:
+    """Leitet die Koerperregion aus den Primaermuskeln gemaess SCHEMA.md 6 ab."""
+    groups = {
+        vocab.muscles.nodes[m].group_id
+        for m in primary_muscle_ids
+        if m in vocab.muscles.nodes
+    }
+    regions = {GROUP_TO_BODY_REGION[g] for g in groups if g in GROUP_TO_BODY_REGION}
+    if not regions:
+        return None
+    if len(regions) == 1:
+        return next(iter(regions))
+    return "full_body"
+
+
+
 def legacy_muscle_json(vocab: Vocabularies, node_ids: list[str]) -> str:
     """JSON-Array der wger-Legacy-Namen, wie die heutige App sie erwartet.
 
@@ -386,7 +420,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                 exercise.get("load_mode"),
                 1 if exercise.get("supports_added_weight") else 0,
                 exercise.get("primary_equipment"),
-                exercise.get("body_region"),
+                exercise.get("body_region") or derive_body_region(vocab, primary),
                 # --- Kompatibilitaetsspalten
                 exercise.source_fields.get("category") or CATEGORY_OTHER,
                 legacy_muscle_json(vocab, primary),
@@ -449,9 +483,11 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                     # Ohne die Garantie wuerden hier 20 Sprachen je 871 Zeilen
                     # englischen Text unter fremder Flagge erzeugen.
                     continue
-                fallback_counts[code] += 1
+                if exercise.status == "active":
+                    fallback_counts[code] += 1
             else:
-                native_counts[code] += 1
+                if exercise.status == "active":
+                    native_counts[code] += 1
 
             upstream = text.upstream
             translation_rows.append(
@@ -485,8 +521,8 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
     for code, language in vocab.languages.items():
         native = native_counts.get(code, 0)
         delivered = native + fallback_counts.get(code, 0)
-        completeness = native / active_count if active_count else 0.0
-        delivered_share = delivered / active_count if active_count else 0.0
+        completeness = min(1.0, native / active_count) if active_count else 0.0
+        delivered_share = min(1.0, delivered / active_count) if active_count else 0.0
         # `completeness` ist die ehrliche Zahl: wie viel ist wirklich uebersetzt.
         # `displayable` beantwortet die andere Frage: kann die Oberflaeche diese
         # Sprache ohne Loecher anbieten? Fuer eine Sprache mit
