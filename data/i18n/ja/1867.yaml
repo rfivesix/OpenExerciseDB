@@ -1,9 +1,13 @@
 exercise_id: '1867'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 腸腰筋・股関節屈筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3009'
+description: |-
+  開始姿勢：マットの上で片膝立ちのランジ姿勢をとり、両手を前足の膝の上に置きます。
+  動作手順：背筋を立てたまま骨盤を前下方へ沈め、後ろ側の股関節屈筋群をゆっくりと伸ばします。
+  ポイント：腰を反らさずに大臀筋を意識し、太もも前部から付け根にかけてじんわりと伸ばします。

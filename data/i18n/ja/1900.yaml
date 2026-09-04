@@ -1,9 +1,13 @@
 exercise_id: '1900'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ロープ・トライセプスプッシュダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3047'
+description: |-
+  開始姿勢：ハイプーリーにロープを取り付け、両手で握って軽く上体を前傾させます。
+  動作手順：肘を体側に固定したまま下向きにロープを押し下げ、フィニッシュで手首を外側に広げて上腕三頭筋を収縮させます。
+  ポイント：戻すときも重りの重さに耐えながら肘の位置を保ち、三頭筋の緊張を持続させます。

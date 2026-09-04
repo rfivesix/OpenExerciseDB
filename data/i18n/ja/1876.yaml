@@ -1,9 +1,20 @@
 exercise_id: '1876'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 支持付きふくらはぎストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3018'
+description: |-
+  開始姿勢:
+  壁や頑丈な手すりの前に立ち、両手でしっかりと支えます。片足を後ろに大きく引きます。
+
+  動作手順:
+  1. 後ろ足の踵を床に押し付け、膝を真っ直ぐ伸ばしたまま上体を前へ傾けて体重をかけます。
+  2. ふくらはぎ（腓腹筋）全体が十分にストレッチされる位置で20〜30秒間維持します。
+  3. 脚を入れ替えて反対側も同様に行います。
+
+  ポイント:
+  支持物に体重を預けることで、リラックスした状態で最大伸張を引き出せます。

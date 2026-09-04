@@ -1,9 +1,20 @@
 exercise_id: '1875'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スタンディング腸脛靭帯ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3017'
+description: |-
+  開始姿勢:
+  壁の横に立ち、片手を壁について支えます。壁に近い方の脚をもう一方の脚の後ろへ交差させます。
+
+  動作手順:
+  1. 後ろにクロスした脚の骨盤を壁側（外側）へ押し出すように重心をスライドさせます。
+  2. 体側から太もも外側（腸脛靭帯・大腿筋膜張筋）にかけて心地よい伸びを感じる位置でキープします。
+  3. 向きを変えて反対側も行います。
+
+  ポイント:
+  骨盤をしっかり外側へシフトさせることで、太もも外側の筋膜を的確に伸ばします。

@@ -1,9 +1,20 @@
 exercise_id: '1886'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スーパイン・ヒップアブダクション
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster
   source_id: '3032'
+description: |-
+  開始姿勢:
+  マットの上に仰向けに寝転がり、両脚を天井に向かって垂直に伸ばします。両腕は体側に置きます。
+
+  動作手順:
+  1. 重力に従いながら、コントロールを保って両脚をゆっくりと左右に大きく開きます（外転）。
+  2. 内もも（股関節内転筋群）の心地よいストレッチを感じる最大幅まで開きます。
+  3. 内転筋群を収縮させ、両脚を力強く閉じて垂直の開始位置に戻します。
+
+  ポイント:
+  仰向けで行うことで腰への負担を排除し、安全に内転筋群の柔軟性と筋力を強化できます。

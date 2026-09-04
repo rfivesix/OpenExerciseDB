@@ -1,9 +1,11 @@
 exercise_id: '1905'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バーベル・ウォーキングランジ
+name: ケーブル・プルバック (ベントオーバー・プルバック)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3052'
+description: |-
+  開始姿勢: ケーブルマシンのハンドルを握り、数歩下がって膝を曲げ、上体を前傾させます。腕を前方に伸ばします。動作手順: 肘を引いてケーブルを引き寄せると同時に、背筋を伸展させて胸を起こします。トップで背筋全体を強く収縮させ、コントロールしながら元の前傾姿勢へ戻します。ポイント: 背中の牽引力と脊柱の起立運動を連動させ、背部全体を包括的に鍛えます。

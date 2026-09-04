@@ -1,9 +1,11 @@
 exercise_id: '1882'
 language: ja
-status: ai_raw
-translated_from: en
-name: ハイケーブル・ラテラルレイズ
+status: ai_reviewed
+translated_from: de
+name: ハイケーブル・ラテラルレイズ (腰高さプーリー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Deflation
   source_id: '3026'
+description: |-
+  【開始姿勢】プーリーを腰の高さにセットしたケーブルマシンの横に立ち、ハンドルを握ります。【動作手順】肘をわずかに曲げたまま、腕を肩の高さまで真横へ引き上げます。【ポイント】三角筋中部 (側部)に最も強い負荷がかかるモーメントアームを活かして動作します。

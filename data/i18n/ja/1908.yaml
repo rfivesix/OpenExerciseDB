@@ -1,9 +1,13 @@
 exercise_id: '1908'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バタフライ・スーパーマン
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3055'
+description: |-
+  開始姿勢：マットの上にうつ伏せになり、両腕を頭上へ伸ばして両脚を揃えます。
+  動作手順：胸と足を床から浮かせて脊柱起立筋を収縮させ、同時に腕を大きく円を描くように体側まで回して戻します。
+  ポイント：首を過度に反らさず目線を床に向け、水泳のバタフライのように滑らかに動かします。

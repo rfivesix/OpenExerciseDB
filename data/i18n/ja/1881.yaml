@@ -1,9 +1,13 @@
 exercise_id: '1881'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・リストエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Deflation
   source_id: '3025'
+description: |-
+  開始姿勢：ベンチに座り、前腕部を大腿に乗せて手首を膝の先に出し、ダンベルを順手（手の甲を上）で握ります。
+  動作手順：手首を反らせてダンベルを持ち上げ、手根伸筋群を収縮させた後、ゆっくりと下ろします。
+  ポイント：腕を浮かせずに手首のみを動かし、反動を使わずにコントロールします。

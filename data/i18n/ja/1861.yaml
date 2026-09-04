@@ -1,9 +1,11 @@
 exercise_id: '1861'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 体側ストレッチ
+name: サイドストレッチ (体側・広背筋ストレッチ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3003'
+description: |-
+  開始姿勢: 足を肩幅に開いて直立し、背筋を伸ばします。動作手順: 片腕を頭上に高く伸ばし、息を吐きながら上体をゆっくりと反対側へ倒していきます。体側、肋骨周り、そして広背筋が気持ちよく伸びるのを感じながら深呼吸を維持し、ゆっくりと戻して反対側も行います。ポイント: 骨盤を正面に向けたまま、体を前後に倒さないよう真横にストレッチします。

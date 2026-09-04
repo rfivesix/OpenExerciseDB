@@ -1,9 +1,11 @@
 exercise_id: '1885'
 language: ja
-status: ai_raw
-translated_from: en
-name: YTWLレイズ
+status: ai_reviewed
+translated_from: de
+name: YTWLエクササイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster
   source_id: '3030'
+description: |-
+  開始姿勢: 股関節から上体を前傾させるか、インクラインベンチにうつ伏せになります。親指を常に上に向けます。動作手順: 腕を斜め前上に伸ばして「Y」を作り肩甲骨を寄せ、真横に開いて「T」を作り、肘を90度に曲げて引き「W」を作り、最後に肘を体側に固定して前腕を外旋させて「L」を作ります。各文字で肩甲骨を収縮させます。ポイント: 肩のインナーマッスルと肩甲骨周囲筋を網羅的に強化し、肩関節の健全性を保ちます。

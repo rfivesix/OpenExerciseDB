@@ -1,9 +1,11 @@
 exercise_id: '1893'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・オーバーヘッドプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3040'
+description: |-
+  【開始姿勢】足を揃えて立ち、バーベルを鎖骨の高さで構えます。【動作手順】体幹を締め、バーベルを頭上へ垂直に押し上げて腕を伸ばし切ります。【ポイント】三角筋前部と上腕三頭筋を動員し、バーをまっすぐな軌道で押し上げます。

@@ -1,9 +1,20 @@
 exercise_id: '1864'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 足首回し
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3006'
+description: |-
+  開始姿勢:
+  椅子または床に座り、片足を床から浮かせるか、反対側の膝の上に乗せます。
+
+  動作手順:
+  1. 足先で空中にできるだけ大きな円を描くように、足首をゆっくりと時計回りに回します。
+  2. 最大可動域で10〜15回転行ったら、反時計回りにも同様に回します。
+  3. 反対側の足首も行います。
+
+  ポイント:
+  足関節の滑走性を高め、怪我予防やスクワットの安定した足裏接地をサポートします。

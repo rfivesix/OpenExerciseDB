@@ -1,9 +1,11 @@
 exercise_id: '1902'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 加重プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3049'
+description: |-
+  【開始姿勢】背中の上部にプレートを乗せ、腕立て伏せの姿勢をとります。【動作手順】体幹をまっすぐに保ちながら胸を床近くまで下ろし、力強く押し上げます。【ポイント】大胸筋と上腕三頭筋に自重以上の高負荷をかけ、筋肥大を促進します。

@@ -1,9 +1,11 @@
 exercise_id: '1901'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・クリーン＆プレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3048'
+description: |-
+  【開始姿勢】床にあるバーベルを構え、背筋を伸ばします。【動作手順】下半身の爆発力でバーを肩へ引き上げてクリーンし、続いて頭上へ力強くプレスします。【ポイント】三角筋前部と全身の瞬発力を連動させ、ダイナミックに行います。
