@@ -1,9 +1,16 @@
 exercise_id: '1448'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl a W da seduto con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2412'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca inclinata a circa 60 gradi. Tieni i manubri lungo i fianchi con le braccia distese e i palmi ruotati verso l'esterno.
+
+  Esecuzione:
+  1. Fletti i gomiti sollevando i manubri diagonalmente verso l'esterno a formare una W con le braccia.
+  2. Contrai i bicipiti e abbassa i manubri lentamente tornando a braccia distese.

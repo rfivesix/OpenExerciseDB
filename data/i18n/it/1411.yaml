@@ -1,9 +1,18 @@
 exercise_id: '1411'
 language: it
-status: ai_raw
-translated_from: en
-name: Rematore Pendlay con bilanciere
+status: ai_reviewed
+translated_from: de
+name: Tocco dei talloni a terra (Heel Touches)
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2376'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su un tappetino con le ginocchia flesse e i piedi piatti sul pavimento, aperti alla larghezza delle anche. Le braccia sono distese lungo i fianchi con i palmi rivolti verso il basso.
+
+  Esecuzione:
+  1. Solleva leggermente la testa, il collo e le spalle da terra mantenendo lo sguardo verso il soffitto per non comprimere la cervicale.
+  2. Fletti lateralmente il busto verso destra allungando la mano destra fino a toccare il tallone destro, contraendo con forza i muscoli obliqui.
+  3. Ritorna al centro e fletti immediatamente il busto verso sinistra fino a toccare il tallone sinistro.
+  4. Continua ad alternare i tocchi a ritmo costante e fluido.

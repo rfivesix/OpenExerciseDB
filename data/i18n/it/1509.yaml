@@ -1,9 +1,16 @@
 exercise_id: '1509'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Croci al cavo dal basso verso l'alto
+name: Kickback per tricipiti al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2468'
+description: |-
+  Posizione di partenza:
+  Afferra la maniglia del cavo basso, fletti il busto in avanti e solleva il gomito verso l'alto mantenendo il braccio superiore parallelo al suolo.
+
+  Esecuzione:
+  1. Estendi il gomito spingendo il cavo all'indietro contraendo con forza il tricipite.
+  2. Riporta lentamente la maniglia in avanti controllando la discesa.

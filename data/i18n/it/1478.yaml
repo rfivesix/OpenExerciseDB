@@ -1,9 +1,17 @@
 exercise_id: '1478'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Levitation crunch a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2441'
+description: |-
+  Posizione di partenza:
+  Sdraiati sulla schiena con le ginocchia flesse e le gambe sollevate e incrociate, mantenendo la parte inferiore del tronco ferma e bloccata per tutto il movimento.
+
+  Esecuzione:
+  1. Allunga le braccia in avanti parallele al suolo o verso le ginocchia.
+  2. Solleva solo la testa, le spalle e la parte superiore della cassa toracica verso l'alto in un movimento verticale ridotto, come se levitassi dal pavimento.
+  3. Contrai la parte alta del retto dell'addome al vertice e riscendi lentamente senza appoggiare completamente le spalle.

@@ -1,9 +1,11 @@
 exercise_id: '1374'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Macchina rotazione del tronco (Rotary Torso)
 upstream:
   license: CC-BY-SA-4.0
   license_author: 6LXBO
   source_id: '2340'
+description: |-
+  Siediti sulla macchina regolando il carico con cautela, fissa il bacino ed esegui torsioni lente e controllate del tronco contraendo intensamente i muscoli addominali obliqui senza utilizzare slanci.

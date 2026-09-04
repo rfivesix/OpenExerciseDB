@@ -1,9 +1,17 @@
 exercise_id: '1479'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Distensioni su panca piana con manubri
+name: Sit-up con spinta del gomito (Sit-Up Elbow Thrust)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2442'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino con le ginocchia flesse e i piedi ben appoggiati a terra.
+
+  Esecuzione:
+  1. Solleva il busto con un movimento di sit-up dinamico ed esplosivo.
+  2. Al vertice del movimento, ruota con decisione il tronco spingendo un gomito in avanti verso il lato opposto con una gomitata energica.
+  3. Abbassa lentamente il busto e ripeti alternando il gomito a ogni ripetizione.

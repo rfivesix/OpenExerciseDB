@@ -1,9 +1,17 @@
 exercise_id: '1430'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tenuta a pinza dei dischi (Plate Pinch)
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2395'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con i piedi alla larghezza delle anche. Posiziona uno o due dischi lisci uniti tra loro davanti a te.
+
+  Esecuzione:
+  1. Afferra i bordi dei dischi con una sola mano utilizzando una presa a pinza, con il pollice su un lato e le altre quattro dita sul lato opposto.
+  2. Solleva i dischi da terra mantenendo il braccio disteso lungo il fianco e la schiena dritta.
+  3. Mantieni la presa isometrica per il tempo prestabilito senza lasciare scivolare i dischi, poi ripeti con l'altra mano.

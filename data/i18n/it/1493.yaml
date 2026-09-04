@@ -1,9 +1,11 @@
 exercise_id: '1493'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl bayesiano al cavo (Bayesian Curl)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja
   source_id: '2456'
+description: |-
+  Posizionati con le spalle rivolte alla carrucola bassa, afferra la maniglia ed esegui un curl per bicipiti mantenendo il gomito arretrato dietro la linea del busto per massimizzare l'allungamento iniziale del bicipite.

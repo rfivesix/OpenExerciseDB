@@ -1,9 +1,19 @@
 exercise_id: '1483'
 language: it
-status: ai_raw
-translated_from: en
-name: Panca declinata con manubri
+status: ai_reviewed
+translated_from: de
+name: Curl bicipiti Trifecta con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2446'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano, i piedi alla larghezza delle spalle e il core attivo.
+
+  Esecuzione:
+  Questa combinazione unisce tre varianti di curl per colpire tutti i capi del bicipite e i flessori del gomito in un'unica sequenza:
+  1. Curl incrociato in supinazione: fletti il braccio portando il manubrio verso la spalla opposta con il palmo rivolto verso l'alto, enfatizzando il bicipite brachiale.
+  2. Curl incrociato in pronazione: esegui il sollevamento verso la spalla opposta mantenendo il palmo verso il basso, isolando il brachioradiale.
+  3. No Money Curl: fletti le braccia tenendo i gomiti stretti ai fianchi e ruotando gli avambracci verso l'esterno per stimolare il capo breve e i rotatori.
+  4. Esegui ciascuna variante in modo controllato senza oscillazioni.

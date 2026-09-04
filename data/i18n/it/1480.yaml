@@ -1,9 +1,17 @@
 exercise_id: '1480'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Estensioni tricipiti sdraiati su panca
+name: Estensioni per tricipiti con bilanciere su panca piana
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2443'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca piana tenendo un bilanciere con una presa prona alla larghezza delle spalle. Distendi le braccia verso l'alto perpendicolari al corpo sopra il petto o leggermente inclinate all'indietro.
+
+  Esecuzione:
+  1. Mantenendo la parte superiore delle braccia fissa e i gomiti stabili e puntati in avanti, piega solo i gomiti per abbassare il bilanciere con controllo verso la fronte o appena sopra la testa.
+  2. Evita di allargare i gomiti verso l'esterno durante la discesa.
+  3. Spingi con forza attraverso i tricipiti per estendere le braccia e riportare il bilanciere nella posizione di partenza.

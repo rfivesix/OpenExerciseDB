@@ -1,9 +1,17 @@
 exercise_id: '1490'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kickback per tricipiti da sdraiato con manubrio
+name: Kickback per tricipiti su panca inclinata con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2453'
+description: |-
+  Posizione di partenza:
+  Regola una panca a circa 60 gradi di inclinazione. Appoggia il petto contro lo schienale inclinato mantenendo il corpo dritto e stabile. Tieni un manubrio con il gomito sollevato in alto lungo il busto e il braccio superiore parallelo alla panca.
+
+  Esecuzione:
+  1. Mantenendo il braccio superiore perfettamente fermo, estendi il gomito spingendo il manubrio all'indietro fino alla completa distensione del tricipite.
+  2. Contrai il tricipite in cima per un secondo.
+  3. Abbassa il manubrio lentamente flettendo il gomito tornando alla posizione iniziale.

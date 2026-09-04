@@ -1,9 +1,17 @@
 exercise_id: '1302'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: JM press con bilanciere
+name: JM Press con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: Epiphany8424
   source_id: '2265'
+description: |-
+  Posizione di partenza:
+  Sdraiati su una panca piana impugnando un bilanciere a presa stretta direttamente sopra il petto.
+
+  Esecuzione:
+  1. Abbassa la barra verso il collo o la parte alta del torace flettendo i gomiti e lasciandoli avanzare leggermente.
+  2. Spingi con forza il bilanciere verso l'alto estendendo i gomiti con i tricipiti.
+  3. Mantieni il movimento controllato ed evita oscillazioni con le spalle.

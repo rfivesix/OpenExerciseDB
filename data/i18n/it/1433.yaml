@@ -1,9 +1,17 @@
 exercise_id: '1433'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Reverse woodchopper con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2397'
+description: |-
+  Posizione di partenza:
+  Fissa un elastico di resistenza alla base di un palo o rack all'altezza degli stinchi. Posizionati lateralmente con i piedi divaricati e afferra l'estremità dell'elastico con entrambe le mani in basso vicino al ginocchio più vicino.
+
+  Esecuzione:
+  1. Con un movimento diagonale dal basso verso l'alto, ruota il busto e tira l'elastico attraverso il corpo fino sopra la spalla opposta.
+  2. Mantieni le braccia quasi tese e il core saldo.
+  3. Ritorna lentamente alla posizione iniziale e ripeti per entrambi i lati.

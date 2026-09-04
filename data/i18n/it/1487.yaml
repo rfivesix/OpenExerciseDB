@@ -1,9 +1,17 @@
 exercise_id: '1487'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Iperestensioni con combinazione Y-W con dischi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2450'
+description: |-
+  Posizione di partenza:
+  Posizionati sulla panca per iperestensioni (o su una palla da ginnastica) con un disco leggero in ciascuna mano.
+
+  Esecuzione:
+  1. Solleva il tronco allineandolo alle gambe ed estendi le braccia in avanti e verso l'esterno formando una Y con il corpo, contraendo la parte alta della schiena.
+  2. Successivamente ritrai i gomiti verso i fianchi piegandoli a formare una W e adducendo le scapole con forza.
+  3. Abbassa lentamente il busto e ripeti la combinazione.

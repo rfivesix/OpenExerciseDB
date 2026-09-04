@@ -1,9 +1,17 @@
 exercise_id: '1394'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Flessione del busto in avanti da seduto (Sit and Reach)
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2361'
+description: |-
+  Posizione di partenza:
+  Siediti a terra con le gambe completamente distese e unite davanti a te.
+
+  Esecuzione:
+  1. Allunga entrambe le braccia in avanti flettendo il busto verso i piedi.
+  2. Cerca di raggiungere o superare le punte delle dita dei piedi mantenendo le ginocchia tese.
+  3. Mantieni la posizione di allungamento per alcuni secondi respirando con calma.

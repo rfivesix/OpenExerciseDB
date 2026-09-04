@@ -1,9 +1,11 @@
 exercise_id: '1502'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl a martello incrociato con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2464'
+description: |-
+  In piedi con i manubri in presa neutra, fletti un braccio alla volta sollevando il manubrio diagonalmente attraverso il petto verso la spalla opposta per stimolare intensamente il muscolo brachiale e il brachioradiale.

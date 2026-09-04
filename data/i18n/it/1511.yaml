@@ -1,9 +1,17 @@
 exercise_id: '1511'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kong curl con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2470'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano con presa supina (palmi rivolti in avanti) e braccia distese lungo i fianchi.
+
+  Esecuzione:
+  1. Fletti le braccia sollevando i manubri verso l'alto mentre allontani leggermente i gomiti dal corpo e li spingi leggermente in avanti, creando una convergenza delle mani davanti alla parte alta del petto.
+  2. Spremi con decisione i bicipiti nel punto di massimo accorciamento.
+  3. Abbassa lentamente i manubri tornando con controllo alla posizione di partenza a braccia distese.

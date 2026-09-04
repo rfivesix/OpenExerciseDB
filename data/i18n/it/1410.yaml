@@ -1,9 +1,11 @@
 exercise_id: '1410'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank con sollevamento alternato delle gambe
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2374'
+description: |-
+  Dalla posizione di plank con gli avambracci a terra, solleva lentamente una gamba tesa verso l'alto contraendo il gluteo, riappoggiala e ripeti con l'altra gamba mantenendo il bacino stabile.

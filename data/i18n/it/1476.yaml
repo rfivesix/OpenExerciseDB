@@ -1,9 +1,17 @@
 exercise_id: '1476'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sit-up a farfalla (Butterfly Sit-up)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2439'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino con le piante dei piedi a contatto tra loro e le ginocchia aperte lateralmente a farfalla. Distendi le braccia dietro la testa fino a toccare il pavimento con le mani.
+
+  Esecuzione:
+  1. Utilizzando un leggero slancio controllato delle braccia, solleva il busto flettendo il tronco in avanti.
+  2. Porta il petto verso i piedi fino a toccare con le dita delle mani il pavimento davanti alle punte dei piedi.
+  3. Abbassati lentamente srotolando la colonna vertebrale a terra tornando con le braccia distese dietro la testa.

@@ -1,9 +1,17 @@
 exercise_id: '1482'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Cheat curl con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2445'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi posizionati alla larghezza delle spalle. Tieni un manubrio pesante in ciascuna mano con una presa supina (palmi rivolti in avanti) e le braccia distese lungo i fianchi.
+
+  Esecuzione:
+  1. Utilizza un leggero e controllato slancio del busto e delle anche per iniziare il movimento e superare il punto morto della risalita, flettendo le braccia per sollevare i manubri verso le spalle.
+  2. Nel punto più alto, contrai intensamente i bicipiti per un istante.
+  3. Concentrati sulla fase eccentrica: abbassa i pesi in modo lento, controllato e rigoroso (circa 3-4 secondi), opponendo la massima resistenza con i bicipiti senza oscillare.

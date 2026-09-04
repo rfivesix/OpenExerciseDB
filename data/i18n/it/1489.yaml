@@ -1,9 +1,11 @@
 exercise_id: '1489'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank Jacks con aperture delle gambe
 upstream:
   license: CC-BY-SA-4.0
   license_author: jayninja
   source_id: '2452'
+description: |-
+  Dalla posizione di plank sulle mani o sugli avambracci, apri e chiudi i piedi con piccoli salti ritmici mantenendo il bacino e il tronco perfettamente stabili e allineati.

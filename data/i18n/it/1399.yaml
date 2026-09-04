@@ -1,9 +1,17 @@
 exercise_id: '1399'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Roll down (arrotolamento vertebrale)
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2366'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi posizionati alla larghezza delle anche e la schiena dritta.
+
+  Esecuzione:
+  1. Abbassa la testa flettendo il mento verso il petto e arrotola lentamente la colonna vertebrale in avanti vertebra dopo vertebra.
+  2. Lascia scendere le braccia verso il pavimento finché le mani non toccano le dita dei piedi o il suolo.
+  3. Risali srotolando la colonna con controllo tornando alla posizione iniziale.

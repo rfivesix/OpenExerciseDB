@@ -1,9 +1,11 @@
 exercise_id: '1372'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dip per tricipiti assistiti alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: matpn
   source_id: '2338'
+description: |-
+  Regola il contrappeso della macchina assistita, posiziona le ginocchia o i piedi sulla pedana e spingi sulle impugnature eseguendo dip controllati per allenare i tricipiti e la parte inferiore del petto.

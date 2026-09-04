@@ -1,9 +1,11 @@
 exercise_id: '1333'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Flessione dei polsi in supinazione (avambracci)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2303'
+description: |-
+  Siediti su una panca con gli avambracci appoggiati sulle cosce e i palmi rivolti verso l'alto; fletti lentamente i polsi verso di te sollevando i manubri senza usare lo slancio, concentrando la contrazione sugli avambracci.

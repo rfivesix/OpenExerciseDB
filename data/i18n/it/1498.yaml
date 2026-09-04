@@ -1,9 +1,11 @@
 exercise_id: '1498'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Panca piana con manubri e gomiti stretti
+name: Panca piana con manubri a gomiti stretti
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2460'
+description: |-
+  Sdraiati su panca piana con i manubri paralleli al corpo e spingi i manubri verso l'alto mantenendo i gomiti sempre stretti e adesi ai fianchi per focalizzare la spinta sui tricipiti.

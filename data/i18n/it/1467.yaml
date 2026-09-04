@@ -1,9 +1,11 @@
 exercise_id: '1467'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Panca inclinata a presa stretta con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2430'
+description: |-
+  Sdraiati su panca inclinata e impugna il bilanciere con una presa alla larghezza delle spalle; abbassa la barra al petto con i gomiti stretti e spingi verso l'alto concentrando il lavoro sui tricipiti.

@@ -1,9 +1,11 @@
 exercise_id: '1363'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Automassaggio miofasciale con rullo (Blackroll)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2330'
+description: |-
+  Esegui un automassaggio miofasciale con il rullo di schiuma (foam roller), muovendoti lentamente sui gruppi muscolari interessati con movimenti controllati e respirazione regolare per alleviare le tensioni.

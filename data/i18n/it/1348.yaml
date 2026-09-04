@@ -1,9 +1,11 @@
 exercise_id: '1348'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Affondi sul posto con bilanciere
+name: Iperestensioni a terra per lombari (Back Extension)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2318'
+description: |-
+  Sdraiati a pancia in giù con le gambe tese; solleva lentamente e con controllo il petto e le spalle da terra contraendo i muscoli lombari e i glutei, evitando movimenti a scatto o slanci.

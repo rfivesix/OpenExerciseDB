@@ -1,9 +1,18 @@
 exercise_id: '1377'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Torsioni del busto in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: brucem
   source_id: '2344'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi posizionati alla larghezza delle spalle e le ginocchia leggermente flesse. Mantieni il bacino stabile rivolto in avanti e le braccia sollevate davanti al petto o con le mani sui fianchi.
+
+  Esecuzione:
+  1. Ruota lentamente e in modo fluido la parte superiore del corpo verso destra, mantenendo i fianchi e le gambe fermi.
+  2. Fermati un momento nel punto di massima torsione avvertendo la contrazione degli obliqui.
+  3. Ritorna al centro e ruota verso sinistra con la stessa cadenza controllata.
+  4. Continua alternando le rotazioni a ritmo costante respirando regolarmente.

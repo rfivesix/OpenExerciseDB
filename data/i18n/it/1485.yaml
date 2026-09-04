@@ -1,9 +1,16 @@
 exercise_id: '1485'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pushdown per tricipiti con movimento oscillante
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2448'
+description: |-
+  Posizione di partenza:
+  In piedi davanti alla carrucola alta impugnando la corda, inclina il busto in avanti verso il cavo posizionando un piede arretrato per maggiore stabilità.
+
+  Esecuzione:
+  1. Spingi la corda verso il basso estendendo i gomiti e contemporaneamente inclina leggermente il busto all'indietro per allungare il raggio di movimento e incrementare la tensione sul capo lungo del tricipite.
+  2. Ritorna controllando la risalita mentre inclini di nuovo il busto in avanti.

@@ -1,9 +1,17 @@
 exercise_id: '1409'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dragon Flag su panca
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2373'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca piana e afferra saldamente i bordi della panca dietro la testa o la testiera.
+
+  Esecuzione:
+  1. Solleva l'intero corpo in alto sostenendoti solo sulle spalle e sulla parte alta della schiena, mantenendo tronco e gambe allineati come un'asta rigida.
+  2. Abbassa lentamente il corpo teso verso la panca controllando la discesa con gli addominali senza toccare la superficie.
+  3. Risali con forza verso l'alto prima che la schiena appoggi.

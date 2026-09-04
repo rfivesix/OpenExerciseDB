@@ -1,9 +1,16 @@
 exercise_id: '1468'
 language: it
-status: ai_raw
-translated_from: en
-name: French press a terra (Floor Skull Crusher)
+status: ai_reviewed
+translated_from: de
+name: French press a terra con bilanciere EZ (Floor Skull Crusher)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2431'
+description: |-
+  Posizione di partenza:
+  Sdraiati a terra sulla schiena con un bilanciere sagomato EZ appoggiato a terra dietro la testa.
+
+  Esecuzione:
+  1. Impugna la sbarra a presa stretta e distendi le braccia verso l'alto.
+  2. Fletti solo i gomiti abbassando il bilanciere fino a toccare il pavimento dietro la nuca, poi spingi verso l'alto estendendo i tricipiti.

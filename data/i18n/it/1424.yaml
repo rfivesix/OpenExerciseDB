@@ -1,9 +1,17 @@
 exercise_id: '1424'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl per bicipiti alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2387'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina per curl bicipiti regolando il sedile in modo che la parte posteriore delle braccia poggi comodamente sul cuscinetto e i gomiti siano allineati all'asse di rotazione della macchina. Afferra le maniglie con presa supina.
+
+  Esecuzione:
+  1. Fletti le braccia sollevando le impugnature verso le spalle con una contrazione decisa dei bicipiti.
+  2. Mantieni la contrazione per un secondo in alto.
+  3. Riporta i bracci della macchina alla posizione iniziale con un movimento lento e controllato.

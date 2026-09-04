@@ -1,9 +1,11 @@
 exercise_id: '1336'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Estensioni tricipiti sopra la testa con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2306'
+description: |-
+  In piedi o seduto con il busto eretto, solleva un manubrio sopra la testa ed esegui estensioni lente e controllate flettendo solo i gomiti, mantenendoli ben fermi e vicini alla testa senza iperestendere la schiena.
