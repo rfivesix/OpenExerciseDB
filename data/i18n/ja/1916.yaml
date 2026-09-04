@@ -1,9 +1,11 @@
 exercise_id: '1916'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: タックプランシェ
 upstream:
   license: CC-BY-SA-4.0
   license_author: ISSACS
   source_id: '3063'
+description: |-
+  【開始姿勢】床またはパラレットに手をつき、腕をまっすぐ伸ばします。【動作手順】膝をお腹に抱え込んだタック姿勢で、足を床から浮かせて身体を支えます。【ポイント】三角筋前部と体幹の強大な力で身体を浮かせ、肩甲骨を外転させてキープします。

@@ -1,9 +1,11 @@
 exercise_id: '1968'
 language: ja
-status: ai_raw
-translated_from: en
-name: シーテッド・ケトルベルプレス
+status: ai_reviewed
+translated_from: de
+name: ワンハンド・ダンベルショルダープレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: evtimovgeorg
   source_id: '3123'
+description: |-
+  【開始姿勢】片手にダンベルを持ち、肩の高さに構えて直立または着席します。【動作手順】体幹を安定させ、ダンベルを頭上へまっすぐ垂直に押し上げます。【ポイント】三角筋前部を鍛えつつ、左右の筋力差を是正し体幹の回旋を抑えます。

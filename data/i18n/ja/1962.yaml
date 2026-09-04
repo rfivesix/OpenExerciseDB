@@ -1,9 +1,20 @@
 exercise_id: '1962'
 language: ja
-status: ai_raw
-translated_from: en
-name: セミスティッフ・デッドリフト
+status: ai_reviewed
+translated_from: de
+name: ステップジャック
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3117'
+description: |-
+  開始姿勢:
+  足を揃えて直立し、腕を体側に下ろします。
+
+  動作手順:
+  1. ジャンプする代わりに、片足を真横へ一歩大きくステップアウトしながら、両腕を頭上へ振り上げます。
+  2. 足を中央に戻すと同時に腕を下ろします。
+  3. すぐに反対側の足を横へステップアウトしながら腕を上げ、交互に軽快に繰り返します。
+
+  ポイント:
+  ジャンピングジャックの低衝撃（ローインパクト）版で、関節に負担をかけずに心肺機能を高めます。

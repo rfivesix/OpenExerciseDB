@@ -1,9 +1,11 @@
 exercise_id: '1964'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ワイドグリップ・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3119'
+description: |-
+  【開始姿勢】両手を肩幅の1.5〜2倍の広さに開いて床につきます。【動作手順】身体を一直線に保ちながら肘を曲げて胸を床へ下ろし、押し上げます。【ポイント】大胸筋の外側へのストレッチと刺激を高め、手首の角度に配慮して行います。

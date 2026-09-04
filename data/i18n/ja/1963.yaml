@@ -1,9 +1,20 @@
 exercise_id: '1963'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スロースクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3118'
+description: |-
+  開始姿勢:
+  足を肩幅に開いて立ち、胸を張って体幹を引き締めます。
+
+  動作手順:
+  1. 約3〜5秒かけて非常にゆっくりと膝と股関節を曲げ、フルスクワットの深さまで下ろします。
+  2. ボトムポジションで1〜2秒キープします。
+  3. 再び約3〜5秒かけてゆっくりと押し上げ、立ち上がります。
+
+  ポイント:
+  スロートレーニング（TUT: 筋肉緊張持続時間）により、軽い負荷でも大腿四頭筋と大臀筋に強烈な代謝ストレスと筋肥大シグナルを与えられます。

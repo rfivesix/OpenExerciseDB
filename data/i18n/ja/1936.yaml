@@ -1,9 +1,11 @@
 exercise_id: '1936'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ワンハンド・ケーブルリアデルトフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Dulive
   source_id: '3085'
+description: |-
+  【開始姿勢】肩の高さのケーブルの横に立ち、反対側の手でハンドルを握ります。【動作手順】肘を軽く曲げたまま、腕を水平後方へ大きく引き開きます。【ポイント】三角筋後部に負荷を集中させ、上体をねじらずに行います。

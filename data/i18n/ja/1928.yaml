@@ -1,9 +1,11 @@
 exercise_id: '1928'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・Vグリップ・ケーブルロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3077'
+description: |-
+  開始姿勢: ケーブルローイングマシンに座り、フットプレートに足を置いて膝を軽く曲げます。狭いV字ハンドルを両手で握り、背筋を伸ばします。動作手順: 肘を体側に引き寄せるようにして、ハンドルをみぞおち・お腹に向かって引き寄せます。肩甲骨を寄せて背中の厚み (広背筋・菱形筋) を意識して収縮させ、コントロールしながらゆっくり腕を伸ばして戻します。ポイント: 上体を揺らさず背筋を安定させて引きます。

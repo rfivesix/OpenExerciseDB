@@ -1,9 +1,21 @@
 exercise_id: '1954'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ロールオーバーからVシット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3105'
+description: |-
+  開始姿勢:
+  マットの上に座り、背筋を伸ばして足を前に伸ばします。
+
+  動作手順:
+  1. 後ろに転がり、両脚を頭上の後ろへ持ち上げて背中を丸めます（ロールオーバー）。
+  2. 反動を利用して前方へ起き上がり、両脚を大きく開いた開脚のVシット姿勢になります。
+  3. 起き上がった勢いで両手を前方の床へ伸ばし、股関節を深く前屈させます。
+  4. この一連の流れをリズミカルに10回繰り返します。
+
+  ポイント:
+  脊柱全体の柔軟性と開脚前屈（ハムストリングス・内転筋）の動的可動域を同時に広げます。

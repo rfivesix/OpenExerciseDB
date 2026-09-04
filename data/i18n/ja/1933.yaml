@@ -1,9 +1,13 @@
 exercise_id: '1933'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アブドミナル・クランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3082'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を曲げて足を床につけ、両手を頭の後ろまたは胸の前に添えます。
+  動作手順：息を吐きながら肩甲骨を床から浮かせるように上体を丸め、腹直筋を強く収縮させます。
+  ポイント：腰を床につけたまま動作し、首を無理に引っ張らないよう目線はおへそに向けます。

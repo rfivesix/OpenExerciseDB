@@ -1,9 +1,13 @@
 exercise_id: '1912'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・コアローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3059'
+description: |-
+  開始姿勢：床に座って膝を曲げ、上体を少し後傾させて腹筋に力を入れます。
+  動作手順：両手を胸の前で合わせ、腹斜筋を意識しながら体幹を左右へゆっくりと交互に回旋させます。
+  ポイント：背筋をまっすぐに伸ばし、骨盤を安定させて体幹の深層からひねるように動かします。

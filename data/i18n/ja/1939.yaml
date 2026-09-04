@@ -1,8 +1,12 @@
 exercise_id: '1939'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 首のCARs (頸部回旋)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3089'
+description: |-
+  開始姿勢：背筋を伸ばして直立または座位をとり、体幹を安定させます。
+  動作手順：首を屈曲、側屈、回旋、伸展と組み合わせ、制御された最大可動域でゆっくりと円を描くように回します。
+  ポイント：肩や胴体を動かさず首関節のみを分離して動かし、痛みのない範囲で丁寧に行います。

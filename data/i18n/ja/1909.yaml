@@ -1,9 +1,13 @@
 exercise_id: '1909'
 language: ja
-status: ai_raw
-translated_from: en
-name: レッグホイール
+status: ai_reviewed
+translated_from: de
+name: ライイング・レッグサークル (レッグホイール)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3056'
+description: |-
+  開始姿勢：マットに仰向けになり、両手を臀部の横に置いて脚を揃えて床から少し浮かせます。
+  動作手順：腹直筋と腸腰筋を使い、両脚で空中に大きな円を描くように回旋させ、逆回転も同様に行います。
+  ポイント：腰が床から浮かないよう腹圧を高め、膝を伸ばしたままコントロールして回します。

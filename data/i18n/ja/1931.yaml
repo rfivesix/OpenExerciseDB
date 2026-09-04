@@ -1,9 +1,13 @@
 exercise_id: '1931'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・バイセップスカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3080'
+description: |-
+  開始姿勢：直立して背筋を伸ばし、両手にダンベルを持って腕を自然に下ろします。
+  動作手順：肘を体側に固定し、上腕二頭筋を収縮させてダンベルを胸の高さまで巻き上げ、ゆっくり下ろします。
+  ポイント：上半身を揺らさず反動を抑え、肘の位置を脇腹に固定して二頭筋に負荷を集中させます。

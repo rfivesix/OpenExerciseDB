@@ -1,9 +1,11 @@
 exercise_id: '1929'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バーベル・フロアプレス
+name: アシステッド・プルアップ (補助付き懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3078'
+description: |-
+  開始姿勢: カウンターウェイトマシンまたはレジスタンスバンドの補助を使い、肩幅より広めのグリップでバーを握ります。動作手順: 肘を曲げて肩甲骨を引き下げながら、顎がバーを超えるまで身体を引き上げます。トップで背中の筋肉を強く収縮させ、コントロールしながらゆっくりと開始位置まで下ろします。ポイント: 自重懸垂が難しい場合でも、負荷を調節して安全に正しいフォームと背筋力を養えます。

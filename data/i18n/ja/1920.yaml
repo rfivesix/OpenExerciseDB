@@ -1,8 +1,10 @@
 exercise_id: '1920'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 肩部ディープストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3067'
+description: |-
+  【開始姿勢】バーや台に腕を後方で固定し、身体を前へスライドさせます。【動作手順】三角筋が強く伸ばされる位置で深くキープします。【ポイント】三角筋と胸の結合組織を伸ばし、プレス運動後のリカバリーを促進します。

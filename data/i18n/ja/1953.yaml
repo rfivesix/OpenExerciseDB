@@ -1,9 +1,20 @@
 exercise_id: '1953'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 屈膝アイアンクロス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3104'
+description: |-
+  開始姿勢:
+  床に仰向けになり、両腕を真横に広げて床につけます。両膝を90度に曲げて足を床から持ち上げます。
+
+  動作手順:
+  1. 両肩を床に付けたまま、揃えた膝をゆっくりと片側の床スレスレまで倒します。
+  2. 腹斜筋を使って中央へ引き戻し、今度は反対側の床スレスレまで倒します。
+  3. 左右交互に5〜10往復スムーズに繰り返します。
+
+  ポイント:
+  Limber 11の一環で、腰椎と骨盤の回旋モビリティを向上させます。

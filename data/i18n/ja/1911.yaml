@@ -1,9 +1,13 @@
 exercise_id: '1911'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: キャットプランク
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3058'
+description: |-
+  開始姿勢：床に前腕部をついたプランクの姿勢をとります。
+  動作手順：おへそを覗き込むように背中を猫のように丸めて腹直筋を強く収縮させ、数秒キープします。
+  ポイント：肩甲骨の間を高く押し上げ、通常のプランクよりも腹筋の屈曲を強調して刺激します。

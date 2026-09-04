@@ -1,9 +1,13 @@
 exercise_id: '1966'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハーフニーリング・ソラシックローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: amwang4
   source_id: '3121'
+description: |-
+  開始姿勢：壁の横で片膝立ちになり、両手を胸の前で合わせます。
+  動作手順：骨盤と下半身をまっすぐ前方に固定したまま、上半身を壁に向かって大きく回旋させます。
+  ポイント：胸椎と腹斜筋の可動域を広げ、腰を反らさずに胸郭からしっかりとひねります。

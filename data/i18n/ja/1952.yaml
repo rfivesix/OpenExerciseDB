@@ -1,9 +1,20 @@
 exercise_id: '1952'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ラクロスボール・臀筋筋膜リリース
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3103'
+description: |-
+  開始姿勢:
+  床に座り、片側のお尻（大臀筋・中臀筋・梨状筋）の下にラクロスボールを挟み込みます。
+
+  動作手順:
+  1. 体重をボールに預けながら、お尻の筋肉のコリ（トリガーポイント）を探して小さく動かします。
+  2. 痛気持ちいいポイントを見つけたら静止し、深い呼吸を繰り返して緊張を解放します。
+  3. 反対側のお尻も同様に行います。
+
+  ポイント:
+  フォームローラーよりも深層の筋肉に強い圧をピンポイントで届けることができます。

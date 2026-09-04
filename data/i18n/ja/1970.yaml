@@ -1,9 +1,11 @@
 exercise_id: '1970'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケトルベル・スモウハイプル
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerpott
   source_id: '3125'
+description: |-
+  開始姿勢: 足を肩幅より広く開いたスモウスタンスでケトルベルをまたぐように立ち、股関節を引いて両手でハンドルをオーバーハンドグリップで握ります。動作手順: 股関節と膝を爆発的に伸展させて立ち上がり、その推進力を利用して肘を高く持ち上げ、ケトルベルを胸から肩の高さまで引き上げます。コントロールしながらゆっくりと床に戻します。ポイント: 大臀筋やハムストリングス、僧帽筋、三角筋を連動させて瞬発力を高める複合種目です。

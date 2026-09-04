@@ -1,9 +1,13 @@
 exercise_id: '1971'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: メンツァー・プルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mike Mentzer
   source_id: '3126'
+description: |-
+  開始姿勢：ラットプルダウンマシンに座り、狭い手幅の逆手（アンダーハンド）でバーを握ります。
+  動作手順：背筋を伸ばし、肘を曲げながらバーを胸骨に向かって引き下げ、上腕二頭筋と広背筋を収縮させます。
+  ポイント：マイク・メンツァーのハイインテンシティ理論に基づき、二頭筋の強い関与を意識して行います。

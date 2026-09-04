@@ -1,8 +1,10 @@
 exercise_id: '1921'
 language: ja
-status: ai_raw
-translated_from: en
-name: 広背筋ディープストレッチ
+status: ai_reviewed
+translated_from: de
+name: 広背筋ディープストレッチ (エクストリーム・ラットストレッチ)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
+description: |-
+  開始姿勢: 頑丈な柱やバーを頭上の高さでしっかりと握り、体を預けます。動作手順: お尻を後方に引き、体重を預けて広背筋に強いストレッチ負荷をかけます。深く呼吸を続けながら、背中の外側が深く引き伸ばされるのを感じて20〜30秒間保持します。ポイント: 引くトレーニングの直後に行うことで、筋膜を解放し可動域と筋肥大の反応を促進します。

@@ -1,8 +1,12 @@
 exercise_id: '1924'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アブドミナルクランチ 3008
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3073'
+description: |-
+  開始姿勢：アブドミナルクランチマシンに座り、足をパッドに掛けて胸パッドに体を密着させます。
+  動作手順：息を吐きながら背中を丸め、腹直筋を使って上体を前下方へ力強く倒し、ゆっくり戻します。
+  ポイント：反動を使わず腹筋の収縮でウェイトを動かし、戻す局面も負荷に耐えながら行います。

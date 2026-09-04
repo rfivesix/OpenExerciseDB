@@ -1,8 +1,12 @@
 exercise_id: '1940'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 腹式呼吸
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'
+description: |-
+  開始姿勢：マットに仰向けに寝て膝を立てるか、リラックスして座り、片手を腹部に当てます。
+  動作手順：鼻からゆっくり息を吸ってお腹を大きく膨らませ、口から細く長く息を吐ききってお腹を凹ませます。
+  ポイント：横隔膜の動きを意識し、胸や肩が上がらないようにリラックスして行います。

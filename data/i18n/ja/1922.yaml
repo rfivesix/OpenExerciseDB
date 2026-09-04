@@ -1,9 +1,11 @@
 exercise_id: '1922'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・ケーブルフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: shushu
   source_id: '3069'
+description: |-
+  【開始姿勢】ベンチを置いたケーブルマシンの座席に座り、左右のハンドルを握ります。【動作手順】背中をベンチにつけて胸を張り、弧を描くように両手を胸の前へ引き寄せます。【ポイント】大胸筋を座った状態で安定して追い込み、収縮感を高めます。
