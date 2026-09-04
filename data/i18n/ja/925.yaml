@@ -1,9 +1,11 @@
 exercise_id: '925'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スミスマシン・インクラインプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1204'
+description: |-
+  【開始姿勢】緩やかな傾斜のインクラインベンチに仰向けになり、バーを肩幅より広めに握ります。【動作手順】セーフティを外して胸の上部に向けてバーを下ろし、大胸筋上部 (鎖骨部)を意識して押し上げます。【ポイント】固定された軌道を利用し、安全に高重量をコントロールします。

@@ -1,9 +1,11 @@
 exercise_id: '923'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ライイング・ダンベルロー & シーテッドシュラッグ
+name: ライイング・ダンベルロー＆シーテッドシュラッグ
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1202'
+description: |-
+  開始姿勢: インクラインベンチにうつ伏せになり、両手にダンベルを持ちます。動作手順: まずうつ伏せの状態でダンベルを体側に引き上げるライイングローを行い、終了後すぐに着座してダンベルシュラッグを行うスーパーセットです。ポイント: 背中の引く筋力 (広背筋・菱形筋) と僧帽筋上部を連続して刺激し、背部全体の筋肥大を促します。

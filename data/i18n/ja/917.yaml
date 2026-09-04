@@ -1,9 +1,11 @@
 exercise_id: '917'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ストレートバー・ケーブルフロントレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1196'
+description: |-
+  【開始姿勢】低位置のプーリーに背を向け、股の間にケーブルを通した状態でストレートバーを握ります。【動作手順】背筋を伸ばし、肘を軽く曲げたままバーを肩の高さまで前方へ引き上げます。【ポイント】三角筋前部を意識し、体幹を固定して反動を使わずに上げ下げします。

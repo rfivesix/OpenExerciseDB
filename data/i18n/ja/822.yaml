@@ -1,9 +1,11 @@
 exercise_id: '822'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ケーブル・リアデルトフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442
   source_id: '1078'
+description: |-
+  【開始姿勢】クロスケーブルの中央に立ち、滑車を肩の高さに設定して左右反対側のケーブルを握ります。【動作手順】肘を軽く曲げたまま、腕を真横から後方へ大きく水平に開きます。【ポイント】三角筋後部を強く収縮させ、肩甲骨を寄せすぎないよう意識して戻します。

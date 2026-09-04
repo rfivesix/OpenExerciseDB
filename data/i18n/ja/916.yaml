@@ -1,9 +1,11 @@
 exercise_id: '916'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スミスマシン・ショルダープレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1195'
+description: |-
+  【開始姿勢】スミスマシンのシートに背筋を伸ばして座り、バーを肩幅よりやや広めに握ります。【動作手順】バーを鎖骨の高さまでゆっくり下ろし、三角筋前部を意識して頭上へ押し上げます。【ポイント】肘を伸ばし切らず、安定した軌道で肩の前部に負荷を集中させます。

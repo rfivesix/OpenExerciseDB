@@ -1,9 +1,13 @@
 exercise_id: '913'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバース・プリーチャーカール (ナローグリップ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1192'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、EZバーを狭い手幅の順手（オーバーハンド）で握ります。
+  動作手順：肘をパッドに固定したままバーを持ち上げ、腕橈骨筋と上腕筋を強く収縮させます。
+  ポイント：手首をまっすぐに固定し、反動を使わずにネガティブ動作を丁寧に行います。

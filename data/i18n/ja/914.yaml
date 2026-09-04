@@ -1,9 +1,13 @@
 exercise_id: '914'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバース・EZバーケーブルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1193'
+description: |-
+  開始姿勢：ケーブルタワーの前に立ち、ロープーリーに付けたEZバーを順手で握ります。
+  動作手順：肘を体側に固定し、腕橈骨筋と上腕筋を使ってバーを胸の高さまで巻き上げます。
+  ポイント：前腕部への負荷を高めるため手首を返さず、ゆっくりと下ろして筋肉を緊張させます。

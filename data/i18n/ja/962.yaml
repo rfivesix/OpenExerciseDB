@@ -1,9 +1,19 @@
 exercise_id: '962'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: エリプティカルトレーナー
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1257'
+description: |-
+  開始姿勢:
+  エリプティカルマシンのペダルに足を乗せ、可動ハンドルを握ります。背筋を伸ばして前方を向きます。
+
+  動作手順:
+  1. 楕円軌道を描くようにスムーズにペダルを踏み込み、同時に腕を前後に動かします。
+  2. 一定のペースと負荷を維持しながら、滑らかなリズムで有酸素運動を継続します。
+
+  ポイント:
+  着地衝撃が関節にかからないため、膝や腰を守りながら効果的な全身の有酸素トレーニングが可能です。

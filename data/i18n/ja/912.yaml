@@ -1,9 +1,13 @@
 exercise_id: '912'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ストレートバー・ケーブルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1191'
+description: |-
+  開始姿勢：ケーブルタワーの前に立ち、ロープーリーのストレートバーを逆手で握ります。
+  動作手順：肘を脇腹に固定したままバーを胸まで引き上げ、上腕二頭筋を強く収縮させます。
+  ポイント：常にケーブルのテンションを感じながら、背中を反らさずに動作をコントロールします。

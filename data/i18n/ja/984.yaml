@@ -1,8 +1,20 @@
 exercise_id: '984'
 language: ja
-status: ai_raw
-translated_from: en
-name: ランジ
+status: ai_reviewed
+translated_from: de
+name: 自重ランジ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1544'
+description: |-
+  開始姿勢:
+  足を腰幅に開いて直立し、手は腰に当てるか胸の前で組みます。背筋を伸ばします。
+
+  動作手順:
+  1. 片足を大きく前へ踏み出し、前後の膝が直角になるまで腰を沈めます。
+  2. 後ろ足の膝が床スレスレに来るまで下ろします。
+  3. 前足の踵で床を力強く押して元の直立姿勢に戻ります。
+  4. 反対側も同様に行い、交互に繰り返します。
+
+  ポイント:
+  上体が前傾しないよう垂直に保ち、大腿四頭筋と大臀筋をバランスよく刺激します。

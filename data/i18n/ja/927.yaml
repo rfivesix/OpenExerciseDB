@@ -1,8 +1,10 @@
 exercise_id: '927'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: つり輪・十字懸垂 (アイアンクロス)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1206'
+description: |-
+  【開始姿勢】サスペンショントレーナーまたはつり輪を両手で握り、腕を横に開いて身体を支えます。【動作手順】大胸筋と広背筋の力で両手を身体に引き寄せるように力を込め、姿勢をキープします。【ポイント】関節への負担が大きいため、段階的に強度を調整しながら行います。

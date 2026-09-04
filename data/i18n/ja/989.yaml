@@ -1,8 +1,19 @@
 exercise_id: '989'
 language: ja
-status: ai_raw
-translated_from: en
-name: ブルガリアンスクワット (右)
+status: ai_reviewed
+translated_from: de
+name: ブルガリアンスクワット (右脚)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1616'
+description: |-
+  開始姿勢:
+  ベンチの前に立ち、左足の甲を後ろの台に乗せます。右足を大きく一歩前方に置いてバランスをとります。
+
+  動作手順:
+  1. 胸を張ったまま、右の膝と股関節を曲げて垂直に腰を下ろしていきます。
+  2. 右太ももが床と平行になる深さまで沈み込みます。
+  3. 右足の踵で強く床を押して立ち上がり、大臀筋と大腿四頭筋を収縮させます。
+
+  ポイント:
+  前足に体重の約8割を乗せ、上体を適度に保ちながらブレずに動作します。

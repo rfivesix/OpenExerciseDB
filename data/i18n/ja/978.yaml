@@ -1,9 +1,13 @@
 exercise_id: '978'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ハンギング・ニーレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1291'
+description: |-
+  開始姿勢：プルアップバーにぶら下がり、肩を安定させて体を静止させます。
+  動作手順：骨盤を後傾させながら両膝を胸に向かって高く引き上げ、腹直筋下部を強く収縮させます。
+  ポイント：体を前後に揺らす反動を使わず、トップで一瞬静止してからゆっくり下ろします。

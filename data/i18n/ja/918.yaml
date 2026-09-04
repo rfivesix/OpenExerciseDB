@@ -1,9 +1,11 @@
 exercise_id: '918'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: シーテッド・ダンベルサイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1197'
+description: |-
+  【開始姿勢】ベンチの端に浅く座り、上体をわずかに前傾させて両手にダンベルを持ちます。【動作手順】肘を軽く曲げたまま、ダンベルを肩の高さまで真横へ引き上げます。【ポイント】座ることで反動を抑え、三角筋中部 (側部)に負荷をしっかりと集中させます。

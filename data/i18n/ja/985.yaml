@@ -1,8 +1,10 @@
 exercise_id: '985'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: プッシュアップ・ローテーション
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1559'
+description: |-
+  【開始姿勢】通常の腕立て伏せの姿勢をとります。【動作手順】腕立て伏せを1回行い、押し上げたら片手を床から離して身体を横に開き、腕を天井に向けて伸ばします。【ポイント】大胸筋と腹斜筋を連動させ、左右交互にバランスよく体幹を安定させて行います。

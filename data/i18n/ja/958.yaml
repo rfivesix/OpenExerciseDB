@@ -1,9 +1,13 @@
 exercise_id: '958'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: TRXバイセップスカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1238'
+description: |-
+  開始姿勢：TRXのハンドルを逆手で握り、体を斜め後方に倒して踵でバランスをとります。
+  動作手順：肘を肩の高さに保ったまま肘を曲げ、上腕二頭筋を使っておでこに向かって体を引き上げます。
+  ポイント：肘が下がらないように固定し、体幹を一直線に引き締めたまま動作します。

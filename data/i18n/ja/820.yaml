@@ -1,9 +1,13 @@
 exercise_id: '820'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: フィンガーボード20mmエッジ保持
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1074'
+description: |-
+  開始姿勢：フィンガーボードの20mmエッジに指先を掛け、腕をまっすぐ伸ばして構えます。
+  動作手順：足を床から離し、手根屈筋群と前腕部を動員して指定された秒数ぶら下がりをキープします。
+  ポイント：指関節に過度な負担をかけないようオープンハンドまたはハーフクリンプで保持します。

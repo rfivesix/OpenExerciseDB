@@ -1,8 +1,19 @@
 exercise_id: '987'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: サイド・スプリットスクワット (右)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1588'
+description: |-
+  開始姿勢:
+  足を肩幅より大きく左右に開いてワイドスタンスで立ち、背筋を伸ばします。
+
+  動作手順:
+  1. 左脚を真っ直ぐに伸ばしたまま、右の股関節と膝を曲げて腰を右側へ深く落とします。
+  2. 右の太ももが床と平行近くになるまでしゃがみ込みます。
+  3. 右足の踵で床を押し返して元の開始位置に戻ります。
+
+  ポイント:
+  右脚の大腿四頭筋・大臀筋をメインに鍛え、左脚の内転筋群を伸張させます。

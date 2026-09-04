@@ -1,9 +1,11 @@
 exercise_id: '922'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: シーテッド・ケーブルシュラッグ
+name: シーテッド・ケーブル・ミッドトラップシュラッグ
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1201'
+description: |-
+  開始姿勢: シーテッドケーブルローのベンチに座り、背筋を真っ直ぐ立てます。ハンドルを両手で保持し、腕を伸ばします。動作手順: 肘を曲げずに、肩甲骨だけを背中の中央に向かって強く寄せます。トップで僧帽筋中部の収縮を1〜2秒キープし、ゆっくりと肩甲骨を開いて元の位置に戻します。ポイント: 腕の力を使わず、肩甲骨の内転動作のみで行います。

@@ -1,9 +1,13 @@
 exercise_id: '976'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: メディシンボール・V字クランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1286'
+description: |-
+  開始姿勢：マットに仰向けになり、両手でメディシンボールを持って頭上に伸ばします。
+  動作手順：上体と両脚を同時に床から持ち上げ、体でV字を作りながらボールをつま先に近づけます。
+  ポイント：腹直筋を強く収縮させ、反動を抑えてコントロールしながらゆっくりと仰向けに戻ります。

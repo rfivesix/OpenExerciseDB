@@ -1,9 +1,11 @@
 exercise_id: '961'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 50m競泳スプリント
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono
   source_id: '1255'
+description: |-
+  開始姿勢: プールの壁から勢いよくスタートします。動作手順: 全力または高強度で50mをクロールなどで泳ぎ切ります。広背筋や肩周囲の筋力を動員して強いストロークを維持します。ポイント: 心肺機能の強化と無酸素性パワーの向上を目的としたスプリントトレーニングです。

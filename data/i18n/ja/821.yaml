@@ -1,9 +1,11 @@
 exercise_id: '821'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: フィンガーボード懸垂
+name: フィンガーボード懸垂 (キャンパシング・プルアップ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1076'
+description: |-
+  開始姿勢: クライミング用フィンガーボードのホールド (エッジ) を指先でしっかりと保持し、ぶら下がります。動作手順: 肩甲骨を引き下げて体幹を安定させ、肘を曲げて顎がホールドの高さに達するまで身体を引き上げます。コントロールしながらゆっくりと開始位置まで下ろします。ポイント: クライミングに必要な指の保持力と背中の引く筋力を同時に強化します。

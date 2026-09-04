@@ -1,9 +1,11 @@
 exercise_id: '926'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: マシン・チェストフライ (ペックフライ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1205'
+description: |-
+  【開始姿勢】マシンのシートに座り、背中をパッドにつけてハンドルを握ります。【動作手順】肘を軽く曲げた状態を保ち、胸の前で両腕を合わせるようにゆっくり引き寄せます。【ポイント】大胸筋の収縮を意識し、戻す際も負荷が抜けないようコントロールします。

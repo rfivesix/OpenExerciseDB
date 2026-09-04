@@ -1,8 +1,12 @@
 exercise_id: '974'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ツーハンド・ケトルベルカール
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1281'
+description: |-
+  開始姿勢：直立して両手でケトルベルのホーン（両側）を持ち、腕を自然に伸ばします。
+  動作手順：肘を体側に固定したまま上腕二頭筋を意識してケトルベルを胸まで持ち上げます。
+  ポイント：背筋をまっすぐに伸ばし、反動を使わずに下ろす局面をゆっくりとコントロールします。

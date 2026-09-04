@@ -1,9 +1,11 @@
 exercise_id: '959'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: TRXロー
+name: TRXローイング (サスペンションロー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1239'
+description: |-
+  開始姿勢: TRXサスペンショントレーナーのハンドルを握り、足を前方に歩かせて体を斜めに倒します。動作手順: 体幹を真っ直ぐ保ったまま、肩甲骨を寄せて胸をハンドルに引き寄せます。トップで背中の収縮を感じたら、ゆっくりと腕を伸ばして元の姿勢に戻ります。ポイント: 自重懸垂へのステップアップとしても最適な背部トレーニングです。

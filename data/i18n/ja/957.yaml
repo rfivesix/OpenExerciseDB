@@ -1,9 +1,13 @@
 exercise_id: '957'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: スクワットジャンプ
+name: 四つ這いアーム＆レッグレイズ (バードドッグ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '1236'
+description: |-
+  開始姿勢：マットの上で四つ這いになり、手は肩の真下、膝は股関節の真下に置きます。
+  動作手順：対角の腕と脚を床と平行になるまで同時にまっすぐ伸ばし、脊柱起立筋と大臀筋を収縮させます。
+  ポイント：腰を反らせたり骨盤を回転させたりせず、体幹を水平に保ってゆっくり戻します。

@@ -1,9 +1,11 @@
 exercise_id: '915'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バスドライバー (プレートローテーション)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1194'
+description: |-
+  【開始姿勢】直立してプレートを両手で持ち、肩の高さで腕を前にまっすぐ伸ばします。【動作手順】車のハンドルを回すように、プレートを左右へ交互に回転させます。【ポイント】三角筋前部と三角筋中部 (側部)の緊張を維持し、腕が下がらないよう高さをキープします。

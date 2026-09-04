@@ -1,9 +1,11 @@
 exercise_id: '828'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・リバースフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442
   source_id: '1080'
+description: |-
+  【開始姿勢】インクラインベンチにうつ伏せになり、両手にダンベルを持って腕を床に向けて垂らします。【動作手順】肘をわずかに曲げた状態を保ち、ダンベルを真横へ肩の高さまで引き上げます。【ポイント】三角筋後部と菱形筋に負荷を集中させ、上体を反らさずに行います。
