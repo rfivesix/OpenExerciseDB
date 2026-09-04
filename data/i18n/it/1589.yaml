@@ -1,9 +1,11 @@
 exercise_id: '1589'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento completo gambe e anche
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2538'
+description: |-
+  Esegui una sequenza di allungamento per distendere quadricipiti, femorali, adduttori e flessori dell'anca migliorando la mobilità articolare.

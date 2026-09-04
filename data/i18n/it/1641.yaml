@@ -1,9 +1,16 @@
 exercise_id: '1641'
 language: it
-status: ai_raw
-translated_from: en
-name: Alzate a L con manubri per spalle
+status: ai_reviewed
+translated_from: de
+name: Stacco a una gamba con kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2749'
+description: |-
+  Posizione di partenza:
+  In piedi su una gamba tenendo una kettlebell nella mano opposta.
+
+  Esecuzione:
+  1. Fletti l'anca inclinando il busto in avanti verso il suolo ed estendendo la gamba libera all'indietro.
+  2. Risali contraendo femorali e glutei, migliorando l'equilibrio.

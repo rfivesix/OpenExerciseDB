@@ -1,9 +1,17 @@
 exercise_id: '1452'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stretching ginocchio al petto a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2419'
+description: |-
+  Posizione di partenza:
+  Sdraiati in posizione supina sul tappetino con le gambe distese e la schiena rilassata.
+
+  Esecuzione:
+  1. Fletti un ginocchio verso il petto e avvolgilo con entrambe le mani attorno allo stinco o dietro la coscia.
+  2. Tira delicatamente la gamba verso il tronco mentre mantieni l'altra gamba ben distesa a terra.
+  3. Mantieni l'allungamento per 15-30 secondi respirando profondamente per decomprimere la zona lombare, quindi cambia gamba.

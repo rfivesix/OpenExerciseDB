@@ -1,9 +1,11 @@
 exercise_id: '1521'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hack squat pendolare alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2477'
+description: |-
+  Scendi in accosciata controllata sulla macchina pendolare guidando il carico sui quadricipiti.

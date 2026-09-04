@@ -1,9 +1,15 @@
 exercise_id: '1514'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Camminata laterale a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: cozyGalvinism
   source_id: '2473'
+description: |-
+  Posizione di partenza:
+  In piedi a ginocchia leggermente flesse e busto inclinato in avanti in posizione atletica.
+
+  Esecuzione:
+  1. Fai passi laterali controllati mantenendo la tensione costante sui muscoli abduttori dell'anca e sui glutei, evitando di far toccare i piedi tra loro.

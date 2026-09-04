@@ -1,9 +1,11 @@
 exercise_id: '1464'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hack squat alla macchina con pausa
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2427'
+description: |-
+  Esegui l'Hack squat alla macchina inserendo una pausa isometrica di 1-2 secondi nel punto più basso per dissipare l'energia elastica e massimizzare la tensione muscolare.

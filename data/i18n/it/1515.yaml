@@ -1,9 +1,11 @@
 exercise_id: '1515'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Spinte con le punte alla pressa (Calf Press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2474'
+description: |-
+  Posiziona gli avampiedi sul bordo inferiore della pedana della leg press ed estendi le caviglie spingendo con i polpacci.

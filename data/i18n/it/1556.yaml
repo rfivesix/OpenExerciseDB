@@ -1,9 +1,17 @@
 exercise_id: '1556'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Devil's press con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2503'
+description: |-
+  Posizione di partenza:
+  In piedi con due manubri appoggiati a terra davanti a te.
+
+  Esecuzione:
+  1. Scendi rapidamente afferrando le impugnature dei manubri, lancia i piedi indietro ed esegui un burpee toccando il pavimento con il petto.
+  2. Con un balzo richiudi i piedi all'esterno dei manubri in posizione di stacco.
+  3. Con un unico movimento esplosivo di hip hinge, fai oscillare i manubri tra le gambe e sollevali direttamente sopra la testa con uno snatch fluido, distendendo completamente le anche e le braccia.

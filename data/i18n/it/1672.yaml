@@ -1,9 +1,19 @@
 exercise_id: '1672'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Abduzioni delle anche da seduto alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: Iko
   source_id: '2795'
+description: |-
+  Posizione di partenza:
+  Regola l'altezza della seduta in modo che le articolazioni delle ginocchia siano allineate con l'asse di rotazione della macchina. Siediti con la schiena e il bacino ben appoggiati allo schienale. Posiziona la parte esterna delle cosce contro i cuscinetti imbottiti e appoggia i piedi piatti sulla pedana. Afferra saldamente le maniglie laterali per stabilizzare il tronco e contrai leggermente i muscoli addominali.
+
+  Esecuzione:
+  1. Espira e spingi lentamente le gambe verso l'esterno contro la resistenza dei cuscinetti, concentrandoti sull'attivazione dei muscoli glutei e abduttori dell'anca senza fare perno sulle ginocchia.
+  2. Apri le cosce fino a percepire una decisa contrazione nel medio gluteo e nella porzione laterale delle anche.
+  3. Mantieni la posizione di massima apertura per 1-2 secondi per massimizzare il reclutamento neuromuscolare.
+  4. Inspira e controlla attentamente la fase di ritorno verso la posizione iniziale, opponendo resistenza al pacco pesi senza farlo appoggiare tra le ripetizioni per preservare una tensione costante.
+  5. Ripeti per il numero di serie e ripetizioni prestabilito mantenendo una traiettoria fluida.

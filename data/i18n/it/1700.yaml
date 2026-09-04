@@ -1,9 +1,16 @@
 exercise_id: '1700'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco rumeno con bilanciere (RDL)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2819'
+description: |-
+  Posizione di partenza:
+  In piedi con un bilanciere tenuto alle cosce.
+
+  Esecuzione:
+  1. Fletti le anche spingendo il bacino all'indietro con ginocchia morbide.
+  2. Abbassa il bilanciere lungo le tibie mantenendo la colonna neutra e la sbarra vicina al corpo prima di risalire.

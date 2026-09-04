@@ -1,9 +1,16 @@
 exercise_id: '1449'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Scale rotanti alla macchina cardio (ClimbMill)
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2413'
+description: |-
+  Posizione di partenza:
+  Sali sulla macchina simulatore di scale mantenendo una postura eretta e afferrando leggermente i corrimano per l'equilibrio.
+
+  Esecuzione:
+  1. Sali i gradini in continuo movimento rullando il piede su ogni scalino e attivando quadricipiti e glutei.
+  2. Regola la velocità in base al tuo livello di allenamento, migliorando l'efficienza cardiovascolare e la resistenza muscolare delle gambe.

@@ -1,9 +1,18 @@
 exercise_id: '1734'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Affondi con kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2861'
+description: |-
+  Posizione di partenza:
+  In piedi con la postura eretta, impugnando una o due kettlebell lungo i fianchi o al petto.
+
+  Esecuzione:
+  1. Fai un lungo passo in avanti con una gamba e abbassa il baricentro in verticale flettendo entrambe le ginocchia.
+  2. Il ginocchio posteriore scende verso il pavimento fino a sfiorarlo, mantenendo il busto perfettamente dritto e le spalle rilassate.
+  3. Spingi attraverso il tallone della gamba anteriore per risalire con decisione alla posizione eretta.
+  4. Ripeti il movimento alternando i lati per sviluppare forza e stabilità in quadricipiti e glutei.

@@ -1,9 +1,11 @@
 exercise_id: '1579'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Test navetta Bronco a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: MU5H
   source_id: '2527'
+description: |-
+  Test di corsa a navetta ad alta intensità: corri avanti e indietro a distanze progressive di 20, 40 e 60 metri, ripetendo il circuito cinque volte consecutive.

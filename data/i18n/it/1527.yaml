@@ -1,9 +1,11 @@
 exercise_id: '1527'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat pendolare alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2484'
+description: |-
+  Posizionati sulla macchina per pendulum squat ed esegui un'accosciata profonda sfruttando la traiettoria ad arco per sovraccaricare i quadricipiti in sicurezza.

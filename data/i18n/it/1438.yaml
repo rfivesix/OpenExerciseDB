@@ -1,9 +1,11 @@
 exercise_id: '1438'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Girata al petto olimpica (Clean)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2402'
+description: |-
+  Tira esplosivamente il bilanciere dal pavimento e ricevilo in incastro sulle spalle anteriori scendendo contemporaneamente in un front squat.

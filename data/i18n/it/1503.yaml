@@ -1,9 +1,11 @@
 exercise_id: '1503'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Frog press con manubri per tricipiti
+name: Frog pump per glutei con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2465'
+description: |-
+  Simile all'hip thrust, ma eseguito unendo le piante dei piedi a terra come una rana; appoggia un manubrio sul bacino e solleva i glutei contraendoli con forza.

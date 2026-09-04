@@ -1,9 +1,11 @@
 exercise_id: '1528'
 language: it
-status: ai_raw
-translated_from: en
-name: Squat alla cintura con sovraccarico (Belt Squat)
+status: ai_reviewed
+translated_from: de
+name: Glute Drive alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2485'
+description: |-
+  Sdraiati sullo schienale della macchina glute drive, allaccia la cintura imbottita sul bacino e spingi sui talloni per estendere le anche.

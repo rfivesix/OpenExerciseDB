@@ -1,9 +1,15 @@
 exercise_id: '1684'
 language: it
-status: ai_raw
-translated_from: en
-name: Panca inclinata con manubri a presa prona
+status: ai_reviewed
+translated_from: de
+name: Thruster con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2804'
+description: |-
+  Posizione di partenza:
+  In piedi con due manubri sostenuti all'altezza delle spalle.
+
+  Esecuzione:
+  1. Scendi in accosciata profonda, risali in modo esplosivo spingendo i manubri direttamente sopra la testa, poi riabbassali alle spalle.

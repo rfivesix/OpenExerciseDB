@@ -1,9 +1,16 @@
 exercise_id: '1593'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Split squat al multipower
 upstream:
   license: CC-BY-SA-4.0
   license_author: workout@rooven.anonaddy.me
   source_id: '2542'
+description: |-
+  Posizione di partenza:
+  Posiziona la sbarra del multipower (Smith machine) sui trapezi. Assumi una posizione di split squat con un piede avanzato e l'altro arretrato in appoggio sull'avampiede.
+
+  Esecuzione:
+  1. Sblocca il bilanciere e scendi in modo controllato piegando entrambe le ginocchia finché la coscia anteriore è parallela al suolo.
+  2. Spingi energicamente attraverso il tallone del piede anteriore per risalire alla posizione iniziale senza bloccare il ginocchio.

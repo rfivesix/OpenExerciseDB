@@ -1,9 +1,11 @@
 exercise_id: '1466'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Calf raise alla macchina Hack Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2429'
+description: |-
+  Posiziona gli avampiedi sul bordo inferiore della pedana dell'Hack Squat ed esegui estensioni plantari complete sollevandoti sulle punte.

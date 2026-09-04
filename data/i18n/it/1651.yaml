@@ -1,9 +1,11 @@
 exercise_id: '1651'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Affondi posteriori con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2768'
+description: |-
+  In piedi con un manubrio per mano, fai un passo all'indietro scendendo in affondo finché il ginocchio posteriore sfiora terra, quindi risali spingendo sulla gamba anteriore.

@@ -1,9 +1,23 @@
 exercise_id: '1618'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Cyclette da camera (Cardio su cyclette)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2601'
+description: |-
+  L'allenamento cardiovascolare sulla cyclette da camera offre numerosi vantaggi per la salute e il benessere fisico.
+
+  Benefici cardiovascolari:
+  Una pedalata regolare rafforza il muscolo cardiaco, migliora l'efficienza circolatoria e contribuisce a ridurre la pressione arteriosa e il rischio di patologie cardiovascolari.
+
+  Consumo calorico e controllo del peso:
+  Consente di bruciare calorie in modo efficace, favorendo il dimagrimento se abbinata a una corretta alimentazione.
+
+  Potenziamento muscolare:
+  Tonifica in maniera mirata la muscolatura degli arti inferiori, impegnando in modo coordinato quadricipiti femorali, muscoli ischiocrurali (femorali) e polpacci, migliorando la resistenza muscolare complessiva senza impatti traumatici sulle articolazioni.
+
+  Benessere mentale:
+  L'attività aerobica promuove il rilascio di endorfine, riducendo lo stress quotidiano e innalzando i livelli generali di energia e qualità del sonno.

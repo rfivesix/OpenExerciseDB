@@ -1,9 +1,11 @@
 exercise_id: '1733'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat isometrico a cedimento
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2859'
+description: |-
+  Scendi in posizione di squat con le cosce parallele al pavimento. Mantieni stabilmente la contrazione isometrica statica senza muoverti, con il core attivo e il peso distribuito sui talloni, fino al cedimento muscolare.

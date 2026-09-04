@@ -1,9 +1,11 @@
 exercise_id: '1739'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Shrimp Squat su una gamba
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2869'
+description: |-
+  In equilibrio su un piede, afferra la caviglia opposta dietro la schiena e scendi fino a toccare terra con il ginocchio posteriore prima di risalire.

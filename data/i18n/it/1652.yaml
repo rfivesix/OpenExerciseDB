@@ -1,9 +1,11 @@
 exercise_id: '1652'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco rumeno con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2770'
+description: |-
+  In piedi con un manubrio in ciascuna mano, fletti il busto in avanti spingendo il bacino indietro con la schiena dritta, allungando i femorali prima di risalire contraendo i glutei.

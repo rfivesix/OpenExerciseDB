@@ -1,9 +1,17 @@
 exercise_id: '1576'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Discesa rapida in posizione atletica (Snap Down)
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2524'
+description: |-
+  Posizione di partenza:
+  In piedi in estensione completa, sollevato sugli avampiedi con le braccia distese verso l'alto sopra la testa e il corpo completamente allungato.
+
+  Esecuzione:
+  1. Con la massima rapidità ed esplosività, abbassati scendendo in una posizione atletica stabile a mezzo squat, richiamando energicamente le braccia verso il basso lungo i fianchi.
+  2. Blocca istantaneamente il movimento con i piedi ben saldi a terra alla larghezza delle spalle, il petto aperto, la schiena neutrale e il core solidamente contratto per assorbire l'inerzia.
+  3. Mantieni la posizione per un secondo prima di rialzarti per la ripetizione successiva.

@@ -1,9 +1,11 @@
 exercise_id: '1653'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat laterale con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2772'
+description: |-
+  Tenendo un manubrio al petto, fai un passo laterale e scendi in accosciata su una gamba mantenendo l'altra distesa, allenando quadricipiti, glutei e adduttori.

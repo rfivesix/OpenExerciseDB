@@ -1,9 +1,11 @@
 exercise_id: '1740'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ponte per glutei su una gamba
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2870'
+description: |-
+  Sdraiati supino con una gamba flessa a terra e l'altra sollevata distesa; spingi sul tallone ed estendi il bacino contraendo il gluteo.

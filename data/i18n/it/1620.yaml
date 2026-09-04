@@ -1,9 +1,15 @@
 exercise_id: '1620'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Dips alle parallele per pettorali
+name: Calf raise da seduto con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2602'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca con gli avampiedi su un rialzo e appoggia due manubri sulle ginocchia.
+
+  Esecuzione:
+  1. Fletti ed estendi le caviglie sollevando i talloni per rinforzare il soleo e i polpacci.

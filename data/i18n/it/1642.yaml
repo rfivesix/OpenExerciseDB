@@ -1,9 +1,16 @@
 exercise_id: '1642'
 language: it
-status: ai_raw
-translated_from: en
-name: Alzate laterali con manubri su panca inclinata
+status: ai_reviewed
+translated_from: de
+name: Hip thrust con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2751'
+description: |-
+  Posizione di partenza:
+  Seduto a terra con la schiena contro una panca e un manubrio posizionato sul bacino.
+
+  Esecuzione:
+  1. Spingi sui talloni sollevando le anche verso l'alto.
+  2. Contrai energicamente i glutei nella massima estensione prima di scendere.

@@ -1,9 +1,11 @@
 exercise_id: '1584'
 language: it
-status: ai_raw
-translated_from: en
-name: Panca piana alla macchina convergente
+status: ai_reviewed
+translated_from: de
+name: Marcia o corsa sul posto
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2532'
+description: |-
+  Solleva alternativamente le ginocchia verso l'alto marciando o correndo sul posto a ritmo sostenuto, muovendo le braccia per stimolare la circolazione.

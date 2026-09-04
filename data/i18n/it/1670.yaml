@@ -1,9 +1,15 @@
 exercise_id: '1670'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Slanci sagittali delle gambe (avanti-dietro)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Jhonatan
   source_id: '2793'
+description: |-
+  Posizione di partenza:
+  In piedi accanto a una parete per l'appoggio.
+
+  Esecuzione:
+  1. Fai oscillare una gamba avanti e indietro con movimento fluido e controllato, mantenendo il busto eretto e il core attivo prima di cambiare gamba.

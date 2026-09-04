@@ -1,9 +1,11 @@
 exercise_id: '1548'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Simulatore di scale (StairMaster)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MisterPinnacle
   source_id: '2496'
+description: |-
+  Sali costantemente i gradini a ritmo controllato sul simulatore di scale, mantenendo il busto eretto per allenare la resistenza cardiovascolare, i quadricipiti, i glutei e i polpacci.

@@ -1,9 +1,11 @@
 exercise_id: '1724'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Adduzioni delle anche ai cavi in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2850'
+description: |-
+  In piedi di fianco alla carrucola bassa con la cavigliera alla gamba interna, tira la gamba verso l'interno incrociando davanti alla gamba d'appoggio per allenare gli adduttori.

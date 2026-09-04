@@ -1,9 +1,11 @@
 exercise_id: '1706'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Squat bulgaro con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2827'
+description: |-
+  In piedi di spalle a una panca, appoggia il collo del piede posteriore sulla superficie e impugna due manubri. Scendi in affondo flettendo il ginocchio anteriore a 90 gradi, poi spingi sul tallone per risalire.

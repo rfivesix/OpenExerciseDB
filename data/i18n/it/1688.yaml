@@ -1,9 +1,11 @@
 exercise_id: '1688'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco rumeno a una gamba con supporto (Kickstand RDL)
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle
   source_id: '2807'
+description: |-
+  Usa la punta del piede posteriore solo come leggero appoggio di equilibrio ed esegui uno stacco rumeno caricando la gamba anteriore.

@@ -1,9 +1,16 @@
 exercise_id: '1523'
 language: it
-status: ai_raw
-translated_from: en
-name: Piegamenti sulle braccia classici
+status: ai_reviewed
+translated_from: de
+name: Spinta della slitta da traino (Sled Push)
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2479'
+description: |-
+  Posizione di partenza:
+  Carica la slitta da traino con il peso desiderato. Posizionati dietro la slitta afferrando saldamente i montanti verticali con le braccia distese o leggermente flesse, inclinando il busto in avanti a circa 45 gradi con la schiena dritta e il core contratto.
+
+  Esecuzione:
+  1. Spingi con decisione attraverso gli avampiedi avanzando a passi energici e cadenzati, guidando la propulsione con quadricipiti, glutei e polpacci.
+  2. Mantieni il corpo allineato in una linea retta dalle caviglie alle spalle senza inarcare la schiena.
