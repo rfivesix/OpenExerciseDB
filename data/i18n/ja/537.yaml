@@ -1,9 +1,11 @@
 exercise_id: '537'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・ダンベルベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '210'
+description: |-
+  【開始姿勢】30〜45度に設定したインクラインベンチに座り、両手にダンベルを持って胸の横に構えます。【動作手順】足を踏ん張って胸を張り、大胸筋上部 (鎖骨部)を意識しながらダンベルを真上へ押し上げます。【ポイント】肘を伸ばし切らず、ゆっくり胸の上部へ下ろします。

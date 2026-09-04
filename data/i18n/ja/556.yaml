@@ -1,9 +1,13 @@
 exercise_id: '556'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マシン・サイドベンド
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann
   source_id: '1070'
+description: |-
+  開始姿勢：ローマンチェアまたは専用マシンに横向きに体をセットし、足首をパッドに固定します。
+  動作手順：体幹をまっすぐに保ちながら上体を横へ倒し、腹斜筋を収縮させて元の位置まで引き上げます。
+  ポイント：前後に体がねじれないよう真横に屈曲させ、可動域いっぱいに動かします。

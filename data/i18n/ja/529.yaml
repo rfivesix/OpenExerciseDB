@@ -1,9 +1,20 @@
 exercise_id: '529'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インターバル走
 upstream:
   license: CC-BY-SA-4.0
   license_author: BeLikeWater
   source_id: '398'
+description: |-
+  開始姿勢:
+  トラックや平坦なコース、または上り坂で直立姿勢を整え、ウォームアップを完了します。
+
+  動作手順:
+  1. 高強度のスプリントや速いペースでのランニングを一定時間または距離行います。
+  2. 続いてジョギングやウォーキングによる積極的休養（レスト）を挟みます。
+  3. この高強度と低強度のサイクルを設定回数繰り返します。
+
+  ポイント:
+  心肺持久力、VO2max（最大酸素摂取量）、乳酸処理能力を飛躍的に向上させるトレーニングです。

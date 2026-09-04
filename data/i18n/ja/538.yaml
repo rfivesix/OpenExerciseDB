@@ -1,9 +1,11 @@
 exercise_id: '538'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: インクライン・バーベルベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '163'
+description: |-
+  【開始姿勢】インクラインベンチに仰向けになり、バーベルを肩幅よりやや広めに握ります。【動作手順】バーベルを鎖骨の少し下へゆっくり下ろし、大胸筋上部 (鎖骨部)を強く収縮させて押し上げます。【ポイント】肩甲骨を寄せて胸を高く保ち、お尻がベンチから浮かないようにします。

@@ -1,9 +1,11 @@
 exercise_id: '562'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・ショットガンロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '339'
+description: |-
+  開始姿勢: ロープーリーにシングルハンドルを取り付けます。大きく足を前後に開いたランジのスタンスをとり、腕を伸ばして肩を前に出した状態でハンドルを握ります。動作手順: 肩を後方に引きながら肘を曲げてハンドルを引き寄せ、引く動作に合わせて手首を回外 (手のひらを上に向ける) させます。一瞬キープして広背筋を強く収縮させた後、ゆっくりと開始姿勢へ戻します。ポイント: 体幹を安定させ、背中の回旋と引きを連動させます。

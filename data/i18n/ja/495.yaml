@@ -1,9 +1,13 @@
 exercise_id: '495'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・リバースカール
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '771'
+description: |-
+  開始姿勢：バーベルを肩幅の順手（手の甲を前）で握り、背筋を伸ばして直立します。
+  動作手順：肘を脇腹に固定し、腕橈骨筋と上腕筋を意識してバーベルを持ち上げ、ゆっくり下ろします。
+  ポイント：手首を反らせずまっすぐに保ち、反動を使わずに腕の力だけでコントロールします。

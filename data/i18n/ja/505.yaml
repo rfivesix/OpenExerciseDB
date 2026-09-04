@@ -1,9 +1,13 @@
 exercise_id: '505'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ローマンチェア・クランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: MaddieBeasley
   source_id: '263'
+description: |-
+  開始姿勢：ローマンチェアに座り、足首をパッドに固定して体幹をまっすぐに構えます。
+  動作手順：腹直筋を意識して上体を前方に丸め込み、コントロールしながら元の位置へ戻します。
+  ポイント：体を完全に倒しすぎず、腹筋の緊張が途切れない範囲で動作を繰り返します。

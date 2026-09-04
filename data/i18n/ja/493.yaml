@@ -1,9 +1,13 @@
 exercise_id: '493'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: リバース・バーカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '208'
+description: |-
+  開始姿勢：直立して背筋を伸ばし、EZバーを肩幅の順手（手の甲が上）で持ちます。
+  動作手順：肘を体側に固定したままバーを胸に向けて巻き上げ、腕橈骨筋と上腕筋を収縮させます。
+  ポイント：手首をまっすぐに保ち、反動を使わずにゆっくりとコントロールして下ろします。

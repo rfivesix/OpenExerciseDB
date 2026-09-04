@@ -1,9 +1,13 @@
 exercise_id: '516'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: フロント・ウッドチョップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1063'
+description: |-
+  開始姿勢：直立して両手でメディシンボールまたはタオルを持ち、腕を伸ばして構えます。
+  動作手順：腕を頭上に伸ばしながら片足を後方に引き、体幹と脊柱起立筋を使って体を伸ばします。
+  ポイント：左右交互に脚を動かし、背筋をまっすぐに伸ばしてバランスを維持します。

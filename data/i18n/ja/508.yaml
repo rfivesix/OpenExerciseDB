@@ -1,9 +1,11 @@
 exercise_id: '508'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バーベルローイング
+name: ローイング (背筋引込動作)
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '801'
+description: |-
+  概要: ローイングは、腕を体に向かって引き寄せることで広背筋、肩甲骨を内転させる僧帽筋や菱形筋、脊柱を支える脊柱起立筋を包括的に強化する代表的な牽引種目です。マシンやフリーウエイト、自重など多様なバリエーションが存在します。動作手順: 背筋を伸ばして体幹を安定させ、肩甲骨を寄せながら負荷を体幹へと引き寄せます。ポイント: 腰の怪我を防ぐため腹圧を高め、背中を丸めないよう注意します。

@@ -1,9 +1,13 @@
 exercise_id: '584'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ワンハンド・ダンベル・プリーチャーカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '205'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、片手でダンベルを持って上腕部をパッドに密着させます。
+  動作手順：上腕を固定したまま上腕二頭筋を収縮させてダンベルを巻き上げ、ゆっくりと下ろします。
+  ポイント：反対側の手で体を安定させ、肘をパッドから離さないようにコントロールします。

@@ -1,9 +1,13 @@
 exercise_id: '577'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・サイドベンド
 upstream:
   license: CC-BY-SA-3.0
   license_author: GiglioRosso
   source_id: '278'
+description: |-
+  開始姿勢：足を腰幅に開いて立ち、片手にダンベルを持ち、もう片方の手を腰または頭に添えます。
+  動作手順：背筋を伸ばしたままダンベルの重さに従って体を横に倒し、腹斜筋を収縮させて戻します。
+  ポイント：反動を使わず、約45度を目安にコントロールしながらゆっくりと倒して引き上げます。

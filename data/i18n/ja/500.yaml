@@ -1,9 +1,13 @@
 exercise_id: '500'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバースプランク
 upstream:
   license: CC-BY-SA-4.0
   license_author: spacetowaste
   source_id: '409'
+description: |-
+  開始姿勢：床に座って脚を伸ばし、両手を臀部の後方に指先を前へ向けてつきます。
+  動作手順：踵と手のひらで床を押し、体幹を持ち上げて頭から踵までが一直線になる姿勢をキープします。
+  ポイント：脊柱起立筋と大臀筋を収縮させ、腰が沈まないように胸を張って維持します。

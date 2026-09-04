@@ -1,9 +1,13 @@
 exercise_id: '591'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: シットアップ
+name: ベンチ・エレベーテッド・シットアップ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '95'
+description: |-
+  開始姿勢：マットに仰向けになり、ふくらはぎをベンチに乗せて膝を直角に曲げ、両手を頭の後ろに添えます。
+  動作手順：背中を丸めながら背骨を一つずつ床から離すように上体を起こし、腹直筋を強く収縮させます。
+  ポイント：トップポジションで2秒間静止し、反動を使わずにゆっくりと戻します。

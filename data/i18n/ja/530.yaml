@@ -1,9 +1,19 @@
 exercise_id: '530'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: トレッドミル走
 upstream:
   license: CC-BY-SA-3.0
   license_author: foguinho.peruca
   source_id: '269'
+description: |-
+  開始姿勢:
+  トレッドミルのベルト上に立ち、安全クリップを装着します。速度や傾斜を初期設定します。
+
+  動作手順:
+  1. マシンのスタートボタンを押し、徐々にペースを上げて目的の速度でランニングを開始します。
+  2. 視線を前方に保ち、自然なストライドでリズミカルに走ります。
+
+  ポイント:
+  天候に左右されず速度や傾斜を精密にコントロールしながら下半身と心肺機能を鍛えられます。

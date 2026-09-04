@@ -1,9 +1,11 @@
 exercise_id: '487'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・リアデルトレイズ
 upstream:
   license: CC-BY-SA-3.0
   license_author: YYCfit
   source_id: '237'
+description: |-
+  【開始姿勢】上体を深く前傾させて股関節から曲げ、両手にダンベルを持ちます。【動作手順】肘を軽く曲げたまま、肩甲骨をあまり動かさずにダンベルを斜め後ろへ引き上げます。【ポイント】三角筋後部に負荷を集中させ、腕ではなく肘主導で持ち上げます。

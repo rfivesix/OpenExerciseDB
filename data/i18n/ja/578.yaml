@@ -1,9 +1,11 @@
 exercise_id: '578'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: サイドライイング・ダンベルエクスターナルローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: apeschel
   source_id: '422'
+description: |-
+  【開始姿勢】横向きに寝て、上の手でダンベルを持ち、肘を90度に曲げて脇腹に固定します。【動作手順】肘の位置を動かさずに、前腕を天井に向けて外旋させながらゆっくり持ち上げます。【ポイント】回旋筋腱板 (ローテーターカフ)を意識し、反動を使わずコントロールして行います。

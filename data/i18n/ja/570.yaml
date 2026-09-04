@@ -1,9 +1,11 @@
 exercise_id: '570'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ショルダーシュラッグ (自重)
+name: ショルダーシュラッグ (自重/立位)
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '805'
+description: |-
+  開始姿勢: 直立して立ち、両腕を体側にリラックスさせて下ろします。背筋を伸ばし、視線は前方に向けます。動作手順: 息を吐きながら、両肩を耳に向かって真上にすくめるように引き上げます。トップポジションで僧帽筋上部の収縮を意識して一時静止し、息を吸いながらゆっくりと肩を下ろします。ポイント: 肩を前後に回さず、純粋に上下の昇降運動を行うことで僧帽筋上部を安全に鍛えます。

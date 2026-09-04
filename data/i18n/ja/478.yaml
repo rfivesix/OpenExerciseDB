@@ -1,9 +1,11 @@
 exercise_id: '478'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・プッシュプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '190'
+description: |-
+  【開始姿勢】直立して両肩の前にダンベルを構えます。【動作手順】膝と股関節を軽く曲げて反動をつけ、脚の伸展の勢いを利用してダンベルを一気に頭上へ押し上げます。【ポイント】三角筋前部と下半身の連動を意識し、頭上でダンベルをしっかり安定させます。

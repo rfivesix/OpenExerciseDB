@@ -1,9 +1,11 @@
 exercise_id: '583'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: サイド・トゥ・サイド・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '302'
+description: |-
+  【開始姿勢】腕立て伏せの姿勢をとり、手幅を広めに構えます。【動作手順】右手に体重を乗せながら胸を右手の真上へ下ろして押し上げ、中央を経由して左手側へ移動して同様に行います。【ポイント】大胸筋への負荷を片側ずつ高め、体幹を真っ直ぐに維持します。

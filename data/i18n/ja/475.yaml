@@ -1,9 +1,11 @@
 exercise_id: '475'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: プッシュアップ (腕立て伏せ)
+name: 懸垂 (プルアップ)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '107'
+description: |-
+  開始姿勢: 肩幅よりやや広めのオーバーハンドグリップ (順手) で懸垂バーを握り、ぶら下がります。胸を張り、肩甲骨を引き下げます。動作手順: 肘を真下および後方に引きながら、胸をバーに近づけるように身体を引き上げます。顎がバーを超えるまで引き上げたら、トップで背中を収縮させ、ゆっくりとコントロールしながら腕が伸びきる手前まで下ろします。ポイント: 反動を使わず、広背筋と大円筋の力で動作します。

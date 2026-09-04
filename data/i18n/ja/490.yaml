@@ -1,9 +1,11 @@
 exercise_id: '490'
 language: ja
-status: ai_raw
-translated_from: en
-name: レネゲードロー
+status: ai_reviewed
+translated_from: de
+name: レネゲードロー (プランク＆ダンベルロー)
 upstream:
   license: CC0-1.0
   license_author: fletchgraham
   source_id: '670'
+description: |-
+  開始姿勢: 両手にダンベルを持ち、床で腕立て伏せ (プランク) の姿勢をとります。足を肩幅程度に開いて体を安定させます。動作手順: プッシュアップを1回行い、元の位置に戻ったら片方のダンベルを脇腹に向かって引き上げます。ダンベルを床に戻し、再度プッシュアップを行ってから反対側の腕でローイングを行います。ポイント: 骨盤が左右に開かないよう体幹に力を入れ、胴体を水平に固定します。

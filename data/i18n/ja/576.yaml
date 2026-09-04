@@ -1,9 +1,13 @@
 exercise_id: '576'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: サイドクランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy
   source_id: '176'
+description: |-
+  開始姿勢：片手にダンベルを持ち、反対側の手を頭の後ろに添えて直立します。
+  動作手順：ダンベルを持った側へ上体を真横に倒し、反対側の腹斜筋を収縮させて直立姿勢まで引き戻します。
+  ポイント：骨盤を固定して体幹が前後に倒れないようにし、脇腹の筋肉を意識して動かします。

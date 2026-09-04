@@ -1,9 +1,11 @@
 exercise_id: '477'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アシステッド・プルアップマシン
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '140'
+description: |-
+  開始姿勢: マシンのステップに乗り、膝または足をアシストパッドに乗せます。肩幅より広めにバーを握り、体を支えます。動作手順: 肘を曲げて肩甲骨を寄せながら、顎がバーを超える高さまで身体を引き上げます。コントロールしながらゆっくりと体を下ろし、広背筋をストレッチさせます。ポイント: ウエイトの補助を利用して適切なフォームを習得し、広背筋を効果的に鍛えます。
