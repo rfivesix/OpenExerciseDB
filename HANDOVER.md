@@ -18,10 +18,10 @@ dokumentiert, keine offenen Fehler).
 | vollständig klassifiziert | **868 von 868 aktiven** |
 | ohne primären Muskel | **0** |
 | Text `en` / `de` | Namen und Beschreibungen **vollständig und kuratiert** |
-| Text `fr` / `it` / `ja` | Namen vollständig, Beschreibungen offen (566 / 142 / 0) |
-| Sprachen registriert | 23 |
+| Text `fr` / `it` / `ja` | Namen und Beschreibungen **vollständig (868/868 je Sprache)** |
+| Sprachen registriert | 23 (`en`, `de`, `fr`, `it`, `ja` bei 100% Vollständigkeit, `displayable: 1`) |
 | Phase 1 | **abgenommen**, in der App durchgeklickt |
-| Phase 2 | Klassifikation und `en`/`de`-Text **fertig**, abgeleitete Sprachen offen |
+| Phase 2 | Klassifikation und alle fünf Kernsprachen (`en`, `de`, `fr`, `it`, `ja`) **fertig** |
 
 Letzte Commits:
 
@@ -119,20 +119,16 @@ Erwartungstabelle · `shoulder_raise` in `shoulder_flexion` und
 `scapular_elevation` aufgeteilt · `hip_extension` eingeführt · EN/DE-Konsistenz
 über alle 603 Paare geprüft · Alias-Tabelle mit 15 Einträgen · `512` nach `395`
 gemerged · englische Namen vereinheitlicht · `en`/`de`-Beschreibungen
-vollständig.
+vollständig · **Paket 0: Triage der 119 dünnen englischen Quellen** abgeschlossen ·
+**Paket 1: Vorhandene fr/it Texte geprüft** (566 fr, 142 it) ·
+**Paket 2: Ableitung abgeleitete Sprachen** (fr: 302, it: 726, ja: 868) vollständig ·
+**Paket 3: App-Repo Befunde & Vokabular** (`languages.completeness` gefixt, `exercises.body_region` dynamisch abgeleitet, `vocab/muscles.yaml` korrigiert).
 
 ### Offen
 
 | Punkt | Wo |
 |---|---|
-| **Abgeleitete Sprachen** — `fr` 302, `it` 726, `ja` 868 Beschreibungen | die nächste große Runde |
-| **Dünne Quellen zuerst** — 119 englische Beschreibungen unter 12 Wörtern | vor der Ableitung, sonst werden daraus 357 dünne Texte |
-| **Vorhandene `fr`/`it` prüfen** — 566 + 142 ungeprüfte Alttexte | die zwei mechanischen Prüfungen genügen |
 | **3 aktiv-aktiv-Dubletten** dedupen: `382/1852`, `478/1440`, `805/1661` | `1654/1744` ist über den Merge-Mechanismus erledigt |
-| **`languages.displayable`** steht für `it`/`ja` auf 0 | wird mit Paket 2 (Vollständigkeit ≥95 %) automatisch 1 |
-| **`languages.completeness`** lieferte Werte über 1 | Behoben in `build/build_db.py` (nur aktive Übungen zählen) |
-| **`exercises.body_region`** war in allen Zeilen NULL | Behoben in `build/build_db.py` (aus Primärmuskeln abgeleitet) |
-| **`delt_lateral`** trug beide Delta-Slugs | Behoben in `vocab/muscles.yaml` (nur `frontDeltoids`; `rotator_cuff` leer) |
 | **Attribution in der Train-Libre-App** — die ausgelieferte DB hat keine Lizenzangaben | eigenes Ticket im App-Repo |
 
 ### Einzelfälle, die noch niemand entschieden hat
