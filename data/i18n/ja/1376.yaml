@@ -1,9 +1,19 @@
 exercise_id: '1376'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リカンベントバイク
 upstream:
   license: CC-BY-SA-4.0
   license_author: pera_perkan
   source_id: '2342'
+description: |-
+  開始姿勢:
+  背もたれ付きのリカンベントバイクに深く腰掛け、ペダルが最も遠い位置で膝がわずかに曲がる距離にシートを調整します。
+
+  動作手順:
+  1. 背もたれに背中を預け、サイドハンドルを軽く握ります。
+  2. 一定の回転数を保ちながら、スムーズに前方のペダルを踏み込みます。
+
+  ポイント:
+  腰への負担が極めて少なく、リハビリや長時間の有酸素運動に最適なバイクです。

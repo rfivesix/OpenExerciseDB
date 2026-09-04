@@ -1,9 +1,11 @@
 exercise_id: '1360'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダブル・ケトルベル・クリーン＆プレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r
   source_id: '2327'
+description: |-
+  【開始姿勢】両足の間に2個のケトルベルを置き、前傾してグリップを握ります。【動作手順】股関節の爆発力でケトルベルを胸元へクリーンし、安定させてから頭上へプレスします。【ポイント】三角筋と全身の連動性を高める非常に機能的な全身種目です。

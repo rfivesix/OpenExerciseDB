@@ -1,9 +1,13 @@
 exercise_id: '1287'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リーチアップ・クランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: painDpice
   source_id: '2254'
+description: |-
+  開始姿勢：マットに仰向けになり、両腕を天井または頭上へ向けて伸ばします。
+  動作手順：息を吐きながら肩甲骨を床から浮かせ、指先を天井高く突き上げるように上体を起こします。
+  ポイント：腹直筋上部を意識して収縮させ、首をリラックスさせたままゆっくりと背中を下ろします。

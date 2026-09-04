@@ -1,9 +1,13 @@
 exercise_id: '1289'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・ダンベルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: sTiKyt
   source_id: '2256'
+description: |-
+  開始姿勢：ベンチに背筋を伸ばして座り、両手にダンベルを持って腕を自然に下ろします。
+  動作手順：肘を体側に固定したまま上腕二頭筋を意識して巻き上げ、トップで静止してからゆっくり戻します。
+  ポイント：座ることで下半身の反動を排除し、二頭筋のみに負荷を集中させて行います。

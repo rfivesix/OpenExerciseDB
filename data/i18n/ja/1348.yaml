@@ -1,9 +1,13 @@
 exercise_id: '1348'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バーベル・ランジ
+name: バックエクステンション (背筋運動)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2318'
+description: |-
+  開始姿勢：ローマンチェアまたはマットにうつ伏せになり、体幹をまっすぐに整えます。
+  動作手順：股関節から上体を前方へ倒した後、脊柱起立筋と大臀筋を使って体が一直線になるまで起こします。
+  ポイント：反動をつけて背中を過度に反らしすぎず、背筋の筋肉でコントロールして動作します。

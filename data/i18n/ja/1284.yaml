@@ -1,9 +1,11 @@
 exercise_id: '1284'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スードプランシュ・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: vdrb
   source_id: '2251'
+description: |-
+  【開始姿勢】腕立て伏せの姿勢から、肩を手首よりも大きく前方に乗り出します。【動作手順】肩の位置を前に保ったまま肘を曲げて身体を下ろし、押し上げます。【ポイント】三角筋前部と前鋸筋に強烈な負荷がかかるため、体幹を固めて行います。

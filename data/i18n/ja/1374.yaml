@@ -1,9 +1,13 @@
 exercise_id: '1374'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ロータリートルソーマシン
 upstream:
   license: CC-BY-SA-4.0
   license_author: 6LXBO
   source_id: '2340'
+description: |-
+  開始姿勢：マシンのシートに座り、胸パッドに密着させてパッドを脚で挟みます。
+  動作手順：骨盤を固定したまま、腹斜筋を使って上半身を左右どちらか一方へゆっくりと回旋させます。
+  ポイント：反動を使わず一定のスピードで動かし、戻す際も重りの負荷に耐えながら戻します。

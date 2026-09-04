@@ -1,9 +1,13 @@
 exercise_id: '1307'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: フロントプランク
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso
   source_id: '2272'
+description: |-
+  開始姿勢：床に前腕部をつき、肘が肩の真下に来るようにセットしてつま先立ちになります。
+  動作手順：頭、背中、臀部、踵が一直線になるように体を持ち上げ、腹直筋と腹横筋を締めて維持します。
+  ポイント：腰を落としたりお尻を突き上げたりせず、床を押して肩甲骨の間を平らに保ちます。

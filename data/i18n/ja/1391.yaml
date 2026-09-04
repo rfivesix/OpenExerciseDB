@@ -1,9 +1,20 @@
 exercise_id: '1391'
 language: ja
-status: ai_raw
-translated_from: en
-name: メドウズロー
+status: ai_reviewed
+translated_from: de
+name: エレファントウォーク (ハムストリングストレッチ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2358'
+description: |-
+  開始姿勢:
+  前屈姿勢になり、両手を床またはブロックにつけます。両膝を軽く曲げます。
+
+  動作手順:
+  1. 片脚の膝を真っ直ぐ伸ばし、その側の太もも裏（ハムストリングス）を強くストレッチします。
+  2. 交互にもう一方の膝を伸ばし、反対の膝を曲げます。
+  3. まるで象が歩くように、その場で交互に膝の曲げ伸ばしをリズミカルに繰り返します。
+
+  ポイント:
+  太もも裏とふくらはぎの動的ストレッチとして、股関節背面の柔軟性を高めます。

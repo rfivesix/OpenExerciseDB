@@ -1,9 +1,13 @@
 exercise_id: '1377'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スタンディング・トーソツイスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: brucem
   source_id: '2344'
+description: |-
+  開始姿勢：足を肩幅に開いて直立し、両手を胸の前で組むか頭の後ろに添えます。
+  動作手順：骨盤を正面に向けたまま、腹斜筋を意識して上半身をリズミカルに左右交互にひねります。
+  ポイント：膝を軽く曲げて下半身を安定させ、腰ではなく胸椎周りからスムーズに回旋させます。

@@ -1,9 +1,13 @@
 exercise_id: '1286'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダイナミック・プランシェ
+status: ai_reviewed
+translated_from: de
+name: プランク・タックジャンプ
 upstream:
   license: CC-BY-SA-4.0
   license_author: painDpice
   source_id: '2253'
+description: |-
+  開始姿勢：両手を肩の真下について、腕を伸ばした高いプランクの姿勢をとります。
+  動作手順：両足を揃えてジャンプし、膝を胸の近くまで素早く引き寄せてから、再びプランクへ跳んで戻ります。
+  ポイント：腹直筋と体幹を意識し、着地時に腰が落ちないように体幹の剛性を保ちます。

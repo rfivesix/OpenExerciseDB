@@ -1,9 +1,11 @@
 exercise_id: '1384'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: プルオーバーマシン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Paul@Chemistry
   source_id: '2352'
+description: |-
+  開始姿勢: プルオーバーマシンのシートに座り、シートベルトを締めます。肘をパッドに乗せ、バーを軽く握ります。動作手順: 肘でパッドを押し下げるようにして、弧を描きながらバーを腹部に向かって引き下ろします。広背筋と大胸筋の収縮を感じたら、ゆっくりと抵抗に耐えながら頭上へ戻します。ポイント: 上腕三頭筋の関与を抑え、広背筋を単独でフルレンジ刺激できる優れたマシン種目です。

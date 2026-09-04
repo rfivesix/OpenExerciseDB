@@ -1,9 +1,20 @@
 exercise_id: '1387'
 language: ja
-status: ai_raw
-translated_from: en
-name: ケーブル・トランクプッシュ
+status: ai_reviewed
+translated_from: de
+name: ハムストリングキック (立位ハムストリングカール)
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2353'
+description: |-
+  開始姿勢:
+  足を腰幅に開いて直立し、片腕を胸の前に伸ばします。
+
+  動作手順:
+  1. ハムストリングスを力強く収縮させ、片足の踵を素早くお尻に向かって蹴り上げます。
+  2. リズミカルに元の足位置に戻し、連続してキック動作を繰り返します。
+  3. 反対側の脚も同様に行います。
+
+  ポイント:
+  反動を抑えて太もも裏の筋力で踵を引き上げ、ハムストリングスの動的活性化を図ります。

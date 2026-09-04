@@ -1,9 +1,11 @@
 exercise_id: '1381'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ダンベル・フロアプレス
+name: マシン・アッパーバックロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: phpi
   source_id: '2348'
+description: |-
+  開始姿勢: マシンに座り、足を踏ん張って胸パッドに胸を当てます。ハンドルを握り、背筋を伸ばします。動作手順: 肩甲骨を背中の中央に寄せる意識を持ちながら、肘を外側・後方に大きく引きます。三角筋後部、菱形筋、僧帽筋中部を強く収縮させ、ゆっくりと負荷をコントロールしながら戻します。ポイント: 上背部と体幹の姿勢保持筋を集中的に強化し、猫背の改善にも寄与します。

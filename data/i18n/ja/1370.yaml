@@ -1,9 +1,20 @@
 exercise_id: '1370'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・デッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2337'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、体前または体側に構えます。足を腰幅に開いて直立し、背筋を伸ばします。
+
+  動作手順:
+  1. 股関節を後ろに引き、背筋を真っ直ぐ保ちながらダンベルをすねの高さまで下ろします。
+  2. ハムストリングスとお尻のストレッチを感じたら、踵で床を押して股関節を前方に伸展させます。
+  3. 直立位置で大臀筋を強く収縮させます。
+
+  ポイント:
+  バーベルよりも手首の自由度が高く、自然なグリップ角度で大臀筋とハムストリングスを鍛えられます。

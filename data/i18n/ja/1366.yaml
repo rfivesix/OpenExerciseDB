@@ -1,9 +1,20 @@
 exercise_id: '1366'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・スプリットスクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2333'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、体側に垂らします。足を前後に大きく開いたスプリットスタンスをとります。
+
+  動作手順:
+  1. 上体を垂直に保ったまま、両膝が約90度になるまで腰を真下へ沈めます。
+  2. 後ろの膝が床に触れる直前まで下ろしたら、前足の踵で床を強く押して立ち上がります。
+  3. 足の位置を変えずに上下動を繰り返し、規定回数後に脚を入れ替えます。
+
+  ポイント:
+  前足の大腿四頭筋と大臀筋を集中的に強化できる優れた単脚種目です。

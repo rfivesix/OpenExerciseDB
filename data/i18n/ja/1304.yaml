@@ -1,9 +1,11 @@
 exercise_id: '1304'
 language: ja
-status: ai_raw
-translated_from: en
-name: メドウズロー
+status: ai_reviewed
+translated_from: de
+name: メドウズロー (ランドマイン・ワンアームロー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2267'
+description: |-
+  開始姿勢: ランドマインバーベルに対して横向きに立ち、足を前後に開いたスプリットスタンスをとります。上体を前傾させ、前側の脚に片腕を置いて体を支え、バーの端をオーバーハンドグリップで握ります。動作手順: 肘を後方斜め上に力強く引き上げ、肩甲骨を寄せながら肘が体幹の高さに達するまで引きます。ゆっくりとコントロールして下ろします。ポイント: ジョン・メドウズ考案の種目で、広背筋上部や大円筋に強い刺激を与えます。

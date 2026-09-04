@@ -1,9 +1,13 @@
 exercise_id: '1290'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバースグリップ・バーベルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: sTiKyt
   source_id: '2257'
+description: |-
+  開始姿勢：背筋を伸ばして立ち、バーベルを肩幅の順手（オーバーハンド）で握ります。
+  動作手順：肘を脇腹に固定したままバーを胸の高さまで巻き上げ、腕橈骨筋と上腕筋を収縮させます。
+  ポイント：手首が折れ曲がらないようまっすぐに保ち、反動を使わずに丁寧に下ろします。

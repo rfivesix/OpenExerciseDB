@@ -1,9 +1,11 @@
 exercise_id: '1293'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 片腕プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2259'
+description: |-
+  【開始姿勢】足を広めに開き、片手を胸の下につき、反対の手を背中に回します。【動作手順】体幹をねじらないよう意識しながら肘を曲げて身体を下ろし、押し上げます。【ポイント】大胸筋と上腕三頭筋、体幹の強大な筋力が必要な高難度種目です。

@@ -1,9 +1,13 @@
 exercise_id: '1333'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 前腕アンダーハンド・リストカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2303'
+description: |-
+  開始姿勢：ベンチに前腕部を固定し、手のひらを上に向けたアンダーハンドでダンベルを持ちます。
+  動作手順：手首を反らせてダンベルを下ろし、手根屈筋群を意識して手首を力強く巻き上げます。
+  ポイント：反動を使わずコントロールされたゆっくりとした動作で前腕部を鍛えます。

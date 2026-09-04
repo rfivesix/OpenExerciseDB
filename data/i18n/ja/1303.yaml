@@ -1,9 +1,11 @@
 exercise_id: '1303'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ナローグリップ・ベンチプレス
+name: ヘルムズロー (胸支持ダンベルロー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2266'
+description: |-
+  開始姿勢: インクラインベンチの先端に胸 (乳頭ラインあたり) を乗せ、背中が床とほぼ平行になる角度で構えます。両手にダンベルを持ちます。動作手順: 肘を後方に引き上げ、広背筋が最大に収縮するまでダンベルを引き上げます。僧帽筋も動員したい場合は、ボトムで肩甲骨を脱力させてから引き始めに肩甲骨を寄せます。ポイント: 腰の疲労を抑えつつ、背中の厚みと広がりを効率的に刺激できます。

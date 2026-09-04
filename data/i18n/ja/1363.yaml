@@ -1,9 +1,13 @@
 exercise_id: '1363'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: フォームローラー (ブラックロール)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2330'
+description: |-
+  開始姿勢：マットの上にフォームローラーを置き、ほぐしたい筋肉（背部や臀部）を乗せます。
+  動作手順：体重を預けながらゆっくりと体を前後にローリングさせ、筋膜をリリースします。
+  ポイント：深呼吸を続けながらリラックスし、強い痛みを感じる箇所は無理に圧迫しすぎないようにします。

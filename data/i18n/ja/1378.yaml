@@ -1,9 +1,11 @@
 exercise_id: '1378'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: インクライン・ダンベルフライ
+name: ワンハンド・ケーブルサイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2345'
+description: |-
+  【開始姿勢】低位置のケーブルの横に立ち、反対側の手でハンドルを握ります。【動作手順】肘を軽く曲げたまま、体幹を固定してハンドルを真横の肩の高さまで引き上げます。【ポイント】三角筋中部 (側部)に負荷を集中させ、戻す動作もコントロールします。

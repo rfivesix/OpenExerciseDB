@@ -1,9 +1,20 @@
 exercise_id: '1294'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: シングルレッグ・ハムストリングカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2260'
+description: |-
+  開始姿勢:
+  レッグカールマシンに位置につき、片足の足首の後ろにパッドを当てます。もう一方の足は休止させます。
+
+  動作手順:
+  1. ハムストリングスの力でパッドを臀部へ向けて力強く巻き上げます。
+  2. 最大収縮位置で1秒静止します。
+  3. 重力に抵抗しながら、ゆっくりとコントロールして開始姿勢に戻します。
+
+  ポイント:
+  片脚ずつ動作することで左右の筋力差を浮き彫りにし、ハムストリングスを均等に強化できます。

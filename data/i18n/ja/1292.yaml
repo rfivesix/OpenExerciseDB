@@ -1,9 +1,11 @@
 exercise_id: '1292'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: チンアップ (逆手懸垂)
+name: リバースグリップ・プルアップ (逆手懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2258'
+description: |-
+  開始姿勢: 親指を外側に向けたアンダーハンドグリップ (逆手) でバーを肩幅で握り、ぶら下がります。動作手順: 胸を張りながら肘を曲げて身体を引き上げ、顎がバーを超えるまで引き上げます。トップで広背筋と上腕二頭筋を収縮させ、ゆっくりとコントロールしながら下ろします。ポイント: 順手懸垂に比べて腕の力を使いやすく、初心者にも行いやすい懸垂です。
