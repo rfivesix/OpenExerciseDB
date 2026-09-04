@@ -1,8 +1,10 @@
 exercise_id: '2507'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Gainage sur les avant-bras
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4986'
+description: |-
+  En appui sur les avant-bras et les orteils, maintenez un alignement parfait de la tête aux talons. Contractez les abdominaux, les fessiers et les quadriceps pour stabiliser le bassin.

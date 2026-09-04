@@ -1,9 +1,11 @@
 exercise_id: '1116'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Marche du fermier avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2079'
+description: |-
+  Saisissez un haltère lourd dans chaque main et marchez sur une distance donnée en gardant les épaules basses, le torse bombé et le gainage ferme.

@@ -1,9 +1,11 @@
 exercise_id: '914'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl inversé à la poulie avec barre EZ
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1193'
+description: |-
+  Debout devant la poulie basse, tenez la barre coudée en pronation et effectuez des flexions de bras régulières en gardant les poignets droits.

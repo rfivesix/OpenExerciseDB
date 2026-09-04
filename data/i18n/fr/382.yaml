@@ -1,9 +1,11 @@
 exercise_id: '382'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Maintien en L (L-Hold)
 upstream:
   license: CC-BY-SA-3.0
   license_author: bizyguy
   source_id: '281'
+description: |-
+  Suspendez-vous à une barre de traction et levez les jambes tendues jusqu'à former un angle de 90° entre les cuisses et le buste (position en L). Maintenez la position de manière statique en gainant fermement le tronc.

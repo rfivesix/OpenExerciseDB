@@ -1,9 +1,11 @@
 exercise_id: '2541'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Extension triceps isométrique à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5012'
+description: |-
+  Exercice d'isolation unilatéral à la poulie : tenez la poignée à un angle de flexion déterminé du coude et maintenez la contraction de manière isométrique contre la résistance.

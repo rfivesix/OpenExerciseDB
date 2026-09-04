@@ -1,12 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1001'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Planche haute
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1780'
+translated_from: en
+description: |-
+  Position de départ :
+  Placez-vous en position de planche haute : les mains au sol directement sous les épaules et les orteils en appui. Les pieds sont joints et les bras tendus.
+
+  Étapes :
+  1. Maintenez le corps parfaitement aligné de la tête aux talons en contractant les abdominaux et les fessiers.
+  2. Respirez régulièrement sans laisser le bassin s'affaisser ni monter.
+  3. Conservez la position pendant la durée prévue.

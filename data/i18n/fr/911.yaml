@@ -1,9 +1,11 @@
 exercise_id: '911'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Extension triceps sur banc incliné avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1190'
+description: |-
+  Allongé sur un banc incliné à environ 45 degrés avec des haltères, fléchissez les coudes pour descendre les charges de chaque côté de la tête, puis effectuez une extension complète des bras.

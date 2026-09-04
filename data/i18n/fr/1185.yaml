@@ -1,9 +1,11 @@
 exercise_id: '1185'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Extension triceps à la poulie haute
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2141'
+description: |-
+  Debout face à la poulie haute équipée d'une barre droite ou coudée, poussez la barre vers le bas en tendant complètement les bras et en gardant les coudes fixes le long du buste.

@@ -1,9 +1,11 @@
 exercise_id: '913'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl pupitre inversé prise serrée
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1192'
+description: |-
+  Assis au pupitre à biceps, saisissez la barre en prise serrée et inversée (pronation) pour isoler les muscles fléchisseurs et les extenseurs des avant-bras.

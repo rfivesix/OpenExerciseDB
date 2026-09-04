@@ -1,8 +1,10 @@
 exercise_id: '2504'
 language: fr
-status: ai_raw
-translated_from: en
-name: Curl marteau avec haltères
+status: ai_reviewed
+translated_from: de
+name: Curl marteau avec haltères (5 kg)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'
+description: |-
+  Debout, réalisez des curls en prise neutre (marteau) avec haltères en gardant les coudes immobiles le long du torse pour développer les bras et l'épaisseur du biceps.

@@ -1,8 +1,10 @@
 exercise_id: '2505'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dead Bug au sol
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4990'
+description: |-
+  Allongé sur le dos, genoux à 90° et bras tendus vers le plafond, tendez simultanément un bras vers l'arrière et la jambe opposée vers l'avant sans cambrer le bas du dos. Revenez au centre et alternez.

@@ -1,9 +1,11 @@
 exercise_id: '556'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Flexion latérale à la machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann
   source_id: '1070'
+description: |-
+  Positionné sur la machine, effectuez une flexion latérale du buste en contractant les obliques du côté opposé, puis revenez à la position de départ de manière contrôlée.

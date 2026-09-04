@@ -1,8 +1,10 @@
 exercise_id: '2508'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Bird Dog à quatre pattes
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4987'
+description: |-
+  À quatre pattes, le dos plat, tendez simultanément un bras devant vous et la jambe opposée derrière vous à l'horizontale. Maintenez brièvement puis revenez en contrôlant le mouvement avant d'alterner.

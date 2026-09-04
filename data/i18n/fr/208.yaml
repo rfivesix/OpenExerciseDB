@@ -1,9 +1,11 @@
 exercise_id: '208'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl Larry Scott avec haltères
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '87'
+description: |-
+  Assis au pupitre à biceps (banc Larry Scott), calez les bras contre le coussin incliné avec un haltère dans chaque main. Fléchissez les coudes pour monter les charges, puis redescendez lentement sans verrouiller les articulations.

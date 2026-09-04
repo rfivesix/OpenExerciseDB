@@ -1,9 +1,11 @@
 exercise_id: '1853'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: L-Sit avec pieds au sol en appui
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2988'
+description: |-
+  Assis au sol ou en appui sur des barres parallèles, soulevez le bassin en gardant les talons au sol pour délester une partie du poids corporel, tout en maintenant un gainage actif du tronc.

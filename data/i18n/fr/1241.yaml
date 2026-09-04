@@ -1,9 +1,11 @@
 exercise_id: '1241'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dorsiflexion avec bande élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2203'
+description: |-
+  Assis, une bande élastique attachée à un point fixe et passée autour de l'avant-pied, tirez les orteils vers vous contre la résistance pour travailler le tibial antérieur.

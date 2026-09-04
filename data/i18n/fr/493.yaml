@@ -1,9 +1,11 @@
 exercise_id: '493'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl inversé à la barre EZ
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '208'
+description: |-
+  Debout, tenez une barre EZ en prise inversée (pronation, paumes vers le sol). Fléchissez les coudes pour monter la barre en sollicitant intensément les avant-bras et le brachial.

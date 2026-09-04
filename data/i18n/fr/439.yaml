@@ -1,9 +1,11 @@
 exercise_id: '439'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl à la poulie en pronation
 upstream:
   license: CC-BY-SA-3.0
   license_author: ThisGirl0819
   source_id: '197'
+description: |-
+  Debout face à la poulie, saisissez la barre en pronation (paumes vers le bas). Fléchissez les coudes pour monter la barre vers les épaules, en sollicitant le brachial et les avant-bras.

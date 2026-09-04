@@ -1,9 +1,11 @@
 exercise_id: '1502'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl marteau croisé avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2464'
+description: |-
+  Debout, réalisez un curl en prise marteau en montant l'haltère en diagonale devant la poitrine vers l'épaule opposée, pour cibler le brachial et le long supinateur.

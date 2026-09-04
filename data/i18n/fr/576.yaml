@@ -1,9 +1,11 @@
 exercise_id: '576'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Crunch latéral avec haltère
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy
   source_id: '176'
+description: |-
+  Debout, un haltère dans une main, inclinez le buste latéralement du côté de la charge le long de la cuisse, puis redressez-vous à la verticale en contractant l'oblique opposé.

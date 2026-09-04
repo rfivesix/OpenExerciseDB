@@ -1,13 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '376'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Levées de jambe
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '1343'
+translated_from: de
+description: |-
+  Position de départ :
+  Allongez-vous sur le dos, les pieds joints et les bras le long du corps.
+
+  Étapes :
+  1. Fléchissez légèrement les genoux puis tendez les jambes vers le haut.
+  2. Gardez les jambes tendues et descendez-les ensemble de manière contrôlée sans toucher le sol. Plus la descente est basse, plus l'effort est intense.
+  3. Remontez les deux jambes ensemble jusqu'à la verticale.
+  4. Répétez à partir de l'étape 2.

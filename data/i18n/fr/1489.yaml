@@ -1,9 +1,11 @@
 exercise_id: '1489'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank Jacks (gainage avec sauts de jambes)
 upstream:
   license: CC-BY-SA-4.0
   license_author: jayninja
   source_id: '2452'
+description: |-
+  En position de planche haute, effectuez des sauts d'écartement et de rapprochement des pieds (jumping jacks) tout en gardant le buste et le bassin parfaitement stables.

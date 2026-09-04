@@ -1,9 +1,11 @@
 exercise_id: '1493'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl bayésien à la poulie (Bayesian curl)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja
   source_id: '2456'
+description: |-
+  Placé devant la poulie basse, dos à la tour, effectuez un curl pour les biceps avec le bras démarrant en arrière du buste pour un étirement maximal du chef long.

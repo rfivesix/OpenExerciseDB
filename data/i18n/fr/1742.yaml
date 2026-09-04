@@ -1,9 +1,11 @@
 exercise_id: '1742'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Back lever
+name: Back Lever (planche dorsale)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2872'
+description: |-
+  Figure de callisthénie suspendue à la barre ou aux anneaux : le corps est maintenu tendu à l'horizontale, face tournée vers le sol, bras tendus derrière le buste.

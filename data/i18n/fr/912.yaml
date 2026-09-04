@@ -1,9 +1,11 @@
 exercise_id: '912'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl à la poulie avec barre droite
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1191'
+description: |-
+  Debout devant la poulie basse, saisissez la barre droite en supination et réalisez une flexion des avant-bras en gardant les coudes plaqués contre les flancs.

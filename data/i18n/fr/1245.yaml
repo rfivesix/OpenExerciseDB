@@ -1,9 +1,11 @@
 exercise_id: '1245'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Front lever
+name: Front Lever (planche faciale)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2207'
+description: |-
+  Figure de gymnastique et de callisthénie où le corps est suspendu à la barre et maintenu parfaitement à l'horizontale, parallèle au sol, les bras tendus et le tronc gainé.

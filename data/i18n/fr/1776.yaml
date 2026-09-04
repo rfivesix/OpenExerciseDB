@@ -1,9 +1,11 @@
 exercise_id: '1776'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Marche de la valise (Suitcase carry)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz
   source_id: '2910'
+description: |-
+  Marchez d'un pas régulier en portant une charge lourde (haltère ou kettlebell) d'un seul côté, en maintenant le buste parfaitement vertical sans pencher d'un côté.

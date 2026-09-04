@@ -1,9 +1,11 @@
 exercise_id: '961'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sprints de natation 50 m
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono
   source_id: '1255'
+description: |-
+  Séries de sprints de 50 mètres en natation avec temps de repos chronométré d'une minute entre chaque intervalle.

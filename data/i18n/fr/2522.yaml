@@ -1,9 +1,11 @@
 exercise_id: '2522'
 language: fr
-status: ai_raw
-translated_from: en
-name: Extension triceps à la poulie haute
+status: ai_reviewed
+translated_from: de
+name: Extension triceps avec bande élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: G. Johnson
   source_id: '4991'
+description: |-
+  Fixez une bande élastique en hauteur. Debout, les pieds écartés de la largeur des hanches, saisissez la bande et tendez les coudes vers le bas pour contracter les triceps, puis relâchez avec contrôle.

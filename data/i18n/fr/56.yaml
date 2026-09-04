@@ -1,9 +1,11 @@
 exercise_id: '56'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stabilisation abdominale sur rouleau
 upstream:
   license: CC-BY-SA-3.0
   license_author: andikeller
   source_id: '1061'
+description: |-
+  Allongé dans le sens de la longueur sur un rouleau de massage, maintenez l'équilibre et engagez la sangle abdominale profonde pour stabiliser le tronc.
