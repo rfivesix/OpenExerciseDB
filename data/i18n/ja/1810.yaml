@@ -1,9 +1,13 @@
 exercise_id: '1810'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スフィンクスのポーズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Joculari
   source_id: '2939'
+description: |-
+  開始姿勢：マットの上にうつ伏せになり、前腕部を肩の真下の床について上体を軽く起こします。
+  動作手順：手のひらと前腕部で床を押し、胸を前方に開きながら脊柱起立筋を優しく反らせます。
+  ポイント：肩をリラックスさせて首を長く保ち、腰に負担をかけないよう穏やかに深呼吸します。

@@ -1,9 +1,11 @@
 exercise_id: '1745'
 language: ja
-status: ai_raw
-translated_from: en
-name: チェストディップス
+status: ai_reviewed
+translated_from: de
+name: ケーブル・フロントレイズ (ショートバー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2876'
+description: |-
+  【開始姿勢】低い位置のケーブルにショートバーを装着し、順手で握って立ちます。【動作手順】肘を軽く曲げたまま、バーを胸から肩の高さまで前方へ引き上げます。【ポイント】三角筋前部に常に一定の負荷をかけながら、丁寧に動作します。

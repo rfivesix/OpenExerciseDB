@@ -1,9 +1,11 @@
 exercise_id: '1825'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: チェストサポーテッド・リアデルトレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2960'
+description: |-
+  【開始姿勢】インクラインベンチにうつ伏せになり、胸をパッドでしっかりと支えてダンベルを持ちます。【動作手順】肘をわずかに曲げたまま、腕を真横から斜め後ろへ引き上げます。【ポイント】上体の反動を排除し、三角筋後部を純粋に分離して刺激します。

@@ -1,8 +1,10 @@
 exercise_id: '1752'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: フロント・ケーブルサイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2889'
+description: |-
+  【開始姿勢】低位置のケーブルの横に立ち、身体の前を通してハンドルを握ります。【動作手順】腕を体の前から真横へ、肩の高さまで弧を描いて引き上げます。【ポイント】三角筋中部 (側部)を意識し、負荷が抜けないようコントロールします。

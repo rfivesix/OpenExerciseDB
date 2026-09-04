@@ -1,9 +1,11 @@
 exercise_id: '1822'
 language: ja
-status: ai_raw
-translated_from: en
-name: オープンブック (胸椎モビリティ)
+status: ai_reviewed
+translated_from: de
+name: オープンブック (胸椎モビリティストレッチ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster
   source_id: '2956'
+description: |-
+  開始姿勢: 壁の横で片膝立ち (または横向きに寝た姿勢) になり、両腕を胸の前でまっすぐ伸ばして手のひらを合わせます。動作手順: 息を吸いながら外側の腕を後ろへ向かって大きく開き、胸を開いて本を開くように体を回旋させます。視線は動かす手先を追い、骨盤は正面に固定します。息を吐きながらゆっくりと元の位置に戻します。ポイント: 胸椎の回旋可動域を広げ、背中や肩の緊張を解消します。

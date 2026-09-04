@@ -1,9 +1,13 @@
 exercise_id: '1827'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダブルレッグ・アブドミナルプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2962'
+description: |-
+  開始姿勢：仰向けに寝て両膝と股関節を90度に曲げ、両手をそれぞれの太ももに当てます。
+  動作手順：膝を胸に引き寄せる力と、手で太ももを押し返す力を同時に拮抗させ、腹横筋と腹直筋を収縮させます。
+  ポイント：腰を床にしっかりと密着させ、呼吸を止めずに数秒間全力で押し合います。

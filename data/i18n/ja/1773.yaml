@@ -1,8 +1,10 @@
 exercise_id: '1773'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・ベンチプレス (Legend)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2907'
+description: |-
+  【開始姿勢】Legend Fitnessのレバレッジ・インクラインマシンに座り、グリップを握ります。【動作手順】背もたれに背中を密着させ、大胸筋上部を意識してハンドルを斜め上へ力強く押し出します。【ポイント】大胸筋上部 (鎖骨部)を効果的に鍛え、マシンの安定した軌道を活かします。

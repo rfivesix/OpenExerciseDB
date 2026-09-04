@@ -1,9 +1,20 @@
 exercise_id: '1748'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マシン・ヒップアブダクション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2882'
+description: |-
+  開始姿勢:
+  ヒップアブダクションマシンのシートに座り、両膝の外側にパッドを当てます。背中をシートに密着させます。
+
+  動作手順:
+  1. お尻の外側（中臀筋）の力を使って、パッドを外側へ向かって力強く押し開きます。
+  2. 最大開脚位置で1秒静止し、中臀筋の収縮を感じます。
+  3. 負荷に耐えながら、ゆっくりとコントロールして脚を閉じます。
+
+  ポイント:
+  骨盤の安定性を高め、歩行や走行時の横ブレを防ぐ重要なエクササイズです。

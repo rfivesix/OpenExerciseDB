@@ -1,9 +1,11 @@
 exercise_id: '1841'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・ショルダーエクステンション・ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2976'
+description: |-
+  【開始姿勢】床に座り、両手を肩幅で身体の後ろの床につきます。【動作手順】肘を伸ばしたまま、お尻を前方へ滑らせて肩を伸展させます。【ポイント】三角筋前部と大胸筋を心地よくストレッチし、胸を開いて深呼吸します。

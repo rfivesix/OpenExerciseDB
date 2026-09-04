@@ -1,9 +1,13 @@
 exercise_id: '1776'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スーツケースキャリー
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz
   source_id: '2910'
+description: |-
+  開始姿勢：片手だけにダンベルを持ち、背筋をまっすぐに伸ばして胸を張って直立します。
+  動作手順：重りがある側へ体が傾かないよう反対側の腹斜筋で体幹を垂直に保ちながら、前進歩行します。
+  ポイント：肩の高さを左右均等に維持し、小幅でブレのない安定した足取りで歩きます。

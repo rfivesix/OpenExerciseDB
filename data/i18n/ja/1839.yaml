@@ -1,9 +1,13 @@
 exercise_id: '1839'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 股関節屈筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2974'
+description: |-
+  開始姿勢：床に片膝立ちになり、前足の膝を90度に曲げて背筋をまっすぐに伸ばします。
+  動作手順：骨盤を後傾させたままゆっくりと体重を前方へ移動させ、後足の腸腰筋を心地よく伸ばします。
+  ポイント：腰を反らさず下腹部に力を入れ、太ももの付け根前側の伸長を感じてキープします。

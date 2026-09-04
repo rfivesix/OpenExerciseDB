@@ -1,9 +1,13 @@
 exercise_id: '1828'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ドローイン (腹横筋収縮)
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2963'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を立ててリラックスした姿勢をとります。
+  動作手順：息をゆっくりと完全に吐き出しながら、おへそを背骨に近づけるように腹部を限界まで凹ませます。
+  ポイント：浅い呼吸を続けながら凹ませた状態をキープし、深層の腹横筋を意識して引き締めます。

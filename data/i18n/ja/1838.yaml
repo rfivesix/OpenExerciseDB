@@ -1,9 +1,11 @@
 exercise_id: '1838'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 腹部コブラストレッチ
+name: バンド・ショルダードリル
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2973'
+description: |-
+  【開始姿勢】柱に固定したレジスタンスバンドを手に持ち、適度なテンションをかけます。【動作手順】腕を様々な方向へ回旋・牽引しながら、肩関節周囲を複合的に動かします。【ポイント】回旋筋腱板 (ローテーターカフ)を全方位から活性化させ、肩を温めます。

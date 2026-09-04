@@ -1,9 +1,11 @@
 exercise_id: '1775'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ペックデック・リアデルトフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh
   source_id: '2909'
+description: |-
+  【開始姿勢】ペックデックマシンに胸をパッドに向けて座り、ハンドルを握ります。【動作手順】腕を真横から後方へ水平に開き、三角筋後部を強く収縮させます。【ポイント】肩甲骨を過度に寄せすぎず、三角筋後部に負荷を集中させます。

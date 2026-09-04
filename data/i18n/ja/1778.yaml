@@ -1,8 +1,10 @@
 exercise_id: '1778'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・ベンチプレス
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'
+description: |-
+  【開始姿勢】インクラインベンチに仰向けになり、バーベルを肩幅より広めに握ります。【動作手順】バーベルを胸の上部へ正確かつ滑らかに下ろし、大胸筋上部で押し上げます。【ポイント】大胸筋上部 (鎖骨部)に負荷を集中させ、反動を使わずコントロールします。

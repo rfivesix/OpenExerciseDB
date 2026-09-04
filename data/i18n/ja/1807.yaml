@@ -1,9 +1,11 @@
 exercise_id: '1807'
 language: ja
-status: ai_raw
-translated_from: en
-name: 自重ジャンプスクワット
+status: ai_reviewed
+translated_from: de
+name: ビハインド・ザ・バック・ケーブルサイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: LEBRERO
   source_id: '2934'
+description: |-
+  【開始姿勢】低位置のケーブルの横に立ち、身体の後ろにケーブルを通して反対側の手で握ります。【動作手順】肘を軽く曲げたまま、真横へ肩の高さまで引き上げます。【ポイント】三角筋中部 (側部)の伸張位から強い負荷をかけ、体幹を固定して行います。

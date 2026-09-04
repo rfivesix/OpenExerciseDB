@@ -1,9 +1,13 @@
 exercise_id: '1772'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: リバース・クランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh
   source_id: '2906'
+description: |-
+  開始姿勢：マットに仰向けになり、両手を臀部の横に置き、膝を90度に曲げて足を浮かせます。
+  動作手順：腹直筋下部を意識して骨盤を胸に向かって巻き上げるように腰を床から浮かせ、ゆっくり戻します。
+  ポイント：反動を使わず、お尻を持ち上げたトップポジションで一瞬静止して腹筋を収縮させます。

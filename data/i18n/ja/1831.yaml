@@ -1,8 +1,10 @@
 exercise_id: '1831'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 壁胸筋ストレッチ
+name: ハンマーストレングス・デクライン・チェストプレス
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2966'
+description: |-
+  【開始姿勢】マシンのシートに座り、グリップが下胸部のラインに来るように調整します。【動作手順】大胸筋下部を意識しながら、ハンドルを斜め前下方へ力強く押し出します。【ポイント】大胸筋中部・下部 (胸肋部)を的確に刺激し、左右独立した軌道で押し切ります。

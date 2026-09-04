@@ -1,8 +1,10 @@
 exercise_id: '1754'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 45度サイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2891'
+description: |-
+  【開始姿勢】直立して両手にダンベルを持ち、親指をやや上に向けて構えます。【動作手順】真横ではなく、前方45度の角度に沿ってダンベルを肩の高さまで引き上げます。【ポイント】三角筋中部 (側部)と前部を自然な肩の動きで安全に刺激します。
