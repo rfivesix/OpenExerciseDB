@@ -1,9 +1,13 @@
 exercise_id: '1511'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・コングカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2470'
+description: |-
+  開始姿勢：両手にダンベルを持ち、肘を少し外側に開きながら体の前で構えます。
+  動作手順：両手を胸の中央で合わせるような軌道で巻き上げ、上腕筋と二頭筋を収縮させます。
+  ポイント：ケーブルクロスオーバーのような収縮感を意識し、トップで強く絞り込みます。

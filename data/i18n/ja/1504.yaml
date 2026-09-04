@@ -1,9 +1,11 @@
 exercise_id: '1504'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・ブラッドフォードプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2466'
+description: |-
+  【開始姿勢】ベンチに座り、両手にダンベルを持って肩の前に構えます。【動作手順】頭上すれすれを通過させてダンベルを肩の後ろへ下ろし、再び前へ戻します。【ポイント】腕を完全に伸ばし切らず、三角筋前部と三角筋中部 (側部)に持続的な負荷をかけます。

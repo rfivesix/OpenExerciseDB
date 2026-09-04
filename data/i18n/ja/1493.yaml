@@ -1,9 +1,13 @@
 exercise_id: '1493'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ベイジアンカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja
   source_id: '2456'
+description: |-
+  開始姿勢：ロープーリーケーブルに背を向けて一歩前に立ち、片手または両手でハンドルを握ります。
+  動作手順：肩を後方に引いた伸展位から、上腕二頭筋長頭を使って前腕部を手前へ巻き上げます。
+  ポイント：二頭筋が初動から強くストレッチされるため、肘の位置を前後に振らないようにします。

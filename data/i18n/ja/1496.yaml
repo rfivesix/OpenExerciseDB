@@ -1,9 +1,11 @@
 exercise_id: '1496'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アッパーチェスト・ダンベルプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2458'
+description: |-
+  【開始姿勢】インクラインベンチに座り、ダンベルを肩の高さに構えます。【動作手順】大胸筋上部 (鎖骨部)の筋繊維の走行に合わせて斜め上へ押し上げます。【ポイント】上胸部の収縮をトップでしっかり感じながら行います。

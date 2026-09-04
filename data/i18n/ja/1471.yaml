@@ -1,9 +1,11 @@
 exercise_id: '1471'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: クロックロー
+name: クロックロー (高重量ワンハンドダンベルロー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2434'
+description: |-
+  開始姿勢: ベンチに手と膝をつくか、ラックに手を置いて体を支え、重いダンベルを片手で保持します。動作手順: わずかな体の勢い (モーメンタム) を許容しながら、高重量のダンベルを脇腹に向かって爆発的に引き上げます。限界近くまで高レップで行い、背中全体を限界まで追い込みます。ポイント: マット・クロック考案のパワービルディング種目で、背中の厚みと握力を爆発的に向上させます。

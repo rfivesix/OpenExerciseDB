@@ -1,9 +1,13 @@
 exercise_id: '1502'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クロスボディ・ハンマーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2464'
+description: |-
+  開始姿勢：直立して両手にダンベルを持ち、手のひらを内側に向けたニュートラルグリップをとります。
+  動作手順：片腕ずつダンベルを反対側の胸（対角線上）に向かって斜めに巻き上げ、ゆっくり下ろします。
+  ポイント：上腕筋と腕橈骨筋に強い負荷がかかるのを意識し、肩をすくめずに行います。

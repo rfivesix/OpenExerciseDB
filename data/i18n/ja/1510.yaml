@@ -1,9 +1,11 @@
 exercise_id: '1510'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ニュートラルグリップ・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2469'
+description: |-
+  開始姿勢: ラットプルダウンマシンにパラレルグリップバーを取り付け、手のひらが向かい合う握りで座ります。胸を張ります。動作手順: 肘を前下方に引き下げるようにしてバーを胸の上部まで引き寄せます。広背筋と大円筋を力強く収縮させ、ゆっくりとコントロールしながら元の位置に戻します。ポイント: 手首や肩に自然な角度を保てるため、関節へのストレスを軽減しながら高重量を扱えます。

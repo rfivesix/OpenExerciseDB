@@ -1,9 +1,20 @@
 exercise_id: '1503'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・フロッグプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2465'
+description: |-
+  開始姿勢:
+  床に仰向けになり、両足裏を合わせて膝を外側に開きます（カエルの足の形）。骨盤の上にダンベルを乗せて保持します。
+
+  動作手順:
+  1. 足裏同士を押し合いながら、大臀筋を収縮させて骨盤を真上へ持ち上げます。
+  2. 臀部が最大収縮する位置で1〜2秒間静止します。
+  3. コントロールしながらゆっくりと腰を床まで下ろします。
+
+  ポイント:
+  股関節を外旋・外転させた状態でヒップリフトを行うことで、大臀筋の上部や外側に強い刺激を与えられます。

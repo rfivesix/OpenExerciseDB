@@ -1,9 +1,11 @@
 exercise_id: '1473'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバース・ケーブルフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2436'
+description: |-
+  【開始姿勢】交差させたケーブルのハンドルを持ち、上体を少し前傾させます。【動作手順】肘を軽く曲げたまま、両腕を水平後方へ大きく開きます。【ポイント】三角筋後部と菱形筋に刺激を集中させ、肩甲骨を寄せる意識で行います。

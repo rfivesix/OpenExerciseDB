@@ -1,9 +1,11 @@
 exercise_id: '1497'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アンダーハンド・ダンベルベンチプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2459'
+description: |-
+  【開始姿勢】フラットベンチに仰向けになり、手のひらを顔側に向けた逆手でダンベルを握ります。【動作手順】肘を体側に近づけながらダンベルを押し上げます。【ポイント】大胸筋上部 (鎖骨部)と上腕三頭筋に特化した刺激を与えます。

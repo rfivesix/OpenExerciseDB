@@ -1,9 +1,13 @@
 exercise_id: '1465'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・スパイダーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2428'
+description: |-
+  開始姿勢：約45度のインクラインベンチにうつ伏せになり、胸をパッドに当ててダンベルを垂らします。
+  動作手順：肘の位置を固定したままダンベルを巻き上げ、上腕二頭筋短頭を力強くスクイーズします。
+  ポイント：体の反動を完全に防げるため、トップで1〜2秒静止して丁寧に戻します。

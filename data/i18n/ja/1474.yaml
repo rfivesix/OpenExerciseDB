@@ -1,9 +1,13 @@
 exercise_id: '1474'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2437'
+description: |-
+  開始姿勢：マットに仰向けになり、両脚を揃えて床から少し浮かせます。
+  動作手順：腹直筋と腹斜筋を使い、両脚で空中に逆Wの軌道を描くように腰を持ち上げながら左右へ振ります。
+  ポイント：体幹を強く引き締め、脚の重さを常に腹筋で受け止めながらコントロールします。

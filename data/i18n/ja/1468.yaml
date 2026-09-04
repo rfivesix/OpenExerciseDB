@@ -1,9 +1,13 @@
 exercise_id: '1468'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: フロア・スカルクラッシャー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2431'
+description: |-
+  開始姿勢：床に仰向けになり、EZバーを狭い手幅で握って腕を天井へ伸ばします。
+  動作手順：肘の位置を固定してバーを頭上の床まで下ろし、一瞬床につけてから上腕三頭筋で押し上げます。
+  ポイント：床で一旦脱力と切り返しを行うことで反動を排除し、純粋な三頭筋の筋力を発揮します。

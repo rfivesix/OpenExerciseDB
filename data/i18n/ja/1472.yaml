@@ -1,9 +1,11 @@
 exercise_id: '1472'
 language: ja
-status: ai_raw
-translated_from: en
-name: ケーブル・シュラッグイン
+status: ai_reviewed
+translated_from: de
+name: ケーブル・インワードシュラッグ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2435'
+description: |-
+  開始姿勢: 左右の低い位置にあるロープーリーにDハンドルを取り付け、両手でそれぞれ握って中央に立ちます。腕を伸ばします。動作手順: 肘を伸ばしたまま、肩甲骨を内側かつ上方に引き上げるようにして肩をすくめます。トップで僧帽筋上部を強く収縮させ、ゆっくりとコントロールしながら戻します。ポイント: 斜め下からのケーブル負荷により、僧帽筋の筋線維の走行に沿った効果的な収縮が得られます。

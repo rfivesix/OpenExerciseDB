@@ -1,9 +1,11 @@
 exercise_id: '1508'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハイインクライン・スミスマシンプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2467'
+description: |-
+  【開始姿勢】ベンチの傾斜を45〜60度に設定し、スミスマシンのバーの下にセットします。【動作手順】バーを鎖骨の上胸部に触れるまで下ろし、力強く押し上げます。【ポイント】大胸筋上部 (鎖骨部)と三角筋前部に強烈な刺激を与えます。

@@ -1,9 +1,13 @@
 exercise_id: '1481'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ケーブル・ドラッグ・プッシュダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2444'
+description: |-
+  開始姿勢：ハイプーリーの前に立ち、バーまたはロープを両手で握って構えます。
+  動作手順：バーを体に密着させながら下腹部へ擦り下ろすように押し込み、上腕三頭筋を収縮させます。
+  ポイント：肘を体側に引き付けたまま固定し、ケーブルの張力を感じながら行います。

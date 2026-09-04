@@ -1,9 +1,11 @@
 exercise_id: '1501'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: オルタネイト・ダンベルゴリラロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2463'
+description: |-
+  開始姿勢: 床に置いた2つのダンベルの間に立ち、膝を曲げて上体を前傾させた深いゴリラのような前傾姿勢をとります。動作手順: 片方のダンベルを床で支えながら、もう片方のダンベルを脇腹に向かって引き上げます。トップで背中を収縮させたら床に戻し、すぐに反対側のダンベルを引き上げます。左右交互に繰り返します。ポイント: 股関節と体幹を固めて上体のブレを抑え、広背筋と菱形筋を強化します。

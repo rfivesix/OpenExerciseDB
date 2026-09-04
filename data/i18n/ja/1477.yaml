@@ -1,9 +1,13 @@
 exercise_id: '1477'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・コークスクリュー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2440'
+description: |-
+  開始姿勢：床に座り、両手を後方について上体を少し倒し、膝を軽く曲げて足を浮かせます。
+  動作手順：両膝を引き込みながら体幹を斜めにねじり、腹斜筋を収縮させてから脚を伸ばして戻します。
+  ポイント：左右交互に脚を押し出し、体幹の緊張を切らさないようにリズミカルに行います。

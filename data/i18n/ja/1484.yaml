@@ -1,9 +1,11 @@
 exercise_id: '1484'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: オムニ・ケーブルクロスオーバー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2447'
+description: |-
+  【開始姿勢】ケーブルのプーリーの高さを変えながら、立ち位置を安定させてハンドルを握ります。【動作手順】高・中・低の様々な角度から胸の前へケーブルを引き寄せます。【ポイント】大胸筋の上部、中部、下部を一つのセッションで総合的に刺激します。

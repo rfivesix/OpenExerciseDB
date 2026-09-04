@@ -1,9 +1,20 @@
 exercise_id: '1464'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ポーズ・ハックスクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2427'
+description: |-
+  開始姿勢:
+  ハックスクワットマシンに入り、肩パッドに肩を当て、足を肩幅に開いてプレートに乗せます。
+
+  動作手順:
+  1. コントロールしながら膝を深く曲げ、ボトムポジションまでしゃがみ込みます。
+  2. ボトムの最も深い位置で1〜2秒間完全に静止し、反動を消します。
+  3. 大腿四頭筋の力で爆発的にプレートを押し返し、開始姿勢に戻ります。
+
+  ポイント:
+  ボトムで静止することでモメンタム（弾性エネルギー）を排除し、大腿四頭筋の純粋な求心性筋力を強化します。

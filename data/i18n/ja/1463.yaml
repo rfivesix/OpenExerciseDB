@@ -1,9 +1,11 @@
 exercise_id: '1463'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ダンベル・アンダーハンドデッドロー
+name: ダンベル・アンダーハンド・デッドストップロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2426'
+description: |-
+  開始姿勢: 床に置いたダンベルの前に立ち、膝を曲げて上体を前傾させます。手のひらを前に向けた逆手 (アンダーハンドグリップ) でダンベルを握ります。動作手順: 毎レップ床にダンベルを着地させたデッドストップの状態から、肘を体側に引き寄せてダンベルを腰に向かって引き上げます。トップで広背筋を強く収縮させ、コントロールして床へ戻します。ポイント: 反動を完全に排除し、広背筋と上背部の純粋な筋力を養います。

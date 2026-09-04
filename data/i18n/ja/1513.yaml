@@ -1,9 +1,13 @@
 exercise_id: '1513'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダンベル・ウォーキングランジ
+status: ai_reviewed
+translated_from: de
+name: オーバーヘッド・ケーブルトライセプスエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2472'
+description: |-
+  開始姿勢：ケーブルタワーに背を向けて立ち、ロープアタッチメントを頭の後ろで保持します。
+  動作手順：肘の位置を頭の横に固定したまま前方斜め上に向かって腕を伸ばし、上腕三頭筋長頭を収縮させます。
+  ポイント：腰が過剰に反らないよう腹圧を保ち、三頭筋が十分にストレッチされる位置まで戻します。

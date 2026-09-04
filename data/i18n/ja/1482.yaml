@@ -1,9 +1,13 @@
 exercise_id: '1482'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・チートカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2445'
+description: |-
+  開始姿勢：両手に高重量のダンベルを持ち、背筋を伸ばして安定したスタンスをとります。
+  動作手順：わずかな股関節の反動を使ってダンベルを巻き上げ、下ろす動作を4秒かけて極めてゆっくり行います。
+  ポイント：ネガティブ局面で上腕二頭筋に強いエキセントリック負荷を集中させます。

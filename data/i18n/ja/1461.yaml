@@ -1,9 +1,11 @@
 exercise_id: '1461'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・ベンチプレス (レッグドライブなし)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2424'
+description: |-
+  【開始姿勢】フラットベンチの上に両足を乗せるか床から浮かせ、両手にダンベルを持ちます。【動作手順】脚の踏ん張りを使わずに、大胸筋の純粋な力だけでダンベルを押し上げます。【ポイント】体幹を安定させ、大胸筋への負荷を完全に分離して行います。

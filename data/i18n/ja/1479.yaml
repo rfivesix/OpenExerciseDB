@@ -1,9 +1,13 @@
 exercise_id: '1479'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ダンベル・ベンチプレス
+name: シットアップ・エルボースラスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2442'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を曲げて両手を顔の横でガードのように構えます。
+  動作手順：腹直筋を使って上体を素早く起こし、トップで肘を前方に対角に突き出します。
+  ポイント：反動を制御し、体幹の回旋と屈曲を力強く連動させて左右交互に行います。

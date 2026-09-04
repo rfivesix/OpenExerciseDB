@@ -1,9 +1,13 @@
 exercise_id: '1512'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ドロップカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2471'
+description: |-
+  開始姿勢：ダンベルを持ち、腕をまっすぐ伸ばした状態から構えます。
+  動作手順：ゆっくりとしたペースで肘を曲げてカールし、上腕筋と上腕二頭筋をエキセントリックに刺激します。
+  ポイント：急激に脱力せず、下ろす動作でも筋肉の緊張を維持しながら丁寧に行います。

@@ -1,9 +1,11 @@
 exercise_id: '1486'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: オルタネイティング・ハイケーブルロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2449'
+description: |-
+  開始姿勢: ケーブルステーションの高い位置にハンドルをセットし、約1m後方に下がって立ちます。腕を伸ばしてハンドルを握ります。動作手順: 上体を安定させたまま、片腕ずつ交互に肘を後ろへ引き寄せてローイングを行います。引いた側で広背筋と肩甲骨の収縮を意識し、ゆっくりと戻したら反対側の腕で同様に行います。ポイント: 左右交互に行うことで体幹の抗回旋筋力と背筋のバランスを向上させます。

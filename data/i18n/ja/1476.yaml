@@ -1,9 +1,13 @@
 exercise_id: '1476'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バタフライ・シットアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2439'
+description: |-
+  開始姿勢：マットに座り、足裏同士を合わせて膝を外側に開いて仰向けになります。
+  動作手順：腕を頭上に伸ばした状態から、腹直筋を収縮させて上体を起こし、手をつま先まで伸ばします。
+  ポイント：股関節の関与を減らし、腹直筋に負荷を集中させながら滑らかに起き上がります。

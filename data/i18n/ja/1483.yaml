@@ -1,9 +1,13 @@
 exercise_id: '1483'
 language: ja
-status: ai_raw
-translated_from: en
-name: デクライン・ダンベルベンチプレス
+status: ai_reviewed
+translated_from: de
+name: バイセップスカール・トライフェクタ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2446'
+description: |-
+  開始姿勢：ダンベルを持ち、3種類の異なるカール（スピネーテッド、ハンマー、リバース）を連続して行います。
+  動作手順：上腕二頭筋、上腕筋、腕橈骨筋をターゲットに、フォームを崩さずに連続でカールします。
+  ポイント：反動を抑え、各バリエーションごとの手首の角度と筋肉の収縮を意識します。

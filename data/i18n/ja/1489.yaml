@@ -1,9 +1,13 @@
 exercise_id: '1489'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: プランクジャック
 upstream:
   license: CC-BY-SA-4.0
   license_author: jayninja
   source_id: '2452'
+description: |-
+  開始姿勢：前腕部を床につけたプランク姿勢をとり、両足を揃えて体幹をまっすぐに保ちます。
+  動作手順：体幹の高さを保ったまま軽くジャンプし、両足を外側に開いて着地し、再び閉じて戻します。
+  ポイント：腹直筋と腹斜筋を強く締め、腰が跳ね上がったり沈んだりしないよう安定させます。
