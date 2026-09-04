@@ -1,9 +1,11 @@
 exercise_id: '1972'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ワンハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: evtimovgeorg
   source_id: '3127'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、シングルハンドルをニュートラルグリップで握ります。胸を張り、上体を安定させます。動作手順: 腕を頭上に伸ばした状態から、肘を体側に引き下げるようにしてハンドルを鎖骨の高さまで引き下ろします。上体の回旋を抑えながら広背筋を強く収縮させ、コントロールしながらゆっくりと戻します。ポイント: 片腕ずつ行うことで左右の筋力差を是正し、広背筋の可動域を最大化します。

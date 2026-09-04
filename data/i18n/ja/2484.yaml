@@ -1,9 +1,19 @@
 exercise_id: '2484'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ビート板サイドキック呼吸ドリル
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4961'
+description: |-
+  開始姿勢:
+  プール内で身体を真横（サイド）に向け、下側の手でビート板を前に伸ばして保持します。上側の腕は体側に沿わせます。
+
+  動作手順:
+  1. 横向きの姿勢を維持したまま、左右交互に前後にしなやかなサイドキックを打ちます。
+  2. 顔を水につけてキックを続け、呼吸の際は頭をわずかに回旋させて水面から口を出して息を吸います。
+
+  ポイント:
+  クロールでの効率的なサイドキック推進力とスムーズな呼吸動作を身につけるドリルです。

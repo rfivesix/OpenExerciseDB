@@ -1,9 +1,20 @@
 exercise_id: '2495'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マシン・レッグカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me
   source_id: '4977'
+description: |-
+  開始姿勢:
+  レッグカールマシンのシートに座るか横たわり、足首の後ろにローラーパッドを合わせます。膝の回転軸をマシンのピボットに合わせます。
+
+  動作手順:
+  1. ハムストリングスを力強く収縮させ、踵を臀部に向かって引き寄せます。
+  2. 最大屈曲位置で1秒静止し、太もも裏の筋緊張を高めます。
+  3. 抵抗を感じながら、ゆっくりとコントロールして膝を伸ばします。
+
+  ポイント:
+  太もも裏のハムストリングスを安全かつ集中的に鍛えられる代表的なマシン種目です。

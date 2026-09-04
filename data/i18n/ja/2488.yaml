@@ -1,9 +1,13 @@
 exercise_id: '2488'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 骨盤後傾運動
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj
   source_id: '4965'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を立てて足裏を床につけます。
+  動作手順：お腹を凹ませながら腰を床に押し付け、骨盤を後傾させて腹直筋を軽く収縮させます。
+  ポイント：お尻を床から浮かせず、腰と床の隙間を埋めるようにして下腹部のインナーマッスルを使います。

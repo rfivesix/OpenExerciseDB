@@ -1,9 +1,13 @@
 exercise_id: '2486'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リカバリーボビング
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4963'
+description: |-
+  開始姿勢：やや深めのプールに立ち、腕を自然に脱力して水面に浮かびます。
+  動作手順：水中で穏やかに息を吐き出し、足で軽く底を蹴って水面に上がって息を吸う動作を繰り返します。
+  ポイント：全身の力を抜いて呼吸を落ち着かせ、トレーニング後のアクティブリカバリーを行います。

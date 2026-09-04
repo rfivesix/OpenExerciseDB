@@ -1,9 +1,13 @@
 exercise_id: '2528'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ディープスクワット・スカイリーチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4997'
+description: |-
+  開始姿勢：深いスクワットの姿勢でしゃがみ込み、反対側の手で足首を掴んで体を安定させます。
+  動作手順：もう一方の腕を天井に向かってまっすぐ伸ばしながら上体を回旋させ、胸と腹斜筋を開きます。
+  ポイント：踵を床につけたまま胸椎から回旋させ、目線は伸ばした指先に向けて深呼吸します。

@@ -1,9 +1,13 @@
 exercise_id: '2482'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ボビング呼吸ドリル
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4959'
+description: |-
+  開始姿勢：胸の深さのプールに立ち、足を肩幅に開いてリラックスします。
+  動作手順：息を吸って水中に沈み、鼻や口からゆっくりと息を吐き出しながら立ち上がって息を吸います。
+  ポイント：横隔膜と腹直筋をリラックスさせ、水中でリズミカルに呼吸を整えるドリルです。

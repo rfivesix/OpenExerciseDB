@@ -1,9 +1,20 @@
 exercise_id: '2448'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: リバース・クラムシェル
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk
   source_id: '3554'
+description: |-
+  開始姿勢:
+  横向きに寝て、股関節と両膝を約90度に曲げて重ねます。膝同士を軽く密着させます。
+
+  動作手順:
+  1. 両膝を合わせたまま離さず、上側の足首（踵やつま先）を天井に向けてゆっくりと持ち上げます。
+  2. 股関節が内旋し、お尻の深層筋が刺激されるのを感じる位置で1秒静止します。
+  3. コントロールしながらゆっくりと足を下ろします。
+
+  ポイント:
+  通常のクラムシェル（外旋）とは逆に、股関節の内旋可動域と筋力を集中的に強化します。

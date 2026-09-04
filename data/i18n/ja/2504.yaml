@@ -1,8 +1,12 @@
 exercise_id: '2504'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダンベル・ハンマーカール
+status: ai_reviewed
+translated_from: de
+name: ダンベル・ハンマーカール (5kg)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'
+description: |-
+  開始姿勢：5kgのダンベルを片手に持ち、手のひらを内側に向けたニュートラルグリップで直立します。
+  動作手順：肘を脇腹に固定したままダンベルを肩に向けて巻き上げ、腕橈骨筋と上腕筋を収縮させます。
+  ポイント：手首をまっすぐに保ち、反動を使わずにゆっくりとコントロールして下ろします。

@@ -1,8 +1,12 @@
 exercise_id: '2510'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ホローボディホールド
+name: ホローボディホールド (レベル1)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4989'
+description: |-
+  開始姿勢：マットに仰向けになり、両腕を頭上に伸ばし、両脚を揃えて伸ばします。
+  動作手順：腰を床に強く押し付けたまま、肩甲骨と両足を床から数センチ浮かせて舟形の姿勢を保ちます。
+  ポイント：腹直筋と腹横筋を最大限に収縮させ、腰と床の間に隙間ができないように維持します。

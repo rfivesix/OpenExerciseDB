@@ -1,8 +1,12 @@
 exercise_id: '2505'
 language: ja
-status: ai_raw
-translated_from: en
-name: デッドバグ
+status: ai_reviewed
+translated_from: de
+name: デッドバグ (レベル1)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4990'
+description: |-
+  開始姿勢：マットに仰向けになり、両腕を天井へ伸ばし、股関節と膝を90度に曲げて持ち上げます。
+  動作手順：腰を床に押し付けたまま、対角の腕と脚を床すれすれまでゆっくり下ろして元の位置に戻します。
+  ポイント：腹直筋と腹横筋を意識し、動作中に腰が床から浮かないように体幹を強く安定させます。

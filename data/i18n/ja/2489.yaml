@@ -1,9 +1,11 @@
 exercise_id: '2489'
 language: ja
-status: ai_raw
-translated_from: en
-name: ローロー
+status: ai_reviewed
+translated_from: de
+name: ローロー (両手マシンローイング)
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi
   source_id: '4966'
+description: |-
+  開始姿勢: ローローマシンのシートに座り、胸をパッドに当てて足を踏ん張ります。ハンドルを両手で握ります。動作手順: 肘を斜め後ろ・下方に向かって引き、ハンドルをお腹の横まで力強く引き寄せます。トップで肩甲骨を寄せて広背筋を強く収縮させ、ゆっくりと元の位置に戻します。ポイント: 低めの軌道から引くことで、広背筋下部と背中の厚みを集中的に鍛えることができます。

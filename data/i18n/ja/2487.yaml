@@ -1,9 +1,11 @@
 exercise_id: '2487'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: クールダウン・スイム
+name: クールダウン・スイム (整理泳)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4964'
+description: |-
+  開始姿勢: ワークアウト終了後、リラックスしてプールに入ります。動作手順: クロール、背泳ぎ、または水に身を任せて浮きながら、急がずゆっくりとしたペースで泳ぎます。フォームやドリルにとらわれず、心拍数を徐々に下げて筋肉をリラックスさせます。ポイント: トレーニングの締めくくりとして疲労物質の排出を促し、身体を整えます。

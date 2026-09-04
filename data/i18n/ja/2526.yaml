@@ -1,9 +1,13 @@
 exercise_id: '2526'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ロングランジ・パルスストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4995'
+description: |-
+  開始姿勢：前後に脚を大きく開いて深いランジ姿勢をとり、前足の膝を直角に曲げます。
+  動作手順：後ろ足の膝を伸ばしたまま骨盤を低く保ち、小さな上下のパルス（バウンド）を加えて腸腰筋を伸ばします。
+  ポイント：骨盤を正面に向け、反動をつけすぎずに股関節の柔軟性を徐々に高めていきます。

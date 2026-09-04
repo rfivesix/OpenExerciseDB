@@ -1,9 +1,11 @@
 exercise_id: '2454'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Y-T-W レイズ
+name: YTWレイズ (肩甲骨安定化エクササイズ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging
   source_id: '4931'
+description: |-
+  開始姿勢: うつ伏せになるか前傾姿勢をとり、親指を上に向けて腕を構えます。動作手順: 腕を斜め前方に上げて「Y」字を作り、真横に開いて「T」字を作り、肘を曲げて引き「W」字を作ります。各ポジションで肩甲骨を寄せて数秒間保持します。ポイント: 肩甲骨の間の筋肉 (菱形筋・僧帽筋中部・下部) を強化し、直立した美しい姿勢の維持をサポートします。
