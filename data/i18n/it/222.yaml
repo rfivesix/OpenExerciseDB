@@ -1,9 +1,17 @@
 exercise_id: '222'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Estensioni della schiena a terra (Superman)
+name: Face pull al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: abeworld
   source_id: '394'
+description: |-
+  Posizione di partenza:
+  Fissa una corda a una carrucola regolata all'altezza del petto o degli occhi. Fai un passo indietro assumendo una posizione a piedi sfalsati per maggiore stabilità, con le ginocchia leggermente flesse e le braccia distese in avanti sostenendo il carico.
+
+  Esecuzione:
+  1. Addurrai le scapole e tira la corda verso il viso, allargando contemporaneamente le estremità della corda verso l'esterno anziché limitarti a tirare indietro.
+  2. Mentre ti avvicini al viso, esegui una rotazione esterna delle spalle portando le nocche verso l'alto e i gomiti alti e larghi.
+  3. Mantieni la contrazione di picco per un secondo focalizzandoti su deltoidi posteriori e cuffia dei rotatori, poi distendi lentamente le braccia tornando alla posizione iniziale.

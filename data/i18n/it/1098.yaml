@@ -1,9 +1,11 @@
 exercise_id: '1098'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate posteriori da seduto (deltoidi posteriori)
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2057'
+description: |-
+  Siediti su una panca e fletti il busto a 45 gradi sulle gambe. Solleva lateralmente le braccia all'altezza delle spalle contraendo i deltoidi posteriori, poi riabbassa i manubri con controllo.

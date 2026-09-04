@@ -1,9 +1,11 @@
 exercise_id: '31'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tenuta statica con manubri (Axe Hold)
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '289'
+description: |-
+  Impugna due manubri e distendi le braccia lateralmente all'altezza delle spalle. Mantieni questa posizione statica il più a lungo possibile contraendo i deltoidi.

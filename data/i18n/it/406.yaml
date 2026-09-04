@@ -1,9 +1,11 @@
 exercise_id: '406'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazioni esterne con manubrio da sdraiato sul fianco
 upstream:
   license: CC-BY-SA-4.0
   license_author: Trix
   source_id: '312'
+description: |-
+  Questo esercizio per la cuffia dei rotatori coinvolge principalmente il sottospinato e il piccolo rotondo. Sdraiati su un fianco, tieni il gomito a 90 gradi aderente al busto e ruota l'avambraccio verso l'alto allontanandolo dall'addome, poi riabbassa lentamente.

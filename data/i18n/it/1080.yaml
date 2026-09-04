@@ -1,9 +1,12 @@
 exercise_id: '1080'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Piegamenti declinati con piedi rialzati
+name: Piegamenti indù (Hindu Push-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imobard
   source_id: '2025'
+description: |-
+  Esercizio dinamico per rafforzare spalle, pettorali e core.
+  Inizia nella posizione yoga del cane a testa in giù, con i fianchi sollevati verso l'alto e le braccia distese. Fletti i gomiti scendendo in avanti con il petto a sfiorare il suolo, per poi risalire estendendo le braccia e aprendo il torace nella posizione del cane a testa in su (o cobra). Risolleva i fianchi tornando alla posizione di partenza.

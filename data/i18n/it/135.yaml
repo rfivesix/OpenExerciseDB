@@ -1,9 +1,11 @@
 exercise_id: '135'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croci alla macchina (Butterfly)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '98'
+description: |-
+  Siediti alla macchina per butterfly con la schiena aderente allo schienale e i piedi a terra. Spingi le braccia l'una verso l'altra contraendo i pettorali fino a far quasi toccare le impugnature. Ritorna lentamente indietro mantenendo sempre i pesi sollevati per preservare la tensione muscolare.

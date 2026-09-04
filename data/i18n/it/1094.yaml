@@ -1,9 +1,11 @@
 exercise_id: '1094'
 language: it
-status: ai_raw
-translated_from: en
-name: Alzate laterali con manubri in piedi
+status: ai_reviewed
+translated_from: de
+name: Distensioni da seduto alla chest press
 upstream:
   license: CC-BY-SA-4.0
   license_author: colundrum
   source_id: '2052'
+description: |-
+  Regola la macchina per chest press in modo che le impugnature siano all'altezza della parte inferiore del petto e mantieni la schiena ben aderente allo schienale. Afferra le maniglie con il petto in fuori e la testa appoggiata. Inspira profondamente e spingi le impugnature in avanti fino alla quasi completa estensione delle braccia. Fermati un momento prima del blocco articolare, quindi riporta lentamente le maniglie indietro sentendo l'allungamento dei pettorali, senza far toccare i pesi prima della ripetizione successiva.

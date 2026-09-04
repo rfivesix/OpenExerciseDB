@@ -1,9 +1,18 @@
 exercise_id: '351'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate da laterali a frontali con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '306'
+description: |-
+  Questo esercizio combinato allena tutte le porzioni del deltoide alternando movimenti sul piano laterale e frontale.
+
+  Esecuzione:
+  1. Esegui un'alzata laterale sollevando i manubri all'altezza delle spalle, mantenendo le braccia quasi tese e fermandoti un istante al culmine della salita.
+  2. Senza abbassare i pesi, porta le braccia in avanti verso il centro del corpo con un movimento orizzontale controllato, fino a trovarti nella posizione apicale di un'alzata frontale.
+  3. Abbassa lentamente i manubri verso le cosce come nella fase eccentrica di un'alzata frontale.
+  4. Inverti la sequenza: solleva i manubri frontalmente all'altezza delle spalle, poi allarga le braccia orizzontalmente verso l'esterno portandoti nella posizione alta dell'alzata laterale.
+  5. Infine abbassa lentamente i manubri lungo i fianchi per completare una ripetizione. Mantieni sempre il core contratto ed evita ogni oscillazione della schiena.

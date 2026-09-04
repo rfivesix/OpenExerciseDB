@@ -1,8 +1,10 @@
 exercise_id: '1084'
 language: it
-status: ai_raw
-translated_from: en
-name: Piegamenti a presa larga
+status: ai_reviewed
+translated_from: de
+name: Distensioni a terra con manubri (Floor Press)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2034'
+description: |-
+  Sdraiati a terra sulla schiena con le ginocchia piegate e i piedi piatti sul pavimento, impugnando due manubri. Spingi i pesi verso l'alto fino a distendere le braccia. Abbassali lentamente finché la parte posteriore delle braccia non tocca leggermente il pavimento con i gomiti a circa 45 gradi dal corpo. Fai una breve pausa a terra prima di spingere nuovamente i manubri verso l'alto con forza, contraendo intensamente il petto.

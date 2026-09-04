@@ -1,9 +1,11 @@
 exercise_id: '711'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Verticale al muro (Wall Handstand)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '359'
+description: |-
+  Esegui una verticale a corpo libero utilizzando una parete come supporto, con il petto o la schiena rivolti al muro per mantenere l'allineamento.

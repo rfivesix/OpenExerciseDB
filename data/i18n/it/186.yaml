@@ -1,9 +1,11 @@
 exercise_id: '186'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni con manubri su panca declinata
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '101'
+description: |-
+  Sdraiati su una panca reclinata con i piedi saldi e la testa appoggiata. Impugna due manubri all'altezza dei pettorali e spingili verso l'alto fino a distendere le braccia senza bloccare i gomiti. Abbassa i pesi lentamente e in modo controllato tornando alla posizione iniziale prima della successiva ripetizione.

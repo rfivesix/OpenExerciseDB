@@ -1,9 +1,11 @@
 exercise_id: '346'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni Landmine
 upstream:
   license: CC-BY-SA-4.0
   license_author: Torsten Linnecke
   source_id: '1066'
+description: |-
+  Questa variante si può eseguire con i piedi paralleli o sfalsati. Impugna l'estremità caricata del bilanciere inserito nel supporto Landmine e spingila verso l'alto e in avanti senza deviare verso il centro del corpo. Mantieni il busto dritto, il core contratto e abbassa lentamente il carico.

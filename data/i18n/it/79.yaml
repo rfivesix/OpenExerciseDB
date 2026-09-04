@@ -1,9 +1,11 @@
 exercise_id: '79'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: High pull con manubri a busto flesso
 upstream:
   license: CC-BY-SA-3.0
   license_author: lakerbeezel
   source_id: '268'
+description: |-
+  A busto flesso in avanti con schiena dritta e manubri alle mani, tira i gomiti verso l'alto e l'esterno contraendo i deltoidi posteriori e il trapezio, poi riabbassa lentamente i pesi.

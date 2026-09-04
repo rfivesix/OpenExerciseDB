@@ -1,9 +1,11 @@
 exercise_id: '237'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croci ai cavi per il petto
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '122'
+description: |-
+  Alla macchina per cavi, fai due passi in avanti mantenendo la schiena dritta e le braccia leggermente flesse. Porta le impugnature a convergere davanti al petto contraendo i pettorali, poi torna lentamente indietro.

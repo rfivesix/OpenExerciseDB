@@ -1,9 +1,11 @@
 exercise_id: '478'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Push Press con manubri
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '190'
+description: |-
+  Porta i manubri alle spalle con una girata, tenendo i palmi rivolti verso l'interno. Inspira e attiva il core. Fletti leggermente le ginocchia e sfrutta la spinta esplosiva delle gambe per spingere i manubri sopra la testa. Abbassali con controllo fino alle spalle e ripeti il movimento.

@@ -1,9 +1,11 @@
 exercise_id: '675'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Turkish Get-Up con kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: dookie1481
   source_id: '318'
+description: |-
+  Sdraiati sulla schiena tenendo un kettlebell sopra la testa a braccio teso. Alzati in piedi in modo controllato e poi torna a terra invertendo i passaggi. Alterna il lato a ogni ripetizione.

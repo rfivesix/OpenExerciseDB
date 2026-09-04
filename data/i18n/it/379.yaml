@@ -1,9 +1,11 @@
 exercise_id: '379'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Chest press convergente a leva
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '211'
+description: |-
+  Regola l'altezza del sedile in modo che le impugnature siano all'altezza della parte inferiore dei pettorali, poi spingi in avanti con controllo.

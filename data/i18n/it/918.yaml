@@ -1,9 +1,11 @@
 exercise_id: '918'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate laterali da seduto con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1197'
+description: |-
+  Siediti sul bordo di una panca con il busto leggermente inclinato in avanti. Solleva i manubri lateralmente fino all'altezza delle spalle mantenendo i gomiti leggermente flessi.

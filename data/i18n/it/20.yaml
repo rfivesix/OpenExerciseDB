@@ -1,9 +1,11 @@
 exercise_id: '20'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lento Arnold con manubri
 upstream:
   license: CC-BY-SA-3.0
   license_author: trzr23
   source_id: '227'
+description: |-
+  Siediti su una panca con schienale verticale, impugnando due manubri all'altezza del petto con i palmi rivolti verso di te. Spingi i manubri verso l'alto allargando i gomiti e ruotando i polsi finché in cima i palmi non sono rivolti in avanti. Una volta estese le braccia, inverti il movimento tornando con controllo alla posizione di partenza.

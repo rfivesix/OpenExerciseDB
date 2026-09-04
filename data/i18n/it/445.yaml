@@ -1,9 +1,11 @@
 exercise_id: '445'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni su panca piana con pausa con bilanciere
 upstream:
   license: CC0-1.0
   license_author: Mens Fitness
   source_id: '270'
+description: |-
+  Sdraiati sulla panca piana con scapole addotte e piedi a terra. Abbassa il bilanciere sul petto e trattienilo in pausa per 2 secondi senza scaricare il peso, mantenendo la tensione muscolare attiva. Spingilo poi verso l'alto con forza fino a distendere le braccia. Utilizza lo stesso carico del bench press classico, eseguendo singole ripetizioni controllate con pausa al petto.

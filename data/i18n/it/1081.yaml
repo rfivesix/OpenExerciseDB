@@ -1,9 +1,17 @@
 exercise_id: '1081'
 language: it
-status: ai_raw
-translated_from: en
-name: Piegamenti inclinati su panca
+status: ai_reviewed
+translated_from: de
+name: Dislocazioni delle spalle con elastico o bastone
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2031'
+description: |-
+  Posizione di partenza:
+  In piedi con la schiena dritta, impugna un elastico di resistenza o un bastone davanti al corpo con presa prona larga circa il doppio delle spalle e le braccia distese.
+
+  Esecuzione:
+  1. Mantenendo le braccia completamente distese, ruota lentamente le spalle sollevando l'attrezzo sopra la testa e portandolo dietro la schiena verso i glutei.
+  2. Inverti il movimento ruotando le spalle in avanti per tornare alla posizione iniziale.
+  3. Esegui il movimento in modo fluido e controllato senza piegare i gomiti, allargando la presa se la mobilità è limitata.

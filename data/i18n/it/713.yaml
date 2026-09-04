@@ -1,9 +1,11 @@
 exercise_id: '713'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Piegamenti al muro
 upstream:
   license: CC-BY-SA-3.0
   license_author: Dexter
   source_id: '203'
+description: |-
+  In piedi davanti a una parete, posiziona le mani sul muro ad altezza spalle e fletti i gomiti avvicinando il petto, poi spingi per distendere le braccia.

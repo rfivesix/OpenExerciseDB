@@ -1,9 +1,11 @@
 exercise_id: '916'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lento avanti al multipower (Smith Machine)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1195'
+description: |-
+  Siediti su una panca inclinata a circa 85-90 gradi all'interno del multipower e spingi la sbarra guidata sopra la testa.

@@ -1,9 +1,17 @@
 exercise_id: '193'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Distensioni diagonali con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: oboema
   source_id: '329'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca con schienale leggermente inclinato all'indietro posizionata sotto un rack. Afferra il bilanciere con una presa alla larghezza delle spalle, posizionato circa 20 cm davanti a te all'altezza delle clavicole.
+
+  Esecuzione:
+  1. Spingi il bilanciere verso l'alto con una traiettoria diagonale fino a distendere quasi completamente le braccia.
+  2. Questa angolazione riduce lo stress sui pettorali focalizzando il carico sul deltoide anteriore e sui tricipiti.
+  3. Abbassa il bilanciere in modo lento e controllato prima della ripetizione successiva.

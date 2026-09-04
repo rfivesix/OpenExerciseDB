@@ -1,9 +1,19 @@
 exercise_id: '1082'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Dip tra due panche
+name: Rematore a busto flesso con extrarotazione
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2032'
+description: |-
+  Posizione di partenza:
+  In piedi davanti a un supporto o panca, fletti il busto in avanti mantenendo la schiena piatta e le braccia che pendono verticalmente verso il pavimento.
+
+  Esecuzione:
+  1. Tira i gomiti verso l'alto all'altezza delle spalle, mantenendo gli avambracci perpendicolari ai bicipiti e rivolti verso il basso.
+  2. Mantieni la posizione per un istante.
+  3. Ruota gli avambracci sui gomiti portando le mani verso l'alto il più possibile in rotazione esterna.
+  4. Trattieni la contrazione della cuffia dei rotatori e dei deltoidi posteriori.
+  5. Ruota nuovamente le braccia verso il basso e distendile tornando alla posizione di partenza.

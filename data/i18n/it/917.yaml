@@ -1,9 +1,11 @@
 exercise_id: '917'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate frontali al cavo con sbarra dritta
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1196'
+description: |-
+  Posizionati con la schiena alla torretta del cavo, tenendo il cavo tra le gambe e impugnando la sbarra. Solleva le braccia in avanti fino all'altezza delle spalle.

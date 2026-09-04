@@ -1,9 +1,17 @@
 exercise_id: '129'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Distensioni alla chest press
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1064'
+description: |-
+  Posizione di partenza:
+  Regola l'altezza del sedile in modo che le impugnature siano allineate alla parte centrale del petto. Siediti con la schiena e le scapole ben aderenti allo schienale e i piedi piatti a terra. Afferra le maniglie con presa prona.
+
+  Esecuzione:
+  1. Spingi le impugnature in avanti estendendo le braccia senza bloccare completamente i gomiti ed espira, contraendo intensamente il gran pettorale.
+  2. Inspirando, controlla la fase eccentrica lasciando tornare le impugnature verso il petto fino a sentire un buon allungamento.
+  3. Ripeti il movimento in modo fluido e controllato.

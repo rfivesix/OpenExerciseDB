@@ -1,9 +1,11 @@
 exercise_id: '139'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croci inverse alla macchina (Pec Deck)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '124'
+description: |-
+  Siediti alla macchina per reverse butterfly con il petto aderente al cuscinetto. Tira le maniglie all'indietro allargando le braccia lateralmente per contrarre i deltoidi posteriori, poi ritorna alla posizione di partenza con movimento lento e controllato.

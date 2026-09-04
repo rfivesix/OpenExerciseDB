@@ -1,9 +1,11 @@
 exercise_id: '487'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate posteriori con manubri
 upstream:
   license: CC-BY-SA-3.0
   license_author: YYCfit
   source_id: '237'
+description: |-
+  Siediti su una panca con i manubri a terra, fletti il busto in avanti a 45 gradi e solleva lentamente i manubri all'altezza delle spalle. Mantieni la contrazione per qualche secondo prima di abbassarli con controllo alla posizione di partenza.

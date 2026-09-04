@@ -1,9 +1,11 @@
 exercise_id: '314'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tergicristallo isometrico a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '338'
+description: |-
+  Assumi la posizione di piegamento a terra con le mani leggermente più larghe delle spalle. Sposta il peso del corpo il più possibile su un lato piegando il gomito corrispondente. Scorri fluidamente verso il lato opposto rimanendo basso, quindi torna al centro ed esegui le ripetizioni desiderate.

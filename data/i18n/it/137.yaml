@@ -1,9 +1,12 @@
 exercise_id: '137'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Butterfly alla macchina a presa stretta
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '99'
+description: |-
+  Esecuzione identica al butterfly classico, ma con un'impugnatura più stretta:
+  Siediti alla macchina per butterfly con la schiena aderente allo schienale e i piedi ben saldi a terra. Chiudi le braccia davanti al petto fino a far quasi avvicinare le maniglie, contraendo intensamente i pettorali, poi torna lentamente indietro mantenendo i pesi in sospensione.

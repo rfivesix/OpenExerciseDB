@@ -1,9 +1,11 @@
 exercise_id: '694'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirate al mento con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: koreyhinton
   source_id: '311'
+description: |-
+  Impugna un manubrio per mano davanti alle cosce con i palmi rivolti verso il corpo. Solleva i manubri verticalmente verso l'alto guidando con i gomiti fin sotto il mento, poi abbassali lentamente tornando alla posizione di partenza e ripeti.
