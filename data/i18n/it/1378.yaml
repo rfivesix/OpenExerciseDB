@@ -1,9 +1,11 @@
 exercise_id: '1378'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Croci con manubri su panca inclinata
+name: Alzate laterali al cavo a un braccio
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2345'
+description: |-
+  Posiziona la carrucola del cavo nella posizione più bassa e applica una maniglia singola. Mettiti di fianco alla torretta, allunga il braccio oltre il corpo e afferra l'impugnatura con presa neutra. Con il gomito leggermente flesso, solleva lateralmente il braccio verso l'esterno fino all'altezza della spalla. Abbassa lentamente la maniglia alla posizione iniziale in modo controllato prima di ripetere.

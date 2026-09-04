@@ -1,9 +1,17 @@
 exercise_id: '1551'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti sulle braccia a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2498'
+description: |-
+  I piegamenti sulle braccia sono un esercizio fondamentale a corpo libero che allena pettorali, deltoidi anteriori e tricipiti, richiedendo al contempo una forte stabilizzazione del core.
+
+  Esecuzione:
+  1. Inizia in posizione di plank con le mani a terra leggermente più larghe delle spalle, i piedi uniti e il corpo allineato in linea retta dalla testa ai talloni.
+  2. Contrai l'addome e abbassa il corpo flettendo i gomiti a circa 45 gradi rispetto al busto, senza allargarli eccessivamente.
+  3. Scendi finché il petto non sfiora quasi il pavimento, mantenendo il rachide in posizione neutra.
+  4. Spingi con decisione attraverso i palmi per tornare alla posizione iniziale a braccia distese.

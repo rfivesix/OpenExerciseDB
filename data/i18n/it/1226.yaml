@@ -1,9 +1,11 @@
 exercise_id: '1226'
 language: it
-status: ai_raw
-translated_from: en
-name: Spinte verticali per spalle con manubri
+status: ai_reviewed
+translated_from: de
+name: Curl per bicipiti e distensione con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2191'
+description: |-
+  Fletti i gomiti eseguendo un curl per portare i manubri all'altezza delle spalle. Da qui, spingi i manubri verso l'alto sopra la testa ruotando le braccia in modo che i palmi siano rivolti in avanti. Inverti il movimento per abbassare i pesi e ripeti.

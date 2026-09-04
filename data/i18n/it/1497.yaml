@@ -1,9 +1,11 @@
 exercise_id: '1497'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Panca piana con manubri a presa inversa
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2459'
+description: |-
+  Esegui una distensione su panca con manubri a presa supina, tenendo i gomiti vicini al corpo per enfatizzare la parte alta del petto.

@@ -1,9 +1,11 @@
 exercise_id: '1380'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pull-apart con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: schwolfar
   source_id: '2346'
+description: |-
+  Impugna l'elastico con le braccia distese davanti a te all'altezza delle spalle. Mantieni i gomiti leggermente flessi ma bloccati durante tutto l'esercizio. Allarga le braccia aprendole verso l'esterno fino a portare l'elastico a contatto con il petto, addducendo le scapole. Riporta lentamente le braccia in avanti controllando la tensione elastica.

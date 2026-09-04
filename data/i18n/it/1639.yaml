@@ -1,9 +1,11 @@
 exercise_id: '1639'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Face pull a busto flesso con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2745'
+description: |-
+  Fletti il busto in avanti mantenendo la schiena dritta. Tira i manubri verso il viso mantenendo i gomiti alti e larghi e le scapole addotte, stimolando efficacemente i deltoidi posteriori e la parte alta della schiena prima di riabbassare lentamente i pesi.

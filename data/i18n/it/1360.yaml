@@ -1,9 +1,11 @@
 exercise_id: '1360'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Clean and press con due kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r
   source_id: '2327'
+description: |-
+  Esercizio funzionale completo: esegui una girata (clean) con due kettlebell portandoli alle spalle, quindi distendili con forza sopra la testa prima di riabbassarli con controllo.

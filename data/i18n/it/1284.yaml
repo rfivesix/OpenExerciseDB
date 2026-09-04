@@ -1,9 +1,11 @@
 exercise_id: '1284'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Piegamenti in pseudo planche
 upstream:
   license: CC-BY-SA-4.0
   license_author: vdrb
   source_id: '2251'
+description: |-
+  Posizionati a terra portando le spalle marcatamente avanti rispetto ai polsi ed esegui i piegamenti mantenendo costantemente questo sbilanciamento in avanti delle spalle per sovraccaricare i deltoidi anteriori.

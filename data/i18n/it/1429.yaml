@@ -1,9 +1,15 @@
 exercise_id: '1429'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazioni delle spalle con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2393'
+description: |-
+  Le rotazioni della spalla con manubrio rafforzano la cuffia dei rotatori migliorando stabilità e mobilità articolare.
+
+  Rotazione esterna: impugna un manubrio leggero con il gomito piegato a 90 gradi e aderente al fianco. Ruota l'avambraccio verso l'esterno allontanandolo dal tronco, mantenendo il gomito immobile. Torna lentamente alla posizione iniziale.
+
+  Rotazione interna: con il gomito piegato a 90 gradi contro il fianco, ruota l'avambraccio verso l'interno avvicinandolo all'addome, poi rilascia con controllo. Esegui sempre movimenti lenti e precisi.

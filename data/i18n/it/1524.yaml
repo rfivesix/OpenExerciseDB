@@ -1,9 +1,11 @@
 exercise_id: '1524'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Onde con corde navali (Battle Ropes)
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2480'
+description: |-
+  Impugna le estremità delle funi davanti ai fianchi con i piedi alla larghezza delle spalle e le ginocchia leggermente flesse. Attiva il core e muovi le braccia alternativamente su e giù in modo rapido ed esplosivo creando onde continue lungo le corde, mantenendo il ritmo per l'intera durata della serie.

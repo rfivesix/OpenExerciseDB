@@ -1,9 +1,11 @@
 exercise_id: '1508'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lento per spalle molto inclinato al multipower
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2467'
+description: |-
+  Imposta la panca a un'inclinazione di 45-60 gradi sotto il multipower e distendi la sbarra sfiorando la parte alta del petto ad ogni discesa.

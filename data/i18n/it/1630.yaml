@@ -1,9 +1,11 @@
 exercise_id: '1630'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Circuito funzionale Blaze
 upstream:
   license: CC-BY-SA-4.0
   license_author: ricwheatley
   source_id: '2739'
+description: |-
+  BLAZE è un circuito ad alta intensità (HIIT) total body ideato per incrementare forza e resistenza cardiovascolare, integrando movimenti a corpo libero, lavoro su sacco da boxe ed esercizi di spinta.

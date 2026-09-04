@@ -1,9 +1,12 @@
 exercise_id: '1445'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Slancio olimpico (Jerk)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2409'
+description: |-
+  Slancio olimpico:
+  Tieni il bilanciere in appoggio sulle clavicole. Fletti rapidamente le ginocchia ed estendile con esplosività per spingere il bilanciere verso l'alto, infilandoti velocemente sotto la sbarra. Raccogli il bilanciere a braccia tese sopra la testa atterrando in posizione di affondo (split). Riporta i piedi paralleli mantenendo il blocco delle braccia prima di riabbassare il carico.

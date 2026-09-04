@@ -1,9 +1,17 @@
 exercise_id: '1238'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Posizione della rana (Frog Stand)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2200'
+description: |-
+  Posizione di partenza:
+  Accovacciati a terra con i piedi vicini e appoggia le mani sul pavimento alla larghezza delle spalle, con le dita ben divaricate per garantire aderenza ed equilibrio. Posiziona le ginocchia all'esterno dei gomiti o appoggiate sulla parte posteriore delle braccia.
+
+  Esecuzione:
+  1. Sposta gradualmente il peso del corpo in avanti sulle mani, sollevando i piedi da terra uno alla volta.
+  2. Mantieni le braccia piegate e contrai addominali e spalle per stabilizzare la posizione in equilibrio isometrico.
+  3. Respira regolarmente mantenendo la tenuta per i secondi previsti prima di riappoggiare delicatamente i piedi a terra.

@@ -1,9 +1,11 @@
 exercise_id: '1504'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Bradford press con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2466'
+description: |-
+  Porta i manubri alle spalle, spingili appena sopra la testa quel tanto che basta per passarli dietro al collo, abbassali leggermente e rispingili subito in avanti tornando alla posizione di partenza.

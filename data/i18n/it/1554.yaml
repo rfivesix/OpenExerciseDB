@@ -1,9 +1,17 @@
 exercise_id: '1554'
 language: it
-status: ai_raw
-translated_from: en
-name: Squat a calice con kettlebell (Goblet Squat)
+status: ai_reviewed
+translated_from: de
+name: Piegamenti con battuta di mani (Clap Push-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2501'
+description: |-
+  I piegamenti con battuta di mani sono un esercizio pliometrico avanzato progettato per sviluppare forza esplosiva nella parte superiore del corpo.
+
+  Esecuzione:
+  1. Assumi una solida posizione di piegamento a terra con le mani posizionate poco oltre la larghezza delle spalle e il core ben compatto.
+  2. Abbassa il petto verso il suolo e spingi verso l'alto con la massima esplosività possibile, in modo che le mani si stacchino nettamente dal pavimento.
+  3. Batti rapidamente le mani davanti al petto mentre sei in aria, quindi riposizionale velocemente a terra.
+  4. Atterra ammortizzando l'impatto con i gomiti leggermente piegati e scendi direttamente nella ripetizione successiva.

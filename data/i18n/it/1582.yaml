@@ -1,9 +1,11 @@
 exercise_id: '1582'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Intrarotazione della spalla con manubrio sul fianco
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2530'
+description: |-
+  Sdraiati su un fianco utilizzando il braccio inferiore (a contatto con la superficie). Con il gomito piegato a 90 gradi, lascia scendere lentamente il manubrio verso il pavimento. Risolleva il peso ruotando internamente la spalla verso il busto, isolando il muscolo sottoscapolare in piena sicurezza articolare.

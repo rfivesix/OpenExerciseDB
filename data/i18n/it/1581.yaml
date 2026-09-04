@@ -1,9 +1,11 @@
 exercise_id: '1581'
 language: it
-status: ai_raw
-translated_from: en
-name: Affondi camminati a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Distensioni per il trapezio con manubrio da sdraiato (Trap Press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2529'
+description: |-
+  Sdraiati sulla schiena tenendo un manubrio verso l'alto con il braccio completamente disteso. Senza piegare il gomito, solleva la spalla dal pavimento mediante protrazione scapolare, poi riabbassala controllando il movimento.

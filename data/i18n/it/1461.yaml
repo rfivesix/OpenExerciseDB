@@ -1,9 +1,11 @@
 exercise_id: '1461'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Distensioni su panca piana con manubri senza spinta delle gambe
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2424'
+description: |-
+  Esegui delle normali distensioni su panca piana con manubri tenendo i piedi sollevati in aria o appoggiati sulla panca stessa. Questo assetto elimina completamente la spinta delle gambe, isolando totalmente il lavoro sui pettorali.

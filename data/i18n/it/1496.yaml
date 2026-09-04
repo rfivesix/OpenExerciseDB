@@ -1,9 +1,11 @@
 exercise_id: '1496'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni per parte alta del petto con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2458'
+description: |-
+  Impugna il manubrio con presa supina e inclina leggermente il corpo verso il braccio attivo. Guida il manubrio verso l'alto attraverso il petto fino all'altezza della testa, attivando contemporaneamente i fasci clavicolari del pettorale e il deltoide anteriore, poi riabbassa con controllo.

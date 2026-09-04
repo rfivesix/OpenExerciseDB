@@ -1,9 +1,17 @@
 exercise_id: '1209'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti a tre punti con gamba sollevata
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2172'
+description: |-
+  Posizione di partenza:
+  Mettiti in posizione di piegamento a terra con le mani posizionate sotto le spalle e i piedi alla larghezza dei fianchi. Attiva il core portando l'ombelico verso la colonna. Solleva un piede di circa cinque centimetri da terra, mantenendo il bacino perfettamente stabile e orizzontale.
+
+  Esecuzione:
+  1. Fletti i gomiti e abbassa il petto verso il pavimento mantenendo il corpo in linea retta dalla testa al tallone d'appoggio.
+  2. Spingi con forza attraverso le mani per tornare alla posizione iniziale.
+  3. Esegui le ripetizioni previste e poi ripeti sollevando l'altra gamba.

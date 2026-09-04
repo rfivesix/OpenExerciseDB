@@ -1,9 +1,11 @@
 exercise_id: '1575'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni sopra la testa con bastone
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2523'
+description: |-
+  In piedi con un bastone di legno, esegui distensioni sopra la testa alternando passaggi davanti al petto e dietro la nuca per la mobilità.

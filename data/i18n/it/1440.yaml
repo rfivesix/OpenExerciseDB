@@ -1,9 +1,11 @@
 exercise_id: '1440'
 language: it
-status: ai_raw
-translated_from: en
-name: Distensioni su panca declinata con bilanciere
+status: ai_reviewed
+translated_from: de
+name: Push Press con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2404'
+description: |-
+  Appoggia il bilanciere sulla parte anteriore delle spalle. Fletti leggermente le ginocchia mantenendo il busto eretto, poi estendi esplosivamente le gambe sfruttando lo slancio per spingere il bilanciere sopra la testa.

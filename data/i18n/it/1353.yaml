@@ -1,9 +1,11 @@
 exercise_id: '1353'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hex Press con manubri per pettorali
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2323'
+description: |-
+  Sdraiati sulla panca e premi due manubri esagonali l'uno contro l'altro al centro del petto, spingendoli verso l'alto mantenendo costante la pressione tra di essi.

@@ -1,9 +1,11 @@
 exercise_id: '1458'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate a Y incrociate ai cavi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2423'
+description: |-
+  Partendo con la mano davanti al corpo, solleva il cavo verso l'alto e l'esterno a circa 45 gradi formando una Y per attivare i deltoidi.

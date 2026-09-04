@@ -1,9 +1,11 @@
 exercise_id: '1469'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croci ai cavi a busto flesso
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2432'
+description: |-
+  Fletti il busto in avanti a circa 105 gradi e apri e chiudi le braccia ai cavi contraendo i pettorali con movimento controllato.

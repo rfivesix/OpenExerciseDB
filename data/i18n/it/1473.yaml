@@ -1,9 +1,11 @@
 exercise_id: '1473'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croci inverse ai cavi (Reverse Cable Flye)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2436'
+description: |-
+  Fissa le maniglie a due carrucole alte. Afferra il cavo sinistro con la mano destra e il cavo destro con la sinistra, poi allarga le braccia indietro contraendo i deltoidi posteriori.

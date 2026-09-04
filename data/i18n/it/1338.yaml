@@ -1,9 +1,11 @@
 exercise_id: '1338'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate frontali con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2308'
+description: |-
+  Solleva i manubri in avanti fino all'altezza delle spalle con movimento lento e controllato, mantenendo i gomiti leggermente piegati ed evitando ogni slancio del busto.

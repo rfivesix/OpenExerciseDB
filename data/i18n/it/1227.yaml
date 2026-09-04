@@ -1,9 +1,11 @@
 exercise_id: '1227'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore con manubri per deltoidi posteriori
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2192'
+description: |-
+  Impugna un manubrio per mano. Fletti il busto in avanti all'altezza delle anche fino a portare la schiena quasi parallela al suolo, lasciando cadere le braccia verso il basso in linea con le spalle. Tira i gomiti verso l'alto e l'esterno aprendo le braccia fino a portare gli omeri paralleli al pavimento. Ritorna lentamente indietro e ripeti.

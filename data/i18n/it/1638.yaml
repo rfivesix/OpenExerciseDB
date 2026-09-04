@@ -1,9 +1,11 @@
 exercise_id: '1638'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Girata e distensione con bilanciere (Clean and Press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2744'
+description: |-
+  Esercizio fondamentale multiarticolare: solleva il bilanciere da terra portandolo con una girata esplosiva (clean) fino alle spalle, quindi spingilo con decisione sopra la testa in completa distensione (overhead press). Coinvolge contemporaneamente gambe, schiena, spalle e braccia, sviluppando grande potenza atletica.

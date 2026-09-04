@@ -1,9 +1,11 @@
 exercise_id: '1223'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Applausi sopra la testa
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2188'
+description: |-
+  In piedi con i piedi alla larghezza delle spalle, solleva le braccia verso l'alto e batti le mani sopra la testa in modo controllato.

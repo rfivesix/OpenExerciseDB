@@ -1,9 +1,11 @@
 exercise_id: '1443'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate laterali e frontali combinate con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2407'
+description: |-
+  In piedi, impugna i manubri lungo i fianchi a braccia quasi tese. Solleva i pesi lateralmente senza slancio fino all'altezza delle spalle con i palmi rivolti verso il basso, poi riabbassali. Subito dopo, solleva i manubri frontalmente davanti al corpo fino all'altezza delle spalle e riabbassali controllando la discesa. Questa sequenza costituisce una singola ripetizione.

@@ -1,9 +1,11 @@
 exercise_id: '1436'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni su panca con partenza dai perni (Pin Press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2400'
+description: |-
+  Regola i perni di sicurezza del rack all'altezza del tuo punto critico (sticking point). Abbassa il bilanciere fino ad appoggiarlo sui supporti per un secondo mantenendo la tensione attiva, quindi spingilo verso l'alto con la massima forza esplosiva.

@@ -1,9 +1,11 @@
 exercise_id: '1516'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Verticale libera sulle braccia (Handstand)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69
   source_id: '2475'
+description: |-
+  Mantieni la verticale libera in equilibrio sulle mani spingendo attivamente il pavimento verso il basso e contraendo saldamente addome e glutei.
