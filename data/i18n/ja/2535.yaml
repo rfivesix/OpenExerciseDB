@@ -1,9 +1,20 @@
 exercise_id: '2535'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アイソメトリック・レッグエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5006'
+description: |-
+  開始姿勢:
+  レッグエクステンションマシンに腰掛け、足首の前にパッドをセットします。
+
+  動作手順:
+  1. 膝を伸ばしてパッドを押し上げ、中間または完全伸展の指定角度で脚を静止させます。
+  2. 関節を動かさずに大腿四頭筋を最大筋力で収縮させ続け、その緊張を指定時間キープします。
+  3. ゆっくりと力を緩めてパッドを下ろします。
+
+  ポイント:
+  膝蓋腱炎のリハビリや痛みの緩和、大腿四頭筋の腱適応に極めて効果的な等尺性（アイソメトリック）種目です。

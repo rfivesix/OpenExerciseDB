@@ -1,9 +1,13 @@
 exercise_id: '2539'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アイソメトリック・プリーチャーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5010'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、ダンベルを持って肘をパッドに乗せます。
+  動作手順：肘を約90度曲げたミッドレンジの位置でダンベルを静止させ、上腕二頭筋短頭の収縮を保ちます。
+  ポイント：指定された秒数間、筋肉に最大の緊張をかけ続け、関節を動かさずに耐えます。

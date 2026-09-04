@@ -1,9 +1,11 @@
 exercise_id: '2540'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: アイソメトリック・ラットプルダウン
+name: アイソメトリック・ラットプルダウン (静止ラットプル)
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5011'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、バーを握って胸の上部まで引き下ろします。動作手順: バーを胸に引き寄せた最大収縮ポジションで動きを止め、指定された秒数 (数秒〜十数秒) その姿勢を維持します。広背筋と大円筋を力強く収縮させ続けた後、ゆっくりとコントロールしてバーを戻します。ポイント: 最大収縮位での神経筋伝達を強化し、背中の意識と筋力を高めます。

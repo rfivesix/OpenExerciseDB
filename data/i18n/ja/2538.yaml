@@ -1,9 +1,11 @@
 exercise_id: '2538'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アイソメトリック・サイドレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5009'
+description: |-
+  【開始姿勢】両手にダンベルやケーブルを持ち、腕を真横の肩の高さまで引き上げます。【動作手順】上下に動かさず、肩の高さで一定時間そのまま静止し続けます。【ポイント】三角筋中部 (側部)に強烈なメタボリックストレスを与えます。

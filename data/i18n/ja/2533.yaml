@@ -1,9 +1,11 @@
 exercise_id: '2533'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アーチハング (胸椎伸展ぶら下がり)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan
   source_id: '5002'
+description: |-
+  開始姿勢: 懸垂バーを肩幅より広めに握り、アクティブハング (肩甲骨を引き下げた状態) でぶら下がります。動作手順: 肘を伸ばしたまま肩甲骨を強く引き下げて寄せ、胸を天井に向けて突き出すようにして背中をアーチ状に反らせます。肩関節の角度を意識しながら指定された秒数姿勢を保持します。ポイント: 胸椎の伸展性と肩甲骨の下制筋力を高め、懸垂や前傾動作のフォーム改善に役立ちます。

@@ -1,9 +1,11 @@
 exercise_id: '2537'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アイソメトリック・オーバーヘッドプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5008'
+description: |-
+  【開始姿勢】オーバーヘッドプレスの特定の位置でウェイトを構えます。【動作手順】バーベルを頭上や目の高さで動かさずに一定時間キープします。【ポイント】三角筋前部のアイソメトリックな筋力と体幹の安定性を高めます。

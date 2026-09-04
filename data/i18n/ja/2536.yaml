@@ -1,9 +1,11 @@
 exercise_id: '2536'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アイソメトリック・ベンチプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5007'
+description: |-
+  【開始姿勢】ベンチプレスの特定の位置で構えます。【動作手順】バーベルを動かさず、指定された時間その位置で静止し続けます。【ポイント】大胸筋の最大筋力とスティッキングポイントの克服に役立ちます。

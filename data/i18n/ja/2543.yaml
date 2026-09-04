@@ -1,9 +1,13 @@
 exercise_id: '2543'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 手首回し (リストサークル)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex
   source_id: '5014'
+description: |-
+  開始姿勢：指を組むか両手を前に出し、手首の力を抜いてリラックスさせます。
+  動作手順：手首を円を描くように時計回りと反時計回りにゆっくりと大きく回します。
+  ポイント：手根屈筋群と手根伸筋群をほぐし、トレーニング前のウォームアップや疲労回復に役立てます。
