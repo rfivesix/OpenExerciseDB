@@ -1,8 +1,12 @@
 exercise_id: '1015'
 language: ja
-status: ai_raw
-translated_from: en
-name: 左肩甲挙筋ストレッチ
+status: ai_reviewed
+translated_from: de
+name: 時計回りネックサークル (首回し)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1913'
+description: |-
+  開始姿勢：リラックスして直立または座位をとり、肩の力を抜いて顎を軽く引きます。
+  動作手順：頭を前方に倒してから、時計回りに円を描くようにゆっくりとなめらかに首を回します。
+  ポイント：勢いをつけず、頸部の筋肉をリラックスさせながら心地よい範囲で大きく回します。

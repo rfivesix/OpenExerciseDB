@@ -1,9 +1,13 @@
 exercise_id: '1029'
 language: ja
-status: ai_raw
-translated_from: en
-name: 臀筋フロアストレッチ
+status: ai_reviewed
+translated_from: de
+name: 四つ這い胸椎回旋 (右)
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '1974'
+description: |-
+  開始姿勢：マットに四つ這いになり、右手を後頭部に添えて構えます。
+  動作手順：右肘を左腕の内側へくぐらせた後、右胸を大きく開きながら肘を高く持ち上げて回旋させます。
+  ポイント：骨盤の位置を水平に維持し、胸郭を広げるようにして背中と体幹を動かします。

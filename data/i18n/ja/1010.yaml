@@ -1,8 +1,12 @@
 exercise_id: '1010'
 language: ja
-status: ai_raw
-translated_from: en
-name: 頸部後方ストレッチ
+status: ai_reviewed
+translated_from: de
+name: 後頸部ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1884'
+description: |-
+  開始姿勢：背筋を伸ばして立ちまたは座り、両手を頭の後ろに軽く添えます。
+  動作手順：顎を胸に近づけるように頭を前方にゆっくり倒し、首の後ろ側の心地よい伸びを保ちます。
+  ポイント：背中全体を丸めず首だけを前に倒し、手の重みを利用して優しく伸ばします。

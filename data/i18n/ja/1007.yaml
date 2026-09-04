@@ -1,8 +1,12 @@
 exercise_id: '1007'
 language: ja
-status: ai_raw
-translated_from: en
-name: バーベル・デッドリフト
+status: ai_reviewed
+translated_from: de
+name: ヘッドターン (頸部回旋)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1847'
+description: |-
+  開始姿勢：背筋を正して直立または座位をとり、肩の力を抜きます。
+  動作手順：息を吐きながらゆっくりと首を左へ回し、心地よい伸びを感じたら中央に戻して右へ回します。
+  ポイント：首の筋肉をリラックスさせ、痛みや違和感のない範囲でスムーズに動かします。

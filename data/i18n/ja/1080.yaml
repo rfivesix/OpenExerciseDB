@@ -1,9 +1,11 @@
 exercise_id: '1080'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: デクライン・プッシュアップ
+name: ヒンドゥープッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imobard
   source_id: '2025'
+description: |-
+  【開始姿勢】ダウンドッグのように腰を高く上げた姿勢から開始します。【動作手順】胸を床すれすれに滑らせるように身体を前方へ沈め、上体を反らせてコブラの姿勢へ移行し、再び腰を高く戻します。【ポイント】三角筋前部と大胸筋中部・下部 (胸肋部)を連動させ、柔軟性と筋力を同時に高めます。

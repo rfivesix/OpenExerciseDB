@@ -1,8 +1,12 @@
 exercise_id: '1019'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 頭上上腕三頭筋ストレッチ
+name: 右サイドプランク
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1923'
+description: |-
+  開始姿勢：右側を下にして横向きに寝て、右前腕部を肩の真下に置き肘を90度に曲げます。
+  動作手順：腰を持ち上げて頭から足先までを一直線にし、腹斜筋と腰方形筋に力を入れてキープします。
+  ポイント：骨盤が沈んだり前後にねじれたりしないよう、体幹を固めて安定させます。

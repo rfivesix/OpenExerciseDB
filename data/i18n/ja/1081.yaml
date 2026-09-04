@@ -1,9 +1,11 @@
 exercise_id: '1081'
 language: ja
-status: ai_raw
-translated_from: en
-name: インクライン・プッシュアップ
+status: ai_reviewed
+translated_from: de
+name: ショルダーディスロケート
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2031'
+description: |-
+  【開始姿勢】直立してレジスタンスバンドや棒を肩幅より広めに持ち、体の前に構えます。【動作手順】肘をまっすぐ伸ばしたまま、腕を頭上を通って背中側へ回し、再び前へと戻します。【ポイント】回旋筋腱板 (ローテーターカフ)と肩関節の柔軟性を向上させるため、無理のない手幅で行います。

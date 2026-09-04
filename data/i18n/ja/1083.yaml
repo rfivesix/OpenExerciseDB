@@ -1,9 +1,11 @@
 exercise_id: '1083'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ダイヤモンド・プッシュアップ
+name: YWTエクササイズ (伏臥位)
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2033'
+description: |-
+  開始姿勢: マットにうつ伏せになり、首をニュートラルに保ちます。動作手順: 腕を斜め前方に伸ばし親指を上に向けて「Y」の字を作り肩甲骨を寄せて浮かします。次に肘を曲げて体側に引き「W」の形を作り、さらに腕を真横に伸ばして「T」の形を作ります。各ポジションで肩甲骨を強く寄せて保持します。ポイント: 僧帽筋中部・下部や菱形筋、回旋筋腱板を活性化させ、姿勢改善に役立ちます。

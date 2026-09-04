@@ -1,8 +1,12 @@
 exercise_id: '1006'
 language: ja
-status: ai_raw
-translated_from: en
-name: バーベル・スクワット
+status: ai_reviewed
+translated_from: de
+name: チンタック (顎引き運動)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1838'
+description: |-
+  開始姿勢：背筋を伸ばして椅子に座るか直立し、目線を正面に向けます。
+  動作手順：頭を下に傾けずに、喉元に向かって顎を水平にまっすぐ後ろへ引いて数秒キープします。
+  ポイント：頸部屈筋群を意識し、二重顎を作るようなイメージで無理な力をかけずに行います。

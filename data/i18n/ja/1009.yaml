@@ -1,8 +1,12 @@
 exercise_id: '1009'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: プルアップ (順手懸垂)
+name: 右頸部ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1872'
+description: |-
+  開始姿勢：背筋を伸ばしてリラックスした姿勢で座るか立ちます。
+  動作手順：頭をゆっくりと左肩側へ傾け、首の右側の筋肉が穏やかに伸長するのを感じて保持します。
+  ポイント：右肩を落とした状態を保ち、呼吸を止めずに自然なペースでストレッチします。

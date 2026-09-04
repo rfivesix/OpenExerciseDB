@@ -1,8 +1,12 @@
 exercise_id: '1017'
 language: ja
-status: ai_raw
-translated_from: en
-name: 大胸筋両側ストレッチ
+status: ai_reviewed
+translated_from: de
+name: ネックハーフサークル (首の半円回し)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1917'
+description: |-
+  開始姿勢：背筋を伸ばして座るか立ち、頭をどちらか一方の肩に優しく倒します。
+  動作手順：頭を前に倒して顎を胸の前を通しながら、反対側の肩まで半円を描くようにゆっくり転がします。
+  ポイント：首を後ろには反らさず、前方のみで左右に往復させて首の緊張をほぐします。

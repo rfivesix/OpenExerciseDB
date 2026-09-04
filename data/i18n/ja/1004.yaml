@@ -1,8 +1,10 @@
 exercise_id: '1004'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 自重スクワット
+name: ショルダーローテーション (前方回旋)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1814'
+description: |-
+  【開始姿勢】背筋を伸ばして立ち、両手をそれぞれの肩の上に軽く置きます。【動作手順】肘で大きな円を描くように、肩関節を前方向へリズミカルに回転させます。【ポイント】三角筋や僧帽筋、肩甲骨周囲の可動域を広げ、緊張をほぐします。

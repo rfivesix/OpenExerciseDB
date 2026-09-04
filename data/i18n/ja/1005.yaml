@@ -1,8 +1,10 @@
 exercise_id: '1005'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 肩の後方回旋ストレッチ
+name: ショルダーローテーション (後方回旋)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1826'
+description: |-
+  【開始姿勢】背筋を伸ばして立ち、両手を肩の上に添えます。【動作手順】肘を前から上、そして後ろへと大きく回すように肩関節を後方に回転させます。【ポイント】肩甲骨をしっかり動かし、三角筋後部や菱形筋周りをほぐします。

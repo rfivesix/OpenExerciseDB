@@ -1,8 +1,12 @@
 exercise_id: '1018'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 広背筋ポールストレッチ
+name: ヘッドチルト (側方頭部傾斜)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1919'
+description: |-
+  開始姿勢：背筋を伸ばして正面を向き、両肩をリラックスさせて構えます。
+  動作手順：頭を真横に倒して耳を肩に近づけ、首の横側を伸ばした後にゆっくり中央へ戻して反対側も行います。
+  ポイント：肩を持ち上げずに一定の高さを保ち、首の可動域に合わせて無理なく傾けます。

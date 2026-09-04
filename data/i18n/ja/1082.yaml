@@ -1,9 +1,11 @@
 exercise_id: '1082'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ベンチディップス
+name: ベントオーバーロー＆エクスターナルローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2032'
+description: |-
+  【開始姿勢】上体を前傾させ、背筋を伸ばして腕を床へ下ろします。【動作手順】肘を肩の高さまで引き上げ、そこから前腕を天井に向けて外旋させ、逆の順序で戻します。【ポイント】回旋筋腱板 (ローテーターカフ)と菱形筋を意識し、肩のインナーマッスルを強化します。

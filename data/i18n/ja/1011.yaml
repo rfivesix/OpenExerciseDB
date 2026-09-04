@@ -1,8 +1,12 @@
 exercise_id: '1011'
 language: ja
-status: ai_raw
-translated_from: en
-name: 頸部前方ストレッチ
+status: ai_reviewed
+translated_from: de
+name: 前頸部ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1896'
+description: |-
+  開始姿勢：背筋をまっすぐに伸ばし、両手を鎖骨の上に軽く重ねて置きます。
+  動作手順：鎖骨を軽く押さえながら顎を天井に向けて持ち上げ、首の前側を穏やかに伸ばします。
+  ポイント：首の後ろを無理に圧迫しないよう優しく喉元を開き、ゆっくり呼吸を行います。

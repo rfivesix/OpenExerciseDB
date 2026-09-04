@@ -1,8 +1,20 @@
 exercise_id: '997'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 4カウント・バーピー
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1731'
+description: |-
+  開始姿勢:
+  足を腰幅に開いて直立します。
+
+  動作手順:
+  1. カウント1: しゃがんで両手を床につきます。
+  2. カウント2: 両足を同時に後方へ蹴り出し、プランク姿勢をとります。
+  3. カウント3: 素早く両足を手の位置まで引き戻し、しゃがみ姿勢になります。
+  4. カウント4: 立ち上がって元の直立姿勢に戻ります。
+
+  ポイント:
+  プッシュアップとジャンプを省いた4拍子のバーピーで、正確なフォームとハイペースな有酸素運動を両立します。

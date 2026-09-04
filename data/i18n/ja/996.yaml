@@ -1,8 +1,12 @@
 exercise_id: '996'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マウンテンクライマー
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1715'
+description: |-
+  開始姿勢：腕立て伏せの高いプランク姿勢をとり、手は肩の真下、体幹を一直線に保ちます。
+  動作手順：片膝を素早く胸に向かって引き込み、リズミカルに左右の脚を交互に入れ替えます。
+  ポイント：腹直筋と腸腰筋を意識し、お尻が高く跳ね上がらないように低い姿勢をキープします。

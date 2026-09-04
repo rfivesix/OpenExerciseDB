@@ -1,8 +1,12 @@
 exercise_id: '1008'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バーベル・ベントオーバーロー
+name: 左頸部ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1860'
+description: |-
+  開始姿勢：背筋を伸ばして座るか立ち、両肩をリラックスさせて下げます。
+  動作手順：頭をゆっくりと右肩方向へ傾け、首の左側の筋肉が優しく伸びる位置で静止します。
+  ポイント：左肩が一緒に上がらないように意識し、手で無理に引っ張らず深呼吸を続けます。

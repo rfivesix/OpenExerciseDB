@@ -1,8 +1,12 @@
 exercise_id: '1013'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 頸部右側ストレッチ
+name: 左肩甲挙筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1909'
+description: |-
+  開始姿勢：背筋を伸ばして座り、顔を右斜め下（右脇の方向）に向けます。
+  動作手順：右手で頭の後ろを軽く押さえ、左首の後ろから肩甲骨にかけての伸びを感じて保持します。
+  ポイント：左肩をしっかり下げたまま行い、無理な力を加えずに優しく伸長させます。

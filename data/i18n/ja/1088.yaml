@@ -1,9 +1,20 @@
 exercise_id: '1088'
 language: ja
-status: ai_raw
-translated_from: en
-name: リング・インバーテッドロー
+status: ai_reviewed
+translated_from: de
+name: ダンベル・スモウデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2038'
+description: |-
+  開始姿勢:
+  足を肩幅の約1.5〜2倍に広く開き、つま先を外側に向けます。ダンベル1個または2個を両脚の間の床に置きます。
+
+  動作手順:
+  1. 胸を張り背筋を伸ばしたまま、股関節と膝を曲げてダンベルを両手で握ります。
+  2. 踵で床を力強く押し込み、股関節内転筋群と大臀筋を収縮させながら立ち上がります。
+  3. 直立位置で臀筋を絞り込み、ゆっくりとダンベルを床まで下ろします。
+
+  ポイント:
+  内転筋群と臀部を重点的に刺激でき、腰への負担が少ないデッドリフトバリエーションです。

@@ -1,8 +1,10 @@
 exercise_id: '1022'
 language: ja
-status: ai_raw
-translated_from: en
-name: ワンハンドプランク・ローイング
+status: ai_reviewed
+translated_from: de
+name: ワンハンド・プランク＆ロー
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1965'
+description: |-
+  開始姿勢: 片手にダンベルを持ち、ハイプランク (腕立て伏せの姿勢) をとります。足幅を広めにとって体を安定させます。動作手順: プランクの姿勢を崩さないよう体幹に力を入れながら、ダンベルを持った手の肘を天井に向けて引き上げます。トップで広背筋を収縮させ、ゆっくりと床に戻します。ポイント: 骨盤が回旋しないよう腹筋と大臀筋を締め、左右それぞれ行います。

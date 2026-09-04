@@ -1,9 +1,13 @@
 exercise_id: '1028'
 language: ja
-status: ai_raw
-translated_from: en
-name: ハムストリング・シーテッドストレッチ
+status: ai_reviewed
+translated_from: de
+name: 四つ這い胸椎回旋 (左)
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '1973'
+description: |-
+  開始姿勢：マットに四つ這いになり、左手を後頭部に添えて肘を横に開きます。
+  動作手順：左肘を右腕の下へ通すように上体を丸めた後、左胸を開きながら肘を天井へ向けて回旋させます。
+  ポイント：骨盤を正面に向けたまま動かさず、胸椎と腹斜筋からしっかりとひねります。

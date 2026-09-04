@@ -1,8 +1,12 @@
 exercise_id: '1014'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 右肩甲挙筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1911'
+description: |-
+  開始姿勢：背筋を正して座り、顔を左斜め下（左脇の方向）に向けます。
+  動作手順：左手を頭の後ろに軽く添えて下方向へ誘導し、右側の肩甲挙筋が伸びる位置でキープします。
+  ポイント：右肩が上がらないように固定し、呼吸を安定させながらじんわりと伸ばします。
