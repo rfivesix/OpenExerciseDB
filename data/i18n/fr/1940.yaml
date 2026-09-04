@@ -1,8 +1,10 @@
 exercise_id: '1940'
 language: fr
-status: ai_raw
-translated_from: en
-name: Respiration diaphragmatique profonde
+status: ai_reviewed
+translated_from: de
+name: Respiration diaphragmatique au sol
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'
+description: |-
+  Allongé ou assis, placez une main sur la poitrine et une sur l'abdomen. Inspirez lentement par le nez en faisant monter la main sur le ventre, puis expirez calmement.

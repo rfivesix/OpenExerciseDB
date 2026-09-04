@@ -1,9 +1,11 @@
 exercise_id: '2495'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Flexion des jambes à la machine (Leg curl)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me
   source_id: '4977'
+description: |-
+  Assis à la machine de flexion des jambes, fléchissez les genoux de manière fluide pour amener le levier sous le siège, puis revenez à la position initiale avec contrôle.

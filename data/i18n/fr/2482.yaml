@@ -1,9 +1,11 @@
 exercise_id: '2482'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Exercice respiratoire d'immersion (Bobbing)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4959'
+description: |-
+  Dans l'eau en position verticale, immergez la tête en soufflant continuellement par le nez et la bouche pour vider les poumons, puis remontez prendre une inspiration rythmée.

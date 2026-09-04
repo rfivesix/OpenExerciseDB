@@ -1,9 +1,11 @@
 exercise_id: '1856'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Automassage du jambier antérieur au rouleau
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '2993'
+description: |-
+  En appui sur les mains et les genoux, placez le rouleau sous la face antérieure de la jambe et massez délicatement le long du muscle tibial antérieur.

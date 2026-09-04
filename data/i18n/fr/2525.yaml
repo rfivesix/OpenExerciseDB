@@ -1,9 +1,11 @@
 exercise_id: '2525'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Couch stretch (étirement sur canapé/mur)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4994'
+description: |-
+  Un genou posé au sol tout près d'un mur avec le coup-de-pied dressé contre la paroi, redressez le buste pour un étirement très intense du quadriceps et du psoas.

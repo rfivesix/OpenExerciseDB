@@ -1,9 +1,11 @@
 exercise_id: '1907'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Fentes unilatérales
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3054'
+description: |-
+  Effectuez des fentes en travaillant toutes les répétitions sur une jambe avant de changer de côté, pour un travail d'équilibre et de force unilatérale ciblé.

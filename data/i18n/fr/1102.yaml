@@ -1,9 +1,11 @@
 exercise_id: '1102'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Fentes arrière alternées
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2063'
+description: |-
+  Debout, reculez un pied vers l'arrière et fléchissez les genoux pour descendre en fente, puis repoussez sur le pied avant pour revenir en position de départ et alternez.

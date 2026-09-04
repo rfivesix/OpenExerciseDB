@@ -1,9 +1,11 @@
 exercise_id: '2526'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Fente longue avec pulsations
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4995'
+description: |-
+  En fente avant très profonde, genou arrière presque au sol ou posé, effectuez de petites pulsations douces de haut en bas pour étirer les fléchisseurs de la hanche et les quadriceps.

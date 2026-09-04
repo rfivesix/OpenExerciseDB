@@ -1,9 +1,11 @@
 exercise_id: '1591'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Respiration diaphragmatique profonde
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2540'
+description: |-
+  Assis ou debout dans une posture relâchée, inspirez profondément par le nez en gonflant le ventre, puis expirez lentement par la bouche pour abaisser le niveau de stress.

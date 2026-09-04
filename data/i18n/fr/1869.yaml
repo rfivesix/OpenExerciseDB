@@ -1,9 +1,11 @@
 exercise_id: '1869'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement du fessier en quatre au sol (Figure four)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3011'
+description: |-
+  Allongé sur le dos, posez la cheville droite sur le genou gauche et tirez la cuisse gauche vers la poitrine avec les mains pour étirer le grand et moyen fessier.

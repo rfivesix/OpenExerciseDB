@@ -1,8 +1,10 @@
 exercise_id: '1919'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Étirement intense des pectoraux
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3066'
+description: |-
+  L'avant-bras appuyé contre le montant d'une porte ou un poteau, pivotez le torse vers l'extérieur pour ouvrir la cage thoracique et étirer les fibres pectorales.

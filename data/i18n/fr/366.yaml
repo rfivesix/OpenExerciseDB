@@ -1,9 +1,11 @@
 exercise_id: '366'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl assis à la machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '117'
+description: |-
+  Assis sur la machine de leg curl, le coussin calé derrière les talons et le bassin maintenu par le support, fléchissez les jambes vers l'arrière en contractant les ischio-jambiers.

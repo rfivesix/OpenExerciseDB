@@ -1,9 +1,11 @@
 exercise_id: '1603'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl avec bande élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2574'
+description: |-
+  Allongé sur le ventre, une bande élastique fixée à un point bas et passée autour de la cheville, fléchissez le genou pour amener le talon vers le fessier contre l'élastique.

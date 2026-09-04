@@ -1,9 +1,11 @@
 exercise_id: '1294'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl unilatéral pour ischios
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2260'
+description: |-
+  Allongé ou debout à la machine, réalisez une flexion de jambe avec une seule jambe à la fois pour isoler chaque ischio-jambier et corriger les déséquilibres.

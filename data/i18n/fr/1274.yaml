@@ -1,9 +1,11 @@
 exercise_id: '1274'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement des mollets assis (dorsiflexion)
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2242'
+description: |-
+  Assis au sol jambes tendues, passez une serviette ou une sangle autour de l'avant-pied et tirez vers vous en flexion dorsale pour étirer les mollets.

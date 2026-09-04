@@ -1,9 +1,11 @@
 exercise_id: '1590'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Étirement des bras et de la nuque
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2539'
+description: |-
+  Debout ou assis, étirez les bras au-dessus de la tête puis inclinez doucement la tête sur le côté pour détendre la nuque, les trapèzes et les épaules.

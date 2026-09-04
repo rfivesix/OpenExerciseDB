@@ -1,9 +1,11 @@
 exercise_id: '2494'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Extension terminale du genou avec élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rehab Hero
   source_id: '4976'
+description: |-
+  Debout face à un point d'ancrage avec une bande élastique placée derrière le creux du genou, tendez complètement la jambe contre la résistance pour verrouiller l'extension terminale du genou.

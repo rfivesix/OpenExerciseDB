@@ -1,9 +1,11 @@
 exercise_id: '2486'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Récupération active par immersion (Bobbing)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4963'
+description: |-
+  Exercice de récupération active dans l'eau : enchaînez des immersions douces et rythmées avec expiration sous l'eau pour détendre les muscles et réguler le souffle.

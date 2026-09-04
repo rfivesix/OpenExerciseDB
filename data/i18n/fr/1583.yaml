@@ -1,9 +1,11 @@
 exercise_id: '1583'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé au sol sur le dos
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2531'
+description: |-
+  Allongé sur le dos au sol ou sur un tapis, développez la charge (haltère, barre ou kettlebell) à la verticale vers le plafond en gardant les omoplates fixées.

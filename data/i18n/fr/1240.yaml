@@ -1,9 +1,11 @@
 exercise_id: '1240'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Étirement du soléaire debout
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2202'
+description: |-
+  Debout face à un mur, jambe arrière légèrement fléchie au niveau du genou avec le talon bien plaqué au sol pour cibler spécifiquement le muscle soléaire.

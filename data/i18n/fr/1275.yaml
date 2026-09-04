@@ -1,9 +1,11 @@
 exercise_id: '1275'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement en flexion plantaire avec bande élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2243'
+description: |-
+  Assis, une bande élastique passée sous l'avant-pied et tenue avec les mains, pointez les orteils vers l'avant contre la résistance pour étirer et renforcer la cheville.

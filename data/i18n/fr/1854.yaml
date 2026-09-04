@@ -1,9 +1,11 @@
 exercise_id: '1854'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Automassage des mollets au rouleau
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '2989'
+description: |-
+  Assis au sol, placez le rouleau de massage sous les mollets et faites rouler lentement de la cheville jusqu'au dessous du genou pour relâcher les tensions.

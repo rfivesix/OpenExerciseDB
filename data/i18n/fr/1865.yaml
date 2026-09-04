@@ -1,9 +1,11 @@
 exercise_id: '1865'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Mobilité de cheville avec bande élastique
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3007'
+description: |-
+  Une bande élastique en tension attachée autour du bas de la cheville, avancez le genou vers l'avant pour améliorer l'amplitude de flexion dorsale de la cheville.

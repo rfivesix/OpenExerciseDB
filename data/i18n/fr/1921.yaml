@@ -1,8 +1,10 @@
 exercise_id: '1921'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Étirement intense du grand dorsal
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
+description: |-
+  Saisissez un point d'ancrage fixe au-dessus de la tête, reculez les hanches et laissez tomber la poitrine vers le sol pour étirer intensément le grand dorsal.

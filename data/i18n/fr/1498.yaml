@@ -1,9 +1,11 @@
 exercise_id: '1498'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé couché avec haltères coudes serrés
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2460'
+description: |-
+  Allongé sur un banc plat avec un haltère dans chaque main, poussez les poids vers le haut en gardant les coudes serrés près des côtes tout au long du mouvement.

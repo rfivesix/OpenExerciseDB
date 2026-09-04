@@ -1,9 +1,11 @@
 exercise_id: '909'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Reverse Nordic curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly
   source_id: '1188'
+description: |-
+  À genoux au sol avec le torse et les cuisses alignés, inclinez lentement le buste vers l'arrière à partir des genoux en retenant la descente avec les quadriceps, puis remontez.

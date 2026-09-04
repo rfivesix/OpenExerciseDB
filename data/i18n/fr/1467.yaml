@@ -1,9 +1,11 @@
 exercise_id: '1467'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Développé couché incliné prise serrée à la barre
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2430'
+description: |-
+  Allongé sur un banc incliné, saisissez la barre en prise serrée (largeur d'épaules). Descendez la charge de façon contrôlée en gardant les coudes proches du corps pour cibler les triceps et le haut des pectoraux.

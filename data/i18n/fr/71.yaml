@@ -1,9 +1,11 @@
 exercise_id: '71'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Leg extension unilatéral à la machine
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1057'
+description: |-
+  Assis sur la machine à quadriceps (leg extension), placez le coussin sur le bas d'un tibia. Tendez la jambe de façon contrôlée jusqu'à extension complète du genou, puis redescendez lentement.

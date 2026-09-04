@@ -1,9 +1,11 @@
 exercise_id: '2535'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg extension isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5006'
+description: |-
+  Assis sur la machine de leg extension, maintenez les genoux en extension fixe à un angle déterminé en contraction isométrique continue contre la résistance.

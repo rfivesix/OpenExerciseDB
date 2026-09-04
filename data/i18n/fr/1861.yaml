@@ -1,9 +1,11 @@
 exercise_id: '1861'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement latéral du buste
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3003'
+description: |-
+  Debout, levez un bras au-dessus de la tête et inclinez le buste du côté opposé pour étirer la chaîne latérale, les obliques et les muscles intercostaux.

@@ -1,9 +1,11 @@
 exercise_id: '1874'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement du coureur en fente avant
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3016'
+description: |-
+  En position de fente du coureur, mains posées au sol de part et d'autre du pied avant, tendez la jambe arrière pour étirer la chaîne antérieure de la hanche.

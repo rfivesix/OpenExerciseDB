@@ -1,9 +1,11 @@
 exercise_id: '1325'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Poussée latérale explosive
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen
   source_id: '2298'
+description: |-
+  En appui unipodal, poussez latéralement de manière explosive sur la jambe d'appui pour projeter le corps sur le côté et stabiliser la réception.

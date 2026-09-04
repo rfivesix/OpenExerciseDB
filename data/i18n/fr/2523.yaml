@@ -1,9 +1,11 @@
 exercise_id: '2523'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Glissement contre le mur pour le dentelé antérieur
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4992'
+description: |-
+  Face à un mur, avant-bras plaqués verticalement contre la paroi, glissez les bras vers le haut en poussant sur les coudes pour activer et étirer le dentelé antérieur.

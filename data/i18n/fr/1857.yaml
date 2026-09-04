@@ -1,9 +1,11 @@
 exercise_id: '1857'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Automassage de la bandelette ilio-tibiale au rouleau
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '2995'
+description: |-
+  Allongé sur le côté, faites glisser le rouleau le long de la face externe de la cuisse entre la hanche et le genou pour relâcher le fascia lata et la bandelette ilio-tibiale.

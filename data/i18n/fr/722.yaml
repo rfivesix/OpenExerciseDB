@@ -1,9 +1,11 @@
 exercise_id: '722'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Montées sur banc lestées (Weighted step-ups)
 upstream:
   license: CC0-1.0
   license_author: jigglychipmunk
   source_id: '321'
+description: |-
+  Face à une boîte ou un banc solide, tenez une charge (haltères ou gilet lesté) et montez d'un pied en poussant fermement sur le talon pour hisser le corps.

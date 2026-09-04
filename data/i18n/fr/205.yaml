@@ -1,9 +1,11 @@
 exercise_id: '205'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Fentes debout avec haltères
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '112'
+description: |-
+  Debout avec un haltère dans chaque main, avancez un pied vers l'avant et fléchissez les deux genoux jusqu'à ce que la cuisse avant soit parallèle au sol, puis repoussez pour revenir debout.

@@ -1,9 +1,11 @@
 exercise_id: '1860'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Automassage des adducteurs au rouleau
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3001'
+description: |-
+  Allongé sur le ventre, placez le rouleau de massage sous l'intérieur de la cuisse et roulez lentement du genou vers l'aine pour masser les adducteurs.
