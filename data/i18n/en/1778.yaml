@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1778'
 language: en
-status: upstream_unreviewed
-name: Supino inclinado
-description: Inclinado 90 graus e movimentos leves e precisos
+status: ai_reviewed
+name: Incline Bench Press
+description: Incline barbell bench press performed with controlled, precise movements.
+search_terms:
+  - Supino inclinado
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'

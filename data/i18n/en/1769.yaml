@@ -5,8 +5,10 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1769'
 language: en
-status: upstream_unreviewed
-name: cabel
-description: Não se encontra uma descrição disponível
+status: ai_reviewed
+name: Cable Row
+description: No description available.
+search_terms:
+  - cabel
 upstream:
   license: CC-BY-SA-4.0

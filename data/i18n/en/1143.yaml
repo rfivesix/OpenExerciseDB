@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1143'
 language: en
-status: upstream_unreviewed
-name: Back extensión
-description: Espalda en maquina de extensión con peso
+status: ai_reviewed
+name: Machine Back Extension
+description: Back extension performed on a weighted extension machine to target the lower back.
+search_terms:
+  - Back extensión
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

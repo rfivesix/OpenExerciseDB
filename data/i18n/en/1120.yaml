@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1120'
 language: en
-status: upstream_unreviewed
-name: Remo maquina agarre estrecho supino
-description: Remo en máquina o polea con agarre cerrado supino
+status: ai_reviewed
+name: Seated Machine Row (Underhand Grip)
+description: Seated machine or cable row performed with a close underhand (supinated) grip.
+search_terms:
+  - Remo maquina agarre estrecho supino
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

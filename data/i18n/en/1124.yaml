@@ -5,16 +5,14 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1124'
 language: en
-status: upstream_unreviewed
-name: Jalón abierto
+status: ai_reviewed
+name: Wide-Grip Lat Pulldown
 description: |-
-  Movimiento&nbsp; descendente
-  •&nbsp; Tire&nbsp; de&nbsp; la&nbsp; barra&nbsp; hacia&nbsp; abajo&nbsp; para&nbsp; que&nbsp; pase&nbsp; cerca&nbsp; de&nbsp; su&nbsp; barbilla&nbsp; y&nbsp; toque&nbsp; la&nbsp; parte&nbsp; superior&nbsp;&nbsp;
-  de&nbsp; su&nbsp; pecho.&nbsp;&nbsp;
-  •&nbsp; Mantenga&nbsp; el&nbsp; resto&nbsp; de&nbsp; su&nbsp; cuerpo&nbsp; inmóvil.
-  Movimiento&nbsp; hacia&nbsp; arriba&nbsp;&nbsp;
-  •&nbsp; Permita&nbsp; que&nbsp; sus&nbsp; codos&nbsp; se&nbsp; extiendan&nbsp; para&nbsp; permitir&nbsp; que&nbsp; la&nbsp; barra&nbsp; suba&nbsp; hasta&nbsp; la&nbsp; posición&nbsp; inicial.
-  posición.&nbsp;&nbsp;
-  •&nbsp; Mantenga&nbsp; el&nbsp; resto&nbsp; de&nbsp; su&nbsp; cuerpo&nbsp; inmóvil.
+  Downward movement:
+  • Pull the bar down until it touches or comes close to the upper chest, keeping your torso upright and still.
+  Upward movement:
+  • Allow your elbows to extend with control as the bar rises back to the starting position.
+search_terms:
+  - Jalón abierto
 upstream:
   license: CC-BY-SA-4.0

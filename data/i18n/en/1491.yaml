@@ -5,9 +5,11 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1491'
 language: en
-status: upstream_unreviewed
-name: Remada unilateral no cabo
+status: ai_reviewed
+name: One-Arm Cable Row
 description: |-
-  pegada neutra&nbsp;A remada unilateral, também conhecida como remada serrote, é um exercício que&nbsp;fortalece as costas e os bíceps, além de melhorar a postura.
+  One-arm cable row performed with a neutral grip to target the lats and upper back while challenging core stability.
+search_terms:
+  - Remada unilateral no cabo
 upstream:
   license: CC-BY-SA-4.0

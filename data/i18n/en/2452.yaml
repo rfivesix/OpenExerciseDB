@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2452'
 language: en
-status: upstream_unreviewed
-name: Curl De Muñeca Con Barra
+status: ai_reviewed
+name: Barbell Wrist Curl
+search_terms:
+  - Curl De Muñeca Con Barra
 description: |-
-  This is a variation of the flat bench press designed to emphasize the clavicular head of the pectoralis major (the upper portion). By tilting the torso, the angle of the push changes, shifting more tension to the upper chest and shoulders, which helps achieve a more aesthetic, balanced, and three-dimensional development of the torso.
-
-
-  Starting Position: Grip a bar with an overhand grip (palms facing up) at a width similar to your shoulders.
+  Starting Position: Grip a bar with an underhand grip (palms facing up) at shoulder-width.
 
 
   Position on the Bench: Kneel in front of a flat bench and rest the backs of your forearms on it. Your wrists and hands should extend slightly beyond the edge of the bench to allow for a full range of motion.

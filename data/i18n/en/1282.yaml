@@ -2,7 +2,7 @@ exercise_id: '1282'
 language: en
 status: ai_reviewed
 name: Isometric Reverse-Grip Chin-Up Hold
-description: Trazioni in isometria con impugnatura inversa
+description: Isometric chin-up hold performed with a reverse (underhand) grip.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

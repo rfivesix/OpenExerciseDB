@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1119'
 language: en
-status: upstream_unreviewed
-name: Remo maquina agarre estrecho
-description: Remo en máquina con barra en agarre estrecho
+status: ai_reviewed
+name: Seated Machine Row (Close Grip)
+description: Seated machine row performed with a close grip.
+search_terms:
+  - Remo maquina agarre estrecho
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

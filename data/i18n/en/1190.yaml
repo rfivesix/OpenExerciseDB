@@ -5,12 +5,14 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1190'
 language: en
-status: upstream_unreviewed
-name: Curl de biceps con agarre prono
+status: ai_reviewed
+name: Reverse Barbell Curl
 description: |-
-  POSICIÓN INICIAL:
-  Seleccione el peso adecuado en una barra. Colóquese de pie con la barra usando un agarre prono y las manos a la anchura de los hombros. Contraiga el suelo pelvico y el core mientras mantiene su pecho levantado.
-  EJECUCIÓN:
-  Contrayendo los bíceps, doble los codos totalmente mientras exhala. Vuelva a la posición inicial con un suave movimiento mientras inhala.
+  Starting Position:
+  Load an appropriate weight on a barbell. Stand upright holding the bar with a shoulder-width pronated (overhand) grip. Brace your core and keep your chest lifted.
+  Execution:
+  Flex your elbows to curl the bar upward with control, without swinging your torso. Lower the bar smoothly back to the starting position.
+search_terms:
+  - Curl de biceps con agarre prono
 upstream:
   license: CC-BY-SA-4.0

@@ -5,8 +5,10 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1793'
 language: en
-status: upstream_unreviewed
-name: Supino Inclinado
-description: Ângulo 90 graus.........................
+status: ai_reviewed
+name: Incline Bench Press (Steep)
+description: Barbell incline bench press performed on a steep bench angle to emphasize the upper clavicular pectorals and front deltoids.
+search_terms:
+  - Supino Inclinado
 upstream:
   license: CC-BY-SA-4.0
