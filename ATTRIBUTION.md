@@ -24,14 +24,14 @@ eventually. Attribution is owed to those individual contributors, not to "wger"
 as a whole.
 
 <!-- BEGIN GENERATED LIST -->
-Across 909 exercises and 5485 translations, **249 distinct upstream authors** are credited. 935 of 6394 records carry no author upstream.
+Across 909 exercises and 5546 translations, **249 distinct upstream authors** are credited. 937 of 6455 records carry no author upstream.
 
 ### Original licenses
 
 | License | Records |
 |---|---|
-| `CC-BY-SA-4.0` | 5552 |
-| `CC-BY-SA-3.0` | 703 |
+| `CC-BY-SA-4.0` | 5589 |
+| `CC-BY-SA-3.0` | 727 |
 | `CC0-1.0` | 139 |
 
 ### Languages
@@ -52,7 +52,7 @@ Across 909 exercises and 5485 translations, **249 distinct upstream authors** ar
 | `hr` | 31 | 8 |
 | `id` | 48 | 11 |
 | `it` | 868 | 239 |
-| `ja` | 807 | 228 |
+| `ja` | 868 | 241 |
 | `nl` | 49 | 12 |
 | `pl` | 4 | 2 |
 | `pt` | 66 | 18 |
@@ -74,8 +74,8 @@ Listed by the name each contributor recorded upstream, with the number of record
 - abeworld (6)
 - aboksz (10)
 - abuono (6)
-- admin (53)
-- Aleid (4)
+- admin (54)
+- Aleid (5)
 - almenociprovo (1)
 - AlucardEvil40 (63)
 - amaesc (20)
@@ -86,7 +86,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - anon1337 (11)
 - anto.kreegyr (12)
 - Antsy6277 (4)
-- apeschel (14)
+- apeschel (15)
 - arson (4)
 - ataraxie67 (4)
 - Awlex (6)
@@ -98,7 +98,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - bel (2)
 - BeLikeWater (16)
 - benjamin.yildiz (4)
-- BePieToday (5)
+- BePieToday (6)
 - BFad07 (90)
 - bizyguy (6)
 - bl0sh (6)
@@ -114,9 +114,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - captive0592 (52)
 - carlos3c (20)
 - Cerin (5)
-- Cf (5)
+- Cf (6)
 - cgoob883 (5)
-- clafal (155)
+- clafal (159)
 - cleen (10)
 - colundrum (5)
 - cozyGalvinism (4)
@@ -128,7 +128,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - daiben (44)
 - damnlost (3)
 - daniel.escada (5)
-- Davidgj32 (137)
+- Davidgj32 (138)
 - Deflation (12)
 - delta@romeo (6)
 - deusinvictus (6)
@@ -140,12 +140,12 @@ Listed by the name each contributor recorded upstream, with the number of record
 - drthurlow (10)
 - Dulive (4)
 - dvdfernandez95 (8)
-- ege (22)
+- ege (24)
 - Epiphany8424 (4)
 - er0355 (14)
 - erikocobra (36)
 - eriktrinkle (6)
-- eufvksruh (11)
+- eufvksruh (12)
 - evtimovgeorg (12)
 - Expenses7000 (102)
 - ExRx (5)
@@ -166,9 +166,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - grilobosch (1)
 - GrosseHund (12)
 - Happy (28)
-- hektkaso (21)
+- hektkaso (25)
 - HexoctusEngineering (42)
-- hpmbala (71)
+- hpmbala (72)
 - hurr99 (12)
 - Iko (4)
 - Imobard (5)
@@ -177,8 +177,8 @@ Listed by the name each contributor recorded upstream, with the number of record
 - intelman (6)
 - ISSACS (6)
 - J120290,cerin (4)
-- JackSparrow (6)
-- James Mackay (3)
+- JackSparrow (8)
+- James Mackay (4)
 - jayninja (6)
 - jesusd (4)
 - Jhonatan (7)
@@ -194,9 +194,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - kwrindy (7)
 - lakerbeezel (4)
 - lauroernesto (4)
-- lbroggi (23)
+- lbroggi (24)
 - LEBRERO (6)
-- lh1701 (5)
+- lh1701 (6)
 - lhegedus (4)
 - lion (4)
 - lxmx (20)
@@ -212,15 +212,15 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Mariano_O (14)
 - Marius (5)
 - matpn (6)
-- mbozi1 (4)
-- McMarcel13 (15)
+- mbozi1 (5)
+- McMarcel13 (16)
 - Me (6)
 - meldun (16)
 - Mens Fitness (9)
 - Metin (4)
 - Mike Mentzer (4)
 - mike6426 (4)
-- Mikko Ruohola (4)
+- Mikko Ruohola (5)
 - minifigmaster125 (16)
 - MisterPinnacle (4)
 - Moffi (80)
@@ -237,9 +237,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - oboema (4)
 - OGhTebfCxhexZXuf35mUxV9C--A (6)
 - p177erpher (1)
-- painDpice (17)
+- painDpice (18)
 - Papazit (7)
-- PaukOne (9)
+- PaukOne (10)
 - Paul@Chemistry (6)
 - pera_perkan (6)
 - personal use (1)
@@ -248,14 +248,14 @@ Listed by the name each contributor recorded upstream, with the number of record
 - philip (40)
 - phpi (5)
 - pjwirth (7)
-- polloperro (33)
+- polloperro (34)
 - powerade69 (5)
 - prevail90 (4)
 - probablyforging (6)
 - pwiltrout (4)
 - Raj (6)
 - Rehab Hero (6)
-- ricardodavidrd (3)
+- ricardodavidrd (4)
 - RiccaBaro (8)
 - richmr2174 (5)
 - ricwheatley (4)
@@ -266,7 +266,7 @@ Listed by the name each contributor recorded upstream, with the number of record
 - SAH (6)
 - schweezer (10)
 - schwolfar (5)
-- sebk (5)
+- sebk (6)
 - Settebello (17)
 - sevae (13)
 - Shiladree (32)
@@ -280,11 +280,11 @@ Listed by the name each contributor recorded upstream, with the number of record
 - stwalkerster (1)
 - taylorbarbell (5)
 - tdprice12 (5)
-- tekknokrat (4)
+- tekknokrat (5)
 - tenebrizz (10)
 - teus_ergaster (20)
 - ThisGirl0819 (6)
-- Tierrasverdes (64)
+- Tierrasverdes (66)
 - tinman (28)
 - TobiasFalk (12)
 - Torsten Linnecke (6)
@@ -301,9 +301,9 @@ Listed by the name each contributor recorded upstream, with the number of record
 - Vilhelmo (4)
 - vince63 (6)
 - vkylamba (4)
-- wakanda90 (10)
+- wakanda90 (12)
 - wampir5000 (3)
-- wger.de (1729)
+- wger.de (1752)
 - wgerjhn (105)
 - wgerpott (4)
 - Whythebigpaws (4)
@@ -325,7 +325,7 @@ These were recorded upstream in the author field but are references to where an 
 - <http://www.exrx.net/WeightExercises/Brachialis/DBC> (5)
 - <http://www.realsimple.com/health/fitness-exercise/> (5)
 
-A further 935 records carry no author upstream and are attributed to *the wger project and its contributors*. They are counted here rather than dropped, so the gap stays visible.
+A further 937 records carry no author upstream and are attributed to *the wger project and its contributors*. They are counted here rather than dropped, so the gap stays visible.
 <!-- END GENERATED LIST -->
 
 ## Note on missing authors
