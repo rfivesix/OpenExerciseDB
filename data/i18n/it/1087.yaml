@@ -1,9 +1,15 @@
 exercise_id: '1087'
 language: it
-status: ai_raw
-translated_from: en
-name: Trazioni presa neutra alla sbarra
+status: ai_reviewed
+translated_from: de
+name: Hang power clean con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2037'
+description: |-
+  Posizione di partenza:
+  In piedi con due manubri tenuti all'altezza delle cosce a mezz'aria, busto inclinato in avanti con le anche leggermente flesse.
+
+  Esecuzione:
+  1. Estendi esplosivamente le anche e porta i manubri verso l'alto ruotando i polsi per riceverli all'altezza delle spalle in mezzo squat.

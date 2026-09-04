@@ -1,9 +1,11 @@
 exercise_id: '257'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Front squat con bilanciere
 upstream:
   license: CC-BY-SA-3.0
   license_author: sistab2
   source_id: '191'
+description: |-
+  Questa variante dello squat con bilanciere posizionato sulle spalle anteriori allena intensamente quadricipiti e grande gluteo, coinvolgendo anche erettori spinali e adduttori.

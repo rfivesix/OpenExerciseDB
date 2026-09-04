@@ -1,9 +1,17 @@
 exercise_id: '294'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Hip thrust con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: Bret Contreras
   source_id: '854'
+description: |-
+  Posizione di partenza:
+  Siediti a terra con la parte centrale della schiena appoggiata a una panca, piedi piatti sul pavimento alla larghezza delle spalle. Posiziona un bilanciere sopra il bacino, preferibilmente con un cuscinetto protettivo.
+
+  Esecuzione:
+  1. Spingi forte sui talloni estendendo le anche verso l'alto fino a portare il busto e le cosce paralleli al pavimento.
+  2. Contrai al massimo i glutei in cima mantenendo lo sguardo in avanti e il mento raccolto.
+  3. Abbassa lentamente il bacino in modo controllato senza perdere la tensione muscolare.

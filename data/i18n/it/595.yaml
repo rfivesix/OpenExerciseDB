@@ -1,9 +1,15 @@
 exercise_id: '595'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Salto con la corda standard
 upstream:
   license: CC-BY-SA-4.0
   license_author: Cerin
   source_id: '411'
+description: |-
+  Posizione di partenza:
+  In piedi a piedi uniti impugnando le maniglie della corda per saltare all'altezza dei fianchi.
+
+  Esecuzione:
+  1. Fai oscillare la corda e salta ritmicamente a piedi pari rimbalzando sugli avampiedi con movimento generato dai polsi.

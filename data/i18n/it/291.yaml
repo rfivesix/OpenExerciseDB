@@ -1,9 +1,17 @@
 exercise_id: '291'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat indiano (Hindu Squats)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Vilhelmo
   source_id: '650'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle spalle e le braccia distese leggermente dietro il busto.
+
+  Esecuzione:
+  1. Mentre scendi in accosciata, solleva i talloni da terra portandoti sugli avampiedi e mantieni la schiena il più verticale possibile.
+  2. Quando raggiungi la massima profondità, tocca leggermente i talloni con le mani.
+  3. Risali distendendo le gambe, riappoggiando i talloni a terra e portando contemporaneamente le braccia in avanti all'altezza del petto, per poi riportarle indietro.

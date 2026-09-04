@@ -1,9 +1,16 @@
 exercise_id: '365'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl da distesi alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '154'
+description: |-
+  Posizione di partenza:
+  Sdraiati a pancia in giù sulla panca della macchina, posizionando i cuscinetti sopra i talloni e afferrando le maniglie laterali per stabilizzare il busto.
+
+  Esecuzione:
+  1. Fletti le ginocchia sollevando il carico verso i glutei senza staccare il bacino dal supporto.
+  2. Ritorna lentamente e in modo controllato alla posizione iniziale, mantenendo il busto perfettamente fermo durante l'esercizio.

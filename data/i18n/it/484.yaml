@@ -1,9 +1,16 @@
 exercise_id: '484'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stacco dal rack con bilanciere
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney
   source_id: '161'
+description: |-
+  Posizione di partenza:
+  Regola i supporti del rack in modo che il bilanciere sia posizionato appena sotto le rotule. Posizionati con i piedi alla larghezza dei fianchi e afferra la sbarra con presa prona.
+
+  Esecuzione:
+  1. Estendi le anche e le ginocchia spingendo sui talloni e contraendo fortemente glutei ed erettori spinali per sollevare il carico.
+  2. Riabbassa il bilanciere sui supporti con una discesa controllata di circa due secondi.

@@ -1,9 +1,17 @@
 exercise_id: '722'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Step-up con sovraccarico
 upstream:
   license: CC0-1.0
   license_author: jigglychipmunk
   source_id: '321'
+description: |-
+  Posizione di partenza:
+  In piedi davanti a una panca o un box pliometrico con un manubrio in ciascuna mano lungo i fianchi.
+
+  Esecuzione:
+  1. Appoggia l'intera pianta di un piede sul rialzo.
+  2. Spingi con decisione sul tallone della gamba anteriore per sollevare il corpo fino alla completa estensione dell'anca.
+  3. Ritorna a terra in modo controllato e ripeti o alterna le gambe.

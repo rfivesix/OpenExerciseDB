@@ -1,9 +1,16 @@
 exercise_id: '341'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Squat al multipower (Smith Machine)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1054'
+description: |-
+  Posizione di partenza:
+  Regola il bilanciere della Smith machine all'altezza delle spalle e posizionati sotto di esso con i piedi a passo stretto.
+
+  Esecuzione:
+  1. Scendi in squat controllato flettendo ginocchia e anche.
+  2. Spingi sui piedi per risalire alla posizione eretta.

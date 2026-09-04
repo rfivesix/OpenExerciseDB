@@ -1,8 +1,10 @@
 exercise_id: '802'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Affondi camminati con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1053'
+description: |-
+  Sostieni un bilanciere sulla parte superiore dei trapezi ed esegui passi in avanti in affondo alternando fluidamente le gambe, piegando entrambe le ginocchia a 90 gradi.

@@ -1,9 +1,16 @@
 exercise_id: '441'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Overhead Squat con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: geraldbaeck
   source_id: '355'
+description: |-
+  Posizione di partenza:
+  In piedi con il bilanciere bloccato saldamente sopra la testa con presa molto larga (strappo).
+
+  Esecuzione:
+  1. Scendi in accosciata controllata mantenendo la sbarra perfettamente perpendicolare al baricentro.
+  2. Risali con forza spingendo attraverso i piedi.

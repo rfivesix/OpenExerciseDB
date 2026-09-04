@@ -1,9 +1,17 @@
 exercise_id: '369'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg extension alla macchina
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '804'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina leg extension regolando lo schienale in modo che il ginocchio sia allineato con il perno di rotazione. Posiziona il cuscinetto imbottito sulla parte anteriore delle caviglie e afferra saldamente le maniglie laterali per mantenere il bacino fermo.
+
+  Esecuzione:
+  1. Estendi le ginocchia sollevando il carico con i quadricipiti fino alla quasi completa distensione delle gambe.
+  2. Fermati un secondo al culmine del movimento per enfatizzare la contrazione muscolare del quadricipite femorale.
+  3. Abbassa lentamente il peso tornando alla posizione iniziale con una discesa fluida e controllata.

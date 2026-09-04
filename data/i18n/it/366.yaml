@@ -1,9 +1,16 @@
 exercise_id: '366'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl da seduto alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '117'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina leg curl regolando lo schienale e posiziona le gambe sopra il cuscinetto mobile dietro le caviglie.
+
+  Esecuzione:
+  1. Fletti le ginocchia spingendo il cuscinetto verso il basso e indietro con i femorali.
+  2. Ritorna lentamente alla posizione iniziale controllando il carico.

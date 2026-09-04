@@ -1,9 +1,15 @@
 exercise_id: '527'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Corsa a piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: BeLikeWater
   source_id: '397'
+description: |-
+  Posizione di partenza:
+  In piedi in assetto atletico all'aperto o su pista.
+
+  Esecuzione:
+  1. Corri a passo regolare mantenendo una postura eretta, il baricentro bilanciato e un appoggio elastico del piede.

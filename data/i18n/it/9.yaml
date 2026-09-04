@@ -1,9 +1,16 @@
 exercise_id: '9'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Swing kettlebell a due mani
 upstream:
   license: CC-BY-SA-4.0
   license_author: deusinvictus
   source_id: '345'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi leggermente più larghi delle spalle, afferra la kettlebell con entrambe le mani.
+
+  Esecuzione:
+  1. Flettere leggermente le ginocchia e spingi indietro il bacino.
+  2. Con una potente estensione delle anche guidata da glutei e femorali, porta la kettlebell all'altezza del petto, quindi controlla la discesa.

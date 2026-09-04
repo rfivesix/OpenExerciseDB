@@ -1,9 +1,11 @@
 exercise_id: '683'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Girata al petto (Power Clean)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '189'
+description: |-
+  Movimento di sollevamento pesi olimpico: tirata esplosiva del bilanciere dal pavimento o in sospensione fino a riceverlo sulle spalle anteriori in posizione di rack.

@@ -1,9 +1,17 @@
 exercise_id: '285'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Jump squat con ginocchia al petto
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '304'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle spalle e le braccia lungo i fianchi.
+
+  Esecuzione:
+  1. Scendi rapidamente in un quarto di squat caricando le gambe.
+  2. Salta in alto in modo esplosivo, portando entrambe le ginocchia verso il petto al culmine del salto.
+  3. Estendi rapidamente le gambe per atterrare morbidamente sugli avampiedi ammortizzando con le ginocchia prima di ripetere.

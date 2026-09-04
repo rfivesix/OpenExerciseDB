@@ -1,9 +1,17 @@
 exercise_id: '12'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Adduzioni delle cosce da seduto alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: flori
   source_id: '377'
+description: |-
+  Posizione di partenza:
+  Siediti dritto sulla macchina per adduttori e regola i cuscinetti in modo che poggino comodamente sull'interno coscia, mantenendo la schiena ben aderente allo schienale.
+
+  Esecuzione:
+  1. Stringi le gambe verso il centro con un movimento controllato, contraendo intensamente gli adduttori dell'anca.
+  2. Mantieni la contrazione massima per un breve istante.
+  3. Riapri lentamente le gambe tornando alla posizione iniziale, controllando il carico senza far toccare i pesi.

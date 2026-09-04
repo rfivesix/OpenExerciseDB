@@ -1,9 +1,16 @@
 exercise_id: '909'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Reverse Nordic curl a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly
   source_id: '1188'
+description: |-
+  Posizione di partenza:
+  In ginocchio su un tappetino con il busto eretto e le anche completamente estese.
+
+  Esecuzione:
+  1. Mantenendo una linea retta tra ginocchia e spalle, inclinati lentamente all'indietro flettendo solo le articolazioni delle ginocchia.
+  2. Contrai energicamente i quadricipiti femorali per frenare la discesa e ritornare alla posizione iniziale.

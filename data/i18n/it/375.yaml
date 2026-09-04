@@ -1,9 +1,17 @@
 exercise_id: '375'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pressa per gambe (Hack Squat)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '130'
+description: |-
+  Posizione di partenza:
+  Posizionati nell'apparecchio Hack Squat con le spalle ben salde sotto i cuscinetti e la schiena aderente allo schienale. I piedi sono sulla pedana alla larghezza delle spalle con le punte leggermente divaricate.
+
+  Esecuzione:
+  1. Scendi lentamente piegando le ginocchia fino a raggiungere un angolo di circa 90 gradi.
+  2. Spingi attraverso tutta la pianta del piede per risalire alla posizione iniziale.
+  3. Evita di distendere completamente le ginocchia in alto per non scaricare la tensione dai quadricipiti.

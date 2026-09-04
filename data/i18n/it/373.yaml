@@ -1,9 +1,17 @@
 exercise_id: '373'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg press a piedi ravvicinati
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '115'
+description: |-
+  Posizione di partenza:
+  Siediti sulla leg press e appoggia i piedi al centro della pedana con una distanza ridotta, lasciando solo pochi centimetri tra un piede e l'altro, con le punte parallele e rivolte verso l'alto.
+
+  Esecuzione:
+  1. Abbassa la pedana in modo controllato fino a flettere le ginocchia a 90 gradi.
+  2. Spingi con decisione attraverso i piedi per riportare la pedana in alto senza effettuare pause.
+  3. Mantieni il movimento fluido e continuo, evitando di iperestendere le ginocchia nel punto finale.

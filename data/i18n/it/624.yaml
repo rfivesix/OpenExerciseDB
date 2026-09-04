@@ -1,9 +1,15 @@
 exercise_id: '624'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Cyclette da camera (Stationary Bike)
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman
   source_id: '293'
+description: |-
+  Posizione di partenza:
+  Regola l'altezza della sella della cyclette in modo che la gamba sia quasi completamente distesa nel punto inferiore della pedalata.
+
+  Esecuzione:
+  1. Pedala a ritmo costante con una cadenza fluida mantenendo la schiena dritta.

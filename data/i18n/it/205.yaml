@@ -1,9 +1,17 @@
 exercise_id: '205'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Affondi sul posto con manubri
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '112'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con un manubrio in ciascuna mano lungo i fianchi, piedi alla larghezza dei fianchi.
+
+  Esecuzione:
+  1. Esegui un passo lungo in avanti con una gamba e abbassa il bacino in linea retta verso il pavimento.
+  2. Entrambe le ginocchia devono piegarsi a circa 90 gradi; il ginocchio anteriore deve rimanere sopra la caviglia senza superare la punta del piede.
+  3. Spingi attraverso il tallone della gamba avanzata per tornare alla posizione iniziale e ripeti con la gamba opposta.

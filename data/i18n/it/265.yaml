@@ -1,9 +1,17 @@
 exercise_id: '265'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Ponte per glutei a terra (Glute Bridge)
 upstream:
   license: CC-BY-SA-4.0
   license_author: tdprice12
   source_id: '408'
+description: |-
+  Posizione di partenza:
+  Sdraiati in posizione supina sul tappetino, con le ginocchia piegate, i piedi piatti a terra alla larghezza dei fianchi e le braccia distese lungo il corpo.
+
+  Esecuzione:
+  1. Contrai il core e spingi attraverso i talloni per sollevare il bacino verso l'alto.
+  2. Solleva fino a formare una linea retta dalle ginocchia alle spalle, stringendo forte i glutei nella posizione più alta per 1-2 secondi.
+  3. Abbassa lentamente il bacino tornando a sfiorare il pavimento prima di ricominciare.

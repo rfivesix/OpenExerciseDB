@@ -1,9 +1,16 @@
 exercise_id: '367'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Leg curl in piedi alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '118'
+description: |-
+  Posizione di partenza:
+  In piedi davanti alla macchina, regola il cuscinetto all'altezza della parte inferiore del polpaccio di una gamba e afferra le impugnature per stabilizzarti.
+
+  Esecuzione:
+  1. Fletti la gamba portando il tallone verso il gluteo fino a formare un angolo retto al ginocchio.
+  2. Abbassa il peso lentamente e in modo controllato prima di cambiare gamba.

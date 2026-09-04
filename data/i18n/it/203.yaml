@@ -1,9 +1,18 @@
 exercise_id: '203'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Goblet squat con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: ataraxie67
   source_id: '300'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi leggermente più larghi delle spalle e le punte leggermente rivolte verso l'esterno. Tieni un manubrio in verticale davanti al petto con entrambe le mani a coppa sotto la testa superiore del peso, con i gomiti rivolti verso il basso.
+
+  Esecuzione:
+  1. Scendi in accosciata flettendo anche e ginocchia, portando il bacino indietro come se ti stessi sedendo.
+  2. Mantieni il busto eretto, il petto aperto e la schiena neutrale; i gomiti dovrebbero passare all'interno delle ginocchia.
+  3. Scendi finché le cosce non sono almeno parallele al pavimento.
+  4. Spingi attraverso i talloni e risali tornando alla posizione iniziale, contraendo con decisione i glutei in alto.

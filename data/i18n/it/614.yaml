@@ -1,9 +1,11 @@
 exercise_id: '614'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat con salto (Jump Squat)
 upstream:
   license: CC-BY-SA-3.0
   license_author: OGhTebfCxhexZXuf35mUxV9C--A
   source_id: '185'
+description: |-
+  Salta in modo esplosivo partendo da una posizione di squat a passo largo e atterra a passo stretto, alternando ritmicamente tra le due aperture.

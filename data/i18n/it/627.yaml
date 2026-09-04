@@ -1,9 +1,17 @@
 exercise_id: '627'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco da terra a gambe tese
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '209'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza dei fianchi e un bilanciere tenuto con presa prona davanti alle cosce.
+
+  Esecuzione:
+  1. Mantenendo le ginocchia quasi completamente distese e la schiena rigorosamente dritta, fletti le anche e abbassa il bilanciere verso i piedi.
+  2. Scendi finché senti un intenso allungamento nei muscoli ischiocrurali (femorali).
+  3. Risali spingendo il bacino in avanti e contraendo con forza i glutei.

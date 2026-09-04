@@ -1,9 +1,17 @@
 exercise_id: '590'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Calf raise da seduto alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '103'
+description: |-
+  Posizione di partenza:
+  Siediti alla macchina per calf da seduto, posiziona gli avampiedi sulla pedana e blocca il cuscinetto imbottito sulla parte inferiore delle cosce.
+
+  Esecuzione:
+  1. Abbassa lentamente i talloni fino al punto di massimo allungamento del soleo.
+  2. Spingi energicamente sugli avampiedi sollevando il carico il più in alto possibile.
+  3. Mantieni la contrazione per un secondo in cima prima di ripetere la discesa controllata.

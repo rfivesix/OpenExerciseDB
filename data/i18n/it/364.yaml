@@ -1,9 +1,17 @@
 exercise_id: '364'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl alla macchina
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '792'
+description: |-
+  Posizione di partenza:
+  Posizionati sulla macchina per leg curl regolando il cuscinetto posteriore sopra i talloni.
+
+  Esecuzione:
+  1. Fletti le gambe contro la resistenza tirando i talloni verso i glutei per isolare i muscoli ischiocrurali (femorali).
+  2. Contrai i muscoli per un secondo nel punto di massima flessione.
+  3. Ritorna alla posizione di partenza controllando lentamente il movimento.

@@ -1,9 +1,17 @@
 exercise_id: '397'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Box squat basso con bilanciere a passo largo
 upstream:
   license: CC-BY-SA-4.0
   license_author: taylorbarbell
   source_id: '389'
+description: |-
+  Posizione di partenza:
+  Prendi il bilanciere dal rack e posizionati con un passo ampio, più largo dei fianchi, davanti a un box basso che ti porti sotto il parallelo.
+
+  Esecuzione:
+  1. Spingi il bacino indietro e siediti completamente sul box senza rimbalzare.
+  2. Mantieni la massima tensione nel tronco e nella parte superiore della schiena.
+  3. Rialzati in modo esplosivo spingendo con forza sui talloni.

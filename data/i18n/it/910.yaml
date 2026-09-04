@@ -1,9 +1,11 @@
 exercise_id: '910'
 language: it
-status: ai_raw
-translated_from: en
-name: Nordic hamstring curl a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Nordic curl a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly
   source_id: '1189'
+description: |-
+  Il Nordic curl è uno dei migliori esercizi per il distretto inferiore: sviluppa la forza eccentrica dei muscoli ischiocrurali (femorali), migliora la stabilità del ginocchio e previene gli infortuni muscolari.

@@ -1,9 +1,16 @@
 exercise_id: '57'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Camminata dell'orso
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '307'
+description: |-
+  Posizione di partenza:
+  Mettiti a quattro zampe con mani sotto le spalle e ginocchia sotto le anche, quindi solleva le ginocchia di pochi centimetri da terra mantenendo la schiena piatta.
+
+  Esecuzione:
+  1. Avanza coordinando mano e piede opposti, mantenendo il busto basso e parallelo al pavimento.
+  2. Attiva costantemente il core e mantieni il bacino stabile senza oscillare lateralmente.

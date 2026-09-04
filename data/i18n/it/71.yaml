@@ -1,9 +1,17 @@
 exercise_id: '71'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Leg extension monolaterale alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1057'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina leg extension e posiziona il cuscinetto sopra la caviglia della gamba attiva. L'altra gamba rimane rilassata a terra.
+
+  Esecuzione:
+  1. Estendi la gamba fino a raggiungere la completa distensione del ginocchio, contraendo fortemente il quadricipite femorale.
+  2. Mantieni la posizione in alto per un secondo.
+  3. Abbassa lentamente il peso in modo controllato senza farlo appoggiare prima di ripetere.

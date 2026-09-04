@@ -1,9 +1,17 @@
 exercise_id: '371'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pressa per le gambe alla macchina
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '788'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina leg press con la schiena e il bacino ben aderenti allo schienale. Posiziona i piedi sulla pedana a una larghezza leggermente superiore a quella delle spalle, con le punte leggermente ruotate all'esterno.
+
+  Esecuzione:
+  1. Sblocca il carico e abbassa la pedana piegando le ginocchia fino a raggiungere un angolo di circa 90 gradi.
+  2. Spingi immediatamente la pedana verso l'alto senza pause, mantenendo le ginocchia allineate con i piedi.
+  3. Non bloccare mai completamente le articolazioni delle ginocchia in alto per preservare la tensione muscolare e la sicurezza articolare.

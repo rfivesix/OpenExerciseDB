@@ -1,9 +1,11 @@
 exercise_id: '650'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Thruster con bilanciere
 upstream:
   license: CC0-1.0
   license_author: BeLikeWater
   source_id: '396'
+description: |-
+  Inizia eseguendo un front squat profondo con il bilanciere sulle spalle. In risalita, spingi la sbarra con forza sopra la testa fino alla distensione completa, poi riabbassala con controllo.

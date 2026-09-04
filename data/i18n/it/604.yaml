@@ -1,9 +1,15 @@
 exercise_id: '604'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco da terra veloce (Speed Deadlift)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele
   source_id: '328'
+description: |-
+  Posizione di partenza:
+  Posizionati davanti a un bilanciere caricato a circa il 50-70% del massimale.
+
+  Esecuzione:
+  1. Solleva il bilanciere con la massima accelerazione ed esplosività concentrandoti sulla velocità di estensione delle anche.

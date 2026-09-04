@@ -1,9 +1,16 @@
 exercise_id: '319'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Corsa continua (Jogging)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Papazit
   source_id: '423'
+description: |-
+  Posizione di partenza:
+  In piedi con abbigliamento comodo e scarpe da corsa adeguate.
+
+  Esecuzione:
+  1. Inizia a correre all'aperto o sul tapis roulant a un ritmo aerobico moderato e costante.
+  2. Mantieni la respirazione regolare, il busto leggermente inclinato in avanti e le spalle rilassate.

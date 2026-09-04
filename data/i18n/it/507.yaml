@@ -1,9 +1,16 @@
 exercise_id: '507'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stacco da terra rumeno (RDL)
 upstream:
   license: CC-BY-SA-4.0
   license_author: pjwirth
   source_id: '351'
+description: |-
+  Posizione di partenza:
+  In piedi con bilanciere all'altezza delle cosce, schiena dritta e spalle addotte.
+
+  Esecuzione:
+  1. Fletti le anche spingendo il bacino indietro con ginocchia leggermente piegate.
+  2. Scendi con il bilanciere vicino alle gambe fino a sentire allungare i femorali, quindi risali contraendo i glutei.

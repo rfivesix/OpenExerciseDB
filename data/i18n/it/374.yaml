@@ -1,9 +1,17 @@
 exercise_id: '374'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Leg extension alla macchina
+name: Leg press a passo largo
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '114'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina e posiziona i piedi sulla pedana a una larghezza superiore a quella delle spalle, con le punte rivolte verso l'esterno di circa 30 gradi.
+
+  Esecuzione:
+  1. Abbassa il peso flettendo le ginocchia fino a raggiungere un angolo di circa 90 gradi.
+  2. Spingi energicamente la pedana verso l'alto senza pause, lasciando lavorare quadricipiti, glutei e adduttori.
+  3. Mantieni il movimento sempre fluido e controllato.

@@ -1,9 +1,15 @@
 exercise_id: '1088'
 language: it
-status: ai_raw
-translated_from: en
-name: Trazioni orizzontali ad anelli
+status: ai_reviewed
+translated_from: de
+name: Stacco sumo con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2038'
+description: |-
+  Posizione di partenza:
+  In piedi con un passo largo e le punte ruotate a 45 gradi, tenendo un manubrio pesante in verticale tra le gambe.
+
+  Esecuzione:
+  1. Fletti ginocchia e anche fino a sfiorare il suolo con il manubrio, quindi risali spingendo sui talloni con glutei e adduttori.
