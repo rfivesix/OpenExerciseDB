@@ -1,9 +1,17 @@
 exercise_id: '1948'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Affondi camminati con manubri sopra la testa
+name: Box squat su una gamba
 upstream:
   license: CC-BY-SA-4.0
   license_author: jesusd
   source_id: '3099'
+description: |-
+  Posizione di partenza:
+  In piedi a circa 15 centimetri davanti a un box pliometrico o a una sedia solida, mantenendoti in equilibrio su una sola gamba con l'altra distesa in avanti.
+
+  Esecuzione:
+  1. Fletti l'anca e il ginocchio scendendo lentamente verso il box in modo controllato senza lasciarti cadere.
+  2. Siediti delicatamente sfiorando il supporto senza rimbalzare.
+  3. Spingi attraverso il tallone della gamba a terra per risalire alla posizione iniziale contraendo quadricipite e gluteo.

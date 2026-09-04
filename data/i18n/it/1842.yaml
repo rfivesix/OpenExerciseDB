@@ -1,9 +1,17 @@
 exercise_id: '1842'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Clamshell con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2977'
+description: |-
+  Posizione di partenza:
+  Sdraiati su un fianco con un elastico di resistenza attorno alle cosce subito sopra le ginocchia, con anche e ginocchia piegate.
+
+  Esecuzione:
+  1. Solleva il ginocchio superiore verso l'alto tenendo i piedi uniti a contatto, come una conchiglia che si apre.
+  2. Mantieni il bacino fermo e allineato senza ruotare all'indietro.
+  3. Richiudi lentamente tornando alla posizione iniziale prima di cambiare lato.

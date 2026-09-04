@@ -1,9 +1,15 @@
 exercise_id: '1963'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat a corpo libero a ritmo controllato
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3118'
+description: |-
+  Variante dello squat a corpo libero basata sul controllo del tempo per aumentare la tensione muscolare e la stabilità:
+
+  1. Discesa: scendi lentamente flettendo ginocchia e anche per 3 secondi.
+  2. Pausa: fermati in accosciata per 1 secondo mantenendo il core contratto.
+  3. Risalita: spingi sui talloni e risali a velocità normale.

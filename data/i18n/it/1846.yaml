@@ -1,9 +1,11 @@
 exercise_id: '1846'
 language: it
-status: ai_raw
-translated_from: en
-name: Plank laterale sugli avambracci
+status: ai_reviewed
+translated_from: de
+name: Posizione del cavaliere (Horse Stance)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2981'
+description: |-
+  Posizionati in piedi a gambe molto divaricate con le punte rivolte verso l'esterno. Scendi in un'accosciata ampia e profonda con le anche sotto il livello delle ginocchia, mantieni la posizione statica per 3-5 secondi e risali con controllo.

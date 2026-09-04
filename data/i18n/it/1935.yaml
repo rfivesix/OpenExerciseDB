@@ -1,8 +1,10 @@
 exercise_id: '1935'
 language: it
-status: ai_raw
-translated_from: en
-name: Trazioni presa larga alla sbarra
+status: ai_reviewed
+translated_from: de
+name: Squat alla cintura (Belt Squat)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3084'
+description: |-
+  Variante dello squat eseguita collegando una cintura zavorrata a una macchina o a una piattaforma di carico. Il peso viene applicato direttamente sul bacino, consentendo di allenare intensamente quadricipiti e glutei senza comprimere la colonna vertebrale.

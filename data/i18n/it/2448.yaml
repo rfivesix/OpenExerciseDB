@@ -1,9 +1,17 @@
 exercise_id: '2448'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Clamshell inverso a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk
   source_id: '3554'
+description: |-
+  Posizione di partenza:
+  Sdraiati su un fianco con anche e ginocchia piegate e ginocchia sovrapposte.
+
+  Esecuzione:
+  1. Mantenendo le ginocchia a contatto, solleva il piede della gamba superiore verso l'alto ruotando internamente l'anca.
+  2. Abbassa lentamente il piede con controllo.
+  3. Mantieni il bacino stabile senza oscillare all'indietro; il movimento deve essere piccolo, controllato e focalizzato sulla rotazione dell'anca.

@@ -1,9 +1,17 @@
 exercise_id: '1801'
 language: it
-status: ai_raw
-translated_from: en
-name: Squat bulgaro a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Squat profondo con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: fabrice
   source_id: '2925'
+description: |-
+  Posizione di partenza:
+  Posiziona il bilanciere sulla parte superiore della schiena sopra i trapezi, afferralo saldamente e staccalo dal rack. Posiziona i piedi a una larghezza leggermente superiore a quella delle spalle con le punte rivolte verso l'esterno.
+
+  Esecuzione:
+  1. Inspira e scendi flettendo ginocchia e anche in modo controllato, scendendo oltre il parallelo fino alla massima profondità fisiologica preservando la lordosi lombare.
+  2. Mantieni il petto in fuori e le ginocchia allineate con le punte dei piedi.
+  3. Spingi attraverso tutta la pianta del piede per risalire con esplosività alla posizione eretta, contraendo con forza quadricipiti e glutei.

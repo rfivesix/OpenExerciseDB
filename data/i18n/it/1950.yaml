@@ -1,9 +1,11 @@
 exercise_id: '1950'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rullata miofasciale sulla bandelletta ileotibiale
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3101'
+description: |-
+  Fai scorrere il rullo massaggiatore (foam roller) lungo la fascia laterale della coscia, dal ginocchio al fianco, per rilasciare il tratto ileotibiale.

@@ -1,9 +1,11 @@
 exercise_id: '1906'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Ponte per glutei a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3053'
+description: |-
+  Sdraiati supino con le ginocchia flesse e i piedi a terra; solleva il bacino contraendo con forza i glutei fino a formare una linea retta con il busto.

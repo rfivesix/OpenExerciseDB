@@ -1,9 +1,11 @@
 exercise_id: '1913'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hip thrust su una gamba con peso
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3060'
+description: |-
+  In appoggio con la schiena su una panca, posiziona un manubrio sul bacino e solleva le anche su una gamba contraendo il gluteo.

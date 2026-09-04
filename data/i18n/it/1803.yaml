@@ -1,9 +1,11 @@
 exercise_id: '1803'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Squat con trap bar
 upstream:
   license: CC-BY-SA-4.0
   license_author: kmcalderwood
   source_id: '2927'
+description: |-
+  Posizionati all'interno della trap bar con i piedi alla larghezza delle spalle. Fletti ginocchia e anche impugnando le maniglie e solleva il carico spingendo sui talloni con il busto eretto.

@@ -1,9 +1,11 @@
 exercise_id: '1865'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Mobilizzazione della caviglia con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3007'
+description: |-
+  Fissa un elastico di resistenza attorno alla caviglia e muovi il ginocchio in avanti migliorando la mobilità in dorsiflessione.

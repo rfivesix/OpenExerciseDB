@@ -1,9 +1,11 @@
 exercise_id: '1875'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento della bandelletta ileotibiale in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3017'
+description: |-
+  In piedi, incrocia una gamba dietro l'altra e fletti lateralmente il tronco verso il lato opposto distendendo la fascia lata.

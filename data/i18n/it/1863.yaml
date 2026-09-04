@@ -1,9 +1,11 @@
 exercise_id: '1863'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Crossover dell'anca a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3005'
+description: |-
+  Sdraiati supino a braccia aperte, fletti un ginocchio e ruotalo oltre il corpo verso il lato opposto per allungare il gluteo.

@@ -1,9 +1,11 @@
 exercise_id: '1857'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rullata miofasciale sulla bandelletta ileotibiale
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '2995'
+description: |-
+  Sdraiati di lato e fai scorrere la fascia laterale della coscia sul rullo massaggiatore (foam roller) per decomprimere il tratto ileotibiale.

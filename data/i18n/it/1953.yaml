@@ -1,9 +1,11 @@
 exercise_id: '1953'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Croce di ferro a ginocchia flesse a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3104'
+description: |-
+  Sdraiati supino con le ginocchia piegate a 90 gradi e ruotale lentamente da un lato all'altro per mobilizzare la colonna lombare.

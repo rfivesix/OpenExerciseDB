@@ -1,8 +1,16 @@
 exercise_id: '1833'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Leg curl a terra con dischi scivolanti (Sliders)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2968'
+description: |-
+  Posizione di partenza:
+  Sdraiati sulla schiena con i talloni appoggiati su dischi scivolanti (sliders) o su un asciugamano.
+
+  Esecuzione:
+  1. Solleva il bacino in una posizione di ponte per glutei.
+  2. Fai scivolare i talloni verso i glutei flettendo le ginocchia e mantenendo il bacino alto.
+  3. Ritorna lentamente distendendo le gambe senza far toccare i glutei al suolo.

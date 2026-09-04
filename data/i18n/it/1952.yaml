@@ -1,9 +1,11 @@
 exercise_id: '1952'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Massaggio miofasciale glutei con pallina da lacrosse
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3103'
+description: |-
+  Siediti su una pallina da massaggio (lacrosse ball) e fai piccoli movimenti per trattare i punti di tensione nel grande e medio gluteo.

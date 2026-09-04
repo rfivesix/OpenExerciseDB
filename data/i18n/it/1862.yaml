@@ -1,9 +1,11 @@
 exercise_id: '1862'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Circonduzioni delle anche
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3004'
+description: |-
+  In piedi con le mani sui fianchi, esegui ampie rotazioni circolari del bacino in entrambe le direzioni per mobilizzare le anche.

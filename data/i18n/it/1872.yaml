@@ -1,9 +1,11 @@
 exercise_id: '1872'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Posizione del piccione per i glutei
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3014'
+description: |-
+  Porta una gamba piegata in avanti a 90 gradi ed estendi l'altra dietro di te, abbassando il bacino per allungare il grande gluteo.

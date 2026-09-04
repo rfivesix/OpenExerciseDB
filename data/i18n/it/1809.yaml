@@ -1,9 +1,16 @@
 exercise_id: '1809'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Iperestensioni inverse a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2938'
+description: |-
+  Posizione di partenza:
+  Sdraiati a pancia in giù su una panca con il bacino sul bordo e le gambe sospese.
+
+  Esecuzione:
+  1. Estendi le gambe all'indietro verso l'alto contraendo con decisione glutei ed erettori spinali fino all'allineamento con il tronco.
+  2. Riabbassa le gambe con controllo verso la posizione iniziale.

@@ -1,9 +1,11 @@
 exercise_id: '1954'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotolata a terra con salita a V-Sit
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3105'
+description: |-
+  Rolla indietro sulla schiena e slanciati in avanti aprendo le gambe in posizione di V-sit per migliorare mobilità e flessibilità.

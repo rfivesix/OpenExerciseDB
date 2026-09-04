@@ -1,9 +1,11 @@
 exercise_id: '1864'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rotazioni delle caviglie
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3006'
+description: |-
+  Solleva un piede ed esegui lente circonduzioni complete della caviglia in senso orario e antiorario per aumentare la mobilità articolare.

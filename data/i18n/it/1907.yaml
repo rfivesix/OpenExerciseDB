@@ -1,9 +1,11 @@
 exercise_id: '1907'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Affondi monolaterali sul posto
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3054'
+description: |-
+  Esegui una serie di affondi focalizzandoti su una singola gamba per volta per sviluppare forza e stabilità asimmetrica.

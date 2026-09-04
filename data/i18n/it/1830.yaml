@@ -1,8 +1,17 @@
 exercise_id: '1830'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Affondi posteriori con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2965'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza dei fianchi e un bilanciere posizionato sulla parte superiore della schiena.
+
+  Esecuzione:
+  1. Mantieni la schiena dritta, il petto aperto e il core contratto.
+  2. Esegui un passo lungo all'indietro con una gamba e abbassa il bacino piegando entrambe le ginocchia finché quello posteriore sfiora il suolo.
+  3. Spingi attraverso il tallone del piede anteriore per ritornare alla posizione eretta di partenza.
+  4. Ripeti il movimento alternando le gambe per il numero stabilito di ripetizioni.

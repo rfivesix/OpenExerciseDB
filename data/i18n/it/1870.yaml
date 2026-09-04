@@ -1,9 +1,11 @@
 exercise_id: '1870'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento femorali a terra con fascia elastica
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3012'
+description: |-
+  Sdraiati sulla schiena, posiziona una fascia elastica sotto la pianta del piede e solleva la gamba tesa allungando i femorali.

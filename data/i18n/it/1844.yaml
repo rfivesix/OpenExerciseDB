@@ -1,9 +1,11 @@
 exercise_id: '1844'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stretching della rana (Frog stretch)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2979'
+description: |-
+  Posizionati a quattro zampe e allarga le ginocchia il più possibile appoggiandoti sugli avambracci. Senza muovere i gomiti, oscilla lentamente il bacino all'indietro verso i talloni per allungare intensamente gli adduttori dell'anca.

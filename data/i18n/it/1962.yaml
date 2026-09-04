@@ -1,9 +1,20 @@
 exercise_id: '1962'
 language: it
-status: ai_raw
-translated_from: en
-name: Stacco da terra a gambe semitese
+status: ai_reviewed
+translated_from: de
+name: Step Jack a basso impatto
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3117'
+description: |-
+  Lo Step Jack è una variante a basso impatto del classico jumping jack, ideale per stimolare il sistema cardiovascolare senza sovraccaricare le articolazioni.
+
+  Posizione di partenza:
+  In piedi in posizione eretta, a piedi uniti e con le braccia distese lungo i fianchi.
+
+  Esecuzione:
+  1. Fai un passo laterale verso destra con il piede destro sollevando contemporaneamente entrambe le braccia sopra la testa in un movimento circolare fluido.
+  2. Riporta il piede destro al centro e abbassa le braccia lungo il corpo.
+  3. Ripeti immediatamente il movimento aprendo il piede sinistro verso il lato opposto e sollevando nuovamente le braccia.
+  4. Continua alternando i lati a ritmo costante e dinamico.

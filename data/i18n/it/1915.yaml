@@ -1,9 +1,17 @@
 exercise_id: '1915'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Stacco con deficit su rialzo
+name: Abduzione dell'anca a quattro zampe (Fire Hydrant)
 upstream:
   license: CC-BY-SA-4.0
   license_author: treder
   source_id: '3062'
+description: |-
+  Posizione di partenza:
+  Posizionati a quattro zampe su un tappetino distribuendo equamente il peso corporeo su entrambe le mani e le ginocchia. Mantieni il tronco stabile, l'addome attivo e la colonna lombare neutra senza inarcamenti.
+
+  Esecuzione:
+  1. Mantenendo il ginocchio piegato a 90 gradi, solleva la gamba lateralmente verso l'esterno allontanandola dal corpo.
+  2. Evita di ruotare o inclinare il bacino, mantenendo la schiena piatta.
+  3. Contrai il medio gluteo in alto e riabbassa la gamba con controllo prima di ripetere.

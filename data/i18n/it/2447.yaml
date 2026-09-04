@@ -1,9 +1,17 @@
 exercise_id: '2447'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hip airplane a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk
   source_id: '3553'
+description: |-
+  Posizione di partenza:
+  In piedi su una gamba, fletti leggermente il busto in avanti mantenendo la schiena dritta. Estendi la gamba libera all'indietro in modo che busto e gamba formino approssimativamente una linea retta.
+
+  Esecuzione:
+  1. Apri lentamente l'anca verso l'esterno ruotando il bacino e il tronco in modo controllato.
+  2. Richiudi l'anca ruotando il bacino verso l'interno per ritornare alla posizione iniziale.
+  3. Il movimento deve originare esclusivamente dall'anca; mantieni il piede a terra saldo senza far cedere il ginocchio verso l'interno.
