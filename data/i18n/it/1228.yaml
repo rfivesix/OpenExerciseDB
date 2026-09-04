@@ -1,9 +1,16 @@
 exercise_id: '1228'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni su panca piana a presa stretta con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2193'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca piana tenendo un manubrio in ciascuna mano. Distendi le braccia verso l'alto con i manubri a contatto tra loro e i palmi rivolti l'uno verso l'altro.
+
+  Esecuzione:
+  1. Abbassa i manubri verso il petto mantenendoli uniti e tenendo i gomiti stretti vicino al corpo.
+  2. Spingi con forza i manubri verso l'alto estendendo i tricipiti.

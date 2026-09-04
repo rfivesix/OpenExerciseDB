@@ -1,9 +1,11 @@
 exercise_id: '1116'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Camminata del contadino con manubri (Farmer's Carry)
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2079'
+description: |-
+  Afferra un manubrio pesante in ciascuna mano lungo i fianchi, contrai il core e cammina a passo controllato mantenendo la postura dritta e le spalle stabili.

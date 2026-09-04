@@ -1,9 +1,17 @@
 exercise_id: '1266'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni tricipiti con cinghie TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2221'
+description: |-
+  Posizione di partenza:
+  Fissa il TRX in alto sopra la testa in modo che le maniglie arrivino all'altezza del petto. Posizionati con la schiena rivolta all'ancoraggio, impugna le maniglie e inclina il corpo in avanti sostenendo il peso sulle braccia distese e sulle punte dei piedi. Più il corpo è inclinato verso il suolo, maggiore sarà la resistenza.
+
+  Esecuzione:
+  1. Mantenendo i gomiti fermi, alti e vicini alla testa, piega le braccia abbassando il corpo in avanti finché le mani non arrivano dietro la nuca.
+  2. Spingi con forza sulle maniglie estendendo completamente i gomiti per riportare il corpo alla posizione inclinata di partenza.
+  3. Contrai costantemente il core per impedire che i fianchi o la zona lombare cedano.

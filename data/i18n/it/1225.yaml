@@ -1,9 +1,16 @@
 exercise_id: '1225'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl per bicipiti a presa larga con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2190'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano, tieni le braccia leggermente più larghe delle spalle con i palmi rivolti in avanti.
+
+  Esecuzione:
+  1. Fletti i gomiti sollevando contemporaneamente entrambi i manubri verso le spalle.
+  2. Mantieni la contrazione un istante in alto e abbassa lentamente i pesi.

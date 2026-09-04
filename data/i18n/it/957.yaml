@@ -1,9 +1,18 @@
 exercise_id: '957'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Squat con salto esplosivo
+name: Sollevamento alternato braccio e gamba a quattro zampe (Bird Dog)
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '1236'
+description: |-
+  Posizione di partenza:
+  Posizionati a terra a quattro zampe con le mani direttamente sotto le spalle e le ginocchia sotto le anche.
+
+  Esecuzione:
+  1. Attiva la muscolatura del dorso, dei glutei e del core sollevando contemporaneamente in linea con il tronco il braccio destro in avanti e la gamba sinistra all'indietro.
+  2. Mantieni il corpo parallelo al pavimento e le anche allineate per un secondo.
+  3. Ritorna lentamente alla posizione iniziale e ripeti con il braccio sinistro e la gamba destra.
+  4. Esegui il movimento in modo controllato alternando i lati.

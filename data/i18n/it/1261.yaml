@@ -1,9 +1,17 @@
 exercise_id: '1261'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Gorilla curl per bicipiti al TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2216'
+description: |-
+  Posizione di partenza:
+  Posizionati in piedi di fronte alle cinghie del TRX e afferra le maniglie con presa neutra, con i pugni rivolti l'uno verso l'altro e le braccia completamente distese all'altezza delle spalle. Inclina il busto all'indietro sostenendo il corpo in una linea retta dalle caviglie alle spalle.
+
+  Esecuzione:
+  1. Mantenendo il corpo rigido e i gomiti alti e fermi a livello delle spalle, fletti le braccia trazionando il busto verso l'alto fino a portare le mani ai lati della testa.
+  2. Contrai intensamente i bicipiti nella posizione di massimo accorciamento.
+  3. Ritorna lentamente alla posizione iniziale distendendo le braccia con pieno controllo.

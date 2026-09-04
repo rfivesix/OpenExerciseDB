@@ -1,9 +1,11 @@
 exercise_id: '1233'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento bicipite destro in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2198'
+description: |-
+  In piedi vicino a un muro con il lato destro del corpo, distendi il braccio destro indietro appoggiando il palmo sulla parete. Ruota dolcemente il busto verso sinistra finché non senti una distensione piacevole sul bicipite destro.

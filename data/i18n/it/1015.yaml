@@ -1,8 +1,16 @@
 exercise_id: '1015'
 language: it
-status: ai_raw
-translated_from: en
-name: Allungamento elevatore della scapola sinistra
+status: ai_reviewed
+translated_from: de
+name: Circonduzioni del collo in senso orario
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1913'
+description: |-
+  Posizione di partenza:
+  Siediti o posizionati in piedi con la schiena dritta. Abbassa delicatamente la testa in avanti portando il mento verso il torace senza forzare.
+
+  Esecuzione:
+  1. Inizia un movimento circolare continuo e fluido, ruotando lentamente la testa verso la spalla destra.
+  2. Prosegui all'indietro con cautela aprendo la gola, passa vicino alla spalla sinistra e ritorna verso il petto compiendo una circonduzione completa in senso orario.
+  3. Mantieni le spalle rilassate e ferme, respirando profondamente a ritmo lento.

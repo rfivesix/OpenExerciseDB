@@ -1,9 +1,16 @@
 exercise_id: '1099'
 language: it
-status: ai_raw
-translated_from: en
-name: Tirate al mento con bilanciere
+status: ai_reviewed
+translated_from: de
+name: Tenuta laterale dinamica su una gamba con kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2058'
+description: |-
+  Posizione di partenza:
+  Fissa un elastico attorno a una kettlebell e sollevala tenendola dall'elastico lungo un fianco.
+
+  Esecuzione:
+  1. Solleva un piede da terra rimanendo in equilibrio monopodalico.
+  2. Mantieni il corpo stabile contrastando le oscillazioni della kettlebell sospesa all'elastico grazie alla contrazione dei muscoli stabilizzatori del core.

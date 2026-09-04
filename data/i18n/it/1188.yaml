@@ -1,8 +1,15 @@
 exercise_id: '1188'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Flessioni laterali del busto con manubrio (Side bend)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2144'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in una mano lungo il fianco, piega l'altro braccio appoggiando la mano dietro la testa.
+
+  Esecuzione:
+  1. Fletti lentamente il busto lateralmente verso il lato senza manubrio, allungando e contraendo i muscoli obliqui.
+  2. Ritorna alla posizione eretta in modo controllato e completa le ripetizioni su entrambi i lati.

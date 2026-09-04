@@ -1,9 +1,16 @@
 exercise_id: '1269'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Dip alle cinghie TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2223'
+description: |-
+  Posizione di partenza:
+  Impugna le maniglie del TRX con le braccia distese sotto le spalle e i piedi leggermente avanzati poggiati a terra per modulare il carico.
+
+  Esecuzione:
+  1. Fletti i gomiti abbassando il busto finché le spalle non scendono all'altezza dei gomiti.
+  2. Spingi sulle maniglie estendendo le braccia per risalire alla posizione di partenza, mantenendo le cinghie stabili.

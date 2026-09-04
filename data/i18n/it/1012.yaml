@@ -1,8 +1,16 @@
 exercise_id: '1012'
 language: it
-status: ai_raw
-translated_from: en
-name: Allungamento laterale del collo a sinistra
+status: ai_reviewed
+translated_from: de
+name: Curl alternato per bicipiti con manubri
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1907'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano, la schiena dritta e i piedi divaricati alla larghezza delle anche. Le braccia sono distese lungo i fianchi con i palmi rivolti verso l'interno.
+
+  Esecuzione:
+  1. Mantenendo il gomito fermo vicino al busto, fletti un braccio sollevando il manubrio e ruotando l'avambraccio in supinazione con il palmo verso la spalla.
+  2. Contrai il bicipite in cima e abbassa il peso in modo controllato.
+  3. Ripeti lo stesso movimento con l'altro braccio, alternando i lati in maniera fluida.

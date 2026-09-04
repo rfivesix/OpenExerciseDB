@@ -1,9 +1,17 @@
 exercise_id: '1246'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rollout addominali con cinghie TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2209'
+description: |-
+  Posizione di partenza:
+  In piedi o in ginocchio rivolto verso l'ancoraggio, impugna le maniglie del TRX con le braccia distese e parallele all'altezza del petto.
+
+  Esecuzione:
+  1. Inclina il corpo in avanti lasciando salire le braccia tese verso l'alto oltre la testa in un movimento di estensione controllata del corpo.
+  2. Contrai con forza l'addome per mantenere la schiena dritta.
+  3. Tira le braccia verso il basso tornando alla posizione di partenza.

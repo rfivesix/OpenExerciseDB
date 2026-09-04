@@ -1,9 +1,11 @@
 exercise_id: '1185'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Spinte in basso per tricipiti al cavo
+name: Pushdown per tricipiti al cavo con sbarra
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2141'
+description: |-
+  In piedi davanti al cavo alto con presa prona sulla sbarra, spingi verso il basso estendendo completamente i tricipiti e mantenendo i gomiti bloccati ai fianchi.

@@ -1,9 +1,11 @@
 exercise_id: '1196'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Woodchopper diagonale al cavo
+name: Esercizi al muro per le gambe (Wall Drills)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Insight
   source_id: '2153'
+description: |-
+  In piedi inclinato in avanti con le mani appoggiate saldamente al muro, esegui sollevamenti e marce alternate a ginocchia alte per potenziare i flessori dell'anca e la stabilità degli arti inferiori.

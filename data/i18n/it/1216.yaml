@@ -1,8 +1,15 @@
 exercise_id: '1216'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Trazioni scapolari alla sbarra (Recruitment Pulls)
+name: Trazioni scapolari su trave da arrampicata (Recruitment Pulls)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2182'
+description: |-
+  Posizione di partenza:
+  Posizionati sotto un trave da arrampicata con il tabellone sopra la testa e afferra una tacca specifica con una mano.
+
+  Esecuzione:
+  1. Tira con la massima forza intenzionale verso l'alto attivando la spalla e il dorso a braccio singolo per pochi secondi senza sollevare completamente i piedi.
+  2. Riposa adeguatamente tra i tentativi e ripeti sul braccio opposto.

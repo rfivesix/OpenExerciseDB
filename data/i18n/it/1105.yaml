@@ -1,9 +1,16 @@
 exercise_id: '1105'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Knee Tuck da seduto
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '2070'
+description: |-
+  Posizione di partenza:
+  Siediti su un tappetino appoggiando le mani leggermente dietro di te per supporto.
+
+  Esecuzione:
+  1. Solleva i piedi da terra distendendo le gambe in avanti.
+  2. Fletti le ginocchia tirandole verso il petto contraendo l'addome, poi ridistendile controllando il movimento.

@@ -1,9 +1,16 @@
 exercise_id: '1259'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Crunch per obliqui con TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2212'
+description: |-
+  Posizione di partenza:
+  Inserisci i piedi nelle staffe del TRX e assumi una posizione di plank alto con le mani a terra sotto le spalle.
+
+  Esecuzione:
+  1. Fletti le ginocchia portandole insieme verso il gomito destro contraendo gli obliqui.
+  2. Ritorna in plank e ripeti portando le ginocchia verso il gomito sinistro.

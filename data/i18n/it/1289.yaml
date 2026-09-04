@@ -1,9 +1,16 @@
 exercise_id: '1289'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl con manubri da seduto
 upstream:
   license: CC-BY-SA-4.0
   license_author: sTiKyt
   source_id: '2256'
+description: |-
+  Posizione di partenza:
+  Siediti sul bordo di una panca con la schiena dritta e i piedi ben piantati al suolo. Tieni un manubrio in ciascuna mano con le braccia distese lungo i fianchi.
+
+  Esecuzione:
+  1. Mantenendo i gomiti fermi vicino al busto, fletti le braccia sollevando i manubri verso le spalle.
+  2. Contrai i bicipiti in alto e abbassa i pesi lentamente con pieno controllo.

@@ -1,9 +1,18 @@
 exercise_id: '1286'
 language: it
-status: ai_raw
-translated_from: en
-name: Planche dinamica a terra
+status: ai_reviewed
+translated_from: de
+name: Salto delle ginocchia al petto in plank (Plank Tuck Jump)
 upstream:
   license: CC-BY-SA-4.0
   license_author: painDpice
   source_id: '2253'
+description: |-
+  Posizione di partenza:
+  Assumi una posizione di plank alto a braccia distese con le mani direttamente sotto le spalle e i piedi posizionati alla larghezza delle anche. Attiva saldamente la muscolatura del core e mantieni la schiena dritta.
+
+  Esecuzione:
+  1. Con un salto esplosivo, porta contemporaneamente entrambi i piedi in avanti verso le mani, atterrando con le ginocchia raccolte al petto sulle punte dei piedi.
+  2. Mantieni il peso equamente distribuito sui palmi delle mani per stabilizzare le spalle.
+  3. Salta immediatamente all'indietro per ritornare nella posizione di plank iniziale, estendendo completamente le gambe.
+  4. Esegui il movimento in modo fluido e ritmico, assicurandoti di non inarcare la parte bassa della schiena.

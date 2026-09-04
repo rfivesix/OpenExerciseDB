@@ -1,9 +1,11 @@
 exercise_id: '1230'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Curl bicipiti concentrato con manubrio
+name: Allungamento tricipite sinistro
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2195'
+description: |-
+  Posiziona la mano sinistra dietro la parte alta della schiena. Con la mano destra afferra il gomito sinistro e tiralo delicatamente all'indietro e verso il basso. Mantieni la posizione di allungamento per alcuni secondi respirando regolarmente.

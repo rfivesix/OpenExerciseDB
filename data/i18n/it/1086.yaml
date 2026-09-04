@@ -1,9 +1,17 @@
 exercise_id: '1086'
 language: it
-status: ai_raw
-translated_from: en
-name: Rematore inverso sotto la sbarra
+status: ai_reviewed
+translated_from: de
+name: Piegamenti sulle braccia a presa stretta
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2036'
+description: |-
+  Posizione di partenza:
+  Assumi una solida posizione di plank a terra con il corpo ben allineato. Avvicina le mani fino a far quasi toccare i pollici e gli indici.
+
+  Esecuzione:
+  1. Fletti i gomiti mantenendoli molto stretti lungo i fianchi, abbassando il petto verso le mani.
+  2. Mantieni il core saldo e la schiena dritta durante la discesa.
+  3. Spingi con forza sui palmi tornando in estensione completa.

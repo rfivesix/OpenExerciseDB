@@ -1,9 +1,11 @@
 exercise_id: '804'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Sospensione su prese piatte (Sloper)
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1071'
+description: |-
+  Rimani sospeso a braccia distese sulle prese piatte (sloper) del trave da arrampicata per il numero di secondi stabilito, mantenendo le spalle attive.

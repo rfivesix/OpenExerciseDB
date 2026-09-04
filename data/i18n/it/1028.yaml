@@ -1,9 +1,17 @@
 exercise_id: '1028'
 language: it
-status: ai_raw
-translated_from: en
-name: Allungamento bicipite femorale da seduto
+status: ai_reviewed
+translated_from: de
+name: Rotazione toracica a quattro zampe a sinistra
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '1973'
+description: |-
+  Posizione di partenza:
+  Posizionati a quattro zampe con le ginocchia aperte alla larghezza delle spalle e le mani sotto il petto. Posiziona la mano sinistra dietro la nuca, mantenendo il braccio destro saldo a terra.
+
+  Esecuzione:
+  1. Ruota il busto verso destra portando il gomito sinistro verso il braccio opposto.
+  2. Inverti il movimento aprendo e ruotando il torace verso sinistra ed estendendo il gomito verso l'alto.
+  3. Ripeti per le ripetizioni previste.

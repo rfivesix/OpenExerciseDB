@@ -1,9 +1,17 @@
 exercise_id: '1029'
 language: it
-status: ai_raw
-translated_from: en
-name: Allungamento dei glutei a terra
+status: ai_reviewed
+translated_from: de
+name: Rotazione toracica a quattro zampe a destra
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '1974'
+description: |-
+  Posizione di partenza:
+  Inizia in ginocchio a quattro zampe con le ginocchia a larghezza spalle. Appoggia la mano destra dietro la nuca e sostieni il busto con la mano sinistra a terra.
+
+  Esecuzione:
+  1. Fletti il tronco ruotando verso sinistra e dirigendo il gomito destro verso il braccio a terra.
+  2. Ruota poi il torace verso l'alto e verso destra puntando il gomito al soffitto.
+  3. Esegui le ripetizioni con controllo del respiro.

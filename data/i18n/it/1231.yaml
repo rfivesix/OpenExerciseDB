@@ -1,9 +1,11 @@
 exercise_id: '1231'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Curl bicipiti alla panca inclinata con manubri
+name: Allungamento tricipite destro
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2196'
+description: |-
+  Posiziona la mano destra dietro la schiena tra le scapole. Con la mano sinistra afferra il gomito destro e trazionai dolcemente verso il basso. Mantieni la posizione per alcuni secondi avvertendo la tensione sui tricipiti.

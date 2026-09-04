@@ -1,9 +1,11 @@
 exercise_id: '820'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sospensione su tacca da 20 mm (Trave)
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1074'
+description: |-
+  Rimani appeso a braccia tese sulla tacca da 20 mm del trave da arrampicata per circa 10 secondi, stabilizzando le scapole.

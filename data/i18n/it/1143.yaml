@@ -1,9 +1,11 @@
 exercise_id: '1143'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Iperestensioni della schiena (Back Extension)
+name: Iperestensioni della schiena alla macchina (Back Extension)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2122'
+description: |-
+  Posizionati sulla macchina per estensioni della schiena con i cuscinetti regolati sui fianchi ed estendi il busto all'indietro contraendo i muscoli lombari e i glutei.

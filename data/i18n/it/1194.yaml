@@ -1,9 +1,16 @@
 exercise_id: '1194'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pallof Press al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: prevail90
   source_id: '2150'
+description: |-
+  Posizione di partenza:
+  In piedi perpendicolare alla carrucola del cavo ad altezza petto, afferra la maniglia con entrambe le mani vicino allo sterno.
+
+  Esecuzione:
+  1. Distendi le braccia dritte in avanti resistendo alla torsione del tronco.
+  2. Mantieni la posizione per un secondo e ritorna con controllo al petto.

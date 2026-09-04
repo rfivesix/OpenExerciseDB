@@ -1,9 +1,11 @@
 exercise_id: '1232'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento bicipite sinistro in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2197'
+description: |-
+  Posizionati in piedi con il fianco sinistro vicino a una parete. Distendi il braccio sinistro all'indietro appoggiando il palmo della mano al muro, quindi ruota delicatamente il busto verso destra fino a percepire l'allungamento del bicipite.

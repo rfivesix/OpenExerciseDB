@@ -1,8 +1,16 @@
 exercise_id: '1018'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Allungamento del gran dorsale al palo
+name: Inclinazioni laterali del capo
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1919'
+description: |-
+  Posizione di partenza:
+  Siediti o mantieni la posizione eretta in piedi con la schiena dritta e le spalle rilassate.
+
+  Esecuzione:
+  1. Inclina lentamente la testa verso un lato avvicinando l'orecchio alla spalla e mantieni la posizione per qualche secondo.
+  2. Riporta la testa nella posizione centrale neutra.
+  3. Ripeti l'inclinazione verso il lato opposto controllando la respirazione.

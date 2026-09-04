@@ -1,9 +1,11 @@
 exercise_id: '913'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl inverso alla panca Scott (presa stretta)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1192'
+description: |-
+  Seduto alla panca Scott con presa prona stretta sul bilanciere sagomato EZ, fletti le braccia sollevando il carico per allenare gli avambracci e i brachiali.

@@ -1,8 +1,16 @@
 exercise_id: '1017'
 language: it
-status: ai_raw
-translated_from: en
-name: Allungamento pettorale bilaterale
+status: ai_reviewed
+translated_from: de
+name: Semicirconduzioni del collo
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1917'
+description: |-
+  Posizione di partenza:
+  Siediti o rimani in piedi con la schiena ben allineata. Inclina delicatamente la testa verso una delle due spalle, senza sollevare la spalla.
+
+  Esecuzione:
+  1. Fai rotolare con calma il capo in avanti portando il mento vicino alla parte centrale del petto.
+  2. Continua il movimento semicircolare fino a raggiungere la spalla opposta.
+  3. Inverti la direzione e ripeti il semicerchio in senso inverso, mantenendo un ritmo rilassato ed evitando movimenti bruschi.

@@ -1,9 +1,16 @@
 exercise_id: '1224'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Drag curl con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2189'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano e i palmi rivolti in avanti.
+
+  Esecuzione:
+  1. Tira indietro i gomiti facendo scorrere i manubri vicini al busto fino all'altezza del petto.
+  2. Abbassa lentamente i manubri lungo la stessa traiettoria controllando la discesa.

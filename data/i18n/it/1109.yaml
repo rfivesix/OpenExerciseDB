@@ -1,9 +1,17 @@
 exercise_id: '1109'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Curl concentrato ai cavi
+name: Curl concentrato al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442
   source_id: '2072'
+description: |-
+  Posizione di partenza:
+  Posizionati seduto o inginocchiato di fronte alla carrucola bassa del cavo, afferrando la maniglia con una mano.
+
+  Esecuzione:
+  1. Appoggia la parte posteriore del braccio contro l'interno della coscia per isolare il movimento.
+  2. Fletti il gomito portando la maniglia verso la spalla.
+  3. Ritorna lentamente alla posizione iniziale e ripeti con l'altro braccio.

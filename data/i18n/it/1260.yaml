@@ -1,9 +1,16 @@
 exercise_id: '1260'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Squat a pistola a destra (Pistol Squat)
+name: Curl a martello con TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2214'
+description: |-
+  Posizione di partenza:
+  Afferra le maniglie del TRX con presa neutra mantenendo i palmi rivolti l'uno verso l'altro. Distendi le braccia in avanti e inclina il corpo all'indietro a gambe tese, sostenendo il peso corporeo sui talloni con il corpo allineato.
+
+  Esecuzione:
+  1. Fletti le braccia portando le mani verso le tempie mantenendo i gomiti alti e fermi.
+  2. Abbassa il corpo lentamente estendendo le braccia fino alla posizione di partenza.

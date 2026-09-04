@@ -1,9 +1,11 @@
 exercise_id: '912'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl al cavo con sbarra dritta
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1191'
+description: |-
+  In piedi davanti al cavo basso con il busto eretto, impugna la sbarra dritta con presa supina ed esegui il curl flettendo le braccia.

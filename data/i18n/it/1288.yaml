@@ -1,9 +1,16 @@
 exercise_id: '1288'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank laterale dinamico con oscillazione del bacino
 upstream:
   license: CC-BY-SA-4.0
   license_author: painDpice
   source_id: '2255'
+description: |-
+  Posizione di partenza:
+  Sdraiati su un fianco in appoggio sull'avambraccio e sul bordo esterno del piede, formando una linea retta con il corpo.
+
+  Esecuzione:
+  1. Abbassa lentamente i fianchi verso il pavimento sfiorando il suolo.
+  2. Risali sollevando il bacino verso l'alto oltre la linea retta contraendo l'obliquo inferiore.

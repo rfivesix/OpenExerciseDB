@@ -1,9 +1,17 @@
 exercise_id: '1262'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl bicipiti a un braccio con TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2218'
+description: |-
+  Posizione di partenza:
+  In piedi di fronte al TRX, afferra la maniglia con una mano con presa supina. Inclina il corpo all'indietro sostenendo il peso del corpo sul braccio teso, mantenendo l'allineamento da testa a piedi.
+
+  Esecuzione:
+  1. Mantenendo il gomito alto e stabile, fletti il braccio per tirare il corpo verso la maniglia contraendo il bicipite.
+  2. Abbassati lentamente e con controllo tornando a braccio disteso.
+  3. Completa le ripetizioni e ripeti sull'altro lato.
