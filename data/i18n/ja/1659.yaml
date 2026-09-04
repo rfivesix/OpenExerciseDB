@@ -1,9 +1,11 @@
 exercise_id: '1659'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クロスボディ・ワンハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2780'
+description: |-
+  開始姿勢: ラットプルダウンマシンに対して斜めに座り、片足だけをパッドに入れます。対角側のハイプーリーハンドルを逆の手で握ります。動作手順: ケーブルが身体の前を斜めに横切る軌道で、肘を腰に向かって引き下ろします。トップで広背筋を強く収縮させ、ゆっくりと元の位置に戻します。ポイント: 対角線上に引くことで広背筋の筋線維の走行に完璧に一致し、強烈なストレッチと収縮を生み出します。

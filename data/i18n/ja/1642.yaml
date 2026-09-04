@@ -1,9 +1,20 @@
 exercise_id: '1642'
 language: ja
-status: ai_raw
-translated_from: en
-name: インクライン・ダンベルサイドレイズ
+status: ai_reviewed
+translated_from: de
+name: ダンベル・ヒップスラスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2751'
+description: |-
+  開始姿勢:
+  ベンチに肩甲骨の下部を預けて座り、骨盤の上にダンベルを横向きに乗せて両手で押さえます。足裏を肩幅で床に置きます。
+
+  動作手順:
+  1. 顎を引き、踵で床を強く押して骨盤を天井に向けて押し上げます。
+  2. 上半身と太ももが床と平行になるまで押し上げ、大臀筋を強く収縮させます。
+  3. コントロールしながらゆっくりと骨盤を下ろします。
+
+  ポイント:
+  腰を反らさずに臀筋の力で骨盤を持ち上げることが重要です。

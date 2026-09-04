@@ -1,9 +1,11 @@
 exercise_id: '1656'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: デクライン・ケーブルチェストプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2777'
+description: |-
+  【開始姿勢】高い位置に設定したケーブルを背にして立ち、ハンドルを握ります。【動作手順】上体を前傾させ、斜め下前方に向けてケーブルを押し出し、大胸筋下部を収縮させます。【ポイント】大胸筋中部・下部 (胸肋部)を意識し、押し切った位置で一瞬静止します。

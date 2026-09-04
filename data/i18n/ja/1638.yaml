@@ -1,9 +1,11 @@
 exercise_id: '1638'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・クリーン＆プレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2744'
+description: |-
+  【開始姿勢】床に置いたバーベルを肩幅で握り、背筋を伸ばして構えます。【動作手順】下半身の力でバーベルを一気に肩の上へ引き上げ、頭上へ力強く押し上げます。【ポイント】全身の爆発的な連動性と三角筋前部を鍛えます。

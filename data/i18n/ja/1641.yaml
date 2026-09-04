@@ -1,9 +1,20 @@
 exercise_id: '1641'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダンベル・Lレイズ
+status: ai_reviewed
+translated_from: de
+name: シングルレッグ・ケトルベルデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2749'
+description: |-
+  開始姿勢:
+  片足で立ち、反対側の手（または両手）でケトルベルを持ちます。背筋を真っ直ぐ伸ばして体幹を固めます。
+
+  動作手順:
+  1. 軸足の膝を軽く緩め、股関節から上体を前に倒すと同時に、浮かせた脚を後ろへ真っ直ぐ伸ばします。
+  2. ケトルベルを軸足の脛に向かって下ろし、軸足のハムストリングスとお尻の伸びを感じます。
+  3. 軸足の踵で床を押して股関節を伸展させ、元の直立姿勢に戻ります。
+
+  ポイント:
+  骨盤の水平を保ち、ハムストリングス、大臀筋、足首の固有受容感覚と安定性を鍛えます。

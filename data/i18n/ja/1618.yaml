@@ -1,9 +1,19 @@
 exercise_id: '1618'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: エアロバイク (ステーショナリーバイク)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2601'
+description: |-
+  開始姿勢:
+  エアロバイクのサドル高さを合わせ、ペダルストラップを締めて腰掛けます。
+
+  動作手順:
+  1. ハンドルを軽く握り、適度な回転数（ケイデンス）を維持してリズミカルにペダルを漕ぎます。
+  2. 目的に応じて負荷を調整し、一定の心拍ゾーンをキープします。
+
+  ポイント:
+  関節への衝撃が極めて少ないため、安全かつ持続的な有酸素運動や下肢の持久力向上に適しています。

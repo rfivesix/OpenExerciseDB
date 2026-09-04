@@ -1,9 +1,11 @@
 exercise_id: '1639'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ベントオーバー・ダンベルフェイスプル
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2745'
+description: |-
+  【開始姿勢】上体を股関節から深く前傾させ、両手にダンベルを持ちます。【動作手順】肘を高く外側に引き上げながら、ダンベルを顔の高さに向けて引き寄せます。【ポイント】三角筋後部と回旋筋腱板 (ローテーターカフ)を収縮させ、姿勢を安定させます。

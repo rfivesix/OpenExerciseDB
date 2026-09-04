@@ -1,9 +1,11 @@
 exercise_id: '1660'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・ケーブルチェストプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2781'
+description: |-
+  【開始姿勢】低い位置に設定したケーブルを背にして立ち、ハンドルを握ります。【動作手順】斜め上前方に向けてハンドルを押し出し、大胸筋上部を収縮させます。【ポイント】大胸筋上部 (鎖骨部)を狙い、体幹をしっかり固定して行います。

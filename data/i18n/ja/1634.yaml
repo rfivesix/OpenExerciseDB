@@ -1,9 +1,11 @@
 exercise_id: '1634'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・ロープ・プルオーバー＆ロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2740'
+description: |-
+  開始姿勢: ロープーリーの前にベンチを置き、ベンチの上に上体を前傾させて構えます。ロープのアタッチメントを両手で握ります。動作手順: 腕を伸ばし気味にしてプルオーバーのように引き始め、後半で肘を曲げて脇腹へ引き寄せるコンビネーション動作を行います。広背筋の最大伸展から最大収縮まで滑らかに繋げます。ポイント: 背中の広がりと厚みを同時に狙えるハイブリッド種目です。

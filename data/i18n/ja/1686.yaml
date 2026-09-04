@@ -1,9 +1,11 @@
 exercise_id: '1686'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: グルートブリッジ・ワンハンド・ダンベルプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2805'
+description: |-
+  【開始姿勢】仰向けで膝を曲げ、お尻を持ち上げてグルートブリッジの姿勢をキープします。【動作手順】片手にダンベルを持ち、体幹のバランスを保ちながら真上へプレスします。【ポイント】大胸筋とともに大臀筋と体幹の回旋抵抗力を鍛えます。

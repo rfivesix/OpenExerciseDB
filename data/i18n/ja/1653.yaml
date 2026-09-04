@@ -1,9 +1,20 @@
 exercise_id: '1653'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・サイドスクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2772'
+description: |-
+  開始姿勢:
+  ダンベルを胸の前で保持するか片手に持ち、足を肩幅より広く開いて立ちます。
+
+  動作手順:
+  1. 片脚を真っ直ぐ伸ばしたまま、もう一方の脚の膝と股関節を曲げて横方向へ深く腰を落とします。
+  2. 沈み込んだ側の太ももが床と平行近くになるまで下ろします。
+  3. 曲げた足の踵で床を強く押して元のワイドスタンスに戻ります。
+
+  ポイント:
+  大腿四頭筋、大臀筋を強化しながら、反対脚の内転筋群を大きくストレッチします。

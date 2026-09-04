@@ -1,9 +1,11 @@
 exercise_id: '1691'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ケーブルフライ (下部胸筋)
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2810'
+description: |-
+  【開始姿勢】高い位置に設定したケーブルを握り、身体を前傾させて立ちます。【動作手順】上から斜め下前方に向けて腕を引き下ろし、下胸部を強く収縮させます。【ポイント】大胸筋中部・下部 (胸肋部)を意識し、肘の角度を一定に保ちます。

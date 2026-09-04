@@ -1,9 +1,11 @@
 exercise_id: '1607'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: タイプライター・プルアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: tenebrizz
   source_id: '2581'
+description: |-
+  開始姿勢: 肩幅より広めのオーバーハンドグリップでバーを握り、ぶら下がります。動作手順: 顎がバーを超えるまで身体を引き上げたら、その高さを維持したまま片腕を伸ばして身体を一方の手へと横移動させます。続いて逆側へとスムーズにスライドさせ、タイプライターのように左右に行き来してから下ろします。ポイント: 筋肉の緊張時間を最大化し、驚異的な引込力と片側負荷耐性を鍛えます。

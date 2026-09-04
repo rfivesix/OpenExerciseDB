@@ -1,9 +1,13 @@
 exercise_id: '1687'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ベアクロール・プルスルー
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2806'
+description: |-
+  開始姿勢：四つ這いから膝を床から数センチ浮かせ、腰の横にダンベルを置いて構えます。
+  動作手順：体幹を水平に保ちながら反対側の手でダンベルを掴み、体側の下を通して引き寄せて移動させます。
+  ポイント：腹直筋と腹斜筋を強く引き締め、お尻が左右にブレないように耐えながら行います。

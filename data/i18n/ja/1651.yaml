@@ -1,9 +1,20 @@
 exercise_id: '1651'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・リバースランジ
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2768'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、体側に垂らして直立します。足を腰幅に開きます。
+
+  動作手順:
+  1. 片足を大きく一歩後ろへ引き、前後の膝が直角になるまで重心を垂直に沈めます。
+  2. 前足の膝がつま先の真上に来るように保ち、後ろ膝は床スレスレまで下げます。
+  3. 前足の踵で地面を強く蹴り出して立ち上がり、元の直立姿勢に戻ります。
+
+  ポイント:
+  前足の膝関節へのストレスを軽減しながら、大臀筋と大腿四頭筋を安全に鍛えられます。

@@ -1,9 +1,13 @@
 exercise_id: '1683'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ゾットマンカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2803'
+description: |-
+  開始姿勢：直立して両手にダンベルを持ち、手のひらを正面に向けて構えます。
+  動作手順：逆手でダンベルを巻き上げた後、トップで手のひらを下に向けて順手に回し、ゆっくり下ろします。
+  ポイント：巻き上げ時は上腕二頭筋、下ろす時は前腕部と腕橈骨筋を強力に鍛えられます。

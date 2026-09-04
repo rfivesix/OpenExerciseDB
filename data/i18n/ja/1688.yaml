@@ -1,9 +1,20 @@
 exercise_id: '1688'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: キックスタンド・ルーマニアンデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle
   source_id: '2807'
+description: |-
+  開始姿勢:
+  ダンベルまたはバーベルを持ち、前足に体重の約8〜9割を乗せます。後ろ足は一歩引き、つま先だけを軽く床につけてバランスの支え（キックスタンド）にします。
+
+  動作手順:
+  1. 背筋を真っ直ぐ伸ばしたまま、股関節を後方に引いて上体を前に倒します。
+  2. 前足のハムストリングスとお尻に強いストレッチを感じる深さまで下ろします。
+  3. 前足の踵で床を強く踏み込んで股関節を伸展させ、直立位置に戻ります。
+
+  ポイント:
+  後ろ足でバランスを補助するため、単脚デッドリフトよりも高重量を前脚のハムストリングスに安全にかけられます。

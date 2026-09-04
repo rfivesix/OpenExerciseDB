@@ -1,9 +1,11 @@
 exercise_id: '1621'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ワンハンド・ケーブルロー
+name: シーテッド・ワンハンド・ケーブルロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2604'
+description: |-
+  開始姿勢: ケーブルローイングマシンの前に座り、片手でDハンドルを握ります。背筋を真っ直ぐ伸ばして構えます。動作手順: 肘を後ろに引きながらハンドルを脇腹に向かって引き寄せます。トップで広背筋の強い収縮を意識し、コントロールしながら腕を伸ばしてストレッチポジションまで戻します。ポイント: 片側ずつ行うことで左右の筋力差を解消し、広背筋への集中度を高めます。

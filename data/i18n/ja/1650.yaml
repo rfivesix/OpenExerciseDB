@@ -1,9 +1,13 @@
 exercise_id: '1650'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・サイドベント
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2766'
+description: |-
+  開始姿勢：直立して片手にダンベルを持ち、反対側の手を頭の後ろまたは腰に添えます。
+  動作手順：背筋を伸ばしたまま上体を真横に倒し、反対側の腹斜筋を収縮させて元の位置まで引き上げます。
+  ポイント：前後に体が倒れないよう真横に曲げ、骨盤を平行に保ちながらコントロールします。

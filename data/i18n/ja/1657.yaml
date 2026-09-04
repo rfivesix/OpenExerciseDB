@@ -1,9 +1,13 @@
 exercise_id: '1657'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ニュートラルグリップ・ダンベルプレス
+name: 内旋プリーチャーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2778'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、ダンベルを持った腕をやや内側に回旋させて構えます。
+  動作手順：肘をパッドに固定したままダンベルを巻き上げ、上腕二頭筋と上腕筋を刺激します。
+  ポイント：内旋の角度を一定に維持し、手首をまっすぐに保ってコントロールして動作します。

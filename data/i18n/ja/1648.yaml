@@ -1,9 +1,13 @@
 exercise_id: '1648'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: プレート・クランチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2759'
+description: |-
+  開始姿勢：マットに仰向けになり、膝を曲げて胸の上でウェイトプレートを両手で保持します。
+  動作手順：息を吐きながら背中を丸めて上体を起こし、腹直筋を強く収縮させてゆっくり下ろします。
+  ポイント：プレートの重みで腹筋にしっかり負荷を乗せ、首に余計な力が入らないよう注意します。

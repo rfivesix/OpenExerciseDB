@@ -1,9 +1,13 @@
 exercise_id: '1662'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 内旋ケーブル・トライセプスエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2783'
+description: |-
+  開始姿勢：ケーブルの前に立ち、腕をわずかに内旋させた角度でハンドルを握ります。
+  動作手順：肘を固定したまま下向きに腕を伸ばし、上腕三頭筋の外側頭を意識して押し込みます。
+  ポイント：内旋のポジションを保つことで独特の刺激が得られるため、無理のない重量で行います。

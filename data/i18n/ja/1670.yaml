@@ -1,9 +1,20 @@
 exercise_id: '1670'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: レッグスイング (前後)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Jhonatan
   source_id: '2793'
+description: |-
+  開始姿勢:
+  壁や支柱の横に立ち、片手を添えて直立します。
+
+  動作手順:
+  1. 片脚を浮かせ、前後に振り子のように滑らかにスイングさせます。
+  2. 前方へ振る際は太もも裏（ハムストリングス）、後方へ振る際は太もも前（腸腰筋・大腿四頭筋）の伸張を意識します。
+  3. リズミカルに繰り返し、反対側の脚も同様に行います。
+
+  ポイント:
+  骨盤を過度に動かさず、股関節の前後可動域をスムーズに広げる動的ストレッチです。

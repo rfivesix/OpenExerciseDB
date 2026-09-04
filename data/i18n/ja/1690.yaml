@@ -1,9 +1,11 @@
 exercise_id: '1690'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アッパーチェスト・ケーブルフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2809'
+description: |-
+  【開始姿勢】低い位置にセットしたケーブルを握り、少し上体を前傾させて立ちます。【動作手順】下から斜め上前方に向けて両腕を引き上げ、大胸筋上部を収縮させます。【ポイント】大胸筋上部 (鎖骨部)に負荷を集中させ、トップでしっかりと絞り込みます。

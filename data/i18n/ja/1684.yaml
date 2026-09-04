@@ -1,9 +1,20 @@
 exercise_id: '1684'
 language: ja
-status: ai_raw
-translated_from: en
-name: インクライン・ダンベルオーバーハンドプレス
+status: ai_reviewed
+translated_from: de
+name: ダンベル・スラスター
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2804'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、肩の高さで構えます。足は肩幅に開いて立ちます。
+
+  動作手順:
+  1. 胸を張ったまま深くスクワットを行い、太ももが床と平行になる深さまで腰を落とします。
+  2. 足裏で床を強く押して立ち上がる勢いを利用し、一気にダンベルを頭上へオーバーヘッドプレスします。
+  3. 頭上で腕を伸ばし切ったら、ダンベルを肩に戻しながら流れるように次のスクワットに入ります。
+
+  ポイント:
+  下半身の爆発力と上半身の推進力を連動させ、心肺機能と筋パワーを同時に鍛えます。

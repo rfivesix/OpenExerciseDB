@@ -1,9 +1,11 @@
 exercise_id: '1635'
 language: ja
-status: ai_raw
-translated_from: en
-name: モディファイド・ラットプルダウン
+status: ai_reviewed
+translated_from: de
+name: モディファイド・ラットプルダウン (インクラインベンチ支持)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2741'
+description: |-
+  開始姿勢: ラットプルダウンマシンの前にインクラインベンチを設置し、胸を預けて座るか寄りかかります。狭めのグリップでバーを握ります。動作手順: 肘を体側に引き下げてバーを胸の上部まで引き下ろします。広背筋の収縮を感じたら、コントロールしながらゆっくり腕を戻します。ポイント: ベンチで胴体を固定することでチーティングを防ぎ、広背筋を純粋に疲労させます。

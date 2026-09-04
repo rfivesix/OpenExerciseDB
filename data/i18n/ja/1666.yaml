@@ -1,9 +1,13 @@
 exercise_id: '1666'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ショルダーエレベーテッド・ダンベルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2785'
+description: |-
+  開始姿勢：肘を肩の高さまで持ち上げて前方に構え、ダンベルを保持します。
+  動作手順：肘の高さを維持したままダンベルを巻き上げ、上腕二頭筋のピーク収縮を作ります。
+  ポイント：肘が下がらないように三角筋で支えつつ、二頭筋に負荷を集中させます。

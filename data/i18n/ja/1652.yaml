@@ -1,9 +1,20 @@
 exercise_id: '1652'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・ルーマニアンデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2770'
+description: |-
+  開始姿勢:
+  両手にダンベルを持ち、太ももの前に構えて立ちます。足は腰幅に開き、背筋を伸ばします。
+
+  動作手順:
+  1. 膝をわずかに曲げた角度で固定し、お尻を後ろへ突き出しながら上体を前に倒します。
+  2. ダンベルを脚に沿わせながらすねの高さまで下ろし、太もも裏のストレッチを感じます。
+  3. 大臀筋とハムストリングスを力強く収縮させ、腰を前へ押し出して直立位置に戻ります。
+
+  ポイント:
+  背中が丸まらないように肩甲骨を軽く寄せ、股関節のヒンジ動作を徹底します。

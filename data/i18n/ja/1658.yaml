@@ -1,9 +1,13 @@
 exercise_id: '1658'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 外旋プリーチャーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2779'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、ダンベルを持った腕を外側に開くように回旋させて構えます。
+  動作手順：肘をパッドに固定したままダンベルを持ち上げ、上腕二頭筋短頭を集中的に収縮させます。
+  ポイント：肩を固定してパッドから離さず、二頭筋内側の緊張を意識しながら巻き上げます。
