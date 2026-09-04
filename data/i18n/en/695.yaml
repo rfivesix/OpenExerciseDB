@@ -5,9 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '695'
 language: en
-status: upstream_unreviewed
-name: V-Bar Pulldown
-description: Pulldowns using close grip v-bar.
+status: ai_reviewed
+name: V-Bar Lat Pulldown
+description: '- Attach a close-grip V-bar handle to the lat pulldown station and adjust
+  the thigh pad to secure your legs.
+
+  - Grip the handles with palms facing each other (neutral grip) and sit upright with
+  chest lifted.
+
+  - Pull the handle smoothly down toward your upper chest, driving your elbows down
+  and close to your ribs.
+
+  - Squeeze your lats firmly at the bottom, then slowly return the handle to full
+  extension under complete control.'
+search_terms:
+- V-Bar Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: apeschel

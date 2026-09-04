@@ -1,10 +1,35 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1294'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einbeiniges Beinbeugen
-description: 'Im Einzelnen sind folgende Muskeln beteiligt: Bizeps femoris, Semimembranosus und Semitendinosus.'
+description: 'Ausgangsposition:
+
+  Lege dich rücklings auf eine Matte. Ein Bein ist angewinkelt und steht mit der Ferse auf dem Boden (oder auf einem Gleiter/Handtuch),
+  das andere Bein ist leicht angehoben.
+
+
+  Ausführung:
+
+  1. Hebe das Becken an, sodass Oberschenkel und Oberkörper eine gerade Linie bilden.
+
+  2. Ziehe die Ferse über die Beugung des Knies kraftvoll heran, um die ischiocrurale Muskulatur (Beinbeuger) maximal anzuspannen.
+
+  3. Führe das Bein bzw. die Ferse kontrolliert wieder nach vorne in die Ausgangsposition zurück.
+
+
+  Hinweise:
+
+  Isolierte Eigengewichtsübung zur unilateralen Kräftigung der hinteren Oberschenkelmuskulatur (Bizeps femoris, Semimembranosus,
+  Semitendinosus).'
+search_terms:
+- Single-leg hamstring curl
+- Einbeiniger Beinbeuger am Boden
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

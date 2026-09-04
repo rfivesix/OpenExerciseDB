@@ -3,13 +3,20 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '661'
 language: en
 status: ai_reviewed
 name: Machine Triceps Extension
-description: |-
-  Sit down and hold the bar firmly with your hands. Now press the weight upwards (don't fully extend your arms) and lower it slowly again. As with other triceps exercises, it's important not to move your upper arms.
+description: '- Sit at the triceps machine and adjust the seat height so that your
+  elbows align with the machine''s pivot point.
+
+  - Grip the handles firmly and rest your upper arms securely on the support pad.
+
+  - Press the handles downward by extending your elbows, fully contracting your triceps
+  without aggressively locking your joints.
+
+  - Slowly return the weight to the starting position under control, keeping your
+  upper arms stationary against the pad.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1228'
 language: de
-status: upstream_unreviewed
-name: Kurzhantel-Bankdrücken im engen Griff
+status: ai_reviewed
+name: Kurzhantel-Bankdrücken mit engem Griff
 description: |-
-  Lege dich mit dem Rücken auf eine flache Bank. Halte in jeder Hand eine Kurzhantel. Strecke die Arme Richtung Decke, die Handflächen zeigen zueinander und die Kurzhanteln werden zusammengedrückt.
-  Senke die Kurzhanteln langsam zu deiner Brust und drücke sie dann langsam wieder nach oben. Wiederhole die Übung.
+  Ausgangsposition:
+  • Lege dich rücklings auf eine Flachbank und halte in jeder Hand eine Kurzhantel über deiner Brust.
+  • Die Handflächen zeigen zueinander (neutraler Griff), und die Kurzhanteln werden während der gesamten Übung fest aneinandergedrückt.
+
+  Ausführung:
+  • Senke die aneinandergepressten Hanteln kontrolliert zur Mitte deiner Brust ab, während die Ellbogen eng am Körper nach unten geführt werden.
+  • Drücke die Hanteln kraftvoll nach oben aus, indem du den Trizeps und die innere Brustmuskulatur anspannst.
+  • Halte die Hanteln oben für eine Sekunde unter voller Körperspannung und wiederhole die Übung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3769'
+search_terms:
+  - Kurzhantel-Bankdrücken im engen Griff
+  - Dumbbell close grip bench press
+  - Crush Grip Bench Press

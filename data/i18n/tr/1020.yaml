@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: tr
-status: upstream_unreviewed
-name: Tabanca durumunda çömelme (sağ)
+status: ai_reviewed
+name: Pistol squat (sağ bacak)
 description: |-
-  Diğer bacağınız düz ve hafifçe öne gelecek şekilde tek ayak üzerinde durun.
-  Bir dizinizi yavaşça bükün, sırtınızı ve diğer bacağınızı düz tutarak çömelme durumuna inin.
-  Eğik dizinizi düzelterek ve diğer bacağınızı düz tutarak çömelme durumundan yavaşça kendinizi kaldırın.
-  Tekrarlayın
+  Başlangıç pozisyonu:
+  Sağ bacağınız üzerinde durun, sol bacağınızı öne doğru düz bir şekilde havada tutun. Dengenizi sağlamak için kollarınızı öne uzatın.
+
+  Uygulama:
+  1. Sağ dizinizi yavaşça bükerek tek bacak üzerinde derin çömelme (squat) pozisyonuna inin.
+  2. Sırtınızı düz tutun ve sol bacağınızın yere değmesine izin vermeyin.
+  3. Hareket açıklığınızın elverdiği en derin noktaya kontrollü şekilde inin.
+  4. Sağ topuğunuzdan güç alarak kendinizi tekrar başlangıçtaki dik duruşa kaldırın.
+search_terms:
+  - Tabanca durumunda çömelme (sağ)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1945'

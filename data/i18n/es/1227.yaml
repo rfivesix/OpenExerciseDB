@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1227'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo para deltoides posterior con mancuernas
 description: |-
-  Sujeta una mancuerna en cada mano. Flexiónate por la cadera hasta que la espalda quede casi paralela al suelo. Deja que los brazos cuelguen hacia abajo. Mantén los brazos en línea con los hombros. Flexiona y eleva los codos hacia los lados hasta que los brazos queden paralelos al suelo. Vuelve lentamente y repite.
+  Posición inicial:
+  • Sujeta una mancuerna en cada mano e inclina el torso hacia delante desde la cadera con la espalda recta hasta quedar casi paralelo al suelo.
+  • Deja que los brazos cuelguen verticalmente con las palmas mirando hacia atrás (agarre prono).
+
+  Ejecución:
+  • Rema elevando los codos bien abiertos hacia los lados en un ángulo de unos 90 grados respecto al torso.
+  • Sube hasta que los brazos queden paralelos al suelo contrayendo con fuerza el deltoides posterior.
+  • Desciende lentamente de forma controlada sin perder la posición neutral de la columna.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3768'
+search_terms:
+  - Dumbbell rear delt row

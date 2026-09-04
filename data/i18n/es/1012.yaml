@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1012'
 language: es
-status: upstream_unreviewed
-name: Curl de biceps alterno
+status: ai_reviewed
+name: Curl de bíceps alterno con mancuernas
 description: |-
-  Posición inicial: Comience de pie con pesas en cada mano, la espalda recta y los pies separados al ancho de las caderas. Tus brazos deben estar relajados, apuntando hacia abajo. Tus rodillas deben estar ligeramente flexionadas, tus abdominales contraídos y tus hombros hacia abajo.&nbsp;Pasos:
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de las caderas y la espalda recta. Sostén una mancuerna en cada mano con los brazos extendidos a los lados y las palmas mirando hacia adentro.
 
-  Dobla un brazo por el codo, llevando la mancuerna hasta tu hombro. La parte superior del brazo debe permanecer inmóvil durante este movimiento. 2. Lleva la mancuerna hacia abajo hasta que tu brazo esté en su posición original relajada.
-  Repita, cambiando de brazo.
+  Ejecución:
+  1. Flexiona un codo levantando la mancuerna mientras rotas el antebrazo hacia afuera (supinación), de modo que la palma apunte hacia tu hombro en la parte superior.
+  2. Contrae el bíceps en el punto más alto, manteniendo la parte superior del brazo inmóvil y pegada al torso.
+  3. Baja la mancuerna de manera lenta y controlada hasta la posición inicial.
+  4. Repite el movimiento con el otro brazo, alternando de forma fluida.
+search_terms:
+  - Curl de biceps alterno
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2117'

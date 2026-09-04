@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1087'
 language: fr
-status: upstream_unreviewed
-name: Épaulés-jetés en puissance avec haltères depuis la suspension
+status: ai_reviewed
+name: Hang Power Clean avec haltères
 description: |-
-  Debout, tenez-vous bien droit avec vos haltères, en les maintenant le long du corps. Effectuez une charnière au niveau des hanches pour les abaisser jusqu'aux genoux (image 1). Redressez-vous avec un léger saut, en utilisant l'élan pour tirer les haltères jusqu'à vos épaules (image 2). Tenez-vous bien droit, puis redescendez les haltères le long du corps de façon contrôlée et répétez. Gardez le mouvement rapide et explosif ; si votre fréquence cardiaque ne grimpe pas en flèche, c'est que vous les exécutez mal.
+  Position de départ :
+  Debout, pieds écartés de la largeur des hanches, tenez un haltère dans chaque main le long du corps. Basculez légèrement les hanches vers l'arrière en fléchissant les genoux pour amener les haltères juste au-dessus des genoux (position suspendue 'hang').
+
+  Étapes :
+  1. Déployez de façon explosive les hanches et les genoux tout en effectuant un puissant haussement d'épaules.
+  2. Tirez les haltères verticalement le long du corps et projetez rapidement les coudes vers l'avant.
+  3. Réceptionnez les haltères sur les épaules en quart de squat pour amortir la charge.
+  4. Redressez-vous complètement en tendant les jambes, puis redescendez les haltères de manière contrôlée vers la position suspendue.
+search_terms:
+  - Épaulés-jetés en puissance avec haltères depuis la suspension
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

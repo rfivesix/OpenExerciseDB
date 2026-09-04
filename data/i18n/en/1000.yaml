@@ -1,24 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1000'
 language: en
-status: upstream_unreviewed
-name: Floor dips
-description: |-
-  Starting position:
-  Sit with your arms behind you, supporting your back.Your fingers should point forward.Your knees should be bent, feet together.
-  Steps:
+status: ai_reviewed
+name: Floor Dips
+description: 'Starting Position: Sit on the floor with knees bent and feet flat on
+  the ground. Place your hands on the floor just behind your hips with fingers pointing
+  forward toward your feet. Lift your hips a few inches off the floor.
 
-  Raise your hips off the ground, straightening your arms.
-  Bend your elbows, bringing your hips down.
-  Straighten your arms, returning to the previous position.
-  Repeat steps 2 and 3.
+  Execution: Bend your elbows to lower your hips toward the floor, keeping your elbows
+  tracking backward and close to your body.
 
-  Notes:
-  The exercise's difficulty depends on how high you bring your hips.
+  Return: Press through the palms of your hands to extend your arms and raise your
+  hips back up, contracting your triceps at the top.
+
+  Cues: Keep the movement centered at your elbow joint rather than merely rocking
+  your hips up and down.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1767'
+search_terms:
+- Floor dips

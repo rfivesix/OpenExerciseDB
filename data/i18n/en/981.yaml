@@ -1,22 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '981'
 language: en
-status: upstream_unreviewed
-name: Step-ups
-description: |-
-  Starting position:
-  Stand facing a chair.
-  Steps:
+status: ai_reviewed
+name: Step-Up
+description: 'Starting Position: Stand upright facing a sturdy bench, box, or step
+  with feet hip-width apart.
 
-  Step up onto the chair.
-  Step off the chair.
-  Repeat.
+  Execution: Place your entire right foot firmly onto the step. Drive through your
+  right heel to lift your body onto the platform until your right leg is fully extended.
+  Tap your left foot on the surface or bring your left knee up.
+
+  Return: Step back down under control with the left foot, followed by the right foot,
+  returning to the starting position.
+
+  Cues: Keep your torso upright and do not push off excessively with the trailing
+  leg.'
 search_terms:
-  - Chair steps
+- Chair steps
+- Step-ups
+- Step-up
+- Step Ups
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1499'

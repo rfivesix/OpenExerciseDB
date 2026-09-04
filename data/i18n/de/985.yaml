@@ -1,23 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '985'
 language: de
-status: upstream_unreviewed
-name: Liegestütz-Drehungen
-description: |-
-  Ausgangsposition:
-  Begeben Sie sich in die Ausgangsposition für Liegestütze, wobei Hände und Zehen den Boden berühren und Arme und Beine gerade sind. Um diese Position zu erreichen, können Sie sich auf den Bauch legen, die Hände nach unten neben den Kopf legen und die Arme nach oben heben, bis sie gerade sind.
-  Die Schritte:
+status: ai_reviewed
+name: Liegestütz mit Rotation (T-Push-up)
+description: 'Ausgangsposition: Nimm die Liegestützposition ein: Hände etwas weiter
+  als schulterbreit auf dem Boden, der Körper bildet eine feste gerade Linie von den
+  Fersen bis zum Kopf.
 
-  Führen Sie einen normalen Liegestütz durch:
+  Ausführung: Führe einen Liegestütz aus, indem du die Brust zum Boden absenkst. Drücke
+  dich wieder nach oben und rotiere den Oberkörper zur Seite auf, während du einen
+  Arm senkrecht zur Decke streckst (T-Position).
 
-  1.a Beugen Sie die Arme, bis die Brust fast den Boden berührt, und achten Sie darauf, dass der Rücken gerade ist.1.b Heben Sie sich mit den Armen wieder in die Ausgangsposition.
+  Rückkehr: Führe die Hand kontrolliert zum Boden zurück und wiederhole die Bewegung
+  mit Rotation zur anderen Seite.
 
-  Drehen Sie Ihren Körper zur Seite, so dass der Rücken gerade ist, die untere Hand, die den Körper stützt, vollständig gestreckt ist und nur die untere Hand und der Fuß den Boden berühren.
-  Wiederholen Sie den Vorgang, wobei Sie bei Schritt 2 jedes Mal die Seite wechseln.
+  Hinweis: Halte das Becken stabil und lasse die Hüfte während der Drehung nicht durchhängen.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1558'
+search_terms:
+- Liegestütz-Drehungen
+- T-Push-up

@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1193'
 language: fr
-status: upstream_unreviewed
-name: Russian twist
+status: ai_reviewed
+name: Russian twist avec haltère
 description: |-
-  Tenez un haltère, un disque de barre ou tout autre objet lourd à deux mains, mais veillez à ce qu'il ne soit pas trop lourd et à pouvoir garder une bonne posture.
-  Penchez-vous en arrière jusqu'à former un angle de 45 degrés par rapport au sol. Pour un défi supplémentaire, décollez vos pieds du sol.
-  Faites pivoter vos bras d'un côté jusqu'à la hauteur de votre poitrine, touchez le sol pour un défi supplémentaire, puis faites de même de l'autre côté. Lorsque vous êtes revenu à votre position de départ après avoir effectué les deux côtés, cela compte pour 1 répétition.
+  Position de départ :
+  • Asseyez-vous sur un tapis, genoux pliés et talons posés au sol (ou pieds décollés pour plus d'intensité).
+  • Tenez un haltère à deux mains devant votre poitrine.
+  • Inclinez le buste vers l'arrière à environ 45 degrés en gardant le dos droit et la sangle abdominale engagée.
+
+  Exécution :
+  • Faites pivoter votre torse vers la droite en amenant l'haltère près du sol à côté de votre hanche.
+  • Marquez un arrêt puis tournez le buste vers la gauche de manière fluide et contrôlée.
+  • Concentrez la rotation au niveau des obliques en maintenant les genoux et les hanches les plus stables possible.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4504'
+search_terms:
+  - Russian twist

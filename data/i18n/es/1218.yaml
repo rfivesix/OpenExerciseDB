@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1218'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexiones de rodillas
 description: |-
-  Empieza arrodillándote en el suelo, manteniendo las rodillas juntas. Coloca las manos en el suelo frente a ti, un poco más separadas que el ancho de los hombros.
-  Asegúrate de que tu cuerpo forme una línea recta desde la cabeza hasta las rodillas. Las manos deben quedar debajo de los hombros.
-  Baja el tronco hacia el suelo flexionando los codos mientras mantienes el tronco estable. Mantén las rodillas en contacto con el suelo.
-  Empuja con las manos para volver a la posición inicial. Asegúrate de mantener la contracción de los músculos del pecho, los hombros y los brazos en la parte alta del movimiento.
-  Realiza el número de repeticiones deseado, controlando el movimiento y manteniendo una buena técnica.
+  Posición inicial:
+  • Arrodíllate en el suelo y apoya las manos delante de ti, ligeramente más anchas que los hombros.
+  • Forma una línea recta continua desde las rodillas hasta la cabeza con el abdomen activo.
+  • Mantén las rodillas apoyadas de manera constante en el suelo.
+
+  Ejecución:
+  • Flexiona los codos descendiendo el pecho hacia el suelo de forma suave y controlada.
+  • Mantén los codos en un ángulo de unos 45 grados respecto al cuerpo.
+  • Empuja a través de las palmas de las manos para regresar a la posición inicial contrayendo el pecho.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3749'
+search_terms:
+  - Knee push-up
+  - Flexiones sobre rodillas

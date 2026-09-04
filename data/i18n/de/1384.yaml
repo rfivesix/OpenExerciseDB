@@ -1,10 +1,18 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1384'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Überzugmaschine
-description: Überzugmaschine, sitzend, Ellbogen auf den Polstern.
+description: |-
+  Ausgangsposition:
+  Setze dich auf die Überzugmaschine und stelle die Sitzhöhe so ein, dass deine Schultergelenke auf Höhe der Drehachse des Hebelarms liegen. Lege die Ellbogen auf den Polstern ab und umgreife die Haltegriffe locker. Schnalle dich gegebenenfalls mit dem Haltegurt an.
+
+  Ausführung:
+  Führe die Ellbogen in einem weiten Bogen kontrolliert nach unten und hinten, bis die Arme etwa auf Höhe des Rumpfes sind. Konzentriere dich auf die Kontraktion des breiten Rückenmuskels (Latissimus). Führe die Hebelarme anschließend langsam und kontrolliert wieder nach oben, um eine intensive Dehnung im Latissimus zu spüren.
+
+  Hinweise:
+  Drücke die Bewegung primär über die Ellbogen und ziehe nicht verkrampft mit den Händen. Halte den Rücken stabil am Polster angelehnt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Paul@Chemistry

@@ -1,11 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1090'
 language: de
-status: ai_raw
-translated_from: en
-name: V-Liegestütz
-description: Hebe deinen Körper vom Boden ab, indem du deine Arme nach oben drückst.
+status: ai_reviewed
+name: V-Liegestütz (Pike Push-Up)
+description: |-
+  Ausgangsposition:
+  Stütze die Hände und Füße schulterbreit auf den Boden. Wandere mit den Füßen etwas heran und schiebe das Gesäß weit nach oben, sodass der Körper ein umgekehrtes 'V' bildet (Pike-Position).
+
+  Ausführung:
+  1. Beuge die Ellenbogen kontrolliert und senke den Kopf diagonal nach vorne unten zwischen deine Hände ab.
+  2. Gehe so tief, bis deine Scheitelhöhe fast den Boden berührt.
+  3. Drücke dich kraftvoll über Schultern und Trizeps wieder nach oben und hinten in das umgekehrte 'V'.
+  4. Halte den Rumpf stabil und den Kopf in neutraler Verlängerung der Wirbelsäule.
+search_terms:
+  - V-Liegestütz
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2042'
+translated_from: en

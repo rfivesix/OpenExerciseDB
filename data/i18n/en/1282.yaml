@@ -1,11 +1,28 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1282'
 language: en
 status: ai_reviewed
 name: Isometric Reverse-Grip Chin-Up Hold
-description: Isometric chin-up hold performed with a reverse (underhand) grip.
+description: 'Starting position:
+
+  Grasp the pull-up bar with a shoulder-width underhand (supinated) grip and pull your body up until your chin is over the
+  bar.
+
+
+  Execution:
+
+  1. Hold this top position statically with elbows fully flexed and tight to your sides.
+
+  2. Keep your lats, biceps, and core tightly engaged throughout the hold.
+
+  3. Lower yourself down slowly and under control once the target time is reached.'
+search_terms:
+- Isometria trazioni impugnatura inversa
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2249'
-search_terms:
-- Isometria trazioni impugnatura inversa

@@ -2,9 +2,17 @@ exercise_id: '975'
 language: en
 status: ai_reviewed
 name: One-Handed Kettlebell Curl
-description: Standing with the kettlebell in one hand and bent at the elbow, start
-  from a fully extended position until your hand reaches shoulder height. To perform
-  the movement correctly, try not to push with your back or body.
+description: 'Starting Position: Stand upright with feet hip- to shoulder-width apart.
+  Hold the kettlebell by the handle in one hand with your arm extended at your side.
+
+  Execution: Curl the kettlebell upward toward shoulder height by flexing your elbow,
+  maintaining a stable wrist and neutral spine.
+
+  Return: Lower the weight under control back to full extension. Complete all reps
+  before switching sides.
+
+  Cues: Keep your elbow pinned close to your ribcage and resist leaning or twisting
+  your torso.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1092'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Entraînement au sac de frappe
 description: |-
-  L'entraînement au sac de frappe améliore la définition musculaire des deltoïdes, des deltoïdes postérieurs, des triceps et des biceps, tout en constituant un excellent exercice cardio.
+  Position de départ :
+  Placez-vous en garde de boxe à environ une longueur de bras du sac de frappe. Genoux souples, poids sur l'avant des pieds et poings hauts protégeant le menton.
+
+  Étapes :
+  1. Décochez des coups précis et percutants (jabs, directs, crochets) en visant le centre du sac.
+  2. Pivotez sur les appuis et engagez le bassin à chaque frappe pour générer un maximum de puissance.
+  3. Ramenez immédiatement les mains en garde après l'impact et déplacez-vous autour du sac.
+  4. Travaillez par rounds rythmés pour développer la puissance des épaules et l'endurance cardiovasculaire.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

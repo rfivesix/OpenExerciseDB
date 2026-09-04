@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1252'
 language: en
-status: upstream_unreviewed
-name: Front lever pull-up
-description: |-
-  in the front lever position, with legs extended or easier if collected, pull by bringing the chest closer to the bar.
+status: ai_reviewed
+name: Front Lever Pull-up
+description: 'Starting position:
+
+  Assume a horizontal front lever position (full or tuck variation) hanging below the pull-up bar with straight arms.
+
+
+  Execution:
+
+  1. Pull your chest up toward the bar by driving your elbows down and back.
+
+  2. Maintain strong core and lat engagement to keep your body strictly horizontal throughout the pull.
+
+  3. Lower yourself back down under control to the starting front lever position.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

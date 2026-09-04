@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1113'
 language: fr
-status: upstream_unreviewed
-name: Pompes | Parallettes
+status: ai_reviewed
+name: Pompes sur parallettes
 description: |-
-  Les pompes sur parallettes sont une variante de la pompe traditionnelle, exécutée avec les mains posées sur des barres parallèles appelées parallettes. Pour réaliser une pompe sur parallettes, placez-vous en position de pompe avec les mains sur les parallettes et les pieds au sol. Abaissez votre corps vers le sol en gardant les coudes près du corps, puis poussez pour revenir à la position de départ.
-  Les pompes sur parallettes mettent davantage l'accent sur la poitrine et les épaules que les pompes traditionnelles, car elles permettent une plus grande amplitude de mouvement au niveau de l'articulation de l'épaule. Cette amplitude accrue peut également contribuer à améliorer la stabilité et la mobilité de l'épaule. De plus, les pompes sur parallettes sollicitent davantage les muscles de la sangle abdominale que les pompes traditionnelles, car l'instabilité des parallettes exige une plus grande activation des abdominaux pour maintenir une exécution correcte.
-  Le défi supplémentaire que représente le maintien de l'équilibre sur les parallettes exige également plus de force et de contrôle dans le haut du corps, ce qui fait des pompes sur parallettes une variante plus avancée de la pompe traditionnelle. Elles peuvent être un excellent moyen de vous mettre au défi et d'ajouter de la variété à votre routine d'entraînement du haut du corps. Comme toujours, veillez à adopter une exécution correcte et à commencer à un niveau adapté à votre force et à votre condition physique.
+  Position de départ :
+  Disposez deux barres parallettes parallèles au sol à la largeur des épaules. Saisissez fermement les barres en prise neutre (paumes face à face) et tendez les jambes en arrière en position de planche.
+
+  Étapes :
+  1. Fléchissez les coudes et descendez profondément la poitrine entre les barres de manière contrôlée.
+  2. Profitez du déficit pour obtenir un étirement optimal des pectoraux en bas du mouvement.
+  3. Repoussez avec puissance pour revenir en position initiale bras tendus.
+  4. La prise neutre soulage les poignets tout en accentuant le travail musculaire.
+search_terms:
+  - Pompes | Parallettes
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

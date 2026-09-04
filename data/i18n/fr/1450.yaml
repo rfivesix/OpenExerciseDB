@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1450'
 language: fr
-status: upstream_unreviewed
-name: Étirement du cobra
+status: ai_reviewed
+name: Étirement du cobra (Cobra Stretch)
 description: |-
-  L'étirement du cobra est un exercice d'extension du dos qui aide à améliorer la souplesse de la colonne vertébrale et à soulager les tensions dans le bas du dos. Pour le réaliser, allongez-vous à plat ventre sur le sol, mains placées sous les épaules. Appuyez les paumes contre le sol et soulevez la poitrine tout en gardant les hanches au sol. Gardez les coudes légèrement fléchis et les épaules détendues. Maintenez l'étirement pendant quelques secondes, puis redescendez lentement. Cet exercice est bénéfique pour améliorer la posture et réduire la raideur du bas du dos.
-search_terms:
-  - Posture du cobra
+  Position de départ :
+  • Allongez-vous à plat ventre sur un tapis, jambes tendues vers l'arrière et dessus des pieds au sol.
+  • Placez vos mains à plat sous les épaules, coudes serrés le long du buste.
+
+  Exécution :
+  • Poussez doucement sur vos paumes pour redresser le buste et décoller la poitrine, tout en gardant le bassin et les cuisses plaqués au sol.
+  • Baissez les épaules vers l'arrière, loin des oreilles, en ouvrant la cage thoracique.
+  • Maintenez la position pendant 15 à 30 secondes en respirant profondément.
+  • Redescendez lentement la poitrine sur le tapis avec contrôle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4636'
+search_terms:
+  - Étirement du cobra

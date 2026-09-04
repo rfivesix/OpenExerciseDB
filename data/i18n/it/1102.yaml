@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1102'
 language: it
-status: upstream_unreviewed
-name: Affondi indietro alternati
+status: ai_reviewed
+name: Affondi posteriori alternati
 description: |-
-  Si allenano maggiormente i muscoli posteriori dei glutei, femorali, soleo e gastrocnemio
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle anche, busto eretto e mani sui fianchi o al petto.
+
+  Esecuzione:
+  1. Fai un passo indietro ampio e controllato con una gamba, appoggiando l'avampiede posteriore.
+  2. Fletti entrambe le ginocchia scendendo in affondo finché entrambe non formano un angolo di circa 90 gradi. Il ginocchio posteriore sfiora il suolo.
+  3. Spingi attraverso il tallone anteriore per risalire alla posizione eretta iniziale.
+  4. Ripeti immediatamente il passo indietro con l'altra gamba, alternando i lati a ritmo costante.
+search_terms:
+  - Affondi indietro alternati
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

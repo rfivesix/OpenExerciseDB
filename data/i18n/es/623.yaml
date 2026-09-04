@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '623'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Antebrazo con rodillo de muñeca de pie
-description: |-
-  Agarra un rodillo de muñeca con ambas manos mientras estás de pie con los pies separados aproximadamente al ancho de los hombros. Si tu gimnasio no tiene un rodillo de muñeca, puedes montar uno fácilmente. Solo necesitas un disco de 5 o 10 libras, una cuerda fina y resistente de aproximadamente 90 cm de largo y un palo o barra de 15 a 20 cm. Fija de forma segura la cuerda en el centro de la barra/palo y ata el otro extremo de la cuerda al disco. Para empezar este ejercicio, agarra la barra/palo con ambas manos usando un agarre prono. Extiende ambos brazos rectos por delante de ti, paralelos al suelo. A continuación, enrolla el peso desde el suelo girando rápidamente la barra/palo con las manos y las muñecas. Una vez que el peso llegue arriba, baja lentamente el disco de nuevo hasta el suelo invirtiendo el movimiento de tus manos y muñecas. Repite (¡si puedes!).
+description: Agarra un rodillo de muñeca con ambas manos mientras estás de pie con los pies separados aproximadamente al ancho
+  de los hombros. Si tu gimnasio no tiene un rodillo de muñeca, puedes montar uno fácilmente. Solo necesitas un disco de 5
+  o 10 libras, una cuerda fina y resistente de aproximadamente 90 cm de largo y un palo o barra de 15 a 20 cm. Fija de forma
+  segura la cuerda en el centro de la barra/palo y ata el otro extremo de la cuerda al disco. Para empezar este ejercicio,
+  agarra la barra/palo con ambas manos usando un agarre prono. Extiende ambos brazos rectos por delante de ti, paralelos al
+  suelo. A continuación, enrolla el peso desde el suelo girando rápidamente la barra/palo con las manos y las muñecas. Una
+  vez que el peso llegue arriba, baja lentamente el disco de nuevo hasta el suelo invirtiendo el movimiento de tus manos y
+  muñecas. Repite (¡si puedes!).
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

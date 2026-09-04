@@ -1,11 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1102'
 language: de
-status: ai_raw
-translated_from: en
-name: Rückfallschritte alternierend
-description: Die hinteren Muskeln des Gesäßes, die Beinbeuger, der Soleus und der Gastrocnemius werden stärker trainiert.
+status: ai_reviewed
+name: Ausfallschritte nach hinten im Wechsel
+description: |-
+  Ausgangsposition:
+  Stehe aufrecht mit den Füßen hüftbreit auseinander. Die Hände können an die Hüften gelegt oder vor der Brust gehalten werden. Der Oberkörper ist aufgerichtet und der Rumpf angespannt.
+
+  Ausführung:
+  1. Mache mit einem Bein einen weiten, kontrollierten Schritt nach hinten und senke das Becken senkrecht nach unten ab.
+  2. Beuge beide Knie, bis sowohl das vordere als auch das hintere Knie jeweils etwa einen 90-Grad-Winkel bilden. Das hintere Knie stoppt knapp über dem Boden.
+  3. Drücke dich kraftvoll über die Ferse des vorderen Fußes nach oben ab und führe das hintere Bein wieder in die Ausgangsposition zurück.
+  4. Wiederhole die Bewegung direkt mit dem anderen Bein nach hinten und wechsle fortlaufend die Seiten ab.
+search_terms:
+  - Rückfallschritte alternierend
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2063'
+translated_from: en

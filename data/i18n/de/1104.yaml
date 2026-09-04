@@ -1,10 +1,20 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1104'
 language: de
-status: ai_raw
-translated_from: en
-name: Gehen
-description: Gehen im Freien oder in Innenräumen; versuche, ein Tempo von mindestens 100 Schritten pro Minute einzuhalten.
+status: ai_reviewed
+name: Gehen (Walking)
+description: |-
+  Ausgangsposition:
+  Stehe aufrecht in einer entspannten, natürlichen Körperhaltung. Die Schultern sind locker nach hinten unten gerichtet, der Blick geht geradeaus.
+
+  Ausführung:
+  1. Setze die Füße gleichmäßig auf, rolle kontrolliert von der Ferse über den Mittelfuß zur Fußspitze ab und stoße dich kraftvoll nach vorne ab.
+  2. Schwinge die Arme gegengleich und locker aus den Schultern im Gehrhythmus mit.
+  3. Halte ein zügiges, aktives Tempo von idealerweise mindestens 100 Schritten pro Minute ein.
+  4. Achte auf eine gleichmäßige, tiefe Atmung und eine aufrechte Körperhaltung über die gesamte Gehstrecke.
+search_terms:
+  - Gehen
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'
+translated_from: en

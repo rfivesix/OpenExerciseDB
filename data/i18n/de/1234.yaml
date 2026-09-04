@@ -5,12 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Einbeiniger Hip Thrust mit Kurzhantel
 description: |-
-  Der einbeinige Hip Thrust wird ausgeführt, indem du deinen oberen Rücken auf eine Hantelbank legst, ein Bein anhebst und die Hüfte des anderen Beins streckst, um eine isolierte Kontraktion der Gesäßmuskulatur zu erreichen.
-  Indem du jede Seite einzeln trainierst, kannst du deine Gesäßmuskulatur unilateral vollständig isolieren und so einen maximalen Trainingsreiz setzen.
+  Ausgangsposition:
+  • Setze dich mit dem Rücken vor eine Flachbank und platziere deine Schulterblätter/den oberen Rücken an der Kante der Bank.
+  • Lege eine Kurzhantel mittig auf das Becken und sichere sie mit den Händen.
+  • Stelle einen Fuß fest auf den Boden (Standbein, Knie ca. 90 Grad gebeugt) und hebe das andere Bein leicht angewinkelt vom Boden ab.
+
+  Ausführung:
+  • Drücke dich kraftvoll über die Ferse des Standbeins nach oben, bis Oberschenkel und Oberkörper eine waagerechte Linie bilden.
+  • Spanne die Gesäßmuskulatur des Standbeins am obersten Punkt für 1 bis 2 Sekunden maximal an.
+  • Senke das Becken langsam und kontrolliert wieder ab, ohne das Gewicht ganz am Boden abzulegen.
+  • Absolviere alle Wiederholungen und wechsle das Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3783'
+search_terms:
+  - Dumbbell Single-leg Hip Thrust
+  - Einbeiniges Beckenheben mit Kurzhantel

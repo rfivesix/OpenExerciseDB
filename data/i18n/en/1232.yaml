@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1232'
 language: en
-status: upstream_unreviewed
-name: Standing biceps stretch left
+status: ai_reviewed
+name: Standing Biceps Stretch (Left)
 description: |-
-  Stand with your left arm close to a wall. Extend your left arm and put your left hand on the wall, then gently turn your body to the right.
+  Starting Position:
+  • Stand with your left side adjacent to a flat wall.
+  • Extend your left arm straight back and place your left palm flat against the wall at shoulder height, fingers pointing behind you.
+
+  Execution:
+  • Slowly rotate your torso and hips away from the wall to your right.
+  • Stop when you feel a comfortable stretch through your left biceps, anterior deltoid, and chest.
+  • Hold the stretch for 20 to 30 seconds while breathing steadily.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2197'
+search_terms:
+  - Standing biceps stretch left
+  - Wall biceps stretch left

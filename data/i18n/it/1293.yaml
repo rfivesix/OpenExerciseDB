@@ -5,9 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1293'
 language: it
-status: upstream_unreviewed
-name: Piegamenti a una mano
-description: Piegamenti sulle braccia eseguito con una sola mano
+status: ai_reviewed
+name: Piegamenti su un braccio
+description: 'Posizione di partenza:
+
+  Assumi una posizione di plank per piegamenti con i piedi ben divaricati per assicurare stabilità. Appoggia una mano a terra
+  sotto il petto e posiziona il braccio libero dietro la schiena.
+
+
+  Esecuzione:
+
+  1. Fletti il gomito d''appoggio per abbassare lentamente il petto verso il suolo, contrastando la rotazione del busto con
+  la massima contrazione del core.
+
+  2. Spingi con forza attraverso il palmo per tornare alla posizione di partenza a braccio disteso. Ripeti per il numero prefissato
+  di ripetizioni prima di cambiare lato.'
+search_terms:
+- Piegamenti a una mano
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

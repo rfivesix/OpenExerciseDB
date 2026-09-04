@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: fr
-status: upstream_unreviewed
-name: Lever du mollet gauche
-description: |-
-  Tenez-vous debout sur le sol ou sur le bord d'une marche pour augmenter l'amplitude des mouvements. Levez un pied en plaçant la partie supérieure sur votre mollet
-  Soulevez vos talons jusqu'à ce que vous soyez debout sur les orteils
-  Restez dans cette position pendant trois secondes, puis abaissez votre pied sans toucher le sol avec votre talon.
+status: ai_reviewed
+name: Élévation des mollets sur une jambe
+description: '- Placez l''avant d''un pied sur le bord d''une marche ou d''un bloc
+  surélevé, l''autre jambe fléchie sans contact avec le sol.
+
+  - Prenez appui avec une main contre un mur ou une rampe pour stabiliser votre équilibre.
+
+  - Laissez descendre le talon aussi bas que possible pour bien étirer le mollet.
+
+  - Poussez fermement sur l''avant du pied pour hisser le corps au point le plus haut
+  en extension complète.
+
+  - Marquez une pause au sommet, redescendez lentement et répétez avant de changer
+  de jambe.'
+search_terms:
+- Lever du mollet gauche
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

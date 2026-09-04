@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1410'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plank with Alternating Leg Lift
-description: In a plank position, lift one leg alternately.
+description: |-
+  Starting position:
+  Begin in a standard forearm plank with elbows directly beneath your shoulders, forearms flat on the floor, and your body forming a rigid, straight line from head to heels.
+
+  Movement:
+  Keeping your leg straight, contract your glutes and lift one foot a few inches off the floor with control. Hold briefly at the top without shifting your weight excessively, then lower your foot back to the floor. Repeat on the opposite leg, alternating sides.
+
+  Notes:
+  Do not allow your hips to rotate, pike upward, or sag toward the floor. Maintain a strong core brace throughout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com

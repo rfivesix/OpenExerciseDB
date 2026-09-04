@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '922'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Shrugs sitzend (mittlerer Trapez)
-description: Sitzend mit geradem Rücken, oben kurz halten.
+description: 'Ausgangsposition: Setze dich aufrecht an den Kabelzug mit geradem Rücken
+  und Blick nach vorne. Fasse den Griff mit ausgestreckten Armen.
+
+  Ausführung: Ziehe die Schulterblätter rein horizontal nach hinten zusammen (Skapularetrakion),
+  ohne die Arme im Ellbogengelenk zu beugen. Halte die Kontraktion im mittleren Trapez
+  und den Rhomboiden am obersten Punkt für 1–2 Sekunden.
+
+  Rückkehr: Lasse die Schultern langsam und kontrolliert wieder nach vorne gleiten.
+
+  Hinweis: Der Oberkörper bleibt stabil aufgerichtet; die Bewegung erfolgt ausschließlich
+  aus den Schulterblättern.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

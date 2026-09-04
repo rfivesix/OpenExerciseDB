@@ -1,10 +1,21 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '672'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Rumpfrotation am Kabelzug
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Rumpfrotation im Sitzen am Kabelzug.
+description: '- Stelle oder setze dich seitlich zum Kabelzug und greife den Griff
+  mit beiden Händen auf Brusthöhe.
+
+  - Halte die Arme leicht gebeugt und rotiere den Oberkörper kontrolliert über die
+  schrägen Bauchmuskeln zur Gegenseite.
+
+  - Halte das Becken stabil nach vorne gerichtet und führe das Kabel langsam wieder
+  in die Ausgangsposition zurück.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: Robertcoop

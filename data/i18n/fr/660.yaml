@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '660'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensions des triceps à la poulie avec barre
-description: |-
-  Saisissez la barre, tenez-vous debout, les pieds écartés de la largeur des épaules, gardez le dos droit et penchez-vous légèrement vers l'avant. Poussez la barre vers le bas en veillant à ce que les coudes ne bougent pas pendant l'exercice. Sans pause, revenez à la position initiale.
+description: '- Saisissez la barre droite fixée à la poulie haute en pronation, pieds
+  à la largeur des épaules et buste légèrement incliné en avant.
+
+  - Tout en gardant les coudes bien fixés le long du corps, poussez la barre vers
+  le bas jusqu''à l''extension complète des coudes.
+
+  - Contrôlez la remontée de la barre sans laisser les coudes avancer.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

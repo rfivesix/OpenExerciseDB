@@ -1,25 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '925'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé incliné à la Smith machine
-description: |-
-  * Exécution * Position de départ :
+description: 'Position de départ : Allongez-vous sur un banc légèrement incliné (15
+  à 30 degrés) placé dans la Smith machine. Saisissez la barre avec une prise supérieure
+  à la largeur des épaules, déverrouillez-la et maintenez-la au-dessus du haut de
+  la poitrine.
 
-  Déverrouillez la barre et tenez-la au-dessus du haut de votre poitrine, bras complètement tendus.
-  Gardez vos omoplates rétractées et plaquées contre le banc.
-  Phase de descente (excentrique) :
-  Abaissez lentement la barre jusqu'à juste en dessous de votre clavicule ou du haut de votre poitrine.
-  Gardez le contrôle, ne faites pas rebondir la barre.
-  Phase de poussée (concentrique) :
-  Poussez la barre vers le haut en ligne droite jusqu'à l'extension complète des bras.
-  Concentrez-vous sur la contraction du haut de vos pectoraux en haut du mouvement.
-  Verrouillez et répétez :
-  Terminez vos répétitions, puis reposez la barre en toute sécurité sur les crochets.
+  Exécution : Descendez la barre de façon lente et contrôlée jusqu''à effleurer le
+  haut des pectoraux ou les clavicules.
+
+  Retour : Poussez la barre vers le haut le long des guides jusqu''à l''extension
+  presque complète des bras, en concentrant la contraction sur le haut de la poitrine.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

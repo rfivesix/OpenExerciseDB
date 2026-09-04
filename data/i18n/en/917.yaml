@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '917'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Straight Bar Cable Front Raise
-description: Back to cable tower, cable between legs, SZ Bar
+description: '- Attach a straight bar to the low cable pulley. Stand facing away from
+  the cable stack with the cable running between your legs.
+
+  - Grasp the straight bar with an overhand (pronated) grip at shoulder-width in front
+  of your thighs.
+
+  - Raise the bar straight out in front of you with slightly bent elbows until it
+  reaches shoulder or eye level.
+
+  - Pause briefly at the top to contract your anterior deltoids, then lower the bar
+  slowly under control without swinging your hips.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

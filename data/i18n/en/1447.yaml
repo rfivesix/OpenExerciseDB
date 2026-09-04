@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1447'
 language: en
-status: upstream_unreviewed
-name: Snatch OL
+status: ai_reviewed
+name: Olympic Snatch
 description: |-
-  Olympic lift snatch
+  Starting Position:
+  • Approach the barbell with a hip-width stance and take a wide grip (snatch hook grip).
+  • Keep your back flat, chest up, and shoulders slightly ahead of the bar.
 
-  Pull barbell from ground to overhead lockout using a wide grip and overhead squat.
-  Move bar slowly until cleared knees then explosively extend hips, pull bar up and dive under the bar
-  Catch bar overhead with straight arms
-  Push head forward during lockout
+  Execution:
+  • Lift the bar smoothly off the floor, keeping it tight to your shins and thighs.
+  • At the hip crease, explosively extend hips, knees, and ankles (triple extension) to accelerate the bar upward.
+  • Rapidly drop underneath the bar into a full overhead squat, catching the bar with fully locked arms overhead.
+  • Stabilize and stand up completely while maintaining the barbell locked out directly over your center of gravity.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2411'
+search_terms:
+  - Snatch OL
+  - Snatch

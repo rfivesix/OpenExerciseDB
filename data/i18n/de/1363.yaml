@@ -1,13 +1,18 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1363'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle (Blackroll)
 description: |-
-  Kontrollierte Bewegungen
-  Langsame Bewegungen
-  Nutze keinen Schwung
+  Ausgangsposition:
+  Platziere die Faszienrolle (Blackroll / Foam Roller) auf einer Matte und lege die zu behandelnde Muskelgruppe (z. B. Oberschenkel, Gesäß, Waden oder oberer Rücken) darauf ab. Stütze dich mit den Armen und dem freien Bein ab, um den Druck zu regulieren.
+
+  Ausführung:
+  Rolle langsam und kontrolliert mit gleichmäßigem Druck über den Muskelstrang vor und zurück. Verweile auf besonders verspannten Triggerpunkten für 20 bis 30 Sekunden und atme ruhig weiter, bis das Gewebe spürbar nachgibt.
+
+  Hinweise:
+  Rolle nicht direkt über Gelenke oder die freie Lendenwirbelsäule. Halte die Rumpfmuskulatur leicht angespannt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1312'
 language: es
-status: upstream_unreviewed
-name: Bodyweight Squat HD
-description: |-
-  La sentadilla es un tipo de ejercicio de peso corporal. Es uno de los ejercicios más populares para la fuerza y el crecimiento muscular. La sentadilla es particularmente efectiva para enfocarse en los músculos de la pierna y las caderas.
-  Las sentadillas son un ejercicio fácil de hacer para los principiantes. Puede ayudar a fortalecer los músculos de las piernas, tensar los músculos de la cadera y quemar calorías para perder peso.
-  Aprieta los glúteos y las piernas. Las sentadillas son muy efectivas para reafirmar y fortalecer las piernas al actuar sobre los glúteos, los flexores de la cadera, los cuádriceps, los isquiotibiales y los músculos internos del muslo. Además, las sentadillas con peso corporal pueden ayudar a dar forma a los glúteos.
+status: ai_reviewed
+name: Sentadilla con peso corporal
+description: 'La sentadilla es un tipo de ejercicio de peso corporal. Es uno de los ejercicios más populares para la fuerza
+  y el crecimiento muscular. La sentadilla es particularmente efectiva para enfocarse en los músculos de la pierna y las caderas.
+
+  Las sentadillas son un ejercicio fácil de hacer para los principiantes. Puede ayudar a fortalecer los músculos de las piernas,
+  tensar los músculos de la cadera y quemar calorías para perder peso.
+
+  Aprieta los glúteos y las piernas. Las sentadillas son muy efectivas para reafirmar y fortalecer las piernas al actuar sobre
+  los glúteos, los flexores de la cadera, los cuádriceps, los isquiotibiales y los músculos internos del muslo. Además, las
+  sentadillas con peso corporal pueden ayudar a dar forma a los glúteos.'
+search_terms:
+- Bodyweight Squat HD
+- Sentadillas con el propio peso corporal HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso

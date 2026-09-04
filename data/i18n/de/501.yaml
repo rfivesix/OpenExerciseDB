@@ -1,10 +1,14 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '501'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ring-Dips
-description: Dips an Turnringen.
+description: |-
+  Ausgangsposition: Gehe an die Turnringe in den Stütz mit vollständig gestreckten Armen. Halte den Körper stabil, die Bauchmuskeln angespannt und drehe die Ringe leicht nach außen (Support Hold).
+  Ausführung: Senke den Körper kontrolliert ab, indem du die Ellenbogen beugst, bis die Schultern leicht unter die Ellenbogen sinken (etwa 90 Grad). Halte die Ringe eng am Körper.
+  Rückkehr: Drücke dich kraftvoll nach oben zurück in die Ausgangsposition, bis die Arme wieder voll gestreckt sind.
+  Hinweis: Stabilisiere die Ringe über den gesamten Bewegungsablauf aktiv, um ein Zittern oder Weggleiten zu verhindern.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

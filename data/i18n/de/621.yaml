@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '621'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bizeps-Curl im Stehen
-description: |-
-  Stehe aufrecht und halte die Kurzhanteln schulterbreit auseinander. Drehe den Unterarm nach oben und halte den Oberarm ruhig, während du jede Kurzhantel bis zur Schulter hebst.
+search_terms:
+- Kurzhantel-Curl im Stehen
+- Biceps Curl
+description: Stehe aufrecht und halte die Kurzhanteln schulterbreit auseinander. Drehe den Unterarm nach oben und halte den
+  Oberarm ruhig, während du jede Kurzhantel bis zur Schulter hebst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

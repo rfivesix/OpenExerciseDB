@@ -1,11 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1119'
 language: de
-status: ai_raw
-translated_from: en
-name: Maschinenrudern enger Griff
-description: Rudern an der Maschine mit Stange im engen Griff
+status: ai_reviewed
+name: Maschinenrudern im engen Griff
+description: |-
+  Ausgangsposition:
+  Stelle den Sitz der Rudermaschine so ein, dass sich die Griffe etwa auf Höhe des Bauchnabels oder des unteren Brustkorbs befinden. Setze dich hin, stütze die Brust fest am Polster ab und greife die Griffe im engen Parallelgriff.
+
+  Ausführung:
+  1. Ziehe die Griffe kontrolliert nach hinten, während die Ellenbogen nah am Oberkörper entlanggeführt werden.
+  2. Ziehe die Schulterblätter am Ende der Bewegung intensiv zusammen und spüre die Kontraktion im Latissimus und oberen Rücken.
+  3. Halte die Brust während des gesamten Zugs in Kontakt mit dem Brustpolster (kein Zurücklehnen oder Schwungholen).
+  4. Führe das Gewicht langsam und kontrolliert wieder nach vorne, bis die Arme gestreckt sind.
+search_terms:
+  - Maschinenrudern enger Griff
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2088'
+translated_from: en

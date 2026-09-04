@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: it
-status: upstream_unreviewed
-name: Plank sul lato destro
+status: ai_reviewed
+name: Plank laterale destro
 description: |-
-  Sdraiati su un fianco, con il gomito inferiore ad angolo retto, con il braccio sporgente
-  Solleva il bacino dal pavimento sollevando la parte inferiore della spalla verso l'alto, mantenendo l'avambraccio sul pavimento; la testa, il bacino e i piedi dovrebbero essere in linea retta
-  Mantieni questa posizione
+  Posizione di partenza:
+  Sdraiati sul fianco destro con le gambe tese e i piedi sovrapposti o sfalsati. Posiziona il gomito destro esattamente sotto la spalla destra con l'avambraccio appoggiato al suolo.
+
+  Esecuzione:
+  1. Contrai gli addominali obliqui e i glutei, quindi solleva il bacino da terra fino a formare una linea retta dalla testa ai piedi.
+  2. Mantieni il petto aperto e il collo allineato alla colonna vertebrale.
+  3. Tieni la posizione per il tempo prestabilito evitando che il bacino ceda verso il pavimento.
+search_terms:
+  - Plank sul lato destro
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1927'

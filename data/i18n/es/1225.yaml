@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1225'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curls de bíceps abiertos con mancuernas
 description: |-
-  Sujeta una mancuerna en cada mano con las manos un poco más separadas que el ancho de los hombros y las palmas mirando hacia delante.
-  Flexiona los codos y eleva las mancuernas hasta los hombros. Vuelve lentamente y repite.
+  Posición inicial:
+  • Ponte de pie erguido con una mancuerna en cada mano y las palmas hacia delante.
+  • Abre los antebrazos ligeramente hacia afuera más allá de la anchura de los hombros, con los codos fijos a los lados.
+
+  Ejecución:
+  • Flexiona los codos elevando las mancuernas en esa trayectoria abierta hacia la parte externa de los hombros.
+  • Este ángulo enfatiza la cabeza corta (interna) del bíceps braquial.
+  • Aprieta en el punto más alto y desciende de forma controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3764'
+search_terms:
+  - Dumbbell wide bicep curls

@@ -1,13 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1446'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Stoßen und Reißen (Clean and Jerk)
+name: Umsetzen und Stoßen (Clean and Jerk)
 description: |-
-  Olympisches Heben: Umsetzen und Stoßen.
-  Kombination aus Umsetzen und Stoßen in einer Bewegung.
+  Ausgangsposition:
+  • Tritt mit hüftbreitem Stand an die Langhantel heran, greife die Stange etwas breiter als schulterbreit im Haken-Obergriff (Hook-Grip).
+  • Der Rücken ist gestreckt, die Schultern befinden sich leicht vor der Stange.
+
+  Ausführung:
+  1. Umsetzen (Clean): Ziehe die Hantel kontrolliert vom Boden nach oben, strecke in Hüfthöhe explosiv Knie und Hüfte (Triple Extension) und tauche blitzschnell unter die Stange ab. Fange die Hantel in der tiefen Kniebeuge auf den Schultern (Front Rack) auf und richte dich auf.
+  2. Stoßen (Jerk): Führe aus dem aufrechten Stand einen kurzen vertikalen Dip aus, stoße die Stange mit Beinkraft nach oben und springe in den Ausfallschritt (Split), um die Hantel mit durchgestreckten Armen über dem Kopf zu fixieren.
+  3. Stabilisierung: Bringe beide Füße parallel nebeneinander, bevor die Hantel kontrolliert abgelassen wird.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2410'
+search_terms:
+  - Stoßen und Reißen (Clean and Jerk)
+  - Clean and Jerk
+  - Umsetzen und Stoßen

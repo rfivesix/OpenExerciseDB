@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1103'
 language: it
-status: upstream_unreviewed
-name: Ponte in camminata
+status: ai_reviewed
+name: Walkout a terra con le mani (Walking Bridge)
 description: |-
-  Dalla posizione in piedi con le ginocchia leggermente flesse e le mani appoggiate a terra. Da qua procedete in avanti con le mani mantenendo i glutei contratti e senza perdere il controllo della schiena bassa.
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle anche. Piega leggermente le ginocchia e fletti il busto in avanti appoggiando le mani sul pavimento.
+
+  Esecuzione:
+  1. Avanza in avanti con le mani passo dopo passo mantenendo addominali e glutei contratti.
+  2. Prosegui fino a raggiungere una posizione di plank avanzato con le mani oltre la linea delle spalle, senza inarcare la zona lombare.
+  3. Tieni la tensione addominale per un istante.
+  4. Ritorna indietro camminando con le mani verso i piedi e ripeti.
+search_terms:
+  - Ponte in camminata
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

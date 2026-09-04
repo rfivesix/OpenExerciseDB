@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '908'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Corsa in zona 2
-description: |-
-  Zona due Cardio per la resistenza, dovresti essere in grado di parlare mentre corri
+description: '- Corri a un ritmo costante e controllato corrispondente alla Zona 2
+  (generalmente 60-70% della frequenza cardiaca massima).
+
+  - Mantieni un''andatura che ti permetta di parlare agevolmente a frasi complete
+  senza affanno durante tutta la sessione.
+
+  - Monitora l''intensità per sviluppare l''efficienza aerobica e la resistenza cardiovascolare
+  di base.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

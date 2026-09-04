@@ -9,13 +9,17 @@ language: en
 status: ai_reviewed
 name: Dumbbell Underhand Dead Row
 description: |-
-  The Dumbbell Underhand Dead Row will involve the back, which means you can try a bit heavier weight. The catch is that you need to be able to control the weight for all the reps.
+  Starting Position:
+  • Stand with feet shoulder-width apart holding a pair of dumbbells with an underhand (supinated) grip.
+  • Hinge at your hips to lower your torso until it is nearly parallel to the floor, keeping your back flat.
 
-  Start by holding a pair of dumbbells with your feet shoulder-wide apart and your knees slightly bent.
-  Hinge at your hips to lower your torso forward until it's almost parallel to the floor, keeping your back flat and maintaining a slight bend in your knees.
-  Exhale as you row the dumbbells to your sides up to chest height, leading with your elbows until your upper arms are just past parallel to the floor and the dumbbells are at ribcage level.
-  Slowly lower to the starting position and repeat. Keep your back flat all the time.
+  Execution:
+  • Row the dumbbells upward toward your ribcage and hips, leading with your elbows close to your sides.
+  • Squeeze your lats and upper back firmly at the peak contraction.
+  • Lower the dumbbells all the way down until they lightly touch the floor (dead stop), eliminating momentum before initiating the next repetition.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2426'
+search_terms:
+  - Underhand Dumbbell Dead Row

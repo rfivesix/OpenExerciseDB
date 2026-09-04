@@ -1,11 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1294'
 language: fr
 status: ai_reviewed
 translated_from: en
-name: Leg curl unilatéral pour ischios
+name: Flexion des ischios sur une jambe au sol
+description: 'Position de départ :
+
+  Allongé sur le dos sur un tapis de sol, placez le talon d''une jambe sur le sol (ou sur un linge glissant) avec le genou
+  légèrement plié, l''autre jambe étant relevée.
+
+
+  Exécution :
+
+  1. Décollez le bassin du sol en position de pont fessier unipodal.
+
+  2. Tirez vigoureusement le talon vers les fessiers en fléchissant le genou pour contracter l''ischio-jambier.
+
+  3. Revenez lentement à la position de départ en contrôlant l''extension de la jambe.'
+search_terms:
+- Leg curl unilatéral pour ischios
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2260'
-description: |-
-  Allongé ou debout à la machine, réalisez une flexion de jambe avec une seule jambe à la fois pour isoler chaque ischio-jambier et corriger les déséquilibres.

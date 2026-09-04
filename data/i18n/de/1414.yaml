@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1414'
 language: de
-status: upstream_unreviewed
-name: Hack Squats
+status: ai_reviewed
+name: Hackenschmidt-Kniebeuge (Maschine)
 description: |-
-  Hack Squats beanspruchen den Unterkörper und werden an einer Hackenschmidt-Maschine oder mit einer Langhantel ausgeführt. Für die Maschinen-Variante positionierst du dich auf der Plattform mit den Schultern unter den Polstern und den Füßen leicht nach vorne. Drücke durch die Fersen, um das Gewicht anzuheben, und beuge dann die Knie, um die Plattform in einer kontrollierten Bewegung abzusenken, bis deine Oberschenkel parallel zum Boden sind. Drücke dich zurück in die Startposition hoch. Für die Langhantel-Variante hältst du die Stange mit gestreckten Armen hinter deinen Beinen und führst eine kniebeugenähnliche Bewegung aus.
+  Ausgangsposition:
+  Positioniere dich in der Hackenschmidt-Maschine (Hack Squat) mit dem Rücken und Kopf flach an der Rückenlehne und den Schultern fest unter den gepolsterten Schulterstützen. Platziere die Füße etwa schulterbreit und leicht nach vorne versetzt auf der Fußplatte. Löse die Sicherheitshebel.
+
+  Ausführung:
+  Beuge die Knie und senke die Plattform kontrolliert ab, bis deine Oberschenkel mindestens parallel zur Fußplatte sind (oder tiefer, sofern die Beweglichkeit es erlaubt). Halte die Knie stabil in Richtung der Zehenspitzen. Drücke dich über den Mittelfuß und die Fersen kraftvoll wieder nach oben, ohne die Knie am obersten Punkt komplett durchzuschlagen.
+
+  Hinweise:
+  Halte den unteren Rücken während der gesamten Bewegung fest an die Rückenlehne gepresst. Hebe die Fersen nicht von der Plattform ab.
+search_terms:
+  - Hack Squats
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

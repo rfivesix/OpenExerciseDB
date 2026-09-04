@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '805'
 language: fr
-status: upstream_unreviewed
-name: Extension triceps à la poulie
-description: |-
-  L'extension triceps à la corde à la poulie est un exercice populaire qui cible les triceps. Il est facile à apprendre et à exécuter, ce qui en fait un favori aussi bien des débutants que des pratiquants confirmés. Il se réalise généralement sur un nombre modéré à élevé de répétitions, par exemple 8 à 12 répétitions ou plus par série, dans le cadre d'un entraînement du haut du corps ou axé sur les bras.
+status: ai_reviewed
+name: Pushdown triceps à la corde à la poulie
+description: '- Attachez une corde à la poulie haute, placez-vous debout pieds à la
+  largeur des épaules avec le buste légèrement penché en avant.
+
+  - Coudes collés aux flancs, poussez la corde vers le bas jusqu''à tendre complètement
+  les bras.
+
+  - Écartez les pointes de la corde vers l''extérieur en bas du mouvement pour une
+  contraction maximale des triceps.
+
+  - Remontez lentement la charge sous contrôle en maintenant les coudes fixes.'
+search_terms:
+- Extension triceps à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

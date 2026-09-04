@@ -1,25 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '998'
 language: en
-status: upstream_unreviewed
-name: No push-up burpees
-description: |-
-  Starting position:
-  Stand straight, feet hip-width apart.
-  Steps:
+status: ai_reviewed
+name: No-Push-Up Burpees
+description: 'Starting Position: Stand tall with feet hip-width apart and arms at
+  your sides.
 
-  Squat low and support yourself on the floor with your hands between the knees and in front of your feet, your back straight.
-  Keeping your hands on the floor, jump your legs backward into high plank position.
-  Jump your feet forward to return to the squat position.
-  Jump up.
-  Repeat.
+  Execution: Drop into a squat and place your hands flat on the floor. Jump your feet
+  backward into a strong high plank without performing a push-up. Immediately jump
+  your feet forward outside your hands, then leap explosively into the air, reaching
+  overhead.
+
+  Return: Land softly with bent knees and seamlessly transition into the next repetition.
+
+  Cues: Maintain a rigid core line when kicking back into the plank.'
 search_terms:
-  - No push up burpees
-  - No pushup burpees
+- No push up burpees
+- No pushup burpees
+- No push-up burpees
+- Squat Thrusts
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1742'

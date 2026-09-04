@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '661'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Triceps à la machine
-description: |-
-  Asseyez-vous et saisissez fermement la barre avec les mains. Poussez maintenant le poids vers le haut (sans tendre complètement les bras), puis abaissez-le lentement. Comme pour les autres exercices de triceps, il est important de ne pas bouger les bras.
+description: '- Asseyez-vous sur la machine à triceps et réglez le siège afin d''aligner
+  vos coudes avec l''axe de rotation de la machine.
+
+  - Saisissez fermement les poignées et calez vos bras contre le coussin d''appui.
+
+  - Poussez les poignées vers le bas en tendant les coudes pour contracter les triceps,
+  sans bloquer brutalement l''articulation.
+
+  - Revenez lentement et sous contrôle à la position de départ sans décoller les bras
+  du support.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

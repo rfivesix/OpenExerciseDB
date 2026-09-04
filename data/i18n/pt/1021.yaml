@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: pt
-status: upstream_unreviewed
-name: Elevação da panturrilha direita
+status: ai_reviewed
+name: Elevação de panturrilha unilateral (direita)
 description: |-
-  Fique de pé no chão ou na borda de um degrau para aumentar o alcance do movimento. Levante um pé, colocando a parte superior sobre sua panturrilha.
-  Levante os calcanhares até ficar de pé sobre os dedos do pé.
-  Fique nesta posição por três segundos, depois abaixe o pé sem tocar o chão com seu calcanhar.
+  Posição inicial:
+  Fique em pé sobre o pé direito, apoiando a ponta do pé no chão ou na borda de um degrau. Mantenha o pé esquerdo elevado e apoie a mão levemente em uma parede para o equilíbrio.
+
+  Execução:
+  1. Abaixe o calcanhar direito de forma controlada para alongar a panturrilha.
+  2. Empurre com força sobre a ponta do pé, elevando o calcanhar o mais alto possível.
+  3. Segure a contração máxima no topo por 1 a 2 segundos.
+  4. Desça devagar e com controle sem tocar o calcanhar bruscamente no chão.
+search_terms:
+  - Elevação da panturrilha direita
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1958'

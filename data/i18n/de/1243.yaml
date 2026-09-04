@@ -5,10 +5,27 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1243'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Beidbeiniges Wadenheben
-description: |-
-  Das beidbeinige Wadenheben ist wichtig, um Kontrolle und Stabilität rund um Sprunggelenk und Knie zu stärken und aufzubauen sowie Gleichgewicht und Kontrolle für Hüfte und Becken zu schaffen.
+description: 'Ausgangsposition:
+
+  Stelle dich aufrecht mit hüftbreit geöffneten Füßen hin. Halte dich bei Bedarf an einer Wand oder Stuhllehne fest, um das
+  Gleichgewicht zu sichern.
+
+
+  Ausführung:
+
+  1. Drücke dich über die Fußballen beider Füße kraftvoll so weit wie möglich auf die Zehenspitzen nach oben.
+
+  2. Halte die oberste Position für ein bis zwei Sekunden und spanne die Wadenmuskeln bewusst an.
+
+  3. Senke die Fersen langsam und kontrolliert wieder ab, bis sie den Boden leicht berühren.
+
+
+  Hinweise:
+
+  Führe die Bewegung gleichmäßig ohne Schwung aus. Kräftigt die Wadenmuskulatur und verbessert die Stabilität von Sprunggelenk
+  und Knie.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

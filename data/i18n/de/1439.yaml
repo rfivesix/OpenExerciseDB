@@ -1,13 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1439'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Pin-Schulterdrücken (Pin OHP)
+name: Pin-Schulterdrücken mit der Langhantel
 description: |-
-  Stelle die Sicherheitsablagen auf Höhe deines unteren Kinns ein.
-  Lege die Langhantel unter Spannung auf den Ablagen ab.
-  Drücke die Hantel über den Kopf.
+  Ausgangsposition:
+  Stelle die Sicherheitsablagen (Pins) im Power Rack auf etwa Kinnhöhe ein und lege die Langhantel darauf ab. Stelle dich mit den Füßen schulterbreit hin, greife die Stange etwas außerhalb der Schultern im Obergriff und begib dich mit aufrechtem Oberkörper unter die Stange.
+
+  Ausführung:
+  Baue maximale Rumpf- und Gesäßspannung auf. Drücke die Langhantel aus dem Ruhezustand auf den Pins explosiv senkrecht nach oben über den Kopf. Führe den Kopf leicht zurück, bis die Stange das Gesicht passiert hat, und schiebe ihn dann wieder nach vorne. Senke die Stange kontrolliert auf die Pins ab, halte kurz an, ohne die Körperspannung zu verlieren, und starte die nächste Wiederholung.
+
+  Hinweise:
+  Das Starten aus dem ruhenden Zustand eliminiert den Dehnungs-Verkürzungs-Zyklus und trainiert gezielt die Anfangskraft beim Schulterdrücken.
+search_terms:
+  - Pin-Schulterdrücken (Pin OHP)
+  - Pin OHP
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

@@ -3,9 +3,10 @@ language: fr
 status: ai_reviewed
 translated_from: de
 name: Bûcheron frontal (Wood Chop)
+description: Debout, tenez les bras tendus au-dessus de la tête. Effectuez une extension du tronc vers le haut et l'arrière
+  en levant alternativement une jambe vers l'arrière pour contracter les muscles érecteurs du rachis et les fessiers. Revenez
+  en position initiale avec contrôle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1063'
-description: |-
-  Debout, tenez un médecine-ball ou une charge à deux mains, descendez en diagonale vers le genou opposé puis remontez en étendant le torse vers le haut comme pour fendre du bois.

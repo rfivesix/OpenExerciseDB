@@ -5,10 +5,27 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1242'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Exercise Band Plantarflexion
-description: |-
-  Banded plantarflexion is a great way to bridge the gap between plantarflexion range of motion and the more strenuous calf raises in weight bearing. This can help strengthen the calf muscles, load the Achilles tendon, and improve plantarflexion range of motion.
+description: 'Starting position:
+
+  Sit on the floor with your legs extended straight in front of you. Loop the center of a resistance band around the ball
+  of your foot and hold both ends firmly with your hands to create tension.
+
+
+  Execution:
+
+  1. Press your foot forward and down against the band''s resistance (plantarflexion), strongly contracting your calf muscles.
+
+  2. Hold the peak contraction briefly at the end of the movement.
+
+  3. Slowly return the foot back to the starting position under control.
+
+
+  Tips:
+
+  Keep your leg stationary and isolate movement entirely to the ankle joint. Excellent for calf strengthening and Achilles
+  tendon rehabilitation.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

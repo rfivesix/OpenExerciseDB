@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1233'
 language: es
-status: upstream_unreviewed
-name: Estiramiento de bíceps de pie derecho
+status: ai_reviewed
+name: Estiramiento de bíceps de pie (derecho)
 description: |-
-  Ponte de pie con el brazo derecho cerca de una pared. Extiende el brazo derecho y apoya la mano derecha en la pared, luego gira suavemente el cuerpo hacia la izquierda.
+  Posición inicial:
+  • Ponte de pie con tu costado derecho junto a una pared.
+  • Extiende el brazo derecho hacia atrás y apoya la palma de la mano plana contra la pared a la altura del hombro.
+
+  Ejecución:
+  • Gira suavemente el torso y los pies hacia la izquierda alejándote de la pared.
+  • Detente al notar un estiramiento agradable en el bíceps derecho y el pecho.
+  • Mantén la postura durante 20 a 30 segundos respirando con tranquilidad.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3782'
+search_terms:
+  - Estiramiento de bíceps de pie derecho

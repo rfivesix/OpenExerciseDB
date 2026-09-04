@@ -14,7 +14,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_DB = ROOT / "artifacts" / "train_libre_training.db"
+DEFAULT_DB = ROOT / "artifacts" / "openexercisedb.db"
 DEFAULT_OUTPUT = ROOT / "artifacts" / "explorer-site"
 SOURCE = ROOT / "web"
 

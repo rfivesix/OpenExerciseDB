@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '478'
 language: fr
-status: upstream_unreviewed
-name: Push press
+status: ai_reviewed
+name: Push press aux haltères
+search_terms:
+  - Push press
 description: |-
-  Amenez vos haltères sur vos épaules par un mouvement d'épaulé, paumes tournées vers l'intérieur. Inspirez et gainez votre sangle abdominale (image 1). Fléchissez les genoux et utilisez vos jambes pour aider (image 2) à pousser vos haltères au-dessus de la tête. Redescendez-les sous contrôle, à un rythme lent, jusqu'à vos épaules, puis répétez.
+  Amenez vos haltères sur vos épaules, paumes tournées vers l'intérieur ou légèrement vers l'avant. Inspirez et gainez votre sangle abdominale. Fléchissez légèrement les genoux et poussez de manière explosive avec les jambes pour vous aider à propulser les haltères au-dessus de la tête jusqu'à extension complète des bras. Redescendez les poids sous contrôle jusqu'à vos épaules, puis répétez.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

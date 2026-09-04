@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1022'
 language: es
-status: upstream_unreviewed
-name: Remo en Plancha con un Brazo
+status: ai_reviewed
+name: Remo en plancha con mancuerna a un brazo
 description: |-
-  Comienza en una posición de plancha alta (como para hacer una flexión), pero con las manos agarrando unas mancuernas que están apoyadas en el suelo. Separa los pies un poco más que el ancho de tus caderas para tener una base más estable. Desde ahí, manteniendo el abdomen y los glúteos apretados para que tu cuerpo no se gire, jala una mancuerna hacia tu costado, llevando el codo hacia el techo. Haz una pausa arriba, baja la mancuerna de forma controlada y repite el movimiento. Completa todas las repeticiones de un lado antes de cambiar al otro.
+  Posición inicial:
+  Colócate en posición de plancha alta (apoyando las manos sobre mancuernas en el suelo o una mano en el suelo y la otra sobre la mancuerna). Coloca los pies separados al ancho de los hombros o un poco más para tener una base estable.
+
+  Ejecución:
+  1. Activa fuertemente el abdomen y los glúteos para evitar que la cadera rote o se desplace hacia los lados.
+  2. Tira de la mancuerna hacia tu cadera con un movimiento de remo controlado, llevando el codo pegado al costado.
+  3. Pausa brevemente en la parte superior para contraer el dorsal y la espalda alta.
+  4. Baja la mancuerna de forma lenta y controlada hasta el suelo.
+  5. Completa todas las repeticiones de un lado antes de cambiar de brazo.
+search_terms:
+  - Remo en Plancha con un Brazo
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1224'
 language: en
-status: upstream_unreviewed
-name: Dumbbell drag curls
+status: ai_reviewed
+name: Dumbbell Drag Curl
 description: |-
-  Hold a dumbbell in each hand with your palms facing forward. Pull your elbows back and lift the dumbbells to your chest height. Slowly lower the dumbbell and repeat the exercise.
+  Starting Position:
+  • Stand upright holding a dumbbell in each hand with an underhand (supinated) grip, palms facing forward.
+  • Let your arms hang in front of your thighs with shoulders back and chest up.
+
+  Execution:
+  • Drag the dumbbells vertically straight up along your torso by pulling your elbows backward.
+  • Lift the weights to chest level while keeping them as close to your body as possible to isolate the biceps.
+  • Squeeze your biceps firmly at the top, then lower the dumbbells slowly along the same path back down.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2189'
+search_terms:
+  - Dumbbell drag curls

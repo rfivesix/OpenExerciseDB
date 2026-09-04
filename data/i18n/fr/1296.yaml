@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1296'
 language: fr
-status: upstream_unreviewed
-name: Croisement à la poulie basse - NB
-description: |-
-  Le croisement à la poulie basse est un mouvement d'isolation qui utilise une colonne de poulies pour cibler la partie supérieure des pectoraux. On le retrouve couramment dans les séances de musculation du haut du corps et axées sur la poitrine, souvent en complément de développés ou d'écartés réalisés sous d'autres angles afin de cibler toutes les portions des pectoraux.
+status: ai_reviewed
+name: Croisement à la poulie basse
+description: Le croisement à la poulie basse est un mouvement d'isolation qui utilise une colonne de poulies pour cibler la
+  partie supérieure des pectoraux. On le retrouve couramment dans les séances de musculation du haut du corps et axées sur
+  la poitrine, souvent en complément de développés ou d'écartés réalisés sous d'autres angles afin de cibler toutes les portions
+  des pectoraux.
+search_terms:
+- Croisement à la poulie basse - NB
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1084'
 language: de
-status: upstream_unreviewed
-name: Kurzhantel-Bodendrücken
+status: ai_reviewed
+name: Kurzhantel-Bodendrücken (Floor Press)
 description: |-
-  Nimm deine Kurzhanteln und lege dich flach auf den Rücken, die Knie angewinkelt und die Füße flach auf dem Boden (benutze eine Bank, falls du eine hast). Drücke die Gewichte nach oben und strecke die Ellbogen durch (A). Senke sie langsam ab, bis deine Oberarme nah am Körper auf dem Boden ruhen (B). Halte hier kurz inne, bevor du sie explosiv wieder nach oben drückst. Spanne die Brust kräftig an und wiederhole.
+  Ausgangsposition:
+  Lege dich mit dem Rücken flach auf den Boden und stelle die Beine mit angewinkelten Knien und flach aufgesetzten Füßen auf. Halte zwei Kurzhanteln mit angewinkelten Armen über der Brust. Die Oberarme liegen mit den Ellenbogen in einem ca. 45-Grad-Winkel zum Körper auf dem Boden.
+
+  Ausführung:
+  1. Drücke beide Kurzhanteln kraftvoll und kontrolliert nach oben, bis die Arme fast vollständig gestreckt sind.
+  2. Spanne die Brustmuskeln am obersten Punkt für eine Sekunde intensiv an.
+  3. Senke die Kurzhanteln kontrolliert wieder ab, bis die Rückseite der Oberarme sanft den Boden berührt.
+  4. Halte am Boden kurz inne, ohne das Gewicht komplett abzulegen, und starte die nächste Wiederholung.
+search_terms:
+  - Kurzhantel-Bodendrücken
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

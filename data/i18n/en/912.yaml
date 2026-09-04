@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '912'
 language: en
-status: upstream_unreviewed
-name: Straight Bar Cable Curls
-description: Standing upright in front of Cable Tower using a straight bar
+status: ai_reviewed
+name: Straight-Bar Cable Curl
+description: '- Stand upright facing a low cable pulley and grasp the straight bar
+  attachment with an underhand (supinated) grip about shoulder-width apart.
+
+  - Keep your elbows pinned closely to your sides and your torso steady.
+
+  - Curl the bar upward toward your chest by contracting your biceps, keeping your
+  upper arms stationary.
+
+  - Squeeze your biceps at the peak of the curl, then lower the bar slowly under control
+  back to full extension.'
+search_terms:
+- Straight Bar Cable Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

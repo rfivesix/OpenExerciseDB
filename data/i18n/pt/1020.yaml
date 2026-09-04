@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: pt
-status: upstream_unreviewed
-name: Pistol squats direita
+status: ai_reviewed
+name: Pistol squat perna direita
 description: |-
-  Fique de pé em uma perna, com a outra perna reta e ligeiramente para frente.
-  Dobre um joelho lentamente, descendo para um agachamento e mantendo as costas e a outra perna reta.
-  Levante-se lentamente do agachamento, endireitando o joelho dobrado e mantendo a outra perna reta.
-  Repita
+  Posição inicial:
+  Fique em pé equilibrando-se sobre a perna direita, com a perna esquerda estendida à frente fora do chão. Estenda os braços para a frente para manter o equilíbrio.
+
+  Execução:
+  1. Dobre lentamente o joelho e quadril direitos, descendo em um agachamento unilateral profundo.
+  2. Mantenha as costas retas, o peito aberto e a perna esquerda estendida sem encostar no chão.
+  3. Desça até a máxima amplitude confortável.
+  4. Empurre pelo calcanhar direito para subir de volta à posição inicial.
+search_terms:
+  - Pistol squats direita
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1944'

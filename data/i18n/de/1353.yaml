@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1353'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hex Press mit Kurzhanteln
 description: |-
-  Muskulatur anspannen
-  Füße breit positionieren
-  Kontrollierte Bewegung
-  Langsame Bewegung
-  Gewichte zur unteren Brust/zum Bauch führen
+  Ausgangsposition:
+  Lege dich rücklings auf eine Flachbank und platziere die Füße stabil auf dem Boden. Halte zwei (idealerweise sechskantige) Kurzhanteln mit neutralem Griff direkt über der Brust fest zusammengepresst.
+
+  Ausführung:
+  Drücke die Kurzhanteln kontinuierlich fest gegeneinander, während du sie kontrolliert zur Mitte des Brustbeins absenkst. Drücke die Hanteln aus der Kraft der Brust und des Trizeps wieder nach oben, ohne den Druck zwischen den Hanteln zu verringern.
+
+  Hinweise:
+  Der konstante Druck beider Kurzhanteln gegeneinander sorgt für eine maximale isometrische Spannung auf der Brustmuskulatur.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

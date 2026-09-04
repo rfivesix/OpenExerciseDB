@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1261'
 language: en
-status: upstream_unreviewed
-name: TRX gorilla biceps curl
-description: |-
-  We'll stand facing the TRX straps and grab them with our fists facing each other, facing forward, with our arms fully extended at about shoulder-width apart. We'll keep our body straight, backward, as in the previous exercises, since we'll be lifting our body toward the TRX straps by activating our biceps. Our body will be straight, with our feet flat on the floor. This time, we'll place our arms open to the sides and at chest height. The movement we'll perform is a contraction toward our chest. To achieve this, we'll bend our elbows so that, by activating our biceps, we can pull our body toward the straps.
+status: ai_reviewed
+name: TRX Gorilla Biceps Curl
+description: We'll stand facing the TRX straps and grab them with our fists facing each other, facing forward, with our arms
+  fully extended at about shoulder-width apart. We'll keep our body straight, backward, as in the previous exercises, since
+  we'll be lifting our body toward the TRX straps by activating our biceps. Our body will be straight, with our feet flat
+  on the floor. This time, we'll place our arms open to the sides and at chest height. The movement we'll perform is a contraction
+  toward our chest. To achieve this, we'll bend our elbows so that, by activating our biceps, we can pull our body toward
+  the straps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

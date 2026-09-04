@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1215'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Snow Angel
 description: |-
-  Lay flat on your stomach with your arms extended in front of you on the ground as your legs are lying flat. Lift both your arms and move them to your side slowly. Then, move them back.
+  Starting Position:
+  • Lie prone face down on a mat with your legs straight and arms extended overhead in front of you.
+  • Keep your neck neutral and gaze pointed toward the floor.
+
+  Execution:
+  • Lift your arms and upper chest slightly off the floor by engaging your upper back muscles.
+  • Sweep your arms outward and downward in a wide arc along your sides until your hands approach your thighs, mimicking a snow angel motion.
+  • Retract and squeeze your shoulder blades firmly together at the bottom of the sweep.
+  • Slowly reverse the arc to return your arms overhead, keeping them elevated off the ground throughout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: mike6426
   source_id: '2181'
+search_terms:
+  - Prone snow angel

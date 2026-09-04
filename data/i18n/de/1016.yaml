@@ -5,20 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1016'
 language: de
-status: upstream_unreviewed
-name: Nackenkreise gegen den Uhrzeigersinn
+status: ai_reviewed
+name: Nackenkreisen gegen den Uhrzeigersinn
 description: |-
   Ausgangsposition:
-  Beginnen Sie im Sitzen oder Stehen. Senken Sie den Kopf nach unten und bringen Sie das Kinn zur Brust, aber drücken Sie nicht.
-  Schritte:
-  Führen Sie die Übung in einer langsamen, fließenden Bewegung aus, wobei Ihr Kopf entspannt ist und in keine Richtung drückt:
+  Sitze oder stehe mit aufrechtem Rücken, entspannten und tiefen Schultern. Senke das Kinn sanft in Richtung Brustbein ab.
 
-  Lehnen Sie sich zu Ihrer linken Schulter.
-  Legen Sie dann den Kopf zurück und schauen Sie nach oben.
-  dann lehnen Sie sich zur rechten Schulter
-  und zurück in die Ausgangsposition.
-
-  Wiederholen Sie dies als Teil einer langsamen, fließenden Bewegung.
+  Ausführung:
+  1. Führe den Kopf in einer langsamen, kontrollierten Kreisbewegung gegen den Uhrzeigersinn: Zuerst zur linken Schulter neigen, behutsam nach hinten führen, weiter zur rechten Schulter und zurück zur Brust.
+  2. Bewege den Kopf gleichmäßig und ohne Überstreckung der Halswirbelsäule.
+  3. Wiederhole die flüssige Bewegung für die gewünschte Dauer oder Wiederholungszahl.
+search_terms:
+  - Nackenkreise gegen den Uhrzeigersinn
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1914'

@@ -7,9 +7,18 @@
 exercise_id: '1092'
 language: de
 status: ai_reviewed
-name: Boxsacktraining
+name: Boxsacktraining (Heavy Bag)
 description: |-
-  Sandsacktraining verbessert die Muskeldefinition von: Deltamuskel; hinterem Deltamuskel; Trizeps; Bizeps und ist zudem eine hervorragende Cardio-Übung
+  Ausgangsposition:
+  Stelle dich in einer stabilen Boxstellung etwa eine Armlänge vor den Boxsack. Die Führhand ist vorne, die Schlaghand schützt das Kinn, die Knie sind leicht gebeugt und das Gewicht ist auf den Fußballen verteilt.
+
+  Ausführung:
+  1. Schlage präzise und kraftvoll mit geraden Schlägen (Jab, Cross) sowie Haken (Hooks) auf den Sandsack.
+  2. Rotiere Hüfte und Rumpf bei jedem Schlag aktiv mit, um Schlagkraft aus dem gesamten Körper zu generieren.
+  3. Halte die Deckung nach jedem Schlag sofort wieder oben und bewege dich auf leichten Füßen um den Sack herum.
+  4. Trainiere in intensiven Intervallen (z. B. 2–3 Minuten Runden), um Schlagkraft, Koordination und kardiovaskuläre Ausdauer aufzubauen.
+search_terms:
+  - Boxsacktraining
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

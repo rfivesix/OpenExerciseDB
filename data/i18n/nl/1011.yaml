@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: nl
-status: upstream_unreviewed
-name: Voor nekrekking
+status: ai_reviewed
+name: Nekstretch voorzijde
 description: |-
   Beginpositie:
-  Zit of sta met rechte rug.
-  Stappen:
+  Zit of sta met een rechte rug en ontspannen schouders.
 
-  Mond wijd open.
-  Kantel het hoofd langzaam naar achteren met de mond open. Als u behoefte heeft aan steun, klem dan uw handen achter uw hoofd.
-  Sluit en open heel langzaam uw mond.
-  Aan het einde keert u langzaam terug naar de beginpositie en sluit u de mond.
+  Uitvoering:
+  1. Doe je mond wijd open.
+  2. Kantel je hoofd langzaam naar achteren met geopende mond tot je een lichte stretch voelt aan de voorkant van je hals.
+  3. Sluit en open je mond heel langzaam een aantal keren om de stretch in de halsspieren te verdiepen.
+  4. Breng je hoofd rustig terug naar de beginpositie en sluit je mond.
+search_terms:
+  - Voor nekrekking
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1900'

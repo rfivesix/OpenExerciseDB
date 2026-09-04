@@ -5,16 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '632'
 language: nl
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sumo hurken
-description: |-
-  Beginpositie:
-  Sta met de benen wijd en de tenen naar buiten gedraaid.
-  Stappen:
+description: 'Plaats je voeten breder dan schouderbreedte met de tenen ongeveer 45
+  graden naar buiten gedraaid.
 
-  Zak langzaam naar beneden door je knieën naar buiten te buigen. Reik de armen naar voren. Houd uw hoofd, borst en heupen in een rechte lijn. Knijp je bilspieren samen.
-  Duw terug omhoog in startpositie.
-  Herhaal deze oefening in een pulserende beweging.
+  Houd je rug recht en borst vooruit terwijl je gecontroleerd door je knieën en heupen
+  zakt tot je bovenbenen parallel aan de vloer zijn.
+
+  Duw krachtig omhoog vanuit je hielen tot je weer rechtop staat en span je bilspieren
+  aan.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: sophialj

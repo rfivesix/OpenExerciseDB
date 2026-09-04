@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '507'
 language: cs
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rumunský Mrtvý Tah
-description: |-
-  volíme velmi úzký postoj(mezi chodidly pouze několik cm) a nohy necháváme při provádění cviku napnuté. Činku držíme pevně oběma rukama a s napnutými nohami vytahujeme nahoru. Při tomto cviku pracují především hamstringy a vzpřimovače zad. Je velice důležité, abychom činku po celou dobu drželi co nejblíže těla. Pokud ji totiž dáme od těla daleko, tak na spodní záda působí obrovská páka a hrozí velké riziko zranění.
-  http://mrtvytah.eu/rumunsky-mrtvy-tah/
+description: volíme velmi úzký postoj(mezi chodidly pouze několik cm) a nohy necháváme při provádění cviku napnuté. Činku
+  držíme pevně oběma rukama a s napnutými nohami vytahujeme nahoru. Při tomto cviku pracují především hamstringy a vzpřimovače
+  zad. Je velice důležité, abychom činku po celou dobu drželi co nejblíže těla. Pokud ji totiž dáme od těla daleko, tak na
+  spodní záda působí obrovská páka a hrozí velké riziko zranění.
 upstream:
   license: CC-BY-SA-4.0
   license_author: pjwirth

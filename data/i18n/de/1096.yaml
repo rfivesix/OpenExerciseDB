@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1096'
 language: de
-status: upstream_unreviewed
-name: Abduktion im Stand
+status: ai_reviewed
+name: Hüftabduktion im Stand
 description: |-
-  Das Training des stabilen Standes dominat auf einem Bein ist beiseitig entscheidend. Einerseits um Beschwerden vorzubeugen und andererseits um eine stabile Basis zu legen.Die übende Person stellt sich in die gewohnte Standposition und versucht bei stabilem Oberkörper das unbelastete Bein wiederholt zu heben und und in Hüfte und Knie zu beugen und wieder zu senken. Die Bewegung wird jedenfalls auch mit der anderen Seite wiederholt. Die Übung trainiert die Stabilität der hüftumgebenden Muskulatur
+  Ausgangsposition:
+  Stelle dich aufrecht hin, die Hände können zur Unterstützung an einer Wand oder Stuhllehne abgestützt werden. Verlagere das Körpergewicht stabil auf das Standbein, halte das Becken waagerecht und den Rumpf aufgerichtet.
+
+  Ausführung:
+  1. Hebe das unbelastete Bein mit gestrecktem oder leicht gebeugtem Knie kontrolliert seitlich nach außen ab (Abduktion).
+  2. Führe das Bein nur so weit nach oben, wie das Becken gerade und der Oberkörper aufrecht bleiben kann (kein Ausweichen des Oberkörpers zur Gegenseite).
+  3. Spanne am obersten Punkt die Gesäßmuskulatur (insbesondere Musculus gluteus medius) für eine Sekunde an.
+  4. Senke das Bein langsam und kontrolliert wieder ab, ohne das Gewicht ganz abzusetzen.
+  5. Führe alle Wiederholungen durch und wechsle anschließend das Bein.
+search_terms:
+  - Abduktion im Stand
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

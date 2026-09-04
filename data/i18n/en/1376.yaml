@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1376'
 language: en
-status: upstream_unreviewed
-name: Recumbent Bike
+status: ai_reviewed
+name: Barbell Calf Raise
 description: |-
-  For this exercise Recumbent Bike is needed. You just sit on it, set level and time and start the workout
+  Starting position:
+  Position a barbell across your upper traps as you would for a back squat. Stand upright with feet hip-width apart, optionally placing the balls of your feet on a calf block or weight plate for a greater stretch.
+
+  Movement:
+  Drive through the balls of your feet to raise your heels as high as possible, achieving a peak contraction in your calves. Pause briefly at the top, then slowly lower your heels with control until you feel a gentle stretch in the calf muscles.
+
+  Notes:
+  Keep your knees slightly soft but stationary throughout the movement. Avoid bouncing at the bottom or using momentum from your hips.
 upstream:
   license: CC-BY-SA-4.0
   license_author: pera_perkan

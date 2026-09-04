@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1209'
 language: en
-status: upstream_unreviewed
-name: Shoulder width three-point push-up
+status: ai_reviewed
+name: Three-Point Push-Up
 description: |-
-  Get into a push-up position with your shoulders directly above your hands and your feet hip-width apart. Draw your belly button in towards your spine and tighten your abdominal muscles. Lift your left foot about five centimetres off the floor. Point your toes straight down. Do not move your hips. Your body forms a straight line from your head to your heels throughout the exercise. Now bend your elbows, lower your chest to the floor and push yourself back up. Repeat the exercise on the other side.
+  Starting Position:
+  • Set up in a standard push-up position with your hands placed shoulder-width apart.
+  • Lift one foot approximately 5 to 10 cm off the floor so that your body is supported on three points.
+  • Keep your hips level and square to the ground with your core rigidly braced.
+
+  Execution:
+  • Bend your elbows to lower your chest toward the floor in a smooth, controlled motion.
+  • Resist the rotational torque through your hips and maintain a straight line from your head to your supporting heel.
+  • Press firmly through your hands to return to the top position.
+  • Complete your repetitions and switch legs.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2172'
+search_terms:
+  - Shoulder width three-point push-up
+  - Single leg push-up

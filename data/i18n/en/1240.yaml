@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1240'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Standing Soleus Stretch
 description: |-
-  This stretch targets the Soleus part of your calf. It may be performed with a wall or chair.
+  Starting Position:
+  • Stand facing a wall with your hands resting on the wall at chest height.
+  • Step one foot slightly back into a shorter staggered stance than a standard calf stretch.
+
+  Execution:
+  • Keep both heels flat on the floor and bend both knees simultaneously, focusing on bending the rear knee.
+  • Sink your hips downward to target the deeper soleus muscle located beneath the gastrocnemius, just above the Achilles tendon.
+  • Hold the stretch for 20 to 30 seconds with steady breathing, then switch legs.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2202'
+search_terms:
+  - Bent-knee calf stretch
+  - Soleus stretch

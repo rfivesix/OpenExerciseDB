@@ -5,14 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1441'
 language: es
-status: upstream_unreviewed
-name: Press militar en banco inclinado con mancuernas
+status: ai_reviewed
+name: Press de hombros inclinado con mancuernas
 description: |-
-  Siéntate en un banco con una inclinación de 45°
-  Codos a 45° hacia afuera
-  Baja las mancuernas hasta que los brazos queden paralelos a los hombros
-  Sube las mancuernas hasta que se junten por encima de la cabeza
+  Posición inicial:
+  • Siéntate en un banco con respaldo inclinado a un ángulo elevado (entre 60° y 75°), con la espalda completamente apoyada.
+  • Sujeta un par de mancuernas a la altura de los hombros con las palmas orientadas hacia delante.
+
+  Ejecución:
+  • Empuja las mancuernas hacia arriba de forma controlada hasta extender los brazos casi por completo sobre la cabeza.
+  • Haz una breve pausa en la parte superior y baja lentamente las mancuernas de vuelta a la altura de los hombros.
+  • Mantén los codos en un ángulo de aproximadamente 45 grados respecto al cuerpo para proteger las articulaciones.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3949'
+search_terms:
+  - Press militar en banco inclinado con mancuernas

@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '805'
 language: es
-status: upstream_unreviewed
-name: Empuje de tríceps en cable
-description: |-
-  El empuje hacia abajo de la cuerda del cable es un ejercicio popular dirigido a los músculos tríceps. Es fácil de aprender y realizar, lo que lo convierte en el favorito de todos, desde principiantes hasta levantadores avanzados. Por lo general, se realiza para repeticiones de moderadas a altas, como 8-12 repeticiones o más por serie, como parte de un entrenamiento centrado en la parte superior del cuerpo o en los brazos.
+status: ai_reviewed
+name: Empuje de tríceps con cuerda en polea
+description: '- Sujeta la cuerda en la polea alta, de pie con los pies al ancho de
+  los hombros y el torso ligeramente inclinado hacia delante.
+
+  - Con los codos fijos pegados al cuerpo, empuja la cuerda hacia abajo estirando
+  los brazos.
+
+  - Separa los extremos de la cuerda hacia fuera en la parte más baja para maximizar
+  la contracción de los tríceps.
+
+  - Regresa de forma controlada a la posición inicial sin dejar que los codos se desplacen
+  hacia delante.'
+search_terms:
+- Empuje de tríceps en cable
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442

@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '580'
 language: pt
-status: upstream_unreviewed
-name: Prancha lateral esquerda
+status: ai_reviewed
+name: Prancha lateral
+search_terms:
+- Prancha lateral esquerda
 description: |-
   Deite-se de lado, com o cotovelo inferior em ângulo reto, com o braço para fora
   Levante sua pélvis do chão levantando o ombro inferior para cima, mantendo o antebraço no chão; sua cabeça, pélvis e pés devem estar em linha reta

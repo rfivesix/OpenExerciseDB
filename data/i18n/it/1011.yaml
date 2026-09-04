@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: it
-status: upstream_unreviewed
-name: Collo anteriore allungato
+status: ai_reviewed
+name: Allungamento anteriore del collo
 description: |-
   Posizione di partenza:
-  Seduti o in piedi con la schiena dritta.
-  Passi:
+  Siediti o mantieni la posizione eretta con la schiena dritta e le spalle rilassate.
 
-  Aprire bene la bocca.
-  Inclinare lentamente la testa all'indietro con la bocca aperta. Se senti il bisogno di un sostegno, stringi le mani dietro la testa.
-  Chiudere e aprire molto lentamente la bocca.
-  Alla fine, torna lentamente alla posizione di partenza e chiudi la bocca.
+  Esecuzione:
+  1. Apri bene la bocca.
+  2. Inclina lentamente la testa all'indietro a bocca aperta fino ad avvertire un allungamento confortevole sulla parte anteriore del collo.
+  3. Chiudi e apri molto lentamente la bocca alcune volte per intensificare la distensione del platisma e dei flessori del collo.
+  4. Riporta con calma il capo nella posizione neutra iniziale.
+search_terms:
+  - Collo anteriore allungato
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1899'

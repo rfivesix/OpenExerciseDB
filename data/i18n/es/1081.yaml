@@ -5,16 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1081'
 language: es
-status: upstream_unreviewed
-name: Dislocaciones de hombro
+status: ai_reviewed
+name: Dislocaciones de hombros (con banda o pica)
 description: |-
   Posición inicial:
-  Ponte de pie con la espalda recta y una banda elástica, una toalla o un palo de escoba en las manos. Con las manos rectas por delante del cuerpo y la banda entre las manos, separa las manos hasta que ambas queden a unos 45 grados de tu cuerpo, con los pulgares apuntando hacia abajo. Si usas una toalla o un palo de escoba en su lugar, agárralo con un agarre prono.
-  Pasos:
+  Ponte de pie con los pies separados al ancho de los hombros y la espalda recta. Sujeta una banda elástica o pica delante del cuerpo con un agarre prono amplio y los brazos estirados.
 
-  Manteniendo los brazos extendidos, rota en los hombros para llevar los brazos por encima de la cabeza y luego hacia abajo en dirección a los glúteos.
-  Rota en los hombros en sentido contrario: por encima de la cabeza y luego hacia la ingle.
-  Repite.
+  Ejecución:
+  1. Manteniendo los codos completamente rectos, sube los brazos por delante de ti y por encima de la cabeza describiendo un arco amplio.
+  2. Continúa la rotación hacia atrás hasta llevar la banda o pica detrás de las caderas o glúteos.
+  3. No arquees la zona lumbar ni dobles los codos; si notas excesiva rigidez, ensancha el agarre.
+  4. Invierte el movimiento pasando de nuevo por encima de la cabeza hasta volver al frente.
+  5. Repite de forma controlada para mejorar la movilidad articular del hombro.
+search_terms:
+  - Dislocaciones de hombro
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

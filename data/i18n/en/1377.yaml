@@ -9,7 +9,14 @@ language: en
 status: ai_reviewed
 name: Standing Torso Twist
 description: |-
-  Standing Torso Twist WorkoutTarget your core and improve flexibility with this dynamic standing exercise! The Standing Torso Twist Workout involves twisting your torso while keeping your feet and hips stable, engaging your obliques, and stretching your entire upper body. This movement helps to:Strengthen core musclesIncrease flexibility in the spine and torsoImprove posture and balanceEnhance overall athletic performancePerform 3 sets of 10-15 reps, twisting to each side, to feel the benefits of this effective and efficient workout!
+  Starting position:
+  Stand with feet shoulder-width apart and knees slightly soft. Keep your hips facing forward and place your hands across your chest or behind your head.
+
+  Movement:
+  Rotate your torso smoothly to one side by engaging your obliques, keeping your hips and lower body stable. Pause briefly at the end range of motion, return to the center, and rotate to the opposite side in a controlled, rhythmic tempo.
+
+  Notes:
+  Do not forcefully twist through the lumbar spine; initiate the rotation through the thoracic spine and ribcage. Keep your hips stationary throughout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: brucem

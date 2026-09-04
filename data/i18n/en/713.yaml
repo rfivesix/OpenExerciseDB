@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '713'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wall Pushup
-description: Pushup against a wall
+description: '- Stand about an arm''s length away from a flat wall with feet hip-width
+  apart.
+
+  - Place your palms flat against the wall at shoulder height and slightly wider than
+  shoulder width.
+
+  - Keeping your body in a straight line from head to heels, bend your elbows to lower
+  your chest toward the wall under control.
+
+  - Press firmly through your hands to return to the starting position without arching
+  your lower back or sagging your hips.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: Dexter

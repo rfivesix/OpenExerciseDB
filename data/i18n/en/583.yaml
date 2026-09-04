@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '583'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Side to Side Push Ups
 description: |-
-  -start in push up position
-  -lean the body weight to the right side, and complete a push up with the chest over the right hand
-  -come back to the centered position
-  -on rep 2, lean to the left side
+  Starting Position: Begin in a high plank / push-up position with hands placed slightly wider than shoulder-width apart and body forming a straight line.
+  Execution: Lower your chest toward one hand as you bend your elbows, shifting the majority of your body weight to that side.
+  Return: Push powerfully back to the starting position and repeat, shifting toward the opposite side on the next repetition.
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303

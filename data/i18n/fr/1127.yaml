@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1127'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical en prise serrée et supination
 description: |-
-  Mouvement vers le bas
-  •  Tirez la barre vers le bas de sorte qu'elle passe près de votre menton et touche la partie supérieure de votre poitrine.
-  •  Gardez le reste de votre corps immobile.
+  Position de départ :
+  • Asseyez-vous à la poulie haute et calez fermement vos cuisses sous les boudins de maintien.
+  • Saisissez la barre en prise supination serrée (paumes tournées vers vous), à largeur d'épaules ou légèrement moins.
+  • Gardez le buste droit, la poitrine fière et le bas du dos naturellement cambré.
+
+  Exécution :
+  • Tirez la barre vers le bas en direction du haut de la poitrine en amenant les coudes près du corps vers le bas et l'arrière.
+  • En bas du mouvement, serrez vos omoplates et contractez fortement le grand dorsal et les biceps.
+  • Remontez lentement et de manière contrôlée jusqu'à extension complète des bras pour bien étirer les dorsaux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

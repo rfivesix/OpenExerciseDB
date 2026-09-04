@@ -5,10 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1294'
 language: en
-status: upstream_unreviewed
-name: Single-leg hamstring curl
-description: |-
-  Specifically, the muscles involved are: biceps femoris, semimembranosus and semitendinosus.
+status: ai_reviewed
+name: Single-Leg Hamstring Curl
+description: 'Starting position:
+
+  Lie on your back on a mat. Place the heel of one leg on the floor (or on a slider/towel) with the knee slightly bent, while
+  holding the other leg elevated off the ground.
+
+
+  Execution:
+
+  1. Lift your hips off the mat into a single-leg bridge position.
+
+  2. Curl your heel toward your glutes by flexing at the knee, strongly contracting the hamstrings.
+
+  3. Slowly extend your leg back out under control while keeping your hips elevated.
+
+
+  Tips:
+
+  Effectively isolates and strengthens the hamstring group (biceps femoris, semimembranosus, semitendinosus) unilaterally
+  using only bodyweight.'
+search_terms:
+- Single-leg hamstring curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

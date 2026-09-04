@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '821'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dominadas en Tabla de Multipresas
-description: |-
-  1-Calentamiento: Antes de empezar, es crucial haber calentado adecuadamente los dedos, muñecas, codos y hombros. No intentes este ejercicio en frío.
-  2- Selección del Agarre: Elige un par de presas (agarres) o regletas que sean simétricas en la tabla de multipresas. Comienza con las más grandes y cómodas que te permitan realizar el movimiento de forma segura antes de progresar a otras más pequeñas.
-  3-&nbsp;Ejecución: Cuélgate de las presas seleccionadas con los brazos extendidos pero manteniendo los hombros activos (lejos de las orejas). Desde esa posición, realiza una dominada estricta, jalando con la espalda y los brazos hasta que tu barbilla supere la altura de tus manos.
-  4-&nbsp;Descenso Controlado: La parte más importante es la bajada. Desciende de forma lenta y controlada (tardando 2-3 segundos) hasta volver a la posición inicial. Evita dejarte caer bruscamente, ya que esto puede causar lesiones.
+description: '1- Calentamiento: Antes de empezar, es crucial haber calentado adecuadamente
+  los dedos, muñecas, codos y hombros. No intentes este ejercicio en frío.
+
+  2- Selección del Agarre: Elige un par de presas o regletas simétricas en la tabla
+  de multipresas. Comienza con las más grandes y cómodas antes de progresar a otras
+  más pequeñas.
+
+  3- Ejecución: Cuélgate de las presas seleccionadas con los brazos extendidos y los
+  hombros activos (lejos de las orejas). Realiza una dominada estricta jalando con
+  la espalda y los brazos hasta que la barbilla supere las manos.
+
+  4- Descenso Controlado: Desciende de forma lenta y controlada (2-3 segundos) hasta
+  la posición inicial sin dejarte caer bruscamente.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

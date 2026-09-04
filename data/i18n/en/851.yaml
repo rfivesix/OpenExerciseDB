@@ -1,13 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '851'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Leg Extension
-description: |-
-  Is an isolation exercise focused on the quadriceps, which are made up of four specific muscles on the front of your thigh—the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius.
+description: '- Sit on the leg extension machine, adjusting the backrest and shin
+  pad so your knees align with the pivot point and the pad rests comfortably above
+  your ankles.
+
+  - Grip the side handles to stabilize your upper body.
+
+  - Extend your knees smoothly to lift the weight until your legs are nearly straight,
+  squeezing your quadriceps.
+
+  - Hold the peak contraction briefly without harshly locking out your knees, then
+  lower the weight under slow, steady control.'
 upstream:
   license: CC-BY-SA-4.0

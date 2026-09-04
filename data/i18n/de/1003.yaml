@@ -1,27 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1003'
 language: de
 status: ai_reviewed
-name: Kettlebell Kreuzheben
-description: |-
-  Ausgangsposition:
-  Stelle dich hüftbreit hin, die Kettlebell befindet sich mittig zwischen deinen Knöcheln. Der Rücken ist gerade, der Blick nach vorne gerichtet.
-  Schritte:
+name: Kettlebell-Kreuzheben
+description: 'Ausgangsposition: Stelle dich hüft- bis schulterbreit hin, die Kettlebell
+  steht mittig zwischen deinen Füßen auf Höhe der Knöchel.
 
-  Beuge dich in der Hüfte und gehe leicht in die Knie, um die Hände an den Kettlebell-Griff zu legen. Der Rücken bleibt während der Ausführung gerade.
-  Greife den Griff der Kettlebell und baue Spannung im Oberkörper auf.
-  Spanne Bauch und Gesäß an und richte dich kontrolliert auf.
-  Beuge dich wieder in der Hüfte, um die Kettlebell wieder kontrolliert nach unten zu führen.
-  Wiederhole den Vorgang ab Schritt 3.
+  Ausführung: Schiebe die Hüfte nach hinten, beuge die Knie leicht und greife den
+  Kettlebell-Griff mit beiden Händen bei geradem Rücken. Drücke dich kraftvoll über
+  die Fersen ab und strecke die Hüfte nach vorne, um dich vollständig aufzurichten.
+  Spanne das Gesäß am höchsten Punkt fest an.
 
-  Tipps:
+  Rückkehr: Schiebe die Hüfte wieder nach hinten und senke die Kettlebell kontrolliert
+  am Körper entlang auf den Boden ab.
 
-  Achte auf eine korrekte Bewegungsausführung, um Verletzungen zu vermeiden: Führe die Bewegung aus der Hüfte aus (Hinge) statt einer reinen Kniebeuge, runde den Rücken nicht beim Greifen der Kettlebell und überstrecke die Wirbelsäule beim Aufstehen nicht nach hinten.
+  Hinweis: Halte die Wirbelsäule während der gesamten Bewegung neutral und vermeide
+  einen Rundrücken.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1802'
+search_terms:
+- Kettlebell Kreuzheben
+- Kreuzheben mit Kettlebell

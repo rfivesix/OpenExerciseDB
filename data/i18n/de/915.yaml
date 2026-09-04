@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '915'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Lenkrad-Drehen (Bus Drivers)
-description: Im Sitzen eine Gewichtsscheibe mit beiden Händen wie ein Lenkrad halten und etwas unter Augenhöhe anheben.
+description: '- Setze dich aufrecht auf eine Bank oder den Boden und halte eine Hantelscheibe
+  mit beiden Händen seitlich (9- und 3-Uhr-Position).
+
+  - Hebe die Scheibe mit leicht gebeugten Armen vor deinem Körper auf knapp unter
+  Augenhöhe an.
+
+  - Rotiere die Hantelscheibe kontrolliert abwechselnd nach links und rechts, ähnlich
+  wie beim Drehen eines großen Lenkrads.
+
+  - Halte die Arme während der gesamten Übung auf Höhe und den Rumpf stabil angespannt.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

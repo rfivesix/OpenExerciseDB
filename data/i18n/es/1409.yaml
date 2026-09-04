@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1409'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dragon flag
 description: |-
   Mantén el cuerpo completamente rígido durante todo el movimiento, evitando que la zona lumbar se hunda.

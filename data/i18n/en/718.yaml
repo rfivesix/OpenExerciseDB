@@ -5,11 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: en
-status: upstream_unreviewed
-name: Wall Squat
-description: |-
-  Find a nice flat piece of wall and stand with your back leaning against the wall. Slowly slide down the wall while moving your feet away from it, until your thighs are parallel to the ground and both your knees and your hips are bent at a 90° angle. Cross your arms in front of your chest and hold this position for 30 seconds.
-  Variant: put a big inflated rubber ball (like a small basketball) between your knees and squeeze the ball while holding the squat position
+status: ai_reviewed
+name: Wall Sit
+description: '- Stand with your back flat against a wall and your feet shoulder-width
+  apart, placed roughly two feet away from the wall.
+
+  - Slide your back down the wall until your thighs are parallel to the floor, forming
+  a 90-degree angle at both your hips and knees.
+
+  - Ensure your knees are directly above your ankles, brace your core, and hold the
+  isometric squat position for the target duration.'
+search_terms:
+- Wall Squat
 upstream:
   license: CC0-1.0
   license_author: Blablabla

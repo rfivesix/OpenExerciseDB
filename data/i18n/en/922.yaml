@@ -1,13 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '922'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Cable Mid Trap Shrug
-description: seated straight back, slight hold at top
+description: 'Starting Position: Sit upright at a cable row station with feet secured
+  against the footrests. Grasp the cable attachment with arms fully extended in front
+  of you.
+
+  Execution: Without bending your elbows, pull your shoulder blades straight back
+  toward each other (scapular retraction). Squeeze your mid-traps and rhomboids firmly
+  at the peak contraction for 1–2 seconds.
+
+  Return: Slowly allow your shoulder blades to protract forward under control back
+  to the starting position.
+
+  Cues: Keep your torso still and upright; do not lean backward to move the weight.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '505'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch sur banc à lombaires (roman chair)
-description: |-
-  Crunchs sur banc à lombaires (roman chair). Gardez le buste droit et les abdominaux contractés ; ne remontez pas complètement à la verticale et ne vous allongez pas non plus à plat, afin de maintenir une tension constante sur vos abdominaux.
+description: Crunchs sur banc à lombaires (roman chair). Gardez le buste droit et les abdominaux contractés ; ne remontez
+  pas complètement à la verticale et ne vous allongez pas non plus à plat, afin de maintenir une tension constante sur vos
+  abdominaux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

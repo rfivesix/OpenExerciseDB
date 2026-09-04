@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '829'
 language: es
-status: upstream_unreviewed
-name: Elevación Deltoides Posterior
-description: |-
-  Sentado en un banco con las mancuernas en el suelo, inclínate a 45 grados y luego levanta lentamente cada mancuerna hasta la altura del hombro y mantén durante un par de segundos antes de bajar a la posición inicial.
+status: ai_reviewed
+name: Elevaciones posteriores sentado
+description: '- Siéntate en el borde de un banco plano e inclina el torso hacia adelante
+  sobre los muslos manteniendo la espalda recta.
+
+  - Sujeta una mancuerna en cada mano por debajo de las piernas con los codos ligeramente
+  flexionados.
+
+  - Eleva las mancuernas hacia los lados hasta que los brazos queden a la altura de
+  los hombros.
+
+  - Contrae los deltoides posteriores en la parte alta y desciende lentamente con
+  control.'
+search_terms:
+- Elevación Deltoides Posterior
 upstream:
   license: CC-BY-SA-4.0

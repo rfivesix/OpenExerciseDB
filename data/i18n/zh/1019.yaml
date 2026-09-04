@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: zh
-status: upstream_unreviewed
-name: 右前臂平板支撑
+status: ai_reviewed
+name: 右侧平板支撑
 description: |-
-  起始姿势：侧躺，下肘成直角，手臂伸出。 抬起下肩，将骨盆抬离地面，前臂停留在地面； 你的头、骨盆和脚应该在一条直线上。
-  步骤：
+  起始姿势：
+  身体向右侧卧，双腿伸直，双脚叠放或前后微微分开。右肘置于右肩正下方，小臂平贴地面支撑。
 
-  保持这个姿势。
+  动作步骤：
+  1. 收紧核心肌群、腹斜肌和臀部，发力将骨盆抬离地面，使身体从头到脚呈一条笔直的斜线。
+  2. 保持颈椎自然延展，胸腔打开，避免髋部下沉或身体扭转。
+  3. 在规定时间内保持该静态姿势，平稳呼吸。
+search_terms:
+  - 右前臂平板支撑
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1934'

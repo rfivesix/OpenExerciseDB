@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '804'
 language: en
-status: upstream_unreviewed
-name: Sloper hanging
-description: Hanging on sloper holds of a fingerboard for a amount of seconds
+status: ai_reviewed
+name: Fingerboard Sloper Hang
+description: '- Place both hands with an open hand position flat onto the sloper holds
+  of a hangboard/fingerboard.
+
+  - Engage your shoulders actively (pulling them down and back) and maintain a slight
+  bend in your elbows to protect your joints.
+
+  - Lift your feet off the ground and rely on open-hand friction and forearm flexor
+  strength to hang steadily for the prescribed duration.
+
+  - Keep your core engaged and body steady without swinging.'
+search_terms:
+- Sloper hanging
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

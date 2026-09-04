@@ -1,21 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '997'
 language: de
-status: upstream_unreviewed
-name: Burpees mit 4 Zählzeiten
-description: |-
-  Ausgangsposition:
-  Gerade stehen, Füße hüftbreit auseinander.
-  Schritte:
+status: ai_reviewed
+name: 4-Count Burpees (Burpees mit 4 Zählzeiten)
+description: 'Ausgangsposition: Stehe aufrecht mit schulterbreitem Stand und locker
+  herabhängenden Armen.
 
-  Gehen Sie in die Hocke und stützen Sie sich mit den Händen zwischen den Knien und vor den Füßen mit geradem Rücken auf dem Boden ab.
-  Lassen Sie die Hände auf dem Boden und springen Sie mit den Beinen nach hinten in eine hohe Plank-Position.
-  Springen Sie mit den Füßen nach vorne, um wieder in die Hocke zu gehen.
-  Wiederholen Sie die Übung.
+  Ausführung:
+
+  1. Gehe in eine tiefe Kniebeuge und setze die Hände flach vor deinen Füßen auf den
+  Boden.
+
+  2. Springe mit beiden Füßen dynamisch nach hinten in die hohe Liegestützposition
+  (Plank).
+
+  3. Springe mit den Füßen wieder nach vorne neben deine Hände in die Kniebeuge.
+
+  4. Richte dich kraftvoll wieder in den aufrechten Stand auf.
+
+  Hinweis: Halte den Rumpf in der Plank-Position fest angespannt, um ein Durchhängen
+  der Hüfte zu verhindern.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1730'
+search_terms:
+- Burpees mit 4 Zählzeiten
+- 4-count burpees

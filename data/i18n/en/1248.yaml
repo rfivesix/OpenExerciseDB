@@ -5,10 +5,26 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1248'
 language: en
-status: upstream_unreviewed
-name: Ice cream maker
-description: |-
-  From the final phase of a pull-up, we push ourselves back with our shoulders until we reach the front lever position. From there, we pull ourselves back up to the starting position.
+status: ai_reviewed
+name: Ice Cream Maker
+description: 'Starting position:
+
+  Begin at the top of a chin-up or pull-up, holding the bar with arms bent and chest close to the bar.
+
+
+  Execution:
+
+  1. Push your torso backward using your shoulders and arms while keeping your core rigid, extending your arms until you reach
+  a horizontal front lever position.
+
+  2. From the front lever position, pull your body back up in a smooth arc to the top of the pull-up position.
+
+  3. Repeat for repetitions in a controlled cadence.
+
+
+  Tips:
+
+  Demands high levels of lat strength and dynamic core control.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

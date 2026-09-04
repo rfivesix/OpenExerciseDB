@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1436'
 language: fr
-status: upstream_unreviewed
-name: Développé couché aux barres d'arrêt (barre)
+status: ai_reviewed
+name: Développé couché aux barres d'arrêt
 description: |-
-  Réglez les barres d'arrêt environ à la hauteur de votre point de blocage
-  Abaissez la barre, laissez-la reposer sur les barres d'arrêt pendant 1 s en maintenant la tension
-  Poussez la barre vers le haut avec un maximum de force
+  Position de départ :
+  Installez un banc plat dans une cage à squat et réglez les barres d'arrêt (pines) à la hauteur de votre point de blocage (quelques centimètres au-dessus de la poitrine). Allongez-vous sur le banc, saisissez la barre avec une prise légèrement supérieure à la largeur des épaules et ancrez vos pieds au sol.
+
+  Mouvement :
+  Abaissez la barre avec contrôle jusqu'à ce qu'elle repose complètement sur les barres d'arrêt. Marquez un temps d'arrêt de 1 à 2 secondes en maintenant le gainage et la tension musculaire active, puis développez la charge de façon explosive vers le haut sans rebondir sur les butées.
+
+  Conseils :
+  Ne relâchez jamais la tension corporelle lorsque la barre est posée. Le départ arrêté permet de développer la force d'arrachage et de vaincre les points de blocage.
+search_terms:
+  - Développé couché aux barres d'arrêt (barre)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1232'
 language: es
-status: upstream_unreviewed
-name: Estiramiento de bíceps de pie izquierdo
+status: ai_reviewed
+name: Estiramiento de bíceps de pie (izquierdo)
 description: |-
-  Ponte de pie con el brazo izquierdo cerca de una pared. Extiende el brazo izquierdo y apoya la mano izquierda en la pared, luego gira suavemente el cuerpo hacia la derecha.
+  Posición inicial:
+  • Ponte de pie con tu costado izquierdo junto a una pared.
+  • Extiende el brazo izquierdo hacia atrás y apoya la palma de la mano plana contra la pared a la altura del hombro.
+
+  Ejecución:
+  • Gira suavemente el torso y los pies hacia la derecha alejándote de la pared.
+  • Detente al notar un estiramiento agradable en el bíceps izquierdo y la parte anterior del hombro.
+  • Mantén la postura durante 20 a 30 segundos con una respiración controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3780'
+search_terms:
+  - Estiramiento de bíceps de pie izquierdo

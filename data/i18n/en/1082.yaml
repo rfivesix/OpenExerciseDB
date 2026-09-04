@@ -5,20 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1082'
 language: en
-status: upstream_unreviewed
-name: Bent over row to external rotation
+status: ai_reviewed
+name: Bent-Over Row to External Rotation
 description: |-
   Starting position:
-  Stand behind a chair or in front of a table. Bend at the waist to put your forehead on the chair's headrest or table, keeping your back straight. Your arms should be hanging straight down, pointed at the floor.
-  Steps:
+  Hinge forward at your hips with a flat back and knees slightly bent (torso angled at roughly 45–60 degrees). Let your arms hang straight down toward the floor.
 
-  Bring your elbows up to shoulder height. Your forearms should be pointing down, perpendicular to your biceps. Your biceps should be at the same height as your back and perpendicular to your spine.
-  Hold for a bit.
-  Rotate at your elbows to bring your hands as far up as you can.
-  Hold for a bit.
-  Rotate at your elbows back to the previous position.
-  Bring your arms down to the original position.
-  Repeat.
+  Execution:
+  1. Row your elbows up to shoulder level so your upper arms are perpendicular to your torso and forearms point down at 90 degrees.
+  2. Keeping your elbows pinned at shoulder height, externally rotate your shoulders by raising your forearms and hands upward until level with your head.
+  3. Pause briefly at the top to contract your rotator cuff and rear deltoids.
+  4. Lower the forearms back down with control, then extend your arms to the starting position.
+search_terms:
+  - Bent over row to external rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman

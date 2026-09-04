@@ -5,9 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1204'
 language: en
-status: upstream_unreviewed
-name: Cycling cardio session
-description: Cardio session on a Technogym Bike Excite 1000 stationary bike.
+status: ai_reviewed
+name: Stationary Bike Cardio Session
+description: |-
+  Starting Position:
+  • Adjust the stationary bike saddle height to hip level so that your knee has a slight bend at the bottom of the pedal stroke.
+  • Position the handlebars so you can maintain a comfortable upright or slightly inclined posture without straining your neck.
+
+  Execution:
+  • Pedal smoothly with a steady cadence typically between 70 and 90 RPM.
+  • Adjust the resistance to achieve your target aerobic heart rate zone for the planned duration.
+  • Keep your upper body relaxed and stable on the saddle, avoiding rocking your hips from side to side.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2164'
+search_terms:
+  - Cycling cardio session
+  - Stationary bike workout
+  - Indoor cycling cardio

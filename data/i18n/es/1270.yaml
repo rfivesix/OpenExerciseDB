@@ -5,17 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Aperturas en polea baja
-description: |-
-  Ajusta la máquina de poleas: Coloca la polea en la posición más baja posible.
-  Elige tus agarres: Puedes usar agarres de agarre neutro (palmas enfrentadas) o agarres rectos según tu preferencia. El agarre neutro puede ser más cómodo para tus muñecas.
-  Colócate con buena postura: Ponte de pie con los pies separados al ancho de los hombros, las rodillas ligeramente flexionadas y el core activado. Mantén una ligera curvatura en la zona lumbar durante todo el ejercicio.
-  Agarra los asas: Sujeta los asas con el agarre elegido y da uno o dos pasos pequeños hacia atrás hasta que haya algo de tensión en los cables.
-  Inicia el movimiento: Mantén los codos ligeramente flexionados durante todo el ejercicio. Imagina que le das a alguien un gran abrazo. Aprieta los músculos del pecho mientras juntas las manos frente al pecho.
+description: 'Ajusta la máquina de poleas: Coloca la polea en la posición más baja posible.
+
+  Elige tus agarres: Puedes usar agarres de agarre neutro (palmas enfrentadas) o agarres rectos según tu preferencia. El agarre
+  neutro puede ser más cómodo para tus muñecas.
+
+  Colócate con buena postura: Ponte de pie con los pies separados al ancho de los hombros, las rodillas ligeramente flexionadas
+  y el core activado. Mantén una ligera curvatura en la zona lumbar durante todo el ejercicio.
+
+  Agarra los asas: Sujeta los asas con el agarre elegido y da uno o dos pasos pequeños hacia atrás hasta que haya algo de
+  tensión en los cables.
+
+  Inicia el movimiento: Mantén los codos ligeramente flexionados durante todo el ejercicio. Imagina que le das a alguien un
+  gran abrazo. Aprieta los músculos del pecho mientras juntas las manos frente al pecho.
+
   Controla el movimiento: Concéntrate en apretar los músculos del pecho en lugar de usar los brazos para tirar de los asas.
-  Contracción máxima: Mantén brevemente la contracción en la parte alta del movimiento, con las manos juntas a la altura del pecho.
-  Vuelve lentamente: Libera lentamente la tensión y devuelve los asas hacia abajo a la posición inicial, con los brazos ligeramente extendidos pero sin bloquearlos.
+
+  Contracción máxima: Mantén brevemente la contracción en la parte alta del movimiento, con las manos juntas a la altura del
+  pecho.
+
+  Vuelve lentamente: Libera lentamente la tensión y devuelve los asas hacia abajo a la posición inicial, con los brazos ligeramente
+  extendidos pero sin bloquearlos.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

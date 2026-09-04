@@ -3,14 +3,26 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1259'
 language: de
 status: ai_reviewed
-name: TRX-Kniebeugen zur Seite
-description: |-
-  Setze deine Füße in die Schlaufen und nimm einen hohen Liegestütz ein, mit deinen Händen direkt unter deinen Schultern.
-  Ziehe deine Knie zu deinem rechten Ellbogen, dann drücke sie wieder heraus und zur Mitte.
+name: TRX Knee Tuck zum Ellbogen
+description: 'Ausgangsposition:
+
+  Platziere deine Füße in den Fußschlaufen des Schlingentrainers und gehe in eine Liegestützposition (hohe Plank) mit den
+  Händen direkt unter den Schultern.
+
+
+  Ausführung:
+
+  1. Spanne deinen Rumpf fest an und ziehe beide Knie kontrolliert diagonal nach vorne in Richtung des rechten Ellbogens.
+
+  2. Halte die Kontraktion in den schrägen Bauchmuskeln für einen kurzen Moment.
+
+  3. Strecke die Beine kontrolliert wieder nach hinten in die Plank-Position und wiederhole die Bewegung zur linken Seite.'
+search_terms:
+- TRX-Kniebeugen zur Seite
+- TRX Knieanziehen zum Ellbogen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

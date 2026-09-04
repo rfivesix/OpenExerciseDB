@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '539'
 language: it
-status: upstream_unreviewed
-name: Distensione su Panca Piana Imp Stretta
-description: Distensione su Panca Piana Imp StrettaDistensione su Panca Piana Imp Stretta
+status: ai_reviewed
+name: Distensioni su panca inclinata alla Smith machine (Multipower)
+search_terms:
+- Distensione su Panca Piana Imp Stretta
+description: |-
+  Posizione di partenza: Posiziona una panca inclinata (30-45°) all'interno della Smith machine. Siediti e impugna la barra guidata con una presa leggermente più ampia delle spalle, sbloccando i fermi di sicurezza.
+  Esecuzione: Abbassa la barra verso la parte superiore del petto in traiettoria guidata e controllata.
+  Ritorno: Spingi verso l'alto contraendo i fasci clavicolari del gran pettorale.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

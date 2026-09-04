@@ -1,21 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '992'
 language: de
 status: ai_reviewed
-name: Split Squats rechts
-description: |-
-  Ausgangsposition:
-  Stelle dich mit geradem Rücken hin. Mache mit dem rechten Bein einen großen Ausfallschritt nach vorn.
-  Schritte:
+name: Split Squat (rechts)
+description: 'Ausgangsposition: Stehe aufrecht und mache einen weiten Ausfallschritt
+  nach vorne mit dem rechten Bein. Die Füße bleiben hüftbreit versetzt für sicheren
+  Stand.
 
-  Senke dein Becken ab, bis das linke Knie fast den Boden berührt.
-  Richte dich wieder auf.
-  Wiederhole die Übung.
+  Ausführung: Senke das Becken senkrecht nach unten ab, indem du beide Knie beugst,
+  bis der rechte Oberschenkel waagerecht steht und das linke Knie knapp über dem Boden
+  stoppt.
+
+  Rückkehr: Drücke dich kraftvoll über die rechte Ferse wieder nach oben in die Ausgangsstellung,
+  ohne die Fußposition zu verändern.
+
+  Hinweis: Der Oberkörper bleibt während der gesamten Übung aufrecht.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1656'
+search_terms:
+- Split Squats rechts
+- Ausfallschritt rechts fix

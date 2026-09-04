@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '577'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Piegamenti laterali con manubri
-description: |-
-  AKA piegamenti laterali con manubri. Stare in linea con i fianchi con le ginocchia leggermente piegate, mantenere la naturale curvatura della colonna vertebrale, mano tesa lungo il corpo, afferrare il bilanciere con una mano. Esegui delle flessioni laterali del busto lente e controllate fino a raggiungere l'angolo di circa 45°
+description: AKA piegamenti laterali con manubri. Stare in linea con i fianchi con le ginocchia leggermente piegate, mantenere
+  la naturale curvatura della colonna vertebrale, mano tesa lungo il corpo, afferrare il bilanciere con una mano. Esegui delle
+  flessioni laterali del busto lente e controllate fino a raggiungere l'angolo di circa 45°
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

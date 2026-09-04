@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '915'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bus Drivers
-description: |-
-  Sitting with a Weight Plate, used as wheel, in both hands; raised slightly below eye level
+description: '- Sit upright on a bench or floor and hold a weight plate with both
+  hands at the 9 and 3 o''clock positions.
+
+  - Extend your arms forward with slightly bent elbows, holding the plate out just
+  below eye level.
+
+  - Rotate the plate smoothly from side to side in a controlled steering motion, turning
+  one hand on top and then the other.
+
+  - Keep your arms elevated at shoulder height and your core braced throughout the
+  set.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

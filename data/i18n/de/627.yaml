@@ -1,12 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '627'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Gestrecktes Kreuzheben
+search_terms:
+- Kreuzheben mit gestreckten Beinen
+- Stiff-Legged Deadlift
 description: |-
-  Halte die Beine gestreckt.
-  Halte den Rücken gerade.
+  Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand und greife die Langhantel im schulterbreiten Obergriff vor den Oberschenkeln. Die Knie bleiben während der gesamten Übung nahezu gestreckt (mit minimaler Entriegelung zur Gelenkschonung).
+  Ausführung: Beuge den Oberkörper mit absolut geradem Rücken aus der Hüfte nach vorne und schiebe das Gesäß nach hinten. Führe die Hantelstange nah an den Beinen hinab, bis du eine intensive Dehnung in den Beinbeugern spürst.
+  Rückkehr: Richte dich durch kraftvolle Kontraktion von Gesäß und Beinbeugern wieder vollständig auf.
+  Hinweis: Halte den Rücken stets gerade und vermeide jedes Einrunden der Lendenwirbelsäule.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

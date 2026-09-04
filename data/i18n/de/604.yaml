@@ -1,10 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '604'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Speed-Kreuzheben
-description: Kreuzheben mit kurzen Pausen (unter einer Minute) zwischen den Sätzen.
+search_terms:
+- Speed Deadlift
+- Dynamisches Kreuzheben
+description: |-
+  Ausgangsposition: Tritt an eine mit ca. 50–70% des 1RM beladene Langhantel heran und nimm die gewohnte Kreuzhebe-Ausgangsposition ein. Rumpf und oberer Rücken sind maximal gespannt.
+  Ausführung: Hebe die Hantel mit maximaler Beschleunigung und explosiver Geschwindigkeit vom Boden bis zum Lockout an. Nutze die Beinstreckung und Hüftstreckung für maximale Hantelgeschwindigkeit.
+  Rückkehr: Führe das Gewicht zügig und kontrolliert wieder zum Boden ab.
+  Hinweis: Das Speed-Kreuzheben (Dynamic Effort) dient dem Aufbau von Explosivkraft und Startkraft; die Pausen zwischen den Sätzen werden mit unter einer Minute bewusst kurz gehalten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele

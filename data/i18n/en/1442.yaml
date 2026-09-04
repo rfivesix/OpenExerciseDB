@@ -9,13 +9,14 @@ language: en
 status: ai_reviewed
 name: Kreis Press with Dumbbells
 description: |-
-  Sit on a bench with 45° incline
-  Hold dumbbells overhead
-  Move dumbbells down as if doing overhead press
-  Rotate dumbbells palms facing up and extend your arms in front of your body
-  Move hands together until dumbbells meet, keep arms extended
-  Reverse the motion until dumbbells are overhead again
-  This is one repetition
+  Starting Position:
+  • Sit on an incline bench set to approximately a 45-degree angle.
+  • Hold two dumbbells overhead with arms extended.
+
+  Execution:
+  • Lower the dumbbells outward and down along a circular path until they reach shoulder height.
+  • Reverse the arc and press the dumbbells back overhead in a smooth circular trajectory.
+  • Keep tension constant on the front and lateral deltoids throughout the movement without using momentum.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

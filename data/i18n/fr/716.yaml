@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '716'
 language: fr
-status: upstream_unreviewed
-name: Glissements muraux
-description: |-
-  Tenez-vous debout, les talons, les épaules, l'arrière de la tête et les hanches en contact avec le mur. Commencez avec les bras tendus sur les côtés et les coudes pliés à 90 degrés. Tendez les bras tout en restant contre le mur, sans décoller le dos du mur en le cambrant, en imitant un mouvement de développé épaules.
+status: ai_reviewed
+name: Glissements muraux (Wall Slides)
+description: '- Tenez-vous debout le dos contre un mur, talons, fessiers, haut du
+  dos et arrière de la tête en contact léger avec le mur.
+
+  - Placez vos bras en ''W'' avec les coudes pliés à 90 degrés, les coudes et le dos
+  des mains collés au mur.
+
+  - Faites glisser les bras vers le haut le long du mur en forme de ''Y'', sans cambrer
+  le bas du dos ni décoller les bras.
+
+  - Redescendez lentement à la position de départ en abaissant activement les omoplates.'
+search_terms:
+- Glissements muraux
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

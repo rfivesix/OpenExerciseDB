@@ -1,16 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '988'
 language: it
-status: upstream_unreviewed
-name: Affondo bulgaro con manubri
-description: |-
-  Mettiti di fronte a una sedia e fai un grande passo. Metti la parte superiore di uno dei tuoi piedi sulla sedia.
-  Piegare il ginocchio anteriore, bilanciandosi con le braccia fino a quando il ginocchio posteriore tocca quasi il suolo
-  Spingi indietro fino alla posizione di partenza e ripeti.
+status: ai_reviewed
+name: Affondo bulgaro (sinistra)
+description: 'Posizione di partenza: Mettiti in piedi a circa due passi da una panca
+  o sedia. Appoggia il collo del piede destro sulla panca dietro di te, mantenendo
+  il piede sinistro ben saldo a terra in avanti.
+
+  Esecuzione: Fletti il ginocchio anteriore sinistro scendendo fino a quando la coscia
+  è quasi parallela al pavimento.
+
+  Ritorno: Spingi sul tallone sinistro per tornare alla posizione iniziale.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1606'
+search_terms:
+- Affondo bulgaro con manubri

@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '584'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Single-arm Preacher Curl
-description: |-
-  Sit on the preacher curl bench and perform a bicep curl with a dumbbell in one hand. Your other hand can be at rest, or beneath your curling arm's elbow.
+description: Sit on the preacher curl bench and perform a bicep curl with a dumbbell in one hand. Your other hand can be at
+  rest, or beneath your curling arm's elbow.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

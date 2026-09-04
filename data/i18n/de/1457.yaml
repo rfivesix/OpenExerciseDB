@@ -5,19 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1457'
 language: de
-status: upstream_unreviewed
-name: Cable Press Around
+status: ai_reviewed
+name: Brustdrücken am Kabelzug eingedreht (Cable Press Around)
 description: |-
-  Stelle den Kabelzug auf Brusthöhe ein und bringe einen D-Griff an. Greife
-  den Griff mit einem neutralen Griff und halte ihn neben deiner Brust, mit
-  vollständig gebeugtem Ellbogen eng am Körper. Drehe dich vom Kabelzug weg, sodass
-  dein Oberkörper im 45-Grad-Winkel steht.
-  Halte dich mit der entsprechenden Hand an der anderen Seite des Functional Trainers fest. Nimm eine versetzte Standposition für besseres Gleichgewicht ein.
-  Während du die Brust aufgerichtet hältst, strecke den Ellbogen im 45-Grad-Winkel
-  über deine Körpermitte, während du den Arm parallel zum Boden hältst. Stoppe
-  kurz vor dem Lockout und spanne die Brust am oberen Ende des Bewegungsumfangs
-  (ROM) an.
+  Ausgangsposition:
+  • Stelle die Rolle des Kabelzugs auf Brusthöhe ein und befestige einen D-Griff.
+  • Greife den Griff im neutralen Griff, drehe dich leicht schräg (ca. 45°) von der Station weg und gehe in einen stabilen Ausfallschritt.
+  • Der arbeitende Arm ist gebeugt, die Hand befindet sich neben der Brust.
+
+  Ausführung:
+  • Drücke den Griff mit der Brustmuskulatur in einem leichten Bogen über die Körpermitte nach vorne-innen.
+  • Spanne die Brustmuskulatur am Endpunkt der Bewegung (stärkste Kontraktion) intensiv für 1 Sekunde an.
+  • Führe den Griff langsam und kontrolliert zurück, bis du eine angenehme Dehnung im großen Brustmuskel spürst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3965'
+search_terms:
+  - Cable Press Around

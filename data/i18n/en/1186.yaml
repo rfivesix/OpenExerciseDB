@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1186'
 language: en
-status: upstream_unreviewed
-name: One Arm Bent Row
-description: One arm bent over row on cable with a machine
+status: ai_reviewed
+name: One-Arm Cable Bent-Over Row
+description: |-
+  Starting Position:
+  • Attach a single D-handle to the low pulley of a cable station.
+  • Stand facing the machine in a staggered or athletic stance, hinging forward at your hips with a flat spine.
+  • Grasp the handle with one hand, arm fully extended toward the pulley.
+
+  Execution:
+  • Pull the handle smoothly back toward your hip/waist, driving your elbow backward close to your torso.
+  • Retract your shoulder blade at the peak of contraction and squeeze your lat firmly.
+  • Slowly extend your arm back forward under control to feel a deep stretch in your back before the next repetition.
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2142'
+search_terms:
+  - One Arm Bent Row
+  - Single arm cable row

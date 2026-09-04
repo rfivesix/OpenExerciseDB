@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1448'
 language: es
-status: upstream_unreviewed
-name: Curl inclinado con mancuernas
+status: ai_reviewed
+name: Curl en W sentado con mancuernas
 description: |-
-  Sentado en un banco con el respaldo inclinado en un ángulo de 40 a 60 grados. Deja que tus brazos cuelguen hacia el suelo. Sujeta una mancuerna en cada mano en supinación.
+  Posición inicial:
+  • Siéntate en un banco inclinado a unos 60 grados con la espalda bien apoyada.
+  • Deja colgar los brazos a los lados con las palmas orientadas hacia fuera.
+
+  Ejecución:
+  • Flexiona los codos levantando las mancuernas en diagonal hacia el exterior, formando una W con los brazos al contraer.
+  • Aprieta los bíceps en la parte superior sin mover los codos hacia delante.
+  • Desciende las mancuernas de forma lenta y controlada hasta estirar los brazos completamente.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin
   source_id: '2624'
+search_terms:
+  - Curl inclinado con mancuernas
+  - Curl en W

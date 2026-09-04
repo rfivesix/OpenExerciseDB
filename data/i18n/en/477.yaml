@@ -6,11 +6,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '477'
 language: en
-status: ai_raw
-name: Pull Ups on Machine
+status: ai_reviewed
+name: Assisted Machine Pull-Up
+search_terms:
+  - Pull Ups on Machine
+description: |-
+  Adjust the counterweight on the assisted pull-up machine to provide the desired assistance. Place your knees or feet on the pad and grip the overhead handles with an overhand grip slightly wider than shoulder-width.
+  Pull yourself upward until your chin clears the bar, focusing on driving your elbows down and back. Lower your body slowly under control until your arms are fully extended, and repeat.
+
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '140'
-description: |-
-  Use the pull-up machine to perform a bilateral vertical pull. Pull your body upward by bending your elbows, then lower yourself under control.

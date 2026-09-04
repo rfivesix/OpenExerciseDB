@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1138'
 language: en
-status: upstream_unreviewed
-name: Incline bench pulldown
+status: ai_reviewed
+name: Incline Bench Cable Pulldown
 description: |-
-  Lying face down on the incline bench facing the cable machine, perform the pulldown.
+  Starting Position:
+  • Set up an incline bench at approximately 30 to 45 degrees facing a high cable pulley.
+  • Lie chest-down on the bench, keeping your head neutral and feet planted for stability.
+  • Reach overhead and grasp the cable handle or bar with extended arms.
+
+  Execution:
+  • Pull the handle smoothly down towards your upper chest, driving your elbows down and back.
+  • The bench support prevents torso momentum, allowing strict isolation of the latissimus dorsi.
+  • Squeeze your back muscles at the peak contraction, then slowly extend your arms back up under control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2115'
+search_terms:
+  - Incline bench pulldown

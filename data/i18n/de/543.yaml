@@ -6,11 +6,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '543'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Schultermaschine
+name: Schulterdrücken an der Maschine
+search_terms:
+- Schultermaschine
 description: |-
-  Setze dich in die Schulterdrückmaschine und drücke die Griffe über den Kopf. Führe sie kontrolliert in die Ausgangsposition zurück.
+  Ausgangsposition: Setze dich in die Schulterdrückmaschine und stelle die Sitzhöhe so ein, dass sich die Griffe etwa auf Schulterhöhe befinden. Der Rücken liegt stabil am Rückenpolster an und die Füße stehen fest auf dem Boden.
+  Ausführung: Drücke die Griffe kontrolliert über den Kopf nach oben, bis die Arme fast vollständig gestreckt sind.
+  Rückkehr: Senke das Gewicht langsam und kontrolliert wieder ab, bis die Hände wieder etwa auf Schulterhöhe sind.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -1,11 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1241'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Dorsalflexion mit Widerstandsband
-description: Für diese Übung wird ein Widerstandsband verwendet. Sie zielt auf den Soleus und den Tibialis anterior (Schienbeinmuskel) ab.
+description: |-
+  Ausgangsposition:
+  • Setze dich mit ausgestreckten Beinen auf den Boden.
+  • Befestige ein Widerstandsband an einem stabilen Verankerungspunkt vor dir und lege die Schlaufe um deinen Vorfuß/die Zehenspitzen.
+  • Rutsche so weit zurück, dass das Band bereits bei lockerer Fußhaltung auf Zug ist.
+
+  Ausführung:
+  • Ziehe die Fußspitze und die Zehen gegen den Widerstand des Bandes kraftvoll in Richtung deines Schienbeins heran (Dorsalflexion).
+  • Halte die maximale Anspannung des vorderen Schienbeinmuskels (M. tibialis anterior) am Endpunkt für 1 bis 2 Sekunden.
+  • Führe den Fuß langsam und kontrolliert wieder nach vorne in die gestreckte Position zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2203'
+search_terms:
+  - Exercise Band Dorsiflexion
+  - Schienbeintraining mit Band

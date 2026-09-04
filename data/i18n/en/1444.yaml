@@ -5,11 +5,19 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1444'
 language: en
-status: upstream_unreviewed
-name: Incline Chest Press DB
+status: ai_reviewed
+name: Incline Dumbbell Bench Press
 description: |-
-  Bench 45° incline
-  Hold dumbbells parallel on your chest
-  Press up until arms extended
+  Starting Position:
+  • Set an incline bench to an angle of roughly 30° to 45°.
+  • Lie back on the bench holding a dumbbell in each hand at chest level with palms facing forward.
+
+  Execution:
+  • Press the dumbbells straight upward above your upper chest until your arms are extended without forcefully locking your elbows.
+  • Lower the dumbbells slowly and under control back to chest level, keeping your elbows at roughly a 45-degree angle to your torso.
+  • Pause briefly at the bottom stretch before pressing up into the next repetition.
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+  - Incline Chest Press DB
+  - Incline Dumbbell Press

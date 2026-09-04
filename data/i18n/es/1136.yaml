@@ -5,22 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1136'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón al pecho con agarre neutro
 description: |-
-  El jalón al pecho es un ejercicio importante para fortalecer la espalda y mejorar la postura, lo que puede contribuir a una vida más saludable. Para realizar este ejercicio correctamente y evitar lesiones, es importante seguir algunos pasos clave:
+  Posición inicial:
+  • Siéntate en la máquina de jalón al pecho fijando los muslos bajo las almohadillas de sujeción.
+  • Sujeta el agarre paralelo (neutro), de modo que las palmas de las manos queden enfrentadas.
+  • Mantén la espalda recta, el pecho elevado y una ligera curvatura lumbar fisiológica.
 
-
-  Colócate frente a la máquina de poleas con las rodillas ligeramente dobladas y los pies en el suelo.
-
-
-  Agarra el mango de la polea con las palmas enfrentadas y las manos separadas a la anchura de los hombros.
-
-
-  Tira hacia abajo del mango hasta que toque o se acerque al pecho, manteniendo la posición durante uno o dos segundos.
-
-
-  Vuelve a subir el mango lentamente a la posición inicial, asegurándote de mantener los brazos y las manos rectos y la espalda recta durante todo el movimiento.
+  Ejecución:
+  • Tira del agarre hacia abajo en dirección a la parte superior del pecho, llevando los codos hacia abajo y atrás.
+  • Junta las escápulas y aprieta los dorsales en la posición más baja durante uno o dos segundos.
+  • Deja que el agarre suba lentamente y de manera controlada hasta extender los brazos por completo.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

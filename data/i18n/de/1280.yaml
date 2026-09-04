@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1280'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bizeps-Latzug mit engem Griff
-description: |-
-  Halte an einer Latzugmaschine die Stange mit relativ eng zusammenstehenden Händen. Verwende einen Untergriff (das heißt: dein Handrücken muss zur Maschine zeigen). Ziehe dann die Stange in einer geraden Linie nach unten zum Boden. Achte darauf, dass dein Bizeps der Hauptantrieb der Bewegung ist. Du wirst wahrscheinlich spüren, wie deine Schultern und dein Latissimus arbeiten, aber achte darauf, dass dein Bizeps stärker arbeitet.
+description: 'Halte an einer Latzugmaschine die Stange mit relativ eng zusammenstehenden Händen. Verwende einen Untergriff
+  (das heißt: dein Handrücken muss zur Maschine zeigen). Ziehe dann die Stange in einer geraden Linie nach unten zum Boden.
+  Achte darauf, dass dein Bizeps der Hauptantrieb der Bewegung ist. Du wirst wahrscheinlich spüren, wie deine Schultern und
+  dein Latissimus arbeiten, aber achte darauf, dass dein Bizeps stärker arbeitet.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

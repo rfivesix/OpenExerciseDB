@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1091'
 language: it
-status: upstream_unreviewed
-name: Plank shoulder taps
+status: ai_reviewed
+name: Plank con tocco delle spalle (Shoulder Taps)
 description: |-
-  Nella posizione di plank corretta&nbsp; divarica leggermente i piedi oltre la larghezza delle spalle. solleva e tocca con la mano la spalla opposta in modo alternato.
+  Posizione di partenza:
+  Assumi una solida posizione di plank alto a braccia tese con le mani sotto le spalle e i piedi divaricati poco oltre la larghezza delle anche per garantire stabilità.
+
+  Esecuzione:
+  1. Contrai intensamente addome e glutei per mantenere il bacino perfettamente orizzontale e immobile.
+  2. Stacca la mano destra da terra e tocca con controllo la spalla sinistra.
+  3. Riporta la mano destra a terra e ripeti toccando la spalla destra con la mano sinistra.
+  4. Alterna i lati ritmicamente evitando oscillazioni del busto.
+search_terms:
+  - Plank shoulder taps
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

@@ -20,9 +20,9 @@ Verfuegbarkeit und Abdeckung, nicht mehr einen ueberholten Zeichengleichstand.
 Fuer die Muskelspalten steht jetzt die eigentliche Gefahr im Test — dass eine
 Uebung ihre Information *verliert* statt sie zu praezisieren.
 
-Als Referenz dient die DB aus dem `wger-catalog-stable`-Release — das, was auf
-Geraeten tatsaechlich liegt. Ohne Referenz (kein Netz, kein Cache) ueberspringen
-sich die Tests, die eine brauchen; die Struktur- und Vertragstests laufen immer.
+Als Referenz dient bei Bedarf eine zuvor veroeffentlichte OpenExerciseDB-DB.
+Ohne Referenz (kein lokaler Cache) ueberspringen sich die Tests, die eine
+brauchen; die Struktur- und Vertragstests laufen immer.
 
 Warum "Referenz-IDs sind eine Teilmenge" und nicht "gleiche Menge": das Release
 ist vom 31.08. und kennt 862 Uebungen, der eingefrorene Snapshot vom 02.09. kennt
@@ -55,7 +55,7 @@ class DatabaseTestCase(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.tmp = tempfile.TemporaryDirectory()
-        db_path = Path(cls.tmp.name) / "train_libre_training.db"
+        db_path = Path(cls.tmp.name) / "openexercisedb.db"
         cls.report = support.build_database(db_path)
         cls.db = sqlite3.connect(db_path)
         cls.db.row_factory = sqlite3.Row

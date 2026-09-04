@@ -5,16 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '632'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Agachamentos de sumô
-description: |-
-  Posição inicial:
-  Fique em pé com as pernas separadas e os dedos dos pés virados para fora.
-  Passos:
+description: 'Fique em pé com os pés mais afastados que a largura dos ombros e as
+  pontas apontando para fora em um ângulo de 45 graus.
 
-  Agache lentamente dobrando os joelhos. Jogue os braços para frente. Mantenha a cabeça, o peito e os quadris em linha reta. Aperte seus glúteos.
-  Levante de volta para a posição inicial.
-  Repita este exercício em um movimento pulsante.
+  Mantenha o peito aberto e a coluna ereta enquanto agacha flexionando os joelhos
+  e os quadris até as coxas ficarem paralelas ao chão.
+
+  Empurre através dos calcanhares para retornar à posição inicial, estendendo as pernas
+  de forma controlada.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: sophialj

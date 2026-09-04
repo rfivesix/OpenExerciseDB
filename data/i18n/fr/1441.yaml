@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1441'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé épaules incliné aux haltères
 description: |-
-  Asseyez-vous sur un banc incliné à 45°
-  Coudes écartés à 45°
-  Abaissez les haltères jusqu'à ce que vos bras soient parallèles à vos épaules
-  Remontez les haltères en les faisant se rejoindre au-dessus de la tête
+  Position de départ :
+  • Asseyez-vous sur un banc incliné à angle prononcé (environ 60° à 75°), le dos bien calé contre le dossier.
+  • Tenez les haltères au niveau des épaules, paumes tournées vers l'avant.
+
+  Exécution :
+  • Développez les haltères vers le haut au-dessus de la tête jusqu'à extension complète des bras sans verrouiller brutalement les coudes.
+  • Marquez une brève pause en haut du mouvement puis redescendez lentement les haltères au niveau des épaules.
+  • Gardez les coudes légèrement orientés vers l'avant (à 45 degrés) pour préserver les articulations.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

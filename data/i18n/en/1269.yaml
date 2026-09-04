@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1269'
 language: en
-status: upstream_unreviewed
-name: TRX dips
-description: |-
-  Start with the hands on the suspension trainer and feet on the ground.
+status: ai_reviewed
+name: TRX Dips
+description: 'Start with the hands on the suspension trainer and feet on the ground.
+
   Your hands should be under your shoulders with the feet slightly in front.
+
   Lower yourself by bringing the hips between the handles and flexing the elbows.
-  Extend the elbows to come back to the starting position and repeat.
+
+  Extend the elbows to come back to the starting position and repeat.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

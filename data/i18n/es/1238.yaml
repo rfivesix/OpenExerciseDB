@@ -5,20 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1238'
 language: es
-status: upstream_unreviewed
-name: Postura de la rana
+status: ai_reviewed
+name: Postura de la rana (Frog Stand)
 description: |-
   Posición inicial:
-  Ponte de pie con los pies separados al ancho de los hombros y las puntas de los pies apuntando hacia delante, de cara a una pared o un banco como apoyo si lo necesitas.
-  Flexiona las rodillas hasta una posición de sentadilla.
-  Apoya las manos en el suelo frente a ti, separadas al ancho de los hombros, con los dedos bien abiertos.
-  Asegúrate de que los codos estén debajo de los hombros y de que tu cuerpo forme una línea recta desde la cabeza hasta los talones.
-  Fase ascendente:
-  Empuja con los pies y las manos para levantar el cuerpo del suelo.
-  Estira las piernas y los brazos, manteniendo el cuerpo alineado.
-  Activa el core y los glúteos para mantener la posición.
-  Si lo necesitas, apoya las rodillas en la pared o el banco como ayuda.
+  • Ponte en cuclillas con los pies juntos y apoya las manos en el suelo a la anchura de los hombros con los dedos bien abiertos.
+  • Coloca las rodillas por fuera de los codos o apoyadas sobre la parte posterior de los brazos (tríceps).
+
+  Ejecución:
+  • Traslada gradualmente el peso del cuerpo hacia delante sobre las manos.
+  • Despega los pies del suelo uno a uno hasta quedar en equilibrio sobre las manos con los codos ligeramente flexionados.
+  • Aprieta el abdomen, mantén la mirada ligeramente hacia delante y equilibra la postura.
+  • Mantén la posición isométrica durante el tiempo establecido (p. ej., 10 a 30 segundos) y apoya suavemente los pies.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3788'
+search_terms:
+  - Postura de la rana
+  - Frog stand

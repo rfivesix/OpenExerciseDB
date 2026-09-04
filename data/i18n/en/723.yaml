@@ -3,26 +3,22 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '723'
 language: en
 status: ai_reviewed
 name: Wide-Grip Lat Pulldown
-description: |-
-  Starting position:
+description: '- Sit down at the lat pulldown station and secure your thighs firmly
+  under the padded rollers.
 
-  Arms extended overhead, feeling a stretch in your lats.
-  Keep your shoulders depressed (don’t shrug upward).
+  - Grasp the wide bar with an overhand (pronated) grip wider than shoulder width.
 
+  - Pull the bar smoothly down to your upper chest by driving your elbows down and
+  back while keeping your chest lifted.
 
-
-  Pulling phase (concentric):
-
-  Pull the bar&nbsp;down to your upper chest or collarbone area&nbsp;by driving your&nbsp;elbows down and back.
-  Keep your&nbsp;chest lifted and squeeze your&nbsp;shoulder blades together&nbsp;at the bottom.
+  - Squeeze your shoulder blades together at the bottom, then slowly extend your arms
+  back to the starting position under full control.'
 search_terms:
-  - Lat Pulldown (Wide Grip)
-  - Lat Pulldown (Wide Grip)
+- Lat Pulldown (Wide Grip)
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

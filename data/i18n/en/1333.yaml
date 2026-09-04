@@ -5,13 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1333'
 language: en
-status: upstream_unreviewed
-name: Forearm Curls (underhand grip)
-description: |-
-  Engage the muscles
-  Don't use momentum
-  Controlled movement
-  Slow movement
+status: ai_reviewed
+name: Underhand Dumbbell Wrist Curl
+description: 'Starting position:
+
+  Sit on a bench and rest your forearms on your thighs or the bench edge, with your wrists extending just past your knees.
+  Hold dumbbells with an underhand (palms up) grip.
+
+
+  Execution:
+
+  1. Slowly lower the dumbbells as far as comfortably possible by extending your wrists downward.
+
+  2. Curl the dumbbells upward by flexing your wrists, contracting your wrist flexors firmly at the top.
+
+  3. Lower the weights back down slowly with full control.
+
+
+  Tips:
+
+  Isolate movement entirely to the wrists. Avoid using arm or body momentum.'
+search_terms:
+- Forearm Curls (underhand grip)
+- Underhand wrist curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

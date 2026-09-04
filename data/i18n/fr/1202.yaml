@@ -5,17 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1202'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abduction de hanche en décubitus latéral
 description: |-
-  Commencez allongé sur le côté, la jambe supérieure tendue et la jambe inférieure fléchie pour le soutien.
-  Soulevez votre jambe supérieure du sol
-  (facultatif) - Maintenez la position en haut
+  Position de départ :
+  • Allongez-vous sur le côté sur un tapis de sol.
+  • Fléchissez légèrement la jambe du dessous pour stabiliser le corps et gardez la jambe du dessus bien tendue.
+  • Posez votre tête sur votre bras inférieur et placez votre main supérieure au sol devant vous pour l'équilibre.
 
-  Ressources :
-
-  Vidéo YouTube de 40 secondes : https://www.youtube.com/watch?v=g9FtnmsIYgI
+  Exécution :
+  • Levez la jambe supérieure vers le haut de façon contrôlée, les orteils pointant droit devant ou légèrement vers le bas.
+  • Veillez à ce que le bassin reste parfaitement perpendiculaire au sol sans basculer vers l'arrière.
+  • Marquez un temps d'arrêt en haut pour bien contracter le moyen fessier, puis redescendez lentement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4510'
+search_terms:
+  - Élévation latérale de jambe couché

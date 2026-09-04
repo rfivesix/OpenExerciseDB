@@ -1,11 +1,14 @@
 exercise_id: '510'
 language: fr
+status: ai_reviewed
+translated_from: de
+name: Rowing avec barre sur banc plat (Seal row)
+search_terms:
+- Rowing avec haltères sur banc incliné (buste soutenu)
+- Seal row barre
+description: Allongé face contre un banc plat, saisissez la barre située sous le banc en prise pronation. Tirez la barre vers
+  la poitrine en resserrant les omoplates, puis redescendez de façon contrôlée.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '510'
-status: ai_reviewed
-translated_from: de
-name: Rowing avec haltères sur banc incliné (buste soutenu)
-description: |-
-  Allongé face contre un banc incliné pour protéger le bas du dos, tirez les haltères vers les hanches en resserrant les omoplates.

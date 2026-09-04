@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1101'
 language: it
-status: upstream_unreviewed
-name: Isometria trazioni orizzontali
-description: Esegui una trazione isometrica alla sbarra a tempo
+status: ai_reviewed
+name: Trazione isometrica alla sbarra
+description: |-
+  Posizione di partenza:
+  Impugna una sbarra per trazioni in presa prona o supina (oppure le impugnature di un suspension trainer).
+
+  Esecuzione:
+  1. Esegui la tirata fino a raggiungere la posizione di massima contrazione (mento sopra la sbarra o petto alla sbarra).
+  2. Blocca la posizione in isometria mantenendo i gomiti flessi e le scapole depresse e addotte.
+  3. Mantieni una contrazione massimale dei dorsali e dei bicipiti per tutta la durata prevista (10-30 secondi).
+  4. Respira regolarmente e ridiscendi lentamente con controllo.
+search_terms:
+  - Isometria trazioni orizzontali
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

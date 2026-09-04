@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '495'
 language: it
-status: upstream_unreviewed
-name: Curl inversi con bilanciere
-description: Curl inversi con bilanciereCurl inversi con bilanciere
+status: ai_reviewed
+name: Curl inverso con bilanciere
+search_terms:
+  - Curl inversi con bilanciere
+description: |-
+  In piedi con il busto eretto, impugna un bilanciere con una presa prona alla larghezza delle spalle (palmi rivolti verso il basso). Mantenendo i gomiti fermi vicino ai fianchi, fletti le braccia portando la sbarra verso il petto per stimolare il brachioradiale e il brachiale. Abbassa lentamente il bilanciere tornando alla posizione di partenza.
 upstream:
   license: CC0-1.0
   license_author: BFad07

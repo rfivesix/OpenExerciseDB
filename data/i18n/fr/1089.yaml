@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: fr
-status: upstream_unreviewed
-name: Rotation avec ballon médicinal
+status: ai_reviewed
+name: Russian Twist avec médecine-ball
 description: |-
-  En position assise, le buste pivote d'un côté à l'autre sans forcer, en s'approchant des genoux et en faisant toucher le sol au ballon de temps en temps.
+  Position de départ :
+  Asseyez-vous sur un tapis, genoux fléchis, talons posés au sol ou pieds décollés pour plus d'intensité. Tenez un médecine-ball à deux mains devant la poitrine et inclinez le buste en arrière à environ 45 degrés en gardant le dos droit.
+
+  Étapes :
+  1. Engagez la sangle abdominale et pivotez le torse vers la droite pour amener le médecine-ball près de la hanche droite sans toucher le sol brutalement.
+  2. Tournez de façon fluide de l'autre côté en passant par le centre pour amener la balle vers la hanche gauche.
+  3. Gardez les jambes et le bassin stables afin que la rotation provienne des abdominaux obliques.
+  4. Répétez le mouvement en alternance à un rythme régulier.
+search_terms:
+  - Rotation avec ballon médicinal
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

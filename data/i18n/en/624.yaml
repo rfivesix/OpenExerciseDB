@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '624'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Stationary Bike
-description: Ride a Stationary Bike with various&nbsp;tensions.
+description: |-
+  Starting Position: Adjust the stationary bike seat height so that your knees have a slight bend (around 25–30 degrees) at the bottom of the pedal stroke.
+  Execution: Pedal at a steady cadence and adjust the resistance to match your training intensity.
+  Cues: Keep your core lightly engaged, back neutral, and hands comfortably resting on the handlebars without leaning heavily.
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman

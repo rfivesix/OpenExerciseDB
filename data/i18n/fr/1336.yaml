@@ -5,15 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1336'
 language: fr
-status: upstream_unreviewed
-name: Extension des triceps au-dessus de la tête (haltère)
-description: |-
-  Gardez les coudes fixes
-  Engagez les muscles
-  N'utilisez pas d'élan
-  Mouvement contrôlé
-  Mouvement lent
-  Ne tendez pas à l'excès
+status: ai_reviewed
+name: Extension triceps au-dessus de la tête avec haltère
+description: 'Position de départ :
+
+  Assis sur un banc ou debout, le dos bien droit, tenez un haltère à deux mains au-dessus de la tête, bras tendus.
+
+
+  Exécution :
+
+  1. Fléchissez les coudes pour descendre lentement l''haltère derrière la tête, en gardant les coudes stables et orientés
+  vers l''avant.
+
+  2. Une fois les triceps étirés, poussez vers le haut en tendant les bras pour revenir à la position de départ.
+
+  3. Contrôlez la descente et évitez de cambrer le bas du dos.'
+search_terms:
+- Extension des triceps au-dessus de la tête (haltère)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

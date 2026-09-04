@@ -6,11 +6,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '556'
 language: en
-status: ai_raw
-name: Side Bends on Machine
+status: ai_reviewed
+name: Roman Chair Side Bends
+search_terms:
+- Side Bends on Machine
+description: |-
+  Starting Position: Position yourself sideways on a Roman chair or 45-degree hyperextension bench, with your hip resting on the pad and feet securely anchored.
+  Execution: Lower your torso sideways toward the floor until your body is roughly parallel to the ground or you feel a stretch in the obliques.
+  Return: Contract your upper obliques to raise your torso back to the aligned starting position.
+  Cues: Keep your hands across your chest or behind your head, and avoid rotating your torso forward or backward.
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann
   source_id: '1070'
-description: |-
-  Position yourself on the Roman chair with your body straight. Bend your torso toward the floor to the side, then return to the starting position. Keep your hands behind your head or in front of your chest.

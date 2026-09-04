@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1296'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cruce de poleas bajas
-description: |-
-  El cruce de poleas bajas es un movimiento de aislamiento que utiliza la polea para trabajar de forma específica la parte superior de los músculos pectorales. Es habitual en rutinas de tren superior y centradas en el pecho para ganar masa muscular, a menudo en combinación con presses o aperturas desde otros ángulos para trabajar todas las partes del pecho.
+description: El cruce de poleas bajas es un movimiento de aislamiento que utiliza la polea para trabajar de forma específica
+  la parte superior de los músculos pectorales. Es habitual en rutinas de tren superior y centradas en el pecho para ganar
+  masa muscular, a menudo en combinación con presses o aperturas desde otros ángulos para trabajar todas las partes del pecho.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

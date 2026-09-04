@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1092'
 language: es
-status: upstream_unreviewed
-name: Entrenamiento con saco
+status: ai_reviewed
+name: Entrenamiento con saco de boxeo
 description: |-
-  El entrenamiento con saco mejora la definición muscular de: deltoides; deltoides posteriores; tríceps; bíceps, además de ser un excelente ejercicio de cardio
+  Posición inicial:
+  Colócate a la distancia de un brazo del saco en guardia de boxeo: pies separados, rodillas ligeramente flexionadas y manos arriba protegiendo el rostro.
+
+  Ejecución:
+  1. Lanza combinaciones de golpes directos (jab, cross) y ganchos con potencia y precisión al centro del saco.
+  2. Gira las caderas y el torso con cada golpe para transferir la fuerza desde las piernas.
+  3. Recupera rápidamente la guardia tras cada impacto y mantén un juego de pies activo alrededor del saco.
+  4. Trabaja en asaltos cronometrados para desarrollar resistencia cardiovascular, fuerza explosiva y definición muscular.
+search_terms:
+  - Entrenamiento con saco
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

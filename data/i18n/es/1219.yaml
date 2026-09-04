@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1219'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dominadas australianas (remo invertido)
 description: |-
-  Túmbate bajo una barra alta o una barra de suspensión, colocada a una altura adecuada.
-  Colócate de espaldas bajo la barra, agarrándola con un agarre supino (palmas hacia ti).
-  Ajusta tu posición de modo que tu cuerpo quede alineado en línea recta de la cabeza a los pies. Los brazos deben estar completamente extendidos, los hombros estabilizados y las piernas alineadas con el resto del cuerpo.
-  Flexiona los codos y lleva el pecho hacia la barra, contrayendo los músculos de la espalda. Imagina que intentas juntar las escápulas.
-  Mantén la contracción en la parte alta del movimiento durante un instante para maximizar la activación muscular.
-  Vuelve lentamente a la posición inicial, extendiendo los codos.
+  Posición inicial:
+  • Colócate boca arriba debajo de una barra a la altura de la cintura y sujétala en agarre supino (palmas hacia ti) al ancho de los hombros.
+  • Mantén el cuerpo en línea recta desde los talones hasta la cabeza activando glúteos y abdomen.
+
+  Ejecución:
+  • Flexiona los codos y tira del pecho hacia la barra contrayendo la espalda y los bíceps.
+  • Junta las escápulas en la parte alta del movimiento y mantén la contracción durante un segundo.
+  • Desciende lentamente hasta que los brazos queden completamente extendidos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3751'
+search_terms:
+  - Australian Pull-up
+  - Dominadas australianas

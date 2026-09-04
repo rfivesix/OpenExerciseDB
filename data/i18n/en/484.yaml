@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '484'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rack Deadlift
+search_terms:
+  - Rack pull
 description: |-
-  Deadlift to be done using a Smith machine or a free rack. Bar or barbell hould be just right under the knee cap level. Lift using the glutes and through the heels, then come back to starting postion with a control movement of 2 seconds.
-  This exercise targets mainly the lower back and glutes.
+  A deadlift variation performed from safety pins in a power rack or Smith machine, typically with the barbell set just below or at knee level.
+  Stand with a hip-width stance, hinge at your hips, and grip the bar just outside your legs. Pull by extending your hips and knees, driving through your heels and squeezing your glutes at lockout. Lower the bar under control back onto the pins. This exercise emphasizes the upper and lower back as well as the glutes.
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney

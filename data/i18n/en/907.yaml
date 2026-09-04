@@ -1,12 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '907'
 language: en
-status: upstream_unreviewed
-name: Handstand Push Up
-description: Handstands Push Up which demand high level of skill
+status: ai_reviewed
+name: Handstand Push-Up
+description: '- Kick up into a handstand against a sturdy wall with hands placed slightly
+  wider than shoulder-width and core fully braced.
+
+  - Lower yourself under control by bending your elbows until the top of your head
+  lightly touches the floor or mat.
+
+  - Press explosively upward through your shoulders and triceps until your arms are
+  fully extended back at the top.'
+search_terms:
+- Handstand Push Up
 upstream:
   license: CC-BY-SA-4.0

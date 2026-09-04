@@ -1,12 +1,20 @@
 exercise_id: '1098'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
-translated_from: en
-name: Seitheben vorgebeugt sitzend
+status: ai_reviewed
+name: Vorgebeugtes Seitheben sitzend (Reverse Fly)
 description: |-
-  Sitze und beuge dich 45 Grad nach vorn. Strecke die Arme vollständig aus, hebe sie bis Schulterhöhe und senke sie wieder ab.
+  Ausgangsposition:
+  Setze dich auf das vordere Ende einer Trainingsbank, die Füße stehen fest auf dem Boden. Halte in jeder Hand eine leichte Kurzhantel. Beuge den Oberkörper mit geradem Rücken weit nach vorne, sodass die Brust nahe an den Oberschenkeln ruht. Die Hanteln hängen unter den Oberschenkeln nach unten.
+
+  Ausführung:
+  1. Hebe beide Arme mit leicht angewinkelten Ellenbogen seitlich in einem weiten Bogen nach oben, bis die Oberarme etwa auf Schulterhöhe sind.
+  2. Ziehe dabei bewusst die hinteren Schultermuskeln und die Schulterblätter zusammen.
+  3. Halte die Kontraktion am obersten Punkt für eine Sekunde.
+  4. Senke die Kurzhanteln langsam und kontrolliert wieder in die Ausgangsposition ab, ohne Schwung zu holen.
+search_terms:
+  - Seitheben vorgebeugt sitzend
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2057'
+translated_from: en

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1099'
 language: en
-status: upstream_unreviewed
-name: Dynamic side hold
+status: ai_reviewed
+name: Dynamic Single-Leg Side Hold with Kettlebell
 description: |-
-  Sling a rubber band on a kettlebell and lift the kettlebell by the rubber band. Let it hang by your side and stand on one leg, switch leg while continuing hold. Repeat with other hand
+  Starting position:
+  Loop an elastic resistance band through the handle of a kettlebell and hold the band in one hand so the kettlebell hangs freely by your side. Stand tall with your spine neutral.
+
+  Execution:
+  1. Lift one foot off the floor to balance on a single leg.
+  2. Brace your core, obliques, and standing hip to maintain a strictly upright posture, actively stabilizing against the oscillations of the hanging kettlebell.
+  3. Hold for the prescribed duration, optionally switching your standing leg mid-set.
+  4. Repeat with the weight held in the opposite hand.
+search_terms:
+  - Dynamic side hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

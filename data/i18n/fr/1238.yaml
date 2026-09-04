@@ -5,20 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1238'
 language: fr
-status: upstream_unreviewed
-name: Équilibre de la grenouille
+status: ai_reviewed
+name: Équilibre de la grenouille (Frog Stand)
 description: |-
   Position de départ :
-  Tenez-vous debout, les pieds écartés de la largeur des épaules et les orteils pointés vers l'avant, face à un mur ou à un banc pour vous soutenir si nécessaire.
-  Pliez les genoux en position de squat.
-  Placez vos mains au sol devant vous, écartées de la largeur des épaules, les doigts bien écartés.
-  Assurez-vous que vos coudes sont sous vos épaules et que votre corps forme une ligne droite de la tête aux talons.
-  Phase ascendante :
-  Poussez avec vos pieds et vos mains pour soulever votre corps du sol.
-  Tendez vos jambes et vos bras en gardant votre corps aligné.
-  Contractez votre sangle abdominale et vos fessiers pour maintenir la position.
-  Si nécessaire, posez vos genoux sur le mur ou le banc pour vous aider.
+  • Accroupissez-vous au sol, pieds serrés, et posez les mains à plat à la largeur des épaules avec les doigts bien écartés.
+  • Placez vos genoux contre l'extérieur des coudes ou en appui sur l'arrière de vos bras (triceps).
+
+  Exécution :
+  • Transférez lentement le poids de votre corps vers l'avant sur vos mains.
+  • Décollez les pieds du sol l'un après l'autre jusqu'à tenir en équilibre sur vos mains avec les coudes fléchis.
+  • Gainez le tronc, fixez le sol légèrement vers l'avant et stabilisez la posture grâce à la force des épaules et des doigts.
+  • Maintenez cette position isométrique pendant la durée prévue (ex. 10 à 30 secondes) puis reposez doucement les pieds.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4536'
+search_terms:
+  - Équilibre de la grenouille
+  - Frog stand

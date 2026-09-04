@@ -1,12 +1,20 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1434'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Latzug mit Kurzhanteln
+name: Vorgebeugter Latzug mit Kurzhanteln
 description: |-
-  Beuge den Oberkörper nach vorn.
-  Führe die Kurzhanteln mit leicht gebeugten Armen nah am Körper Richtung Rücken.
+  Ausgangsposition:
+  Stelle dich hüftbreit hin, beuge die Knie leicht und kippe den Oberkörper mit geradem Rücken aus der Hüfte nach vorne (ca. 45 Grad). Halte in jeder Hand eine Kurzhantel mit leicht gebeugten Armen vor deinen Knien, Handflächen zeigen zueinander oder nach hinten.
+
+  Ausführung:
+  Ziehe die Kurzhanteln mit fast gestreckten, leicht angewinkelten Armen in einem weiten Bogen eng am Körper nach hinten in Richtung Hüfte. Spanne am obersten Punkt den breiten Rückenmuskel (Latissimus) intensiv an. Senke die Gewichte anschließend langsam und kontrolliert wieder in die Ausgangsposition ab.
+
+  Hinweise:
+  Führe die Bewegung primär aus den Schulterblättern und dem Latissimus aus, ohne die Ellbogen stark zu beugen (kein normales Rudern). Halte die Wirbelsäule neutral.
+search_terms:
+  - Latzug mit Kurzhanteln
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

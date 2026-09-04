@@ -1,14 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '959'
 language: en
-status: upstream_unreviewed
-name: TRX Rows
-description: This exercise serves as a lead-up to Pull Ups.
+status: ai_reviewed
+name: TRX Row
+description: 'Starting Position: Face the anchor point, grasp the TRX handles with
+  a neutral grip, and lean backward with arms extended. Walk your feet forward to
+  achieve the desired body incline, keeping your body in a straight plank line from
+  head to heels.
+
+  Execution: Pull your chest up toward the handles by driving your elbows backward
+  and squeezing your shoulder blades together.
+
+  Return: Lower your body under control until your arms are fully extended, maintaining
+  a tight core throughout.
+
+  Cues: The closer your body is to horizontal, the greater the difficulty. Do not
+  allow your hips to sag.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1239'
+search_terms:
+- TRX Rows
+- Inverted Row on TRX
+- Suspension Row

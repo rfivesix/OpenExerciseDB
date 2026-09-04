@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1111'
 language: en
-status: upstream_unreviewed
-name: Push-Ups | Incline
+status: ai_reviewed
+name: Incline Push-Ups
 description: |-
-  Inclined push-ups primarily target the chest muscles (pectoralis major and minor), but also work the triceps, shoulders, and core to a lesser extent. Because the upper body is elevated, the incline push-up places less emphasis on the triceps compared to regular push-ups, which may be beneficial for individuals looking to specifically target their chest muscles.
+  Starting position:
+  Place your hands slightly wider than shoulder-width apart on a sturdy bench, box, or elevated surface. Step your feet back so your body forms a straight line from head to heels with your core engaged.
+
+  Execution:
+  1. Bend your elbows and lower your chest toward the edge of the elevated surface in a slow, controlled descent.
+  2. Lower until your chest nearly touches the surface, keeping your elbows at roughly a 45-degree angle to your body.
+  3. Press firmly through your palms to extend your arms and return to the starting position.
+  4. This variation decreases loading compared to flat push-ups and emphasizes the lower and mid-chest muscles.
+search_terms:
+  - Push-Ups | Incline
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337

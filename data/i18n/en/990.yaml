@@ -1,20 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '990'
 language: en
-status: upstream_unreviewed
-name: Kneeling kickbacks
-description: |-
-  Starting position:
-  Get down on all fours.
-  Steps:
+status: ai_reviewed
+name: Kneeling Glute Kickback
+description: 'Starting Position: Begin on all fours (quadruped) on a mat with your
+  hands beneath your shoulders and knees beneath your hips.
 
-  Push one foot back until fully extended, concentrating on the gluteus muscles.
-  Stay for one second, then return to the initial position.
-  Repeat, alternating feet.
+  Execution: Keeping your core tight and maintaining a 90-degree bend in your knee
+  (or extending the leg straight), drive the sole of one foot upward and backward
+  toward the ceiling, contracting your glute intensely.
+
+  Return: Hold for a second at the top, then slowly lower your knee back toward the
+  floor without letting it rest completely.
+
+  Cues: Avoid arching your lower back or shifting your weight heavily to one side.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1630'
+search_terms:
+- Kneeling kickbacks
+- Donkey Kicks
+- Glute Kickbacks

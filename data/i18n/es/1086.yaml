@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1086'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexiones con agarre estrecho
 description: |-
-  Colócate en una posición de plancha firme, llevando las manos cerca la una de la otra hasta que casi se toquen. (imagen 1) Flexiona los codos para bajar lentamente el pecho hacia el suelo (imagen 2). Mantén los codos cerca del cuerpo mientras te empujas de nuevo hacia arriba de forma explosiva. Repite. Asegúrate de tomarte tu tiempo al bajar en cada repetición, manteniendo una técnica precisa.
+  Posición inicial:
+  Colócate en posición de plancha alta con las manos juntas debajo del pecho (separación menor a la anchura de los hombros). Mantén el cuerpo en una línea recta desde la cabeza hasta los talones.
+
+  Ejecución:
+  1. Flexiona los codos manteniendo los brazos bien pegados a los costados y baja el cuerpo de forma controlada.
+  2. Desciende hasta que el pecho casi toque el dorso de las manos.
+  3. Empuja con fuerza a través de las palmas extendiendo los codos mediante la acción de los tríceps hasta volver arriba.
+  4. Mantén el core y los glúteos firmes en todo momento.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1449'
 language: de
-status: upstream_unreviewed
-name: ClimbMill
+status: ai_reviewed
+name: Treppensteiger (ClimbMill)
 description: |-
-  Die ClimbMill, auch als Treppensteiger bekannt, ist ein auf Cardio ausgerichtetes Gerät, das das Treppensteigen simuliert. Sie bietet eine effektive Möglichkeit, die Ausdauer zu verbessern und gleichzeitig den Unterkörper zu kräftigen. Um das Gerät zu benutzen, steige auf die sich bewegenden Stufen, halte eine aufrechte Haltung und nutze bei Bedarf die Handläufe zum Gleichgewicht. Passe Geschwindigkeit und Intensität an dein Fitnesslevel an. Diese Übung verbessert die Herz-Kreislauf-Gesundheit, verbrennt Kalorien und steigert die Muskelausdauer des Unterkörpers.
+  Ausgangsposition:
+  • Steige auf die Trittstufen des Treppensteigers (ClimbMill) und nimm eine aufrechte Körperhaltung ein.
+  • Lege die Hände locker auf die Handläufe zur Unterstützung der Balance, ohne das Körpergewicht darauf abzustützen.
+
+  Ausführung:
+  • Steige kontinuierlich im gleichmäßigen Rhythmus Stufe für Stufe nach oben, indem du die gesamte Fußsohle aufsetzt.
+  • Halte den Rumpf stabil und den Blick nach vorne gerichtet.
+  • Passe die Stufengeschwindigkeit und die Trainingsdauer an dein Ausdauerlevel an.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3959'
+search_terms:
+  - ClimbMill
+  - Treppensteiger

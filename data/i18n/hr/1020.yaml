@@ -5,8 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: hr
-status: upstream_unreviewed
-name: Pištoljski čučnjevi desno
+status: ai_reviewed
+name: Pištolj čučanj na desnoj nozi
+description: |-
+  Početni položaj:
+  Stanite na desnu nogu dok je lijeva noga ispružena ravno ispred vas u zraku. Ruke ispružite ispred tijela radi ravnoteže.
+
+  Izvođenje:
+  1. Polako savijajte desno koljeno i spuštajte se u duboki jednonožni čučanj.
+  2. Držite leđa ravnima, prsa podignuta, a lijevu nogu u zraku bez dodirivanja poda.
+  3. Spustite se do pune kontrolirane dubine.
+  4. Pritisnite kroz desnu petu kako biste se vratili u početni uspravni položaj.
+search_terms:
+  - Pištoljski čučnjevi desno
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1941'

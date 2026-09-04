@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '851'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Beinstrecker
-description: |-
-  Muskulatur anspannen
-  Immer angewinkelt lassen
-  Nicht überstrecken
-  Kontrollierte Bewegung
-  Langsame Bewegung
+description: '- Setze dich an die Beinstreckmaschine und passe Rückenlehne und Schienbeinpolster
+  so an, dass das Kniegelenk auf Höhe der Drehachse liegt und das Polster knapp über
+  den Sprunggelenken aufliegt.
+
+  - Umfasse die Haltegriffe seitlich am Sitz und drücke das Polster durch Streckung
+  der Beine kontrolliert nach oben.
+
+  - Halte die maximale Kontraktion im Quadrizeps am obersten Punkt für einen Moment,
+  ohne die Knie ruckartig zu überstrecken.
+
+  - Senke das Gewicht langsam und kontrolliert wieder in die Ausgangsposition ab.'
 upstream:
   license: CC-BY-SA-4.0

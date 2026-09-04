@@ -1,18 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '992'
 language: it
-status: upstream_unreviewed
-name: Squat laterali a sinistra
-description: |-
-  Stai con la schiena dritta
-  Fai un grande passo in avanti con la gamba sinistra
-  Abbassa il bacino fino a toccare quasi il pavimento con il ginocchio destro
-  Riporta il bacino verso l'alto
-  Ripetere dal passaggio 3.
+status: ai_reviewed
+name: Split squat a destra
+description: 'Posizione di partenza: Stai in piedi con la schiena dritta e fai un
+  grande passo in avanti con la gamba destra.
+
+  Esecuzione: Abbassa il bacino verticalmente piegando entrambe le ginocchia fino
+  a sfiorare quasi il pavimento con il ginocchio sinistro.
+
+  Ritorno: Risali spingendo sul tallone destro fino alla posizione di partenza.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1661'
+search_terms:
+- Squat laterali a sinistra

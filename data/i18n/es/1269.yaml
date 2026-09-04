@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1269'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Fondos en TRX
-description: |-
-  Los fondos se realizan con las manos en cada uno de los agarres de nuestro arnés y despegamos los pies desde el suelo para quedarnos completamente en suspensión. Desde ahí podremos ir haciendo fondos en suspensión exactamente igual que cuando se hacen en anillas o paralelas. Sin embargo, uno de los beneficios que tienen los fondos en TRX es que aumentan la inestabilidad y nos hacen realizar un esfuerzo más intenso.
+description: Los fondos se realizan con las manos en cada uno de los agarres de nuestro arnés y despegamos los pies desde
+  el suelo para quedarnos completamente en suspensión. Desde ahí podremos ir haciendo fondos en suspensión exactamente igual
+  que cuando se hacen en anillas o paralelas. Sin embargo, uno de los beneficios que tienen los fondos en TRX es que aumentan
+  la inestabilidad y nos hacen realizar un esfuerzo más intenso.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

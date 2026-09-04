@@ -1,25 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1000'
 language: de
 status: ai_reviewed
 name: Dips am Boden
-description: |-
-  Ausgangsposition:
-  Setze dich auf den Boden und stütze dich mit den Händen hinter dem Körper ab. Die Finger zeigen nach vorne. Die Knie sind gebeugt, die Füße stehen nebeneinander auf dem Boden.
-  Schritte:
+description: 'Ausgangsposition: Setze dich auf den Boden, stelle die Füße flach auf
+  und winkle die Knie an. Platziere die Hände knapp hinter deinen Hüften auf dem Boden,
+  die Finger zeigen nach vorne zu den Füßen. Hebe das Gesäß einige Zentimeter vom
+  Boden an.
 
-  Hanthalte Körperspannung, hebe die Hüfte leicht vom Boden ab und strecke die Arme.
-  Beuge die Ellbogen kontrolliert nach hinten und senke die Hüfte ab.
-  Drücke dich über den Trizeps wieder nach oben in die Ausgangsposition.
-  Wiederhole die Bewegung.
+  Ausführung: Beuge die Ellbogen kontrolliert nach hinten und senke das Gesäß in Richtung
+  Boden ab.
 
-  Hinweis:
-  Der Schwierigkeitsgrad lässt sich darüber variieren, wie weit die Hüfte angehoben wird.
+  Rückkehr: Drücke dich kraftvoll über die Handflächen wieder nach oben, bis die Arme
+  gestreckt sind, und spanne den Trizeps intensiv an.
+
+  Hinweis: Die Bewegung erfolgt primär aus den Ellbogengelenken und dem Trizeps, nicht
+  durch ein Heben und Senken der Hüfte.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1766'
+search_terms:
+- Floor Dips
+- Trizeps-Dips am Boden

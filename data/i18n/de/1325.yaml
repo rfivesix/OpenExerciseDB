@@ -1,10 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1325'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Seitlicher Abdruck
-description: Stoße dich vom Boden ab, lande auf einem Bein und finde das Gleichgewicht wieder, bevor du zum anderen Bein springst.
+description: 'Ausgangsposition:
+
+  Stelle dich in einen tiefen, athletischen Stand mit leicht gebeugten Knien und aufrechtem Oberkörper.
+
+
+  Ausführung:
+
+  1. Drücke dich mit dem Standbein kraftvoll und explosiv zur Seite ab.
+
+  2. Lande weich auf dem anderen Bein und fange den Schwung über Knie und Hüfte ab.
+
+  3. Stabilisiere kurz das Gleichgewicht und springe direkt dynamisch wieder zur Gegenseite zurück.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen

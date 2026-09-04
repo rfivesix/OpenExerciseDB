@@ -5,15 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '512'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing seated, narrow grip
 description: |-
-  Tighten muscles
-  Controlled movement
-  Slow movement
-  Keep upper body upright
-  Do not lean back
-  Pull toward chest
+  Starting Position: Sit at the low cable row machine with a narrow neutral grip (V-handle). Place your feet firmly on the footrests with knees slightly bent and sit tall with a flat back.
+  Execution: Pull the handle smoothly toward your lower abdomen, driving your elbows back and retracting your shoulder blades. Keep your chest up and avoid leaning back.
+  Return: Extend your arms under control back to the starting position while keeping your torso upright.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

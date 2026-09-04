@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Empuje de cadera a una pierna con mancuerna
 description: |-
-  El empuje de cadera a una pierna se realiza apoyando la parte superior de la espalda en un banco de pesas, levantando una pierna y extendiendo la cadera de la otra pierna para lograr una contracción aislada del glúteo.
-  Al trabajar cada lado por separado, puedes aislar por completo los glúteos de forma unilateral, proporcionando un estímulo de entrenamiento máximo.
+  Posición inicial:
+  • Siéntate en el suelo con la parte superior de la espalda apoyada contra el borde de un banco plano.
+  • Coloca una mancuerna sobre la pelvis y sujétala con ambas manos.
+  • Apoya firmemente un pie en el suelo (pierna de trabajo) con la rodilla a 90 grados y eleva la otra pierna en el aire.
+
+  Ejecución:
+  • Empuja con fuerza a través del talón de la pierna de apoyo extendiendo la cadera hasta que el torso y el muslo formen una línea horizontal recta.
+  • Aprieta al máximo el glúteo mayor arriba durante 1 o 2 segundos.
+  • Desciende la cadera de manera controlada y repite las repeticiones prescritas antes de cambiar de pierna.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3784'
+search_terms:
+  - Dumbbell Single-leg Hip Thrust
+  - Hip thrust a una pierna

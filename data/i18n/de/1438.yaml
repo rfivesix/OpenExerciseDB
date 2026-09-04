@@ -1,12 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1438'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Umsetzen (Clean)
+name: Umsetzen mit der Langhantel (Clean)
 description: |-
-  Reguläres olympisches Umsetzen.
-  Ziehe die Langhantel vom Boden und fange sie auf den Schultern, während du eine Frontkniebeuge ausführst.
+  Ausgangsposition:
+  Stelle dich hüftbreit vor die am Boden liegende Langhantel, die Schienbeine berühren fast die Stange. Beuge die Hüfte und Knie, halte den Rücken gerade und greife die Hantel im schulterbreiten Hakengriff (Hook Grip). Die Schultern befinden sich leicht vor der Stange, die Brust ist stolz aufgerichtet.
+
+  Ausführung:
+  1. Erster Zug: Hebe die Hantel durch kraftvolles Strecken der Knie kontrolliert vom Boden bis auf Oberschenkelhöhe an.
+  2. Zweiter Zug: Beschleunige die Hantel explosiv durch die gleichzeitige Streckung von Sprunggelenken, Knien und Hüfte (Triple Extension) und einen kräftigen Schulter-Shrug nach oben.
+  3. Fangphase: Tauche blitzschnell unter die Stange ab, fange die Hantel in einer tiefen Frontkniebeuge auf den vorderen Schultern (Rack-Position) ab und richte dich kraftvoll in den Stand auf.
+
+  Hinweise:
+  Halte die Hantel während der gesamten Zugphase dicht am Körper. Schnelle Ellbogen nach vorne-oben sind der Schlüssel für eine sichere Ablage auf den Schultern.
+search_terms:
+  - Umsetzen (Clean)
+  - Clean
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

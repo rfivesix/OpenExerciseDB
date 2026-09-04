@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '660'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensiones de tríceps en polea con barra
-description: |-
-  Agarra la barra, ponte de pie con los pies al ancho de los hombros, mantén la espalda recta e inclínate ligeramente hacia delante. Empuja la barra hacia abajo, asegurándote de que los codos no se muevan durante el ejercicio. Sin pausa, vuelve a la posición inicial.
+description: '- Sujeta la barra recta en la polea alta con agarre prono, pies al ancho
+  de los hombros y el torso ligeramente inclinado hacia adelante.
+
+  - Con los codos pegados al cuerpo, empuja la barra hacia abajo extendiendo los brazos
+  hasta contraer los tríceps.
+
+  - Regresa de forma lenta y controlada a la posición inicial manteniendo los codos
+  inmóviles.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

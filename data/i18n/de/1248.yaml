@@ -3,13 +3,12 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1248'
 language: de
 status: ai_reviewed
 name: Ice Cream Maker
-description: |-
-  Aus der Endphase eines Klimmzugs drücken wir uns mit den Schultern zurück, bis wir die Front-Lever-Position erreichen. Von dort ziehen wir uns zurück in die Ausgangsposition hoch.
+description: Aus der Endphase eines Klimmzugs drücken wir uns mit den Schultern zurück, bis wir die Front-Lever-Position erreichen.
+  Von dort ziehen wir uns zurück in die Ausgangsposition hoch.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

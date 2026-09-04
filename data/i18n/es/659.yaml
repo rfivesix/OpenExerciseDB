@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '659'
 language: es
-status: upstream_unreviewed
-name: Extension de triceps polea
-description: |-
-  Coge el cable, párate con los pies a la altura de los hombros, mantén la espalda recta e inclínate un poco hacia delante. Empuje la barra hacia abajo, asegurándose de que los codos no se muevan durante el ejercicio. Gire las manos hacia afuera al final y vuelva a la posición inicial sin pausa.
+status: ai_reviewed
+name: Extensión de tríceps en polea con cuerda
+description: '- Sujeta la cuerda en la polea alta, colócate de pie con los pies al
+  ancho de los hombros y el torso ligeramente inclinado hacia adelante.
+
+  - Mantén los codos pegados a los costados y empuja la cuerda hacia abajo extendiendo
+  completamente los brazos.
+
+  - Al final del recorrido, separa las puntas de la cuerda hacia fuera para acentuar
+  la contracción de los tríceps.
+
+  - Regresa de forma controlada a la posición inicial sin dejar que los codos se muevan.'
+search_terms:
+- Extension de triceps polea
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

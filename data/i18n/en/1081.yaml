@@ -5,16 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1081'
 language: en
-status: upstream_unreviewed
-name: Shoulder dislocates
+status: ai_reviewed
+name: Shoulder Dislocates (with Band or Stick)
 description: |-
   Starting position:
-  Stand up with your back straight and a resistance band, towel, or broomstick handle in hand. With your hands straight in front of your body and the band between your hands, push your hands apart to both be at around 45 degrees from your body, thumbs facing down. If using a towel or broomstick handle instead, grab it with an overhand grip.
-  Steps:
+  Stand tall with feet shoulder-width apart. Hold a resistance band, PVC pipe, or broomstick in front of your body with a wide overhand grip and arms fully extended.
 
-  Keeping your arms outstretched, rotate at the shoulders to bring your arms overhead and then down toward your glutes.
-  Rotate at the shoulders in the opposite direction — overhead and then toward your groin.
-  Repeat.
+  Execution:
+  1. Keeping your elbows straight, rotate your shoulders to sweep your arms up and overhead in a smooth, wide arc.
+  2. Continue the rotation backward until the band or stick reaches down behind your hips/glutes.
+  3. Avoid arching your lower back or bending your elbows; widen your grip if necessary.
+  4. Reverse the movement smoothly back over your head to the front of your body.
+  5. Repeat for the target number of fluid, mobility-enhancing repetitions.
+search_terms:
+  - Shoulder dislocates
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman

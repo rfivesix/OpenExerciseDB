@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1243'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Elevación de talones a dos piernas
-description: |-
-  La elevación de talones a dos piernas es importante para fortalecer y crear control y estabilidad alrededor del tobillo y la rodilla, y para aportar equilibrio y control a la cadera y la pelvis.
+description: 'Posición inicial:
+
+  Ponte de pie con los pies separados al ancho de las caderas. Apoya ligeramente las manos en una pared si necesitas ayuda
+  para mantener el equilibrio.
+
+
+  Ejecución:
+
+  1. Empuja a través de los metatarsos para elevar los talones lo más alto posible.
+
+  2. Mantén la contracción máxima en la posición superior durante 1 o 2 segundos.
+
+  3. Baja los talones lentamente de forma controlada hasta la posición inicial.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

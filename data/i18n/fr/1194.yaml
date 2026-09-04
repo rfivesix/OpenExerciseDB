@@ -5,15 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1194'
 language: fr
-status: upstream_unreviewed
-name: Pallof press
+status: ai_reviewed
+name: Presse Pallof à la poulie
 description: |-
-  Le Pallof press est un exercice anti-rotation qui entraîne les grands et petits muscles autour de la colonne vertébrale à résister à la rotation.
+  Position de départ :
+  • Tenez-vous debout de profil par rapport à la poulie réglée à hauteur de poitrine.
+  • Saisissez la poignée à deux mains et tenez-la contre le centre de votre poitrine.
+  • Écartez les pieds à largeur d'épaules, genoux légèrement déverrouillés et abdos fermement gainés.
 
-  Tenez-vous parallèle à la machine à poulie ou au point d'ancrage de l'élastique et saisissez la poignée ou l'élastique à deux mains.
-  Assurez-vous que votre torse est bien de face, amenez vos mains au centre de votre poitrine et poussez lentement vers l'avant.
-  Ramenez lentement vos mains vers la poitrine et répétez.
+  Exécution :
+  • Poussez les mains droit devant vous jusqu'à tendre les bras.
+  • Résistez avec force à la rotation imposée par le câble en gardant les épaules et le bassin orientés droit devant.
+  • Maintenez l'extension pendant 1 à 2 secondes puis ramenez lentement vos mains contre la poitrine.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4505'
+search_terms:
+  - Pallof press

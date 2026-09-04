@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '650'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Thruster
-description: |-
-  Commencez par effectuer un squat avant (front squat)
-  En position haute, poussez la barre au-dessus de votre tête (comme pour un développé)
-  Abaissez la barre jusqu'aux épaules
+description: '- Tenez la barre en position de rack avant sur les clavicules et les
+  épaules, debout pieds à la largeur des épaules.
+
+  - Descendez en squat avant complet jusqu''à ce que les cuisses soient au moins parallèles
+  au sol.
+
+  - Remontez de manière explosive en utilisant la poussée des jambes pour développer
+  la barre au-dessus de la tête en un mouvement fluide continu.
+
+  - Redescendez la barre sous contrôle sur les épaules et enchaînez immédiatement
+  avec la répétition suivante.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

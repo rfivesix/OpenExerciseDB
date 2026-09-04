@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1455'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Towel Superman
 description: |-
-  In this exercise, you lie flat on your stomach, hold a
-  towel with your arms extended in front of you, and pull it apart to
-  create tension. Then, you move it forward and back under your stomach.
-  This exercise targets the back and shoulder muscles as well as core
-  stability.
+  Starting Position:
+  • Lie face down on a mat with your legs extended straight behind you.
+  • Hold a small towel taut between both hands, with arms extended out in front of you shoulder-width apart.
+
+  Execution:
+  • Simultaneously raise your chest, arms, and legs slightly off the floor by engaging your lower back, glutes, and upper back.
+  • While keeping the towel pulled tight, bend your elbows and pull the towel into your upper chest like a lat pulldown.
+  • Extend your arms back forward under control without letting your torso drop completely to the floor.
+  • Repeat for the desired number of controlled reps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Yderkone

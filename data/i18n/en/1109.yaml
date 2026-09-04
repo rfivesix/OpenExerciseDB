@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1109'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Concentration Curl
 description: |-
-  The concentration curl is a classic exercise for building the biceps one arm at a time. It can be performed bent over or kneeling, but is more often performed seated on a bench. It's great for emphasizing the biceps peak and is often used to finish a biceps workout
+  Starting position:
+  Position a bench in front of a low cable pulley. Sit on the bench, grasp the single-handle attachment with an underhand (supinated) grip, and brace the back of your upper arm against the inside of your thigh.
+
+  Execution:
+  1. Curl the handle upward toward your shoulder by flexing at your elbow, keeping your upper arm securely pinned against your inner thigh to isolate the bicep.
+  2. Squeeze your bicep hard at the peak of the movement against the constant cable resistance.
+  3. Slowly lower the handle back down under control until your arm is nearly fully extended.
+  4. Complete all prescribed reps on one arm before switching to the other side.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442

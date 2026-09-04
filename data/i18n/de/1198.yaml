@@ -9,9 +9,20 @@ language: de
 status: ai_reviewed
 name: Körpergewichtsrudern (Inverted Row)
 description: |-
-  Halte deinen Körper gerade, ziehe die Schulterblätter zusammen und ziehe deine
-  Brust zur Stange für ein effektives Training von Rücken und Oberkörper.
+  Ausgangsposition:
+  • Befestige eine Langhantel in einem Rack auf etwa Hüfthöhe oder nutze eine feste Stange bzw. Schlingentrainer.
+  • Lege dich rücklings unter die Stange und greife sie im Obergriff etwas weiter als schulterbreit.
+  • Der Körper bildet von Kopf bis zu den Fersen eine vollkommen gerade Linie, Fersen stehen fest auf dem Boden.
+
+  Ausführung:
+  • Ziehe deine Brust kontrolliert nach oben zur Stange, indem du die Ellbogen nach hinten führst und die Schulterblätter aktiv zusammenziehst.
+  • Halte den Körper durch Anspannen von Gesäß und Bauchmuskeln brettsteif, ohne mit der Hüfte durchzuhängen.
+  • Senke dich langsam und kontrolliert wieder ab, bis die Arme gestreckt sind.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3733'
+search_terms:
+  - Inverted Row
+  - Australische Klimmzüge
+  - Horizontale Klimmzüge

@@ -5,13 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '632'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sentadillas sumo
-description: |-
-  Ponte de pie con los pies más separados que los hombros, con las puntas de los pies apuntando hacia fuera en un ángulo de 45 grados y la barra sobre los hombros.
-  Manteniendo la espalda recta, desciende lentamente flexionando las rodillas y las caderas como si te fueras a sentar (sentadilla).
-  Baja hasta que los cuádriceps y los isquiotibiales queden paralelos al suelo.
-  Vuelve a la posición inicial empujando hacia arriba y extendiendo las piernas, manteniendo una distribución equilibrada del peso entre el antepié y el talón.
+description: 'Ponte de pie con los pies más separados que la anchura de los hombros
+  y las puntas orientadas hacia fuera en un ángulo de unos 45 grados.
+
+  Manteniendo el torso erguido y la espalda recta, desciende flexionando las rodillas
+  y las caderas hasta que los muslos queden al menos paralelos al suelo.
+
+  Empuja con fuerza a través de los talones para regresar a la posición inicial, extendiendo
+  las piernas y contrayendo los glúteos.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

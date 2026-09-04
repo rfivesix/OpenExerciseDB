@@ -5,17 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1205'
 language: fr
-status: upstream_unreviewed
-name: Curl des poignets, haltères
+status: ai_reviewed
+name: Curl des poignets avec haltères
 description: |-
-  Assis sur un banc, saisissez l'haltère, les paumes tournées vers le haut
-  et les mains écartées à la largeur des épaules. Posez vos avant-bras sur vos cuisses
-  et laissez vos poignets dépasser au-delà de vos genoux.
-  Effectuez le mouvement en
-  enroulant vos paumes et vos poignets vers votre visage.
-  (facultatif/variable) Marquez une pause en haut.
-  Revenez lentement à la position de départ.
+  Position de départ :
+  • Asseyez-vous sur un banc, un haltère dans chaque main en prise supination (paumes vers le haut).
+  • Posez vos avant-bras à plat sur vos cuisses, les poignets dépassant au-delà des genoux.
+
+  Exécution :
+  • Laissez descendre lentement les haltères en étendant les poignets vers le bas.
+  • Enroulez vos poignets vers le haut avec puissance pour solliciter les fléchisseurs de l'avant-bras.
+  • Marquez une courte pause en haut de la contraction puis redescendez lentement à la position de départ.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4512'
+search_terms:
+  - Curl des poignets, haltères

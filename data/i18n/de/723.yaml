@@ -3,20 +3,25 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '723'
 language: de
 status: ai_reviewed
 name: Latzug mit weitem Griff
-description: |-
-  Aufrechte Sitzposition
-  Oberkörper leicht nach hinten beugen
-  Stange im Obergriff fassen
-  Stange vor dem Kopf nach unten zum Brustbein ziehen
-  Stange zurückführen, bis Ellenbogen leicht gebeugt
+description: '- Setze dich an den Latzug und stelle die Oberschenkelpolster so ein,
+  dass du festen Halt hast.
+
+  - Greife die Latzugstange im weiten Obergriff (deutlich weiter als schulterbreit).
+
+  - Ziehe die Stange mit aufgerichtetem Brustkorb kontrolliert vor dem Kopf nach unten
+  zum oberen Brustbein bzw. Schlüsselbein.
+
+  - Führe dabei die Ellenbogen nach unten und hinten und spanne die Schulterblätter
+  zusammen.
+
+  - Führe die Stange langsam wieder nach oben zurück, bis die Arme gestreckt sind.'
 search_terms:
-  - Lat Pulldown Breit
-  - Lat ziehen breit
+- Lat Pulldown Breit
+- Lat ziehen breit
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

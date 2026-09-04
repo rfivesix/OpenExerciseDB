@@ -2,12 +2,23 @@ exercise_id: '980'
 language: en
 status: ai_reviewed
 name: Commando Pull-Up
-description: variation of the pull-up exercise, it is performed with a grip of one
-  hand supine and one hand prone,&nbsp;do not twist the torso to get back to the front,
-  the head passes once to one side, once to the other.
+description: 'Starting Position: Stand directly beneath the pull-up bar aligned with
+  its length. Grip the bar with one hand facing forward (prone) and one hand facing
+  backward (supine) in a close staggered grip. Hang with arms extended.
+
+  Execution: Pull your body upward while keeping your torso straight and preventing
+  rotation, bringing your head to one side of the bar until your shoulder touches
+  it.
+
+  Return: Lower yourself smoothly back to a full hang, then repeat by pulling up with
+  your head passing on the opposite side of the bar. Alternate sides with each repetition.
+
+  Cues: Maintain core tightness to resist rotational forces. Switch hand positions
+  between sets for balanced development.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1296'
 search_terms:
 - commando pull-ups
+- Commando Pull-ups

@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '916'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Schulterdrücken an der Multipresse
-description: Sitzend in einem Winkel von fast 90 Grad, an der Multipresse.
+description: '- Platziere eine Trainingsbank mit etwa 80 bis 85 Grad aufgestellter
+  Rückenlehne in der Multipresse.
+
+  - Setze dich hin, greife die geführte Stange im Obergriff etwas weiter als schulterbreit
+  und entriegele sie auf Kinnhöhe.
+
+  - Drücke die Stange kraftvoll über den Kopf nach oben, ohne die Ellenbogen am obersten
+  Punkt ganz durchzudrücken.
+
+  - Senke die Stange langsam und kontrolliert wieder bis knapp vor das Kinn bzw. den
+  oberen Schlüsselbeinbereich ab.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

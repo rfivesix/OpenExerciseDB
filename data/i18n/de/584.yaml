@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '584'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Einarmiger Scott-Curl
-description: |-
-  Setze dich an die Scott-Curl-Bank und führe mit einer Kurzhantel in einer Hand einen Bizeps-Curl aus. Deine andere Hand kann ruhen oder den Ellbogen deines Curl-Arms abstützen.
+description: Setze dich an die Scott-Curl-Bank und führe mit einer Kurzhantel in einer Hand einen Bizeps-Curl aus. Deine andere
+  Hand kann ruhen oder den Ellbogen deines Curl-Arms abstützen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

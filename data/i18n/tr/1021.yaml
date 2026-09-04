@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: tr
-status: upstream_unreviewed
-name: Sağ bacak baldır kaldırma
+status: ai_reviewed
+name: Tek bacak baldır kaldırma (sağ)
 description: |-
-  Hareket aralığını artırmak için yerde veya bir basamağın kenarında durun. Üst kısmı baldırınızın üzerine koyarak bir ayağınızı kaldırın.
-  Ayak parmaklarınız üzerinde durana kadar topuklarınızı kaldırın.
-  Bu durumda üç saniye kalın, ardından topuğunuz yere değmeden ayağınızı indirin.
+  Başlangıç pozisyonu:
+  Sağ ayağınızın parmak ucu/ön kısmı yerde veya bir basamağın kenarında olacak şekilde tek ayak üzerinde durun. Sol ayağınızı havada tutun ve denge için duvara hafifçe tutunun.
+
+  Uygulama:
+  1. Baldır kasınızı esnetmek için sağ topuğunuzu kontrollü şekilde aşağı indirin.
+  2. Sağ ayak tabanınızın önünden güç alarak parmak ucuna doğru mümkün olduğunca yükseğe yükselin.
+  3. En üst noktada baldırınızı 1-2 saniye sıkın.
+  4. Yavaş ve kontrollü bir şekilde başlangıç noktasına geri inin.
+search_terms:
+  - Sağ bacak baldır kaldırma
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1959'

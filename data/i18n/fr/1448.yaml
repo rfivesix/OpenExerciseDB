@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1448'
 language: fr
-status: upstream_unreviewed
-name: Curl incliné avec haltères
+status: ai_reviewed
+name: Curl en W assis avec haltères
 description: |-
-  Asseyez-vous sur un banc incliné à 60∘.
-  Tenez les haltères le long du corps près du sol, paumes vers l'extérieur, bras complètement étendus.
-  Soulevez les haltères en utilisant uniquement les biceps et sans élan (sans donner d'à-coups).
+  Position de départ :
+  • Asseyez-vous sur un banc incliné à environ 60 degrés, le dos bien calé.
+  • Laissez pendre les bras le long du corps avec les paumes orientées vers l'extérieur.
+
+  Exécution :
+  • Fléchissez les coudes en montant les haltères vers le haut et l'extérieur pour former un « W » avec vos bras.
+  • Contractez vigoureusement le chef court du biceps au sommet du mouvement.
+  • Redescendez lentement les charges sous contrôle jusqu'à l'extension complète des bras.
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2762'
+search_terms:
+  - Curl incliné avec haltères
+  - Curl en W

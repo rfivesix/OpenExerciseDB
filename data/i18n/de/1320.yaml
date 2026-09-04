@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1320'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bench Dips am Boden
-description: |-
-  Trizeps-Dips am Boden sind eine Verbundübung, da sie mehrere Muskelgruppen gleichzeitig beanspruchen. Obwohl diese Körpergewichtsübung hauptsächlich den Trizeps trainiert, beansprucht sie auch deine Brust und die Vorderseite deiner Schulter.
-  Trizeps-Dips am Boden gehören zu den wirksamsten Übungen, um die Armkraft zu steigern und außerdem schlanke Muskeln in deinen Oberarmen aufzubauen.
-  Trizeps-Dips am Boden sind eine Übung mit geschlossener kinetischer Kette, das heißt, du führst die Bewegungen um einen festen Punkt herum aus. Das erhöht die Druckkraft auf deine Gelenke und verbessert dadurch die Stabilität.
+description: 'Trizeps-Dips am Boden sind eine Verbundübung, da sie mehrere Muskelgruppen gleichzeitig beanspruchen. Obwohl
+  diese Körpergewichtsübung hauptsächlich den Trizeps trainiert, beansprucht sie auch deine Brust und die Vorderseite deiner
+  Schulter.
+
+  Trizeps-Dips am Boden gehören zu den wirksamsten Übungen, um die Armkraft zu steigern und außerdem schlanke Muskeln in deinen
+  Oberarmen aufzubauen.
+
+  Trizeps-Dips am Boden sind eine Übung mit geschlossener kinetischer Kette, das heißt, du führst die Bewegungen um einen
+  festen Punkt herum aus. Das erhöht die Druckkraft auf deine Gelenke und verbessert dadurch die Stabilität.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

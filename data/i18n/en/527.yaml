@@ -5,9 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '527'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Run
-description: Running or jogging outside in a park, on the tracks,...
+description: Running or jogging outdoors on a track, road, or trail at a steady or varied pace to develop cardiovascular fitness
+  and endurance.
 upstream:
   license: CC-BY-SA-4.0
   license_author: BeLikeWater

@@ -5,43 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1217'
 language: es
-status: upstream_unreviewed
-name: Flexión sobre los dedos
+status: ai_reviewed
+name: Flexiones sobre las yemas de los dedos
 description: |-
-  Posición de las manos:
+  Posición inicial:
+  • Adopta la posición de flexión pero apoyando únicamente las yemas de los dedos y pulgares bien abiertos contra el suelo.
+  • Las palmas de las manos deben quedar elevadas en el aire sin tocar el piso.
+  • Mantén el cuerpo en una línea recta rígida mediante la activación del core.
 
-
-  Comienza en posición de plancha con las manos directamente debajo de los hombros.
-  Separa bien los dedos y apóyalos firmemente en el suelo.
-
-
-  Colocación de los dedos:
-
-
-  Levanta gradualmente las palmas del suelo, trasladando el peso a los dedos.
-  Concéntrate en distribuir la carga de forma uniforme entre las yemas de los dedos y los pulgares.
-
-
-  Alineación del cuerpo:
-
-
-  Mantén una línea recta desde la cabeza hasta los talones para activar el core.
-  Mantén el cuerpo en una posición controlada y estable durante todo el ejercicio.
-
-
-  Fase de descenso:
-
-
-  Flexiona lentamente los codos, bajando el pecho hacia el suelo.
-  Asegura un movimiento controlado, manteniendo la estabilidad sobre las yemas de los dedos.
-
-
-  Empuje hacia arriba:
-
-
-  Empuja a través de las yemas de los dedos para estirar los brazos y volver a la posición inicial.
-  Enfatiza la activación de los dedos y los pulgares durante toda la flexión.
+  Ejecución:
+  • Flexiona los codos lentamente descendiendo el pecho hacia el suelo con máximo control.
+  • Mantén los dedos firmes y estables bajo la carga.
+  • Empuja con fuerza a través de las yemas de los dedos para extender los brazos y volver arriba.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3786'
+search_terms:
+  - Finger Pushup
+  - Flexiones con dedos

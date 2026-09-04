@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '910'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Nordic Curl
-description: |-
-  Le Nordic curl (leg curl nordique) est l'un des meilleurs exercices pour le bas du corps afin de développer la force de la chaîne postérieure des jambes, d'améliorer la santé des genoux et de prévenir les blessures.
+description: '- Mettez-vous à genoux sur un tapis protecteur avec les chevilles solidement
+  bloquées sous une barre fixe ou tenues par un partenaire.
+
+  - Alignez parfaitement le tronc et les cuisses en gainant les abdominaux et les
+  fessiers.
+
+  - Inclinez le corps vers l''avant le plus lentement possible en retenant la chute
+  exclusivement avec la force des ischio-jambiers.
+
+  - Réceptionnez-vous doucement avec les mains au sol et poussez légèrement pour aider
+  les ischio-jambiers à remonter en position initiale.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

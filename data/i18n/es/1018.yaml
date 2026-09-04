@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1018'
 language: es
-status: upstream_unreviewed
-name: Inclinaciones Laterales de Cabeza
+status: ai_reviewed
+name: Inclinaciones laterales de cabeza
 description: |-
-  Este es un estiramiento fundamental para aliviar la tensión en los músculos a los costados del cuello.
-  Instrucciones:
-  Sentado o de pie, con la espalda recta y los hombros relajados y abajo, inclina lentamente la cabeza hacia un lado, llevando la oreja en dirección al hombro hasta que sientas un estiramiento suave en el lado opuesto.
-  Mantén el hombro del lado que se estira apuntando hacia abajo para maximizar la sensación. Sostén la posición por 15-30 segundos, regresa al centro con suavidad y repite hacia el otro lado.
+  Posición inicial:
+  Siéntate o ponte de pie con la columna recta y los hombros relajados y abajo.
+
+  Ejecución:
+  1. Inclina lentamente la cabeza hacia un lado, llevando la oreja en dirección al hombro hasta sentir un estiramiento suave en el lateral opuesto del cuello.
+  2. Mantén ambos hombros abajo y sostén la posición de 15 a 30 segundos respirando con tranquilidad.
+  3. Regresa con cuidado al centro y repite hacia el otro lado.
+search_terms:
+  - Inclinaciones Laterales de Cabeza
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

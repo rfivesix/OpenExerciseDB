@@ -5,15 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1378'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Elevaciones laterales en polea (a un brazo)
 description: |-
-  La elevación lateral en polea a un brazo es una variante de la elevación lateral y un ejercicio que se utiliza para desarrollar los músculos de los hombros.
+  Posición inicial:
+  Colócate de lado junto a una polea baja con la polea en el ajuste inferior. Sujeta el agarre individual con la mano más alejada de la torre (el cable puede pasar por detrás o por delante del cuerpo). Agárrate al soporte con la otra mano para estabilizarte y reclínate ligeramente hacia afuera.
 
-  Coloca una polea en la posición más baja posible y engancha un agarre individual.
-  Cruza el brazo por delante del cuerpo y sujeta el agarre con un agarre neutro.
-  Mantén el codo ligeramente flexionado y tira del agarre cruzando el cuerpo mientras elevas lateralmente.
-  Baja el agarre lentamente y de forma controlada hasta la posición inicial.
+  Ejecución:
+  Con el codo ligeramente flexionado, eleva el brazo lateralmente trazando un arco amplio hasta que la mano quede a la altura del hombro. Haz una breve pausa en la contracción del deltoides lateral y baja el agarre lentamente resistiendo la tensión constante del cable.
+
+  Consejos:
+  Evita encoger el trapecio o impulsarte con el torso. El cable mantiene la tensión muscular continua en todo el recorrido.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

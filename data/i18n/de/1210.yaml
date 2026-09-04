@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1210'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Fallschirmspringer in T-Position
 description: |-
-  Leg dich auf deinen Bauch, deine Beine sind mehr als schulterbreit gespreizt, die Füße aufgestellt. Deine Arme sind zur Seite ausgestreckt und bilden mit deinem Oberkörper ein T, deine Handflächen liegen auf dem Boden. Hebe nun unter Körperspannung deinen Oberkörper mitsamt Armen und deine Beine so weit an, wie du kannst. Dreh dabei die Daumen Richtung Decke und zieh deine Schulterblätter zusammen. Während du den Oberkörper und alle Gliedmaßen in der Luft hältst, bring deine Beine zusammen und spreiz sie dann wieder, dabei hältst du sie stetig in der Luft. Bei den weiteren Wiederholungen bewegst du nur noch die Beine auf und zu.
+  Ausgangsposition:
+  • Lege dich bauchlings auf eine Trainingsmatte.
+  • Strecke deine Arme seitlich auf Schulterhöhe aus, sodass sie mit dem Rumpf ein T bilden.
+  • Die Beine liegen mehr als schulterbreit auseinander.
+
+  Ausführung:
+  • Hebe Brust, Arme und Beine gleichzeitig unter Anspannung der gesamten Körperrückseite vom Boden ab.
+  • Drehe die Daumen nach oben zur Decke und ziehe die Schulterblätter aktiv zusammen.
+  • Führe die schwebenden Beine kontrolliert zusammen und öffne sie wieder, während Oberkörper und Arme stabil in der Luft gehalten werden.
+  • Senke dich nach Ablauf der Wiederholungen langsam wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2175'
+search_terms:
+  - Skydiver in T-Position
+  - T-Superman

@@ -2,7 +2,7 @@
 
 Dieser Ordner ist **zum Herausnehmen gedacht**. Er enthält alles, was das neue,
 öffentliche Repo braucht, damit dort in einem eigenen Chat ohne Zugriff auf
-`train-libre` weitergearbeitet werden kann. Nach dem Umzug kann er hier
+einem frueheren App-Repository weitergearbeitet werden kann. Nach dem Umzug kann er hier
 gelöscht werden — er gehört nicht dauerhaft ins App-Repo.
 
 ## Inhalt
@@ -17,10 +17,10 @@ schema/exercise.schema.json  # CI-Validierung sprachneutrale Fakten
 schema/translation.schema.json
 schema/invariants.md         # 23 inhaltliche Regeln als CI-Gate
 examples/                    # eine vollständig annotierte Beispielübung (475, Klimmzug)
-from-train-libre/            # der bestehende Pipeline-Code, siehe unten
+legacy-pipeline/             # der bestehende Pipeline-Code, siehe unten
 ```
 
-## Was aus `train-libre` mitkommt und was damit zu tun ist
+## Was aus der früheren Pipeline mitkommt und was damit zu tun ist
 
 | Datei | Rolle heute | Rolle im neuen Repo |
 |---|---|---|

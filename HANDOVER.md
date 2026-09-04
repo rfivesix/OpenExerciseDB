@@ -129,7 +129,7 @@ vollständig · **Paket 0: Triage der 119 dünnen englischen Quellen** abgeschlo
 | Punkt | Wo |
 |---|---|
 | **3 aktiv-aktiv-Dubletten** dedupen: `382/1852`, `478/1440`, `805/1661` | `1654/1744` ist über den Merge-Mechanismus erledigt |
-| **Attribution in der Train-Libre-App** — die ausgelieferte DB hat keine Lizenzangaben | eigenes Ticket im App-Repo |
+| **Attribution in der konsumierenden App** — die ausgelieferte DB hat keine Lizenzangaben | eigenes Ticket im App-Repo |
 
 ### Einzelfälle, die noch niemand entschieden hat
 
@@ -233,7 +233,7 @@ Do not commit anything — leave it in the working tree so I can read the diffs.
 - `SCHEMA.md` — die Spezifikation. §3 ID-Vertrag, §5 Muskelmodell,
   §6 Klassifikation, §8 DDL, §10 App-Änderungen, §12 offene Punkte
 - `schema/invariants.md` — 25 Regeln, hart/weich getrennt
-- `_bootstrap/HANDOFF.md` — die Fakten aus der Train-Libre-App
+- `_bootstrap/HANDOFF.md` — die Fakten aus der bisherigen konsumierenden App
 - `test/golden/CANDIDATES.md` — die 50 der ersten Runde
-- App-Repo: `~/Projekte/train-libre`. Katalog-Asset nur **offline** testbar,
-  sonst zieht der Force-Update das GitHub-Release statt der lokalen Datei.
+- Katalog-Asset in der konsumierenden App nur **offline** testbar, sonst zieht
+  der Force-Update das GitHub-Release statt der lokalen Datei.

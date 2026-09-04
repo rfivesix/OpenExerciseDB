@@ -1,22 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1010'
 language: en
-status: upstream_unreviewed
-name: Back neck stretch
-description: |-
-  Starting position:
-  Sit upright on a chair or a firm pillow.
-  Steps:
+status: ai_reviewed
+name: Back Neck Stretch
+description: 'Starting Position: Sit upright on a chair or stand tall with shoulders
+  relaxed and down. Place your hands lightly behind your head with fingers interlaced.
 
-  Breathe out and tilt your head forward, chin to chest, putting hands behind your head.
-  Use your hands to pull your head down lightly and press against your hands with your head to balance out the force.
-  Hold for a bit.
-  Relax your arms and head, opening up a bit with your shoulders.
-  Keep repeating this from step 2 onward.
+  Execution: Exhale and gently tilt your head forward, tucking your chin toward your
+  chest. Allow the natural weight of your hands to provide light guidance until you
+  feel a comfortable stretch along the back of your neck and upper spine.
+
+  Return: Hold for 15–30 seconds, then slowly and gently lift your head back to neutral.
+
+  Cues: Do not force or pull hard on your head; let gentle gravity and relaxed breathing
+  deepen the stretch.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1884'
+search_terms:
+- Back neck stretch
+- Posterior Neck Stretch

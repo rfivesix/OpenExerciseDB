@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1099'
 language: de
-status: upstream_unreviewed
-name: Dynamisches seitliches Halten
+status: ai_reviewed
+name: Einbeiniges seitliches Halten mit Kettlebell am Band
 description: |-
-  Lege ein Gummiband um eine Kettlebell und hebe die Kettlebell am Gummiband an. Lass sie an deiner Seite hängen und stelle dich auf ein Bein, wechsle dann das Bein, während du sie weiter hältst. Wiederhole das Ganze mit der anderen Hand.
+  Ausgangsposition:
+  Schlinge ein elastisches Widerstandsband um den Griff einer Kettlebell und greife das Band mit einer Hand. Stehe aufrecht, sodass die Kettlebell frei an der Bandaufhängung seitlich neben dem Körper hängt.
+
+  Ausführung:
+  1. Hebe einen Fuß vom Boden ab und balanciere stabil auf einem Bein.
+  2. Halte den Oberkörper kerzengerade und spanne die seitlichen Bauchmuskeln (Obliquen) sowie das Gesäß intensiv an, um den Schwingungen der Kettlebell entgegenzuwirken.
+  3. Halte die Position für die vorgegebene Zeit oder wechsle während des Haltens kontrolliert das Standbein.
+  4. Wechsle anschließend die Hand und trainiere die Gegenseite.
+search_terms:
+  - Dynamisches seitliches Halten
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

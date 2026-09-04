@@ -1,20 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1007'
 language: de
-status: upstream_unreviewed
-name: Kopf drehen
-description: |-
-  Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken und Schultern nach unten.
-  Schritte:
+status: ai_reviewed
+name: Kopf drehen (Halswirbelsäulen-Rotation)
+description: 'Ausgangsposition: Sitze oder stehe aufrecht mit geradem Rücken und gesenkten,
+  entspannten Schultern. Der Blick geht geradeaus.
 
-  Setzen oder stellen Sie sich gerade hin, die Schultern sind gesenkt.
-  Drehen Sie Ihren Kopf so weit wie möglich zur Seite. Halten Sie an, wenn Sie auf ein Hindernis stoßen, und bleiben Sie 5 Sekunden lang stehen.
-  Kehren Sie in die Mittelposition zurück und wiederholen Sie den Vorgang, wobei Sie die Seite wechseln.
+  Ausführung: Drehe deinen Kopf langsam und kontrolliert zu einer Seite, bis eine
+  sanfte Dehnung im Nacken spürbar ist. Halte die Position für 1–2 Sekunden, kehre
+  zur Mitte zurück und drehe den Kopf zur Gegenseite.
+
+  Hinweis: Bewege dich schmerzfrei und ohne Rucken; die Schultern bleiben ruhig und
+  drehen sich nicht mit.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1846'
+search_terms:
+- Kopf drehen
+- Halswirbelsäulen-Rotation

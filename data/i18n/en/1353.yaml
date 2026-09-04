@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1353'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Hex Press
 description: |-
-  Engage the muscles
-  Position your feet wide
-  Controlled movement
-  Slow movement
-  Bring the weights toward your lower chest/stomach
+  Starting position:
+  Lie flat on a bench with your feet planted firmly on the floor. Hold a pair of dumbbells (hexagonal dumbbells work best) with a neutral grip, pressing them firmly together directly over your chest.
+
+  Movement:
+  Maintain continuous inward pressure pressing the two dumbbells against each other as you lower them with control toward the center of your chest. Press them back up to arm's length, keeping constant tension on your pecs.
+
+  Notes:
+  Do not let the dumbbells separate at any point during the movement. The constant inward squeeze maximizes chest activation throughout the entire range of motion.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

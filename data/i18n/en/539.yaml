@@ -6,11 +6,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '539'
 language: en
-status: ai_raw
-name: Incline Bench Press - MP
+status: ai_reviewed
+name: Smith Machine Incline Bench Press
+search_terms:
+- Incline Bench Press - MP
+description: |-
+  Starting Position: Set an incline bench to 30–45 degrees inside the Smith machine. Sit down with your back firmly against the pad and feet flat on the floor. Grip the bar slightly wider than shoulder-width and unhook the safety latches.
+  Execution: Lower the bar smoothly until it gently touches your upper chest.
+  Return: Press the bar upward by engaging your upper pectorals until your arms are extended without locking the elbows.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1049'
-description: |-
-  Perform the incline bench press in a Smith machine. Sit on the incline bench with your feet firmly on the floor, press the bar up, lower it to briefly touch the chest, then press it up again.

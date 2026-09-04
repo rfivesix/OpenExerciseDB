@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1214'
 language: it
-status: upstream_unreviewed
-name: Front lever tuck
+status: ai_reviewed
+name: Front lever tuck (raggruppato)
 description: |-
-  I muscoli coinvolti nel Front Lever, maggiormente sottoposti a sforzo, sono principalmente&nbsp;gli estensori quali: il gran dorsale, il grande rotondo, il deltoide posteriore e il capolungo del bicipite
+  Posizione di partenza:
+  • Appenditi a una sbarra per trazioni con presa prona a larghezza delle spalle.
+  • Raccogli le ginocchia vicine al petto in posizione raggruppata (tuck) e attiva saldamente il core.
+
+  Esecuzione:
+  • Tira verso il basso mantenendo le braccia tese mediante una forte estensione delle spalle e contrazione del gran dorsale.
+  • Solleva il tronco fino a portarlo perfettamente orizzontale e parallelo al pavimento.
+  • Mantieni la tenuta isometrica per il tempo stabilito (es. 5-15 secondi) respirando in modo controllato.
+  • Riabbassa il corpo lentamente fino alla distensione completa delle braccia.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin
   source_id: '2645'
+search_terms:
+  - Front lever tuck
+  - Front lever raggruppato

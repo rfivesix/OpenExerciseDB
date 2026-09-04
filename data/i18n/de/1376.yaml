@@ -1,10 +1,18 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1376'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Liegeergometer
-description: Für diese Übung wird ein Liegeergometer benötigt. Setze dich darauf, stelle Stufe und Zeit ein und beginne das Training.
+name: Wadenheben mit der Langhantel
+description: |-
+  Ausgangsposition:
+  Platziere eine Langhantel auf dem oberen Rücken (Trapezmuskel) wie bei einer Kniebeuge. Stelle deine Füße hüftbreit auf (optional mit den Fußballen auf einer erhöhten Kante oder Hantelscheibe für einen größeren Bewegungsumfang). Richte den Oberkörper auf und spanne den Rumpf fest an.
+
+  Ausführung:
+  Drücke dich über die Fußballen kraftvoll so weit wie möglich nach oben, indem du die Wadenmuskulatur voll anspannst. Halte die oberste Position für einen kurzen Moment und senke die Fersen anschließend langsam und kontrolliert wieder ab, bis eine leichte Dehnung in den Waden spürbar ist.
+
+  Hinweise:
+  Die Knie bleiben während der gesamten Übung leicht gebeugt, aber stabil fixiert. Vermeide es, mit Schwung aus den Knien zu wippen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: pera_perkan

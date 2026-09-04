@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '693'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage menton, barre EZ
-description: |-
-  Tenez-vous bien droit, les pieds écartés de la largeur des épaules. Tenez la barre EZ en prise pronation contre vos cuisses, les bras tendus. Soulevez la barre près du corps jusqu'à votre menton. Les coudes pointent vers l'extérieur de sorte qu'au point le plus haut ils forment un V. Marquez ici une courte pause avant de redescendre lentement et de répéter le mouvement.
+description: '- Debout les pieds écartés de la largeur des épaules, tenez la barre
+  EZ en prise pronation devant vos cuisses.
+
+  - Tirez la barre verticalement vers le haut le long du torse en guidant avec les
+  coudes vers le haut jusqu''à la hauteur de la poitrine.
+
+  - Contrôlez la descente jusqu''à l''extension complète des bras en gardant le dos
+  droit.'
 search_terms:
-  - Rowing menton
+- Rowing menton
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

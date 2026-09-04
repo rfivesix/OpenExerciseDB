@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: id
-status: upstream_unreviewed
-name: Jongkok
+status: ai_reviewed
+name: Barbell Squat
+search_terms:
+- Jongkok
 description: |-
   Berdiri dengan kaki selebar bahu
   Pindahkan pinggul ke belakang dan tekuk lutut dan pinggul ke bawah batang tubuh

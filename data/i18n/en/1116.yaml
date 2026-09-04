@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1116'
 language: en
-status: upstream_unreviewed
-name: Dumbbell farmer's carry
-description: Grab half your body weight in each hand and walk.
+status: ai_reviewed
+name: Dumbbell Farmer's Carry
+description: |-
+  Starting position:
+  Deadlift a pair of heavy dumbbells off the floor using proper hinge mechanics and hold them firmly at your sides with arms fully extended. Stand tall with your chest up, shoulders pulled back and down, and core fully braced.
+
+  Execution:
+  1. Walk forward taking short, controlled, and deliberate steps.
+  2. Maintain an uncompromisingly upright posture: do not lean forward or allow your torso to sway laterally.
+  3. Keep your grip squeezed tightly and prevent the dumbbells from swinging as you walk.
+  4. Continue walking for the prescribed distance (e.g., 20–50 meters) or duration, then set the weights down safely with a flat back.
+search_terms:
+  - Dumbbell farmer's carry
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

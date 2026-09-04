@@ -1,13 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1200'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Schienbeinheben (Tibialis Raise)
 description: |-
-  Stehe aufrecht.
-  Hebe die Fußballen an und bleibe auf den Fersen.
+  Ausgangsposition:
+  • Stelle dich mit dem Rücken an eine Wand gelehnt auf.
+  • Platziere deine Fersen etwa einen bis zwei Fuß breit von der Wand entfernt auf dem Boden.
+  • Halte deine Beine gestreckt und den Rücken stabil an die Wand angelehnt.
+
+  Ausführung:
+  • Hebe deine Fußspitzen und Ballen so weit wie möglich kontrolliert nach oben in Richtung der Schienbeine an (Dorsalflexion).
+  • Halte die maximale Kontraktion des vorderen Schienbeinmuskels (M. tibialis anterior) am höchsten Punkt für 1 bis 2 Sekunden.
+  • Senke die Vorfüße langsam und kontrolliert wieder ab, ohne die Fersen zu bewegen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2159'
+search_terms:
+  - Tibialis raises
+  - Schienbeinheben an der Wand

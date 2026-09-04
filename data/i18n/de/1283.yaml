@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1283'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Schrägbank-Kurzhantelrudern mit Brustauflage
-description: |-
-  Stelle eine verstellbare Bank in einem 45-Grad-Winkel ein.
+description: 'Stelle eine verstellbare Bank in einem 45-Grad-Winkel ein.
+
   Lege dich auf den Bauch, sodass dein Kopf knapp über die Kante der Bank ragt.
-  Greife in jede Hand eine Kurzhantel und nimm eine gute Haltung ein, mit angespannter Rumpf- und Latissimusmuskulatur und neutralen Schultern.
+
+  Greife in jede Hand eine Kurzhantel und nimm eine gute Haltung ein, mit angespannter Rumpf- und Latissimusmuskulatur und
+  neutralen Schultern.
+
   Rudere die Kurzhanteln zum oberen Bauch hin und spanne den Rücken am oberen Punkt der Wiederholung an.
-  Senke schließlich die Kurzhanteln zurück in die Ausgangsposition und wiederhole, bis alle Wiederholungen abgeschlossen sind.
+
+  Senke schließlich die Kurzhanteln zurück in die Ausgangsposition und wiederhole, bis alle Wiederholungen abgeschlossen sind.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

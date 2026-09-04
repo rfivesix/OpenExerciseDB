@@ -5,15 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '914'
 language: es
-status: upstream_unreviewed
-name: Curl Inverso con Barra EZ en Polea
-description: |-
-  Este ejercicio es clave para desarrollar el músculo braquial (que se encuentra debajo del bíceps) y el braquiorradial (la parte superior del antebrazo), lo que añade grosor y una apariencia más completa al brazo. El uso de la barra EZ y la polea hace que el movimiento sea más cómodo para las muñecas y mantenga una tensión constante.
-  Instrucciones
+status: ai_reviewed
+name: Curl inverso en polea con barra EZ
+description: '- Conecta una barra EZ a la polea baja y colócate de pie erguido frente
+  a la torre de poleas.
 
-  Posición: Conecta una barra EZ a una polea en su posición más baja. De pie, sujeta la barra con un agarre prono (palmas mirando hacia abajo) y con las manos sobre las curvas exteriores de la barra.
-  Movimiento: Manteniendo los codos fijos y pegados a los costados de tu cuerpo, flexiónalos para subir la barra en un arco controlado.
-  Contracción: Concéntrate en apretar los antebrazos en la parte alta del movimiento. Baja de forma lenta, resistiendo la tensión del cable, hasta que tus brazos estén completamente extendidos.
+  - Sujeta la barra con agarre prono (palmas hacia abajo) en las curvas interiores.
+
+  - Con los codos fijos a los costados, flexiona los brazos llevando la barra hacia
+  el pecho.
+
+  - Desciende el peso lentamente con control manteniendo la tensión en los antebrazos.'
+search_terms:
+- Curl Inverso con Barra EZ en Polea
+- Reverse EZ Bar Cable Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

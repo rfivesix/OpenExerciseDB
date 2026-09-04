@@ -5,16 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1012'
 language: de
-status: upstream_unreviewed
-name: Abwechselnde Bizepscurls
+status: ai_reviewed
+name: Abwechselnde Kurzhantel-Bizepscurls
 description: |-
   Ausgangsposition:
-  Beginnen Sie im Stehen mit Kurzhanteln in jeder Hand, mit geradem Rücken und hüftbreit auseinander stehenden Füßen. Die Arme sind entspannt und zeigen nach unten. Die Knie sollten leicht gebeugt, die Bauchmuskeln angespannt und die Schultern nach unten gerichtet sein.
-  Die Schritte:
+  Stehe aufrecht mit den Füßen hüftbreit auseinander. Halte in jeder Hand eine Kurzhantel mit gestreckten Armen neben dem Körper, Handflächen zeigen zueinander (neutraler Griff). Die Knie sind minimal gebeugt, der Rumpf angespannt und die Schultern nach hinten unten gezogen.
 
-  Beugen Sie einen Arm am Ellenbogen und führen Sie die Hantel bis zur Schulter. Ihr Oberarm sollte während dieser Bewegung unbeweglich bleiben.
-  Bringen Sie die Hantel wieder nach unten, bis sich Ihr Arm in seiner ursprünglichen, entspannten Position befindet.
-  Wiederholen Sie die Übung mit dem anderen Arm.
+  Ausführung:
+  1. Beuge einen Arm kontrolliert im Ellenbogen und drehe dabei den Unterarm nach außen (Supination), sodass die Handfläche in Richtung Schulter zeigt.
+  2. Führe die Hantel nach oben, bis der Bizeps maximal kontrahiert ist. Der Oberarm bleibt dabei eng am Körper fixiert.
+  3. Senke das Gewicht langsam und kontrolliert wieder in die Ausgangsposition ab.
+  4. Wiederhole die Bewegung mit dem anderen Arm und wechsle die Seiten im flüssigen Rhythmus ab.
+search_terms:
+  - Abwechselnde Bizepscurls
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1906'

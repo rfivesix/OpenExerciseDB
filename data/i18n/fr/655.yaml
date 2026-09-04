@@ -5,18 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '655'
 language: fr
-status: upstream_unreviewed
-name: Extension des avant-bras avec haltère
-description: |-
-  Commencez par prendre un haltère dans chaque main, les paumes tournées vers le torse. Gardez le dos droit, pliez légèrement les genoux et penchez-vous vers l'avant au niveau de la taille. Votre torse doit être presque parallèle au sol. Veillez à garder la tête haute. Les parties supérieures des bras doivent être proche du torse et parallèle au sol. Les&nbsp;avant-bras doivent être dirigés vers le sol lorsque vous tenez les&nbsp;haltères. Un angle de 90 degrés doit être formé entre l'avant-bras et le bras. C'est votre position de départ.
-  Maintenant, tout en gardant les bras immobiles, expirez et utilisez vos triceps pour soulever les haltères jusqu'à ce que les bras soient complètement tendus. Concentrez-vous sur le mouvement de l'avant-bras.
-  Après une brève pause au sommet de la contraction, inspirez et redescendez lentement les haltères jusqu'à la position de départ.
-  Répétez le mouvement pour le nombre de répétitions prescrit.
+status: ai_reviewed
+name: Kickback pour triceps avec haltères
+description: '- Tenez un haltère dans chaque main en prise neutre, inclinez le buste
+  vers l''avant avec le dos plat et les genoux légèrement fléchis.
 
-  Variantes :
+  - Amenez le haut des bras le long du buste, parallèles au sol, les coudes pliés
+  à 90 degrés.
 
-  Cet exercice peut être exécuté avec un seul bras à la fois.
-  De plus, si vous aimez la variante à un bras, vous pouvez utiliser une poulie basse au lieu d'un haltère pour une meilleure contraction maximale. Dans ce cas, les paumes doivent être tournées vers le haut plutôt que vers le torse.
+  - En gardant le haut des bras parfaitement immobile, étendez les avant-bras vers
+  l''arrière en contractant fortement les triceps.
+
+  - Marquez une courte pause au sommet de la contraction, puis redescendez lentement
+  les haltères à la position de départ.'
+search_terms:
+- Extension des avant-bras avec haltère
 upstream:
   license: CC-BY-SA-4.0
   license_author: Garion

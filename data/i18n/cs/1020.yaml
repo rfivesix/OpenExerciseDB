@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: cs
-status: upstream_unreviewed
-name: Dřep na pravé noze
+status: ai_reviewed
+name: Pistol dřep na pravé noze
 description: |-
-  Postavte se na jednu nohu, druhou nohu rovně a mírně dopředu.
-  Pomalu ohněte jedno koleno, sestupujte do dřepu a udržujte záda a druhou nohu rovně.
-  Pomalu se zvedněte z dřepu, narovnejte ohnuté koleno a udržujte druhou nohu rovnou.
-  Opakovat
+  Výchozí poloha:
+  Postavte se na pravou nohu, levá noha je natažená dopředu nad zemí. Ruce předpažte pro udržení rovnováhy.
+
+  Provedení:
+  1. Pomalu ohýbejte pravé koleno a kyčel a klesejte do hlubokého dřepu na jedné noze.
+  2. Udržujte rovná záda, zvednutý hrudník a volnou nohu držte neustále nad podlahou.
+  3. Klesněte do maximální kontrolované hloubky.
+  4. Zatlačením do pravé paty se zvedněte zpět do vzpřímeného stoje.
+search_terms:
+  - Dřep na pravé noze
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1936'

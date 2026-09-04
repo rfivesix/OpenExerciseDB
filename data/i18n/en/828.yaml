@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '828'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Incline Bench Reverse Fly
-description: |-
-  The incline dumbbell reverse fly is an upper-body exercise targeting the posterior or rear deltoids, as well as the postural muscles of the upper back. Because it targets such small muscles, this exercise is usually performed with light weight for high reps, such as 10-15 reps per set or more.
+description: '- Lie chest-down on an incline bench set to a 30- to 45-degree angle,
+  holding a pair of dumbbells hanging down with palms facing each other.
+
+  - Keeping a slight, rigid bend in your elbows, raise the dumbbells out to the sides
+  in a wide arc until your upper arms are level with your shoulders.
+
+  - Squeeze your rear deltoids and upper back muscles firmly at the top.
+
+  - Lower the dumbbells back down slowly and under control without using momentum.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442

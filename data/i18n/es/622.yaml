@@ -5,17 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '622'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Elevación de talón de pie
 description: |-
-  Mire&nbsp; hacia&nbsp; la&nbsp; máquina&nbsp; y&nbsp; coloque&nbsp; las&nbsp; puntas&nbsp; de&nbsp; los&nbsp; pies&nbsp; en&nbsp; el&nbsp; borde&nbsp; más&nbsp; cercano&nbsp; del&nbsp; escalón&nbsp; con&nbsp; los&nbsp; pies&nbsp; paralelos&nbsp; entre&nbsp; sí.
-  Sumerja&nbsp; su&nbsp; cuerpo&nbsp; debajo&nbsp; de&nbsp; las hombreras&nbsp; y&nbsp; póngase&nbsp; de&nbsp; pie&nbsp; con&nbsp; el&nbsp; cuerpo&nbsp; completamente&nbsp; erguido.
-  Permita&nbsp; que&nbsp; sus&nbsp; talones&nbsp; caigan&nbsp; más&nbsp; abajo&nbsp; que&nbsp; el&nbsp; escalón&nbsp; hasta&nbsp; que&nbsp; sienta&nbsp; un&nbsp; estiramiento.
-  No&nbsp; permita&nbsp; que&nbsp; le&nbsp; bloqueen&nbsp; las&nbsp; rodillas.&nbsp; Movimiento&nbsp; hacia&nbsp; arriba
-  Ponga&nbsp; los&nbsp; dedos&nbsp; de&nbsp; los&nbsp; pies&nbsp; en&nbsp; punta&nbsp; para&nbsp; levantar&nbsp; los&nbsp; talones arriba.
-  Mantenga&nbsp; su&nbsp; cuerpo&nbsp; erguido&nbsp; y&nbsp; no&nbsp; mire&nbsp; hacia&nbsp; abajo&nbsp; ni&nbsp; se&nbsp; incline&nbsp; hacia&nbsp; adelante&nbsp; o&nbsp; hacia&nbsp; atrás. Movimiento&nbsp; descendente
-  Permita&nbsp; que&nbsp; sus&nbsp; talones&nbsp; vuelvan&nbsp; a&nbsp; caer&nbsp; a&nbsp; la&nbsp; posición&nbsp; inicial.
-  Mantenga&nbsp; su&nbsp; cuerpo&nbsp; completamente&nbsp; erguido&nbsp; y&nbsp; no&nbsp; rebote&nbsp; desde&nbsp; la&nbsp; posición&nbsp; más&nbsp; baja&nbsp; para&nbsp;&nbsp; comenzar&nbsp; el&nbsp; movimiento&nbsp; ascendente.
+  Mire  hacia  la  máquina  y  coloque  las  puntas  de  los  pies  en  el  borde  más  cercano  del  escalón  con  los  pies  paralelos  entre  sí.
+  Sumerja  su  cuerpo  debajo  de  las hombreras  y  póngase  de  pie  con  el  cuerpo  completamente  erguido.
+  Permita  que  sus  talones  caigan  más  abajo  que  el  escalón  hasta  que  sienta  un  estiramiento.
+  No  permita  que  le  bloqueen  las  rodillas.  Movimiento  hacia  arriba
+  Ponga  los  dedos  de  los  pies  en  punta  para  levantar  los  talones arriba.
+  Mantenga  su  cuerpo  erguido  y  no  mire  hacia  abajo  ni  se  incline  hacia  adelante  o  hacia  atrás. Movimiento  descendente
+  Permita  que  sus  talones  vuelvan  a  caer  a  la  posición  inicial.
+  Mantenga  su  cuerpo  completamente  erguido  y  no  rebote  desde  la  posición  más  baja  para   comenzar  el  movimiento  ascendente.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

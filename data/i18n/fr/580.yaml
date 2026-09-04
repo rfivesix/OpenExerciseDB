@@ -5,11 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '580'
 language: fr
-status: upstream_unreviewed
-name: Planche latérale gauche
+status: ai_reviewed
+name: Planche latérale
+search_terms:
+- Planche latérale gauche
+- Gainage latéral
 description: |-
   Allongez-vous sur le côté, le coude inférieur à angle droit, le bras dépassant
-  Soulevez votre bassin du sol en soulevant votre épaule inférieure, en gardant l'avant-bras sur le sol&nbsp;; votre tête, votre bassin et vos pieds doivent être en ligne droite
+  Soulevez votre bassin du sol en soulevant votre épaule inférieure, en gardant l'avant-bras sur le sol ; votre tête, votre bassin et vos pieds doivent être en ligne droite
   Maintenez cette position
 upstream:
   license: CC-BY-SA-4.0

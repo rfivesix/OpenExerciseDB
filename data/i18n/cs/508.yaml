@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '508'
 language: cs
-status: upstream_unreviewed
-name: Přítahy v Sedě s Oporou
+status: ai_reviewed
+name: Přítahy činky v předklonu
+search_terms:
+- Přítahy v Sedě s Oporou
 description: |-
-  Při cvičení ramena držte na místě, nezvedejte je nahoru, při kontrakci táhněte lopatky k sobě a dolů, nadloktí podél těla dozadu. Soustřeďte se na zádové svaly a ne na svaly rukou.
+  Výchozí poloha: Postavte se s nohama na šířku boků, mírně pokrčte kolena a předkloňte trup s rovnými zády. Uchopte činku nadhmatem.
+  Provedení: Přitahujte činku směrem k pasu nebo spodní části břicha, lokty veďte podél těla a stahujte lopatky k sobě.
+  Návrat: Kontrolovaně spusťte činku zpět do výchozí pozice s nataženými pažemi.
 upstream:
   license: CC0-1.0
   license_author: BFad07

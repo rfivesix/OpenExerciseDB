@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1141'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arabeske
 description: |-
-  Verlagere dein gesamtes Gewicht auf ein Bein und halte diese Position, wobei Hüfte und Becken die ganze Zeit über waagerecht bleiben. Halte deinen Rücken in einer neutralen Position und neige dich nach vorne, während du das andere Bein nach hinten oben streckst. Anschließend richtest du dich langsam mit der Kraft deiner Gesäßmuskulatur wieder in die neutrale Ausgangsposition auf.
+  Ausgangsposition:
+  • Stehe aufrecht und verlagere dein gesamtes Körpergewicht auf ein Standbein.
+  • Das Knie des Standbeins ist minimal gebeugt, die Hüfte und das Becken stehen parallel zum Boden.
+  • Richte die Wirbelsäule neutral auf und spanne die Bauchmuskeln an.
+
+  Ausführung:
+  • Neige deinen geraden Oberkörper aus der Hüfte nach vorne und strecke gleichzeitig das andere Bein nach hinten-oben aus.
+  • Bringe Oberkörper und Spielbein möglichst in eine waagerechte Linie zum Boden.
+  • Richte dich mit der Kraft von Gesäß und hinterem Oberschenkel des Standbeins kontrolliert wieder in den aufrechten Stand auf.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

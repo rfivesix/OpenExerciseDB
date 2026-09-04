@@ -9,13 +9,14 @@ language: en
 status: ai_reviewed
 name: Dumbbell Lateral and Front Raise
 description: |-
-  Stand while holding dumbbells beside body
-  Keep arms almost fully extended
-  Without momentum raise dumbbells to the side of your body until shoulder height, palms facing down
-  Lower dumbbells beside body, palms facing inwards
-  Immediately raise dumbbells in front of your body until shoulder height, palms facing down
-  Down again
-  This is one repetition
+  Starting Position:
+  • Stand tall with feet shoulder-width apart, holding a pair of dumbbells at your sides with elbows slightly bent.
+
+  Execution:
+  • Raise the dumbbells out to your sides until they reach shoulder height (lateral raise).
+  • Keeping arms at shoulder level, sweep them forward horizontally until the dumbbells meet in front of your chest.
+  • Slowly lower the dumbbells straight down in front of your thighs.
+  • Reverse the sequence on alternating reps by raising to the front first, sweeping outward to the sides, and lowering down.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

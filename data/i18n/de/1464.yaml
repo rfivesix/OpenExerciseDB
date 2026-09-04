@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1464'
 language: de
-status: upstream_unreviewed
-name: Hack Squats mit Pause
+status: ai_reviewed
+name: Hackenschmidt-Kniebeuge mit Pause (Pause Hack Squat)
 description: |-
-  Hack Squats, aber mit einer Pause von 1-2 Sekunden am unteren Ende der Bewegung. Dadurch wird sichergestellt, dass keine elastische Energie mehr in den Muskeln gespeichert ist.
+  Ausgangsposition:
+  • Stelle dich in die Hackenschmidt-Maschine, die Schultern unter den Polstern und der Rücken fest an der Rückenlehne angelehnt.
+  • Platziere die Füße etwa schulterbreit auf der Fußplatte.
+
+  Ausführung:
+  • Beuge kontrolliert die Knie und senke den Schlitten ab, bis die Oberschenkel mindestens parallel zur Fußplatte sind.
+  • Halte am tiefsten Punkt für 1 bis 2 Sekunden eine absolute Pause (kein Wippen, kein Federn), um elastische Energie vollständig abzubauen.
+  • Drücke den Schlitten kraftvoll aus den Oberschenkeln und dem Gesäß wieder nach oben in die Ausgangsposition zurück, ohne die Knie oben durchzuschlagen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3971'
+search_terms:
+  - Hack Squats mit Pause
+  - Pause Hack Squats

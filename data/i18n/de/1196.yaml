@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1196'
 language: de
-status: upstream_unreviewed
-name: Wand-Drills
+status: ai_reviewed
+name: Wand-Drills (Sprintmechanik)
 description: |-
-  Übungen zur Stärkung der Knie- und Beinmuskulatur.
+  Ausgangsposition:
+  • Stelle dich etwa einen Schritt von einer stabilen Wand entfernt auf.
+  • Stütze dich mit beiden Händen auf Schulterhöhe an der Wand ab und neige deinen gesamten Körper in einem Winkel von ca. 45 Grad nach vorne.
+  • Bilde eine gerade Linie von den Fersen über die Hüfte bis zum Kopf und spanne den Rumpf fest an.
 
-  Lateral Wall Drills March - https://youtu.be/9RiTlJ6Mmek
-  Lateral Wall Drills OPEN - https://youtu.be/ADRlN8-Wfdg
-  Lateral Wall Drills CROSS - https://youtu.be/hGH2sj0Tzu4
+  Ausführung:
+  • Hebe ein Knie explosiv nach vorne oben in Richtung Brust (Hüftbeugung), sodass der Oberschenkel parallel zum Boden ist und die Fußspitze angezogen ist (Dorsalflexion).
+  • Halte die Position für das Kniehub-Training kurz oder marschiere/wechsle die Beine dynamisch im Rhythmus (Marching/Switch Drills).
+  • Das Standbein bleibt stabil gestreckt und überträgt die Kraft über den Vorfuß in den Boden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3731'
+search_terms:
+  - Wand-Drills
+  - Wall Drills

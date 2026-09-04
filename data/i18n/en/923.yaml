@@ -1,14 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '923'
 language: en
-status: upstream_unreviewed
-name: Lying Dumbbell Row SS Seated Shrug
-description: laying on the stomach on a bench with slight angle
+status: ai_reviewed
+name: Lying Dumbbell Row and Seated Shrug
+description: 'Starting Position: Lie face down (prone) on a slight incline bench (around
+  30–45 degrees), holding a pair of dumbbells with arms hanging straight toward the
+  floor in a neutral grip.
+
+  Execution:
+
+  1. Lying Dumbbell Row: Pull the dumbbells upward by driving your elbows back past
+  your torso, squeezing your lats and mid-back at the peak. Lower under control. Complete
+  the prescribed row repetitions.
+
+  2. Seated Shrug: Immediately sit upright on the bench and perform dumbbell shrugs,
+  elevating your shoulders straight up toward your ears to target the upper and middle
+  traps.
+
+  Return: Lower the dumbbells smoothly with control after each repetition.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1202'
+search_terms:
+- Lying Dumbbell Row SS Seated Shrug
+- Lying Dumbbell Row Superset Seated Shrug

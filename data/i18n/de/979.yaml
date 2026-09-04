@@ -1,11 +1,24 @@
 exercise_id: '979'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Beinheben an der Klimmzugstange
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Hebe mit festem Griff beider Hände an der Stange die ausgestreckten Beine an, bis sie mit dem Oberkörper einen Winkel von 90° bilden.
+description: 'Ausgangsposition: Hänge dich mit gestreckten Armen im festen Griff an
+  die Klimmzugstange. Die Schultern sind aktiv stabilisiert und der Körper hängt ruhig.
+
+  Ausführung: Hebe die ausgestreckten Beine kontrolliert an, bis sie mindestens einen
+  90°-Winkel mit dem Oberkörper bilden oder höher reichen. Ziehe das Becken aktiv
+  nach oben ein.
+
+  Rückkehr: Senke die Beine langsam und kontrolliert wieder ab, ohne in ein Hohlkreuz
+  zu verfallen oder Schwung aufzubauen.
+
+  Hinweis: Vermeide jegliches Pendeln des Körpers; die Bewegung wird rein aus der
+  Bauchmuskulatur gesteuert.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1293'
+search_terms:
+- Hanging Leg Raise
+- Hängendes Beinheben

@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1198'
 language: it
-status: upstream_unreviewed
-name: Trazioni orizzontali
+status: ai_reviewed
+name: Trazioni orizzontali (Inverted Row)
 description: |-
-  Le trazioni orizzontali agiscono&nbsp;principalmente sui muscoli della schiena, mentre le trazioni lavorano maggiormente sui muscoli della parte superiore della schiena e delle braccia. Combinando questi due esercizi si ottiene un allenamento più completo per i muscoli della schiena e delle braccia.
+  Posizione di partenza:
+  • Posiziona un bilanciere all'altezza dei fianchi in un rack o multipower.
+  • Posizionati supino sotto la sbarra e afferrala con presa prona leggermente più ampia delle spalle.
+  • Appoggia i talloni al pavimento formando una linea retta rigida dalla testa ai piedi.
+
+  Esecuzione:
+  • Tira il petto verso la sbarra portando indietro i gomiti e adducendo con forza le scapole.
+  • Mantieni il core e i glutei contratti per evitare cedimenti del bacino.
+  • Ridiscendi lentamente e sotto controllo fino a distendere completamente le braccia.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin
   source_id: '2644'
+search_terms:
+  - Trazioni orizzontali
+  - Rematore inverso

@@ -5,9 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '820'
 language: de
-status: upstream_unreviewed
-name: Leisten hängen an 20 mm Kante
-description: 10 Sekunden&nbsp;an einer 20 mm Leiste des Fingerboards hängen
+status: ai_reviewed
+name: Leistenhängen an 20-mm-Kante
+description: '- Hänge dich mit den Fingerkuppen beider Hände im offenen Griff (Open
+  Hand) oder im Halb-Crimp an die 20-mm-Leiste des Fingerboards.
+
+  - Halte die Schultern aktiv nach unten gezogen und die Ellenbogen minimal angewinkelt,
+  um die Gelenke zu schützen.
+
+  - Halte die freie Hängeposition stabil für die angegebene Zeit (z. B. 10 Sekunden)
+  ohne Schwung oder Pendelbewegungen.'
+search_terms:
+- Leisten hängen an 20 mm Kante
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

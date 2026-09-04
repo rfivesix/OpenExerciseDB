@@ -1,10 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1275'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plantarflexions-Dehnung mit Band
-description: Diese Dehnung ist für die Sprunggelenke sowie den vorderen Schienbeinmuskel.
+description: 'Ausgangsposition:
+
+  Setze dich auf den Boden mit ausgestreckten Beinen. Lege ein elastisches Band über den Fußrücken (Spann) des zu dehnenden
+  Fußes und fixiere das Band mit den Händen oder an einem festen Punkt.
+
+
+  Ausführung:
+
+  1. Drücke die Fußspitze vorsichtig nach vorne unten (Plantarflexion), sodass die Vorderseite des Sprunggelenks und der vordere
+  Schienbeinmuskel (Tibialis anterior) sanft gedehnt werden.
+
+  2. Halte die angenehme Dehnposition für 20 bis 30 Sekunden.
+
+  3. Lasse den Fuß langsam wieder in die Neutralposition zurückkehren und wechsle das Bein.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

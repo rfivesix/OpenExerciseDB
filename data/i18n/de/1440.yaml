@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1440'
 language: de
-status: upstream_unreviewed
-name: Push Press
+status: ai_reviewed
+name: Push Press (Schwungdrücken)
 description: |-
-  Lege die Stange vorne auf deinen Schultern ab
-  Beuge die Knie, während du den Oberkörper aufrecht hältst
-  Strecke die Beine und drücke die Stange mit Schwung über deinen Kopf
+  Ausgangsposition:
+  • Stelle dich hüft- bis schulterbreit hin und lege die Langhantel im schulterbreiten Obergriff stabil auf den vorderen Schultern und dem oberen Schlüsselbeinbereich ab (Front-Rack-Position).
+  • Halte die Ellbogen leicht nach vorne gerichtet und den Rumpf fest angespannt.
+
+  Ausführung:
+  • Beuge die Knie zügig und kontrolliert um wenige Zentimeter (Dip), während der Oberkörper streng aufrecht bleibt.
+  • Strecke die Beine explosiv durch und nutze den Schwung aus der Hüft- und Kniestreckung, um die Langhantel kraftvoll nach oben zu beschleunigen.
+  • Führe die Bewegung mit den Schultern und Armen zu Ende, bis die Hantel mit gestreckten Armen stabil über dem Kopf fixiert ist.
+  • Senke die Stange kontrolliert wieder in die Front-Rack-Position auf die vorderen Schultern ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3946'
+search_terms:
+  - Push Press
+  - Schwungdrücken

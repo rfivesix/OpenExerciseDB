@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1198'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo invertido
 description: |-
-  Mantén el cuerpo recto, retrae las escápulas y lleva el
-  pecho hacia la barra para un entrenamiento eficaz de la espalda y el tren superior.
+  Posición inicial:
+  • Coloca una barra en un soporte a la altura de la cadera.
+  • Túmbate boca arriba debajo de la barra y agárrala en pronación ligeramente más abierta que la anchura de los hombros.
+  • Apoya los talones en el suelo manteniendo el cuerpo recto como una tabla desde la cabeza hasta los pies.
+
+  Ejecución:
+  • Tira del pecho hacia la barra llevando los codos hacia atrás y juntando las escápulas.
+  • Mantén los glúteos y el abdomen activados para evitar que la cadera caiga.
+  • Desciende de forma lenta y controlada hasta extender los brazos por completo.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3734'
+search_terms:
+  - Dominadas horizontales
+  - Inverted row

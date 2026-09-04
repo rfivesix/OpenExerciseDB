@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: fr
-status: upstream_unreviewed
-name: Lever du mollet droit
+status: ai_reviewed
+name: Élévation du mollet droit (sur une jambe)
 description: |-
-  Tenez-vous debout sur le sol ou sur le bord d'une marche pour augmenter l'amplitude des mouvements. Levez un pied en plaçant la partie supérieure sur votre mollet
-  Soulevez vos talons jusqu'à ce que vous soyez debout sur les orteils
-  Restez dans cette position pendant trois secondes, puis abaissez votre pied sans toucher le sol avec votre talon.
+  Position de départ :
+  Tenez-vous debout sur le pied droit, sur le sol ou sur le bord d'une marche pour augmenter l'amplitude. Le pied gauche est légèrement décollé du sol. Prenez un appui léger avec une main sur un mur pour garder l'équilibre.
+
+  Étapes :
+  1. Descendez le talon droit vers le bas pour ressentir un étirement complet du mollet.
+  2. Poussez puissamment sur la pointe du pied droit pour monter le plus haut possible.
+  3. Marquez une pause d'une seconde en haut de la contraction.
+  4. Redescendez lentement de manière contrôlée.
+search_terms:
+  - Lever du mollet droit
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1954'

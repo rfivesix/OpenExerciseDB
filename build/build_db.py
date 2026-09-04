@@ -21,7 +21,7 @@ in Phase 1 nichts und zahlt sich in Phase 2 aus: wird `trapezius` spaeter zu
 
 Aufruf:
 
-    python3 build/build_db.py --db-out artifacts/train_libre_training.db \\
+    python3 build/build_db.py --db-out artifacts/openexercisedb.db \\
         --report-json-out artifacts/build_report.json
 """
 from __future__ import annotations
@@ -79,8 +79,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument(
         "--db-out",
-        default="artifacts/train_libre_training.db",
-        help="Zielpfad der SQLite-Datei (Default: artifacts/train_libre_training.db)",
+        default="artifacts/openexercisedb.db",
+        help="Zielpfad der SQLite-Datei (Default: artifacts/openexercisedb.db)",
     )
     parser.add_argument("--report-json-out", help="Pfad fuer den maschinenlesbaren Buildbericht")
     parser.add_argument(

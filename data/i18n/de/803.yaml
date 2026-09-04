@@ -1,4 +1,3 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 # data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
@@ -6,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '803'
 language: de
-status: ai_raw
+status: ai_reviewed
+name: Einarmiges Trizepsdrücken am Kabelzug
+description: '- Stelle dich seitlich oder frontal vor den hohen Kabelzug und greife
+  den Einzelgriff oder das Seilende mit einer Hand.
+
+  - Halte den Oberarm eng am Körper fixiert und beginne mit im 90-Grad-Winkel gebeugtem
+  Ellenbogen.
+
+  - Drücke den Griff durch Streckung des Ellenbogens nach unten, bis der Trizeps maximal
+  kontrahiert ist.
+
+  - Führe den Arm langsam und kontrolliert wieder nach oben, ohne den Oberarm oder
+  die Schulter mitzubewegen.'
+search_terms:
+- Trizeps Seildrücken Einarmig
 translated_from: en
-name: Trizeps Seildrücken Einarmig
-description: |-
-  Stelle dich an einen Kabelzug und halte den Griff mit einer Hand. Strecke den Ellbogen, um den Griff nach unten zu drücken, und führe ihn dann kontrolliert zurück, bevor du die Übung auf der anderen Seite wiederholst.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1056'

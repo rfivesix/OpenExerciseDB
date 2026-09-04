@@ -5,20 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1082'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Vorgebeugtes Rudern mit Außenrotation
 description: |-
   Ausgangsposition:
-  Stelle dich hinter einen Stuhl oder vor einen Tisch. Beuge dich in der Hüfte nach vorne, um deine Stirn auf die Rückenlehne des Stuhls oder den Tisch zu legen, wobei du den Rücken gerade hältst. Deine Arme sollten gerade nach unten hängen und zum Boden zeigen.
-  Ablauf:
+  Stelle dich hüftbreit hin und beuge den Oberkörper mit geradem Rücken in der Hüfte nach vorne (ca. 45–60 Grad Neigung). Die Arme hängen senkrecht nach unten, die Daumen zeigen zueinander.
 
-  Hebe deine Ellbogen auf Schulterhöhe. Deine Unterarme sollten nach unten zeigen, senkrecht zu deinen Oberarmen. Deine Oberarme sollten sich auf gleicher Höhe wie dein Rücken befinden und senkrecht zu deiner Wirbelsäule stehen.
-  Halte kurz.
-  Rotiere in den Ellbogen, um deine Hände so weit wie möglich nach oben zu bringen.
-  Halte kurz.
-  Rotiere in den Ellbogen zurück in die vorherige Position.
-  Senke deine Arme in die Ausgangsposition.
-  Wiederhole.
+  Ausführung:
+  1. Ziehe beide Ellenbogen kontrolliert auf Schulterhöhe nach oben, sodass die Oberarme senkrecht zum Torso stehen und die Unterarme im 90-Grad-Winkel nach unten zeigen.
+  2. Halte die Ellenbogen stabil auf Schulterhöhe und rotiere nun die Unterarme um die Ellenbogenachse nach oben, bis die Hände auf Kopfhöhe sind (externe Schulterrotation).
+  3. Halte kurz die Spannung in der Rotatorenmanschette und den Schulterblättern.
+  4. Rotiere die Unterarme kontrolliert wieder nach unten und senke die Arme in die Ausgangsposition ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1239'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Standing Calf Stretch
 description: |-
-  This stretch targets the gastrocnemius (the chief muscle of the calf of the leg, which flexes the knee and foot). It is easy to perform anywhere. All you need is a wall or a chair.
+  Starting Position:
+  • Stand facing a wall roughly arm's length away and place your hands on the wall at shoulder height.
+  • Step one leg straight back into a staggered stance.
+
+  Execution:
+  • Keep your rear leg completely straight with your rear heel pressed firmly flat into the floor.
+  • Bend your front knee and gently lean your hips forward toward the wall until you feel a deep stretch in your rear calf (gastrocnemius).
+  • Hold the stretch for 20 to 30 seconds while breathing smoothly, then switch legs.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2201'
+search_terms:
+  - Wall calf stretch
+  - Standing gastrocnemius stretch

@@ -1,10 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '908'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Zone-2-Lauf
-description: Zone-2-Cardio für die Ausdauer; du solltest während des Laufens sprechen können.
+description: '- Laufe in einem gleichmäßigen, moderaten Tempo im Bereich von Zone
+  2 (typischerweise etwa 60-70 % der maximalen Herzfrequenz).
+
+  - Wähle das Tempo so, dass eine kontinuierliche Nasenatmung oder eine lockere Unterhaltung
+  in ganzen Sätzen problemlos möglich ist (Sprechtest).
+
+  - Halte die Herzfrequenz über die gesamte Trainingsdauer stabil, um die aerobe Ausdauerbasis
+  und Fettverbrennung optimal zu trainieren.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

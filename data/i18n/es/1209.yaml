@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1209'
 language: es
-status: upstream_unreviewed
-name: Flexión a tres puntos al ancho de los hombros
+status: ai_reviewed
+name: Flexión a tres puntos
 description: |-
-  Colócate en posición de flexión con los hombros directamente sobre las manos y los pies separados al ancho de las caderas. Lleva el ombligo hacia la columna y aprieta los músculos abdominales. Levanta el pie izquierdo unos cinco centímetros del suelo. Apunta los dedos del pie directamente hacia abajo. No muevas las caderas. Tu cuerpo forma una línea recta desde la cabeza hasta los talones durante todo el ejercicio. Ahora flexiona los codos, baja el pecho hacia el suelo y empújate de nuevo hacia arriba. Repite el ejercicio en el otro lado.
+  Posición inicial:
+  • Colócate en posición de flexión estándar con las manos a la anchura de los hombros.
+  • Levanta un pie unos cinco centímetros del suelo, quedando apoyado sobre tres puntos.
+  • Mantén la pelvis nivelada y el abdomen firme para evitar cualquier torsión.
+
+  Ejecución:
+  • Flexiona los codos descendiendo el pecho hacia el suelo con control.
+  • Mantén el cuerpo recto y rígido sin dejar que la cadera rote o se hunda.
+  • Empuja con las manos para volver a la posición superior y alterna la pierna elevada tras la serie.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3799'
+search_terms:
+  - Flexión a tres puntos al ancho de los hombros
+  - Flexión con una pierna elevada

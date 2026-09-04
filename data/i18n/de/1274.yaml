@@ -1,10 +1,34 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1274'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wadendehnung sitzend
-description: Dies ist eine leichte Wadendehnung, die sich gut für die Rehabilitation eignet.
+description: 'Ausgangsposition:
+
+  Setze dich mit aufrechtem Oberkörper auf den Boden oder eine Matte und strecke ein Bein gerade nach vorne aus. Das andere
+  Bein kann angewinkelt bleiben.
+
+
+  Ausführung:
+
+  1. Ziehe die Fußspitze des ausgestreckten Beins aktiv in Richtung Schienbein heran (Dorsalflexion).
+
+  2. Greife bei Bedarf mit der Hand oder einem Handtuch um den Fußballen, um die Dehnung in der Wade und der Achillessehne
+  sanft zu verstärken.
+
+  3. Halte die Dehnposition ruhig für 20 bis 30 Sekunden und atme gleichmäßig.
+
+  4. Löse die Dehnung langsam und wechsle die Seite.
+
+
+  Hinweise:
+
+  Hervorragend geeignet für die Rehabilitation und die Beweglichkeit des Sprunggelenks.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

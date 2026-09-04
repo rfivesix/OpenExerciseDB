@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '829'
 language: en
-status: upstream_unreviewed
-name: Rear Delt Raise
-description: |-
-  Seated on a bench with the dumbbells on the floor bend over at 45 Degrees and then slowly raise each dumbbell to shoulder height and hold for a couple seconds before lowering to the starting position.
+status: ai_reviewed
+name: Seated Rear Delt Raise
+description: '- Sit on the edge of a flat bench with feet flat on the floor and lean
+  your torso forward over your thighs with a flat back.
+
+  - Hold a dumbbell in each hand beneath your thighs with palms facing each other
+  and elbows slightly bent.
+
+  - Raise the dumbbells out to the sides until your upper arms are parallel to the
+  floor at shoulder height.
+
+  - Squeeze your posterior deltoids at the top, then lower the dumbbells slowly under
+  control.'
+search_terms:
+- Rear Delt Raise
 upstream:
   license: CC-BY-SA-4.0

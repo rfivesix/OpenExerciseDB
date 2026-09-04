@@ -5,15 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1378'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seitheben am Kabelzug (einarmig)
 description: |-
-  Das einarmige Seitheben am Kabelzug ist eine Variation des Seithebens und eine Übung, mit der die Schultermuskulatur aufgebaut wird.
+  Ausgangsposition:
+  Stelle dich seitlich neben einen Kabelzugturm, dessen Seilrolle auf die unterste Stufe eingestellt ist. Greife den Einhandgriff mit der dem Turm abgewandten Hand (Kabel verläuft hinter oder vor dem Körper). Halte dich mit der freien Hand am Pfosten fest und neige den Oberkörper minimal zur Seite.
 
-  Positioniere ein Kabel in der niedrigstmöglichen Position und befestige einen einzelnen Griff.
-  Greife mit der gegenüberliegenden Hand über deinen Körper hinweg den Griff mit neutralem Griff.
-  Halte den Ellbogen leicht gebeugt und ziehe den Griff über deinen Körper, während du seitlich anhebst.
-  Senke den Griff langsam und kontrolliert zurück in die Startposition.
+  Ausführung:
+  Hebe den Arm mit leicht gebeugtem Ellbogen in einem weiten Bogen seitlich nach oben, bis die Hand sich etwa auf Schulterhöhe befindet. Halte die Kontraktion im seitlichen Deltamuskel kurz und senke den Griff anschließend langsam und kontrolliert gegen den kontinuierlichen Kabelzug wieder ab.
+
+  Hinweise:
+  Führe die Bewegung ohne Schwung aus dem Oberkörper aus. Der Kabelzug sorgt im Gegensatz zu Kurzhanteln für eine gleichmäßige Spannung über den gesamten Bewegungsradius.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

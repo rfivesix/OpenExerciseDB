@@ -1,11 +1,25 @@
 exercise_id: '926'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Butterfly-Maschine
-description: Sitzende Maschine, Rücken gerade, langsame Übung.
+description: 'Ausgangsposition: Setze dich an die Butterfly-Maschine, der Rücken liegt
+  fest am Polster an. Die Sitzhöhe so einstellen, dass sich die Griffe bzw. Polster
+  auf mittlerer Brusthöhe befinden. Halte die Ellbogen leicht gebeugt.
+
+  Ausführung: Führe die Griffe in einer gleichmäßigen Bogenbewegung vor der Brust
+  zusammen. Spanne die Brustmuskulatur am Punkt der maximalen Kontraktion intensiv
+  an.
+
+  Rückkehr: Öffne die Arme langsam und kontrolliert wieder, bis eine angenehme Dehnung
+  im Brustbereich spürbar ist, ohne dass die Gewichte aufsetzen.
+
+  Hinweis: Halte die Schultern unten und hinten; vermeide es, die Schultern nach vorne
+  zu schieben.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1205'
+search_terms:
+- Machine Chest Fly
+- Pec Deck

@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '478'
 language: es
-status: upstream_unreviewed
-name: Press de hombro con mancuernas
+status: ai_reviewed
+name: Push press con mancuernas
+search_terms:
+  - Press de hombro con mancuernas
 description: |-
-  El press de hombro con mancuernas es un
-  ejercicio fundamental para fortalecer los deltoides, tríceps y músculos estabilizadores, que se puede realizar sentado o de pie, implicando empujar mancuernas desde la altura de los hombros hasta la extensión casi completa de los brazos, manteniendo la espalda recta y los codos ligeramente hacia adelante para proteger el manguito rotador, y bajando de forma controlada
+  Lleva las mancuernas a la altura de los hombros con las palmas orientadas hacia dentro o ligeramente hacia delante. Inhala y activa el abdomen. Realiza una ligera flexión de rodillas y caderas (dip) y extiende las piernas de forma explosiva para aprovechar el impulso y empujar las mancuernas por encima de la cabeza hasta la extensión completa de los brazos. Baja las mancuernas de manera controlada hasta los hombros y repite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

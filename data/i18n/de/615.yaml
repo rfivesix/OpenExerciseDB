@@ -5,8 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kniebeuge
+search_terms:
+- Squats
+- Kniebeugen
+- Langhantel-Kniebeuge
+- Back Squat
 description: |-
   Stelle die Halterung der Langhantel auf so eine Höhe ein, dass du sie bequem raus- und wieder reinbringen kannst. Bereite dich vor:
 

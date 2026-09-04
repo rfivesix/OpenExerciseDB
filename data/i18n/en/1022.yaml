@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1022'
 language: en
-status: upstream_unreviewed
-name: Single Arm Plank to Row
-description: Start position as row, extend to plank and back. Finish with row and repeat
+status: ai_reviewed
+name: Single-Arm Plank to Row (Renegade Row)
+description: |-
+  Starting position:
+  Assume a high plank position supporting your weight on your hands (holding a pair of dumbbells or with one hand on the floor and the other gripping a dumbbell). Position your feet shoulder-width apart or slightly wider for stability.
+
+  Execution:
+  1. Brace your core, glutes, and hips to prevent your pelvis from rotating or swaying.
+  2. Pull the dumbbell upward toward your hip in a controlled rowing motion, keeping your elbow tucked closely along your side.
+  3. Pause briefly at the top to squeeze your latissimus dorsi and upper back.
+  4. Slowly lower the dumbbell back to the ground under control.
+  5. Complete all repetitions on one side before switching to the opposite arm, or alternate as programmed.
+search_terms:
+  - Single Arm Plank to Row
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1965'

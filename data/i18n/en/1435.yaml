@@ -5,11 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1435'
 language: en
-status: upstream_unreviewed
-name: Scapula Pulls
+status: ai_reviewed
+name: Scapular Pull-Ups
 description: |-
-  Hang straight on a pull-up bar
-  Pull shoulder blades together, moving the body slightly up
+  Starting position:
+  Hang from a pull-up bar using an overhand grip slightly wider than shoulder-width (dead hang). Arms are fully extended, core engaged, and shoulders relaxed upward near your ears.
+
+  Movement:
+  Depress and retract your shoulder blades by pulling them down and together, lifting your body upward a few inches without bending your elbows. Hold the top contracted position for 1 to 2 seconds, then slowly lower yourself back into the full dead hang.
+
+  Notes:
+  Keep your arms completely straight throughout the entire movement. The motion is generated purely by scapular movement and back engagement.
+search_terms:
+  - Scapula Pulls
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

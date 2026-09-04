@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '711'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wall Handstand
-description: Handstand against a wall for support (chest facing wall).
+description: '- Kick up or walk your feet up against a sturdy wall into a handstand
+  position, with hands shoulder-width apart on the floor.
+
+  - Keep your arms fully extended and actively push the floor away through your shoulders,
+  keeping core and glutes tight.
+
+  - Maintain a rigid, straight body line without over-arching your lower back, breathing
+  steadily throughout the isometric hold.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

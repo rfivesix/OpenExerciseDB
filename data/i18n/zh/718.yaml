@@ -5,15 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: zh
-status: upstream_unreviewed
+status: ai_reviewed
 name: 直角坐墙
-description: |-
-  起始姿势：背部应该接触墙壁，膝盖成直角并位于角度的正上方。 面朝前，双脚分开与肩同宽，并牢牢踩在地上。要达到这个姿势，你可以靠在墙上，脚离墙约 2 英尺。 滑下墙壁，保持背部紧贴墙壁，直到膝盖成直角。
-  步骤：
+description: '- 背部平贴墙壁站立，双脚分开与肩同宽，距离墙壁约50至60厘米。
 
-  保持这个姿势。
+  - 顺着墙壁缓慢下蹲，直到大腿与地面平行，膝盖呈90度角且位于脚踝正上方。
 
-  注：股四头肌疼痛是正常的，如果感觉膝盖或膝盖骨疼痛，请停止。
+  - 核心收紧，背部紧贴墙面，保持该静态姿势达到目标时长。'
 upstream:
   license: CC0-1.0
   license_author: Blablabla

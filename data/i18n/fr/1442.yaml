@@ -5,16 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1442'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kreis Press aux haltères
 description: |-
-  Asseyez-vous sur un banc incliné à 45°
-  Tenez les haltères au-dessus de la tête
-  Abaissez les haltères comme pour un développé au-dessus de la tête
-  Faites pivoter les haltères, paumes tournées vers le haut, et tendez les bras devant votre corps
-  Rapprochez les mains jusqu'à ce que les haltères se touchent, en gardant les bras tendus
-  Inversez le mouvement jusqu'à ramener les haltères au-dessus de la tête
-  Cela constitue une répétition
+  Position de départ :
+  • Asseyez-vous sur un banc incliné à 45 degrés et tenez deux haltères bras tendus au-dessus de la tête.
+
+  Exécution :
+  • Abaissez les haltères en décrivant un arc de cercle vers l'extérieur jusqu'au niveau des épaules.
+  • Repoussez les haltères vers le haut en décrivant un mouvement circulaire régulier pour les ramener au-dessus de la tête.
+  • Conservez une trajectoire fluide et sous contrôle pour maintenir la tension sur les deltoïdes antérieurs et latéraux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1448'
 language: en
-status: upstream_unreviewed
-name: Seated W Curl
+status: ai_reviewed
+name: Seated W-Curl with Dumbbells
 description: |-
-  Sit on bench with 60° incline
-  Hold dumbbells beside body near the ground, palms facing outwards, arms fully extended
-  Move dumbbells up using only biceps and without momentum
+  Starting Position:
+  • Sit back on an incline bench set to approximately a 60-degree angle.
+  • Allow your arms to hang naturally at your sides with palms turned outward away from your torso.
+
+  Execution:
+  • Curl the dumbbells upward and slightly outward, forming a 'W' shape with your arms at peak contraction.
+  • Squeeze your biceps (especially the short head) hard at the top without swinging your elbows forward.
+  • Slowly lower the dumbbells back down under control to a full stretch.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2412'
+search_terms:
+  - Seated W Curl
+  - W Curl

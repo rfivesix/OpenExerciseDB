@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '505'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch en silla romana
-description: |-
-  Crunches en la silla romana. Mantén el torso recto y los abdominales contraídos, y no subas del todo hasta la vertical ni te tumbes completamente, para mantener una tensión constante en los abdominales.
+description: Crunches en la silla romana. Mantén el torso recto y los abdominales contraídos, y no subas del todo hasta la
+  vertical ni te tumbes completamente, para mantener una tensión constante en los abdominales.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

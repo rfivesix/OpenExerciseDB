@@ -5,15 +5,28 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1336'
 language: en
-status: upstream_unreviewed
-name: Triceps Overhead (Dumbbell)
-description: |-
-  Keep the elbows fixed
-  Engage the muscles
-  Don't use momentum
-  Controlled movement
-  Slow movement
-  Don't overextend
+status: ai_reviewed
+name: Overhead Dumbbell Triceps Extension
+description: 'Starting position:
+
+  Sit upright on a bench or stand with feet shoulder-width apart. Hold a dumbbell with both hands overhead, with arms extended.
+
+
+  Execution:
+
+  1. Keeping your upper arms stationary and elbows pointed forward close to your head, slowly lower the dumbbell behind your
+  head by bending your elbows.
+
+  2. Lower until your triceps are fully stretched.
+
+  3. Press the dumbbell back up overhead by extending your elbows, squeezing the triceps at the top.
+
+
+  Tips:
+
+  Keep your elbows fixed in place throughout and avoid overarching your lower back.'
+search_terms:
+- Triceps Overhead (Dumbbell)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

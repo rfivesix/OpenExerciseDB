@@ -5,11 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '543'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de hombro con maquina
 description: |-
   Sentarse en la máquina con las piernas separadas a la anchura de los hombros.
-  Mantener&nbsp; la espalda erguida y también los brazos flexionados para tomar la barra a la altura de los hombro, alzar la barra lo mas alto que se pueda con los brazos extendidos.
+  Mantener  la espalda erguida y también los brazos flexionados para tomar la barra a la altura de los hombro, alzar la barra lo mas alto que se pueda con los brazos extendidos.
   Bajar lentamente y repetir.
 upstream:
   license: CC-BY-SA-4.0

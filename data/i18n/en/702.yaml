@@ -3,16 +3,26 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '702'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Single-Leg Calf Raise
+description: '- Stand on the ball of one foot on a step or sturdy elevated platform,
+  keeping the other foot lifted off the floor.
+
+  - Lightly hold onto a wall or railing for balance.
+
+  - Lower your heel as far down as comfortable to achieve a full stretch in the calf
+  muscle.
+
+  - Press explosively through the ball of your foot to raise your heel as high as
+  possible into peak contraction.
+
+  - Pause briefly at the top, then lower under slow control before switching to the
+  other leg.'
+search_terms:
+- Calf raises, one legged
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13
   source_id: '1048'
-search_terms:
-  - Calf raises, one legged
-description: |-
-  Stand on one leg and raise your heel to perform a calf raise. Lower the heel under control before repeating on the other side.

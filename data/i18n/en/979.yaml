@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '979'
 language: en
-status: upstream_unreviewed
-name: Leg raises pull up bar
-description: |-
-  with a firm grip with both hands on the bar, raise your outstretched legs, until you reach a 90° angle with your torso.
+status: ai_reviewed
+name: Hanging Leg Raise
+description: 'Starting Position: Hang from a pull-up bar with a firm shoulder-width
+  grip, body elongated and shoulders engaged to protect the joints.
+
+  Execution: Keeping your legs straight, contract your abdominal muscles to raise
+  your legs until they are at least parallel to the floor (a 90-degree angle with
+  your torso) or higher.
+
+  Return: Lower your legs slowly and smoothly back to the vertical hanging position
+  without swinging.
+
+  Cues: Initiate the movement from your core and pelvis, not by swinging through the
+  shoulders or arching your back.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1293'
+search_terms:
+- Leg raises pull up bar
+- Pull-up Bar Leg Raise
+- Hanging Leg Raises

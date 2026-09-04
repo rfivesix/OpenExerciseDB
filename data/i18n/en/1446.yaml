@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1446'
 language: en
-status: upstream_unreviewed
-name: Clean and Jerk OL
+status: ai_reviewed
+name: Olympic Clean and Jerk
 description: |-
-  Olympic lift clean and jerk.
-  Combination of clean and jerk in one motion.
+  Starting Position:
+  • Stand over the barbell with feet hip-width apart and grip the bar slightly wider than shoulder-width (hook grip recommended).
+  • Keep your spine neutral, hips back, and chest tall.
+
+  Execution:
+  1. Clean: Pull the bar from the floor, extend hips and knees explosively upon passing the thighs, and rapidly pull yourself underneath the bar to catch it in a deep front squat. Stand up fully to finish the clean.
+  2. Jerk: With the bar in front rack, dip vertically at the knees and drive upward explosively. Drop under the bar into a split stance, locking your arms out overhead.
+  3. Recovery: Step the front foot halfway back and rear foot forward until feet are aligned parallel, keeping the bar securely locked overhead.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2410'
+search_terms:
+  - Clean and Jerk OL
+  - Clean and Jerk

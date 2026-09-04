@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1127'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Latzug mit engem Untergriff
 description: |-
-  Abwärtsbewegung
-  • Ziehe die Stange nach unten, sodass sie nah an deinem Kinn vorbeigeht und den oberen Teil deiner Brust berührt.
-  • Halte den Rest deines Körpers ruhig.
+  Ausgangsposition:
+  • Setze dich an die Latzugmaschine und fixiere deine Oberschenkel fest unter den Polstern.
+  • Greife die Stange im engen Untergriff (Kammgriff, Handflächen zeigen zum Körper) etwa schulterbreit oder etwas enger.
+  • Richte den Oberkörper auf, hebe das Brustbein und bilde ein leichtes Hohlkreuz.
+
+  Ausführung:
+  • Ziehe die Stange kontrolliert nach unten in Richtung der oberen Brust, indem du die Ellbogen eng am Körper nach hinten und unten führst.
+  • Ziehe am tiefsten Punkt die Schulterblätter zusammen und spanne Latissimus und Bizeps kurz intensiv an.
+  • Führe die Stange langsam und kontrolliert wieder nach oben, bis die Arme vollständig gestreckt sind und die Rückenmuskeln gedehnt werden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1090'
 language: en
-status: upstream_unreviewed
-name: Vpushup
-description: Lift your body off the ground by pushing your arms upwards
+status: ai_reviewed
+name: Pike Push-Up (V-Push-Up)
+description: |-
+  Starting position:
+  Set your hands and feet on the floor shoulder-width apart. Walk your feet in and drive your hips high into the air so your body forms an inverted 'V' (pike position). Keep your legs and back as straight as comfortable.
+
+  Execution:
+  1. Bend your elbows and lower the top of your head diagonally forward toward the floor between and slightly ahead of your hands.
+  2. Descend with control until your head lightly approaches the ground.
+  3. Push through your palms and shoulders to press back up and back into the full inverted 'V' position.
+  4. Keep your core braced and focus the push on your front deltoids and triceps.
+search_terms:
+  - Vpushup
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

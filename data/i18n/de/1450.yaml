@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1450'
 language: de
-status: upstream_unreviewed
-name: Kobra-Dehnung
+status: ai_reviewed
+name: Kobra-Dehnung (Cobra Stretch)
 description: |-
-  Die Kobra-Dehnung ist eine Rückenstreckungsübung, die hilft, die Flexibilität der Wirbelsäule zu verbessern und Verspannungen im unteren Rücken zu lösen. Lege dich dazu mit dem Gesicht nach unten auf den Boden und platziere deine Hände unter den Schultern. Drücke die Handflächen in den Boden und hebe die Brust an, während du die Hüften am Boden lässt. Halte die Ellbogen leicht gebeugt und die Schultern entspannt. Halte die Dehnung für ein paar Sekunden und senke dich dann langsam wieder ab. Diese Übung ist hilfreich, um die Haltung zu verbessern und Steifheit im unteren Rücken zu verringern.
+  Ausgangsposition:
+  • Lege dich bäuchlings flach auf eine Trainingsmatte, die Beine sind hüftbreit nach hinten ausgestreckt und die Fußrücken liegen auf.
+  • Platziere die Handflächen flach auf Brusthöhe unterhalb der Schultern, die Ellbogen eng am Körper.
+
+  Ausführung:
+  • Drücke den Boden sanft mit den Händen nach unten und hebe Brust und Kopf langsam nach oben an, während das Becken und die Oberschenkel fest am Boden bleiben.
+  • Ziehe die Schultern nach hinten-unten weg von den Ohren und öffne den Brustkorb.
+  • Halte die Dehnung für 15 bis 30 Sekunden bei ruhiger, gleichmäßiger Atmung.
+  • Senke den Oberkörper kontrolliert wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3960'
+search_terms:
+  - Kobra-Dehnung
+  - Cobra Stretch
+  - Kobra

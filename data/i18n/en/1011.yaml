@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: en
-status: upstream_unreviewed
-name: Front neck stretch
+status: ai_reviewed
+name: Front Neck Stretch
 description: |-
   Starting position:
-  Sit or stand with your back straight.
-  Steps:
+  Sit or stand tall with your back straight and shoulders relaxed.
 
-  Open mouth wide.
-  Slowly tilt head back with mouth opened. If you feel the need for support, clasp your hands behind your head.
-  Very slowly close and open your mouth.
-  At the end, slowly return to starting position and close mouth.
+  Execution:
+  1. Open your mouth wide.
+  2. Slowly tilt your head backward with your mouth open until you feel a gentle stretch along the front of your neck.
+  3. Very slowly close and open your mouth a few times to deepen the stretch of the anterior neck muscles and platysma.
+  4. Slowly return your head to the neutral starting position and close your mouth.
+search_terms:
+  - Front neck stretch
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1896'

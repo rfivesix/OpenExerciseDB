@@ -1,28 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: en
-status: upstream_unreviewed
-name: Child's pose
-description: |-
-  Starting position:
-  Start on all fours, knees, toes, and hands touching the ground. Your two big toes should be touching.
-  Steps:
+status: ai_reviewed
+name: Child's Pose
+description: 'Starting Position: Kneel on a mat with your knees spread wide, big toes
+  touching, and sit back onto your heels.
 
-  Move your knees so that they're about hip-width apart.
-  On an exhale, move your pelvis back to sit on your heels. Your hands should still be touching the ground.
-  Relax your upper body, lowering your forehead to the floor and letting your hands move forward naturally.
-  Stay in this pose.
+  Execution: Fold forward at your hips, resting your torso between your thighs. Extend
+  your arms long in front of you on the mat, palms down, and gently lower your forehead
+  to the floor.
 
-  Tips:
-
-  To leave the pose, walk your arms back under your shoulders and move your upper body up into a seated position.
+  Cues: Breathe deeply into your back and ribcage, allowing your spine, hips, and
+  shoulders to relax and lengthen with each exhalation.'
 search_terms:
-  - Prayer pose
-  - Prayer pose
+- Prayer pose
+- Prayer pose
+- Child's pose
+- Balasana
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1791'

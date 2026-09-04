@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '580'
 language: zh
-status: upstream_unreviewed
-name: 左前臂平板支撑
+status: ai_reviewed
+name: 侧平板支撑
+search_terms:
+- 左前臂平板支撑
 description: |-
   起始姿势：侧躺，下肘成直角，手臂伸出。 抬起下肩，将骨盆抬离地面，前臂停留在地面； 你的头、骨盆和脚应该在一条直线上。
   步骤：

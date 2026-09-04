@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '562'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Shotgun row
 description: |-
   Fixez une poignée simple à une poulie basse.

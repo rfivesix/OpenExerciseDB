@@ -6,11 +6,12 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '477'
 language: de
-status: ai_raw
-translated_from: en
-name: Klimmzüge an Maschine
+status: ai_reviewed
+name: Unterstützte Klimmzüge an der Maschine
+search_terms:
+  - Klimmzüge an Maschine
 description: |-
-  Nutze die Klimmzugmaschine für einen beidseitigen vertikalen Zug. Ziehe deinen Körper durch Beugen der Ellbogen nach oben und lasse dich dann kontrolliert ab.
+  Stelle das gewünschte Gegengewicht an der Klimmzugmaschine ein. Knie oder stehe auf dem Unterstützungspolster und greife die Klimmzuggriffe im schulterweiten Obergriff. Ziehe deinen Körper kontrolliert nach oben, bis sich dein Kinn über den Griffen befindet, und senke dich anschließend langsam wieder bis zur vollen Armstreckung ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

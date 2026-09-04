@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: id
-status: upstream_unreviewed
-name: Angkat betis kaki kanan
+status: ai_reviewed
+name: Calf raise satu kaki (kanan)
 description: |-
-  Berdiri di lantai atau di tepi langkah untuk meningkatkan jangkauan gerakan. Angkat satu kaki, letakkan bagian atas pada betis Anda.
-  Angkat tumit Anda sampai Anda berdiri di atas jari kaki.
-  Tetap di posisi ini selama tiga detik, lalu turunkan kaki Anda tanpa menyentuh tanah dengan tumit Anda.
+  Posisi awal:
+  Berdiri pada kaki kanan di lantai atau tepi undakan dengan kaki kiri terangkat. Sentuh dinding dengan ringan untuk menjaga keseimbangan.
+
+  Langkah pelaksanaan:
+  1. Turunkan tumit kanan ke bawah untuk meregangkan otot betis.
+  2. Dorong kuat-kuat melalui bantalan telapak kaki kanan hingga berdiri setinggi mungkin di atas jari kaki.
+  3. Tahan kontraksi di puncak gerakan selama 1-2 detik.
+  4. Turunkan tumit kembali secara perlahan dan terkontrol.
+search_terms:
+  - Angkat betis kaki kanan
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1949'

@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '961'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 50m-Schwimmsprints
-description: 50-m-Schwimmsprints bei 1 Minute
+description: 'Ausgangsposition: Starte an der Beckenwand mit Vorbereitung auf einen
+  kraftvollen Abstoß.
+
+  Ausführung: Schwimme 50 Meter im maximalen Sprinttempo (üblicherweise Kraulschwimmen)
+  mit hoher Zugfrequenz und starkem Beinschlag.
+
+  Ablauf: Die Sprints werden im festen Intervall ausgeführt (z. B. auf 1 Minute Abgang).
+  Die verbleibende Zeit des Intervalls nach Anschlag dient als Erholungspause vor
+  dem nächsten Sprint.
+
+  Hinweis: Halte die Wasserlage auch bei maximaler Anstrengung so stromlinienförmig
+  wie möglich.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono
   source_id: '1255'
+search_terms:
+- Swimming 50m sprints
+- 50m Schwimmsprints

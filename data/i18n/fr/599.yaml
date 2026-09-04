@@ -5,12 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '599'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arraché
-description: |-
-  Tenez-vous debout, les pieds écartés à la largeur des hanches et les tibias contre la barre. Saisissez la barre à une largeur double de celle des épaules et, en gardant le bas du dos plat, poussez vos talons dans le sol pour commencer à soulever la barre. Lorsqu'elle est au-dessus de vos genoux, étendez explosivement vos hanches et haussez vos épaules. Laissez l'élan emporter la charge au-dessus de la tête.
 search_terms:
-  - Snatch
+- Snatch
+description: Tenez-vous debout, les pieds écartés à la largeur des hanches et les tibias contre la barre. Saisissez la barre
+  à une largeur double de celle des épaules et, en gardant le bas du dos plat, poussez vos talons dans le sol pour commencer
+  à soulever la barre. Lorsqu'elle est au-dessus de vos genoux, étendez explosivement vos hanches et haussez vos épaules.
+  Laissez l'élan emporter la charge au-dessus de la tête.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

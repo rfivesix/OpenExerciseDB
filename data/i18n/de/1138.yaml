@@ -1,11 +1,19 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1138'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Latzug auf der Schrägbank
 description: |-
-  Liegend mit dem Gesicht nach unten auf der Schrägbank zur Kabelzugmaschine führst du den Latzug aus.
+  Ausgangsposition:
+  • Stelle eine Schrägbank (ca. 30 bis 45 Grad Neigung) vor einen hohen Kabelzug auf.
+  • Lege dich bauchlings auf die Bank, sodass deine Brust gestützt ist und dein Kopf frei bleibt.
+  • Greife die Stange oder Griffe an der hohen Rolle mit ausgestreckten Armen.
+
+  Ausführung:
+  • Ziehe die Stange oder Griffe kontrolliert nach unten zur oberen Brust, indem du die Ellbogen nach hinten-unten führst.
+  • Da dein Oberkörper auf der Bank abgestützt ist, kannst du keinen Schwung aus dem Rumpf holen und isolierst den Latissimus optimal.
+  • Spanne am tiefsten Punkt die Rückenmuskeln fest an und kehre kontrolliert nach oben zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

@@ -5,21 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1083'
 language: en
-status: upstream_unreviewed
-name: YWTs
+status: ai_reviewed
+name: Prone Y-W-T Raises
 description: |-
   Starting position:
-  Lie down, preferably on a mat. Stretch your arms above your head in a "Y" position (arms pointing up diagonally at around 45 degrees). Your thumbs should be pointing up.
-  Steps:
+  Lie face down on a mat with your legs extended and neck neutral, gazing toward the floor.
 
-  With arms in the Y position, lift your chest slightly from the ground, creating a pull tension in your arms upward.
-  Hold this position for several seconds (15–30 is ideal).
-  Keeping your chest up, bend at your elbows to move from a Y position to a "W" position, with arms bent at the elbows and maintaining the upward tension.
-  Hold for around as long as with the Y position.
-  Still with your chest up, move to a "T" position, straightening your arms out to the side to be perpendicular to your body.
-  Hold for around as long as you held the W position.
-  Move from the T position to the W position, then from the W position to the Y position.
-  Repeat.
+  Execution:
+  1. Y-Position: Extend your arms overhead at roughly 45 degrees forming a 'Y', with thumbs pointing toward the ceiling. Lift your arms and chest slightly off the floor, pinching your shoulder blades together. Hold for 10–20 seconds.
+  2. W-Position: Pull your elbows down and in toward your ribs, forming a 'W' shape while keeping your hands and arms elevated. Squeeze your mid-back firmly.
+  3. T-Position: Extend your arms directly out to the sides perpendicular to your torso forming a 'T', thumbs pointing up. Pinch your scapulae together and hold.
+  4. Transition smoothly through each letter to optimize scapular stability and upper-back endurance.
+search_terms:
+  - YWTs
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman

@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1214'
 language: de
-status: upstream_unreviewed
-name: Front Lever Tuck
+status: ai_reviewed
+name: Tuck Front Lever
 description: |-
-  Die beim Front Lever beteiligten Muskeln, die am stärksten beansprucht werden, sind hauptsächlich die Strecker, wie zum Beispiel: der Latissimus, der Teres major, der hintere Deltamuskel und der lange Kopf des Bizeps.
+  Ausgangsposition:
+  • Hänge dich mit schulterbreitem Obergriff (Pronation) an eine stabile Klimmzugstange.
+  • Spanne den Rumpf an und ziehe die Knie eng an die Brust in eine kompakte Hocke (Tuck-Position).
+
+  Ausführung:
+  • Ziehe die gestreckten Arme durch Kraft des Latissimus und der oberen Rückenmuskulatur nach unten, um den gesamten Oberkörper anzuheben.
+  • Bringe den Rumpf in eine horizontale Linie parallel zum Boden, während die Knie fest an der Brust gehalten werden.
+  • Halte diese isometrische Position für die vorgegebene Zeitspanne (z. B. 5 bis 15 Sekunden).
+  • Senke den Körper kontrolliert wieder in den Hang ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3803'
+search_terms:
+  - Front Lever Tuck
+  - Eingehockter Front Lever

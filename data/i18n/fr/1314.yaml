@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1314'
 language: fr
-status: upstream_unreviewed
-name: Jumping jack HD
-description: |-
-  Le jumping jack est un exercice pliométrique. La pliométrie regroupe des mouvements aérobiques explosifs qui augmentent la vitesse, la rapidité et la puissance, et qui sollicitent l'ensemble du corps.
-  Le jumping jack cible les bras, les épaules, les abdominaux, les muscles des hanches et les fléchisseurs de hanche, et fait aussi travailler les cuisses, les tendons du genou et les quadriceps.
-  Les sauts sont bénéfiques pour la santé car ils associent travail cardiovasculaire et renforcement musculaire. Comme les sauts font monter le rythme cardiaque, ils peuvent aussi améliorer votre condition cardiovasculaire.
+status: ai_reviewed
+name: Jumping Jack
+description: 'Le jumping jack est un exercice pliométrique. La pliométrie regroupe des mouvements aérobiques explosifs qui
+  augmentent la vitesse, la rapidité et la puissance, et qui sollicitent l''ensemble du corps.
+
+  Le jumping jack cible les bras, les épaules, les abdominaux, les muscles des hanches et les fléchisseurs de hanche, et fait
+  aussi travailler les cuisses, les tendons du genou et les quadriceps.
+
+  Les sauts sont bénéfiques pour la santé car ils associent travail cardiovasculaire et renforcement musculaire. Comme les
+  sauts font monter le rythme cardiaque, ils peuvent aussi améliorer votre condition cardiovasculaire.'
+search_terms:
+- Jumping jack HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

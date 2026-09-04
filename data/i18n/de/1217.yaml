@@ -5,43 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1217'
 language: de
-status: upstream_unreviewed
-name: Fingerliegestütz
+status: ai_reviewed
+name: Finger-Liegestütze
 description: |-
-  Handhaltung:
+  Ausgangsposition:
+  • Begib dich in die Liegestützposition, stütze dich jedoch ausschließlich auf den gespreizten Fingerspitzen und Daumen ab.
+  • Die Handflächen berühren den Boden nicht.
+  • Spanne Bauch und Gesäß an, sodass der Körper von Kopf bis Fuß eine feste, gerade Linie bildet.
 
-
-  Beginne in einer Plank-Position mit deinen Händen direkt unter deinen Schultern.
-  Spreize deine Finger weit auseinander und setze sie fest auf den Boden.
-
-
-  Fingerposition:
-
-
-  Hebe deine Handflächen allmählich vom Boden ab und verlagere das Gewicht auf deine Finger.
-  Achte darauf, die Last gleichmäßig auf deine Fingerspitzen und Daumen zu verteilen.
-
-
-  Körperausrichtung:
-
-
-  Halte eine gerade Linie vom Kopf bis zu den Fersen, um deine Rumpfmuskulatur anzuspannen.
-  Halte deinen Körper während der gesamten Übung in einer kontrollierten und stabilen Position.
-
-
-  Absenkphase:
-
-
-  Beuge langsam deine Ellbogen und senke deine Brust zum Boden.
-  Sorge für eine kontrollierte Bewegung und halte die Stabilität auf deinen Fingerspitzen.
-
-
-  Hochdrücken:
-
-
-  Drücke dich über deine Fingerspitzen hoch, um deine Arme zu strecken und in die Ausgangsposition zurückzukehren.
-  Betone während des gesamten Liegestützes die Anspannung deiner Finger und Daumen.
+  Ausführung:
+  • Beuge die Ellbogen langsam und kontrolliert, um die Brust in Richtung Boden abzusenken.
+  • Halte die Finger stabil und fest aufgestellt, ohne dass sie wegknicken.
+  • Drücke dich mit Kraft aus den Fingerspitzen, der Brust und dem Trizeps wieder nach oben in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3785'
+search_terms:
+  - Finger Pushup
+  - Liegestütze auf Fingerspitzen

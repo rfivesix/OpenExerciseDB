@@ -1,11 +1,20 @@
 exercise_id: '1101'
 language: fr
 status: ai_reviewed
-translated_from: en
-name: Traction horizontale isométrique
+name: Traction isométrique (maintien statique)
+description: |-
+  Position de départ :
+  Saisissez une barre de traction (en pronation ou supination) ou les poignées d'un système de suspension.
+
+  Étapes :
+  1. Tirez le corps vers le haut jusqu'à la position haute (menton au-dessus de la barre ou poitrine aux poignées).
+  2. Bloquez la position en contraction statique en resserrant les omoplates vers le bas et l'arrière.
+  3. Gardez la cage thoracique ouverte et les dorsaux engagés sans laisser les épaules remonter vers les oreilles.
+  4. Maintenez ce blocage isométrique pendant la durée cible (10 à 30 secondes) en respirant régulièrement.
+search_terms:
+  - Traction horizontale isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2061'
-description: |-
-  Maintien isométrique en position haute ou médiane de traction à la barre fixe, coudes fléchis, pendant une durée chronométrée.
+translated_from: en

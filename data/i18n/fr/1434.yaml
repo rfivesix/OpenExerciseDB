@@ -2,10 +2,19 @@ exercise_id: '1434'
 language: fr
 status: ai_reviewed
 translated_from: de
-name: Tirage vertical avec haltères
+name: Tirage dorsal penché avec haltères
+description: |-
+  Position de départ :
+  Debout, pieds de la largeur des hanches, fléchissez légèrement les genoux et penchez le buste vers l'avant à environ 45 degrés avec le dos droit. Tenez un haltère dans chaque main, bras tendus vers le bas avec les coudes légèrement déverrouillés.
+
+  Mouvement :
+  Tirez les haltères vers l'arrière en direction des hanches en décrivant un arc de cercle le long du corps, avec les bras presque tendus. Contractez intensément le grand dorsal en haut du mouvement, puis redescendez lentement les haltères à la position de départ.
+
+  Conseils :
+  Ne pliez pas excessivement les coudes pour ne pas transformer l'exercice en rowing classique. Gardez la colonne vertébrale neutre tout au long de la répétition.
+search_terms:
+  - Tirage vertical avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2398'
-description: |-
-  Buste penché vers l'avant, tirez les haltères vers les hanches en gardant les coudes près du corps et en resserrant le grand dorsal.

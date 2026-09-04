@@ -5,16 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1029'
 language: en
-status: upstream_unreviewed
-name: Quadruped thoracic rotation right
+status: ai_reviewed
+name: Quadruped Thoracic Rotation Right
 description: |-
   Starting position:
-  Start kneeling on all fours, knees shoulder-width apart. Place your right hand behind your head while keeping your left hand outstretched and touching the floor.
-  Steps:
+  Start on all fours on hands and knees, with knees under hips and your left hand placed firmly on the floor under your left shoulder. Place your right hand lightly behind your head with your elbow flared out.
 
-  On inhale, move your right elbow toward your left hand, keeping your right hand behind your head.
-  On exhale, move your right elbow to point up toward the ceiling.
-  Repeat.
+  Execution:
+  1. On an inhale, rotate your thoracic spine downward, bringing your right elbow toward your left supporting arm/wrist.
+  2. On an exhale, rotate your chest and upper back upward to the right, pointing your right elbow toward the ceiling.
+  3. Keep your hips and pelvis stable and level without shifting to the side.
+  4. Repeat smoothly for the desired number of repetitions.
+search_terms:
+  - Quadruped thoracic rotation right
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman

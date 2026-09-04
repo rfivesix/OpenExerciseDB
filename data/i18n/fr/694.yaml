@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '694'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage menton avec haltères
-description: |-
-  Tenez un haltère dans chaque main devant votre corps. Gardez vos paumes tournées vers votre corps. Levez vos mains tout droit jusqu'à ce qu'elles soient sous votre menton, puis baissez-les. Répétez l'exercice.
+description: '- Debout les pieds écartés à la largeur des épaules, tenez un haltère
+  dans chaque main devant les cuisses, paumes vers le corps.
+
+  - Montez les haltères verticalement le long du buste en menant avec les coudes vers
+  le haut et l''extérieur jusqu''au niveau de la poitrine.
+
+  - Marquez un temps d''arrêt en haut, puis redescendez lentement les charges avec
+  contrôle.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

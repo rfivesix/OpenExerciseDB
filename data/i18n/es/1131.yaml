@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1131'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensión de glúteos en polea
 description: |-
-  Esta actividad te permitirá ejercitar la zona del glúteo superior o mayor. Por ello, nunca puede faltar en tu rutina de ejercicios aislados para trabajar los glúteos.
-  Colócate frente a una máquina de poleas y localiza el gancho inferior. Luego, sujétalo en las tobilleras para trabajar en polea baja. En relación con la postura, debes estar recto en todo momento. Presta especial atención a tu espalda para mantenerla recta y no lastimarte.
-  Es recomendable que te sujetes a la máquina para tener más equilibrio. Con la pierna con la que estás sosteniendo el peso de la polea, realiza una extensión lenta hacia atrás sin flexionar la rodilla.
+  Posición inicial:
+  • Coloca una tobillera fijada a la polea baja y sujétala a tu tobillo de trabajo.
+  • Sitúate de cara a la máquina, inclina ligeramente el tronco hacia delante y agárrate a la estructura para mayor estabilidad.
+  • Mantén la pierna de apoyo con la rodilla ligeramente flexionada y la pelvis nivelada.
+
+  Ejecución:
+  • Extiende la pierna activa hacia atrás y hacia arriba contrayendo el glúteo mayor, manteniendo la pierna casi recta.
+  • Aprieta con fuerza el glúteo en el punto de máxima extensión sin arquear en exceso la zona lumbar.
+  • Regresa de manera lenta y controlada a la posición de inicio resistiendo el peso.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3713'
+search_terms:
+  - Patada de glúteo en polea
+  - Glute kickback en polea

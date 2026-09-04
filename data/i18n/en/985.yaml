@@ -1,26 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '985'
 language: en
-status: upstream_unreviewed
-name: Push-up rotations
-description: |-
-  Starting position:
-  Get into the starting push-up position, with your hands and toes touching the ground and back, arms and legs straight. To get to this position, you can lie down on your stomach, place your hands facing down next to your head, and lifting your arms up until they are straight.
-  Steps:
+status: ai_reviewed
+name: Push-up with Rotation
+description: 'Starting Position: Assume a standard push-up position with hands slightly
+  wider than shoulders and body in a rigid plank line.
 
-  Perform a standard push-up:
+  Execution: Lower your chest toward the floor into a push-up. As you press back up,
+  rotate your torso and raise one arm straight toward the ceiling, forming a "T" shape
+  with your body.
 
-  1.a Bend arms until chest almost touches the ground, making sure the back is straight.1.b Use your arms to lift yourself back up to starting position.
+  Return: Lower your hand back to the floor under control, perform another push-up,
+  and rotate to the opposite side.
 
-  Rotate your body to the side so that the back is straight, the bottom hand supporting the body is fully extended, and only the bottom hand and foot touch the floor.
-  Repeat, changing sides at step 2 each time.
+  Cues: Keep your hips elevated and core tight; do not let your lower back sag during
+  the rotation.'
 search_terms:
-  - Push up rotations
-  - Pushup rotations
+- Push up rotations
+- Pushup rotations
+- Push-up rotations
+- T-Push-up
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1559'

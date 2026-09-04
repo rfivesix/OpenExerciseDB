@@ -1,17 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '957'
 language: de
-status: upstream_unreviewed
-name: Arm- und Beinheben im Vierfüßlerstand
-description: |-
-  Bei dieser Übung werden die Rückenmuskulatur sowie die Muskeln der Beinrückseite und der Armrückseite aktiviert, indem du im Vierfüßlerstand gleichzeitig den diagonal gegenüberliegenden Arm und das Bein anhebst. Sie verbessert außerdem das Gleichgewicht und die Propriozeption. Die Bewegung wird symmetrisch ausgeführt.
+status: ai_reviewed
+name: Arm- und Beinheben im Vierfüßlerstand (Bird Dog)
+description: 'Ausgangsposition: Begib dich in den Vierfüßlerstand auf einer Matte.
+  Platziere die Hände senkrecht unter den Schultern und die Knie senkrecht unter den
+  Hüften. Der Kopf bildet die Verlängerung der Wirbelsäule.
 
-  Begib dich in den Vierfüßlerstand.2. Ziehe den Bauch ein und hebe dann dein rechtes Bein und deinen linken Arm an.3. Halte den Bauch 8 Sekunden lang eingezogen.4. Senke nach 8 Sekunden langsam deinen Arm und dein Bein.5. Entspanne anschließend deine Muskeln.
+  Ausführung: Hebe gleichzeitig den rechten Arm nach vorne und das linke Bein nach
+  hinten an, bis beide mit dem Rumpf eine gerade Linie parallel zum Boden bilden.
+  Spanne Bauch und Gesäß fest an.
+
+  Rückkehr: Halte die gestreckte Position für 1–2 Sekunden und senke Hand und Knie
+  langsam wieder ab. Führe die Bewegung anschließend mit der Gegenseite aus.
+
+  Hinweis: Halte das Becken stabil und waagerecht; vermeide ein Durchhängen ins Hohlkreuz
+  oder Aufdrehen der Hüfte.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3617'
+search_terms:
+- Arm- und Beinheben im Vierfüßlerstand
+- Bird Dog
+- Vierfüßlerstand

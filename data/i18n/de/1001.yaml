@@ -1,19 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1001'
 language: de
 status: ai_reviewed
 name: High Plank (Liegestützposition)
-description: |-
-  Ausgangsposition:
-  Nimm die Liegestützposition (High Plank) ein: Deine Hände und Zehen berühren den Boden, dein Rücken, deine Arme und Beine sind gestreckt. Um in diese Position zu gelangen, kannst du dich auf den Bauch legen, die Handflächen neben deinen Schultern auf den Boden setzen und dich nach oben drücken, bis die Arme gestreckt sind.
-  Schritte:
+description: 'Ausgangsposition: Nimm die Liegestützposition (High Plank) ein: Platziere
+  die Hände senkrecht unter den Schultern auf dem Boden und stütze dich auf die Zehenballen.
+  Der Körper bildet von Kopf bis Fuß eine feste gerade Linie.
 
-  Halte diese Ausgangsposition über die gesamte Dauer der Übung stabil.
+  Ausführung: Halte diese Position statisch: Spanne Bauch- und Gesäßmuskulatur intensiv
+  an und drücke dich aktiv vom Boden weg, sodass die Schulterblätter stabil am Brustkorb
+  anliegen.
+
+  Hinweis: Achte darauf, dass das Becken weder durchhängt noch nach oben geschoben
+  wird. Der Nacken bleibt in Verlängerung der Wirbelsäule.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1778'
+search_terms:
+- High plank
+- Plank mit gestreckten Armen

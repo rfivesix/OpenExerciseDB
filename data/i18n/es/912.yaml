@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '912'
 language: es
-status: upstream_unreviewed
-name: Curl en Polea con Barra Recta
-description: |-
-  De pie frente a una polea baja, toma la barra recta con las palmas hacia arriba. Manteniendo los codos fijos a los costados de tu cuerpo, flexiónalos para subir la barra y contraer fuertemente los bíceps. Baja de manera controlada para mantener la tensión constante del cable.
+status: ai_reviewed
+name: Curl en polea con barra recta
+description: '- De pie frente a la polea baja, sujeta la barra recta con agarre supino
+  al ancho de los hombros.
+
+  - Mantén los codos pegados a los costados y flexiona los brazos llevando la barra
+  hacia el pecho.
+
+  - Contrae los bíceps en la parte alta y desciende la barra de forma lenta y controlada
+  hasta la extensión completa.'
+search_terms:
+- Curl en Polea con Barra Recta
+- Straight Bar Cable Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

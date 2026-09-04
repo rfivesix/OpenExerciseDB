@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '926'
 language: en
-status: upstream_unreviewed
-name: Machine chest fly
-description: seated machine, straight back, slow exercise
+status: ai_reviewed
+name: Machine Chest Fly
+description: 'Starting Position: Sit on the chest fly machine with your back and head
+  firmly against the backrest. Adjust seat height so that handles or pads are level
+  with your mid-chest. Grasp the handles with a slight, fixed bend in your elbows.
+
+  Execution: Contract your pectoral muscles to bring the handles together in front
+  of your chest in a smooth, hugging arc. Squeeze firmly at the peak contraction.
+
+  Return: Slowly reverse the motion, allowing your chest muscles to stretch under
+  control without letting the weight stack touch down between reps.
+
+  Cues: Keep your shoulders depressed and retracted; do not let your shoulders roll
+  forward.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1205'
+search_terms:
+- Machine chest fly
+- Pec Deck

@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1280'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Puxada de Biceps
-description: |-
-  Na máquina de puxada de costas, segure a barra com as mãos relativamente próximas. Use uma pegada pronada (P.ex.: o dorso das suas mãos vão ficar voltados para a máquina). Então puxe a barra em uma linha reta, como se fosse em direção ao chão. Garanta que seus bíceps sejam a força motriz do movimento. Você provavelmente sentirá seus ombros e latíssimo trabalhando, mas garanta que seus bíceps sejam os músculos mais afetados.
+description: 'Na máquina de puxada de costas, segure a barra com as mãos relativamente próximas. Use uma pegada supinada (ou
+  seja: a palma das suas mãos voltada para você). Comece com os braços totalmente estendidos, puxe a barra para baixo até
+  o nível do peito e, em seguida, retorne lentamente à posição inicial.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: daniel.escada

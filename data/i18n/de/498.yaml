@@ -1,10 +1,10 @@
 exercise_id: '498'
 # AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Bankdrücken im Untergriff
-description: Übung mit Schwerpunkt auf der oberen Brust, die auch den Trizeps beansprucht.
+description: |-
+  Lege dich rücklings auf eine Flachbank. Greife die Langhantel im Untergriff (Supination, Handflächen zeigen zu dir) etwas mehr als schulterbreit. Hebe die Hantel heraus, senke sie kontrolliert zur unteren Brust ab und drücke sie nach oben, um besonders den oberen Anteil der Brustmuskeln (clavikulärer Kopf) und den Trizeps zu beanspruchen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: bl0sh

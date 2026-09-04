@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1266'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: TRX Trizepsstrecken
-description: |-
-  Befestige den TRX oder ein anderes Schlingensystem über Kopf, sodass die Griffe auf Brusthöhe oder etwas tiefer hängen. Probiere aus, welche Höhe dir den besten Aufbau ermöglicht.
+description: 'Befestige den TRX oder ein anderes Schlingensystem über Kopf, sodass die Griffe auf Brusthöhe oder etwas tiefer
+  hängen. Probiere aus, welche Höhe dir den besten Aufbau ermöglicht.
+
   Stelle dich vor die Griffe und greife sie mit den Handflächen nach unten.
-  Spanne deine Bauchmuskulatur an, drücke deine Gesäßmuskulatur zusammen, hole Luft und lehne dich nach vorne, wobei du die Fersen vom Boden abhebst. Halte deine Ellbogen gestreckt.
+
+  Spanne deine Bauchmuskulatur an, drücke deine Gesäßmuskulatur zusammen, hole Luft und lehne dich nach vorne, wobei du die
+  Fersen vom Boden abhebst. Halte deine Ellbogen gestreckt.
+
   Hole erneut Luft und senke dich langsam ab, indem du deine Ellbogen beugst.
-  Gehe so weit nach unten, bis deine Ellbogen in einem 90-Grad-Winkel sind (bis zu dem Punkt, an dem deine Handgelenke über deinen Ellbogen sind). Halte die Position einen Moment.
-  Strecke deine Arme, indem du deinen Trizeps anspannst, und bringe dich in die Ausgangsposition zurück, während du ausatmest.
+
+  Gehe so weit nach unten, bis deine Ellbogen in einem 90-Grad-Winkel sind (bis zu dem Punkt, an dem deine Handgelenke über
+  deinen Ellbogen sind). Halte die Position einen Moment.
+
+  Strecke deine Arme, indem du deinen Trizeps anspannst, und bringe dich in die Ausgangsposition zurück, während du ausatmest.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

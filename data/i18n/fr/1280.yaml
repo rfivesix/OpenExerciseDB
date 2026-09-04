@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1280'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical en prise serrée pour les biceps
-description: |-
-  Sur une machine de tirage vertical, tenez la barre en gardant vos mains relativement rapprochées. Utilisez une prise en supination (c'est-à-dire que le dos de votre main doit être tourné vers la machine). Tirez ensuite la barre en ligne droite vers le sol. Veillez à ce que vos biceps soient les principaux moteurs du mouvement. Vous sentirez probablement vos épaules et votre grand dorsal travailler, mais assurez-vous que vos biceps travaillent davantage.
+description: Sur une machine de tirage vertical, tenez la barre en gardant vos mains relativement rapprochées. Utilisez une
+  prise en supination (c'est-à-dire que le dos de votre main doit être tourné vers la machine). Tirez ensuite la barre en
+  ligne droite vers le sol. Veillez à ce que vos biceps soient les principaux moteurs du mouvement. Vous sentirez probablement
+  vos épaules et votre grand dorsal travailler, mais assurez-vous que vos biceps travaillent davantage.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

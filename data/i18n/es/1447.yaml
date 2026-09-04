@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1447'
 language: es
-status: upstream_unreviewed
-name: Snatch (arrancada)
+status: ai_reviewed
+name: Arrancada olímpica (Snatch)
 description: |-
-  Arrancada olímpica
+  Posición inicial:
+  • Colócate frente a la barra con los pies a la anchura de las caderas y toma un agarre ancho (agarre de arrancada / hook grip).
+  • Mantén la espalda recta, el pecho alto y los hombros ligeramente por delante de la barra.
 
-  Tira de la barra desde el suelo hasta el bloqueo por encima de la cabeza usando un agarre ancho y una sentadilla por encima de la cabeza.
-  Mueve la barra lentamente hasta superar las rodillas, luego extiende explosivamente las caderas, tira de la barra hacia arriba y métete por debajo de la barra
-  Recibe la barra por encima de la cabeza con los brazos rectos
-  Empuja la cabeza hacia delante durante el bloqueo
+  Ejecución:
+  • Levanta la barra del suelo de forma controlada manteniéndola pegada a las piernas.
+  • Al llegar a la cadera, extiende de forma explosiva cadera, rodillas y tobillos (triple extensión).
+  • Desciende con rapidez debajo de la barra para recibirla en una sentadilla profunda con los brazos bloqueados sobre la cabeza.
+  • Ponte de pie de manera firme y controlada manteniendo la barra por encima de la cabeza hasta completar el levantamiento.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3957'
+search_terms:
+  - Snatch (arrancada)
+  - Arrancada
+  - Snatch

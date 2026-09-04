@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1439'
 language: en
-status: upstream_unreviewed
-name: Pin OHP
+status: ai_reviewed
+name: Barbell Pin Overhead Press
 description: |-
-  Set security pins to the height of your lower chin
-  Rest bar on pins keeping tension
-  Raise bar over head
+  Starting position:
+  Set the safety pins in a power rack at chin height and place the barbell on top. Stand with feet shoulder-width apart, grip the bar slightly wider than shoulder-width with an overhand grip, and brace your entire body.
+
+  Movement:
+  Brace your core and squeeze your glutes. Press the bar explosively off the pins overhead to full elbow lockout, tilting your head back slightly as the bar passes your face. Lower the barbell under control back onto the pins, let it come to a complete stop for a brief moment while holding core tension, then repeat.
+
+  Notes:
+  Starting from a dead stop eliminates elastic momentum, developing pure concentric pressing strength in the anterior deltoids and triceps.
+search_terms:
+  - Pin OHP
+  - Pin Overhead Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

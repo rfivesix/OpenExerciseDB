@@ -5,15 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '802'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zancadas Caminando con Barra
-description: |-
-  Cómo realizarlo:
+description: '- Coloca una barra sobre la parte alta de la espalda (trapecios) y mantén
+  una postura erguida con los pies al ancho de las caderas.
 
-  Preparación: Coloca una barra sobre la parte alta de tu espalda (trapecios), igual que lo harías para una sentadilla. Párate derecho con los pies al ancho de las caderas, asegurándote de tener un pasillo o espacio libre por delante.
-  Ejecución: Da un paso largo hacia adelante con una pierna. Baja la cadera de forma controlada hasta que la rodilla de la pierna de atrás quede muy cerca del suelo. La pierna delantera debe formar un ángulo de 90 grados.
-  El Avance: En lugar de empujar hacia atrás para volver al inicio, impúlsate hacia adelante. Presiona con el talón de la pierna delantera y lleva la pierna de atrás hacia el frente para iniciar inmediatamente la siguiente zancada con esa pierna.
-  Continuación: Sigue alternando las piernas, "caminando" hacia adelante con cada zancada de manera fluida pero controlada. Mantén siempre el torso erguido y el abdomen contraído para no perder el equilibrio.
+  - Da un paso amplio hacia adelante con una pierna y desciende flexionando ambas
+  rodillas a 90 grados.
+
+  - Empuja con el talón de la pierna adelantada para elevarte y lleva directamente
+  la pierna trasera hacia adelante para la siguiente zancada.
+
+  - Avanza de forma fluida y alterna manteniendo siempre el torso recto y el abdomen
+  firme.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

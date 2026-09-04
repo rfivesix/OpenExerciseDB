@@ -5,10 +5,25 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1245'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Front Lever
-description: |-
-  The front lever is a figure where the body is kept in a horizontal position parallel to the floor.
+description: 'Starting position:
+
+  Hang from a sturdy pull-up bar using a shoulder-width overhand grip.
+
+
+  Execution:
+
+  1. Depress and retract your scapulae, engaging your lats, core, and glutes.
+
+  2. Pull your body upward with straight arms until your entire body is completely horizontal and parallel to the floor.
+
+  3. Hold this static hold for the target duration, maintaining a rigid straight line from head to heels.
+
+
+  Tips:
+
+  Keep arms and legs fully straight and do not allow your hips to sag. An advanced calisthenics isometric hold.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

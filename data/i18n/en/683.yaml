@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '683'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Power Clean
-# Description expanded from German source
-description: 'Olympic weightlifting movement: explosive pull of the barbell from the floor or hang onto the anterior shoulders (front rack position).'
+description: '- Stand over the barbell with feet hip-width apart and grip the bar
+  slightly wider than shoulder-width using a hook grip.
+
+  - Keep your back flat and chest lifted as you initiate the first pull by extending
+  your knees and hips smoothly to knee level.
+
+  - Explosively extend hips, knees, and ankles (triple extension) while shrugging
+  and pulling the bar upward close to your torso.
+
+  - Drop quickly into a partial squat, rotating your elbows forward to catch the bar
+  across your front deltoids (front-rack position), then stand tall.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

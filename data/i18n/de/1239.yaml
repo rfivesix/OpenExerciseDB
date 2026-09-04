@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1239'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Stehende Wadendehnung
 description: |-
-  Diese Dehnung zielt auf den Gastrocnemius ab (den wichtigsten Muskel der Wade, der Knie und Fuß beugt). Sie lässt sich überall leicht ausführen. Alles, was du brauchst, ist eine Wand oder ein Stuhl.
+  Ausgangsposition:
+  • Stelle dich etwa einen Schritt entfernt vor eine Wand und stütze dich mit beiden Händen auf Schulterhöhe ab.
+  • Mache mit einem Bein einen großen Schritt nach hinten.
+
+  Ausführung:
+  • Halte das hintere Bein vollständig gestreckt und drücke die hintere Ferse fest und flach in den Boden.
+  • Beuge das vordere Knie und verlagere dein Körpergewicht nach vorne in Richtung Wand, bis du eine deutliche Dehnung im zweiköpfigen Wadenmuskel (M. gastrocnemius) spürst.
+  • Halte die Dehnung für 20 bis 30 Sekunden bei ruhiger Atmung und wechsle anschließend das Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3789'
+search_terms:
+  - Standing Calf Stretch
+  - Wadendehnung an der Wand

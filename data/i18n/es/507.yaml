@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '507'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Peso muerto rumano con barra
-description: |-
-  De pie con los pies separados a la anchura de los hombros y los dedos de los pies mirando hacia adelante. Dobla las rodillas ligeramente y empuja el pecho hacia afuera. Agarra una barra que descanse en la parte superior de los muslos, con las manos en pronación a la anchura de los hombros.
+description: De pie con los pies separados a la anchura de los hombros y los dedos de los pies mirando hacia adelante. Dobla
+  las rodillas ligeramente y empuja el pecho hacia afuera. Agarra una barra que descanse en la parte superior de los muslos,
+  con las manos en pronación a la anchura de los hombros.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

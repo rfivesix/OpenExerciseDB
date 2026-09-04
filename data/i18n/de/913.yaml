@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '913'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Reverser Preacher Curl (enger Griff)
-description: Sitzend umgekehrt an einer Bizepsbank mit engem Griff.
+description: '- Setze dich an die Preacher-Curl-Bank (Bizepsbank) und lege die Oberarme
+  flach auf das Schrägpolster.
+
+  - Greife die SZ-Stange im engen Obergriff (Pronation, Handflächen nach unten).
+
+  - Beuge die Ellenbogen und hebe die Stange kontrolliert nach oben an, wobei der
+  Fokus auf dem Oberarmspeichenmuskel (Brachioradialis) und dem Armbeuger (Brachialis)
+  liegt.
+
+  - Senke das Gewicht langsam und kontrolliert wieder ab, ohne die Ellenbogengelenke
+  am tiefsten Punkt ruckartig durchzustrecken.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

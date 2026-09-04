@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: tr
-status: upstream_unreviewed
-name: Sol bacak baldır kaldırma
-description: |-
-  Hareket aralığını artırmak için yerde veya bir basamağın kenarında durun. Üst kısmı baldırınızın üzerine koyarak bir ayağınızı kaldırın.
+status: ai_reviewed
+name: Tek bacak baldır kaldırma
+description: 'Hareket aralığını artırmak için yerde veya bir basamağın kenarında durun.
+  Üst kısmı baldırınızın üzerine koyarak bir ayağınızı kaldırın.
+
   Ayak parmaklarınız üzerinde durana kadar topuklarınızı kaldırın.
-  Bu durumda üç saniye kalın, ardından topuğunuz yere değmeden ayağınızı indirin.
+
+  Bu durumda üç saniye kalın, ardından topuğunuz yere değmeden ayağınızı indirin.'
+search_terms:
+- Sol bacak baldır kaldırma
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

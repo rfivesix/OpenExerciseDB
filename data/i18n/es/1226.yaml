@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1226'
 language: es
-status: upstream_unreviewed
-name: Curl de bíceps con press de hombros con mancuernas
+status: ai_reviewed
+name: Curl de bíceps con press militar con mancuernas
 description: |-
-  Flexiona los codos y eleva las mancuernas hasta los hombros.
-  Empuja las mancuernas por encima de la cabeza mientras giras los brazos para que las palmas miren hacia delante. Invierte el movimiento para bajar. Repite el ejercicio.
+  Posición inicial:
+  • Ponte de pie con los pies a la anchura de las caderas, sosteniendo una mancuerna en cada mano a los costados.
+  • Mantén el tronco erguido y el abdomen firme.
+
+  Ejecución:
+  • Flexiona los codos realizando un curl de bíceps hasta llevar las mancuernas a la altura de los hombros.
+  • De forma fluida, gira las muñecas hacia el frente y presiona las mancuernas verticalmente por encima de la cabeza hasta estirar los brazos.
+  • Desciende los pesos de vuelta a los hombros y baja con control hasta la posición inicial de partida.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3766'
+search_terms:
+  - Curl de bíceps con press de hombros con mancuernas
+  - Dumbbell bicep curl to press

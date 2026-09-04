@@ -1,20 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1007'
 language: en
-status: upstream_unreviewed
-name: Head turns
-description: |-
-  Starting position:
-  Sit or stand with your back straight and shoulders down.
-  Steps:
+status: ai_reviewed
+name: Head Turns
+description: 'Starting Position: Sit or stand tall with shoulders relaxed and down,
+  looking straight forward.
 
-  Sit or stand up straight, shoulders dropped.
-  Turn your head to the side as far as possible. Stop when you hit a barrier and hold for 5 seconds.
-  Return to center position and repeat, changing sides.
+  Execution: Slowly turn your head to one side until you feel a gentle stretch along
+  the opposite side of your neck. Hold for 1–2 seconds, return smoothly to center,
+  and repeat to the opposite side.
+
+  Cues: Move within a pain-free range of motion without tilting your head or forcing
+  the turn.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1847'
+search_terms:
+- Head turns
+- Neck Rotation

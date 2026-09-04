@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '505'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Roman Chair Crunch
 description: |-
-  Crunches on roman chair. Keep your torso straight, abs tight, and don't come up all the way vertical or lie flat to keep constant tension on your abs.
+  Starting Position: Position yourself on the Roman chair with your feet securely locked under the roller pads and your torso aligned.
+  Execution: Flex your torso forward by contracting your abdominal muscles. Avoid coming all the way up to vertical or lying flat back to keep continuous tension on the abs.
+  Return: Return in a controlled motion to the starting position without hyperextending the lower back.
 upstream:
   license: CC-BY-SA-3.0
   license_author: MaddieBeasley

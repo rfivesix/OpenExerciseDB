@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1207'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Coup de pied du scorpion
 description: |-
-  Mettez-vous en position de pompe, les épaules directement au-dessus des mains et les pieds écartés à la largeur des hanches.
-  Assurez-vous que votre corps forme une ligne droite de la tête aux talons.
-  Ramenez maintenant votre genou droit vers votre poitrine. Tout en gardant le genou fléchi, levez votre jambe droite le plus haut possible, le bas de votre jambe droite pointant droit vers le haut.
-  Faites maintenant pivoter vos hanches de sorte que votre pied droit passe au-dessus de votre jambe gauche.
-  Continuez à pivoter et déplacez votre pied droit vers le sol jusqu'à être contraint de rouler sur l'extérieur de votre pied gauche d'appui. Assurez-vous de ne pas faire pivoter le haut de votre corps.
-  Revenez maintenant à la position de départ et répétez l'exercice avec votre jambe gauche.
+  Position de départ :
+  • Placez-vous en planche haute, mains sous les épaules et pieds écartés à la largeur des hanches.
+  • Gardez le corps bien aligné de la tête aux talons avec un bon gainage abdominal.
+
+  Exécution :
+  • Ramenez un genou vers la poitrine puis levez la jambe fléchie vers le haut et l'arrière.
+  • Pivotez le bassin pour faire passer le pied au-dessus de la jambe d'appui en direction du sol du côté opposé.
+  • Conservez les épaules parallèles au sol pour obtenir une excellente rotation du tronc et étirement de la hanche.
+  • Revenez sous contrôle en position de planche et changez de jambe.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4513'
+search_terms:
+  - Scorpion kick

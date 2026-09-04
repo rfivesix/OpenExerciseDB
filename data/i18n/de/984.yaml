@@ -1,23 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '984'
 language: de
 status: ai_reviewed
-name: Ausfallschritte
-description: |-
-  Ausgangsposition:
-  Mit geradem Rücken aufrecht stehen.
-  Schritte:
+name: Ausfallschritte (Lunges)
+description: 'Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand und aufgerichtetem
+  Oberkörper. Die Hände können in die Hüften gestützt oder vor der Brust gehalten
+  werden.
 
-  Mache mit einem Bein einen großen Schritt nach vorn.
-  Senke das Becken, bis das hintere Knie fast den Boden berührt.
-  Drücke dich wieder nach oben.
-  Kehre durch einen Schritt zurück in die Ausgangsposition zurück.
-  Wiederhole den Vorgang und wechsle dabei die Beine ab.
+  Ausführung: Mache einen weiten Schritt nach vorne. Senke das Becken kontrolliert
+  ab, bis beide Knie etwa einen 90-Grad-Winkel bilden und das hintere Knie kurz über
+  dem Boden schwebt.
+
+  Rückkehr: Drücke dich über die Ferse des vorderen Fußes kraftvoll zurück in den
+  aufrechten Stand.
+
+  Hinweis: Halte den Oberkörper gerade und achte darauf, dass das vordere Knie nicht
+  nach innen kippt.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1543'
+search_terms:
+- Ausfallschritte
+- Ausfallschritt
+- Lunges

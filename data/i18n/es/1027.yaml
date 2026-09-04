@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1027'
 language: es
-status: upstream_unreviewed
-name: Estiramiento de oración elevado
+status: ai_reviewed
+name: Estiramiento de la oración elevado (Prayer Stretch)
 description: |-
   Posición inicial:
-  Arrodíllate frente a un banco, lo bastante lejos para que tu torso quepa entre tus rodillas y el banco. Con la espalda recta, coloca los codos sobre el banco, con las palmas juntas y las manos apuntando hacia arriba.
-  Pasos:
+  Arrodíllate frente a un banco plano o una superficie elevada. Apoya ambos codos en el borde del banco separados al ancho de los hombros y junta las palmas de las manos en posición de oración.
 
-  Al exhalar, estira el pecho hacia abajo en dirección al suelo sin mover la zona lumbar. Al mismo tiempo, lleva las manos hacia los hombros, manteniendo las palmas juntas y los codos sobre el banco.
-  Mantén la posición durante unos segundos.
-  Al inhalar, relaja la espalda para volver a la posición inicial.
-  Repite.
+  Ejecución:
+  1. Lleva las caderas hacia atrás y deja que el pecho descienda hacia el suelo, pasando la cabeza entre los brazos.
+  2. Flexiona los codos llevando las manos hacia la nuca o la parte superior de la espalda.
+  3. Siente el estiramiento en los dorsales, tríceps y la columna torácica.
+  4. Mantén la posición de 20 a 40 segundos respirando profundamente y sal del estiramiento con suavidad.
+search_terms:
+  - Estiramiento de oración elevado
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

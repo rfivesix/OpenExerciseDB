@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1105'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Knee Tuck
 description: |-
-  Sit on floor or mat. Place arms slightly behind you. Raise legs. Now extend your legs and pull them back.
+  Starting position:
+  Sit on the floor or mat with your hands placed on the ground slightly behind your hips for support. Lean your torso back slightly and elevate your feet off the floor with knees softly bent.
+
+  Execution:
+  1. Extend your legs straight out in front of you while reclining your torso slightly further back, keeping your feet hovering above the ground.
+  2. Flex at your hips and knees, driving your knees toward your chest while pulling your torso slightly forward to maximize abdominal contraction.
+  3. Pause briefly at peak crunch, focusing on your rectus abdominis and hip flexors.
+  4. Slowly extend your legs back out without letting your feet touch the floor, repeating in a steady rhythm.
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb

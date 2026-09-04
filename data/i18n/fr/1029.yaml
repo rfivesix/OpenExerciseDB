@@ -5,16 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1029'
 language: fr
-status: upstream_unreviewed
-name: Rotation thoracique à quatre pattes, côté droit
+status: ai_reviewed
+name: Rotation thoracique à quatre pattes à droite
 description: |-
   Position de départ :
-  Commencez à quatre pattes, les genoux écartés de la largeur des épaules. Placez votre main droite derrière votre tête tout en gardant votre main gauche tendue et posée au sol.
-  Étapes :
+  Mettez-vous à quatre pattes, genoux sous les hanches et main gauche en appui au sol sous l'épaule gauche. Placez la main droite derrière la tête, coude ouvert.
 
-  À l'inspiration, amenez votre coude droit vers votre main gauche, en gardant la main droite derrière la tête.
-  À l'expiration, faites pivoter votre coude droit de manière à le pointer vers le plafond.
-  Répétez.
+  Étapes :
+  1. À l'inspiration, amenez le coude droit vers le bras gauche en enroulant légèrement le torse.
+  2. À l'expiration, pivotez le haut du corps vers la droite en pointant le coude droit vers le haut.
+  3. Maintenez le bassin fixe et les hanches au même niveau.
+  4. Répétez le mouvement pour le nombre de répétitions indiqué.
+search_terms:
+  - Rotation thoracique à quatre pattes, côté droit
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

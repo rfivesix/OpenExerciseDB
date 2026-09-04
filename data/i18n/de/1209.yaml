@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1209'
 language: de
-status: upstream_unreviewed
-name: Schulterbreite Dreipunkt-Liegestütze
+status: ai_reviewed
+name: Dreipunkt-Liegestütze
 description: |-
-  Geh in die Liegestützposition, deine Schultern befinden sich direkt über den Händen, deine Füße sind hüftbreit voneinander entfernt. Zieh den Bauchnabel in Richtung Wirbelsäule und spann die Bauchmuskulatur an. Hebe deinen linken Fuß etwa fünf Zentimeter vom Boden an. Die Zehen zeigen gerade nach unten. Bewege dabei nicht deine Hüften. Dein Körper bildet während der ganzen Übung eine gerade Linie vom Kopf bis zu den Fersen. Nun beuge die Ellbogen, senke deinen Brustkorb bis zum Boden ab und drück dich wieder nach oben. Wiederhole die Übung auf der anderen Seite.
+  Ausgangsposition:
+  • Begib dich in die reguläre Liegestützposition mit den Händen direkt unter den Schultern.
+  • Hebe einen Fuß etwa fünf bis zehn Zentimeter vom Boden ab, sodass du den Körper auf drei Punkten abstützt.
+  • Halte das Becken waagerecht und die Bauchmuskeln fest angespannt.
+
+  Ausführung:
+  • Beuge die Ellbogen und senke die Brust kontrolliert in Richtung Boden ab.
+  • Halte den gesamten Körper wie ein Brett stabil, ohne das Becken zur Seite wegzudrehen.
+  • Drücke dich über die Hände kraftvoll wieder nach oben in die Ausgangsposition zurück.
+  • Wiederhole die gewünschte Anzahl an Wiederholungen und wechsle das angehobene Bein.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2173'
+search_terms:
+  - Schulterbreite Dreipunkt-Liegestütze
+  - Einbeinige Liegestütze

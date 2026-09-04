@@ -5,12 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1324'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zancada con el peso corporal
-description: |-
-  Las zancadas con el peso corporal son un ejercicio de calistenia eficaz para
+description: 'Las zancadas con el peso corporal son un ejercicio de calistenia eficaz para
+
   fortalecer el tren inferior, mejorar el equilibrio y la estabilidad, y
-  desarrollar fuerza funcional. Son una opción popular para los entrenamientos con el peso corporal, los entrenamientos en casa, y también pueden incluirse como parte de una rutina de entrenamiento de fuerza más amplia.
+
+  desarrollar fuerza funcional. Son una opción popular para los entrenamientos con el peso corporal, los entrenamientos en
+  casa, y también pueden incluirse como parte de una rutina de entrenamiento de fuerza más amplia.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

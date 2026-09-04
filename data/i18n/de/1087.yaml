@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1087'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hang Power Cleans mit Kurzhanteln
 description: |-
-  Stehe aufrecht auf deinen Füßen mit deinen Kurzhanteln und halte sie an den Seiten. Beuge dich in der Hüfte, um sie bis zu den Knien abzusenken (Bild 1). Richte dich mit einem leichten Sprung wieder auf und nutze den Schwung, um die Kurzhanteln auf deine Schultern zu ziehen (Bild 2). Stelle dich gerade hin, senke sie dann kontrolliert wieder an die Seiten und wiederhole. Halte dies schnell und explosiv; wenn dein Puls nicht in die Höhe schießt, machst du sie falsch.
+  Ausgangsposition:
+  Stehe aufrecht mit hüftbreitem Stand und halte zwei Kurzhanteln mit neutralem Griff seitlich am Körper. Beuge leicht die Knie und schiebe die Hüfte nach hinten, um die Hanteln knapp über Kniehöhe in die Hang-Position zu senken.
+
+  Ausführung:
+  1. Strecke Hüfte und Knie explosiv und führe einen kräftigen Schulterzug (Shrug) aus.
+  2. Nutze den Schwung der Hüftstreckung, führe die Hanteln nah am Körper nach oben, bringe die Ellenbogen schnell nach vorne durch und fange die Hanteln auf Schulterhöhe in einer leichten Kniebeuge (Viertelkniebeuge) ab.
+  3. Richte dich vollständig auf und senke die Hanteln anschließend kontrolliert wieder in die Hang-Position ab.
+  4. Führe die Bewegung dynamisch und kraftvoll aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

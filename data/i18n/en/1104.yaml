@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1104'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Walking
-description: Walking outdoor or indoor, try keeping a pace of at list 100 steps per minute.
+description: |-
+  Starting position:
+  Stand tall with a relaxed, upright posture, shoulders drawn down and back, and eyes looking forward.
+
+  Execution:
+  1. Walk forward with a smooth, rhythmic stride, landing gently on your heel and rolling through to push off from the ball of your foot.
+  2. Swing your arms naturally in opposition to your leg movements with elbows softly bent.
+  3. Maintain an active, brisk pace of at least 100 steps per minute for optimal cardiovascular benefits.
+  4. Keep your core gently engaged and breathe steadily throughout your walk.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'

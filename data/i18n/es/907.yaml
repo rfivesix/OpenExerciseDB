@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '907'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexiones de Pino
-description: |-
-  Las flexiones de pino son un ejercicio de calistenia de nivel avanzado que demanda un alto nivel de habilidad, fuerza en los hombros y control del core. El movimiento consiste en realizar una flexión vertical desde una posición de parada de manos (pino), generalmente con los talones apoyados en una pared para mayor estabilidad.
-  Este ejercicio es extremadamente eficaz para desarrollar los hombros (deltoides) y los tríceps. Debido a su alta dificultad, es fundamental dominar progresiones más sencillas, como las flexiones en pica (pike push-ups), antes de intentarlo.
+description: '- Colócate en posición de pino (handstand) apoyando los pies contra
+  una pared sólida, con las manos a la anchura de los hombros y el core firme.
+
+  - Flexiona los codos de forma controlada descendiendo el cuerpo hasta que la coronilla
+  roce suavemente el suelo o colchoneta.
+
+  - Empuja con fuerza a través de los hombros y tríceps para volver a extender los
+  brazos por completo en la posición inicial.'
 upstream:
   license: CC-BY-SA-4.0

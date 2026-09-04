@@ -5,17 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1442'
 language: de
-status: upstream_unreviewed
-name: Kreis-Press mit Kurzhanteln
+status: ai_reviewed
+name: Kreisdrücken mit Kurzhanteln (Kreis Press)
 description: |-
-  Setze dich auf eine Bank mit 45° Neigung
-  Halte die Kurzhanteln über dem Kopf
-  Senke die Kurzhanteln ab, als würdest du Schulterdrücken machen
-  Drehe die Kurzhanteln so, dass die Handflächen nach oben zeigen, und strecke die Arme vor deinem Körper aus
-  Führe die Hände zusammen, bis sich die Kurzhanteln berühren, und halte die Arme gestreckt
-  Kehre die Bewegung um, bis die Kurzhanteln wieder über dem Kopf sind
-  Das ist eine Wiederholung
+  Ausgangsposition:
+  • Setze dich auf eine Schrägbank mit etwa 45° Neigung und halte zwei Kurzhanteln mit gestreckten Armen über dem Kopf.
+  • Halte die Bauchmuskeln angespannt und den Rücken an der Lehne stabilisiert.
+
+  Ausführung:
+  • Senke die Kurzhanteln in einer weiten Kreisbahn nach außen und unten auf Schulterhöhe ab.
+  • Führe die Hanteln am unteren Umkehrpunkt wieder zusammen und drücke sie auf konzentrischer Kreisbahn kraftvoll nach oben über den Kopf.
+  • Halte die Bewegung flüssig und kontrolliert, um die vordere Schultermuskulatur unter stetiger Spannung zu halten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3950'
+search_terms:
+  - Kreis-Press mit Kurzhanteln
+  - Kreis Press

@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: zh
-status: upstream_unreviewed
-name: 右腿手枪式深蹲
+status: ai_reviewed
+name: 单腿深蹲 (手枪式深蹲 右腿)
 description: |-
-  单腿站立，另一条腿伸直，略微向前。
-  慢慢弯曲一条腿的膝盖，下蹲，保持背部和另一条腿伸直。
-  从下蹲状态慢慢起身，伸直弯曲的膝盖，保持另一条腿伸直。
-  重复。
+  起始姿势：
+  右脚单腿直立，左腿向前笔直伸出并悬空。双臂向前平举以保持平衡。
+
+  动作步骤：
+  1. 屈右膝、屈髋，控制身体缓慢下沉至深蹲位置。
+  2. 保持胸部挺起、背部平直，左腿始终悬空伸直不触碰地面。
+  3. 下蹲至大腿与地面平行或更深位置。
+  4. 右脚脚后跟发力蹬地，平稳站起恢复至起始直立姿势。
+search_terms:
+  - 右腿手枪式深蹲
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1948'

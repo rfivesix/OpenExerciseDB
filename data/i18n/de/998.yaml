@@ -1,22 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '998'
 language: de
-status: upstream_unreviewed
-name: Keine Liegestütz-Burpees
-description: |-
-  Ausgangsposition:
-  Gerade stehen, Füße hüftbreit auseinander.
-  Schritte:
+status: ai_reviewed
+name: Burpees ohne Liegestütz
+description: 'Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand.
 
-  Gehen Sie in die Hocke und stützen Sie sich mit den Händen zwischen den Knien und vor den Füßen mit geradem Rücken auf dem Boden ab.
-  Lassen Sie die Hände auf dem Boden und springen Sie mit den Beinen nach hinten in eine hohe Plank-Position.
-  Springen Sie mit den Füßen nach vorne, um wieder in die Hocke zu gehen.
-  Springen Sie hoch.
-  Wiederholen Sie dies.
+  Ausführung: Gehe in die Kniebeuge und setze die Hände flach vor dir auf den Boden.
+  Springe mit den Füßen nach hinten in die Liegestützposition, ohne einen Liegestütz
+  auszuführen. Springe sofort mit den Füßen wieder nach vorne an die Hände heran und
+  springe anschließend explosiv mit erhobenen Armen nach oben.
+
+  Rückkehr: Lande weich mit leicht gebeugten Knien und gehe direkt in die nächste
+  Wiederholung über.
+
+  Hinweis: Halte die Rumpfspannung beim Nach-hinten-Springen, damit der untere Rücken
+  stabil bleibt.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1741'
+search_terms:
+- Keine Liegestütz-Burpees
+- No-Push-Up Burpees
+- Squat Thrusts

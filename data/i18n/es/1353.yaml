@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1353'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press hex con mancuernas
 description: |-
-  Activa la musculatura
-  Coloca los pies en posición amplia
-  Movimiento controlado
-  Movimiento lento
-  Lleva los pesos hacia la parte baja del pecho/el abdomen
+  Posición inicial:
+  Acuéstate sobre un banco plano con los pies bien apoyados en el suelo. Sujeta dos mancuernas (preferiblemente hexagonales) con agarre neutro y presiónalas firmemente una contra la otra sobre el pecho.
+
+  Ejecución:
+  Manteniendo una presión constante entre ambas mancuernas, bájalas de forma lenta y controlada hacia el centro del esternón. Empuja las mancuernas de vuelta hacia arriba contrayendo el pecho y los tríceps sin dejar de apretarlas entre sí.
+
+  Consejos:
+  No separes las mancuernas en ningún momento. La presión hacia adentro intensifica la activación del pectoral mayor.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

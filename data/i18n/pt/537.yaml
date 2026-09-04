@@ -5,15 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '537'
 language: pt
-status: upstream_unreviewed
-name: Supino Inclinado com Halteres.
-description: |-
-  O banco deve estar inclinado entre 30 e 45 graus.
-
-
-
-
-  Certifique-se de empurrar os halteres diretamente para cima (perpendiculares ao chão).
+status: ai_reviewed
+name: Supino Inclinado com Halteres
+search_terms:
+- Supino Inclinado com Halteres.
+description: O banco deve estar inclinado entre 30 e 45 graus. Deite-se com os halteres na altura do peito superior. Empurre
+  os halteres diretamente para cima até a extensão dos braços e desça de forma controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Jhonatan

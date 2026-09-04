@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1113'
 language: en
-status: upstream_unreviewed
-name: Push-Ups | Parallettes
+status: ai_reviewed
+name: Parallette Push-Ups
 description: |-
-  Parallettes push-ups are a variation of the traditional push-up that are performed with the hands on parallel bars, known as parallettes. To perform a parallettes push-up, assume a push-up position with your hands on the parallettes and your feet on the ground. Lower your body towards the ground while keeping your elbows close to your sides, and then push back up to the starting position.
-  Parallettes push-ups place more emphasis on the chest and shoulders compared to traditional push-ups, as they allow for a greater range of motion in the shoulder joint. This increased range of motion can also help to improve shoulder stability and mobility. Additionally, parallettes push-ups engage the core muscles more than traditional push-ups, as the instability of the parallettes requires greater activation of the core muscles to maintain proper form.
-  The added challenge of balancing on the parallettes also requires greater upper body strength and control, making parallettes push-ups a more advanced variation of the traditional push-up. They can be a great way to challenge yourself and add variety to your upper body workout routine. As always, be sure to use proper form and start with a level that is appropriate for your strength and fitness level.
+  Starting position:
+  Set up two parallette bars parallel to each other on the floor roughly shoulder-width apart. Grip the bars firmly with a neutral grip (palms facing each other) and extend your legs behind you into a solid plank position.
+
+  Execution:
+  1. Bend your elbows and lower your chest deeply between the parallettes under complete control.
+  2. Take advantage of the increased range of motion to achieve a full stretch across your pectoral muscles.
+  3. Drive firmly through your palms to press back up to full arm extension.
+  4. The neutral wrist alignment reduces wrist joint strain while maximizing chest and triceps recruitment.
+search_terms:
+  - Push-Ups | Parallettes
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337

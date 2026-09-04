@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1080'
 language: es
-status: upstream_unreviewed
-name: Hindu Pushups
+status: ai_reviewed
+name: Flexiones hindúes (Hindu Push-Ups)
 description: |-
-  Ejercicio para fortalecer los hombros y pectorales. Su nombre se debe a que se empieza en la postura de Yoga "Perro boca abajo", pasando a "Cobra" pero sin apoyar las piernas ni torso en el suelo para finalmente acabar con una flexión normal. El ejercicio también se puede realizar hacia atrás (de vuelta a la postura inicial). Como variación, tras hacer la flexión, se puede elevar la cadera para volver a la postura del perro boca abajo
+  Posición inicial:
+  Comienza en posición de 'V' invertida (perro boca abajo), con los pies y las manos firmes en el suelo y las caderas empujadas hacia arriba.
+
+  Ejecución:
+  1. Flexiona los codos y baja en picado rozando el suelo con el pecho y la barbilla en un movimiento fluido hacia adelante.
+  2. Empuja fuertemente con los brazos extendiéndolos para arquear el torso hacia arriba (postura de la cobra o perro boca arriba), abriendo el pecho.
+  3. Empuja las caderas hacia atrás y hacia arriba para regresar a la 'V' invertida inicial.
+  4. Repite el movimiento en un flujo continuo y controlado.
+search_terms:
+  - Hindu Pushups
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imobard

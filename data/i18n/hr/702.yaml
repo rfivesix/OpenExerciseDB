@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: hr
-status: upstream_unreviewed
-name: Dizanje lijeve potkoljenice
+status: ai_reviewed
+name: Podizanje na prste na jednoj nozi
+search_terms:
+- Dizanje lijeve potkoljenice
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

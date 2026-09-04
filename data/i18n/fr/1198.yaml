@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1198'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing inversé
 description: |-
-  Gardez le corps droit, rétractez vos omoplates et tirez votre poitrine vers la barre pour un entraînement efficace du dos et du haut du corps.
+  Position de départ :
+  • Réglez une barre à hauteur de hanches dans un rack ou utilisez un appareil guidé.
+  • Placez-vous sur le dos sous la barre et saisissez-la en pronation à une largeur supérieure à celle des épaules.
+  • Gardez les talons au sol et le corps parfaitement gainé et aligné de la tête aux pieds.
+
+  Exécution :
+  • Tirez votre poitrine vers la barre en tirant les coudes vers l'arrière et en resserrant les omoplates.
+  • Gardez les fessiers et les abdominaux contractés pour maintenir le corps rigide.
+  • Redescendez lentement sous contrôle jusqu'à extension complète des bras.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4508'
+search_terms:
+  - Tractions horizontales
+  - Inverted row

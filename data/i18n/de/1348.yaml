@@ -5,15 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1348'
 language: de
-status: upstream_unreviewed
-name: Rückenstrecker (unterer Rücken)
+status: ai_reviewed
+name: Rückenstrecken (Hyperextensions)
 description: |-
-  Muskulatur anspannen
-  Hintern ein wenig anheben
-  Kontrollierte Bewegung
-  Langsame Bewegung
-  Kein Schwung holen
-  Oberkörper gerade halten
+  Ausgangsposition:
+  Positioniere dich bäuchlings auf der Hyperextension-Bank (Römische Liege). Die Oberschenkel liegen stabil auf den Polstern auf, während die Hüfte frei beweglich bleibt. Die Fersen sind unter den hinteren Polstern fixiert. Verschränke die Arme vor der Brust oder lege die Hände an die Schläfen.
+
+  Ausführung:
+  Senke den Oberkörper langsam und kontrolliert aus der Hüfte nach vorne ab, bis eine leichte Dehnung in den Beinbeugern spürbar ist. Halte die Wirbelsäule dabei gerade. Richte den Oberkörper über die Kraft der Rückenstrecker und des Gesäßes wieder auf, bis der Körper eine gerade Linie bildet.
+
+  Hinweise:
+  Überstrecke die Wirbelsäule am obersten Punkt nicht nach hinten (kein Hohlkreuz bilden). Führe die gesamte Bewegung ohne Schwung aus.
+search_terms:
+  - Rückenstrecker (unterer Rücken)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

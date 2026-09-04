@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '621'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de bíceps de pie
-description: |-
-  Ponte de pie sujetando las mancuernas separadas al ancho de los hombros. Orienta el antebrazo hacia arriba y mantén el brazo superior inmóvil mientras subes cada mancuerna hasta el hombro.
+description: Ponte de pie sujetando las mancuernas separadas al ancho de los hombros. Orienta el antebrazo hacia arriba y
+  mantén el brazo superior inmóvil mientras subes cada mancuerna hasta el hombro.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

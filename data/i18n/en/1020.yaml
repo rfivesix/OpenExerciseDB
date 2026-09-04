@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: en
-status: upstream_unreviewed
-name: Pistol squats right
+status: ai_reviewed
+name: Pistol Squats Right
 description: |-
-  Stand on one leg, with your other leg straight and slightly forward.
-  Bend one knee slowly, descending into a squat and keeping your back and your other leg straight.
-  Slowly raise yourself from the squat, straightening the bent knee and keeping the other leg straight.
-  Repeat.
+  Starting position:
+  Stand tall on your right leg with your left leg extended straight out in front of you, slightly off the floor. Extend your arms forward for balance.
+
+  Execution:
+  1. Slowly bend your right knee and sit your hips back and down into a deep single-leg squat.
+  2. Keep your back straight, chest up, and your left leg elevated off the ground throughout the movement.
+  3. Descend until your right thigh is at least parallel to the floor (or deeper if mobility permits).
+  4. Drive firmly through your right heel to stand back up to the starting position.
+search_terms:
+  - Pistol squats right
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1938'

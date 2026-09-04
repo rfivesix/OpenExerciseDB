@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '959'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: TRX-Rudern
-description: Diese Übung dient als Vorbereitung auf Klimmzüge.
+description: 'Ausgangsposition: Stelle dich mit Blick zum Aufhängepunkt des Schlingentrainers,
+  greife die Griffe im neutralen Griff und lehne dich mit gestreckten Armen nach hinten.
+  Der Körper bildet eine feste, gerade Linie von den Fersen bis zum Kopf.
+
+  Ausführung: Ziehe die Brust zu den Griffen heran, indem du die Ellbogen eng am Körper
+  nach hinten führst und die Schulterblätter aktiv zusammenziehst.
+
+  Rückkehr: Senke den Körper langsam und kontrolliert wieder ab, bis die Arme vollständig
+  gestreckt sind.
+
+  Hinweis: Je flacher der Körper zum Boden geneigt ist, desto anspruchsvoller ist
+  die Übung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1239'
+search_terms:
+- TRX Rows
+- Schlingentrainer Rudern

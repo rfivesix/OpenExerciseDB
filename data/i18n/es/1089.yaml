@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: es
-status: upstream_unreviewed
-name: Abdominales rusas
+status: ai_reviewed
+name: Giro ruso con balón medicinal (Russian Twist)
 description: |-
-  sentado en el suelo agarramos la pesa rusa, flexionamos las piernas y las separamos del suelo. Ahora llevaremos a un lado y otro la pesa
+  Posición inicial:
+  Siéntate en el suelo con las rodillas flexionadas. Puedes apoyar los talones en el suelo o elevar los pies para mayor intensidad. Sostén un balón medicinal con ambas manos delante del pecho e inclina el torso hacia atrás unos 45 grados con la espalda recta.
+
+  Ejecución:
+  1. Activa el core y gira el torso hacia la derecha, llevando el balón medicinal hacia el lateral de la cadera derecha cerca del suelo.
+  2. Invierte la rotación pasando por el centro para girar hacia el lado izquierdo, llevando el balón junto a la cadera izquierda.
+  3. Mantén la pelvis y las piernas lo más estables posible para concentrar el trabajo en los oblicuos.
+  4. Continúa alternando de forma rítmica y controlada.
 search_terms:
   - Abdominales sovieticas
+  - Abdominales rusas
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

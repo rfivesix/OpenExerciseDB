@@ -5,30 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1406'
 language: it
-status: upstream_unreviewed
-name: Estensione Plank-Gomito
+status: ai_reviewed
+name: Plank to Push-up (estensione gomiti)
 description: |-
-  Esecuzione
+  Posizione di partenza:
+  Inizia in posizione di plank sugli avambracci con i gomiti allineati sotto le spalle, gli avambracci paralleli al suolo e il corpo che forma una linea retta dai talloni alla testa.
 
+  Esecuzione:
+  1. Appoggia una mano a terra sotto la spalla e spingi verso l'alto, seguita dall'altra mano, raggiungendo la posizione di plank alto a braccia tese.
+  2. Riscendi con controllo prima su un avambraccio e poi sull'altro tornando al plank basso.
+  3. Alterna il braccio guida a ogni ripetizione per uno stimolo equilibrato.
 
-  Posizione di partenza :
-
-  Parti in posizione di plancia alta (mani appoggiate a terra, braccia completamente estese, corpo in linea retta dalla testa ai talloni).
-  Piedi leggermente divaricati per maggiore stabilità.
-
-
-
-  Movimento :
-
-  Piega un gomito e appoggia l'avambraccio a terra, seguito dall'altro gomito, passando così alla posizione di plank sugli avambracci.
-  Torna alla posizione iniziale spingendoti verso l'alto con un braccio alla volta, estendendo completamente i gomiti.
-
-
-
-  Respirazione :
-
-  Espira mentre spingi verso l'alto ed estendi le braccia.
-  Inspira mentre scendi sugli avambracci.
+  Note:
+  Contrai saldamente i glutei e l'addome per evitare oscillazioni del bacino durante la transizione.
+search_terms:
+  - Estensione Plank-Gomito
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1230'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trizepsdehnung links
 description: |-
-  Lege deine linke Hand auf den Rücken, greife mit der rechten Hand deinen linken Ellbogen und ziehe ihn sanft. Halte diese Position für einige Sekunden.
+  Ausgangsposition:
+  • Stelle dich aufrecht hin oder setze dich mit geradem Rücken auf eine Bank.
+  • Hebe deinen linken Arm über den Kopf, beuge den Ellbogen und lasse die linke Hand hinter deinen Nacken bzw. zwischen die Schulterblätter sinken.
+
+  Ausführung:
+  • Greife mit der rechten Hand deinen linken Ellbogen und ziehe ihn sanft nach hinten und leicht nach unten.
+  • Spüre eine angenehme Dehnung im linken Trizeps.
+  • Halte die Dehnung für 20 bis 30 Sekunden bei ruhiger, gleichmäßiger Atmung, ohne ins Hohlkreuz zu fallen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3775'
+search_terms:
+  - Überkopf-Trizepsdehnung links
+  - Triceps stretch left

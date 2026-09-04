@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '604'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Speed Deadlift
-description: Deadlift with short (less than one 1min) rest between sets.
+search_terms:
+- Dynamic Effort Deadlift
+description: |-
+  Starting Position: Set up at a barbell loaded to approximately 50–70% of your 1RM, adopting your standard deadlift stance with a rigid, braced spine.
+  Execution: Pull the barbell off the floor with maximal acceleration and explosive bar speed, driving forcefully through your hips and legs to lockout.
+  Return: Return the barbell quickly and under control to the floor.
+  Cues: Focus on maximal velocity and intent. Rest intervals are intentionally brief (typically under 60 seconds) to train explosive power and rate of force development.
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele

@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1373'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Boxsprünge
 description: |-
-  Sprung aus dem Stand auf die Box, Körperstreckung durchführen, dann wieder heruntersteigen (nicht springen)
+  Ausgangsposition:
+  Stelle dich etwa eine halbe Armlänge vor einer stabilen Plyo-Box auf. Die Füße stehen schulterbreit, die Arme hängen locker an den Seiten.
+
+  Ausführung:
+  1. Gehe zügig in eine viertel Kniebeuge und schwinge die Arme nach hinten, um Schwung aufzubauen.
+  2. Springe explosiv ab, indem du Hüfte, Knie und Sprunggelenke kraftvoll streckst (Triple Extension), und schwinge die Arme nach vorne-oben.
+  3. Lande weich und federnd mit beiden Füßen gleichzeitig auf der Box in einer kontrollierten Kniebeugeposition.
+  4. Richte dich ganz auf, um die Wiederholung abzuschließen. Steige anschließend kontrolliert Schritt für Schritt von der Box herunter.
+
+  Hinweise:
+  Springe nicht rückwärts von der Box herunter, um die Achillessehnen und Gelenke zu schonen.
 search_terms:
   - box jumps
   - Kastensprünge

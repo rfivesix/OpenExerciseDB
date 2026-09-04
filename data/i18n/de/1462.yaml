@@ -6,11 +6,24 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1462'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Gerade Schläge
-description: Stehe stabil und führe normale gerade Schläge aus.
+name: Boxschläge (Punches)
+description: |-
+  Ausgangsposition:
+  • Nimm eine aufrechte, feste Kampfstellung ein: Ein Fuß steht leicht vorne, der andere leicht hinten, die Knie sind elastisch gebeugt.
+  • Hebe beide Fäuste auf Kinnhöhe zur Deckung und ziehe die Ellbogen schützend an die Rippen.
+
+  Ausführung:
+  • Schlage abwechselnd mit der Führhand und der Schlaghand gerade Stöße (Jabs und Crosses) rhythmisch und explosiv nach vorne.
+  • Drehe die Faust kurz vor dem Ziel horizontal ein und nimm den Schwung aus einer leichten Hüft- und Rumpfdrehung mit.
+  • Ziehe die schlagende Hand unmittelbar nach dem Trefferpunkt wieder schnell in die Deckung am Kinn zurück.
+  • Halte den Rumpf fest angespannt und atme bei jedem Schlag hörbar aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lh1701
   source_id: '2425'
+search_terms:
+  - Gerade Schläge
+  - Punches
+  - Schattenboxen

@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1188'
 language: de
-status: upstream_unreviewed
-name: Seitneigung
+status: ai_reviewed
+name: Seitbeugen mit Kurzhantel
 description: |-
-  Mit einer Hantel in einer Hand streckst du den Arm nach unten und beugst den anderen Arm, wobei du die Hand an den Kopf legst. Nun führst du die Hand mit der Hantel nach oben und unten, während du den Oberkörper drehst.
+  Ausgangsposition:
+  • Stelle dich aufrecht und hüftbreit hin.
+  • Halte eine Kurzhantel in einer Hand mit lang gestrecktem Arm seitlich am Oberschenkel.
+  • Lege die freie Hand an den Kopf oder stemme sie in die Hüfte.
+
+  Ausführung:
+  • Neige deinen Oberkörper kontrolliert rein seitlich in der Frontalebene zur Seite mit der Hantel, bis du eine Dehnung in den gegenüberliegenden schrägen Bauchmuskeln spürst. Wichtig: Den Oberkörper keinesfalls drehen oder nach vorne beugen!
+  • Richte dich aus der Kraft der gegenüberliegenden seitlichen Rumpf- und Bauchmuskeln wieder auf und ziehe leicht über die Mitte hinaus.
+  • Führe alle Wiederholungen kontrolliert aus und wechsle anschließend die Seite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4389'
+search_terms:
+  - Seitneigung
+  - Dumbbell Side Bend

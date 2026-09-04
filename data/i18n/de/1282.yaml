@@ -3,13 +3,24 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1282'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Isometrischer Klimmzug im Untergriff
-description: Isometrische Klimmzüge mit Untergriff.
+description: 'Ausgangsposition:
+
+  Umgreife die Klimmzugstange im schulterbreiten Untergriff (Handflächen zum Gesicht) und ziehe dich nach oben, bis sich dein
+  Kinn deutlich über der Stange befindet.
+
+
+  Ausführung:
+
+  1. Halte diese oberste Position mit maximal angewinkelten Armen und eng am Körper geführten Ellbogen statisch.
+
+  2. Spanne den Latissimus, die Bizepsmuskeln und den gesamten Rumpf fest an.
+
+  3. Halte die Position für die vorgegebene Zeitdauer und senke dich anschließend kontrolliert ab.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

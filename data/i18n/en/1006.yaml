@@ -1,20 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1006'
 language: en
-status: upstream_unreviewed
-name: Chin tuck
-description: |-
-  Starting position:
-  Sit or stand with your back straight.
-  Steps:
+status: ai_reviewed
+name: Chin Tuck
+description: 'Starting Position: Sit or stand tall with your shoulders back and down,
+  eyes looking straight ahead at eye level.
 
-  Use fingers on your chin to slowly tuck your chin in, moving your head back to align it with your spine.
-  Hold for 5 seconds.
-  Go back to normal head position and repeat.
+  Execution: Without tilting your head down, draw your chin horizontally backward
+  as if making a subtle "double chin," aligning your ears directly over your shoulders.
+
+  Return: Hold the retracted position for 3–5 seconds, feeling a gentle stretch at
+  the base of the skull, then release back to neutral.
+
+  Cues: Do not bend your neck down toward your chest; the movement is purely horizontal
+  retraction.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1838'
+search_terms:
+- Chin tuck
+- Cervical Retraction

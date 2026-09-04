@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: es
-status: upstream_unreviewed
-name: Elevación de pantorrilla derecha
+status: ai_reviewed
+name: Elevación de talones a una pierna (derecha)
 description: |-
-  Párese en el suelo o en el borde de un escalón para aumentar el rango de movimiento. Levante un pie, colocando la parte superior de su pantorrilla
-  Levante los talones hasta que esté de pie
-  Manténgase en esta posición durante tres segundos, luego baje el pie sin tocar el suelo con el talón.
+  Posición inicial:
+  Colócate de pie sobre el pie derecho, apoyando el antepié en el suelo o en el borde de un escalón. Mantén la pierna izquierda levantada y apóyate ligeramente en una pared para mantener el equilibrio.
+
+  Ejecución:
+  1. Deja caer el talón derecho por debajo del nivel del escalón para estirar el gemelo.
+  2. Empuja fuertemente a través del metatarso del pie derecho, elevando el talón lo más alto posible.
+  3. Mantén la contracción máxima durante 1 o 2 segundos arriba.
+  4. Desciende despacio y de forma controlada.
+search_terms:
+  - Elevación de pantorrilla derecha
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1953'

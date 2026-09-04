@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1214'
 language: fr
-status: upstream_unreviewed
-name: Front lever groupé
+status: ai_reviewed
+name: Front lever groupé (Tuck)
 description: |-
-  Les muscles sollicités lors du front lever, les plus soumis à la contrainte, sont principalement les extenseurs tels que : le grand dorsal, le grand rond, le deltoïde postérieur et le chef long du biceps.
+  Position de départ :
+  • Suspendez-vous à une barre de traction en pronation, mains écartées à la largeur des épaules.
+  • Resserrez fermement les genoux contre la poitrine en position groupée (tuck) et gainez le corps.
+
+  Exécution :
+  • Tirez vers le bas avec les bras tendus grâce à la force du grand dorsal et des rotateurs de l'épaule pour hisser le buste.
+  • Amenez le torse à l'horizontale, parallèle au sol, tout en maintenant les genoux groupés sur la poitrine.
+  • Maintenez la position isométrique pendant la durée cible (ex. 5 à 15 secondes).
+  • Redescendez lentement sous contrôle vers la suspension complète.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4547'
+search_terms:
+  - Front lever groupé
+  - Tuck front lever

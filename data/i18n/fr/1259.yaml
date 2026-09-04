@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1259'
 language: fr
-status: upstream_unreviewed
-name: Obliques au TRX
-description: |-
-  Placez vos pieds dans les sangles et adoptez une position de planche haute, les mains directement sous les épaules.
-  Ramenez vos genoux vers votre coude droit, puis repoussez-les vers l'extérieur et vers le centre.
+status: ai_reviewed
+name: Knee tuck au coude au TRX
+description: 'Placez vos pieds dans les sangles et adoptez une position de planche haute, les mains directement sous les épaules.
+
+  Ramenez vos genoux vers votre coude droit, puis repoussez-les vers l''extérieur et vers le centre.'
+search_terms:
+- Obliques au TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

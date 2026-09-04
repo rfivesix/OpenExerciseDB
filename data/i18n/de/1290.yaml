@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1290'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Langhantel-Curls im Obergriff
-description: |-
-  Halte die Langhantel im Obergriff (Handflächen nach unten) etwa schulterbreit. Achte darauf, dass dein Rücken gerade ist, die Schultern leicht zurückgezogen und die Arme vollständig gestreckt.
-  Curle die Langhantel in einer kontrollierten Bewegung nach oben zu deiner Brust und halte deine Ellbogen dabei nah am Körper. Die Bewegung sollte gleichmäßig sein, ohne Schwung oder Schwungholen.
+description: 'Halte die Langhantel im Obergriff (Handflächen nach unten) etwa schulterbreit. Achte darauf, dass dein Rücken
+  gerade ist, die Schultern leicht zurückgezogen und die Arme vollständig gestreckt.
+
+  Curle die Langhantel in einer kontrollierten Bewegung nach oben zu deiner Brust und halte deine Ellbogen dabei nah am Körper.
+  Die Bewegung sollte gleichmäßig sein, ohne Schwung oder Schwungholen.
+
   Sobald die Langhantel auf Brusthöhe ist, halte kurz inne, um die Kontraktion in Bizeps und Unterarmen zu maximieren.
-  Senke die Langhantel langsam und kontrolliert zurück in die Ausgangsposition und strecke deine Arme vollständig.
+
+  Senke die Langhantel langsam und kontrolliert zurück in die Ausgangsposition und strecke deine Arme vollständig.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

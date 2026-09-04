@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1086'
 language: fr
-status: upstream_unreviewed
-name: Pompes prise serrée
+status: ai_reviewed
+name: Pompes en prise serrée
 description: |-
-  Placez-vous dans une position de planche solide, en rapprochant les mains jusqu'à ce qu'elles se touchent presque (image 1). Pliez les coudes pour amener lentement votre poitrine vers le sol (image 2). Gardez les coudes près du corps tout en poussant de manière explosive pour remonter. Répétez. Veillez à prendre votre temps à la descente de chaque répétition, en gardant une exécution irréprochable.
+  Position de départ :
+  Installez-vous en position de planche haute avec les mains rapprochées sous la poitrine (largeur inférieure à celle des épaules). Le corps est parfaitement aligné de la tête aux talons.
+
+  Étapes :
+  1. Fléchissez les coudes en les gardant collés le long des côtes et descendez le corps de manière contrôlée.
+  2. Descendez jusqu'à ce que la poitrine frôle les mains.
+  3. Repoussez le sol avec force en engageant principalement les triceps pour remonter en position initiale.
+  4. Conservez un gainage ferme sans cambrer le dos.
+search_terms:
+  - Pompes prise serrée
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

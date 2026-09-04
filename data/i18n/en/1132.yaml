@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1132'
 language: en
-status: upstream_unreviewed
-name: Machine glute extension
+status: ai_reviewed
+name: GHD Glute Extension
 description: |-
-  A GHD hip extension is one of the best exercises for the glutes. While the exercise mainly targets the glutes, it is also excellent for the lower back, the calves and the hamstrings.
+  Starting Position:
+  • Lie face down on a GHD (Glute-Ham Developer) or 45-degree hyperextension bench, securing your ankles firmly under the foot rollers.
+  • Position your hips just past the front edge of the pad so your hips can hinge freely.
+  • Cross your arms over your chest or place your hands lightly behind your head.
+
+  Execution:
+  • Lower your upper body by hinging forward at the hips while maintaining a neutral, flat spine.
+  • Squeeze your glutes and hamstrings to extend your hips and lift your torso back up until your body forms a straight line.
+  • Pause briefly at the top, focusing on maximum glute contraction, then lower with control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2109'
+search_terms:
+  - Machine glute extension
+  - GHD hip extension

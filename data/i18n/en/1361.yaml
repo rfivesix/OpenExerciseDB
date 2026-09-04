@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1361'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Double Kettlebell Front Squat
 description: |-
-  The kettlebell front squat is a compound, multi-joint exercise that works several muscle groups.
+  Starting position:
+  Clean two kettlebells into the rack position at chest level: elbows tucked close to your ribcage, wrists neutral, and kettlebell bells resting in the triangle formed by your forearms and biceps. Set your feet shoulder-width apart.
+
+  Movement:
+  Inhale and brace your core firmly. Hinge at your hips and bend your knees to squat down deeply, keeping your torso as upright as possible. Drive through your midfoot and heels to return to a full standing position.
+
+  Notes:
+  Keep your chest tall and elbows elevated throughout the movement to prevent the weight from rounding your upper back forward.
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r

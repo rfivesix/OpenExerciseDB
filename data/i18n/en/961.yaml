@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '961'
 language: en
-status: upstream_unreviewed
-name: Swimming 50m sprints
-description: 50m swimming sprints at 1min
+status: ai_reviewed
+name: 50m Swim Sprints
+description: 'Starting Position: Position yourself in the pool at the starting wall,
+  ready for an explosive push-off.
+
+  Execution: Sprint 50 meters at maximum effort using freestyle (front crawl), focusing
+  on high stroke cadence, powerful kick, and streamlined body position.
+
+  Structure: Performed on a fixed interval (e.g. on 1 minute). Rest for the remainder
+  of the interval after touching the wall before launching the next sprint.
+
+  Cues: Maximize speed and power while maintaining efficient stroke mechanics throughout
+  the entire 50-meter distance.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono
   source_id: '1255'
+search_terms:
+- Swimming 50m sprints
+- 50m swimming sprints
+- 50m Swim Sprint

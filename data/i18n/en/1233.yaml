@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1233'
 language: en
-status: upstream_unreviewed
-name: Standing biceps stretch right
+status: ai_reviewed
+name: Standing Biceps Stretch (Right)
 description: |-
-  Stand with your right arm close to a wall. Extend your right arm and put your right hand on the wall, then gently turn your body to the left.
+  Starting Position:
+  • Stand with your right side adjacent to a flat wall.
+  • Extend your right arm straight back and place your right palm flat against the wall at shoulder height, fingers pointing behind you.
+
+  Execution:
+  • Slowly rotate your torso and hips away from the wall to your left.
+  • Stop when you feel a comfortable stretch through your right biceps, anterior deltoid, and chest.
+  • Hold the stretch for 20 to 30 seconds while breathing steadily.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2198'
+search_terms:
+  - Standing biceps stretch right
+  - Wall biceps stretch right

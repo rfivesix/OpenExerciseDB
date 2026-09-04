@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1452'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Knie-zur-Brust-Dehnung
 description: |-
-  Die Knie-zur-Brust-Dehnung ist eine einfache, aber effektive Übung, um Verspannungen im unteren Rücken zu lösen und die Hüftbeweglichkeit zu verbessern. Lege dich dazu flach auf den Rücken mit gestreckten Beinen. Ziehe ein Knie zur Brust und umfasse mit den Händen das Schienbein oder die Rückseite des Oberschenkels. Ziehe das Knie sanft näher zur Brust, während du das andere Bein gestreckt auf dem Boden lässt. Halte die Dehnung 15–30 Sekunden und wechsle dann die Seite. Für eine intensivere Dehnung können beide Knie gleichzeitig zur Brust gezogen werden.
+  Ausgangsposition:
+  • Lege dich rücklings flach auf eine Trainingsmatte, die Beine sind ausgestreckt und der Kopf liegt entspannt auf.
+
+  Ausführung:
+  • Beuge ein Knie, umfasse das Schienbein oder die Kniekehle mit beiden Händen und ziehe das Knie sanft in Richtung Brust.
+  • Halte das andere Bein flach auf dem Boden ausgestreckt, um eine angenehme Dehnung in Gesäß und unterem Rücken zu spüren.
+  • Halte die Position für 20 bis 30 Sekunden, atme tief ein und aus und wechsle anschließend das Bein.
+  • Die Übung kann auch mit beiden Knien gleichzeitig ausgeführt werden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

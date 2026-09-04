@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1223'
 language: en
-status: upstream_unreviewed
-name: Claps over the head
+status: ai_reviewed
+name: Claps Over the Head
 description: |-
-  Stand with your feet shoulder width apart. Raise your arms and clap over your head
+  Starting Position:
+  • Stand upright with your feet shoulder-width apart and your arms resting naturally at your sides.
+  • Keep your chest lifted and shoulders relaxed.
+
+  Execution:
+  • Raise your extended arms out to the sides in a wide sweeping arc until your hands clap together directly overhead.
+  • Lower your arms back down smoothly along the same lateral path to the starting position.
+  • Repeat in a fluid, rhythmic cadence as a dynamic warm-up to activate the deltoids and mobilize the shoulder girdle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2188'
+search_terms:
+  - Claps over the head
+  - Overhead arm claps

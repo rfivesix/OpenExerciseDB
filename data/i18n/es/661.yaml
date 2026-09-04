@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '661'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tríceps en máquina
-description: |-
-  Siéntate y sujeta firmemente la barra con las manos. Ahora empuja el peso hacia arriba (sin extender del todo los brazos) y bájalo de nuevo lentamente. Como en otros ejercicios de tríceps, es importante no mover los brazos.
+description: '- Siéntate en la máquina de tríceps y ajusta la altura del asiento para
+  alinear los codos con el eje de rotación de la máquina.
+
+  - Sujeta los agarres firmemente y apoya la parte superior de los brazos sobre la
+  almohadilla de soporte.
+
+  - Empuja los agarres hacia abajo extendiendo los codos de forma controlada hasta
+  contraer los tríceps.
+
+  - Regresa lentamente a la posición inicial manteniendo los brazos firmemente apoyados
+  en el acolchado.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

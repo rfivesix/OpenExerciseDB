@@ -1,10 +1,25 @@
 exercise_id: '927'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kreuzhang an Ringen
-description: Übung mit einem TRX-Schlingentrainer für das Brusttraining.
+name: Fliegende am Schlingentrainer (TRX Chest Fly)
+description: 'Ausgangsposition: Greife die Schlaufen des Schlingentrainers (TRX) im
+  neutralen Griff und beuge den Körper in Schräglage gestreckt nach vorne. Dein Körper
+  bildet eine feste Linie von Kopf bis Fuß, die Arme sind vor der Brust gestreckt.
+
+  Ausführung: Öffne die Arme mit leicht gebeugten Ellbogen kontrolliert in einem weiten
+  Bogen zur Seite, bis du eine deutliche Dehnung in der Brustmuskulatur spürst.
+
+  Rückkehr: Führe die Hände über die Kraft der Brustmuskeln wieder vor dem Körper
+  zusammen und halte dabei die Rumpfspannung aufrecht.
+
+  Hinweis: Die Übungsintensität lässt sich einfach über den Neigungswinkel des Körpers
+  variieren.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1206'
+search_terms:
+- Kreuzhang an Ringen
+- TRX Chest Fly
+- Suspended crossess
+- Schlingentrainer Fliegende

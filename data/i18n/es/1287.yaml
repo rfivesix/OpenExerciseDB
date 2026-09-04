@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1287'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reach ups
-description: |-
-  Para realizar este ejercicio, túmbate boca arriba con los brazos extendidos por encima de la cabeza. Luego contrae los abdominales y levanta el torso del suelo estirando los brazos hacia el techo para "alcanzar" lo más alto posible. Vuelve lentamente a la posición inicial controlando el movimiento. Los reach ups fortalecen los músculos abdominales y mejoran la flexibilidad de la columna vertebral. Se pueden integrar en una gran variedad de rutinas de entrenamiento para trabajar la fuerza y la estabilidad del tronco.
+description: Para realizar este ejercicio, túmbate boca arriba con los brazos extendidos por encima de la cabeza. Luego contrae
+  los abdominales y levanta el torso del suelo estirando los brazos hacia el techo para "alcanzar" lo más alto posible. Vuelve
+  lentamente a la posición inicial controlando el movimiento. Los reach ups fortalecen los músculos abdominales y mejoran
+  la flexibilidad de la columna vertebral. Se pueden integrar en una gran variedad de rutinas de entrenamiento para trabajar
+  la fuerza y la estabilidad del tronco.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

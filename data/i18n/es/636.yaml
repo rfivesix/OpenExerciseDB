@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '636'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Superman
-description: |-
-  Túmbate boca abajo con los brazos extendidos por delante de ti sobre el suelo y las piernas estiradas en el suelo. Levanta a la vez los brazos y las piernas, como si estuvieras volando, y contrae la zona lumbar. Asegúrate de respirar y, según tu nivel de forma física, mantén el movimiento al menos de dos a cinco segundos por repetición.
+description: 'Túmbate boca abajo en el suelo con las piernas estiradas y los brazos
+  extendidos por encima de la cabeza.
+
+  Levanta al mismo tiempo los brazos, el pecho y los muslos unos centímetros del suelo
+  contrayendo la zona lumbar, los glúteos y la espalda alta.
+
+  Mantén la contracción durante 2 a 5 segundos respirando de forma continua, y luego
+  desciende lentamente con control.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

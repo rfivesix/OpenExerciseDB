@@ -5,16 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1081'
 language: de
-status: upstream_unreviewed
-name: Schulterdislokationen
+status: ai_reviewed
+name: Schulter-Dislokationen (mit Band oder Stab)
 description: |-
   Ausgangsposition:
-  Stelle dich mit geradem Rücken hin und nimm ein Widerstandsband, ein Handtuch oder einen Besenstiel in die Hände. Halte die Hände gerade vor deinem Körper, das Band zwischen den Händen, und schiebe deine Hände auseinander, sodass beide etwa 45 Grad von deinem Körper entfernt sind, die Daumen nach unten zeigend. Wenn du stattdessen ein Handtuch oder einen Besenstiel verwendest, greife es im Obergriff.
-  Ablauf:
+  Stehe aufrecht mit schulterbreitem Stand. Halte ein Widerstandsband, ein Handtuch oder einen Besenstiel mit weitem Obergriff vor deinem Körper mit gestreckten Armen.
 
-  Halte deine Arme gestreckt und rotiere in den Schultern, um deine Arme über den Kopf und dann nach unten in Richtung deiner Gesäßmuskulatur zu führen.
-  Rotiere in den Schultern in die entgegengesetzte Richtung – über den Kopf und dann in Richtung deiner Leiste.
-  Wiederhole.
+  Ausführung:
+  1. Führe die gestreckten Arme in einem weiten Bogen kontrolliert nach oben über den Kopf.
+  2. Rotiere die Schultern weiter nach hinten, bis das Band oder der Stab hinter dem Rücken die Gesäßhöhe erreicht.
+  3. Halte die Ellenbogen durchgestreckt und überstrecke die Lendenwirbelsäule nicht.
+  4. Führe die Arme auf demselben Weg kontrolliert über den Kopf zurück nach vorne vor den Körper.
+  5. Wähle den Griff so weit, dass die Bewegung schmerzfrei und ohne Abknicken der Ellenbogen gelingt.
+search_terms:
+  - Schulterdislokationen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

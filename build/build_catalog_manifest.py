@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Erzeugt das Release-Manifest, an dem sich die App bedient.
 
-Uebernommen aus `train-libre` und um den Versionsvertrag aus SCHEMA.md 9
+Aus einer frueheren Pipeline uebernommen und um den Versionsvertrag aus SCHEMA.md 9
 erweitert: neben der Inhaltsversion `version` fuehrt das Manifest jetzt ein
 davon unabhaengiges `schema_version` und ein `min_app_schema_version`.
 

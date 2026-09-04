@@ -1,10 +1,35 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1245'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Front Lever
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Der Front Lever ist eine Figur, bei der der Körper waagerecht und parallel zum Boden gehalten wird.
+description: 'Ausgangsposition:
+
+  Hänge dich im schulterbreiten Obergriff an eine stabile Klimmzugstange.
+
+
+  Ausführung:
+
+  1. Ziehe die Schulterblätter aktiv nach hinten-unten und spanne den Rumpf, das Gesäß und den Latissimus maximal an.
+
+  2. Hebe den gesamten Körper mit vollständig gestreckten Armen nach oben, bis er sich in einer geraden Linie waagerecht parallel
+  zum Boden befindet.
+
+  3. Halte diese statische Position stabil für die angestrebte Zeitdauer.
+
+
+  Hinweise:
+
+  Vermeide ein Durchhängen der Hüfte oder ein Hohlkreuz. Eine der anspruchsvollsten Eigengewichtsübungen für Oberkörper und
+  Rumpfstabilität.'
+search_terms:
+- Hangwaage
+- Hangwaage vorn
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

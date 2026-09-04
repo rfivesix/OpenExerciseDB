@@ -5,15 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1338'
 language: fr
-status: upstream_unreviewed
-name: Élévation des épaules (haltère)
-description: |-
-  Engagez les muscles
-  N'utilisez pas d'élan
-  Mouvement contrôlé
-  Mouvement lent
-  Gardez toujours les bras fléchis
-  Ne tendez pas à l'excès
+status: ai_reviewed
+name: Élévations frontales avec haltères
+description: 'Position de départ :
+
+  Debout, pieds à la largeur des hanches, tenez un haltère dans chaque main devant les cuisses, paumes tournées vers vous.
+
+
+  Exécution :
+
+  1. En gardant les coudes très légèrement fléchis, montez les haltères vers l''avant jusqu''à la hauteur des épaules ou des
+  yeux.
+
+  2. Marquez un court arrêt en haut pour contracter le deltoïde antérieur.
+
+  3. Redescendez lentement sous contrôle sans balancer le buste.'
+search_terms:
+- Élévation des épaules (haltère)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

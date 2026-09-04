@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: cs
-status: upstream_unreviewed
-name: Výpony na pravé noze
+status: ai_reviewed
+name: Výpony na jedné noze (pravá)
 description: |-
-  Postavte se na podlahu nebo na okraj kroku, abyste zvýšili rozsah pohybu. Zvedněte jednu nohu a položte horní část na lýtko.
-  Zvedněte paty, dokud nestojíte na prstech.
-  Zůstaňte v této poloze po dobu tří sekund, pak spusťte nohu, aniž byste se dotýkali země patou.
+  Výchozí poloha:
+  Postavte se na pravou nohu na rovnou zem nebo na okraj stupínku. Levou nohu pokrčte v koleni a držte nad zemí. Rukou se lehce přidržujte stěny pro rovnováhu.
+
+  Provedení:
+  1. Spusťte pravou patu dolů a protáhněte lýtkový sval.
+  2. Silou bříška chodidla se vytlačte co nejvýše na špičku.
+  3. V horní poloze na 1–2 sekundy zadržte maximální kontrakci.
+  4. Pomalým a kontrolovaným pohybem se vraťte do výchozí polohy.
+search_terms:
+  - Výpony na pravé noze
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1950'

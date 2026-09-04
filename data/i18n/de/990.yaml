@@ -1,21 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '990'
 language: de
 status: ai_reviewed
-name: Glute Kickbacks im Vierfüßlerstand
-description: |-
-  Ausgangsposition:
-  Begib dich in den Vierfüßlerstand auf einer Matte.
-  Schritte:
+name: Glute Kickback im Vierfüßlerstand
+description: 'Ausgangsposition: Begib dich in den Vierfüßlerstand auf einer Matte.
+  Die Hände befinden sich unter den Schultern, die Knie unter den Hüften und die Wirbelsäule
+  ist neutral.
 
-  Strecke ein Bein kontrolliert nach hinten oben aus und spanne dabei die Gesäßmuskulatur an.
-  Halte die Kontraktion für eine Sekunde und kehre dann in die Ausgangsposition zurück.
-  Wiederhole die Bewegung und wechsle die Seite.
+  Ausführung: Hebe ein Bein an und führe die Ferse kontrolliert nach hinten oben in
+  Richtung Decke. Spanne die Gesäßmuskulatur am höchsten Punkt maximal an.
+
+  Rückkehr: Halte die Kontraktion für einen kurzen Moment und senke das Knie langsam
+  wieder in Richtung Boden ab, ohne es ganz abzusetzen.
+
+  Hinweis: Halte das Becken waagerecht und vermeide ein Hohlkreuz im unteren Rücken.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1629'
+search_terms:
+- Glute Kickbacks im Vierfüßlerstand
+- Donkey Kicks
+- Rückkick im Vierfüßlerstand

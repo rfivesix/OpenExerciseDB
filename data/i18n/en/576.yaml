@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '576'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Side Crunch
-description: |-
-  Hold weight in one hand. Bend side ways to the knee. Pull upo to upright position using your obliquus.
+search_terms:
+- Dumbbell Side Bend
+- Standing Dumbbell Side Crunch
+description: Hold weight in one hand. Bend side ways to the knee. Pull upo to upright position using your obliquus.
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy

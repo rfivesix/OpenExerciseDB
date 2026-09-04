@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1141'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arabesque
 description: |-
-  Reportez tout votre poids sur une seule jambe et maintenez cette position, en gardant les hanches et le bassin à niveau pendant toute la durée du mouvement. Le dos en position neutre, penchez-vous vers l'avant en projetant votre jambe vers l'arrière, puis revenez lentement à la position neutre en contractant vos fessiers.
+  Position de départ :
+  • Tenez-vous debout et reportez tout votre poids sur une jambe d'appui.
+  • Gardez le genou de la jambe d'appui très légèrement déverrouillé et le bassin bien aligné à l'horizontale.
+  • Maintenez la colonne vertébrale neutre et gainez la sangle abdominale.
+
+  Exécution :
+  • Basculez le buste vers l'avant à partir des hanches tout en tendant l'autre jambe vers l'arrière et le haut.
+  • Alignez le buste et la jambe levée parallèlement au sol en conservant l'équilibre.
+  • Contractez fermement les fessiers et les ischio-jambiers de la jambe d'appui pour revenir lentement debout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

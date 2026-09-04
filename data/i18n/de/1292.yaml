@@ -1,10 +1,30 @@
-# AI review provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1292'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Klimmzüge im Untergriff
-description: Klimmzüge an der Stange, wobei deine Daumen nach außen zeigen.
+description: 'Ausgangsposition:
+
+  Hänge dich im etwa schulterbreiten Untergriff (Handflächen zum Körper gerichtet) an eine Klimmzugstange. Die Arme sind vollständig
+  gestreckt.
+
+
+  Ausführung:
+
+  1. Ziehe deinen Körper kontrolliert nach oben, indem du die Ellbogen nach unten und hinten führst, bis dein Kinn die Stange
+  passiert hat.
+
+  2. Halte die Kontraktion am obersten Punkt für einen kurzen Moment und spanne Latissimus und Bizeps maximal an.
+
+  3. Senke deinen Körper langsam und kontrolliert wieder in den vollen Hang ab.'
+search_terms:
+- Chin-ups
+- Klimmzug Untergriff
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

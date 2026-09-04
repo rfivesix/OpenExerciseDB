@@ -5,17 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: cs
-status: upstream_unreviewed
+status: ai_reviewed
 name: Protažení přední strany krku
 description: |-
   Výchozí poloha:
-  Postavte se nebo si sedněte s narovnanými zády.
-  Kroky:
+  Posaďte se nebo se postavte s rovnými zády a uvolněnými rameny.
 
-  Otevřete ústa do O.
-  Pomalu zakloňte hlavu s ústy otevřenými. Pokud potřebujete hlavu podpořit, sepněte za ní ruce.
-  Velmi pomalu zavírejte a otevírejte ústa.
-  Nakonec se vraťte do výchozí polohy a ústa zavřete.
+  Provedení:
+  1. Otevřete široce ústa.
+  2. Pomalu zakloňte hlavu dozadu s otevřenými ústy, dokud neucítíte jemné protažení přední strany krku.
+  3. Velmi pomalu zavírejte a otevírejte ústa, abyste prohloubili protažení předních krčních svalů.
+  4. Pomalu vraťte hlavu do výchozí polohy a zavřete ústa.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1894'

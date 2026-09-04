@@ -5,17 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: id
-status: upstream_unreviewed
+status: ai_reviewed
 name: Peregangan leher depan
 description: |-
   Posisi awal:
-  Duduk atau berdiri dengan punggung lurus.
-  Langkah:
+  Duduk atau berdiri tegak dengan punggung lurus dan bahu rileks.
 
-  Buka mulut lebar-lebar.
-  Perlahan miringkan kepala ke belakang dengan mulut terbuka. Jika Anda merasa perlu untuk dukungan, bertepuk tangan di belakang kepala.
-  Sangat perlahan tutup dan Buka mulut Anda.
-  Pada akhirnya, perlahan kembali ke posisi awal dan tutup mulut.
+  Langkah pelaksanaan:
+  1. Buka mulut lebar-lebar.
+  2. Perlahan tengadahkan kepala ke belakang dengan mulut terbuka hingga merasakan regangan lembut di bagian depan leher.
+  3. Buka dan tutup mulut secara perlahan beberapa kali untuk memperdalam peregangan otot leher bagian depan.
+  4. Kembalikan kepala secara perlahan ke posisi awal dan tutup mulut.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1893'

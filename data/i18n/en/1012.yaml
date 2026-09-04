@@ -5,16 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1012'
 language: en
-status: upstream_unreviewed
-name: Alternating bicep curls
+status: ai_reviewed
+name: Alternating Dumbbell Bicep Curls
 description: |-
   Starting position:
-  Start standing up with dumbbells in each hand, your back straight and feet hip-width apart. Your arms should be relaxed, pointing down. Your knees should be slightly bent, your abs contracted, and your shoulders down.
-  Steps:
+  Stand tall with your feet hip-width apart and your back straight. Hold a dumbbell in each hand with your arms extended down by your sides and palms facing inward. Keep your shoulders back and core engaged.
 
-  Bend one arm at the elbow, bringing the dumbbell up to your shoulder. Your upper arm should remain motionless during this movement.
-  Bring the dumbbell back down until your arm is in its original relaxed position.
-  Repeat, switching arms.
+  Execution:
+  1. Bend one arm at the elbow, rotating your forearm upward (supination) so your palm faces your shoulder at the top.
+  2. Curl the dumbbell up until your bicep is fully contracted, keeping your upper arm still and tucked close to your torso.
+  3. Slowly lower the weight back down to the starting position under full control.
+  4. Repeat with the other arm, alternating sides smoothly.
+search_terms:
+  - Alternating bicep curls
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1907'

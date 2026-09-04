@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1464'
 language: fr
-status: upstream_unreviewed
-name: Hack squats avec pause
+status: ai_reviewed
+name: Hack squat avec pause
 description: |-
-  Des hack squats mais avec une pause de 1 à 2 secondes au bas du mouvement. Cela garantit qu'il ne reste plus d'énergie élastique stockée dans les muscles.
+  Position de départ :
+  • Installez-vous dans la machine de hack squat, les épaules sous les manchons et le dos bien plaqué contre le dossier.
+  • Placez vos pieds à la largeur des épaules sur la plateforme.
+
+  Exécution :
+  • Fléchissez les genoux pour descendre le chariot jusqu'à ce que les cuisses soient au moins parallèles à la plateforme.
+  • Marquez un arrêt complet de 1 à 2 secondes au point bas sans aucun rebond pour dissiper l'énergie élastique.
+  • Poussez puissamment avec les quadriceps et les fessiers pour remonter à la position de départ sans verrouiller sèchement les genoux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4643'
+search_terms:
+  - Hack squats avec pause

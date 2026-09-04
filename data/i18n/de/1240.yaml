@@ -1,11 +1,22 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1240'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Soleus-Dehnung stehend
-description: Diese Dehnung zielt auf den Soleus (tiefen Wadenmuskel) ab. Sie kann an einer Wand oder an einer Erhöhung ausgeführt werden.
+description: |-
+  Ausgangsposition:
+  • Stelle dich vor eine Wand und stütze dich mit beiden Händen auf Schulterhöhe ab.
+  • Mache mit einem Bein einen kurzen Schritt nach hinten (kürzerer Schritt als bei der normalen Wadendehnung).
+
+  Ausführung:
+  • Im Gegensatz zur normalen Wadendehnung beugst du nun auch das hintere Knie leicht an, während die hintere Ferse fest auf dem Boden bleibt.
+  • Verlagere dein Körpergewicht nach unten und leicht nach vorne, um die Dehnung tief im unteren Wadenbereich (M. soleus) und oberhalb der Achillessehne zu spüren.
+  • Halte die Dehnung für 20 bis 30 Sekunden und wiederhole sie auf der anderen Seite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2202'
+search_terms:
+  - Standing Soleus Stretch
+  - Schollenmuskel-Dehnung stehend

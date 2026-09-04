@@ -5,11 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1201'
 language: es
-status: upstream_unreviewed
-name: Dragon squat
+status: ai_reviewed
+name: Sentadilla dragón (Dragon Squat)
 description: |-
-  Comienza parado con los pies al ancho de las caderas. Cruza el pie derecho detrás de ti a la esquina izquierda y parte posterior de la sala mientras doblas ambas rodillas. Regresa y repite alternando los lados. Mantén las caderas y los hombros hacia adelante cuando cruzas los pies y doblas las rodillas.
+  Posición inicial:
+  • Comienza de pie con los pies separados a la anchura de las caderas y el abdomen firme.
+  • Mantén el pecho erguido y los hombros hacia atrás.
+
+  Ejecución:
+  • Cruza un pie por detrás de la pierna contraria en diagonal hacia atrás, flexionando ambas rodillas en una zancada cruzada profunda.
+  • Desciende la cadera manteniendo el torso erguido y las caderas mirando al frente.
+  • Empuja con fuerza sobre el talón de la pierna delantera para regresar a la posición inicial y alterna los lados.
 search_terms:
+  - Dragon squat
   - Sentadilla Dragón
 upstream:
   license: CC-BY-SA-4.0

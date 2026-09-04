@@ -5,15 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '822'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Butterfly am Kabel
-description: |-
-  Der Reverse Butterfly am Kabel, auch als Cable Rear Delt Fly bekannt, ist eine Übung zur Kräftigung und Definition des Deltamuskels. Sie ist eine der besten Isolationsübungen für deinen Rücken und den hinteren Deltamuskel. Dieses Training beansprucht deine hinteren Deltamuskeln und nutzt dabei eine Reihe von Oberkörpermuskeln.
+description: '- Stelle die Umlenkrollen an den Kabeltürmen auf etwa Augen- bis Kopfhöhe
+  ein.
 
-  Stelle das Gewicht und die Umlenkrollen auf die richtige Höhe ein. Du solltest die Rollen sehen können, denn sie sollten sich über deinem Kopf befinden.
-  Greife mit deiner rechten Hand die linke Rolle und mit deiner linken Hand die rechte Rolle, sodass sie sich vor dir kreuzen. Hier beginnt deine Reise.
-  Starte die Bewegung, indem du deine Arme vor- und zurückbewegst und dabei die Arme gestreckt hältst.
-  Halte am Ende der Bewegung einen kurzen Moment inne, bevor du die Griffe in ihre Ausgangsposition zurückführst.
+  - Greife über Kreuz das linke Kabel mit der rechten Hand und das rechte Kabel mit
+  der linken Hand, sodass sich die Seile vor dir kreuzen.
+
+  - Führe deine Arme mit leicht gebeugten, aber fixierten Ellenbogen in einem weiten
+  horizontalen Bogen nach außen und hinten.
+
+  - Halte die Kontraktion im hinteren Deltamuskel kurz am Endpunkt und führe die Hände
+  langsam wieder vor die Brust zurück.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,20 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1015'
 language: de
-status: upstream_unreviewed
-name: Halskreise im Uhrzeigersinn
+status: ai_reviewed
+name: Nackenkreisen im Uhrzeigersinn
 description: |-
   Ausgangsposition:
-  Beginnen Sie im Sitzen oder Stehen. Senken Sie den Kopf nach unten und bringen Sie das Kinn zur Brust, aber drücken Sie nicht.
-  Schritte:
-  Führen Sie die Übung in einer langsamen, fließenden Bewegung aus, wobei Ihr Kopf entspannt ist und in keine Richtung drückt:
+  Sitze oder stehe mit aufrechtem Rücken, entspannten und tiefen Schultern. Senke das Kinn sanft in Richtung Brustbein ab.
 
-  Lehnen Sie sich zu Ihrer rechten Schulter.
-  Legen Sie dann den Kopf zurück und schauen Sie nach oben.
-  dann lehnen Sie sich zur linken Schulter
-  und zurück in die Ausgangsposition.
-
-  Wiederholen Sie dies als Teil einer langsamen, fließenden Bewegung.
+  Ausführung:
+  1. Führe den Kopf in einer langsamen, kontrollierten und kreisenden Bewegung im Uhrzeigersinn: Zuerst zur rechten Schulter neigen, dann behutsam nach hinten führen, weiter zur linken Schulter und zurück zur Brust.
+  2. Bewege den Kopf gleichmäßig und ohne ruckartige Bewegungen oder Überstreckung der Halswirbelsäule.
+  3. Wiederhole die Kreisbewegung für die gewünschte Anzahl an Wiederholungen.
+search_terms:
+  - Halskreise im Uhrzeigersinn
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1912'

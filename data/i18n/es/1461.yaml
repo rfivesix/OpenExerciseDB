@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1461'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de pecho con mancuernas sin impulso de piernas
 description: |-
-  Prepárate como para un press de pecho con mancuernas normal, pero levanta las piernas estiradas o apóyalas en otro banco para eliminar el impulso de las piernas.
+  Posición inicial:
+  • Túmbate en un banco plano con un par de mancuernas a la altura del pecho.
+  • Coloca los pies sobre el propio banco o mantén las piernas elevadas en el aire para eliminar por completo el empuje con las piernas (leg drive).
+
+  Ejecución:
+  • Empuja las mancuernas hacia arriba directamente sobre el pecho utilizando exclusivamente la fuerza de los pectorales y tríceps.
+  • Desciende las mancuernas lentamente hasta la altura del pecho, sintiendo el estiramiento muscular.
+  • Mantén la espalda y el core estables sobre el banco en todo momento.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3968'
+search_terms:
+  - Press de pecho sin leg drive

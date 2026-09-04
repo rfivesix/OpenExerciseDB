@@ -1,25 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: de
-status: upstream_unreviewed
-name: Kinderpose
-description: |-
-  Ausgangsposition:
-  Beginnen Sie auf allen Vieren, wobei Knie, Zehen und Hände den Boden berühren. Ihre beiden großen Zehen sollten sich berühren.
-  Schritte:
+status: ai_reviewed
+name: Kindhaltung (Child's Pose)
+description: 'Ausgangsposition: Knie dich auf eine Matte, öffne die Knie mattenbreit
+  und lasse die großen Zehen sich berühren. Setze dein Gesäß auf den Fersen ab.
 
-  Bewegen Sie Ihre Knie so, dass sie etwa hüftbreit auseinander sind.
-  Bewegen Sie beim Ausatmen Ihr Becken nach hinten, so dass Sie auf Ihren Fersen sitzen. Ihre Hände sollten noch den Boden berühren.
-  Entspannen Sie Ihren Oberkörper, indem Sie die Stirn auf den Boden senken und die Hände ganz natürlich nach vorne bewegen.
-  Bleiben Sie in dieser Haltung.
+  Ausführung: Beuge den Oberkörper mit der Ausatmung nach vorne, lege den Bauch zwischen
+  den Oberschenkeln ab und lege die Stirn sanft auf der Matte ab. Strecke die Arme
+  weit nach vorne aus, Handflächen auf dem Boden.
 
-  Tipps:
-
-  Um die Haltung zu verlassen, führen Sie die Arme wieder unter die Schultern und bringen Sie den Oberkörper in eine sitzende Position.
+  Hinweis: Atme tief in den Bauch und Rücken ein und lasse den Rücken, die Hüfte und
+  die Schultern mit jeder Ausatmung entspannen und lang werden.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1790'
+search_terms:
+- Kinderpose
+- Child's Pose
+- Balasana

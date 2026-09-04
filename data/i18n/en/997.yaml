@@ -1,21 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '997'
 language: en
-status: upstream_unreviewed
-name: 4-count burpees
-description: |-
-  Starting position:
-  Stand straight, feet hip-width apart.
-  Steps:
+status: ai_reviewed
+name: 4-Count Burpees
+description: 'Starting Position: Stand tall with your feet shoulder-width apart and
+  arms at your sides.
 
-  Squat low and support yourself on the floor with your hands between the knees and in front of your feet, your back straight.
-  Keeping your hands on the floor, jump your legs backward into high plank position.
-  Jump your feet forward to return to the squat position.
-  Repeat.
+  Execution:
+
+  1. Drop into a squat and place your hands on the floor in front of you.
+
+  2. Kick your feet back into a high plank position.
+
+  3. Jump your feet back up to your hands into the squat position.
+
+  4. Stand straight up explosively to complete the rep (omitting the push-up and overhead
+  jump).
+
+  Cues: Keep your core tight during the plank phase to protect your lower back.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1731'
+search_terms:
+- 4-count burpees
+- Four Count Burpees

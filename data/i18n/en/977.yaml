@@ -1,21 +1,32 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '977'
 language: en
-status: upstream_unreviewed
-name: Box squat
-description: |-
-  Set up the box: Position the box behind you, about 3 feet from a squat rack if you're using a barbell. Choose a height that allows you to squat down and gently tap your glutes on the box with your back straight.
-  Stand with proper form: Stand with your feet shoulder-width apart, toes pointed slightly outward. Engage your core and keep your back neutral. If using a barbell, rack it at shoulder height.
-  Lower down: Sit back as if going to sit on a chair, bending your knees and lowering your hips towards the box. Keep your core tight and back straight throughout the movement.
-  Controlled descent: Descend in a controlled manner until your glutes gently touch the box. Don't plop down.
-  Pause and press up: Briefly pause at the bottom with your back straight and core engaged. Then, press through your heels to drive yourself back up to the starting position.
+status: ai_reviewed
+name: Box Squat
+description: 'Set up the box: Position the box behind you, about 3 feet from a squat
+  rack if you''re using a barbell. Choose a height that allows you to squat down and
+  gently tap your glutes on the box with your back straight.
 
-  Improvements in coordination, balance and endurance, toning of the leg and buttock muscles and an overall increase in bone density eliminating the risk of osteoporosis.
+  Stand with proper form: Stand with your feet shoulder-width apart, toes pointed
+  slightly outward. Engage your core and keep your back neutral. If using a barbell,
+  rack it at shoulder height.
+
+  Lower down: Sit back as if going to sit on a chair, bending your knees and lowering
+  your hips towards the box. Keep your core tight and back straight throughout the
+  movement.
+
+  Controlled descent: Descend in a controlled manner until your glutes gently touch
+  the box. Don''t plop down.
+
+  Pause and press up: Briefly pause at the bottom with your back straight and core
+  engaged. Then, press through your heels to drive yourself back up to the starting
+  position.
+
+
+  Improvements in coordination, balance and endurance, toning of the leg and buttock
+  muscles and an overall increase in bone density eliminating the risk of osteoporosis.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1288'
+search_terms:
+- Box squat

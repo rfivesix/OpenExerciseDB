@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1398'
 language: fr
-status: upstream_unreviewed
-name: Étirement de l'ischio-jambier vers la poitrine
+status: ai_reviewed
+name: Étirement actif de l'ischio-jambier assis
 description: |-
   Asseyez-vous au sol et pliez une jambe en ramenant le genou vers vous. Placez votre main derrière l'ischio-jambier et tirez doucement votre jambe vers la poitrine, en ressentant un étirement à l'arrière de la cuisse. Tendez ensuite votre jambe en la dépliant vers le plafond.
+search_terms:
+  - Étirement de l'ischio-jambier vers la poitrine
+  - Hamstring Chokes
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

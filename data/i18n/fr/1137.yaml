@@ -5,14 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1137'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pullover à la poulie haute
 description: |-
-  Tenez-vous debout face à la machine, les pieds légèrement écartés, en saisissant la barre en prise pronation, les bras tendus, les mains écartées à la largeur des épaules.
+  Position de départ :
+  • Tenez-vous debout face à la poulie haute, pieds écartés à largeur d'épaules.
+  • Saisissez la barre en pronation à largeur d'épaules, bras presque tendus avec les coudes très légèrement fléchis.
+  • Inclinez légèrement le buste vers l'avant en gardant le dos bien droit et la sangle abdominale gainée.
 
-  En gardant le dos fixe et les abdominaux contractés, inspirez et descendez la barre vers vos cuisses tout en gardant les bras tendus (ou les coudes légèrement fléchis).
-  Expirez en fin de mouvement.
+  Exécution :
+  • Abaissez la barre vers vos cuisses selon une trajectoire en arc de cercle en tirant avec le grand dorsal.
+  • Marquez une pause en bas en contractant fortement les dorsaux contre les cuisses.
+  • Remontez lentement jusqu'au niveau des yeux en contrôlant la trajectoire.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4500'
+search_terms:
+  - Pull-over à la poulie haute
+  - Tirage bras tendus à la poulie

@@ -5,17 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1202'
 language: en
-status: upstream_unreviewed
-name: Side Lying Hip Abduction
+status: ai_reviewed
+name: Side-Lying Hip Abduction
 description: |-
-  Begin by lying down on your side with your top leg straight and your bottom leg bent for support.
-  Lift your top leg off the ground
-  (optional) - Hold position at the top
+  Starting Position:
+  • Lie on your side on a fitness mat.
+  • Bend your bottom leg slightly at the knee for stability and keep your top leg completely straight and in line with your torso.
+  • Rest your head on your lower arm and place your top hand on the floor in front of you for balance.
 
-  Resources:
-
-  40 seconds YouTube video: https://www.youtube.com/watch?v=g9FtnmsIYgI
+  Execution:
+  • Raise your top leg smoothly toward the ceiling while keeping your toes pointing forward or slightly downward.
+  • Keep your hips stacked vertically and prevent your pelvis from rolling backward.
+  • Squeeze your gluteus medius at the top for a brief pause, then slowly lower your leg back down with control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wakanda90
   source_id: '2161'
+search_terms:
+  - Side Lying Hip Abduction
+  - Side lying leg raise

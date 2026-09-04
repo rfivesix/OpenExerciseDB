@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1406'
 language: en
-status: upstream_unreviewed
-name: Plank-to-Elbow Extension
+status: ai_reviewed
+name: Plank-to-Elbow Extension (Plank to Push-Up)
 description: |-
-  The Plank-to-Elbow Extension is a dynamic exercise that combines the plank with an elbow extension movement
+  Starting position:
+  Begin in a forearm plank position with your elbows directly beneath your shoulders, forearms flat on the floor, and your body forming a straight, rigid line from head to heels.
+
+  Movement:
+  Place one hand flat on the floor beneath your shoulder and press up, followed immediately by the other hand, bringing yourself into a full high plank (push-up position). Lower yourself back down onto your forearms one arm at a time. Alternate your leading arm with each repetition.
+
+  Notes:
+  Keep your core braced tightly to prevent your hips from swaying from side to side. Avoid arching your lower back.
+search_terms:
+  - Plank-to-Elbow Extension
+  - Commandos
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

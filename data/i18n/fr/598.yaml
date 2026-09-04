@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '598'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé couché prise serrée à la machine Smith
-description: |-
-  Effectuez un développé couché classique sur la machine Smith, mais placez vos mains sur la barre à environ la largeur des épaules, et gardez vos coudes près du corps.
+description: Effectuez un développé couché classique sur la machine Smith, mais placez vos mains sur la barre à environ la
+  largeur des épaules, et gardez vos coudes près du corps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

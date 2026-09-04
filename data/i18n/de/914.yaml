@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '914'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Reverse Kabelzug-Curls mit SZ-Stange
-description: Stehend vor dem Kabelturm mit einer SZ-Stange.
+description: '- Befestige eine SZ-Stange am unteren Kabelzug und stelle dich aufrecht
+  davor hin.
+
+  - Greife die SZ-Stange im Obergriff (Handflächen nach unten) an den inneren Biegungen
+  der Stange.
+
+  - Halte die Ellenbogen eng am Körper und curle die Stange nach oben, bis die Unterarme
+  fast senkrecht stehen.
+
+  - Senke das Gewicht langsam wieder in die Ausgangsposition ab und halte die Spannung
+  in Unterarmen und Bizeps.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

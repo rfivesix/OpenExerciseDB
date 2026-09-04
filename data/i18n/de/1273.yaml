@@ -1,11 +1,37 @@
-# AI review provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1273'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Überzug
-description: |-
-  Als Rücken- und Brustübung kann der Kurzhantel-Überzug sowohl deine Brustmuskulatur als auch deinen Latissimus trainieren.
+name: Kurzhantel-Überzug
+description: 'Ausgangsposition:
+
+  Lege dich rücklings auf eine Flachbank (entweder längs oder quer mit dem oberen Rücken). Platziere deine Füße stabil auf
+  dem Boden. Halte eine Kurzhantel mit beiden Händen an der Innenseite der oberen Gewichtsscheibe mit leicht angewinkelten
+  Armen senkrecht über deiner Brust.
+
+
+  Ausführung:
+
+  1. Senke die Kurzhantel bei unverändert leicht angewinkelten Ellbogen langsam in einem weiten Bogen hinter deinen Kopf ab,
+  bis du eine angenehme Dehnung in Brust und Latissimus spürst.
+
+  2. Führe die Hantel aus der Kraft der Brust- und Latissimusmuskeln auf demselben Weg kontrolliert zurück über deine Brust.
+
+  3. Halte die Kontraktion oben kurz an und wiederhole die Bewegung.
+
+
+  Hinweise:
+
+  Vermeide es, die Ellbogen während der Bewegung weiter zu beugen (keine Trizeps-Streckung). Halte die Rumpfspannung stabil,
+  um ein Überstrecken der Lendenwirbelsäule zu verhindern.'
+search_terms:
+- Überzug
+- Überzüge mit Kurzhantel
 upstream:
   license: CC-BY-SA-4.0
   license_author: 3leh

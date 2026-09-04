@@ -5,10 +5,31 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1273'
 language: en
-status: upstream_unreviewed
-name: Pullover
-description: |-
-  Doubling as a back and chest exercise, the Dumbbell Pullover can train both your pecs and lats.
+status: ai_reviewed
+name: Dumbbell Pullover
+description: 'Starting position:
+
+  Lie flat on a bench (either lengthwise or across the bench with only your upper back supported) with feet flat on the floor.
+  Grasp a dumbbell with both hands forming a diamond grip under the inner weight plate, holding it directly over your chest
+  with elbows slightly bent.
+
+
+  Execution:
+
+  1. Keeping your elbows slightly bent and fixed throughout, slowly lower the dumbbell in an arc behind your head until you
+  feel a deep stretch in your lats and chest.
+
+  2. Pull the dumbbell back over your chest along the same arc, contracting your chest and lat muscles.
+
+  3. Pause briefly at the top and repeat.
+
+
+  Tips:
+
+  Do not turn the movement into a triceps extension by bending your elbows more. Keep your hips stable and avoid excessive
+  arching in your lower back.'
+search_terms:
+- Pullover
 upstream:
   license: CC-BY-SA-4.0
   license_author: 3leh

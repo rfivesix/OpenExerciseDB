@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1115'
 language: fr
-status: upstream_unreviewed
-name: Échauffement en fentes 3D
+status: ai_reviewed
+name: Fentes 3D d'échauffement
 description: |-
-  Pour l'échauffement, utilisez des haltères légers, un dans chaque main. Effectuez des fentes dans des directions alternées : vers l'avant, sur le côté, vers l'arrière et à 45 degrés.
+  Position de départ :
+  Debout, pieds écartés de la largeur des hanches. Utilisez des haltères très légers ou simplement le poids du corps.
+
+  Étapes :
+  1. Plan sagittal : Effectuez une fente classique vers l'avant, fléchissez les genoux à 90 degrés puis repoussez sur le pied avant pour revenir au centre.
+  2. Plan frontal : Faites un pas large sur le côté en fente latérale en fléchissant la jambe d'appui, puis revenez debout.
+  3. Plan transversal : Faites un pas diagonal vers l'arrière à 45 degrés en ouvrant la hanche, descendez en fente et revenez au centre.
+  4. Répétez ce circuit tridimensionnel sur les deux jambes pour mobiliser les hanches, les quadriceps et les fessiers.
+search_terms:
+  - Échauffement en fentes 3D
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: fr
-status: upstream_unreviewed
-name: Assis dos au mur
-description: |-
-  Appuyez-vous contre le mur, en regardant vers l'avant, les pieds fermement plantés au sol, écartés de la largeur des épaules et à une distance d'environ 60&nbsp;cm du mur.
-  Glissez le long du mur, en gardant le dos appuyé contre lui, jusqu'à ce que les jambes forment un angle droit. Les genoux doivent être directement au-dessus des chevilles.La douleur au quadriceps est normale, arrêtez si vous ressentez une douleur au genou ou à la rotule
+status: ai_reviewed
+name: Chaise contre le mur
+description: '- Appuyez le dos à plat contre un mur, pieds fermement ancrés au sol
+  à largeur d''épaules et avancés d''environ 60 cm par rapport au mur.
+
+  - Glissez le long du mur jusqu''à ce que vos cuisses soient parallèles au sol (genoux
+  pliés à 90 degrés, directement au-dessus des chevilles).
+
+  - Maintenez cette position isométrique le temps imparti en respirant régulièrement,
+  le dos bien plaqué contre la paroi.'
+search_terms:
+- Assis dos au mur
 upstream:
   license: CC0-1.0
   license_author: Blablabla

@@ -1,11 +1,24 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1185'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trizepsdrücken am Kabelzug
-description: Trizepsdrücken am Kabelzug mit einer Latzugstange.
+description: |-
+  Ausgangsposition:
+  • Stelle dich aufrecht vor einen hohen Kabelzug mit gerader Stange, SZ-Stange oder Seil.
+  • Greife den Griff im Obergriff (Pronation) und positioniere deine Ellbogen eng und fixiert an den Rippen.
+  • Neige den Oberkörper minimal nach vorne und halte den Rumpf stabil.
+
+  Ausführung:
+  • Drücke den Griff durch Streckung der Unterarme kraftvoll nach unten, bis die Arme fast ganz durchgestreckt sind.
+  • Halte die Ellbogen während der gesamten Bewegung unbeweglich an den Körperseiten.
+  • Spanne den Trizeps am tiefsten Punkt für eine Sekunde intensiv an.
+  • Führe das Gewicht langsam und kontrolliert wieder bis auf Brusthöhe nach oben.
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2141'
+search_terms:
+  - Trizeps Pushdown
+  - Kabel-Trizepsdrücken

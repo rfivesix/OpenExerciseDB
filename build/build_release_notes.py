@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Erzeugt die Release Notes aus Build-, Diff- und Validierungsbericht.
 
-Uebernommen aus `train-libre` und um das erweitert, was das neue Schema
+Aus einer frueheren Pipeline uebernommen und um das erweitert, was das neue Schema
 mitbringt: Schemaversion, Sprachabdeckung, Lizenzverteilung und den offenen
 Rest von Phase 2.
 

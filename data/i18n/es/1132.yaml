@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1132'
 language: es
-status: upstream_unreviewed
-name: Extensión de glúteo en máquina
+status: ai_reviewed
+name: Extensión de glúteos en GHD
 description: |-
-  Un ejercicio de extensión de cadera en GHD es uno de los mejores ejercicios para los glúteos. Aunque el ejercicio se centra principalmente en los glúteos, también es excelente para la zona lumbar, los gemelos y los isquiotibiales.
+  Posición inicial:
+  • Colócate boca abajo en un banco GHD (Glute Ham Developer) o de hiperextensiones, asegurando los tobillos entre los rodillos.
+  • Ajusta la almohadilla de modo que la pelvis quede libre para permitir la flexión completa de la cadera.
+  • Cruza los brazos sobre el pecho o colócalos detrás de la cabeza.
+
+  Ejecución:
+  • Desciende el torso flexionando la cadera y manteniendo la espalda recta y neutra.
+  • Contrae con fuerza los glúteos y los isquiotibiales para extender la cadera y elevar el tronco hasta que quede alineado con las piernas.
+  • Aprieta los glúteos en la posición superior durante un instante y desciende lentamente.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3715'
+search_terms:
+  - Extensión de glúteo en máquina
+  - Extensión de cadera en GHD

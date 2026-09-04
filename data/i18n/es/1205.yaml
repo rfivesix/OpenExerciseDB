@@ -5,16 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1205'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de muñeca con mancuernas
 description: |-
-  Sentado en un banco, agarra la mancuerna con las palmas hacia arriba
-  y las manos a la anchura de los hombros. Apoya los antebrazos en los muslos
-  y deja que las muñecas sobresalgan por encima de las rodillas.
-  Realiza el movimiento
-  enrollando las palmas y las muñecas hacia tu cara.
-  (opcional/variable) Haz una pausa arriba.
-  Vuelve lentamente a la posición inicial.
+  Posición inicial:
+  • Siéntate en un banco sosteniendo dos mancuernas con las palmas mirando hacia arriba (agarre supino).
+  • Apoya los antebrazos sobre los muslos o sobre el borde del banco, dejando que las muñecas sobresalgan por encima de las rodillas.
+
+  Ejecución:
+  • Deja descender las mancuernas lentamente extendiendo las muñecas hacia el suelo.
+  • Flexiona las muñecas con fuerza llevando las mancuernas hacia arriba en dirección a los antebrazos.
+  • Aprieta los flexores del antebrazo en la parte superior y baja de manera suave y controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

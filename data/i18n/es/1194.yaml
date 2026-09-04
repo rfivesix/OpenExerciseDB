@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1194'
 language: es
-status: upstream_unreviewed
-name: Pallof Press
+status: ai_reviewed
+name: Press Pallof en polea
 description: |-
-  El Pallof press es un ejercicio antirrotación que entrena los músculos grandes y pequeños alrededor de la columna para resistir la rotación.
+  Posición inicial:
+  • Colócate de pie de lado a la máquina de polea con la altura ajustada al nivel del pecho.
+  • Sujeta el agarre con ambas manos y mantenlo pegado al centro del pecho.
+  • Separa los pies al ancho de los hombros con las rodillas ligeramente flexionadas y el core bien activo.
 
-  Colócate en paralelo a la máquina de poleas o al punto de anclaje de la
-  banda de resistencia y agarra el asa o la banda con ambas manos.
-  Asegúrate de que tu torso quede de frente, lleva las manos al centro del pecho y empuja lentamente hacia fuera.
-  Vuelve lentamente las manos al pecho y repite.
+  Ejecución:
+  • Empuja las manos en línea recta hacia delante hasta extender los brazos casi por completo.
+  • Resiste activamente la fuerza de rotación que ejerce el cable, manteniendo hombros y cadera mirando al frente.
+  • Mantén la posición extendida durante 1 o 2 segundos y regresa lentamente las manos al pecho.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3728'
+search_terms:
+  - Pallof Press

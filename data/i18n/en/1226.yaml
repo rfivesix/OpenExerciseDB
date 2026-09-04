@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1226'
 language: en
-status: upstream_unreviewed
-name: Dumbbell bicep curl to press
+status: ai_reviewed
+name: Dumbbell Biceps Curl to Overhead Press
 description: |-
-  Bend your elbows and lift the dumbbells to your shoulders.
-  Push the dumbbells over your head while rotating your arms to make your palms face forward. Reverse it to lower down. Repeat the exercise.
+  Starting Position:
+  • Stand tall with your feet hip-width apart, holding a dumbbell in each hand at your sides with arms extended.
+  • Keep your core braced and shoulders pulled back.
+
+  Execution:
+  • Curl the dumbbells up toward your shoulders by flexing your elbows.
+  • Smoothly transition by rotating your wrists outward and pressing the dumbbells directly overhead until your arms are fully extended.
+  • Reverse the overhead press slowly back to shoulder level, then lower the dumbbells down through the eccentric curl to the starting position.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2191'
+search_terms:
+  - Dumbbell bicep curl to press
+  - Curl to press

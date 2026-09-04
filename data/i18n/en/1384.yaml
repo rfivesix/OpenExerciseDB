@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1384'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pullover Machine
-description: Pullover machine, sitting, elbows on pads
+description: |-
+  Starting position:
+  Sit on the pullover machine and adjust the seat height so your shoulder joints align with the machine's axis of rotation. Place your elbows securely on the padded levers and lightly grasp the handles. Fasten the lap belt if available.
+
+  Movement:
+  Drive your elbows downward in a smooth, sweeping arc toward your thighs, focusing on pulling with your latissimus dorsi. Squeeze your lats firmly at the bottom of the movement, then slowly allow the pads to rise back up to achieve a deep stretch in your back.
+
+  Notes:
+  Initiate and power the movement through your elbows rather than pulling with your hands. Keep your lower back supported against the backrest.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Paul@Chemistry

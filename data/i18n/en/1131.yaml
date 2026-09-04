@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1131'
 language: en
-status: upstream_unreviewed
-name: Cable glute extension
+status: ai_reviewed
+name: Cable Glute Extension
 description: |-
-  This exercise lets you work the upper, or larger, part of the glutes. For that reason, it should never be missing from your routine of isolated exercises for training the glutes.
-  Stand in front of a cable machine and locate the low pulley. Then attach the ankle strap to work on the low pulley. As for your posture, you should stay upright at all times. Pay special attention to your back to keep it straight and avoid injury.
-  It is advisable to hold on to the machine for better balance. With the leg that is holding the weight of the cable, perform a slow stretch backward without bending the knee.
+  Starting Position:
+  • Attach an ankle strap to the low pulley of a cable machine and secure it around your working ankle.
+  • Stand facing the machine, hinge forward slightly at the hips, and hold onto the frame for stability.
+  • Keep your supporting leg slightly bent and your pelvis squared forward.
+
+  Execution:
+  • Extend your working leg straight back and up behind you by contracting your glute, keeping a very slight bend in the knee.
+  • Squeeze your glute firmly at the peak of the movement for a brief pause without hyperextending your lower back.
+  • Slowly lower your leg back to the starting position under control, maintaining tension throughout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2108'
+search_terms:
+  - Cable glute extension
+  - Cable glute kickbacks

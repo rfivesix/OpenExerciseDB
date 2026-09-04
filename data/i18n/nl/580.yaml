@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '580'
 language: nl
-status: upstream_unreviewed
-name: Links planken
+status: ai_reviewed
+name: Zijwaartse plank (Side Plank)
+search_terms:
+- Links planken
 description: |-
   Ga op je linkerzij liggen, houd je rechterelleboog recht en steek je arm uit.
   Duw je bekken omhoog door je rechterschouder op te tillen, maar houd je bovenarm op de grond - je hoofd, bekken en voeten moeten in een rechte lijn liggen.

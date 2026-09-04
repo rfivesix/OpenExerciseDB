@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1219'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tractions australiennes
 description: |-
-  Allongez-vous sous une barre fixe ou une barre de suspension, positionnée à une hauteur appropriée.
-  Placez-vous sur le dos sous la barre, en saisissant la barre avec une prise en supination (paumes tournées vers vous).
-  Ajustez votre position pour que votre corps soit aligné de manière droite des pieds à la tête. Les bras doivent être complètement étendus, les épaules stabilisées, et les jambes alignées avec le reste du corps.
-  Fléchissez les coudes et tirez votre poitrine vers la barre, en contractant les muscles du dos. Imaginez que vous essayez de rapprocher vos omoplates l'une de l'autre.
-  Maintenez la contraction au sommet du mouvement pendant un moment pour maximiser l'activation musculaire.
-  Revenez lentement à la position de départ en étendant les coudes.
+  Position de départ :
+  • Installez-vous sur le dos sous une barre basse réglée à hauteur de taille et saisissez-la en supination (paumes vers vous).
+  • Gardez le corps bien droit et gainé de la tête aux talons.
+
+  Exécution :
+  • Fléchissez les coudes et hissez votre poitrine vers la barre en resserrant les omoplates.
+  • Maintenez la contraction au sommet une seconde pour solliciter au maximum les dorsaux et les biceps.
+  • Redescendez lentement sous contrôle jusqu'à l'extension complète des bras.
 upstream:
   license: CC-BY-SA-4.0
   license_author: PaukOne
   source_id: '2187'
+search_terms:
+  - Australian pull-up
+  - Tirage horizontal au poids de corps

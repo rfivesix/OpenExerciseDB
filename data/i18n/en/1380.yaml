@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1380'
 language: en
-status: upstream_unreviewed
-name: Band pull-aparts
+status: ai_reviewed
+name: Band Pull-Aparts
 description: |-
-  Hold the band with your arms extended in front of you at shoulder height.
-  Keep your elbows slightly bent but fixed throughout the movement.
-  Pull the band apart by spreading your arms until the band touches or comes close to your chest.
-  Slowly bring your arms back to the starting position, controlling the tension on the band.
+  Starting position:
+  Stand tall with your feet hip-width apart. Hold a resistance band with both hands about shoulder-width apart straight out in front of your chest, arms extended with elbows slightly unlocked and palms facing downward or facing each other.
+
+  Movement:
+  Pull the band apart by moving your hands outward and backward horizontally, squeezing your shoulder blades firmly together until the band touches your chest. Pause briefly in peak contraction, then slowly return your arms forward to the starting position under control.
+
+  Notes:
+  Do not shrug your shoulders toward your ears or arch your lower back. Keep the movement smooth and continuous.
 upstream:
   license: CC-BY-SA-4.0
   license_author: schwolfar

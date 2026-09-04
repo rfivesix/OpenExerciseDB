@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1224'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Drag curls con mancuernas
 description: |-
-  Sujeta una mancuerna en cada mano con las palmas mirando hacia delante. Lleva los codos hacia atrás y eleva las mancuernas hasta la altura del pecho. Baja lentamente las mancuernas y repite el ejercicio.
+  Posición inicial:
+  • Ponte de pie erguido sosteniendo una mancuerna en cada mano con agarre supino (palmas hacia delante).
+  • Deja que los brazos cuelguen por delante de los muslos con el pecho elevado.
+
+  Ejecución:
+  • Desliza o arrastra las mancuernas verticalmente hacia arriba pegadas al torso llevando los codos hacia atrás.
+  • Eleva las mancuernas hasta la altura del pecho manteniendo la cercanía al cuerpo para aislar los bíceps.
+  • Contrae al máximo los bíceps arriba y desciende lentamente por el mismo recorrido.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3759'
+search_terms:
+  - Dumbbell drag curls

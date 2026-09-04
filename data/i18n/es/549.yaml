@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '549'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de tríceps sentado
-description: |-
-  Siéntese boca arriba (mejor con respaldo). Tome una mancuerna firmemente con ambas manos y sosténgala con los brazos extendidos sobre su cabeza. Con las palmas de las manos hacia arriba y sosteniendo el peso de la mancuerna, baje lentamente el peso detrás de la cabeza.
+description: Siéntese boca arriba (mejor con respaldo). Tome una mancuerna firmemente con ambas manos y sosténgala con los
+  brazos extendidos sobre su cabeza. Con las palmas de las manos hacia arriba y sosteniendo el peso de la mancuerna, baje
+  lentamente el peso detrás de la cabeza.
 upstream:
   license: CC-BY-SA-4.0
   license_author: richmr2174@gmail.com

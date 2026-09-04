@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1461'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Brustdrücken ohne Beineinsatz
 description: |-
-  Bereite dich wie für ein normales Kurzhantel-Brustdrücken vor, aber hebe die Beine gestreckt an oder lege sie auf eine andere Bank, um den Beineinsatz auszuschalten.
+  Ausgangsposition:
+  • Lege dich mit zwei Kurzhanteln auf eine Flachbank.
+  • Platziere die Beine ausgestreckt auf der Bank oder hebe die Füße mit gebeugten Knien vom Boden ab, um jeden Beineinsatz (Leg Drive) vollständig auszuschließen.
+  • Halte die Hanteln auf Brusthöhe, die Ellbogen in einem 45°-Winkel zum Oberkörper.
+
+  Ausführung:
+  • Drücke die Kurzhanteln ausschließlich aus der Kraft der Brustmuskeln und des Trizeps kontrolliert nach oben.
+  • Senke die Gewichte langsam wieder auf Brusthöhe ab, bis du eine angenehme Dehnung im großen Brustmuskel spürst.
+  • Halte die Wirbelsäule und das Becken während der gesamten Bewegung absolut stabil auf der Bank.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3967'
+search_terms:
+  - Larsen Press mit Kurzhanteln
+  - Kurzhantel-Bankdrücken ohne Beineinsatz

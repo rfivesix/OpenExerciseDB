@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1392'
 language: fr
-status: upstream_unreviewed
-name: Good morning
+status: ai_reviewed
+name: Good morning au poids du corps
 description: |-
   Tenez-vous debout, les pieds écartés au-delà de la largeur des épaules (position large), et placez vos mains sur vos hanches. Fléchissez au niveau des hanches et abaissez le haut du corps vers le sol en gardant le dos droit, puis redressez-vous.
+search_terms:
+  - Good morning
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

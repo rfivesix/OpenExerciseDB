@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1228'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de banca con agarre cerrado con mancuernas
 description: |-
-  Túmbate de espaldas sobre un banco plano. Sujeta una mancuerna en cada mano. Eleva los brazos hacia el techo con las palmas mirándose entre sí y las mancuernas juntas, presionándolas una contra otra.
-  Baja lentamente las mancuernas hacia el pecho y luego empújalas de nuevo hacia arriba lentamente. Repite el ejercicio.
+  Posición inicial:
+  • Túmbate boca arriba en un banco plano sosteniendo una mancuerna en cada mano sobre el pecho con los brazos estirados.
+  • Usa un agarre neutro (palmas enfrentadas) y presiona las dos mancuernas entre sí manteniéndolas en contacto continuo.
+
+  Ejecución:
+  • Desciende las mancuernas hacia el centro del pecho manteniendo los codos pegados a los costados.
+  • Empuja las mancuernas hacia arriba con fuerza extendiendo los tríceps.
+  • Mantén la presión entre ambas mancuernas durante toda la repetición para enfatizar el tríceps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3770'
+search_terms:
+  - Dumbbell close grip bench press
+  - Press crush grip con mancuernas

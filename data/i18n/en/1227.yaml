@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1227'
 language: en
-status: upstream_unreviewed
-name: Dumbbell rear delt row
+status: ai_reviewed
+name: Dumbbell Rear Delt Row
 description: |-
-  Hold a dumbbell in each hand. Bend at your hips to make your back almost parallel to the floor. Let your arms hang down. Keep your arms in line with your shoulders. bend and lift your elbows out to the sides until your upper arms are parallel to the floor. Slowly return and repeat
+  Starting Position:
+  • Stand with a dumbbell in each hand and hinge forward at your hips until your torso is nearly parallel to the floor, keeping your back flat.
+  • Let your arms hang straight down beneath your shoulders with an overhand (pronated) grip, palms facing back.
+
+  Execution:
+  • Row the dumbbells upward by flaring your elbows out wide to the sides at roughly a 90-degree angle to your torso.
+  • Pull until your upper arms are in line with your shoulders, squeezing your posterior deltoids and upper back.
+  • Slowly lower the dumbbells back down under control without rounding your spine.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2192'
+search_terms:
+  - Dumbbell rear delt row
+  - Bent-over rear delt row

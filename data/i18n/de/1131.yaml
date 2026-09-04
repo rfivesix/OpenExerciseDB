@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1131'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Gesäßstrecken am Kabelzug
 description: |-
-  Diese Übung ermöglicht es dir, den Bereich der oberen bzw. großen Gesäßmuskulatur zu trainieren. Deshalb darf sie in deiner Routine aus isolierten Übungen für die Gesäßmuskulatur nie fehlen.
-  Stelle dich vor eine Kabelzugmaschine und suche den unteren Haken. Befestige ihn dann an den Fußschlaufen, um am unteren Kabelzug zu arbeiten. Was die Haltung betrifft, musst du jederzeit aufrecht bleiben. Achte besonders auf deinen Rücken, um ihn gerade zu halten und dich nicht zu verletzen.
-  Es ist empfehlenswert, dich an der Maschine festzuhalten, um mehr Gleichgewicht zu haben. Führe mit dem Bein, das das Gewicht des Kabelzugs trägt, eine langsame Streckung nach hinten aus, ohne das Knie zu beugen.
+  Ausgangsposition:
+  • Befestige eine Fußschlaufe an der tiefen Rolle des Kabelzugs und lege sie um dein Fußgelenk.
+  • Stelle dich mit dem Gesicht zum Kabelturm, halte dich mit beiden Händen stabil am Rahmen fest und beuge den Oberkörper leicht nach vorne.
+  • Das Standbein ist minimal gebeugt, die Hüfte bleibt parallel zum Kabelzug.
+
+  Ausführung:
+  • Führe das Arbeitsbein mit fast gestrecktem Knie kontrolliert nach hinten oben, indem du die Gesäßmuskulatur anspannst.
+  • Halte die maximale Kontraktion am obersten Punkt für einen kurzen Moment.
+  • Führe das Bein langsam und kontrolliert gegen den Zug des Kabels wieder nach vorne, ohne das Gewicht ganz abzusetzen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3712'
+search_terms:
+  - Glute Kickbacks am Kabelzug
+  - Kabelzug-Kickbacks

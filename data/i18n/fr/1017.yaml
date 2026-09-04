@@ -5,20 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1017'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Demi-cercles du cou
 description: |-
   Position de départ :
-  Commencez assis ou debout. Inclinez la tête contre l'une de vos épaules, mais sans forcer.
+  Asseyez-vous ou tenez-vous debout le dos droit, épaules basses et relâchées. Inclinez délicatement la tête vers une épaule.
+
   Étapes :
-  Dans un même mouvement lent et fluide, la tête détendue et sans pousser dans aucune direction :
-
-  amenez la tête vers le bas, en direction de la poitrine.
-  puis inclinez-la en arrière contre votre autre épaule.
-  puis revenez à nouveau vers la poitrine.
-  et enfin vers la position de départ.
-
-  Continuez à répéter ce mouvement.
+  1. Faites rouler doucement la tête vers l'avant, le menton descendant vers la poitrine pour décrire un demi-cercle jusqu'à l'épaule opposée.
+  2. Inversez le mouvement en faisant repasser le menton devant le buste pour revenir au côté initial.
+  3. Répétez ce mouvement de balancier fluide sans jamais rejeter la tête en arrière.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

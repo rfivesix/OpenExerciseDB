@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '958'
 language: de
 status: ai_reviewed
 name: TRX-Bizepscurl
-description: |-
-  Greife die Griffe der TRX-Schlaufen, lehne deinen Körper nach hinten, Arme und Beine gestreckt, wobei dein Körper eine einzige gerade Linie bildet. (Dies ist eine Übung für die Arme, nicht für die Bauchmuskulatur.)
+description: 'Ausgangsposition: Greife die Griffe des TRX im Untergriff (Handflächen
+  zeigen nach oben) und lehne deinen Körper mit gestreckten Armen nach hinten. Die
+  Fersen stehen stabil auf dem Boden und der Körper bildet von Kopf bis Fuß eine gerade
+  Linie.
+
+  Ausführung: Halte die Ellbogen hoch auf Schulterhöhe fixiert und beuge die Arme,
+  um deine Stirn zu den Händen zu ziehen. Spanne die Bizepsmuskulatur am Endpunkt
+  fest an.
+
+  Rückkehr: Senke den Körper langsam und kontrolliert wieder ab, bis die Arme vollständig
+  gestreckt sind.
+
+  Hinweis: Lasse die Ellbogen nicht nach unten absinken und hole keinen Schwung aus
+  der Hüfte.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,14 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1117'
 language: es
-status: upstream_unreviewed
-name: Remo gironda agarre cerrado
+status: ai_reviewed
+name: Remo sentado en polea (Remo Gironda)
 description: |-
-  Siéntate en la máquina con los pies bien plantados, separados un poco más que la anchura de los hombros. Impulsa los talones y aprieta los glúteos. Sujétate al mango del cable.
-  Siéntate erguido con las rodillas ligeramente flexionadas. Contrae los abdominales y la zona lumbar para mantener un ángulo perpendicular al suelo con el torso.
-  Mueve los hombros hacia atrás y hacia abajo. Apriétalos mientras remas, pensando en sujetar un lápiz entre ellos. Al hacerlo, tira del mango hacia ti, aterrizando justo encima del ombligo.
-  Haz una pausa antes de volver a colocar el mango, apretando los omóplatos. Una vez que hayas devuelto el peso a la pila, deja que los omóplatos se relajen, sin tirar del torso hacia adelante.
-  Repite el movimiento.
+  Posición inicial:
+  Siéntate en la máquina de remo en polea baja con los pies bien apoyados en los reposapiés y las rodillas ligeramente flexionadas. Inclínate hacia adelante con la espalda recta para coger el agarre y vuelve a colocar el torso erguido a 90 grados.
+
+  Ejecución:
+  1. Tira del agarre hacia la parte inferior del abdomen conduciendo los codos pegados a los costados hacia atrás.
+  2. Junta con fuerza los omóplatos al final del tirón para contraer los dorsales y la espalda alta.
+  3. Mantén el torso estable sin balancearte hacia adelante y hacia atrás.
+  4. Extiende los brazos lentamente de forma controlada sintiendo el estiramiento de los dorsales antes de iniciar la siguiente repetición.
+search_terms:
+  - Remo gironda agarre cerrado
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

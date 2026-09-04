@@ -5,9 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '501'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ring Dips
-description: Dips peformed on gymnastic rings.
+description: |-
+  Starting Position: Support yourself on the gymnastics rings with fully extended arms. Keep your core tight, body stable, and slightly turn the rings outward (support hold).
+  Execution: Lower your body in a controlled manner by bending your elbows until your shoulders are slightly below your elbows (roughly a 90-degree bend), keeping the rings close to your sides.
+  Return: Press powerfully back up to the starting position until your arms are fully extended.
+  Cues: Actively stabilize the rings throughout the entire range of motion to prevent them from drifting outward.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

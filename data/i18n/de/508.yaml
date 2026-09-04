@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '508'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rudern
-description: |-
-  Im Krafttraining ist das Rudern (engl. "row", meist mit einem näher bestimmenden Adjektiv versehen, zum Beispiel sitzendes Rudern) eine Übung, deren Zweck es ist, die Muskeln zu stärken, die die Arme zum Körper ziehen (Latissimus), sowie jene, die die Schulterblätter zurückziehen (Trapezmuskel und Rhomboiden), und jene, die die Wirbelsäule stützen (Rückenstrecker). Wird das Rudern an einer Rudermaschine ausgeführt, trainiert es zusätzlich die Muskeln, die die Beine strecken und beugen (Quadrizeps und Beinbeuger). In allen Fällen müssen die Bauch- und unteren Rückenmuskeln eingesetzt werden, um den Körper zu stützen und Rückenverletzungen zu vermeiden.
+search_terms:
+- Langhantelrudern
+- Vorgebeugtes Rudern
+- Barbell Row
+description: Im Krafttraining ist das Rudern (engl. "row", meist mit einem näher bestimmenden Adjektiv versehen, zum Beispiel
+  sitzendes Rudern) eine Übung, deren Zweck es ist, die Muskeln zu stärken, die die Arme zum Körper ziehen (Latissimus), sowie
+  jene, die die Schulterblätter zurückziehen (Trapezmuskel und Rhomboiden), und jene, die die Wirbelsäule stützen (Rückenstrecker).
+  Wird das Rudern an einer Rudermaschine ausgeführt, trainiert es zusätzlich die Muskeln, die die Beine strecken und beugen
+  (Quadrizeps und Beinbeuger). In allen Fällen müssen die Bauch- und unteren Rückenmuskeln eingesetzt werden, um den Körper
+  zu stützen und Rückenverletzungen zu vermeiden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

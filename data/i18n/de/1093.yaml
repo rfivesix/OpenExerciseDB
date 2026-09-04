@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1093'
 language: de
-status: upstream_unreviewed
-name: Rudergerät
+status: ai_reviewed
+name: Rudergerät (Indoor-Ruderergometer)
 description: |-
-  Mit geradem Rücken gleichzeitig die Beine strecken und die Arme zum Körper hin anziehen.
+  Ausgangsposition:
+  Setze dich auf den Rollsitz des Rudergeräts und schnalle die Füße fest in die Fußrasten. Beuge die Knie und rolle nach vorne (die Auslage / 'Catch'): Der Oberkörper ist leicht nach vorne geneigt (ca. 1-Uhr-Position), die Arme sind lang nach vorne gestreckt und greifen den Griff fest.
+
+  Ausführung:
+  1. Durchzug (Drive): Drücke dich zuerst kraftvoll aus den Beinen ab. Sobald die Beine fast gestreckt sind, öffne die Hüfte nach hinten (11-Uhr-Position) und ziehe den Griff mit den Armen zum unteren Brustbein.
+  2. Endzug (Finish): Beine gestreckt, Oberkörper leicht zurückgelehnt, Griff an der unteren Brust.
+  3. Vorrollen (Recovery): Strecke zuerst die Arme nach vorne, kippe den Oberkörper wieder nach vorne und beuge erst dann die Beine, um kontrolliert nach vorne in die Auslage zu rollen.
+  4. Halte einen flüssigen Rhythmus mit kraftvollem Durchzug und kontrolliertem Vorrollen.
+search_terms:
+  - Rudergerät
 upstream:
   license: CC-BY-SA-4.0
   license_author: grilobosch

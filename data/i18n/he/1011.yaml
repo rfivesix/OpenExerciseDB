@@ -5,8 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: he
-status: upstream_unreviewed
-name: מתיחת הצוואר מלפנים
+status: ai_reviewed
+name: מתיחת צוואר קדמי
+description: |-
+  עמדת מוצא:
+  שב או עמוד בגב זקוף וכתפיים משוחררות.
+
+  ביצוע:
+  1. פתח את הפה לרווחה.
+  2. הטה באיטיות את הראש לאחור כשפיך פתוח עד לתחושת מתיחה עדינה בקדמת הצוואר.
+  3. סגור ופתח את הפה באיטיות מספר פעמים כדי להעמיק את מתיחת שרירי הצוואר הקדמיים.
+  4. החזר את הראש לאט למרכז וסגור את הפה.
+search_terms:
+  - מתיחת הצוואר מלפנים
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1903'

@@ -1,11 +1,24 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1186'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Einarmiges Kurzhantelrudern
-description: Einarmiges vorgebeugtes Rudern am Kabelzug an einer Maschine
+name: Einarmiges Kabelrudern vorgebeugt
+description: |-
+  Ausgangsposition:
+  • Befestige einen Einzelgriff an der tiefen Rolle eines Kabelzugs.
+  • Stelle dich mit leicht gebeugten Knien und nach vorne geneigtem, geradem Oberkörper vor den Kabelturm (Ausfallschritt oder paralleler Stand).
+  • Greife den Griff mit einer Hand mit gestrecktem Arm.
+
+  Ausführung:
+  • Ziehe den Griff kontrolliert in Richtung deiner Hüfte/Taille, indem du den Ellbogen nah am Oberkörper nach hinten führst.
+  • Ziehe das Schulterblatt aktiv zur Wirbelsäule und kontrahiere den Latissimus am Endpunkt spürbar.
+  • Führe den Griff langsam und kontrolliert wieder nach vorne in die Ausgangsposition zurück, bis der Rückenmuskel angenehm gedehnt wird.
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2142'
+search_terms:
+  - Einarmiges Kurzhantelrudern
+  - Einarmiges Rudern am Kabelzug
+  - One Arm Bent Row

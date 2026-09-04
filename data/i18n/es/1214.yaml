@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1214'
 language: es
-status: upstream_unreviewed
-name: Front lever agrupado
+status: ai_reviewed
+name: Front Lever en posición agrupada (Tuck)
 description: |-
-  Los músculos implicados en el front lever, los más sometidos a esfuerzo, son principalmente los extensores, como por ejemplo: el dorsal ancho, el redondo mayor, el deltoides posterior y la cabeza larga del bíceps.
+  Posición inicial:
+  • Cuélgate de una barra de dominadas con agarre prono a la anchura de los hombros.
+  • Agrupa las rodillas pegándolas firmemente al pecho (posición tuck) y activa el core.
+
+  Ejecución:
+  • Tira hacia abajo con los brazos estirados usando la fuerza de los dorsales y deltoides posteriores para elevar el torso.
+  • Coloca el tronco completamente paralelo al suelo en posición horizontal mientras mantienes las rodillas flexionadas al pecho.
+  • Mantén la postura isométrica durante el tiempo fijado (p. ej., 5 a 15 segundos).
+  • Desciende de manera controlada hasta volver a quedar suspendido.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3804'
+search_terms:
+  - Front lever agrupado
+  - Tuck front lever

@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1241'
 language: en
-status: upstream_unreviewed
-name: Exercise Band Dorsiflexion
+status: ai_reviewed
+name: Resistance Band Ankle Dorsiflexion
 description: |-
-  This exercise uses an exercise band. It targets the Soleus and Tibialis anterior.
+  Starting Position:
+  • Sit on the floor with your legs extended straight out in front of you.
+  • Secure one end of a resistance band to a sturdy anchor in front of you and loop the other end around the ball and top of your foot.
+  • Move back until there is moderate tension on the band even when your foot is relaxed.
+
+  Execution:
+  • Pull your toes and the ball of your foot backward toward your shin against the band's resistance (dorsiflexion).
+  • Squeeze your tibialis anterior muscle at peak contraction for 1 to 2 seconds.
+  • Slowly allow your foot to extend forward under control, resisting the band's pull.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2203'
+search_terms:
+  - Exercise Band Dorsiflexion
+  - Band tibialis raise
+  - Band ankle dorsiflexion

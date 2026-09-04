@@ -10,13 +10,13 @@ status: ai_reviewed
 name: Vordere Halsdehnung
 description: |-
   Ausgangsposition:
-  Sitzen oder stehen Sie mit geradem Rücken.
-  Schritte:
+  Sitze oder stehe mit aufrechtem Rücken und entspannten Schultern.
 
-  Öffnen Sie den Mund weit.
-  Neigen Sie den Kopf bei geöffnetem Mund langsam nach hinten. Wenn Sie das Gefühl haben, dass Sie Unterstützung brauchen, verschränken Sie Ihre Hände hinter dem Kopf.
-  Schließen und öffnen Sie den Mund ganz langsam.
-  Am Ende kehren Sie langsam in die Ausgangsposition zurück und schließen den Mund.
+  Ausführung:
+  1. Öffne den Mund leicht oder weit.
+  2. Neige den Kopf mit geöffnetem Mund langsam nach hinten, bis eine sanfte Dehnung an der Halsvorderseite spürbar ist. Bei Bedarf können die Hände zur Unterstützung leicht an den Hinterkopf gelegt werden.
+  3. Schließe und öffne den Mund mehrmals sehr langsam, um die Dehnung der vorderen Hals- und Zungenbeinmuskulatur sowie des Platysmas zu vertiefen.
+  4. Kehre langsam und kontrolliert in die neutrale Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1895'

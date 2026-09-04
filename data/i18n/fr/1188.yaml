@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1188'
 language: fr
-status: upstream_unreviewed
-name: Flexion latérale
+status: ai_reviewed
+name: Flexion latérale du buste avec haltère
 description: |-
-  Avec un poids dans une main, tendez ce bras vers le bas et pliez l'autre bras en posant la main sur votre tête. Déplacez maintenant la main tenant le poids en effectuant une rotation du buste de haut en bas.
+  Position de départ :
+  • Tenez-vous debout, les pieds à largeur des hanches, un haltère dans une main le long de la cuisse.
+  • Placez votre main libre derrière la tête ou sur la hanche opposée.
+  • Gardez le dos droit et la sangle abdominale engagée.
+
+  Exécution :
+  • Inclinez lentement le buste strictement sur le côté vers le bras tenant l'haltère. Ne faites aucune rotation du torse vers l'avant ou l'arrière !
+  • Utilisez la force des obliques du côté opposé pour redresser le buste jusqu'à la position verticale.
+  • Effectuez toutes les répétitions de manière fluide, puis changez de côté.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4922'
+search_terms:
+  - Flexion latérale
+  - Side bend avec haltère

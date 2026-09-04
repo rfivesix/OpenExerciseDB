@@ -1,20 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '994'
 language: de
 status: ai_reviewed
 name: Armkreisen vorwärts
-description: |-
-  Ausgangsposition:
-  Stehe aufrecht mit geradem Rücken.
-  Schritte:
+description: 'Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand. Strecke beide
+  Arme seitlich auf Schulterhöhe aus, die Handflächen zeigen nach unten.
 
-  Führe die Arme gestreckt vor deinen Körper, bewege sie nach unten, hinter den Rücken, dann über den Kopf und zurück in die Ausgangsposition.
-  Lasse die Arme wie in Schritt 1 beschrieben kreisen.
+  Ausführung: Kreise die gestreckten Arme in kontrollierten, gleichmäßigen Kreisbewegungen
+  nach vorne. Die Kreisgröße kann allmählich vergrößert werden.
+
+  Hinweis: Halte die Schultern unten und entspannt; spanne den Rumpf leicht an, um
+  Ausweichbewegungen zu vermeiden.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1686'
+search_terms:
+- Forward arm circles

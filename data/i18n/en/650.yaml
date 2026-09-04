@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '650'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Thruster
-description: |-
-  Start by doing a front squat
-  At the top position, push the bar above your head (similar to a press)
-  Lower the bar to the shoulders
+description: '- Hold a barbell in the front-rack position across the front of your
+  shoulders, standing with feet shoulder-width apart.
+
+  - Descend into a deep front squat until your thighs are at least parallel to the
+  floor.
+
+  - Drive explosively up through your heels, using the momentum from your legs to
+  push the barbell overhead in one fluid motion.
+
+  - Lower the bar under control back to your shoulders and transition smoothly into
+  the next squat repetition.'
 upstream:
   license: CC0-1.0
   license_author: BeLikeWater

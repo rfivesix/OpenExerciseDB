@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1319'
 language: es
-status: upstream_unreviewed
-name: Abdominales HD
-description: |-
-  El movimiento crunch es uno de los ejercicios más básicos diseñados para fortalecer los músculos centrales del cuerpo. El ejercicio ayuda a fortalecer los músculos centrales, mejorar la postura y aumentar la movilidad y flexibilidad muscular.
-  Mejora los músculos del six pack: Cuando se realiza el ejercicio de abdominales, los músculos rectos abdominales y oblicuos se tensan, por lo que se desarrollan los músculos abdominales superiores y los músculos del six pack.
-  Aumenta la fuerza de los músculos abdominales: La función principal de los músculos abdominales es estabilizar la sección media. Te apoya mientras levantas objetos pesados, lo que te permite girar y rotar tu cuerpo. Estas son acciones de todo el día que no notas, por lo que es importante que tus músculos abdominales puedan soportar largas horas de trabajo. El ejercicio crunch ayuda a desarrollar esta importante resistencia en los músculos abdominales. La resistencia muscular es la capacidad de estas fibras para resistir la resistencia durante mucho tiempo.
+status: ai_reviewed
+name: Abdominales (Crunch)
+description: 'El movimiento crunch es uno de los ejercicios más básicos diseñados para fortalecer los músculos centrales del
+  cuerpo. El ejercicio ayuda a fortalecer los músculos centrales, mejorar la postura y aumentar la movilidad y flexibilidad
+  muscular.
+
+  Mejora los músculos del six pack: Cuando se realiza el ejercicio de abdominales, los músculos rectos abdominales y oblicuos
+  se tensan, por lo que se desarrollan los músculos abdominales superiores y los músculos del six pack.
+
+  Aumenta la fuerza de los músculos abdominales: La función principal de los músculos abdominales es estabilizar la sección
+  media. Te apoya mientras levantas objetos pesados, lo que te permite girar y rotar tu cuerpo. Estas son acciones de todo
+  el día que no notas, por lo que es importante que tus músculos abdominales puedan soportar largas horas de trabajo. El ejercicio
+  crunch ayuda a desarrollar esta importante resistencia en los músculos abdominales. La resistencia muscular es la capacidad
+  de estas fibras para resistir la resistencia durante mucho tiempo.'
+search_terms:
+- Abdominales HD
 upstream:
   license: CC-BY-SA-4.0

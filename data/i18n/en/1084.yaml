@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1084'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Floor Press
 description: |-
-  Grab your dumbbells and lay flat on your back with your knees bent and your feet flat on the ground (use a bench if you have one). Press the weights up, locking out your elbows (A). Lower them slowly until your upper arms are resting on the floor (B) close to your body. Pause here before explosively pressing back up. Squeeze your chest hard and repeat.
+  Starting position:
+  Lie flat on your back on the floor with your knees bent and feet planted flat. Hold a dumbbell in each hand positioned over your chest, with your upper arms resting on the floor and elbows tucked at roughly 45 degrees to your torso.
+
+  Execution:
+  1. Press the dumbbells upward in a controlled, powerful motion until your arms are fully extended above your chest.
+  2. Squeeze your pectoral muscles hard at the top lockout position.
+  3. Lower the dumbbells slowly until the backs of your upper arms gently touch the floor.
+  4. Pause briefly on the floor to eliminate momentum, then press back up for the next rep.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2034'

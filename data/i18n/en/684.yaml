@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '684'
 language: en
-status: upstream_unreviewed
-name: Underhand Lat Pull Down
-description: |-
-  Grip the pull-down bar with your palms facing you and your hands closer than shoulder-width apart. Lean back slightly and keep your back straight. Pull the bar down towards your chest, pulling your shoulders back slightly at the end of the motion.
+status: ai_reviewed
+name: Underhand Lat Pulldown
+description: '- Sit at the lat pulldown station and adjust the thigh pads to secure
+  your lower body firmly.
+
+  - Grip the bar with an underhand (supinated) grip at shoulder width or slightly
+  narrower.
+
+  - Pull the bar smoothly down to your upper chest by driving your elbows down and
+  back, contracting your lats and biceps.
+
+  - Slowly extend your arms back to the top position under full control while maintaining
+  tension in your back.'
+search_terms:
+- Underhand Lat Pull Down
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

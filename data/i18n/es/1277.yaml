@@ -1,13 +1,13 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1277'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press inclinado con mancuernas
-description: |-
-  Tumbado en el banco inclinado, con los pies apoyados en el suelo, una mancuerna en cada mano, agarre en pronación. Sostén las mancuernas a cada lado a la altura del pecho. Tus antebrazos deben estar perpendiculares al suelo.
+description: Tumbado en el banco inclinado, con los pies apoyados en el suelo, una mancuerna en cada mano, agarre en pronación.
+  Sostén las mancuernas a cada lado a la altura del pecho. Tus antebrazos deben estar perpendiculares al suelo.
 upstream:
   license: CC-BY-SA-4.0

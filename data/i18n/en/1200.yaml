@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1200'
 language: en
-status: upstream_unreviewed
-name: Tibialis raises
+status: ai_reviewed
+name: Tibialis Raises
 description: |-
-  Stand up straight
-  Lift the balls of your feet, resting on your heels.
+  Starting Position:
+  • Stand with your back leaning flat against a wall.
+  • Place your feet about one to two feet out in front of you with your legs straight and heels planted firmly on the floor.
+
+  Execution:
+  • Flex your ankles to lift your toes and the balls of your feet as high as possible toward your shins (dorsiflexion).
+  • Squeeze and hold the peak contraction in your tibialis anterior muscles for 1 to 2 seconds.
+  • Lower your feet back down slowly under control until they gently touch the floor before the next rep.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2159'
+search_terms:
+  - Tibialis raise
+  - Wall tibialis raise

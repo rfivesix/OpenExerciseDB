@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1302'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: JM Press
-description: |-
-  Le JM press maintient vos épaules immobiles et repose sur la flexion et l'extension du coude pour déplacer la charge grâce à la force de vos triceps. Cela signifie que vous profitez de tous les avantages des meilleurs exercices de renforcement des triceps sans surmener cette articulation fragile qu'est l'épaule. Un grand classique, gagnant sur tous les plans !
+description: Le JM press maintient vos épaules immobiles et repose sur la flexion et l'extension du coude pour déplacer la
+  charge grâce à la force de vos triceps. Cela signifie que vous profitez de tous les avantages des meilleurs exercices de
+  renforcement des triceps sans surmener cette articulation fragile qu'est l'épaule. Un grand classique, gagnant sur tous
+  les plans !
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

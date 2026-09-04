@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1455'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Handtuch-Superman
 description: |-
-  Bei dieser Übung liegst du flach auf dem Bauch, hältst ein
-  Handtuch mit vor dir ausgestreckten Armen und ziehst es auseinander, um
-  Spannung zu erzeugen. Dann bewegst du es nach vorne und zurück unter deinen Bauch.
-  Diese Übung trainiert die Rücken- und Schultermuskulatur sowie die
-  Rumpfstabilität.
+  Ausgangsposition:
+  • Lege dich flach auf den Bauch auf eine Matte.
+  • Halte ein Handtuch mit beiden Händen auf Zug vor dem Kopf schulterbreit mit ausgestreckten Armen.
+
+  Ausführung:
+  • Hebe Brust, Arme und Beine gleichzeitig leicht vom Boden ab, indem du Rückenstrecker und Gesäß anspannst.
+  • Ziehe das auf Spannung gehaltene Handtuch kontrolliert zur oberen Brust heran, während du die Ellbogen nach hinten-unten ziehst.
+  • Strecke die Arme wieder nach vorne aus, ohne den Oberkörper ganz abzulegen.
+  • Wiederhole die Bewegung flüssig und kontrolliert.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

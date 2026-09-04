@@ -5,15 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1348'
 language: en
-status: upstream_unreviewed
-name: Lower Back Extensions
+status: ai_reviewed
+name: Back Extension
 description: |-
-  Engage the muscles
-  Lift your bottom slightly
-  Controlled movement
-  Slow movement
-  Don't use momentum
-  Keep your upper body straight
+  Starting position:
+  Position yourself face down on the Roman chair / hyperextension bench with your thighs resting on the pads and hips free to hinge. Lock your heels securely under the foot pads. Cross your arms over your chest or place your hands lightly by your ears.
+
+  Movement:
+  Slowly hinge at the hips to lower your torso toward the floor, keeping your spine neutral. Lift your upper body by contracting your erector spinae, glutes, and hamstrings until your body forms a straight line from heels to head.
+
+  Notes:
+  Avoid hyperextending your lower back at the top of the movement. Maintain a controlled tempo without using momentum.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

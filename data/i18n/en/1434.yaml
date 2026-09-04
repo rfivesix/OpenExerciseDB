@@ -5,11 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1434'
 language: en
-status: upstream_unreviewed
-name: Lat Pull DB
+status: ai_reviewed
+name: Dumbbell Bent-Over Lat Pull
 description: |-
-  Bend upper body forward
-  Move dumbbells near your body with slightly bent arms towards your back
+  Starting position:
+  Stand with feet hip-width apart and knees slightly bent. Hinge forward at your hips to about a 45-degree angle while maintaining a flat, neutral spine. Hold a dumbbell in each hand with arms extended downward and elbows slightly unlocked.
+
+  Movement:
+  Pull the dumbbells back in a sweeping arc toward your hips, keeping your arms relatively straight with only a slight bend at the elbows. Squeeze your lats firmly at the top of the contraction, then lower the dumbbells back down under control.
+
+  Notes:
+  Avoid turning this into a standard row; keep the elbow bend fixed to emphasize the lats, teres major, and rear deltoids.
+search_terms:
+  - Lat Pull DB
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

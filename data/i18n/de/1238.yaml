@@ -5,20 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1238'
 language: de
-status: upstream_unreviewed
-name: Froschstand
+status: ai_reviewed
+name: Froschstand (Frog Stand)
 description: |-
   Ausgangsposition:
-  Stelle dich mit schulterbreit aufgestellten Füßen hin, die Zehen zeigen nach vorne, und richte dich bei Bedarf zur Unterstützung zu einer Wand oder Bank aus.
-  Beuge deine Knie in eine Hockposition.
-  Setze deine Hände schulterbreit vor dir auf den Boden, mit weit gespreizten Fingern.
-  Achte darauf, dass deine Ellbogen unter deinen Schultern sind und dein Körper eine gerade Linie vom Kopf bis zu den Fersen bildet.
-  Aufwärtsphase:
-  Drücke dich mit Füßen und Händen ab, um deinen Körper vom Boden zu heben.
-  Strecke deine Beine und Arme und halte deinen Körper dabei in einer Linie.
-  Spanne deine Rumpf- und Gesäßmuskulatur an, um die Position zu halten.
-  Lege bei Bedarf deine Knie zur Unterstützung an die Wand oder Bank.
+  • Gehe in eine tiefe Hocke und setze deine Hände schulterbreit mit weit gespreizten Fingern fest vor dir auf den Boden.
+  • Drehe die Ellbogen leicht nach außen und platziere deine Knie an die Außenseite deiner Ellbogen bzw. auf die Rückseite deiner Oberarme (Trizeps).
+
+  Ausführung:
+  • Verlagere dein Körpergewicht langsam und kontrolliert nach vorne auf die Hände.
+  • Hebe die Füße nacheinander vom Boden ab, bis du frei auf den Händen balancierst.
+  • Halte die Arme leicht gebeugt, die Bauchmuskeln fest angespannt und den Blick leicht nach vorne auf den Boden gerichtet.
+  • Halte diese isometrische Balanceposition für die gewünschte Dauer (z. B. 10 bis 30 Sekunden) und setze die Füße sanft wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3787'
+search_terms:
+  - Frog stand
+  - Frosch-Haltung
+  - Krähen-Vorübung

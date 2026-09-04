@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '910'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Nordic Curl
-description: |-
-  Der Nordic Hamstring Curl ist eine der besten Übungen für den Unterkörper, um die Kraft der Beinrückseite aufzubauen, die Kniegesundheit zu verbessern und Verletzungen vorzubeugen.
+description: '- Knie dich auf eine gepolsterte Matte und fixiere deine Fersen unter
+  einer stabilen Hantelstange oder lasse sie von einem Partner fest am Boden halten.
+
+  - Richte den Oberkörper auf und spanne Gesäß und Rumpf an, sodass Oberschenkel und
+  Oberkörper eine feste, gerade Linie bilden.
+
+  - Lasse deinen Körper so langsam und kontrolliert wie möglich nach vorne absinken
+  und bremse die Bewegung ausschließlich mit der Oberschenkelrückseite (Hamstrings).
+
+  - Fange dich am tiefsten Punkt sanft mit den Händen ab und stoße dich leicht vom
+  Boden ab, um mit Unterstützung der Beinbeuger wieder in die Ausgangsposition zurückzukehren.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

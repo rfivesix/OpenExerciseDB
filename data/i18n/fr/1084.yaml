@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1084'
 language: fr
-status: upstream_unreviewed
-name: Développé au sol avec haltères
+status: ai_reviewed
+name: Développé au sol avec haltères (Floor Press)
 description: |-
-  Prenez vos haltères et allongez-vous à plat sur le dos, les genoux fléchis et les pieds bien à plat au sol (utilisez un banc si vous en avez un). Poussez les poids vers le haut en verrouillant les coudes (A). Abaissez-les lentement jusqu'à ce que le haut de vos bras repose au sol (B), près du corps. Marquez une pause ici avant de pousser à nouveau vers le haut de manière explosive. Contractez fortement les pectoraux et répétez.
+  Position de départ :
+  Allongez-vous sur le dos au sol, genoux pliés et pieds à plat sur le sol. Tenez un haltère dans chaque main au niveau de la poitrine, l'arrière des bras posé au sol avec les coudes à environ 45 degrés du buste.
+
+  Étapes :
+  1. Développez les haltères vers le haut de façon explosive et contrôlée jusqu'à extension quasi-complète des bras.
+  2. Contractez vigoureusement les pectoraux au sommet du mouvement.
+  3. Redescendez lentement les haltères jusqu'à ce que les bras effleurent le sol.
+  4. Marquez une courte pause au sol pour éliminer l'élan avant de repousser vers le haut.
+search_terms:
+  - Développé au sol avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

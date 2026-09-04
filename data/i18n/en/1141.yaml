@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1141'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arabesque
 description: |-
-  Take all your weight onto one&nbsp;leg&nbsp;and you're going to&nbsp;maintain that position, keeping your hips and pelvis level the whole time. With&nbsp;your back in a neutral position you want to tilt yourself forward kicking your leg back up and then slowly with your glutes bring yourself back up to neutral.
+  Starting Position:
+  • Stand upright and shift your entire body weight onto one supporting leg.
+  • Keep a soft bend in the knee of your standing leg, with your hips and pelvis completely level and square to the front.
+  • Keep your spine in a neutral position and brace your core.
+
+  Execution:
+  • Hinge forward at the hips while extending your non-supporting leg straight back and up behind you.
+  • Lower your torso and elevate your rear leg until they form a horizontal line parallel to the ground.
+  • Squeeze the glute and hamstring of your standing leg to slowly bring yourself back up to the starting position.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen

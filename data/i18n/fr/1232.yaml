@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1232'
 language: fr
-status: upstream_unreviewed
-name: Étirement des biceps debout à gauche
+status: ai_reviewed
+name: Étirement du biceps debout au mur (gauche)
 description: |-
-  Tenez-vous debout avec votre bras gauche près d'un mur. Tendez votre bras gauche et placez votre main gauche sur le mur, puis tournez doucement votre corps vers la droite.
+  Position de départ :
+  • Tenez-vous debout avec le flanc gauche près d'un mur.
+  • Tendez le bras gauche vers l'arrière et posez la paume de la main gauche à plat contre le mur à hauteur d'épaule.
+
+  Exécution :
+  • Tournez doucement le torse et les pieds vers la droite en vous détournant du mur.
+  • Maintenez la position dès que vous ressentez un bon étirement dans le biceps gauche et l'avant de l'épaule.
+  • Gardez la posture pendant 20 à 30 secondes en respirant profondément.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4532'
+search_terms:
+  - Étirement des biceps debout à gauche

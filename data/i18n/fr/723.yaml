@@ -5,20 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '723'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical en prise large
-description: |-
-  Position de départ :
+description: '- Asseyez-vous au poste de tirage vertical avec les cuisses bien calées
+  sous les boudins de protection.
 
-  Les bras tendus au-dessus de la tête, en ressentant un étirement dans le grand dorsal.
-  Gardez les épaules basses (ne haussez pas les épaules vers le haut).
+  - Saisissez la barre longue avec une prise pronation bien plus large que la largeur
+  des épaules.
 
+  - Tirez la barre vers le haut de la poitrine en ramenant les coudes vers le bas
+  et l''arrière, tout en maintenant le torse bombé.
 
-
-  Phase de tirage (concentrique) :
-
-  Tirez la barre vers le haut de la poitrine ou la zone des clavicules en poussant les coudes vers le bas et l'arrière.
-  Gardez la poitrine relevée et rapprochez vos omoplates en bas du mouvement.
+  - Resserrez bien les omoplates en fin de mouvement, puis contrôlez la remontée de
+  la barre jusqu''à l''extension complète des bras.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

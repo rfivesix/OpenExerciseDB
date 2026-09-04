@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1245'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Front lever
-description: |-
-  Il front lever è una figura dove il corpo viene mantenuto in posizione orizzontale parallela al pavimento.
+description: 'Posizione di partenza:
+
+  Appenditi a una sbarra per trazioni con impugnatura prona alla larghezza delle spalle.
+
+
+  Esecuzione:
+
+  1. Attiva fortemente i dorsali e contrai l''addome e i glutei.
+
+  2. Solleva l''intero corpo a braccia tese fino a portarlo in posizione perfettamente orizzontale, parallela al pavimento.
+
+  3. Mantieni la posizione isometrica per il tempo stabilito senza far cedere il bacino.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

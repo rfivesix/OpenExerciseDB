@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1450'
 language: es
-status: upstream_unreviewed
-name: Postura de la Cobra (en Yoga)
+status: ai_reviewed
+name: Postura de la cobra (Cobra Stretch)
 description: |-
-  El estiramiento de Cobra es un ejercicio de extensión de espalda que ayuda a mejorar la flexibilidad de la columna y aliviar la tensión en la zona lumbar. Para realizarlo, acuéstate boca abajo con las manos apoyadas debajo de los hombros. Presiona las palmas contra el suelo y levanta el pecho mientras mantienes las caderas en el suelo. Mantén los codos ligeramente flexionados y los hombros relajados. Sostén la posición por unos segundos y luego baja lentamente. Este ejercicio es ideal para mejorar la postura y reducir la rigidez en la parte baja de la espalda.
+  Posición inicial:
+  • Túmbate boca abajo sobre una esterilla con las piernas extendidas hacia atrás y los empeines apoyados en el suelo.
+  • Coloca las palmas de las manos en el suelo a los lados del pecho, debajo de los hombros, con los codos pegados al cuerpo.
+
+  Ejecución:
+  • Presiona con las manos contra el suelo para elevar lentamente el pecho y la cabeza, manteniendo la pelvis en contacto con el suelo.
+  • Aleja los hombros de las orejas abriendo el pecho y alargando la columna.
+  • Mantén la postura durante 15 a 30 segundos respirando de manera fluida y relajada.
+  • Desciende el torso lentamente hacia el suelo con control.
 upstream:
   license: CC-BY-SA-4.0
-  license_author: hpmbala@gmail.com
+  license_author: "hpmbala@gmail.com"
   source_id: '2416'
+search_terms:
+  - Postura de la Cobra (en Yoga)
+  - Postura de la cobra

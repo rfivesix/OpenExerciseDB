@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '908'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zone 2 Running
-description: Zone two Cardio for endurance, you should be able to speak while running
+description: '- Run at a steady, conversational pace corresponding to Zone 2 cardio
+  (typically 60-70% of maximum heart rate).
+
+  - Maintain an intensity where you can comfortably speak in full sentences or breathe
+  primarily through your nose (the talk test).
+
+  - Keep your heart rate consistent throughout the duration of the run to develop
+  your aerobic base and metabolic efficiency.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

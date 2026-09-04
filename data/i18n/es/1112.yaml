@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1112'
 language: es
-status: upstream_unreviewed
-name: Flexiones | declinadas (decline)
+status: ai_reviewed
+name: Flexiones declinadas con pies elevados
 description: |-
-  Las flexiones declinadas son otra versión modificada de la flexión tradicional que trabaja los músculos del tren superior de una forma diferente. Para realizar una flexión declinada, eleva los pies sobre una superficie elevada, como un banco, una silla o un escalón, mientras colocas las manos en el suelo en posición de flexión. Baja el cuerpo hacia el suelo manteniendo una línea recta desde los hombros hasta los tobillos y luego empuja de nuevo hasta la posición inicial.
-  A diferencia de la flexión inclinada, la flexión declinada pone más énfasis en los hombros y los tríceps, sin dejar de implicar los músculos del pecho en menor medida. Al elevar los pies aumentas la dificultad del ejercicio, ya que cargas más peso sobre el tren superior y obligas a los hombros y los tríceps a trabajar más para volver a empujar el cuerpo hacia arriba. La flexión declinada puede ser una excelente manera de desafiar la fuerza de tu tren superior y mejorar tu capacidad para realizar otras variantes de flexiones. Como con cualquier ejercicio, asegúrate de usar una técnica correcta y empieza con una altura adecuada a tu fuerza y nivel de forma física.
+  Posición inicial:
+  Coloca los pies sobre un banco o cajón resistente y apoya las manos en el suelo a la anchura de los hombros. El cuerpo debe formar una línea recta diagonal desde los talones hasta la cabeza.
+
+  Ejecución:
+  1. Flexiona los codos y baja el pecho de forma controlada hacia el suelo.
+  2. Mantén el abdomen contraído para que las caderas no se hundan ni se eleven en exceso.
+  3. Desciende hasta que el pecho o la nariz casi toquen el suelo.
+  4. Empuja fuertemente contra el suelo extendiendo los brazos hasta la posición de inicio.
+  5. Este ejercicio enfatiza la porción clavicular superior del pectoral mayor y los deltoides anteriores.
+search_terms:
+  - Flexiones | declinadas (decline)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

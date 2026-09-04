@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: en
-status: upstream_unreviewed
-name: Side plank right
+status: ai_reviewed
+name: Side Plank Right
 description: |-
   Starting position:
-  Lie down on your side, with your bottom elbow at a right angle, arm sticking out. Lift your pelvis off the floor by lifting your bottom shoulder up, keeping the forearm on the floor; your head, pelvis, and feet should be in a straight line.
-  Steps:
+  Lie on your right side with your legs extended and feet stacked or staggered. Place your right elbow directly beneath your right shoulder with your forearm resting flat on the floor.
 
-  Hold this position.
+  Execution:
+  1. Contract your core, obliques, and glutes, then lift your hips off the floor until your body forms a straight line from head to heels.
+  2. Keep your neck neutral and your top hand resting on your hip or extended toward the ceiling.
+  3. Hold this static position for the target duration while breathing steadily without letting your hips sag.
+search_terms:
+  - Side plank right
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1923'

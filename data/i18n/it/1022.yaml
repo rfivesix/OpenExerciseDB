@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1022'
 language: it
-status: upstream_unreviewed
-name: Kettlebell swing a una mano
+status: ai_reviewed
+name: Rematore a un braccio in plank (Renegade Row)
 description: |-
-  Come un normale swing con kettelbell, solo con un braccio. Gambe divaricate alla larghezza delle spalle, inizia con il kettelbell tra le gambe e fallo oscillare davanti a te mentre allunghi le gambe, quindi riportalo indietro tra le gambe.
+  Posizione di partenza:
+  Assumi una posizione di plank alto a braccia distese con le mani in appoggio su manubri a terra (o una mano a terra e l'altra che impugna un manubrio). Posiziona i piedi a larghezza spalle o leggermente più larghi per garantire stabilità.
+
+  Esecuzione:
+  1. Contrai intensamente addominali e glutei per mantenere il bacino parallelo al pavimento ed evitare rotazioni del tronco.
+  2. Esegui una tirata di rematore sollevando il manubrio verso il fianco, conducendo il gomito vicino al corpo.
+  3. Trattieni la contrazione del gran dorsale per un istante in cima.
+  4. Abbassa il manubrio al pavimento con pieno controllo e ripeti prima di passare all'altro braccio.
+search_terms:
+  - Kettlebell swing a una mano
+  - Plank to row
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1970'

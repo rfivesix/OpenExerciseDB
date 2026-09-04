@@ -30,12 +30,12 @@ REJECTION_REASON_KEYS = (
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate train_libre_training.db from wger and optionally emit a build report."
+        description="Generate openexercisedb.db from wger and optionally emit a build report."
     )
     parser.add_argument(
         "--db-out",
-        default="train_libre_training.db",
-        help="Output SQLite DB path (default: train_libre_training.db)",
+        default="openexercisedb.db",
+        help="Output SQLite DB path (default: openexercisedb.db)",
     )
     parser.add_argument(
         "--report-json-out",
@@ -104,7 +104,7 @@ def add_rejection(
 
 
 def process_and_create_db(
-    db_out: str = "train_libre_training.db",
+    db_out: str = "openexercisedb.db",
     report_json_out: Optional[str] = None,
     report_max_examples: int = 25,
 ) -> int:

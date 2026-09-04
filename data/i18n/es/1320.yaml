@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1320'
 language: es
-status: upstream_unreviewed
-name: Inmersiones De Banco En El Piso HD
-description: |-
-  Los fondos de tríceps en el suelo son un ejercicio compuesto, ya que trabajan varios grupos musculares simultáneamente. Aunque este ejercicio de peso corporal se enfoca principalmente en los tríceps, también golpea el pecho y la parte delantera del hombro.
-  Los fondos de tríceps en el suelo son uno de los ejercicios más efectivos para aumentar la fuerza de los brazos y también desarrollar músculo magro en la parte superior de los brazos.
-  Los fondos de tríceps en el suelo son un ejercicio de cadena cinética cerrada y expresan que haces los movimientos alrededor de un punto fijo. Aumenta la fuerza de compresión en las articulaciones, mejorando así la estabilidad.
+status: ai_reviewed
+name: Fondos de tríceps en el suelo
+description: 'Los fondos de tríceps en el suelo son un ejercicio compuesto, ya que trabajan varios grupos musculares simultáneamente.
+  Aunque este ejercicio de peso corporal se enfoca principalmente en los tríceps, también golpea el pecho y la parte delantera
+  del hombro.
+
+  Los fondos de tríceps en el suelo son uno de los ejercicios más efectivos para aumentar la fuerza de los brazos y también
+  desarrollar músculo magro en la parte superior de los brazos.
+
+  Los fondos de tríceps en el suelo son un ejercicio de cadena cinética cerrada y expresan que haces los movimientos alrededor
+  de un punto fijo. Aumenta la fuerza de compresión en las articulaciones, mejorando así la estabilidad.'
+search_terms:
+- Inmersiones De Banco En El Piso HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso

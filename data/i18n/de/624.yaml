@@ -1,10 +1,13 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '624'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Fahrradergometer
-description: Fahre auf einem Fahrradergometer mit verschiedenen Widerständen.
+description: |-
+  Ausgangsposition: Stelle die Sattelhöhe des Fahrradergometers so ein, dass das Knie am tiefsten Punkt des Pedals noch minimal gebeugt ist. Setze dich auf den Sattel und fixiere die Füße in den Pedalschlaufen.
+  Ausführung: Tritt mit gleichmäßiger Trittfrequenz in die Pedale und wähle den Widerstand passend zu deinem Trainingsziel.
+  Hinweis: Halte den Oberkörper aufrecht oder leicht nach vorne geneigt und vermeide es, das Gewicht zu stark auf den Lenker zu verlagern.
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman

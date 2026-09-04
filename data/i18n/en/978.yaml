@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '978'
 language: en
-status: upstream_unreviewed
-name: Knee Raises
-description: |-
-  The 90° leg raise on the bar is a very intense exercise that involves all the abdominal muscles.
+status: ai_reviewed
+name: Hanging Knee Raise
+description: 'Starting Position: Hang from a pull-up bar with an overhand grip, arms
+  fully extended and shoulders packed. Keep your legs together and body still.
+
+  Execution: Engage your abs and curl your knees up toward your chest, flexing your
+  spine and tucking your pelvis upward to maximize abdominal contraction.
+
+  Return: Lower your legs back down under control to the starting position without
+  swinging.
+
+  Cues: Avoid swinging your legs or using momentum. Focus on posteriorly tilting your
+  pelvis at the top.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1291'
+search_terms:
+- Knee Raises
+- Hanging Knee Raises
+- Knee Raise

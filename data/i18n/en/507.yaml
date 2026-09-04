@@ -5,11 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '507'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Romanian Deadlift
-description: DL from top to pos 2:&nbsp;https://www.youtube.com/watch?v=WtWtjViRsKo
 search_terms:
-  - RDL
+- RDL
+- Stiff Leg Deadlift
+description: |-
+  Starting Position: Stand tall with feet hip-width apart, holding a barbell with a shoulder-width overhand grip in front of your thighs. Keep your shoulders back and down with a tight core.
+  Execution: Push your hips backward and hinge forward at the hips, maintaining a flat back and a slight, fixed bend in your knees. Lower the barbell close along your thighs and shins until you feel a deep stretch in your hamstrings.
+  Return: Drive your hips forward to return to the fully upright position, contracting your glutes and hamstrings powerfully at the top.
+  Cues: Keep the bar close to your body at all times and avoid rounding your spine. The movement is a pure hip hinge, not a squat.
 upstream:
   license: CC-BY-SA-4.0
   license_author: pjwirth

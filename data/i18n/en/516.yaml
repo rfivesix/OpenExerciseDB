@@ -6,11 +6,17 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '516'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Front Wood Chop
+search_terms:
+- Standing Back Extension
+- Front Wood Chop Extension
+description: |-
+  Starting Position: Stand upright with your feet hip-width apart. Extend your arms straight overhead (optionally holding a towel or light ball with light tension).
+  Execution: Extend your spine and shoulders upward and slightly back while simultaneously lifting one leg backward, contracting your erector spinae and gluteus maximus.
+  Return: Lower your leg under control back to the floor and alternate legs with each repetition.
+  Cues: Focus on spinal extension and balance, maintaining core stability throughout without overarching the lumbar spine.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1063'
-description: |-
-  Stand upright and extend your arms overhead while alternating which leg is raised. Keep the movement controlled.

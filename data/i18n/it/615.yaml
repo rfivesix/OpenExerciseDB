@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: it
-status: upstream_unreviewed
-name: Squat (Stacchi)
+status: ai_reviewed
+name: Squat con bilanciere
+search_terms:
+- Squat (Stacchi)
+- Accosciata con bilanciere
+- Back Squat
 description: |-
-  Stai con i piedi alla larghezza delle spalle
-  Sposta i fianchi indietro e piega le ginocchia e i fianchi per abbassare il busto
-  Ripeti
+  Posizione di partenza: Posiziona il bilanciere sul rack appena sotto l'altezza delle spalle. Infilati sotto la sbarra appoggiandola sulla parte superiore dei trapezi e afferrala con presa salda. Fai uno o due passi indietro e posiziona i piedi alla larghezza delle spalle con le punte leggermente ruotate all'esterno.
+  Esecuzione: Inspira, compatta l'addome e fletti contemporaneamente anche e ginocchia spingendo il bacino all'indietro e verso il basso finché le anche non scendono al di sotto del parallelo rispetto alle ginocchia.
+  Ritorno: Spingi con forza attraverso l'intero piede ed estendi le gambe per tornare alla posizione eretta espirando.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

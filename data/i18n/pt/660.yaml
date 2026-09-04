@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '660'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensões de tríceps no cabo com barra
-description: |-
-  Agarre a barra, fique em pé com os pés afastados dos ombros, mantenha as costas retas e incline-se um pouco para a frente. Empurre a barra para baixo, certificando-se de que os cotovelos não se movam durante o exercício. Sem pausa, volte à posição inicial.
+description: '- Segure a barra reta na polia alta com pegada pronada, pés afastados
+  na largura dos ombros e tronco levemente inclinado para a frente.
+
+  - Mantendo os cotovelos fixos junto ao corpo, empurre a barra para baixo até a extensão
+  total dos braços.
+
+  - Retorne de forma lenta e controlada à posição inicial, sem movimentar os cotovelos.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

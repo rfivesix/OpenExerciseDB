@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1399'
 language: de
-status: upstream_unreviewed
-name: Roll Down
+status: ai_reviewed
+name: Roll Down (Wirbelsäulenabrollen)
 description: |-
   Stelle dich mit den Füßen hüftbreit auseinander hin und rolle deinen Oberkörper langsam Wirbel für Wirbel nach vorne ab, bis deine Hände den Boden berühren oder so weit, wie es dir angenehm möglich ist. Rolle dich auf dieselbe kontrollierte Weise wieder in die Startposition hoch.
+search_terms:
+  - Roll Down
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

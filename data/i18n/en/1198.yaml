@@ -9,10 +9,19 @@ language: en
 status: ai_reviewed
 name: Inverted Row
 description: |-
-  Maintain a straight body, retract your shoulder blades, and pull your
-  chest to the bar for an effective back and upper body workout.
+  Starting Position:
+  • Set a barbell in a rack at waist height (or use a Smith machine or suspension trainer).
+  • Lie supine underneath the bar and grasp it with an overhand grip slightly wider than shoulder-width.
+  • Extend your legs with your heels on the ground, forming a straight rigid line from head to heels.
+
+  Execution:
+  • Pull your chest up to the bar by driving your elbows back and retracting your shoulder blades.
+  • Keep your glutes and core fully braced so your hips do not sag.
+  • Lower yourself slowly and under control until your arms are fully extended before beginning the next rep.
 search_terms:
   - horizontal pull-ups
+  - bodyweight row
+  - Australian pull-up
 upstream:
   license: CC-BY-SA-4.0
   license_author: Gavru

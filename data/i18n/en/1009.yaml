@@ -1,21 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1009'
 language: en
-status: upstream_unreviewed
-name: Right neck stretch
-description: |-
-  Starting position:
-  Sit or stand with your back straight.
-  Steps:
+status: ai_reviewed
+name: Neck Stretch (Right)
+description: 'Starting Position: Sit or stand upright with shoulders relaxed and down.
 
-  Tilt your head to the side.
-  Take the hand closer to your head and use it to grab your head from the other side.
-  Push with your hand against your head and with your head against your hand so that the forces balance out and your head stays still.
-  Maintain this tension until the end of the exercise.
+  Execution: Gently tilt your head to the left, bringing your left ear toward your
+  left shoulder to stretch the right side of your neck and upper trapezius. Optionally
+  place your left hand lightly over your head to deepen the stretch with minimal pressure.
+
+  Return: Hold for 15–30 seconds while breathing smoothly, then slowly return your
+  head to the neutral center.
+
+  Cues: Keep your right shoulder depressed; do not shrug either shoulder upward.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1872'
+search_terms:
+- Right neck stretch
+- Lateral Neck Stretch Right

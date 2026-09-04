@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: cs
-status: upstream_unreviewed
-name: Výpony na levé noze
-description: |-
-  Postavte se na podlahu nebo na okraj kroku, abyste zvýšili rozsah pohybu. Zvedněte jednu nohu a položte horní část na lýtko.
-  Zvedněte paty, dokud nestojíte na prstech.
-  Zůstaňte v této poloze po dobu tří sekund, pak spusťte nohu, aniž byste se dotýkali země patou.
+status: ai_reviewed
+name: Výpony na jedné noze
+description: '- Postavte se bříškem jednoho chodidla na okraj schodu nebo stupínku,
+  druhou nohu držte ve vzduchu.
+
+  - Lehce se přidržujte zdi nebo zábradlí kvůli rovnováze.
+
+  - Spusťte patu co nejníže pro plné protažení lýtkového svalu.
+
+  - Výbušně se zvedněte na špičku do maximální kontrakce.
+
+  - Nahoře na chvíli podržte, pomalu spusťte zpět a po sérii vystřídejte nohy.'
+search_terms:
+- Výpony na levé noze
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1125'
 language: en
-status: upstream_unreviewed
-name: Wide-grip supinated lat pulldown
+status: ai_reviewed
+name: Wide-Grip Supinated Lat Pulldown
 description: |-
-  Downward movement
-  •  Pull the bar down so that it passes close to your chin and touches the upper part of your chest.
-  •  Keep the rest of your body still.
+  Starting position:
+  Sit at the lat pulldown machine and adjust the thigh pad so your thighs are securely anchored. Grasp the bar with a wide underhand (supinated, palms facing you) grip roughly shoulder-width to wider than shoulder-width apart. Keep your chest up and torso slightly reclined.
+
+  Execution:
+  1. Pull the bar down smoothly, guiding it close past your chin until it touches or nearly touches your upper chest.
+  2. Drive your elbows downward and slightly backward, actively depressing and squeezing your shoulder blades.
+  3. Keep your torso steady without excessively swinging your upper body backward.
+  4. Slowly allow the bar to return to the top position under control, fully extending your arms and feeling a deep stretch through your lats.
+search_terms:
+  - Wide-grip supinated lat pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

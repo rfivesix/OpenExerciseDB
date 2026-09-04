@@ -5,9 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '801'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Push-Up
-description: Normal Push-ups on Dumbbells, this brings a further range of movement
+description: '- Place two flat-sided dumbbells on the floor about shoulder-width apart
+  and grip the handles with a neutral grip.
+
+  - Assume a push-up plank position with your body forming a rigid, straight line
+  from head to heels.
+
+  - Lower your chest down between the dumbbells, taking advantage of the elevated
+  height for a deeper range of motion.
+
+  - Press firmly through your chest and triceps to return to the starting plank position.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '896'

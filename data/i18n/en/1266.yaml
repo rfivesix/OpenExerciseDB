@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1266'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: TRX Tricep Extension
-description: |-
-  Attach the TRX or other suspension system overhead, having the handles hanging at chest level or slightly lower. Experiment to see what height allows you to set up in the best way.
+description: 'Attach the TRX or other suspension system overhead, having the handles hanging at chest level or slightly lower.
+  Experiment to see what height allows you to set up in the best way.
+
   Stand in front of the handles and grab them with your palms facing down.
-  Engage your abs, squeeze your glutes, take a breath and lean forward, lifting your heels off the floor. Keep your elbows straight.
+
+  Engage your abs, squeeze your glutes, take a breath and lean forward, lifting your heels off the floor. Keep your elbows
+  straight.
+
   Take another breath and lower yourself slowly by bending your elbows.
-  Go down until your elbows are at a 90-degree angle (to the point where your wrists are above your elbows). Hold the position for a moment.
-  Extend your arms by engaging your triceps and bring yourself to the starting position as you exhale.
+
+  Go down until your elbows are at a 90-degree angle (to the point where your wrists are above your elbows). Hold the position
+  for a moment.
+
+  Extend your arms by engaging your triceps and bring yourself to the starting position as you exhale.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

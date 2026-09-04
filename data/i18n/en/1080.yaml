@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1080'
 language: en
-status: upstream_unreviewed
-name: Hindu Pushups
+status: ai_reviewed
+name: Hindu Push-Ups
 description: |-
-  Exercise to strengthen the shoulders and pectorals. Its name is due to the fact that it begins in the Yoga position "Dog Facing Down", passing to "Cobra" but without resting the legs or torso on the ground to finally end with a normal flexion. The exercise can also be performed backwards (back to the starting position). As a variation, after doing the push-up, the hip can be raised to return to downward facing dog.
+  Starting position:
+  Begin in a downward dog position with your hands slightly wider than shoulder-width apart and your hips pushed high, forming an inverted 'V' shape with your body.
+
+  Execution:
+  1. Bend your elbows and swoop downward in a sweeping arc, skimming your chest and face close to the floor.
+  2. Push up dynamically into an upward dog position, driving your chest forward and shoulders back.
+  3. Reverse the motion or push your hips straight back and up to return to the inverted 'V' starting position.
+  4. Repeat in a smooth, continuous fluid cycle.
+search_terms:
+  - Hindu Pushups
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imobard

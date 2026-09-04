@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '694'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Aufrechtes Rudern mit Kurzhanteln
-description: |-
-  Halte in jeder Hand eine Kurzhantel vor deinem Körper. Die Handflächen zeigen zum Körper. Hebe die Hände gerade nach oben, bis sie unter deinem Kinn sind, und senke sie dann wieder. Wiederhole die Übung.
+description: '- Stelle dich aufrecht hin, die Füße etwa schulterbreit. Halte in jeder
+  Hand eine Kurzhantel vor den Oberschenkeln, die Handflächen zeigen zum Körper.
+
+  - Ziehe die Kurzhanteln nah am Körper nach oben, wobei die Ellenbogen die Bewegung
+  anführen und stets höher als die Hanteln bleiben.
+
+  - Hebe die Gewichte bis auf Brusthöhe an, pausiere kurz und senke sie kontrolliert
+  wieder in die Ausgangsposition ab.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

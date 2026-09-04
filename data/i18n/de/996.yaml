@@ -1,24 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '996'
 language: de
 status: ai_reviewed
-name: Bergsteiger
-description: |-
-  Ausgangsposition:
-  Beginne in der oberen Liegestützposition, auch bekannt als hohe Plank-Position. Die Hände sollten sich direkt unter den Schultern befinden. Halte den Kopf in einer Linie mit dem Rücken mit Blick zum Boden. Die Füße stehen etwa hüftbreit auseinander.
+name: Mountain Climbers (Bergsteiger)
+description: 'Ausgangsposition: Gehe in die Liegestützposition (High Plank). Die Hände
+  stehen senkrecht unter den Schultern und der Körper bildet eine feste gerade Linie.
 
-  Schritte:
-  1. Führe ein Knie in Richtung Körpermitte zu den Ellbogen, während das andere Bein gestreckt bleibt.
-  2. In einer schnellen, dynamischen Wechselbewegung streckst du das gebeugte Bein nach hinten aus und ziehst gleichzeitig das andere Knie nach vorne.
-  3. Wiederhole die Bewegung fortlaufend im Wechsel.
+  Ausführung: Ziehe ein Knie zügig und kraftvoll in Richtung Brust, während das andere
+  Bein gestreckt bleibt. Wechsle die Beine in einer dynamischen, laufenden Bewegung
+  flüssig ab.
 
-  Hinweise:
-  Halte den Rücken während der gesamten Übung möglichst gerade – vermeide einen Rundrücken oder ein Durchhängen der Hüfte.
+  Hinweis: Halte die Hüfte tief und stabil; das Gesäß sollte nicht nach oben ausweichen.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1714'
+search_terms:
+- Bergsteiger
+- Mountain climbers

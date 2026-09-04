@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1014'
 language: fr
-status: upstream_unreviewed
-name: Étirement de l'angulaire de l'omoplate droit
+status: ai_reviewed
+name: Étirement de l'élévateur de la scapula droit
 description: |-
   Position de départ :
-  Commencez debout ou assis. Tournez la tête vers la droite, d'environ 45 degrés ou juste au-dessus du mamelon. Placez la main gauche dans le dos ou asseyez-vous dessus. Avec la main droite, tenez l'arrière de votre tête. Penchez légèrement la tête vers le bas.
-  Étapes :
+  Asseyez-vous ou tenez-vous debout le dos droit. Tournez la tête d'environ 45 degrés vers la droite. Placez la main gauche dans le bas du dos ou sous la cuisse pour abaisser l'épaule gauche. Posez la main droite sur l'arrière de la tête.
 
-  Une fois la position de départ adoptée, appuyez la tête contre la main droite avec une légère force. Votre main doit résister avec une force égale, de sorte que la tête ne bouge pas. Maintenez cette position.
+  Étapes :
+  1. Inclinez doucement le menton vers le bas en direction de l'aisselle droite jusqu'à ressentir un étirement confortable à l'arrière du cou et vers l'omoplate.
+  2. Maintenez une légère traction avec la main droite sans forcer.
+  3. Conservez la posture pendant 20 à 30 secondes en respirant calmement, puis relâchez lentement.
+search_terms:
+  - Étirement de l'angulaire de l'omoplate droit
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

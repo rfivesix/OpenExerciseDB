@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1233'
 language: fr
-status: upstream_unreviewed
-name: Étirement des biceps debout à droite
+status: ai_reviewed
+name: Étirement du biceps debout au mur (droit)
 description: |-
-  Tenez-vous debout avec votre bras droit près d'un mur. Tendez votre bras droit et placez votre main droite sur le mur, puis tournez doucement votre corps vers la gauche.
+  Position de départ :
+  • Tenez-vous debout avec le flanc droit près d'un mur.
+  • Tendez le bras droit vers l'arrière et posez la paume de la main droite à plat contre le mur à hauteur d'épaule.
+
+  Exécution :
+  • Tournez doucement le torse et les pieds vers la gauche en vous détournant du mur.
+  • Maintenez la position dès que vous ressentez un bon étirement dans le biceps droit et l'avant de l'épaule.
+  • Gardez la posture pendant 20 à 30 secondes en respirant calmement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4533'
+search_terms:
+  - Étirement des biceps debout à droite

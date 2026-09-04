@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '805'
 language: it
-status: upstream_unreviewed
-name: Flessioni dei Tricipiti al Cavo
-description: |-
-  Il push-down con la corda è un esercizio molto popolare per i tricipiti. È facile da imparare e da eseguire, per cui è il preferito da tutti, dai sollevatori principianti agli esperti. Di solito viene eseguito con ripetizioni moderate o elevate, come 8-12 ripetizioni o più per serie, parte di un allenamento per la parte superiore del corpo o incentrato per le braccia.
+status: ai_reviewed
+name: Push-down ai cavi con corda
+description: '- Posizionati davanti alla carrucola alta con attacco a corda, piedi
+  alla larghezza delle spalle e busto leggermente flesso in avanti.
+
+  - Mantenendo i gomiti bloccati lungo i fianchi, spingi la corda verso il basso estendendo
+  le braccia.
+
+  - Separa le estremità della corda verso l''esterno nel punto più basso per massimizzare
+  la contrazione dei tricipiti.
+
+  - Risali lentamente e con pieno controllo alla posizione di partenza senza muovere
+  i gomiti.'
+search_terms:
+- Flessioni dei Tricipiti al Cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO

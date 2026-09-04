@@ -1,20 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '992'
 language: en
-status: upstream_unreviewed
-name: Split squats right
-description: |-
-  Starting position:
-  Stand with your back straight. Take a large step forward with your right leg.
-  Steps:
+status: ai_reviewed
+name: Split Squat (Right)
+description: 'Starting Position: Take a long stride forward with your right leg, keeping
+  your feet hip-width apart for balance. Keep your torso upright with your weight
+  distributed between both feet.
 
-  Bring your pelvis down until you almost touch the floor with your left knee.
-  Bring your pelvis back up.
-  Repeat.
+  Execution: Lower your hips straight down by bending both knees until your right
+  thigh is parallel to the ground and your left knee hovers just above the floor.
+
+  Return: Drive upward through your right front heel and left forefoot to return to
+  the starting position.
+
+  Cues: Keep your torso vertical and avoid leaning forward or letting your front knee
+  track past your toes.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1657'
+search_terms:
+- Split squats right

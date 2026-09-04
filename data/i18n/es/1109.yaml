@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1109'
 language: es
-status: upstream_unreviewed
-name: Biceps concentrado
+status: ai_reviewed
+name: Curl de bíceps concentrado en polea
 description: |-
-  El curl de concentración es un ejercicio clásico para desarrollar los bíceps un brazo a la vez. Se puede realizar inclinado o de rodillas, pero se realiza más a menudo sentado en un banco. Es excelente para enfatizar el pico del bíceps y, a menudo, se usa para terminar un entrenamiento de bíceps.
+  Posición inicial:
+  Coloca un banco frente a una polea baja. Siéntate con las piernas abiertas, sujeta el agarre individual con una toma en supinación (palma hacia arriba) y apoya la parte posterior del brazo en la cara interna del muslo correspondiente.
+
+  Ejecución:
+  1. Flexiona el codo levantando el maneral hacia el hombro manteniendo el brazo firmemente apoyado contra el muslo para aislar el bíceps.
+  2. Aprieta intensamente el bíceps en el punto de máxima contracción contra la tensión continua del cable.
+  3. Desciende lentamente el peso de forma controlada hasta que el brazo quede casi completamente estirado.
+  4. Realiza todas las repeticiones y repite con el otro brazo.
+search_terms:
+  - Biceps concentrado
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442

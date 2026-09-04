@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1455'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Superman avec serviette
 description: |-
-  Dans cet exercice, vous vous allongez à plat ventre, tenez une serviette les bras tendus devant vous, et l'écartez pour créer une tension. Ensuite, vous la déplacez d'avant en arrière sous votre ventre. Cet exercice sollicite les muscles du dos et des épaules ainsi que la stabilité du tronc.
+  Position de départ :
+  • Allongez-vous à plat ventre sur un tapis de sol, les jambes tendues vers l'arrière.
+  • Tenez une serviette bien tendue entre vos deux mains, bras tendus devant vous à la largeur des épaules.
+
+  Exécution :
+  • Décollez simultanément la poitrine, les bras et les jambes du sol en contractant les fessiers et les érecteurs du rachis.
+  • En maintenant la serviette sous tension, fléchissez les coudes pour amener la serviette vers le haut de la poitrine.
+  • Tendez à nouveau les bras vers l'avant de manière contrôlée sans reposer complètement le torse au sol.
+  • Répétez le mouvement avec fluidité.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

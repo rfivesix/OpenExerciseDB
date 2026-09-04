@@ -1,19 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '995'
 language: en
-status: upstream_unreviewed
-name: Backward arm circles
-description: |-
-  Starting position:
-  Stand tall with your back straight.
-  Steps:
+status: ai_reviewed
+name: Backward Arm Circles
+description: 'Starting Position: Stand upright with feet shoulder-width apart and
+  extend both arms straight out to the sides at shoulder height, palms facing down.
 
-  Keeping your arms straight, bring them in front of you, raise them over your head, then continue the motion behind your back and down to the initial position.
-  Keep circling your arms as described in step 1.
+  Execution: Make small, controlled circular motions with your arms rotating backward,
+  opening up your chest and engaging your upper back.
+
+  Cues: Keep your torso stable and avoid excessive arching in your lower back.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1702'
+search_terms:
+- Backward arm circles
+- Arm Circles Backward

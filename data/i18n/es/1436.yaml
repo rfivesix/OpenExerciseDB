@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1436'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de banca con pines (barra)
 description: |-
-  Coloca los pines de seguridad aproximadamente a la altura de tu punto de estancamiento
-  Baja la barra, déjala descansar sobre los pines durante 1 s manteniendo la tensión
-  Sube la barra con la máxima fuerza
+  Posición inicial:
+  Coloca un banco plano dentro de una jaula de potencia (power rack) y ajusta los pines de seguridad a la altura de tu punto de estancamiento (unos centímetros sobre el pecho). Acuéstate sobre el banco, sujeta la barra con un agarre algo más ancho que los hombros y apoya firmemente los pies en el suelo.
+
+  Ejecución:
+  Baja la barra de forma controlada hasta apoyarla por completo en los pines. Mantén la tensión muscular en el pecho y el torso durante 1 o 2 segundos en parada estricta, y empuja de manera explosiva hacia arriba hasta la extensión completa de los brazos sin rebotar en los soportes.
+
+  Consejos:
+  No relajes la musculatura ni pierdas la posición mientras la barra descansa sobre los pines. Este ejercicio desarrolla la fuerza inicial y supera puntos de estancamiento.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

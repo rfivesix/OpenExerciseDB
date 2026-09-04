@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Schreibt die GitHub-Step-Summary des Build-Laufs.
 
-Uebernommen aus `train-libre`, um Validierung und Schemaversion erweitert. Der
+Aus einer frueheren Pipeline uebernommen, um Validierung und Schemaversion erweitert. Der
 Bericht laeuft auch dann, wenn vorher etwas fehlgeschlagen ist — er ist oft die
 einzige Stelle, an der jemand sieht, wo genau es aufgehoert hat.
 """

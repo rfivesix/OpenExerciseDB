@@ -1,10 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1022'
 language: de
-status: ai_raw
-translated_from: en
-name: Einarmiger Plank mit Rudern
-description: Starte in der Ruderposition, gehe in die Plank-Position und zurück. Beende mit einer Ruderbewegung und wiederhole.
+status: ai_reviewed
+name: Einarmiges Kurzhantelrudern im Stütz (Plank to Row)
+description: |-
+  Ausgangsposition:
+  Begib dich in eine hohe Liegestütz- bzw. Plank-Position. Die Hände stützen sich auf Kurzhanteln ab (oder eine Hand stützt am Boden, die andere hält eine Hantel). Die Füße stehen etwa schulterbreit für eine stabile Basis.
+
+  Ausführung:
+  1. Spanne Rumpf und Gesäß fest an, damit das Becken stabil bleibt und nicht zur Seite rotiert.
+  2. Ziehe die Kurzhantel mit einer Hand kontrolliert nach oben in Richtung Hüfte, wobei der Ellenbogen eng am Oberkörper entlanggeführt wird.
+  3. Halte am obersten Punkt kurz die Kontraktion im breiten Rückenmuskel (Latissimus).
+  4. Senke die Kurzhantel langsam wieder zum Boden ab.
+  5. Führe die Wiederholungen kontrolliert aus und wechsle anschließend die Seite.
+search_terms:
+  - Einarmiger Plank mit Rudern
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1965'
+translated_from: en

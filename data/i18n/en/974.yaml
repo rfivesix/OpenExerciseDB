@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '974'
 language: en
 status: ai_reviewed
 name: Two-Handed Kettlebell Curl
-description: |-
-  Stand upright and grip the kettlebell with both hands. Perform the elbow flexion motion, starting from a fully extended position until your hand reaches shoulder height. Spread your legs a little for stability and, to perform the exercise correctly, try not to push with your back or body in general. Change the weight of the kettlebell to adjust the difficulty.
+description: 'Starting Position: Stand tall with feet shoulder-width apart, gripping
+  the horn handles of the kettlebell with both hands in front of your thighs, arms
+  extended.
+
+  Execution: Keeping your elbows stationary at your sides, curl the kettlebell upward
+  toward chest height by flexing your biceps.
+
+  Return: Lower the kettlebell slowly and smoothly back to full arm extension.
+
+  Cues: Avoid using torso swing or hip drive to move the weight; focus on pure biceps
+  contraction.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1281'

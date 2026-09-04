@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1269'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dips au TRX
-description: |-
-  Commencez les mains sur le système de suspension et les pieds au sol.
-  Vos mains doivent être sous vos épaules, les pieds légèrement vers l'avant.
+description: 'Commencez les mains sur le système de suspension et les pieds au sol.
+
+  Vos mains doivent être sous vos épaules, les pieds légèrement vers l''avant.
+
   Abaissez-vous en amenant vos hanches entre les poignées et en pliant les coudes.
-  Tendez les coudes pour revenir à la position de départ et répétez.
+
+  Tendez les coudes pour revenir à la position de départ et répétez.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

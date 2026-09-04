@@ -1,11 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '923'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kurzhantelrudern liegend & Shrugs sitzend
-description: Bäuchlings auf einer leicht geneigten Bank liegend
+description: 'Ausgangsposition: Lege dich bäuchlings auf eine leicht geneigte Schrägbank
+  (ca. 30–45°), die Kurzhanteln hängen mit gestreckten Armen im neutralen Griff nach
+  unten.
+
+  Ausführung:
+
+  1. Kurzhantelrudern liegend: Ziehe die Kurzhanteln kraftvoll nach oben, indem du
+  die Ellbogen eng am Körper nach hinten führst und die Schulterblätter zusammendrückst.
+  Senke sie kontrolliert ab und absolviere die Wiederholungszahl.
+
+  2. Shrugs sitzend: Setze dich unmittelbar danach aufrecht auf die Bank und ziehe
+  die Schultern gerade nach oben in Richtung der Ohren, um den oberen und mittleren
+  Trapezmuskel intensiv zu kontrahieren.
+
+  Rückkehr: Führe die Gewichte bei jeder Wiederholung langsam und kontrolliert herab.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1202'
+search_terms:
+- Lying Dumbbell Row SS Seated Shrug

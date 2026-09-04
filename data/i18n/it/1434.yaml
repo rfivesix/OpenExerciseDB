@@ -2,10 +2,19 @@ exercise_id: '1434'
 language: it
 status: ai_reviewed
 translated_from: de
-name: Lat pulldown con manubri
+name: Lat pull con manubri a busto flesso
+description: |-
+  Posizione di partenza:
+  In piedi con le ginocchia leggermente flesse, inclina il busto in avanti a 45 gradi mantenendo la colonna vertebrale allungata e neutra. Impugna un manubrio per mano con le braccia distese verso il basso e i gomiti appena sbloccati.
+
+  Esecuzione:
+  Porta i manubri all'indietro verso i fianchi con un movimento ad arco ampio, mantenendo le braccia quasi tese e vicine al corpo per contrarre intensamente il gran dorsale. Ritorna lentamente alla posizione iniziale con movimento controllato.
+
+  Note:
+  Evita di flettere i gomiti trasformando il movimento in un rematore. Mantieni il core saldo per proteggere la zona lombare.
+search_terms:
+  - Lat pulldown con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2398'
-description: |-
-  Fletti il busto in avanti e porta i manubri verso la schiena tenendo le braccia leggermente piegate e vicine al corpo per attivare il gran dorsale.

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1244'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: 'Exercice de yoga : la vache et le chat'
-description: |-
-  Mettez-vous d'abord à quatre pattes. Les mains sont placées sous les épaules. Les doigts sont largement écartés et garantissent une position stable. L'idéal est de répartir le poids de la partie avant de votre corps sur vos pouces et vos index. Placez maintenant vos jambes écartées de la largeur des hanches sur le tapis de yoga. Vos cuisses doivent être à la verticale, sous vos hanches. Veillez à ce que votre poids soit réparti de manière égale entre vos mains et vos genoux. Votre tête est dans le prolongement de votre colonne vertébrale et votre regard est dirigé vers le tapis. Votre dos est en position neutre. Inspirez profondément et commencez par la posture du chat. Lors de l'expiration suivante, arrondissez votre dos vertèbre par vertèbre. Essayez de vous étirer le plus possible vers le plafond. Ramenez votre tête vers votre poitrine et basculez votre bassin. Inspirez maintenant profondément et passez à la position opposée, la posture de la vache. Creusez votre dos vers le bas, tirez légèrement vos épaules vers l'arrière et levez votre tête aussi haut que cela vous est confortable. Votre regard est dirigé vers le haut. Expirez consciemment et revenez à la posture du chat. Lors de l'expiration suivante, repassez à la posture de la vache. Répétez l'exercice plusieurs fois en veillant à rester dans le flux du mouvement.
+description: Mettez-vous d'abord à quatre pattes. Les mains sont placées sous les épaules. Les doigts sont largement écartés
+  et garantissent une position stable. L'idéal est de répartir le poids de la partie avant de votre corps sur vos pouces et
+  vos index. Placez maintenant vos jambes écartées de la largeur des hanches sur le tapis de yoga. Vos cuisses doivent être
+  à la verticale, sous vos hanches. Veillez à ce que votre poids soit réparti de manière égale entre vos mains et vos genoux.
+  Votre tête est dans le prolongement de votre colonne vertébrale et votre regard est dirigé vers le tapis. Votre dos est
+  en position neutre. Inspirez profondément et commencez par la posture du chat. Lors de l'expiration suivante, arrondissez
+  votre dos vertèbre par vertèbre. Essayez de vous étirer le plus possible vers le plafond. Ramenez votre tête vers votre
+  poitrine et basculez votre bassin. Inspirez maintenant profondément et passez à la position opposée, la posture de la vache.
+  Creusez votre dos vers le bas, tirez légèrement vos épaules vers l'arrière et levez votre tête aussi haut que cela vous
+  est confortable. Votre regard est dirigé vers le haut. Expirez consciemment et revenez à la posture du chat. Lors de l'expiration
+  suivante, repassez à la posture de la vache. Répétez l'exercice plusieurs fois en veillant à rester dans le flux du mouvement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

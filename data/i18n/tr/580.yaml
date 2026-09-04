@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '580'
 language: tr
-status: upstream_unreviewed
-name: Yan plank hareketi (sol)
+status: ai_reviewed
+name: Yan plank
+search_terms:
+- Yan plank hareketi (sol)
 description: |-
   Alt dirseğiniz dik açıyla, kolunuz dışarı çıkacak şekilde yan tarafınıza uzanın
   Ön kolunuzu yerde tutup alt omzunuzu yukarı kaldırarak leğen kemiğinizi yerden kaldırın; başınız, leğen kemiğiniz ve ayaklarınız düz bir çizgide olmalıdır

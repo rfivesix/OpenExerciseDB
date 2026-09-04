@@ -1,10 +1,24 @@
-# AI review provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '695'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Latzug mit V-Griff
-description: Latzüge mit engem V-Griff.
+description: '- Befestige einen engen V-Griff am Latzug und stelle das Oberschenkelpolster
+  so ein, dass du festen Halt hast.
+
+  - Fasse den V-Griff im neutralen Griff (Handflächen zueinander) und richte deinen
+  Oberkörper auf, die Brust leicht gehoben.
+
+  - Ziehe den Griff kontrolliert zur oberen Brust, indem du die Ellenbogen eng am
+  Körper nach unten und hinten führst.
+
+  - Spanne den Latissimus am tiefsten Punkt kräftig an und führe das Gewicht langsam
+  wieder in die vollständige Streckung zurück.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: apeschel

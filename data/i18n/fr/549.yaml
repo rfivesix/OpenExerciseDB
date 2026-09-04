@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '549'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extension des triceps assis
-description: |-
-  Asseyez-vous sur un banc (de préférence avec un dossier). Saisissez fermement un haltère à deux mains et tenez-le bras tendus au-dessus de votre tête. Les paumes tournées vers le haut et en soutenant le poids de l'haltère, abaissez lentement le poids derrière votre tête.
+description: Asseyez-vous sur un banc (de préférence avec un dossier). Saisissez fermement un haltère à deux mains et tenez-le
+  bras tendus au-dessus de votre tête. Les paumes tournées vers le haut et en soutenant le poids de l'haltère, abaissez lentement
+  le poids derrière votre tête.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

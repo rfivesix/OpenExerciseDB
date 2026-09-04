@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: es
-status: upstream_unreviewed
-name: Sentadillas en pistol derecha
+status: ai_reviewed
+name: Pistol squat pierna derecha
 description: |-
-  Párese en una pierna, con la otra pierna estirada y ligeramente hacia adelante.
-  Doble una rodilla lentamente, bajando en sentadilla y manteniendo la espalda y la otra pierna estirada.
-  Levántese lentamente de la sentadilla, enderezando la rodilla doblada y manteniendo la otra pierna recta.
-  Repita
+  Posición inicial:
+  Ponte de pie sobre tu pierna derecha, manteniendo la pierna izquierda estirada hacia adelante en el aire. Extiende los brazos al frente para mantener el equilibrio.
+
+  Ejecución:
+  1. Flexiona lentamente la rodilla y cadera derechas, bajando en una sentadilla profunda sobre una sola pierna.
+  2. Mantén el pecho erguido, la espalda recta y la pierna izquierda elevada sin que toque el suelo.
+  3. Desciende de forma controlada hasta la máxima profundidad que permita tu movilidad.
+  4. Empuja fuertemente con el talón derecho para extender la pierna y regresar a la posición erguida.
+search_terms:
+  - Sentadillas en pistol derecha
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1939'

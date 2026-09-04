@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: it
-status: upstream_unreviewed
-name: Sollevamento del polpaccio gamba destra
+status: ai_reviewed
+name: Calf raise a una gamba (destra)
 description: |-
-  Stare in piedi sul pavimento o sul bordo di un gradino per aumentare il raggio di movimento. Sollevare un piede, appoggiando la parte superiore sul polpaccio.
-  Sollevare i talloni fino a stare in piedi sulle punte dei piedi.
-  Resta in questa posizione per tre secondi, poi abbassa il piede senza toccare il suolo con il tallone.
+  Posizione di partenza:
+  Posizionati in piedi sul solo piede destro, appoggiando l'avampiede a terra o sul bordo di un gradino. Tieni il piede sinistro sollevato e sfiora una parete con la mano per l'equilibrio.
+
+  Esecuzione:
+  1. Abbassa lentamente il tallone destro verso il basso per allungare il polpaccio.
+  2. Spingi con forza sull'avampiede sollevando il tallone il più in alto possibile.
+  3. Mantieni la massima contrazione per 1-2 secondi all'apice del movimento.
+  4. Ritorna verso il basso in modo controllato senza rimbalzare.
+search_terms:
+  - Sollevamento del polpaccio gamba destra
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1956'

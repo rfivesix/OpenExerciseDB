@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1312'
 language: fr
-status: upstream_unreviewed
-name: Squat au poids du corps HD
-description: |-
-  Le squat est un type d'exercice au poids du corps. C'est l'un des exercices les plus populaires pour la force et la prise de muscle. Le squat est particulièrement efficace pour cibler les muscles des jambes et des hanches.
-  Le squat est un exercice facile à réaliser pour les débutants. Il peut aider à renforcer les muscles des jambes, à raffermir les muscles des hanches et à brûler des calories pour perdre du poids.
-  Il raffermit les fessiers et les jambes. Les squats sont très efficaces pour tonifier et renforcer vos jambes en agissant sur les fessiers, les fléchisseurs de hanche, les quadriceps, les ischio-jambiers et les muscles de l'intérieur de la cuisse. De plus, les squats au poids du corps peuvent aider à galber vos fessiers.
+status: ai_reviewed
+name: Squat au poids du corps
+description: 'Le squat est un type d''exercice au poids du corps. C''est l''un des exercices les plus populaires pour la force
+  et la prise de muscle. Le squat est particulièrement efficace pour cibler les muscles des jambes et des hanches.
+
+  Le squat est un exercice facile à réaliser pour les débutants. Il peut aider à renforcer les muscles des jambes, à raffermir
+  les muscles des hanches et à brûler des calories pour perdre du poids.
+
+  Il raffermit les fessiers et les jambes. Les squats sont très efficaces pour tonifier et renforcer vos jambes en agissant
+  sur les fessiers, les fléchisseurs de hanche, les quadriceps, les ischio-jambiers et les muscles de l''intérieur de la cuisse.
+  De plus, les squats au poids du corps peuvent aider à galber vos fessiers.'
+search_terms:
+- Squat au poids du corps HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '909'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl Nórdico Inverso
-description: |-
-  Arrodíllate con los tobillos asegurados por un compañero o un objeto fijo. Manteniendo una línea recta desde las rodillas hasta la cabeza, inclínate lentamente hacia atrás, controlando el movimiento con tus cuádriceps. Usa la misma fuerza para volver a la posición inicial. Es una alternativa muy efectiva a la máquina de extensión de piernas.
+description: '- Colócate de rodillas sobre una colchoneta acolchada con el torso y
+  las caderas completamente alineados y extendidos.
+
+  - Inclina el cuerpo lentamente hacia atrás flexionando únicamente las articulaciones
+  de las rodillas.
+
+  - Frena el descenso con la fuerza excéntrica de tus cuádriceps sin doblar la cadera.
+
+  - Contrae los cuádriceps con fuerza para volver a la posición erguida inicial.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

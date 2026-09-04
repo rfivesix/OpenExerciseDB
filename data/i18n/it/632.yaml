@@ -5,16 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '632'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Squat sumo
-description: |-
-  Posizione di partenza:
-  Stare in piedi con le gambe larghe e le dita dei piedi rivolte verso l'esterno.
-  Passi:
+description: 'Posiziona i piedi a una larghezza superiore a quella delle spalle, con
+  le punte ruotate verso l''esterno a circa 45 gradi.
 
-  Sprofondare lentamente piegando le ginocchia in fuori. Portare le braccia in avanti. Tenere la testa, il petto e i fianchi in linea retta. Stringere i glutei.
-  Spingete verso l'alto nella posizione di partenza.
-  Ripetere questo esercizio con un movimento pulsante.
+  Mantieni il busto eretto e la schiena dritta mentre scendi piegando ginocchia e
+  fianchi fino a portare le cosce parallele al pavimento.
+
+  Spingi energicamente attraverso i talloni per risalire alla posizione iniziale,
+  estendendo completamente le gambe.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: sophialj

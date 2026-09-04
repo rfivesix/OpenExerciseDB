@@ -1,21 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1006'
 language: de
 status: ai_reviewed
 name: Kinn einziehen (Chin Tuck)
-description: |-
-  Ausgangsposition:
-  Sitze oder stehe mit aufrechtem Rücken.
-  Schritte:
+description: 'Ausgangsposition: Sitze oder stehe aufrecht, die Schultern sind entspannt
+  nach hinten-unten gezogen und der Blick geht geradeaus.
 
-  Führe mit den Fingern am Kinn das Kinn langsam nach hinten-unten (Doppelkinn machen) und bewege den Kopf nach hinten, um die Halswirbelsäule aufzurichten.
-  Halte die Position für 5 Sekunden.
-  Kehre kontrolliert in die neutrale Kopfposition zurück und wiederhole den Vorgang.
+  Ausführung: Ziehe dein Kinn waagerecht nach hinten-unten (wie zur Bildung eines
+  leichten Doppelkinns), sodass die Ohren direkt über die Schultern wandern.
+
+  Rückkehr: Halte die Position für 3–5 Sekunden und spüre die Aufrichtung der Halswirbelsäule,
+  danach entspannt in die Ausgangsposition zurückkehren.
+
+  Hinweis: Nicke nicht mit dem Kopf nach unten; die Bewegung erfolgt rein horizontal
+  nach hinten.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1837'
+search_terms:
+- Chin Tuck
+- Halswirbelsäulen-Retraktion

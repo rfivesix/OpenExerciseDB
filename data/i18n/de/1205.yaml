@@ -5,17 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1205'
 language: de
-status: upstream_unreviewed
-name: Handgelenk-Curl mit Kurzhanteln
+status: ai_reviewed
+name: Handgelenk-Curls mit Kurzhanteln
 description: |-
-  Setze dich auf eine Bank und greife die Kurzhantel mit den Handflächen nach oben
-  und schulterbreitem Handabstand. Lege deine Unterarme auf den Oberschenkeln ab
-  und lass die Handgelenke über die Knie hinaushängen.
-  Führe die Bewegung aus, indem du
-  Handflächen und Handgelenke in Richtung deines Gesichts einrollst.
-  (optional/variabel) Halte kurz oben inne.
-  Kehre langsam in die Ausgangsposition zurück.
+  Ausgangsposition:
+  • Setze dich auf eine Trainingsbank und greife zwei Kurzhanteln im Untergriff (Handflächen zeigen nach oben).
+  • Lege deine Unterarme flach auf die Oberschenkel oder die Kante der Bank, sodass die Handgelenke frei über die Knie hinausragen.
+
+  Ausführung:
+  • Lasse die Hanteln kontrolliert nach unten absinken und rolle sie leicht in die Finger ab.
+  • Rolle die Hanteln über die Handflächen wieder nach oben und beuge die Handgelenke kraftvoll nach oben in Richtung der Unterarme.
+  • Halte die Kontraktion der Unterarmbeuger am obersten Punkt kurz und senke die Hanteln langsam wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3740'
+search_terms:
+  - Handgelenk-Curl mit Kurzhanteln
+  - Dumbbell Wrist Curl

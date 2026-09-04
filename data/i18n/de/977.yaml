@@ -1,20 +1,30 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '977'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Box Squat
-description: |-
-  Box aufstellen: Positioniere die Box hinter dir, etwa 90 cm von einem Kniebeugenständer entfernt, falls du eine Langhantel verwendest. Wähle eine Höhe, bei der du dich absenken und mit geradem Rücken die Gesäßmuskulatur sanft auf der Box auftippen kannst.
-  Mit korrekter Haltung stehen: Stehe mit schulterbreit aufgestellten Füßen, die Fußspitzen leicht nach außen gedreht. Spanne deinen Rumpf an und halte den Rücken neutral. Wenn du eine Langhantel verwendest, lege sie auf Schulterhöhe ab.
-  Absenken: Setze dich nach hinten, als würdest du dich auf einen Stuhl setzen, beuge die Knie und senke die Hüfte zur Box ab. Halte deinen Rumpf angespannt und den Rücken während der gesamten Bewegung gerade.
-  Kontrolliertes Absenken: Senke dich kontrolliert ab, bis deine Gesäßmuskulatur die Box sanft berührt. Lass dich nicht fallen.
-  Innehalten und hochdrücken: Halte unten kurz inne, mit geradem Rücken und angespanntem Rumpf. Drücke dich dann über die Fersen wieder in die Ausgangsposition hoch.
+description: 'Box aufstellen: Positioniere die Box hinter dir, etwa 90 cm von einem
+  Kniebeugenständer entfernt, falls du eine Langhantel verwendest. Wähle eine Höhe,
+  bei der du dich absenken und mit geradem Rücken die Gesäßmuskulatur sanft auf der
+  Box auftippen kannst.
 
-  Verbesserungen bei Koordination, Gleichgewicht und Ausdauer, Straffung der Bein- und Gesäßmuskulatur sowie eine allgemeine Steigerung der Knochendichte, die das Risiko einer Osteoporose verringert.
+  Mit korrekter Haltung stehen: Stehe mit schulterbreit aufgestellten Füßen, die Fußspitzen
+  leicht nach außen gedreht. Spanne deinen Rumpf an und halte den Rücken neutral.
+  Wenn du eine Langhantel verwendest, lege sie auf Schulterhöhe ab.
+
+  Absenken: Setze dich nach hinten, als würdest du dich auf einen Stuhl setzen, beuge
+  die Knie und senke die Hüfte zur Box ab. Halte deinen Rumpf angespannt und den Rücken
+  während der gesamten Bewegung gerade.
+
+  Kontrolliertes Absenken: Senke dich kontrolliert ab, bis deine Gesäßmuskulatur die
+  Box sanft berührt. Lass dich nicht fallen.
+
+  Innehalten und hochdrücken: Halte unten kurz inne, mit geradem Rücken und angespanntem
+  Rumpf. Drücke dich dann über die Fersen wieder in die Ausgangsposition hoch.
+
+
+  Verbesserungen bei Koordination, Gleichgewicht und Ausdauer, Straffung der Bein-
+  und Gesäßmuskulatur sowie eine allgemeine Steigerung der Knochendichte, die das
+  Risiko einer Osteoporose verringert.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

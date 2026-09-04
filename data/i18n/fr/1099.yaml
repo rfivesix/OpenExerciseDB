@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1099'
 language: fr
-status: upstream_unreviewed
-name: Maintien latéral dynamique
+status: ai_reviewed
+name: Maintien latéral dynamique sur une jambe avec kettlebell
 description: |-
-  Passez un élastique autour d'une kettlebell et soulevez la kettlebell par l'élastique. Laissez-la pendre le long de votre flanc et tenez-vous en équilibre sur une jambe, puis changez de jambe tout en maintenant la position. Répétez avec l'autre main.
+  Position de départ :
+  Enroulez un élastique autour de la poignée d'une kettlebell et tenez l'élastique d'une main pour laisser pendre la charge à côté du corps. Tenez-vous debout, colonne bien droite.
+
+  Étapes :
+  1. Décollez un pied du sol pour vous placer en équilibre sur une seule jambe.
+  2. Gainez puissamment les abdominaux obliques et la hanche pour résister aux mouvements oscillatoires de la kettlebell.
+  3. Maintenez la posture stable pendant la durée ciblée, en changeant éventuellement de jambe d'appui en cours de série.
+  4. Répétez l'exercice avec l'autre main.
+search_terms:
+  - Maintien latéral dynamique
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

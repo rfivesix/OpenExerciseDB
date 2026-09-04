@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1093'
 language: en
-status: upstream_unreviewed
-name: Rowing Machine
-# Description expanded from German source
-description: Sit on a rowing machine with your back straight; extend the legs while pulling the handle toward the torso.
+status: ai_reviewed
+name: Indoor Rowing Machine
+description: |-
+  Starting position:
+  Sit tall on the sliding seat and secure your feet firmly in the footstraps. Slide forward into the Catch: knees bent, shins vertical, torso tilted slightly forward at the hips (1 o'clock position), and arms extended straight grasping the handle.
+
+  Execution:
+  1. The Drive: Push explosively through your legs. As your legs reach near-full extension, swing your torso slightly backward (11 o'clock position), then pull the handle smoothly into your lower ribs.
+  2. The Finish: Legs extended, core engaged, shoulders down and back, handle lightly touching the lower sternum.
+  3. The Recovery: Extend your arms forward, hinge forward at the hips, and then bend your knees to slide smoothly back to the Catch.
+  4. Maintain a fluid rhythm with a powerful drive and a relaxed, controlled recovery.
+search_terms:
+  - Rowing Machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: Boertie

@@ -5,15 +5,28 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1338'
 language: en
-status: upstream_unreviewed
-name: Shoulder Raise (Dumbbell)
-description: |-
-  Engage the muscles
-  Don't use momentum
-  Controlled movement
-  Slow movement
-  Always keep the arms bent
-  Don't overextend
+status: ai_reviewed
+name: Dumbbell Front Raise
+description: 'Starting position:
+
+  Stand upright with feet hip-width apart, holding a dumbbell in each hand in front of your thighs with an overhand grip (palms
+  facing your body).
+
+
+  Execution:
+
+  1. Keeping a slight bend in your elbows, raise the dumbbells forward and upward until they reach shoulder or eye level.
+
+  2. Pause briefly at the top to emphasize contraction in the front deltoids.
+
+  3. Lower the weights slowly and with control back to your thighs.
+
+
+  Tips:
+
+  Avoid swinging your torso or using leg momentum. Keep your core braced throughout the lift.'
+search_terms:
+- Shoulder Raise (Dumbbell)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

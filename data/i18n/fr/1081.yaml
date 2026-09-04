@@ -5,16 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1081'
 language: fr
-status: upstream_unreviewed
-name: Dislocations d'épaules
+status: ai_reviewed
+name: Dislocations d'épaules (avec élastique ou bâton)
 description: |-
   Position de départ :
-  Tenez-vous debout, le dos droit, un élastique, une serviette ou un manche à balai dans les mains. Les mains tendues devant le corps et l'élastique tendu entre elles, écartez les mains pour les placer toutes deux à environ 45 degrés du corps, les pouces vers le bas. Si vous utilisez plutôt une serviette ou un manche à balai, saisissez-le en prise pronation.
-  Étapes :
+  Tenez-vous debout le dos droit, pieds écartés de la largeur des épaules. Tenez un élastique, un bâton ou un manche à balai devant le corps avec une prise large en pronation, bras tendus.
 
-  En gardant les bras tendus, effectuez une rotation au niveau des épaules pour amener vos bras au-dessus de la tête, puis vers le bas en direction des fessiers.
-  Effectuez une rotation des épaules dans le sens inverse : au-dessus de la tête, puis vers l'aine.
-  Répétez.
+  Étapes :
+  1. En gardant les coudes parfaitement tendus, levez les bras au-dessus de la tête dans un mouvement circulaire ample.
+  2. Poursuivez la rotation vers l'arrière jusqu'à amener le bâton ou l'élastique derrière les fessiers.
+  3. Veillez à ne pas cambrer le bas du dos ni fléchir les coudes ; écartez davantage les mains si nécessaire.
+  4. Ramenez les bras par le même chemin au-dessus de la tête jusqu'à la position initiale devant vous.
+  5. Répétez le geste avec fluidité et contrôle.
+search_terms:
+  - Dislocations d'épaules
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

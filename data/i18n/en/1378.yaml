@@ -5,15 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1378'
 language: en
-status: upstream_unreviewed
-name: Cable Lateral Raises (Single Arm)
+status: ai_reviewed
+name: Single-Arm Cable Lateral Raise
 description: |-
-  The single arm cable lateral raise is a variation of the lateral raise and an exercise used to build the muscles of the shoulders.
+  Starting position:
+  Stand beside a low cable pulley with the attachment set to the lowest position. Grasp the single D-handle with the hand furthest from the machine (cable running behind or in front of your body). Grip the upright pillar with your inside hand for stability and lean slightly outward.
 
-  Position a cable at the lowest position possible and attach a single handle.
-  Reach across your body and grab the handle with a neutral grip.
-  Keep the elbow slightly bent and pull the handle across your body and raise laterally.
-  Slowly lower the handle back to the starting position under control.
+  Movement:
+  Keeping a slight, fixed bend in your working elbow, raise your arm outward in a wide lateral arc until your hand is roughly level with your shoulder. Pause briefly at peak contraction in the lateral deltoid, then lower the handle slowly under continuous tension back to the starting position.
+
+  Notes:
+  Do not shrug your traps or swing your torso to initiate the pull. Maintain constant control throughout both the lifting and lowering phases.
+search_terms:
+  - Cable Lateral Raises (Single Arm)
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c

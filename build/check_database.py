@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Sanity-Check auf der erzeugten Datenbank, direkt vor dem Release.
 
-Uebernommen aus `train-libre` und um die Tabellen aus SCHEMA.md 8 erweitert.
+Aus einer frueheren Pipeline uebernommen und um die Tabellen aus SCHEMA.md 8 erweitert.
 Der wesentliche Unterschied: das Vorbild war ein reiner Dump — es druckte
 Tabellen, Spalten und drei Beispielzeilen und lief immer mit Exitcode 0 durch.
 Das ist als Blick von aussen nuetzlich (`--inspect` gibt es weiterhin), taugt
@@ -14,8 +14,8 @@ schon `build/validate.py` auf den Quelldateien abgedeckt hat.
 
 Aufruf:
 
-    python3 build/check_database.py artifacts/train_libre_training.db
-    python3 build/check_database.py --inspect artifacts/train_libre_training.db
+    python3 build/check_database.py artifacts/openexercisedb.db
+    python3 build/check_database.py --inspect artifacts/openexercisedb.db
 """
 from __future__ import annotations
 

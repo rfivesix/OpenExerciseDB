@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '684'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Latzug im Untergriff
-description: |-
-  Greife die Latzugstange so, dass deine Handflächen zu dir zeigen und deine Hände enger als schulterbreit sind. Lehne dich leicht zurück und halte den Rücken gerade. Ziehe die Stange zur Brust und ziehe am Ende der Bewegung die Schultern leicht nach hinten.
+description: '- Setze dich an die Latzugstation und stelle das Oberschenkelpolster
+  so ein, dass deine Beine fest fixiert sind.
+
+  - Greife die Stange im Untergriff (Handflächen zeigen zu dir) etwa schulterbreit
+  oder etwas enger.
+
+  - Ziehe die Stange kontrolliert zum oberen Brustbereich, indem du die Ellenbogen
+  nach unten und hinten führst und den Latissimus anspannst.
+
+  - Führe die Stange langsam wieder nach oben in die vollständige Streckung zurück,
+  ohne die Spannung im Rücken zu verlieren.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

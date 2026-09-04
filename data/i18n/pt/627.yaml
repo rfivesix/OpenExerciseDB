@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '627'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Stiff
-description: |-
-  Voce pega o halter, trava a dorsal estufa o peito, inclina até a altura do calcanhar
+description: Você pega a barra, trava a dorsal, estufa o peito e inclina o tronco para a frente mantendo as pernas quase esticadas
+  e as costas retas até sentir os posteriores da coxa.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

@@ -9,11 +9,15 @@ language: en
 status: ai_reviewed
 name: Torso Rotation Stretch
 description: |-
-  The torso rotation stretch helps improve spinal mobility and relieves tension in the lower back and obliques. It can be performed standing or seated.
+  Starting Position:
+  • Stand tall with feet shoulder-width apart and knees soft, or sit tall on a bench or mat.
+  • Place your hands on your hips or cross your arms comfortably across your chest.
 
-  Standing Variation: Stand upright with your feet shoulder-width apart. Place your hands on your hips or extend your arms in front of you. Slowly rotate your torso to one side, keeping your hips stable. Hold for a few seconds, then rotate to the opposite side.
-  Seated Variation: Sit on a chair with your feet flat on the floor. Place one hand on the outside of your opposite thigh and gently twist your torso toward that side. Hold the stretch before switching sides.
+  Execution:
+  • Slowly rotate your upper body to one side, keeping your hips and pelvis facing squarely forward.
+  • Hold the stretch across your torso and thoracic spine for 15 to 30 seconds while breathing normally.
+  • Return smoothly to center and rotate to the opposite side.
 upstream:
   license: CC-BY-SA-4.0
-  license_author: hpmbala@gmail.com
+  license_author: "hpmbala@gmail.com"
   source_id: '2417'

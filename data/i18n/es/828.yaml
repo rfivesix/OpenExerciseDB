@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '828'
 language: es
-status: upstream_unreviewed
-name: Aperturas Inversas
-description: |-
-  Los "pájaros" con mancuernas en banco inclinado son un ejercicio del tren superior que se enfoca en los deltoides posteriores, así como en los músculos posturales de la espalda alta. Para ejecutarlo, debes acostarte boca abajo sobre el banco inclinado, con el pecho firmemente apoyado.
-  Debido a que trabaja músculos relativamente pequeños, este ejercicio se suele realizar con un peso ligero a cambio de un número alto de repeticiones, como series de 10 a 15 repeticiones o más.
+status: ai_reviewed
+name: Pájaros en banco inclinado
+description: '- Acuéstate boca abajo sobre un banco inclinado a 30-45 grados con el
+  pecho firmemente apoyado y una mancuerna en cada mano.
+
+  - Con los codos ligeramente flexionados, eleva las mancuernas hacia los lados en
+  un arco amplio hasta la altura de los hombros.
+
+  - Aprieta los deltoides posteriores y la espalda alta en la parte más alta del movimiento.
+
+  - Desciende las mancuernas de forma lenta y controlada a la posición inicial sin
+  usar balanceos.'
+search_terms:
+- Aperturas Inversas
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

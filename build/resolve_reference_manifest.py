@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Loest aus dem Manifest des letzten Releases die URL der Referenz-DB auf.
 
-Unveraendert aus `train-libre` uebernommen — die Logik ist vom Schema
+Unveraendert aus einer frueheren Pipeline uebernommen — die Logik ist vom Schema
 unabhaengig. Der Workflow ruft es auf, nachdem er das Manifest des vorigen
 Releases geladen hat, und uebergibt die aufgeloeste URL an den Download-Schritt.
 """

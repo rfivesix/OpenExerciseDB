@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1307'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plancha frontal
-description: |-
-  La plancha es un ejercicio con el peso corporal. Como movimiento multifuncional, la plancha no solo trabaja tus abdominales, sino también la columna y la cadera. La plancha fortalece y tonifica todo tu cuerpo, mejora tu postura y tu equilibrio, reduce la grasa corporal y puede ayudar a acelerar tu metabolismo.
-  Ejercicios como la «posición de plancha» ayudan a fortalecer la resistencia de los músculos abdominales estabilizadores. También puede ayudar a aliviar el dolor de espalda asociado a un debilitamiento de la función de los músculos estabilizadores del cuerpo.
-  Las planchas son un ejercicio versátil que trabaja muchos de los grupos musculares más importantes del cuerpo, por lo que cualquier persona puede aplicarlas para mejorar la resistencia y la fuerza corporal general.
+description: 'La plancha es un ejercicio con el peso corporal. Como movimiento multifuncional, la plancha no solo trabaja
+  tus abdominales, sino también la columna y la cadera. La plancha fortalece y tonifica todo tu cuerpo, mejora tu postura
+  y tu equilibrio, reduce la grasa corporal y puede ayudar a acelerar tu metabolismo.
+
+  Ejercicios como la «posición de plancha» ayudan a fortalecer la resistencia de los músculos abdominales estabilizadores.
+  También puede ayudar a aliviar el dolor de espalda asociado a un debilitamiento de la función de los músculos estabilizadores
+  del cuerpo.
+
+  Las planchas son un ejercicio versátil que trabaja muchos de los grupos musculares más importantes del cuerpo, por lo que
+  cualquier persona puede aplicarlas para mejorar la resistencia y la fuerza corporal general.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

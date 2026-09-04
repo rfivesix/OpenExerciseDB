@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '622'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Standing Calf Raises
-description: |-
-  Get onto the calf raises machine, you should able to completely push your calves down. Stand straight, don't make a hollow back and don't bend your legs. Pull yourself up as high as you can. Make a small pause of 1 - 2 seconds and go slowly down.
+description: Get onto the calf raises machine, you should able to completely push your calves down. Stand straight, don't
+  make a hollow back and don't bend your legs. Pull yourself up as high as you can. Make a small pause of 1 - 2 seconds and
+  go slowly down.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

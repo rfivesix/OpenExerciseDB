@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '821'
 language: de
-status: upstream_unreviewed
-name: Klimmzug an Leiste
-description: Klimmzüge an einer gewählten Leiste eines Fingerboards / Hangboards
+status: ai_reviewed
+name: Klimmzug am Fingerboard
+description: '- Greife eine ausgewählte Leiste oder Kante des Fingerboards symmetrisch
+  mit beiden Händen im offenen Griff oder Halb-Crimp.
+
+  - Hänge dich mit gestreckten Armen und aktiven Schultern frei an das Board.
+
+  - Ziehe deinen Körper kontrolliert nach oben, bis sich dein Kinn mindestens auf
+  Höhe der Leiste bzw. deiner Hände befindet.
+
+  - Senke dich langsam und kontrolliert (2-3 Sekunden) wieder in die Ausgangsposition
+  ab, ohne in die Gelenke zu fallen.'
+search_terms:
+- Klimmzug an Leiste
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

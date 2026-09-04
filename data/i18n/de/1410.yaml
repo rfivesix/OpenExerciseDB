@@ -1,10 +1,17 @@
 exercise_id: '1410'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank mit alternierendem Beinheben
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Hebe in der Plank-Position abwechselnd ein Bein an.
+description: |-
+  Ausgangsposition:
+  Beginne im Unterarmstütz (Plank): Die Ellbogen befinden sich unter den Schultern, der Körper bildet von Kopf bis Fersen eine gerade Linie, der Rumpf und das Gesäß sind fest angespannt.
+
+  Ausführung:
+  Hebe ein Bein mit gestrecktem Knie kontrolliert einige Zentimeter vom Boden nach oben an, indem du die Gesäßmuskulatur aktiv anspannst. Halte die Position für einen kurzen Moment am obersten Punkt, senke das Bein langsam wieder ab und wiederhole die Bewegung mit dem anderen Bein.
+
+  Hinweise:
+  Halte die Hüfte parallel zum Boden und vermeide ein Verdrehen oder Durchhängen des Beckens. Die Wirbelsäule bleibt während der gesamten Übung stabil.
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com

@@ -5,15 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '822'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Rear Delt Fly
-description: |-
-  The reverse cable fly, also known as the cable rear delt fly, is a deltoid muscle strengthening and definition exercise. It’s one of the best isolation exercises for your back and posterior deltoid.This workout targets your posterior (back) deltoids while using a range of upper body muscles.
+description: '- Set the cable pulleys to approximately head or eye level.
 
-  Adjust the weight and the pulleys to the right height. You should be able to see the pulleys because they should be above your head.
-  With your right hand, grab the left pulley, and with your left hand, grab the right pulley, crossing them in front of you. This is where you’ll begin your journey.
-  Start the movement by moving your arms back and forth while keeping your arms straight.
-  Pause at the finish of the move for a brief moment before returning the handles to their starting positions.
+  - Grasp the left cable with your right hand and the right cable with your left hand,
+  crossing the cables in front of you.
+
+  - Pull your arms out and back in a wide horizontal arc while keeping a slight, fixed
+  bend in your elbows.
+
+  - Squeeze your rear deltoids at the end of the range, then slowly return the handles
+  back across your chest under control.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442

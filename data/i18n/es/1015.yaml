@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1015'
 language: es
-status: upstream_unreviewed
-name: Círculos de Cuello (Sentido Horario)
+status: ai_reviewed
+name: Círculos de cuello en sentido horario
 description: |-
-  Precaución: Este es un ejercicio de movilidad que debe realizarse siempre de forma muy lenta y controlada. Si sientes dolor, mareo o pinzamientos, detente inmediatamente.
-  Instrucciones:
-  Sentado o de pie con la espalda recta y los hombros relajados, baja suavemente el mentón hacia el pecho.
-  Desde ahí, comienza a dibujar un círculo muy lento en el sentido de las agujas del reloj: rueda tu cabeza llevando la oreja derecha hacia el hombro derecho, luego (con mucho cuidado) hacia atrás, después la oreja izquierda hacia el hombro izquierdo, y finalmente regresa a la posición inicial con el mentón en el pecho. El movimiento debe ser fluido y sin forzar.
+  Posición inicial:
+  Siéntate o ponte de pie con la espalda erguida y los hombros relajados hacia abajo. Baja suavemente la barbilla hacia el pecho.
+
+  Ejecución:
+  1. Realiza un movimiento circular lento y fluido en el sentido de las agujas del reloj: inclina la cabeza hacia el hombro derecho, pásala suavemente hacia atrás, continúa hacia el hombro izquierdo y vuelve al pecho.
+  2. Mantén el cuello relajado y evita forzar o comprimir las cervicales al pasar por atrás.
+  3. Repite las rotaciones de forma continua y controlada.
+search_terms:
+  - Círculos de Cuello (Sentido Horario)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

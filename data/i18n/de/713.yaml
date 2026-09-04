@@ -1,10 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '713'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Liegestütz an der Wand
-description: Liegestütz gegen eine Wand.
+description: '- Stelle dich etwa eine Armlänge von einer stabilen Wand entfernt auf,
+  die Füße hüftbreit.
+
+  - Lege deine Hände flach auf Schulterhöhe und etwas weiter als schulterbreit an
+  die Wand.
+
+  - Halte den Körper von Kopf bis Fuß in einer geraden Linie und beuge kontrolliert
+  die Ellenbogen, um deine Brust der Wand zu nähern.
+
+  - Drücke dich kraftvoll aus der Brust und den Armen wieder in die Ausgangsposition
+  zurück, ohne die Hüfte einknicken zu lassen.'
+translated_from: en
 upstream:
   license: CC-BY-SA-3.0
   license_author: Dexter

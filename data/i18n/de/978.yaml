@@ -1,11 +1,24 @@
 exercise_id: '978'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Knieheben
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Das Beinheben um 90° an der Stange ist eine sehr intensive Übung, die alle Bauchmuskeln beansprucht.
+name: Knieheben an der Klimmzugstange
+description: 'Ausgangsposition: Hänge dich mit gestreckten Armen im Obergriff an eine
+  Klimmzugstange. Die Schultern sind aktiv stabilisiert und die Beine geschlossen.
+
+  Ausführung: Spanne die Bauchmuskeln fest an und ziehe die gebeugten Knie kontrolliert
+  nach oben in Richtung Brust. Rolle dabei das Becken leicht ein, um die Bauchmuskeln
+  maximal zu kontrahieren.
+
+  Rückkehr: Senke die Beine langsam und kontrolliert wieder ab, ohne den Körper in
+  Schwingung zu versetzen.
+
+  Hinweis: Führe die Wiederholungen strikt ohne Schwungholen aus den Beinen aus.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1291'
+search_terms:
+- Knieheben
+- Hanging Knee Raise
+- Hängendes Knieheben

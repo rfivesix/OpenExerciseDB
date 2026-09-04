@@ -5,9 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1293'
 language: en
-status: upstream_unreviewed
-name: One armed push-ups
-description: Perform push-ups with one hand, alternating the sides
+status: ai_reviewed
+name: One-Arm Push-Up
+description: 'Starting position:
+
+  Assume a push-up position with your feet spread wide for balance. Place your supporting hand on the floor directly beneath
+  your chest, and rest your free arm on your lower back.
+
+
+  Execution:
+
+  1. Bend your supporting elbow to lower your chest toward the floor with steady control.
+
+  2. Keep your core and glutes firmly braced to minimize torso rotation.
+
+  3. Press firmly through your palm to return to the starting plank position. Complete all reps on one side before switching
+  arms.'
+search_terms:
+- One armed push-ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '516'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rückenstrecker im Stehen
+search_terms:
+- Rückenstrecken im Stehen
 description: |-
-  Ball zwischen die Hände klemmen oder Handtuch auseinanderziehen und dann im Stand nach oben mit ausgestreckten Armen über den Kopf ziehen, dabei je Wiederholung abwechselnd ein Bein heben. Die Beine können mit einem Widerstandsband verbunden sein.
+  Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand. Halte die Arme gestreckt über den Kopf (optional mit einem Handtuch oder leichten Ball zwischen den Händen auf Zug).
+  Ausführung: Ziehe die Arme nach oben-hinten und hebe gleichzeitig abwechselnd ein Bein nach hinten an, um die Rückenstrecker und das Gesäß anzuspannen. Der Oberkörper streckt sich aktiv in die Länge.
+  Rückkehr: Senke das Bein kontrolliert wieder ab und wiederhole die Bewegung mit dem anderen Bein.
+  Hinweis: Die Bewegung kräftigt die aufrichtende Muskulatur der Wirbelsäule und schult die Rumpfstabilität im Stand.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer

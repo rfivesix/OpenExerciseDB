@@ -5,9 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '529'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Run - Interval Training
-description: Run and do some interval trainings such as hill repat, fartlek,..
+description: Interval running training alternating between high-intensity efforts (such as hill repeats, fartlek, or track
+  sprints) and active recovery intervals (jogging or walking) to boost aerobic and anaerobic capacity.
 upstream:
   license: CC-BY-SA-4.0
   license_author: BeLikeWater

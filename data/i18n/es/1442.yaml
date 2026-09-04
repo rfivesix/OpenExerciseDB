@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1442'
 language: es
-status: upstream_unreviewed
-name: Press circular con mancuernas
+status: ai_reviewed
+name: Press circular con mancuernas (Kreis Press)
 description: |-
-  Siéntate en un banco con una inclinación de 45°
-  Sujeta las mancuernas por encima de la cabeza
-  Baja las mancuernas como si hicieras un press militar
-  Gira las mancuernas con las palmas hacia arriba y extiende los brazos delante del cuerpo
-  Junta las manos hasta que las mancuernas se toquen, manteniendo los brazos extendidos
-  Invierte el movimiento hasta que las mancuernas vuelvan a estar por encima de la cabeza
-  Esto es una repetición
+  Posición inicial:
+  • Siéntate en un banco inclinado a unos 45 grados y mantén dos mancuernas sostenidas sobre la cabeza con los brazos extendidos.
+
+  Ejecución:
+  • Desciende las mancuernas trazando un arco circular amplio hacia los lados hasta llegar a la altura de los hombros.
+  • Vuelve a empujar las mancuernas hacia arriba siguiendo una trayectoria semicircular controlada hasta juntarlas sobre la cabeza.
+  • Mantén una velocidad constante para mantener la tensión sobre los deltoides.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3951'
+search_terms:
+  - Press circular con mancuernas

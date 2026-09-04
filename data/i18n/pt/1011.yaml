@@ -5,17 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Alongamento frontal do pescoço
 description: |-
   Posição inicial:
-  Sente-se ou fique em pé com as costas retas.
-  Passos:
+  Sente-se ou fique em pé com a postura ereta e os ombros relaxados.
 
-  Abra bem a boca.
-  Incline lentamente a cabeça para trás com a boca aberta. Se sentir necessidade de apoio, junte as mãos atrás da cabeça.
-  Feche e abra a boca muito lentamente.
-  Ao final, retorne lentamente à posição inicial e feche a boca.
+  Execução:
+  1. Abra bem a boca.
+  2. Incline lentamente a cabeça para trás com a boca aberta até sentir um alongamento suave na frente do pescoço.
+  3. Feche e abra a boca muito devagar várias vezes para intensificar o alongamento da musculatura anterior do pescoço.
+  4. Retorne devagar à posição inicial e feche a boca.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1901'

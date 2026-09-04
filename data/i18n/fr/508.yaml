@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '508'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing
-description: |-
-  En musculation, le rowing (souvent précédé d'un adjectif, par exemple le rowing assis) est un exercice dont le but est de renforcer les muscles qui ramènent les bras vers le corps (le grand dorsal), ainsi que ceux qui rétractent les omoplates (les trapèzes et les rhomboïdes) et ceux qui soutiennent la colonne vertébrale (les érecteurs du rachis). Réalisé sur un rameur, le rowing sollicite également les muscles qui étendent et soutiennent les jambes (les quadriceps et les muscles de la cuisse). Dans tous les cas, les abdominaux et les muscles du bas du dos doivent être sollicités afin de soutenir le corps et de prévenir les blessures du dos.
 search_terms:
-  - Tirage horizontal
+- Tirage horizontal
+description: En musculation, le rowing (souvent précédé d'un adjectif, par exemple le rowing assis) est un exercice dont le
+  but est de renforcer les muscles qui ramènent les bras vers le corps (le grand dorsal), ainsi que ceux qui rétractent les
+  omoplates (les trapèzes et les rhomboïdes) et ceux qui soutiennent la colonne vertébrale (les érecteurs du rachis). Réalisé
+  sur un rameur, le rowing sollicite également les muscles qui étendent et soutiennent les jambes (les quadriceps et les muscles
+  de la cuisse). Dans tous les cas, les abdominaux et les muscles du bas du dos doivent être sollicités afin de soutenir le
+  corps et de prévenir les blessures du dos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

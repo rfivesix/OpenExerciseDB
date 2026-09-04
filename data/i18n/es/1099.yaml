@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1099'
 language: es
-status: upstream_unreviewed
-name: Sujeción lateral dinámica
+status: ai_reviewed
+name: Mantenimiento lateral dinámico a una pierna con pesa rusa
 description: |-
-  Pasa una banda elástica alrededor de una pesa rusa y levanta la pesa rusa sujetándola por la banda. Déjala colgar a tu costado y mantente de pie sobre una pierna; cambia de pierna mientras sigues sujetándola. Repite con la otra mano.
+  Posición inicial:
+  Pasa una banda elástica por el asa de una pesa rusa y sujeta la banda con una mano, de forma que la pesa quede suspendida al lado de tu cuerpo. Ponte de pie con la espalda erguida.
+
+  Ejecución:
+  1. Levanta un pie del suelo para quedar en equilibrio sobre una sola pierna.
+  2. Activa fuertemente los oblicuos y el core para resistir las oscilaciones de la pesa rusa suspendida y evitar que el torso se incline lateralmente.
+  3. Mantén la postura durante el tiempo prescrito (puedes alternar la pierna de apoyo manteniendo el agarre).
+  4. Repite el ejercicio sujetando la pesa rusa con la otra mano.
+search_terms:
+  - Sujeción lateral dinámica
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

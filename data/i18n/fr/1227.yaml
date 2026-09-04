@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1227'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing pour deltoïdes postérieurs aux haltères
 description: |-
-  Tenez un haltère dans chaque main. Penchez-vous au niveau des hanches pour rendre votre dos presque parallèle au sol. Laissez vos bras pendre vers le bas. Gardez vos bras dans l'alignement de vos épaules. Fléchissez et levez vos coudes vers les côtés jusqu'à ce que vos bras soient parallèles au sol. Redescendez lentement et répétez.
+  Position de départ :
+  • Tenez un haltère dans chaque main et penchez-vous vers l'avant à partir des hanches avec le dos plat jusqu'à être presque parallèle au sol.
+  • Laissez pendre vos bras verticalement sous les épaules, paumes orientées vers l'arrière (prise pronation).
+
+  Exécution :
+  • Tirez les coudes vers le haut et largement écartés sur les côtés à un angle d'environ 90 degrés par rapport au buste.
+  • Montez jusqu'à ce que les bras soient parallèles au sol en contractant l'arrière de l'épaule (deltoïde postérieur).
+  • Redescendez lentement sous contrôle sans arrondir le dos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4526'
+search_terms:
+  - Dumbbell rear delt row

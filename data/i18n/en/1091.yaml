@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1091'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plank Shoulder Taps
 description: |-
-  In the correct plank position, place your feet slightly wider than shoulder-width apart. alternately lift and touch the opposite shoulder with one hand.
+  Starting position:
+  Assume a strong high plank position with your hands directly under your shoulders and your feet set slightly wider than hip-width apart for greater stability.
+
+  Execution:
+  1. Brace your core, glutes, and thighs to keep your pelvis completely level and prevent your hips from rotating.
+  2. Lift your right hand off the floor and tap your left shoulder in a smooth, controlled motion.
+  3. Return your right hand to the ground, then lift your left hand to tap your right shoulder.
+  4. Continue alternating sides while keeping your body as rigid and stable as possible.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

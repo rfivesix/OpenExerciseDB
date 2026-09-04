@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '694'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo al mentón con mancuernas
-description: |-
-  Sujeta una mancuerna en cada mano delante del cuerpo. Mantén las palmas hacia el cuerpo. Sube las manos en línea recta hasta que queden bajo el mentón, y luego bájalas. Repite el ejercicio.
+description: '- De pie con los pies al ancho de los hombros, sujeta una mancuerna
+  en cada mano delante de los muslos con las palmas orientadas hacia el cuerpo.
+
+  - Eleva las mancuernas verticalmente pegadas al torso, liderando el movimiento con
+  los codos hasta la altura del pecho.
+
+  - Haz una breve pausa en la posición más alta y desciende lentamente las mancuernas
+  con control.'
 search_terms:
-  - Remo vertical
+- Remo vertical
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: pt
-status: upstream_unreviewed
-name: Agachamento parede
-description: |-
-  Encoste na parede, de frente com os pés firmes no chão, alinhados na largura dos ombros e afastados da parede cerca de 60 centímetros
-  Deslize pela parede, mantendo as costas pressionada, até que as pernas fiquem em ângulo reto, paralelas ao chão. Os joelhos devem estar diretamente acima dos tornozelos.Dor no quadríceps é normal. Pare se sentir dor nos joelhos ou na rótula do joelho
+status: ai_reviewed
+name: Agachamento isométrico na parede
+description: '- Encoste as costas retas em uma parede com os pés na largura dos ombros
+  e afastados cerca de 60 cm da parede.
+
+  - Deslize pela parede até que as coxas fiquem paralelas ao chão e os joelhos formem
+  um ângulo de 90 graus diretamente acima dos tornozelos.
+
+  - Mantenha a posição isométrica pelo tempo estipulado com o abdômen contraído.'
+search_terms:
+- Agachamento parede
 upstream:
   license: CC0-1.0
   license_author: Blablabla

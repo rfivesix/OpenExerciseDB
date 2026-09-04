@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1458'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cross-Body Cable Y-Raise
 description: |-
-  Attach a D-Bar to the cable machine. Perform a motion akin to drawing a sword from across your body.
+  Starting Position:
+  • Attach two single handles to the low pulleys of a dual cable machine.
+  • Grab the cables across your body (left hand takes right cable, right hand takes left cable).
+  • Stand upright with feet hip-width apart and arms crossed in front of your hips.
+
+  Execution:
+  • Raise both arms diagonally upward and outward until they form a wide 'Y' overhead.
+  • Focus on squeezing your rear deltoids and lower trapezius at the top of the movement.
+  • Lower your arms slowly and with control back to the starting crossed position.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2423'
+search_terms:
+  - Cross-Body Y-Raise

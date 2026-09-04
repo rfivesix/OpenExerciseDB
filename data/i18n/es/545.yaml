@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '545'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tijeras
-description: |-
-  Las tijeras son un ejercicio abdominal que fortalece el transverso abdominal, ayudando a aplanar el vientre y a fortalecer todo el core. Las tijeras no solo son un movimiento de fuerza para el core, sino que también son un gran estiramiento para los isquiotibiales y la zona lumbar. Todo el mundo busca nuevas formas de trabajar el core, aplanar el vientre y mejorar la flexibilidad. Si aprendes a hacer las tijeras, lo tendrás todo reunido en un solo movimiento.
+description: Las tijeras son un ejercicio abdominal que fortalece el transverso abdominal, ayudando a aplanar el vientre y
+  a fortalecer todo el core. Las tijeras no solo son un movimiento de fuerza para el core, sino que también son un gran estiramiento
+  para los isquiotibiales y la zona lumbar. Todo el mundo busca nuevas formas de trabajar el core, aplanar el vientre y mejorar
+  la flexibilidad. Si aprendes a hacer las tijeras, lo tendrás todo reunido en un solo movimiento.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

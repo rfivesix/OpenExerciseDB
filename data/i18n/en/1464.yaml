@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1464'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pause Hack Squats
 description: |-
-  Hack Squats but with a 1-2s pause at the bottom of the movement. This makes sure that there is no more elastic energy stored in the muscles.
+  Starting Position:
+  • Step into the hack squat machine, placing your shoulders snugly beneath the pads and resting your back against the backrest.
+  • Position your feet shoulder-width apart on the footplate.
+
+  Execution:
+  • Lower the sled slowly by bending your knees until your thighs are at or below parallel to the platform.
+  • Hold a complete dead stop pause for 1 to 2 seconds at the bottom without bouncing.
+  • Drive forcefully through your feet, engaging your quadriceps and glutes to press back up to the start without locking out your knees harshly.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2427'
+search_terms:
+  - Hack Squat with Pause

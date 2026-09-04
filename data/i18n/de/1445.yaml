@@ -5,16 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1445'
 language: de
-status: upstream_unreviewed
-name: Jerk (Stoßen)
+status: ai_reviewed
+name: Stoßen (Jerk)
 description: |-
-  Olympisches Stoßen
+  Ausgangsposition:
+  • Halte die Langhantel im schulterbreiten Obergriff fest auf den vorderen Schultern und dem oberen Schlüsselbeinbereich abgelegt (Front-Rack-Position).
+  • Der Stand ist hüftbreit, der Oberkörper vollkommen aufgerichtet und die Rumpfmuskulatur angespannt.
 
-  Halte die Stange vorne auf den Schultern wie beim Push Press
-  Beuge und strecke die Knie, um die Stange nach oben zu drücken, während du dich unter die Stange tauchst
-  Fange die Stange mit gestreckten Armen über dem Kopf in einem Ausfallschritt auf
-  Bringe die Füße parallel, während du die Stange im Lockout hältst
+  Ausführung:
+  • Führe eine kurze, vertikale Kniebeugung von wenigen Zentimetern durch (Dip), ohne den Oberkörper nach vorne zu neigen.
+  • Strecke die Beine explosiv durch (Drive) und nutze diesen Aufwärtsimpuls, um dich blitzschnell unter die aufsteigende Stange zu katapultieren.
+  • Fange die Hantel mit gestreckten, verriegelten Armen über dem Kopf im Ausfallschritt (Split Jerk) oder in einer Kniebeuge ab.
+  • Führe den vorderen und hinteren Fuß schrittweise wieder parallel zusammen, während die Hantel stabil im Überkopf-Lockout fixiert bleibt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3954'
+search_terms:
+  - Jerk (Stoßen)
+  - Stoßen
+  - Jerk
+  - Split Jerk

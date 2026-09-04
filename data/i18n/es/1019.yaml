@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: es
-status: upstream_unreviewed
-name: Plancha de lado derecho
+status: ai_reviewed
+name: Plancha lateral derecha
 description: |-
-  Acuéstese sobre su lado correspondiente, con el codo en ángulo recto y el brazo hacia afuera
-  Levante la pelvis del suelo levantando el hombro hacia arriba, manteniendo el antebrazo en el suelo; la cabeza, la pelvis y los pies deben estar en línea recta
-  Mantenga esta posición
+  Posición inicial:
+  Túmbate sobre tu costado derecho con las piernas estiradas y los pies juntos o escalonados. Apoya el codo derecho directamente debajo del hombro derecho, con el antebrazo firme en el suelo.
+
+  Ejecución:
+  1. Activa el abdomen, los oblicuos y los glúteos, y eleva las caderas del suelo hasta formar una línea recta desde la cabeza hasta los pies.
+  2. Mantén la pelvis alineada sin dejar que caiga hacia el suelo ni que rote hacia adelante.
+  3. Sostén la posición de forma estática durante el tiempo indicado respirando con normalidad.
+search_terms:
+  - Plancha de lado derecho
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1924'

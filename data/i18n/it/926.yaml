@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '926'
 language: it
-status: upstream_unreviewed
-name: Pectoral Machine
-description: macchina seduta, schiena dritta, esercizio lento
+status: ai_reviewed
+name: Pectoral Machine (Pec Deck)
+description: 'Posizione di partenza: Siediti alla macchina con la schiena ben appoggiata
+  allo schienale. Regola l''altezza del sedile in modo che le impugnature siano all''altezza
+  del petto.
+
+  Esecuzione: Con i gomiti leggermente piegati, porta le impugnature a toccarsi davanti
+  al torace con un movimento ad arco lento e controllato, contraendo intensamente
+  i pettorali.
+
+  Ritorno: Torna lentamente alla posizione di partenza senza far toccare i pesi tra
+  le ripetizioni.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '2126'
+search_terms:
+- Pectoral Machine

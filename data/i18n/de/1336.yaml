@@ -5,15 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1336'
 language: de
-status: upstream_unreviewed
-name: Trizepsdrücken über Kopf (Kurzhantel)
-description: |-
-  Ellbogen fixieren
-  Muskulatur anspannen
-  Kein Schwung holen
-  Kontrollierte Bewegung
-  Langsame Bewegung
-  Nicht überdehnen
+status: ai_reviewed
+name: Trizepsdrücken über Kopf mit Kurzhantel
+description: 'Ausgangsposition:
+
+  Setze dich aufrecht auf eine Bank oder stelle dich hüftbreit hin. Hebe eine Kurzhantel mit beiden Händen senkrecht über
+  den Kopf, sodass die Arme fast vollständig gestreckt sind.
+
+
+  Ausführung:
+
+  1. Beuge langsam die Ellbogen und senke die Hantel hinter den Kopf ab, bis deine Waden und Unterarme einen Winkel von etwa
+  90 Grad bilden.
+
+  2. Halte die Ellbogen eng am Kopf und stabil an ihrer Position.
+
+  3. Drücke die Hantel durch Kontraktion des Trizeps kontrolliert wieder nach oben über den Kopf.
+
+
+  Hinweise:
+
+  Halte die Ellbogen fixiert und vermeide ein Hohlkreuz, indem du die Rumpfmuskulatur fest anspannst.'
+search_terms:
+- Trizepsdrücken über Kopf (Kurzhantel)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

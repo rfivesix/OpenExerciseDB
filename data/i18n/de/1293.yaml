@@ -1,10 +1,26 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1293'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einarmige Liegestütze
-description: Führe Liegestütze mit einer Hand aus und wechsle die Seite ab.
+description: 'Ausgangsposition:
+
+  Gehe in eine Liegestützposition und platziere die stützende Hand mittig unter der Brust. Öffne deine Beine deutlich breiter
+  als hüftbreit, um das Gleichgewicht zu sichern. Die freie Hand ruht auf dem Rücken.
+
+
+  Ausführung:
+
+  1. Beuge den stützenden Arm und senke die Brust langsam und kontrolliert zum Boden ab.
+
+  2. Halte deine Rumpf- und Gesäßmuskulatur fest angespannt, um ein Verdrehen des Körpers zu minimieren.
+
+  3. Drücke dich kraftvoll wieder nach oben in die Ausgangsposition. Wechsle nach dem Satz den Arm.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

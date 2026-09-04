@@ -6,13 +6,20 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '510'
 language: en
-status: ai_raw
-name: Chest-Supported Dumbbell Row on Bench
+status: ai_reviewed
+name: Chest-Supported Barbell Row on Bench
+search_terms:
+- Rowing, Lying on Bench
+- Chest-Supported Dumbbell Row on Bench
+- Barbell Seal Row
+- Seal Row
+- Lying Barbell Bench Row
+description: |-
+  Starting Position: Lie face down on a flat elevated bench. Grasp the barbell placed beneath the bench with a shoulder-width overhand grip.
+  Execution: Pull the barbell upward toward your torso by driving your elbows back and squeezing your shoulder blades together.
+  Return: Lower the barbell under control back to the fully extended starting position.
+  Cues: The bench supports your torso, eliminating spinal load and allowing pure isolation of the latissimus dorsi, rhomboids, and upper back.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '142'
-search_terms:
-  - Rowing, Lying on Bench
-description: |-
-  Lie chest-down on a flat bench and hold a barbell. Pull the barbell toward your torso by drawing your elbows back, then lower it under control.

@@ -1,10 +1,22 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1204'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Cardio-Fahrradeinheit
-description: Cardioeinheit auf einem Technogym Bike Excite 1000 Standfahrrad.
+name: Fahrradergometer-Ausdauertraining
+description: |-
+  Ausgangsposition:
+  • Stelle den Sattel des Fahrradergometers auf Hüfthöhe ein, sodass das Knie bei tiefster Pedalstellung nur noch minimal gebeugt ist.
+  • Passe den Lenker so an, dass der Oberkörper entspannt und ohne Verspannungen im Nacken abgestützt werden kann.
+
+  Ausführung:
+  • Trete gleichmäßig mit einer Trittfrequenz von ca. 70 bis 90 Umdrehungen pro Minute in die Pedale.
+  • Passe den Tretwiderstand so an, dass du im gewünschten aeroben Herzfrequenzbereich für die geplante Trainingsdauer bleibst.
+  • Halte den Oberkörper ruhig und stabil, ohne mit den Hüften auf dem Sattel hin und her zu rutschen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2164'
+search_terms:
+  - Cardio-Fahrradeinheit
+  - Stationäres Fahrrad Ausdauer
+  - Cycling Cardio

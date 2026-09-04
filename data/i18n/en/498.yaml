@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '498'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Grip Bench Press
-description: Upper chest focuses exercise that also works triceps
+description: |-
+  Lie flat on a bench with your feet firmly planted on the floor. Grip the barbell with a reverse (supinated/underhand) grip slightly wider than shoulder-width, keeping wrists aligned.
+  Unrack the bar and lower it under control to your lower chest while keeping your elbows tucked at a comfortable angle. Press the bar upward to full arm extension, strongly engaging the upper chest (clavicular head) and triceps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: bl0sh

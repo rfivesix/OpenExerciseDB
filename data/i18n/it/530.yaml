@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '530'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tapis roulant
-description: Corri su un tapis roulant (correre su tappeto rotante in palestra)
+description: |-
+  Posizione di partenza: Posizionati sul nastro del tapis roulant, aggancia la clip di sicurezza e imposta la velocità e l'inclinazione desiderate.
+  Esecuzione: Corri a ritmo costante mantenendo una postura eretta, lo sguardo in avanti e un appoggio elastico e controllato del piede.
 upstream:
   license: CC-BY-SA-3.0
   license_author: foguinho.peruca

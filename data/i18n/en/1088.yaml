@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1088'
 language: en
-status: upstream_unreviewed
-name: Dumbbell sumo deadlift
+status: ai_reviewed
+name: Dumbbell Sumo Deadlift
 description: |-
-  Lower your dumbbell to the ground between your legs. Assume a wide stance and with a straight back squat down. With the dumbbell standing upright, grip it by the top of the ‘head’&nbsp;(picture 1).Keeping your chest up and core braced, push the floor away, driving back upwards to a standing position&nbsp;(picture 2). Repeat. If you can easily achieve 20-30 reps, use two dumbbells.
+  Starting position:
+  Assume a wide stance (roughly 1.5 to 2 times shoulder width) with your toes turned out at approximately 45 degrees. Stand over a vertically oriented dumbbell placed on the floor between your feet.
+
+  Execution:
+  1. Hinge at your hips and bend your knees, keeping your chest tall and back straight, to grip the upper end of the dumbbell with both hands.
+  2. Drive your feet through the floor and extend your hips and knees to pull the weight upward to a full standing lockout.
+  3. Squeeze your glutes and inner thighs firmly at the top.
+  4. Lower the dumbbell back down under control until it touches the ground before initiating the next repetition.
+search_terms:
+  - Dumbbell sumo deadlift
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

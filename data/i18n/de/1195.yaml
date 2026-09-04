@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1195'
 language: de
-status: upstream_unreviewed
-name: Seitliche Slides + Kniebeugen
+status: ai_reviewed
+name: Seitliche Shuffles mit Kniebeuge
 description: |-
-  Mit den Füßen etwas weiter als schulterbreit auseinander und in einer tiefen, defensiven Haltung trittst du mit dem führenden Bein zur Seite und stößt dich mit dem Standbein ab.
-  Nach drei Slides drehst du deinen Körper um 180 Grad auf dem führenden (äußeren) Bein und machst eine Kniebeuge. Fahre fort.
+  Ausgangsposition:
+  • Stelle dich in eine aufrechte, athletische Haltung mit leicht gebeugten Knien und Hüften (tiefer Schwerpunkt).
+  • Die Füße stehen etwas weiter als schulterbreit auseinander.
+
+  Ausführung:
+  • Mache drei dynamische Seitwärtsschritte (Side Slides/Shuffles) in eine Richtung, indem du mit dem Standbein abdrückst.
+  • Stoppe die Bewegung, richte dich aus und führe eine saubere, tiefe Kniebeuge (Squat) aus.
+  • Drehe dich nach der Kniebeuge um 180 Grad oder wechsle direkt die Richtung für die nächsten Shuffles.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3729'
+search_terms:
+  - Side Slides + Squats
+  - Seitliche Ausfallschritte mit Kniebeuge

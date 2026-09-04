@@ -5,16 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1028'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotation thoracique à quatre pattes à gauche
 description: |-
   Position de départ :
-  Placez-vous à quatre pattes, les genoux écartés à la largeur des épaules. Posez votre main gauche derrière votre tête tout en gardant votre main droite tendue et en contact avec le sol.
-  Étapes :
+  Mettez-vous à quatre pattes, les mains sous les épaules et les genoux sous les hanches. Main droite fermement appuyée au sol, placez la main gauche derrière la nuque, coude ouvert sur le côté.
 
-  À l'inspiration, déplacez votre coude gauche vers votre main droite, en gardant votre main gauche derrière la tête.
-  À l'expiration, déplacez votre coude gauche de manière à le pointer vers le plafond.
-  Répétez.
+  Étapes :
+  1. À l'inspiration, tournez le haut du buste vers le bas en amenant le coude gauche vers le bras d'appui droit.
+  2. À l'expiration, ouvrez la poitrine vers la gauche en dirigeant le coude gauche vers le haut en direction du plafond.
+  3. Gardez le bassin stable et horizontal sans déhancher.
+  4. Répétez le mouvement avec fluidité et contrôle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

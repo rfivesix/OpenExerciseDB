@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '722'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Step-ups mit Zusatzgewicht
-description: Box-Step-ups mit Langhantel und 45er-Scheiben auf jeder Seite.
+description: '- Nimm eine Langhantel auf den oberen Rücken (Trapez) oder halte zwei
+  Kurzhanteln seitlich am Körper und stelle dich aufrecht vor eine stabile Box oder
+  Trainingsbank.
+
+  - Setze einen Fuß vollständig auf die Box, sodass die gesamte Fußsohle stabil aufliegt.
+
+  - Drücke dich kraftvoll über die Ferse dieses Standbeins nach oben, bis Hüfte und
+  Knie vollständig gestreckt sind und du auf der Box stehst.
+
+  - Senke das hintere Bein langsam und kontrolliert wieder zum Boden ab, ohne dich
+  beim Aufsteigen übermäßig mit dem Bodenbein abzustoßen.'
+translated_from: en
 upstream:
   license: CC0-1.0
   license_author: jigglychipmunk

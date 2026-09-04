@@ -1,22 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1009'
 language: de
 status: ai_reviewed
-name: Rechte Nackendehnung
-description: |-
-  Ausgangsposition:
-  Sitze oder stehe mit aufrechtem Rücken.
-  Schritte:
+name: Nackendehnung (rechts)
+description: 'Ausgangsposition: Sitze oder stehe aufrecht mit geradem Rücken und entspannten,
+  tiefen Schultern.
 
-  Neige den Kopf zur Seite.
-  Führe die rechte Hand über den Kopf an die linke Schläfe.
-  Übe mit der Hand leichten Druck gegen den Kopf und mit dem Kopf isometrisch Gegendruck gegen die Hand aus, sodass der Kopf stabil bleibt.
-  Halte diese Spannung für die vorgegebene Dauer aufrecht.
+  Ausführung: Neige den Kopf sanft zur linken Seite, sodass das linke Ohr in Richtung
+  der linken Schulter wandert. Spüre die Dehnung auf der rechten Seite des Nackens
+  und oberen Trapezmuskels. Du kannst die linke Hand leicht auf den Kopf legen, um
+  die Dehnung sanft zu unterstützen.
+
+  Rückkehr: Halte die Dehnung für 15–30 Sekunden bei ruhiger Atmung und richte den
+  Kopf langsam wieder auf.
+
+  Hinweis: Ziehe die rechte Schulter aktiv nach unten und reiße niemals am Kopf.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1871'
+search_terms:
+- Rechte Nackendehnung

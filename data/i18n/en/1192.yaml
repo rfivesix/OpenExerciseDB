@@ -5,18 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1192'
 language: en
-status: upstream_unreviewed
-name: Alternating Biceps Curls With Dumbbell
+status: ai_reviewed
+name: Alternating Dumbbell Biceps Curl
 description: |-
-  Hold two dumbbells, the arms are streched, the hands are on your
-  side, the palms face inwards. Bend one arm at a time and bring the weight with a
-  fast movement up. At the same time, rotate your arms by 90 degrees at
-  the very beginning of the movement. At the highest point, rotate a
-  little the weights further outwards. Without a pause, bring the arm back down, slowly, and do the same with the other arm.
-  Don't allow your body to swing during the exercise, all work is done
-  by the biceps, which are the only mucles that should move (pay attention
-  to the elbows).
+  Starting Position:
+  • Stand upright with your feet hip-width apart holding a dumbbell in each hand at your sides, arms fully extended, palms facing inward (neutral grip).
+  • Keep your chest lifted, shoulders back, and elbows tucked close to your ribs.
+
+  Execution:
+  • Curl one dumbbell upward while rotating (supinating) your forearm so that your palm faces your shoulder at the top of the movement.
+  • Squeeze your biceps firmly at the peak contraction for a brief pause.
+  • Slowly lower the dumbbell back down with control while initiating the curl with the opposite arm.
+  • Keep your torso completely stationary without swinging or using momentum.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2148'
+search_terms:
+  - Alternating Biceps Curls With Dumbbell

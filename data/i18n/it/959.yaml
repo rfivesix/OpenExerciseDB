@@ -1,15 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '959'
 language: it
-status: upstream_unreviewed
-name: Trazioni orizzontali con trx
-description: |-
-  È l'esercizio propedeutico dei Pull Up. I muscoli che vengono coinvolti in questo esercizio di tirata sono il&nbsp;gran dorsale, deltoide e bicipiti.
+status: ai_reviewed
+name: Trazioni orizzontali al TRX (TRX Row)
+description: 'Posizione di partenza: Afferra le maniglie del TRX con presa neutra
+  e inclinati all''indietro a braccia tese, mantenendo il corpo dritto come una tavola.
+
+  Esecuzione: Tira il torace verso le maniglie guidando i gomiti all''indietro e contraendo
+  dorsali e bicipiti.
+
+  Ritorno: Scendi in modo controllato fino alla distensione completa delle braccia.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1240'
+search_terms:
+- Trazioni orizzontali con trx

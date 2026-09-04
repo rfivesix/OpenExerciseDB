@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1117'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rematore seduto al cavo
 description: |-
-  Sedetevi sulla macchina con i piedi ben piantati, un po' più larghi della larghezza delle spalle. Spingete i talloni e stringete i glutei. Afferrate la maniglia del cavo.
-  Sedetevi in alto con una leggera flessione delle ginocchia. Stringete gli addominali e la schiena per mantenere un angolo perpendicolare al pavimento con il busto.
-  Portare le spalle all'indietro e verso il basso. Stringetele tra loro mentre remate, pensando di stringere una matita tra di esse. Mentre lo fate, tirate la maniglia all'indietro verso di voi, arrivando proprio sopra l'ombelico.
-  Fermatevi qui per un momento prima di restituire la maniglia, sempre stringendo le scapole. Una volta riportato il peso sulla pila, lasciate che le scapole si rilassino, senza tirare il busto in avanti.
-  Ripetere il movimento
+  Posizione di partenza:
+  Siediti alla postazione pulley con i piedi saldamente appoggiati alle pedane e le ginocchia leggermente flesse. Fletti il busto in avanti mantenendo la schiena piatta per afferrare la maniglia a V, poi raddrizza il busto a 90 gradi.
+
+  Esecuzione:
+  1. Tira la maniglia verso l'addome portando i gomiti indietro vicino ai fianchi.
+  2. Stringi con decisione le scapole al termine della trazione per attivare il gran dorsale e i romboidi.
+  3. Mantieni il tronco stabile evitando oscillazioni con la schiena.
+  4. Ritorna in avanti controllando il movimento fino a distendere le braccia e allungare i dorsali.
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO

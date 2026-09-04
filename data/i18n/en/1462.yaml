@@ -2,10 +2,20 @@ exercise_id: '1462'
 language: en
 status: ai_reviewed
 name: Punches
-description: stand stable and throw normal straight punches
+description: |-
+  Starting Position:
+  • Stand in a balanced athletic boxing stance with one foot forward and knees slightly bent.
+  • Bring both hands up to chin level with elbows tucked close to your ribs for guard.
+
+  Execution:
+  • Throw alternating straight punches (jabs and crosses) directly forward in a sharp, rhythmic tempo.
+  • Rotate your hips and torso into each punch while turning your fist over horizontally upon extension.
+  • Rapidly snap each punch back to your defensive guard at your chin immediately after extending.
+  • Keep your core braced and exhale sharply with each punch.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lh1701
   source_id: '2425'
 search_terms:
-- punches
+  - Straight Punches
+  - Shadow Boxing Punches

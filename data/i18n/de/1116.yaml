@@ -1,11 +1,19 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1116'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Farmers Walk mit Kurzhanteln
-description: Nimm in jede Hand die Hälfte deines Körpergewichts und gehe.
+description: |-
+  Ausgangsposition:
+  Hebe zwei schwere Kurzhanteln mit geradem Rücken vom Boden auf und halte sie mit gestreckten Armen eng an deinen Seiten. Stehe aufrecht, ziehe die Schultern nach hinten unten, hebe die Brust an und spanne den Rumpf fest an.
+
+  Ausführung:
+  1. Gehe mit aufrechter Haltung in gleichmäßigen, kontrollierten Schritten vorwärts.
+  2. Halte die Schultern stabil und verhindere, dass die Hanteln schwingen oder der Oberkörper seitlich kippt.
+  3. Atme gleichmäßig und halte den Griff fest geschlossen, um Unterarme, Nacken (oberer Trapez) und Rumpf intensiv zu fordern.
+  4. Gehe die vorgegebene Distanz (z. B. 20–40 Meter) oder Zeit ab und setze die Hanteln mit geradem Rücken wieder kontrolliert ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2079'
+translated_from: en

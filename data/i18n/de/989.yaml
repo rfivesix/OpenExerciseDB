@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '989'
 language: de
 status: ai_reviewed
-name: Bulgarian Split Squats rechts
-description: |-
-  Stelle dich aufrecht vor einen Stuhl und mache einen großen Schritt nach vorn. Lege den Spann deines hinteren Fußes auf dem Stuhl ab.
-  Beuge das vordere rechte Knie und balanciere mit den Armen, bis das hintere Knie fast den Boden berührt.
-  Drücke dich zurück in die Ausgangsposition und wiederhole die Bewegung.
+name: Bulgarian Split Squat (rechts)
+description: 'Ausgangsposition: Stehe etwa zwei Fußlängen vor einer stabilen Bank
+  oder einem Stuhl. Lege den Fußrücken des linken Fußes hinter dir auf der Bank ab,
+  der rechte Fuß steht fest vorne auf dem Boden.
+
+  Ausführung: Senke das Becken kontrolliert ab, indem du das vordere rechte Knie beugst,
+  bis der rechte Oberschenkel etwa waagerecht zum Boden steht und das hintere Knie
+  kurz über dem Boden schwebt.
+
+  Rückkehr: Drücke dich über die Ferse des rechten Beins kraftvoll wieder nach oben
+  in die Ausgangsposition.
+
+  Hinweis: Der Oberkörper bleibt stabil und leicht nach vorne geneigt; halte das Becken
+  gerade.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1615'
+search_terms:
+- Bulgarian Split Squats rechts

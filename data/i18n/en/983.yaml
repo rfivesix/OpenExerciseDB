@@ -1,19 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '983'
 language: en
-status: upstream_unreviewed
-name: High knees
-description: |-
-  Starting positionStand straight.
-  Steps:
+status: ai_reviewed
+name: High Knees
+description: 'Starting Position: Stand tall with your feet hip-width apart and arms
+  relaxed at your sides.
 
-  Run in place, putting knees as high up as is comfortable and switching legs at a quick pace.
+  Execution: Run in place dynamically, driving one knee up toward your chest until
+  your thigh is parallel to the ground, then rapidly switch to the other leg. Pump
+  your arms in rhythm with your legs.
+
+  Cues: Stay light on the balls of your feet, maintain an upright posture, and keep
+  a rapid, rhythmic cadence.'
 search_terms:
-  - Running in place
+- Running in place
+- High knees
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1529'

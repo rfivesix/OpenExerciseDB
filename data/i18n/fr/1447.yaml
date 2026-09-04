@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1447'
 language: fr
-status: upstream_unreviewed
-name: Arraché — haltérophilie
+status: ai_reviewed
+name: "Arraché d'haltérophilie (Snatch)"
 description: |-
-  Arraché d'haltérophilie olympique
+  Position de départ :
+  • Placez-vous devant la barre, pieds à largeur de hanches, et prenez une prise très large (prise crochetée / snatch grip).
+  • Dos droit, poitrine ouverte, épaules légèrement en avant de la barre.
 
-  Tirez la barre du sol jusqu'au verrouillage au-dessus de la tête en utilisant une prise large et un squat overhead.
-  Déplacez la barre lentement jusqu'à ce qu'elle passe les genoux, puis tendez explosivement les hanches, tirez la barre vers le haut et plongez-vous sous la barre
-  Réceptionnez la barre au-dessus de la tête, bras tendus
-  Poussez la tête vers l'avant pendant le verrouillage
+  Exécution :
+  • Décollez la barre du sol avec régularité en la maintenant au plus près des tibias et des cuisses.
+  • Dès que la barre atteint le pli de l'aine, effectuez une triple extension explosive pour projeter la charge vers le haut.
+  • Chutez instantanément sous la barre en squat complet overhead pour la verrouiller bras tendus au-dessus de la tête.
+  • Stabilisez l'assise puis redressez-vous jusqu'à l'extension complète du corps en maintenant la barre verrouillée.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4634'
+search_terms:
+  - Arraché — haltérophilie
+  - Arraché
+  - Snatch

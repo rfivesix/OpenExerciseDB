@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '918'
 language: en
-status: upstream_unreviewed
-name: Seated Dumbbell Side Lateral
-description: seated slightly leaned forward at beginning of exercise
+status: ai_reviewed
+name: Seated Dumbbell Lateral Raise
+description: '- Sit on the edge of a flat bench with feet firmly planted and hold
+  a dumbbell in each hand at your sides.
+
+  - Lean your torso slightly forward and maintain a slight, fixed bend in your elbows.
+
+  - Raise the dumbbells out to the sides in a wide arc until your elbows and weights
+  reach shoulder height.
+
+  - Pause briefly at the top of the lift, then lower the dumbbells slowly under full
+  control without swinging.'
+search_terms:
+- Seated Dumbbell Side Lateral
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

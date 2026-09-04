@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1461'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: No Leg Drive Dumbbell Chest Press
 description: |-
-  Set up for a normal Dumbbell chest press but lift your leg ups straight or put them on another bench to remove the leg drive.
+  Starting Position:
+  • Lie on a flat bench holding a pair of dumbbells at your chest.
+  • Lift your feet off the floor (placing your legs extended on the bench or elevated in the air) to completely eliminate leg drive.
+  • Position your elbows at roughly a 45-degree angle to your torso.
+
+  Execution:
+  • Press the dumbbells vertically upward over your chest using pure pectoral and triceps strength.
+  • Squeeze your chest at the top without forcefully locking your elbows.
+  • Lower the weights slowly and under control until your upper arms are level with the bench pad.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2424'
+search_terms:
+  - Dumbbell Larsen Press
+  - Feet-Up Dumbbell Bench Press

@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: fr
-status: upstream_unreviewed
-name: Accroupi
+status: ai_reviewed
+name: Squat avec barre
+search_terms:
+- Accroupi
+- Squat à la barre
+- Back Squat
 description: |-
-  Debout, les pieds écartés à la largeur des épaules
-  Déplacez les hanches vers l'arrière et pliez les genoux et les hanches pour abaisser le torse.
-  Répétez
+  Position de départ: Placez une barre sur un rack juste en dessous de la hauteur des épaules. Placez-vous sous la barre en la reposant sur le haut des trapèzes, mains fermement serrées. Reculez d'un pas, pieds à largeur d'épaules, pointes légèrement ouvertes.
+  Exécution: Inspirez, gantez la sangle abdominale et descendez en fléchissant les hanches et les genoux jusqu'à ce que les cuisses soient au moins parallèles au sol.
+  Retour: Poussez fort sur vos talons et le milieu du pied pour remonter en position debout en expirant.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -5,11 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1112'
 language: en
-status: upstream_unreviewed
-name: Push-Ups | Decline
+status: ai_reviewed
+name: Decline Push-Ups
 description: |-
-  Decline push-ups are another modified version of the traditional push-up that target the upper body muscles in a different way. To perform a decline push-up, elevate your feet on an elevated surface, such as a bench, chair, or step, while placing your hands on the ground in a push-up position. Lower your body towards the ground while maintaining a straight line from your shoulders to your ankles, and then push back up to the starting position.
-  Unlike the inclined push-up, the decline push-up places more emphasis on the shoulders and triceps, while still engaging the chest muscles to a lesser extent. By elevating your feet, you increase the difficulty of the exercise by placing more weight on your upper body, forcing your shoulders and triceps to work harder to push your body back up. The decline push-up can be a great way to challenge your upper body strength and improve your ability to perform other push-up variations. As with any exercise, be sure to use proper form and start with a height that is appropriate for your strength and fitness level.
+  Starting position:
+  Place your feet elevated on a sturdy bench or box and set your hands flat on the floor directly under or slightly wider than your shoulders. Your body should form a rigid, diagonal straight line from heels to head.
+
+  Execution:
+  1. Bend your elbows and lower your chest under control toward the floor, keeping your core braced and hips elevated.
+  2. Lower until your nose or upper chest nearly grazes the ground.
+  3. Push firmly into the floor, extending your arms to press back up to the top lockout.
+  4. This variation increases loading on the upper pectorals (clavicular head) and anterior deltoids.
+search_terms:
+  - Push-Ups | Decline
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337

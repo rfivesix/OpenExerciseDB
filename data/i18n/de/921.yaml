@@ -1,12 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '921'
 language: de
-status: upstream_unreviewed
-name: Seated Cable Rows
-description: “Stay leaned forward - tuck elbows in on the negative”
+status: ai_reviewed
+name: Kabelrudern sitzend
+description: 'Ausgangsposition: Setze dich an die Kabelrudermaschine, stelle die Füße
+  fest auf die Fußstützen und halte die Knie leicht gebeugt. Halte den Rücken gerade.
+
+  Ausführung: Halte den Oberkörper leicht nach vorne geneigt und ziehe den Griff zum
+  Bauch, während die Ellbogen in der Rückholphase kontrolliert eng am Körper geführt
+  werden.
+
+  Hinweis: Diese Übung wurde mit Übung 1117 (Kabelrudern sitzend) zusammengeführt.'
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+- Seated Cable Rows

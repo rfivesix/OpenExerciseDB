@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1200'
 language: es
-status: upstream_unreviewed
-name: Elevación tibial anterior
+status: ai_reviewed
+name: Elevación de tibial anterior
 description: |-
-  Pararse derecho
-  Levantar la punta de los pies, apoyándose sobre el talón.
+  Posición inicial:
+  • Apoya la espalda contra una pared manteniéndote erguido.
+  • Coloca los talones a unos 30-40 cm de distancia de la pared con las piernas rectas.
+
+  Ejecución:
+  • Levanta las puntas de los pies y los metatarsos lo más alto posible hacia las espinillas (dorsiflexión).
+  • Mantén la contracción máxima del músculo tibial anterior durante 1 o 2 segundos arriba.
+  • Baja los pies lentamente bajo control hasta tocar el suelo con suavidad.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2163'
+search_terms:
+  - Tibialis raises
+  - Elevación tibial anterior

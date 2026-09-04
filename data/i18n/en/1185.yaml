@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1185'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Triceps Pushdown
-description: Triceps pushdown on cable using lat bar.
+description: |-
+  Starting Position:
+  • Stand upright facing a high cable pulley equipped with a straight bar, EZ-bar, or rope attachment.
+  • Grasp the attachment with an overhand grip, elbows bent and tucked firmly against your ribs.
+  • Lean forward slightly from the hips with a flat back and braced core.
+
+  Execution:
+  • Push the bar down by extending your elbows until your arms are fully extended toward your thighs.
+  • Keep your upper arms completely stationary by your sides throughout the movement.
+  • Squeeze your triceps forcefully at the bottom of the movement for a brief pause.
+  • Slowly allow the bar to return to approximately chest height under full control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2141'
+search_terms:
+  - Cable triceps pushdown
+  - Cable pushdown

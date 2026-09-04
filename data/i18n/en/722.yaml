@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '722'
 language: en
-status: upstream_unreviewed
-name: Weighted Step-ups
-description: box step ups w/ barbell and 45's on each side
+status: ai_reviewed
+name: Weighted Step-Ups
+description: '- Place a barbell across your upper back (or hold a dumbbell in each
+  hand) and stand upright facing a sturdy box or bench.
+
+  - Step firmly onto the platform with one foot, ensuring your entire foot is supported.
+
+  - Drive through your front heel to extend your hip and knee, stepping up onto the
+  box until standing fully upright.
+
+  - Step back down with control under full eccentric tension before repeating or alternating
+  legs.'
+search_terms:
+- Weighted Step-ups
 upstream:
   license: CC0-1.0
   license_author: jigglychipmunk

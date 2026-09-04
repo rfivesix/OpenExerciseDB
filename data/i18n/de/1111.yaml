@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1111'
 language: de
-status: upstream_unreviewed
-name: Liegestütze | erhöht (Incline)
+status: ai_reviewed
+name: Erhöhte Liegestütze (Incline)
 description: |-
-  Erhöhte Liegestütze trainieren vor allem die Brustmuskulatur (großer und kleiner Brustmuskel), beanspruchen aber in geringerem Maße auch den Trizeps, die Schultern und den Rumpf. Da der Oberkörper erhöht ist, belastet der Incline-Liegestütz den Trizeps weniger als der normale Liegestütz, was für alle von Vorteil sein kann, die gezielt ihre Brustmuskulatur ansprechen möchten.
+  Ausgangsposition:
+  Stütze deine Hände etwas weiter als schulterbreit auf eine Hantelbank, eine Box oder eine stabile Erhöhung. Die Beine sind nach hinten gestreckt, der Körper bildet von den Fersen bis zum Kopf eine gerade, feste Linie.
+
+  Ausführung:
+  1. Beuge die Ellenbogen kontrolliert und senke deine Brust in Richtung der Kante der Erhöhung ab. Die Ellenbogen zeigen im ca. 45-Grad-Winkel nach hinten außen.
+  2. Gehe so tief, bis die Brust die Kante fast berührt.
+  3. Drücke dich kraftvoll aus der Brust und dem Trizeps wieder nach oben in die Ausgangsposition.
+  4. Halte die Bauch- und Gesäßmuskeln während des gesamten Satzes fest angespannt.
+search_terms:
+  - Liegestütze | erhöht (Incline)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

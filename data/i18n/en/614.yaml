@@ -5,9 +5,8 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '614'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Squat Jumps
-# Description expanded from German source
 description: Jump explosively from a wide stance and land in a narrow stance, alternating between wide and narrow foot positions.
 upstream:
   license: CC-BY-SA-3.0

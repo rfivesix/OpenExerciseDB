@@ -5,15 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1290'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl à la barre en prise inversée
-description: |-
-  Tenez la barre en prise pronation (paumes vers le bas), les mains écartées d'environ la largeur des épaules. Assurez-vous que votre dos est droit, les épaules légèrement tirées en arrière et les bras complètement tendus.
-  Fléchissez les bras pour ramener la barre vers votre poitrine dans un mouvement contrôlé, en gardant les coudes près du corps. Le mouvement doit être fluide, sans élan ni balancement.
+description: 'Tenez la barre en prise pronation (paumes vers le bas), les mains écartées d''environ la largeur des épaules.
+  Assurez-vous que votre dos est droit, les épaules légèrement tirées en arrière et les bras complètement tendus.
+
+  Fléchissez les bras pour ramener la barre vers votre poitrine dans un mouvement contrôlé, en gardant les coudes près du
+  corps. Le mouvement doit être fluide, sans élan ni balancement.
+
   Une fois la barre au niveau de la poitrine, marquez une brève pause pour maximiser la contraction des biceps et des avant-bras.
-  Abaissez lentement la barre jusqu'à la position de départ dans un mouvement contrôlé, en tendant complètement les bras.
+
+  Abaissez lentement la barre jusqu''à la position de départ dans un mouvement contrôlé, en tendant complètement les bras.'
 search_terms:
-  - Curl inversé à la barre
+- Curl inversé à la barre
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

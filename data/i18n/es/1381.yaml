@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1381'
 language: es
-status: upstream_unreviewed
-name: Espalda alta
+status: ai_reviewed
+name: Remo en máquina para espalda alta
 description: |-
-  El ejercicio de espalda alta es adecuado para desarrollar los músculos del core, con un enfoque especial en los deltoides y los romboides y en los músculos de la parte superior de la espalda.
+  Posición inicial:
+  Siéntate en la máquina de remo apoyando el pecho firmemente contra la almohadilla acolchada. Ajusta la altura del asiento para que las empuñaduras queden al nivel de la parte superior del pecho. Sujeta los agarres con las manos abiertas o pronadas.
+
+  Ejecución:
+  Tira de los agarres hacia ti llevando los codos hacia afuera y hacia atrás a la altura del pecho. Junta las escápulas en la contracción final para enfocar el esfuerzo en la espalda media y alta (romboides y trapecio). Regresa lentamente a la posición inicial sintiendo el estiramiento dorsal.
+
+  Consejos:
+  Mantén el pecho pegado al soporte y no utilices balanceo lumbar para mover el peso.
+search_terms:
+  - Espalda alta
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

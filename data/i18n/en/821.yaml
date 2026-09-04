@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '821'
 language: en
-status: upstream_unreviewed
-name: Pullup on fingerboard
-description: Pullup on a choosen edge of a fingerboard / hangboard
+status: ai_reviewed
+name: Fingerboard Pull-Up
+description: '- Grip a suitable symmetric edge or hold on the fingerboard using an
+  open-hand or half-crimp grip.
+
+  - Hang with arms fully extended and shoulders actively engaged.
+
+  - Pull your body upward smoothly by engaging your lats and arms until your chin
+  clears your hand level.
+
+  - Lower yourself down slowly under full control (taking 2 to 3 seconds) back to
+  the starting position without abruptly dropping.'
+search_terms:
+- Pullup on fingerboard
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

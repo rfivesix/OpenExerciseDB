@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '621'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl biceps debout
-description: |-
-  Tenez-vous debout en tenant des haltères, les mains écartées de la largeur des épaules. Orientez l'avant-bras vers le haut et gardez le bras immobile tout en remontant chaque haltère jusqu'à votre épaule.
+description: Tenez-vous debout en tenant des haltères, les mains écartées de la largeur des épaules. Orientez l'avant-bras
+  vers le haut et gardez le bras immobile tout en remontant chaque haltère jusqu'à votre épaule.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

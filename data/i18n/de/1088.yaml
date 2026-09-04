@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1088'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sumo-Kreuzheben mit Kurzhantel
 description: |-
-  Senke deine Kurzhantel zwischen deinen Beinen zum Boden. Nimm eine breite Standposition ein und gehe mit geradem Rücken in die Kniebeuge. Greife die aufrecht stehende Kurzhantel an der Oberseite des "Kopfes" (Bild 1). Halte deine Brust aufrecht und deinen Rumpf angespannt, drücke dich vom Boden ab und treibe dich wieder nach oben in den Stand (Bild 2). Wiederhole. Wenn du problemlos 20-30 Wiederholungen schaffst, verwende zwei Kurzhanteln.
+  Ausgangsposition:
+  Nimm einen breiten Stand ein (etwa 1,5-fache bis doppelte Schulterbreite), die Fußspitzen zeigen in einem 45-Grad-Winkel nach außen. Platziere eine schwere Kurzhantel senkrecht zwischen deinen Beinen auf dem Boden.
+
+  Ausführung:
+  1. Beuge die Knie und schiebe die Hüfte nach hinten, halte die Brust aufrecht und den Rücken neutral.
+  2. Greife das obere Ende der aufrecht stehenden Kurzhantel mit beiden Händen.
+  3. Drücke den Boden über die Fersen kraftvoll weg und ziehe dich nach oben in den aufrechten Stand, wobei du die Adduktoren und das Gesäß anspannst.
+  4. Senke die Kurzhantel kontrolliert wieder zum Boden ab, indem du Knie und Hüfte synchron beugst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

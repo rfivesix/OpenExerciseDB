@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '910'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl Nórdico
-description: |-
-  Este es uno de los mejores ejercicios para construir fuerza en los isquiotibiales (la parte posterior del muslo), mejorar la salud de las rodillas y prevenir lesiones, especialmente desgarros.
-  Instrucciones:
-  Arrodíllate sobre una superficie cómoda y pide a un compañero que sujete firmemente tus tobillos, o asegúralos debajo de un objeto pesado y estable.
-  Manteniendo una línea recta desde las rodillas hasta la cabeza, inclínate hacia adelante, bajando tu torso de la forma más lenta y controlada posible. La fuerza para frenar la caída debe venir exclusivamente de tus isquiotibiales. Cuando ya no puedas resistir más, usa las manos para amortiguar la llegada al suelo.
+description: '- Arrodíllate sobre una colchoneta y asegura firmemente los tobillos
+  bajo una barra fija o con la ayuda de un compañero.
+
+  - Mantén el torso y las caderas completamente alineados en una línea recta desde
+  las rodillas hasta la cabeza.
+
+  - Desciende el cuerpo hacia adelante de la forma más lenta y controlada posible
+  frenando la caída con los isquiotibiales.
+
+  - Apoya suavemente las manos en el suelo en el punto más bajo y empuja ligeramente
+  para ayudar a regresar a la posición vertical inicial.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

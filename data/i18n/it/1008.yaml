@@ -1,21 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1008'
 language: it
-status: upstream_unreviewed
-name: Stiramento del collo sinistro
-description: |-
-  Posizione di partenza:
-  Seduti o in piedi con la schiena dritta.
-  Passi:
+status: ai_reviewed
+name: Stretching del collo a sinistra
+description: 'Posizione di partenza: Siediti o stai in piedi con la schiena dritta
+  e le spalle rilassate.
 
-  Inclinare la testa di lato e tenerla per 8 secondi per allungare il lato del collo.
-  Con la mano più vicina sopra la testa, tirare delicatamente per allungare ulteriormente. Tenere per 8 secondi.
-  Girare il mento verso la spalla. Tenere per 8 secondi.
-  Rilasciare e tornare alla posizione di partenza.
+  Esecuzione: Inclina delicatamente la testa verso destra per allungare il lato sinistro
+  del collo e il trapezio superiore.
+
+  Ritorno: Mantieni per 15-30 secondi respirando profondamente, quindi torna al centro.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1862'
+search_terms:
+- Stiramento del collo sinistro

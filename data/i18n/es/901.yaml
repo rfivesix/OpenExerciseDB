@@ -1,19 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '901'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Thrust con Barra
-description: |-
-  Este es considerado uno de los ejercicios más efectivos para desarrollar la fuerza y el tamaño de los músculos glúteos.
-  Instrucciones
+description: '- Siéntate en el suelo con la parte superior de la espalda apoyada en
+  un banco y una barra acolchada sobre la cadera.
 
-  Posición: Siéntate en el suelo con la parte superior de tu espalda apoyada en el costado de un banco. Rueda una barra sobre tus piernas hasta que quede en el pliegue de tu cadera. Se recomienda usar una almohadilla (pad) para que el ejercicio sea más cómodo.
-  Inicio: Apoya los pies firmemente en el suelo, con las rodillas flexionadas. La parte alta de tu espalda debe funcionar como un pivote sobre el banco.
-  Empuje: Empujando a través de tus talones, eleva la cadera hacia el techo hasta que tu cuerpo forme una línea recta desde los hombros hasta las rodillas. Contrae los glúteos con fuerza en la posición final.
-  Descenso: Baja la cadera de forma controlada y repite el movimiento.
+  - Apoya los pies firmes en el suelo al ancho de las caderas, de modo que las espinillas
+  queden verticales en la parte alta.
+
+  - Empuja con los talones y contrae los glúteos fuertemente para elevar la cadera
+  hasta alinear muslos y torso.
+
+  - Mantén la contracción un segundo en la posición superior y desciende de forma
+  controlada.'
 upstream:
   license: CC-BY-SA-4.0

@@ -1,12 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '907'
 language: de
-status: upstream_unreviewed
-name: Handstand Push Up
-description: Handstands Push Up which demand high level of skill
+status: ai_reviewed
+name: Handstand-Liegestütz
+description: '- Begib dich mit dem Gesicht oder dem Rücken zur Wand in einen stabilen
+  Handstand, Hände schulterbreit am Boden und Körper fest angespannt.
+
+  - Beuge die Ellenbogen kontrolliert und senke den Körper langsam ab, bis die Kopfkrone
+  den Boden sanft berührt.
+
+  - Drücke dich aus den Schultern und dem Trizeps kraftvoll wieder nach oben in die
+  vollständige Armstreckung.'
+search_terms:
+- Handstand Push Up
+- Handstand Push-Up
 upstream:
   license: CC-BY-SA-4.0

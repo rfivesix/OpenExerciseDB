@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '913'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de Predicador Inverso
-description: |-
-  Este ejercicio es excelente para desarrollar los músculos braquial (ubicado bajo el bíceps) y braquiorradial (la parte superior del antebrazo), creando un aspecto más denso y completo en el brazo.
-  Instrucciones:
-  Apoya tu pecho en el lado vertical de un banco predicador (banco Scott) o en el espaldar de un banco inclinado, dejando que tus brazos cuelguen rectos hacia el suelo.
-  Sujeta una barra (recta o EZ) con un agarre estrecho y prono (las palmas de las manos mirando hacia abajo). Manteniendo la parte superior de los brazos completamente inmóvil, flexiona los codos para subir la barra. Contrae con fuerza en la cima y baja de forma lenta y controlada.
+description: '- Siéntate en el banco Scott (preacher) y apoya la parte posterior de
+  los brazos sobre la almohadilla inclinada.
+
+  - Sujeta la barra EZ con un agarre prono estrecho (palmas hacia abajo).
+
+  - Flexiona los codos levantando la barra hacia los hombros concentrando el esfuerzo
+  en el braquiorradial y los antebrazos.
+
+  - Desciende la barra lentamente con control hasta casi extender los brazos por completo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

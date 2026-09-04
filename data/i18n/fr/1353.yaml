@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1353'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé serré aux haltères (hex press)
 description: |-
-  Engagez les muscles
-  Placez vos pieds bien écartés
-  Mouvement contrôlé
-  Mouvement lent
-  Ramenez les charges vers le bas de votre poitrine / votre ventre
+  Position de départ :
+  Allongez-vous sur un banc plat, les pieds ancrés au sol. Tenez une paire d'haltères (de préférence hexagonaux) en prise neutre, pressés l'un contre l'autre au-dessus de la poitrine.
+
+  Mouvement :
+  Maintenez une pression continue entre les deux haltères tout en les descendant avec contrôle vers le milieu de la poitrine. Développez-les vers le haut en contractant les pectoraux et les triceps, sans relâcher la pression interne.
+
+  Conseils :
+  Ne laissez pas les haltères s'écarter au cours du mouvement. La compression constante accentue fortement le travail des pectoraux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1141'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arabesco
 description: |-
-  Lleva todo tu peso sobre una pierna y mantén esa posición, conservando la cadera y la pelvis niveladas durante todo el ejercicio. Con la espalda en posición neutra, inclínate hacia delante mientras llevas la otra pierna hacia atrás y arriba. Después, con la fuerza de los glúteos, vuelve lentamente a la posición neutra.
+  Posición inicial:
+  • Ponte de pie erguido y traslada todo tu peso sobre una pierna de apoyo.
+  • Mantén una ligera flexión en la rodilla de la pierna de apoyo y la pelvis totalmente nivelada.
+  • Conserva la columna en posición neutra y activa el abdomen.
+
+  Ejecución:
+  • Inclina el torso hacia delante desde la cadera mientras extiendes la otra pierna recta hacia atrás y arriba.
+  • Desciende hasta que el tronco y la pierna elevada queden casi paralelos al suelo.
+  • Contrae con fuerza los glúteos y los isquiotibiales de la pierna de apoyo para volver lentamente a la posición inicial.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

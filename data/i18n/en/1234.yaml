@@ -5,12 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: en
-status: upstream_unreviewed
-name: Dumbbell Single-leg Hip Thrust
+status: ai_reviewed
+name: Dumbbell Single-Leg Hip Thrust
 description: |-
-  The single-leg hip thrust is performed by placing your upper back on a weight bench, raising one leg, and extending the hip of the other leg to achieve an isolated contraction of the glute.
-  By working each side separately, you can fully isolate your glutes unilaterally, providing maximal training stimulus.
+  Starting Position:
+  • Sit on the floor with your upper back resting across the edge of a sturdy bench.
+  • Place a dumbbell securely across your hips and hold it in place with your hands.
+  • Plant one foot firmly on the floor (working leg) with the knee bent at approximately 90 degrees, and lift the opposite leg off the ground with the knee bent.
+
+  Execution:
+  • Drive through the heel of your working leg to extend your hips upward until your torso and working thigh form a straight horizontal line.
+  • Squeeze your glute forcefully at the top of the movement for a 1 to 2-second pause.
+  • Lower your hips back down slowly under control without resting completely on the floor before the next rep.
+  • Complete all repetitions and switch sides.
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2199'
+search_terms:
+  - Dumbbell Single-leg Hip Thrust
+  - Single leg hip thrust with dumbbell

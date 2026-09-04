@@ -5,12 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1392'
 language: en
-status: upstream_unreviewed
-name: Good Morning
+status: ai_reviewed
+name: Bodyweight Good Morning
 description: |-
   Stand with your feet more than shoulder-width apart (wider stance) and place your hands on your hips. Hinge at your hips and lower your upper body towards the ground while keeping your back straight then come back up.
 search_terms:
-  - Hip Hinge
+  - Good morning
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592

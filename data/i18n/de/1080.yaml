@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1080'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hindu-Liegestütze
 description: |-
-  Übung zur Kräftigung der Schultern und der Brustmuskulatur. Ihr Name rührt daher, dass sie in der Yoga-Position "herabschauender Hund" beginnt, in die "Kobra" übergeht, jedoch ohne die Beine oder den Oberkörper auf dem Boden abzulegen, um schließlich mit einem normalen Liegestütz zu enden. Die Übung kann auch rückwärts ausgeführt werden (zurück in die Ausgangsposition). Als Variation kann nach dem Liegestütz die Hüfte angehoben werden, um in den herabschauenden Hund zurückzukehren.
+  Ausgangsposition:
+  Beginne im herabschauenden Hund mit den Füßen hüftbreit und den Händen etwas mehr als schulterbreit auf dem Boden. Das Gesäß ist nach oben gestreckt, sodass der Körper ein umgekehrtes 'V' bildet.
+
+  Ausführung:
+  1. Beuge die Ellenbogen und tauche mit der Brust in einer wellenförmigen Bewegung knapp über dem Boden nach vorne unten ab.
+  2. Drücke dich nach vorne oben durch die Hände aufrecht in die Kobra- bzw. heraufschauende Hund-Position, wobei die Brust stolz geöffnet ist.
+  3. Schiebe das Gesäß kontrolliert wieder nach hinten oben zurück in das umgekehrte 'V'.
+  4. Wiederhole diesen flüssigen Zyklus in kontinuierlicher Bewegung.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

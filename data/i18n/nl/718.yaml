@@ -5,11 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: nl
-status: upstream_unreviewed
+status: ai_reviewed
 name: Muurzitten
-description: |-
-  Leun tegen de muur en zet je voeten stevig op de grond; houd je schouders los en 60 cm van de muur verwijderd.
-  Zak naar beneden en zorg dat je rug tegen de muur blijft totdat je knieën zich direct boven de enkels bevinden.Pijn in je dijbeenspieren is normaal. Stop als je pijn in je knie of knieholte voelt
+description: '- Ga met je rug plat tegen een muur staan met je voeten op schouderbreedte
+  en ongeveer 60 cm van de muur vandaan.
+
+  - Zak langs de muur naar beneden tot je bovenbenen parallel aan de vloer zijn en
+  je knieën een hoek van 90 graden vormen recht boven je enkels.
+
+  - Houd deze statische positie vast gedurende de voorgeschreven tijd en adem rustig
+  door.'
 upstream:
   license: CC0-1.0
   license_author: Blablabla

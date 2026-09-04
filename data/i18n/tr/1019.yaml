@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: tr
-status: upstream_unreviewed
-name: Yan plank hareketi (sağ)
+status: ai_reviewed
+name: Yan plank (sağ)
 description: |-
-  Alt dirseğiniz dik açıyla, kolunuz dışarı çıkacak şekilde yan tarafınıza uzanın
-  Ön kolunuzu yerde tutup alt omzunuzu yukarı kaldırarak leğen kemiğinizi yerden kaldırın; başınız, leğen kemiğiniz ve ayaklarınız düz bir çizgide olmalıdır
-  Bu durumda kalın
+  Başlangıç pozisyonu:
+  Sağ tarafınıza uzanın, bacaklarınızı düz tutun. Sağ dirseğinizi doğrudan sağ omzunuzun altına yerleştirin ve ön kolunuzu yere koyun.
+
+  Uygulama:
+  1. Karın ve oblik kaslarınızı sıkarak kalçanızı yerden kaldırın; başınızdan topuklarınıza kadar vücudunuz düz bir çizgi oluşturmalıdır.
+  2. Kalçanızın aşağı düşmesine izin vermeden pozisyonu koruyun.
+  3. Belirlenen süre boyunca bu pozisyonda sabit kalın ve düzenli nefes alın.
+search_terms:
+  - Yan plank hareketi (sağ)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1930'

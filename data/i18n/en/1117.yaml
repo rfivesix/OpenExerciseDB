@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1117'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Cable Row
 description: |-
-  Take a seat on the machine with your feet planted, a little wider than shoulder width. Drive the heels, and squeeze the glutes. Grab onto the cable handle.
-  Sit up tall with a slight bend through the knees. Tighten up the abs and low back to maintain a perpendicular angle to the floor with your torso.
-  Roll the shoulders back and down. Squeeze them together as you row, thinking about pinching a pencil in between them. As you do this, pull the handle back towards you, landing right above your belly button.
-  Pause here for a moment before returning the handle, still squeezing the shoulder blades. Once you've returned the weight to the stack, then allow the shoulder blades to relax, without pulling the torso forward.
-  Repeat the movement.
+  Starting position:
+  Sit at the seated cable row station and place your feet firmly on the footplates with knees softly bent. Hinge forward with a flat back to grip the handle (such as a close-grip V-bar), then push back until your torso is upright at 90 degrees with shoulders depressed and retracted.
+
+  Execution:
+  1. Pull the handle smoothly toward your abdomen/lower ribs, keeping your elbows tucked close to your torso.
+  2. Squeeze your shoulder blades together firmly at the end of the pull, contracting your lats and rhomboids.
+  3. Keep your torso stationary without excessive swinging or leaning back.
+  4. Slowly extend your arms and let your shoulder blades glide forward under control to feel a full stretch before the next rep.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol

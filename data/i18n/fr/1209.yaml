@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1209'
 language: fr
-status: upstream_unreviewed
-name: Pompe trois points à largeur d'épaules
+status: ai_reviewed
+name: Pompe trois points
 description: |-
-  Mettez-vous en position de pompe, les épaules directement au-dessus des mains et les pieds écartés de la largeur des hanches. Rentrez votre nombril vers votre colonne vertébrale et contractez vos abdominaux. Levez votre pied gauche d'environ cinq centimètres du sol. Pointez vos orteils vers le bas. Ne bougez pas vos hanches. Votre corps forme une ligne droite de la tête aux talons pendant tout l'exercice. Pliez maintenant les coudes, abaissez votre poitrine vers le sol et repoussez-vous vers le haut. Répétez l'exercice de l'autre côté.
+  Position de départ :
+  • Mettez-vous en position de pompe classique, mains à largeur d'épaules sous la poitrine.
+  • Décollez un pied d'environ 5 à 10 cm du sol pour être en appui sur trois points.
+  • Gardez le bassin horizontal et le tronc fermement gainé.
+
+  Exécution :
+  • Fléchissez les coudes pour abaisser la poitrine vers le sol de manière contrôlée.
+  • Résistez à la rotation du bassin en conservant une ligne parfaite de la tête au talon d'appui.
+  • Poussez sur vos mains pour remonter à la position de départ puis changez de jambe.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4543'
+search_terms:
+  - Pompe trois points à largeur d'épaules
+  - Pompe avec une jambe levée

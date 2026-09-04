@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '801'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexiones con mancuernas
-description: |-
-  Son flexiones normales realizadas sobre mancuernas. Esto permite un rango de movimiento más amplio.
+description: '- Coloca dos mancuernas estables en el suelo al ancho de los hombros
+  y agarra los mangos con toma neutra.
+
+  - Adopta la posición de flexiones con el abdomen firme y el cuerpo alineado de la
+  cabeza a los talones.
+
+  - Desciende el pecho entre las mancuernas para beneficiarte de un mayor rango de
+  movimiento por el déficit.
+
+  - Empuja con fuerza con el pecho y los brazos para regresar a la posición inicial
+  de plancha.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

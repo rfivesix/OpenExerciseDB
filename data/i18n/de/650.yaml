@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '650'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Thruster
-description: |-
-  Beginne mit einer Front-Kniebeuge
-  Drücke die Stange in der oberen Position über deinen Kopf (ähnlich wie beim Drücken)
-  Senke die Stange wieder zu den Schultern ab
+description: '- Halte die Langhantel in der Front-Rack-Position auf den vorderen Schultern
+  und stehe etwa schulterbreit.
+
+  - Führe eine tiefe Kniebeuge (Front Squat) aus, bis die Oberschenkel mindestens
+  parallel zum Boden sind.
+
+  - Drücke dich dynamisch nach oben und nutze den Schwung aus den Beinen, um die Hantel
+  in einer flüssigen Bewegung über den Kopf zu drücken (Push Press).
+
+  - Senke die Stange kontrolliert wieder auf die Schultern ab und gehe fließend in
+  die nächste Kniebeuge über.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

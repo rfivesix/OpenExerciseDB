@@ -3,7 +3,7 @@ import os
 import sys
 
 # List of files to check by default.
-default_files = ["train_libre_base_foods.db", "train_libre_training.db"]
+default_files = ["exercise_foods.db", "openexercisedb.db"]
 
 def inspect_db(db_path):
     print(f"\n{'='*60}")

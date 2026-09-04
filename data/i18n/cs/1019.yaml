@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: cs
-status: upstream_unreviewed
-name: Prkno na pravém boku
+status: ai_reviewed
+name: Boční prkno na pravém boku
 description: |-
-  Lehněte si na bok, se spodním loktem v pravém úhlu, paže vyčnívající
-  Zvedněte pánev z podlahy zvedání spodní rameno, drží předloktí na podlaze, hlavu, pánev a nohy by měly být v jedné přímce
-  Držte tuto pozici
+  Výchozí poloha:
+  Lehněte si na pravý bok s nataženýma nohama. Pravý loket opřete o zem přímo pod ramenem, předloktí směřuje dopředu.
+
+  Provedení:
+  1. Zpevněte střed těla a zvedněte boky ze země tak, aby tělo tvořilo přímku od hlavy až k patám.
+  2. Udržujte pánev stabilní a zabraňte jejímu klesání k zemi.
+  3. Držte tuto pozici po stanovenou dobu za stálého dýchání.
+search_terms:
+  - Prkno na pravém boku
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1921'

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1115'
 language: en
-status: upstream_unreviewed
-name: 3D lunge warmup
+status: ai_reviewed
+name: 3D Lunge Warmup
 description: |-
-  As a warmup, use light dumbbells, one in each hand. Lunge in alternating directions, forward, sideways, backwards and 45 degree angles.
+  Starting position:
+  Stand tall with feet hip-width apart. Hold light dumbbells at your sides or perform with bodyweight during warmups.
+
+  Execution:
+  1. Sagittal plane: Take a controlled lunge step directly forward, lower your hips until both knees bend at roughly 90 degrees, and push back to center.
+  2. Frontal plane: Step out laterally into a side lunge, bending the stepping knee while keeping the trailing leg straight, then drive back to standing.
+  3. Transverse plane: Step diagonally backward and open your hips at a 45-degree angle, sink into the lunge, and return to center.
+  4. Repeat the sequence across all planes with both legs to prepare your hips, knees, glutes, and adductors for multi-directional movement.
+search_terms:
+  - 3D lunge warmup
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

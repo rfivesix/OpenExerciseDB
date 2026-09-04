@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: nl
-status: upstream_unreviewed
-name: Pistoolzit (rechts)
+status: ai_reviewed
+name: Pistol squat (rechts)
 description: |-
-  Zet één been voor je.
-  Buig je knie totdat je hurkt - houd je rug en andere been recht.
-  Buig je knie terug en maak hem weer recht.
-  Herhaal
+  Beginpositie:
+  Sta rechtop op je rechterbeen met je linkerbeen gestrekt naar voren boven de grond geheven. Strek je armen naar voren voor balans.
+
+  Uitvoering:
+  1. Buig langzaam je rechterknie en heup om gecontroleerd in een diepe eenbenige squat te zakken.
+  2. Houd je rug recht, borst opgericht en het linkerbeen van de vloer.
+  3. Zak zo diep als je mobiliteit toelaat.
+  4. Duw krachtig af vanuit je rechterhiel om weer helemaal rechtop te gaan staan.
+search_terms:
+  - Pistoolzit (rechts)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1943'

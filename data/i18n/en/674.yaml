@@ -3,12 +3,20 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '674'
 language: en
 status: ai_reviewed
 name: TRX Row
-description: Rowing with a suspension trainer - bodyweight exercise
+description: '- Grasp the suspension trainer handles with a neutral grip and lean
+  back with your arms fully extended.
+
+  - Maintain a straight body alignment from head to heels by bracing your core and
+  glutes.
+
+  - Pull your chest up toward the handles by driving your elbows backward and squeezing
+  your shoulder blades together.
+
+  - Lower yourself back down under control until your arms are fully extended.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Skadi

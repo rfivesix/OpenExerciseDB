@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1360'
 language: de
-status: upstream_unreviewed
-name: Doppeltes Kettlebell Clean and Press
+status: ai_reviewed
+name: Kettlebell Clean and Press (doppelt)
 description: |-
-  Ganzkörper-Übung für den Muskelaufbau. Diese Übung bietet eine enorme Bandbreite an Vorteilen in Bezug auf Kraft und Größe und ist äußerst funktionell.
+  Ausgangsposition:
+  Stelle dich schulterbreit hin, zwei Kettlebells stehen zwischen bzw. leicht vor den Füßen. Beuge die Hüfte nach hinten, halte den Rücken gerade und greife beide Kettlebells im Obergriff.
+
+  Ausführung:
+  1. Umsetzen (Clean): Strecke Hüfte und Knie explosiv, ziehe die Kettlebells nah am Körper nach oben und fange sie geschmeidig in der Rack-Position vor der Brust ab.
+  2. Drücken (Press): Spanne Rumpf und Gesäß fest an und drücke beide Kettlebells kontrolliert senkrecht über den Kopf, bis die Arme vollständig gestreckt sind.
+  3. Senke die Kettlebells kontrolliert zurück in die Rack-Position und schwinge sie nach unten in die Ausgangsposition.
+
+  Hinweise:
+  Vermeide ein Hohlkreuz beim Überkopfdrücken. Die Kraft für das Umsetzen kommt aus der Hüftstreckung, nicht aus den Armen.
+search_terms:
+  - Doppeltes Kettlebell Clean and Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1438'
 language: en
-status: upstream_unreviewed
-name: Clean
+status: ai_reviewed
+name: Barbell Clean
 description: |-
-  Regular olympic lift clean.
-  Pull bar from ground, catch on shoulders performing a front squat.
+  Starting position:
+  Stand with feet hip-width apart over the barbell with your shins close to the bar. Hinge down and grip the bar just outside your knees using a hook grip. Keep your back flat, chest up, and shoulders slightly in front of the bar.
+
+  Movement:
+  1. First pull: Drive through the floor with your legs to lift the bar smoothly past your knees, maintaining a constant torso angle.
+  2. Second pull: Explosively extend your hips, knees, and ankles (triple extension) while shrugging your shoulders to propel the barbell upward close to your torso.
+  3. Turnover and catch: Rapidly pull yourself under the bar, rotating your elbows forward and up to catch the barbell on your front deltoids in a front squat position, then stand up to complete the lift.
+
+  Notes:
+  Keep the barbell close to your body throughout the entire pull. Fast elbow turnover ensures a safe and stable rack position.
+search_terms:
+  - Clean
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1242'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexión plantar con banda elástica
-description: |-
-  La flexión plantar con banda es una excelente forma de cerrar la brecha entre el rango de movimiento de la flexión plantar y las elevaciones de gemelos con carga, más exigentes. Esto puede ayudar a fortalecer los músculos de la pantorrilla, cargar el tendón de Aquiles y mejorar el rango de movimiento de la flexión plantar.
+description: 'Posición inicial:
+
+  Siéntate en el suelo con las piernas extendidas hacia adelante. Coloca el centro de una banda elástica alrededor de la parte
+  delantera del pie y sujeta los extremos con ambas manos manteniendo una tensión adecuada.
+
+
+  Ejecución:
+
+  1. Empuja la punta del pie hacia adelante contra la resistencia de la banda (flexión plantar), contrayendo firmemente los
+  músculos de la pantorrilla.
+
+  2. Mantén la contracción máxima durante un instante.
+
+  3. Regresa lentamente a la posición inicial controlando la resistencia en todo momento.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

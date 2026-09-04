@@ -3,14 +3,21 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '687'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Overhead Press
+description: '- Unrack the barbell from shoulder height with an overhand grip slightly
+  wider than shoulder width, resting it on your anterior deltoids.
+
+  - Brace your core and glutes, tilt your head slightly back, and press the bar vertically
+  in a straight path.
+
+  - As the bar passes your forehead, bring your head slightly forward and lock out
+  your arms overhead over midfoot.
+
+  - Lower the barbell under control back to your upper chest and shoulders.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Vazco
   source_id: '1069'
-description: |-
-  Take a barbell from a squat rack and hold it at shoulder height. Press it overhead, then lower it back to the starting position.

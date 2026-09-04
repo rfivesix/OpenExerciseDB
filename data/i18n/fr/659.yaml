@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '659'
 language: fr
-status: upstream_unreviewed
-name: Extensions des triceps à la poulie
-description: |-
-  Saisissez le câble, tenez-vous debout, les pieds écartés de la largeur des épaules, gardez le dos droit et penchez-vous légèrement vers l'avant. Poussez la barre vers le bas en veillant à ce que les coudes ne bougent pas pendant l'exercice. Tournez les mains vers l'extérieur tout à la fin, puis revenez à la position initiale sans pause.
+status: ai_reviewed
+name: Extension des triceps à la poulie avec corde
+description: '- Attachez une corde à la poulie haute, tenez-vous debout les pieds
+  écartés de la largeur des épaules, le buste légèrement penché en avant.
+
+  - Gardez les coudes collés au buste et poussez la corde vers le bas jusqu''à l''extension
+  complète des bras.
+
+  - Écartez les extrémités de la corde vers l''extérieur en bas du mouvement pour
+  maximiser la contraction des triceps.
+
+  - Revenez lentement à la position de départ de manière contrôlée sans avancer les
+  coudes.'
+search_terms:
+- Extensions des triceps à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

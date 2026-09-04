@@ -3,13 +3,22 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '803'
 language: en
-status: ai_raw
-name: One Arm Triceps Extensions on Cable
+status: ai_reviewed
+name: One-Arm Cable Triceps Extension
+description: '- Stand facing or slightly angled to a high cable pulley, holding a
+  single handle or rope end with one hand.
+
+  - Pin your upper arm securely to your side with your elbow bent at roughly 90 degrees.
+
+  - Press the attachment downward by extending your elbow until your triceps is fully
+  contracted.
+
+  - Return the handle upward in a slow and controlled motion without shifting your
+  elbow or shoulder.'
+search_terms:
+- One Arm Triceps Extensions on Cable
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1055'
-description: |-
-  Stand at a cable pulley and hold the attachment with one hand. Extend the elbow to press the handle down, then return it under control before repeating on the other side.

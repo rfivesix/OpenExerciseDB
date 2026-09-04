@@ -1,10 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '688'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Oberer schräger Bauchmuskel
-description: Übung für die oberen äußeren schrägen Bauchmuskeln
+description: '- Begib dich in einen Seitstütz oder hänge stabil an einer Klimmzugstange
+  mit aktivierter Rumpfmuskulatur.
+
+  - Führe eine kontrollierte seitliche Beugung des Oberkörpers bzw. ein seitliches
+  Anheben der Beine aus, um die oberen äußeren schrägen Bauchmuskeln gezielt zu kontrahieren.
+
+  - Halte die Kontraktion am Wendepunkt kurz und senke dich langsam wieder ab, bevor
+  du die Seite wechselst.'
+translated_from: en
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.carinatum.com/

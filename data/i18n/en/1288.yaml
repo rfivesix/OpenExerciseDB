@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1288'
 language: en
-status: upstream_unreviewed
-name: Dynamic side plank
-description: |-
-  The dynamic side plank involves positioning yourself on your side, supported on one elbow and the side of your foot, then dipping your hips up and down while keeping your body in a straight line.
+status: ai_reviewed
+name: Dynamic Side Plank
+description: The dynamic side plank involves positioning yourself on your side, supported on one elbow and the side of your
+  foot, then dipping your hips up and down while keeping your body in a straight line.
 upstream:
   license: CC-BY-SA-4.0
   license_author: painDpice

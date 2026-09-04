@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: it
-status: upstream_unreviewed
-name: Russian twist con palla medica
+status: ai_reviewed
+name: Russian Twist con palla medica
 description: |-
-  a sit-up completo, si ruota il busto da un lato all'altro senza forzare, avvicinandosi alle ginocchia e facendo toccare la palla a terra di volta in volta.
+  Posizione di partenza:
+  Siediti su un tappetino con le ginocchia piegate e i talloni a terra (o leggermente sollevati per maggiore intensità). Impugna una palla medica con entrambe le mani davanti al petto e inclina il tronco all'indietro a circa 45 gradi mantenendo la schiena dritta.
+
+  Esecuzione:
+  1. Attiva il core e ruota il busto verso destra portando la palla medica vicino al pavimento accanto al fianco destro.
+  2. Inverti il movimento ruotando verso il lato opposto e portando la palla vicino al fianco sinistro.
+  3. Controlla la stabilità del bacino e delle gambe focalizzando la contrazione sui muscoli obliqui.
+  4. Alterna i lati con ritmo costante e controllato.
+search_terms:
+  - Russian twist con palla medica
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1086'
 language: en
-status: upstream_unreviewed
-name: Close-grip Press-ups
+status: ai_reviewed
+name: Close-Grip Push-Ups
 description: |-
-  Drop into a strong plank position, bringing your hands close together until they're almost touching.&nbsp;(picture 1)Bend your elbows to slowly bring your chest to the floor&nbsp;(picture 2). Keep your elbows close to your body as you push back up explosively. Repeat. Ensure you take your time lowering on each rep, keeping your form sharp.
+  Starting position:
+  Set up in a standard high plank position, but place your hands close together directly beneath your chest (narrower than shoulder-width, thumbs almost touching). Your body should form a straight, rigid line from head to heels.
+
+  Execution:
+  1. Lower your body under control by bending your elbows, keeping them tucked tightly against your ribs.
+  2. Descend until your chest nearly touches the back of your hands.
+  3. Push forcefully through your palms and extend your arms, driving through the triceps back to the top plank position.
+  4. Keep your core braced and prevent your hips from sagging throughout the movement.
+search_terms:
+  - Close-grip Press-ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

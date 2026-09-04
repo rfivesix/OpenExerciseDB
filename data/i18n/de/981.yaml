@@ -1,21 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '981'
 language: de
 status: ai_reviewed
-name: Step-ups
-description: |-
-  Ausgangsposition:
-  Stelle dich vor einen Stuhl oder eine stabile Erhöhung.
-  Schritte:
+name: Step-ups (Aufsteiger)
+description: 'Ausgangsposition: Stehe aufrecht vor einer stabilen Bank, Box oder Stufe
+  mit hüftbreitem Stand.
 
-  Steige auf den Stuhl.
-  Steige wieder herunter.
-  Wiederhole die Bewegung.
+  Ausführung: Setze den gesamten rechten Fuß auf die Erhöhung. Drücke dich kraftvoll
+  über die rechte Ferse nach oben, bis das rechte Bein gestreckt ist.
+
+  Rückkehr: Steige kontrolliert mit dem linken Fuß zuerst und danach mit dem rechten
+  Fuß wieder auf den Boden ab.
+
+  Hinweis: Halte den Oberkörper aufrecht und hole so wenig Schwung wie möglich mit
+  dem hinteren Bein.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1498'
+search_terms:
+- Step-ups
+- Aufsteiger
+- Step-up

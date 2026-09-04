@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1372'
 language: en
-status: upstream_unreviewed
-name: Triceps Dips (Assisted)
+status: ai_reviewed
+name: Assisted Triceps Dips (Machine)
 description: |-
-  Assisted triceps dips&nbsp;&nbsp;is a gym work out exercise that targets triceps and also involves chest.
+  Starting position:
+  Select the appropriate counterweight on the assisted dip machine (higher weight provides more assistance). Grasp the parallel handles, place your knees or feet onto the support platform, and press yourself up until your arms are nearly fully extended.
+
+  Movement:
+  Lower your body with control by bending your elbows back until your upper arms are roughly parallel to the floor (approximately 90-degree elbow bend). Press through your palms and contract your triceps to push yourself back up to the starting position.
+
+  Notes:
+  Keep your elbows tucked close to your torso to emphasize the triceps rather than the chest. Do not lock out your elbows harshly at the top.
+search_terms:
+  - Triceps Dips (Assisted)
 upstream:
   license: CC-BY-SA-4.0
   license_author: matpn

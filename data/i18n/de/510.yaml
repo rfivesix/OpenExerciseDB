@@ -1,10 +1,19 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '510'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Brustgestütztes Kurzhantelrudern auf der Bank
-description: Lege dich bäuchlings auf eine flache Bank und halte eine Langhantel. Ziehe die Langhantel zum Oberkörper, indem du die Ellenbogen nach hinten ziehst, und senke sie dann kontrolliert ab.
+name: Brustgestütztes Langhantelrudern auf der Bank
+search_terms:
+- Brustgestütztes Kurzhantelrudern auf der Bank
+- Barbell Seal Row
+- Seal Row
+- Bankrudern mit Langhantel
+description: |-
+  Ausgangsposition: Lege dich bäuchlings auf eine Flachbank. Greife die unter der Bank liegende Langhantel im schulterbreiten Obergriff mit gestreckten Armen.
+  Ausführung: Ziehe die Langhantel nach oben zum Oberkörper oder zur Bankunterkante, indem du die Ellenbogen nach hinten führst und die Schulterblätter fest zusammenziehst.
+  Rückkehr: Senke die Langhantel kontrolliert wieder ab, bis die Arme vollständig gestreckt sind.
+  Hinweis: Durch die Bruststütze wird der untere Rücken komplett entlastet und die Zugmuskulatur des oberen Rückens isoliert trainiert.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -1,6 +1,6 @@
 """Tests fuer build/catalog_diff.py.
 
-Uebernommen aus `train-libre`. Die Schwellwert-Tests sind unveraendert in ihrer
+Aus einer frueheren Pipeline uebernommen. Die Schwellwert-Tests sind unveraendert in ihrer
 Absicht, aber ihre Fixtures haben jetzt Aliase: unter Invariante 21 ist eine
 verschwundene ID ohne Nachfolger fuer sich genommen schon ein Abbruchgrund, und
 ohne Alias wuerden die Tests nicht mehr die Schwelle pruefen, sondern die neue

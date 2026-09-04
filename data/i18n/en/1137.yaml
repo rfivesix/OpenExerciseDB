@@ -5,14 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1137'
 language: en
-status: upstream_unreviewed
-name: High-pulley pullover
+status: ai_reviewed
+name: High-Pulley Cable Pullover
 description: |-
-  Stand facing the machine, feet slightly apart, gripping the bar with an overhand grip, arms extended, hands shoulder-width apart.
+  Starting Position:
+  • Stand facing a high pulley cable machine with your feet shoulder-width apart.
+  • Grasp the bar with an overhand (pronated) grip, hands shoulder-width apart and arms nearly straight with elbows softly unlocked.
+  • Hinge forward slightly at the hips while keeping your spine straight and core braced.
 
-  Keeping your back fixed and your abdominal muscles contracted, inhale and bring the bar down to your thighs while keeping your arms extended (or your elbows slightly bent).
-  Exhale at the end of the movement.
+  Execution:
+  • Pull the bar down in a wide sweeping arc toward your upper thighs using your lats, keeping your arms extended.
+  • Squeeze your lats firmly at the bottom of the movement for a brief pause.
+  • Slowly return the bar back up along the same arc to eye level, controlling the resistance throughout.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2114'
+search_terms:
+  - High-pulley pullover
+  - Straight-arm pulldown

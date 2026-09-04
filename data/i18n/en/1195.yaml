@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1195'
 language: en
-status: upstream_unreviewed
-name: Side Slides + Squats
+status: ai_reviewed
+name: Side Slides to Squats
 description: |-
-  With feet a little wider than shoulder-width apart and staying low to mimic a defensive position, you should step with their lead leg and push off with their plant leg.
-  After three slides, rotate your body for 180 degree on the guiding (/outer) leg and do a squat. Continue.
+  Starting Position:
+  • Stand with your feet slightly wider than shoulder-width apart in a low, athletic defensive stance.
+  • Keep your chest up and your knees bent.
+
+  Execution:
+  • Perform three quick, controlled lateral slide steps to one side, pushing off the trailing foot.
+  • Plant your feet firmly and perform a deep squat, keeping your chest tall and driving your knees outward.
+  • Pivot 180 degrees or reverse direction, continuing with lateral slides to the other side followed by another squat.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Insight
   source_id: '2152'
+search_terms:
+  - Side Slides + Squats
+  - Lateral slides with squat

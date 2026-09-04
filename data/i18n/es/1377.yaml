@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1377'
 language: es
-status: upstream_unreviewed
-name: Giro de torso
+status: ai_reviewed
+name: Giro de torso de pie
 description: |-
-  Giro de torso de pie: ¡Trabaja tu core y mejora tu flexibilidad con este ejercicio dinámico de pie! El giro de torso de pie consiste en girar el torso mientras mantienes los pies y las caderas estables, activando los oblicuos y estirando toda la parte superior del cuerpo. Este movimiento ayuda a: fortalecer los músculos del core, aumentar la flexibilidad de la columna y el torso, mejorar la postura y el equilibrio, y potenciar el rendimiento atlético general. ¡Realiza 3 series de 10-15 repeticiones, girando hacia cada lado, para sentir los beneficios de este ejercicio eficaz y eficiente!
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de los hombros y las rodillas ligeramente flexionadas. Mantén la pelvis estable orientada al frente y cruza los brazos sobre el pecho o coloca las manos en las caderas.
+
+  Ejecución:
+  Gira el torso de manera lenta y controlada hacia un lado activando los oblicuos y manteniendo las caderas y piernas inmóviles. Haz una breve pausa en el punto de máxima rotación, vuelve al centro y gira hacia el lado opuesto a un ritmo fluido y constante.
+
+  Consejos:
+  La rotación debe originarse en la zona torácica y los músculos del core, sin forzar la columna lumbar ni mover las caderas.
+search_terms:
+  - Giro de torso
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

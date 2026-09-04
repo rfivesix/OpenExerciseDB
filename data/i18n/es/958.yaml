@@ -1,15 +1,13 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '958'
 language: es
-status: upstream_unreviewed
-name: Biceps con TRX
-description: |-
-  músculos implicados: bíceps Agarre las asas de las correas TRX, incline el cuerpo hacia atrás, brazos y piernas extendidos, cuerpo posicionado en una sola línea. (no es de abdominales, es de brazos)
+status: ai_reviewed
+name: Curl de Bíceps en TRX
+description: 'músculos implicados: bíceps Agarre las asas de las correas TRX, incline
+  el cuerpo hacia atrás, brazos y piernas extendidos, cuerpo posicionado en una sola
+  línea. (no es de abdominales, es de brazos)'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2158'
+search_terms:
+- Biceps con TRX

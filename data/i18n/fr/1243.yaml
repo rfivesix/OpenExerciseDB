@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1243'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extension des mollets sur deux jambes
-description: |-
-  L'extension des talons sur deux jambes est importante pour renforcer et développer le contrôle et la stabilité autour de la cheville et du genou, et pour assurer l'équilibre et le contrôle de la hanche et du bassin.
+description: 'Position de départ :
+
+  Tenez-vous debout, les pieds écartés de la largeur des hanches. Placez vos mains contre un mur ou un support stable pour
+  l''équilibre si nécessaire.
+
+
+  Exécution :
+
+  1. Poussez sur la pointe des pieds pour décoller les talons le plus haut possible.
+
+  2. Marquez une pause d''une à deux secondes au sommet en contractant fermement les mollets.
+
+  3. Redescendez lentement les talons au sol de manière contrôlée.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

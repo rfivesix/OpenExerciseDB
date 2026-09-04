@@ -5,9 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: de
-status: upstream_unreviewed
-name: Wadenheben, Einbenig
-description: Wenn man möchte mit extra Gewicht
+status: ai_reviewed
+name: Einbeiniges Wadenheben
+description: '- Stelle dich mit dem Fußballen eines Fußes auf eine Erhöhung (Stufe
+  oder Hantelscheibe), der andere Fuß wird leicht angewinkelt in der Luft gehalten.
+
+  - Halte dich bei Bedarf mit einer Hand an einer Wand oder einem Geländer fest, um
+  das Gleichgewicht zu sichern.
+
+  - Senke die Ferse des Standbeins kontrolliert so weit wie möglich ab, um die Wadenmuskulatur
+  intensiv zu dehnen.
+
+  - Drücke dich anschließend kraftvoll über den Fußballen nach oben in den Zehenstand
+  und halte die maximale Kontraktion für einen Moment.
+
+  - Senke die Ferse wieder kontrolliert ab und wechsle nach Beendigung des Satzes
+  das Bein.'
+search_terms:
+- Wadenheben, Einbenig
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

@@ -8,9 +8,12 @@ exercise_id: '566'
 language: de
 status: ai_reviewed
 name: Schulterdrücken (Langhantel)
-description: Schulterdrücken im Sitzen mit der Langhantel
 search_terms:
-  - Military Press LH
+- Military Press LH
+description: |-
+  Ausgangsposition: Setze dich auf eine Schrägbank mit fast senkrechter Rückenlehne. Greife die Langhantel im schulterbreiten Obergriff und bringe sie auf Höhe des oberen Brustkorbs.
+  Ausführung: Drücke die Langhantel kontrolliert über den Kopf nach oben, ohne die Ellenbogen am obersten Punkt ganz durchzudrücken.
+  Rückkehr: Senke die Hantel langsam und kontrolliert wieder auf Schlüsselbeinhöhe ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

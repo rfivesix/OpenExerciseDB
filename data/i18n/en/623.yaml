@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '623'
 language: en
-status: upstream_unreviewed
-name: Standing Rope Forearm
-description: |-
-  Grab a wrist roller tool with both hands while standing with your feet about shoulder width apart. If your gym does not have a wrist roller tool, you can easily put one together. All you need is a 5 or 10 pound weight plate, a strong thin rope about 3 feet long and a 6-8 inch stick or bar. Securely fasten the rope to the middle of the bar/stick and tie the other end of the rope to the weight plate. To begin this exercise, grab the bar/stick with both hands using an overhand grip. Extend both arms straight out in front of you, parallel to the floor. Next, roll the weight up from the floor by rapidly twisting the bar/stick with your hands and wrists. Once the weight reaches the top, slowly lower the plate back to the floor by reversing the motion of your hands and wrists. Repeat (if you can!).
+status: ai_reviewed
+name: Standing Wrist Roller
+search_terms:
+- Standing Rope Forearm
+- Wrist Roller
+description: Grab a wrist roller tool with both hands while standing with your feet about shoulder width apart. If your gym
+  does not have a wrist roller tool, you can easily put one together. All you need is a 5 or 10 pound weight plate, a strong
+  thin rope about 3 feet long and a 6-8 inch stick or bar. Securely fasten the rope to the middle of the bar/stick and tie
+  the other end of the rope to the weight plate. To begin this exercise, grab the bar/stick with both hands using an overhand
+  grip. Extend both arms straight out in front of you, parallel to the floor. Next, roll the weight up from the floor by rapidly
+  twisting the bar/stick with your hands and wrists. Once the weight reaches the top, slowly lower the plate back to the floor
+  by reversing the motion of your hands and wrists. Repeat (if you can!).
 upstream:
   license: CC-BY-SA-4.0
   license_author: pwiltrout

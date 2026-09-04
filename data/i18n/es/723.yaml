@@ -5,22 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '723'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón con agarre ancho
-description: |-
-  Posición inicial:
+description: '- Siéntate en la máquina de jalón con los muslos bien sujetos bajo los
+  rodillos de apoyo.
 
-  Brazos extendidos por encima de la cabeza, sintiendo un estiramiento en los dorsales.
-  Mantén los hombros deprimidos (no los encojas hacia arriba).
+  - Sujeta la barra con un agarre prono significativamente más ancho que los hombros.
 
+  - Tira de la barra hacia la parte alta del pecho dirigiendo los codos hacia abajo
+  y atrás, manteniendo el pecho erguido.
 
-
-  Fase de tirón (concéntrica):
-
-  Tira de la barra hacia la parte alta del pecho o la zona de la clavícula impulsando los codos hacia abajo y hacia atrás.
-  Mantén el pecho elevado y aprieta los omóplatos en la parte baja.
+  - Aprieta las escápulas en la parte baja y regresa la barra lentamente hasta extender
+  por completo los brazos.'
 search_terms:
-  - Jalón abierto
+- Jalón abierto
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

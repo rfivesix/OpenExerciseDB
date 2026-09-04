@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1234'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip thrust à une jambe avec haltère
 description: |-
-  Le hip thrust à une jambe s'effectue en plaçant le haut du dos sur un banc de musculation, en levant une jambe et en étendant la hanche de l'autre jambe afin d'obtenir une contraction isolée du fessier.
-  En travaillant chaque côté séparément, vous pouvez isoler complètement vos fessiers de manière unilatérale, ce qui procure un stimulus d'entraînement maximal.
+  Position de départ :
+  • Asseyez-vous au sol, le haut du dos calé contre le bord d'un banc stable.
+  • Placez un haltère sur le bassin en le maintenant fermement avec vos mains.
+  • Posez un pied à plat au sol (jambe active) avec le genou à 90 degrés et décollez l'autre jambe du sol genou fléchi.
+
+  Exécution :
+  • Poussez puissamment sur le talon d'appui pour étendre la hanche jusqu'à ce que le torse et la cuisse forment une ligne horizontale droite.
+  • Contractez au maximum le grand fessier en haut pendant 1 à 2 secondes.
+  • Redescendez le bassin sous contrôle et enchaînez la série avant de passer à l'autre jambe.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4534'
+search_terms:
+  - Dumbbell Single-leg Hip Thrust

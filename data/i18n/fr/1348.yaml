@@ -5,15 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1348'
 language: fr
-status: upstream_unreviewed
-name: Extensions du bas du dos
+status: ai_reviewed
+name: Extensions du dos au banc à lombaires
 description: |-
-  Engagez les muscles
-  Soulevez légèrement le bassin
-  Mouvement contrôlé
-  Mouvement lent
-  N'utilisez pas d'élan
-  Gardez le haut du corps droit
+  Position de départ :
+  Installez-vous face contre le banc à lombaires (chaise romaine), le haut des cuisses en appui sur les coussins et le bassin libre pour permettre la flexion. Calez bien vos chevilles sous les boudins. Croisez les bras sur la poitrine ou placez vos mains près des oreilles.
+
+  Mouvement :
+  Fléchissez le buste vers l'avant à partir des hanches en gardant la colonne vertébrale neutre. Redressez le buste de façon contrôlée en contractant les lombaires, les fessiers et les ischio-jambiers jusqu'à ce que votre corps forme une ligne droite.
+
+  Conseils :
+  N'hypercambrisez pas le dos en fin de mouvement. Effectuez la répétition sans à-coup.
+search_terms:
+  - Banc à lombaire
+  - Hyperextensions
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

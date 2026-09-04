@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1111'
 language: es
-status: upstream_unreviewed
-name: Flexiones | inclinadas (incline)
+status: ai_reviewed
+name: Flexiones inclinadas con manos elevadas
 description: |-
-  Las flexiones inclinadas trabajan principalmente los músculos del pecho (pectoral mayor y menor), pero también implican en menor medida los tríceps, los hombros y el core. Como el tren superior está elevado, la flexión inclinada pone menos énfasis en los tríceps en comparación con las flexiones normales, lo que puede ser beneficioso para quienes buscan trabajar específicamente los músculos del pecho.
+  Posición inicial:
+  Apoya las manos separadas un poco más que el ancho de los hombros sobre un banco, cajón o superficie elevada. Extiende las piernas hacia atrás manteniendo el cuerpo alineado de la cabeza a los talones.
+
+  Ejecución:
+  1. Flexiona los codos de forma lenta y controlada bajando el pecho hacia el borde de la superficie elevada.
+  2. Desciende hasta que el pecho casi roce el soporte, con los codos formando un ángulo aproximado de 45 grados respecto al torso.
+  3. Empuja con fuerza a través de las palmas extendiendo los brazos hasta volver a la posición inicial.
+  4. Mantén el abdomen firme para evitar que la cadera se hunda durante el ejercicio.
+search_terms:
+  - Flexiones | inclinadas (incline)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

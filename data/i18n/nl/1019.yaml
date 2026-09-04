@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: nl
-status: upstream_unreviewed
-name: Rechts planken
+status: ai_reviewed
+name: Zijwaartse plank (rechts)
 description: |-
-  Ga op je linkerzij liggen, houd je rechterelleboog recht en steek je arm uit.
-  Duw je bekken omhoog door je rechterschouder op te tillen, maar houd je bovenarm op de grond - je hoofd, bekken en voeten moeten in een rechte lijn liggen.
-  Houd deze positie vas
+  Beginpositie:
+  Ga op je rechterzijde liggen met je benen gestrekt en je voeten op elkaar of achter elkaar. Plaats je rechterelleboog recht onder je rechterschouder met je onderarm plat op de grond.
+
+  Uitvoering:
+  1. Span je buikspieren, schuine buikspieren en bilspieren aan en til je bekken van de vloer tot je lichaam een rechte lijn vormt van hoofd tot hielen.
+  2. Houd je schouders en heupen recht boven elkaar zonder in te zakken.
+  3. Houd deze positie vast voor de gewenste tijdsduur en blijf rustig doorademen.
+search_terms:
+  - Rechts planken
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1928'

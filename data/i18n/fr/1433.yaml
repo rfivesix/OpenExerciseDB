@@ -5,8 +5,8 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: fr
-status: upstream_unreviewed
-name: Wood chops inversés (rotation du tronc)
+status: ai_reviewed
+name: Wood chop inversé avec élastique
 description: |-
   Fixez un élastique en boucle à un rack en dessous de la hauteur des genoux
   Saisissez l'autre extrémité de l'élastique à deux mains, comme si vous teniez une batte de baseball
@@ -14,6 +14,8 @@ description: |-
   Commencez avec les mains sur le côté de vos hanches, les genoux fléchis
   Faites pivoter vos hanches tout en déplaçant vos mains par-dessus l'épaule opposée
   Imaginez le mouvement comme si vous frappiez une balle de baseball avec une batte
+search_terms:
+  - Wood chops inversés (rotation du tronc)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

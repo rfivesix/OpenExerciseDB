@@ -5,19 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1017'
 language: en
-status: upstream_unreviewed
-name: Neck half circles
+status: ai_reviewed
+name: Neck Half Circles
 description: |-
   Starting position:
-  Start sitting or standing. Lean your head against one of your shoulders, but don't push.
-  Steps:
-  In one slower fluid motion and with your head relaxed and not pushing in any direction:
+  Sit or stand tall with your back straight and shoulders relaxed. Gently tilt your head toward one shoulder (e.g. right ear toward right shoulder).
 
-  bring your head down toward your chest.
-  then lean back aganst your other shoulder.
-  then back toward the chest again.4.and finally toward the starting position.
-
-  Keep repeating this.
+  Execution:
+  1. Slowly roll your head forward and down, letting your chin trace a smooth arc across your chest toward the opposite shoulder.
+  2. Reverse the motion, rolling your chin back across your chest to the starting side.
+  3. Continue alternating side to side in a gentle, controlled crescent motion without rolling your head backward.
+search_terms:
+  - Neck half circles
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1917'

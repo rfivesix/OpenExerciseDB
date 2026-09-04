@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '655'
 language: es
-status: upstream_unreviewed
-name: Contragolpe de tríceps con mancuernas
-description: |-
-  Comience con una mancuerna en cada mano y las palmas de las manos hacia el torso. Mantenga la espalda recta con una ligera flexión de las rodillas e inclínese hacia adelante por la cintura. Tu torso debe estar casi paralelo al piso. Asegúrate de mantener la cabeza en alto. Tus brazos superiores deben estar cerca de tu torso y paralelos al piso. Tus antebrazos deben apuntar hacia el suelo mientras sostienes las pesas. Debe haber un ángulo de 90 grados formado entre el antebrazo y la parte superior del brazo. Esta es tu posición de inicio. Ahora, mientras mantiene la parte superior de sus brazos inmóviles, exhale y use sus tríceps para levantar las pesas hasta que el brazo esté completamente extendido. Concéntrese en mover el antebrazo. Después de una breve pausa en la contracción superior, inhala y baja lentamente las mancuernas hasta la posición inicial. Repita el movimiento la cantidad prescrita de repeticiones. Variaciones: este ejercicio también se puede ejecutar con un brazo a la vez, al igual que se realizan las filas de un brazo. Además, si le gusta la variedad de un solo brazo, puede usar un mango de polea baja en lugar de una mancuerna para una mejor contracción máxima. En este caso, las palmas deben estar hacia arriba (agarre en supinación) en lugar del torso (agarre neutral).
+status: ai_reviewed
+name: Patada de tríceps con mancuernas
+description: '- Sujeta una mancuerna en cada mano con agarre neutro, inclina el torso
+  hacia adelante manteniendo la espalda recta y las rodillas ligeramente flexionadas.
+
+  - Eleva los codos hacia atrás pegados al cuerpo de modo que los brazos queden paralelos
+  al suelo y los antebrazos apunten hacia abajo a 90 grados.
+
+  - Manteniendo la parte superior de los brazos inmóvil, extiende los codos hacia
+  atrás hasta contraer completamente los tríceps.
+
+  - Haz una breve pausa en el punto de máxima contracción y desciende lentamente las
+  mancuernas hasta la posición inicial.'
+search_terms:
+- Contragolpe de tríceps con mancuernas
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.bodybuilding.com/

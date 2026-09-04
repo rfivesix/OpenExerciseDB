@@ -2,11 +2,21 @@ exercise_id: '1373'
 language: en
 status: ai_reviewed
 name: Box Jump
-description: Jump from a standing position onto the box, stretch your body, then step
-  down again (do not jump)
+description: |-
+  Starting position:
+  Stand facing a sturdy plyometric box at a comfortable distance of about one to two feet. Set your feet shoulder-width apart with arms relaxed at your sides.
+
+  Movement:
+  1. Swing your arms back and quickly hinge into a quarter squat to load your hips and legs.
+  2. Explosively jump upward and forward by driving through your hips, knees, and ankles while swinging your arms forward and up.
+  3. Land softly on top of the box with both feet absorbing the impact in a partial squat.
+  4. Stand tall to complete hip and knee extension, then carefully step down one foot at a time.
+
+  Notes:
+  Do not jump down backwards from the box, as this places unnecessary stress on the Achilles tendons and knees.
+search_terms:
+  - box jumps
 upstream:
   license: CC-BY-SA-4.0
   license_author: tekknokrat@gmx.de
   source_id: '2339'
-search_terms:
-- box jumps

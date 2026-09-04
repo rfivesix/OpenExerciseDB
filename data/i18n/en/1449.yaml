@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1449'
 language: en
-status: upstream_unreviewed
-name: ClimbMill
+status: ai_reviewed
+name: Stair Climber (ClimbMill)
 description: |-
-  The ClimbMill, also known as a stair climber, is a cardio-focused machine that simulates climbing stairs. It provides an effective way to improve endurance while strengthening the lower body. To use the machine, step onto the moving stairs, maintain an upright posture, and use the handrails for balance if needed. Adjust the speed and intensity to match your fitness level. This exercise helps improve cardiovascular health, burns calories, and enhances lower body muscle endurance.
+  Starting Position:
+  • Step onto the rotating stairs of the ClimbMill machine and maintain an upright posture.
+  • Lightly place your hands on the handrails for balance without leaning your upper body weight onto them.
+
+  Execution:
+  • Step smoothly and deliberately from one rotating step to the next, placing your entire foot on each step.
+  • Keep your chest lifted, shoulders back, and core engaged throughout.
+  • Adjust the stair speed to match your cardio conditioning level.
 upstream:
   license: CC-BY-SA-4.0
-  license_author: hpmbala@gmail.com
+  license_author: "hpmbala@gmail.com"
   source_id: '2413'
+search_terms:
+  - ClimbMill
+  - Stair Climber

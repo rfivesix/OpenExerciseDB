@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '636'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Superman
-description: |-
-  Lay flat on your stomach with your arms extended in front of you on the ground as your legs are lying flat. Lift both your arms and legs at the same time, as if you were flying, and contract the lower back. Make sure that you are breathing and, depending on your fitness level, hold the movement for at least two to five seconds per repetition.
+description: 'Lie flat on your stomach with your legs straight and arms extended overhead
+  on the floor.
+
+  Simultaneously raise your arms, chest, and thighs a few inches off the floor by
+  contracting your lower back, glutes, and upper back muscles.
+
+  Hold the peak contraction for 2 to 5 seconds while breathing smoothly, then slowly
+  lower back down under control.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: baldurmen

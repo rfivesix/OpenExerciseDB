@@ -9,9 +9,14 @@ language: de
 status: ai_reviewed
 name: Split Squat mit Kurzhanteln
 description: |-
-  Kontrollierte Ausführung
-  Keinen Schwung holen
-  Langsam ausführen
+  Ausgangsposition:
+  Halte in jeder Hand eine Kurzhantel seitlich am Körper im neutralen Griff. Begib dich in eine weite Schrittstellung (Split-Stance): Die Füße stehen hüftbreit versetzt, das vordere Bein trägt den Hauptteil des Gewichts, die hintere Ferse ist vom Boden abgehoben.
+
+  Ausführung:
+  Senke das Becken kontrolliert senkrecht nach unten ab, bis das hintere Knie fast den Boden berührt und beide Knie einen Winkel von etwa 90 Grad bilden. Drücke dich über die Ferse des vorderen Fußes kraftvoll wieder nach oben, ohne die Fußposition zu verändern.
+
+  Hinweise:
+  Halte den Oberkörper aufrecht und die Rumpfmuskulatur stabil. Führe erst alle Wiederholungen für eine Seite aus, bevor du das Bein wechselst.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

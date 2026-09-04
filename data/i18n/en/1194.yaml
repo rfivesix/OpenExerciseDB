@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1194'
 language: en
-status: upstream_unreviewed
-name: Pallof Press
+status: ai_reviewed
+name: Cable Pallof Press
 description: |-
-  The Pallof press is an anti-rotation exercise that trains the larger and smaller muscles around the spine to resist rotation.
+  Starting Position:
+  • Stand sideways to a cable machine with the pulley set at chest height.
+  • Grasp the handle with both hands and hold it tight against the center of your chest.
+  • Set your feet shoulder-width apart, knees slightly unlocked, and brace your core and glutes firmly.
 
-  Stand parallel to the cable machine or to the anchor point to the
-  resistance band and clasp with the handle or band with both hands.
-  Make sure your torso is front on and bring your hands to the center of your chest and slowly press out.
-  Slowly return your hands to the chest and repeat.
+  Execution:
+  • Press the handle straight out in front of you until your arms are fully extended.
+  • Actively resist the rotational pull of the cable, keeping your shoulders and hips squared forward.
+  • Hold the extended position for 1 to 2 seconds, then slowly return your hands back to your chest under full control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: prevail90
   source_id: '2150'
+search_terms:
+  - Pallof Press
+  - Anti-rotation press

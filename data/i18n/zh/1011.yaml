@@ -5,16 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: zh
-status: upstream_unreviewed
+status: ai_reviewed
 name: 前颈部拉伸
 description: |-
-  起始位置：坐位或站位，背部挺直。
-  步骤：
+  起始位置：
+  保持坐姿或站姿，背部挺直，双肩下沉放松。
 
-  张大嘴巴。
-  保持嘴张开，慢慢仰头。可以将双手放在脑后支撑头部。
-  慢慢地合上嘴再张开。
-  最后，慢慢回到起始位置，合上嘴部。
+  动作步骤：
+  1. 轻轻张大嘴巴。
+  2. 保持嘴部张开，缓慢将头部向后仰，直到感受到颈部前侧温和的拉伸感。
+  3. 缓慢闭合并再次张开嘴巴数次，以深化对颈阔肌及颈前肌群的拉伸。
+  4. 缓慢将头部收回中立起始位置，合上嘴部。
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1905'

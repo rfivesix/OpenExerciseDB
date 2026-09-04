@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1109'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Konzentrationscurl am Kabelzug
 description: |-
-  Der Konzentrationscurl ist eine klassische Übung, um den Bizeps Arm für Arm aufzubauen. Er kann vorgebeugt oder kniend ausgeführt werden, wird aber häufiger sitzend auf einer Bank gemacht. Er eignet sich hervorragend, um den Bizepsgipfel zu betonen, und wird oft zum Abschluss eines Bizepstrainings eingesetzt.
+  Ausgangsposition:
+  Platziere eine Flachbank vor einem Kabelzug mit tief eingestelltem Seilzug (Low Pulley). Setze dich hin, greife den Einhandgriff im Untergriff (Handfläche nach oben) und stütze die Rückseite des Oberarms (Trizeps) fest an der Innenseite des gleichseitigen Oberschenkels ab.
+
+  Ausführung:
+  1. Beuge den Ellenbogen kontrolliert und ziehe den Griff nach oben in Richtung Kinn/Schulter, ohne den Oberarm vom Oberschenkel zu lösen.
+  2. Halte am höchsten Punkt die maximale Kontraktion des Bizeps für eine Sekunde.
+  3. Senke das Gewicht langsam und kontrolliert unter anhaltender Kabelspannung wieder ab, bis der Arm fast vollständig gestreckt ist.
+  4. Führe alle Wiederholungen für einen Arm durch und wechsle anschließend die Seite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1208'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Prisoner Squat
 description: |-
-  Stell dich mit leicht angehobenem Brustkorb aufrecht hin, deine Füße sind hüftbreit voneinander entfernt, die Zehen zeigen gerade nach vorne. Nimm deine Hände mit leicht verschränkten Fingern an den Hinterkopf, die Ellbogen zeigen zur Seite. Schiebe deine Hüfte nach hinten und beuge deine Knie, der Oberkörper bleibt dabei so aufrecht wie möglich. Drück deine Knie nach außen, sie dürfen auf keinen Fall zueinanderzeigen. Wenn sich dein Oberkörper leicht nach vorne bewegt, achte darauf, dass er sich nicht krümmt. Halte die Ellbogen stets auf Höhe der Ohren, indem du die Muskeln zwischen deinen Schulterblättern anspannst. Wenn du beweglich genug bist, kannst du so weit nach unten sinken, bis dein Gesäß deine Waden berührt. Achte dabei aber darauf, dass du deine Wirbelsäule nicht krümmst. Bevor das passiert, kehrst du die Bewegung um und drückst dich aus deinen Fersen und Gesäßmuskeln mit so viel Schwung nach oben, dass deine Füße kurz abheben und du einen kleinen Hüpfer machst. Korrigiere gegebenenfalls die Position der Füße, Arme und des Oberkörpers, bevor du die nächste Wiederholung anschließt.
+  Ausgangsposition:
+  • Stelle dich schulterbreit hin, die Fußspitzen zeigen leicht nach außen.
+  • Lege deine Hände an den Hinterkopf mit verschränkten Fingern und ziehe die Ellbogen weit nach außen.
+  • Richte den Oberkörper auf, hebe das Brustbein an und ziehe die Schulterblätter zusammen.
+
+  Ausführung:
+  • Schiebe die Hüfte nach hinten-unten und beuge die Knie, bis die Oberschenkel mindestens parallel zum Boden sind.
+  • Halte den Oberkörper so aufrecht wie möglich und die Ellbogen konsequent weit nach hinten geöffnet.
+  • Drücke dich über die Fersen kraftvoll wieder nach oben in den aufrechten Stand und spanne das Gesäß an.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2171'
+search_terms:
+  - Prisoner-Kniebeuge
+  - Kniebeugen mit Händen am Hinterkopf

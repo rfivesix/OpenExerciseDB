@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '575'
 language: de
-status: upstream_unreviewed
-name: Shrugs an der MP
-description: |-
-  Greife die Stange der Multipresse, stelle dich mit Schulterbreitem Stand und sehr leicht gebeugte Beine auf und lasse den Blick nach vorn. Die Arme hängen am Körper. Aus dieser Position hebst du nun das Gewicht, indem du die Schultern nach oben ziehst. Beuge dabei die Arme nicht. Auf dem höchsten Punkt kannst du 1 oder 2 Sekunden ausharren, bringe dann die Schultern langsam nach unten.
+status: ai_reviewed
+name: Shrugs an der Multipresse
 search_terms:
-  - Schulterheben MP
+- Schulterheben MP
+- Shrugs an der MP
+- Nackenziehen an der Multipresse
+description: |-
+  Ausgangsposition: Greife die Stange der Multipresse im schulterbreiten Stand mit leicht gebeugten Knien und aufrechtem Oberkörper. Der Blick ist nach vorne gerichtet, die Arme hängen gestreckt nach unten.
+  Ausführung: Hebe das Gewicht an, indem du die Schultern möglichst weit senkrecht nach oben zu den Ohren ziehst. Die Arme bleiben dabei gestreckt. Halte die höchste Position für 1 bis 2 Sekunden.
+  Rückkehr: Senke die Schultern langsam und kontrolliert wieder in die Ausgangsposition ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

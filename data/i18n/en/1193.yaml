@@ -9,10 +9,18 @@ language: en
 status: ai_reviewed
 name: Dumbbell Russian Twist
 description: |-
-  Hold a dumbbell, barbell weight or something else that is heavy with both hands, but make sure it is not too heavy and you are able to keep in form.
-  Lean back to a 45-degree angle from the floor. For an extra challenge, lift your feet off the floor.
-  Rotate your arms to one side to the same level as your chest, touch the floor for a little extra challenge, and then do the same to the other side. When you're back in your original position after doing both sides it will count as 1 rep.
+  Starting Position:
+  • Sit on a mat with your knees bent and heels touching the floor (or lifted off the ground for increased difficulty).
+  • Hold a dumbbell horizontally with both hands in front of your chest.
+  • Lean your torso back at roughly a 45-degree angle, keeping your spine straight and core firmly engaged.
+
+  Execution:
+  • Rotate your torso smoothly to the right, bringing the dumbbell toward the floor next to your hip.
+  • Pause briefly, then rotate through the center to the left side in a controlled motion.
+  • Focus on turning your ribcage and engaging your obliques, keeping your hips and lower body as stable as possible.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lion
   source_id: '2149'
+search_terms:
+  - Russian twist with dumbbell

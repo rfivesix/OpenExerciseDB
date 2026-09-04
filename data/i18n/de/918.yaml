@@ -1,10 +1,24 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '918'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Seitheben sitzend mit Kurzhanteln
-description: Sitze zu Beginn der Übung leicht nach vorn geneigt.
+description: '- Setze dich auf das Ende einer Hantelbank, stelle die Füße fest auf
+  den Boden und halte in jeder Hand eine Kurzhantel seitlich neben den Oberschenkeln.
+
+  - Beuge den Oberkörper minimal nach vorne und halte eine leichte, feste Beugung
+  in den Ellenbogen.
+
+  - Hebe die Kurzhanteln seitlich in einem weiten Bogen an, bis sich die Ellenbogen
+  und Hanteln auf Schulterhöhe befinden.
+
+  - Halte die Kontraktion im seitlichen Deltamuskel kurz und senke die Gewichte langsam
+  und kontrolliert wieder ab.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

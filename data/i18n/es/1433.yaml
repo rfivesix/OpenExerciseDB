@@ -5,8 +5,8 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: es
-status: upstream_unreviewed
-name: Leñador inverso
+status: ai_reviewed
+name: Leñador inverso con banda elástica
 description: |-
   Engancha una banda de resistencia cerrada a un rack por debajo de la altura de la rodilla
   Sujeta el otro extremo de la banda con ambas manos como si sostuvieras un bate de béisbol
@@ -14,6 +14,8 @@ description: |-
   Comienza con las manos al lado de las caderas, las rodillas flexionadas
   Rota las caderas mientras llevas las manos hacia arriba por encima del hombro opuesto
   Imagina el movimiento como si golpearas una pelota de béisbol con un bate
+search_terms:
+  - Leñador inverso
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1275'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plantarflexion Stretch with Band
-description: This stretch is for the ankles, as well as Tibialis anterior.
+description: 'Starting position:
+
+  Sit on the floor with your legs extended in front of you. Loop a light resistance band over the top of your foot (instep),
+  holding the ends to guide the stretch.
+
+
+  Execution:
+
+  1. Gently point your toes forward and downward (plantarflexion), creating a mild stretch along the front of your ankle and
+  the tibialis anterior muscle.
+
+  2. Hold the stretch comfortably for 20–30 seconds.
+
+  3. Release slowly and switch to the other foot.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '571'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Scrollate con bilanciere
-description: Scrollate con bilanciereScrollate con bilanciere
+description: |-
+  Posizione di partenza: In piedi con il busto eretto, piedi a larghezza spalle e bilanciere impugnato con presa prona davanti alle cosce a braccia distese.
+  Esecuzione: Solleva le spalle verticalmente verso le orecchie il più in alto possibile senza flettere i gomiti. Mantieni la contrazione in cima per 1-2 secondi.
+  Ritorno: Abbassa lentamente il bilanciere fino alla posizione di partenza.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -5,9 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '917'
 language: es
-status: upstream_unreviewed
-name: Elevación frontal con cable
-description: olver a torre de cable, cable entre patas, barra SZ
+status: ai_reviewed
+name: Elevación frontal en polea con barra recta
+description: '- Conecta una barra recta a la polea baja. Colócate de espaldas a la
+  torre de poleas con el cable pasando entre tus piernas.
+
+  - Sujeta la barra recta con ambas manos en agarre prono a la anchura de los hombros
+  frente a los muslos.
+
+  - Eleva los brazos hacia el frente con los codos ligeramente flexionados hasta la
+  altura de los hombros o de los ojos.
+
+  - Haz una breve pausa en la posición alta y desciende lentamente la barra con control
+  sin usar balanceo.'
+search_terms:
+- Elevación frontal con cable
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

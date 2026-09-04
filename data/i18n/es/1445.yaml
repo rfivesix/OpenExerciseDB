@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1445'
 language: es
-status: upstream_unreviewed
-name: Jerk (envión)
+status: ai_reviewed
+name: Envión olímpico (Jerk)
 description: |-
-  Envión olímpico
+  Posición inicial:
+  • Sujeta la barra apoyada sobre la parte frontal de los hombros y las clavículas en posición de front rack.
+  • Coloca los pies a la anchura de las caderas con el torso erguido y el core activado.
 
-  Sujeta la barra delante, sobre los hombros, como en un push press
-  Flexiona y extiende las rodillas empujando la barra hacia arriba mientras te metes por debajo de la barra
-  Recibe la barra por encima de la cabeza con los brazos rectos usando una zancada
-  Coloca los pies en paralelo mientras sujetas la barra en bloqueo
+  Ejecución:
+  • Realiza una flexión vertical rápida y corta de rodillas (dip) sin inclinar el torso hacia delante.
+  • Extiende las piernas con máxima explosividad para transmitir impulso a la barra hacia arriba.
+  • Sumérgete con rapidez debajo de la barra y recíbela con los brazos bloqueados por encima de la cabeza en posición de tijera (split).
+  • Junta los pies en paralelo manteniendo la barra estabilizada sobre la cabeza antes de bajarla.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3955'
+search_terms:
+  - Jerk (envión)
+  - Envión
+  - Jerk

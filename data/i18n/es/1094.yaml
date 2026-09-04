@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1094'
 language: es
-status: upstream_unreviewed
-name: Press Banca Sentado
+status: ai_reviewed
+name: Press de pecho sentado en máquina
 description: |-
-  Poner la máquina de press de pecho para que al sentarte los agarres estén alineados con la parte inferior del pecho. Asegúrate de que estás sentado con la espalda bien pegada al asiento. Agarra una manija con cada mano, saca el pecho hacia afuera, mantén la cabeza contra el reposacabezas. Respira profundamente y empuja lentamente las manijas hacia adelante hasta que tus brazos estén casi completamente extendidos. Haz una pausa justo antes del bloqueo, y luego regresa lentamente las manijas a la posición inicial. Haz una pausa justo antes de que las manijas se detengan completamente y realiza otra repetición
+  Posición inicial:
+  Ajusta la altura del asiento para que los agarres queden alineados con la parte media o inferior del pecho. Siéntate con la espalda y la cabeza bien apoyadas en el respaldo y los pies planos en el suelo.
+
+  Ejecución:
+  1. Sujeta los agarres con firmeza, retrae los omóplatos y activa el abdomen.
+  2. Empuja hacia adelante con fuerza y control hasta extender casi por completo los brazos, sin bloquear los codos.
+  3. Aprieta los pectorales en el punto de máxima contracción.
+  4. Regresa de manera lenta y controlada sintiendo el estiramiento en el pecho antes de comenzar la siguiente repetición.
+search_terms:
+  - Press Banca Sentado
 upstream:
   license: CC-BY-SA-4.0
   license_author: colundrum

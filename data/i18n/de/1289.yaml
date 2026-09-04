@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1289'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitzende Kurzhantel-Curls
-description: |-
-  Sitzende Kurzhantel-Curls sind eine effektive Bizepsübung, die die Muskeln isoliert, indem sie den Oberkörper stabilisiert und so den Schwung reduziert, der die Wirksamkeit der Übung beeinträchtigen kann. Diese Übung wird sitzend mit einer Kurzhantel in jeder Hand ausgeführt, wobei der Fokus auf einer kontrollierten Bewegung liegt, um die Beanspruchung der Bizepsmuskeln zu maximieren.
+description: Sitzende Kurzhantel-Curls sind eine effektive Bizepsübung, die die Muskeln isoliert, indem sie den Oberkörper
+  stabilisiert und so den Schwung reduziert, der die Wirksamkeit der Übung beeinträchtigen kann. Diese Übung wird sitzend
+  mit einer Kurzhantel in jeder Hand ausgeführt, wobei der Fokus auf einer kontrollierten Bewegung liegt, um die Beanspruchung
+  der Bizepsmuskeln zu maximieren.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

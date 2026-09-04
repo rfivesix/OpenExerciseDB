@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1092'
 language: it
-status: upstream_unreviewed
-name: Allenamento al sacco
+status: ai_reviewed
+name: Allenamento al sacco da boxe
 description: |-
-  Allenamento al sacco migliora la definizione muscolare di: deltoidi; deltoidi posteriori; tricipiti; bicipiti.
+  Posizione di partenza:
+  Posizionati a circa un braccio di distanza dal sacco pesante in guardia da combattimento: gambe leggermente piegate, baricentro basso e pugni a protezione del viso.
+
+  Esecuzione:
+  1. Sferra combinazioni di colpi diretti (jab, cross) e ganci con ritmo, precisione ed esplosività.
+  2. Ruota il bacino e il tronco a ogni colpo per trasferire l'energia da tutto il corpo all'impatto.
+  3. Richiama prontamente le braccia in guardia difensiva dopo ogni colpo e mantieni un continuo lavoro di gambe.
+  4. Esegui round a tempo per potenziare la resistenza cardiovascolare e la muscolatura della parte superiore.
+search_terms:
+  - Allenamento al sacco
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

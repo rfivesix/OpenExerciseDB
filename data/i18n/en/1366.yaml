@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1366'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Split Squat
 description: |-
-  Controlled execution
-  No momentum
-  Execute slowly
+  Starting position:
+  Stand holding a dumbbell in each hand at your sides with arms extended. Step one foot forward into a split stance with feet hip-width apart for balance. Keep your front foot flat and the rear heel elevated.
+
+  Movement:
+  Lower your hips straight down toward the floor by bending both knees until your back knee almost touches the ground and your front thigh is roughly parallel to the floor. Drive through the heel of the front foot to return to the starting upright position without moving your feet.
+
+  Notes:
+  Keep your torso upright and core engaged throughout. Complete all repetitions on one leg before switching sides.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

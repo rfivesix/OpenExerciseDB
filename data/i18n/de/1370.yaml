@@ -1,13 +1,18 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1370'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kurzhantel-Kreuzheben
 description: |-
-  Kontrollierte Ausführung
-  Keinen Schwung verwenden
-  Langsame Ausführung
+  Ausgangsposition:
+  Stelle dich hüftbreit hin und halte in jeder Hand eine Kurzhantel vor deinen Oberschenkeln im Obergriff (oder seitlich im neutralen Griff). Die Knie sind leicht gebeugt, die Schultern nach hinten-unten gezogen und die Brust aufgerichtet.
+
+  Ausführung:
+  Schiebe das Gesäß nach hinten und beuge den Oberkörper mit geradem Rücken nach vorne ab. Führe die Kurzhanteln eng an den Beinen entlang bis etwa auf Schienbeinhöhe abwärts. Wenn du eine deutliche Dehnung in Gesäß und Beinbeugern spürst, richte dich durch kraftvolles Vorschieben der Hüfte wieder auf.
+
+  Hinweise:
+  Halte den Rücken während der gesamten Bewegung absolut gerade. Die Bewegung erfolgt primär aus der Hüfte (Hip Hinge), nicht aus den Knien.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

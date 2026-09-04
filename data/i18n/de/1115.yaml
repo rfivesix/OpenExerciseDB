@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1115'
 language: de
-status: upstream_unreviewed
-name: 3D-Ausfallschritt zum Aufwärmen
+status: ai_reviewed
+name: 3D-Ausfallschritte zum Aufwärmen
 description: |-
-  Verwende zum Aufwärmen leichte Kurzhanteln, eine in jeder Hand. Mache Ausfallschritte in wechselnde Richtungen: nach vorne, zur Seite, nach hinten und in 45-Grad-Winkeln.
+  Ausgangsposition:
+  Stehe aufrecht mit hüftbreitem Stand. Halte für das Aufwärmen entweder zwei sehr leichte Kurzhanteln in den Händen oder nutze rein das eigene Körpergewicht. Die Hände ruhen an den Hüften oder vor der Brust.
+
+  Ausführung:
+  1. Vorwärts-Ausfallschritt: Mache einen Ausfallschritt gerade nach vorne, senke das Becken ab und drücke dich wieder in den Stand zurück.
+  2. Seitlicher Ausfallschritt: Mache mit demselben Bein einen Schritt weit zur Seite, beuge das Knie der Schrittseite bei gestrecktem Gegenbein und drücke dich zurück.
+  3. Diagonaler/Rotatorischer Ausfallschritt: Mache einen Schritt diagonal nach hinten außen (ca. 45 Grad), senke das Becken ab und kehre zurück.
+  4. Wiederhole die Dreidimensionale-Sequenz (Sagittal-, Frontal- und Transversalebene) mit beiden Beinen, um Hüfte, Knie und Gesäßmuskulatur umfassend zu mobilisieren.
+search_terms:
+  - 3D-Ausfallschritt zum Aufwärmen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

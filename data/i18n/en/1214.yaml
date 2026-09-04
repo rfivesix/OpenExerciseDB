@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1214'
 language: en
-status: upstream_unreviewed
-name: Front lever tuck
+status: ai_reviewed
+name: Tuck Front Lever
 description: |-
-  The muscles involved in the Front Lever, most subjected to stress, are mainly the extensors such as: the latissimus dorsi, the teres major, the posterior deltoid and the long head of the biceps.
+  Starting Position:
+  • Hang from a pull-up bar using an overhand (pronated) grip, hands shoulder-width apart.
+  • Pull your knees tight into your chest in a tucked position and brace your entire core.
+
+  Execution:
+  • Pull down through straight arms using your lats, rear deltoids, and core to elevate your torso.
+  • Bring your torso parallel to the ground into a completely horizontal position while keeping your knees tucked.
+  • Hold this isometric position steady for the desired duration (e.g., 5 to 15 seconds).
+  • Lower yourself slowly and under full control back to a dead hang.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2179'
+search_terms:
+  - Front lever tuck

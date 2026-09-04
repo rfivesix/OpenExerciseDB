@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1461'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé couché aux haltères sans impulsion des jambes
 description: |-
-  Mettez-vous en place comme pour un développé couché aux haltères classique, mais levez les jambes tendues ou posez-les sur un autre banc afin d'éliminer l'impulsion des jambes.
+  Position de départ :
+  • Allongez-vous sur un banc plat avec une paire d'haltères au niveau de la poitrine.
+  • Posez les pieds sur le banc ou levez les jambes en l'air pour éliminer totalement l'appui et l'impulsion des jambes.
+
+  Exécution :
+  • Développez les haltères verticalement au-dessus de la poitrine en utilisant uniquement la force des pectoraux et des triceps.
+  • Marquez une pause en haut du mouvement puis redescendez lentement les haltères au niveau de la poitrine.
+  • Conservez le bassin et la colonne vertébrale bien stables sur le banc tout au long de la série.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4641'
+search_terms:
+  - Développé couché sans leg drive

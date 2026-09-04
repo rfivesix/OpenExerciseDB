@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1102'
 language: en
-status: upstream_unreviewed
-name: Alternate back lunges
+status: ai_reviewed
+name: Alternating Reverse Lunges
 description: |-
-  The posterior muscles of the buttocks, hamstrings, soleus and gastrocnemius are trained more
+  Starting position:
+  Stand tall with your feet hip-width apart and your core engaged. Keep your hands on your hips or clasped in front of your chest.
+
+  Execution:
+  1. Step one foot backward in a long, controlled stride, landing on the ball of your rear foot.
+  2. Lower your hips vertically until both knees are bent at roughly 90 degrees. Your back knee should hover just above the ground while your front knee stays stacked over your ankle.
+  3. Push firmly through the heel and midfoot of your front leg to return to the standing starting position.
+  4. Immediately repeat with the opposite leg stepping backward, alternating legs fluidly with each repetition.
+search_terms:
+  - Alternate back lunges
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

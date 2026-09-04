@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1410'
 language: es
-status: upstream_unreviewed
-name: Plancha con elevación de pierna
-description: En posición de plancha, levanta una pierna alternadamente.
+status: ai_reviewed
+name: Plancha con elevación de pierna alternada
+description: |-
+  Posición inicial:
+  Comienza en posición de plancha sobre los antebrazos, con los codos alineados bajo los hombros y el cuerpo formando una línea recta y firme de la cabeza a los talones.
+
+  Ejecución:
+  Manteniendo la pierna estirada, contrae el glúteo y eleva un pie unos centímetros del suelo de forma controlada. Mantén la posición brevemente arriba sin desestabilizar la pelvis, baja el pie despacio y repite con la otra pierna de manera alterna.
+
+  Consejos:
+  Evita que las caderas se giren o se hundan hacia el suelo. Mantén el abdomen firmemente activado durante todo el ejercicio.
+search_terms:
+  - Plancha con elevación de pierna
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com

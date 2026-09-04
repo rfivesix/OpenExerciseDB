@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: es
-status: upstream_unreviewed
-name: Sentadilla con pines
+status: ai_reviewed
+name: Sentadilla con pines (Pin Squat)
 description: |-
-  Coloca los pines de seguridad aproximadamente a la altura de tu punto de estancamiento
-  Baja la barra, déjala descansar sobre los pines durante 2 s manteniendo la tensión
-  Levántate con la máxima fuerza
+  Posición inicial:
+  Ajusta los pines de seguridad en el power rack a la altura de tu punto de estancamiento o la profundidad deseada. Carga la barra sobre la espalda alta, da un paso atrás y adopta tu postura habitual de sentadilla con el core activado.
+
+  Ejecución:
+  Desciende de forma controlada hasta que la barra se apoye suavemente sobre los pines. Haz una pausa estricta de 1 a 2 segundos manteniendo la tensión activa en todo el cuerpo, y empuja explosivamente desde los talones para volver a la posición erguida sin rebotar.
+
+  Consejos:
+  No relajes el tronco ni descargues el peso bruscamente sobre los pines. Mantiene la máxima tensión para entrenar la fuerza concéntrica pura.
+search_terms:
+  - Sentadilla con pines
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

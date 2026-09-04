@@ -5,8 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1011'
 language: hr
-status: upstream_unreviewed
-name: Istezanje vrata prema naprijed
+status: ai_reviewed
+name: Istezanje prednje strane vrata
+description: |-
+  Početni položaj:
+  Sjednite ili stanite uspravnih leđa i opuštenih ramena.
+
+  Izvođenje:
+  1. Široko otvorite usta.
+  2. Polako nagnite glavu unatrag s otvorenim ustima dok ne osjetite blago istezanje u prednjem dijelu vrata.
+  3. Vrlo polako zatvarajte i otvarajte usta nekoliko puta kako biste produbili istezanje prednjih vratnih mišića.
+  4. Polako vratite glavu u neutralni početni položaj i zatvorite usta.
+search_terms:
+  - Istezanje vrata prema naprijed
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1898'

@@ -1,10 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '911'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Schrägbank-Skullcrusher
-description: Sitzend in einem 45-Grad-Winkel einen Schrägbank-Skullcrusher mit Kurzhanteln ausführen.
+description: '- Setze dich auf eine etwa 30 bis 45 Grad geneigte Schrägbank und halte
+  zwei Kurzhanteln mit gestreckten Armen senkrecht über deiner Brust.
+
+  - Halte die Oberarme leicht nach hinten geneigt fixiert und beuge kontrolliert die
+  Ellenbogen, um die Hanteln seitlich am Kopf vorbei abzusenken.
+
+  - Spanne den Trizeps am tiefsten Punkt an und strecke die Ellenbogen wieder kraftvoll
+  in die Ausgangsposition, ohne die Oberarme zu bewegen.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

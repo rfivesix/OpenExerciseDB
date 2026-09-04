@@ -5,10 +5,25 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1243'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Double Leg Calf Raise
-description: |-
-  The double leg heel raise is important to strengthen and create control and stability around the ankle and knee, and provide balance and control for the hip and pelvis.
+description: 'Starting position:
+
+  Stand upright with your feet hip-width apart. Rest your hands lightly against a wall or sturdy object if needed for balance.
+
+
+  Execution:
+
+  1. Press through the balls of both feet to raise your heels as high as possible.
+
+  2. Hold the peak contraction at the top for 1–2 seconds, squeezing your calves firmly.
+
+  3. Slowly lower your heels back to the floor with full control.
+
+
+  Tips:
+
+  Perform the repetitions smoothly without bouncing or relying on momentum. Builds ankle stability and calf strength.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

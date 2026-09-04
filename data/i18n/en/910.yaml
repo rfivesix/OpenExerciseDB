@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '910'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Nordic Curl
-description: |-
-  The Nordic hamstring curl is one of the best lower-body exercises to&nbsp;build posterior leg strength, improve knee health, and prevent injury.
+description: '- Kneel on a padded surface and secure your ankles firmly under a stationary
+  barbell or have a training partner anchor them down.
+
+  - Keep your torso upright and brace your glutes and core to form a rigid line from
+  your knees to your head.
+
+  - Lower your torso forward toward the floor as slowly and controlled as possible,
+  resisting gravity solely with your hamstrings.
+
+  - Catch yourself lightly on the floor with your hands at the bottom, then push off
+  gently to assist your hamstrings in pulling you back to the starting upright position.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

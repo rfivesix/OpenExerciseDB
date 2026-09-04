@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1016'
 language: es
-status: upstream_unreviewed
-name: Círculos de Cuello (Sentido Antihorario)
+status: ai_reviewed
+name: Círculos de cuello en sentido antihorario
 description: |-
-  Precaución: Este es un ejercicio de movilidad que debe realizarse siempre de forma muy lenta y controlada. Si sientes dolor, mareo o pinzamientos, detente inmediatamente.
-  Instrucciones:
-  Sentado o de pie con la espalda recta y los hombros relajados, baja suavemente el mentón hacia el pecho.
-  Desde ahí, comienza a dibujar un círculo muy lento en sentido antihorario: rueda tu cabeza llevando la oreja izquierda hacia el hombro izquierdo, luego (con mucho cuidado) hacia atrás, después la oreja derecha hacia el hombro derecho, y finalmente regresa a la posición inicial con el mentón en el pecho.
+  Posición inicial:
+  Siéntate o ponte de pie con la espalda recta y los hombros relajados. Baja el mentón suavemente hacia el pecho.
+
+  Ejecución:
+  1. Realiza un movimiento circular lento y continuo en sentido contrario a las agujas del reloj: inclina la cabeza hacia el hombro izquierdo, llévala suavemente hacia atrás, pasa por el hombro derecho y regresa al pecho.
+  2. Mantén el movimiento fluido y sin tirones bruscos.
+  3. Repite de manera controlada durante el tiempo o repeticiones pautadas.
+search_terms:
+  - Círculos de Cuello (Sentido Antihorario)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

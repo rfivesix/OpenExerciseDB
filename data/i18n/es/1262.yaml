@@ -5,11 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1262'
 language: es
-status: upstream_unreviewed
-name: TRX - curl de bíceps a un brazo
-description: |-
-  colocar las cintas cruzadas, para dejar toda la fuerza en una sola cuerda y que sea más seguro el ejercicio.
-  Para su realización nos vamos a colocar inclinados lateralmente. El brazo con el que vamos a trabajar será el que agarre la cinta del TRX que hemos montado combinando los dos agarres. El otro brazo lo dejaremos relajado lateralmente, ya que no actuará en este momento, pues sólo entrará en acción la parte del bíceps del brazo que tenemos agarrado a la cinta. El cuerpo, al igual que anteriormente, permanecerá recto, mirando al frente y cuanto más nos inclinemos mayor será la resistencia que tengamos que vencer durante el ejercicio. Ambas piernas, en este caso, estarán juntas para solamente mantener el brazo estirado para doblarlo por el codo. Este movimiento activará el bíceps y con ello trabajaremos esta parte del brazo.
+status: ai_reviewed
+name: Curl de bíceps a un brazo con TRX
+description: 'colocar las cintas cruzadas, para dejar toda la fuerza en una sola cuerda y que sea más seguro el ejercicio.
+
+  Para su realización nos vamos a colocar inclinados lateralmente. El brazo con el que vamos a trabajar será el que agarre
+  la cinta del TRX que hemos montado combinando los dos agarres. El otro brazo lo dejaremos relajado lateralmente, ya que
+  no actuará en este momento, pues sólo entrará en acción la parte del bíceps del brazo que tenemos agarrado a la cinta. El
+  cuerpo, al igual que anteriormente, permanecerá recto, mirando al frente y cuanto más nos inclinemos mayor será la resistencia
+  que tengamos que vencer durante el ejercicio. Ambas piernas, en este caso, estarán juntas para solamente mantener el brazo
+  estirado para doblarlo por el codo. Este movimiento activará el bíceps y con ello trabajaremos esta parte del brazo.'
+search_terms:
+- TRX - curl de bíceps a un brazo
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

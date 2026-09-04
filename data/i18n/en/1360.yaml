@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1360'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Double Kettlebell Clean and Press
 description: |-
-  Full-body muscles building exercise.&nbsp;This exercise provides a huge range of benefits in terms of strength &amp; size and is extremely functional.
+  Starting position:
+  Stand with feet shoulder-width apart, two kettlebells positioned between or slightly in front of your feet. Hinge at your hips with a flat back and grip the handles.
+
+  Movement:
+  1. Clean: Explosively drive your hips forward to propel the kettlebells upward, keeping them close to your body and catching them smoothly in the rack position at chest level.
+  2. Press: Brace your core and glutes, then press both kettlebells overhead until your elbows are fully locked out.
+  3. Lower the kettlebells with control back into the rack position, then swing them back down between your legs.
+
+  Notes:
+  Do not lean back or arch your lower back during the overhead press. Ensure a solid core brace throughout the entire lift.
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r

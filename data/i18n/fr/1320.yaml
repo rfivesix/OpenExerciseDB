@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1320'
 language: fr
-status: upstream_unreviewed
-name: Dips sur banc au sol HD
-description: |-
-  Les dips triceps au sol sont un exercice polyarticulaire car ils sollicitent plusieurs groupes musculaires simultanément. Bien que cet exercice au poids du corps cible principalement les triceps, il fait aussi travailler vos pectoraux et l'avant de vos épaules.
-  Les dips triceps au sol sont l'un des exercices les plus efficaces pour augmenter la force des bras et développer une musculature sèche au niveau des bras.
-  Les dips triceps au sol sont un exercice en chaîne cinétique fermée, ce qui signifie que vous effectuez les mouvements autour d'un point fixe. Cela augmente la force de compression sur vos articulations et améliore ainsi la stabilité.
+status: ai_reviewed
+name: Dips triceps au sol
+description: 'Les dips triceps au sol sont un exercice polyarticulaire car ils sollicitent plusieurs groupes musculaires simultanément.
+  Bien que cet exercice au poids du corps cible principalement les triceps, il fait aussi travailler vos pectoraux et l''avant
+  de vos épaules.
+
+  Les dips triceps au sol sont l''un des exercices les plus efficaces pour augmenter la force des bras et développer une musculature
+  sèche au niveau des bras.
+
+  Les dips triceps au sol sont un exercice en chaîne cinétique fermée, ce qui signifie que vous effectuez les mouvements autour
+  d''un point fixe. Cela augmente la force de compression sur vos articulations et améliore ainsi la stabilité.'
+search_terms:
+- Dips sur banc au sol HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

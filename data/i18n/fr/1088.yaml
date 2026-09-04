@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1088'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Soulevé de terre sumo avec haltère
 description: |-
-  Abaissez votre haltère au sol entre vos jambes. Adoptez une position large et, le dos droit, accroupissez-vous. L'haltère posé à la verticale, saisissez-le par le haut de la « tête » (image 1). En gardant la poitrine relevée et la sangle abdominale gainée, repoussez le sol pour vous redresser jusqu'à la position debout (image 2). Répétez. Si vous atteignez facilement 20 à 30 répétitions, utilisez deux haltères.
+  Position de départ :
+  Prenez une position très large (1,5 à 2 fois la largeur des épaules) avec les pointes de pieds orientées à environ 45 degrés vers l'extérieur. Placez un haltère lourd posé à la verticale sur le sol entre vos pieds.
+
+  Étapes :
+  1. Fléchissez les hanches et les genoux en gardant le torse fier et le dos plat pour saisir la tête supérieure de l'haltère à deux mains.
+  2. Poussez fort dans le sol à travers les talons pour vous redresser complètement en position debout.
+  3. Contractez puissamment les fessiers et les adducteurs au sommet du mouvement.
+  4. Redescendez l'haltère de façon contrôlée jusqu'à effleurer le sol avant d'enchaîner.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

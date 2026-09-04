@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1227'
 language: de
-status: upstream_unreviewed
-name: Kurzhantel-Rudern für die hintere Schulter
+status: ai_reviewed
+name: Vorgebeugtes Kurzhantelrudern für die hintere Schulter
 description: |-
-  Halte in jeder Hand eine Kurzhantel. Beuge dich in der Hüfte nach vorne, bis dein Rücken nahezu parallel zum Boden ist. Lass deine Arme nach unten hängen. Halte die Arme in einer Linie mit deinen Schultern. Beuge und hebe die Ellbogen seitlich nach außen, bis deine Oberarme parallel zum Boden sind. Kehre langsam zurück und wiederhole die Bewegung.
+  Ausgangsposition:
+  • Halte in jeder Hand eine Kurzhantel und beuge dich aus der Hüfte mit geradem Rücken nach vorne, bis der Oberkörper fast parallel zum Boden ist.
+  • Lasse die Arme locker nach unten hängen, die Handflächen zeigen nach hinten (Obergriff).
+
+  Ausführung:
+  • Ziehe die Kurzhanteln nach oben, indem du die Ellbogen weit nach außen und oben führst (ca. 90-Grad-Winkel zum Oberkörper).
+  • Ziehe so weit nach oben, bis die Oberarme parallel zum Boden sind, und spanne den hinteren Deltamuskel und die Rhomboiden intensiv an.
+  • Senke die Hanteln langsam und kontrolliert wieder ab, ohne den geraden Rücken zu verändern.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3767'
+search_terms:
+  - Dumbbell rear delt row
+  - Kurzhantel-Rudern für hintere Schulter

@@ -5,15 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1336'
 language: es
-status: upstream_unreviewed
-name: Extensión de tríceps sobre la cabeza (mancuerna)
-description: |-
-  Fija los codos
-  Activa la musculatura
-  No uses impulso
-  Movimiento controlado
-  Movimiento lento
-  No sobreextiendas
+status: ai_reviewed
+name: Extensión de tríceps sobre la cabeza con mancuerna
+description: 'Posición inicial:
+
+  Siéntate en un banco con la espalda recta o ponte de pie. Sujeta una mancuerna con ambas manos por encima de la cabeza con
+  los brazos extendidos.
+
+
+  Ejecución:
+
+  1. Flexiona los codos bajando la mancuerna lentamente por detrás de la cabeza, manteniendo los codos cerca de las sienes.
+
+  2. Una vez que sientas el estiramiento en los tríceps, extiende los brazos para regresar a la posición inicial.
+
+  3. Realiza el movimiento de forma lenta y controlada, sin usar impulso.'
+search_terms:
+- Extensión de tríceps sobre la cabeza (mancuerna)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

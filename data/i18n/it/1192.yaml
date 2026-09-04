@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1192'
 language: it
-status: upstream_unreviewed
-name: Curl Bicipiti Alternato con Manubrio
+status: ai_reviewed
+name: Curl bicipiti alternato con manubri
 description: |-
-  Impugnare due bilancieri, le braccia sono distese, le mani sono sul fianco, i palmi rivolti verso l'interno. Piegare un braccio alla volta e portare il peso con un movimento veloce verso l'alto. Allo stesso tempo, ruotate le braccia di 90 gradi all'inizio del movimento. Nel punto più alto, ruotate un po' il peso verso l'esterno. Senza fare pause, riportare il braccio verso il basso, lentamente, e fare lo stesso con l'altro braccio.
-  Non lasciate che il corpo oscilli durante l'esercizio, tutto il lavoro è svolto dai bicipiti, che sono gli unici muscoli che devono muoversi (fate attenzione ai gomiti).
+  Posizione di partenza:
+  • In piedi con i piedi alla larghezza delle spalle, impugna un manubrio per mano lungo i fianchi con braccia distese e palmi rivolti verso l'interno (presa neutra).
+  • Mantieni il petto aperto, le spalle rilassate e i gomiti bloccati vicino ai fianchi.
+
+  Esecuzione:
+  • Fletti un braccio sollevando il manubrio e ruotando l'avambraccio verso l'esterno (supinazione) in modo che il palmo guardi la spalla nel punto più alto.
+  • Contrai energicamente il bicipite al vertice del movimento per un istante.
+  • Riabbassa lentamente il manubrio in modo controllato mentre esegui il curl con l'altro braccio.
+  • Evita ogni oscillazione del busto durante l'esercizio.
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO
   source_id: '2235'
+search_terms:
+  - Curl Bicipiti Alternato con Manubrio

@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1226'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Bizeps-Curl mit Schulterdrücken
 description: |-
-  Beuge die Ellbogen und hebe die Kurzhanteln zu den Schultern.
-  Drücke die Kurzhanteln über deinen Kopf, während du die Arme so drehst, dass die Handflächen nach vorne zeigen. Kehre die Bewegung um, um wieder abzusenken. Wiederhole die Übung.
+  Ausgangsposition:
+  • Stelle dich aufrecht hin, die Füße stehen hüftbreit auseinander.
+  • Halte in jeder Hand eine Kurzhantel mit ausgestreckten Armen seitlich am Körper.
+
+  Ausführung:
+  • Führe zunächst einen kontrollierten Bizeps-Curl aus und hebe die Hanteln bis auf Schulterhöhe an.
+  • Drehe die Handgelenke fließend nach vorne und drücke die Hanteln in einer Überkopfbewegung gerade nach oben aus.
+  • Senke die Hanteln kontrolliert wieder auf Schulterhöhe ab und führe sie über den umgekehrten Curl-Weg zurück in die Ausgangsposition.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3765'
+search_terms:
+  - Dumbbell bicep curl to press
+  - Curl to Press

@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: fr
-status: upstream_unreviewed
-name: Pistol squats droites
+status: ai_reviewed
+name: Pistol squat jambe droite
 description: |-
-  Tenez-vous debout sur une jambe, l'autre jambe droite et légèrement en avant
-  Pliez lentement un genou, descendez en position accroupie et gardez votre dos et votre autre jambe droits
-  Soulevez-vous lentement du squat, en redressant le genou plié et en gardant l'autre jambe droite
-  Répéter
+  Position de départ :
+  Tenez-vous en équilibre sur la jambe droite, la jambe gauche tendue vers l'avant au-dessus du sol. Tendez les bras devant vous pour équilibrer le corps.
+
+  Étapes :
+  1. Fléchissez lentement le genou et la hanche droite pour descendre en squat complet sur une jambe.
+  2. Gardez le buste fier, le dos droit et la jambe gauche tendue sans toucher le sol.
+  3. Descendez de manière contrôlée aussi bas que votre mobilité le permet.
+  4. Poussez fermement sur le talon droit pour remonter en position debout.
+search_terms:
+  - Pistol squats droites
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1940'

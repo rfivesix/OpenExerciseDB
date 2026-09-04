@@ -5,9 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '916'
 language: es
-status: upstream_unreviewed
-name: Prensa Smith
-description: Sentado en un ángulo de casi 90 grados, máquina Smith
+status: ai_reviewed
+name: Press de hombros en máquina Smith
+description: '- Coloca un banco con el respaldo a unos 80-85 grados en el interior
+  de la máquina Smith.
+
+  - Siéntate y sujeta la barra con un agarre prono algo más ancho que los hombros,
+  desbloqueando la barra a la altura del mentón.
+
+  - Empuja la barra verticalmente hacia arriba hasta extender los brazos sin bloquear
+  bruscamente los codos.
+
+  - Desciende la barra lentamente y de forma controlada hasta la altura del mentón
+  o la clavícula.'
+search_terms:
+- Prensa Smith
 upstream:
   license: CC-BY-SA-4.0
   license_author: bel

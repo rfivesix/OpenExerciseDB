@@ -5,20 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1082'
 language: fr
-status: upstream_unreviewed
-name: Rowing penché vers rotation externe
+status: ai_reviewed
+name: Rowing penché avec rotation externe
 description: |-
   Position de départ :
-  Tenez-vous derrière une chaise ou devant une table. Penchez-vous au niveau de la taille pour poser votre front sur le dossier de la chaise ou sur la table, en gardant le dos droit. Vos bras doivent pendre droit vers le bas, dirigés vers le sol.
-  Étapes :
+  Penchez le buste vers l'avant à partir des hanches en gardant le dos bien plat et les genoux légèrement fléchis. Laissez pendre vos bras verticalement vers le sol.
 
-  Montez vos coudes à hauteur d'épaules. Vos avant-bras doivent pointer vers le bas, perpendiculaires à vos bras. Vos bras doivent être à la même hauteur que votre dos et perpendiculaires à votre colonne vertébrale.
-  Maintenez un instant.
-  Effectuez une rotation au niveau des coudes pour amener vos mains le plus haut possible.
-  Maintenez un instant.
-  Effectuez une rotation au niveau des coudes pour revenir à la position précédente.
-  Abaissez vos bras jusqu'à la position initiale.
-  Répétez.
+  Étapes :
+  1. Tirez les coudes vers le haut jusqu'à hauteur d'épaules, les avant-bras restant orientés vers le sol à angle droit.
+  2. En maintenant les coudes stables à hauteur d'épaules, pivotez les avant-bras vers le haut en rotation externe jusqu'à ce que les mains soient au niveau de la tête.
+  3. Marquez une brève pause pour contracter la coiffe des rotateurs et les deltoïdes postérieurs.
+  4. Contrôlez la descente des avant-bras puis tendez à nouveau les bras vers le bas.
+search_terms:
+  - Rowing penché vers rotation externe
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

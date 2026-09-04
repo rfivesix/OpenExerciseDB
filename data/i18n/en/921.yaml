@@ -1,12 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '921'
 language: en
-status: upstream_unreviewed
-name: Seated Cable Rows
-description: “Stay leaned forward - tuck elbows in on the negative”
+status: ai_reviewed
+name: Seated Cable Row
+description: 'Starting Position: Sit tall at the seated cable row station with feet
+  braced on the footrests and knees slightly bent.
+
+  Execution: Maintain a slight forward lean at the hips and pull the handle toward
+  your abdomen, keeping your elbows tucked close to your sides during the eccentric
+  phase.
+
+  Note: This exercise has been merged into exercise 1117 (Seated Cable Row).'
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+- Seated Cable Rows

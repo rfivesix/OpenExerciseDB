@@ -5,11 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '490'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Renegade Row
 description: |-
-  Get into pushup position gripping some dumbbells. Perform one pushup, then drive your left elbo up, bringing the dumbell up to your body. Return the dumbell to starting position.
-  Perform another pushup and then row with the other arm to complete one rep.
+  Get into a high plank or push-up position with your hands gripping a pair of hex dumbbells resting on the floor. Spread your feet slightly wider than shoulder-width for stability. Perform one push-up, then row one dumbbell upward by driving your elbow toward your ribcage while keeping your hips square. Lower the dumbbell under control, perform another push-up, and row with the opposite arm to complete one repetition.
 upstream:
   license: CC0-1.0
   license_author: fletchgraham

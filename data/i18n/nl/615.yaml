@@ -5,8 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '615'
 language: nl
-status: upstream_unreviewed
-name: Hurkzitten
+status: ai_reviewed
+name: Barbell Squat
+search_terms:
+- Hurkzitten
+- Kniebuigen met halter
 description: |-
   Ga staan en zet je voeten zó dat ze in verhouding staan met je schouders.
   Draai je heupen naar achteren en buig je knieën en heupen om je bovenlichaam naar beneden te duwen.

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: de
-status: upstream_unreviewed
-name: Medizinball-Drehung
+status: ai_reviewed
+name: Russian Twist mit Medizinball
 description: |-
-  In sitzender Position wird der Oberkörper ohne Zwang von einer Seite zur anderen gedreht, du näherst dich dabei den Knien und lässt den Ball von Zeit zu Zeit den Boden berühren.
+  Ausgangsposition:
+  Setze dich auf eine Matte und winkle die Beine an. Die Fersen können leicht den Boden berühren oder für höhere Intensität knapp über dem Boden gehalten werden. Halte einen Medizinball mit beiden Händen vor der Brust und lehne den Oberkörper mit geradem Rücken leicht nach hinten (ca. 45 Grad).
+
+  Ausführung:
+  1. Spanne die Bauchmuskeln fest an und rotiere den Oberkörper kontrolliert nach rechts, sodass der Medizinball neben der rechten Hüfte knapp über dem Boden gehalten wird.
+  2. Drehe den Oberkörper anschließend flüssig über die Mitte zur linken Seite und führe den Ball neben die linke Hüfte.
+  3. Führe die Rotationsbewegung kontrolliert und ohne Rucken aus, während Beine und Becken möglichst stabil bleiben.
+  4. Wiederhole die Bewegung alternierend für die gewünschte Wiederholungszahl.
+search_terms:
+  - Medizinball-Drehung
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

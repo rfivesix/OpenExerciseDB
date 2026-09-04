@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1125'
 language: es
-status: upstream_unreviewed
-name: Jalón abierto supino
+status: ai_reviewed
+name: Jalón al pecho con agarre ancho supino
 description: |-
-  Movimiento descendente
-  • Tira de la barra hacia abajo para que pase cerca de tu barbilla y toque la parte superior de tu pecho.
-  • Mantén el resto de tu cuerpo inmóvil.
+  Posición inicial:
+  Siéntate en la máquina de jalones con los muslos bien sujetos bajo los rodillos. Agarra la barra con una toma ancha en supinación (palmas mirando hacia ti, más ancha que los hombros). Mantén el pecho elevado y la espalda recta.
+
+  Ejecución:
+  1. Tira de la barra hacia abajo de forma controlada haciéndola pasar cerca de la barbilla hasta tocar la parte superior del pecho.
+  2. Conduce los codos hacia abajo y ligeramente hacia atrás, juntando los omóplatos al final del recorrido.
+  3. Mantén el torso inmóvil evitando balancearte hacia atrás para aprovechar la inercia.
+  4. Regresa la barra lentamente a la posición alta hasta extender por completo los brazos y estirar los dorsales.
+search_terms:
+  - Jalón abierto supino
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

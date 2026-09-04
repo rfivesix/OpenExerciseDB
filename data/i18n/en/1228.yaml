@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1228'
 language: en
-status: upstream_unreviewed
-name: Dumbbell close grip bench press
+status: ai_reviewed
+name: Dumbbell Close-Grip Bench Press
 description: |-
-  Lie down with your back on a flat bench. Hold a dumbbell in each hand. Raise your arms towards the ceiling with your palms facing each other and dumbbells pressed together.
-  Slowly lower the dumbbells to your chest, then slowly push them back. Repeat the exercise.
+  Starting Position:
+  • Lie flat on a bench holding a dumbbell in each hand directly above your chest with arms extended.
+  • Use a neutral grip (palms facing each other) and press the dumbbells together so they touch firmly.
+
+  Execution:
+  • Lower the dumbbells toward the center of your chest while keeping them pressed together and tucking your elbows close to your torso.
+  • Press the dumbbells back upward by forcefully contracting your triceps and pectorals.
+  • Lock out your arms briefly at the top while maintaining continuous inward pressure between the dumbbells.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2193'
+search_terms:
+  - Dumbbell close grip bench press
+  - Crush grip dumbbell press

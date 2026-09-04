@@ -5,17 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '556'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seitliches Oberkörperbeugen am Gerät
+search_terms:
+- Seitbeugen am Römischen Stuhl
+- Seitbeugen an der Hyperextension-Bank
 description: |-
-  Zielmuskeln: Schräger Bauchmuskel
-  Unterstützende Muskulatur: Gerader Bauchmuskel
-  Erforderliches Equipment: Roman Chair
-
-  Gerader Körper in der Ausgangsposition
-  Oberkörper in Richtung Boden beugen
-  Wenn der Oberkörper ungefähr parallel zum Boden ist, mit der Aufwärtsbewegung beginnen
-  Hände wahlweise hinter dem Kopf oder vor der Brust
+  Ausgangsposition: Lege dich seitlich auf den Römischen Stuhl (Roman Chair) oder ein Hyperextension-Gerät. Die Hüfte liegt auf dem Polster auf und die Beine sind fixiert. Der Körper bildet eine gerade Linie.
+  Ausführung: Beuge den Oberkörper kontrolliert zur Seite in Richtung Boden ab, bis eine gute Dehnung in den schrägen Bauchmuskeln spürbar ist.
+  Rückkehr: Richte den Oberkörper durch kraftvolles Anspannen der schrägen Bauchmuskulatur wieder in die Verlängerung der Beine auf.
+  Hinweis: Halte die Hände vor der Brust oder am Hinterkopf und vermeide ein Verdrehen des Oberkörpers nach vorne oder hinten.
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann

@@ -5,13 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1314'
 language: es
-status: upstream_unreviewed
-name: Jumping Jack HD
-description: |-
-  Los saltos de tijera son un ejercicio pliométrico. Los pliométricos son movimientos aeróbicos explosivos que aumentan la velocidad, la rapidez y la potencia y trabajan todo el cuerpo.
-  El salto de tijera se enfoca en el brazo, el hombro, los músculos abdominales, los músculos de la cadera y los flexores de la cadera y también trabaja en los muslos, los tendones de la rodilla y los cuádriceps.
+status: ai_reviewed
+name: Jumping Jacks
+description: 'Los saltos de tijera son un ejercicio pliométrico. Los pliométricos son movimientos aeróbicos explosivos que
+  aumentan la velocidad, la rapidez y la potencia y trabajan todo el cuerpo.
+
+  El salto de tijera se enfoca en el brazo, el hombro, los músculos abdominales, los músculos de la cadera y los flexores
+  de la cadera y también trabaja en los muslos, los tendones de la rodilla y los cuádriceps.
+
   Los saltos son beneficiosos para la salud porque combinan el acondicionamiento cardiovascular con el trabajo de fuerza.
-  Dado que los saltos elevan el ritmo cardíaco, también pueden mejorar la condición cardiovascular.
+
+  Dado que los saltos elevan el ritmo cardíaco, también pueden mejorar la condición cardiovascular.'
+search_terms:
+- Jumping Jack HD
+- Saltos de tijera
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso

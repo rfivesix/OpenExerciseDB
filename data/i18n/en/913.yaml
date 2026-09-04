@@ -5,9 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '913'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Preacher Curl (Close Grip)
-description: Sitting reverse on a Biceps Bench with a close grip
+description: '- Sit at a preacher bench and position your upper arms flat against
+  the angled arm pad.
+
+  - Grasp an EZ-bar with a close overhand (pronated) grip with knuckles facing upward.
+
+  - Curl the bar upward by flexing your elbows while keeping your upper arms firmly
+  planted on the pad, targeting the brachioradialis and brachialis.
+
+  - Lower the bar slowly and with control until your arms are nearly fully extended,
+  avoiding hyperextending your elbows at the bottom.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

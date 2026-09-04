@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1363'
 language: en
-status: upstream_unreviewed
-name: Blackroll
+status: ai_reviewed
+name: Foam Rolling (Blackroll)
 description: |-
-  Controlled movements
-  Slow movements
-  Don't use momentum
+  Starting position:
+  Place the foam roller on an exercise mat and position the target muscle group (such as the quadriceps, hamstrings, glutes, upper back, or calves) across the roller. Support your body weight with your hands and feet to regulate pressure.
+
+  Movement:
+  Roll slowly and deliberately back and forth across the muscle tissue. When you encounter a tender trigger point, pause on that spot for 20 to 30 seconds while breathing deeply until the tension releases.
+
+  Notes:
+  Avoid rolling directly over bones, joints, or your lower back (lumbar spine). Keep the movement controlled without using momentum.
+search_terms:
+  - Blackroll
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1210'
 language: fr
-status: upstream_unreviewed
-name: Superman avec bras en position T
+status: ai_reviewed
+name: Parachutiste bras en T
 description: |-
-  Allongez-vous sur le ventre, les jambes plus écartées que la largeur des épaules et les pieds relevés. Vos bras sont tendus sur les côtés et forment un T avec le haut de votre corps, les paumes au sol. Soulevez maintenant le haut de votre corps, vos bras et vos jambes aussi haut que possible tout en gardant votre corps sous tension. Tournez vos pouces vers le plafond et rapprochez vos omoplates. Tout en gardant le haut de votre corps et tous vos membres en l'air, rapprochez vos jambes puis écartez-les de nouveau, en les maintenant constamment en l'air. Pour les répétitions restantes, ne bougez que vos jambes, en les ouvrant et en les fermant.
+  Position de départ :
+  • Allongez-vous à plat ventre sur un tapis avec les jambes plus écartées que la largeur des épaules.
+  • Tendez les bras sur les côtés à hauteur des épaules pour former un T avec le torse.
+
+  Exécution :
+  • Décollez simultanément la poitrine, les bras et les jambes du sol en contractant toute la chaîne postérieure.
+  • Tournez les pouces vers le plafond et serrez fortement les omoplates.
+  • En maintenant le torse et les membres suspendus en l'air, resserrez puis écartez les jambes de façon continue et contrôlée.
+  • Reposez le corps au sol avec contrôle à la fin de la série.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4515'
+search_terms:
+  - Superman avec bras en position T

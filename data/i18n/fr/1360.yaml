@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1360'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Épaulé-développé avec deux kettlebells
 description: |-
-  Exercice de musculation pour tout le corps. Cet exercice offre un large éventail de bénéfices en termes de force et de volume musculaire, et il est extrêmement fonctionnel.
+  Position de départ :
+  Debout, pieds écartés de la largeur des épaules, placez deux kettlebells entre vos pieds. Fléchissez les hanches en gardant le dos droit et saisissez les poignées.
+
+  Mouvement :
+  1. Épaulé (Clean) : Déployez les hanches de manière explosive pour amener les kettlebells le long du corps en position de rack contre la poitrine.
+  2. Développé (Press) : Gainez fermement le tronc et les fessiers, puis poussez les kettlebells au-dessus de la tête jusqu'à l'extension complète des bras.
+  3. Redescendez les kettlebells avec contrôle en rack, puis vers le sol.
+
+  Conseils :
+  Ne cambrez pas le bas du dos lors de la poussée au-dessus de la tête. La force de l'épaulé doit provenir de la poussée des hanches.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

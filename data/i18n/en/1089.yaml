@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1089'
 language: en
-status: upstream_unreviewed
-name: Medicine ball twist
+status: ai_reviewed
+name: Medicine Ball Russian Twist
 description: |-
-  In a seated position, the torso is rotated from side to side without forcing, approaching the knees and making the ball touch the ground from time to time
+  Starting position:
+  Sit on the floor with knees bent. Keep your feet lightly touching the ground or elevated for increased difficulty. Hold a medicine ball with both hands in front of your chest and lean your torso back slightly to roughly 45 degrees, keeping your spine straight.
+
+  Execution:
+  1. Engage your core and rotate your torso smoothly to the right, bringing the medicine ball toward the floor near your right hip.
+  2. Reverse the twist through the center and rotate over to the left side, bringing the ball beside your left hip.
+  3. Keep your hips and legs as quiet as possible so the rotation originates strictly from your thoracic spine and obliques.
+  4. Continue alternating smoothly from side to side for the desired repetitions.
+search_terms:
+  - Medicine ball twist
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

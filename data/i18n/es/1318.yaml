@@ -5,13 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1318'
 language: es
-status: upstream_unreviewed
-name: Saltos Altos De Rodilla HD
-description: |-
-  Puedes utilizar este ejercicio tanto como calentamiento dinámico antes de entrenar como añadirlo a tu rutina de entrenamiento cardiovascular para quemar grasa.
-  Los saltos altos de rodilla son un ejercicio pliométrico. Los pliométricos son movimientos aeróbicos explosivos que aumentan la velocidad, la rapidez y la potencia y trabajan todo el cuerpo.
-  Los saltos altos de rodilla se dirigen a los oblicuos, los músculos de las piernas, los músculos de la cadera y los flexores de la cadera y también trabajan en los muslos, los tendones de la rodilla, los cuádriceps y los hombros.
-  Los saltos son beneficiosos para la salud porque combinan el acondicionamiento cardiovascular con el trabajo de fuerza. Dado que los saltos elevan el ritmo cardíaco, también pueden mejorar la condición cardiovascular.
+status: ai_reviewed
+name: Saltos con rodillas altas
+description: 'Puedes utilizar este ejercicio tanto como calentamiento dinámico antes de entrenar como añadirlo a tu rutina
+  de entrenamiento cardiovascular para quemar grasa.
+
+  Los saltos altos de rodilla son un ejercicio pliométrico. Los pliométricos son movimientos aeróbicos explosivos que aumentan
+  la velocidad, la rapidez y la potencia y trabajan todo el cuerpo.
+
+  Los saltos altos de rodilla se dirigen a los oblicuos, los músculos de las piernas, los músculos de la cadera y los flexores
+  de la cadera y también trabajan en los muslos, los tendones de la rodilla, los cuádriceps y los hombros.
+
+  Los saltos son beneficiosos para la salud porque combinan el acondicionamiento cardiovascular con el trabajo de fuerza.
+  Dado que los saltos elevan el ritmo cardíaco, también pueden mejorar la condición cardiovascular.'
+search_terms:
+- Saltos Altos De Rodilla HD
 upstream:
   license: CC-BY-SA-4.0
   license_author: hektkaso

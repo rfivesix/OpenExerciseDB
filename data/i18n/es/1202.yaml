@@ -5,17 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1202'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abducción de cadera en decúbito lateral
 description: |-
-  Empieza tumbándote de lado con la pierna de arriba estirada y la de abajo flexionada para darte apoyo.
-  Levanta la pierna de arriba del suelo.
-  (opcional) - Mantén la posición arriba.
+  Posición inicial:
+  • Túmbate de lado sobre una colchoneta.
+  • Flexiona ligeramente la pierna inferior para ganar estabilidad y mantén la pierna superior completamente estirada.
+  • Apoya la cabeza sobre el brazo inferior y coloca la mano superior en el suelo delante del pecho para equilibrarte.
 
-  Recursos:
-
-  Vídeo de YouTube de 40 segundos: https://www.youtube.com/watch?v=g9FtnmsIYgI
+  Ejecución:
+  • Eleva la pierna superior de forma controlada hacia arriba, con la punta del pie mirando al frente o ligeramente hacia abajo.
+  • Mantén la pelvis perpendicular al suelo sin dejar que ruede hacia atrás.
+  • Siente la contracción en el glúteo medio arriba durante un instante y baja la pierna lentamente.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3737'
+search_terms:
+  - Elevación lateral de pierna tumbado

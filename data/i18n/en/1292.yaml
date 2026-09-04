@@ -5,9 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1292'
 language: en
-status: upstream_unreviewed
-name: Reverse-grip pull-ups
-description: Pull-ups on the bar with your thumbs pointing outward.
+status: ai_reviewed
+name: Reverse-Grip Pull-Up
+description: 'Starting position:
+
+  Hang from a pull-up bar using a shoulder-width underhand (supinated) grip, with your palms facing towards you and arms fully
+  extended.
+
+
+  Execution:
+
+  1. Pull your body upward by driving your elbows down and back until your chin clears the bar.
+
+  2. Squeeze your lats and biceps firmly at the top of the movement.
+
+  3. Lower yourself down slowly and under complete control back to the starting dead hang.'
+search_terms:
+- Reverse-grip pull-ups
+- Chin-ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

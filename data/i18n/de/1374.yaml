@@ -9,8 +9,14 @@ language: de
 status: ai_reviewed
 name: Rotary-Torso-Maschine
 description: |-
-  Langsam und stetig durchführen.
-  Nicht zu viel Gewicht wählen.
+  Ausgangsposition:
+  Setze dich auf die Rotary-Torso-Maschine und stelle das Polster so ein, dass deine Brust und Oberschenkel stabil fixiert sind. Greife die Haltegriffe und richte die Wirbelsäule gerade auf.
+
+  Ausführung:
+  Drehe deinen Oberkörper aus der Kraft der seitlichen Bauchmuskeln (Schrägbauchmuskeln) kontrolliert zur Seite. Halte die Endposition kurz unter voller Muskelkontraktion und kehre langsam und gegen den Widerstand in die Ausgangsposition zurück.
+
+  Hinweise:
+  Wähle ein moderates Trainingsgewicht, um eine saubere Rotation ohne Schwung aus den Schultern oder Armen zu gewährleisten. Führe die Bewegung für beide Seiten gleichmäßig aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: 6LXBO

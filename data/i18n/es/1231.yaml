@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1231'
 language: es
-status: upstream_unreviewed
-name: Estiramiento de tríceps derecho
+status: ai_reviewed
+name: Estiramiento de tríceps sobre la cabeza (derecho)
 description: |-
-  Coloca la mano derecha en la espalda, agarra el codo derecho con la mano izquierda y tira suavemente de él. Mantén esta posición durante unos segundos.
+  Posición inicial:
+  • Colócate de pie o sentado con la espalda erguida.
+  • Eleva el brazo derecho por encima de la cabeza, flexiona el codo y deja caer la mano derecha detrás de la nuca.
+
+  Ejecución:
+  • Sujeta el codo derecho con la mano izquierda y tira suavemente de él hacia atrás y hacia abajo.
+  • Siente un estiramiento cómodo en el tríceps derecho durante 20 a 30 segundos.
+  • Mantén una respiración profunda y constante sin compensar con la espalda.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3778'
+search_terms:
+  - Estiramiento de tríceps derecho

@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1127'
 language: en
-status: upstream_unreviewed
-name: Close-grip supinated lat pulldown
+status: ai_reviewed
+name: Close-Grip Supinated Lat Pulldown
 description: |-
-  Downward movement
-  •  Pull the bar down so that it passes close to your chin and touches the upper part of your chest.
-  •  Keep the rest of your body still.
+  Starting Position:
+  • Sit at the lat pulldown machine and secure your thighs firmly under the pads.
+  • Grasp the bar with a close underhand (supinated) grip, shoulder-width or slightly narrower, palms facing toward you.
+  • Keep your torso upright with a slight natural arch in your lower back and your chest lifted.
+
+  Execution:
+  • Pull the bar down smoothly toward your upper chest, driving your elbows down and slightly backward close to your sides.
+  • Squeeze your lats and shoulder blades together at the bottom for a brief pause.
+  • Slowly let the bar return upward with control until your arms are fully extended and your lats are stretched.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2101'
+search_terms:
+  - Close-grip supinated lat pulldown
+  - Reverse grip lat pulldown

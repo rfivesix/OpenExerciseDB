@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1117'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitzendes Rudern am Kabelzug
 description: |-
-  Setze dich auf die Maschine, die Füße fest aufgesetzt und etwas mehr als schulterbreit. Drücke über die Fersen und spanne die Gesäßmuskulatur an. Greife den Kabelgriff.
-  Sitze aufrecht mit leicht gebeugten Knien. Spanne Bauch und unteren Rücken an, um mit deinem Oberkörper einen rechten Winkel zum Boden zu halten.
-  Rolle die Schultern nach hinten und unten. Ziehe sie beim Rudern zusammen und stelle dir vor, du würdest einen Stift zwischen ihnen einklemmen. Ziehe dabei den Griff zu dir heran, bis er knapp oberhalb deines Bauchnabels ankommt.
-  Halte hier einen Moment inne, bevor du den Griff zurückführst, während du die Schulterblätter weiterhin zusammendrückst. Sobald du das Gewicht zum Stapel zurückgeführt hast, lass die Schulterblätter entspannen, ohne den Oberkörper nach vorne zu ziehen.
-  Wiederhole die Bewegung.
+  Ausgangsposition:
+  Setze dich auf die Sitzbank des Kabelruders und platziere deine Füße fest auf den Fußrasten mit leicht gebeugten Knien. Beuge dich mit geradem Rücken leicht nach vorne, greife den V-Griff (oder die Stange) und richte den Oberkörper senkrecht auf. Ziehe die Schultern nach hinten unten.
+
+  Ausführung:
+  1. Ziehe den Griff kontrolliert zum unteren Bauch/Bauchnabel, während du die Ellenbogen eng am Körper nach hinten führst.
+  2. Ziehe am Ende des Zugs die Schulterblätter aktiv zusammen und spüre die Kontraktion im Latissimus und Rhomboiden.
+  3. Halte den Oberkörper stabil aufrecht (kein extremes Vor- und Zurückwippen des Torsos).
+  4. Führe das Gewicht langsam und kontrolliert zurück, bis die Arme gestreckt sind und die Schulterblätter sich sanft nach vorne öffnen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

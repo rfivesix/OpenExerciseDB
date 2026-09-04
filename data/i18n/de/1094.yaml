@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1094'
 language: de
-status: upstream_unreviewed
-name: Brustpresse im Sitzen
+status: ai_reviewed
+name: Brustpresse im Sitzen (Chest Press)
 description: |-
-  Stelle die Brustpressmaschine so ein, dass die Griffe im Sitzen auf Höhe deiner unteren Brust sind. Achte darauf, dass dein Rücken flach an der Lehne anliegt. Greife in jede Hand einen Griff, schiebe die Brust heraus und halte den Kopf an der Kopfstütze. Atme tief ein und drücke die Griffe langsam nach vorne, bis deine Arme nahezu vollständig gestreckt sind. Halte kurz vor der vollständigen Streckung inne und führe die Griffe dann langsam in die Ausgangsposition zurück. Halte kurz inne, bevor die Griffe vollständig zur Ruhe kommen, und führe eine weitere Wiederholung aus.
+  Ausgangsposition:
+  Stelle den Sitz der Brustpressmaschine so ein, dass sich die Griffe auf Höhe der mittleren bis unteren Brust befinden. Setze dich aufrecht hin, drücke den Rücken und den Kopf fest an das Rückenpolster und stelle die Füße flach auf den Boden.
+
+  Ausführung:
+  1. Greife die Griffe mit festem Griff und ziehe die Schulterblätter nach hinten unten an das Polster.
+  2. Drücke die Griffe kontrolliert und kraftvoll nach vorne, bis die Arme fast gestreckt sind (die Ellenbogen nicht ganz durchdrücken).
+  3. Halte die Kontraktion in den Brustmuskeln am vorderen Umkehrpunkt für eine Sekunde.
+  4. Führe die Griffe langsam und kontrolliert zurück, bis eine angenehme Dehnung in der Brust spürbar ist, ohne das Gewicht ganz abzusetzen.
+search_terms:
+  - Brustpresse im Sitzen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1027'
 language: de
-status: upstream_unreviewed
-name: Erhöhte Gebets-Dehnung
+status: ai_reviewed
+name: Erhöhter Prayer-Stretch (Gebetshaltung auf einer Bank)
 description: |-
   Ausgangsposition:
-  Kniee dich vor eine Bank, weit genug entfernt, sodass dein Oberkörper zwischen deine Knie und die Bank passt. Lege bei geradem Rücken die Ellbogen auf die Bank, die Handflächen aneinander, die Hände nach oben zeigend.
-  Ablauf:
+  Knie dich vor eine Flachbank oder eine stabile Erhöhung. Platziere beide Ellenbogen schulterbreit auf der Bankkante und lege die Handflächen wie zum Gebet zusammen (oder halte einen leichten Stab).
 
-  Dehne beim Ausatmen deine Brust nach unten zum Boden, ohne den unteren Rücken zu bewegen. Führe gleichzeitig deine Hände in Richtung der Schultern, wobei die Handflächen aneinander und die Ellbogen auf der Bank bleiben.
-  Halte einige Sekunden.
-  Entspanne beim Einatmen deinen Rücken, um in die Ausgangsposition zurückzukehren.
-  Wiederhole.
+  Ausführung:
+  1. Schiebe die Hüfte nach hinten und senke die Brust kontrolliert in Richtung Boden ab, sodass der Kopf zwischen die Oberarme sinkt.
+  2. Beuge die Ellenbogen, sodass die Hände in Richtung Nacken/oberer Rücken wandern.
+  3. Spüre eine intensive Dehnung im Latissimus, im Trizeps und in der Brustwirbelsäule.
+  4. Halte die Position für 20–40 Sekunden unter ruhiger, tiefer Atmung und richte dich anschließend sanft wieder auf.
+search_terms:
+  - Erhöhte Gebets-Dehnung
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,22 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1136'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Latzug zur Brust mit neutralem Griff
 description: |-
-  Der Latzug zur Brust ist eine wichtige Übung, um den Rücken zu kräftigen und die Haltung zu verbessern, was zu einem gesünderen Leben beitragen kann. Um diese Übung korrekt auszuführen und Verletzungen zu vermeiden, ist es wichtig, einige zentrale Schritte zu befolgen:
+  Ausgangsposition:
+  • Setze dich an die Latzugmaschine (oder knie vor einem Kabelturm) und fixiere die Oberschenkel unter den Polstern.
+  • Fasse den Parallelgriff (V-Griff oder Multigriff) im neutralen Griff, sodass die Handflächen zueinander zeigen.
+  • Richte den Oberkörper auf, hebe die Brust an und halte die Wirbelsäule stabil.
 
-
-  Stelle dich vor die Kabelzugmaschine, die Knie leicht gebeugt und die Füße auf dem Boden.
-
-
-  Greife den Griff des Kabelzugs mit den Handflächen zueinander und den Händen schulterbreit auseinander.
-
-
-  Ziehe den Griff nach unten, bis er die Brust berührt oder sich ihr nähert, und halte die Position ein bis zwei Sekunden.
-
-
-  Führe den Griff langsam wieder in die Ausgangsposition nach oben und achte darauf, Arme und Hände gerade und den Rücken während der gesamten Bewegung gerade zu halten.
+  Ausführung:
+  • Ziehe den Griff kontrolliert nach unten in Richtung oberer Brustbereich, indem du die Ellbogen nach unten und hinten führst.
+  • Ziehe die Schulterblätter aktiv nach hinten-unten zusammen und halte die Endposition kurz für maximale Muskelspannung.
+  • Führe den Griff langsam und kontrolliert wieder nach oben, bis deine Arme gestreckt und die Rückenmuskeln sanft gedehnt sind.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

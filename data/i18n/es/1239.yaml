@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1239'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de gemelos de pie
 description: |-
-  Este estiramiento trabaja el gastrocnemio (el músculo principal de la pantorrilla, que flexiona la rodilla y el pie). Es fácil de realizar en cualquier lugar. Todo lo que necesitas es una pared o una silla.
+  Posición inicial:
+  • Colócate de pie de cara a una pared a un paso de distancia y apoya las manos en la pared a la altura de los hombros.
+  • Da un paso amplio hacia atrás con una pierna.
+
+  Ejecución:
+  • Mantén la pierna trasera completamente extendida con el talón apoyado firmemente en el suelo.
+  • Flexiona la rodilla delantera e inclina el peso del cuerpo hacia delante hasta notar un estiramiento claro en el gemelo (gastrocnemio).
+  • Mantén la posición durante 20 a 30 segundos respirando con normalidad y cambia de pierna.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3790'
+search_terms:
+  - Estiramiento de pantorrilla en pared

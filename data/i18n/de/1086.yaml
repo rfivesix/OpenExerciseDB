@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1086'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Liegestütze mit engem Griff
 description: |-
-  Begib dich in eine stabile Plank-Position und bringe deine Hände nah zusammen, bis sie sich fast berühren. (Bild 1) Beuge deine Ellbogen, um deine Brust langsam zum Boden zu bringen (Bild 2). Halte deine Ellbogen nah am Körper, während du dich explosiv wieder nach oben drückst. Wiederhole. Achte darauf, dass du dir beim Absenken jeder Wiederholung Zeit lässt und deine Ausführung sauber hältst.
+  Ausgangsposition:
+  Begib dich in eine Liegestützposition (hohe Plank). Platziere deine Hände nah beieinander unter der Brust (schmaler als Schulterbreite, sodass sich Daumen und Zeigefinger fast berühren). Der Körper bildet von Kopf bis Fersen eine gerade Linie.
+
+  Ausführung:
+  1. Senke deinen Körper kontrolliert ab, indem du die Ellenbogen beugst und diese eng am Oberkörper nach hinten führst.
+  2. Gehe so tief, bis deine Brust fast deine Hände berührt.
+  3. Drücke dich kraftvoll durch die Kraft des Trizeps und der Brust wieder nach oben in die gestreckte Ausgangsposition.
+  4. Halte die Bauch- und Gesäßmuskeln während der gesamten Bewegung fest angespannt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

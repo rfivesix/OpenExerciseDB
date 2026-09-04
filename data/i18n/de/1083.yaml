@@ -5,21 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1083'
 language: de
-status: upstream_unreviewed
-name: YWTs
+status: ai_reviewed
+name: YWT-Hebungen in Bauchlage
 description: |-
   Ausgangsposition:
-  Lege dich hin, vorzugsweise auf eine Matte. Strecke deine Arme über dem Kopf in eine "Y"-Position (Arme diagonal nach oben gerichtet, etwa 45 Grad). Deine Daumen sollten nach oben zeigen.
-  Ablauf:
+  Lege dich flach auf den Bauch auf eine Matte. Der Kopf bleibt in neutraler Verlängerung der Wirbelsäule, der Blick geht zum Boden.
 
-  Hebe mit den Armen in der Y-Position deine Brust leicht vom Boden ab und erzeuge so eine Zugspannung in deinen Armen nach oben.
-  Halte diese Position mehrere Sekunden (15–30 ist ideal).
-  Halte deine Brust oben und beuge deine Ellbogen, um von einer Y-Position in eine "W"-Position zu wechseln, wobei die Arme in den Ellbogen gebeugt sind und die Aufwärtsspannung erhalten bleibt.
-  Halte etwa so lange wie in der Y-Position.
-  Wechsle, weiterhin mit angehobener Brust, in eine "T"-Position, indem du deine Arme gerade zur Seite ausstreckst, sodass sie senkrecht zu deinem Körper stehen.
-  Halte etwa so lange, wie du die W-Position gehalten hast.
-  Wechsle von der T-Position in die W-Position und dann von der W-Position in die Y-Position.
-  Wiederhole.
+  Ausführung:
+  1. Y-Position: Strecke die Arme diagonal nach vorne in eine 'Y'-Form (ca. 45 Grad), Daumen zeigen zur Decke. Hebe die Arme und die Brust leicht an, ziehe die Schulterblätter nach hinten unten und halte für 10–20 Sekunden.
+  2. W-Position: Ziehe die Ellenbogen gebeugt nah an den Körper heran, sodass Arme und Kopf ein 'W' bilden. Halte die Arme angehoben und spanne den oberen Rücken aktiv an.
+  3. T-Position: Strecke die Arme seitlich rechtwinklig zum Rumpf in eine 'T'-Form aus, Daumen nach oben. Ziehe die Schulterblätter intensiv zusammen und halte die Spannung.
+  4. Führe die Sequenz ruhig und kontrolliert durch, um Haltung und Schultergesundheit zu stärken.
+search_terms:
+  - YWTs
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

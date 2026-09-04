@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1013'
 language: en
-status: upstream_unreviewed
-name: Left levator scapulae stretch
+status: ai_reviewed
+name: Left Levator Scapulae Stretch
 description: |-
   Starting position:
-  Start standing up or sitting down. Turn your head to the left, around 45 degrees or just above your nipple. Place your right hand behind your back or sit on it. Take your left hand and use it to hold the back of your head. Lean your head down slightly.
-  Steps:
+  Sit or stand tall with your back straight. Turn your head approximately 45 degrees to the left. Place your right hand behind your back or under your thigh to anchor the right shoulder down. Place your left hand on the back of your head and gently tuck your chin toward your left armpit.
 
-  After assuming the starting position, press your head against your left hand with slight force. Your hand should press back with equal force, so that your head doesn't move. Hold this position.
+  Execution:
+  1. Maintain gentle downward guidance with your left hand until you feel a comfortable stretch along the back and right side of your neck.
+  2. Optionally apply a very light isometric pressure with your head backward into your hand for a few seconds, then relax deeper into the stretch.
+  3. Hold for 20–30 seconds while breathing deeply, then slowly release.
+search_terms:
+  - Left levator scapulae stretch
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1909'

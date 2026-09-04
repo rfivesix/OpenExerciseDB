@@ -6,13 +6,18 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '507'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rumänisches Kreuzheben
-description: 'Kreuzheben von oben bis Position 2: https://www.youtube.com/watch?v=WtWtjViRsKo'
 search_terms:
-  - Romanian Deadlift
-  - RDL
+- Romanian Deadlift
+- RDL
+- Kreuzheben mit gestreckten Beinen
+description: |-
+  Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand und halte die Langhantel im schulterbreiten Obergriff vor den Oberschenkeln. Ziehe die Schultern nach hinten-unten und spanne den Rumpf an.
+  Ausführung: Schiebe das Gesäß nach hinten und beuge den Oberkörper mit geradem Rücken nach vorne, während die Knie nur minimal gebeugt bleiben. Führe die Hantelstange eng an den Beinen hinab bis knapp unter die Knie, bis eine deutliche Dehnung in den Beinbeugern spürbar ist.
+  Rückkehr: Drücke die Hüfte kraftvoll nach vorne und richte dich wieder vollständig auf, wobei Gesäß- und Beinbeugermuskulatur intensiv angespannt werden.
+  Hinweis: Der Rücken bleibt während der gesamten Übung absolut neutral. Die Bewegung erfolgt primär aus dem Hüftgelenk (Hip Hinge).
 upstream:
   license: CC-BY-SA-4.0
   license_author: pjwirth

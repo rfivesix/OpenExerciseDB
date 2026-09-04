@@ -1,8 +1,29 @@
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1285'
 language: en
 status: ai_reviewed
 name: Butt Kicks
-description: Touch your heels to your buttocks, while remaining static or moving
+description: 'Starting position:
+
+  Stand upright with your feet hip-width apart and your core lightly engaged.
+
+
+  Execution:
+
+  1. Begin jogging in place or moving forward in a steady rhythm.
+
+  2. Flex your knees to kick your heels up toward your glutes with each stride.
+
+  3. Keep your thighs pointing mostly downward while pumping your arms naturally.
+
+
+  Tips:
+
+  Great dynamic warm-up exercise for activating the hamstrings and calves before intense lower-body work.'
 search_terms:
 - Bum kicks
 - Talons fesses

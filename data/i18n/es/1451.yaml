@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1451'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de rotación del torso
 description: |-
-  El estiramiento de rotación del torso mejora la movilidad de la columna y alivia la tensión en la espalda baja y los oblicuos. Puede realizarse de pie o sentado.
+  Posición inicial:
+  • De pie con los pies a la anchura de los hombros y las rodillas ligeramente relajadas (o sentado erguido en un banco).
+  • Cruza los brazos sobre el pecho o apoya las manos en las caderas.
 
-  Variante de pie: Párate derecho con los pies a la altura de los hombros. Coloca las manos en las caderas o extiende los brazos al frente. Gira lentamente el torso hacia un lado, manteniendo las caderas estables. Mantén la posición unos segundos y luego gira hacia el otro lado.
-  Variante sentada: Siéntate en una silla con los pies planos en el suelo. Coloca una mano en el exterior del muslo contrario y gira suavemente el torso hacia ese lado. Mantén el estiramiento antes de cambiar de lado.
+  Ejecución:
+  • Rota el torso lentamente hacia un lado manteniendo las caderas y la pelvis mirando al frente.
+  • Sostén el estiramiento de 15 a 30 segundos sintiendo la apertura en los oblicuos y la espalda media.
+  • Vuelve al centro de forma controlada y repite hacia el lado contrario.
 upstream:
   license: CC-BY-SA-4.0
-  license_author: hpmbala@gmail.com
+  license_author: "hpmbala@gmail.com"
   source_id: '2418'

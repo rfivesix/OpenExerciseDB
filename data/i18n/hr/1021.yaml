@@ -5,8 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: hr
-status: upstream_unreviewed
-name: Dizanje desne potkoljenice
+status: ai_reviewed
+name: Jednonožno podizanje na prste (desna noga)
+description: |-
+  Početni položaj:
+  Stanite na desno stopalo na podu ili na rubu povišenja. Lijevu nogu držite savijenu u zraku. Rukom se lagano oslonite na zid radi ravnoteže.
+
+  Izvođenje:
+  1. Spustite desnu petu prema dolje kako biste osjetili istezanje mišića lista.
+  2. Snažno se odgurnite preko prednjeg dijela stopala i podignite se visoko na prste.
+  3. Zadržite maksimalnu kontrakciju na vrhu 1-2 sekunde.
+  4. Polako i kontrolirano se spustite natrag u početni položaj.
+search_terms:
+  - Dizanje desne potkoljenice
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1955'

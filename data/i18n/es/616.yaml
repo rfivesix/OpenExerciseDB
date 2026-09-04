@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '616'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sentadilla con salto (squat thrust)
-description: |-
-  El burpee, o squat thrust, es un ejercicio de cuerpo completo usado en el entrenamiento de fuerza y como ejercicio aeróbico. El movimiento básico se realiza en cuatro pasos y se conoce como burpee de cuatro tiempos: Comienza de pie. Pasa a una posición de sentadilla con las manos en el suelo. (tiempo 1) Lanza los pies hacia atrás hasta una posición de plancha, manteniendo los brazos extendidos. (tiempo 2) Vuelve inmediatamente los pies a la posición de sentadilla. (tiempo 3) Levántate desde la posición de sentadilla (tiempo 4)
+description: 'El burpee, o squat thrust, es un ejercicio de cuerpo completo usado en el entrenamiento de fuerza y como ejercicio
+  aeróbico. El movimiento básico se realiza en cuatro pasos y se conoce como burpee de cuatro tiempos: Comienza de pie. Pasa
+  a una posición de sentadilla con las manos en el suelo. (tiempo 1) Lanza los pies hacia atrás hasta una posición de plancha,
+  manteniendo los brazos extendidos. (tiempo 2) Vuelve inmediatamente los pies a la posición de sentadilla. (tiempo 3) Levántate
+  desde la posición de sentadilla (tiempo 4)'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

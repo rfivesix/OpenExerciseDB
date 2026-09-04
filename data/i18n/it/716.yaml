@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '716'
 language: it
-status: upstream_unreviewed
-name: Scivoli a muro
-description: |-
-  Stai in piedi con i talloni, le spalle, la parte posteriore della testa e i fianchi che toccano il muro. Inizia con i bicipiti verso l'esterno e i gomiti a un angolo di 90 gradi. Raddrizza le braccia rimanendo contro il muro senza inarcare la schiena dal muro, imitando un movimento di pressa per le spalle.
+status: ai_reviewed
+name: Wall Slides (Scivolamenti al muro)
+description: '- Posizionati con la schiena contro una parete, mantenendo talloni,
+  bacino, parte alta della schiena e nuca a contatto con il muro.
+
+  - Posiziona le braccia a ''W'' con i gomiti a 90 gradi e appoggia gomiti e dorso
+  delle mani alla parete.
+
+  - Fai scorrere lentamente le braccia verso l''alto formando una ''Y'', senza staccare
+  le braccia e senza inarcare la zona lombare.
+
+  - Riporta con controllo le braccia verso il basso contraendo i muscoli peri-scapolari.'
+search_terms:
+- Scivoli a muro
 upstream:
   license: CC-BY-SA-4.0
   license_author: Whythebigpaws

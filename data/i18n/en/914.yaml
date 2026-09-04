@@ -5,9 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '914'
 language: en
-status: upstream_unreviewed
-name: Reverse EZ Bar Cable Curls
-description: Standing in front of cable tower using a SZ Bar
+status: ai_reviewed
+name: Reverse EZ-Bar Cable Curl
+description: '- Attach an EZ-curl bar to the low pulley of a cable station and stand
+  facing the machine.
+
+  - Grasp the bar with an overhand (pronated) grip on the inner angled curves of the
+  bar.
+
+  - Keeping your elbows tucked tightly against your sides, curl the bar upward until
+  your forearms approach your chest.
+
+  - Lower the bar slowly under full control back to the starting position, keeping
+  constant tension on your forearms and brachialis.'
+search_terms:
+- Reverse EZ Bar Cable Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

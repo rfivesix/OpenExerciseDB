@@ -5,15 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1378'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Élévations latérales à la poulie (un bras)
 description: |-
-  L'élévation latérale à la poulie à un bras est une variante de l'élévation latérale et un exercice utilisé pour développer les muscles des épaules.
+  Position de départ :
+  Placez-vous de profil à côté d'une poulie basse réglée au niveau du sol. Saisissez la poignée simple avec la main la plus éloignée de la machine (le câble passant devant ou derrière le corps). Tenez le montant de la poulie avec l'autre main pour vous stabiliser et inclinez légèrement le buste vers l'extérieur.
 
-  Réglez une poulie à la position la plus basse possible et fixez-y une poignée.
-  Passez le bras devant votre corps et saisissez la poignée en prise neutre.
-  Gardez le coude légèrement fléchi, tirez la poignée à travers votre corps et soulevez latéralement.
-  Abaissez lentement la poignée pour revenir à la position de départ, de façon contrôlée.
+  Mouvement :
+  En gardant le coude légèrement fléchi, élevez le bras latéralement dans un arc de cercle large jusqu'à ce que la main arrive à hauteur de l'épaule. Marquez un court arrêt pour contracter le deltoïde latéral, puis redescendez lentement la poignée sous tension continue.
+
+  Conseils :
+  Ne haussez pas les épaules et n'utilisez pas l'élan du buste. Concentrez l'effort sur le faisceau latéral de l'épaule.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

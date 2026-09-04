@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1314'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hampelmann
-description: |-
-  Hampelmänner sind eine plyometrische Übung für den gesamten Körper. Sie beanspruchen Arme, Schultern, Bauchmuskeln, Hüftbeuger sowie Waden, Beinbeuger und den Quadrizeps. Sprünge kombinieren Ausdauer- mit Krafttraining und verbessern die kardiovaskuläre Fitness.
+description: Hampelmänner sind eine plyometrische Übung für den gesamten Körper. Sie beanspruchen Arme, Schultern, Bauchmuskeln,
+  Hüftbeuger sowie Waden, Beinbeuger und den Quadrizeps. Sprünge kombinieren Ausdauer- mit Krafttraining und verbessern die
+  kardiovaskuläre Fitness.
 upstream:
   license: CC-BY-SA-4.0
   license_author: p177erpher

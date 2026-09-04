@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1230'
 language: es
-status: upstream_unreviewed
-name: Estiramiento de tríceps izquierdo
+status: ai_reviewed
+name: Estiramiento de tríceps sobre la cabeza (izquierdo)
 description: |-
-  Coloca la mano izquierda en la espalda, agarra el codo izquierdo con la mano derecha y tira suavemente de él. Mantén esta posición durante unos segundos.
+  Posición inicial:
+  • Colócate de pie o sentado con la espalda recta.
+  • Eleva el brazo izquierdo por encima de la cabeza, flexiona el codo y deja caer la mano izquierda detrás del cuello o entre las escápulas.
+
+  Ejecución:
+  • Sujeta el codo izquierdo con la mano derecha y tira suavemente de él hacia atrás y hacia abajo.
+  • Siente un estiramiento agradable en el tríceps izquierdo durante 20 a 30 segundos.
+  • Respira de manera fluida sin arquear la zona lumbar.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3776'
+search_terms:
+  - Estiramiento de tríceps izquierdo

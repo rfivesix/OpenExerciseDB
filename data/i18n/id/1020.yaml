@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: id
-status: upstream_unreviewed
-name: Pistol squats kanan
+status: ai_reviewed
+name: Pistol squat kaki kanan
 description: |-
-  Berdiri pada satu kaki, dengan kaki yang lain lurus dan sedikit ke depan.
-  Bend satu lutut perlahan-lahan, turun ke dalam jongkok dan menjaga punggung dan kaki Anda yang lain lurus.
-  Perlahan-lahan angkat dirimu dari jongkok, meluruskan lutut yang bengkok dan menjaga kaki yang lain lurus.
-  Ulangi
+  Posisi awal:
+  Berdiri dengan kaki kanan, luruskan kaki kiri ke depan terangkat dari lantai. Rentangkan kedua lengan ke depan untuk menjaga keseimbangan.
+
+  Langkah pelaksanaan:
+  1. Tekuk lutut kanan secara perlahan dan turun ke posisi squat satu kaki yang dalam.
+  2. Jaga punggung tetap lurus dan kaki kiri tetap terangkat tanpa menyentuh lantai.
+  3. Turun serendah mungkin dengan kontrol penuh.
+  4. Dorong melalui tumit kanan untuk berdiri kembali ke posisi awal.
+search_terms:
+  - Pistol squats kanan
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1935'

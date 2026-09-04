@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1196'
 language: en
-status: upstream_unreviewed
-name: Wall Drills
+status: ai_reviewed
+name: Wall Drills (Sprint Mechanics)
 description: |-
-  Exercises for strengthening knee and leg musculature.
+  Starting Position:
+  • Stand facing a sturdy wall about one large step away.
+  • Place your hands firmly against the wall at shoulder height and lean your entire body forward at a 45-degree angle.
+  • Maintain a rigid straight line from your head down to your heels with your core firmly braced.
 
-  Lateral Wall Drills March - https://youtu.be/9RiTlJ6Mmek
-  Lateral Wall Drills OPEN - https://youtu.be/ADRlN8-Wfdg
-  Lateral Wall Drills CROSS - https://youtu.be/hGH2sj0Tzu4
+  Execution:
+  • Drive one knee explosively up toward your chest until your thigh is parallel to the ground, keeping your ankle dorsiflexed (toes pulled up).
+  • Hold the posture to train single-leg hip stability, or alternate legs rhythmically in a marching or sprinting tempo (wall marches / switches).
+  • Drive through the ball of the stance foot while keeping your hips extended and spine neutral.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Insight
   source_id: '2153'
+search_terms:
+  - Wall Drills
+  - Posture wall drills

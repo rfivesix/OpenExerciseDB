@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '828'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Fly auf der Schrägbank
-description: |-
-  Der Reverse Fly mit Kurzhanteln auf der Schrägbank ist eine Übung für den Oberkörper, die die hinteren Deltamuskeln sowie die Haltemuskulatur des oberen Rückens beansprucht. Da sie so kleine Muskeln anspricht, wird diese Übung üblicherweise mit leichtem Gewicht und vielen Wiederholungen ausgeführt, etwa 10-15 Wiederholungen pro Satz oder mehr.
+description: '- Lege dich bauchlings auf eine auf 30 bis 45 Grad eingestellte Schrägbank
+  und halte in jeder Hand eine Kurzhantel mit nach unten hängenden Armen.
+
+  - Hebe die Kurzhanteln mit leicht angewinkelten, stabilen Ellenbogen seitlich in
+  einem weiten Bogen an, bis sich die Oberarme auf Schulterhöhe befinden.
+
+  - Spanne am obersten Punkt die hinteren Deltamuskeln und oberen Rückenmuskeln fest
+  an.
+
+  - Senke die Kurzhanteln langsam und kontrolliert wieder nach unten ab, ohne Schwung
+  aus dem Körper zu nutzen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

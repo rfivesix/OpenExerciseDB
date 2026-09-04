@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1380'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pull-apart avec élastique
 description: |-
-  Tiens l'élastique avec les bras tendus devant toi, à hauteur des épaules.
-  Garde les coudes légèrement fléchis, mais fixes.
-  Tire l'élastique vers l'extérieur en écartant les bras jusqu'à ce qu'il touche ou approche ta poitrine.
-  Ramène lentement les bras à la position initiale en contrôlant la tension.
+  Position de départ :
+  Tenez-vous debout, les pieds écartés de la largeur des hanches. Tenez un élastique à deux mains à largeur d'épaules devant votre poitrine, les bras tendus avec les coudes très légèrement fléchis et les paumes tournées vers le sol ou face à face.
+
+  Mouvement :
+  Écartez l'élastique en ouvrant les bras latéralement vers l'arrière et en resserrant fermement les omoplates jusqu'à ce que l'élastique touche votre poitrine. Maintenez la contraction du haut du dos et de l'arrière de l'épaule un court instant, puis revenez lentement à la position de départ.
+
+  Conseils :
+  Ne haussez pas les épaules vers les oreilles et ne cambrez pas le dos. Gardez le tronc gainé tout au long du mouvement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: schwolfar

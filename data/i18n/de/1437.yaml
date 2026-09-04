@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: de
-status: upstream_unreviewed
-name: Pin Squat
+status: ai_reviewed
+name: Pin-Kniebeuge (Pin Squat)
 description: |-
-  Stelle die Sicherheitsablagen ungefähr auf die Höhe deines Sticking Points ein
-  Senke die Stange ab, lasse sie 2 s auf den Ablagen ruhen und halte dabei die Spannung
-  Stehe mit maximaler Kraft auf
+  Ausgangsposition:
+  Stelle die Sicherheitsablagen (Pins) im Power Rack auf die Höhe deines Sticking Points oder des Umkehrpunkts deiner Kniebeuge ein. Tritt unter die Hantelstange, platziere sie auf dem Trapezmuskel (High-Bar oder Low-Bar), hebe sie heraus und begib dich in deine reguläre Kniebeugenposition.
+
+  Ausführung:
+  Gehe kontrolliert in die Kniebeuge, bis die Langhantel sanft auf den Sicherheitsablagen aufsetzt. Halte die Position für 1 bis 2 Sekunden in voller Rumpf- und Beinspannung, ohne das Gewicht komplett abzuladen. Drücke dich anschließend aus dem Ruhezustand explosiv über die Fersen und den Mittelfuß wieder nach oben in den Stand.
+
+  Hinweise:
+  Verliere auf den Ablagen keinesfalls die Körperspannung. Das Pin-Squatting stärkt gezielt die Anfangskraft und die Rumpfstabilität am Umkehrpunkt.
+search_terms:
+  - Pin Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

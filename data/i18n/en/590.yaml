@@ -5,10 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '590'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitting Calf Raises
-description: |-
-  Sit on a bench for calf raises and check that the feet are half free and that you can completely stretch the calf muscles down. Pull your calves up, going as far (up) as you can. Make at the highest point a short pause of 1 or 2 seconds and go down.
+description: Sit on a bench for calf raises and check that the feet are half free and that you can completely stretch the
+  calf muscles down. Pull your calves up, going as far (up) as you can. Make at the highest point a short pause of 1 or 2
+  seconds and go down.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

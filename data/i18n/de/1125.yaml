@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1125'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Latzug mit weitem Untergriff
 description: |-
-  Abwärtsbewegung
-  • Ziehe die Stange nach unten, sodass sie nah an deinem Kinn vorbeigeht und den oberen Teil deiner Brust berührt.
-  • Halte den Rest deines Körpers ruhig.
+  Ausgangsposition:
+  Setze dich an die Latzugstation und klemme deine Oberschenkel fest unter die Oberschenkelpolster. Greife die Latzugstange mit einem weiten Untergriff (Handflächen zeigen zu dir, Griffbreite etwas weiter als schulterbreit). Der Oberkörper ist aufgerichtet, die Brust leicht gehoben.
+
+  Ausführung:
+  1. Ziehe die Stange kontrolliert nach unten, sodass sie dicht am Kinn vorbeigeführt wird und die obere Brust berührt oder fast berührt.
+  2. Führe die Ellenbogen dabei bewusst nach unten und leicht nach hinten, während du die Schulterblätter zusammenziehst.
+  3. Halte den Oberkörper stabil und ruhig ohne starkes Zurücklehnen.
+  4. Führe die Stange langsam und kontrolliert wieder nach oben, bis die Arme gestreckt sind und der Latissimus vollständig gedehnt wird.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

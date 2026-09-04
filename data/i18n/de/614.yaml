@@ -8,8 +8,11 @@ exercise_id: '614'
 language: de
 status: ai_reviewed
 name: Kniebeugensprünge
-description: |-
-  Springe aus einem breiten Stand ab und lande im engen Stand. Wiederhole die Bewegung im Wechsel zwischen weitem und engem Stand.
+search_terms:
+- Jump Squats
+- Kniebeugensprung
+description: Springe aus einem breiten Stand ab und lande im engen Stand. Wiederhole die Bewegung im Wechsel zwischen weitem
+  und engem Stand.
 upstream:
   license: CC-BY-SA-3.0
   license_author: OGhTebfCxhexZXuf35mUxV9C--A

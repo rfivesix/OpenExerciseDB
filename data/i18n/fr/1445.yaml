@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1445'
 language: fr
-status: upstream_unreviewed
-name: Jeté — haltérophilie
+status: ai_reviewed
+name: "Jeté d'haltérophilie (Jerk)"
 description: |-
-  Jeté d'haltérophilie olympique
+  Position de départ :
+  • Tenez la barre en position de rack avant, en appui sur les clavicules et les deltoïdes antérieurs.
+  • Gardez le buste parfaitement vertical et gainé, pieds écartés à la largeur du bassin.
 
-  Tenez la barre devant vous, posée sur les épaules, comme pour un développé avec impulsion
-  Fléchissez puis tendez les genoux pour propulser la barre vers le haut tout en vous plongeant sous la barre
-  Réceptionnez la barre au-dessus de la tête, bras tendus, en adoptant une position de fente
-  Ramenez les pieds parallèles tout en maintenant la barre verrouillée en position haute
+  Exécution :
+  • Effectuez une flexion courte et verticale des genoux (dip) en gardant le torse droit.
+  • Poussez de façon explosive avec les jambes pour projeter la barre vers le haut.
+  • Glissez-vous instantanément sous la barre pour la verrouiller bras tendus au-dessus de la tête en position de fente (split).
+  • Rapprochez les pieds parallèlement l'un à l'autre en stabilisant la barre au-dessus de la tête avant de la redescendre.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4633'
+search_terms:
+  - Jeté — haltérophilie
+  - Jeté
+  - Jerk

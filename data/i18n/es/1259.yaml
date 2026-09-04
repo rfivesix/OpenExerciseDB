@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1259'
 language: es
-status: upstream_unreviewed
-name: Oblicuos en TRX
-description: |-
-  1.Place your feet in the stirrups and assume a high plank with your hands directly beneath your shoulders.
-  2.Pull your knees to your right elbow, then push them back out and to the centre.
+status: ai_reviewed
+name: Knee Tuck al codo en TRX
+description: 'Posición inicial:
+
+  Coloca los pies en los estribos del TRX y adopta una posición de plancha alta con las manos directamente debajo de los hombros
+  y el cuerpo alineado.
+
+
+  Ejecución:
+
+  1. Contrae el abdomen y lleva ambas rodillas flexionadas de forma diagonal hacia el codo derecho.
+
+  2. Mantén la contracción de los oblicuos durante un breve instante.
+
+  3. Extiende las piernas de vuelta a la posición de plancha y repite el movimiento hacia el codo izquierdo.'
+search_terms:
+- Oblicuos en TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

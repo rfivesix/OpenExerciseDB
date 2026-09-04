@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '828'
 language: it
-status: upstream_unreviewed
-name: Alzate posteriori
-description: |-
-  Le alzate posteriori sono un&nbsp;esercizio complementare e di isolamento per il deltoide posteriore. Essendo focalizzato su un muscolo specifico, solitamente, si usano pesi leggeri ripetizioni fra le 10 e le 15 per serie.
+status: ai_reviewed
+name: Alzate posteriori su panca inclinata
+description: '- Posizionati prono su una panca inclinata a 30-45 gradi con il petto
+  ben adeso al cuscinetto e un manubrio per mano.
+
+  - Mantenendo i gomiti leggermente piegati, solleva i manubri verso l''esterno fino
+  all''altezza delle spalle.
+
+  - Contrai i deltoidi posteriori e la parte alta della schiena nel punto di massima
+  apertura.
+
+  - Abbassa i pesi lentamente e con controllo tornando alla posizione di partenza.'
+search_terms:
+- Alzate posteriori
 upstream:
   license: CC-BY-SA-4.0
   license_author: almenociprovo

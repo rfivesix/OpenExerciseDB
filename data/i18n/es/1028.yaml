@@ -5,16 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1028'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotación torácica en cuadrupedia izquierda
 description: |-
   Posición inicial:
-  Empieza arrodillado en cuadrupedia, con las rodillas separadas al ancho de los hombros. Coloca tu mano izquierda detrás de la cabeza mientras mantienes la mano derecha extendida y tocando el suelo.
-  Pasos:
+  Colócate en cuadrupedia sobre manos y rodillas. Apoya la mano derecha firmemente en el suelo debajo del hombro derecho. Coloca la mano izquierda detrás de la nuca con el codo abierto.
 
-  Al inhalar, lleva tu codo izquierdo hacia tu mano derecha, manteniendo la mano izquierda detrás de la cabeza.
-  Al exhalar, lleva tu codo izquierdo a apuntar hacia arriba, hacia el techo.
-  Repite.
+  Ejecución:
+  1. Al inhalar, rota el torso hacia abajo llevando el codo izquierdo hacia la mano o muñeca derecha de apoyo.
+  2. Al exhalar, gira y abre el pecho hacia la izquierda, apuntando con el codo izquierdo hacia el techo.
+  3. Mantén la pelvis nivelada y evita mover las caderas.
+  4. Realiza el movimiento de forma fluida y controlada durante las repeticiones prescritas.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1014'
 language: es
-status: upstream_unreviewed
-name: Estiramiento del Elevador de la Escápula
+status: ai_reviewed
+name: Estiramiento del elevador de la escápula derecho
 description: |-
-  Este es un estiramiento específico para un músculo que a menudo causa tensión entre el cuello y la esquina superior del omóplato.
-  Instrucciones:
-  Sentado o de pie con la espalda recta, gira tu cabeza unos 45 grados hacia la derecha. Luego, baja el mentón en diagonal, como si quisieras mirar hacia tu axila derecha.
-  Para profundizar el estiramiento, coloca tu mano derecha sobre la parte posterior de la cabeza y aplica una presión muy suave y gentil para guiar el movimiento. Para aumentar la sensación, puedes anclar el hombro opuesto sentándote sobre tu mano izquierda o llevándola detrás de la espalda. Mantén el estiramiento por 15-30 segundos.
+  Posición inicial:
+  Siéntate o ponte de pie con la espalda recta. Gira la cabeza unos 45 grados hacia la derecha. Coloca la mano izquierda detrás de la espalda o siéntate sobre ella para fijar el hombro izquierdo hacia abajo. Coloca la mano derecha en la parte posterior de la cabeza.
+
+  Ejecución:
+  1. Inclina suavemente el mentón en diagonal hacia abajo, en dirección a tu axila derecha, hasta sentir el estiramiento en la parte posterior del cuello y hacia el omóplato izquierdo.
+  2. Aplica una presión muy suave con la mano derecha para guiar el estiramiento sin forzar.
+  3. Mantén la posición de 20 a 30 segundos respirando con tranquilidad y regresa despacio al centro.
+search_terms:
+  - Estiramiento del Elevador de la Escápula
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

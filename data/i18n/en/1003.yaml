@@ -1,26 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1003'
 language: en
-status: upstream_unreviewed
-name: Kettlebell deadlifts
-description: |-
-  Starting position:
-  Stand hip-width apart, with your kettlebell centered between your ankles. Your back should be straight, your head facing forward.
-  Steps:
+status: ai_reviewed
+name: Kettlebell Deadlift
+description: 'Starting Position: Stand tall with feet hip- to shoulder-width apart,
+  with a kettlebell centered between your feet in line with your ankles.
 
-  Hinge at the hips and slightly bend at the knees to put your hands on the kettlebell handles. Your back should be straight as you perform the movement.
-  Grab the kettlebell handles, with your hands pushing in opposite directions as if to pull the handle apart.
-  While contacting your abs and glutes, stand straight up.
-  Hinge at the hips again to bring the kettlebell back down, similarly to step 1.
-  Repeat from step 3.
+  Execution: Hinge at your hips, pushing your glutes back and bending your knees slightly
+  while maintaining a flat back. Grip the kettlebell handle firmly with both hands.
+  Drive through your feet and push your hips forward to stand up tall, contracting
+  your glutes at the top.
 
-  Tips:
+  Return: Reverse the motion by hinging at the hips and lowering the kettlebell under
+  control back to the floor between your feet.
 
-  Be sure you're performing the movements correctly, as doing otherwise can lead to injury. For example, do not squat instead of hinging at the hips, do not round your back while reaching for the kettlebell, and do not lean back while standing up.
+  Cues: Keep your shoulders packed down and your spine neutral throughout; do not
+  round your back.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1803'
+search_terms:
+- Kettlebell deadlifts

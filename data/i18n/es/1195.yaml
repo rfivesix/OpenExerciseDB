@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1195'
 language: es
-status: upstream_unreviewed
-name: Deslizamientos laterales + sentadillas
+status: ai_reviewed
+name: Desplazamientos laterales con sentadillas
 description: |-
-  Con los pies un poco más separados que el ancho de los hombros y manteniéndote bajo para imitar una posición defensiva, da un paso con la pierna que va por delante y empújate con la pierna de apoyo.
-  Después de tres deslizamientos, gira el cuerpo 180 grados sobre la pierna guía (exterior) y haz una sentadilla. Continúa.
+  Posición inicial:
+  • Colócate en una postura atlética baja con los pies un poco más separados que el ancho de los hombros.
+  • Mantén las rodillas flexionadas y el centro de gravedad bajo.
+
+  Ejecución:
+  • Realiza tres deslizamientos o pasos laterales rápidos en una dirección empujando con la pierna trasera.
+  • Tras el tercer paso, frena en seco y ejecuta una sentadilla profunda y controlada.
+  • Gira 180 grados sobre la pierna exterior o invierte el sentido para repetir la secuencia hacia el lado opuesto.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3730'
+search_terms:
+  - Deslizamientos laterales + sentadillas

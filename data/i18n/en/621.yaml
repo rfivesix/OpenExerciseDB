@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '621'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Standing Bicep Curl
-description: |-
-  Stand holding dumbbells at shoulder width apart. Face forearm upward and keep upper arm still while raising each dumbbell up to your shoulder.
+description: Stand holding dumbbells at shoulder width apart. Face forearm upward and keep upper arm still while raising each
+  dumbbell up to your shoulder.
 upstream:
   license: CC0-1.0
   license_author: BFad07

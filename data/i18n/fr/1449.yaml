@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1449'
 language: fr
-status: upstream_unreviewed
-name: Simulateur d'escalier (ClimbMill)
+status: ai_reviewed
+name: "Simulateur d'escalier (ClimbMill)"
 description: |-
-  Le ClimbMill, également appelé simulateur d'escalier, est une machine axée sur le cardio qui reproduit la montée d'escaliers. Il offre un moyen efficace d'améliorer l'endurance tout en renforçant le bas du corps. Pour utiliser la machine, montez sur les marches mobiles, gardez une posture droite et utilisez les rampes pour garder l'équilibre si nécessaire. Réglez la vitesse et l'intensité en fonction de votre niveau de forme physique. Cet exercice contribue à améliorer la santé cardiovasculaire, à brûler des calories et à renforcer l'endurance musculaire du bas du corps.
+  Position de départ :
+  • Montez sur les marches mobiles du simulateur d'escalier (ClimbMill) en adoptant une posture bien droite.
+  • Posez légèrement les mains sur les rampes pour conserver l'équilibre sans vous appuyer lourdement dessus.
+
+  Exécution :
+  • Montez les marches à un rythme régulier en posant le pied bien à plat sur chaque marche successive.
+  • Gardez la colonne vertébrale allongée et le gainage abdominal actif.
+  • Ajustez la vitesse des marches et la durée selon vos objectifs d'endurance cardiovasculaire.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4635'
+search_terms:
+  - ClimbMill
+  - "Simulateur d'escalier"

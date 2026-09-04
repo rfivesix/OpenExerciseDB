@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1103'
 language: es
-status: upstream_unreviewed
-name: Puente caminante
+status: ai_reviewed
+name: Puente caminante (Walkout de manos)
 description: |-
-  Parte de una posición de pie con las rodillas ligeramente flexionadas y las manos apoyadas en el suelo. Desde aquí, avanza hacia delante con las manos manteniendo los glúteos contraídos y sin perder el control de la zona lumbar.
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de las caderas. Flexiona ligeramente las rodillas e inclínate hacia adelante hasta apoyar las manos en el suelo delante de tus pies.
+
+  Ejecución:
+  1. Camina hacia adelante con las manos paso a paso, manteniendo el abdomen y los glúteos fuertemente activados.
+  2. Avanza hasta alcanzar una posición de plancha extendida (las manos por delante de los hombros) sin permitir que la zona lumbar se arquee o caiga.
+  3. Mantén la posición un instante con máxima tensión del core.
+  4. Regresa caminando con las manos hacia atrás hasta los pies y vuelve a la posición inicial.
+search_terms:
+  - Puente caminante
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

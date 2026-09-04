@@ -5,15 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1348'
 language: es
-status: upstream_unreviewed
-name: Extensiones de espalda baja
+status: ai_reviewed
+name: Hiperextensiones de espalda
 description: |-
-  Activa la musculatura
-  Levanta un poco los glúteos
-  Movimiento controlado
-  Movimiento lento
-  No uses impulso
-  Mantén el torso recto
+  Posición inicial:
+  Colócate boca abajo en el banco de hiperextensiones (silla romana) con los muslos apoyados en el cojín y las caderas libres para flexionar. Sujeta los talones debajo de los rodillos. Cruza los brazos sobre el pecho o colócalos junto a las sienes.
+
+  Ejecución:
+  Flexiona la cadera descendiendo el torso de manera lenta y controlada, manteniendo la columna neutra. Eleva el torso activando los erectores espinales, glúteos e isquiotibiales hasta alinear el cuerpo de cabeza a talones.
+
+  Consejos:
+  No hiperextiendas la espalda en la parte alta. Evita dar tirones o usar impulso.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

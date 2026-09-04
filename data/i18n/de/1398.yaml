@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1398'
 language: de
-status: upstream_unreviewed
-name: Hamstring Chokes
+status: ai_reviewed
+name: Hamstring Chokes (Aktive Kniebeugerdehnung)
 description: |-
   Setze dich auf den Boden und beuge ein Bein, indem du dein Knie zu dir heranziehst. Lege deine Hand hinter deine hintere Oberschenkelmuskulatur und ziehe dein Bein sanft zur Brust, sodass du eine Dehnung in der Rückseite deines Oberschenkels spürst. Strecke dein Bein und führe es nach oben in Richtung Decke aus.
+search_terms:
+  - Hamstring Chokes
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

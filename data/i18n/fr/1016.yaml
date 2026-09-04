@@ -5,20 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1016'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cercles du cou dans le sens antihoraire
 description: |-
   Position de départ :
-  Commencez assis ou debout. Laissez tomber votre tête vers le bas en amenant le menton vers la poitrine, mais sans forcer.
+  Asseyez-vous ou tenez-vous debout le dos droit, les épaules détendues. Amenez le menton doucement vers la poitrine.
+
   Étapes :
-  Dans un mouvement lent et fluide, la tête détendue et sans pousser dans aucune direction :
-
-  inclinez la tête vers votre épaule gauche.
-  puis ramenez la tête en arrière, le visage vers le haut.
-  puis inclinez la tête vers votre épaule droite.
-  et revenez vers la position de départ.
-
-  Continuez à répéter ce mouvement dans un même geste lent et fluide.
+  1. Décrivez un cercle lent et régulier dans le sens antihoraire : inclinez la tête vers l'épaule gauche, passez avec précaution vers l'arrière, inclinez vers l'épaule droite et ramenez au menton.
+  2. Gardez les muscles détendus et respirez naturellement.
+  3. Répétez le mouvement pour le nombre de répétitions prévu.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

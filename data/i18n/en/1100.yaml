@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1100'
 language: en
-status: upstream_unreviewed
-name: Wall balls
+status: ai_reviewed
+name: Wall Balls
 description: |-
-  Get a medicine ball, shoulder width stance, squat, thrust the ball as high as possible against the wall and catch
+  Starting position:
+  Stand roughly an arm's length away from a sturdy wall or target with your feet slightly wider than shoulder-width apart. Hold a medicine ball at chest height with elbows tucked in.
+
+  Execution:
+  1. Descend into a full, deep squat, keeping your chest tall and knees tracking over your toes until your thighs are parallel to the floor or lower.
+  2. Drive up explosively through your heels and hips, using the upward momentum to push-press and throw the ball high against the wall target (typically 9–10 feet high).
+  3. Catch the rebounding ball smoothly at chest height and immediately absorb the impact as you descend into the next squat.
+  4. Maintain a continuous, fluid rhythm throughout the set.
+search_terms:
+  - Wall balls
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

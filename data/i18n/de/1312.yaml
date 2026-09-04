@@ -5,12 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1312'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kniebeuge mit Körpergewicht
-description: |-
-  Die Kniebeuge ist eine Art Körpergewichtsübung. Sie ist eine der beliebtesten Übungen für Kraft und Muskelwachstum. Die Kniebeuge ist besonders wirksam, um gezielt die Muskeln von Bein und Hüfte zu beanspruchen.
-  Kniebeugen sind eine einfache Übung für Anfänger. Sie können dabei helfen, die Beinmuskulatur zu kräftigen, die Hüftmuskulatur zu straffen und Kalorien zu verbrennen, um Gewicht zu verlieren.
-  Sie straffen Gesäß und Beine. Kniebeugen sind sehr wirksam, um deine Beine zu festigen und zu kräftigen, indem sie auf die Gesäßmuskulatur, die Hüftbeuger, die vordere Oberschenkelmuskulatur, die hintere Oberschenkelmuskulatur und die Muskeln der Oberschenkelinnenseite wirken. Außerdem können Kniebeugen mit Körpergewicht dabei helfen, deine Gesäßmuskulatur und dein Gesäß zu formen.
+description: 'Die Kniebeuge ist eine Art Körpergewichtsübung. Sie ist eine der beliebtesten Übungen für Kraft und Muskelwachstum.
+  Die Kniebeuge ist besonders wirksam, um gezielt die Muskeln von Bein und Hüfte zu beanspruchen.
+
+  Kniebeugen sind eine einfache Übung für Anfänger. Sie können dabei helfen, die Beinmuskulatur zu kräftigen, die Hüftmuskulatur
+  zu straffen und Kalorien zu verbrennen, um Gewicht zu verlieren.
+
+  Sie straffen Gesäß und Beine. Kniebeugen sind sehr wirksam, um deine Beine zu festigen und zu kräftigen, indem sie auf die
+  Gesäßmuskulatur, die Hüftbeuger, die vordere Oberschenkelmuskulatur, die hintere Oberschenkelmuskulatur und die Muskeln
+  der Oberschenkelinnenseite wirken. Außerdem können Kniebeugen mit Körpergewicht dabei helfen, deine Gesäßmuskulatur und
+  dein Gesäß zu formen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

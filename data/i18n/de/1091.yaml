@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1091'
 language: de
-status: upstream_unreviewed
-name: Plank Shoulder Taps
+status: ai_reviewed
+name: Plank Shoulder Taps (Schultertippen im Stütz)
 description: |-
-  Begib dich in die korrekte Plank-Position und stelle deine Füße etwas weiter als schulterbreit auseinander. Hebe abwechselnd eine Hand und berühre damit die gegenüberliegende Schulter.
+  Ausgangsposition:
+  Nimm eine hohe Liegestützposition (Plank) ein. Die Hände stehen direkt unter den Schultern, die Füße etwas weiter als hüftbreit für eine stabile Basis.
+
+  Ausführung:
+  1. Spanne Rumpf und Gesäß fest an, um ein Wackeln oder Kippen der Hüfte zu verhindern.
+  2. Löse die rechte Hand vom Boden und tippe kontrolliert auf die linke Schulter.
+  3. Setze die rechte Hand wieder ab und tippe anschließend mit der linken Hand auf die rechte Schulter.
+  4. Wechsle kontinuierlich und gleichmäßig die Seiten, während das Becken absolut parallel zum Boden bleibt.
+search_terms:
+  - Plank Shoulder Taps
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

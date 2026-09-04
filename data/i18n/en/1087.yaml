@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1087'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Hang Power Cleans
 description: |-
-  On your feet, stand tall with your dumbbells, holding them at your sides. Hinge at the hips to lower them to your knees (picture 1). Stand back up with a slight jump, using the momentum to pull the dumbbells up on to your shoulders (picture 2). Stand up straight, then lower under control to your sides and repeat. Keep this fast and explosive; if your heart rate doesn’t hit the roof, you’re doing them wrong.
+  Starting position:
+  Stand tall with feet hip-width apart holding a dumbbell in each hand at your sides. Hinge slightly at your hips and bend your knees to lower the dumbbells to just above knee level (hang position), keeping your back flat.
+
+  Execution:
+  1. Explosively extend your hips and knees while executing a powerful shoulder shrug.
+  2. Guide the momentum of the dumbbells vertically close to your body, quickly whipping your elbows forward underneath the weights.
+  3. Catch the dumbbells at shoulder level in a partial quarter-squat with soft knees.
+  4. Stand up fully to complete the repetition, then lower the weights back to the hang position with control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

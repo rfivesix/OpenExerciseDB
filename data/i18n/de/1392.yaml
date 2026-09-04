@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1392'
 language: de
-status: upstream_unreviewed
-name: Good Morning
+status: ai_reviewed
+name: Good Morning mit Körpergewicht
 description: |-
   Stelle dich mit den Füßen mehr als schulterbreit auseinander hin (breiter Stand) und lege deine Hände auf die Hüften. Beuge dich aus der Hüfte und senke deinen Oberkörper in Richtung Boden, während du den Rücken gerade hältst, und richte dich anschließend wieder auf.
+search_terms:
+  - Good morning
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1230'
 language: fr
-status: upstream_unreviewed
-name: Étirement des triceps à gauche
+status: ai_reviewed
+name: Étirement du triceps au-dessus de la tête (gauche)
 description: |-
-  Placez votre main gauche dans votre dos, utilisez votre main droite pour saisir votre coude gauche et tirez-le doucement. Maintenez cette position pendant quelques secondes.
+  Position de départ :
+  • Tenez-vous debout ou assis, le dos bien droit.
+  • Levez le bras gauche au-dessus de la tête, pliez le coude et laissez descendre la main gauche derrière la nuque entre les omoplates.
+
+  Exécution :
+  • Avec la main droite, saisissez le coude gauche et tirez-le doucement vers l'arrière et le bas.
+  • Maintenez l'étirement confortable dans le triceps gauche pendant 20 à 30 secondes.
+  • Respirez régulièrement sans cambrer le bas du dos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4530'
+search_terms:
+  - Étirement des triceps à gauche

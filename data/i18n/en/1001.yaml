@@ -1,18 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1001'
 language: en
-status: upstream_unreviewed
-name: High plank
-description: |-
-  Starting position:
-  Get into the high plank position:your hands and toes should be touching the ground, your back, arms and legs should be straight.To get to this position, you can lie down on your stomach, place your hands facing down next to your head, and lifting your arms up until they are straight.
-  Steps:
+status: ai_reviewed
+name: High Plank
+description: 'Starting Position: Place your hands on the floor directly beneath your
+  shoulders with arms fully extended. Step your feet back and balance on your toes,
+  holding your body in a straight plank line from head to heels.
 
-  Maintain the starting position for the entire duration of the exercise.
+  Execution: Maintain isometric tension across your entire body: contract your abdominals,
+  squeeze your glutes, and push the floor away to keep your upper back broad.
+
+  Cues: Do not let your hips sag toward the floor or pike upward. Keep your neck in
+  a neutral line looking slightly ahead of your hands.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1779'
+search_terms:
+- High plank
+- Straight-Arm Plank

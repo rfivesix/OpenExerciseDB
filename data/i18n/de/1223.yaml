@@ -1,11 +1,22 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1223'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Klatschen über Kopf
-description: Stelle dich mit den Füßen schulterbreit hin. Hebe die Arme und klatsche über dem Kopf.
+description: |-
+  Ausgangsposition:
+  • Stelle dich aufrecht hin, die Füße stehen etwa schulterbreit auseinander.
+  • Die Arme hängen entspannt seitlich am Körper herab, der Brustkorb ist aufgerichtet.
+
+  Ausführung:
+  • Führe die fast gestreckten Arme in einem weiten Bogen seitlich nach oben und klatsche über dem Kopf in die Hände.
+  • Führe die Arme kontrolliert wieder über die Seiten nach unten in die Ausgangsposition zurück.
+  • Wiederhole die Bewegung in einem flüssigen, dynamischen Rhythmus zur Erwärmung und Mobilisierung des Schultergürtels.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2188'
+search_terms:
+  - Claps over the head
+  - Überkopf-Klatschen

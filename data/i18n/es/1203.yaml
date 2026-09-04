@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1203'
 language: es
-status: upstream_unreviewed
-name: Elevación de gemelos, pierna izquierda
+status: ai_reviewed
+name: Elevación de talones a una pierna (izquierda)
 description: |-
-  Ponte de pie en el suelo o en el borde de un escalón para aumentar el rango de movimiento.
-  Levanta un pie.
-  Eleva el talón hasta quedar de puntillas.
-  (variable) Permanece en esta posición durante tres segundos.
-  Baja lentamente el pie hasta casi tocar el suelo con el talón - ¡no dejes caer el pie de golpe!
+  Posición inicial:
+  • Colócate de pie sobre un escalón o en el suelo apoyando el tercio anterior del pie izquierdo en el borde.
+  • Flexiona la pierna derecha para mantenerla suspendida en el aire.
+  • Apoya una mano en la pared o soporte para mantener el equilibrio.
+
+  Ejecución:
+  • Deja descender ligeramente el talón izquierdo para estirar la pantorrilla.
+  • Empuja con fuerza sobre la bola del pie elevando el talón hasta quedar de puntillas en máxima contracción.
+  • Mantén la posición superior durante 2 o 3 segundos y desciende de forma controlada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3739'
+search_terms:
+  - Elevaciones de pantorrillas pierna izquierda
+  - Calf raise pierna izquierda

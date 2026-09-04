@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '820'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Suspensión en regleta de 20 mm
-description: |-
-  Realiza una suspensión de 10 segundos en una regleta de 20 mm de la tabla de multipresas. Para hacerlo correctamente, mantén los hombros activos y lejos de las orejas, contrayendo la musculatura de la espalda para proteger las articulaciones. Conserva siempre una ligera flexión en los codos y activa el core para evitar que el cuerpo se balancee.
+description: '- Colócate en suspensión agarrando la regleta de 20 mm de la tabla de
+  multipresas con los dedos en agarre abierto o semiarqueo.
+
+  - Mantén los hombros activos y lejos de las orejas, con una ligera flexión en los
+  codos para proteger las articulaciones.
+
+  - Activa el core para evitar balanceos y sostén la suspensión durante el tiempo
+  prescrito (p. ej. 10 segundos).'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

@@ -3,14 +3,13 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1259'
 language: en
 status: ai_reviewed
 name: TRX Knee Tuck to Elbow
-description: |-
-  Place your feet in the stirrups and assume a high plank with your hands directly beneath your shoulders.
-  Pull your knees to your right elbow, then push them back out and to the centre.
+description: 'Place your feet in the stirrups and assume a high plank with your hands directly beneath your shoulders.
+
+  Pull your knees to your right elbow, then push them back out and to the centre.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1284'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pseudo Planche Push-up
-description: |-
-  You should have the shoulder line in front of your wrists an perform a push-up, maintaining the shoulder in the same position
+description: You should have the shoulder line in front of your wrists and perform a push-up, maintaining the shoulder in
+  the same position. Keep your core braced and protract your shoulder blades at the top of each rep.
 upstream:
   license: CC-BY-SA-4.0
   license_author: vdrb

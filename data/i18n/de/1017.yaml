@@ -5,20 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1017'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Nacken-Halbkreise
 description: |-
   Ausgangsposition:
-  Beginnen Sie im Sitzen oder Stehen. Lehnen Sie Ihren Kopf gegen eine Ihrer Schultern, aber drücken Sie nicht.
-  Schritte:
-  Führen Sie eine langsame, fließende Bewegung aus, wobei Ihr Kopf entspannt ist und in keine Richtung drückt:
+  Sitze oder stehe aufrecht mit entspannten Schultern. Neige den Kopf sanft zu einer Schulter (z. B. rechtes Ohr zur rechten Schulter).
 
-  Bringen Sie den Kopf nach unten zur Brust.
-  lehnen Sie sich dann gegen die andere Schulter zurück
-  dann wieder zurück zur Brust
-  und schließlich zurück in die Ausgangsposition.
-
-  Wiederholen Sie dies immer wieder.
+  Ausführung:
+  1. Rolle den Kopf langsam nach vorne unten, sodass das Kinn in einem Halbkreis vor der Brust zur linken Schulter wandert.
+  2. Kehre auf demselben Weg langsam und kontrolliert über die Brust zurück zur rechten Schulter.
+  3. Führe diese pendelnde Halbkreisbewegung fließend und ohne Rucken durch. Der Kopf wird dabei nicht nach hinten überstreckt.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1916'

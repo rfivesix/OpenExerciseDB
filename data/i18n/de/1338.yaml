@@ -3,18 +3,31 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1338'
 language: de
 status: ai_reviewed
 name: Frontheben mit Kurzhanteln
-description: |-
-  Muskulatur anspannen
-  Kein Schwung holen
-  Kontrollierte Bewegung
-  Langsame Bewegung
-  Immer angewinkelt lassen
-  Nicht überdehnen
+description: 'Ausgangsposition:
+
+  Stelle dich aufrecht mit hüftbreit geöffneten Füßen hin. Halte in jeder Hand eine Kurzhantel vor deinen Oberschenkeln im
+  Obergriff (Handflächen zum Körper).
+
+
+  Ausführung:
+
+  1. Hebe die Hanteln mit leicht gebeugten Ellbogen kontrolliert vor dem Körper nach oben, bis sie sich auf Schulter- bzw.
+  Augenhöhe befinden.
+
+  2. Halte die Kontraktion im vorderen Deltamuskel kurz an.
+
+  3. Senke die Kurzhanteln langsam und kontrolliert wieder ab.
+
+
+  Hinweise:
+
+  Hole keinen Schwung aus den Beinen oder dem Oberkörper. Halte die Arme während der gesamten Übung minimal angewinkelt.'
+search_terms:
+- Kurzhantel-Frontheben
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

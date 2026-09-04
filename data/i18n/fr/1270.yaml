@@ -5,17 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Écarté à la poulie basse
-description: |-
-  Réglez la machine à poulie : positionnez la poulie au réglage le plus bas possible.
-  Choisissez vos poignées : vous pouvez utiliser des poignées à prise neutre (paumes se faisant face) ou des poignées droites selon votre préférence. La prise neutre est peut-être plus douce pour vos poignets.
-  Tenez-vous avec une bonne posture : tenez-vous debout, les pieds écartés de la largeur des épaules, les genoux légèrement fléchis et la sangle abdominale engagée. Conservez une légère cambrure dans le bas du dos tout au long de l'exercice.
-  Saisissez les poignées : prenez les poignées avec la prise choisie et reculez d'un petit pas ou deux jusqu'à obtenir une légère tension sur les câbles.
-  Amorcez le mouvement : gardez vos coudes légèrement fléchis tout au long de l'exercice. Imaginez que vous faites un grand câlin à quelqu'un. Contractez vos pectoraux en rapprochant vos mains devant votre poitrine.
-  Contrôlez le mouvement : concentrez-vous sur la contraction de vos pectoraux plutôt que sur l'utilisation de vos bras pour tirer les poignées.
+description: 'Réglez la machine à poulie : positionnez la poulie au réglage le plus bas possible.
+
+  Choisissez vos poignées : vous pouvez utiliser des poignées à prise neutre (paumes se faisant face) ou des poignées droites
+  selon votre préférence. La prise neutre est peut-être plus douce pour vos poignets.
+
+  Tenez-vous avec une bonne posture : tenez-vous debout, les pieds écartés de la largeur des épaules, les genoux légèrement
+  fléchis et la sangle abdominale engagée. Conservez une légère cambrure dans le bas du dos tout au long de l''exercice.
+
+  Saisissez les poignées : prenez les poignées avec la prise choisie et reculez d''un petit pas ou deux jusqu''à obtenir une
+  légère tension sur les câbles.
+
+  Amorcez le mouvement : gardez vos coudes légèrement fléchis tout au long de l''exercice. Imaginez que vous faites un grand
+  câlin à quelqu''un. Contractez vos pectoraux en rapprochant vos mains devant votre poitrine.
+
+  Contrôlez le mouvement : concentrez-vous sur la contraction de vos pectoraux plutôt que sur l''utilisation de vos bras pour
+  tirer les poignées.
+
   Contraction maximale : maintenez brièvement la contraction au sommet du mouvement, les mains jointes à hauteur de poitrine.
-  Revenez lentement : relâchez lentement la tension et ramenez les poignées vers le bas, à la position de départ, les bras légèrement tendus mais non verrouillés.
+
+  Revenez lentement : relâchez lentement la tension et ramenez les poignées vers le bas, à la position de départ, les bras
+  légèrement tendus mais non verrouillés.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

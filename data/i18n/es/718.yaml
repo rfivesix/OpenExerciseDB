@@ -5,11 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: es
-status: upstream_unreviewed
-name: Asiento en pared
-description: |-
-  Apóyese en la pared, mirando hacia adelante y con los pies plantados firmemente en el suelo, sus hombros deben separarse y estar a 50 centímetros de la pared
-  Deslízate por la pared, manteniendo la espalda presionada a ella, hasta que las piernas estén en ángulo recto. Las rodillas deben estar directamente sobre los tobillosEl dolor en el cuádriceps es normal, deténgase si siente dolor en la rodilla o en la rótula
+status: ai_reviewed
+name: Sentadilla isométrica en pared
+description: '- Apoya la espalda plana contra la pared con los pies separados al ancho
+  de los hombros y adelantados unos 60 cm de la pared.
+
+  - Deslízate hacia abajo por la pared hasta que los muslos queden paralelos al suelo
+  y las rodillas formen un ángulo de 90 grados.
+
+  - Asegúrate de que las rodillas queden directamente sobre los tobillos y mantén
+  la posición isométrica durante el tiempo programado.'
+search_terms:
+- Asiento en pared
+- Sentadilla en pared
 upstream:
   license: CC0-1.0
   license_author: Blablabla

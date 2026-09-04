@@ -5,14 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1137'
 language: es
-status: upstream_unreviewed
-name: Pull over en polea alta
+status: ai_reviewed
+name: Pullover en polea alta
 description: |-
-  De pie, de cara al aparato, con los pies ligeramente separados, la barra cogida en pronación, los brazos extendidos y las manos separadas a una distancia igual a la anchura de los hombros.
+  Posición inicial:
+  • Ponte de pie frente a la máquina de polea alta con los pies a la anchura de los hombros.
+  • Sujeta la barra con agarre prono a la anchura de los hombros y los brazos casi extendidos (codos ligeramente desbloqueados).
+  • Inclina ligeramente el torso hacia delante manteniendo la espalda recta y el abdomen firme.
 
-  Con la espalda fija y la banda abdominal contraída, inspira y lleva la barra hasta los muslos manteniendo los brazos extendidos (o los codos ligeramente flexionados).
-  Espira al final del movimiento.
+  Ejecución:
+  • Tira de la barra hacia abajo en un arco amplio hacia los muslos tirando desde los dorsales.
+  • Contrae intensamente los dorsales en la parte inferior durante un segundo.
+  • Deja que la barra vuelva lentamente por el mismo camino hasta la altura de los ojos, resistiendo la carga.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3719'
+search_terms:
+  - Pull over en polea alta
+  - Jalón con brazos rectos

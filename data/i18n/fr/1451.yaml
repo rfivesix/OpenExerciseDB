@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1451'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement en rotation du tronc
 description: |-
-  L'étirement en rotation du tronc aide à améliorer la mobilité de la colonne vertébrale et à soulager les tensions dans le bas du dos et les obliques. Il peut se pratiquer debout ou assis.
+  Position de départ :
+  • Tenez-vous debout, pieds à la largeur des épaules et genoux déverrouillés (ou assis le dos bien droit).
+  • Croisez les bras sur la poitrine ou posez les mains sur les hanches.
 
-  Variante debout : Tenez-vous droit, pieds écartés à la largeur des épaules. Placez les mains sur les hanches ou tendez les bras devant vous. Tournez lentement le tronc d'un côté en gardant les hanches stables. Maintenez quelques secondes, puis tournez vers le côté opposé.
-  Variante assise : Asseyez-vous sur une chaise, pieds à plat sur le sol. Placez une main sur l'extérieur de la cuisse opposée et faites doucement pivoter le tronc de ce côté. Maintenez l'étirement avant de changer de côté.
+  Exécution :
+  • Tournez lentement le haut du corps vers un côté en maintenant le bassin et les hanches orientés droit devant.
+  • Maintenez la rotation pendant 15 à 30 secondes en respirant calmement.
+  • Revenez au centre avec contrôle et répétez de l'autre côté.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

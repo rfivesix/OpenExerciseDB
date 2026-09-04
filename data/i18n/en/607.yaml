@@ -7,9 +7,13 @@
 exercise_id: '607'
 language: en
 status: ai_reviewed
-name: Splinter Sit-up
-description: |-
-  Lie on your back with your legs straight and arms at your sides, keeping your elbows bent at 90 degrees. As you sit up, twist your upper body to the right and bring your left knee toward your right elbow while you swing your left arm back. Lower your body to the starting position, and repeat to your right. That's 1 rep.
+name: Sprinter Sit-up
+search_terms:
+- Splinter Sit-up
+- Sprinter Crunch
+description: Lie on your back with your legs straight and arms at your sides, keeping your elbows bent at 90 degrees. As you
+  sit up, twist your upper body to the right and bring your left knee toward your right elbow while you swing your left arm
+  back. Lower your body to the starting position, and repeat to your right. That's 1 rep.
 upstream:
   license: CC-BY-SA-3.0
   license_author: djblitzd

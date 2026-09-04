@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '828'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Oiseau sur banc incliné
-description: |-
-  L'oiseau à l'haltère sur banc incliné est un exercice du haut du corps qui cible les deltoïdes postérieurs (arrière de l'épaule), ainsi que les muscles posturaux du haut du dos. Comme il cible de si petits muscles, cet exercice se réalise généralement avec une charge légère et un nombre élevé de répétitions, par exemple 10 à 15 répétitions par série ou plus.
+description: '- Allongez-vous à plat ventre sur un banc incliné à 30-45 degrés, un
+  haltère dans chaque main, bras pendants vers le sol.
+
+  - En gardant les coudes légèrement fléchis mais fixes, élevez les haltères sur les
+  côtés jusqu''à ce qu''ils atteignent la hauteur des épaules.
+
+  - Contractez fortement les deltoïdes postérieurs et le haut du dos en haut du mouvement.
+
+  - Redescendez lentement les haltères de manière contrôlée sans à-coups.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

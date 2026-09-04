@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '584'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl en banco Scott a un brazo
-description: |-
-  Siéntate en el banco de curl Scott y realiza un curl de bíceps con una mancuerna en una mano. Tu otra mano puede estar en reposo o debajo del codo del brazo con el que haces el curl.
+description: Siéntate en el banco de curl Scott y realiza un curl de bíceps con una mancuerna en una mano. Tu otra mano puede
+  estar en reposo o debajo del codo del brazo con el que haces el curl.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

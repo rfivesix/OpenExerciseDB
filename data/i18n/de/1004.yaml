@@ -1,20 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1004'
 language: de
 status: ai_reviewed
-name: Vorwärtsdrehung der Schulter
-description: |-
-  Ausgangsposition:
-  Sitze oder stehe mit geradem Rücken.
-  Schritte:
+name: Schulterkreisen vorwärts
+description: 'Ausgangsposition: Sitze oder stehe aufrecht mit geradem Rücken und entspannten
+  Schultern. Lege deine Fingerspitzen locker auf die jeweilige Schulter.
 
-  Lege deine Hände auf deine Schultern.
-  Drehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.
+  Ausführung: Ziehe mit den Ellbogen gleichmäßige, weite Kreise nach vorne, um das
+  Schultergelenk und die Schulterblätter mobilisierend zu durchbewegen.
+
+  Hinweis: Führe die Bewegung ruhig und ohne Hast aus. Der Nacken bleibt locker und
+  entspannt.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1813'
+search_terms:
+- Vorwärtsdrehung der Schulter
+- Schulterrotation vorwärts

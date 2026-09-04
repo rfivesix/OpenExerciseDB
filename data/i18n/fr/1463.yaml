@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1463'
 language: fr
-status: upstream_unreviewed
-name: Rowing aux haltères en prise supination
+status: ai_reviewed
+name: Rowing aux haltères en prise supination depuis le sol
 description: |-
-  Le rowing aux haltères en prise supination sollicite le dos, ce qui vous permet d'essayer une charge un peu plus lourde. La contrainte est que vous devez pouvoir contrôler la charge sur toutes les répétitions.
+  Position de départ :
+  • Tenez-vous debout pieds à largeur d'épaules, tenant deux haltères en prise supination (paumes vers l'avant).
+  • Basculez le buste vers l'avant au niveau des hanches pour l'amener presque parallèle au sol, dos plat.
 
-  Commencez en tenant une paire d'haltères, les pieds écartés à la largeur des épaules et les genoux légèrement fléchis.
-  Faites une charnière au niveau des hanches pour incliner le tronc vers l'avant jusqu'à ce qu'il soit presque parallèle au sol, en gardant le dos plat et en maintenant une légère flexion des genoux.
-  Expirez en tirant les haltères vers vos côtés jusqu'à hauteur de la poitrine, en menant avec les coudes jusqu'à ce que vos bras dépassent légèrement la parallèle au sol et que les haltères arrivent au niveau de la cage thoracique.
-  Redescendez lentement vers la position de départ et répétez. Gardez le dos plat en permanence.
+  Exécution :
+  • Tirez les haltères vers les hanches en gardant les coudes près du corps.
+  • Resserrez les omoplates et contractez le grand dorsal au sommet du mouvement.
+  • Redescendez lentement jusqu'à poser brièvement les haltères au sol (dead stop) pour supprimer l'inertie avant la répétition suivante.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4642'
+search_terms:
+  - Rowing aux haltères en prise supination
+  - Rowing dead stop

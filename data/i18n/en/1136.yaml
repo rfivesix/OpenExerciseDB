@@ -5,23 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1136'
 language: en
-status: upstream_unreviewed
-name: Neutral-grip chest pulldown
+status: ai_reviewed
+name: Neutral-Grip Lat Pulldown
 description: |-
-  The lat pulldown is an important exercise for strengthening the back and improving posture, which can contribute to a healthier life. To perform this exercise correctly and avoid injury, it is important to follow a few key steps:
+  Starting Position:
+  • Sit at a lat pulldown station (or kneel facing a high cable pulley) and secure your thighs firmly under the support pads.
+  • Grasp a parallel-grip attachment with a neutral grip (palms facing each other).
+  • Sit tall with your chest lifted and a slight natural arch in your lower back.
 
-
-  Position yourself in front of the cable machine with your knees slightly bent and your feet on the floor.
-
-
-  Grip the cable handle with your palms facing each other and your hands shoulder-width apart.
-
-
-  Pull the handle down until it touches or comes close to your chest, holding the position for one or two seconds.
-
-
-  Slowly raise the handle back to the starting position, making sure to keep your arms and hands straight and your back straight throughout the movement.
+  Execution:
+  • Pull the handle down smoothly toward your upper chest, leading with your elbows driving down and back.
+  • Squeeze your shoulder blades together and pause briefly at the bottom to maximize lat contraction.
+  • Slowly let the handle return upward with full control until your arms are fully extended.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2113'
+search_terms:
+  - Neutral-grip chest pulldown

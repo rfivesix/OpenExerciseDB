@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1201'
 language: en
-status: upstream_unreviewed
-name: Dragon squat
+status: ai_reviewed
+name: Dragon Squat
 description: |-
-  Start standing with your feet hip-width apart. Cross your right foot behind you to the left corner and back of the room while bending both knees. Return and repeat, alternating sides. Keep your hips and shoulders forward as you cross your feet and bend your knees.
+  Starting Position:
+  • Stand upright with your feet hip-width apart and hands clasped in front of your chest for balance.
+  • Engage your core and keep your chest lifted.
+
+  Execution:
+  • Step one foot diagonally back behind your opposite leg, bending both knees into a deep cross-over squat (curtsy motion).
+  • Lower your hips until your front thigh is nearly parallel to the floor, keeping your shoulders and hips facing forward.
+  • Drive through the heel of your front foot to return to the starting position, then repeat on the other side.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2160'
+search_terms:
+  - Curtsy dragon squat

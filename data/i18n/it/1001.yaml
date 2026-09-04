@@ -1,18 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1001'
 language: it
-status: upstream_unreviewed
-name: Asse alto
-description: |-
-  Posizione di partenza:
-  Mettiti in posizione di plank alto:le mani e le dita dei piedi devono toccare terra, la schiena, le braccia e le gambe devono essere dritte.Per arrivare a questa posizione, puoi sdraiarti a pancia in giù, mettere le mani rivolte verso il basso accanto alla testa e sollevare le braccia fino a quando sono dritte.
-  Passi:
+status: ai_reviewed
+name: High Plank (Plank a braccia tese)
+description: 'Posizione di partenza: Mettiti a terra con le mani direttamente sotto
+  le spalle e le braccia tese. Appoggia le dita dei piedi a terra mantenendo il corpo
+  allineato dalla testa ai talloni.
 
-  Mantenere la posizione di partenza per tutta la durata dell'esercizio.
+  Esecuzione: Mantieni la posizione isometrica contraendo addominali e glutei senza
+  inarcare la schiena né sollevare il bacino.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1781'
+search_terms:
+- Asse alto

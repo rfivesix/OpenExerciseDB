@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '487'
 language: de
-status: upstream_unreviewed
-name: Reverse Flys (hintere Schulter)
+status: ai_reviewed
+name: Vorgebeugtes Seitheben im Sitzen
+search_terms:
+  - Reverse Flys (hintere Schulter)
+  - Reverse Flys sitzend
 description: |-
-  Sitze auf einer Bank mit den Kurzhanteln auf dem Boden, beuge dich um 45 Grad nach vorne und hebe dann langsam jede Kurzhantel auf Schulterhöhe an. Halte sie ein paar Sekunden, bevor du sie wieder in die Ausgangsposition absenkst.
+  Setze dich an das Ende einer Flachbank und beuge deinen Oberkörper mit geradem Rücken nach vorne auf deine Oberschenkel. Halte zwei Kurzhanteln mit leicht gebeugten Ellenbogen und hebe die Arme kontrolliert seitlich bis auf Schulterhöhe an, um die hintere Schulter zu beanspruchen. Senke die Hanteln langsam wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

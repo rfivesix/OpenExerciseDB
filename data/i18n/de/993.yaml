@@ -1,23 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '993'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: 'Seilspringen: Grundsprünge'
-description: |-
-  Ausgangsposition:
-  Füße dicht beieinander stellen, Knie leicht beugen, Kopf und Körper gerade halten, Ellenbogen angewinkelt halten, Arme öffnen.
-  Schritte:
+description: 'Ausgangsposition: Stehe mit geschlossenen Füßen und halte in jeder Hand
+  einen Griff des Springseils, das Seil liegt hinter deinen Fersen. Die Ellbogen bleiben
+  nah am Oberkörper.
 
-  Drehen Sie nur Ihre Handgelenke mit so viel Kraft, dass sich das Seil dreht.
-  Springe gerade so hoch, dass das Seil unter deinen Füßen durchläuft.
-  Wiederhole die Übung.
+  Ausführung: Schwinge das Seil mit einer lockeren Bewegung aus den Handgelenken über
+  den Kopf nach vorne. Springe nur wenige Zentimeter hoch ab, sodass das Seil gerade
+  unter deinen Füßen durchgleiten kann, und lande federnd auf den Fußballen.
 
-  Anmerkungen:
-  Für diese Übung benötigen Sie ein Springseil. Achten Sie darauf, dass die Seillänge auf Ihre Körpergröße abgestimmt ist. Eine Möglichkeit, dies zu überprüfen, ist, beide Griffe mit einer Hand zu ergreifen und sich mit einem Fuß auf die Mitte des Seils zu stellen, das am Boden hängt. Wenn das Seil (ohne die Griffe) bis knapp unter Ihre Brust reicht, ist es richtig lang. Ein kürzeres Seil wäre gefährlich, da Sie sich daran stoßen könnten, und ein längeres Seil wäre schlecht für die Form.
+  Hinweis: Halte die Knie leicht gebeugt und die Bewegung rhythmisch und ökonomisch.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1670'
+search_terms:
+- 'Jump rope: basic jumps'
+- Seilspringen

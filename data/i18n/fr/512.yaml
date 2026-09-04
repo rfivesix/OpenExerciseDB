@@ -5,15 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '512'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing assis, prise serrée
-description: |-
-  Contractez les muscles
-  Mouvement contrôlé
-  Mouvement lent
-  Gardez le haut du corps droit
-  Ne vous penchez pas en arrière
-  Tirez vers la poitrine
+description: Assis face au tirage assis à la poulie basse avec une prise serrée, gardez le dos droit et la poitrine sortie.
+  Tirez la poignée vers le bas de la poitrine en resserrant les omoplates, puis revenez lentement sans vous pencher en avant.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

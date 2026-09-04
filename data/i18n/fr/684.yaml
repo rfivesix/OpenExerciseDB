@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '684'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical en supination
-description: |-
-  Saisissez la barre de tirage, les paumes orientées vers vous et les mains plus rapprochées que la largeur des épaules. Penchez-vous légèrement en arrière et gardez le dos droit. Tirez la barre vers votre poitrine en rapprochant légèrement les épaules en fin de mouvement.
+description: '- Asseyez-vous au poste de tirage vertical avec les cuisses calées sous
+  les boudins de maintien.
+
+  - Saisissez la barre en prise supination (paumes vers vous) à largeur d''épaules
+  ou légèrement plus serré.
+
+  - Tirez la barre vers le haut de la poitrine en ramenant les coudes vers le bas
+  et l''arrière tout en contractant les dorsaux.
+
+  - Remontez lentement la charge sous contrôle jusqu''à l''extension complète des
+  bras.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

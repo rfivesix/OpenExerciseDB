@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1231'
 language: en
-status: upstream_unreviewed
-name: Triceps stretch right
+status: ai_reviewed
+name: Overhead Triceps Stretch (Right)
 description: |-
-  Put your right hand on your back, use your left hand to grab your right elbow and gently pull it. Hold this position for a few seconds.
+  Starting Position:
+  • Stand or sit tall with your spine in a neutral alignment.
+  • Raise your right arm overhead, bend your elbow, and let your right hand drop behind your neck or between your shoulder blades.
+
+  Execution:
+  • Grasp your right elbow with your left hand and gently pull it backward and slightly down.
+  • Hold a gentle, comfortable stretch in your right triceps for 20 to 30 seconds.
+  • Breathe deeply and keep your core slightly braced to avoid overarching your lower back.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2196'
+search_terms:
+  - Triceps stretch right
+  - Overhead triceps stretch

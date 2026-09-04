@@ -1,10 +1,19 @@
 exercise_id: '1406'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Plank mit Trizepsstrecken
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Die Plank mit Trizepsstrecken ist eine dynamische Übung, die die Plank mit einer Trizepsstreckbewegung kombiniert.
+name: Plank to Push-up (Trizepsstrecken)
+description: |-
+  Ausgangsposition:
+  Starte in der Unterarmstütz-Position (Plank auf den Unterarmen): Die Ellbogen befinden sich direkt unter den Schultern, die Unterarme liegen parallel auf dem Boden und der Körper bildet von Kopf bis Fersen eine gerade, feste Linie.
+
+  Ausführung:
+  Platziere nacheinander eine Hand flach auf den Boden und drücke dich nach oben in die Liegestützposition (High Plank mit gestreckten Armen). Halte den Rumpf stabil und senke dich anschließend kontrolliert Arm für Arm wieder auf die Unterarme ab. Wechsle bei jeder Wiederholung den führenden Arm ab.
+
+  Hinweise:
+  Halte das Becken möglichst ruhig und vermeide ein starkes Hin- und Herkippen der Hüfte. Spanne Bauch und Gesäß während des gesamten Bewegungsablaufs fest an.
+search_terms:
+  - Plank mit Trizepsstrecken
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

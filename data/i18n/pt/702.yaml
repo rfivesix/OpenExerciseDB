@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: pt
-status: upstream_unreviewed
-name: Elevação da panturrilha esquerda
-description: |-
-  Fique de pé no chão ou na borda de um degrau para aumentar o alcance do movimento. Levante um pé, colocando a parte superior sobre sua panturrilha.
-  Levante os calcanhares até ficar de pé sobre os dedos do pé.
-  Fique nesta posição por três segundos, depois abaixe o pé sem tocar o chão com seu calcanhar.
+status: ai_reviewed
+name: Elevação de panturrilha unilateral
+description: '- Apoie a ponta de um dos pés na borda de um degrau, mantendo a outra
+  perna suspensa.
+
+  - Segure levemente em uma parede ou apoio para manter o equilíbrio.
+
+  - Desça o calcanhar de forma controlada até sentir um alongamento completo na panturrilha.
+
+  - Empurre com força sobre a ponta do pé elevando o calcanhar o máximo possível.
+
+  - Segure a contração por um segundo no topo, desça lentamente e repita antes de
+  trocar de perna.'
+search_terms:
+- Elevação da panturrilha esquerda
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

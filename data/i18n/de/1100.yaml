@@ -1,12 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1100'
 language: de
-status: ai_raw
-translated_from: en
-name: Wall Balls
+status: ai_reviewed
+name: Wall Balls (Medizinball-Wandwurf)
 description: |-
-  Nimm einen Medizinball, nimm einen schulterbreiten Stand ein, gehe in die Knie, stoße den Ball so hoch wie möglich gegen die Wand und fange ihn auf.
+  Ausgangsposition:
+  Stelle dich etwa eine Armlänge vor eine stabile Wand. Nimm einen etwas mehr als schulterbreiten Stand ein. Halte einen Medizinball mit beiden Händen auf Kinnhöhe eng vor der Brust.
+
+  Ausführung:
+  1. Gehe in eine kontrollierte, tiefe Kniebeuge, bis die Oberschenkel mindestens parallel zum Boden sind. Die Brust bleibt aufrecht.
+  2. Drücke dich explosiv aus den Beinen nach oben und nutze den Schwung der Aufwärtsbewegung, um den Ball nach oben gegen ein Ziel an der Wand (ca. 2,7 bis 3 Meter Höhe) zu werfen.
+  3. Fange den abprallenden Ball auf Kinnhöhe wieder ab und gehe direkt fließend in die nächste Kniebeuge über.
+  4. Führe die Bewegung rhythmisch und kraftvoll durch.
+search_terms:
+  - Wall Balls
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2059'
+translated_from: en

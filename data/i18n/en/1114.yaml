@@ -5,9 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1114'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rest (for timed workouts)
-description: When creating a workout based on time, add this to add rest time in the program
+description: Rest interval period used in timed workout programs to provide active
+  or passive recovery between exercise stations and sets.
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

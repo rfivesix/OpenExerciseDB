@@ -5,9 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '493'
 language: en
-status: upstream_unreviewed
-name: Reverse Bar Curl
-description: Hold bar with reverse (or "overhand") grip, palms facing the floor.
+status: ai_reviewed
+name: EZ-Bar Reverse Curl
+search_terms:
+  - Reverse Bar Curl
+description: |-
+  Stand upright holding an EZ-curl bar with a shoulder-width overhand (pronated) grip, palms facing down. Keep your elbows tucked close to your torso.
+  Curl the bar upward toward your chest by flexing your elbows, emphasizing the brachialis and brachioradialis in your forearms. Squeeze at the top and lower the weight slowly under control to full extension.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

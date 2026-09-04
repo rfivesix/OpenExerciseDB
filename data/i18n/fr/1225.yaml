@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1225'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curls biceps larges aux haltères
 description: |-
-  Tenez un haltère dans chaque main, les mains écartées un peu plus que la largeur des épaules et les paumes tournées vers l'avant.
-  Fléchissez vos coudes et montez les haltères jusqu'à vos épaules. Redescendez lentement et répétez.
+  Position de départ :
+  • Tenez-vous debout avec un haltère dans chaque main, paumes tournées vers l'avant.
+  • Écartez légèrement les avant-bras vers l'extérieur au-delà de la largeur des épaules, coudes fixés le long du buste.
+
+  Exécution :
+  • Fléchissez les coudes pour monter les haltères selon cette trajectoire ouverte vers les épaules afin de cibler le chef court du biceps.
+  • Marquez une contraction marquée en haut puis redescendez lentement sous contrôle.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4524'
+search_terms:
+  - Dumbbell wide bicep curls

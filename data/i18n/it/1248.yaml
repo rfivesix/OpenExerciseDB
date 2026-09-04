@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1248'
 language: it
-status: upstream_unreviewed
-name: Ice Scream maker
-description: |-
-  Dalla fase finale di una trazione alla sbarra e ci spingiamo indietro con le spalle fino ad arrivare in posizione di front lever. Da li trazioniamo di nuovo per riportarci nella posizione di partenza.
+status: ai_reviewed
+name: Ice Cream Maker
+description: Dalla fase finale di una trazione alla sbarra e ci spingiamo indietro con le spalle fino ad arrivare in posizione
+  di front lever. Da li trazioniamo di nuovo per riportarci nella posizione di partenza.
+search_terms:
+- Ice Scream maker
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

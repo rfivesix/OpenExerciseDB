@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '549'
 language: it
-status: upstream_unreviewed
-name: French press
-description: French pressFrench press con manubri sopra la testa
+status: ai_reviewed
+name: French press con manubrio da seduto
+search_terms:
+- French press
+- Estensioni per tricipiti da seduto con manubrio
+description: |-
+  Posizione di partenza: Siediti su una panca (preferibilmente con schienale verticale per sostenere la schiena). Impugna saldamente un manubrio con entrambe le mani sotto il disco superiore e sollevalo a braccia tese sopra la testa.
+  Esecuzione: Mantenendo i gomiti fermi e vicini alla testa, piega le braccia abbassando il manubrio dietro la nuca in un arco controllato.
+  Ritorno: Estendi i gomiti contraendo con forza i tricipiti per riportare il carico sopra la testa.
 upstream:
   license: CC-BY-SA-4.0
   license_author: richmr2174@gmail.com

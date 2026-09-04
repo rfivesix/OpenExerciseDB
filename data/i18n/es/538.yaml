@@ -5,9 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '538'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de banca inclinado
-description: Press de banca inclinado con barra fija.
+description: |-
+  Posición inicial: Acuéstese en un banco inclinado a unos 30-45 grados con los pies firmemente apoyados en el suelo. Sujete la barra con un agarre ligeramente más ancho que los hombros y sáquela del soporte.
+  Ejecución: Baje la barra de manera controlada hasta que roce suavemente la parte superior del pecho.
+  Retorno: Empuje la barra hacia arriba con fuerza hasta extender los brazos.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

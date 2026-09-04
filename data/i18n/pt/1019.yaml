@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: pt
-status: upstream_unreviewed
+status: ai_reviewed
 name: Prancha lateral direita
 description: |-
-  Deite-se de lado, com o cotovelo inferior em ângulo reto, com o braço para fora
-  Levante sua pélvis do chão levantando o ombro inferior para cima, mantendo o antebraço no chão; sua cabeça, pélvis e pés devem estar em linha reta
-  Mantenha esta posição
+  Posição inicial:
+  Deite-se sobre o lado direito com as pernas estendidas e os pés alinhados. Apoie o cotovelo direito diretamente sob o ombro direito, com o antebraço apoiado no chão.
+
+  Execução:
+  1. Contraia o abdômen, oblíquos e glúteos e eleve o quadril do solo até que o corpo forme uma linha reta da cabeça aos calcanhares.
+  2. Mantenha a postura estável sem deixar a pelve cair em direção ao chão.
+  3. Sustente a posição durante o tempo determinado mantendo a respiração controlada.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1929'

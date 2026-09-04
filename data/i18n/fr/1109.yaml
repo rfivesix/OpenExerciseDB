@@ -5,10 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1109'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl concentration à la poulie
 description: |-
-  Le curl concentration est un exercice classique pour développer les biceps un bras à la fois. Il peut être exécuté penché en avant ou à genoux, mais il est le plus souvent réalisé assis sur un banc. Il est excellent pour accentuer le pic du biceps et sert souvent à conclure une séance de biceps.
+  Position de départ :
+  Placez un banc devant une poulie basse. Asseyez-vous, saisissez la poignée simple en prise supination (paume vers le haut) et calez l'arrière du bras contre la face interne de la cuisse.
+
+  Étapes :
+  1. Fléchissez le coude pour monter la poignée vers l'épaule en maintenant le haut du bras strictement fixe contre la cuisse.
+  2. Marquez une contraction maximale du biceps en haut du mouvement sous la tension continue du câble.
+  3. Contrôlez la descente en retenant la charge jusqu'à l'extension quasi-complète du bras.
+  4. Complétez la série avant de passer à l'autre bras.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

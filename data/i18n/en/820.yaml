@@ -5,9 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '820'
 language: en
-status: upstream_unreviewed
-name: Fingerboard 20 mm edge
-description: Hang for 10 seconds on a fingerboard with a 20 mm edge
+status: ai_reviewed
+name: Fingerboard 20 mm Edge Hang
+description: '- Grip the 20 mm edge of the fingerboard with both hands using an open-hand
+  or half-crimp grip.
+
+  - Engage your shoulders actively (pulling them down away from your ears) and maintain
+  a slight bend in your elbows.
+
+  - Lift your feet off the floor and hang steadily for the prescribed time (e.g.,
+  10 seconds), maintaining full body tension.'
+search_terms:
+- Fingerboard 20 mm edge
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

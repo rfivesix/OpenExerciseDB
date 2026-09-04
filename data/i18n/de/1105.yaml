@@ -1,11 +1,20 @@
 exercise_id: '1105'
 language: de
-status: ai_raw
-translated_from: en
-name: Knieanziehen sitzend
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Setze dich auf den Boden oder eine Matte. Platziere die Arme leicht hinter dir. Hebe die Beine an. Strecke die Beine nun aus und ziehe sie wieder heran.
+status: ai_reviewed
+name: Knieanziehen sitzend (Seated Knee Tuck)
+description: |-
+  Ausgangsposition:
+  Setze dich auf den Boden oder eine Matte. Stütze die Hände leicht hinter dem Gesäß am Boden auf, um den Oberkörper zu stabilisieren. Lehne den Oberkörper leicht nach hinten und hebe die gebeugten Beine vom Boden ab.
+
+  Ausführung:
+  1. Strecke die Beine kontrolliert nach vorne aus, während sich der Oberkörper gleichzeitig etwas weiter nach hinten absenkt. Die Füße berühren dabei nicht den Boden.
+  2. Ziehe die Knie kraftvoll wieder zur Brust heran und richte den Oberkörper leicht auf, um die Bauchmuskeln maximal zusammenzuziehen.
+  3. Halte die Kontraktion am Wendepunkt für eine Sekunde.
+  4. Führe die Vor- und Rückbewegung gleichmäßig und ohne Schwung durch.
+search_terms:
+  - Knieanziehen sitzend
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '2070'
+translated_from: en

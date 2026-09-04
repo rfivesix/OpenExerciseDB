@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1441'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Schrägbank-Schulterdrücken mit Kurzhanteln
 description: |-
-  Setze dich auf eine Bank mit 45° Neigung
-  Ellbogen 45° nach außen
-  Senke die Kurzhanteln ab, bis die Oberarme parallel zu den Schultern sind
-  Bewege die Kurzhanteln nach oben, bis sie sich über dem Kopf treffen
+  Ausgangsposition:
+  • Stelle eine Schrägbank auf einen steilen Winkel ein (ca. 60° bis 75°).
+  • Setze dich mit dem Rücken fest an die Rückenlehne und halte zwei Kurzhanteln auf Schulterhöhe mit den Handflächen nach vorne oder leicht schräg zueinander.
+
+  Ausführung:
+  • Drücke die Kurzhanteln kontrolliert nach oben über den Kopf, bis die Arme fast ganz gestreckt sind.
+  • Halte am höchsten Punkt kurz inne und vermeide ein hartes Durchschlagen der Ellbogen.
+  • Senke die Hanteln langsam wieder auf Schulterhöhe ab, bis die Oberarme etwa parallel zum Boden sind.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

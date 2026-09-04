@@ -5,19 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1457'
 language: es
-status: upstream_unreviewed
-name: Cable Press Around
+status: ai_reviewed
+name: Press de pecho unilateral en polea (Cable Press Around)
 description: |-
-  Coloca la polea a la altura del pecho y engancha un agarre en D. Sujeta
-  el agarre con un agarre neutro y mantenlo junto al pecho con el
-  codo completamente flexionado y pegado al costado. Gírate alejándote de la polea para que
-  tu torso quede a 45 grados.
-  Sujeta el otro lado del functional trainer con la mano correspondiente. Adopta una postura escalonada para tener más equilibrio.
-  Mientras mantienes el pecho erguido, extiende el codo a 45 grados
-  cruzando tu línea media mientras mantienes el brazo paralelo al suelo. Detente
-  justo antes del bloqueo y contrae el pecho al final del rango de movimiento
-  (ROM).
+  Posición inicial:
+  • Ajusta la polea a la altura del pecho y coloca un agarre individual en D.
+  • Sujeta el agarre en posición neutra pegado al costado del pecho y colócate en posición escalonada girando el torso unos 45 grados respecto a la polea.
+
+  Ejecución:
+  • Empuja el agarre hacia delante y cruzando ligeramente la línea media del cuerpo para conseguir un acortamiento completo del pectoral.
+  • Aprieta el pectoral en el punto de máxima contracción durante un segundo.
+  • Regresa de forma controlada sintiendo el estiramiento de las fibras pectorales antes de comenzar la siguiente repetición.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3966'
+search_terms:
+  - Cable Press Around

@@ -5,11 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1374'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotary Torso Machine
 description: |-
-  Slow and Steady
-  Not too much weight
+  Starting position:
+  Sit on the rotary torso machine and adjust the chest and knee pads so your lower body is comfortably locked in place. Grasp the handles and sit upright with a straight spine.
+
+  Movement:
+  Rotate your torso to one side using the strength of your obliques. Pause momentarily at the end of the range of motion while maintaining peak contraction, then slowly return to the starting position against the weight stack resistance.
+
+  Notes:
+  Choose a moderate weight to ensure smooth rotational control. Avoid wrenching or using momentum from your shoulders or arms.
 upstream:
   license: CC-BY-SA-4.0
   license_author: 6LXBO

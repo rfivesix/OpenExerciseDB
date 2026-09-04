@@ -5,17 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '915'
 language: es
-status: upstream_unreviewed
-name: Volante
-description: |-
-  Este ejercicio, que simula el movimiento de girar el volante de un autobús, es excelente para trabajar la resistencia y la fuerza de rotación del core, además de los deltoides.
-  Instrucciones
+status: ai_reviewed
+name: Giro de volante con disco (Bus Drivers)
+description: '- Siéntate erguido en un banco o en el suelo y sujeta un disco de pesas
+  con ambas manos en los laterales (posición de las 9 y las 3 en punto).
 
-  Posición: Siéntate en el suelo o en un banco, manteniendo la espalda recta y el abdomen contraído. Sostén un disco (placa) con ambas manos frente a ti, a la altura del pecho o los hombros, como si fuera un volante.
-  Movimiento: Gira el disco de un lado a otro de forma controlada, rotando desde el torso. Imagina que estás conduciendo un autobús y girando el volante en curvas pronunciadas.
-  Control: El movimiento debe originarse en tu core, no solo en tus brazos. Mantén los brazos relativamente extendidos durante todo el ejercicio.
+  - Eleva el disco al frente con los brazos casi extendidos a la altura de los hombros
+  o justo por debajo de los ojos.
 
-  (Para mayor dificultad, realízalo sentado en el suelo con los pies elevados).
+  - Gira el disco de forma controlada de un lado a otro como si estuvieras girando
+  un volante grande.
+
+  - Mantén los brazos elevados y el abdomen contraído durante todo el movimiento.'
+search_terms:
+- Volante
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

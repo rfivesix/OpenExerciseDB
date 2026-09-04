@@ -5,13 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '571'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Shrugs à la barre
+search_terms:
+- Haussement d'épaules à la barre
 description: |-
   Prenez une barre et tenez-vous debout, le corps droit, les bras pendant librement devant vous. Depuis cette position, levez les épaules aussi haut que possible, mais sans plier les bras pendant le mouvement. Au point le plus haut, marquez une courte pause de 1 ou 2 secondes avant de redescendre lentement à la position initiale.
   Lorsque vous vous entraînez avec un poids plus lourd, veillez à toujours effectuer le mouvement complet !
-search_terms:
-  - Haussement d'épaules à la barre
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1098'
 language: en
-status: upstream_unreviewed
-name: Seated rear delt rise
+status: ai_reviewed
+name: Seated Rear Delt Raise
 description: |-
-  Seated, bent 45 deg forward. Arms fully stretched out, raise arms up to shoulder height and back down
+  Starting position:
+  Sit on the edge of a flat bench with your feet planted together. Hold a pair of light dumbbells, hinge forward at your hips, and rest your chest near your thighs, letting the weights hang beneath your legs with elbows softly bent.
+
+  Execution:
+  1. Raise both arms out to the sides in a wide arc, leading with your elbows, until your upper arms are roughly parallel to the floor.
+  2. Squeeze your rear deltoids and pinch your shoulder blades together at the top of the movement.
+  3. Pause for a second at peak contraction without using body momentum.
+  4. Slowly lower the dumbbells back down under control to the starting position.
+search_terms:
+  - Seated rear delt rise
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip

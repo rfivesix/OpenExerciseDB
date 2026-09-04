@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '976'
 language: en
-status: upstream_unreviewed
-name: Medicine ball booklet crunch
-description: Using a medicine ball as an overload will make the exercise heavier.
+status: ai_reviewed
+name: Medicine Ball V-Up Crunch
+description: 'Starting Position: Lie flat on your back on a mat with legs extended
+  straight and arms extended overhead holding a medicine ball with both hands.
+
+  Execution: Simultaneously raise your straight legs and torso off the floor, bringing
+  the medicine ball toward your shins/feet into a "V" shape crunch. Squeeze your abdominal
+  muscles firmly at the top.
+
+  Return: Slowly lower your torso and legs back to the floor under control without
+  letting your lower back hyperextend.
+
+  Cues: Keep the movement smooth and controlled; avoid throwing the ball or utilizing
+  uncontrolled momentum.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1286'
+search_terms:
+- Medicine ball booklet crunch
+- Crunch a libretto
+- Medicine Ball Jackknife

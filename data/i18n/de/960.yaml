@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '960'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kettlebell Swing
-description: |-
-  Obwohl Kettlebell Swings den ganzen Körper trainieren, beanspruchen sie vor allem die Muskeln entlang der hinteren Kette (Rückseite des Körpers). Die wichtigsten beteiligten Muskeln sind die Gesäßmuskulatur, die hintere Oberschenkelmuskulatur, die Rückenstrecker und die Muskeln des oberen Rückens.
+description: 'Ausgangsposition: Stehe etwas mehr als schulterbreit mit der Kettlebell
+  etwa einen Fuß vor dir auf dem Boden. Beuge die Hüfte nach hinten bei geradem Rücken
+  und greife den Griff mit beiden Händen.
+
+  Ausführung: Schwinge die Kettlebell nach hinten zwischen die Beine durch. Strecke
+  die Hüfte explosionsartig nach vorne, spanne Gesäß und Oberschenkel maximal an und
+  lasse die Kugel durch den Hüftimpuls bis auf Brusthöhe steigen.
+
+  Rückkehr: Lasse die Kettlebell kontrolliert zurückschwingen, fange das Gewicht durch
+  ein Beugen in der Hüfte ab und gehe fließend in die nächste Wiederholung über.
+
+  Hinweis: Die Kraft kommt ausschließlich aus dem Hüftstoß (Hip Hinge) und dem Gesäß,
+  nicht aus den Armen oder Schultern.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3580'
+search_terms:
+- Kettlebell-Swing
+- Kugelhantel Swing

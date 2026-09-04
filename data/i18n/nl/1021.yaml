@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1021'
 language: nl
-status: upstream_unreviewed
-name: Kuitoptrekken (rechts)
+status: ai_reviewed
+name: Eénbenig kuitheffen (rechts)
 description: |-
-  Ga op de grond staan of op de rand van een opstapje. Til één voet op en houd hem tegen op je kuit.
-  Til je hielen op, zo ver totdat je op je tenen staat.
-  Houd dit drie seconden vol. Duw je voet weer naar omlaag zonder de grond te raken met je hiel.
+  Beginpositie:
+  Ga op je rechtervoet staan op de vloer of op de rand van een verhoging. Houd je linkervoet van de grond en zoek lichte steun aan een muur voor je balans.
+
+  Uitvoering:
+  1. Laat je rechterhiel gecontroleerd zakken om de kuitspier te strekken.
+  2. Duw krachtig omhoog vanuit de bal van je rechtervoet tot je zo hoog mogelijk op je tenen staat.
+  3. Houd de kuitspanning bovenin 1-2 seconden vast.
+  4. Laat je hiel rustig weer zakken en herhaal.
+search_terms:
+  - Kuitoptrekken (rechts)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1957'

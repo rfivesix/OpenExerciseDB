@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '591'
 language: it
-status: upstream_unreviewed
-name: Sits-ups
-description: |-
-  Siediti su una stuoia, i polpacci sono appoggiati su una panca, le ginocchia formano un angolo retto. Tieni le mani dietro la nuca. Sali ora con un movimento rotatorio della schiena, dovresti sentire come le singole vertebre perdono contatto con il tappetino. Nel punto più alto, contrai gli addominali il più possibile e mantieni la posizione per 2 secondi. Ora scendi, srotolando la schiena.
+status: ai_reviewed
+name: Sit-up con gambe su panca
+search_terms:
+- Sits-ups
+- Sit-up su panca
+description: Siediti su una stuoia, i polpacci sono appoggiati su una panca, le ginocchia formano un angolo retto. Tieni le
+  mani dietro la nuca. Sali ora con un movimento rotatorio della schiena, dovresti sentire come le singole vertebre perdono
+  contatto con il tappetino. Nel punto più alto, contrai gli addominali il più possibile e mantieni la posizione per 2 secondi.
+  Ora scendi, srotolando la schiena.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1210'
 language: en
-status: upstream_unreviewed
-name: Skydiver with arms in T-position
+status: ai_reviewed
+name: Skydiver with Arms in T-Position
 description: |-
-  Lie on your stomach with your legs more than shoulder-width apart and your feet up. Your arms are stretched out to the side and form a T with your upper body, your palms are on the floor. Now raise your upper body, arms and legs as high as you can while keeping your body under tension. Turn your thumbs towards the ceiling and pull your shoulder blades together. While keeping your upper body and all limbs in the air, bring your legs together and then spread them again, keeping them constantly in the air. For the remaining repetitions, only move your legs open and closed.
+  Starting Position:
+  • Lie prone on your stomach on a mat with your legs wider than shoulder-width apart.
+  • Extend your arms straight out to the sides at shoulder height to form a T with your upper body.
+
+  Execution:
+  • Lift your chest, arms, and legs off the floor simultaneously by contracting your entire posterior chain.
+  • Turn your thumbs toward the ceiling and squeeze your shoulder blades firmly together.
+  • While keeping your torso, arms, and thighs elevated in the air, adduct your legs together and then spread them open repeatedly.
+  • Lower back down with control upon completing the repetitions.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2174'
+search_terms:
+  - Skydiver with arms in T-position
+  - T-position skydiver

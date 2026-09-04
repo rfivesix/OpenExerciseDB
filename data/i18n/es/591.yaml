@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '591'
 language: es
-status: upstream_unreviewed
-name: Abdominales
-description: |-
-  Siéntese en una colchoneta, sus pantorrillas descansan en un banco, las rodillas forman un ángulo recto. Mantenga sus manos detrás de su cuello. Sube ahora con un movimiento de balanceo de tu espalda, debes sentir cómo las vértebras individuales pierden contacto con la colchoneta. En el punto más alto, contrae los abdominales tanto como puedas y mantenlos allí durante 2 segundos. Baja ahora, desenrollando tu espalda.
+status: ai_reviewed
+name: Sit-up con piernas elevadas en banco
+search_terms:
+- Abdominales
+description: Siéntese en una colchoneta, sus pantorrillas descansan en un banco, las rodillas forman un ángulo recto. Mantenga
+  sus manos detrás de su cuello. Sube ahora con un movimiento de balanceo de tu espalda, debes sentir cómo las vértebras individuales
+  pierden contacto con la colchoneta. En el punto más alto, contrae los abdominales tanto como puedas y mantenlos allí durante
+  2 segundos. Baja ahora, desenrollando tu espalda.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

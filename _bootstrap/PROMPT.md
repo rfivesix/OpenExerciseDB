@@ -17,7 +17,7 @@ Deine Aufgabe ist **Phase 1: der Import**. Ziel ist ausdrücklich noch keine
 inhaltliche Verbesserung, sondern ein sauberer Umbau der Pipeline ohne
 Verhaltensänderung:
 
-1. `_bootstrap/from-train-libre/script/create_wger_exercise_db.py` in zwei
+1. `_bootstrap/legacy-pipeline/script/create_wger_exercise_db.py` in zwei
    Teile zerlegen:
    - `import/wger_to_yaml.py` — holt die wger-API einmalig ab und schreibt
      `data/exercises/<id>.yaml` plus `data/i18n/<lang>/<id>.yaml`. Die
@@ -32,16 +32,16 @@ Verhaltensänderung:
      Schema in SCHEMA.md §8, inklusive der vier Kompatibilitätsspalten.
 2. Einen Validator schreiben, der die Invarianten aus `schema/invariants.md`
    prüft, soweit sie mit den in Phase 1 vorhandenen Daten prüfbar sind, und
-   ihn als GitHub-Workflow einhängen. `_bootstrap/from-train-libre/workflows/`
+   ihn als GitHub-Workflow einhängen. `_bootstrap/legacy-pipeline/workflows/`
    ist die Vorlage für den Release-Teil; der wöchentliche Cron entfällt, weil
    der Build nicht mehr live von wger zieht.
-3. `_bootstrap/from-train-libre/script/wger_catalog_diff.py` und
+3. `_bootstrap/legacy-pipeline/script/wger_catalog_diff.py` und
    `check_database.py` übernehmen und auf das neue Schema erweitern.
 
 **Abnahmekriterium:** Die erzeugte `.db` enthält dieselben Übungs-IDs wie die
 Referenz-DB, und die Kompatibilitätsspalten `id`, `category_name`,
 `muscles_primary`, `muscles_secondary` plus `exercise_translations` sind so
-befüllt, dass die heutige Train-Libre-App sie ohne Codeänderung laden würde.
+befüllt, dass eine bestehende konsumierende App sie ohne Codeänderung laden würde.
 Baue dafür einen Test, der genau das prüft.
 
 Bevor du anfängst: Sag mir, was dir an der Spezifikation unklar oder

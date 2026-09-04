@@ -5,17 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1018'
 language: en
-status: upstream_unreviewed
-name: Head tilts
+status: ai_reviewed
+name: Head Tilts (Lateral Neck Stretch)
 description: |-
   Starting position:
-  Sit or stand with your back straight.
-  Steps:
+  Sit or stand tall with your spine neutral and shoulders relaxed and drawn down.
 
-  Tilt your head to one side and hold for a bit.2.Return your head to neutral position and hold for a bit.
-  Tilt your head to the other side and hold for a bit.
-  Return your head to neutral position yet again and hold for a bit.
-  Repeat.
+  Execution:
+  1. Slowly tilt your head to one side, bringing your ear toward your shoulder until you feel a gentle stretch along the opposite side of your neck.
+  2. Hold the stretch for 15–30 seconds while keeping both shoulders down.
+  3. Return to the neutral center position, then repeat on the opposite side.
+search_terms:
+  - Head tilts
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1919'

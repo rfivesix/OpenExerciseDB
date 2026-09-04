@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '538'
 language: it
-status: upstream_unreviewed
-name: Distensione Panca Inclinata Bilanciere
+status: ai_reviewed
+name: Distensioni su panca inclinata con bilanciere
+search_terms:
+- Distensione Panca Inclinata Bilanciere
 description: |-
-  Distensione Panca Inclinata con BilanciereDistensione Panca Inclinata con Bilanciere
+  Posizione di partenza: Sdraiati su una panca inclinata a circa 30-45 gradi. Impugna il bilanciere con presa leggermente più ampia delle spalle e staccalo dai supporti.
+  Esecuzione: Abbassa il bilanciere in modo controllato verso la parte alta del petto (vicino alle clavicole).
+  Ritorno: Spingi con forza verso l'alto contraendo i pettorali superiori fino a tornare a braccia distese senza iperestendere i gomiti.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

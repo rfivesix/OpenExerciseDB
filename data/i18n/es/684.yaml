@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '684'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón al pecho con agarre supino
-description: |-
-  Agarra la barra del jalón con las palmas hacia ti y las manos más juntas que el ancho de los hombros. Inclínate ligeramente hacia atrás y mantén la espalda recta. Tira de la barra hacia el pecho, llevando los hombros ligeramente hacia atrás al final del movimiento.
+description: '- Siéntate en la máquina de jalón ajustando las almohadillas sobre los
+  muslos para asegurar una posición firme.
+
+  - Sujeta la barra con agarre supino (palmas hacia ti) al ancho de los hombros o
+  ligeramente más estrecho.
+
+  - Tira de la barra hacia la parte superior del pecho dirigiendo los codos hacia
+  abajo y atrás, apretando los dorsales.
+
+  - Regresa lentamente hasta estirar por completo los brazos de forma controlada.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

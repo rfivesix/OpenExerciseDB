@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '537'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Panca inclinata con manubri
 description: |-
-  La panca dovrebbe essere inclinata ovunque da 30 a 45 gradi
-
-
-  Assicurati di premere i manubri verso l'alto (perpendicolarmente al pavimento)
+  Posizione di partenza: Siediti su una panca inclinata tra i 30 e i 45 gradi con un manubrio in ciascuna mano appoggiato sulle cosce. Sdraiati portando i manubri all'altezza della parte alta del petto con i piedi ben piantati a terra.
+  Esecuzione: Spingi i manubri verso l'alto perpendicolarmente al pavimento, avvicinandoli leggermente in cima senza toccarli.
+  Ritorno: Abbassa i manubri lentamente e in modo controllato fino a sentire un buon allungamento del petto, mantenendo i gomiti a circa 45-60 gradi rispetto al busto.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

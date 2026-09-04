@@ -1,20 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '995'
 language: de
 status: ai_reviewed
 name: Armkreisen rückwärts
-description: |-
-  Ausgangsposition:
-  Stehe aufrecht mit geradem Rücken.
-  Schritte:
+description: 'Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand. Strecke beide
+  Arme seitlich auf Schulterhöhe aus, die Handflächen zeigen nach unten.
 
-  Halte die Arme gestreckt und führe sie vor deinen Körper, hebe sie über den Kopf und setze die Bewegung hinter dem Rücken fort, bis du wieder in die Ausgangsposition gelangst.
-  Kreise die Arme weiter wie in Schritt 1 beschrieben.
+  Ausführung: Kreise die gestreckten Arme in gleichmäßigen, fließenden Kreisbewegungen
+  nach hinten und öffne dabei den Brustkorb.
+
+  Hinweis: Halte den Rumpf stabil und vermeide ein Hohlkreuz während des Kreisens.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1701'
+search_terms:
+- Backward arm circles

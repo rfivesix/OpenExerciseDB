@@ -5,21 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1083'
 language: fr
-status: upstream_unreviewed
-name: YWT
+status: ai_reviewed
+name: Élévations au sol en Y-W-T
 description: |-
   Position de départ :
-  Allongez-vous, de préférence sur un tapis. Tendez vos bras au-dessus de la tête en position « Y » (les bras pointant vers le haut en diagonale, à environ 45 degrés). Vos pouces doivent être dirigés vers le haut.
-  Étapes :
+  Allongez-vous à plat ventre sur un tapis, la nuque alignée avec la colonne et le regard vers le sol.
 
-  Les bras en position Y, décollez légèrement votre poitrine du sol, en créant une tension de traction dans vos bras vers le haut.
-  Maintenez cette position pendant plusieurs secondes (15 à 30 secondes idéalement).
-  En gardant la poitrine relevée, pliez les coudes pour passer de la position Y à une position « W », les bras fléchis au niveau des coudes et en conservant la tension vers le haut.
-  Maintenez à peu près aussi longtemps que pour la position Y.
-  Toujours la poitrine relevée, passez à une position « T » en tendant les bras sur les côtés, perpendiculairement à votre corps.
-  Maintenez à peu près aussi longtemps que pour la position W.
-  Passez de la position T à la position W, puis de la position W à la position Y.
-  Répétez.
+  Étapes :
+  1. Position Y : Tendez les bras vers l'avant à 45 degrés pour former un 'Y', pouces vers le plafond. Décollez la poitrine et les bras du sol en resserrant les omoplates pendant 10 à 20 secondes.
+  2. Position W : Tirez les coudes vers le bas et les côtes pour former un 'W', en maintenant les bras surélevés et le haut du dos contracté.
+  3. Position T : Ouvrez les bras tendus sur les côtés perpendiculairement au tronc pour former un 'T', pouces vers le haut, en pinçant fortement les omoplates.
+  4. Enchaînez les positions avec contrôle pour renforcer les fixateurs d'omoplates.
+search_terms:
+  - YWT
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

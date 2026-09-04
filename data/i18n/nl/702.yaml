@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: nl
-status: upstream_unreviewed
-name: Kuitoptrekken (links)
-description: |-
-  Ga op de grond staan of op de rand van een opstapje. Til één voet op en houd hem tegen op je kuit.
-  Til je hielen op, zo ver totdat je op je tenen staat.
-  Houd dit drie seconden vol. Duw je voet weer naar omlaag zonder de grond te raken met je hiel.
+status: ai_reviewed
+name: Eenbenig kuitheffen
+description: '- Ga met de bal van één voet op de rand van een verhoging of traptrede
+  staan en houd de andere voet van de grond.
+
+  - Houd je voor balans licht vast aan een muur of leuning.
+
+  - Laat je hiel gecontroleerd zo ver mogelijk zakken voor een volledige rek in de
+  kuitspier.
+
+  - Duw krachtig omhoog vanuit de bal van je voet tot maximale contractie op je tenen.
+
+  - Houd even vast bovenaan, zak langzaam terug en wissel na de set van been.'
+search_terms:
+- Kuitoptrekken (links)
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

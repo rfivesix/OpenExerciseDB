@@ -5,8 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '537'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Incline Bench Press - Dumbbell
+search_terms:
+- Incline Dumbbell Press
+- Incline Dumbbell Bench Press
 description: |-
   This is a variation of the flat bench press designed to emphasize the clavicular head of the pectoralis major (the upper portion). By tilting the torso, the angle of the push changes, shifting more tension to the upper chest and shoulders, which helps achieve a more aesthetic, balanced, and three-dimensional development of the torso.
 
@@ -24,8 +27,6 @@ description: |-
 
 
   Concentric Phase (Lift): Push the dumbbells vertically upward as you exhale. Follow a slightly converging path (without letting them touch at the top). Stop the movement just before locking out your elbows to maintain muscle tension in the upper pectoral.
-search_terms:
-  - Incline Dumbbell Press
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

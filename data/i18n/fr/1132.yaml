@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1132'
 language: fr
-status: upstream_unreviewed
-name: Extension des fessiers à la machine
+status: ai_reviewed
+name: Extension des fessiers au GHD
 description: |-
-  L'extension de hanche au banc à lombaires (GHD) est l'un des meilleurs exercices pour les fessiers. Bien que l'exercice cible principalement les fessiers, il est également excellent pour le bas du dos, les mollets et les ischio-jambiers.
+  Position de départ :
+  • Installez-vous à plat ventre sur le banc GHD (ou banc à lombaires), les chevilles fermement calées sous les rouleaux.
+  • Positionnez le bassin juste au bord du coussin pour permettre une libre flexion des hanches.
+  • Croisez les bras sur la poitrine ou placez les mains derrière la tête.
+
+  Exécution :
+  • Penchez le buste vers le bas en fléchissant au niveau des hanches tout en gardant le dos droit.
+  • Contractez puissamment les fessiers et les ischio-jambiers pour redresser le buste jusqu'à l'alignement avec les cuisses.
+  • Marquez un temps d'arrêt en serrant les fessiers, puis redescendez de manière contrôlée.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4498'
+search_terms:
+  - Extension des fessiers à la machine
+  - Extension de hanche au banc à lombaires

@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1440'
 language: fr
-status: upstream_unreviewed
-name: Développé militaire avec impulsion (push press)
+status: ai_reviewed
+name: Développé avec impulsion (Push Press)
 description: |-
-  Posez la barre devant vous sur vos épaules
-  Fléchissez les genoux en gardant le haut du corps droit
-  Tendez les jambes pour propulser la barre au-dessus de la tête avec force
+  Position de départ :
+  • Debout, pieds à la largeur des épaules, reposez la barre sur l'avant des épaules et les clavicules en position de rack avant.
+  • Gardez les coudes légèrement pointés vers l'avant et la sangle abdominale gainée.
+
+  Exécution :
+  • Fléchissez brièvement les genoux de quelques centimètres en gardant le buste strictement vertical.
+  • Déployez explosivement les jambes pour propulser la barre vers le haut grâce à l'impulsion du bas du corps.
+  • Terminez la poussée avec les épaules et les triceps jusqu'au verrouillage complet des bras au-dessus de la tête.
+  • Redescendez la barre sous contrôle sur l'avant des épaules.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4629'
+search_terms:
+  - Développé militaire avec impulsion (push press)
+  - Push Press

@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '804'
 language: de
-status: upstream_unreviewed
-name: Sloper hängen
-description: |-
-  Mit ausgestreckten Armen an Slopern des Fingerboards hängen für eine Anzahl an Sekunden
+status: ai_reviewed
+name: Sloper-Hängen am Fingerboard
+description: '- Lege beide Hände mit offener Handhaltung flach auf die runden, abschüssigen
+  Griffe (Sloper) des Fingerboards.
+
+  - Ziehe die Schultern aktiv nach unten und hinten (aktive Schultern) und halte die
+  Ellenbogen minimal angewinkelt.
+
+  - Hebe die Füße kontrolliert vom Boden ab und nutze die Reibung der Handflächen
+  und Finger, um die Hängeposition stabil für die vorgegebene Zeitdauer zu halten.
+
+  - Halte die Rumpfspannung aufrecht und vermeide Pendelbewegungen.'
+search_terms:
+- Sloper hängen
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader

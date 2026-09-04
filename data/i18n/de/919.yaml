@@ -1,10 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '919'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: T-Bar-Rudern
-description: Vorgebeugt mit Dreiecksgriff, die Knie leicht gebeugt
+description: 'Ausgangsposition: Stelle dich rittlings über die T-Bar-Hantelstange.
+  Beuge die Knie leicht und neige den Oberkörper mit geradem Rücken in einem Winkel
+  von etwa 45 Grad nach vorne. Greife den V-Griff (Dreiecksgriff) mit gestreckten
+  Armen.
+
+  Ausführung: Ziehe das Gewicht kontrolliert zum oberen Bauch bzw. unteren Brustkorb.
+  Führe die Ellbogen eng am Körper nach hinten und ziehe die Schulterblätter am höchsten
+  Punkt kraftvoll zusammen.
+
+  Rückkehr: Senke das Gewicht langsam und kontrolliert ab, bis die Arme wieder gestreckt
+  sind. Halte den Rücken während der gesamten Bewegung stabil.
+
+  Hinweis: Vermeide Schwung aus den Beinen oder dem unteren Rücken.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

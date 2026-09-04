@@ -3,12 +3,21 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '674'
 language: de
 status: ai_reviewed
 name: TRX-Rudern
-description: Rudern mit Schlingentrainer - Körpergewichtsübung
+description: '- Greife die Griffe des Schlingentrainers (TRX) im neutralen Griff und
+  lehne dich mit gestreckten Armen nach hinten.
+
+  - Halte deinen Körper in einer geraden Linie vom Kopf bis zu den Fersen und spanne
+  Bauch und Gesäß fest an.
+
+  - Ziehe deine Brust zu den Griffen heran, indem du die Ellenbogen nach hinten führst
+  und die Schulterblätter zusammenziehst.
+
+  - Senke deinen Körper kontrolliert wieder ab, bis die Arme vollständig gestreckt
+  sind.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Skadi

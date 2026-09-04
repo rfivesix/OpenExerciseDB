@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1125'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical prise large en supination
 description: |-
-  Mouvement vers le bas
-  •  Tirez la barre vers le bas de sorte qu'elle passe près de votre menton et touche le haut de votre poitrine.
-  •  Gardez le reste de votre corps immobile.
+  Position de départ :
+  Asseyez-vous à la machine de tirage vertical et réglez les boudins pour bien caler les cuisses. Saisissez la barre avec une prise large en supination (paumes vers vous, plus large que les épaules). Bombez le torse.
+
+  Étapes :
+  1. Tirez la barre vers le bas de manière contrôlée, en la faisant passer près du menton jusqu'à effleurer le haut de la poitrine.
+  2. Tirez les coudes vers le bas et l'arrière en resserrant les omoplates.
+  3. Gardez le buste stable sans basculer exagérément en arrière.
+  4. Laissez remonter la barre lentement jusqu'à l'extension complète des bras pour ressentir l'étirement des grands dorsaux.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

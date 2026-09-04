@@ -9,9 +9,15 @@ language: en
 status: ai_reviewed
 name: Push Press
 description: |-
-  Rest bar in front on your shoulders
-  Bend knees while keeping upper body straight
-  Extend legs pushing the bar overhead with force
+  Starting Position:
+  • Stand with feet hip- to shoulder-width apart and rack the barbell securely across your front deltoids and clavicles (front rack position).
+  • Keep your elbows pointing slightly forward and your core braced tightly.
+
+  Execution:
+  • Dip by bending your knees a few inches vertically while keeping your torso strictly upright.
+  • Explosively extend your knees and hips, using leg drive to propel the barbell upward off your shoulders.
+  • Finish the movement with your arms, locking out the barbell overhead with straight arms directly above the crown of your head.
+  • Lower the barbell with control back to the front rack position.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

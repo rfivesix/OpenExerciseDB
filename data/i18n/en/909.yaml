@@ -5,9 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '909'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Nordic Curl
-description: Natural Leg Extension is alternative to Leg Extension machine with no equipment.
+description: '- Kneel upright on a padded mat with your toes pointed behind you and
+  hips fully extended in a straight line from knees to head.
+
+  - Lean your torso backward slowly under control by bending only at your knees.
+
+  - Resist gravity using your quadriceps, descending as far back as your strength
+  allows without breaking at the hips.
+
+  - Contract your quadriceps powerfully to pull yourself back up to the starting tall-kneeling
+  position.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

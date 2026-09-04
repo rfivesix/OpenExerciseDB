@@ -5,9 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '911'
 language: en
-status: upstream_unreviewed
-name: Incline Skull Crush
-description: Siting in a 45 Degree Angle, using DB to do Incline Skull Crush
+status: ai_reviewed
+name: Incline Dumbbell Skull Crusher
+description: '- Lie back on an incline bench set to roughly 30 to 45 degrees, holding
+  a dumbbell in each hand with arms extended overhead.
+
+  - Keep your upper arms angled slightly backward and stationary throughout the movement.
+
+  - Bend your elbows smoothly to lower the dumbbells down past the sides of your head
+  until your triceps are fully stretched.
+
+  - Extend your elbows to press the dumbbells back up to the starting position, squeezing
+  your triceps firmly at the top.'
+search_terms:
+- Incline Skull Crush
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

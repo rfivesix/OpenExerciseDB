@@ -9,10 +9,13 @@ language: en
 status: ai_reviewed
 name: Incline Dumbbell Overhead Press
 description: |-
-  Sit on a bench with 45° incline
-  Elbows 45° out
-  Move dumbbells down until upper arms are parallel to shoulders
-  Move dumbbells up, meeting overhead
+  Starting Position:
+  • Sit back on an incline bench adjusted to a high angle (around 60° to 75°), pressing your back firmly against the pad.
+  • Hold a dumbbell in each hand at shoulder height with palms facing forward or slightly angled inward.
+
+  Execution:
+  • Press the dumbbells upward overhead in a smooth, controlled arc until your arms are fully extended without locking out forcefully.
+  • Lower the dumbbells with control back to shoulder level until your upper arms are parallel to the floor, feeling a good stretch in the front deltoids.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

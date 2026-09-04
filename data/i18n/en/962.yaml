@@ -1,16 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '962'
 language: en
 status: ai_reviewed
-name: Elliptical
-description: |-
-  It improves muscle toning, strengthens the leg muscles (quads, glutes, calves), helps vascularisation and increases resistance. The elliptical is also very useful if you aim to lose weight.
+name: Elliptical Trainer
+description: 'Starting Position: Step onto the pedals and take hold of the moving
+  handles or stationary bar. Stand tall with your chest up and core engaged.
+
+  Execution: Push through your feet in a smooth, continuous elliptical gliding motion
+  while pushing and pulling the handles in opposition to your leg drive.
+
+  Cues: Keep your entire foot in contact with the pedals to reduce calf strain and
+  engage glutes and hamstrings. Maintain an upright posture without slouching.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1257'
+search_terms:
+- Elliptical
+- Cross Trainer

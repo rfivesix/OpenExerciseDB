@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '912'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Kabelzug-Curls mit gerader Stange
-description: Stehend aufrecht vor dem Kabelturm mit einer geraden Stange.
+description: '- Stelle dich aufrecht vor den unteren Kabelzug und greife die gerade
+  Stange im schulterbreiten Untergriff.
+
+  - Halte die Ellenbogen eng an den Körperseiten fixiert und die Schultern nach hinten
+  unten gezogen.
+
+  - Beuge die Arme und curle die Stange kontrolliert nach oben Richtung Brust, während
+  die Oberarme unbewegt bleiben.
+
+  - Halte die Kontraktion im Bizeps am obersten Punkt kurz und senke das Gewicht langsam
+  wieder ab.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

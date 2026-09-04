@@ -5,16 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1463'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Rudern im Untergriff aus dem Dead Stop
 description: |-
-  Das Kurzhantel-Rudern im Untergriff aus dem Dead Stop beansprucht den Rücken, das heißt, du kannst etwas schwereres Gewicht ausprobieren. Der Haken ist, dass du das Gewicht über alle Wiederholungen kontrollieren können musst.
+  Ausgangsposition:
+  • Stehe mit den Füßen schulterbreit und halte zwei Kurzhanteln im Untergriff (Handflächen nach vorne gerichtet).
+  • Beuge dich mit geradem Rücken in den Hüften nach vorne, bis der Oberkörper fast parallel zum Boden ist.
 
-  Beginne, indem du ein Paar Kurzhanteln hältst, die Füße schulterbreit auseinander und die Knie leicht gebeugt.
-  Beuge dich in der Hüfte nach vorne, um deinen Oberkörper abzusenken, bis er fast parallel zum Boden ist, halte dabei den Rücken gerade und die Knie leicht gebeugt.
-  Atme aus, während du die Kurzhanteln seitlich bis auf Brusthöhe ruderst, dabei führen die Ellbogen, bis deine Oberarme knapp über parallel zum Boden sind und die Kurzhanteln sich auf Höhe des Brustkorbs befinden.
-  Senke die Kurzhanteln langsam in die Ausgangsposition ab und wiederhole. Halte den Rücken die ganze Zeit gerade.
+  Ausführung:
+  • Rudere die Kurzhanteln kraftvoll nach oben in Richtung Hüfte, indem du die Ellbogen eng am Körper nach hinten-oben führst.
+  • Ziehe die Schulterblätter am höchsten Punkt zusammen und spanne den Latissimus fest an.
+  • Senke die Hanteln langsam und kontrolliert vollständig ab, bis sie am Boden kurz im Dead Stop ruhen, bevor die nächste Wiederholung ohne Schwung beginnt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3969'
+search_terms:
+  - Dead-Stop Dumbbell Row
+  - Kurzhantelrudern Untergriff Dead Stop

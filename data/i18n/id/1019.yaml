@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: id
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plank samping kanan
 description: |-
-  Berbaringlah, dengan siku bawah Anda di sudut kanan, lengan mencuat
-  Angkat panggul Anda dari lantai dengan mengangkat bahu bawah Anda ke atas, menjaga lengan bawah di lantai; kepala, panggul, dan kaki Anda harus berada dalam garis lurus
-  Tahan posisi
+  Posisi awal:
+  Berbaring miring ke sisi kanan dengan kaki lurus bertumpuk. Letakkan siku kanan tepat di bawah bahu kanan dengan lengan bawah menempel di lantai.
+
+  Langkah pelaksanaan:
+  1. Kencangkan otot inti dan pinggul, lalu angkat panggul dari lantai hingga tubuh membentuk garis lurus dari kepala hingga kaki.
+  2. Pertahankan posisi tubuh tetap lurus dan jangan biarkan pinggul merosot ke bawah.
+  3. Tahan posisi ini selama durasi yang ditentukan dengan pernapasan teratur.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1920'

@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: es
-status: upstream_unreviewed
-name: Elevación de pantorrilla izquierda
-description: |-
-  Párese en el suelo o en el borde de un escalón para aumentar el rango de movimiento. Levante un pie, colocando la parte superior de su pantorrilla
-  Levante los talones hasta que esté de pie
-  Manténgase en esta posición durante tres segundos, luego baje el pie sin tocar el suelo con el talón.
+status: ai_reviewed
+name: Elevación de talones a una pierna
+description: '- Colócate sobre el metatarso de un pie en el borde de un escalón o
+  superficie elevada, manteniendo el otro pie en el aire.
+
+  - Apóyate ligeramente en una pared o soporte para mantener el equilibrio.
+
+  - Desciende el talón lentamente hasta sentir un estiramiento completo en la pantorrilla.
+
+  - Empuja con fuerza a través del antepié elevando el talón lo más alto posible hasta
+  colocarte de puntillas.
+
+  - Mantén la contracción un segundo en la parte alta, baja de forma controlada y
+  repite antes de cambiar de pierna.'
+search_terms:
+- Elevación de pantorrilla izquierda
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

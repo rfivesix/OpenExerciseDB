@@ -5,11 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '627'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Stiff-legged Deadlifts
+search_terms:
+- Stiff Leg Deadlift
+- Straight-Leg Deadlift
 description: |-
-  Keep legs straight
-  Keep back straight
+  Starting Position: Stand upright with feet hip-width apart, holding a barbell in front of your thighs with a shoulder-width overhand grip. Keep your knees nearly straight, with only a very slight unlock to protect the joints.
+  Execution: Hinge forward at the hips while pushing your glutes backward, keeping your back completely flat and neutral. Lower the barbell close to your legs until you feel a deep stretch in your hamstrings.
+  Return: Contract your hamstrings and glutes powerfully to return to the fully upright position.
+  Cues: Do not allow your lower back to round. The knees remain fixed and nearly straight throughout the movement.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

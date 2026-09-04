@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1244'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Gato-Vaca (movilidad espinal)
-description: |-
-  Ejercicio de movilidad y estiramiento para la columna vertebral. Ideal como parte del calentamiento o enfriamiento.
+description: 'Posición inicial:
+
+  Colócate a cuatro patas sobre una esterilla con las muñecas directamente debajo de los hombros y las rodillas debajo de
+  las caderas. Mantén la columna en posición neutra.
+
+
+  Ejecución:
+
+  1. Inhala profundamente y pasa a la postura de la vaca: arquea suavemente la espalda hacia abajo, abre el pecho y eleva
+  la cabeza hacia arriba.
+
+  2. Exhala con control y pasa a la postura del gato: redondea la espalda hacia el techo, metiendo la pelvis y llevando la
+  barbilla hacia el pecho.
+
+  3. Alterna suavemente entre ambas posturas al ritmo de la respiración durante varias repeticiones.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

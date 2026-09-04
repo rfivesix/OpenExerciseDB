@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '716'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wandgleiten
-description: |-
-  Stelle dich so hin, dass Fersen, Schultern, Hinterkopf und Hüfte die Wand berühren. Beginne mit den Oberarmen gerade zur Seite ausgestreckt und den Ellbogen in einem 90-Grad-Winkel. Strecke die Arme, während du an der Wand bleibst, ohne den Rücken von der Wand abzuheben, und ahme dabei die Bewegung eines Schulterdrückens nach.
+description: '- Stelle dich mit dem Rücken an eine Wand, sodass Fersen, Gesäß, oberer
+  Rücken und Hinterkopf leichten Kontakt zur Wand haben.
+
+  - Hebe die Arme seitlich an, beuge die Ellenbogen im 90-Grad-Winkel (W-Position)
+  und drücke Ellenbogen und Handrücken gegen die Wand.
+
+  - Gleite mit den Armen kontrolliert an der Wand nach oben in eine Y-Form, ohne den
+  Kontakt zur Wand zu verlieren oder im unteren Rücken ins Hohlkreuz zu fallen.
+
+  - Ziehe die Arme langsam wieder nach unten in die 90-Grad-Position und ziehe dabei
+  die Schulterblätter bewusst nach unten.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

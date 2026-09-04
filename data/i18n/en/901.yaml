@@ -1,13 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '901'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Barbell Hip Thrust
-description: |-
-  Sit on the ground with a bench behind you, bending your knees so your feet are planted on the ground and holding a barbell resting below your hips. If you have a padded bar, or anything you can slip in between the bar and your body, it will go a long way to making the exercise more comfortable.
+description: '- Sit on the floor with your upper back supported against a stable bench
+  and place a padded barbell across your hips.
+
+  - Position your feet flat on the floor about shoulder-width apart so that your shins
+  are vertical at the top of the movement.
+
+  - Drive through your heels and squeeze your glutes powerfully to lift your hips
+  until your thighs and torso form a straight horizontal line.
+
+  - Squeeze your glutes firmly at the top for a count, then lower your hips under
+  control back toward the floor.'
 upstream:
   license: CC-BY-SA-4.0

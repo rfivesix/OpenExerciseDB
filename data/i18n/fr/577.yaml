@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '577'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexion latérale du tronc avec haltère
-description: |-
-  Également appelées flexions latérales avec haltère. Tenez-vous debout dans l'alignement des hanches, les genoux légèrement fléchis, en conservant la courbure naturelle de la colonne vertébrale, un bras tendu le long du corps, et saisissez l'haltère d'une main. Effectuez des flexions latérales du buste, lentes et contrôlées, jusqu'à atteindre un angle d'environ 45°.
+description: Également appelées flexions latérales avec haltère. Tenez-vous debout dans l'alignement des hanches, les genoux
+  légèrement fléchis, en conservant la courbure naturelle de la colonne vertébrale, un bras tendu le long du corps, et saisissez
+  l'haltère d'une main. Effectuez des flexions latérales du buste, lentes et contrôlées, jusqu'à atteindre un angle d'environ
+  45°.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

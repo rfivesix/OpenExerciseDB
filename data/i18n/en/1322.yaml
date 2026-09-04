@@ -1,14 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1322'
 language: en
-status: upstream_unreviewed
-name: Kopfüber Gewichtaufheben
-description: |-
-  Diese Maschine neben Beinheben.
-  Kopf nach vorne, mit dem gesicht zum boden und das Gewicht aufheben
+status: ai_reviewed
+name: Inverted Weight Lift
+description: Machine-based abdominal exercise performed in an inverted position, lifting the weight towards the torso.
+search_terms:
+- Kopfüber Gewichtaufheben
 upstream:
   license: CC-BY-SA-4.0

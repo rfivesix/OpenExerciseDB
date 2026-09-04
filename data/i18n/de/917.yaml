@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '917'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Kabelzug-Frontheben mit gerader Stange
-description: Rücken zum Kabelturm, Kabel zwischen den Beinen, SZ-Stange.
+description: '- Befestige eine gerade Stange am unteren Kabelzug. Stelle dich mit
+  dem Rücken zum Kabelturm auf, das Kabel verläuft zwischen deinen Beinen.
+
+  - Greife die Stange mit beiden Händen im schulterbreiten Obergriff vor deinen Oberschenkeln.
+
+  - Hebe die Arme mit leicht gebeugten Ellenbogen kontrolliert nach vorne an, bis
+  sich die Stange auf Schulter- bzw. Augenhöhe befindet.
+
+  - Halte die Spannung kurz am obersten Punkt und senke das Gewicht langsam und kontrolliert
+  wieder ab, ohne Schwung aus der Hüfte zu holen.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani

@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1101'
 language: en
-status: upstream_unreviewed
-name: Horizontal traction isometry
-description: Perform a timed isometric pull-up on the bar
+status: ai_reviewed
+name: Isometric Pull-Up / Row Hold
+description: |-
+  Starting position:
+  Grasp a pull-up bar (overhand or underhand grip) or suspension trainer/barbell set for inverted rows.
+
+  Execution:
+  1. Pull yourself up to the top flexed-arm position (chin over the bar or chest to the handles/bar).
+  2. Lock in this position statically: depress and retract your shoulder blades, squeezing your lats, rhomboids, and biceps intensely.
+  3. Maintain steady breathing and do not allow your shoulders to shrug up or your chest to collapse.
+  4. Hold for the prescribed duration (e.g., 10–30 seconds) before lowering under control.
+search_terms:
+  - Horizontal traction isometry
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

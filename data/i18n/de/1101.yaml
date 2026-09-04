@@ -1,11 +1,21 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1101'
 language: de
-status: ai_raw
-translated_from: en
-name: Isometrisches Rudern
-description: Führe an der Stange einen zeitlich gehaltenen isometrischen Klimmzug aus.
+status: ai_reviewed
+name: Isometrischer Klimmzughang / Ruderzug
+description: |-
+  Ausgangsposition:
+  Greife eine Klimmzugstange im Ober- oder Untergriff oder die Griffe eines Schlingentrainers/einer Schrägliegestange.
+
+  Ausführung:
+  1. Ziehe dich nach oben in die oberste Position (Kinn über der Stange bzw. Brust an den Griffen/der Stange).
+  2. Halte diese Position statisch gegen die Schwerkraft: Ziehe die Schulterblätter aktiv nach hinten unten und kontrahiere den Latissimus und die Armbeuger maximal.
+  3. Vermeide es abzusacken oder die Schultern zu den Ohren wandern zu lassen.
+  4. Halte die isometrische Kontraktion für die vorgegebene Zeitdauer (z. B. 10–30 Sekunden) bei gleichmäßiger Atmung.
+search_terms:
+  - Isometrisches Rudern
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2061'
+translated_from: en

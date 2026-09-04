@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '691'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage menton, à la Smith machine
-description: |-
-  Les mouvements sont fondamentalement les mêmes qu'avec une barre EZ, mais vous utilisez la barre de la Smith machine :
-  Tenez-vous bien droit, les pieds écartés de la largeur des épaules. Tenez la barre en prise pronation contre vos cuisses, les bras tendus. Soulevez la barre près du corps jusqu'à votre menton. Les coudes pointent vers l'extérieur de sorte qu'au point le plus haut ils forment un V. Marquez ici une courte pause avant de redescendre lentement et de répéter le mouvement.
+description: '- Debout face à la barre du cadre guidé, pieds à largeur d''épaules,
+  saisissez la barre en pronation avec un écartement légèrement inférieur à la largeur
+  des épaules.
+
+  - Tirez la barre verticalement le long du torse en guidant avec les coudes vers
+  le haut et l''extérieur jusqu''au haut de la poitrine.
+
+  - Marquez un court temps d''arrêt au sommet, puis redescendez la charge de manière
+  lente et maîtrisée.'
 search_terms:
-  - Rowing menton
+- Rowing menton
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

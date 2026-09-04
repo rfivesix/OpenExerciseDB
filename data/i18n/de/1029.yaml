@@ -5,16 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1029'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Brustwirbelsäulen-Rotation im Vierfüßlerstand rechts
 description: |-
   Ausgangsposition:
-  Beginne im Vierfüßlerstand, die Knie schulterbreit auseinander. Lege deine rechte Hand hinter den Kopf, während du die linke Hand ausgestreckt lässt und den Boden berührst.
-  Ablauf:
+  Begib dich in den Vierfüßlerstand auf Hände und Knie. Die Knie stehen unter den Hüften, die linke Hand stützt unter der linken Schulter am Boden. Platziere die rechte Hand an den Hinterkopf, der rechte Ellenbogen zeigt nach außen.
 
-  Führe beim Einatmen deinen rechten Ellbogen in Richtung deiner linken Hand, wobei die rechte Hand hinter dem Kopf bleibt.
-  Bewege beim Ausatmen deinen rechten Ellbogen so, dass er nach oben zur Decke zeigt.
-  Wiederhole.
+  Ausführung:
+  1. Rotiere beim Einatmen den Oberkörper kontrolliert nach unten und führe den rechten Ellenbogen in Richtung der linken Stützhand.
+  2. Drehe beim Ausatmen die Brustwirbelsäule weit nach rechts oben auf und zeige mit dem rechten Ellenbogen zur Decke.
+  3. Halte das Becken stabil und waagerecht.
+  4. Wiederhole die Bewegung gleichmäßig und kontrolliert.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

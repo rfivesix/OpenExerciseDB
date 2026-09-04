@@ -5,20 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1082'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo inclinado con rotación externa
 description: |-
   Posición inicial:
-  Ponte de pie detrás de una silla o delante de una mesa. Flexiónate por la cintura para apoyar la frente en el respaldo de la silla o en la mesa, manteniendo la espalda recta. Tus brazos deben colgar rectos hacia abajo, apuntando al suelo.
-  Pasos:
+  Inclínate hacia adelante desde las caderas manteniendo la espalda recta y las rodillas ligeramente flexionadas. Deja que los brazos cuelguen rectos hacia el suelo.
 
-  Sube los codos hasta la altura de los hombros. Tus antebrazos deben apuntar hacia abajo, perpendiculares a tus bíceps. Tus brazos deben estar a la misma altura que la espalda y perpendiculares a la columna.
-  Mantén un momento.
-  Rota en los codos para subir las manos lo más alto que puedas.
-  Mantén un momento.
-  Rota en los codos de vuelta a la posición anterior.
-  Baja los brazos a la posición original.
-  Repite.
+  Ejecución:
+  1. Tira de los codos hacia arriba hasta la altura de los hombros, manteniendo los antebrazos apuntando hacia abajo en un ángulo de 90 grados.
+  2. Manteniendo los codos fijos a la altura de los hombros, rota externamente los antebrazos hacia arriba hasta que las manos queden a la altura de la cabeza.
+  3. Aprieta la parte posterior de los hombros y el manguito rotador durante un instante.
+  4. Rota los antebrazos de vuelta hacia abajo y extiende los brazos para regresar a la posición inicial.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

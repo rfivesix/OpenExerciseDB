@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1091'
 language: es
-status: upstream_unreviewed
-name: Plancha a una mano alterna
+status: ai_reviewed
+name: Plancha con toques de hombros
 description: |-
-  En la posición de plancha correcta, coloque los pies a una distancia ligeramente superior a la anchura de los hombros. Levante y toque alternativamente el hombro opuesto con una mano.
+  Posición inicial:
+  Colócate en posición de plancha alta con las manos debajo de los hombros y los pies ligeramente más separados que el ancho de las caderas para lograr mayor estabilidad.
+
+  Ejecución:
+  1. Activa fuertemente el core y los glúteos para mantener la pelvis horizontal y evitar el balanceo lateral.
+  2. Levanta la mano derecha del suelo y toca suavemente el hombro izquierdo con control.
+  3. Apoya de nuevo la mano derecha y repite el movimiento tocando el hombro derecho con la mano izquierda.
+  4. Alterna de lado a lado manteniendo el cuerpo inmóvil y compacto.
+search_terms:
+  - Plancha a una mano alterna
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

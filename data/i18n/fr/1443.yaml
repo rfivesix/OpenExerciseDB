@@ -5,17 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1443'
 language: fr
-status: upstream_unreviewed
-name: Élévation latérale et frontale aux haltères
+status: ai_reviewed
+name: Élévation combinée latérale et frontale aux haltères
 description: |-
-  Tenez-vous debout en tenant les haltères le long du corps
-  Gardez les bras presque entièrement tendus
-  Sans élan, levez les haltères sur les côtés du corps jusqu'à hauteur des épaules, paumes vers le bas
-  Abaissez les haltères le long du corps, paumes tournées vers l'intérieur
-  Levez immédiatement les haltères devant le corps jusqu'à hauteur des épaules, paumes vers le bas
-  Redescendez à nouveau
-  Cela correspond à une répétition
+  Position de départ :
+  • Tenez-vous debout, pieds écartés à la largeur des épaules, en tenant un haltère dans chaque main le long du corps, coudes très légèrement fléchis.
+
+  Exécution :
+  • Élevez les haltères sur les côtés jusqu'à la hauteur des épaules (élévation latérale).
+  • En gardant les bras à hauteur d'épaules, amenez-les horizontalement vers l'avant devant la poitrine.
+  • Redescendez lentement les haltères devant les cuisses.
+  • Vous pouvez alterner en montant vers l'avant, en ouvrant sur les côtés puis en redescendant.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4632'
+search_terms:
+  - Élévation latérale et frontale aux haltères

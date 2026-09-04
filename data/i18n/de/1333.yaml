@@ -1,14 +1,33 @@
-# AI generation provenance: GPT-5, 2026-09-04.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1333'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Unterarm-Curls im Untergriff
-description: |-
-  Aktiviere die Muskeln.
-  Nutze keinen Schwung.
-  Kontrollierte Bewegung.
-  Langsame Bewegung.
+description: 'Ausgangsposition:
+
+  Setze dich auf eine Trainingsbank und lege deine Unterarme so auf die Oberschenkel oder die Bankkante, dass die Handgelenke
+  frei nach vorne ragen. Halte in beiden Händen Kurzhanteln im Untergriff (Handflächen nach oben).
+
+
+  Ausführung:
+
+  1. Senke die Kurzhanteln kontrolliert ab, indem du die Handgelenke nach unten streckst.
+
+  2. Beuge die Handgelenke kraftvoll nach oben, um die Kurzhanteln anzuheben und die Unterarmbeugemuskulatur maximal anzuspannen.
+
+  3. Halte die Kontraktion oben kurz an und senke das Gewicht langsam und kontrolliert wieder ab.
+
+
+  Hinweise:
+
+  Bewege ausschließlich die Handgelenke und vermeide jeglichen Schwung aus Armen oder Rumpf.'
+search_terms:
+- Handgelenkcurls im Untergriff
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

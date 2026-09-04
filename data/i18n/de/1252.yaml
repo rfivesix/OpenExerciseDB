@@ -1,10 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1252'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Front-Lever-Klimmzug
-description: Ziehe in der Front-Lever-Position, mit gestreckten Beinen oder leichter mit angezogenen Beinen, die Brust näher zur Stange.
+description: 'Ausgangsposition:
+
+  Begib dich an der Klimmzugstange in eine stabile Front-Lever-Position (mit gestreckten Beinen oder in der Tuck-Variante),
+  sodass dein Körper waagerecht unter der Stange schwebt.
+
+
+  Ausführung:
+
+  1. Ziehe deine Brust kraftvoll zur Stange, indem du die Ellbogen beugst und nah am Körper nach hinten-unten führst.
+
+  2. Halte die Rumpfspannung aufrecht, sodass der Körper während des gesamten Zuges horizontal bleibt.
+
+  3. Senke dich langsam und kontrolliert wieder in die Ausgangsposition des Front Levers ab.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

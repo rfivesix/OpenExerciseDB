@@ -5,9 +5,27 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1274'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitting Calf Stretch (Dorsiflexion)
-description: This is a light stretch for the calf that is great for rehab.
+description: 'Starting position:
+
+  Sit upright on the floor or an exercise mat with one leg extended straight in front of you.
+
+
+  Execution:
+
+  1. Flex your ankle to pull your toes back toward your shin (dorsiflexion).
+
+  2. Reach forward with your hand or loop a towel around the ball of your foot to gently deepen the calf and Achilles stretch.
+
+  3. Hold the stretch comfortably for 20–30 seconds while breathing smoothly.
+
+  4. Slowly release and repeat on the other side.
+
+
+  Tips:
+
+  Keep your knee straight without forcing it. A gentle, effective stretch for ankle mobility and calf rehab.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

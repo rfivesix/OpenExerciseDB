@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1111'
 language: it
-status: upstream_unreviewed
-name: Distensione Panca Inclinata Bilanciere
+status: ai_reviewed
+name: Piegamenti inclinati con mani rialzate
 description: |-
-  Distensione Panca Inclinata con BilanciereDistensione Panca Inclinata con Bilanciere
+  Posizione di partenza:
+  Appoggia le mani su una panca piana, uno step o una superficie rialzata a larghezza spalle. Distendi le gambe all'indietro formando una linea retta dalla testa ai talloni, con il core contratto.
+
+  Esecuzione:
+  1. Piega i gomiti e abbassa il petto con controllo verso il bordo della panca o del rialzo.
+  2. Mantieni il corpo allineato evitando che i fianchi cadano o che la schiena si inarchi.
+  3. Spingi con forza attraverso i palmi delle mani tornando alla posizione iniziale a braccia tese.
+  4. Questa variante riduce l'intensità rispetto ai piegamenti a terra e pone l'enfasi sulla porzione sternocostale e inferiore del gran pettorale.
+search_terms:
+  - Distensione Panca Inclinata Bilanciere
+  - Push-up inclinati
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy

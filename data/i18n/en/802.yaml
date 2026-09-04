@@ -3,13 +3,23 @@
 # Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
 # Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
 # lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '802'
 language: en
-status: ai_raw
-name: Barbell Lunges Walking
+status: ai_reviewed
+name: Walking Barbell Lunge
+description: '- Rest a barbell across your upper back (trapezius) and stand tall with
+  feet hip-width apart.
+
+  - Take a controlled step forward with one leg and lower your hips until both knees
+  are bent at approximately 90 degrees.
+
+  - Drive through your front heel to stand up and immediately step forward with your
+  trailing leg into the next lunge.
+
+  - Continue walking forward in a smooth, alternating rhythm while keeping your torso
+  upright and core engaged.'
+search_terms:
+- Barbell Lunges Walking
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1053'
-description: |-
-  Hold a barbell and perform alternating walking lunges. Step forward into a lunge, then continue with the other leg.

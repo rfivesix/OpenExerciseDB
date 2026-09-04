@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '711'
 language: es
-status: upstream_unreviewed
-name: Flexión a pino contra la pared
-description: |-
-  Flexiones a pino contra ma pared (pecho cara a la pared). Progresión de las flexiones a pino. Ideal para ganar fuerza en deltoides
+status: ai_reviewed
+name: Pino contra la pared
+description: '- Coloca las manos en el suelo a la anchura de los hombros y sube las
+  piernas contra la pared hasta alcanzar la posición de pino (handstand).
+
+  - Mantén los brazos completamente estirados empujando el suelo con fuerza desde
+  los hombros.
+
+  - Aprieta el abdomen y los glúteos para sostener el cuerpo alineado y recto de forma
+  isométrica sin arquear la espalda.'
+search_terms:
+- Flexión a pino contra la pared
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash

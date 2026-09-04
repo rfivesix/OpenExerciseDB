@@ -5,10 +5,29 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1246'
 language: en
-status: upstream_unreviewed
-name: TRX roll out
-description: |-
-  Hold the handles in your hands, extend your arms and keep them parallel at chest height. The movement you need to perform is to open your arms in line with your shoulders while leaning your body forward. Try not to extend your shoulders beyond 90°, and keep your abdominal muscles and glutes contracted. Muscles involved: transverse abdominis, rectus abdominis and spinal erectors.
+status: ai_reviewed
+name: TRX Rollout
+description: 'Starting position:
+
+  Kneel or stand facing away from the anchor point, holding the TRX handles with arms extended forward at chest height.
+
+
+  Execution:
+
+  1. Keeping your core braced and your body in a straight rigid line, lean forward and allow your arms to extend straight
+  overhead.
+
+  2. Lower yourself forward under control to a point where you can still maintain tension without collapsing through your
+  lower back.
+
+  3. Engage your abs and lats to pull your arms down, returning your body to the starting position.
+
+
+  Tips:
+
+  Keep your glutes and abs tight throughout to protect your lower back and prevent hyperextension.'
+search_terms:
+- TRX roll out
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

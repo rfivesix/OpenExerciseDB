@@ -5,18 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1457'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Press Around
 description: |-
-  Set the cable pulley at chest height and attach a D-handle bar. Grab
-  the handle with a neutral grip and hold it next to your chest with your
-  elbow fully flexed and tight to your side. Turn away from the pulley so
-  your torso is at 45 degrees.
-  Hold the other side of the functional trainer with your corresponding hand. Assume a staggered stance for better balance.
-  While keeping your chest proud, extend your elbow at 45 degrees
-  across your midline while keeping your arm parallel to the floor. Stop
-  shy of lockout and contract your chest at the top of the range of motion
-  (ROM).
+  Starting Position:
+  • Set the cable pulley to chest height and attach a single D-handle.
+  • Grab the handle with a neutral grip and hold it at your chest with your elbow tight to your side.
+  • Turn roughly 45 degrees away from the pulley into a stable staggered stance.
+
+  Execution:
+  • Press the handle forward and slightly across your body's midline in an arc, following the natural angle of your pectoral fibers.
+  • Squeeze your chest firmly at peak contraction without rotating your hips or lower back.
+  • Slowly reverse the motion under control, allowing a deep stretch in the chest before the next rep.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

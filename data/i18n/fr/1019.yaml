@@ -5,12 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1019'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Planche latérale droite
 description: |-
-  Allongez-vous sur le côté, le coude inférieur à angle droit, le bras dépassant
-  Soulevez votre bassin du sol en soulevant votre épaule inférieure, en gardant l'avant-bras sur le sol&nbsp;; votre tête, votre bassin et vos pieds doivent être en ligne droite
-  Maintenez cette position
+  Position de départ :
+  Allongez-vous sur le côté droit, jambes tendues et pieds superposés ou décalés. Placez votre coude droit directement sous l'épaule droite, l'avant-bras posé à plat sur le sol.
+
+  Étapes :
+  1. Décollez le bassin du sol en contractant les abdominaux, les obliques et les fessiers, jusqu'à ce que votre corps forme une ligne droite de la tête aux pieds.
+  2. Gardez la nuque dans l'alignement de la colonne et le regard vers l'avant.
+  3. Maintenez cette position de gainage pendant la durée prévue sans laisser les hanches s'affaisser.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1925'

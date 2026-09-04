@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '672'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trunk Rotation With Cable
-description: Seated trunk rotation with cable
+description: '- Stand or sit perpendicular to the cable pulley set at chest height,
+  holding the handle with both hands.
+
+  - Keep your arms slightly bent and rotate your torso smoothly across your body,
+  engaging your obliques.
+
+  - Keep your hips and pelvis stable facing forward, then slowly return to the starting
+  position under control.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Robertcoop

@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '570'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Encogimiento de hombros
-description: |-
-  El encogimiento de hombros (normalmente llamado simplemente encogimiento) es un ejercicio de entrenamiento con pesas usado para desarrollar el trapecio superior. Quien levanta el peso se mantiene erguido, con las manos aproximadamente al ancho de los hombros, eleva los hombros lo más alto posible y luego los baja, sin flexionar los codos ni mover el cuerpo en absoluto. Es posible que no se tenga un rango de movimiento tan amplio como en un encogimiento normal realizado para flexibilidad activa. Suele considerarse buena técnica si la línea de los hombros queda horizontal en la posición elevada.
+description: El encogimiento de hombros (normalmente llamado simplemente encogimiento) es un ejercicio de entrenamiento con
+  pesas usado para desarrollar el trapecio superior. Quien levanta el peso se mantiene erguido, con las manos aproximadamente
+  al ancho de los hombros, eleva los hombros lo más alto posible y luego los baja, sin flexionar los codos ni mover el cuerpo
+  en absoluto. Es posible que no se tenga un rango de movimiento tan amplio como en un encogimiento normal realizado para
+  flexibilidad activa. Suele considerarse buena técnica si la línea de los hombros queda horizontal en la posición elevada.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

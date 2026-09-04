@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1380'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Band Pull-Aparts
 description: |-
-  Halte das Band mit ausgestreckten Armen auf Schulterhöhe vor dir.
-  Halte deine Ellbogen während der gesamten Bewegung leicht gebeugt, aber fixiert.
-  Ziehe das Band auseinander, indem du deine Arme spreizt, bis das Band deine Brust berührt oder ihr nahekommt.
-  Führe deine Arme langsam zurück in die Ausgangsposition und kontrolliere dabei die Spannung des Bandes.
+  Ausgangsposition:
+  Stelle dich aufrecht mit hüftbreitem Stand hin. Halte ein geschlossenes oder offenes Widerstandsband mit beiden Händen etwa schulterbreit vor dir auf Brusthöhe, die Handflächen zeigen nach unten oder zueinander, die Arme sind fast gestreckt.
+
+  Ausführung:
+  Ziehe das Band auseinander, indem du die Arme seitlich nach hinten führst und die Schulterblätter aktiv zusammenziehst, bis das Band deine Brust berührt. Halte die maximale Kontraktion im oberen Rücken und der hinteren Schulter für einen kurzen Moment und führe die Arme langsam und kontrolliert wieder nach vorne.
+
+  Hinweise:
+  Ziehe die Schultern nicht zu den Ohren nach oben. Halte den Rumpf angespannt und vermeide ein Ausweichen ins Hohlkreuz.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

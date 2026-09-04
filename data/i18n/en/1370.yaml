@@ -5,12 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1370'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Deadlift
 description: |-
-  Controlled execution
-  Don't use momentum
-  Slow execution
+  Starting position:
+  Stand with your feet hip-width apart holding a dumbbell in each hand in front of your thighs or at your sides. Keep your shoulders back, chest proud, and knees slightly soft.
+
+  Movement:
+  Hinge at your hips by pushing your glutes backward, allowing your torso to lean forward while keeping your spine straight and neutral. Lower the dumbbells close to your shins until you feel a strong stretch in your hamstrings. Drive through your heels and extend your hips to return to the standing position, squeezing your glutes at the top.
+
+  Notes:
+  Do not round your lower back. Keep the dumbbells close to your legs throughout the entire movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious

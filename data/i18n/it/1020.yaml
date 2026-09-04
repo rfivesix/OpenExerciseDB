@@ -5,13 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1020'
 language: it
-status: upstream_unreviewed
-name: Squat a pistola a destra
+status: ai_reviewed
+name: Pistol squat gamba destra
 description: |-
-  Stai in piedi su una gamba, con l'altra gamba dritta e leggermente in avanti.
-  Piegare un ginocchio lentamente, scendendo in uno squat e mantenendo la schiena e l'altra gamba dritta.
-  Alzati lentamente dallo squat, raddrizzando il ginocchio piegato e mantenendo l'altra gamba dritta.
-  Ripeti
+  Posizione di partenza:
+  Rimani in piedi in equilibrio sulla sola gamba destra, con la gamba sinistra distesa in avanti sollevata dal pavimento. Tendi le braccia in avanti per favorire l'equilibrio.
+
+  Esecuzione:
+  1. Piega lentamente il ginocchio e l'anca destra, scendendo in un profondo squat monopodalico.
+  2. Mantieni la schiena dritta, il petto alto e la gamba sinistra tesa senza toccare terra.
+  3. Raggiungi la massima profondità consentita dalla mobilità della caviglia e dell'anca.
+  4. Spingi con forza attraverso il tallone destro per risalire fino alla distensione completa della gamba.
+search_terms:
+  - Squat a pistola a destra
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1942'

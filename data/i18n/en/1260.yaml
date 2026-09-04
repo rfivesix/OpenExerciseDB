@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1260'
 language: en
-status: upstream_unreviewed
-name: TRX hammer curl
-description: |-
-  Place the grips as if they were a continuation of the straps. We will position our arms stretched forward and our body leaning back, completely straight. The biceps muscles will activate as you bend your elbows to bring your body towards the straps. The contraction movement will end with a slight outward movement of the hands, due to the grip we are using.
+status: ai_reviewed
+name: TRX Hammer Curl
+description: Place the grips as if they were a continuation of the straps. We will position our arms stretched forward and
+  our body leaning back, completely straight. The biceps muscles will activate as you bend your elbows to bring your body
+  towards the straps. The contraction movement will end with a slight outward movement of the hands, due to the grip we are
+  using.
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1096'
 language: en
-status: upstream_unreviewed
-name: Abduction while standing
+status: ai_reviewed
+name: Standing Hip Abduction
 description: |-
-  Training a stable stance, predominantly on one leg, is crucial for both sides. On the one hand, it prevents discomfort and, on the other, it establishes a stable foundation. The practitioner assumes the usual standing position and, with a stable upper body, attempts to repeatedly lift the unloaded leg, bend it at the hip and knee, and then lower it again. The movement is also repeated on the other side. The exercise trains the stability of the hip-surrounding muscles.
+  Starting position:
+  Stand tall with your weight balanced on your support leg. Place a hand on a wall or sturdy bar for balance. Keep your torso upright, pelvis level, and core engaged.
+
+  Execution:
+  1. Lift your working leg out to the side in a smooth, controlled motion without tilting your torso to the opposite side.
+  2. Raise the leg as high as comfortable while keeping your toes pointing forward and your hips squared.
+  3. Pause at the top and squeeze your gluteus medius and outer hip.
+  4. Slowly lower your leg back down under control without resting your weight between reps.
+  5. Complete all repetitions before switching legs.
+search_terms:
+  - Abduction while standing
 upstream:
   license: CC-BY-SA-4.0
   license_author: tregga

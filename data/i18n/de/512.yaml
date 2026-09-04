@@ -5,10 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '512'
 language: de
-status: upstream_unreviewed
-name: Rudern Sitzend, Eng
+status: ai_reviewed
+name: Rudern sitzend (enger Griff)
+search_terms:
+- Rudern Sitzend, Eng
+- Kabelrudern eng
 description: |-
-  beim Einatmen den Haltegriff zum Schwertfortsatz des Brustbeins führen. während der Rücken aufgerichtet und die Ellbogen so weit wie möglich nach hinten gezogen werden
+  Ausgangsposition: Setze dich an den Kabelzug mit engem Parallelgriff (V-Griff). Platziere die Füße stabil auf den Fußstützen, beuge die Knie leicht und halte den Rücken aufrecht.
+  Ausführung: Führe beim Einatmen den Griff zum unteren Brustbein bzw. Bauchnabel, während der Rücken aufrecht bleibt und die Ellenbogen eng am Körper nach hinten gezogen werden. Ziehe die Schulterblätter zusammen.
+  Rückkehr: Führe das Gewicht langsam und kontrolliert nach vorne zurück, ohne den oberen Rücken rund werden zu lassen oder mit dem Oberkörper nach vorne zu kippen.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

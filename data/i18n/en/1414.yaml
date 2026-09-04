@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1414'
 language: en
-status: upstream_unreviewed
-name: Hack Squats
+status: ai_reviewed
+name: Machine Hack Squat
 description: |-
-  Hack squats target the lower body and are performed on a hack squat machine or with a barbell. For the machine variation, position yourself on the platform with your shoulders under the pads and feet slightly forward. Push through your heels to lift the weight, then bend your knees to lower the platform in a controlled motion until your thighs are parallel to the ground. Push back up to the starting position. For the barbell variation, hold the bar behind your legs with your arms extended and perform a squat-like motion.
+  Starting position:
+  Position yourself in the hack squat machine with your back and head flat against the backrest and your shoulders tucked under the shoulder pads. Place your feet shoulder-width apart in the center or upper half of the footplate. Disengage the safety handles.
+
+  Movement:
+  Lower the sled under control by bending your knees until your thighs are at least parallel to the footplate (or deeper according to your mobility). Press forcefully through your midfoot and heels to drive the sled back up to the starting position without violently locking out your knees.
+
+  Notes:
+  Keep your lower back firmly supported against the backrest throughout the entire movement. Do not allow your heels to rise off the footplate.
 search_terms:
-  - Machine Squat
+  - Hack Squats
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com

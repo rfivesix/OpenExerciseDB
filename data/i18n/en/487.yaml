@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '487'
 language: en
-status: upstream_unreviewed
-name: Rear Delt Raises
+status: ai_reviewed
+name: Seated Dumbbell Rear Delt Raise
+search_terms:
+  - Rear Delt Raises
+  - Seated Reverse Fly
 description: |-
-  Seated on a bench with the dumbbells on the floor bend over at 45 Degrees and then slowly raise each dumbbell to shoulder height and hold for a couple seconds before lowering to the starting position.
+  Sit on the end of a flat bench with your feet flat on the floor and a pair of dumbbells. Hinge forward at your hips, resting your torso close to your thighs. With a slight bend in your elbows, raise the dumbbells out to the sides until your upper arms are parallel to the floor, squeezing your rear deltoids. Lower the weights slowly under control.
 upstream:
   license: CC-BY-SA-3.0
   license_author: YYCfit

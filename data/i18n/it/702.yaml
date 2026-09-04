@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '702'
 language: it
-status: upstream_unreviewed
-name: Sollevamento del polpaccio gamba sinistra
-description: |-
-  Stare in piedi sul pavimento o sul bordo di un gradino per aumentare il raggio di movimento. Sollevare un piede, appoggiando la parte superiore sul polpaccio.
-  Sollevare i talloni fino a stare in piedi sulle punte dei piedi.
-  Resta in questa posizione per tre secondi, poi abbassa il piede senza toccare il suolo con il tallone.
+status: ai_reviewed
+name: Calf raise a una gamba
+description: '- Posiziona l''avampiede di una gamba sul bordo di uno scalino o di
+  un rialzo solido, mantenendo l''altra gamba sollevata.
+
+  - Mantieni una mano su una parete o su un supporto stabile per garantire l''equilibrio.
+
+  - Abbassa lentamente il tallone verso il basso fino ad avvertire un completo allungamento
+  del polpaccio.
+
+  - Spingi con forza sulla punta del piede sollevando il tallone il più in alto possibile.
+
+  - Mantieni la massima contrazione per un secondo, quindi scendi in modo controllato
+  e ripeti prima di cambiare gamba.'
+search_terms:
+- Sollevamento del polpaccio gamba sinistra
 upstream:
   license: CC-BY-SA-4.0
   license_author: McMarcel13

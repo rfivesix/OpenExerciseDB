@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '508'
 language: es
-status: upstream_unreviewed
-name: Remo maquina abierto
-description: Remo en maquina o maquina de polea con barra ancha y agarre supino
+status: ai_reviewed
+name: Remo con barra
+search_terms:
+- Remo maquina abierto
+description: |-
+  Posición inicial: De pie con los pies a la anchura de las caderas y las rodillas ligeramente flexionadas. Inclina el torso hacia adelante manteniendo la espalda recta y neutra, sujetando la barra con agarre en pronación.
+  Ejecución: Tira de la barra hacia la parte inferior del abdomen o el ombligo, llevando los codos hacia atrás y apretando las escápulas.
+  Retorno: Baja la barra de forma controlada hasta la posición inicial con los brazos extendidos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

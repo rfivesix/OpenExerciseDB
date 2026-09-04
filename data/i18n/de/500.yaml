@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '500'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Plank
-description: Umgekehrte Plank mit Bauch nach oben.
+description: |-
+  Setze dich auf den Boden und strecke die Beine nach vorne aus. Platziere die Hände hinter deinen Hüften mit den Fingern nach vorne zeigend auf dem Boden.
+  Drücke dich über Handflächen und Fersen nach oben, sodass der Körper von den Schultern bis zu den Fersen eine gerade Linie bildet. Halte die Brust stolz, spanne Gesäß und Rumpf fest an und halte diese Position statisch.
 upstream:
   license: CC-BY-SA-4.0
   license_author: spacetowaste

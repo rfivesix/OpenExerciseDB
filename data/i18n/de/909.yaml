@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
+#
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '909'
 language: de
-status: ai_raw
-translated_from: en
+status: ai_reviewed
 name: Reverse Nordic Curl
-description: Natürliches Beinstrecken ist eine Alternative zur Beinstreckmaschine ohne Geräte.
+description: '- Knie dich auf eine weiche Matte, strecke die Hüfte vollständig durch
+  und halte den Körper von den Knien bis zum Kopf in einer geraden Linie.
+
+  - Lehne deinen Oberkörper langsam und kontrolliert nach hinten, indem du ausschließlich
+  in den Kniegelenken nachgibst.
+
+  - Halte die Oberschenkelmuskeln (insbesondere den geraden Oberschenkelmuskel) unter
+  maximaler Spannung, um die Abwärtsbewegung zu bremsen.
+
+  - Ziehe dich aus der Kraft des Quadrizeps wieder nach vorne in die aufrechte Kniestand-Position
+  zurück, ohne in der Hüfte einzuknicken.'
+translated_from: en
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly

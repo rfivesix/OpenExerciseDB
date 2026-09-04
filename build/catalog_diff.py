@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Vergleicht zwei Katalog-Datenbanken und erkennt gefaehrliche Aenderungen.
 
-Uebernommen aus `train-libre` und auf das Schema aus SCHEMA.md 8 erweitert. Die
+Aus einer frueheren Pipeline uebernommen und auf das Schema aus SCHEMA.md 8 erweitert. Die
 Logik fuer die v1-Spalten ist unveraendert — sie hat ihren Zweck erfuellt und
 ihre Tests laufen weiter. Dazugekommen sind:
 
@@ -92,7 +92,7 @@ WGER_FAIL_ON_REMOVED_THRESHOLD fuehrt."""
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Compare two generated train_libre_training.db catalogs."
+        description="Compare two generated OpenExerciseDB catalogs."
     )
     parser.add_argument("--old", required=True, help="Path to old database file")
     parser.add_argument("--new", required=True, help="Path to new database file")

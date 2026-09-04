@@ -5,44 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1217'
 language: en
-status: upstream_unreviewed
-name: Finger Pushup
+status: ai_reviewed
+name: Finger Push-Up
 description: |-
-  Hand Positioning:
+  Starting Position:
+  • Start in a plank position with your hands directly beneath your shoulders.
+  • Spread your fingers wide apart and place only your fingertips and thumbs firmly on the ground, lifting your palms off the floor.
+  • Maintain a rigid straight line from your head to your heels with your core firmly braced.
 
-
-  Start in a plank position with your hands directly beneath your shoulders.
-  Spread your fingers wide apart, placing them firmly on the ground.
-
-
-  Finger Placement:
-
-
-  Gradually lift your palms off the ground, shifting the weight onto your fingers.
-  Focus on distributing the load evenly across your fingertips and thumbs.
-
-
-  Body Alignment:
-
-
-  Maintain a straight line from head to heels to engage your core.
-  Keep your body in a controlled and stable position throughout the exercise.
-
-
-  Lowering Phase:
-
-
-  Slowly bend your elbows, lowering your chest towards the ground.
-  Ensure controlled movement, maintaining stability on your fingertips.
-
-
-  Pushing Up:
-
-
-  Press through your fingertips to straighten your arms, returning to the starting position.
-  Emphasize the engagement of your fingers and thumbs throughout the push-up.
+  Execution:
+  • Slowly bend your elbows to lower your chest toward the floor in a controlled motion.
+  • Maintain stability and solid arching tension in your fingertips without letting your finger joints collapse.
+  • Press through your fingertips and thumbs to straighten your arms, returning to the starting position.
 search_terms:
-  - Flexão de dedo
+  - Finger Pushup
+  - Fingertip push-up
+  - Fingertip push-ups
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2183'

@@ -5,17 +5,28 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1270'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Low Pulley Cable Fly
-description: |-
-  Adjust the cable machine: Set the pulley to the lowest setting possible.
-  Choose your handles: You can use neutral grip handles (palms facing each other) or straight handles depending on your preference. Neutral grip might be easier on your wrists.
-  Stand with proper form: Stand with your feet shoulder-width apart, knees slightly bent, and core engaged. Maintain a slight arch in your lower back throughout the exercise.
-  Grip the handles: Grab the handles with your chosen grip and step back a small step or two until there's slight tension on the cables.
-  Initiate the movement: Keep your elbows slightly bent throughout the exercise. Imagine you're giving someone a big hug. Squeeze your chest muscles as you bring your hands together in front of your chest.
+description: 'Adjust the cable machine: Set the pulley to the lowest setting possible.
+
+  Choose your handles: You can use neutral grip handles (palms facing each other) or straight handles depending on your preference.
+  Neutral grip might be easier on your wrists.
+
+  Stand with proper form: Stand with your feet shoulder-width apart, knees slightly bent, and core engaged. Maintain a slight
+  arch in your lower back throughout the exercise.
+
+  Grip the handles: Grab the handles with your chosen grip and step back a small step or two until there''s slight tension
+  on the cables.
+
+  Initiate the movement: Keep your elbows slightly bent throughout the exercise. Imagine you''re giving someone a big hug.
+  Squeeze your chest muscles as you bring your hands together in front of your chest.
+
   Control the movement: Focus on squeezing your chest muscles rather than using your arms to pull the handles.
+
   Peak contraction: Briefly hold the squeeze at the top of the movement with your hands together at chest level.
-  Return slowly: Slowly release the tension and return the handles back down to the starting position with your arms slightly extended but not locked out.
+
+  Return slowly: Slowly release the tension and return the handles back down to the starting position with your arms slightly
+  extended but not locked out.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO

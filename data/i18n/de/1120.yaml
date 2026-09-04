@@ -1,11 +1,21 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1120'
 language: de
-status: ai_raw
-translated_from: en
-name: Maschinenrudern enger Untergriff
-description: Rudern an Maschine oder Kabelzug mit engem Untergriff
+status: ai_reviewed
+name: Maschinenrudern im engen Untergriff
+description: |-
+  Ausgangsposition:
+  Stelle den Sitz der Rudermaschine so ein, dass der Oberkörper stabil am Brustpolster anliegt. Greife die Griffe oder Stange mit engem Untergriff (Supination, Handflächen zeigen nach oben).
+
+  Ausführung:
+  1. Ziehe die Griffe kontrolliert nach hinten in Richtung Unterbauch, wobei die Ellenbogen eng am Körper geführt werden.
+  2. Der Untergriff betont gezielt die unteren Fasern des Latissimus und involviert die Armbeuger (Bizeps) intensiver.
+  3. Ziehe die Schulterblätter am Endpunkt kraftvoll zusammen und halte kurz die Kontraktion.
+  4. Führe das Gewicht kontrolliert und ohne Schwung wieder nach vorne in die Ausgangsposition zurück.
+search_terms:
+  - Maschinenrudern enger Untergriff
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2089'
+translated_from: en

@@ -5,10 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '607'
 language: es
-status: upstream_unreviewed
-name: Abdominales splinter
-description: |-
-  Túmbate boca arriba con las piernas rectas y los brazos a los lados, manteniendo los codos flexionados a 90 grados. Al incorporarte, gira el torso hacia la derecha y lleva la rodilla izquierda hacia el codo derecho mientras balanceas el brazo izquierdo hacia atrás. Baja el cuerpo a la posición inicial y repite hacia la derecha. Eso es 1 repetición.
+status: ai_reviewed
+name: Sit-up de velocista (Sprinter sit-up)
+search_terms:
+- Abdominales splinter
+description: Túmbate boca arriba con las piernas rectas y los brazos a los lados, manteniendo los codos flexionados a 90 grados.
+  Al incorporarte, gira el torso hacia la derecha y lleva la rodilla izquierda hacia el codo derecho mientras balanceas el
+  brazo izquierdo hacia atrás. Baja el cuerpo a la posición inicial y repite hacia la derecha. Eso es 1 repetición.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

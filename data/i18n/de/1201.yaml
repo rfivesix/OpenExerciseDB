@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1201'
 language: de
-status: upstream_unreviewed
-name: Dragon Squat
+status: ai_reviewed
+name: Drachen-Kniebeuge (Dragon Squat)
 description: |-
-  Beginne im Stand mit hüftbreit aufgestellten Füßen. Kreuze deinen rechten Fuß hinter dir zur linken hinteren Ecke des Raumes, während du beide Knie beugst. Kehre zurück und wiederhole die Bewegung im Wechsel der Seiten. Halte Hüfte und Schultern nach vorne gerichtet, während du die Füße kreuzt und die Knie beugst.
+  Ausgangsposition:
+  • Stelle dich aufrecht hin, die Füße stehen etwa hüftbreit auseinander.
+  • Halte die Brust aufgerichtet und den Rumpf angespannt.
+
+  Ausführung:
+  • Führe ein Bein weit hinter und schräg über das Standbein zur gegenüberliegenden Seite (gekreuzter Ausfallschritt/Curtsy Squat).
+  • Beuge beide Knie und senke die Hüfte tief ab, während Schultern und Becken möglichst gerade nach vorne ausgerichtet bleiben.
+  • Drücke dich über die Ferse des vorderen Standbeins kraftvoll wieder nach oben in die Ausgangsposition zurück.
+  • Führe die Wiederholungen abwechselnd oder seitenweise aus.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3735'
+search_terms:
+  - Dragon Squat
+  - Drachen-Squat

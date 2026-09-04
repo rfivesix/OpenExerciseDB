@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '598'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Enges Bankdrücken an der Multipresse
-description: |-
-  Führe an der Multipresse ein normales Bankdrücken aus, aber halte deine Hände etwa schulterbreit an der Stange und halte die Ellbogen nah am Körper.
+description: Führe an der Multipresse ein normales Bankdrücken aus, aber halte deine Hände etwa schulterbreit an der Stange
+  und halte die Ellbogen nah am Körper.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,20 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1015'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cercles du cou dans le sens horaire
 description: |-
   Position de départ :
-  Commencez assis ou debout. Laissez tomber votre tête vers le bas en amenant le menton vers la poitrine, mais sans forcer.
+  Asseyez-vous ou tenez-vous debout avec le dos bien droit et les épaules relâchées vers le bas. Abaissez doucement le menton vers la poitrine.
+
   Étapes :
-  Dans un mouvement lent et fluide, la tête détendue et sans pousser dans aucune direction :
-
-  inclinez la tête vers votre épaule droite.
-  puis ramenez la tête en arrière, le visage vers le haut.
-  puis inclinez la tête vers votre épaule gauche.
-  et revenez vers la position de départ.
-
-  Continuez à répéter ce mouvement dans un même geste lent et fluide.
+  1. Décrivez un cercle lent et fluide dans le sens des aiguilles d'une montre : inclinez la tête vers l'épaule droite, passez doucement vers l'arrière, inclinez vers l'épaule gauche et revenez au centre.
+  2. Ne forcez pas sur la nuque lors du passage vers l'arrière et gardez une respiration régulière.
+  3. Répétez le mouvement pour le nombre de répétitions souhaité.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

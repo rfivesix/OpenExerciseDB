@@ -1,11 +1,20 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1372'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Trizeps-Dips (unterstützt)
+name: Unterstützte Trizeps-Dips (Maschine)
 description: |-
-  Unterstützte Trizeps-Dips sind eine Übung im Fitnessstudio, die den Trizeps trainiert und auch die Brust beansprucht.
+  Ausgangsposition:
+  Stelle das Gegengewicht an der Dip-Maschine passend ein (mehr Gegengewicht bedeutet mehr Unterstützung). Greife die parallelen Griffe, steige oder knie dich auf die Unterstützungsplattform und drücke die Arme fast ganz durch. Halte den Oberkörper aufrecht.
+
+  Ausführung:
+  Beuge die Ellbogen kontrolliert nach hinten und senke deinen Körper ab, bis deine Oberarme etwa parallel zum Boden stehen (Ellbogenwinkel ca. 90 Grad). Drücke dich aus der Kraft des Trizeps kraftvoll wieder nach oben, bis die Arme fast vollständig gestreckt sind.
+
+  Hinweise:
+  Halte die Ellbogen nah am Körper und lass sie nicht nach außen wandern, um den Fokus auf dem Trizeps zu halten. Vermeide ein Überstrecken der Ellbogengelenke am obersten Punkt.
+search_terms:
+  - Trizeps-Dips (unterstützt)
 upstream:
   license: CC-BY-SA-4.0
   license_author: matpn

@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '803'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensión de Tríceps a una Mano en Polea
-description: |-
-  Este ejercicio es ideal para aislar y concentrarse en cada cabeza del tríceps de forma individual.
-  Descripción:
-  Coloca la polea en una posición alta y utiliza un agarre individual (maneral). De pie, mantén tu codo pegado al costado del cuerpo; este debe actuar como una bisagra y permanecer fijo durante todo el movimiento.
-  Extiende el brazo completamente hacia abajo hasta sentir una fuerte contracción en el tríceps. Haz una breve pausa y regresa de forma lenta y controlada a la posición inicial.
+description: '- De pie frente a la polea alta, sujeta un maneral individual con una
+  mano y mantén el codo pegado al costado.
+
+  - Extiende el codo empujando el agarre hacia abajo hasta contraer al máximo el tríceps.
+
+  - Mantén la contracción un instante y regresa de forma lenta y controlada a la posición
+  inicial sin desplazar el codo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '801'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Piegamenti con manubri
-description: Normali flessioni sui manubri, questo porta un'ulteriore gamma di movimento
+description: '- Posiziona due manubri stabili sul pavimento alla larghezza delle spalle
+  e afferra le impugnature con presa neutra.
+
+  - Assumi una posizione di plank con il core contratto e il corpo perfettamente allineato.
+
+  - Abbassa il petto tra i manubri per sfruttare il deficit e ottenere un maggiore
+  allungamento del gran pettorale.
+
+  - Spingi con forza attraverso il petto e le braccia per tornare alla posizione iniziale.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1251'

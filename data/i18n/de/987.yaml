@@ -1,23 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '987'
 language: de
 status: ai_reviewed
-name: Seitlicher Ausfallschritt rechts
-description: |-
-  Ausgangsposition:
+name: Seitlicher Ausfallschritt (rechts)
+description: 'Ausgangsposition: Stehe in einer weiten Grätschstellung mit geradem
+  Oberkörper, die Fußspitzen zeigen leicht nach außen.
 
-  Stehe aufrecht und mache einen weiten seitlichen Schritt, etwas mehr als schulterbreit.
+  Ausführung: Verlagere dein Gewicht nach rechts, beuge das rechte Knie und schiebe
+  die Hüfte nach hinten-unten. Das linke Bein bleibt gestreckt und der linke Fuß behält
+  Bodenkontakt.
 
-  Schritte:
+  Rückkehr: Drücke dich über die rechte Ferse kraftvoll zurück in die Ausgangsstellung.
 
-  Beuge das rechte Knie, bis der Oberschenkel parallel zum Boden ist. Das gebeugte Knie muss sich in einer Linie mit dem Fuß befinden.
-  Drücke dich zurück in die Ausgangsposition.
-  Wiederhole die Übung.
+  Hinweis: Halte die Brust aufgerichtet und achte darauf, dass das rechte Knie in
+  Richtung der Zehenspitzen zeigt.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1587'
+search_terms:
+- Seitlicher Ausfallschritt rechts
+- Side Lunge rechts

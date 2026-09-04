@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1188'
 language: en
-status: upstream_unreviewed
-name: Side bend
+status: ai_reviewed
+name: Dumbbell Side Bend
 description: |-
-  With a weight in one hand, extend that arm down and bend the other arm, resting your hand on your head. Now move the hand holding the weight by rotating your torso up and down.
+  Starting Position:
+  • Stand upright with your feet hip-width apart, holding a dumbbell in one hand at your side.
+  • Place your other hand lightly behind your head or resting on your opposite hip.
+  • Keep your chest open and your core braced.
+
+  Execution:
+  • Slowly bend your torso laterally strictly in the frontal plane toward the side holding the dumbbell. Do not rotate or twist your torso forward or backward!
+  • Use the oblique muscles on the opposite side to pull your torso back up to the vertical position.
+  • Complete the prescribed repetitions with control, then switch sides.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2144'
+search_terms:
+  - Side bend

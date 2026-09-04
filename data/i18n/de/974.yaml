@@ -1,15 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '974'
 language: de
 status: ai_reviewed
 name: Beidhändiger Kettlebell-Curl
-description: |-
-  Stelle dich aufrecht hin und greife die Kettlebell mit beiden Händen. Führe die Ellbogenbeugung aus, beginnend aus der vollständig gestreckten Position, bis deine Hand Schulterhöhe erreicht. Stelle die Beine für mehr Stabilität etwas auseinander und versuche, die Übung korrekt auszuführen, indem du nicht mit dem Rücken oder dem Körper allgemein schwingst. Ändere das Gewicht der Kettlebell, um die Schwierigkeit anzupassen.
+description: 'Ausgangsposition: Stehe aufrecht mit schulterbreitem Stand. Greife die
+  Kettlebell an den Hörnern (seitlichen Griffstücken) mit beiden Händen vor den Oberschenkeln
+  bei gestreckten Armen.
+
+  Ausführung: Halte die Ellbogen fest an den Körperseiten und beuge die Arme, um die
+  Kettlebell kontrolliert in Richtung Brust anzuheben. Spanne den Bizeps am höchsten
+  Punkt an.
+
+  Rückkehr: Senke die Kettlebell langsam und kontrolliert wieder in die Ausgangsposition
+  ab.
+
+  Hinweis: Hole keinen Schwung aus dem Rücken oder der Hüfte; die Bewegung erfolgt
+  rein aus dem Ellbogengelenk.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

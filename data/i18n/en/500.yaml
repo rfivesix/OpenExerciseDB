@@ -5,9 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '500'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Plank
-description: Plank with stomach towards ceiling
+description: |-
+  Sit on the floor with your legs extended straight out in front of you. Place your hands on the floor behind your hips, fingers pointing forward toward your toes.
+  Press down through your palms and heels to lift your hips off the ground until your body forms a straight line from head to heels. Squeeze your glutes, hamstrings, and upper back, keeping your chest lifted and hips high. Hold this position statically.
 upstream:
   license: CC-BY-SA-4.0
   license_author: spacetowaste

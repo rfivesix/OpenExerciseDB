@@ -5,10 +5,28 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1242'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plantarflexion mit Widerstandsband
-description: |-
-  Die Plantarflexion mit Band ist eine gute Möglichkeit, die Lücke zwischen dem Bewegungsumfang der Plantarflexion und den anstrengenderen Wadenheben unter Belastung zu überbrücken. Das kann helfen, die Wadenmuskulatur zu stärken, die Achillessehne zu belasten und den Bewegungsumfang der Plantarflexion zu verbessern.
+description: 'Ausgangsposition:
+
+  Setze dich mit aufrechtem Oberkörper und ausgestreckten Beinen auf den Boden oder eine Matte. Lege die Mitte eines Widerstandsbandes
+  um den Vorfuß bzw. die Fußballen und halte die Enden des Bandes mit beiden Händen fest auf Zug.
+
+
+  Ausführung:
+
+  1. Drücke die Fußspitze gegen den Widerstand des Bandes kontrolliert nach vorne unten (Plantarflexion), sodass sich die
+  Wadenmuskulatur maximal zusammenzieht.
+
+  2. Halte die Kontraktion am vordersten Punkt für einen kurzen Moment.
+
+  3. Führe den Fuß langsam und kontrolliert gegen den Zug des Bandes wieder zurück in die Ausgangsposition.
+
+
+  Hinweise:
+
+  Halte das Bein gerade und bewege ausschließlich das Sprunggelenk. Ideal zur Kräftigung von Wadenmuskulatur und Achillessehne
+  sowie zur Rehabilitation.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1096'
 language: es
-status: upstream_unreviewed
-name: Abducción de pie
+status: ai_reviewed
+name: Abducción de cadera de pie
 description: |-
-  Entrenar una postura estable, predominantemente sobre una pierna, es fundamental para ambos lados. Por un lado, previene molestias y, por otro, establece una base estable. El practicante adopta la posición habitual de pie y, con el tronco estable, intenta levantar repetidamente la pierna sin carga, flexionarla por la cadera y la rodilla, y luego bajarla de nuevo. El movimiento se repite también en el otro lado. El ejercicio entrena la estabilidad de la musculatura que rodea la cadera.
+  Posición inicial:
+  Ponte de pie apoyando una mano en una pared o respaldo para mantener el equilibrio. Apoya firmemente el peso sobre la pierna de apoyo, manteniendo la postura erguida y la pelvis nivelada.
+
+  Ejecución:
+  1. Eleva la pierna libre lateralmente hacia afuera de forma lenta y controlada, sin inclinar el torso hacia el lado contrario.
+  2. Mantén la punta del pie apuntando hacia adelante para incidir en el glúteo medio.
+  3. Sostén la contracción durante un segundo en la parte alta.
+  4. Desciende la pierna con control sin llegar a apoyar todo el peso en el suelo entre repeticiones.
+  5. Completa la serie y cambia de pierna.
+search_terms:
+  - Abducción de pie
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

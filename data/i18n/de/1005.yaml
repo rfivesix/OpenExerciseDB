@@ -1,20 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1005'
 language: de
 status: ai_reviewed
-name: Rückwärtsdrehung der Schulter
-description: |-
-  Ausgangsposition:
-  Sitze oder stehe mit geradem Rücken.
-  Schritte:
+name: Schulterkreisen rückwärts
+description: 'Ausgangsposition: Sitze oder stehe aufrecht mit geradem Rücken und entspannten
+  Schultern. Lege deine Fingerspitzen locker auf die jeweilige Schulter.
 
-  Lege deine Hände auf deine Schultern.
-  Drehe wiederholt beide Schultergelenke in einer kreisförmigen Bewegung mit mäßigem Tempo.
+  Ausführung: Ziehe mit den Ellbogen gleichmäßige, weite Kreise nach hinten oben und
+  öffne dabei den Brustkorb, während die Schulterblätter zusammengeführt werden.
+
+  Hinweis: Halte die Bewegung flüssig und entspannt ohne Verkrampfung im Nacken.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1825'
+search_terms:
+- Rückwärtsdrehung der Schulter
+- Schulterrotation rückwärts

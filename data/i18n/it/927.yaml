@@ -1,13 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '927'
 language: it
-status: upstream_unreviewed
-name: Croci in sospensione
-description: Esercizio di sospensione con trx per l'allenamento del torace
+status: ai_reviewed
+name: Croci in sospensione (TRX)
+description: 'Posizione di partenza: Afferra le maniglie del TRX e inclinati in avanti
+  con il corpo disteso e il core contratto, le braccia tese davanti al petto.
+
+  Esecuzione: Mantenendo i gomiti leggermente flessi, apri le braccia verso l''esterno
+  in un arco ampio fino a sentire un profondo allungamento sui pettorali.
+
+  Ritorno: Contrai i pettorali per riportare le impugnature davanti al torace, controllando
+  il movimento.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1964'
+search_terms:
+- Croci in sospensione

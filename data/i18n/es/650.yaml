@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '650'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Thruster
-description: |-
-  Comienza realizando una sentadilla frontal
-  En la posición superior, empuja la barra por encima de la cabeza (similar a un press)
-  Baja la barra de nuevo hasta los hombros
+description: '- Sostén una barra en la posición de rack frontal sobre los hombros,
+  de pie con los pies a la anchura de los hombros.
+
+  - Desciende en una sentadilla frontal profunda hasta que los muslos queden al menos
+  paralelos al suelo.
+
+  - Empuja explosivamente hacia arriba aprovechando el impulso de las piernas para
+  empujar la barra sobre la cabeza en un movimiento fluido.
+
+  - Baja la barra con control hacia los hombros y enlaza suavemente con la siguiente
+  sentadilla.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

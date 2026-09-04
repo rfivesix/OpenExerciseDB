@@ -5,11 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: tr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Duvara yaslanarak oturma
-description: |-
-  Öne bakacak şekilde duvara yaslanın, ayaklar yere sıkıca oturtulmuş, omuz genişliğinde açılmış ve duvardan yaklaşık 60 cm uzakta olsun
-  Bacaklar dik açı yapana kadar sırtınızı bastırarak duvardan aşağı kaydırın. Dizler doğrudan ayak bileklerinin üzerinde olmalıdırKuadriseps ağrısı normaldir, dizde veya diz kapağında ağrı hissederseniz durun
+description: '- Sırtınızı düz bir şekilde duvara yaslayın, ayaklarınızı omuz genişliğinde
+  açın ve duvardan yaklaşık 50-60 cm öne yerleştirin.
+
+  - Sırtınızı duvardan ayırmadan uyluklarınız yere paralel olana ve dizleriniz 90
+  derece bükülene kadar aşağı kayın.
+
+  - Dizlerin ayak bileklerinin tam üzerinde olduğundan emin olun ve belirlenen süre
+  boyunca bu pozisyonu koruyun.'
 upstream:
   license: CC0-1.0
   license_author: Blablabla

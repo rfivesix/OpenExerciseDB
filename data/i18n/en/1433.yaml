@@ -5,8 +5,8 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1433'
 language: en
-status: upstream_unreviewed
-name: Reverse Wood Chops
+status: ai_reviewed
+name: Band Reverse Wood Chops
 description: |-
   Attach a looping resistance band to a rack below knee height
   Grip the other end of the band like holding a baseball bat with both hands
@@ -14,6 +14,8 @@ description: |-
   Start with your hands at the side of your hips, knees bent
   Rotate your hips while moving your hands towards over the top of your opposite shoulder
   Imagine the motion as striking a baseball with a bat
+search_terms:
+  - Reverse Wood Chops
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

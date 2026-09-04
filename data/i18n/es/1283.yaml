@@ -5,14 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1283'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo con mancuernas en banco inclinado con apoyo en el pecho
-description: |-
-  Coloca un banco ajustable en un ángulo de 45 grados.
+description: 'Coloca un banco ajustable en un ángulo de 45 grados.
+
   Túmbate boca abajo con la cabeza colgando justo por encima del borde del banco.
+
   Agarra una mancuerna en cada mano y colócate con una buena postura: el core y los dorsales activados y los hombros neutros.
+
   Rema las mancuernas hacia la parte superior del abdomen y aprieta la espalda en la parte alta de la repetición.
-  Por último, baja las mancuernas de nuevo a la posición inicial y repite hasta completar todas las repeticiones.
+
+  Por último, baja las mancuernas de nuevo a la posición inicial y repite hasta completar todas las repeticiones.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

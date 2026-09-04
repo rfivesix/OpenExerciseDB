@@ -5,13 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1457'
 language: fr
-status: upstream_unreviewed
-name: Press around à la poulie
+status: ai_reviewed
+name: Développé convergent à la poulie (Press around)
 description: |-
-  Réglez la poulie à hauteur de la poitrine et fixez-y une poignée en D. Saisissez la poignée en prise neutre et tenez-la près de la poitrine, le coude entièrement fléchi et collé au côté. Tournez-vous à l'opposé de la poulie de sorte que votre tronc soit à 45 degrés.
-  Tenez l'autre côté de la machine à câbles fonctionnelle avec la main correspondante. Adoptez une position de pieds décalée pour un meilleur équilibre.
-  Tout en gardant la poitrine bombée, tendez le coude à 45 degrés en travers de votre axe médian tout en gardant le bras parallèle au sol. Arrêtez-vous juste avant le verrouillage et contractez les pectoraux au sommet de l'amplitude de mouvement.
+  Position de départ :
+  • Réglez la poulie à hauteur de poitrine et attachez une poignée simple en D.
+  • Saisissez la poignée en prise neutre près de la poitrine et orientez le buste à environ 45 degrés par rapport à la poulie en fente stable.
+
+  Exécution :
+  • Développez la poignée vers l'avant en travers de la ligne médiane du buste en décrivant une trajectoire convergente.
+  • Contractez vigoureusement le grand pectoral au sommet de la course.
+  • Revenez lentement sous contrôle en laissant le muscle pectoral s'étirer complètement avant la répétition suivante.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4640'
+search_terms:
+  - Press around à la poulie

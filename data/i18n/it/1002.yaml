@@ -1,25 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1002'
 language: it
-status: upstream_unreviewed
-name: Posa del bambino
-description: |-
-  Posizione di partenza:
-  Iniziare a quattro zampe, con le ginocchia, le dita dei piedi e le mani che toccano terra. I tuoi due alluci dovrebbero toccarsi.
-  Passi:
+status: ai_reviewed
+name: Posizione del bambino (Balasana)
+description: 'Posizione di partenza: Inginocchiati sul tappetino con le ginocchia
+  leggermente aperte e gli alluci a contatto. Siediti sui talloni.
 
-  Spostare le ginocchia in modo che siano alla larghezza delle anche.
-  Espirando, sposta il bacino indietro per sederti sui talloni. Le mani devono ancora toccare il suolo.
-  Rilassate la parte superiore del corpo, abbassando la fronte verso il pavimento e lasciando che le mani si muovano in avanti in modo naturale.
-  Rimanete in questa posa.
-
-  Suggerimenti:
-
-  Per lasciare la posa, porta le braccia indietro sotto le spalle e sposta la parte superiore del corpo in una posizione seduta.
+  Esecuzione: Fletti il busto in avanti appoggiando la fronte a terra e distendi le
+  braccia in avanti sul pavimento. Respira profondamente rilassando la schiena e le
+  spalle.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1793'
+search_terms:
+- Posa del bambino

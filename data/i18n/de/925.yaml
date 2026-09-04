@@ -1,26 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '925'
 language: de
 status: ai_reviewed
 name: Schrägbankdrücken an der Multipresse
-description: |-
-  * Ausführung * Startposition:
+description: 'Ausgangsposition: Lege dich auf eine leicht schräg eingestellte Bank
+  (ca. 15–30°) unter der Multipresse. Greife die Hantelstange etwas mehr als schulterbreit
+  im Obergriff. Entriegele die Stange und halte sie mit gestreckten Armen über der
+  oberen Brust.
 
-  Hebe die Stange aus der Halterung und halte sie über deiner oberen Brust mit vollständig gestreckten Armen.
-  Halte deine Schulterblätter zurückgezogen und in die Bank gedrückt.
-  Absenkphase (exzentrisch):
-  Führe die Stange langsam bis knapp unter dein Schlüsselbein oder deine obere Brust.
-  Bleibe kontrolliert — lass die Stange nicht abprallen.
-  Drückphase (konzentrisch):
-  Drücke die Stange in einer geraden Linie nach oben, bis deine Arme vollständig gestreckt sind.
-  Konzentriere dich darauf, deine obere Brust oben zusammenzudrücken.
-  Einrasten und wiederholen:
-  Vollende deine Wiederholungen und setze die Stange dann sicher in die Haken zurück.
+  Ausführung: Senke die Stange langsam und kontrolliert zur oberen Brust bzw. den
+  Schlüsselbeinen ab. Halte die Schulterblätter zusammengezogen und die Ellbogen leicht
+  angewinkelt.
+
+  Rückkehr: Drücke die Stange entlang der Führungsschienen kraftvoll nach oben, bis
+  die Arme fast vollständig gestreckt sind, und spanne die obere Brustmuskulatur an.
+
+  Hinweis: Nutze die feste Führung der Multipresse für eine saubere, kontrollierte
+  Bewegung ohne Abfedern auf der Brust.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

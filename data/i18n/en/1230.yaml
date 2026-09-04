@@ -5,11 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1230'
 language: en
-status: upstream_unreviewed
-name: Triceps stretch left
+status: ai_reviewed
+name: Overhead Triceps Stretch (Left)
 description: |-
-  Put your left hand on your back, use your right hand to grab your left elbow and gently pull it. Hold this position for a few seconds.
+  Starting Position:
+  • Stand or sit tall with your spine in a neutral alignment.
+  • Raise your left arm overhead, bend your elbow, and let your left hand drop behind your neck or between your shoulder blades.
+
+  Execution:
+  • Grasp your left elbow with your right hand and gently pull it backward and slightly down.
+  • Hold a gentle, comfortable stretch in your left triceps for 20 to 30 seconds.
+  • Breathe deeply and avoid overarching your lower back.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2195'
+search_terms:
+  - Triceps stretch left
+  - Overhead triceps stretch

@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '661'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trizepsmaschine
-description: |-
-  Setze dich hin und greife die Stange fest mit den Händen. Drücke nun das Gewicht nach oben (Arme nicht ganz ausstrecken) und bringe es langsam wieder runter. Wie bei den anderen Trizepsübungen ist es wichtig, dass du die Oberarme nicht mitbewegst.
+description: '- Setze dich an die Trizepsmaschine und passe die Sitzhöhe so an, dass
+  deine Ellenbogen auf Höhe des Drehgelenks der Maschine liegen.
+
+  - Greife die Griffe fest und lege die Oberarme stabil auf das Polster.
+
+  - Drücke die Griffe durch Streckung der Ellenbogen kontrolliert nach unten, ohne
+  die Ellenbogen am Endpunkt ruckartig zu blockieren.
+
+  - Führe das Gewicht langsam und kontrolliert wieder zurück, während die Oberarme
+  fixiert auf dem Polster bleiben.'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

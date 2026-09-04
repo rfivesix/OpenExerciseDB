@@ -5,20 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1238'
 language: en
-status: upstream_unreviewed
-name: Frog stand
+status: ai_reviewed
+name: Frog Stand
 description: |-
-  Starting position:
-  Stand with your feet shoulder-width apart and your toes pointing forward, facing a wall or bench for support if needed.
-  Bend your knees into a squat position.
-  Place your hands on the ground in front of you, shoulder-width apart, with your fingers spread wide.
-  Make sure your elbows are under your shoulders and your body forms a straight line from your head to your heels.
-  Upward phase:
-  Push with your feet and hands to lift your body off the ground.
-  Straighten your legs and arms, keeping your body aligned.
-  Engage your core and glutes to maintain the position.
-  If needed, rest your knees on the wall or bench for assistance.
+  Starting Position:
+  • Squat down with your feet close together and place your hands flat on the floor shoulder-width apart with fingers spread wide.
+  • Place your knees against the outside of your elbows or rest them on the backs of your upper arms (triceps).
+
+  Execution:
+  • Slowly shift your body weight forward onto your hands.
+  • Lift your feet off the floor one at a time until you are balancing solely on your hands with bent elbows.
+  • Brace your core, press firmly into the floor through your fingertips, and gaze slightly forward to maintain balance.
+  • Hold this isometric position for the prescribed duration (e.g., 10 to 30 seconds), then lower your feet gently back to the ground.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2200'
+search_terms:
+  - Frog stand
+  - Crow pose prep

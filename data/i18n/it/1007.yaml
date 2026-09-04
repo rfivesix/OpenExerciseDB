@@ -1,20 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1007'
 language: it
-status: upstream_unreviewed
-name: La testa gira
-description: |-
-  Posizione di partenza:
-  Seduti o in piedi con la schiena dritta e le spalle abbassate.
-  Passi:
+status: ai_reviewed
+name: Rotazioni del capo (Torsione del collo)
+description: 'Posizione di partenza: Siediti o stai in piedi con la schiena dritta
+  e le spalle rilassate.
 
-  Sedersi o stare in piedi con la schiena dritta e le spalle abbassate.
-  Gira la testa di lato il più possibile. Fermati quando colpisci una barriera e tieni premuto per 5 secondi.
-  Ritorna in posizione centrale e ripeti, cambiando lato.
+  Esecuzione: Gira lentamente la testa verso un lato fino a percepire un leggero allungamento,
+  mantieni per 1-2 secondi, quindi torna al centro e ripeti dall''altro lato.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1849'
+search_terms:
+- La testa gira

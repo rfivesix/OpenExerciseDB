@@ -5,11 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seduta a muro
-description: |-
-  Appoggiati al muro, rivolto in avanti e con i piedi ben piantati sul terreno, le spalle divaricate e a circa 2 piedi di distanza dal muro
-  Scivola giù lungo il muro, tenendo la schiena premuta contro di esso, fino a quando le gambe sono ad angolo retto. Le ginocchia dovrebbero essere direttamente sopra le caviglieIl dolore al quadricipite è normale, interrompi se avverti dolore al ginocchio o alla rotula
+description: '- Appoggia la schiena contro una parete con i piedi alla larghezza delle
+  spalle, posizionati a circa 50-60 cm dal muro.
+
+  - Scivola lungo la parete fino a quando le cosce sono parallele al pavimento con
+  le ginocchia a 90 gradi direttamente sopra le caviglie.
+
+  - Mantieni la posizione isometrica per il tempo stabilito respirando regolarmente
+  e spingendo la schiena contro il muro.'
 upstream:
   license: CC0-1.0
   license_author: Blablabla

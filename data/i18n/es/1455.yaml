@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1455'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Superman con toalla
 description: |-
-  En este ejercicio te tumbas boca abajo, sujetas una
-  toalla con los brazos extendidos delante de ti y tiras de ella hacia los lados para
-  generar tensión. Luego la mueves hacia delante y hacia atrás por debajo del abdomen.
-  Este ejercicio trabaja los músculos de la espalda y los hombros, así como la
-  estabilidad del core.
+  Posición inicial:
+  • Túmbate boca abajo sobre una esterilla con las piernas estiradas hacia atrás.
+  • Sujeta una toalla tensa con ambas manos con los brazos extendidos por delante de la cabeza.
+
+  Ejecución:
+  • Eleva el pecho, los brazos y las piernas del suelo activando los lumbares y los glúteos.
+  • Manteniendo la toalla tirante, flexiona los codos y lleva la toalla hacia la parte superior del pecho, contrayendo la espalda.
+  • Vuelve a extender los brazos hacia delante de forma controlada sin tocar el suelo.
+  • Realiza repeticiones continuas y fluidas manteniendo la tensión muscular.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

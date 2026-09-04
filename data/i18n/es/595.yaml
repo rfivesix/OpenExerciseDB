@@ -5,13 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '595'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Saltar a la comba – estándar
+search_terms:
+- Saltar a la cuerda
 description: |-
   Haz un único salto con ambos pies por cada giro de la cuerda.
   Trabaja un movimiento fluido y rítmico, rebotando ligeramente sobre las puntas de los pies.
-search_terms:
-  - Saltar a la cuerda
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

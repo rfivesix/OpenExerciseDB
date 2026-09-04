@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1225'
 language: en
-status: upstream_unreviewed
-name: Dumbbell wide bicep curls
+status: ai_reviewed
+name: Dumbbell Wide Biceps Curl
 description: |-
-  Hold a dumbbell in each hand with your hands slightly wider than shoulder-width apart and palms facing forward.
-  Bend your elbows and lift the dumbbells to your shoulders. Slowly return and repeat.
+  Starting Position:
+  • Stand upright holding a dumbbell in each hand with your palms facing forward.
+  • Angle your forearms outward slightly wider than shoulder-width, keeping your elbows pinned lightly against your sides.
+
+  Execution:
+  • Curl the dumbbells upward along the angled path toward your outer shoulders, emphasizing the inner (short) head of the biceps.
+  • Squeeze your biceps firmly at the peak contraction for a brief pause.
+  • Slowly lower the dumbbells back down along the same path under full control.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2190'
+search_terms:
+  - Dumbbell wide bicep curls
+  - Wide grip dumbbell curl

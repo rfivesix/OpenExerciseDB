@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1096'
 language: fr
-status: upstream_unreviewed
-name: Abduction debout
+status: ai_reviewed
+name: Abduction de hanche debout
 description: |-
-  Travailler une posture stable, principalement sur une seule jambe, est essentiel pour les deux côtés. D'une part, cela prévient les inconforts et, d'autre part, cela établit une base solide. Le pratiquant adopte la position debout habituelle et, le haut du corps stable, tente de lever à plusieurs reprises la jambe non chargée, de la fléchir au niveau de la hanche et du genou, puis de la rabaisser. Le mouvement est également répété de l'autre côté. L'exercice travaille la stabilité des muscles entourant la hanche.
+  Position de départ :
+  Tenez-vous debout le dos droit, une main posée sur un mur ou un support pour l'équilibre. Prenez appui fermement sur la jambe de soutien en gardant le bassin de niveau.
+
+  Étapes :
+  1. Décollez la jambe active et levez-la latéralement vers l'extérieur de manière contrôlée sans pencher le buste.
+  2. Gardez la pointe de pied orientée vers l'avant pour solliciter le moyen fessier.
+  3. Marquez une brève pause au sommet du mouvement en serrant la partie externe de la hanche.
+  4. Redescendez la jambe lentement sans reposer complètement le pied au sol.
+  5. Répétez le mouvement puis changez de côté.
+search_terms:
+  - Abduction debout
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

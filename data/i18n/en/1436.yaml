@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1436'
 language: en
-status: upstream_unreviewed
-name: Pin Bench Press BB
+status: ai_reviewed
+name: Barbell Pin Bench Press
 description: |-
-  Set security pins to about the height of your sticking point
-  Lower the bar, rest on the pins for 1s while holding tension
-  Move bar up with maximum force
+  Starting position:
+  Place a flat bench inside a power rack and set the safety pins at the desired height (typically your sticking point, a few inches above your chest). Lie on the bench, grip the barbell with hands slightly wider than shoulder-width, and position yourself with feet planted firmly on the floor.
+
+  Movement:
+  Lower the barbell under control until it comes to a complete rest on the safety pins. Pause on the pins for 1 to 2 seconds while maintaining full upper-body tightness, then explosively press the bar upward back to arm's length without bouncing off the pins.
+
+  Notes:
+  Do not lose muscular tension while the barbell rests on the pins. Developing dead-stop pressing power strengthens sticking points and starting strength.
+search_terms:
+  - Pin Bench Press BB
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '539'
 language: de
-status: upstream_unreviewed
-name: Schrägbankdrücken MP
+status: ai_reviewed
+name: Schrägbankdrücken an der Multipresse
+search_terms:
+- Schrägbankdrücken MP
 description: |-
-  Selbe Ausführung wie beim Schrägbankdrücken mit der Langhantel, aber in der Multipresse eben: Setze dich auf die Bank, die Füße sind fest auf dem Boden und geben Halt der Kopf liegt auf der Bank. Nehme die Stange etwas mehr als Schulterbreit aus der Halterung raus und drücke sie nach oben. Bringe die Stange nach unten, bis sie die Brust kurz berührt. Drücke das Gewicht wieder nach oben.
+  Ausgangsposition: Stelle eine Schrägbank im 30- bis 45-Grad-Winkel in die Multipresse. Setze dich auf die Bank, die Füße stehen fest auf dem Boden, der Rücken liegt stabil an. Greife die geführte Stange etwas mehr als schulterbreit und entriegele sie.
+  Ausführung: Führe die Stange kontrolliert nach unten, bis sie das obere Brustbein leicht berührt.
+  Rückkehr: Drücke das Gewicht kraftvoll nach oben, ohne die Ellenbogen vollständig durchzustrecken.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

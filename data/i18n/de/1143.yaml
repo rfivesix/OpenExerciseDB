@@ -1,11 +1,22 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1143'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rückenstrecken
-description: Rückenstrecken an einer Maschine mit Gewicht
+name: Rückenstrecken an der Maschine
+description: |-
+  Ausgangsposition:
+  • Setze dich in die Rückenstrecker-Maschine und stelle das Rückenpolster auf Höhe der Schulterblätter oder des oberen Rückens ein.
+  • Fixiere deine Beine unter den Haltepolstern und halte den Rücken gerade.
+
+  Ausführung:
+  • Drücke das Polster mit der Kraft deiner Rückenstrecker (unterer Rücken) und des Gesäßes langsam nach hinten.
+  • Halte die gestreckte Position kurz, ohne die Lendenwirbelsäule zu überstrecken.
+  • Führe den Oberkörper langsam und kontrolliert wieder nach vorne in die Ausgangsposition zurück.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2122'
+search_terms:
+  - Rückenstrecken
+  - Hyperextensions-Maschine

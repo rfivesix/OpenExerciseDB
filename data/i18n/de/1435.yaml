@@ -1,12 +1,18 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1435'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Skapula-Klimmzüge
 description: |-
-  Hänge gerade an einer Klimmzugstange.
-  Ziehe die Schulterblätter zusammen und bewege den Körper dabei leicht nach oben.
+  Ausgangsposition:
+  Hänge dich im schulterbreiten Obergriff (Dead Hang) an eine Klimmzugstange. Die Arme sind vollständig gestreckt, der Körper bildet eine gerade Linie und die Schultern sind entspannt nach oben gezogen.
+
+  Ausführung:
+  Ziehe die Schulterblätter kraftvoll nach hinten und unten (Depression und Retraktion der Skapula), sodass sich dein Körper um einige Zentimeter nach oben hebt. Die Ellbogen bleiben während der gesamten Bewegung komplett gestreckt. Halte die oberste Position für 1–2 Sekunden und lasse dich danach kontrolliert wieder in den vollen Hang absinken.
+
+  Hinweise:
+  Beuge zu keinem Zeitpunkt die Ellbogen – die Bewegung wird ausschließlich über die Muskulatur des oberen und mittleren Rückens sowie der unteren Trapezmuskeln gesteuert.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

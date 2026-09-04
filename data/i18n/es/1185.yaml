@@ -5,22 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1185'
 language: es
-status: upstream_unreviewed
-name: Extensión de tríceps en polea con cuerda
+status: ai_reviewed
+name: Extensión de tríceps en polea alta
 description: |-
-  La extensión de tríceps en polea con cuerda es un ejercicio efectivo para trabajar los músculos del tríceps, específicamente el músculo braquial y el tríceps braquial. Este ejercicio se realiza utilizando una polea alta y una cuerda como accesorio.
-  Beneficios del ejercicio
-  Aislamiento del tríceps: Permite un enfoque específico en los músculos del tríceps, ayudando a desarrollar fuerza y masa muscular.
-  Variedad de ángulos: La cuerda permite un rango de movimiento más natural, lo que puede ayudar a activar más fibras musculares.
-  Control del peso: Puedes ajustar fácilmente la carga en la polea, lo que permite un entrenamiento progresivo.
-  Cómo realizar la extensión de tríceps en polea con cuerda
-  Posición inicial: Colócate de pie frente a la polea alta. Ajusta la polea a la altura adecuada y coloca la cuerda en el gancho.
-  Agarre: Toma la cuerda con ambas manos, asegurándote de que las palmas estén enfrentadas entre sí.
-  Postura: Da un paso atrás para que haya tensión en la cuerda. Mantén los pies a la altura de los hombros y la espalda recta.
-  Movimiento: Tira de la cuerda hacia abajo, separando las manos y extendiendo los codos. Asegúrate de mantener los codos cerca del cuerpo durante todo el movimiento.
-  Contracción: Al llegar a la parte inferior, aprieta los tríceps y mantén la posición durante un segundo.
-  Regreso: Regresa lentamente a la posición inicial, controlando el movimiento.
+  Posición inicial:
+  • Colócate de pie frente a la polea alta equipada con una barra o cuerda.
+  • Sujeta el accesorio manteniendo los codos pegados a los costados y flexionados a unos 90 grados.
+  • Inclina ligeramente el torso hacia delante con la espalda recta y el abdomen firme.
+
+  Ejecución:
+  • Empuja la carga hacia abajo extendiendo los codos hasta estirar los brazos por completo.
+  • Mantén los brazos superiores inmóviles y fijos a los lados del torso durante todo el recorrido.
+  • Contrae intensamente los tríceps en la posición inferior durante un instante.
+  • Regresa de manera lenta y controlada hasta la altura del pecho sin mover los codos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes
   source_id: '2600'
+search_terms:
+  - Extensión de tríceps en polea con cuerda
+  - Triceps pushdown

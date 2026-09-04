@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1103'
 language: fr
-status: upstream_unreviewed
-name: Pont en marche
+status: ai_reviewed
+name: Walkout avec les mains (Walking Bridge)
 description: |-
-  Partez d'une position debout, les genoux légèrement fléchis et les mains posées au sol. À partir de là, avancez avec les mains en gardant les fessiers contractés et sans perdre le contrôle du bas du dos.
+  Position de départ :
+  Tenez-vous debout, pieds écartés de la largeur des hanches. Fléchissez légèrement les genoux et penchez-vous vers l'avant pour poser les mains au sol devant les pieds.
+
+  Étapes :
+  1. Avancez pas à pas avec les mains sur le sol tout en verrouillant fermement les abdominaux et les fessiers.
+  2. Poursuivez l'avancée des mains jusqu'à vous retrouver en planche allongée sans cambrer le bas du dos.
+  3. Marquez un temps d'arrêt en gainage maximal.
+  4. Revenez en marchant avec les mains vers l'arrière jusqu'aux pieds pour vous redresser.
+search_terms:
+  - Pont en marche
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

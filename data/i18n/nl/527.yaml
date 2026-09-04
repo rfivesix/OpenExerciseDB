@@ -5,9 +5,9 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '527'
 language: nl
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hardlopen
-description: Rennen of joggen in het park of een cardiomachine
+description: Hardlopen of joggen in het park of op de weg voor het opbouwen van cardiovasculaire conditie en uithoudingsvermogen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: BeLikeWater

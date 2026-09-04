@@ -1,11 +1,24 @@
 exercise_id: '976'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Klappmesser-Crunch mit Medizinball
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Die Verwendung eines Medizinballs als Zusatzlast macht die Übung schwerer.
+description: 'Ausgangsposition: Lege dich rücklings auf eine Matte. Die Beine sind
+  ausgestreckt und die Arme halten den Medizinball mit beiden Händen über dem Kopf
+  gestreckt am Boden.
+
+  Ausführung: Hebe gleichzeitig den Oberkörper und die gestreckten Beine vom Boden
+  an und führe den Medizinball in Richtung der Schienbeine oder Füße, sodass der Körper
+  eine "V"-Form bildet. Kontrahiere die Bauchmuskeln maximal.
+
+  Rückkehr: Senke Beine und Oberkörper langsam und kontrolliert wieder in die Ausgangslage
+  ab, ohne die Grundspannung im Bauch zu verlieren.
+
+  Hinweis: Führe die Bewegung gleichmäßig ohne übermäßigen Schwung aus.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1286'
+search_terms:
+- Medicine ball booklet crunch
+- Klappmesser mit Medizinball

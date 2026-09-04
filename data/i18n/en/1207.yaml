@@ -5,15 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1207'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Scorpion Kick
 description: |-
-  Get into the push-up position with your shoulders directly above your hands and your feet hip-width apart.
-  Make sure that your body forms a straight line from your head to your heels.
-  Now pull your right knee towards your chest. While keeping your knee bent, lift your right leg as high as possible with your lower right leg pointing straight up.
-  Now rotate your hips so that your right foot swings over your left leg.
-  Continue to rotate and move your right foot towards the floor until you are forced to roll onto the outside of your left standing foot. Make sure that you do not rotate your upper body.
-  Now return to the starting position and repeat the exercise with your left leg.
+  Starting Position:
+  • Begin in a high plank position with your hands placed directly under your shoulders and feet hip-width apart.
+  • Ensure your body forms a straight line from head to heels with core firmly braced.
+
+  Execution:
+  • Drive your right knee slightly toward your chest, then raise your bent right leg up and back behind you.
+  • Rotate your hips to swing your right foot across your left leg toward the floor on the opposite side.
+  • Keep your shoulders squared to the ground as much as possible to create a dynamic spinal rotation and hip stretch.
+  • Return smoothly to the starting plank position and repeat on the left leg.
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx

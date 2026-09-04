@@ -1,12 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '924'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Fly
-description: cable machine, two steps forward, straight back
+description: 'Starting Position: Set the pulleys of a cable crossover machine at chest
+  or shoulder height. Grasp the handles and take two steps forward into a staggered
+  stance with a straight back and slight forward lean.
+
+  Execution: Bring the handles together in front of your chest in a wide hugging arc,
+  keeping a slight bend in your elbows and squeezing your pecs at the center.
+
+  Return: Slowly return your arms outward until you feel a comfortable stretch across
+  your chest.
+
+  Note: This exercise is deprecated.'
 upstream:
   license: CC-BY-SA-4.0

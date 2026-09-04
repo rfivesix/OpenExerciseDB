@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
+# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
+# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '829'
 language: de
-status: upstream_unreviewed
-name: Rear Delt Raise
-description: |-
-  Seated on a bench with the dumbbells on the floor bend over at 45 Degrees and then slowly raise each dumbbell to shoulder height and hold for a couple seconds before lowering to the starting position.
+status: ai_reviewed
+name: Vorgebeugtes Seitheben sitzend
+description: '- Setze dich an das Ende einer Flachbank, stelle die Füße fest auf den
+  Boden und beuge den Oberkörper mit geradem Rücken über deine Oberschenkel.
+
+  - Halte die Kurzhanteln unter deinen Beinen mit leicht gebeugten Ellenbogen.
+
+  - Hebe die Gewichte seitlich an, bis die Oberarme parallel zum Boden auf Schulterhöhe
+  sind.
+
+  - Halte die Kontraktion im hinteren Deltamuskel kurz und senke die Hanteln kontrolliert
+  wieder ab.'
+search_terms:
+- Rear Delt Raise
+- Seated Rear Delt Raise
 upstream:
   license: CC-BY-SA-4.0

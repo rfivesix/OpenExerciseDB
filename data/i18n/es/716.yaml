@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '716'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Deslizamientos en la pared
-description: |-
-  Ponte de pie con los talones, los hombros, la nuca y las caderas tocando la pared. Empieza con los brazos rectos hacia los lados y los codos en un ángulo de 90 grados. Estira los brazos mientras permaneces contra la pared, sin arquear la espalda separándola de la pared, imitando el movimiento de un press de hombros.
+description: '- Apoya la espalda contra una pared, manteniendo talones, glúteos, parte
+  superior de la espalda y nuca en contacto con la superficie.
+
+  - Coloca los brazos a los lados con los codos doblados a 90 grados en posición de
+  ''W'', con codos y dorso de las manos apoyados en la pared.
+
+  - Desliza lentamente los brazos hacia arriba por la pared hasta formar una ''Y'',
+  sin arquear la zona lumbar ni perder el contacto con la pared.
+
+  - Baja los brazos de forma controlada a la posición inicial contrayendo activamente
+  las escápulas hacia abajo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

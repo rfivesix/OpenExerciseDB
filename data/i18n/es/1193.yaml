@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1193'
 language: es
-status: upstream_unreviewed
-name: Abdominales rusas
+status: ai_reviewed
+name: Giro ruso con mancuerna
 description: |-
-  sentado en el suelo agarramos la pesa rusa, flexionamos las piernas y las separamos del suelo. Ahora llevaremos a un lado y otro la pesa
+  Posición inicial:
+  • Siéntate en una colchoneta con las rodillas flexionadas y los talones apoyados en el suelo (o suspendidos para mayor intensidad).
+  • Sostén una mancuerna con ambas manos frente a tu pecho.
+  • Inclina el torso hacia atrás aproximadamente 45 grados manteniendo la espalda recta y el abdomen contraído.
+
+  Ejecución:
+  • Rota el torso hacia la derecha llevando la mancuerna hacia el suelo cerca de tu cadera.
+  • Haz una breve pausa y rota de manera fluida hacia el lado izquierdo.
+  • Asegúrate de que la rotación se origine en el tronco y los oblicuos, manteniendo las piernas lo más estables posible.
 search_terms:
+  - Abdominales rusas
   - Abdominales sovieticas
+  - Russian twist con mancuerna
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

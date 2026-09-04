@@ -6,13 +6,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '575'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Smith Machine Shrug
+search_terms:
+- Shrugs on Multipress
+description: |-
+  Starting Position: Stand tall with feet shoulder-width apart in front of the Smith machine bar. Grasp the bar with an overhand grip, arms hanging straight down.
+  Execution: Shrug your shoulders straight up toward your ears without bending your elbows. Hold the peak contraction at the top for 1-2 seconds.
+  Return: Lower your shoulders slowly back to the starting position under control.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1060'
-search_terms:
-  - Shrugs on Multipress
-description: |-
-  Hold the bar of the Smith machine with your arms hanging at your sides. Raise your shoulders without bending your arms, then lower them slowly.

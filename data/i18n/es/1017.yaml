@@ -5,13 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1017'
 language: es
-status: upstream_unreviewed
-name: Medios Círculos de Cuello (Media Luna)
+status: ai_reviewed
+name: Medios círculos de cuello
 description: |-
-  Esta es una alternativa más segura que los círculos completos para mejorar la movilidad del cuello, ya que evita la compresión de las cervicales al no llevar la cabeza hacia atrás.
-  Instrucciones:
-  Sentado o de pie con la espalda recta y los hombros relajados, inclina suavemente la cabeza llevando tu oreja derecha hacia el hombro derecho.
-  Desde esa posición, dibuja lentamente una "U" o media luna con tu mentón: bájalo suavemente en dirección al pecho y continúa el arco hasta que tu oreja izquierda se acerque al hombro izquierdo. Invierte el movimiento de forma fluida y controlada para volver al otro lado.
+  Posición inicial:
+  Siéntate o ponte de pie con la espalda recta y los hombros relajados. Inclina suavemente la cabeza hacia un hombro (oreja hacia el hombro).
+
+  Ejecución:
+  1. Baja lentamente el mentón hacia el pecho dibujando un semicírculo hasta llegar al hombro opuesto.
+  2. Invierte el movimiento de forma suave y controlada, pasando de nuevo el mentón por el pecho hacia el hombro inicial.
+  3. Repite alternando de un lado a otro sin llevar nunca la cabeza hacia atrás, protegiendo así las vértebras cervicales.
+search_terms:
+  - Medios Círculos de Cuello (Media Luna)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerjhn

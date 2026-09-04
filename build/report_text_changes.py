@@ -13,8 +13,8 @@ from oedb.paths import ARTIFACTS_DIR, ROOT
 
 
 LANGUAGES = ("de", "en")
-DEFAULT_REFERENCE = ARTIFACTS_DIR / "reference" / "train_libre_training.db"
-DEFAULT_DATABASE = ARTIFACTS_DIR / "train_libre_training.db"
+DEFAULT_REFERENCE = ARTIFACTS_DIR / "reference" / "openexercisedb.db"
+DEFAULT_DATABASE = ARTIFACTS_DIR / "openexercisedb.db"
 DEFAULT_OUTPUT = ROOT / "reports" / "text_changes_phase2.md"
 PROVENANCE_MARKER = "AI review provenance: GPT-5, 2026-09-03."
 

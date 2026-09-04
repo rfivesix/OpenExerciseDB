@@ -5,11 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1224'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Drag curls aux haltères
 description: |-
-  Tenez un haltère dans chaque main, les paumes tournées vers l'avant. Tirez vos coudes vers l'arrière et montez les haltères jusqu'à la hauteur de votre poitrine. Redescendez lentement l'haltère et répétez l'exercice.
+  Position de départ :
+  • Tenez-vous debout, un haltère dans chaque main en prise supination (paumes vers l'avant).
+  • Bras tendus devant les cuisses, épaules basses et torse bombé.
+
+  Exécution :
+  • Tirez les haltères verticalement vers le haut en les faisant glisser le long de votre torse tout en reculant les coudes.
+  • Montez les charges jusqu'au niveau de la poitrine en les gardant au plus près du corps pour isoler les biceps.
+  • Contractez fortement les biceps au sommet puis redescendez lentement le long du même trajet.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4521'
+search_terms:
+  - Dumbbell drag curls

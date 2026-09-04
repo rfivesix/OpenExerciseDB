@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '636'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Superman
-description: |-
-  Allongez-vous à plat ventre, les bras tendus devant vous au sol et les jambes posées à plat. Levez simultanément les bras et les jambes, comme si vous voliez, et contractez le bas du dos. Veillez à bien respirer et, selon votre niveau de forme physique, maintenez la position pendant au moins deux à cinq secondes par répétition.
+description: 'Allongez-vous à plat ventre sur le sol, les jambes tendues et les bras
+  tendus devant vous au-dessus de la tête.
+
+  Soulevez simultanément les bras, la poitrine et les cuisses à quelques centimètres
+  du sol en contractant les lombaires et les fessiers.
+
+  Maintenez cette position de contraction pendant 2 à 5 secondes en respirant calmement,
+  puis redescendez lentement avec contrôle.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

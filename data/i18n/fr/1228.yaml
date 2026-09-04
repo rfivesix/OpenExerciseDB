@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1228'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé couché serré aux haltères
 description: |-
-  Allongez-vous sur le dos sur un banc plat. Tenez un haltère dans chaque main. Levez vos bras vers le plafond, les paumes se faisant face et les haltères pressés l'un contre l'autre.
-  Abaissez lentement les haltères vers votre poitrine, puis poussez-les lentement vers le haut. Répétez l'exercice.
+  Position de départ :
+  • Allongez-vous sur un banc plat avec un haltère dans chaque main au-dessus de la poitrine, bras tendus.
+  • Adoptez une prise neutre (paumes face à face) et pressez fermement les deux haltères l'un contre l'autre.
+
+  Exécution :
+  • Abaissez les haltères vers le milieu de la poitrine en gardant les coudes bien serrés le long du corps.
+  • Développez les haltères vers le haut en contractant puissamment les triceps et les pectoraux.
+  • Conservez la pression constante entre les haltères au sommet du mouvement avant d'entamer la répétition suivante.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4527'
+search_terms:
+  - Dumbbell close grip bench press
+  - Crush press haltères

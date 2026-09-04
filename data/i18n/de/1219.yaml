@@ -7,15 +7,20 @@
 exercise_id: '1219'
 language: de
 status: ai_reviewed
-name: Umgekehrtes Rudern (Australian Pull-up)
+name: Australischer Klimmzug (Inverted Row)
 description: |-
-  Lege dich unter eine hohe Stange oder eine Suspension-Stange, die auf passender Höhe angebracht ist.
-  Positioniere dich auf dem Rücken unter der Stange und greife sie im Untergriff (Handflächen zeigen zu dir).
-  Korrigiere deine Position so, dass dein Körper von Kopf bis Fuß eine gerade Linie bildet. Die Arme sollten vollständig gestreckt, die Schultern stabilisiert und die Beine in einer Linie mit dem übrigen Körper sein.
-  Beuge die Ellbogen und ziehe deine Brust zur Stange, während du die Rückenmuskulatur anspannst. Stelle dir vor, du versuchst, die Schulterblätter zusammenzuführen.
-  Halte die Kontraktion am höchsten Punkt der Bewegung kurz, um die Muskelaktivierung zu maximieren.
-  Kehre langsam in die Ausgangsposition zurück, indem du die Ellbogen streckst.
+  Ausgangsposition:
+  • Lege dich rücklings unter eine hüfthohe Stange und greife sie im schulterbreiten Untergriff (Handflächen zeigen zum Gesicht).
+  • Bilde eine vollkommen gerade Linie von den Fersen bis zum Kopf und spanne den gesamten Körper an.
+
+  Ausführung:
+  • Beuge die Ellbogen und ziehe deine Brust kontrolliert nach oben an die Stange.
+  • Ziehe die Schulterblätter aktiv zusammen und kontrahiere Rücken und Bizeps im obersten Punkt spürbar.
+  • Senke dich langsam und kontrolliert wieder ab, bis die Arme gestreckt sind.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3750'
+search_terms:
+  - Australian Pull-up
+  - Schrägliegende Klimmzüge

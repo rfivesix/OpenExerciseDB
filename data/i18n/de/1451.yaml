@@ -5,13 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1451'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rumpfrotations-Dehnung
 description: |-
-  Die Rumpfrotations-Dehnung hilft, die Beweglichkeit der Wirbelsäule zu verbessern und Verspannungen im unteren Rücken und in der seitlichen Bauchmuskulatur zu lösen. Sie kann im Stehen oder im Sitzen ausgeführt werden.
+  Ausgangsposition:
+  • Stehe aufrecht mit schulterbreitem Stand und leicht gebeugten Knien (oder setze dich aufrecht auf eine Matte/Bank).
+  • Lege die Hände an die Hüften oder verschränke die Arme vor der Brust.
 
-  Stehende Variante: Stehe aufrecht mit den Füßen schulterbreit auseinander. Lege die Hände auf die Hüften oder strecke die Arme vor dir aus. Drehe den Oberkörper langsam zu einer Seite und halte die Hüften stabil. Halte die Position für ein paar Sekunden und drehe dich dann zur anderen Seite.
-  Sitzende Variante: Setze dich auf einen Stuhl mit flach auf dem Boden stehenden Füßen. Lege eine Hand an die Außenseite des gegenüberliegenden Oberschenkels und drehe deinen Oberkörper sanft zu dieser Seite. Halte die Dehnung, bevor du die Seite wechselst.
+  Ausführung:
+  • Drehe den Oberkörper langsam und kontrolliert zu einer Seite, während das Becken stabil nach vorne ausgerichtet bleibt.
+  • Halte die erreichte Dehnung in den seitlichen Bauchmuskeln und der Brustwirbelsäule für 15 bis 30 Sekunden.
+  • Kehre kontrolliert zur Mitte zurück und wiederhole die Drehung zur Gegenseite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

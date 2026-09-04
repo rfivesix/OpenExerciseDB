@@ -20,7 +20,7 @@ Aufruf:
     python3 build/update_published_ids.py --from-db alt.db --from-db release.db
 
     # nach einem Release: die gerade ausgelieferten IDs aufnehmen
-    python3 build/update_published_ids.py --from-db artifacts/train_libre_training.db \\
+    python3 build/update_published_ids.py --from-db artifacts/openexercisedb.db \\
         --release-version 202609022334
 
     # CI: nur pruefen, ob das Register vollstaendig ist

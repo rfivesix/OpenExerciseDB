@@ -1,10 +1,18 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1361'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kettlebell-Frontkniebeuge (doppelt)
-description: Die Kettlebell-Frontkniebeuge ist eine zusammengesetzte, mehrgelenkige Übung, die mehrere Muskelgruppen beansprucht.
+description: |-
+  Ausgangsposition:
+  Bringe zwei Kettlebells in die Rack-Position vor der Brust: Die Daumen zeigen nach innen, die Ellbogen sind eng am Oberkörper angelegt und die Kugeln ruhen im Dreieck zwischen Unterarm und Bizeps. Stelle deine Füße etwa schulterbreit auf.
+
+  Ausführung:
+  Atme tief ein, spanne den Rumpf fest an und beuge Knie und Hüfte kontrolliert, um in eine tiefe Kniebeuge abzusinken. Halte den Oberkörper dabei möglichst aufrecht. Drücke dich über den Mittelfuß und die Fersen kraftvoll wieder nach oben in den aufrechten Stand.
+
+  Hinweise:
+  Lass die Ellbogen während der Beugebewegung nicht absinken. Die Positionierung der Last vor dem Oberkörper trainiert intensiv die Rumpfstabilität und die Quadrizepse.
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r

@@ -236,6 +236,11 @@ Releases carry two independent version numbers: `version` for content and
 `schema_version` for structure. Check `schema_version` before consuming a
 release so a structural change can never break an older client.
 
+## Projects using OpenExerciseDB
+
+- [TrainLibre](https://github.com/rfivesix/train-libre) — an independent
+  personal fitness app that uses OpenExerciseDB as an exercise-data source.
+
 ## Contributing
 
 Corrections are welcome, especially to muscle assignments — that is the weakest

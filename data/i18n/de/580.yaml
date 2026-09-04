@@ -8,8 +8,11 @@ exercise_id: '580'
 language: de
 status: ai_reviewed
 name: Seitstütz
-description: |-
-  Lege dich auf die Seite, stütze dich auf den Unterarm und hebe das Becken an, sodass der Körper von Kopf bis Fuß eine gerade Linie bildet. Halte die Position stabil.
+search_terms:
+- Side Plank
+- Seitlicher Unterarmstütz
+description: Lege dich auf die Seite, stütze dich auf den Unterarm und hebe das Becken an, sodass der Körper von Kopf bis
+  Fuß eine gerade Linie bildet. Halte die Position stabil.
 upstream:
   license: CC-BY-SA-4.0
   license_author: http://www.bodybuilding.com/

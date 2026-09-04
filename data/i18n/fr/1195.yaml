@@ -5,12 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1195'
 language: fr
-status: upstream_unreviewed
-name: Pas chassés + squats
+status: ai_reviewed
+name: Pas chassés latéraux avec squats
 description: |-
-  Les pieds un peu plus écartés que la largeur des épaules et en restant bas pour imiter une position défensive, vous devez avancer avec votre jambe directrice et pousser avec votre jambe d'appui.
-  Après trois pas chassés, faites pivoter votre corps de 180 degrés sur la jambe directrice (extérieure) et effectuez un squat. Continuez.
+  Position de départ :
+  • Tenez-vous debout en position athlétique basse, pieds légèrement plus larges que les épaules.
+  • Fléchissez les genoux et gardez le centre de gravité bas.
+
+  Exécution :
+  • Effectuez trois pas chassés latéraux rapides et contrôlés vers un côté en poussant avec la jambe d'appui.
+  • Bloquez la position et réalisez un squat complet en gardant le dos droit.
+  • Pivotez à 180 degrés ou changez immédiatement de direction pour répéter l'exercice de l'autre côté.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4506'
+search_terms:
+  - Pas chassés + squats

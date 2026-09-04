@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '513'
 language: es
-status: upstream_unreviewed
-name: Remo en "T"
+status: ai_reviewed
+name: Remo con barra en T
+search_terms:
+- Remo en "T"
 description: |-
   La ejecución de este ejercicio es muy similar a la del remo inclinado normal, solo que aquí la barra está fija.
 

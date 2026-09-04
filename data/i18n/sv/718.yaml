@@ -5,11 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '718'
 language: sv
-status: upstream_unreviewed
+status: ai_reviewed
 name: Väggsits
-description: |-
-  Luta dig mot väggen med ansiktet framåt och med fötterna stadigt placerade på marken, med axelbredden isär och ungefär en meter från väggen.
-  Glid nerför väggen med ryggen tryckt mot väggen tills benen står i en rät vinkel. Knäna ska befinna sig direkt ovanför fotlederna.Smärta i quadricepsen är normalt, sluta om du känner smärta i knäet eller knäskålen
+description: '- Ställ dig med ryggen platt mot en vägg och fötterna axelbrett isär,
+  placerade cirka 50-60 cm från väggen.
+
+  - Glid ner längs väggen tills låren är parallella med golvet och knäna bildar 90
+  graders vinkel rakt över anklarna.
+
+  - Håll denna statiska position under den föreskrivna tiden med spänd bål.'
 upstream:
   license: CC0-1.0
   license_author: Blablabla

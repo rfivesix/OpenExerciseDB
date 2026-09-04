@@ -5,9 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1090'
 language: it
-status: upstream_unreviewed
-name: Vpushup
-description: Sollevare il proprio corpo da terra spingendosi con le braccia verso l'alto
+status: ai_reviewed
+name: Piegamenti a V (V-Push-Up / Pike Push-Up)
+description: |-
+  Posizione di partenza:
+  Appoggia mani e piedi a terra a larghezza spalle. Avvicina i piedi e spingi il bacino in alto fino a formare una 'V' rovesciata con il corpo (posizione pike).
+
+  Esecuzione:
+  1. Piega i gomiti e abbassa la sommità del capo in diagonale verso il pavimento tra le mani.
+  2. Sfiora delicatamente il suolo con la testa mantenendo il core contratto.
+  3. Spingi con forza attraverso spalle e tricipiti per risalire fino alla distensione completa tornando nella 'V' iniziale.
+  4. Concentra il lavoro sui deltoidi anteriori e sui tricipiti.
+search_terms:
+  - Vpushup
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

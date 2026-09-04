@@ -1,17 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '927'
 language: en
-status: upstream_unreviewed
-name: Suspended crossess
-description: Suspension exercise with trx for chest training
+status: ai_reviewed
+name: Suspension Chest Fly
+description: 'Starting Position: Grasp the suspension trainer handles with a neutral
+  grip and lean forward into an incline plank, arms extended straight in front of
+  your chest and body in a rigid line from head to heels.
+
+  Execution: Maintaining a slight bend in your elbows, open your arms out to the sides
+  in a wide arc until you feel a deep, comfortable stretch across your pectorals.
+
+  Return: Engage your chest muscles to bring the handles back together in front of
+  your body, keeping your core braced and hips aligned.
+
+  Cues: Adjust your body angle relative to the floor to scale difficulty (more horizontal
+  increases resistance).'
 search_terms:
-  - croci
-  - sospensione
-  - trx
+- croci
+- sospensione
+- trx
+- Suspended crossess
+- Suspended Crosses
+- Croci in sospensione
+- TRX Chest Fly
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1206'

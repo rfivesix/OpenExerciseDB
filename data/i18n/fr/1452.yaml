@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1452'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement genou-poitrine
 description: |-
-  L'étirement genou-poitrine est un exercice simple mais efficace pour soulager les tensions du bas du dos et améliorer la mobilité des hanches. Pour le réaliser, allongez-vous à plat sur le dos, jambes tendues. Ramenez un genou vers la poitrine en enroulant les mains autour du tibia ou derrière la cuisse. Tirez doucement le genou plus près de la poitrine tout en gardant l'autre jambe tendue au sol. Maintenez l'étirement pendant 15 à 30 secondes, puis changez de côté. Pour un étirement plus profond, vous pouvez ramener les deux genoux vers la poitrine en même temps.
+  Position de départ :
+  • Allongez-vous sur le dos sur un tapis de sol, jambes étendues et tête relâchée.
+
+  Exécution :
+  • Fléchissez un genou, saisissez le tibia ou l'arrière de la cuisse à deux mains et ramenez doucement le genou vers la poitrine.
+  • Gardez l'autre jambe allongée au sol pour ressentir l'étirement au niveau du fessier et du bas du dos.
+  • Maintenez la position pendant 20 à 30 secondes en respirant profondément, puis changez de jambe.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

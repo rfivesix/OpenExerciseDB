@@ -1,10 +1,12 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '493'
 language: de
-status: ai_raw
-translated_from: en
-name: Reverse-Bizepscurl mit SZ-Stange
-description: Halte die Stange im umgekehrten (oder Ober-)Griff, die Handflächen zum Boden gerichtet.
+status: ai_reviewed
+name: Reverse Curls mit SZ-Stange
+search_terms:
+  - Reverse-Bizepscurl mit SZ-Stange
+description: |-
+  Stehe aufrecht mit schulterbreitem Stand und greife die SZ-Stange im Obergriff (Pronation, Handrücken nach oben/vorne). Halte die Ellenbogen eng am Oberkörper fixiert und beuge die Arme, um die Stange kontrolliert nach oben zu curlen. Spanne Unterarme und Armbeuger am höchsten Punkt an und senke das Gewicht langsam wieder ab.
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm

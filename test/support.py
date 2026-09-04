@@ -2,24 +2,14 @@
 from __future__ import annotations
 
 import importlib.util
-import json
 import os
 import sqlite3
 import sys
-import urllib.request
 from pathlib import Path
 from types import ModuleType
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-
-REFERENCE_MANIFEST_URL = (
-    "https://github.com/rfivesix/train-libre/releases/download/"
-    "wger-catalog-stable/wger_catalog_manifest.json"
-)
-"""Der `stable`-Kanal, aus dem sich die heutige App bedient. Die daraus geladene
-Datenbank ist die Referenz fuer den Abnahmetest: sie ist das, was auf Geraeten
-da draussen tatsaechlich liegt."""
 
 CACHE_DIR = ROOT / "artifacts" / "reference"
 
@@ -66,33 +56,19 @@ def reference_database() -> Path | None:
     """Pfad zur veroeffentlichten Referenz-DB, oder None.
 
     Reihenfolge: `REFERENCE_DB_PATH` aus der Umgebung (so setzt die CI sie),
-    dann ein lokaler Cache, dann — nur wenn `OEDB_ALLOW_DOWNLOAD=1` gesetzt ist —
-    ein Download aus dem Release-Kanal. Ohne all das gibt die Funktion None
-    zurueck und der Abnahmetest ueberspringt sich, statt rot zu werden, weil
-    gerade kein Netz da ist.
+    dann ein lokaler Cache. Ohne beides gibt die Funktion None zurueck und der
+    Abnahmetest ueberspringt sich.
     """
     from_env = os.environ.get("REFERENCE_DB_PATH")
     if from_env:
         path = Path(from_env)
         return path if path.exists() else None
 
-    cached = CACHE_DIR / "train_libre_training.db"
+    cached = CACHE_DIR / "openexercisedb.db"
     if cached.exists():
         return cached
 
-    if os.environ.get("OEDB_ALLOW_DOWNLOAD") != "1":
-        return None
-
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    try:
-        with urllib.request.urlopen(REFERENCE_MANIFEST_URL, timeout=60) as response:
-            manifest = json.loads(response.read().decode("utf-8"))
-        db_url = manifest["db_url"]
-        with urllib.request.urlopen(db_url, timeout=180) as response:
-            cached.write_bytes(response.read())
-    except Exception:  # noqa: BLE001 — offline ist kein Testfehler
-        return None
-    return cached
+    return None
 
 
 def rows(connection: sqlite3.Connection, query: str, *params) -> list[sqlite3.Row]:

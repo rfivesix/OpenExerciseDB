@@ -5,8 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '607'
 language: it
-status: upstream_unreviewed
-name: Crunch Bicicletta
+status: ai_reviewed
+name: Sprinter Sit-up
+search_terms:
+- Crunch Bicicletta
 description: |-
   Sdraiarsi a terra in posizione supina e con le ginocchia piegate a 90 gradi all'altezza dei fianchi e le mani intrecciate dietro la testa.
   Espirare e arrotondare la colonna vertebrale, sollevando la testa e le spalle dal pavimento.

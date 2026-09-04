@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1215'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ángel de nieve invertido
 description: |-
-  Túmbate boca abajo con los brazos extendidos hacia delante sobre el suelo y las piernas estiradas. Levanta ambos brazos y llévalos lentamente hacia los costados. Después, llévalos de nuevo hacia delante.
+  Posición inicial:
+  • Túmbate boca abajo sobre una colchoneta con las piernas estiradas y los brazos extendidos por delante de la cabeza.
+  • Mantén la mirada fija en el suelo para cuidar la alineación cervical.
+
+  Ejecución:
+  • Eleva ligeramente los brazos y la parte superior del pecho del suelo activando la espalda superior.
+  • Mueve los brazos hacia afuera y hacia atrás en un amplio arco lateral hasta acercar las manos a los muslos.
+  • Junta las escápulas y aprieta con fuerza los romboides y trapecios.
+  • Vuelve a realizar el arco en sentido inverso hacia la cabeza sin dejar caer los brazos al suelo.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3747'
+search_terms:
+  - Reverse snow angel
+  - Ángel de nieve en suelo

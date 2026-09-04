@@ -5,11 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1261'
 language: es
-status: upstream_unreviewed
-name: TRX- biceps gorila
-description: |-
-  Nos colocaremos de frente a las cintas del TRX y las agarraremos con los puños de las manos enfrentados y al frente, con los brazos totalmente estirados a la altura más o menos de los hombros. El cuerpo lo mantendremos recto hacia atrás, como en los anteriores ejercicios, ya que lo que vamos a hacer es mediante la activación de los bíceps, elevar el cuerpo hacia las cintas del TRX.
-  El cuerpo estará recto y los pies apoyados en el suelo. Los brazos en esta ocasión, los vamos a colocar abiertos hacia los lados, y a la altura del pecho. El movimiento que vamos a hacer será una contracción hacia el pecho. Para conseguirlo, lo que haremos será doblar los codos para que, mediante la activación de los bíceps atraigamos el cuerpo hacia las cintas.
+status: ai_reviewed
+name: Curl gorila para bíceps en TRX
+description: 'Nos colocaremos de frente a las cintas del TRX y las agarraremos con los puños de las manos enfrentados y al
+  frente, con los brazos totalmente estirados a la altura más o menos de los hombros. El cuerpo lo mantendremos recto hacia
+  atrás, como en los anteriores ejercicios, ya que lo que vamos a hacer es mediante la activación de los bíceps, elevar el
+  cuerpo hacia las cintas del TRX.
+
+  El cuerpo estará recto y los pies apoyados en el suelo. Los brazos en esta ocasión, los vamos a colocar abiertos hacia los
+  lados, y a la altura del pecho. El movimiento que vamos a hacer será una contracción hacia el pecho. Para conseguirlo, lo
+  que haremos será doblar los codos para que, mediante la activación de los bíceps atraigamos el cuerpo hacia las cintas.'
+search_terms:
+- TRX- biceps gorila
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops

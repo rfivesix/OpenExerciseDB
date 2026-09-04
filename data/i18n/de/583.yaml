@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '583'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Liegestütze seitlich
 description: |-
-  -Beginne in der Liegestützposition
-  -Verlagere das Körpergewicht auf die rechte Seite und führe einen Liegestütz aus, bei dem die Brust über der rechten Hand ist
-  -Kehre in die mittige Position zurück
-  -Verlagere bei Wiederholung 2 das Gewicht auf die linke Seite
+  Ausgangsposition: Gehe in die Liegestützposition (hohe Plank). Die Hände stehen etwas weiter als schulterbreit auseinander, der Körper bildet von Kopf bis Fuß eine gerade Linie.
+  Ausführung: Verlagere dein Gewicht beim Absenken kontrolliert zu einer Seite, sodass die Brust über eine Hand geführt wird, während der andere Arm als Stütze dient.
+  Rückkehr: Drücke dich kraftvoll nach oben und wechsle bei der nächsten Wiederholung zur anderen Seite.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

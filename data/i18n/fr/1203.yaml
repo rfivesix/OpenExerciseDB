@@ -5,15 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1203'
 language: fr
-status: upstream_unreviewed
-name: Extensions des mollets, jambe gauche
+status: ai_reviewed
+name: Extension des mollets sur une jambe (gauche)
 description: |-
-  Tenez-vous au sol ou sur le bord d'une marche pour augmenter l'amplitude de mouvement.
-  Levez un pied.
-  Soulevez votre talon jusqu'à vous tenir sur la pointe des pieds.
-  (variable) Restez dans cette position pendant trois secondes
-  Redescendez lentement votre pied jusqu'à presque toucher le sol avec votre talon ; ne laissez pas claquer votre pied !
+  Position de départ :
+  • Tenez-vous debout sur une marche en posant l'avant-pied gauche sur le bord, le talon dans le vide.
+  • Levez la jambe droite pour travailler uniquement sur la jambe gauche.
+  • Tenez-vous légèrement à un mur pour stabiliser votre équilibre.
+
+  Exécution :
+  • Laissez descendre le talon gauche sous le niveau de la marche pour bien étirer le mollet.
+  • Poussez puissamment sur l'avant du pied pour monter le talon le plus haut possible sur la pointe des pieds.
+  • Maintenez la contraction au sommet pendant deux à trois secondes puis redescendez lentement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4511'
+search_terms:
+  - Extensions des mollets, jambe gauche

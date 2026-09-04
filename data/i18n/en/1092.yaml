@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1092'
 language: en
-status: upstream_unreviewed
-name: Bag training
+status: ai_reviewed
+name: Heavy Bag Training (Boxing)
 description: |-
-  Bag training improves muscle definition of: deltoids; rear deltoids; triceps; biceps, as well as being a great cardio exercise
+  Starting position:
+  Stand about an arm's length from the heavy bag in a balanced boxing stance. Keep your lead hand slightly forward, rear hand protecting your chin, knees soft, and weight on the balls of your feet.
+
+  Execution:
+  1. Throw crisp, powerful punches—such as jabs, crosses, hooks, and uppercuts—into the center of the bag.
+  2. Rotate your hips, core, and pivot on your feet with each strike to generate power through kinetic linking.
+  3. Quickly snap your hands back to guard position after every punch and practice active footwork around the bag.
+  4. Work in timed rounds (e.g., 2–3 minutes) combining punch output, conditioning, and shoulder endurance.
+search_terms:
+  - Bag training
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

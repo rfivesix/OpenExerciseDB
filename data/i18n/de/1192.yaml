@@ -5,18 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1192'
 language: de
-status: upstream_unreviewed
-name: Alternierende Bizeps-Curls mit Kurzhantel
+status: ai_reviewed
+name: Alternierende Bizeps-Curls mit Kurzhanteln
 description: |-
-  Halte zwei Kurzhanteln, die Arme sind gestreckt, die Hände befinden sich
-  seitlich am Körper, die Handflächen zeigen nach innen. Beuge einen Arm nach dem anderen und führe das Gewicht mit einer
-  schnellen Bewegung nach oben. Drehe dabei deine Arme gleich zu
-  Beginn der Bewegung um 90 Grad. Am höchsten Punkt drehst du
-  die Hanteln noch ein wenig weiter nach außen. Führe den Arm ohne Pause langsam wieder nach unten und mache dasselbe mit dem anderen Arm.
-  Lass deinen Körper während der Übung nicht schwingen, die gesamte Arbeit wird
-  vom Bizeps geleistet, dem einzigen Muskel, der sich bewegen sollte (achte
-  auf die Ellbogen).
+  Ausgangsposition:
+  • Stelle dich aufrecht hin, die Füße hüftbreit platziert.
+  • Halte in jeder Hand eine Kurzhantel mit ausgestreckten Armen seitlich am Körper, Handflächen zeigen zueinander (neutraler Griff).
+  • Brust anheben, Schultern nach hinten-unten ziehen und Ellbogen eng am Körper fixieren.
+
+  Ausführung:
+  • Beuge einen Arm kontrolliert und drehe den Unterarm während des Hebens nach außen (Supination), sodass die Handfläche oben zur Schulter zeigt.
+  • Spanne den Bizeps am höchsten Punkt für einen Moment maximal an.
+  • Senke die Hantel langsam und kontrolliert ab, während du den anderen Arm nach oben beugst.
+  • Vermeide jegliches Mitschwingen des Oberkörpers.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3724'
+search_terms:
+  - Alternierende Bizeps-Curls mit Kurzhantel
+  - Kurzhantelcurls abwechselnd

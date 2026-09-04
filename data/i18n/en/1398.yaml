@@ -5,12 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1398'
 language: en
-status: upstream_unreviewed
-name: Hamstring Chokes
+status: ai_reviewed
+name: Seated Hamstring Choke Stretch
 description: |-
   Sit on the ground and bend one leg, bringing your knee toward you. Place your hand behind your hamstring and gently pull your leg toward your chest, feeling a stretch in the back of your thigh. Straighten your leg, extending up toward the ceiling.
 search_terms:
-  - Dynamic Hamstring Stretch
+  - Hamstring Chokes
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592

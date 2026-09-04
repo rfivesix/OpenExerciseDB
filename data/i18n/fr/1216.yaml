@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1216'
 language: fr
-status: upstream_unreviewed
-name: Tractions de recrutement
+status: ai_reviewed
+name: Tractions de recrutement sur poutre
 description: |-
-  Repérez quelques tailles de réglettes spécifiques sur une poutre d'entraînement, placez-vous en suspension en dessous avec la poutre au-dessus de votre tête, et tirez avec un effort maximal, un bras à la fois, pendant 3 à 5 secondes. Pour vous positionner, installez-vous avec un grand angle au coude (120 à 150 degrés) et non en pleine extension.
+  Position de départ :
+  • Installez-vous sous une poutre d'escalade (hangboard) et sélectionnez une réglette adaptée.
+  • Saisissez la réglette d'une seule main en gardant les pieds en appui au sol ou sur un support.
+  • Adoptez un angle de coude ouvert entre 120 et 150 degrés (jamais en extension complète passive).
+
+  Exécution :
+  • Tirez vers le haut avec un effort isométrique maximal pendant 3 à 5 secondes pour recruter un maximum de fibres motrices.
+  • Gardez l'épaule fermement engagée et verrouillée.
+  • Prenez un repos complet avant de répéter le tirage sur le bras opposé.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4529'
+search_terms:
+  - Tractions de recrutement
+  - Recruitment Pulls

@@ -5,17 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1202'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hüftabduktion in Seitenlage
 description: |-
-  Lege dich zunächst auf die Seite, das obere Bein ist gestreckt und das untere Bein zur Stabilisierung angewinkelt.
-  Hebe dein oberes Bein vom Boden ab.
-  (optional) - Halte die Position oben.
+  Ausgangsposition:
+  • Lege dich seitlich auf eine Trainingsmatte.
+  • Das untere Bein ist zur besseren Stabilität leicht gebeugt, das obere Bein ist vollständig gestreckt.
+  • Stütze deinen Kopf mit dem unteren Arm ab und platziere die obere Hand stabilisierend vor der Brust auf dem Boden.
 
-  Quellen:
-
-  40-sekündiges YouTube-Video: https://www.youtube.com/watch?v=g9FtnmsIYgI
+  Ausführung:
+  • Hebe das obere, gestreckte Bein kontrolliert nach oben an, wobei die Fußspitze leicht nach unten oder parallel zum Boden zeigt.
+  • Achte darauf, dass das Becken senkrecht zum Boden bleibt und nicht nach hinten abkippt.
+  • Halte die Spannung im mittleren Gesäßmuskel (M. gluteus medius) am höchsten Punkt kurz und senke das Bein kontrolliert wieder ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3736'
+search_terms:
+  - Side Lying Hip Abduction
+  - Beinheben in Seitenlage

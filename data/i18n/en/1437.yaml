@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: en
-status: upstream_unreviewed
-name: Pin Squat
+status: ai_reviewed
+name: Barbell Pin Squat
 description: |-
-  Set security pins to about the height of your sticking point
-  Lower the bar, rest on the pins for 2s keeping tension
-  Stand up with maximum force
+  Starting position:
+  Set the safety pins in a power rack at your desired depth (such as parallel or just above your sticking point). Unrack the barbell onto your upper back and take your standard squat stance with core braced.
+
+  Movement:
+  Descend under control into a squat until the barbell comes to rest gently on the safety pins. Pause completely on the pins for 1 to 2 seconds while maintaining full torso and leg tightness, then drive forcefully through your midfoot and heels back to a standing position.
+
+  Notes:
+  Do not collapse or lose core tightness while the bar is resting on the pins. Dead-stop squats build immense starting power and stability out of the hole.
+search_terms:
+  - Pin Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9

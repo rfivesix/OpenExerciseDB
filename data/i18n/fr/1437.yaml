@@ -5,12 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1437'
 language: fr
-status: upstream_unreviewed
-name: Squat aux barres d'arrêt
+status: ai_reviewed
+name: Squat aux barres d'arrêt (Pin Squat)
 description: |-
-  Réglez les barres d'arrêt environ à la hauteur de votre point de blocage
-  Abaissez la barre, laissez-la reposer sur les barres d'arrêt pendant 2 s en maintenant la tension
-  Redressez-vous avec un maximum de force
+  Position de départ :
+  Réglez les barres d'arrêt dans la cage à squat à la hauteur de votre point de blocage ou au parallèle. Décrochez la barre sur le haut du dos et prenez votre écartement habituel de squat en gainant fermement le buste.
+
+  Mouvement :
+  Descendez de manière contrôlée jusqu'à poser délicatement la barre sur les barres d'arrêt. Marquez un arrêt complet de 1 à 2 secondes en maintenant la tension musculaire dans les cuisses et le tronc, puis repoussez puissamment la charge vers le haut en poussant sur les talons.
+
+  Conseils :
+  Ne relâchez pas la tension du tronc pendant la phase d'arrêt. Cette variante développe une force explosive maximale sans l'aide de l'élan élastique.
+search_terms:
+  - Squat aux barres d'arrêt
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

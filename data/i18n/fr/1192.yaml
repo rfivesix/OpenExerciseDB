@@ -5,11 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1192'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curls biceps alternés avec haltères
 description: |-
-  Tenez deux haltères, les bras tendus, les mains le long du corps, les paumes tournées vers l'intérieur. Fléchissez un bras à la fois et montez la charge dans un mouvement rapide. En même temps, faites pivoter votre bras de 90 degrés tout au début du mouvement. Au point le plus haut, faites pivoter un peu plus les haltères vers l'extérieur. Sans pause, redescendez le bras lentement, puis faites de même avec l'autre bras.
-  Ne laissez pas votre corps se balancer pendant l'exercice ; tout le travail est effectué par les biceps, qui sont les seuls muscles qui doivent bouger (faites attention aux coudes).
+  Position de départ :
+  • Tenez-vous debout pieds à largeur d'épaules avec un haltère dans chaque main le long du corps, paumes tournées vers l'intérieur (prise neutre).
+  • Gardez les épaules basses et les coudes calés contre les côtes.
+
+  Exécution :
+  • Fléchissez un coude pour monter l'haltère tout en effectuant une rotation (supination) de l'avant-bras pour que la paume soit dirigée vers l'épaule en haut.
+  • Contractez fortement le biceps au sommet du mouvement pendant une seconde.
+  • Redescendez lentement sous contrôle tout en démarrant la répétition sur l'autre bras.
+  • Gardez le buste parfaitement immobile sans aucun élan.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

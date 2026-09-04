@@ -5,10 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1216'
 language: en
-status: upstream_unreviewed
-name: Recruitment Pulls
+status: ai_reviewed
+name: Hangboard Recruitment Pulls
 description: |-
-  Find a few specific edge sizes on a hangboard, get fixed underneath them with the board overhead, and pull with max effort, 1 arm at a time, for 3-5 seconds. When positioning for this get set up with a large elbow angle (120-150 degrees) and not in full extension.
+  Starting Position:
+  • Position yourself underneath a climbing hangboard and choose a specific edge size.
+  • Grip the edge with one hand while keeping your feet supported on the ground or a small box.
+  • Set an open elbow angle of roughly 120 to 150 degrees (never hanging in complete elbow lockout).
+
+  Execution:
+  • Pull with maximum isometric effort upward for 3 to 5 seconds, recruiting maximum motor units in the fingers, forearm flexors, and back.
+  • Keep your shoulder engaged and locked into place throughout the pull.
+  • Rest adequately between attempts before repeating on the opposite arm.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2182'
+search_terms:
+  - Recruitment Pulls
+  - Hangboard pulls

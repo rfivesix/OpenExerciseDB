@@ -5,10 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1091'
 language: fr
-status: upstream_unreviewed
-name: Touchers d'épaules en planche
+status: ai_reviewed
+name: Touchers d'épaules en planche (Shoulder Taps)
 description: |-
-  Dans la position correcte de la planche, placez vos pieds légèrement plus écartés que la largeur des épaules. Levez alternativement une main pour toucher l'épaule opposée.
+  Position de départ :
+  Placez-vous en position de planche haute, mains sous les épaules et pieds écartés un peu plus largement que les hanches pour assurer une base stable.
+
+  Étapes :
+  1. Verrouillez la sangle abdominale et les fessiers pour empêcher le bassin de basculer ou d'osciller.
+  2. Décollez la main droite et venez toucher doucement l'épaule gauche.
+  3. Reposez la main droite au sol puis touchez l'épaule droite avec la main gauche.
+  4. Enchaînez les répétitions en alternant les côtés de manière fluide et contrôlée.
+search_terms:
+  - Touchers d'épaules en planche
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

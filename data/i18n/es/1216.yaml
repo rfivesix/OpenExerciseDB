@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1216'
 language: es
-status: upstream_unreviewed
-name: Recruitment Pulls
+status: ai_reviewed
+name: Recruitment pulls en hangboard
 description: |-
-  Elige unos cuantos tamaños concretos de regletas en un hangboard, cuélgate fijo debajo de ellas con la tabla por encima de la cabeza y tira con el máximo esfuerzo, con un brazo cada vez, durante 3-5 segundos. Al colocarte, sitúate con un ángulo de codo amplio (120-150 grados) y no en extensión completa.
+  Posición inicial:
+  • Sitúate debajo de una tabla de entrenamiento de escalada (hangboard) y elige una regleta de tamaño específico.
+  • Sujeta la regleta con una sola mano manteniendo los pies apoyados en el suelo o un escalón.
+  • Ajusta un ángulo del codo abierto de 120 a 150 grados (evitando el bloqueo articular completo).
+
+  Ejecución:
+  • Ejerce una tracción hacia arriba con el máximo esfuerzo voluntario durante 3 a 5 segundos de forma isométrica.
+  • Mantén la escápula y el hombro completamente activos y estabilizados.
+  • Descansa el tiempo necesario entre series y cambia de brazo.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3774'
+search_terms:
+  - Recruitment Pulls
+  - Tracciones de reclutamiento

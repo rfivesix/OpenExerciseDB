@@ -1,21 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '999'
 language: en
-status: upstream_unreviewed
-name: Reverse lunges
-description: |-
-  Starting position:
-  Stand straight, feet hip-width apart.
-  Steps:
+status: ai_reviewed
+name: Reverse Lunge
+description: 'Starting Position: Stand tall with feet hip-width apart, chest lifted
+  and hands on hips or in front of your chest.
 
-  Step backward with one leg so it can bend comfortably to a 90 degree angle.
-  Slowly bend both knees to form 90 degree angles.
-  Return to the starting position.
-  Repeat, alternating legs.
+  Execution: Take a controlled step backward with one leg, landing on the ball of
+  your foot. Lower your hips until your front thigh is parallel to the ground and
+  your back knee hovers just above the floor.
+
+  Return: Drive through your front heel to return to the standing starting position.
+
+  Cues: Keep your torso upright and front knee tracking over your front toes.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1753'
+search_terms:
+- Reverse lunges
+- Backward Lunge

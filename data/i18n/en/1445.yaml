@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1445'
 language: en
-status: upstream_unreviewed
-name: Jerk OL
+status: ai_reviewed
+name: Olympic Jerk
 description: |-
-  Olympic lift jerk
+  Starting Position:
+  • Rest the barbell securely in the front rack position on your collarbones and front deltoids.
+  • Stand with feet hip-width apart, spine completely neutral and core braced firmly.
 
-  Hold bar in front on shoulders like push press
-  Bend and extend knees pushing bar up while diving under the bar
-  Catch bar overhead with straight arms using lunge
-  Move feet parallel while holding bar in lockout
+  Execution:
+  • Dip straight down by bending your knees a few inches, keeping your torso strictly vertical.
+  • Drive explosively upward through your legs, transferring momentum directly to the barbell.
+  • Drop rapidly under the bar, catching it with arms fully locked out overhead, typically in a split stance (Split Jerk).
+  • Recover by stepping the front foot halfway back, then the rear foot forward until feet are parallel, maintaining the bar overhead before lowering.
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2409'
+search_terms:
+  - Jerk OL
+  - Olympic Lift Jerk
+  - Split Jerk

@@ -6,13 +6,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '543'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Machine Shoulder Press
+search_terms:
+- Shoulder Press, on Machine
+description: |-
+  Starting Position: Sit down on the shoulder press machine and adjust the seat height so that the handles align with your shoulders. Keep your back firmly against the pad and feet flat on the floor.
+  Execution: Press the handles upward overhead in a controlled motion until your arms are extended without locking your elbows.
+  Return: Lower the weight slowly back to the starting position at shoulder level.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '152'
-search_terms:
-  - Shoulder Press, on Machine
-description: |-
-  Sit in the shoulder press machine and press the handles overhead. Lower them back to the starting position under control.

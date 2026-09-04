@@ -1,20 +1,16 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1006'
 language: it
-status: upstream_unreviewed
-name: Rialzo del mento
-description: |-
-  Posizione di partenza:
-  Seduti o in piedi con la schiena dritta.
-  Passi:
+status: ai_reviewed
+name: Retrazione del mento (Chin Tuck)
+description: 'Posizione di partenza: Siediti o stai in piedi con la schiena dritta
+  e lo sguardo in avanti.
 
-  Usare le dita sul mento per infilare lentamente il mento, spostando la testa indietro per allinearla con la colonna vertebrale.
-  Tenere per 5 secondi.
-  Torna alla posizione normale della testa e ripeti.
+  Esecuzione: Ritrai il mento orizzontalmente all''indietro (come a formare un doppio
+  mento) per allineare le orecchie alle spalle.
+
+  Ritorno: Mantieni per 3-5 secondi, quindi rilascia lentamente alla posizione neutra.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1839'
+search_terms:
+- Rialzo del mento

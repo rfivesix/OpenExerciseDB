@@ -5,10 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1325'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Lateral Push Off
-description: |-
-  Push off the ground and land on one leg and regain balance before jumping to the other leg
+description: 'Starting position:
+
+  Begin in an athletic, balanced stance with your knees slightly bent and core engaged.
+
+
+  Execution:
+
+  1. Push off explosively from your planted leg in a lateral direction.
+
+  2. Land softly on the opposite leg, absorbing the impact through your knee and hip.
+
+  3. Regain your balance briefly and push off back to the other side.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen
