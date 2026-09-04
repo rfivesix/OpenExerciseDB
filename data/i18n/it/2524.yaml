@@ -1,9 +1,11 @@
 exercise_id: '2524'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Good Morning a gambe divaricate
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4993'
+description: |-
+  Posiziona il bilanciere sulle spalle come per uno squat. Fai un mezzo passo in avanti con una gamba mantenendola distesa, mentre la gamba posteriore resta leggermente flessa. Fletti il busto in avanti in modo controllato spingendo il bacino indietro per allungare i muscoli ischiocrurali (femorali) della gamba avanzata, quindi ritorna alla posizione eretta.

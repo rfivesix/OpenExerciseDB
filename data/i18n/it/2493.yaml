@@ -1,9 +1,11 @@
 exercise_id: '2493'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank laterale per adduttori (Copenhagen Plank)
 upstream:
   license: CC-BY-SA-4.0
   license_author: hurr99
   source_id: '4974'
+description: |-
+  Posizionati di lato accanto a una panca piana a 90 gradi. Appoggia la parte interna della caviglia della gamba superiore sulla panca e posiziona la gamba inferiore al di sotto di essa. Appoggia l'avambraccio a terra a 90 gradi e solleva il bacino formando una linea retta con il corpo, mantenendo la posizione isometrica per rafforzare gli adduttori dell'anca e il core.

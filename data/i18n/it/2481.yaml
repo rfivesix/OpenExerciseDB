@@ -1,9 +1,11 @@
 exercise_id: '2481'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Battuta di gambe con tavoletta
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4958'
+description: |-
+  Impugna una tavoletta da nuoto con entrambe le mani a braccia distese in avanti e il viso in acqua. Esegui una battuta di gambe costante e compatta che parte dalle anche, con ginocchia morbide, respirando sollevando il capo in avanti per sviluppare la resistenza degli arti inferiori.

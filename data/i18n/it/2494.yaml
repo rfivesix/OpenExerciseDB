@@ -1,9 +1,11 @@
 exercise_id: '2494'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Estensione terminale del ginocchio con elastico (TKE)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rehab Hero
   source_id: '4976'
+description: |-
+  Esercizio per rinforzare gli estensori del ginocchio nell'arco terminale di movimento. Fissa un elastico di resistenza davanti a te e avvolgilo dietro il cavo popliteo di un ginocchio. In posizione di split stance con il ginocchio fasciato leggermente flesso, distendi la gamba spingendo contro la resistenza dell'elastico e mantieni la contrazione del quadricipite per 3-5 secondi prima di rilasciare.

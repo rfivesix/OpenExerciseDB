@@ -1,9 +1,17 @@
 exercise_id: '2449'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Clamshell e reverse clamshell combinati
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk
   source_id: '3555'
+description: |-
+  Posizione di partenza:
+  Sdraiati su un fianco con anche e ginocchia flesse e gambe sovrapposte. Solleva la gamba superiore mantenendola sospesa per tutto l'esercizio.
+
+  Esecuzione:
+  1. Ruota l'anca verso l'esterno aprendo il ginocchio verso l'alto (clamshell).
+  2. Unisci le ginocchia e ruota l'anca verso l'interno sollevando il piede in alto (reverse clamshell).
+  3. Alterna i due movimenti con ritmo lento e controllato, senza appoggiare la gamba superiore.

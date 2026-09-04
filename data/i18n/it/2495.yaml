@@ -1,9 +1,16 @@
 exercise_id: '2495'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Leg curl per femorali alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me
   source_id: '4977'
+description: |-
+  Posizione di partenza:
+  Regola lo schienale della macchina in modo che le ginocchia siano allineate con l'asse di rotazione. Posiziona il cuscinetto inferiore dietro le caviglie e abbassa il supporto superiore sulle cosce per bloccare le gambe.
+
+  Esecuzione:
+  1. Fletti le ginocchia tirando i talloni verso i glutei per contrarre i femorali.
+  2. Ritorna lentamente con movimento controllato.

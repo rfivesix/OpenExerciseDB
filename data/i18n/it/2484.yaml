@@ -1,9 +1,11 @@
 exercise_id: '2484'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Calciata laterale con tavoletta e respirazione
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4961'
+description: |-
+  Spingiti dalla parete nuotando sul fianco con un braccio disteso in avanti sulla tavoletta e battuta di gambe continua. Mantieni la testa neutra guardando il fondo della vasca e, quando hai bisogno di respirare, ruota lateralmente il capo mantenendo un orecchio in acqua, per poi tornare alla posizione neutra. Nuota una vasca intera prima di cambiare lato per apprendere la corretta coordinazione respiratoria nel nuoto.

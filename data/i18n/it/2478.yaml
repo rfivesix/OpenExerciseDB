@@ -1,8 +1,10 @@
 exercise_id: '2478'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Glute-Ham Raise (GHR)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4955'
+description: |-
+  In ginocchio sulla macchina GHD o con caviglie bloccate, scendi lentamente in avanti controllando il tronco con i femorali, quindi risali contraendo con forza muscoli ischiocrurali e glutei.
