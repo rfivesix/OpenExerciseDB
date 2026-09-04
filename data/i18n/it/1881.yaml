@@ -1,9 +1,11 @@
 exercise_id: '1881'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensione dei polsi con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Deflation
   source_id: '3025'
+description: |-
+  Siediti appoggiando gli avambracci sulle cosce con presa prona sui manubri; lascia scendere i polsi verso il basso ed estendili verso l'alto per rinforzare i muscoli estensori dell'avambraccio.

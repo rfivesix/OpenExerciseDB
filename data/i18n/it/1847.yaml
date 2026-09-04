@@ -1,9 +1,16 @@
 exercise_id: '1847'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: L-Sit a gambe divaricate (Straddle L-Sit)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2982'
+description: |-
+  Posizione di partenza:
+  Siediti a terra con le gambe divaricate e distese, posizionando i palmi delle mani sul pavimento tra le cosce.
+
+  Esecuzione:
+  1. Spingi con forza sui palmi estendendo le braccia e solleva il bacino e le gambe da terra.
+  2. Mantieni le gambe orizzontali e tese sostenendo la posizione con gli addominali.

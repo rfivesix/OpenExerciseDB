@@ -1,9 +1,17 @@
 exercise_id: '1530'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl con manubri da sdraiato su panca
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2488'
+description: |-
+  Posizione di partenza:
+  Afferra un manubrio in ciascuna mano e sdraiati supino su una panca piana. Lascia pendere le braccia distese lateralmente verso il pavimento.
+
+  Esecuzione:
+  1. Mantenendo i gomiti stabili, fletti le braccia sollevando i manubri verso l'alto contraendo i bicipiti.
+  2. Fermati un momento nel punto di massima contrazione in cima.
+  3. Abbassa lentamente i manubri con pieno controllo tornando alla distensione iniziale.

@@ -1,9 +1,17 @@
 exercise_id: '1519'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni per tricipiti sopra la testa con bilanciere EZ
 upstream:
   license: CC-BY-SA-4.0
   license_author: benjamin.yildiz@proton.me
   source_id: '2476'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca con schienale o posizionati in piedi, impugnando un bilanciere EZ con presa prona stretta. Solleva il bilanciere sopra la testa a braccia completamente distese. Mantieni il core contratto, la schiena dritta e i gomiti vicini alla testa.
+
+  Esecuzione:
+  1. Abbassa lentamente il bilanciere dietro la nuca piegando i gomiti fino a raggiungere un angolo di circa 90 gradi. Mantieni i gomiti stabili e puntati in avanti senza lasciarli allargare verso l'esterno.
+  2. Estendi con forza le braccia verso l'alto tornando alla posizione di partenza, contraendo i tricipiti al termine della distensione.
+  3. Controlla sempre il carico per proteggere le spalle e non inarcare la zona lombare.

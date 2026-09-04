@@ -1,9 +1,16 @@
 exercise_id: '1772'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch inverso a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh
   source_id: '2906'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino sul tappetino con le mani appoggiate sul pavimento vicino o sotto i glutei. Solleva le gambe con le ginocchia leggermente piegate.
+
+  Esecuzione:
+  1. Contrai l'addome e solleva il bacino e i glutei dal pavimento portando le ginocchia verso il petto.
+  2. Abbassa lentamente il bacino senza toccare bruscamente terra.

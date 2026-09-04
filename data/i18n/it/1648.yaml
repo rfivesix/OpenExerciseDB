@@ -1,9 +1,17 @@
 exercise_id: '1648'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch con disco
 upstream:
   license: CC-BY-SA-4.0
   license_author: AlucardEvil40
   source_id: '2759'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino con le ginocchia flesse e i piedi ben piantati a terra. Tieni un disco da bilanciere sul petto con entrambe le mani o disteso verso l'alto sopra la testa.
+
+  Esecuzione:
+  1. Solleva le spalle e la parte superiore della schiena dal pavimento flettendo il torace verso il bacino.
+  2. Contrai intensamente i muscoli addominali contro il carico aggiuntivo del disco.
+  3. Riscendi lentamente controllando la fase eccentrica fino a sfiorare il tappetino.

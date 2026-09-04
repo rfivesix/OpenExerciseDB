@@ -1,9 +1,18 @@
 exercise_id: '1704'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: L-Sit raccolto (Tuck L-Sit)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2825'
+description: |-
+  Posizione di partenza:
+  Posizionati tra due parallele, su parallettes o con le mani a terra a braccia completamente distese.
+
+  Esecuzione:
+  1. Spingi con forza sulle mani deprimendo le spalle e solleva il corpo dal pavimento.
+  2. Richiama le ginocchia verso il petto mantenendole flesse a 90 gradi o raccolte al torace, con le cosce parallele al pavimento.
+  3. Mantieni la posizione isometrica respirando regolarmente e senza piegare i gomiti.
+  4. Per facilitare l'esercizio puoi appoggiare le punte dei piedi a terra.

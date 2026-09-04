@@ -1,9 +1,16 @@
 exercise_id: '1909'
 language: it
-status: ai_raw
-translated_from: en
-name: Ruota per addominali avanzata con piedi
+status: ai_reviewed
+translated_from: de
+name: Circonduzioni delle gambe da supino (Lying Leg Circles)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3056'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino sul tappetino e solleva le gambe verticalmente a 90 gradi verso il soffitto con le ginocchia unite.
+
+  Esecuzione:
+  1. Inizia a disegnare piccoli cerchi controllati nell'aria con entrambe le gambe unite.
+  2. Mantieni la zona lombare ben adesa al pavimento e il core contratto durante tutte le rotazioni.

@@ -1,9 +1,18 @@
 exercise_id: '1824'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tate Press con manubri per tricipiti
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2959'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca piana tenendo un manubrio in ciascuna mano. Distendi le braccia verso l'alto sopra il petto con i manubri vicini e i palmi rivolti verso i piedi (presa prona).
+
+  Esecuzione:
+  1. Mantenendo i gomiti allargati verso l'esterno, fletti le braccia abbassando le estremità interne dei manubri verso il centro del petto, senza muovere le spalle.
+  2. Fai toccare delicatamente i manubri sul torace senza scaricare la tensione.
+  3. Spingi con forza estendendo i gomiti per riportare i manubri nella posizione di partenza a braccia distese.
+  4. Concentrati esclusivamente sull'estensione dei tricipiti controllando accuratamente la discesa.

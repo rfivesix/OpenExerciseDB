@@ -1,9 +1,11 @@
 exercise_id: '1583'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Distensioni su panca in posizione supina
+name: Distensioni su panca in posizione supina a presa stretta
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2531'
+description: |-
+  Sdraiati su panca piana, afferra il bilanciere con una presa stretta alla larghezza delle spalle e spingi perpendicolarmente mantenendo la schiena aderente alla panca.

@@ -1,9 +1,11 @@
 exercise_id: '1828'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Manovra di rientro addominale (Vacuum)
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2963'
+description: |-
+  Sdraiati sulla schiena a ginocchia piegate. Espira completamente e risucchia delicatamente l'ombelico verso la colonna vertebrale senza muovere il bacino, attivando il muscolo trasverso dell'addome.

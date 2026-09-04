@@ -1,9 +1,11 @@
 exercise_id: '1567'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl a martello alternato con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mariano_O
   source_id: '2515'
+description: |-
+  In piedi con la schiena dritta, impugna i manubri con presa neutra (palmi rivolti l'uno verso l'altro). Fletti un braccio alla volta sollevando il carico verso la spalla senza ruotare il polso, poi abbassalo con controllo.

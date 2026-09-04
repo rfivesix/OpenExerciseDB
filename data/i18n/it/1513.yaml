@@ -1,9 +1,16 @@
 exercise_id: '1513'
 language: it
-status: ai_raw
-translated_from: en
-name: Affondi camminati con manubri
+status: ai_reviewed
+translated_from: de
+name: Estensioni per tricipiti sopra la testa al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2472'
+description: |-
+  Posizione di partenza:
+  Posizionati con la schiena rivolta alla carrucola del cavo e impugna la corda dietro la testa.
+
+  Esecuzione:
+  1. Estendi le braccia in avanti e verso l'alto sopra la testa fino alla completa estensione dei gomiti.
+  2. Controlla la fase negativa opponendo resistenza durante il ritorno.

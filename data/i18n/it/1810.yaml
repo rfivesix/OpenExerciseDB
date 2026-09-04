@@ -1,9 +1,16 @@
 exercise_id: '1810'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Posizione della sfinge
+name: Posizione della sfinge (Sphinx)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Joculari
   source_id: '2939'
+description: |-
+  Posizione di partenza:
+  Sdraiati prono a terra con le gambe distese e il dorso dei piedi a contatto con il pavimento. Posiziona gli avambracci sul suolo con i gomiti allineati direttamente sotto le spalle e i palmi rivolti verso il basso.
+
+  Esecuzione:
+  1. Premi gli avambracci a terra e solleva delicatamente il petto e la testa inarcando la colonna toracica.
+  2. Mantieni le spalle rilassate e lo sguardo in avanti respirando profondamente.

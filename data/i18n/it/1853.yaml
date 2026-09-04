@@ -1,9 +1,11 @@
 exercise_id: '1853'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: L-Sit con piedi appoggiati a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2988'
+description: |-
+  Esegui la tenuta a squadra sollevando il bacino con la spinta delle braccia, mantenendo i talloni a terra per ridurre il carico e facilitare la tenuta isometrica del tronco.

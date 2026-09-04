@@ -1,9 +1,11 @@
 exercise_id: '1592'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Meditazione guidata o libera
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2541'
+description: |-
+  Siediti in una posizione comoda con gli occhi chiusi e concentrati sul respiro naturale, osservando i pensieri senza giudizio per sviluppare consapevolezza, calma mentale e ridurre lo stress quotidiano.

@@ -1,9 +1,18 @@
 exercise_id: '1512'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Drop curl con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2471'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con un manubrio in ciascuna mano. Posiziona entrambe le braccia flesse all'altezza del petto, con i manubri leggermente orientati l'uno verso l'altro.
+
+  Esecuzione:
+  1. Mantenendo un braccio bloccato in contrazione isometrica al petto, abbassa lentamente l'altro manubrio estendendo il braccio verso il basso in modo controllato.
+  2. Fletti nuovamente il braccio riportando il manubrio alla posizione iniziale all'altezza del petto.
+  3. Ripeti immediatamente il movimento con il braccio opposto, alternando le braccia.
+  4. Mantenere un braccio in contrazione mentre l'altro si muove garantisce una tensione costante sul muscolo brachiale e sul bicipite.

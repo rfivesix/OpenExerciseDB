@@ -1,8 +1,15 @@
 exercise_id: '1766'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank con allungamento alternato del braccio
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2898'
+description: |-
+  Posizione di partenza:
+  Assumi la posizione di plank sugli avambracci o sulle mani con lo sguardo rivolto al pavimento.
+
+  Esecuzione:
+  1. Distendi un braccio dritto in avanti all'altezza delle spalle, mantenendo il bacino perfettamente orizzontale.
+  2. Riporta il braccio a terra e ripeti l'allungamento con l'altro braccio.

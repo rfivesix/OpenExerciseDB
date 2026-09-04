@@ -1,9 +1,17 @@
 exercise_id: '1572'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Bird Dog per stabilizzazione lombare
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2520'
+description: |-
+  Posizione di partenza:
+  Posizionati a quattro zampe su un tappetino, con le mani poste direttamente sotto le spalle e le ginocchia allineate sotto le anche. Mantieni la colonna vertebrale in posizione neutra e il core attivo.
+
+  Esecuzione:
+  1. Estendi contemporaneamente il braccio destro in avanti e la gamba sinistra all'indietro finché non sono entrambi paralleli al pavimento, formando una linea retta con il tronco.
+  2. Mantieni il bacino stabile senza ruotare i fianchi e concentrati sulla contrazione del gluteo e dei muscoli paravertebrali.
+  3. Mantieni la posizione per due secondi, poi ritorna con controllo a terra e ripeti alternando con il braccio sinistro e la gamba destra.

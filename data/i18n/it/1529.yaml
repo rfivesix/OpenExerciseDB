@@ -1,9 +1,17 @@
 exercise_id: '1529'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Panca inclinata alla macchina convergente
+name: Toes-to-Bar (piedi alla sbarra)
 upstream:
   license: CC-BY-SA-4.0
   license_author: florian.bussmann
   source_id: '2487'
+description: |-
+  Posizione di partenza:
+  Appenditi a una sbarra per trazioni con presa prona a braccia distese e corpo rilassato.
+
+  Esecuzione:
+  1. Attiva il core e fletti il bacino sollevando le gambe tese in avanti e verso l'alto.
+  2. Porta le punte dei piedi a toccare la sbarra tra le mani.
+  3. Abbassa le gambe lentamente e con pieno controllo senza dondolare.

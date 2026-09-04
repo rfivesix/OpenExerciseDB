@@ -1,9 +1,17 @@
 exercise_id: '1703'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Slanci posteriori per glutei a terra (Kickback)
+name: Kickback per tricipiti con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mariano_O
   source_id: '2823'
+description: |-
+  Posizione di partenza:
+  Appoggia un ginocchio e una mano su una panca piana con il busto parallelo al pavimento. Tieni un manubrio con l'altra mano, portando il gomito in alto vicino al fianco.
+
+  Esecuzione:
+  1. Estendi il gomito spingendo il manubrio all'indietro fino a distendere completamente il braccio.
+  2. Contrai il tricipite in cima per un istante.
+  3. Riporta il manubrio in avanti flettendo il gomito a 90 gradi.

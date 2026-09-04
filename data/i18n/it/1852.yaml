@@ -1,9 +1,16 @@
 exercise_id: '1852'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: L-Sit alle parallele
+name: L-Sit alle parallele o a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2987'
+description: |-
+  Posizione di partenza:
+  Siediti sul pavimento o posizionati sulle parallele con le gambe unite e le mani accanto ai fianchi.
+
+  Esecuzione:
+  1. Spingi sulle mani sollevando l'intero corpo dal suolo a braccia distese.
+  2. Mantieni le gambe perfettamente tese e orizzontali a 90 gradi rispetto al busto, contraendo con decisione il core.

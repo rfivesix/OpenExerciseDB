@@ -1,9 +1,11 @@
 exercise_id: '1657'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Distensioni su panca piana a presa neutra
+name: Curl su panca Scott con rotazione interna
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2778'
+description: |-
+  Siediti alla panca Scott con un manubrio ed esegui il curl a un braccio ruotando leggermente il busto verso il peso, accentuando il lavoro sul bicipite.

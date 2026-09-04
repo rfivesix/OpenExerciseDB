@@ -1,9 +1,11 @@
 exercise_id: '1868'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Affondo con torsione del tronco
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3010'
+description: |-
+  Esegui un affondo in avanti e ruota lentamente il busto verso il lato della gamba avanzata, favorendo la mobilità della colonna toracica e l'allungamento dei flessori.

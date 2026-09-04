@@ -1,9 +1,16 @@
 exercise_id: '1808'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tenuta isometrica alle parallele
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2937'
+description: |-
+  Posizione di partenza:
+  Posizionati tra le barre parallele con una mano su ciascun montante.
+
+  Esecuzione:
+  1. Spingi con forza sulle mani per sollevare il corpo a braccia completamente distese.
+  2. Mantieni le spalle depresse e lontane dalle orecchie, il petto aperto e le gambe unite, sostenendo la posizione statica.

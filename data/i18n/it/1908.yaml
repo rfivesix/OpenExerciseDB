@@ -1,9 +1,11 @@
 exercise_id: '1908'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Superman a farfalla a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3055'
+description: |-
+  Sdraiati a pancia in giù, intreccia le dita delle mani dietro la nuca e solleva contemporaneamente il capo, il petto e i gomiti il più in alto possibile contraendo i muscoli della parte alta della schiena.

@@ -1,9 +1,17 @@
 exercise_id: '1573'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rollout con ruota per addominali (Ab Wheel)
 upstream:
   license: CC-BY-SA-4.0
   license_author: lhegedus
   source_id: '2521'
+description: |-
+  Posizione di partenza:
+  Inginocchiati su un tappetino posizionando la ruota per addominali a terra davanti a te. Afferra saldamente le maniglie laterali.
+
+  Esecuzione:
+  1. Fai rotolare la ruota in avanti in modo lento e controllato, estendendo il corpo fino a sfiorare il suolo con il petto.
+  2. Mantieni il core saldo e la schiena neutra.
+  3. Tira la ruota indietro contraendo l'addome per tornare in ginocchio.

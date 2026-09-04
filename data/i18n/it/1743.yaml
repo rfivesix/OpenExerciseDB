@@ -1,9 +1,11 @@
 exercise_id: '1743'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Tergicristallo a terra (Windshield Wipers)
+name: Tergicristallo alla sbarra (Hanging Windshield Wipers)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2873'
+description: |-
+  Appenditi a una sbarra per trazioni e solleva le gambe tese verso l'alto; muovi le gambe unite da sinistra a destra con un movimento oscillante a tergicristallo controllato dagli addominali obliqui.

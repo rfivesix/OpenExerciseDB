@@ -1,9 +1,11 @@
 exercise_id: '1591'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Respirazione diaframmatica profonda
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2540'
+description: |-
+  In piedi o seduto con la schiena dritta, esegui respirazioni lente e profonde gonfiando l'addome durante l'inspirazione ed espirando completamente per ossigenare il corpo e favorire il rilassamento.

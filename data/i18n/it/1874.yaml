@@ -1,9 +1,11 @@
 exercise_id: '1874'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento del podista in affondo profondo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3016'
+description: |-
+  Assumi un affondo profondo a terra con le mani all'interno del piede avanzato e allunga la gamba posteriore per distendere flessori dell'anca e ischiocrurali.

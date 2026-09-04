@@ -1,9 +1,11 @@
 exercise_id: '1867'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento flessori dell'anca a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3009'
+description: |-
+  Posizionati a terra in affondo basso e proietta il bacino in avanti mantenendo il busto verticale per distendere in modo controllato i flessori dell'anca.

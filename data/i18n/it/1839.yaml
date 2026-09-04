@@ -1,9 +1,11 @@
 exercise_id: '1839'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento dei flessori dell'anca in ginocchio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2974'
+description: |-
+  In posizione di affondo con un ginocchio a terra, spingi delicatamente il bacino in avanti mantenendo la schiena dritta per allungare i muscoli flessori dell'anca.

@@ -1,9 +1,16 @@
 exercise_id: '1779'
 language: it
-status: ai_raw
-translated_from: en
-name: Squat con bilanciere a barra alta (High Bar Squat)
+status: ai_reviewed
+translated_from: de
+name: Rotazioni al landmine (Landmine Rotation)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz
   source_id: '2913'
+description: |-
+  Posizione di partenza:
+  Impugna l'estremità del bilanciere inserito nel landmine con entrambe le mani a braccia tese sopra la testa.
+
+  Esecuzione:
+  1. Ruota il bilanciere con un arco controllato verso un fianco, ruotando il tronco.
+  2. Riporta il bilanciere in alto e ripeti la discesa verso il lato opposto.

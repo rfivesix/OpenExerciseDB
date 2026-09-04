@@ -1,9 +1,17 @@
 exercise_id: '1683'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl Zottman con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2803'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano lungo i fianchi.
+
+  Esecuzione:
+  1. Fletti le braccia sollevando i manubri verso le spalle con presa supina (palmi verso l'alto).
+  2. In cima, ruota i polsi portando i palmi verso il basso (presa prona).
+  3. Abbassa i manubri lentamente in pronazione, poi ruota di nuovo i polsi alla base.

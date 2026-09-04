@@ -1,9 +1,17 @@
 exercise_id: '1774'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dip alla sedia a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman
   source_id: '2908'
+description: |-
+  Posizione di partenza:
+  Siediti sul bordo anteriore di una sedia stabile con le mani che afferrano il bordo accanto ai fianchi. Sposta i glutei in avanti oltre il bordo sostenendo il peso sulle braccia, con le gambe flesse o distese davanti a te.
+
+  Esecuzione:
+  1. Abbassa lentamente il busto flettendo i gomiti fino a formare un angolo di circa 90 gradi.
+  2. Mantieni la schiena vicina alla sedia durante la discesa.
+  3. Spingi sui palmi delle mani per distendere le braccia e tornare in alto.

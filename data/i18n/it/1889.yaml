@@ -1,9 +1,17 @@
 exercise_id: '1889'
 language: it
-status: ai_raw
-translated_from: en
-name: Good Morning al multipower (Smith Machine)
+status: ai_reviewed
+translated_from: de
+name: Sollevamento gambe su panca declinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3036'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca declinata posizionando la testa verso l'estremità più alta e afferra saldamente le impugnature o i bordi della panca per stabilizzarti.
+
+  Esecuzione:
+  1. Distendi completamente le gambe sollevandole leggermente dalla panca.
+  2. Solleva le gambe tese verso l'alto fino alla verticale, staccando leggermente il bacino per contrarre l'addome.
+  3. Abbassa lentamente le gambe fino alla posizione di partenza controllando la discesa.

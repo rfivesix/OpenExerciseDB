@@ -1,9 +1,17 @@
 exercise_id: '1608'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl per bicipiti alla sbarra a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: tenebrizz
   source_id: '2583'
+description: |-
+  Posizione di partenza:
+  Posizionati sotto una sbarra dritta regolata all'altezza della vita o del petto. Afferra la sbarra con presa supina (palmi rivolti verso di te) alla larghezza delle spalle. Posiziona i piedi in avanti e inclina il corpo all'indietro a braccia tese.
+
+  Esecuzione:
+  1. Mantenendo il corpo dritto e rigido dai talloni alla testa, fletti le braccia tirando la fronte o il mento verso la sbarra.
+  2. Contrai con forza i bicipiti nella parte superiore del movimento.
+  3. Riscendi lentamente a braccia distese con pieno controllo.

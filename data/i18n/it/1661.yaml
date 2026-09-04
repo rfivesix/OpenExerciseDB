@@ -1,9 +1,16 @@
 exercise_id: '1661'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Spinte al cavo per tricipiti
+name: Spinte al cavo per tricipiti a un braccio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2782'
+description: |-
+  Posizione di partenza:
+  In piedi davanti al cavo alto, tieni la maniglia vicino al petto con il gomito flesso e aperto verso l'esterno.
+
+  Esecuzione:
+  1. Spingi in avanti e verso il basso estendendo completamente il gomito.
+  2. Ritorna lentamente al petto.

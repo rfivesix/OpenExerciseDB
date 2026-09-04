@@ -1,9 +1,11 @@
 exercise_id: '1662'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni tricipiti al cavo con rotazione interna
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2783'
+description: |-
+  Afferra la maniglia del cavo con il gomito flesso davanti alla spalla opposta. Ruota il busto verso il cavo ed estendi il braccio verso il basso contraendo i tricipiti, poi ritorna con controllo.

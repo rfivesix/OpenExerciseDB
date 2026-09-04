@@ -1,9 +1,16 @@
 exercise_id: '1687'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Trascino del peso a quattro zampe (Bear Crawl Pull)
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2806'
+description: |-
+  Posizione di partenza:
+  Posiziona un manubrio a terra all'altezza delle anche e assumi la posizione di bear crawl a quattro zampe con le ginocchia sollevate a pochi centimetri dal suolo.
+
+  Esecuzione:
+  1. Stacca una mano da terra, afferra il manubrio sotto il corpo e trascinalo verso il lato opposto.
+  2. Mantieni il bacino perfettamente stabile senza oscillare, poi ripeti con l'altra mano.
