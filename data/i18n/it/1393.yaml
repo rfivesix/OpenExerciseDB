@@ -1,9 +1,11 @@
 exercise_id: '1393'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento bicipite femorale a una gamba
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2360'
+description: |-
+  Siediti a terra con una gamba distesa in avanti e l'altra piegata verso l'interno. Piegati in avanti con entrambe le mani verso la punta del piede della gamba tesa.

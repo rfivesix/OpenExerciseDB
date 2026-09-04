@@ -1,9 +1,11 @@
 exercise_id: '1437'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat con bilanciere dai perni (Pin Squat)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2401'
+description: |-
+  Imposta i perni di sicurezza del rack all'altezza del tuo punto critico. Scendi con il bilanciere finché si appoggia sui perni, mantieni la tensione per due secondi e risali con la massima forza.

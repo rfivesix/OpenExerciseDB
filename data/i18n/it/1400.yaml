@@ -1,9 +1,11 @@
 exercise_id: '1400'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento dei femorali con gamba incrociata
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2367'
+description: |-
+  In piedi, incrocia una gamba dietro l'altra mantenendola tesa. Fletti il busto in avanti verso il basso cercando di toccare la punta del piede posteriore per allungare il femorale.

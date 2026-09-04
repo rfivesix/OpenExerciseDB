@@ -1,9 +1,15 @@
 exercise_id: '1115'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Riscaldamento con affondi tridimensionali (3D lunge)
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2078'
+description: |-
+  Posizione di partenza:
+  In piedi tenendo un manubrio leggero in ciascuna mano per il riscaldamento.
+
+  Esecuzione:
+  1. Esegui affondi alternando le direzioni: in avanti, lateralmente, all'indietro e in diagonale a 45 gradi, attivando anche e ginocchia.

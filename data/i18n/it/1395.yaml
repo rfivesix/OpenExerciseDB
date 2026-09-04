@@ -1,9 +1,11 @@
 exercise_id: '1395'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Slanci frontali delle gambe incrociati
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2362'
+description: |-
+  Appoggiati a una parete per l'equilibrio. Fai oscillare una gamba davanti al corpo incrociandola verso l'interno, poi riaprila lateralmente aumentando gradualmente l'escursione articolare in modo fluido.

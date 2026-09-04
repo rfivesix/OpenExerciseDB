@@ -1,9 +1,15 @@
 exercise_id: '1243'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sollevamento polpacci a due gambe a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2205'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza dei fianchi e le mani sui fianchi o a parete per l'equilibrio.
+
+  Esecuzione:
+  1. Spingi sugli avampiedi sollevando i talloni il più in alto possibile, quindi riabbassali lentamente.

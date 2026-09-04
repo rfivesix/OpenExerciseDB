@@ -1,9 +1,11 @@
 exercise_id: '1407'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rematore Seal su panca rialzata (Seal Row)
+name: Cossack squat a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2371'
+description: |-
+  Il Cossack Squat è un esercizio multiarticolare che allena quadricipiti, glutei e adduttori. È ideale per incrementare forza, mobilità delle anche e stabilità funzionale nel piano frontale.

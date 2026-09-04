@@ -1,9 +1,16 @@
 exercise_id: '1202'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Abduzioni dell'anca sul fianco a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: wakanda90
   source_id: '2161'
+description: |-
+  Posizione di partenza:
+  Sdraiati su un fianco sul tappetino con la gamba inferiore piegata per dare stabilità e la gamba superiore distesa.
+
+  Esecuzione:
+  1. Solleva la gamba superiore verso l'alto contraendo il medio gluteo.
+  2. Mantieni brevemente la posizione in cima e riabbassa con controllo.

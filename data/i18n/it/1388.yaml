@@ -1,9 +1,17 @@
 exercise_id: '1388'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stacco rumeno a una gamba a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2355'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con il core contratto e le spalle indietro.
+
+  Esecuzione:
+  1. Trasferisci il peso su una gamba e solleva l'altra da terra.
+  2. Mantenendo la schiena dritta, fletti l'anca e inclina il busto in avanti, estendendo la gamba libera all'indietro senza ruotare il bacino.
+  3. Scendi fino a sentire l'allungamento nei muscoli ischiocrurali (femorali) della gamba d'appoggio, quindi risali contraendo il gluteo.

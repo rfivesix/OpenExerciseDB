@@ -1,9 +1,17 @@
 exercise_id: '1414'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hack squat alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: hpmbala@gmail.com
   source_id: '2383'
+description: |-
+  Posizione di partenza:
+  Posizionati sulla macchina Hack Squat appoggiando le spalle ai cuscinetti imbottiti e la schiena allo schienale, con i piedi posizionati sulla pedana leggermente in avanti rispetto al bacino.
+
+  Esecuzione:
+  1. Sblocca le sicure spingendo sui talloni, quindi fletti lentamente le ginocchia abbassando il carrello in modo controllato.
+  2. Scendi finché le cosce sono parallele alla pedana senza far staccare la parte bassa della schiena.
+  3. Spingi attraverso i talloni per ritornare alla posizione di partenza, evitando di bloccare le ginocchia in alto.

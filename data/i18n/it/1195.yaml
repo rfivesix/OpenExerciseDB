@@ -1,9 +1,16 @@
 exercise_id: '1195'
 language: it
-status: ai_raw
-translated_from: en
-name: Torsioni russe con peso (Russian Twist)
+status: ai_reviewed
+translated_from: de
+name: Squat con scivolamento laterale (Side Slides + Squats)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Insight
   source_id: '2152'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi leggermente più larghi delle spalle in posizione atletica ribassata.
+
+  Esecuzione:
+  1. Fai scivolare lateralmente la gamba guida spingendo con forza sul piede d'appoggio.
+  2. Dopo tre scivolamenti, ruota il corpo di 180 gradi sul piede perno ed esegui uno squat profondo, continuando l'esercizio in direzione opposta.

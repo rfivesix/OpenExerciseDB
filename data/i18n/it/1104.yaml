@@ -1,8 +1,14 @@
 exercise_id: '1104'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Camminata a passo svelto
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'
+description: |-
+  Posizione di partenza:
+  In piedi con postura eretta e spalle rilassate.
+
+  Esecuzione:
+  1. Cammina a passo sostenuto rullando il piede dal tallone alla punta e muovendo ritmicamente le braccia.

@@ -1,9 +1,15 @@
 exercise_id: '1239'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stretching dei polpacci in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2201'
+description: |-
+  Posizione di partenza:
+  In piedi di fronte a una parete, posiziona una gamba dietro di te mantenendola tesa con il tallone a terra.
+
+  Esecuzione:
+  1. Piegati in avanti verso il muro fino a sentire un allungamento nel gastrocnemio del polpaccio posteriore.

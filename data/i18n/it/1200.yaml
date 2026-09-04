@@ -1,9 +1,15 @@
 exercise_id: '1200'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sollevamento tibiale (Tibialis Raise)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2159'
+description: |-
+  Posizione di partenza:
+  In piedi con la schiena appoggiata a una parete o a corpo libero.
+
+  Esecuzione:
+  1. Solleva gli avampiedi e le punte verso l'alto restando in appoggio sui talloni per contrarre il tibiale anteriore.

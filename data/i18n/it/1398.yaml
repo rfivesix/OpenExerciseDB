@@ -1,9 +1,11 @@
 exercise_id: '1398'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento attivo dei femorali da seduti
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2365'
+description: |-
+  Siediti sul pavimento e piega una gamba portando il ginocchio verso di te. Posiziona le mani dietro la coscia e avvicina delicatamente la gamba al petto avvertendo l'allungamento nei femorali, quindi distendila verso l'alto.

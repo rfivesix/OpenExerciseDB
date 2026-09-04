@@ -1,9 +1,18 @@
 exercise_id: '1207'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Torsione del busto con bastone
+name: Calcio dello scorpione (Scorpion Kick)
 upstream:
   license: CC-BY-SA-4.0
   license_author: lxmx
   source_id: '2168'
+description: |-
+  Posizione di partenza:
+  Assumi la posizione di piegamento a braccia tese con le mani direttamente sotto le spalle e i piedi alla larghezza dei fianchi. Assicurati che il corpo formi una linea retta dalla testa ai talloni.
+
+  Esecuzione:
+  1. Porta il ginocchio destro verso il petto, poi, mantenendolo piegato, solleva la gamba destra il più in alto possibile con il piede rivolto verso l'alto.
+  2. Ruota le anche in modo da far oscillare il piede destro sopra la gamba sinistra distesa.
+  3. Continua la torsione portando il piede destro verso il pavimento, ruotando sull'esterno del piede sinistro d'appoggio senza ruotare la parte superiore del busto.
+  4. Ritorna alla posizione di partenza con controllo e ripeti il movimento con la gamba sinistra.

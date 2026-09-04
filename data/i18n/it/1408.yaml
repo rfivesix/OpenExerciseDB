@@ -1,9 +1,11 @@
 exercise_id: '1408'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Seduta al muro (Wall-sit)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2372'
+description: |-
+  La seduta al muro è un esercizio isometrico che stimola intensamente i quadricipiti e i glutei, potenziando la resistenza muscolare e la stabilità delle articolazioni del ginocchio.

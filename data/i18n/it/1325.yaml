@@ -1,9 +1,15 @@
 exercise_id: '1325'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Spinta laterale esplosiva
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen
   source_id: '2298'
+description: |-
+  Posizione di partenza:
+  In piedi a ginocchia piegate.
+
+  Esecuzione:
+  1. Spingi con forza laterale sulla gamba d'appoggio balzando di lato per sviluppare potenza nei glutei.

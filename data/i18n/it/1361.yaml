@@ -1,9 +1,11 @@
 exercise_id: '1361'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Front squat con due kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: m4k3r
   source_id: '2328'
+description: |-
+  Sostieni due kettlebell al petto in posizione di rack e scendi in un'accosciata profonda, mantenendo il busto eretto.

@@ -1,9 +1,11 @@
 exercise_id: '1274'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento polpacci da seduto (dorsiflessione)
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2242'
+description: |-
+  Da seduto con la gamba distesa in avanti, tira delicatamente l'avampiede verso di te con le mani per allungare il polpaccio.

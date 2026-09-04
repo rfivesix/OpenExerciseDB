@@ -1,9 +1,16 @@
 exercise_id: '1392'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Good morning a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2359'
+description: |-
+  Posizione di partenza:
+  In piedi a passo ampio, più largo delle spalle, con le mani sui fianchi o dietro la nuca.
+
+  Esecuzione:
+  1. Fletti le anche spingendo il bacino all'indietro mantenendo la schiena dritta.
+  2. Scendi con il busto fin quasi al parallelo e poi risali contraendo i glutei.

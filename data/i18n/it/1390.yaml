@@ -1,9 +1,16 @@
 exercise_id: '1390'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tocco delle punte dei piedi a gambe tese
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2357'
+description: |-
+  Posizione di partenza:
+  In piedi a piedi uniti o leggermente ravvicinati con la colonna vertebrale allungata.
+
+  Esecuzione:
+  1. Fletti il busto in avanti a partire dalle anche mantenendo le gambe tese.
+  2. Allunga le mani verso il basso cercando di toccare le dita dei piedi o il suolo in modo confortevole.

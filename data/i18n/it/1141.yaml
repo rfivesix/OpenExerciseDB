@@ -1,9 +1,16 @@
 exercise_id: '1141'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Arabesque a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: cleen
   source_id: '2120'
+description: |-
+  Posizione di partenza:
+  In piedi, trasferisci tutto il peso su una gamba mantenendo il bacino e le anche perfettamente allineati e orizzontali.
+
+  Esecuzione:
+  1. Fletti il busto in avanti mantenendo la colonna vertebrale neutra, estendendo contemporaneamente l'altra gamba indietro e verso l'alto.
+  2. Ritorna lentamente alla posizione eretta contraendo con forza il grande gluteo della gamba d'appoggio.

@@ -1,9 +1,11 @@
 exercise_id: '1100'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Wall Balls con palla medica
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2059'
+description: |-
+  Impugna una palla medica all'altezza del petto, posizionati a passo largo, scendi in squat e spingi la palla verso l'alto contro il muro, afferrandola al rimbalzo.

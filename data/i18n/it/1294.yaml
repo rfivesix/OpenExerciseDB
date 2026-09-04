@@ -1,9 +1,11 @@
 exercise_id: '1294'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Leg curl monolaterale per femorali
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2260'
+description: |-
+  Fletti una gamba alla volta contro la resistenza della macchina per isolare ciascun muscolo ischiocrurale in modo bilanciato.

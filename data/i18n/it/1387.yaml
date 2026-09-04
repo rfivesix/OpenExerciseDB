@@ -1,9 +1,16 @@
 exercise_id: '1387'
 language: it
-status: ai_raw
-translated_from: en
-name: Spinte al cavo con rotazione del tronco
+status: ai_reviewed
+translated_from: de
+name: Calci posteriori per femorali
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2353'
+description: |-
+  Posizione di partenza:
+  A quattro zampe o in piedi con appoggio, mantieni il busto stabile.
+
+  Esecuzione:
+  1. Fletti la gamba ed estendi l'anca spingendo il tallone verso l'alto e indietro.
+  2. Contrai intensamente i femorali e i glutei al culmine del movimento prima di riabbassare la gamba.

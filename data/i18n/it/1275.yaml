@@ -1,9 +1,11 @@
 exercise_id: '1275'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento in flessione plantare con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2243'
+description: |-
+  Da seduto, utilizza un elastico per favorire una dolce flessione plantare della caviglia e allungare il collo del piede.

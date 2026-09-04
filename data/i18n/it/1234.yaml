@@ -1,9 +1,16 @@
 exercise_id: '1234'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Hip thrust su una gamba con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2199'
+description: |-
+  Posizione di partenza:
+  Appoggia la parte superiore della schiena su una panca, posiziona un manubrio sul bacino e solleva una gamba piegata da terra.
+
+  Esecuzione:
+  1. Spingi attraverso il tallone della gamba a terra estendendo completamente l'anca fino a contrarre isolatamente il grande gluteo.
+  2. Abbassa il bacino in modo controllato prima di ripetere sull'altro lato.

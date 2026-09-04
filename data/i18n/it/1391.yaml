@@ -1,9 +1,11 @@
 exercise_id: '1391'
 language: it
-status: ai_raw
-translated_from: en
-name: Rematore Meadows con bilanciere
+status: ai_reviewed
+translated_from: de
+name: Elephant Walks per femorali
 upstream:
   license: CC-BY-SA-4.0
   license_author: captive0592
   source_id: '2358'
+description: |-
+  Fletti il busto in avanti dalle anche con le mani a terra. Piega alternativamente un ginocchio mentre distendi completamente l'altro, pedalando fluidamente per allungare i muscoli ischiocrurali (femorali).

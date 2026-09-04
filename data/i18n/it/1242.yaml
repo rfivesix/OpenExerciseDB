@@ -1,9 +1,15 @@
 exercise_id: '1242'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Flessione plantare della caviglia con fascia elastica
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2204'
+description: |-
+  Posizione di partenza:
+  Siediti a terra a gamba tesa con una fascia elastica avvolta intorno all'avampiede, tenendo le estremità con le mani.
+
+  Esecuzione:
+  1. Spingi la punta del piede in avanti contro la resistenza dell'elastico per rinforzare polpacci e tendine d'Achille.

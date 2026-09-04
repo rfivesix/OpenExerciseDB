@@ -1,9 +1,16 @@
 exercise_id: '1201'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dragon Squat a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2160'
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza dei fianchi.
+
+  Esecuzione:
+  1. Incrocia il piede destro dietro di te verso l'angolo opposto flettendo entrambe le ginocchia in un affondo profondo.
+  2. Mantieni spalle e bacino rivolti in avanti, quindi risali spingendo sul piede anteriore e alterna i lati.
