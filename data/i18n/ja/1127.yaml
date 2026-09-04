@@ -1,9 +1,11 @@
 exercise_id: '1127'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クローズグリップ・アンダーハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2101'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、肩幅より狭いクローズグリップの逆手でバーを握ります。背筋を伸ばし胸を張ります。動作手順: 肘を体側に引き寄せるようにしてバーを胸の上部まで引き下げます。広背筋下部と上腕二頭筋を強く収縮させ、ゆっくりと開始位置に戻します。ポイント: 肘を外側に開かず、身体の近くを通すように意識して引きます。

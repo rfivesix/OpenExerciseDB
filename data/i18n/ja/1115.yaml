@@ -1,9 +1,21 @@
 exercise_id: '1115'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 3Dランジ・ウォームアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2078'
+description: |-
+  開始姿勢:
+  軽いダンベルを両手に持つか自重で、足を腰幅に開いて直立します。
+
+  動作手順:
+  1. 前方へのフロントランジを行い、元の位置に戻ります。
+  2. 続いて真横へのサイドランジを行い、元の位置に戻ります。
+  3. さらに斜め後方または真後ろへのリバースランジを行います。
+  4. 複数の面（矢状面・前額面・水平面）で左右交互に行います。
+
+  ポイント:
+  多方向への関節可動性と股関節の安定筋群を呼び覚ます優れた動的ウォームアップです。

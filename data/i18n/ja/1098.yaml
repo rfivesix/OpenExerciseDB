@@ -1,9 +1,11 @@
 exercise_id: '1098'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・リアデルトレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2057'
+description: |-
+  【開始姿勢】ベンチの端に座り、上体を深く前に倒して太ももの上に胸を近づけます。【動作手順】両手でダンベルを持ち、肘をわずかに曲げたまま真横から斜め後ろへ引き上げます。【ポイント】三角筋後部を意識し、反動を使わずコントロールして行います。

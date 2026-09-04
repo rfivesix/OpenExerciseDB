@@ -1,9 +1,20 @@
 exercise_id: '1132'
 language: ja
-status: ai_raw
-translated_from: en
-name: サイドランジ
+status: ai_reviewed
+translated_from: de
+name: GHDグルートエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2109'
+description: |-
+  開始姿勢:
+  GHD（グルートハムディベロッパー）マシンにうつ伏せで乗り、足首をローラーパッドで固定します。骨盤がパッドの端に当たる位置に合わせます。
+
+  動作手順:
+  1. 上体を前方に90度近く垂らした状態から、大臀筋とハムストリングスを収縮させて上体を持ち上げます。
+  2. 頭から踵までが一直線になる高さまで引き上げ、お尻を強く絞り込みます。
+  3. コントロールしながらゆっくりと上体を元の位置まで下ろします。
+
+  ポイント:
+  腰椎の伸展ではなく股関節の伸展を主導とし、大臀筋をターゲットにします。

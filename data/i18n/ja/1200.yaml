@@ -1,9 +1,20 @@
 exercise_id: '1200'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ティビアリスレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2159'
+description: |-
+  開始姿勢:
+  壁に背中を預けて立ち、足を壁から前方へ一歩踏み出した位置に置きます。
+
+  動作手順:
+  1. 踵を床につけたまま、足の前半分（つま先）を限界まで高く引き上げます（足関節の背屈）。
+  2. すねの前側にある前脛骨筋が強く収縮した位置で1秒キープします。
+  3. ゆっくりとつま先を下ろし、床に触れたらすぐに次のレップに入ります。
+
+  ポイント:
+  すねの前脛骨筋を強化することで、シンスプリントの予防や膝関節への着地衝撃軽減に役立ちます。

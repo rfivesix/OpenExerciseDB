@@ -1,9 +1,20 @@
 exercise_id: '1102'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: オルタネイト・バックランジ
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2063'
+description: |-
+  開始姿勢:
+  足を腰幅に開いて背筋を伸ばして直立します。手は腰に当てるか胸の前で構えます。
+
+  動作手順:
+  1. 片足を後ろへ一歩大きく引き、両膝が直角になるまで腰を真下に下ろします。
+  2. 前足の踵で地面を強く押し返して元の直立姿勢に戻ります。
+  3. すぐに反対側の足を後ろへ引いて同様に下ろし、左右交互にテンポよく繰り返します。
+
+  ポイント:
+  前足の大臀筋、ハムストリングス、ふくらはぎを効果的に刺激し、膝への衝撃を抑えられます。

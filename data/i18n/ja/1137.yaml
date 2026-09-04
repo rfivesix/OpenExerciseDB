@@ -1,9 +1,11 @@
 exercise_id: '1137'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ハイプーリー・プルオーバー
+name: ハイプーリー・ストレートアームプルオーバー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2114'
+description: |-
+  開始姿勢: ケーブルマシンのハイプーリーに向かって立ち、足を少し開いて立ちます。オーバーハンドグリップでバーを握り、腕を伸ばします。動作手順: 背筋を伸ばして腹筋を引き締め、息を吸いながら弧を描くようにバーを太ももに向かって引き下げます。肘はわずかに曲げた状態をキープし、ボトムで息を吐きながら広背筋を収縮させ、ゆっくりと戻します。ポイント: 腕の力ではなく広背筋の働きでバーを動かします。

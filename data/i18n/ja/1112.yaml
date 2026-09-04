@@ -1,9 +1,11 @@
 exercise_id: '1112'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ダンベル・ブルガリアンスクワット
+name: デクライン・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337
   source_id: '2075'
+description: |-
+  【開始姿勢】足をベンチや台の上に乗せ、両手を床について腕立て伏せの姿勢をとります。【動作手順】身体を一直線に保ちながら肘を曲げて胸を床へ下ろし、力強く押し戻します。【ポイント】大胸筋上部 (鎖骨部)と三角筋前部に強い負荷がかかるため、体幹をしっかり固定します。

@@ -1,9 +1,13 @@
 exercise_id: '1143'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: バックエクステンション
+name: マシン・バックエクステンション
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2122'
+description: |-
+  開始姿勢：バックエクステンションマシンのシートに座り、背中のパッドに肩甲骨下部を当てます。
+  動作手順：脊柱起立筋を使って上体を後方へゆっくりと押し倒し、トップで収縮させてから戻します。
+  ポイント：勢いで倒さず、背筋の力でコントロールしながら可動域いっぱいに動かします。

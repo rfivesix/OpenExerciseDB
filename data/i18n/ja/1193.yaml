@@ -1,9 +1,13 @@
 exercise_id: '1193'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・ロシアンツイスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: lion
   source_id: '2149'
+description: |-
+  開始姿勢：床に座って膝を曲げ、上体を約45度後傾させ、両手でダンベルを胸の前に持ちます。
+  動作手順：腹斜筋を使って体幹を左右に回旋させ、ダンベルを床の近くまでゆっくりと動かします。
+  ポイント：腕だけを動かさず胸ごとしっかりひねり、足を床から少し浮かせると負荷が高まります。

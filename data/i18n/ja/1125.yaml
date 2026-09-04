@@ -1,9 +1,11 @@
 exercise_id: '1125'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ワイドグリップ・アンダーハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2099'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、肩幅より広いワイドグリップの逆手 (アンダーハンド) でバーを握ります。胸を張り背筋を伸ばします。動作手順: 肘を斜め後ろへ引き下げるようにして、バーを顎の横を通過させて胸の上部まで引き下ろします。トップで背中を強く収縮させ、コントロールしながらゆっくりと戻します。ポイント: 反動を使わず、広背筋の収縮とストレッチをフルレンジで意識します。

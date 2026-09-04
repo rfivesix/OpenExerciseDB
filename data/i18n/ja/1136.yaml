@@ -1,9 +1,11 @@
 exercise_id: '1136'
 language: ja
-status: ai_raw
-translated_from: en
-name: ニュートラルグリップ・ラットプルダウン
+status: ai_reviewed
+translated_from: de
+name: ニュートラルグリップ・チェストプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2113'
+description: |-
+  開始姿勢: ケーブルマシンの前に立ち、膝を軽く曲げて足を床にしっかり置きます。手のひらを向かい合わせるニュートラルグリップでハンドルを握ります。動作手順: ハンドルを胸の上部に向かって引き下げ、胸に近づけた状態で1〜2秒間静止して背中の筋肉を強く収縮させます。腕と背中をコントロールしながらゆっくりと開始位置へ戻します。ポイント: 動作中は背筋を真っ直ぐに保ち、姿勢を安定させて行います。

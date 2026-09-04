@@ -1,9 +1,11 @@
 exercise_id: '1111'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: インクライン・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337
   source_id: '2074'
+description: |-
+  【開始姿勢】ベンチや台の上に両手をつき、身体を一直線に保ちます。【動作手順】肘を曲げて胸を台に近づけ、手のひらで台を力強く押して元の位置に戻ります。【ポイント】大胸筋中部・下部 (胸肋部)を意識し、傾斜によって負荷を調整できる初心者にも最適な種目です。

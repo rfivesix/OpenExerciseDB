@@ -1,8 +1,12 @@
 exercise_id: '1188'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・サイドベント
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2144'
+description: |-
+  開始姿勢：片手にダンベルを持ち、反対側の手を頭の後ろに添えて直立します。
+  動作手順：ダンベルの重みに引かれて上体を真横に倒し、腹斜筋を収縮させて真っ直ぐな姿勢に戻します。
+  ポイント：体が前傾や後傾しないよう真横に倒し、骨盤を平行に保ったまま動作します。

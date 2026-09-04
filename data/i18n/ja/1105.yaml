@@ -1,9 +1,13 @@
 exercise_id: '1105'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: シーテッド・ニータック
 upstream:
   license: CC-BY-SA-4.0
   license_author: utkb
   source_id: '2070'
+description: |-
+  開始姿勢：マットに座って両手を臀部の後ろにつき、両脚を少し浮かせて後傾します。
+  動作手順：腹直筋と腸腰筋を意識しながら両膝を胸に向かって引き寄せ、ゆっくりと脚を伸ばします。
+  ポイント：背中を軽く丸めながら収縮させ、足が床につかないよう浮かしたまま反復します。

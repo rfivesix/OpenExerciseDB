@@ -1,8 +1,18 @@
 exercise_id: '1104'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ウォーキング (歩行)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'
+description: |-
+  開始姿勢:
+  良い姿勢で直立し、肩の力を抜いて視線を前方に向けます。
+
+  動作手順:
+  1. 踵から着地し、足裏全体を経てつま先で地面を押し出すように歩行します。
+  2. 腕を肘から自然に前後に振り、1分間に約100歩以上のテンポを維持して歩きます。
+
+  ポイント:
+  日常的かつ安全に実践できる基本の有酸素運動で、下半身の血行促進や回復促進に役立ちます。

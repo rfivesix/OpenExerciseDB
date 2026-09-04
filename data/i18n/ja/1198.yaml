@@ -1,9 +1,11 @@
 exercise_id: '1198'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: インバーテッドロー
+name: インバーテッドロー (斜め懸垂)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Gavru
   source_id: '2156'
+description: |-
+  開始姿勢: スミスマシンなどのバーの下に仰向けに入り、肩幅より少し広めにバーを握ります。体を頭からかかとまで一直線に保ちます。動作手順: 肩甲骨を寄せながら肘を曲げ、胸をバーに向かって引き上げます。トップで背中の筋肉をしっかり収縮させ、コントロールしながらゆっくりと腕を伸ばして戻します。ポイント: 身体が「く」の字に曲がらないよう、臀部と腹筋を締めて一直線を保ちます。

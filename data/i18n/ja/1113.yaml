@@ -1,9 +1,11 @@
 exercise_id: '1113'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: パラレット・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: anon1337
   source_id: '2076'
+description: |-
+  【開始姿勢】床に置いたパラレットバーを握り、身体を一直線にして構えます。【動作手順】肘を曲げながら胸をバーの間へ深く沈め、大胸筋をストレッチさせてから押し上げます。【ポイント】手首の負担を抑えつつ、床より深い可動域で大胸筋を強力に刺激します。

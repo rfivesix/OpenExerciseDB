@@ -1,9 +1,20 @@
 exercise_id: '1195'
 language: ja
-status: ai_raw
-translated_from: en
-name: ロシアンツイスト
+status: ai_reviewed
+translated_from: de
+name: サイドスライド＋スクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: Insight
   source_id: '2152'
+description: |-
+  開始姿勢:
+  足を肩幅より広めに開き、ディフェンシブスタンス（低い腰高姿勢）をとります。
+
+  動作手順:
+  1. 低い重心を保ったまま素早く横方向へサイドステップ（スライド）します。
+  2. 踏みとどまった位置で深いスクワットを行い、大腿四頭筋とお尻を沈めます。
+  3. すぐに逆方向へサイドスライドして反対側でもスクワットを行います。
+
+  ポイント:
+  大腿四頭筋、内転筋、中臀筋の動的敏捷性と筋持久力を同時に鍛えるアジリティ種目です。

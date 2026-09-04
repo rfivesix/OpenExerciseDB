@@ -1,9 +1,11 @@
 exercise_id: '1120'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: アンダーハンド・マシンローイング
+name: アンダーハンド・ナローグリップ・マシンローイング
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2089'
+description: |-
+  開始姿勢: ローイングマシンのシートに座り、胸をパッドで支えます。逆手 (アンダーハンドグリップ) で狭めのハンドルを握ります。動作手順: 肘を体側に沿わせながら後方へ力強く引き、ハンドルを引き寄せます。トップで広背筋と上腕二頭筋を収縮させ、ゆっくりと負荷を感じながら戻します。ポイント: 逆手で行うことで広背筋下部と上腕二頭筋への刺激を強調します。

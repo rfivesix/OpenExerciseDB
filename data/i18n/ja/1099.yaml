@@ -1,9 +1,13 @@
 exercise_id: '1099'
 language: ja
-status: ai_raw
-translated_from: en
-name: バーベル・アップライトロー
+status: ai_reviewed
+translated_from: de
+name: ダイナミック・サイドホールド
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2058'
+description: |-
+  開始姿勢：レジスタンスバンドを取り付けたケトルベルを片手で持ち、直立姿勢をとります。
+  動作手順：片足立ちになってバランスをとり、体幹の傾きに耐えながら腹斜筋を使って姿勢を維持します。
+  ポイント：重みで体が横に倒れないよう背筋を垂直に保ち、反対側も同様に行います。

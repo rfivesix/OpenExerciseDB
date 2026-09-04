@@ -1,9 +1,13 @@
 exercise_id: '1116'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・ファーマーズキャリー
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2079'
+description: |-
+  開始姿勢：両手に適度な重量のダンベルを持ち、胸を張って背筋を伸ばして直立します。
+  動作手順：体幹を固め、前腕部と握力でダンベルを保持したまま、小幅で安定した歩行を続けます。
+  ポイント：肩を落とさず体幹の軸をまっすぐに保ち、体が左右に揺れないように歩きます。

@@ -1,9 +1,11 @@
 exercise_id: '1093'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ローイングエルゴメーター
+name: ローイングエルゴメーター (ローイングマシン)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Boertie
   source_id: '2049'
+description: |-
+  開始姿勢: ローイングマシンのシートに座り、足をフットストラップで固定します。背筋を伸ばしてハンドルを握ります。動作手順: 脚で力強くステップを押して体を後方へスライドさせ、続いて股関節をわずかに開き、最後に肘を曲げてハンドルをみぞおちへ引き寄せます。逆の順序で滑らかに戻ります。ポイント: 全身の筋肉と心肺機能を同時に鍛える有酸素・筋持久力運動です。

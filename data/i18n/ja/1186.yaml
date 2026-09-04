@@ -1,9 +1,11 @@
 exercise_id: '1186'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ワンハンド・ベントオーバーロー
+name: ワンハンド・ケーブル・ベントオーバーロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2142'
+description: |-
+  開始姿勢: ケーブルマシンの前に立ち、股関節から前傾して片手でロープーリーのハンドルを握ります。背筋を真っ直ぐ保ちます。動作手順: 肘を後方へ引き上げながら、ハンドルを脇腹に向かって引き寄せます。広背筋を力強く収縮させ、ゆっくりと腕を伸ばして戻します。ポイント: ケーブルの一定の張力を利用し、フルレンジで背中をストレッチ＆収縮させます。左右交互に行います。

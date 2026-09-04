@@ -1,9 +1,20 @@
 exercise_id: '1100'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ウォールボール
 upstream:
   license: CC-BY-SA-4.0
   license_author: philip
   source_id: '2059'
+description: |-
+  開始姿勢:
+  壁の前に立ち、メディシンボールを両手で胸の高さに保持します。足は肩幅に開きます。
+
+  動作手順:
+  1. 胸を張ったまま深くスクワットし、太ももが床と平行になる深さまで腰を落とします。
+  2. 立ち上がる勢いを利用して真上へ爆発的に跳び上がり、ボールを壁の高い目標位置に向かって押し投げます。
+  3. 壁から跳ね返ったボールを胸の高さでキャッチし、その衝撃を受け止めながら流れるように次のスクワットへ移行します。
+
+  ポイント:
+  下半身のスクワット力と上半身のプッシュ力を融合させた高強度の有酸素・全身持久力種目です。
