@@ -1,9 +1,11 @@
 exercise_id: '1384'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pullover alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: Paul@Chemistry
   source_id: '2352'
+description: |-
+  Siediti alla macchina per pullover con i gomiti appoggiati sui cuscinetti e guida il carico verso il basso attraverso una flessione del gran dorsale.

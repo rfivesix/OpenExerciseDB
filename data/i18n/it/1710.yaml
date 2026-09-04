@@ -1,9 +1,11 @@
 exercise_id: '1710'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stretching del macellaio per dorsali e tricipiti (Butcher's Block)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2833'
+description: |-
+  Inginocchiati a terra e unisci i palmi delle mani. Appoggia i gomiti flessi su una panca posta davanti a te e abbassa lentamente il torace verso il pavimento. Mantieni i gomiti piegati con le mani dietro la nuca, cura l'allineamento della schiena e respira profondamente mantenendo la posizione.

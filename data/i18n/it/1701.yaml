@@ -1,9 +1,11 @@
 exercise_id: '1701'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore pesante a un braccio con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2820'
+description: |-
+  Fase concentrica di remata: solleva il manubrio pesante verso la parte inferiore del torace o il fianco, guidando il movimento con il gomito. Mantieni il tronco rigorosamente stabile, evitando torsioni o rotazioni del busto. Fermati un istante in cima alla salita e contrai al massimo il gran dorsale.

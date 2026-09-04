@@ -1,9 +1,11 @@
 exercise_id: '1435'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Trazioni scapolari alla sbarra
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2399'
+description: |-
+  Rimani appeso alla sbarra per trazioni a braccia tese. Ritrai e abbassa le scapole sollevando leggermente il corpo senza flettere i gomiti.

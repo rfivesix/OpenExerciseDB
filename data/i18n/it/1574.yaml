@@ -1,9 +1,11 @@
 exercise_id: '1574'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Nuoto libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: delta@romeo
   source_id: '2522'
+description: |-
+  Sessione di allenamento aerobico di nuoto continuo a ritmo costante, finalizzata a percorrere 800 metri in circa 20 minuti stimolando resistenza generale e muscolatura dorsale.

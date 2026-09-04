@@ -1,9 +1,11 @@
 exercise_id: '1580'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore al landmine perpendicolare a un braccio
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2528'
+description: |-
+  Utilizza un dispositivo landmine con il bilanciere orientato perpendicolarmente al corpo a 90 gradi. Fletti leggermente le anche mantenendo la schiena piatta e afferra il collare di caricamento del bilanciere. Solleva la sbarra fino all'altezza del petto guidando con il gomito all'infuori, in modo che l'omero sia parallelo al terreno nel punto apicale, quindi riabbassa con controllo.

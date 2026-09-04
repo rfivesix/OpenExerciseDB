@@ -1,8 +1,10 @@
 exercise_id: '1921'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento intenso per dorsali
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
+description: |-
+  Esercizio di stretching profondo sotto carico per il gran dorsale, eseguito al termine delle sessioni di trazione per favorire recupero e flessibilità.

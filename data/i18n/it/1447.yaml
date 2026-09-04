@@ -1,9 +1,11 @@
 exercise_id: '1447'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Strappo olimpico con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2411'
+description: |-
+  Nello strappo olimpico, solleva il bilanciere da terra fino a bloccarlo a braccia tese sopra la testa con una presa larga e un'accosciata profonda. Solleva il bilanciere con traiettoria controllata fino a superare le ginocchia, quindi estendi esplosivamente le anche, accelera la sbarra verso l'alto e infilati rapidamente sotto il carico. Ricevi il bilanciere a braccia bloccate sopra la testa proiettando leggermente il capo in avanti all'incastro.

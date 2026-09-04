@@ -1,9 +1,11 @@
 exercise_id: '1492'
 language: it
-status: ai_raw
-translated_from: en
-name: Rematore alto alla macchina (High Row)
+status: ai_reviewed
+translated_from: de
+name: Rematore alto al cavo (High Row)
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja
   source_id: '2455'
+description: |-
+  Inginocchiati su una gamba davanti al cavo alto e tira l'impugnatura verso il basso conducendo il gomito verso il fianco per attivare il gran dorsale.

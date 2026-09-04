@@ -1,9 +1,11 @@
 exercise_id: '1621'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore al cavo a un braccio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2604'
+description: |-
+  Posiziona una panca con schienale verticale di fronte alla stazione del cavo. Sistemati in modo da isolare un lato alla volta ed esegui tirate lente e controllate, focalizzandoti sul gran dorsale e mantenendo costante la tensione muscolare anche nella fase di massimo allungamento.

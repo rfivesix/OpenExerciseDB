@@ -1,9 +1,11 @@
 exercise_id: '1719'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirata al cavo a un braccio in ginocchio
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2844'
+description: |-
+  Inginocchiati in posizione di affondo (cavaliere) di fronte al cavo ed esegui una tirata unilaterale con una mano verso il fianco, stabilizzando il busto con il core.

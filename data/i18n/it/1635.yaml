@@ -1,9 +1,11 @@
 exercise_id: '1635'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirata al cavo alto modificata (Lat pulldown)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2741'
+description: |-
+  Posiziona una panca inclinata davanti alla lat machine al cavo ed esegui tirate verticali con presa stretta, concentrando la contrazione sul gran dorsale.

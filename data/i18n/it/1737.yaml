@@ -1,8 +1,10 @@
 exercise_id: '1737'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trazioni alla sbarra assistite (presa inversa)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2867'
+description: |-
+  Trazioni alla sbarra in presa supina (palmi verso di te) eseguite con l'ausilio del contrappeso alla macchina per sviluppare forza su bicipiti e gran dorsale.

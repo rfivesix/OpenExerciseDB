@@ -1,9 +1,11 @@
 exercise_id: '1698'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore con bilanciere a presa prona
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2817'
+description: |-
+  Posizione di partenza: a busto flesso, impugna il bilanciere a presa prona con braccia distese verso il pavimento. Mantieni tensione nel gran dorsale e nei lombari prima di remare.

@@ -1,9 +1,11 @@
 exercise_id: '1501'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore gorilla alternato con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2463'
+description: |-
+  Inclinati in avanti piegando le ginocchia in una posizione solida a gorilla e rema alternativamente i manubri verso il petto con presa neutra (pollici verso l'alto), mantenendo la schiena piatta e l'altro manubrio a terra.

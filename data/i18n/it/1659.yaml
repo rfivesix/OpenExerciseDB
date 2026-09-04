@@ -1,9 +1,11 @@
 exercise_id: '1659'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a un braccio incrociata al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2780'
+description: |-
+  Siediti alla lat machine posizionando il corpo in diagonale rispetto al cavo, con una sola gamba bloccata sotto il cuscino. Tira la maniglia del cavo con il braccio opposto, facendo scendere la linea di trazione diagonalmente attraverso il corpo per enfatizzare l'allungamento e la contrazione anatomica del gran dorsale.

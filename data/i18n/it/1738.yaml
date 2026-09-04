@@ -1,9 +1,11 @@
 exercise_id: '1738'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Squat Cosacco a corpo libero
+name: Trazioni alla sbarra a presa neutra o al TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: 54str
   source_id: '2868'
+description: |-
+  Trazione alla sbarra: tirata verticale per la larghezza del gran dorsale. Rematore al TRX: tirata orizzontale focalizzata su romboidi e trapezio medio per spessore e postura della schiena.

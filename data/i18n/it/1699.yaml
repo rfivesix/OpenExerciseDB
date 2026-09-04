@@ -1,9 +1,11 @@
 exercise_id: '1699'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore con bilanciere a presa inversa
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2818'
+description: |-
+  Posizione di partenza: impugna il bilanciere con presa supina (inversa) a larghezza spalle e braccia distese a busto flesso. Mantieni tensione costante nel gran dorsale e nella muscolatura posteriore della schiena.

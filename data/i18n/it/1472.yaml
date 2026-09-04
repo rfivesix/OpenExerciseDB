@@ -1,9 +1,11 @@
 exercise_id: '1472'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Scrollate al cavo con rotazione interna
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2435'
+description: |-
+  Fissa due maniglie a D a due cavi bassi e solleva le spalle verso l'alto e leggermente verso l'interno contraendo il trapezio superiore.

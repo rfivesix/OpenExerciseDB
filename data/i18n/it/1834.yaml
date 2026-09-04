@@ -1,9 +1,11 @@
 exercise_id: '1834'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate per trapezio inferiore a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2969'
+description: |-
+  Fletti il busto in avanti partendo dalle anche e piega leggermente le ginocchia. Deprimi e ritrai la scapola del braccio attivo, appoggiando l'altra mano sul ginocchio per supporto. Solleva il braccio teso in diagonale a circa 15 gradi oltre la linea del capo, mantenendo la scapola saldamente bloccata in contrazione per attivare il trapezio inferiore.

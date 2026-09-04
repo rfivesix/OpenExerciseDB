@@ -1,9 +1,11 @@
 exercise_id: '1725'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore da seduto alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2851'
+description: |-
+  Mantieni il torace aperto e la schiena dritta contro il cuscino della macchina, adducendo le scapole a fine trazione. Evita di flettere il busto o incurvare la zona lombare durante la tirata.

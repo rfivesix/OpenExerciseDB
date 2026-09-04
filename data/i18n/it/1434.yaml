@@ -1,9 +1,11 @@
 exercise_id: '1434'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lat pulldown con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2398'
+description: |-
+  Fletti il busto in avanti e porta i manubri verso la schiena tenendo le braccia leggermente piegate e vicine al corpo per attivare il gran dorsale.

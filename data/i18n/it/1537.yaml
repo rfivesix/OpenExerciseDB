@@ -1,9 +1,11 @@
 exercise_id: '1537'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tenuta isometrica in cima alla trazione
 upstream:
   license: CC-BY-SA-4.0
   license_author: DiscoCop
   source_id: '2492'
+description: |-
+  Esegui una trazione alla sbarra e mantieni la contrazione isometrica nel punto più alto o a metà corsa per potenziare forza e stabilità.

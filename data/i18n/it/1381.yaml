@@ -1,9 +1,11 @@
 exercise_id: '1381'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Distensioni su panca piana a terra (Floor Press)
+name: Rematore alla macchina per la parte alta della schiena
 upstream:
   license: CC-BY-SA-4.0
   license_author: phpi
   source_id: '2348'
+description: |-
+  Esercizio alla macchina guidata ideale per rafforzare la parte alta della schiena, con un focus specifico su deltoide posteriore, romboidi e trapezio medio.

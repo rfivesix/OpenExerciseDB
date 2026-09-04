@@ -1,9 +1,11 @@
 exercise_id: '1637'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rematore al cavo a un braccio
+name: Tirata al cavo a un braccio da seduti
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2743'
+description: |-
+  Seduto a terra sul tappetino di fronte a una puleggia alta, impugna la maniglia singola al cavo ed esegui tirate unilaterali per il gran dorsale focalizzandoti su un allungamento profondo in fase eccentrica.

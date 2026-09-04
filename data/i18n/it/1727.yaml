@@ -1,9 +1,11 @@
 exercise_id: '1727'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pulldown a braccia tese laterale al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2853'
+description: |-
+  Mantieni il busto ben saldo e tira la maniglia del cavo verso il basso lungo il fianco a braccio disteso, focalizzandoti sulle fibre laterali del gran dorsale. Non ruotare il tronco né inclinarti lateralmente per facilitare la ripetizione.

@@ -1,9 +1,11 @@
 exercise_id: '1634'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pullover e rematore al cavo con corda
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2740'
+description: |-
+  Posiziona una panca davanti alla macchina a cavo. Flettiti in appoggio sulla panca ed esegui un movimento combinato di pullover e rematore con la corda per isolare il gran dorsale.

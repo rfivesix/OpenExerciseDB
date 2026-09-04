@@ -1,9 +1,11 @@
 exercise_id: '1861'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento laterale del busto in piedi
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3003'
+description: |-
+  In piedi con schiena eretta, solleva un braccio sopra la testa e fletti lateralmente il busto allungando il gran dorsale e i muscoli obliqui.

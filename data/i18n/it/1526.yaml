@@ -1,9 +1,11 @@
 exercise_id: '1526'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Simulatore di sci alla macchina cardio (SkiErg)
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2482'
+description: |-
+  Inizia in piedi sulla pedana dello SkiErg con i piedi alla larghezza delle anche. Allungati verso l'alto per afferrare le maniglie con i palmi rivolti verso l'interno. Fletti leggermente le ginocchia e spingi contemporaneamente il bacino all'indietro come per chiudere una porta dietro di te, mentre tiri le braccia verso il basso lungo i fianchi fino a far passare le mani oltre le ginocchia. Riporta successivamente le braccia sopra la testa estendendo le anche fino a tornare in posizione eretta a braccia tese. Ripeti fluidamente per il numero di ripetizioni, tempo o distanza prestabiliti.

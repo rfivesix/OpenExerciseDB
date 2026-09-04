@@ -1,9 +1,11 @@
 exercise_id: '1877'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Retrazione scapolare con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: hurr99
   source_id: '3019'
+description: |-
+  Fissa un'estremità dell'elastico di resistenza a un supporto o al muro all'altezza delle spalle. Inserisci il braccio nell'asola all'altezza del tricipite e fai qualche passo indietro fino a tendere l'elastico. Tira indietro il gomito e la spalla contro la resistenza elastica, adducendo attivamente la scapola.
