@@ -1,8 +1,10 @@
 exercise_id: '1832'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tenuta in appoggio agli anelli
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2967'
+description: |-
+  Sostieniti in appoggio sugli anelli da ginnastica a braccia completamente distese lungo i fianchi. Ruota gli anelli leggermente verso l'esterno e mantieni la posizione a barchetta (hollow body), sviluppando stabilità isometrica in pettorali, spalle e tricipiti.

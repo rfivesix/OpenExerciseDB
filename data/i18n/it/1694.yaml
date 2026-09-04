@@ -1,9 +1,16 @@
 exercise_id: '1694'
 language: it
-status: ai_raw
-translated_from: en
-name: Affondi saltati alternati
+status: ai_reviewed
+translated_from: de
+name: Distensioni su panca piana alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2813'
+description: |-
+  Posizione di partenza:
+  Siediti alla macchina per chest press orizzontale. Posiziona le mani all'esterno del petto con i gomiti flessi a circa 90 gradi e i polsi allineati agli avambracci.
+
+  Esecuzione:
+  1. Spingi le impugnature in avanti estendendo quasi completamente le braccia senza bloccare i gomiti, contraendo con forza i pettorali nel punto finale.
+  2. Riporta lentamente le maniglie verso il petto sentendo l'allungamento muscolare, senza far appoggiare i pesi tra le ripetizioni.

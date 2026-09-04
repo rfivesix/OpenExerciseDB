@@ -1,8 +1,10 @@
 exercise_id: '1755'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tirate a Y al cavo per deltoidi
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2892'
+description: |-
+  Incrocia i cavi bassi e tira i gomiti verso l'alto e l'esterno aprendo le braccia a Y per attivare deltoidi e trapezi.

@@ -1,9 +1,11 @@
 exercise_id: '1679'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Wall Angels alla parete
 upstream:
   license: CC-BY-SA-4.0
   license_author: bbayuwega
   source_id: '2801'
+description: |-
+  Appoggiato a una parete con schiena, testa e braccia a contatto col muro, fai scorrere le braccia verso l'alto e verso il basso per migliorare la postura e il controllo scapolare.

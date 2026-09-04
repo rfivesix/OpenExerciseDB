@@ -1,9 +1,11 @@
 exercise_id: '1686'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Distensioni a un braccio con manubrio in ponte glutei
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun
   source_id: '2805'
+description: |-
+  Sdraiati a terra tenendo un manubrio in una mano e solleva i fianchi in posizione di ponte glutei stabile. Con il bacino fermo e il braccio teso sopra il petto, abbassa lentamente il manubrio finché il gomito sfiora il suolo a 45 gradi, poi spingi verso l'alto.

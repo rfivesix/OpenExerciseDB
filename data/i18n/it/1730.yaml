@@ -1,9 +1,11 @@
 exercise_id: '1730'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate laterali al cavo singolo
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2856'
+description: |-
+  Guida l'alzata laterale al cavo con i gomiti anziché con le mani, mantenendo le spalle basse per non sovraccaricare il trapezio.

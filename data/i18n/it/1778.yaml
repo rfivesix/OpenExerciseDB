@@ -1,8 +1,10 @@
 exercise_id: '1778'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Distensioni su panca inclinata con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'
+description: |-
+  Sdraiati su panca inclinata ed esegui distensioni controllate con bilanciere sfiorando la parte alta del petto prima di risalire.

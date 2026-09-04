@@ -1,9 +1,11 @@
 exercise_id: '1714'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Esercizio del pendolo per la spalla con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2837'
+description: |-
+  Fletti il busto in avanti appoggiando una mano a una sedia o a un tavolo per supporto. Con l'altro braccio rilassato verso il basso che impugna un manubrio leggero, esegui delicati movimenti circolari a pendolo per decomprimere l'articolazione della spalla.

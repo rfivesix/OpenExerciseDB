@@ -1,9 +1,11 @@
 exercise_id: '1893'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lento avanti con bilanciere in piedi (Military press)
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3040'
+description: |-
+  In piedi con i piedi alla larghezza delle spalle e il core contratto. Impugna il bilanciere sulle clavicole con presa prona. Spingi il bilanciere verticalmente sopra la testa fino alla completa estensione delle braccia, evitando di inarcare la schiena, quindi riabbassalo con controllo.

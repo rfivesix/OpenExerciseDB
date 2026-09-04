@@ -1,9 +1,11 @@
 exercise_id: '1711'
 language: it
-status: ai_raw
-translated_from: en
-name: Panca inclinata a 30 gradi con manubri
+status: ai_reviewed
+translated_from: de
+name: Stretching del dormiente per la spalla (Sleeper Stretch)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2834'
+description: |-
+  Sdraiati su un fianco in modo che il peso corporeo stabilizzi la scapola inferiore. Distendi il braccio a 90 gradi davanti a te sul pavimento, piegando il gomito a 90 gradi con le dita rivolte al soffitto. Mantenendo il gomito fermo, usa l'altra mano per premere delicatamente l'avambraccio verso il pavimento in rotazione interna, avvertendo un allungamento profondo nella capsula posteriore della spalla.

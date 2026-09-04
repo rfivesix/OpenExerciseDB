@@ -1,9 +1,11 @@
 exercise_id: '1713'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento dei pettorali alla porta
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2836'
+description: |-
+  Appoggia l'avambraccio verticalmente contro lo stipite di una porta all'altezza della testa con il gomito a 90 gradi. Fai un passo in avanti con una gamba mantenendo il braccio fermo, allungando dolcemente i muscoli pettorali.

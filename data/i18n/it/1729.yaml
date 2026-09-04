@@ -1,9 +1,11 @@
 exercise_id: '1729'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Extrarotazioni della spalla ai cavi
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2855'
+description: |-
+  Mantieni il gomito bloccato contro il fianco piegato a 90 gradi e ruota l'avambraccio verso l'esterno allontanandolo dal corpo, mantenendo il movimento rigorosamente su un piano orizzontale per stimolare la cuffia dei rotatori.

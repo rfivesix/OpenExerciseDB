@@ -1,8 +1,10 @@
 exercise_id: '1752'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate laterali al cavo davanti al corpo
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2889'
+description: |-
+  Alla torretta dei cavi, esegui un'alzata laterale con il cavo posizionato davanti al corpo, sollevando il braccio verso l'esterno e focalizzandoti sulla tensione del deltoide.

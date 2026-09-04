@@ -1,8 +1,10 @@
 exercise_id: '1920'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Allungamento intenso per spalle
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3067'
+description: |-
+  Allungamento profondo sotto carico per i deltoidi, ideale da eseguire al termine degli esercizi di spinta.

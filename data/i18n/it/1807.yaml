@@ -1,9 +1,11 @@
 exercise_id: '1807'
 language: it
-status: ai_raw
-translated_from: en
-name: Squat con salto a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Alzate laterali ai cavi dietro la schiena
 upstream:
   license: CC-BY-SA-4.0
   license_author: LEBRERO
   source_id: '2934'
+description: |-
+  Esegui un'alzata laterale al cavo singolo facendo passare il cavo dietro la schiena. Questa variante mantiene una tensione costante sul deltoide laterale lungo l'intero raggio di movimento, favorendo una crescita muscolare equilibrata e completa.

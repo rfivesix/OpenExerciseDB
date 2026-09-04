@@ -1,9 +1,11 @@
 exercise_id: '1731'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate frontali al cavo singolo
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2857'
+description: |-
+  Solleva la maniglia del cavo in avanti disegnando un leggero arco con movimento controllato fino all'altezza delle spalle, senza oscillare il busto.

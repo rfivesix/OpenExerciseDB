@@ -1,9 +1,18 @@
 exercise_id: '1825'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Alzate per deltoidi posteriori su panca inclinata con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle
   source_id: '2960'
+description: |-
+  Alzate a Y con supporto toracico:
+  Regola una panca inclinata a 30-45 gradi. Sdraiati a pancia in giù con il petto ben appoggiato allo schienale e il capo in posizione neutra. Impugna due manubri leggeri con presa neutra o pollici rivolti verso l'alto.
+
+  Esecuzione:
+  1. Con le braccia quasi tese o con una leggerissima flessione dei gomiti, solleva i manubri verso l'alto e l'esterno a formare una Y.
+  2. Focalizzati sul movimento delle spalle e delle scapole evitando di tirare di braccia.
+  3. In cima, adduci le scapole sentendo la contrazione della parte alta della schiena e dei deltoidi.
+  4. Abbassa lentamente i manubri tornando alla posizione iniziale.

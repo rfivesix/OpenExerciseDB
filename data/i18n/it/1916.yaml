@@ -1,9 +1,11 @@
 exercise_id: '1916'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tuck Planche a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: ISSACS
   source_id: '3063'
+description: |-
+  Progressione fondamentale di calisthenics per la planche: sostieni il corpo sulle mani a braccia tese con le ginocchia raccolte al petto.

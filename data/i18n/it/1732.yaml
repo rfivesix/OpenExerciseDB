@@ -1,9 +1,11 @@
 exercise_id: '1732'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Face pull con fascia elastica
 upstream:
   license: CC-BY-SA-4.0
   license_author: 54str
   source_id: '2858'
+description: |-
+  Esercizio di tirata orizzontale con elastico ancorato ad altezza occhi. Afferra la fascia ed esegui una trazione portando i gomiti alti e larghi verso il viso mentre adduci le scapole. Rinforza i deltoidi posteriori, la parte alta della schiena e favorisce una postura corretta.

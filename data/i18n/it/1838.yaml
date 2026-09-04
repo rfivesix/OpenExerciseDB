@@ -1,9 +1,11 @@
 exercise_id: '1838'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Allungamento addominale a terra (Cobra)
+name: Esercizi di mobilità per le spalle con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2973'
+description: |-
+  Fissa un elastico di resistenza a un supporto solido dietro di te. Allontanati tenendo l'elastico in mano finché non è in tensione ed esegui rotazioni controllate per riscaldare e mobilizzare l'articolazione della spalla.

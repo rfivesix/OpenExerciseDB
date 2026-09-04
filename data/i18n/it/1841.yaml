@@ -1,9 +1,11 @@
 exercise_id: '1841'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Stretching per estensione delle spalle da seduto
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2976'
+description: |-
+  Siediti a terra appoggiando le mani dietro di te alla larghezza delle spalle con le braccia distese. Fai scivolare il bacino e i piedi in avanti abbassando le spalle verso il suolo per favorire un profondo allungamento dei deltoidi anteriori.

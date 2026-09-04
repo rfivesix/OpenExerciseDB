@@ -1,9 +1,11 @@
 exercise_id: '1715'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazioni esterne della spalla con manubrio
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2838'
+description: |-
+  Sdraiati su un fianco tenendo un manubrio con la mano del braccio superiore. Posiziona il gomito aderente al costato piegato a 90 gradi e ruota la spalla sollevando la mano verso il soffitto, poi abbassala lentamente tornando alla posizione iniziale.

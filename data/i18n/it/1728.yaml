@@ -1,9 +1,11 @@
 exercise_id: '1728'
 language: it
-status: ai_raw
-translated_from: en
-name: Distensioni su panca piana alla multipower
+status: ai_reviewed
+translated_from: de
+name: Intrarotazioni della spalla ai cavi
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2854'
+description: |-
+  Tieni il gomito aderente al fianco flesso a 90 gradi e ruota l'avambraccio verso l'interno avvicinandolo all'addome contro la resistenza del cavo, senza ruotare il tronco.

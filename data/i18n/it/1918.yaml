@@ -1,8 +1,10 @@
 exercise_id: '1918'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Chest press per pettorali (Legend)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3065'
+description: |-
+  Macchina chest press a carico libero a dischi per l'allenamento di forza e ipertrofia del gran pettorale.

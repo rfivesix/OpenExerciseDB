@@ -1,8 +1,10 @@
 exercise_id: '1753'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate laterali al cavo dietro la schiena
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2890'
+description: |-
+  Esegui un'alzata laterale al cavo tenendo la linea del cavo che passa dietro la schiena, sollevando il braccio verso l'esterno con movimento fluido e controllato.

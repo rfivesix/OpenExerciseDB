@@ -1,9 +1,11 @@
 exercise_id: '1707'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate laterali al cavo a un braccio
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2829'
+description: |-
+  In piedi di fianco a una carrucola bassa, solleva lateralmente il braccio verso l'esterno fino all'altezza della spalla mantenendo il gomito leggermente flesso.

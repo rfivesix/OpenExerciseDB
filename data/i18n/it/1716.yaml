@@ -1,9 +1,11 @@
 exercise_id: '1716'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Piegamenti scapolari su panca inclinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2839'
+description: |-
+  Appoggia le mani su una panca inclinata in posizione di piegamento. A braccia costantemente tese, spingi il petto lontano dalla panca allontanando le scapole tra loro (protrazione). Quindi lascia scendere il petto verso la panca avvicinando le scapole tra loro (adduzione), poi rispingi via il petto per completare la ripetizione.

@@ -1,9 +1,11 @@
 exercise_id: '1654'
 language: it
-status: ai_raw
-translated_from: en
-name: Croci con manubri a terra
+status: ai_reviewed
+translated_from: de
+name: Alzate laterali alla macchina
 upstream:
   license: CC-BY-SA-4.0
   license_author: roneydya
   source_id: '2774'
+description: |-
+  Esercizio di isolamento mirato per il deltoide laterale. La traiettoria guidata della macchina offre una tensione costante e una stabilità ottimale lungo tutto l'arco di movimento, consentendo di focalizzarsi interamente sulla contrazione dei deltoidi senza oscillazioni del busto.

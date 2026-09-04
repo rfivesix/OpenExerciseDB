@@ -1,9 +1,11 @@
 exercise_id: '1660'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Distensioni inclinate al cavo per il petto
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2781'
+description: |-
+  Distensione singola al cavo con traiettoria inclinata verso l'alto. Utilizza l'altro braccio per sostenere la postura. Partendo con la mano vicina al petto, spingi la maniglia verso l'alto e verso il centro del torace focalizzando il carico sulla parte alta del gran pettorale.

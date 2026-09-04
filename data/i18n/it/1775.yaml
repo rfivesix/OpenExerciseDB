@@ -1,9 +1,11 @@
 exercise_id: '1775'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Croci inverse alla macchina Pec Deck
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh
   source_id: '2909'
+description: |-
+  Siediti rivolto verso la macchina per croci e apri le braccia all'indietro all'altezza delle spalle, contraendo con decisione i deltoidi posteriori e i romboidi.

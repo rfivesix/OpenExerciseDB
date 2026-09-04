@@ -1,8 +1,10 @@
 exercise_id: '1919'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento intenso per pettorali
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3066'
+description: |-
+  Allungamento profondo sotto carico per i muscoli pettorali, solitamente eseguito al termine dell'allenamento del petto.

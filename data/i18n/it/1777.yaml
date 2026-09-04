@@ -1,9 +1,11 @@
 exercise_id: '1777'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti con mani su rialzo (Deficit Push-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen
   source_id: '2911'
+description: |-
+  Esegui i piegamenti appoggiando le mani su blocchi o maniglie rialzate, permettendo al petto di scendere più in basso delle mani per un allungamento più profondo.

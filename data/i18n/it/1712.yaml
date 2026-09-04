@@ -1,9 +1,11 @@
 exercise_id: '1712'
 language: it
-status: ai_raw
-translated_from: en
-name: Panca inclinata a 45 gradi con manubri
+status: ai_reviewed
+translated_from: de
+name: Allungamento della spalla a braccio teso (flessione orizzontale)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2835'
+description: |-
+  Solleva un braccio lateralmente all'altezza della spalla e appoggia la mano contro una parete o lo stipite di una porta. Ruota delicatamente il busto nella direzione opposta per allungare il gran pettorale e la parte anteriore della spalla.

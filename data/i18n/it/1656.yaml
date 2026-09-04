@@ -1,9 +1,11 @@
 exercise_id: '1656'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Spinte al cavo per pettorali su panca declinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: Shiladree
   source_id: '2777'
+description: |-
+  Distensione unilaterale al cavo eseguita con traiettoria declinata. Usa il braccio libero per stabilizzare il corpo e concentrare tutta la forza sulla spinta. Inizia con la mano vicina al petto e spingi contro il cavo verso il basso e verso il centro del petto, tornando lentamente indietro.

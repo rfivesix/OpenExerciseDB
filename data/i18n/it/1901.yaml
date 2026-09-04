@@ -1,9 +1,16 @@
 exercise_id: '1901'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Girata e distensione con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3048'
+description: |-
+  Il clean and press è un esercizio fondamentale di sollevamento pesi che sviluppa forza ed esplosività in tutto il corpo.
+  Posizione di partenza ed esecuzione:
+  1. Inizia con il bilanciere a terra, piedi alla larghezza delle spalle e schiena piatta.
+  2. Esegui un tiraggio esplosivo estendendo anche e ginocchia e porta il bilanciere alle spalle in posizione di rack anteriore (girata/clean).
+  3. Stabilizza la postura, contrai addome e glutei, quindi spingi con forza il bilanciere sopra la testa fino al blocco delle braccia (press).
+  4. Riabbassa il bilanciere alle spalle e poi a terra con pieno controllo.

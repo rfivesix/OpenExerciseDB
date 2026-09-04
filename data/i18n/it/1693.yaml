@@ -1,9 +1,13 @@
 exercise_id: '1693'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tenuta statica con manubri su panca inclinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben
   source_id: '2812'
+description: |-
+  Posizione di partenza ed esecuzione:
+  Sdraiati su una panca inclinata e abbassa i manubri fino a pochi centimetri dal petto, a metà della normale traiettoria di spinta, dove la parte alta del petto è sotto massima tensione.
+  Mantieni questa posizione isometrica per 20-45 secondi conservando i pettorali contratti e respirando regolarmente senza rilassare le spalle. Al termine del tempo, abbassa con cautela i manubri e riposa.

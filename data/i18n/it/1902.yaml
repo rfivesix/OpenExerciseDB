@@ -1,9 +1,16 @@
 exercise_id: '1902'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Piegamenti con sovraccarico
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712
   source_id: '3049'
+description: |-
+  Posizione di partenza:
+  Assumi la classica posizione di piegamento a terra con un disco posizionato saldamente sulla parte alta della schiena. Mantieni una linea retta dalla testa ai talloni attivando intensamente il core.
+
+  Esecuzione:
+  1. Abbassa il corpo piegando i gomiti a circa 45 gradi finché il petto non sfiora il suolo.
+  2. Spingi con forza attraverso i palmi per tornare alla posizione iniziale distendendo le braccia senza inarcare la schiena.
