@@ -1,9 +1,11 @@
 exercise_id: '821'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trazione al trave da arrampicata
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1076'
+description: |-
+  Esegui una trazione a corpo libero afferrando una specifica tacca o bordo del trave da arrampicata (hangboard) per rinforzare dorso e flessori delle dita.

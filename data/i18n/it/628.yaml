@@ -1,9 +1,11 @@
 exercise_id: '628'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pull-down a braccia tese al cavo con sbarra
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '216'
+description: |-
+  Fissa una sbarra dritta a una puleggia alta del cavo. Afferra le estremità della barra con presa prona (palmi verso il basso) e tieni le braccia distese davanti a te. Con il busto leggermente inclinato e il core compatto, tira la barra verso il basso in direzione delle cosce mantenendo le braccia tese, quindi risali lentamente controllando la fase eccentrica.

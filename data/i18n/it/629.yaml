@@ -1,9 +1,11 @@
 exercise_id: '629'
 language: it
-status: ai_raw
-translated_from: en
-name: Affondi a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Pull-down a braccia tese al cavo con corda
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '215'
+description: |-
+  Posizionati in piedi di fronte al cavo alto con piedi a larghezza spalle e ginocchia leggermente piegate. Afferra le estremità della corda dall'alto con le braccia distese davanti a te. Mantenendo la schiena dritta e il core contratto, abbassa la corda verso le cosce e i fianchi con le braccia quasi completamente distese, aprendo leggermente le estremità della corda in basso prima di ritornare lentamente alla posizione di partenza.

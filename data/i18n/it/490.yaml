@@ -1,9 +1,11 @@
 exercise_id: '490'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Renegade Row con manubri
 upstream:
   license: CC0-1.0
   license_author: fletchgraham
   source_id: '670'
+description: |-
+  Portati in posizione di plank sulle mani impugnando due manubri appoggiati a terra. Esegui un piegamento sulle braccia e, una volta risalito, solleva il gomito sinistro verso l'alto remando il manubrio contro il fianco. Riporta il peso a terra con controllo, esegui un altro piegamento e rema con l'altro braccio per completare una ripetizione, mantenendo il core sempre stabile e compatto.

@@ -1,9 +1,11 @@
 exercise_id: '919'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore con barra a T
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1198'
+description: |-
+  A busto flesso e ginocchia leggermente piegate, afferra l'impugnatura a triangolo e rema portando il peso verso l'addome mantenendo la schiena rigida e neutra.

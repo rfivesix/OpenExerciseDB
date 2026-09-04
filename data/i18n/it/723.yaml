@@ -1,9 +1,11 @@
 exercise_id: '723'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a presa larga
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '204'
+description: |-
+  Posizione di partenza: braccia completamente distese in alto per sentire l'allungamento del gran dorsale, mantenendo le spalle depresse senza incassare il collo. Esecuzione: tira la sbarra verso la parte superiore del petto o le clavicole guidando con i gomiti verso il basso e all'indietro. Mantieni il petto alto e stringi forte le scapole al termine della trazione.

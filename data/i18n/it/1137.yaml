@@ -1,9 +1,11 @@
 exercise_id: '1137'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pullover al cavo alto
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2114'
+description: |-
+  In piedi di fronte alla macchina con i piedi leggermente divaricati, afferra la barra con presa prona e braccia distese a larghezza delle spalle. Mantenendo la schiena ben ferma e i muscoli addominali contratti, inspira e abbassa la sbarra con un arco di cerchio fino a toccare le cosce, con le braccia quasi tese o i gomiti appena sbloccati. Espira al completamento del movimento e risali lentamente.

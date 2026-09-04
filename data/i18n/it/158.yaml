@@ -1,9 +1,11 @@
 exercise_id: '158'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a presa stretta
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '213'
+description: |-
+  Afferra la barra della lat machine al cavo con una presa più stretta rispetto alla larghezza delle spalle e i palmi rivolti in avanti. Siediti e inclinati leggermente all'indietro. Tira la barra verso la parte superiore del petto, mantenendo i gomiti vicini ai fianchi durante la discesa. Nella fase finale, ritrai le scapole e contrai a fondo il gran dorsale prima di risalire lentamente.

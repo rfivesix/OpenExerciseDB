@@ -1,9 +1,11 @@
 exercise_id: '289'
 language: it
-status: ai_raw
-translated_from: en
-name: Hip thrust con bilanciere
+status: ai_reviewed
+translated_from: de
+name: Tirata alta con bilanciere
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney
   source_id: '164'
+description: |-
+  Utilizza un bilanciere leggero ed esegui una tirata esplosiva partendo da appena sotto le rotule. Estendi con forza le anche e solleva il bilanciere fino all'altezza delle spalle, guidando con i gomiti alti.

@@ -1,9 +1,11 @@
 exercise_id: '477'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trazioni assistite alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '140'
+description: |-
+  Utilizza la macchina per trazioni per eseguire una tirata verticale assistita. Solleva il corpo piegando i gomiti e attivando il gran dorsale fino a portare il mento oltre la sbarra, poi abbassati lentamente sotto controllo.

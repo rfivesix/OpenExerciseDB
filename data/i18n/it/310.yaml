@@ -1,9 +1,11 @@
 exercise_id: '310'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore con manubri su panca inclinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '340'
+description: |-
+  Appoggia il torace contro una panca inclinata e impugna un manubrio in ciascuna mano con presa neutra, lasciando cadere le braccia distese verso il pavimento. Inizia il movimento retraendo le scapole e flettendo i gomiti per remare i manubri verso i fianchi. Fai una breve pausa in cima alla contrazione, spremendo il gran dorsale e i romboidi, poi ritorna con controllo alla posizione di partenza.

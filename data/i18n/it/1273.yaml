@@ -1,9 +1,11 @@
 exercise_id: '1273'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pull-over con manubrio su panca
 upstream:
   license: CC-BY-SA-4.0
   license_author: 3leh
   source_id: '2241'
+description: |-
+  Esercizio completo su panca per il torace e la schiena: il pullover con manubrio distende e allena efficacemente sia il gran pettorale che il gran dorsale.

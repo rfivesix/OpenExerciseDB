@@ -1,9 +1,11 @@
 exercise_id: '468'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Retrazione scapolare prona con braccia lungo i fianchi
 upstream:
   license: CC-BY-SA-4.0
   license_author: donaddon
   source_id: '429'
+description: |-
+  Sdraiati a pancia in giù su un tappetino appoggiando la fronte su un asciugamano. Distendi le braccia dritte lungo i fianchi. Solleva lentamente le braccia adducendo attivamente le scapole verso la colonna vertebrale e mantieni la contrazione isometrica per 3 secondi prima di scendere.

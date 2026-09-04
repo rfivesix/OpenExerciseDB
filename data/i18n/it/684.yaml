@@ -1,9 +1,11 @@
 exercise_id: '684'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a presa inversa (supinata)
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '212'
+description: |-
+  Afferra la barra della lat machine con una presa supinata (palmi rivolti verso di te) a una larghezza leggermente inferiore a quella delle spalle. Inclinati appena all'indietro mantenendo la schiena dritta. Tira la barra verso il petto guidando i gomiti verso il basso e adducendo le scapole nella parte conclusiva del movimento.

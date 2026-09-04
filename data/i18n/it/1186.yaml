@@ -1,9 +1,11 @@
 exercise_id: '1186'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rematore a un braccio con manubrio su panca
+name: Rematore al cavo a un braccio a busto flesso
 upstream:
   license: CC-BY-SA-4.0
   license_author: anto.kreegyr
   source_id: '2142'
+description: |-
+  In posizione a busto flesso, afferra la maniglia singola al cavo basso e rema portando il gomito verso il fianco con la schiena neutra.

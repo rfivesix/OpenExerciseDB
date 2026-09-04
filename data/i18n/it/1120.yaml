@@ -1,9 +1,11 @@
 exercise_id: '1120'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore alla macchina presa inversa supina
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2089'
+description: |-
+  Esercizio di remata alla macchina o al cavo con impugnatura stretta in presa supina, che pone maggiore enfasi sui bicipiti e sul gran dorsale.

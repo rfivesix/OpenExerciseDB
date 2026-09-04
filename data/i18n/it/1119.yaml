@@ -1,9 +1,11 @@
 exercise_id: '1119'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore alla macchina a presa stretta
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2088'
+description: |-
+  Rematore eseguito alla macchina guidata con presa stretta, focalizzandosi sulla tirata dei gomiti verso i fianchi e sulla retrazione scapolare.

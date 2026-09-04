@@ -1,9 +1,11 @@
 exercise_id: '599'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Strappo con bilanciere
 upstream:
   license: CC0-1.0
   license_author: Mens Fitness
   source_id: '271'
+description: |-
+  Posizionati con i piedi a larghezza delle anche e gli stinchi a contatto con il bilanciere. Afferra la sbarra con una presa molto ampia (doppia rispetto alle spalle) e, mantenendo la zona lombare piatta e il petto fiero, spingi sui talloni per sollevare il bilanciere. Superate le ginocchia, estendi in modo esplosivo le anche e scrolla le spalle, sfruttando l'inerzia verticale per ricevere e bloccare il peso sopra la testa a braccia tese in accosciata.

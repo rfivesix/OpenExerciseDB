@@ -1,9 +1,11 @@
 exercise_id: '674'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore con cinghie di sospensione (TRX)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Skadi
   source_id: '1044'
+description: |-
+  Esercizio a corpo libero per la schiena: afferra le maniglie del TRX, inclinati all'indietro e rema trazionando il petto verso le maniglie mantenendo il corpo in una linea retta.

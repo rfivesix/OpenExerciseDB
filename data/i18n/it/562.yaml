@@ -1,9 +1,11 @@
 exercise_id: '562'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore shotgun al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '339'
+description: |-
+  Fissa una maniglia singola a un cavo basso. Dopo aver impostato il carico, fai qualche passo indietro assumendo una posizione di affondo stabile. Il braccio di trazione è completamente disteso e la spalla corrispondente è protesa in avanti in allungamento. Esegui la tirata ritraendo la spalla e piegando il gomito verso il fianco; durante il movimento supina il polso ruotando il palmo verso l'alto. Dopo una breve pausa di massima contrazione sul gran dorsale, ritorna controllando la fase eccentrica alla posizione iniziale.

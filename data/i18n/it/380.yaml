@@ -1,9 +1,11 @@
 exercise_id: '380'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore a leva convergente
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '214'
+description: |-
+  Regola l'altezza del sellino in modo che le impugnature si trovino all'altezza o appena sotto il margine inferiore del petto, garantendo una trazione ottimale del gran dorsale.

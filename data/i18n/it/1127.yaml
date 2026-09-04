@@ -1,9 +1,11 @@
 exercise_id: '1127'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a presa stretta supinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2101'
+description: |-
+  Fase concentrica: tira la barra verso il basso facendola passare vicino al mento fino a sfiorare la parte superiore del petto. Mantieni il resto del corpo perfettamente fermo e controlla il ritorno eccentrico.

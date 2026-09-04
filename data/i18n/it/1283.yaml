@@ -1,9 +1,11 @@
 exercise_id: '1283'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Muscle-up alla sbarra
+name: Rematore con manubri su panca inclinata con supporto toracico
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2250'
+description: |-
+  Regola una panca inclinata a 45 gradi. Sdraiati a pancia in giù con la testa appena oltre il bordo superiore dello schienale. Impugna un manubrio in ciascuna mano e stabilizza l'assetto posturale con core attivo, gran dorsale in tensione e spalle neutre. Rema i manubri verso la parte superiore dell'addome guidando con i gomiti e stringi forte le scapole nel punto più alto della ripetizione. Infine, abbassa i manubri in modo controllato fino alla posizione di partenza e ripeti fino a completare la serie.

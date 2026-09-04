@@ -1,9 +1,11 @@
 exercise_id: '258'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Tirata al cavo alto a presa larga (Lat pulldown)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '1059'
+description: |-
+  Siediti o posizionati di fronte a un cavo alto e afferra la barra con un'impugnatura larga. Tira la barra verso la parte alta del petto guidando il movimento con i gomiti verso il basso. Rilascia lentamente e con controllo fino alla completa distensione delle braccia.

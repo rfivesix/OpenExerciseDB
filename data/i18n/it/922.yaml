@@ -1,9 +1,11 @@
 exercise_id: '922'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Scrollate al cavo da seduto (trapezio medio)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1201'
+description: |-
+  Seduto con la schiena dritta al cavo, ritrai orizzontalmente le scapole mantenendo una breve pausa isometrica al massimo della contrazione per sollecitare il trapezio medio.

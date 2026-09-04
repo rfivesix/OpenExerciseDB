@@ -1,9 +1,11 @@
 exercise_id: '1136'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lat machine con presa neutra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2113'
+description: |-
+  Il lat pulldown al petto con presa neutra è un eccellente esercizio per rinforzare la muscolatura dorsale e migliorare la postura. Per eseguirlo correttamente e prevenire infortuni, segui questi passaggi fondamentali: posizionati alla macchina con le ginocchia stabili e i piedi ben saldi al pavimento. Afferra le maniglie del cavo con presa neutra (palmi rivolti l'uno verso l'altro) a larghezza spalle. Tira la maniglia verso il basso guidando i gomiti finché non tocca o si avvicina alla parte superiore del petto, mantenendo la posizione di massima contrazione per uno o due secondi. Fai risalire lentamente la barra verso l'alto nella posizione di partenza, mantenendo la schiena dritta e le braccia in linea per tutta la durata del movimento.

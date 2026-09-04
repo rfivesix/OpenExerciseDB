@@ -1,9 +1,11 @@
 exercise_id: '448'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore Pendlay con bilanciere
 upstream:
   license: CC-BY-SA-3.0
   license_author: Nallitnas
   source_id: '202'
+description: |-
+  Esercizio per la schiena con bilanciere in cui la posizione di partenza prevede il busto flesso in avanti, perfettamente parallelo al pavimento. Il bilanciere poggia a terra sotto il petto. Afferra la sbarra con presa prona a larghezza spalle e tirala esplosivamente verso il petto senza muovere il busto o le gambe. Riporta il bilanciere a terra a ogni ripetizione.

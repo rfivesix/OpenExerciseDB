@@ -1,9 +1,11 @@
 exercise_id: '923'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore prono con manubri & Scrollate da seduto
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1202'
+description: |-
+  Sdraiati a pancia in giù su una panca leggermente inclinata per eseguire il rematore con manubri, seguito subito dopo da scrollate da seduti.

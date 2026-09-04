@@ -1,9 +1,11 @@
 exercise_id: '1252'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trazioni in posizione di Front Lever
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2211'
+description: |-
+  Dalla posizione di front lever alla sbarra, con gambe tese o raccolte, esegui una trazione portando il petto a contatto con la sbarra attraverso una potente contrazione del gran dorsale e del core.

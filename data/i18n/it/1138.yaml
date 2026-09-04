@@ -1,9 +1,11 @@
 exercise_id: '1138'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Lat machine su panca inclinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2115'
+description: |-
+  Sdraiati a pancia in giù su una panca inclinata rivolta verso il cavo ed esegui la tirata verso il petto concentrandoti sul gran dorsale.

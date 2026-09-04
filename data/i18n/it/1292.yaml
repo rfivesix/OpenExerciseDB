@@ -1,9 +1,11 @@
 exercise_id: '1292'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Trazioni alla sbarra a presa inversa (Chin-ups)
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2258'
+description: |-
+  Trazioni alla sbarra eseguite con presa supina (pollici rivolti verso l'esterno), che reclutano intensamente il gran dorsale e i bicipiti durante la salita del busto.

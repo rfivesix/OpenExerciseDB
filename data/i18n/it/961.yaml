@@ -1,9 +1,11 @@
 exercise_id: '961'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sprint di nuoto 50m
 upstream:
   license: CC-BY-SA-4.0
   license_author: abuono
   source_id: '1255'
+description: |-
+  Scatti massimali di nuoto su una distanza di 50 metri con intervallo di riposo di un minuto tra le serie.
