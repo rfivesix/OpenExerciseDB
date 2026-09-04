@@ -7,7 +7,8 @@ exercise_id: '205'
 language: en
 status: upstream_unreviewed
 name: Dumbbell Lunges Standing
-description: .
+# Description expanded from exercise attributes (equipment: dumbbell, pattern: lunge, laterality: alternating)
+description: Stand upright holding dumbbells at your sides and perform alternating forward lunges.
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

@@ -7,7 +7,8 @@ exercise_id: '1093'
 language: en
 status: upstream_unreviewed
 name: Rowing Machine
-description: Sit on a rowing machine with your back straight.
+# Description expanded from German source
+description: Sit on a rowing machine with your back straight; extend the legs while pulling the handle toward the torso.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Boertie

@@ -7,9 +7,11 @@ exercise_id: '20'
 language: en
 status: upstream_unreviewed
 name: Arnold Shoulder Press
+# Description expanded from German source (source_id: 228)
 description: |-
-  Very common shoulder exercise.
-  As shown here:&nbsp;https://www.youtube.com/watch?v=vj2w851ZHRM
+  Hold two dumbbells in front of your chest with palms facing inwards, elbows below the wrists.
+  Bring the elbows outward and press the dumbbells overhead, rotating from the elbows rather than the arms.
+  Once arms are extended, reverse the movement back to the starting position.
 search_terms:
   - Schwarzenegger Press
   - Palm-to-Palm Overhead Press

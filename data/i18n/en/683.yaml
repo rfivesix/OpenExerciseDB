@@ -7,7 +7,8 @@ exercise_id: '683'
 language: en
 status: upstream_unreviewed
 name: Power Clean
-description: Olympic weight lifting
+# Description expanded from German source
+description: 'Olympic weightlifting movement: explosive pull of the barbell from the floor or hang onto the anterior shoulders (front rack position).'
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de

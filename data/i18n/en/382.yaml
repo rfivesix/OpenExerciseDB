@@ -8,7 +8,8 @@ exercise_id: '382'
 language: en
 status: ai_reviewed
 name: Hanging L-Sit Hold
-description: Hold the L position for as long as possible
+# Description expanded from German source
+description: Hang from a pull-up bar and raise your legs straight until there is a 90-degree angle between legs and torso (L-shape). Hold this position.
 upstream:
   license: CC-BY-SA-3.0
   license_author: bizyguy

@@ -7,7 +7,8 @@ exercise_id: '614'
 language: en
 status: upstream_unreviewed
 name: Squat Jumps
-description: Jump wide, then close
+# Description expanded from German source
+description: Jump explosively from a wide stance and land in a narrow stance, alternating between wide and narrow foot positions.
 upstream:
   license: CC-BY-SA-3.0
   license_author: OGhTebfCxhexZXuf35mUxV9C--A

@@ -7,7 +7,8 @@ exercise_id: '530'
 language: en
 status: upstream_unreviewed
 name: Run - Treadmill
-description: Run on a treadmill
+# Description expanded from German source
+description: Running on a treadmill is an effective cardio exercise that elevates heart rate and trains endurance, primarily working the calf, thigh, and gluteal muscles.
 upstream:
   license: CC-BY-SA-3.0
   license_author: foguinho.peruca
