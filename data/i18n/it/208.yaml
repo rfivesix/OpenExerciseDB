@@ -1,9 +1,16 @@
 exercise_id: '208'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl con manubri alla panca Scott
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '87'
+description: |-
+  Posizione di partenza:
+  Siediti alla panca Scott appoggiando saldamente la parte posteriore delle braccia sul cuscinetto inclinato e afferra un manubrio in ciascuna mano.
+
+  Esecuzione:
+  1. Fletti i gomiti portando i manubri verso le spalle contraendo i bicipiti.
+  2. Abbassa i manubri lentamente e con controllo fino alla quasi completa distensione delle braccia.

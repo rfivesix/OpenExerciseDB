@@ -1,9 +1,11 @@
 exercise_id: '672'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rotazione del tronco al cavo
+name: Rotazione del tronco da seduto al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Robertcoop
   source_id: '310'
+description: |-
+  Siediti lateralmente rispetto alla carrucola del cavo a media altezza, afferra l'impugnatura con entrambe le braccia distese e ruota il tronco controllando il movimento con i muscoli addominali obliqui.

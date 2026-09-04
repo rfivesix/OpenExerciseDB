@@ -1,9 +1,11 @@
 exercise_id: '545'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Forbici con le gambe (Scissors)
+name: Forbici con le gambe a terra (Scissors)
 upstream:
   license: CC-BY-SA-4.0
   license_author: vkylamba
   source_id: '631'
+description: |-
+  Sdraiati supino con le gambe distese sollevate da terra e incrociale ritmicamente l'una sopra l'altra in un movimento a forbice continuo, mantenendo gli addominali contratti e la zona lombare a contatto con il suolo.

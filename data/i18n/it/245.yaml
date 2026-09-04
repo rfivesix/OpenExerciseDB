@@ -1,9 +1,17 @@
 exercise_id: '245'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: French press con manubri (Skullcrusher)
+name: French press con manubri (Skull crusher)
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '85'
+description: |-
+  Posizione di partenza:
+  Sdraiati su una panca piana tenendo un manubrio in ciascuna mano, posizionando la testa in modo che una piccola parte sporga leggermente oltre il bordo. Distendi le braccia verso l'alto e inclinale di circa 10-20 gradi all'indietro rispetto alla verticale, oltre la linea della testa.
+
+  Esecuzione:
+  1. Mantieni l'angolo delle braccia fisso e fletti solo i gomiti, abbassando i manubri dietro e oltre la testa, non verso il viso. Questa angolazione mantiene una tensione costante sui tricipiti.
+  2. Estendi i gomiti per riportare i manubri alla posizione inclinata di partenza.
+  3. Assicurati che i gomiti rimangano stabili e non si allarghino, lasciando lavorare esclusivamente i tricipiti.

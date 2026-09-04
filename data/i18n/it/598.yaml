@@ -1,9 +1,16 @@
 exercise_id: '598'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Spaccata frontale
+name: Panca piana a presa stretta al multipower
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '218'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino sulla panca posizionata sotto il bilanciere della Smith machine (multipower). Afferra la barra con una presa a larghezza spalle.
+
+  Esecuzione:
+  1. Abbassa la barra verso la parte bassa del petto mantenendo i gomiti vicini al busto.
+  2. Spingi la barra verso l'alto distendendo le braccia per attivare i tricipiti.

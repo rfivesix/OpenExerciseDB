@@ -1,9 +1,16 @@
 exercise_id: '505'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch alla sedia romana
 upstream:
   license: CC-BY-SA-3.0
   license_author: MaddieBeasley
   source_id: '263'
+description: |-
+  Posizione di partenza:
+  Posizionati sulla sedia romana con i piedi ben bloccati nei rulli di supporto e il busto allineato.
+
+  Esecuzione:
+  1. Fletti il tronco in avanti contraendo con forza i muscoli addominali.
+  2. Ritorna in modo controllato alla posizione di partenza senza iperestendere la schiena.

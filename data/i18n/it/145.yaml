@@ -1,9 +1,17 @@
 exercise_id: '145'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Woodchopper ai cavi
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt
   source_id: '167'
+description: |-
+  Posizione di partenza:
+  Regola la carrucola del cavo poco sotto l'altezza del petto. Mantieni il corpo orientato in avanti e il bacino stabile.
+
+  Esecuzione:
+  1. Afferra l'impugnatura con entrambe le braccia distese e ruota il busto tirando il cavo diagonalmente verso il lato opposto.
+  2. Mantieni la posizione per un secondo nel punto finale.
+  3. Ritorna lentamente e in modo controllato alla posizione di partenza.

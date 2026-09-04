@@ -1,9 +1,11 @@
 exercise_id: '165'
 language: it
-status: ai_raw
-translated_from: en
-name: Crunch su palla da ginnastica
+status: ai_reviewed
+translated_from: de
+name: Crunch con palla da ginnastica o TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1051'
+description: |-
+  Posiziona i piedi sulle cinghie del TRX oppure sopra una palla da ginnastica e appoggia le mani a terra sotto le spalle in posizione di plank. Da qui, fletti le ginocchia portandole verso il petto contraendo gli addominali, poi distendi nuovamente le gambe.

@@ -1,9 +1,11 @@
 exercise_id: '182'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sospensione alla sbarra (Deadhang)
 upstream:
   license: CC-BY-SA-4.0
   license_author: 2dPREtEZP221u68Akf0JImv5L48
   source_id: '347'
+description: |-
+  Appenditi a una sbarra per trazioni o a una presa specifica con presa prona a braccia distese. Mantieni la posizione di sospensione statica, sostenendo il peso corporeo e attivando la presa delle mani e degli avambracci.

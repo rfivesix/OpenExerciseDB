@@ -1,9 +1,18 @@
 exercise_id: '211'
 language: it
-status: ai_raw
-translated_from: en
-name: Estensioni per tricipiti con manubrio
+status: ai_reviewed
+translated_from: de
+name: Estensioni per tricipiti sopra la testa con manubrio
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuninx
   source_id: '274'
+description: |-
+  Posizione di partenza:
+  Tieni un manubrio sopra la testa afferrandolo con entrambe le mani sotto il disco superiore (presa a coppa).
+
+  Esecuzione:
+  1. Mantenendo i gomiti alti e vicini alla testa, fletti le braccia per abbassare il manubrio dietro la nuca in modo lento e controllato.
+  2. Fletti leggermente i polsi al punto inferiore per garantire una traiettoria sicura.
+  3. Estendi i gomiti spingendo il peso verso l'alto fino a distendere le braccia sopra la testa.
+  4. Ripeti per le ripetizioni previste.

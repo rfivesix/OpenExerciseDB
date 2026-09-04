@@ -1,9 +1,16 @@
 exercise_id: '202'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl concentrato con manubrio
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.exrx.net/WeightExercises/Brachialis/DBC
   source_id: '275'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca a gambe divaricate. Afferra un manubrio e appoggia il gomito e la parte posteriore del braccio contro l'interno della coscia.
+
+  Esecuzione:
+  1. Fletti l'avambraccio sollevando il manubrio verso la spalla.
+  2. Contrai intensamente il bicipite in cima e abbassa il peso in modo controllato.

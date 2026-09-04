@@ -1,8 +1,15 @@
 exercise_id: '803'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni tricipiti a un braccio al cavo alto
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1055'
+description: |-
+  Posizione di partenza:
+  In piedi davanti a un cavo alto, afferra la maniglia o l'estremità del cavo con una mano mantenendo il gomito vicino al fianco.
+
+  Esecuzione:
+  1. Estendi il gomito spingendo la maniglia verso il basso fino alla completa distensione del braccio.
+  2. Riporta lentamente il carico verso l'alto con pieno controllo e ripeti l'esercizio sull'altro lato.

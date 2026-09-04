@@ -1,9 +1,11 @@
 exercise_id: '382'
 language: it
-status: ai_raw
-translated_from: en
-name: Tenuta a squadra (L-Hold)
+status: ai_reviewed
+translated_from: de
+name: Tenuta a squadra alla sbarra (L-Hold)
 upstream:
   license: CC-BY-SA-3.0
   license_author: bizyguy
   source_id: '281'
+description: |-
+  Appenditi a una sbarra per trazioni a braccia distese e solleva le gambe tese fino a formare un angolo di 90° con il busto (posizione a L). Mantieni saldamente la posizione statica attivando il core.

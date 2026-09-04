@@ -1,9 +1,11 @@
 exercise_id: '56'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stabilizzazione addominale su rullo
 upstream:
   license: CC-BY-SA-3.0
   license_author: andikeller
   source_id: '1061'
+description: |-
+  Sdraiati in posizione supina lungo un rullo massaggiatore (foam roller) su un tappetino e mantieni la contrazione isometrica del core.

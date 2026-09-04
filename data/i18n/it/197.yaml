@@ -1,9 +1,17 @@
 exercise_id: '197'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dip tra due panche
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '83'
+description: |-
+  Posizione di partenza:
+  Posiziona due panche piane parallele tra loro. Appoggia i palmi delle mani sul bordo di una panca e i talloni sul bordo dell'altra panca di fronte a te.
+
+  Esecuzione:
+  1. Abbassa lentamente il busto flettendo i gomiti finché la parte superiore delle braccia non è parallela al pavimento.
+  2. Mantieni la schiena vicina alla panca posteriore durante la discesa.
+  3. Spingi con forza sui palmi estendendo i gomiti per ritornare alla posizione di partenza.

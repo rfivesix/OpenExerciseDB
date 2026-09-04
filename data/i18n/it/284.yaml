@@ -1,9 +1,11 @@
 exercise_id: '284'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pilastri di Ercole ai cavi
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '291'
+description: |-
+  Posizionati al centro di una stazione con cavi doppi, afferra entrambe le maniglie mantenendo le braccia distese lateralmente in linea con le spalle e sostieni la tensione isometrica a corpo ben saldo.

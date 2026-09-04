@@ -1,9 +1,16 @@
 exercise_id: '312'
 language: it
-status: ai_raw
-translated_from: en
-name: Plank inclinato con tocco alternato a terra
+status: ai_reviewed
+translated_from: de
+name: Plank declinato su palla da ginnastica con tocco del piede
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney
   source_id: '165'
+description: |-
+  Posizione di partenza:
+  Assumi la posizione di plank sugli avambracci appoggiando i piedi sopra una palla da ginnastica (Swiss ball).
+
+  Esecuzione:
+  1. Una volta trovata la stabilità, muovi lentamente un piede lateralmente facendolo scendere dalla palla fino a toccare brevemente il pavimento.
+  2. Riporta il piede sulla palla tornando alla posizione di partenza e ripeti il movimento con l'altro piede in modo alternato.

@@ -1,9 +1,11 @@
 exercise_id: '576'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Crunch laterale con manubrio
+name: Flessioni laterali del busto con manubrio
 upstream:
   license: CC-BY-SA-3.0
   license_author: kwrindy
   source_id: '176'
+description: |-
+  In piedi con un manubrio in una mano, fletti il busto lateralmente verso il lato del carico fino all'altezza del ginocchio, poi risali contraendo gli addominali obliqui opposti fino alla posizione eretta.

@@ -1,9 +1,16 @@
 exercise_id: '235'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Flutter Kicks a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '303'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino sulla schiena e solleva entrambe le gambe distese leggermente dal pavimento.
+
+  Esecuzione:
+  1. Muovi le gambe alternativamente su e giù con movimenti brevi e rapidi a forbice (come una pedalata orizzontale), senza toccare il suolo.
+  2. Mantieni il core saldamente contratto e la parte bassa della schiena costantemente premuta contro il tappetino durante tutto l'esercizio.

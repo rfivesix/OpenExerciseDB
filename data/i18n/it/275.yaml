@@ -1,9 +1,17 @@
 exercise_id: '275'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Good Morning con bilanciere
+name: Curl a martello al cavo con corda
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '138'
+description: |-
+  Posizione di partenza:
+  Fissa una corda alla carrucola bassa e impugnala con presa neutra (palmi rivolti l'uno verso l'altro). Posizionati in piedi con la schiena dritta e le braccia distese lungo i fianchi.
+
+  Esecuzione:
+  1. Fletti le braccia sollevando la corda verso l'alto con un movimento rapido e controllato.
+  2. Senza pause in cima, abbassa lentamente il carico con un movimento fluido e controllato, senza distendere completamente i gomiti a fine corsa.
+  3. Mantieni il corpo fermo ed evita oscillazioni con la schiena: i gomiti devono rimanere adesi ai fianchi durante tutto l'esercizio.

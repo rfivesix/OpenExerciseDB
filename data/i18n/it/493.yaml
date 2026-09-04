@@ -1,9 +1,23 @@
 exercise_id: '493'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl inverso con bilanciere EZ
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '208'
+description: 'Posizione di partenza:
+
+  In piedi con il busto eretto, afferra un bilanciere EZ con una presa prona alla
+  larghezza delle spalle.
+
+
+  Esecuzione:
+
+  1. Fletti i gomiti sollevando il bilanciere verso le spalle senza oscillare con
+  la schiena.
+
+  2. Contrai gli avambracci e i brachiali nel punto di massima flessione.
+
+  3. Riporta il peso verso il basso in modo lento e controllato.'

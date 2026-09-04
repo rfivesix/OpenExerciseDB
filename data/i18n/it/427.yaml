@@ -1,9 +1,17 @@
 exercise_id: '427'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Crunch con fase negativa eccentrica
+name: Crunch su panca declinata con enfasi eccentrica
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '93'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca declinata fissando le gambe agli appositi supporti. Incrocia le braccia davanti al petto.
+
+  Esecuzione:
+  1. Solleva il busto con un movimento di flessione della colonna vertebrale verso le ginocchia.
+  2. Senza soste prolungate in cima, abbassa il busto molto lentamente controllando la fase negativa.
+  3. Mantieni il capo fermo e allineato per tutta la durata dell'esercizio.

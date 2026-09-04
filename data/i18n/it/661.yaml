@@ -1,9 +1,16 @@
 exercise_id: '661'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni tricipiti alla macchina
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '139'
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina per tricipiti regolando l'altezza del sedile e afferra saldamente le impugnature con i gomiti appoggiati ai cuscinetti.
+
+  Esecuzione:
+  1. Spingi le impugnature verso il basso estendendo gli avambracci senza bloccare bruscamente i gomiti a fine corsa.
+  2. Rilascia lentamente il peso tornando alla posizione di partenza, mantenendo i gomiti stabili e senza muovere le braccia superiori.

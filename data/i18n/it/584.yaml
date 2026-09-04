@@ -1,9 +1,16 @@
 exercise_id: '584'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl con manubrio alla panca Scott a un braccio
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '205'
+description: |-
+  Posizione di partenza:
+  Siediti alla panca Scott appoggiando la parte posteriore del braccio sul cuscinetto e impugna un manubrio con presa supina.
+
+  Esecuzione:
+  1. Fletti il gomito sollevando il manubrio verso la spalla.
+  2. Abbassa il peso lentamente e con pieno controllo fino alla distensione quasi completa del braccio.

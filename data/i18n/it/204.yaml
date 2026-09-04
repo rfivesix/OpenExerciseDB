@@ -1,9 +1,19 @@
 exercise_id: '204'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl con manubri su panca inclinata
 upstream:
   license: CC-BY-SA-4.0
   license_author: ExRx
   source_id: '298'
+description: |-
+  Posizione di partenza:
+  Regola lo schienale della panca tra 45° e 60°. Siediti mantenendo la schiena ben aderente, il petto aperto e lo sguardo dritto. Afferra due manubri con presa neutra lasciando pendere le braccia leggermente piegate lungo i fianchi, posizionate dietro la linea del busto.
+
+  Esecuzione:
+  1. Fletti i gomiti sollevando i manubri vicino al corpo senza muovere la parte superiore del braccio, che rimane verticale.
+  2. Ruota gli avambracci in supinazione durante la salita, portando i palmi verso l'alto nel punto più alto.
+  3. Fermati un istante al vertice del movimento contraendo i bicipiti.
+  4. Abbassa i pesi lentamente e con controllo, ruotando nuovamente i polsi in presa neutra.
+  5. Espira durante la flessione e inspira durante la discesa senza bloccare completamente le articolazioni a fine corsa.

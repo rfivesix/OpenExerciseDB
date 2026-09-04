@@ -1,9 +1,17 @@
 exercise_id: '172'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch alla macchina per addominali
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '94'
+description: |-
+  Posizione di partenza:
+  Siediti sull'attrezzo con entrambi i piedi ben appoggiati e stabili a terra. Afferra le impugnature o appoggia i cuscinetti sul petto.
+
+  Esecuzione:
+  1. Esegui un movimento di flessione del tronco in avanti, staccando la colonna vertebrale vertebra dopo vertebra dallo schienale.
+  2. Contrai intensamente i muscoli addominali nel punto di massima contrazione.
+  3. Ritorna alla posizione di partenza in modo lento e controllato.

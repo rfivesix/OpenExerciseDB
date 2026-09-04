@@ -1,9 +1,16 @@
 exercise_id: '660'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Estensioni tricipiti al cavo con sbarra
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '90'
+description: |-
+  Posizione di partenza:
+  In piedi davanti al cavo alto con i piedi alla larghezza delle spalle, inclina leggermente il busto in avanti e impugna la sbarra con presa prona.
+
+  Esecuzione:
+  1. Spingi la sbarra verso il basso estendendo i gomiti, mantenendoli sempre saldamente fermi ai lati del busto.
+  2. Contrai i tricipiti in basso e ritorna in modo lento e controllato alla posizione iniziale.

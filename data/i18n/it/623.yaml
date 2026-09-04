@@ -1,9 +1,17 @@
 exercise_id: '623'
 language: it
-status: ai_raw
-translated_from: en
-name: Avvolgimento corda per avambracci
+status: ai_reviewed
+translated_from: de
+name: Avvolgimento corda per avambracci (Wrist Roller)
 upstream:
   license: CC-BY-SA-4.0
   license_author: pwiltrout
   source_id: '382'
+description: |-
+  Posizione di partenza:
+  In piedi a piedi divaricati alla larghezza delle spalle, afferra con entrambe le mani in presa prona l'asta dell'avvolgitore per polsi (wrist roller), al centro del quale è fissata una fune con un disco all'estremità inferiore. Distendi entrambe le braccia dritte davanti a te, parallele al pavimento.
+
+  Esecuzione:
+  1. Mantenendo le braccia tese all'altezza delle spalle, ruota rapidamente la barra con movimenti alternati dei polsi per avvolgere la corda e sollevare il carico da terra.
+  2. Una volta che il disco ha raggiunto la cima, inverti con cura il movimento dei polsi per srotolare la fune e abbassare lentamente il peso verso il pavimento.
+  3. Controlla il carico durante tutta la discesa senza lasciar scivolare l'asta.

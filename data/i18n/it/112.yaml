@@ -1,9 +1,18 @@
 exercise_id: '112'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Body-Up alle parallele
+name: Body-Up su avambracci
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '341'
+description: |-
+  Posizione di partenza:
+  Assumi una posizione di plank a terra sugli avambracci, sostenendo il peso corporeo sulle punte dei piedi e sugli avambracci posizionati alla larghezza delle spalle, mantenendo il busto perfettamente dritto.
+
+  Esecuzione:
+  1. Premendo saldamente i palmi a terra, estendi i gomiti per sollevare il corpo dal pavimento.
+  2. Mantieni il busto rigido e allineato durante tutto il movimento.
+  3. Abbassa lentamente gli avambracci a terra piegando i gomiti.
+  4. Ripeti per il numero desiderato di ripetizioni.

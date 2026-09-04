@@ -1,9 +1,16 @@
 exercise_id: '621'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl per bicipiti con manubri in piedi
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '768'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con i piedi a larghezza spalle, impugna un manubrio in ciascuna mano lungo i fianchi.
+
+  Esecuzione:
+  1. Mantenendo i gomiti fermi lungo il tronco, fletti le braccia e ruota gli avambracci verso l'alto sollevando i manubri verso le spalle.
+  2. Abbassa i manubri lentamente e con controllo.

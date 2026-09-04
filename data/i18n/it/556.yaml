@@ -1,9 +1,16 @@
 exercise_id: '556'
 language: it
-status: ai_raw
-translated_from: en
-name: Flessioni laterali del busto alla macchina
+status: ai_reviewed
+translated_from: de
+name: Flessioni laterali del busto alla sedia romana
 upstream:
   license: CC-BY-SA-3.0
   license_author: klabautermann
   source_id: '1070'
+description: |-
+  Posizione di partenza:
+  Posizionati lateralmente sulla sedia romana con il fianco appoggiato al cuscinetto e i piedi bloccati, mantenendo il corpo dritto e le mani dietro la nuca o al petto.
+
+  Esecuzione:
+  1. Fletti il busto lateralmente verso il pavimento finché non è approssimativamente parallelo al suolo.
+  2. Risali contraendo i muscoli obliqui tornando alla linea di partenza.

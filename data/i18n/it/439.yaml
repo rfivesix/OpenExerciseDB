@@ -1,9 +1,11 @@
 exercise_id: '439'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Curl al cavo a presa prona
 upstream:
   license: CC-BY-SA-3.0
   license_author: ThisGirl0819
   source_id: '197'
+description: |-
+  Posizionati davanti alla carrucola con le mani all'altezza delle spalle, impugna la sbarra a presa prona (palmi verso il basso) e fletti le braccia tirando verso il capo, poi ridistendile con controllo.

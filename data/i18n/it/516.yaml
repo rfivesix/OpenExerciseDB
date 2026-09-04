@@ -1,9 +1,21 @@
 exercise_id: '516'
 language: it
-status: ai_raw
-translated_from: en
-name: Taglialegna frontale a corpo libero (Wood Chop)
+status: ai_reviewed
+translated_from: de
+name: Woodchopper frontale a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: Konsumopfer
   source_id: '1063'
+description: 'Posizione di partenza:
+
+  In piedi con i piedi leggermente più larghi delle spalle e le ginocchia flesse,
+  unisci le mani in alto sopra una spalla.
+
+
+  Esecuzione:
+
+  1. Con un movimento diagonale e potente, abbassa le braccia tagliando verso il ginocchio
+  opposto mentre ruoti il busto e le anche.
+
+  2. Ritorna controllando la risalita alla posizione iniziale.'

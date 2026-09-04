@@ -1,9 +1,20 @@
 exercise_id: '500'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank inverso (Reverse Plank)
 upstream:
   license: CC-BY-SA-4.0
   license_author: spacetowaste
   source_id: '409'
+description: 'Posizione di partenza:
+
+  Siediti a terra ed estendi le braccia dietro di te con le mani rivolte in avanti.
+
+
+  Esecuzione:
+
+  1. Solleva il bacino dal pavimento spingendo sui palmi e sui talloni, fino a formare
+  una linea retta dalle caviglie alle spalle.
+
+  2. Contrai i glutei e l''addome mantenendo la posizione statica.'

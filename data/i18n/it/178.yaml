@@ -1,9 +1,17 @@
 exercise_id: '178'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dead Bug a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Metin
   source_id: '544'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino sulla schiena con le anche e le ginocchia flesse a 90° e le braccia distese verso il soffitto. Premi la parte bassa della schiena contro il pavimento.
+
+  Esecuzione:
+  1. Distendi lentamente e contemporaneamente un braccio all'indietro e la gamba opposta in avanti verso il pavimento, mantenendo il core attivo e la colonna lombare aderente al suolo.
+  2. Ritorna alla posizione di partenza e ripeti con il braccio e la gamba opposti.
+  3. Esegui il movimento in modo alternato e controllato.

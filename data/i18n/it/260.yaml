@@ -1,9 +1,18 @@
 exercise_id: '260'
 language: it
-status: ai_raw
-translated_from: en
-name: Sit out a corpo libero
+status: ai_reviewed
+translated_from: de
+name: Sit-Out a corpo libero
 upstream:
   license: CC-BY-SA-4.0
   license_author: http://www.realsimple.com/health/fitness-exercise/
   source_id: '326'
+description: |-
+  Posizione di partenza:
+  Posizionati a terra a quattro zampe in appoggio su mani e dita dei piedi in posizione di plank alto o orso.
+
+  Esecuzione:
+  1. Sposta il peso sulla mano sinistra e ruota il busto verso destra.
+  2. Fai passare la gamba destra sotto il corpo estendendola lateralmente, mentre sollevi la mano destra verso l'alto.
+  3. Ritorna al centro e ripeti immediatamente il movimento sul lato opposto, ruotando il corpo a sinistra ed estendendo la gamba sinistra.
+  4. Continua alternando fluidamente i due lati. Per facilitare il movimento, puoi mantenere il braccio a terra invece di sollevarlo.

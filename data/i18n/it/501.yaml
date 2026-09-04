@@ -1,9 +1,22 @@
 exercise_id: '501'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Dip agli anelli
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '360'
+description: 'Posizione di partenza:
+
+  Sostieniti sopra gli anelli da ginnastica a braccia completamente distese e con
+  il corpo stabile.
+
+
+  Esecuzione:
+
+  1. Abbassa il corpo piegando i gomiti finché le spalle non scendono leggermente
+  sotto i gomiti.
+
+  2. Spingi con forza verso l''alto tornando alla posizione di supporto a braccia
+  tese.'

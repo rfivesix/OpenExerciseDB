@@ -1,9 +1,16 @@
 exercise_id: '41'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ab Rollout con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: sevae
   source_id: '343'
+description: |-
+  Posizione di partenza:
+  Inginocchiati su un tappetino e posiziona un bilanciere a terra davanti a te. Afferra il bilanciere con una presa prona alla larghezza delle spalle.
+
+  Esecuzione:
+  1. Con un movimento lento e controllato, fai rotolare la barra in avanti finché il corpo non è disteso e la schiena dritta.
+  2. Contrai i muscoli addominali e tira indietro il bilanciere per ritornare alla posizione di partenza.

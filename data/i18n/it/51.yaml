@@ -1,9 +1,17 @@
 exercise_id: '51'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wrist curl con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: burenl
   source_id: '758'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca e afferra un bilanciere con una presa supina (palmi rivolti verso l'alto) alla larghezza delle spalle. Appoggia gli avambracci sulle cosce, lasciando che i polsi sporgano oltre le ginocchia.
+
+  Esecuzione:
+  1. Fletti i polsi verso l'alto sollevando il carico verso di te.
+  2. Fermati per un momento nel punto di massima contrazione.
+  3. Rilascia lentamente il bilanciere tornando alla posizione di partenza.

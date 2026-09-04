@@ -1,9 +1,17 @@
 exercise_id: '48'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Wrist curl inverso con bilanciere
 upstream:
   license: CC-BY-SA-4.0
   license_author: burenl
   source_id: '759'
+description: |-
+  Posizione di partenza:
+  Siediti su una panca e afferra un bilanciere con presa prona (palmi verso il basso) alla larghezza delle spalle. Appoggia gli avambracci sulle cosce, lasciando sporgere i polsi oltre le ginocchia.
+
+  Esecuzione:
+  1. Solleva il bilanciere estendendo i polsi verso l'alto.
+  2. Mantieni la contrazione per un istante nella posizione più alta.
+  3. Abbassa lentamente il bilanciere tornando alla posizione di partenza.

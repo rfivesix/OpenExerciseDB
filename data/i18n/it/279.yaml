@@ -1,9 +1,11 @@
 exercise_id: '279'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Molla per avambracci (Hand Grip)
 upstream:
   license: CC-BY-SA-4.0
   license_author: vince63
   source_id: '317'
+description: |-
+  Afferra la molla per avambracci (hand grip) nel palmo della mano e stringi ripetutamente l'impugnatura con forza per allenare la presa e la muscolatura degli avambracci.
