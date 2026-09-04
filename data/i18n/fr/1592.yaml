@@ -1,9 +1,11 @@
 exercise_id: '1592'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Méditation guidée ou libre
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2541'
+description: |-
+  Pratique de méditation guidée ou silencieuse en posture assise confortable, axée sur la respiration consciente et le relâchement mental.

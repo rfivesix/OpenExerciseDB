@@ -1,13 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '570'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Haussement d'épaules
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '1415'
+translated_from: en
+description: |-
+  Debout avec une barre ou des haltères le long du corps, haussez les épaules vers les oreilles en contractant puissamment le haut des trapèzes, puis redescendez avec contrôle.

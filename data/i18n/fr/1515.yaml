@@ -1,9 +1,11 @@
 exercise_id: '1515'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Poussée des pointes de pieds à la presse (mollets)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2474'
+description: |-
+  Assis à la presse à cuisses, placez uniquement l'avant des pieds sur le bord inférieur du plateau et effectuez des flexions et extensions des chevilles contre la charge.

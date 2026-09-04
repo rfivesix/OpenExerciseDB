@@ -1,9 +1,11 @@
 exercise_id: '2527'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Étirement du grand écart facial/sagittal
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4996'
+description: |-
+  En position de grand écart antéro-postérieur avec ou sans blocs de soutien, descendez le bassin de manière progressive en maintenant le buste droit pour étirer les ischios et le psoas.

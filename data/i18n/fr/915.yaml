@@ -1,9 +1,11 @@
 exercise_id: '915'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rotation de volant avec disque (Bus Drivers)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1194'
+description: |-
+  Tenez un disque d'haltère à bout de bras devant vous à hauteur d'épaules et faites-le pivoter alternativement comme un volant de voiture de gauche à droite.

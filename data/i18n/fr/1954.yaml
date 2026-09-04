@@ -1,9 +1,11 @@
 exercise_id: '1954'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Roulades au sol vers le V-Sit
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3105'
+description: |-
+  Allongé sur le dos, roulez vers l'arrière pour amener les jambes derrière la tête puis revenez dynamiquement vers l'avant en position de V-sit jambes écartées.

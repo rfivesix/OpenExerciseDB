@@ -1,9 +1,11 @@
 exercise_id: '1472'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Shrugs à la poulie avec rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2435'
+description: |-
+  Face à la double poulie basse, haussez les épaules vers le haut et l'intérieur en suivant l'orientation des câbles pour épouser la ligne des fibres des trapèzes.

@@ -1,9 +1,11 @@
 exercise_id: '2483'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotation du buste en maintien au mur (piscine)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4960'
+description: |-
+  Dans le bassin, tenez fermement le bord d'une main et effectuez des rotations contrôlées du buste et du bassin pour délier la ceinture scapulaire et le tronc.

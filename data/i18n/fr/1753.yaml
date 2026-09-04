@@ -1,8 +1,10 @@
 exercise_id: '1753'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales à la poulie derrière le corps
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2890'
+description: |-
+  Debout devant la poulie basse, faites passer le câble derrière le dos pour tirer latéralement et cibler le deltoïde latéral sans frottement sur les hanches.

@@ -1,9 +1,11 @@
 exercise_id: '1536'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement des deltoïdes
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2491'
+description: |-
+  Amenez un bras tendu en travers de la poitrine à hauteur d'épaules et utilisez l'autre bras pour exercer une pression douce et étirer le deltoïde postérieur.

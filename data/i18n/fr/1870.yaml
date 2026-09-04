@@ -1,9 +1,11 @@
 exercise_id: '1870'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement des ischios au sol avec bande
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3012'
+description: |-
+  Allongé sur le dos, passez une sangle ou une bande élastique sous le pied et levez la jambe tendue vers la verticale pour étirer l'ischio-jambier.

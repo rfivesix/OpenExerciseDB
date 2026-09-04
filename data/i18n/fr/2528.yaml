@@ -1,9 +1,11 @@
 exercise_id: '2528'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Squat profond avec extension d'un bras vers le ciel
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4997'
+description: |-
+  En position de squat complet profond, posez une main au sol entre les pieds et tendez l'autre bras vers le plafond en tournant le regard vers le haut pour ouvrir le haut du dos.

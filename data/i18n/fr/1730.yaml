@@ -1,9 +1,11 @@
 exercise_id: '1730'
 language: fr
-status: ai_raw
-translated_from: en
-name: Élévations latérales à la poulie
+status: ai_reviewed
+translated_from: de
+name: Élévations latérales unilatérales à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry
   source_id: '2856'
+description: |-
+  Exercice d'élévation latérale unilatérale à la poulie basse offrant une tension continue dès le début du mouvement pour isoler le faisceau latéral du deltoïde.

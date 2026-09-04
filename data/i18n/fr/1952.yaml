@@ -1,9 +1,11 @@
 exercise_id: '1952'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Automassage des fessiers à la balle de crosse
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3103'
+description: |-
+  Assis sur une balle de crosse ou de massage, ciblez les points de tension dans la musculature fessière et effectuez de petites rotations circulaires.

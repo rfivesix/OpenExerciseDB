@@ -1,9 +1,11 @@
 exercise_id: '1873'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement des quadriceps debout
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3015'
+description: |-
+  Debout sur une jambe, attrapez le cou-de-pied opposé et ramenez le talon vers le fessier en maintenant les genoux serrés et le bassin rétroversé.

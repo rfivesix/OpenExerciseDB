@@ -1,9 +1,11 @@
 exercise_id: '1707'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2829'
+description: |-
+  Debout à côté de la poulie basse, tenez la poignée d'une main et élevez le bras sur le côté jusqu'à hauteur de l'épaule en contrôlant la descente.

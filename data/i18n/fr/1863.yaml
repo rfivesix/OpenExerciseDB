@@ -1,9 +1,11 @@
 exercise_id: '1863'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Croisement de hanche au sol
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3005'
+description: |-
+  Allongé sur le dos, bras en croix, basculez les deux jambes fléchies ou tendues d'un côté vers le sol tout en gardant les deux épaules plaquées pour détendre le bassin.

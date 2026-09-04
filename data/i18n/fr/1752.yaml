@@ -1,8 +1,10 @@
 exercise_id: '1752'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales à la poulie devant le corps
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2889'
+description: |-
+  Debout devant la poulie basse, faites passer le câble devant le corps pour exécuter une élévation latérale unilatérale avec un étirement accentué en bas.

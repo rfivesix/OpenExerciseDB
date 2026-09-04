@@ -1,9 +1,11 @@
 exercise_id: '1862'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rotations articulaires des hanches
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3004'
+description: |-
+  Debout les mains sur les hanches, décrivez de grands cercles lents avec le bassin dans le sens horaire puis antihoraire pour déverrouiller les hanches.

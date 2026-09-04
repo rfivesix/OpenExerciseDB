@@ -1,9 +1,11 @@
 exercise_id: '1956'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rotations de la hanche à quatre pattes (Fire hydrant)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3107'
+description: |-
+  À quatre pattes, levez un genou fléchi sur le côté comme pour un hidrant, puis effectuez de grands cercles d'avant en arrière avec la hanche.

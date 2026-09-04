@@ -1,9 +1,11 @@
 exercise_id: '1363'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Automassage au rouleau de mousse (Blackroll)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2330'
+description: |-
+  Séance globale d'automassage myo-fascial au rouleau de mousse pour relâcher les tensions musculaires et accélérer la récupération.

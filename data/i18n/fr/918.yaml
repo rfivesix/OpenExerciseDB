@@ -1,9 +1,11 @@
 exercise_id: '918'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales assises avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1197'
+description: |-
+  Assis sur un banc avec le dos droit, tenez un haltère dans chaque main et élevez les bras latéralement jusqu'à l'horizontale en gardant les coudes légèrement fléchis.

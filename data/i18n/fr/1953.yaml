@@ -1,9 +1,11 @@
 exercise_id: '1953'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Croix de fer jambes fléchies au sol
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3104'
+description: |-
+  Allongé sur le dos avec les genoux pliés à 90 degrés, laissez tomber lentement les jambes d'un côté puis de l'autre en contrôlant avec les abdominaux obliques.

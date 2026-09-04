@@ -1,8 +1,10 @@
 exercise_id: '1938'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Posture du chat-vache (Cat-Cow)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3088'
+description: |-
+  À quatre pattes, alternez lentement entre cambrer le dos en levant la tête (vache) et arrondir la colonne vertébrale en rentrant le menton (chat) pour mobiliser le rachis.

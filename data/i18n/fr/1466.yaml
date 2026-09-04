@@ -1,9 +1,11 @@
 exercise_id: '1466'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Mollets debout à la machine Hack Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2429'
+description: |-
+  Debout sur la machine hack squat, pointes de pieds sur le rebord de la plateforme et talons dans le vide, poussez sur les orteils pour monter le plus haut possible puis descendez bas.

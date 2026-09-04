@@ -1,8 +1,10 @@
 exercise_id: '1754'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Élévations latérales à 45 degrés
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2891'
+description: |-
+  Debout ou assis, réalisez des élévations latérales en amenant les bras à 45 degrés dans le plan scapulaire (entre l'avant et le côté), une trajectoire plus ergonomique pour l'épaule.

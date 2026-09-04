@@ -1,9 +1,11 @@
 exercise_id: '672'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rotation du buste à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: Robertcoop
   source_id: '310'
+description: |-
+  Debout de profil par rapport à la poulie réglée à hauteur de poitrine, tenez la poignée à deux mains bras tendus et effectuez une rotation du buste en engageant les obliques.

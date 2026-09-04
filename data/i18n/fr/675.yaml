@@ -1,9 +1,11 @@
 exercise_id: '675'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Relevé turc (Turkish Get-Up)
 upstream:
   license: CC-BY-SA-4.0
   license_author: dookie1481
   source_id: '318'
+description: |-
+  Mouvement complet au sol démarrant allongé sur le dos avec une charge tendue à bout de bras au-dessus de la tête, menant progressivement à la station debout par étapes articulées.

@@ -1,9 +1,11 @@
 exercise_id: '1840'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement des ischios jambe fléchie
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '2975'
+description: |-
+  Allongé sur le dos, attrapez l'arrière de la cuisse avec le genou légèrement fléchi et tendez progressivement la jambe vers le plafond pour étirer les ischio-jambiers en douceur.

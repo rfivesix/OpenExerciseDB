@@ -1,9 +1,11 @@
 exercise_id: '1872'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Posture du pigeon (Pigeon stretch)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3014'
+description: |-
+  En fente avant au sol, repliez la jambe avant sous le bassin avec le genou tourné vers l'extérieur et tendez la jambe arrière pour étirer les fessiers profonds et le piriforme.

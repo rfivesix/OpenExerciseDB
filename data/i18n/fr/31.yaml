@@ -1,9 +1,11 @@
 exercise_id: '31'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Maintien statique avec haltères (Axe Hold)
 upstream:
   license: CC-BY-SA-3.0
   license_author: GrosseHund
   source_id: '289'
+description: |-
+  Debout, tenez deux haltères ou disques bras tendus à l'horizontale sur les côtés (élévation latérale statique) et maintenez la position le plus longtemps possible.

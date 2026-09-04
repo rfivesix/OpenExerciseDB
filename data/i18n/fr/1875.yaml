@@ -1,9 +1,11 @@
 exercise_id: '1875'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Étirement debout de la bandelette ilio-tibiale
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '3017'
+description: |-
+  Debout, croisez la jambe à étirer derrière l'autre jambe et inclinez le buste latéralement pour ressentir l'étirement sur la face externe de la cuisse et de la hanche.

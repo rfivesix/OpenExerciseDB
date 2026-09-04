@@ -1,9 +1,11 @@
 exercise_id: '1950'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Automassage au rouleau de la bandelette ilio-tibiale
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3101'
+description: |-
+  Allongé sur le côté, positionnez le rouleau sous la bandelette ilio-tibiale et massez lentement de la crête iliaque jusqu'au-dessus du genou.
