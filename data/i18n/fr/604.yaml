@@ -1,9 +1,11 @@
 exercise_id: '604'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Soulevé de terre dynamique (Speed deadlift)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele
   source_id: '328'
+description: |-
+  Soulevé de terre exécuté à charge modérée en mettant l'accent sur la vitesse et l'accélération maximale dès le départ du sol, avec des pauses courtes.

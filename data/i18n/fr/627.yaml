@@ -1,9 +1,11 @@
 exercise_id: '627'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Soulevé de terre jambes tendues
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '209'
+description: |-
+  Soulevé de terre jambes tendues : gardez les genoux quasi verrouillés et inclinez le torse vers l'avant dos droit pour cibler directement les ischio-jambiers et les fessiers.

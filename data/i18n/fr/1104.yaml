@@ -1,8 +1,10 @@
 exercise_id: '1104'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Marche à pied
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2067'
+description: |-
+  Marche active en intérieur ou en extérieur, en visant une cadence d'au moins 100 pas par minute avec les bras actifs.

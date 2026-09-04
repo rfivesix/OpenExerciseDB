@@ -1,9 +1,11 @@
 exercise_id: '319'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Jogging
 upstream:
   license: CC-BY-SA-4.0
   license_author: Papazit
   source_id: '423'
+description: |-
+  Course à pied à allure modérée et régulière, idéale pour le travail de l'endurance aérobie de base.

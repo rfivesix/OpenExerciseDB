@@ -1,9 +1,11 @@
 exercise_id: '2524'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Good Morning pieds écartés
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4993'
+description: |-
+  Barre posée sur les trapèzes, pieds largement écartés. Fléchissez le buste vers l'avant à partir des hanches en gardant la colonne vertébrale neutre pour étirer et renforcer la chaîne postérieure.

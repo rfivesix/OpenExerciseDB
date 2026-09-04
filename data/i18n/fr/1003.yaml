@@ -1,12 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1003'
 language: fr
-status: upstream_unreviewed
-name: Haltères de kettlebell
+status: ai_reviewed
+name: Soulevé de terre avec kettlebell
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1804'
+translated_from: en
+description: |-
+  Debout pieds écartés de la largeur des hanches, kettlebell entre les chevilles. Poussez les hanches en arrière le dos plat, saisissez la poignée et redressez-vous par l'extension des hanches.

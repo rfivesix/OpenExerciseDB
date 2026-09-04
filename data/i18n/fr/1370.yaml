@@ -1,9 +1,11 @@
 exercise_id: '1370'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Soulevé de terre avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anastasious
   source_id: '2337'
+description: |-
+  Soulevé de terre avec deux haltères tenus devant les cuisses : descendez les poids de manière contrôlée le long des jambes en inclinant le buste dos droit, puis remontez sans à-coup.

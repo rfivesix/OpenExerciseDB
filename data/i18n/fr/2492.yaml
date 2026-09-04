@@ -1,9 +1,11 @@
 exercise_id: '2492'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Machine pour adducteurs
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi
   source_id: '4972'
+description: |-
+  Assis sur la machine pour adducteurs, resserrez les cuisses vers l'intérieur contre la résistance pour renforcer les muscles adducteurs de la hanche.

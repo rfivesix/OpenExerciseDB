@@ -1,9 +1,11 @@
 exercise_id: '530'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Course sur tapis roulant
 upstream:
   license: CC-BY-SA-3.0
   license_author: foguinho.peruca
   source_id: '269'
+description: |-
+  Course sur tapis roulant, permettant de contrôler précisément la vitesse, la pente et le rythme cardiaque.

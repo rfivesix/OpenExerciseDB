@@ -1,9 +1,11 @@
 exercise_id: '1438'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Épaulé d'haltérophilie (Clean)
 upstream:
   license: CC-BY-SA-4.0
   license_author: M9
   source_id: '2402'
+description: |-
+  Épaulé complet d'haltérophilie : tirez la barre depuis le sol et glissez rapidement dessous pour la réceptionner sur les clavicules en squat complet avant de vous redresser.

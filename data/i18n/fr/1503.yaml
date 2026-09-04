@@ -1,9 +1,11 @@
 exercise_id: '1503'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Frog press avec haltères
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston
   source_id: '2465'
+description: |-
+  Allongé sur le dos, pieds joints plante contre plante en grenouille, soulevez le bassin vers le plafond en contractant puissamment les fessiers.

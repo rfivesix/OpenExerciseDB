@@ -1,9 +1,11 @@
 exercise_id: '2484'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Battements latéraux avec planche et respiration
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4961'
+description: |-
+  Poussez sur le mur sur le côté en tenant la planche d'un bras tendu devant et l'autre le long du corps. Battez des jambes et tournez la tête pour respirer sans perdre l'alignement.

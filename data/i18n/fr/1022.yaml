@@ -1,8 +1,10 @@
 exercise_id: '1022'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Gainage planche avec rowing unilatéral
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1965'
+description: |-
+  En position de planche haute avec les mains sur des haltères, effectuez un tirage d'un bras vers la hanche sans faire pivoter le bassin, puis alternez.

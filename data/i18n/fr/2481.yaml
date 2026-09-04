@@ -1,9 +1,11 @@
 exercise_id: '2481'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Battements de jambes avec planche
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4958'
+description: |-
+  Tenez une planche de natation à deux mains devant vous et effectuez des battements de jambes réguliers et propulsifs, visage immergé en soufflant dans l'eau.

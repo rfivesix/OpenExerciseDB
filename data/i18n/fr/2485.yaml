@@ -1,9 +1,11 @@
 exercise_id: '2485'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Mouvements de bras et roulis (natation)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4962'
+description: |-
+  Poussez sur le mur, nagez quelques mouvements puis roulez complètement sur le côté ou le dos pour prendre 2 à 3 respirations calmes avant de reprendre le crawl.

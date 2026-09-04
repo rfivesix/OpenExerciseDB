@@ -1,9 +1,11 @@
 exercise_id: '674'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing inversé aux sangles de suspension (TRX)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Skadi
   source_id: '1044'
+description: |-
+  Suspendu aux sangles TRX, le corps incliné et gainé, tirez sur les poignées pour amener la poitrine vers les mains en resserrant le dos.

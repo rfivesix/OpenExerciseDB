@@ -1,9 +1,11 @@
 exercise_id: '1913'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hip thrust unilatéral
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3060'
+description: |-
+  Le haut du dos appuyé contre un banc, poussez sur un seul talon pour amener le bassin à l'horizontale en contractant le grand fessier à fond.

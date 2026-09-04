@@ -1,9 +1,11 @@
 exercise_id: '624'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Vélo stationnaire
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman
   source_id: '293'
+description: |-
+  Séance d'entraînement sur vélo d'appartement ou de spinning en ajustant la résistance pour stimuler le système cardiovasculaire.

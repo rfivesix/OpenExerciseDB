@@ -1,9 +1,11 @@
 exercise_id: '9'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Swing kettlebell à deux mains
 upstream:
   license: CC-BY-SA-4.0
   license_author: deusinvictus
   source_id: '345'
+description: |-
+  Swing russe à deux mains : effectuez une flexion/extension explosive des hanches pour projeter la kettlebell à hauteur de poitrine sans tirer avec les bras.

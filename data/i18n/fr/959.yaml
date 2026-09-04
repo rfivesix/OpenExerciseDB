@@ -1,9 +1,11 @@
 exercise_id: '959'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing inversé aux sangles TRX
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '1239'
+description: |-
+  Exercice de tirage horizontal au poids du corps sur sangles de suspension, excellent mouvement préparatoire aux tractions.

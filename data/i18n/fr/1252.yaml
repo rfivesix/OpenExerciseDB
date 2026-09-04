@@ -1,9 +1,11 @@
 exercise_id: '1252'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tractions en Front lever
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2211'
+description: |-
+  En position de front lever (corps à l'horizontale face au plafond), fléchissez les bras pour hisser le torse vers la barre en maintenant le gainage complet.

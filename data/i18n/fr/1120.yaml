@@ -1,9 +1,11 @@
 exercise_id: '1120'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing assis à la machine prise supination
 upstream:
   license: CC-BY-SA-4.0
   license_author: Franpol
   source_id: '2089'
+description: |-
+  Assis à la machine de tirage, tirez la barre en prise supination fermée vers l'abdomen pour accentuer le travail des dorsaux et des biceps.

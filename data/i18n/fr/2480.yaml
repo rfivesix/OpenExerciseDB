@@ -1,9 +1,11 @@
 exercise_id: '2480'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Nage continue allure modérée (crawl)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4957'
+description: |-
+  Nagez le crawl à une allure souple, détendue et continue sans vous arrêter, équivalente à une intensité où vous seriez capable de tenir une conversation.

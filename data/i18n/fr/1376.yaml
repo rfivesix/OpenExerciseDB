@@ -1,9 +1,11 @@
 exercise_id: '1376'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Vélo couché stationnaire
 upstream:
   license: CC-BY-SA-4.0
   license_author: pera_perkan
   source_id: '2342'
+description: |-
+  Pédalage sur vélo stationnaire semi-allongé, offrant un bon soutien lombaire tout en sollicitant les jambes et le cardio.

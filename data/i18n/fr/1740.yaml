@@ -1,9 +1,11 @@
 exercise_id: '1740'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pont fessier sur une jambe
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy
   source_id: '2870'
+description: |-
+  Allongé sur le dos, un pied à plat au sol et l'autre jambe tendue, montez les hanches en poussant sur le talon pour contracter le fessier unilatéralement.

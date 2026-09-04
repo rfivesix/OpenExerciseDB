@@ -1,8 +1,9 @@
 exercise_id: '1204'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Séance de vélo cardio
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2164'
+description: Séance de cardio-training sur vélo ergomètre à intensité modérée à soutenue.

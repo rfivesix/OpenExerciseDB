@@ -1,9 +1,11 @@
 exercise_id: '908'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Course à pied en zone 2
 upstream:
   license: CC-BY-SA-4.0
   license_author: karly
   source_id: '1187'
+description: |-
+  Course d'endurance fondamentale en zone 2, à une allure où vous êtes capable de tenir une conversation continue sans essoufflement marqué.

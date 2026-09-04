@@ -1,9 +1,11 @@
 exercise_id: '2534'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Pont pour fessiers au sol
+name: Pont de fessiers au sol (Glute Bridge)
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95
   source_id: '5003'
+description: |-
+  Allongé sur le dos, genoux fléchis et pieds à plat, poussez sur les talons pour monter les hanches vers le plafond jusqu'à aligner genoux, bassin et épaules.

@@ -1,9 +1,11 @@
 exercise_id: '919'
 language: fr
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rowing barre T (T-Bar row)
 upstream:
   license: CC-BY-SA-4.0
   license_author: novadani
   source_id: '1198'
+description: |-
+  Buste penché en avant, genoux légèrement fléchis, tirez la poignée en triangle de la barre en T vers le bas de la poitrine en gardant le dos rigide.

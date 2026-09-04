@@ -1,9 +1,11 @@
 exercise_id: '380'
 language: fr
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rowing à la machine convergente
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '214'
+description: |-
+  Assis à la machine de tirage horizontal, saisissez les poignées indépendantes et tirez vers l'arrière en serrant les omoplates l'une contre l'autre.
