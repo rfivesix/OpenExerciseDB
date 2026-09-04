@@ -5,11 +5,11 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1444'
 language: de
-status: upstream_unreviewed
-name: Incline Chest Press DB
+status: ai_reviewed
+name: Kurzhantel-Schrägbankdrücken
 description: |-
-  Bench 45° incline
-  Hold dumbbells parallel on your chest
-  Press up until arms extended
+  Bank auf ca. 45° Neigung einstellen.
+  Kurzhanteln auf Brusthöhe halten.
+  Gewichte kontrolliert nach oben drücken, bis die Arme gestreckt sind.
 upstream:
   license: CC-BY-SA-4.0

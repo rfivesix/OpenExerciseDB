@@ -5,15 +5,11 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1883'
 language: de
-status: upstream_unreviewed
-name: Machine Chest Press
+status: ai_reviewed
+name: Brustpresse (Maschine)
 description: |-
-  Adjust the seat height so that the grips are parallel to your chest.
-  Use your legs to push the foot forward pedal.
-  Bring the handles to the start position.
-  Keep your back and the cushion in contact with the handles, press outwards.
-  Press the handles away from your chest and exhale.
-  Allow the handles to come in gently until they reach your chest.
-  Allow the handles to return to your chest as you exhale.
+  Sitzhöhe so einstellen, dass sich die Griffe auf Brusthöhe befinden.
+  Rücken fest an das Rückenpolster drücken und Griffe kontrolliert nach vorne drücken, dabei ausatmen.
+  Gewicht kontrolliert zurückführen, bis die Brustmuskulatur gedehnt wird, und Bewegung wiederholen.
 upstream:
   license: CC-BY-SA-4.0

@@ -5,13 +5,11 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1951'
 language: de
-status: upstream_unreviewed
-name: Foam Roll Adductors
+status: ai_reviewed
+name: Faszienrolle Adduktoren
 description: |-
-  Foam Roll Adductors
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 10-15 passes
-  Type: soft_tissue
+  Faszienrollen der Adduktoren (Oberschenkelinnenseite).
+  Teil von: Limber 11 (Joe DeFranco).
+  Empfehlung: 10-15 langsame Rollbewegungen pro Seite.
 upstream:
   license: CC-BY-SA-4.0

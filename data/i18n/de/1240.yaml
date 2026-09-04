@@ -3,8 +3,8 @@ exercise_id: '1240'
 language: de
 status: ai_raw
 translated_from: en
-name: Schollenmuskel-Dehnung stehend
-description: Diese Dehnung zielt auf den Schollenmuskel in deiner Wade. Sie kann an einer Wand oder einem Stuhl ausgeführt werden.
+name: Soleus-Dehnung stehend
+description: Diese Dehnung zielt auf den Soleus (tiefen Wadenmuskel) ab. Sie kann an einer Wand oder an einer Erhöhung ausgeführt werden.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

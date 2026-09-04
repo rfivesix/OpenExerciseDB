@@ -105,18 +105,18 @@ muscles:
         body_slugs: [chest]
   - id: pectoralis_minor
     group: chest
-    names: { en: Pectoralis minor, de: Kleiner Brustmuskel, fr: Petit pectoral, it: Piccolo pettorale, ja: 小胸筋 }
+    names: { en: Pectoralis minor, de: Pectoralis minor, fr: Petit pectoral, it: Piccolo pettorale, ja: 小胸筋 }
     body_slugs: [chest]
   - id: serratus_anterior
     group: chest
-    names: { en: Serratus anterior, de: Vorderer Sägemuskel, fr: Dentelé antérieur, it: Dentato anteriore, ja: 前鋸筋 }
+    names: { en: Serratus anterior, de: Serratus anterior, fr: Dentelé antérieur, it: Dentato anteriore, ja: 前鋸筋 }
     body_slugs: [chest]
     legacy_group: back   # heutige App zaehlt serratus zu 'back'
 
   # ---------------- Back ----------------
   - id: latissimus_dorsi
     group: back
-    names: { en: Latissimus dorsi, de: Breiter Rückenmuskel, fr: Grand dorsal, it: Gran dorsale, ja: 広背筋 }
+    names: { en: Latissimus dorsi, de: Latissimus dorsi, fr: Grand dorsal, it: Gran dorsale, ja: 広背筋 }
     body_slugs: [upperBack]
   - id: trapezius
     group: back
@@ -138,7 +138,7 @@ muscles:
     body_slugs: [upperBack]
   - id: teres_major
     group: back
-    names: { en: Teres major, de: Großer Rundmuskel, fr: Grand rond, it: Grande rotondo, ja: 大円筋 }
+    names: { en: Teres major, de: Teres major, fr: Grand rond, it: Grande rotondo, ja: 大円筋 }
     body_slugs: [upperBack]
 
   # ---------------- Lower back ----------------
@@ -148,7 +148,7 @@ muscles:
     body_slugs: [lowerBack]
   - id: quadratus_lumborum
     group: lower_back
-    names: { en: Quadratus lumborum, de: Quadratischer Lendenmuskel, fr: Carré des lombes, it: Quadrato dei lombi, ja: 腰方形筋 }
+    names: { en: Quadratus lumborum, de: Quadratus lumborum, fr: Carré des lombes, it: Quadrato dei lombi, ja: 腰方形筋 }
     body_slugs: [lowerBack]
 
   # ---------------- Shoulders ----------------
@@ -185,7 +185,7 @@ muscles:
         body_slugs: [biceps_short]
   - id: brachialis
     group: biceps
-    names: { en: Brachialis, de: Armbeuger, fr: Brachial antérieur, it: Brachiale, ja: 上腕筋 }
+    names: { en: Brachialis, de: Brachialis, fr: Brachial antérieur, it: Brachiale, ja: 上腕筋 }
     body_slugs: [biceps]
   - id: triceps_brachii
     group: triceps
@@ -203,7 +203,7 @@ muscles:
         body_slugs: [triceps]
   - id: brachioradialis
     group: forearms
-    names: { en: Brachioradialis, de: Oberarmspeichenmuskel, fr: "Brachio-radial", it: Brachioradiale, ja: 腕橈骨筋 }
+    names: { en: Brachioradialis, de: Brachioradialis, fr: "Brachio-radial", it: Brachioradiale, ja: 腕橈骨筋 }
     body_slugs: [forearms]
   - id: wrist_flexors
     group: forearms
@@ -263,16 +263,16 @@ muscles:
     body_slugs: [quadriceps]
     heads:
       - id: rectus_femoris
-        names: { en: Rectus femoris, de: Gerader Oberschenkelmuskel, fr: Droit fémoral, it: Retto femorale, ja: 大腿直筋 }
+        names: { en: Rectus femoris, de: Rectus femoris, fr: Droit fémoral, it: Retto femorale, ja: 大腿直筋 }
         body_slugs: [quadriceps]
       - id: vastus_lateralis
-        names: { en: Vastus lateralis, de: Äußerer Oberschenkelmuskel, fr: Vaste latéral, it: Vasto laterale, ja: 外側広筋 }
+        names: { en: Vastus lateralis, de: Vastus lateralis, fr: Vaste latéral, it: Vasto laterale, ja: 外側広筋 }
         body_slugs: [quadriceps]
       - id: vastus_medialis
-        names: { en: Vastus medialis, de: Innerer Oberschenkelmuskel, fr: Vaste médial, it: Vasto mediale, ja: 内側広筋 }
+        names: { en: Vastus medialis, de: Vastus medialis, fr: Vaste médial, it: Vasto mediale, ja: 内側広筋 }
         body_slugs: [quadriceps]
       - id: vastus_intermedius
-        names: { en: Vastus intermedius, de: Mittlerer Oberschenkelmuskel, fr: Vaste intermédiaire, it: Vasto intermedio, ja: 中間広筋 }
+        names: { en: Vastus intermedius, de: Vastus intermedius, fr: Vaste intermédiaire, it: Vasto intermedio, ja: 中間広筋 }
         body_slugs: [quadriceps]
   - id: hamstring_complex
     group: hamstrings
@@ -280,13 +280,13 @@ muscles:
     body_slugs: [hamstrings]
     heads:
       - id: biceps_femoris
-        names: { en: Biceps femoris, de: Zweiköpfiger Schenkelmuskel, fr: Biceps fémoral, it: Bicipite femorale, ja: 大腿二頭筋 }
+        names: { en: Biceps femoris, de: Biceps femoris, fr: Biceps fémoral, it: Bicipite femorale, ja: 大腿二頭筋 }
         body_slugs: [hamstrings]
       - id: semitendinosus
-        names: { en: Semitendinosus, de: Halbsehnenmuskel, fr: "Semi-tendineux", it: Semitendinoso, ja: 半腱様筋 }
+        names: { en: Semitendinosus, de: Semitendinosus, fr: "Semi-tendineux", it: Semitendinoso, ja: 半腱様筋 }
         body_slugs: [hamstrings]
       - id: semimembranosus
-        names: { en: Semimembranosus, de: Plattsehnenmuskel, fr: "Semi-membraneux", it: Semimembranoso, ja: 半膜様筋 }
+        names: { en: Semimembranosus, de: Semimembranosus, fr: "Semi-membraneux", it: Semimembranoso, ja: 半膜様筋 }
         body_slugs: [hamstrings]
   - id: hip_adductors
     group: adductors
@@ -294,15 +294,15 @@ muscles:
     body_slugs: [adductors]
   - id: gastrocnemius
     group: calves
-    names: { en: Gastrocnemius, de: Zwillingswadenmuskel, fr: Gastrocnémien, it: "Gastrocnemio (gemelli)", ja: 腓腹筋 }
+    names: { en: Gastrocnemius, de: Gastrocnemius, fr: Gastrocnémien, it: "Gastrocnemio (gemelli)", ja: 腓腹筋 }
     body_slugs: [calves]
   - id: soleus
     group: calves
-    names: { en: Soleus, de: Schollenmuskel, fr: Soléaire, it: Soleo, ja: ヒラメ筋 }
+    names: { en: Soleus, de: Soleus, fr: Soléaire, it: Soleo, ja: ヒラメ筋 }
     body_slugs: [calves]
   - id: tibialis_anterior
     group: calves
-    names: { en: Tibialis anterior, de: Vorderer Schienbeinmuskel, fr: Tibial antérieur, it: Tibiale anteriore, ja: 前脛骨筋 }
+    names: { en: Tibialis anterior, de: Tibialis anterior, fr: Tibial antérieur, it: Tibiale anteriore, ja: 前脛骨筋 }
     body_slugs: [tibialisAnterior]
 
   # ---------------- Neck ----------------

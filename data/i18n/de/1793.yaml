@@ -5,8 +5,8 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1793'
 language: de
-status: upstream_unreviewed
-name: Supino Inclinado
-description: Ângulo 90 graus.........................
+status: ai_reviewed
+name: Schrägbankdrücken (steil)
+description: Langhantel-Bankdrücken auf einer steil eingestellten Schrägbank zur verstärkten Belastung der oberen Brustmuskulatur und der vorderen Schulter.
 upstream:
   license: CC-BY-SA-4.0

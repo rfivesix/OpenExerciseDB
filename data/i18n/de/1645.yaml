@@ -5,9 +5,9 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1645'
 language: de
-status: upstream_unreviewed
-name: Dumbbell Shrug
+status: ai_reviewed
+name: Kurzhantel-Shrugs
 description: |-
-  This exercise involves holding a dumbbell in each hand and shrugging your shoulders up towards your ears, then lowering them back down. It primarily targets the trapezius muscles in the upper back and can help improve posture and shoulder stability.
+  Halte in jeder Hand eine Kurzhantel und ziehe die Schultern kontrolliert nach oben in Richtung der Ohren. Halte die Kontraktion kurz und senke die Schultern wieder vollständig ab. Diese Übung trainiert vor allem den oberen Trapezmuskel (Nacken).
 upstream:
   license: CC-BY-SA-4.0

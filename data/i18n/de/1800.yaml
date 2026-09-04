@@ -5,8 +5,8 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1800'
 language: de
-status: upstream_unreviewed
-name: Supino Inclinado
-description: Ângulo de 90 graus devagar..............
+status: ai_reviewed
+name: Schrägbankdrücken (steil, langsam)
+description: Langhantel-Bankdrücken auf einer steil eingestellten Schrägbank mit kontrolliert langsamer Ausführung zur Betonung der oberen Brust.
 upstream:
   license: CC-BY-SA-4.0

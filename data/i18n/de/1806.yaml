@@ -5,9 +5,9 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1806'
 language: de
-status: upstream_unreviewed
-name: Lat Pull Down
+status: ai_reviewed
+name: Latzug
 description: |-
-  The lat pull down is an exercise used to build the muscles of the back. While the exercise will primarily target the lats, you will also notice a fair amount of bicep and middle back activation.
+  Der Latzug ist eine klassische Grundübung für den oberen Rücken. Primär wird der Latissimus trainiert, sekundär arbeiten der Bizeps und die Muskeln des mittleren Rückens mit.
 upstream:
   license: CC-BY-SA-4.0

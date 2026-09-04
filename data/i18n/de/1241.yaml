@@ -4,7 +4,7 @@ language: de
 status: ai_raw
 translated_from: en
 name: Dorsalflexion mit Widerstandsband
-description: Für diese Übung wird ein Widerstandsband verwendet. Sie zielt auf den Schollenmuskel und den vorderen Schienbeinmuskel ab.
+description: Für diese Übung wird ein Widerstandsband verwendet. Sie zielt auf den Soleus und den Tibialis anterior (Schienbeinmuskel) ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra

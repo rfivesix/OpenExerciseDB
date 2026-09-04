@@ -5,9 +5,9 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1655'
 language: de
-status: upstream_unreviewed
-name: Machine Chest Press Exercise
+status: ai_reviewed
+name: Brustpresse (Maschine)
 description: |-
-  . It provides an effective but straightforward way to work your upper body. With no weights to balance and no tricky techniques to master, the chest press leaves you free to focus on your training.
+  Die Brustpresse bietet eine geführte und effektive Möglichkeit, die Brustmuskulatur, die vorderen Schultern und den Trizeps zu trainieren, ohne freie Gewichte ausbalancieren zu müssen.
 upstream:
   license: CC-BY-SA-4.0

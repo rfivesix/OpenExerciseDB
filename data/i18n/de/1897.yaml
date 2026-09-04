@@ -5,12 +5,12 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1897'
 language: de
-status: upstream_unreviewed
-name: Close-Grip Bench Press
+status: ai_reviewed
+name: Enges Bankdrücken
 description: |-
-  Setup: Lie flat on the bench and grip the bar at shoulder-width (closer than a standard bench press).
-  Descent: Lower the bar with control to your lower chest.
-  Form: Keep your elbows tucked in tight against your torso—do not let them flare out.
-  Ascent: Press the bar straight back up, squeezing your triceps at the top.
+  Setup: Flach auf die Bank legen und die Hantelstange etwa schulterbreit greifen (deutlich enger als beim regulären Bankdrücken).
+  Absenken: Die Stange kontrolliert zur unteren Brust absenken.
+  Form: Die Ellbogen eng am Körper halten und nicht nach außen wandern lassen.
+  Drücken: Die Stange kraftvoll nach oben drücken und den Trizeps am obersten Punkt voll anspannen.
 upstream:
   license: CC-BY-SA-4.0

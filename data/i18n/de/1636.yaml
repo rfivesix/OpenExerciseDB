@@ -5,9 +5,9 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1636'
 language: de
-status: upstream_unreviewed
-name: Unilateral Cable row
+status: ai_reviewed
+name: Einarmiges Kabelrudern
 description: |-
-  With an inclined bench in front of the cable row machine, do onehanded rows with focus on a big stretch in the lats.
+  Mit einer Schrägbank vor dem Kabelzug einarmiges Rudern ausführen, mit Fokus auf eine maximale Dehnung des Latissimus.
 upstream:
   license: CC-BY-SA-4.0

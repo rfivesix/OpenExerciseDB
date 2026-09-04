@@ -5,8 +5,8 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1871'
 language: de
-status: upstream_unreviewed
-name: Lying Knee to Chest Stretch
-description: View the video to undestand the exercise
+status: ai_reviewed
+name: Knie-zur-Brust-Dehnung in Rückenlage
+description: In Rückenlage ein Knie mit beiden Händen zur Brust ziehen, um den unteren Rücken und das Gesäß sanft zu dehnen.
 upstream:
   license: CC-BY-SA-4.0

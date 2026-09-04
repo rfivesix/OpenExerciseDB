@@ -5,12 +5,12 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1190'
 language: de
-status: upstream_unreviewed
-name: Curl de biceps con agarre prono
+status: ai_reviewed
+name: Bizepscurl im Obergriff
 description: |-
-  POSICIÓN INICIAL:
-  Seleccione el peso adecuado en una barra. Colóquese de pie con la barra usando un agarre prono y las manos a la anchura de los hombros. Contraiga el suelo pelvico y el core mientras mantiene su pecho levantado.
-  EJECUCIÓN:
-  Contrayendo los bíceps, doble los codos totalmente mientras exhala. Vuelva a la posición inicial con un suave movimiento mientras inhala.
+  Ausgangsposition:
+  Wähle ein passendes Gewicht an der Hantelstange. Stehe aufrecht und greife die Stange im schulterbreiten Obergriff (Handrücken nach oben). Rumpf anspannen und Brust aufgerichtet halten.
+  Ausführung:
+  Beuge die Ellbogen und hebe die Stange kontrolliert nach oben, ohne Schwung aus dem Körper zu holen. Senke das Gewicht langsam und kontrolliert wieder ab.
 upstream:
   license: CC-BY-SA-4.0

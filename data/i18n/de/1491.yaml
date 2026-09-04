@@ -5,9 +5,9 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1491'
 language: de
-status: upstream_unreviewed
-name: Remada unilateral no cabo
+status: ai_reviewed
+name: Einarmiges Kabelrudern
 description: |-
-  pegada neutra&nbsp;A remada unilateral, também conhecida como remada serrote, é um exercício que&nbsp;fortalece as costas e os bíceps, além de melhorar a postura.
+  Einarmiges Rudern am Kabelzug im neutralen Griff stärkt gezielt den Latissimus und oberen Rücken bei gleichzeitig hoher Rumpfstabilität.
 upstream:
   license: CC-BY-SA-4.0

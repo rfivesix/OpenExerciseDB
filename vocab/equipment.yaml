@@ -18,7 +18,7 @@ primary_equipment:
   - id: ez_bar
     names: { en: EZ bar, de: "SZ-Stange", fr: Barre EZ, it: Bilanciere EZ, ja: EZバー }
   - id: trap_bar
-    names: { en: Trap bar, de: "Trap-Bar", fr: Trap bar, it: Trap bar, ja: トラップバー }
+    names: { en: Trap bar, de: "Trap-Bar / Hex-Bar", fr: Trap bar, it: Trap bar, ja: トラップバー }
   - id: dumbbell
     names: { en: Dumbbell, de: Kurzhantel, fr: Haltère, it: Manubrio, ja: ダンベル }
   - id: kettlebell
@@ -40,7 +40,7 @@ primary_equipment:
   - id: sandbag
     names: { en: Sandbag, de: Sandsack, fr: Sac de sable, it: Sacca di sabbia, ja: サンドバッグ }
   - id: sled
-    names: { en: Sled, de: Schlitten, fr: Traîneau de musculation, it: Slitta da traino, ja: スレッド }
+    names: { en: Sled, de: "Gewichtsschlitten / Prowler", fr: Traîneau de musculation, it: Slitta da traino, ja: スレッド }
   - id: cardio_machine
     names: { en: Cardio machine, de: Cardiogerät, fr: Appareil de cardio, it: Macchina cardio, ja: 有酸素マシン }
   - id: jump_rope
@@ -56,9 +56,9 @@ setup:
   - id: decline_bench
     names: { en: Decline bench, de: Negativbank, fr: Banc décliné, it: Panca reclinata, ja: デクラインベンチ }
   - id: preacher_bench
-    names: { en: Preacher bench, de: Scottbank, fr: Banc Larry Scott, it: Panca Scott, ja: プリーチャーベンチ }
+    names: { en: Preacher bench, de: "Preacher-Bank / Scottbank", fr: Banc Larry Scott, it: Panca Scott, ja: プリーチャーベンチ }
   - id: roman_chair
-    names: { en: "Roman chair / back extension", de: Römischer Stuhl, fr: "Chaise romaine / Banc à lombaires", it: "Panca per iperextension (sedia romana)", ja: "ローマンチェア / バックエクステンションベンチ" }
+    names: { en: "Roman chair / back extension", de: "Hyperextension-Bank / Römischer Stuhl", fr: "Chaise romaine / Banc à lombaires", it: "Panca per iperextension (sedia romana)", ja: "ローマンチェア / バックエクステンションベンチ" }
   - id: squat_rack
     names: { en: Squat rack, de: Kniebeugenständer, fr: Rack à squat, it: Rack per squat, ja: スクワットラック }
   - id: power_rack
@@ -70,13 +70,13 @@ setup:
   - id: cable_tower
     names: { en: Cable tower, de: Kabelturm, fr: Tour à poulies, it: Torre per cavi, ja: ケーブルタワー }
   - id: swiss_ball
-    names: { en: Swiss ball, de: Gymnastikball, fr: "Ballon de gymnastique (Swiss ball)", it: "Palla da ginnastica (Swiss ball)", ja: バランスボール }
+    names: { en: Swiss ball, de: "Gymnastikball / Pezziball", fr: "Ballon de gymnastique (Swiss ball)", it: "Palla da ginnastica (Swiss ball)", ja: バランスボール }
   - id: plyo_box
-    names: { en: "Plyo box / step", de: "Sprungkasten / Stepper", fr: "Boîte de pliométrie (Plyo box) / Step", it: "Box pliometrico / Step", ja: "プライオボックス / ステップ台" }
+    names: { en: "Plyo box / step", de: "Plyo-Box / Stepper", fr: "Boîte de pliométrie (Plyo box) / Step", it: "Box pliometrico / Step", ja: "プライオボックス / ステップ台" }
   - id: mat
     names: { en: Mat, de: Matte, fr: Tapis de sol, it: Tappetino, ja: マット }
   - id: ab_wheel
-    names: { en: Ab wheel, de: Bauchroller, fr: Roue abdominale, it: "Ruota per addominali (Ab wheel)", ja: アブローラー }
+    names: { en: Ab wheel, de: "Ab-Wheel / Bauchroller", fr: Roue abdominale, it: "Ruota per addominali (Ab wheel)", ja: アブローラー }
   - id: parallettes
     names: { en: Parallettes, de: Parallettes, fr: Parallettes, it: Parallettes, ja: パラレット }
   - id: landmine
@@ -86,7 +86,7 @@ setup:
   - id: wall
     names: { en: Wall, de: Wand, fr: Mur, it: Muro, ja: 壁 }
   - id: chair
-    names: { en: "Chair / elevated surface", de: "Stuhl / erhöhte Fläche", fr: "Chaise / Surface surélevée", it: "Sedia / Superficie rialzata", ja: "椅子 / 台" }
+    names: { en: "Chair / elevated surface", de: "Stuhl / Erhöhung", fr: "Chaise / Surface surélevée", it: "Sedia / Superficie rialzata", ja: "椅子 / 台" }
   - id: foam_roller
     names: { en: Foam roller, de: Faszienrolle, fr: "Rouleau de massage (Foam roller)", it: "Rullo massaggiatore (Foam roller)", ja: フォームローラー }
   - id: lacrosse_ball

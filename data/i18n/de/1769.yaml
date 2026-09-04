@@ -5,8 +5,8 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1769'
 language: de
-status: upstream_unreviewed
-name: cabel
-description: Não se encontra uma descrição disponível
+status: ai_reviewed
+name: Kabelrudern
+description: Keine Beschreibung verfügbar.
 upstream:
   license: CC-BY-SA-4.0

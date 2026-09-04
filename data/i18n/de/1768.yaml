@@ -5,8 +5,8 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1768'
 language: de
-status: upstream_unreviewed
-name: bicep
-description: Não se encontra uma descrição disponível
+status: ai_reviewed
+name: Kurzhantel-Bizepscurl
+description: Keine Beschreibung verfügbar.
 upstream:
   license: CC-BY-SA-4.0

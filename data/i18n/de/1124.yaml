@@ -5,16 +5,11 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1124'
 language: de
-status: upstream_unreviewed
-name: Jalón abierto
+status: ai_reviewed
+name: Latzug mit weitem Griff
 description: |-
-  Movimiento&nbsp; descendente
-  •&nbsp; Tire&nbsp; de&nbsp; la&nbsp; barra&nbsp; hacia&nbsp; abajo&nbsp; para&nbsp; que&nbsp; pase&nbsp; cerca&nbsp; de&nbsp; su&nbsp; barbilla&nbsp; y&nbsp; toque&nbsp; la&nbsp; parte&nbsp; superior&nbsp;&nbsp;
-  de&nbsp; su&nbsp; pecho.&nbsp;&nbsp;
-  •&nbsp; Mantenga&nbsp; el&nbsp; resto&nbsp; de&nbsp; su&nbsp; cuerpo&nbsp; inmóvil.
-  Movimiento&nbsp; hacia&nbsp; arriba&nbsp;&nbsp;
-  •&nbsp; Permita&nbsp; que&nbsp; sus&nbsp; codos&nbsp; se&nbsp; extiendan&nbsp; para&nbsp; permitir&nbsp; que&nbsp; la&nbsp; barra&nbsp; suba&nbsp; hasta&nbsp; la&nbsp; posición&nbsp; inicial.
-  posición.&nbsp;&nbsp;
-  •&nbsp; Mantenga&nbsp; el&nbsp; resto&nbsp; de&nbsp; su&nbsp; cuerpo&nbsp; inmóvil.
+  Ausführung:
+  • Ziehe die Stange kontrolliert nach unten in Richtung der oberen Brust, während der Oberkörper aufrecht und stabil bleibt.
+  • Führe das Gewicht langsam und kontrolliert wieder nach oben in die Ausgangsposition zurück, bis die Arme und der Latissimus gestreckt sind.
 upstream:
   license: CC-BY-SA-4.0
