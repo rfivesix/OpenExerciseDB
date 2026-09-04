@@ -1,9 +1,13 @@
 exercise_id: '1231'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: インクライン・ダンベルカール
+name: 右上腕三頭筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2196'
+description: |-
+  開始姿勢：姿勢を正して座るか直立し、右手を曲げて背中の上部に置きます。
+  動作手順：左手を右肘に添えて静かに後方へ引き、右の上腕三頭筋が心地よく伸びる位置でキープします。
+  ポイント：腰を反らさず体幹をまっすぐに保ち、無理に強く押さずに筋肉の伸長を促します。

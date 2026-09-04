@@ -1,9 +1,13 @@
 exercise_id: '1233'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 右上腕二頭筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2198'
+description: |-
+  開始姿勢：壁の横に直立し、右腕を後方に伸ばして手のひらを壁にしっかりと当てます。
+  動作手順：上半身をゆっくりと左側へひねるように向きを変え、右の上腕二頭筋のストレッチを深めます。
+  ポイント：呼吸を止めずにリラックスし、痛みを感じない範囲でじわじわと伸ばします。

@@ -1,8 +1,12 @@
 exercise_id: '1216'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スキャプラ・プルアップ (肩甲骨懸垂)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2182'
+description: |-
+  開始姿勢：プルアップバーに順手でぶら下がり、腕をまっすぐ伸ばして体を安定させます。
+  動作手順：肘を曲げずに肩甲骨を下方へ引き下げて体幹をわずかに持ち上げ、トップで静止してから戻します。
+  ポイント：僧帽筋下部と広背筋の動きを意識し、ぶら下がりの反動を使わずにコントロールします。

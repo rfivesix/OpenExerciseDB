@@ -1,9 +1,11 @@
 exercise_id: '1283'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: マッスルアップ
+name: インクライン・チェストサポーテッド・ダンベルロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2250'
+description: |-
+  開始姿勢: 約45度に設定したインクラインベンチにうつ伏せになり、両手にダンベルを持ちます。体幹を締め、肩をリラックスさせて腕を自然に下ろします。動作手順: 肩甲骨を寄せながら肘を後方へ引き、ダンベルをみぞおちの高さまで引き上げます。トップで背中を強く収縮させ、ゆっくりと元の位置に戻します。ポイント: 胸がベンチに固定されるため反動を使えず、背中を安全かつ集中的に鍛えられます。

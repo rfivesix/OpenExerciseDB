@@ -1,9 +1,13 @@
 exercise_id: '1228'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: クローズグリップ・ダンベルベンチプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2193'
+description: |-
+  開始姿勢：フラットベンチに仰向けになり、ダンベルを胸の中央で密着させて構えます。
+  動作手順：脇を固く締めてダンベル同士を押し付け合いながら天井へ押し上げ、上腕三頭筋を収縮させます。
+  ポイント：押し上げる際もダンベルを離さず圧をかけ続けることで、三頭筋の内側に強い刺激を与えます。

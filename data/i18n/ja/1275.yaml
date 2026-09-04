@@ -1,9 +1,19 @@
 exercise_id: '1275'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: チューブ・足関節底屈ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2243'
+description: |-
+  開始姿勢:
+  脚を伸ばして床に座り、バンドを足の甲に巻き付けて後方からテンションをかけるか、足首を自然に伸ばした姿勢をとります。
+
+  動作手順:
+  1. つま先を前方へ押し出し、足の甲からすねの前側（前脛骨筋）を心地よく伸ばします。
+  2. 無理のない可動域で20〜30秒キープします。
+
+  ポイント:
+  すねの前側の緊張を緩め、足関節の柔軟性と可動性を向上させます。

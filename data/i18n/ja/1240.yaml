@@ -1,9 +1,20 @@
 exercise_id: '1240'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ヒラメ筋スタンディングストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2202'
+description: |-
+  開始姿勢:
+  壁の前に立ち、両手を壁に当てます。片足を軽く後ろに引き、両足のつま先を前に向けます。
+
+  動作手順:
+  1. 通常のカーフストレッチと異なり、後ろ足の膝を軽く曲げます。
+  2. 踵を床につけたまま重心を真下へ沈め、アキレス腱寄りの深層筋（ヒラメ筋）をストレッチします。
+  3. 伸びを感じる位置で静止し、反対側も同様に行います。
+
+  ポイント:
+  膝を曲げた状態でストレッチすることで、腓腹筋の関与を減らしてヒラメ筋を集中的に伸ばします。

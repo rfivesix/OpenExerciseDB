@@ -1,9 +1,11 @@
 exercise_id: '1226'
 language: ja
-status: ai_raw
-translated_from: en
-name: ダンベル・オーバーヘッドプレス
+status: ai_reviewed
+translated_from: de
+name: ダンベル・アームカール＆プレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2191'
+description: |-
+  【開始姿勢】直立して両手にダンベルを持ち、体の横に構えます。【動作手順】ダンベルを肩に向けてカールし、そのまま上方へ頭上高くプレスします。【ポイント】上腕二頭筋から三角筋前部への移行をスムーズに行い、全身をコントロールします。

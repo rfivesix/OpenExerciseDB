@@ -1,9 +1,20 @@
 exercise_id: '1241'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: チューブ・足関節背屈運動
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2203'
+description: |-
+  開始姿勢:
+  脚を伸ばして座り、頑丈な支柱に固定したレジスタンスバンドの輪を足の甲（つま先側）に引っ掛けます。
+
+  動作手順:
+  1. バンドの張力に逆らいながら、つま先を手前（すねの方向）に向かって力強く引き寄せます（足関節の背屈）。
+  2. すねの前側にある前脛骨筋の最大収縮を感じる位置で1秒静止します。
+  3. コントロールしながらゆっくりとつま先を前に戻します。
+
+  ポイント:
+  すねの前脛骨筋を集中的に強化し、つま先の引き上げ動作や歩行・走行時の足首の安定性を高めます。

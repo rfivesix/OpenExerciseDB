@@ -1,9 +1,20 @@
 exercise_id: '1234'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ワンレッグ・ダンベルヒップスラスト
 upstream:
   license: CC-BY-SA-4.0
   license_author: carlos3c
   source_id: '2199'
+description: |-
+  開始姿勢:
+  ベンチに肩甲骨の下部を預けて座り、骨盤の上にダンベルを乗せて手で支えます。片足を浮かせ、軸足の足裏を床に平らにつけます。
+
+  動作手順:
+  1. 軸足の踵で床を強く押し込み、股関節を伸展させて骨盤を水平に押し上げます。
+  2. 胴体と大腿部が一直線になる高さまで上げ、大臀筋を強く収縮させてトップで静止します。
+  3. コントロールしながらゆっくりと骨盤を下げ、反対側の脚も同様に行います。
+
+  ポイント:
+  骨盤の左右の傾きを防ぎ、軸足の大臀筋に集中的な負荷をかけます。

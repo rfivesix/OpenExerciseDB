@@ -1,9 +1,20 @@
 exercise_id: '1243'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダブルレッグ・カーフレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2205'
+description: |-
+  開始姿勢:
+  足を腰幅に開いて直立し、壁や台に軽く手を添えてバランスをとります。
+
+  動作手順:
+  1. 両足の母指球で床を強く押し、踵をできるだけ高く持ち上げてつま先立ちになります。
+  2. ふくらはぎが最大収縮した頂点で1〜2秒間静止します。
+  3. コントロールしながらゆっくりと踵を床スレスレまで下ろします。
+
+  ポイント:
+  反動を使わず、下腿三頭筋の力だけで滑らかに上下動を行います。

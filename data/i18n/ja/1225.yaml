@@ -1,9 +1,13 @@
 exercise_id: '1225'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ワイドグリップ・ダンベルバイセップスカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2190'
+description: |-
+  開始姿勢：直立して背筋を伸ばし、両腕を体側より外側に開いてダンベルを構えます。
+  動作手順：肘の位置を固定したまま斜め外側に向かってダンベルを巻き上げ、上腕二頭筋短頭を刺激します。
+  ポイント：肩を上げず肘を支点にし、トップポジションで二頭筋の内側を力強くスクイーズします。

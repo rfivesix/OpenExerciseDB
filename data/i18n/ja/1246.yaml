@@ -1,9 +1,13 @@
 exercise_id: '1246'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: TRXロールアウト
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2209'
+description: |-
+  開始姿勢：TRXのハンドルを順手で握り、膝立ちまたは立った状態で腕を胸の前に伸ばします。
+  動作手順：体幹を固めたまま両腕を頭上前方へ伸ばして体を倒し、腹直筋を使って元の位置へ戻します。
+  ポイント：腰が過度に反らないよう腹圧を強く維持し、コントロールできる範囲で前進します。

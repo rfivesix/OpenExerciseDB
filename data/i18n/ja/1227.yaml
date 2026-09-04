@@ -1,9 +1,11 @@
 exercise_id: '1227'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ダンベル・リアデルトロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2192'
+description: |-
+  【開始姿勢】上体を前傾させ、背筋を伸ばしてダンベルを持ちます。【動作手順】肘を外側に大きく開きながらダンベルを胸の横へ引き上げ、三角筋後部を収縮させます。【ポイント】広背筋ではなく三角筋後部を意識するため、肘の角度を高く保ちます。

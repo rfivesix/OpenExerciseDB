@@ -1,9 +1,11 @@
 exercise_id: '1245'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: フロントレバー
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2207'
+description: |-
+  開始姿勢: プルアップバーをオーバーハンドグリップで握り、ぶら下がります。動作手順: 体幹を固め、肩関節の強い伸展力を使って身体全体を床と完全に平行になるまで水平に引き上げます。頭から足先まで一直線を保ち、その姿勢を静止して保持します。ポイント: 広背筋、体幹部、肩甲骨周囲の並外れた筋力と安定性を要求する上級自重静止種目です。

@@ -1,9 +1,13 @@
 exercise_id: '1232'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 左上腕二頭筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2197'
+description: |-
+  開始姿勢：壁の横に立ち、左腕を肩の高さで後方の壁に手のひらを密着させて伸ばします。
+  動作手順：胸と体をゆっくりと右前方へ回旋させ、左の上腕二頭筋と肩前部をじっくりと伸ばします。
+  ポイント：左肩がすくまないように下げ、肘を過伸展させずに快適な伸びを維持します。

@@ -1,8 +1,10 @@
 exercise_id: '1217'
 language: ja
-status: ai_raw
-translated_from: en
-name: アーチャー・プッシュアップ
+status: ai_reviewed
+translated_from: de
+name: フィンガープッシュアップ (指立て伏せ)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2183'
+description: |-
+  【開始姿勢】手のひらを床につけず、両手の指先だけで身体を支える腕立て伏せの姿勢をとります。【動作手順】指の力と体幹を保ちながら肘を曲げて身体を下ろし、押し戻します。【ポイント】大胸筋とともに前腕や指の腱を強化します。負荷が高いため無理のない範囲で行います。

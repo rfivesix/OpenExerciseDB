@@ -1,9 +1,20 @@
 exercise_id: '1274'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ふくらはぎシーテッドストレッチ (背屈)
 upstream:
   license: CC-BY-SA-4.0
   license_author: erikocobra
   source_id: '2242'
+description: |-
+  開始姿勢:
+  床またはベンチに座り、ストレッチする脚を前に伸ばします。タオルやバンドを足の指の付け根に掛けます。
+
+  動作手順:
+  1. タオルやバンドを手前に引き寄せ、足首を強制的に背屈（すね側へ曲げる）させます。
+  2. ふくらはぎからアキレス腱にかけて心地よい伸張感を感じる位置で20〜30秒間保持します。
+  3. 反対側の脚も同様に行います。
+
+  ポイント:
+  膝を伸ばした状態で行うことで腓腹筋を、軽く膝を曲げて行うとヒラメ筋を伸ばせます。

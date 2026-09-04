@@ -1,9 +1,13 @@
 exercise_id: '1280'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: クローズグリップ・バイセップス・プルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: daniel.escada
   source_id: '2247'
+description: |-
+  開始姿勢：ラットプルダウンマシンに座り、狭い手幅の逆手でバーをしっかりと握ります。
+  動作手順：背筋を伸ばし、肘を曲げながらバーを胸上部へ引き下げて上腕二頭筋と広背筋を収縮させます。
+  ポイント：上体を過度に倒さず、二頭筋の強い引き込みを意識しながらコントロールして戻します。

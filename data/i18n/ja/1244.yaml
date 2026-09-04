@@ -1,9 +1,13 @@
 exercise_id: '1244'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: キャット＆カウ (ヨガ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: damnlost
   source_id: '2206'
+description: |-
+  開始姿勢：マットの上で四つ這いになり、手首は肩の真下、膝は股関節の真下に配置します。
+  動作手順：息を吐きながら背中を丸めておへそを覗き込み、吸いながら胸を開いて背骨を反らせます。
+  ポイント：脊柱起立筋と腹直筋を連動させ、背骨を一つずつ滑らかに動かします。

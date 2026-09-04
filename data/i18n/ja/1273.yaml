@@ -1,9 +1,11 @@
 exercise_id: '1273'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・プルオーバー
 upstream:
   license: CC-BY-SA-4.0
   license_author: 3leh
   source_id: '2241'
+description: |-
+  開始姿勢: フラットベンチに仰向けになり、両手でダンベルを胸の上に支えます。肘を軽く曲げて固定します。動作手順: 息を吸いながら、ダンベルを頭の後方へ弧を描くようにゆっくりと下ろします。広背筋と大胸筋のストレッチを感じたら、息を吐きながら胸の上まで引き戻します。ポイント: 背中と胸の両方を鍛えられる多関節運動で、胸郭の拡張にも効果的です。

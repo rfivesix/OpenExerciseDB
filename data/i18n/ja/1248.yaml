@@ -1,9 +1,11 @@
 exercise_id: '1248'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アイスクリームメーカー
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2210'
+description: |-
+  開始姿勢: 懸垂バーを握り、プルアップのトップポジション (胸を引き上げた状態) から開始します。動作手順: 肩の力を使って身体を後方へ押し出し、フロントレバーの水平姿勢へと移行します。そこから再び背中と腕の力で身体を引き戻し、プルアップのトップ姿勢へと復帰します。ポイント: 動的な牽引力と水平の静止保持力を融合させた高度な自重トレーニングです。

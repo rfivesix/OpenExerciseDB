@@ -1,9 +1,13 @@
 exercise_id: '1263'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: バックブリッジ
 upstream:
   license: CC-BY-SA-4.0
   license_author: cynomops
   source_id: '2220'
+description: |-
+  開始姿勢：仰向けに寝て膝を曲げ、足を腰幅に開いて足裏をしっかりと床につけます。
+  動作手順：踵で床を押し、大臀筋と脊柱起立筋を収縮させて膝から肩までが一直線になるまで腰を上げます。
+  ポイント：腰を過剰に反らせず、トップポジションでお尻を強く引き締めてキープします。

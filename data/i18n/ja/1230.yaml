@@ -1,9 +1,13 @@
 exercise_id: '1230'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: コンセントレーション・ダンベルカール
+name: 左上腕三頭筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Lynn_McIntyre
   source_id: '2195'
+description: |-
+  開始姿勢：背筋を伸ばして立ちまたは座り、左手を背中の中央に向けて曲げます。
+  動作手順：右手を左肘に添えてゆっくりと後方かつ下方へ優しく押し、左の上腕三頭筋を伸ばします。
+  ポイント：背中を丸めたり首を前に突き出したりせず、心地よい伸びを感じながら深呼吸します。

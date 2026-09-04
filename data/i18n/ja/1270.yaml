@@ -1,9 +1,11 @@
 exercise_id: '1270'
 language: ja
-status: ai_raw
-translated_from: en
-name: 壁倒立プッシュアップ
+status: ai_reviewed
+translated_from: de
+name: ロープーリー・ケーブルフライ
 upstream:
   license: CC-BY-SA-4.0
   license_author: FEFFO
   source_id: '2236'
+description: |-
+  【開始姿勢】一番低い位置にセットしたケーブルのハンドルを両手で持ち、中央に立ちます。【動作手順】肘を軽く曲げたまま、下から斜め前方・上方へ弧を描くように腕を引き上げます。【ポイント】大胸筋上部 (鎖骨部)を強く意識し、胸の前で絞り込みます。
