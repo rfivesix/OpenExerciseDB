@@ -1,9 +1,20 @@
 exercise_id: '320'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ジャンピングジャック
 upstream:
   license: CC-BY-SA-4.0
   license_author: student1234
   source_id: '810'
+description: |-
+  開始姿勢:
+  足を揃えて直立し、両腕を体側に下ろして立ちます。
+
+  動作手順:
+  1. 軽くジャンプして足を肩幅より広く開きながら、同時に両腕を横から頭上へ回して頭上で手を叩きます。
+  2. 再びジャンプして足を揃え、両腕を体側へ戻します。
+  3. この開閉動作を軽快なリズムで連続して繰り返します。
+
+  ポイント:
+  ふくらはぎ、大腿四頭筋、心肺機能を刺激する全身運動で、ウォームアップにも効果的です。

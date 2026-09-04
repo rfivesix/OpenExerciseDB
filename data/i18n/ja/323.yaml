@@ -1,9 +1,11 @@
 exercise_id: '323'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ケーブル・クロスオーバー
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '207'
+description: |-
+  【開始姿勢】ハイプーリーのケーブルを両手で持ち、足を前後に開いて上体を少し前傾させます。【動作手順】肘を軽く曲げたまま、大胸筋を意識してケーブルを前方下腹部へ引き寄せ、手首を交差させます。【ポイント】大胸筋を強く収縮させ、負荷を感じながらゆっくり開始姿勢に戻します。

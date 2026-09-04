@@ -1,9 +1,13 @@
 exercise_id: '439'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: オーバーハンド・ケーブルカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: ThisGirl0819
   source_id: '197'
+description: |-
+  開始姿勢：ハイプーリーの中央に立ち、左右のケーブルハンドルを順手（オーバーハンド）で握ります。
+  動作手順：肘を肩の高さに保ったまま、上腕二頭筋と前腕部を使って頭に向かって引き寄せます。
+  ポイント：肘が下がらないように固定し、ピーク収縮時に二頭筋を力強くスクイーズします。

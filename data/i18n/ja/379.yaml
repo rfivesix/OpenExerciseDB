@@ -1,9 +1,11 @@
 exercise_id: '379'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: レバレッジマシン・チェストプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '211'
+description: |-
+  【開始姿勢】レバレッジマシンの座席の高さを調整し、グリップが胸の高さに来るように座ります。【動作手順】背中をパッドにつけ、大胸筋を意識してハンドルを前方に力強く押し出します。【ポイント】押し切った位置で大胸筋を収縮させ、ゆっくりと元の位置に戻します。

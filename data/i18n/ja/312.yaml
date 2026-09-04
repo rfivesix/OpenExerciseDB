@@ -1,9 +1,13 @@
 exercise_id: '312'
 language: ja
-status: ai_raw
-translated_from: en
-name: インクラインプランク・フロアタッチ
+status: ai_reviewed
+translated_from: de
+name: バランスボール・デクラインプランク・フロアタップ
 upstream:
   license: CC-BY-SA-3.0
   license_author: Mahoney
   source_id: '165'
+description: |-
+  開始姿勢：バランスボールの上に両足を乗せ、床に前腕部をついてプランクの姿勢をとります。
+  動作手順：体幹を水平に保ったまま片足をボールから下ろして床を軽くタップし、元の位置に戻します。
+  ポイント：腹直筋と腹斜筋を強く意識し、足を動かしても骨盤が左右に傾かないように保ちます。

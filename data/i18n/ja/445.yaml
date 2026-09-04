@@ -1,9 +1,11 @@
 exercise_id: '445'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ポーズ・バーベルベンチプレス
 upstream:
   license: CC0-1.0
   license_author: Mens Fitness
   source_id: '270'
+description: |-
+  【開始姿勢】フラットベンチに横になり、バーベルを肩幅よりやや広めに握ります。【動作手順】バーベルを胸の上まで下ろし、胸に触れた状態で1〜2秒静止してから、爆発的に押し上げます。【ポイント】静止中も大胸筋の緊張を緩めず、胸の弾みを使わずに押し上げます。

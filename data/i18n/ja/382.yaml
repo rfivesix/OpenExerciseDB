@@ -1,9 +1,13 @@
 exercise_id: '382'
 language: ja
-status: ai_raw
-translated_from: en
-name: Lホールド
+status: ai_reviewed
+translated_from: de
+name: ハンギングLシットホールド
 upstream:
   license: CC-BY-SA-3.0
   license_author: bizyguy
   source_id: '281'
+description: |-
+  開始姿勢：プルアップバーにぶら下がり、肩を安定させて体を静止させます。
+  動作手順：腹直筋と腸腰筋を使って両脚を伸ばしたまま90度まで持ち上げ、L字の姿勢を保持します。
+  ポイント：反動を使わず脚を水平に保ち、体幹の緊張を保ったまま安定した呼吸を続けます。

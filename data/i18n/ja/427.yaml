@@ -1,9 +1,13 @@
 exercise_id: '427'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ネガティブ・クランチ
+name: デクライン・クランチ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '93'
+description: |-
+  開始姿勢：デクラインベンチに仰向けになり、両足をパッドに固定して両手を胸の前で組みます。
+  動作手順：息を吐きながら背骨を丸めるように上体を起こし、腹直筋を強く収縮させてゆっくり戻します。
+  ポイント：完全に体を起こしきらず、常に腹筋にテンションがかかった状態を維持します。

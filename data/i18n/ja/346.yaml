@@ -1,9 +1,11 @@
 exercise_id: '346'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ランドマインプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Torsten Linnecke
   source_id: '1066'
+description: |-
+  【開始姿勢】ランドマインにセットしたバーベルの端を片手で肩の前に構えます。【動作手順】体幹を安定させ、斜め上前方へバーベルを力強く押し上げます。【ポイント】三角筋前部と大胸筋上部 (鎖骨部)を意識し、腰を反らせずに腕と肩を伸ばし切ります。

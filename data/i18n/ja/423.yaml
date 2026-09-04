@@ -1,9 +1,11 @@
 exercise_id: '423'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: マッスルアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: arson
   source_id: '626'
+description: |-
+  開始姿勢: 懸垂バーにぶら下がり、体幹を引き締めます。動作手順: 爆発的な力で身体を一気に引き上げ、バーが胸の高さに達した瞬間に素早く手首を返し、前腕をバーの上に移動させます。上体をバーの上に前傾させながら上腕三頭筋を使って腕を完全に伸ばし、トップポジションへ押し上げます。ゆっくりとコントロールしながら元の位置に下ろします。ポイント: 高度な懸垂力と瞬発力、手首の切り替え技術を必要とする全身連動種目です。

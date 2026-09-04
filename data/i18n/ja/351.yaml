@@ -1,9 +1,11 @@
 exercise_id: '351'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・ラテラル・トゥ・フロントレイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: nate303303
   source_id: '306'
+description: |-
+  【開始姿勢】直立して両手にダンベルを持ち、体の横に構えます。【動作手順】ダンベルを真横の肩の高さまで持ち上げ、水平を保ったまま前方へ移動させ、ゆっくり下ろします。【ポイント】三角筋中部 (側部)と三角筋前部を連続して刺激し、反動を抑えます。

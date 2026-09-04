@@ -1,9 +1,20 @@
 exercise_id: '375'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ハックスクワット・レッグプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '130'
+description: |-
+  開始姿勢:
+  ハックスクワットマシンに入り、肩パッドの下に肩をあて、背中をバックレストに完全に密着させます。足を肩幅でプレートの中央に置きます。
+
+  動作手順:
+  1. セーフティバーを解除し、背筋を伸ばしたまま膝を曲げて約90度までゆっくりとしゃがみ込みます。
+  2. 踵で強くプレートを蹴り出し、大腿四頭筋を収縮させて元の立ち上がり姿勢に戻ります。
+  3. 頂点で膝をロックせず、緊張を維持したまま次のレップに入ります。
+
+  ポイント:
+  斜めの軌道で上半身が安定するため、腰への負担を抑えつつ大腿四頭筋に強烈な負荷を与えられます。

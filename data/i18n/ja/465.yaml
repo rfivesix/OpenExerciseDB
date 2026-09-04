@@ -1,9 +1,13 @@
 exercise_id: '465'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 懸垂 (プルアップ)
+name: EZバー・プリーチャーカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: cgoob883
   source_id: '193'
+description: |-
+  開始姿勢：プリーチャーベンチに座り、EZバーを肩幅の逆手で握って上腕部をパッドに乗せます。
+  動作手順：肘の位置を固定したまま上腕二頭筋を収縮させてバーを巻き上げ、ゆっくりと下ろします。
+  ポイント：肘を伸ばしきって関節をロックさせず、常に筋肉の緊張を保ちながら動作します。

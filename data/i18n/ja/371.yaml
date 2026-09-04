@@ -1,9 +1,20 @@
 exercise_id: '371'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: レッグプレスマシン
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '788'
+description: |-
+  開始姿勢:
+  レッグプレスマシンのシートに背中とお尻を密着させて座ります。フットプレートの中央に足を肩幅よりやや広めに置き、つま先をわずかに外側に向けます。
+
+  動作手順:
+  1. セーフティを解除し、膝が約90度に曲がる深さまでコントロールしながらプレートを下ろします。
+  2. 足裏全体で力強くプレートを押し上げ、開始位置へ戻します。
+  3. 膝を完全に伸ばし切らず、関節を痛めないようわずかに余裕を持たせます。
+
+  ポイント:
+  背中がシートから丸まって浮かないよう注意し、大腿四頭筋と大臀筋で押し切ります。

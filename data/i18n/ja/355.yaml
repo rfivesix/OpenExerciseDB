@@ -1,9 +1,11 @@
 exercise_id: '355'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ストレートバック・ラットプルダウン
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow
   source_id: '187'
+description: |-
+  開始姿勢: ラットプルダウンマシンのシートに座り、太ももをパッドで固定します。背筋を真っ直ぐ直立に保ち、バーを肩幅より広めに握ります。動作手順: 背筋を伸ばしたまま、肘を真下へ引き下げるようにしてバーを鎖骨のあたりまで引きます。広背筋、大円筋、僧帽筋中部の収縮を意識し、ゆっくりとコントロールして戻します。ポイント: 上体を後ろに倒さず、背骨を垂直に保つことで広背筋をダイレクトに刺激します。

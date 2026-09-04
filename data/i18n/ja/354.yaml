@@ -1,9 +1,11 @@
 exercise_id: '354'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ハイインクライン・ラットプルダウン
+name: バックリーン・ラットプルダウン
 upstream:
   license: CC-BY-SA-3.0
   license_author: drthurlow
   source_id: '188'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、バーを握って上体を後方に約30度傾けます。胸を張り、肩甲骨を下げます。動作手順: 肘を斜め後ろに引き下げながら、バーを胸の上部に向かって力強く引き寄せます。背中の筋肉の収縮を意識し、コントロールしながらゆっくりと腕を伸ばして開始位置へ戻します。ポイント: 上半身の角度を一定に保ち、過度な反動を使わないようにします。

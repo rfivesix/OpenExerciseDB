@@ -1,9 +1,20 @@
 exercise_id: '367'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スタンディング・レッグカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '118'
+description: |-
+  開始姿勢:
+  マシンの前に立ち、片足のふくらはぎ下部にパッドを当てます。ハンドルを握って上半身を安定させます。
+
+  動作手順:
+  1. 軸足でしっかりと立ち、パッドを当てた足の膝を曲げて踵を臀部へ引き上げます。
+  2. 膝が約90度以上屈曲した位置で一瞬止め、ハムストリングスを収縮させます。
+  3. ゆっくりとコントロールしながら脚を下ろし、規定回数後に反対脚も行います。
+
+  ポイント:
+  片脚ずつ動作することで左右差を整え、集中的な意識を持って刺激を与えられます。

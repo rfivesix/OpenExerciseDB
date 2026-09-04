@@ -1,9 +1,11 @@
 exercise_id: '314'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アイソメトリック・ワイパー
 upstream:
   license: CC-BY-SA-4.0
   license_author: cal.zabel
   source_id: '338'
+description: |-
+  【開始姿勢】腕立て伏せの姿勢をとり、両手を肩幅よりやや広めに床につきます。【動作手順】体重を片側へ大きくシフトしてその側の肘を曲げ、反対側へ滑らかに体重を移動させます。【ポイント】大胸筋と体幹の緊張を保ち、腰が落ちないよう姿勢を維持します。

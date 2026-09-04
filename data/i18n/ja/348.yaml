@@ -1,9 +1,11 @@
 exercise_id: '348'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・サイドレイズ
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '148'
+description: |-
+  【開始姿勢】足を肩幅に開いて立ち、両手にダンベルを持ち体の横に構えます。【動作手順】肘をわずかに曲げたまま、ダンベルを肩の高さまで真横に引き上げます。【ポイント】三角筋中部 (側部)を意識し、僧帽筋を使わないよう肩をすくめずに行います。

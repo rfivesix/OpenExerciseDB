@@ -1,9 +1,13 @@
 exercise_id: '376'
 language: ja
-status: ai_raw
-translated_from: en
-name: レッグレイズ
+status: ai_reviewed
+translated_from: de
+name: ライイング・レッグレイズ
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '791'
+description: |-
+  開始姿勢：マットに仰向けになり、両手を体の横または臀部の下に置いて足を揃えます。
+  動作手順：膝をわずかに曲げた状態で腹直筋下部を意識して脚を垂直まで持ち上げ、ゆっくりと下ろします。
+  ポイント：脚を下ろしたときに腰が床から浮かないよう腹圧を保ち、床につく手前で切り返します。

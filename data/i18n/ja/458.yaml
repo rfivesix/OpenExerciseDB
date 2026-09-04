@@ -1,9 +1,13 @@
 exercise_id: '458'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: プランク
 upstream:
   license: CC-BY-SA-3.0
   license_author: YYCfit / BFad07
   source_id: '238'
+description: |-
+  開始姿勢：床に前腕部とつま先をつき、肘が肩の真下に来るようにセットします。
+  動作手順：頭から踵までを一直線に保ち、腹直筋と腹横筋を強く引き締めて姿勢を維持します。
+  ポイント：腰が下がったりお尻が高く浮いたりしないよう腹圧を高め、自然な呼吸を続けます。

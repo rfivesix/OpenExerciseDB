@@ -1,9 +1,20 @@
 exercise_id: '397'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バーベル・ワイドスタンス・ローボックススクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: taylorbarbell
   source_id: '389'
+description: |-
+  開始姿勢:
+  背後に低いボックスを設置し、バーベルを僧帽筋の上に担ぎます。足幅を肩幅より広く（ワイドスタンス）開き、つま先を外に向けます。
+
+  動作手順:
+  1. 股関節を深く後ろに引き込み、胸を張ったまま低いボックスの上に腰を完全に下ろします。
+  2. ボックス上で反動を使わずに一瞬脱力してから体幹を締め直します。
+  3. 踵で力強く床を押し、大臀筋と内転筋群の力で爆発的に立ち上がります。
+
+  ポイント:
+  パラレルより低いボックスを使うことで、股関節の可動域と立ち上がりの瞬発力を高めます。

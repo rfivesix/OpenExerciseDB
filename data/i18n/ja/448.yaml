@@ -1,9 +1,11 @@
 exercise_id: '448'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ペンドレイ・バーベルロー
+name: ペンドレイロー (バーベル・ペンドレイロー)
 upstream:
   license: CC-BY-SA-3.0
   license_author: Nallitnas
   source_id: '202'
+description: |-
+  開始姿勢: 床に置いたバーベルの前に立ち、膝を軽く曲げて股関節から前傾し、背中を床と完全に平行にします。肩幅でバーを握ります。動作手順: 上体の角度を床と平行に固定したまま、爆発的にバーベルを胸の下部まで引き上げます。腕以外の体幹は動かさず、トップで背中を収縮させた後、バーを完全に床まで下ろして毎レップ静止させます。ポイント: デッドストップから引くことで爆発的な背中の筋力を養います。

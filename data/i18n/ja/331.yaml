@@ -1,9 +1,20 @@
 exercise_id: '331'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケトルベルスイング
 upstream:
   license: CC-BY-SA-3.0
   license_author: J120290,cerin
   source_id: '249'
+description: |-
+  開始姿勢:
+  足を肩幅より広めに開き、両手でケトルベルを保持します。背筋を真っ直ぐ伸ばして構えます。
+
+  動作手順:
+  1. 股関節を後方に引き込み（ヒンジ）、ケトルベルを両脚の間を通るようにスイングさせます。
+  2. 大臀筋とハムストリングスを素早く強力に収縮させ、腰を前方に押し出してケトルベルを胸の高さまで弾き飛ばします。
+  3. 振り下ろされるケトルベルの重みを股関節で受け止め、滑らかに次の一振りに繋げます。
+
+  ポイント:
+  腕の力ではなく、股関節の伸展パワーによってベルを浮かせます。

@@ -1,9 +1,20 @@
 exercise_id: '365'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ライイング・レッグカール
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '154'
+description: |-
+  開始姿勢:
+  マシンのベンチにうつ伏せになり、アキレス腱の少し上にパッドを当てます。サイドハンドルを握って骨盤をシートに固定します。
+
+  動作手順:
+  1. 骨盤をシートから浮かせないように意識しながら、膝を曲げてパッドを臀部へ引き上げます。
+  2. トップポジションでハムストリングスを強く収縮させます。
+  3. 負荷を受け止めながら、ゆっくりと元の位置まで戻します。
+
+  ポイント:
+  腰が反ってしまわないよう腹圧を意識し、太もも裏の筋力のみでカールします。

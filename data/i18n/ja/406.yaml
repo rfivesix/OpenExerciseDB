@@ -1,9 +1,11 @@
 exercise_id: '406'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: サイドライイング・ダンベル・外旋エクササイズ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Trix
   source_id: '312'
+description: |-
+  【開始姿勢】横向きに寝て、上側の手に軽いダンベルを持ち、肘を90度に曲げて脇腹につけます。【動作手順】肘の位置を固定したまま、前腕を天井に向けてゆっくり外旋させます。【ポイント】回旋筋腱板 (ローテーターカフ)を意識し、反動を使わず丁寧に行います。
