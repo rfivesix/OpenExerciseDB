@@ -1,9 +1,11 @@
 exercise_id: '2480'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Nuoto continuo a ritmo blando (stile libero)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4957'
+description: |-
+  Nuota a stile libero a un ritmo rilassato e costante senza interruzioni, pensando a un'intensità moderata. Concentrati su bracciate fluide e regolari anziché sulla velocità; l'obiettivo è attivare la circolazione e riscaldare gradualmente la muscolatura.

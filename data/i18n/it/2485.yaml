@@ -1,9 +1,11 @@
 exercise_id: '2485'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Esercizio di bracciata e rollio nel nuoto
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4962'
+description: |-
+  Datti una spinta dal bordo, esegui alcune bracciate e a ogni respirazione ruota completamente sul dorso per due o tre atti respiratori prima di ritornare in assetto a stile libero. Questo esercizio insegna a ruotare il corpo come un blocco unico e riduce l'ansia di mantenere il viso immerso.

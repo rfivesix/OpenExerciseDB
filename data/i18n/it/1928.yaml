@@ -1,9 +1,11 @@
 exercise_id: '1928'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rematore da seduto al cavo con presa a V
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3077'
+description: |-
+  Il rematore da seduto con presa a V è un esercizio multiarticolare di trazione eseguito al cavo con un'impugnatura stretta a V. Seduto con i piedi ben piantati sui supporti e il busto eretto, tira la maniglia verso l'addome concentrandoti sullo spessore del gran dorsale e dei romboidi.

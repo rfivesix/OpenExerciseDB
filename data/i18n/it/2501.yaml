@@ -1,8 +1,10 @@
 exercise_id: '2501'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore orizzontale a corpo libero sotto un tavolo
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4982'
+description: |-
+  Esercizio di tirata orizzontale a corpo libero per l'allenamento a casa: posizionati supino sotto un tavolo solido, afferrane il bordo e trazionati verso l'alto mantenendo il corpo teso.

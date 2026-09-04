@@ -1,9 +1,11 @@
 exercise_id: '2540'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine isometrica
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5011'
+description: |-
+  Variante di forza alla lat machine in cui tiri la sbarra verso il petto e trattieni la posizione di massima contrazione per diversi secondi senza muovere le braccia prima di rilasciare.

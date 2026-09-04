@@ -1,9 +1,11 @@
 exercise_id: '2487'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Defaticamento in acqua a ritmo lento
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4964'
+description: |-
+  Nuota a un'andatura lenta e rilassata a stile libero, a dorso o alternando scivolamenti senza curare la tecnica. L'unico obiettivo è abbassare gradualmente la frequenza cardiaca e distendere la muscolatura prima di uscire dalla vasca.

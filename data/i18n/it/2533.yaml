@@ -1,9 +1,11 @@
 exercise_id: '2533'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Sospensione ad arco alla sbarra (Arch Hang)
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan
   source_id: '5002'
+description: |-
+  Rimani appeso alla sbarra per trazioni con le braccia distese. Inizia da una sospensione attiva e inarca la schiena adducendo le scapole fino a formare un arco dorsale stabile.

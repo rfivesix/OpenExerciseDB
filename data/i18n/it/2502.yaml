@@ -1,8 +1,10 @@
 exercise_id: '2502'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Rematore a un braccio con manubrio da 5 kg
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4983'
+description: |-
+  Rematore unilaterale con manubrio da 5 kg per l'allenamento a casa: fletti il busto e rema portando il gomito verso il fianco con movimento controllato.

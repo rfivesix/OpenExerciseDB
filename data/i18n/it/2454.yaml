@@ -1,9 +1,11 @@
 exercise_id: '2454'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Alzate Y-T-W a terra per spalle e dorso
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging
   source_id: '4931'
+description: |-
+  L'esercizio Y-T-W a terra per la retrazione scapolare è mirato a rinforzare i muscoli interscapolari, favorendo l'adduzione delle scapole e migliorando la postura eretta del tronco.

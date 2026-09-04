@@ -1,9 +1,11 @@
 exercise_id: '1927'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lat machine a presa inversa
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3076'
+description: |-
+  La lat machine a presa inversa (o presa supina) è una variante dell'esercizio tradizionale che prevede un'impugnatura con i palmi rivolti verso di sé a larghezza spalle. Questo assetto pone maggiore enfasi sul gran dorsale e aumenta il coinvolgimento del bicipite brachiale, consentendo spesso un arco di movimento più ampio e una contrazione muscolare più marcata nel punto inferiore della tirata.

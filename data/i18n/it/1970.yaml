@@ -1,9 +1,11 @@
 exercise_id: '1970'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Sumo high pull con kettlebell
 upstream:
   license: CC-BY-SA-4.0
   license_author: wgerpott
   source_id: '3125'
+description: |-
+  Esercizio composto che combina elementi dello stacco sumo e della tirata alta. Stimola potentemente l'intera catena cinetica posteriore, in particolare i glutei, i muscoli ischiocrurali e la parte alta della schiena. La posizione sumo massimizza l'intervento delle anche, mentre la tirata aggiunge una componente esplosiva che sviluppa forza e potenza dinamica. Posizionati sopra una kettlebell con i piedi più larghi delle spalle e le punte leggermente ruotate all'infuori. Mantieni il core contratto e la colonna vertebrale in assetto neutro. Fletti le anche all'indietro e distendi le braccia per afferrare la maniglia della kettlebell con entrambe le mani in presa prona. Con le tibie quasi verticali, estendi esplosivamente le anche sollevando la kettlebell verso la parte alta del petto guidando con i gomiti alti e tenendo il carico vicino al corpo. Raggiunta l'altezza delle spalle, abbassa la kettlebell in modo fluido e controllato alla posizione di partenza.

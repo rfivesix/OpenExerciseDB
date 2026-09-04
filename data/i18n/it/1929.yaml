@@ -1,9 +1,11 @@
 exercise_id: '1929'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Panca piana a terra con bilanciere (Floor Press)
+name: Trazioni alla sbarra assistite
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3078'
+description: |-
+  Le trazioni assistite sono un esercizio multiarticolare di tirata verticale eseguito alla macchina con pedana a contrappeso oppure utilizzando elastici di resistenza. Riproducono fedelmente la biomeccanica del pull-up standard riducendo il carico effettivo sollevato, risultando uno strumento ideale per sviluppare forza funzionale e perfezionare la tecnica dorsale.
