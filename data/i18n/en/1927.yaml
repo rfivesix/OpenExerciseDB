@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1927'
 language: en
-status: upstream_unreviewed
-name: Inverted Lat Pull Down
-description: |-
-  The Inverted Lat Pull Down (most commonly known as the Reverse Grip Lat Pull Down) is a variation of the standard exercise that uses an underhand (supinated) grip with hands at shoulder-width. This position shifts more emphasis to the lower lats and increases biceps involvement, often allowing for a greater range of motion and a deeper squeeze at the bottom of the movement.
+status: ai_reviewed
+name: Reverse-Grip Lat Pulldown (Inverted Lat Pulldown)
+description: 'Starting position:
+
+  Sit at a lat pulldown station and adjust the thigh pads so your legs are firmly anchored. Grasp the bar with a shoulder-width underhand (supinated) grip. Sit tall with your chest lifted and a slight arch in your upper back.
+
+
+  Execution:
+
+  Pull the bar smoothly downward toward your upper chest by driving your elbows down and slightly back. Retract your shoulder blades and squeeze your lower lats and biceps firmly at the bottom. Slowly guide the bar back to the starting position under full control until your lats are completely stretched.
+
+
+  Tips:
+
+  Do not lean excessively backward to swing the weight down; keep your torso stationary to maximize latissimus tension.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3076'
+search_terms:
+- Inverted Lat Pull Down
+- Underhand Lat Pulldown
+- Supinated Lat Pulldown

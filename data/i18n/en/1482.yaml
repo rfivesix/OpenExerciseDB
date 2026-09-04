@@ -5,24 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1482'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Cheat Curl
 description: |-
-  Starting position is standing
-  with feet shoulder width apart.
-  Hands should take an underhand
-  or supinated grip on the dumbbells holding them with hands shoulder
-  width apart.
-  Keeping elbows tucked into your
-  sides throughout the entire movement, use momentum to curl the dumbbells,
-  squeezing your biceps at the top of the movement.
-  Slowly lower to return to the
-  starting position. Keep the core tight throughout the exercise.
+  Starting Position:
+  Stand tall with your feet shoulder-width apart, holding a heavy dumbbell in each hand at arm's length with a supinated (palms forward) grip.
 
-  Cheating
-  through the concentric curling portion of this challenging exercise gives us a
-  great opportunity to increase time under tension and create eccentric overload
-  with heavier weight when we lower.
+  Execution:
+  1. Use a slight, controlled hinge at the hips to generate just enough momentum to overcome the sticking point and curl the dumbbells up toward your shoulders.
+  2. Squeeze your biceps hard at the peak contraction for a brief moment.
+  3. Lower the weights in a strictly controlled manner over 3 to 4 seconds, resisting the heavy load during the eccentric phase.
+
+  Cues:
+  The purpose of cheating through the concentric phase is to overload the eccentric (lowering) portion of the lift with heavier weight than could otherwise be curled with strict form.
+search_terms:
+  - Cheat Curl
+  - Heavy Biceps Cheat Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

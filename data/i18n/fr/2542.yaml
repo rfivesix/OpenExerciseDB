@@ -3,9 +3,23 @@ language: fr
 status: ai_reviewed
 translated_from: en
 name: Boxe et frappes au sac
+description: |-
+  Position de départ :
+  Adoptez une garde de boxe équilibrée face au sac de frappe ou dans l'espace (pied avant légèrement ouvert, genoux souples et poids sur l'avant des pieds). Gardez les poings fermés protégeant le menton et les coudes serrés contre les côtes.
+
+  Exécution :
+  1. Enchaînez des combinaisons fluides et rythmées comprenant des directs (jab, cross), des crochets et des uppercuts contre le sac de frappe ou en shadow boxing.
+  2. Engagez la rotation des hanches, du bassin et des épaules sur chaque coup pour transférer la puissance de tout le corps.
+  3. Déplacez-vous continuellement autour du sac en pas chassés ou pivots, en ramenant immédiatement les mains en garde haute après chaque frappe.
+
+  Conseils :
+  Portez toujours des bandes et des gants de boxe adaptés pour protéger vos poignets et vos métacarpes. Expirez de manière explosive à chaque frappe et gardez le poignet parfaitement droit à l'impact.
+search_terms:
+- Entraînement de boxe
+- Sac de frappe
+- Shadow boxing
+- Frappes de boxe
 upstream:
   license: CC-BY-SA-4.0
   license_author: SAH
   source_id: '5013'
-description: |-
-  Séance de boxe au sac de frappe ou en shadow boxing, alternant combinaisons de coups et déplacements pour l'endurance et la coordination du haut du corps.

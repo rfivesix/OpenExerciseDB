@@ -1,15 +1,32 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1567'
 language: en
-status: upstream_unreviewed
-name: Alternating dumbbell hammer curl
-description: |-
-  Stand with your knees slightly bent and your back straight. Hold a dumbbell in each hand, using a neutral grip at your sides.
+status: ai_reviewed
+name: Alternating Dumbbell Hammer Curl
+description: 'Starting Position:
+
+  Stand tall with knees slightly bent and feet shoulder-width apart. Hold a dumbbell
+  in each hand at your sides with a neutral grip (palms facing each other).
+
+
+  Execution:
+
+  1. Keeping your upper arm stationary and elbow tucked, curl one dumbbell up toward
+  your shoulder with the weight vertical.
+
+  2. Squeeze your brachioradialis and brachialis firmly at the top of the curl.
+
+  3. Lower the dumbbell slowly with control back to the starting position before repeating
+  with the other arm.
+
+
+  Cues:
+
+  Avoid swinging the torso or using momentum. The neutral grip maximizes tension on
+  the forearm and brachialis.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mariano_O
   source_id: '2515'
+search_terms:
+- Alternate Hammer Curl
+- Alternating dumbbell hammer curl

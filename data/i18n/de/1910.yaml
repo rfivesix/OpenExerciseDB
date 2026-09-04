@@ -1,21 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1910'
 language: de
-status: upstream_unreviewed
-name: Kniender Superman
-description: |-
-  Schiebe einen Fuß nach hinten, bis das Bein vollständig gestreckt ist, und konzentriere dich darauf, den Fuß hoch und nach hinten geschoben zu halten, als würde er gezogen.
+status: ai_reviewed
+name: Kniender Superman (Bird Dog)
+description: 'Ausgangsposition:
+
+  Begib dich auf einer Matte in den Vierfüßlerstand. Platziere die Hände direkt unter den Schultern und die Knie hüftbreit unter den Hüften. Halte den Rücken gerade und den Rumpf angespannt.
 
 
-  Strecke den Arm nach vorne und achte darauf, die Schulter hoch oben zu halten.
+  Ausführung:
+
+  Strecke gleichzeitig einen Arm gerade nach vorne und das diagonal gegenüberliegende Bein gerade nach hinten aus, bis Arm, Rumpf und Bein eine waagerechte Linie bilden. Halte diese Position für 2–3 Sekunden unter voller Körperspannung. Führe Hand und Knie kontrolliert zurück zur Matte und wiederhole die Übung auf der Gegenseite.
 
 
-  Einseitig und statisch gehalten.
+  Hinweise:
+
+  Vermeide es, das Becken zu verdrehen oder ins Hohlkreuz zu fallen; die Bewegung erfolgt rein aus Schulter-, Gesäß- und Rückenmuskulatur bei stabiler Körpermitte.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4274'
+search_terms:
+- Kniender Superman
+- Bird Dog
+- Diagonales Heben im Vierfüßlerstand

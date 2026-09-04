@@ -1,10 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1472'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Shrugs eingedreht
-description: Befestige zwei D-Griffe an zwei tiefen Kabelzügen und ziehe die Schultern mit dem oberen Trapezmuskel nach innen hoch.
+description: |-
+  Ausgangsposition:
+  Befestige zwei D-Griffe an den tiefen Umlenkrollen zweier Kabelzüge. Stelle dich mittig zwischen die Türme, greife die Griffe und stehe aufrecht mit schulterbreitem Stand, die Arme hängen seitlich nach unten entlang des Kabelverlaufs.
+
+  Ausführung:
+  1. Ziehe die Schultern mit gestreckten Armen kraftvoll nach oben und leicht nach innen zur Mitte (entlang des Faserverlaufs des oberen Trapezes).
+  2. Halte die Kontraktion am oberen Punkt für eine Sekunde intensiv fest.
+  3. Senke die Schultern langsam und kontrolliert wieder ab, bis du eine angenehme Dehnung im Nacken spürst.
+
+  Hinweise:
+  Der schräg von unten kommende Zugwinkel der Kabel entspricht perfekt der Ausrichtung der Muskelfasern des oberen Trapezmuskels. Die Arme bleiben gestreckt, nicht aus den Armen ziehen.
+search_terms:
+  - Cable Shrug-In
+  - Shrugs am Kabelzug
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

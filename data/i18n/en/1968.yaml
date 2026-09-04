@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1968'
 language: en
-status: upstream_unreviewed
-name: Single-arm dumbbell shoulder press
-description: |-
-  Press the dumbbell vertically overhead in a controlled motion until your arm is fully extended, without locking the elbow. Slowly lower the dumbbell back to the starting position at shoulder height.
+status: ai_reviewed
+name: Single-Arm Dumbbell Shoulder Press
+description: 'Starting position:
+
+  Stand upright with feet shoulder-width apart (or sit tall on a bench). Hold a single dumbbell at shoulder level with your elbow positioned directly below your wrist, palm facing forward or slightly turned inward. Place your non-working hand on your hip or extend it for balance.
+
+
+  Execution:
+
+  Press the dumbbell vertically overhead in a smooth, controlled motion until your arm is fully extended without locking the elbow. Keep your core braced tight to prevent your torso from leaning or twisting. Slowly lower the dumbbell under full control back to shoulder level. Complete all reps on one side before switching.
+
+
+  Tips:
+
+  The unilateral nature of this exercise engages your core for lateral stabilization and corrects strength disparities between shoulders.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: evtimovgeorg
   source_id: '3123'
+search_terms:
+- Single-arm dumbbell shoulder press
+- One-Arm Dumbbell Overhead Press
+- Standing Single-Arm Press

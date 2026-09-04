@@ -5,19 +5,22 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1488'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Pullover
 description: |-
-  Starting
-  position is lying across a flat bench perpendicularly with your feet flat
-  on the ground, holding a dumbbell overhead with both hands.
-  With
-  a slight bend in the elbow, begin lowering the dumbbell over and behind
-  the head with the arm muscles in extended position.
-  Then
-  reverse the movement bringing the dumbbell back up and over the head.
-  Keep
-  your abdominal muscles tight and spine stable throughout allow repetitions
-  and don’t allow your back to arch up away from the flat bench.
+  Starting Position:
+  Lie perpendicularly across a flat bench with your upper back and shoulders resting firmly on the pad and feet flat on the floor. Hold a dumbbell with both hands (palms pressing against the underside of the top plate) directly over your chest with arms extended.
+
+  Execution:
+  1. With a slight, fixed bend in your elbows, lower the dumbbell backward in an arc over and behind your head until you feel a full stretch in your lats and ribcage.
+  2. Pull the dumbbell back up along the same arc by contracting your lats and chest until it is once again positioned over your chest.
+  3. Keep your hips stable and abdominal muscles braced throughout all repetitions, preventing your lower back from excessively arching.
+
+  Cues:
+  Maintain a consistent elbow angle throughout the entire movement; do not turn it into a triceps extension.
+search_terms:
+  - Dumbbell Pullovers
+  - DB Pullover
+  - Cross-Bench Dumbbell Pullover
 upstream:
   license: CC-BY-SA-4.0

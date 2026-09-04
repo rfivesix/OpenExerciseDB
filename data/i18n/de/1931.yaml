@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: de
-status: upstream_unreviewed
-name: Kurzhantel-Curl
-description: |-
-  Der Kurzhantel-Curl ist eine klassische Isolationsübung für die Arme. Anders als beim Hammer-Curl drehst du beim Anheben der Gewichte deine Handgelenke (Supination), was eine vollständige Kontraktion des Bizeps ermöglicht.
+status: ai_reviewed
+name: Spider-Curls mit Kurzhanteln
+description: 'Ausgangsposition:
+
+  Lege dich bauchlings auf eine etwa 45 Grad eingestellte Schrägbank, sodass deine Brust oben auf der Lehne aufliegt und deine Füße hinten stabil aufgestellt sind. Greife in jede Hand eine Kurzhantel im Untergriff (Handflächen nach vorne) und lasse die Arme senkrecht nach unten hängen.
+
+
+  Ausführung:
+
+  Beuge die Ellbogen und curle die Kurzhanteln kontrolliert nach oben in Richtung deiner Schultern. Halte die Oberarme dabei absolut senkrecht und unbeweglich. Spanne den Bizeps am obersten Punkt für eine Sekunde maximal an. Senke die Hanteln langsam und kontrolliert wieder vollständig ab.
+
+
+  Hinweise:
+
+  Durch die Bauchlage auf der Bank wird jeglicher Schwung aus dem Körper eliminiert; die Bewegung isoliert den kurzen Kopf des Bizeps optimal.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4293'
+search_terms:
+- Kurzhantel-Curl
+- Dumbbell Spider Curl
+- Spider Curls Kurzhanteln
+- Spidercurls Schrägbank

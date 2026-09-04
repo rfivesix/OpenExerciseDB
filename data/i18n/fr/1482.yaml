@@ -5,15 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1482'
 language: fr
-status: upstream_unreviewed
-name: Curl triché aux haltères
+status: ai_reviewed
+name: Cheat curl aux haltères
 description: |-
-  La position de départ consiste à se tenir debout, pieds écartés à la largeur des épaules.
-  Les mains doivent adopter une prise en supination sur les haltères, en les tenant écartés à la largeur des épaules.
-  En gardant les coudes collés aux côtés pendant tout le mouvement, utilisez l'élan pour réaliser le curl avec les haltères, en contractant les biceps au sommet du mouvement.
-  Redescendez lentement pour revenir à la position de départ. Gardez la sangle abdominale gainée pendant tout l'exercice.
+  Position de départ :
+  Tenez-vous debout, pieds écartés à la largeur des épaules, en tenant un haltère lourd dans chaque main, bras tendus le long du corps en prise supination (paumes vers l'avant).
 
-  Tricher sur la phase concentrique de cet exercice exigeant nous offre une excellente occasion d'augmenter le temps sous tension et de créer une surcharge excentrique avec une charge plus lourde lorsque nous redescendons.
+  Exécution :
+  1. Utilisez un léger élan contrôlé des hanches et du torse pour amorcer le curl et franchir le point de blocage, amenant les haltères vers les épaules.
+  2. Contractez fortement les biceps au sommet pendant un instant.
+  3. Redescendez la charge de façon très lente et contrôlée (3 à 4 secondes) pour maximiser la surcharge excentrique.
+
+  Conseils :
+  L'élan contrôlé ne sert qu'à passer la montée afin d'imposer une tension maximale sur la phase négative du mouvement.
+search_terms:
+  - Curl triché aux haltères
+  - Cheat curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

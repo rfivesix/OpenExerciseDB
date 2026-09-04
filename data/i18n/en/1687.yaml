@@ -1,15 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1687'
 language: en
-status: upstream_unreviewed
-name: Bear crawl pull through
+status: ai_reviewed
+name: Bear Crawl Pull-Through
 description: |-
-  Place a dumbbell at around hip level and assume a bear crawl position. Push the knees off the floor and hold.
-  With the opposite hand reach for the dumbbell and pull it to the other side. Place your hand back on the floor and repeat with your other hand.
+  Starting position:
+  Assume a quadruped position with hands beneath your shoulders and knees beneath your hips. Place a dumbbell on the floor just behind one hand. Hover your knees a few inches off the floor while maintaining a flat back (bear crawl hold).
+  
+  Movement:
+  1. Reach underneath your torso with the opposite hand, grasp the dumbbell handle, and pull or slide it across to the other side.
+  2. Return your hand to the floor to re-stabilize your bear crawl position.
+  3. Repeat the movement in the opposite direction using the other hand.
+  
+  Tips:
+  Keep your hips and shoulders parallel to the floor. Do not allow your pelvis to sway or rotate as you drag the weight.
+search_terms:
+  - Bear crawl pull through
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun

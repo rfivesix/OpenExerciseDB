@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1803'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trap Bar Squat
-description: |-
-  A combination of squat and deadlift principles with the use of a hex/trap bar, easing stress on the lower back by better centering the weight.
+description: "Starting Position:\nStep inside the center of a trap bar (hex bar) with\
+  \ your feet shoulder-width apart. Squat down with an upright torso posture and grip\
+  \ the neutral handles firmly. Pull your shoulders back, keep your chest high, and\
+  \ brace your core.\n\nExecution:\n1. Drive forcefully into the floor through your\
+  \ heels and midfoot, extending your knees and hips in unison.\n2. Keep your chest\
+  \ up throughout the ascent to prioritize quadriceps and glute loading.\n3. Stand\
+  \ fully upright at the top, squeezing your glutes and quads.\n4. Lower the weight\
+  \ under control by breaking at the knees and hips until the plates touch the floor.\n\
+  \nCues:\nMaintain a more upright torso than a conventional deadlift to emphasize\
+  \ knee flexion and quadriceps engagement while sparing the lower back."
+search_terms:
+  - Trap Bar Squat
+  - Hex Bar Squat
+  - Trap Bar Squats
 upstream:
   license: CC-BY-SA-4.0
   license_author: kmcalderwood

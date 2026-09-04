@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1484'
 language: fr
-status: upstream_unreviewed
-name: Croisé de poulies omni
+status: ai_reviewed
+name: Écarté à la poulie vis-à-vis omni (Omni Cable Crossover)
 description: |-
-  Ajustez les charges en fonction du mouvement. Lorsque vous tirez de haut en bas, augmentez la charge de 20 % à 40 % de plus que pour le mouvement de bas en haut. Cela tient compte du fait que, lorsqu'on travaille de haut en bas, les muscles du haut des pectoraux sont naturellement plus faibles que ceux du bas des pectoraux. Ajustez donc votre colonne de poids pour compenser.
+  Position de départ :
+  Réglez une poulie en position haute et l'autre en position basse sur la double tour de câbles. Placez-vous au centre avec les pieds décalés pour la stabilité et tenez les deux poignées.
 
-  Positionnez une poulie en position haute et l'autre au réglage le plus bas. Adoptez une position de pieds décalée entre les deux colonnes de poulies.
-  Pour la poulie réglée en bas, tirez-la vers le haut et en travers de votre corps. Cela cible efficacement le haut des pectoraux.
-  Pour la poulie réglée en haut, tirez-la vers le bas et en travers de votre corps. Cela sollicitera principalement le bas des pectoraux.
+  Exécution :
+  1. Pour le câble bas, tirez vers le haut et en diagonale à travers le buste pour solliciter le haut des pectoraux.
+  2. Pour le câble haut, ramenez-le vers le bas et en diagonale vers l'avant pour recruter le bas des pectoraux.
+  3. En fin de série, inversez la hauteur des poulies pour équilibrer le travail de chaque côté de la poitrine.
 
-  Une fois terminé, inversez la position des poulies. Faites passer la poulie précédemment haute en position la plus basse, et inversement. Répétez la séquence d'exercice, en veillant à bien cibler les deux régions des pectoraux.
+  Conseils :
+  Adaptez la charge à l'angle : la trajectoire descendante permet généralement de charger 20 à 40 % de plus que la trajectoire ascendante.
+search_terms:
+  - Croisé de poulies omni
+  - Omni Cable Crossover
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

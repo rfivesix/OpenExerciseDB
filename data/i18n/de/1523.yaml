@@ -1,17 +1,35 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Schlitten schieben
-description: |-
-  Belade den Schlitten mit 25 % deiner maximalen Last. Wenn du diese nicht kennst, wähle ein Gewicht, das du 10 Minuten lang mit kurzen Pausen schieben kannst. Anfänger können den Schlitten auch ohne Gewicht schieben.
-  Stelle dich hinter den Schlitten und greife die Stangen mit einer hohen Handposition.
-  Spanne deine Rumpfmuskulatur an und beginne, den Schlitten so schnell wie möglich nach vorne zu schieben, wobei du die Kraft aus dem gesamten Bein nimmst. Strecke deine Hüfte und Knie, während du den Schlitten nach vorne bewegst. Deine Fußstellung sollte deiner natürlichen Laufposition entsprechen.
+description: 'Ausgangsposition:
+
+  Belade den Gewichtsschlitten mit dem gewünschten Trainingsgewicht. Stelle dich hinter
+  den Schlitten und greife die Holme im oberen oder mittleren Bereich mit gestreckten
+  oder leicht angewinkelten Armen. Neige den Oberkörper in einem ca. 45-Grad-Winkel
+  nach vorne.
+
+
+  Ausführung:
+
+  1. Drücke dich kraftvoll über die Fußballen ab und schiebe den Schlitten mit kraftvollen,
+  gleichmäßigen Schritten nach vorne.
+
+  2. Halte den Rumpf stabil und den Körper von Kopf bis Fuß in einer geraden diagonalen
+  Linie.
+
+  3. Schiebe den Schlitten über die vorgegebene Distanz oder Zeit ohne Unterbrechung.
+
+
+  Hinweise:
+
+  Hervorragende Übung für Beinkraft, Sprintfähigkeit und kardiovaskuläre Konditionierung
+  ohne exzentrische Muskelbelastung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4039'
+search_terms:
+- Gewichtsschlitten schieben
+- Prowler Push
+- Sled Push

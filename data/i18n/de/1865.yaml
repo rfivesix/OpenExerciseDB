@@ -1,10 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1865'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sprunggelenkmobilität mit Band
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Befestige ein stabiles Widerstandsband an einem niedrigen\
+  \ Ankerpunkt hinter dir. Begib dich in einen halbknienden Stand mit dem vorderen\
+  \ Fuß in der Schlaufe, sodass das Band knapp unterhalb der Knöchel (über dem Sprungbein/Talus)\
+  \ anliegt und nach hinten zieht.\nAusführung: Schiebe das vordere Knie langsam und\
+  \ kontrolliert über die Fußspitze nach vorne, während die Ferse fest auf dem Boden\
+  \ bleibt. Halte die Endposition für 2–3 Sekunden und kehre zurück.\nHinweise: Das\
+  \ Band unterstützt die Gelenkmechanik bei der Dorsalflexion. Wiederhole die Bewegung\
+  \ 10–15 Mal pro Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

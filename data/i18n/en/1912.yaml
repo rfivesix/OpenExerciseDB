@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1912'
 language: en
-status: upstream_unreviewed
-name: Core Rotation
-description: |-
-  Sit back, raise feet above the ground with knees bent and start rotating left and right with hands touching the ground every move.
+status: ai_reviewed
+name: Seated Core Rotation (Russian Twist)
+description: 'Starting position:
+
+  Sit on an exercise mat with knees bent and heels initially resting on the floor. Lean your torso back at roughly a 45-degree angle until your abs engage. Lift your feet a few inches off the floor to balance on your sit bones.
+
+
+  Execution:
+
+  Rotate your torso smoothly from side to side, bringing your hands across to touch the floor beside each hip. Engage your obliques to control each turn and keep your hips stable.
+
+
+  Tips:
+
+  Maintain a tall, proud chest and neutral spine; avoid slouching or simply swinging your arms without rotating your torso.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3059'
+search_terms:
+- Core Rotation
+- Russian Twist
+- Seated Russian Twist

@@ -1,10 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2508'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Bird Dog (Vierfüßlerstand)
-description: Vasco-spezifischer Bird Dog – grundlegende kontralaterale Gliedmaßenkoordination und Stabilität der Lendenwirbelsäule. Vermittelt die Trennung der Hüftbewegung von der Wirbelsäule, die Aktivierung der Gesäßmuskulatur und Schulterblattkontrolle.
+description: |-
+  Ausgangsposition:
+  Begib dich in den Vierfüßlerstand auf eine Matte. Die Hände stehen direkt unter den Schultern, die Knie direkt unter den Hüften. Der Rücken ist neutral und der Rumpf angespannt.
+
+  Ausführung:
+  1. Hebe gleichzeitig den rechten Arm nach vorne und das linke Bein nach hinten an, bis beide mit dem Oberkörper eine waagerechte Linie bilden.
+  2. Halte die Daumenseite nach oben gerichtet und strecke die linke Ferse nach hinten, ohne das Becken aufzudrehen oder ins Hohlkreuz zu fallen.
+  3. Halte die gestreckte Position für 1 bis 2 Sekunden unter voller Rumpfspannung.
+  4. Führe Hand und Knie langsam wieder unter den Körper zurück.
+  5. Wiederhole die Bewegung mit der Gegenseite (linker Arm, rechtes Bein) und wechsle kontinuierlich ab.
+
+  Hinweise:
+  Stelle dir vor, du balancierst ein Glas Wasser auf deinem unteren Rücken; das Becken bleibt vollkommen ruhig und waagerecht.
+search_terms:
+- Bird Dog (Core L1)
+- Bird Dog
+- Vierfüßlerstand Diagonale
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4987'

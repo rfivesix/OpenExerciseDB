@@ -1,29 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2452'
 language: es
-status: upstream_unreviewed
-name: Curl De Muñeca Con Barra
+status: ai_reviewed
+name: Curl de muñeca con barra
 description: |-
-  Es un ejercicio de aislamiento diseñado específicamente para desarrollar la masa muscular y la fuerza en la cara interna (anterior) del antebrazo. Es un movimiento clave no solo para la estética del brazo, sino también para mejorar la fuerza de agarre (grip strength), lo que se traduce en un mejor rendimiento en ejercicios pesados como el peso muerto o las dominadas.
+  Posición inicial:
+  Arrodíllate frente a un banco plano o siéntate en él. Apoya los antebrazos sobre el banco (o sobre tus muslos) con las muñecas sobresaliendo ligeramente del borde. Sujeta la barra con agarre supino (palmas hacia arriba) a la anchura de los hombros.
 
+  Ejecución:
+  1. Desciende la barra de forma lenta y controlada flexionando las muñecas hacia el suelo. Al final del recorrido, abre ligeramente los dedos para dejar rodar la barra y maximizar el estiramiento.
+  2. Cierra los dedos con firmeza y flexiona las muñecas hacia arriba de forma potente hasta la máxima contracción de los flexores del antebrazo.
+  3. Sostén la contracción durante un segundo en la posición alta y repite.
 
-  Posición Inicial: Toma una barra con un agarre supino (las palmas de las manos mirando hacia arriba) a una anchura similar a la de tus hombros.
-
-
-  Apoyo en el Banco: Arrodíllate frente a un banco plano y apoya la parte posterior de tus antebrazos sobre él. Tus muñecas y manos deben sobresalir ligeramente por el borde del banco para permitir un rango completo de movimiento.
-
-
-  3- Fase Excéntrica (Bajada): Baja la barra de forma controlada extendiendo las muñecas hacia el suelo. Al final del recorrido, abre ligeramente los dedos de las manos para dejar que la barra ruede un poco hacia abajo, maximizando el rango de estiramiento.
-
-
-  Fase Concéntrica (Subida): Cierra primero los dedos para asegurar la barra y luego flexiona las muñecas hacia arriba de forma explosiva pero controlada, llevando la barra lo más alto posible. Contrae con fuerza los antebrazos en la posición máxima durante un segundo.
-
-
-  Postura: Mantén los antebrazos firmemente pegados al banco durante todo el ejercicio; solo deben moverse las muñecas y los dedos.
+  Consejos:
+  Mantén los antebrazos bien apoyados contra la superficie durante todo el ejercicio; solo deben moverse las muñecas y los dedos.
+search_terms:
+- Curl De Muñeca Con Barra
+- Flexión de muñeca con barra
 upstream:
   license: CC-BY-SA-4.0
   license_author: xWan

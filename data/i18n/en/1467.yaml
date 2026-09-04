@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1467'
 language: en
-status: upstream_unreviewed
-name: Incline Close Grip Barbell Bench Press
-description: Narrower grip than regular bench press, just outside shoulder width.
+status: ai_reviewed
+name: Incline Close-Grip Barbell Bench Press
+description: |-
+  Starting Position:
+  Lie back on an incline bench set to roughly 30 to 45 degrees. Grip the barbell with an overhand grip roughly shoulder-width apart. Unrack the bar and hold it directly above your upper chest with your arms fully extended.
+
+  Execution:
+  1. Lower the barbell in a controlled manner toward your upper chest or lower neck, keeping your elbows tucked close to your torso (at roughly a 30- to 45-degree angle).
+  2. Press the bar upward explosively by extending your elbows, concentrating the effort on your triceps and upper pectorals.
+  3. Lock out your arms briefly at the top without hyperextending your elbows, then repeat.
+
+  Cues:
+  Avoid an excessively narrow grip to protect your wrists; keeping your elbows close to your sides maximizes triceps engagement.
+search_terms:
+  - Incline Close Grip Barbell Bench Press
+  - Close-Grip Incline Bench Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

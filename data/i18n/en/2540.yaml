@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2540'
 language: en
-status: upstream_unreviewed
-name: Lat Pulldown Isometric
+status: ai_reviewed
+name: Isometric Lat Pulldown
 description: |-
-  An isometric Lat pulldown is a strength-building exercise where you pull the bar down to your chest and hold the contracted position at the bottom without moving your limbs for a set number of seconds
+  Starting Position:
+  Sit at a lat pulldown machine and adjust the thigh pad so your legs are firmly secured. Grasp the wide bar with an overhand grip wider than shoulder-width. Sit tall with chest proud, shoulder blades retracted and depressed, and a slight backward lean in your torso.
+
+  Execution:
+  1. Pull the bar down smoothly to just below your chin or upper chest level.
+  2. Hold this fully contracted position completely motionless for the prescribed duration, driving your elbows downward and squeezing your lats and mid-back with maximum effort.
+  3. Release and guide the bar upward with slow control once the hold is complete.
+
+  Cues:
+  Do not let the weight stack suddenly yank your arms upward at the end of the set. Keep your chest elevated and avoid rounding your shoulders forward during the hold.
+search_terms:
+- Lat Pulldown Isometric
+- Isometric Lat Pull Down
+- Lat Pulldown Hold
+- Cable Lat Pulldown Isometric
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

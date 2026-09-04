@@ -1,21 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1824'
 language: de
 status: ai_reviewed
 name: Tate Press mit Kurzhanteln
-description: |-
-  Aufbau: Lege dich flach hin, mit einer Kurzhantel in jeder Hand. Strecke deine Arme gerade über deiner Brust nach oben, als wärst du am obersten Punkt eines Kurzhantel-Bankdrückens.
-  Ausgangsposition: Positioniere die Kurzhanteln so, dass sie sich berühren oder dicht beieinander sind, mit einem Obergriff (Handflächen zeigen zu deinen Füßen und Daumen zueinander).
-  Absenken: Ohne deine Oberarme oder Schultern zu bewegen, beugst du die Ellenbogen und spreizt sie seitlich nach außen ab. Senke die inneren Enden der Kurzhanteln zur Mitte deiner Brust.
-  Berühren und Pause: Berühre mit den Kurzhanteln sanft deine Brust. Lege das Gewicht nicht auf deinem Körper ab; halte die Spannung im Trizeps konstant.
-  Drücken: Strecke deine Ellenbogen kraftvoll, um die Kurzhanteln in die Ausgangsposition zurückzubringen. Konzentriere dich darauf, „die kleinen Finger zum Himmel zu drücken“, um die Beanspruchung des Trizeps zu maximieren.
-
-  https://www.youtube.com/watch?v=IgSjoXbpy1M&t=2
+description: "Ausgangsposition:\nLege dich rücklings auf eine Flachbank und halte\
+  \ in jeder Hand eine Kurzhantel. Strecke die Arme über deiner Brust nach oben aus.\
+  \ Drehe die Handgelenke in einen pronierten Obergriff, sodass deine Handflächen\
+  \ in Richtung der Füße und deine Daumen zueinander zeigen. Die Hantelscheiben berühren\
+  \ sich oder sind dicht beieinander.\n\nAusführung:\n1. Halte deine Oberarme stabil\
+  \ in Position und beuge die Ellenbogen kontrolliert nach außen zur Seite.\n2. Senke\
+  \ die inneren Köpfe der Kurzhanteln zur Mitte deiner Brust ab, bis sie die Brust\
+  \ ganz leicht berühren, ohne das Gewicht abzulegen.\n3. Strecke die Ellenbogen kraftvoll\
+  \ wieder durch und drücke die Kurzhanteln nach oben in die Ausgangsposition; konzentriere\
+  \ dich darauf, die kleinen Finger zur Decke zu drücken.\n4. Halte die maximale Trizepskontraktion\
+  \ am obersten Punkt für 1 Sekunde.\n\nHinweise:\nEine hochwirksame Isolationsübung\
+  \ für den Trizeps (insbesondere den lateralen und medialen Kopf), entwickelt vom\
+  \ Powerlifter Dave Tate."
+search_terms:
+  - Tate Press
+  - Dumbbell Tate Press
+  - Tate-Drücken
+  - Trizepsdrücken Tate
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

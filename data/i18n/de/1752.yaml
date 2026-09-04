@@ -1,11 +1,22 @@
 exercise_id: '1752'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Seitheben vor dem Körper
-description: |-
-  Führe am Kabelturm Seitheben aus, wobei sich der Kabelzug vor dir befindet, und konzentriere dich auf Spannung im hinteren Bereich deiner Schulter.
+description: "Ausgangsposition:\nStelle dich seitlich neben einen niedrigen Kabelzug.\
+  \ Greife den D-Griff mit der äußeren Hand im Obergriff, sodass das Kabel vor deinem\
+  \ Körper verläuft. Stehe aufrecht mit schulterbreitem Stand und halte dich mit der\
+  \ freien Hand am Kabelturm fest.\n\nAusführung:\n1. Hebe den Arm mit leicht gebeugtem\
+  \ Ellenbogen seitlich nach oben, bis deine Hand etwa Schulterhöhe erreicht.\n2.\
+  \ Spanne den seitlichen Deltamuskel am obersten Punkt für einen Moment maximal an.\n\
+  3. Senke den Arm langsam und kontrolliert vor deinem Körper wieder ab, ohne das\
+  \ Gewicht ganz abzusetzen.\n\nHinweise:\nDurch die Führung des Kabels vor dem Körper\
+  \ bleibt die Spannung auf dem seitlichen Deltamuskel über den gesamten Bewegungsumfang\
+  \ konstant erhalten."
+search_terms:
+  - Seitheben am Kabelzug
+  - Cable Lateral Raise Front
+  - Kabel-Seitheben
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2889'

@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2448'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clamshell inversé
 description: |-
-  Allongez-vous sur le côté, les hanches et les genoux fléchis, en gardant les genoux superposés l'un sur l'autre. Gardez d'abord les pieds joints, puis, tout en gardant les genoux en contact, levez le pied supérieur vers le haut. Abaissez lentement le pied en gardant le contrôle.
-  Le mouvement doit se faire uniquement au niveau de la hanche ; évitez de basculer le bassin vers l'arrière. Le mouvement doit rester petit, contrôlé et centré sur la rotation de la hanche.
+  Position de départ :
+  Allongez-vous sur le côté, les hanches et les genoux fléchis à environ 90 degrés, les jambes superposées. Reposez votre tête sur votre bras inférieur.
+
+  Exécution :
+  1. En maintenant les genoux collés l'un contre l'autre, levez le pied supérieur vers le haut en rotation interne de la hanche.
+  2. Marquez un arrêt d'une seconde en haut du mouvement pour bien ressentir la contraction des fessiers et rotateurs profonds.
+  3. Redescendez lentement le pied jusqu'à la position de départ.
+  4. Effectuez toutes les répétitions puis changez de côté.
+
+  Conseils :
+  Gardez le bassin bien fixe et perpendiculaire au sol ; ne laissez pas les hanches basculer vers l'avant ou l'arrière.
+search_terms:
+- Clamshell inversé
+- Reverse Clamshell
+- Rotation interne hanche couché
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

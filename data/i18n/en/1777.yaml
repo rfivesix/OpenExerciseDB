@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1777'
 language: en
-status: upstream_unreviewed
-name: Deficit Push ups
-description: Pushup on blocks or grips, so you can dip lower than the hands in the decent.
+status: ai_reviewed
+name: Deficit Push-Ups
+description: "Starting Position:\nPlace two weight plates, yoga blocks, or push-up\
+  \ handles slightly wider than shoulder-width on the floor. Place your hands on the\
+  \ elevated surfaces and assume a rigid plank position with feet together and core\
+  \ braced.\n\nExecution:\n1. Lower your body under strict control by bending your\
+  \ elbows at approximately 45 degrees to your torso.\n2. Descend past hand level\
+  \ into the deficit until you feel a deep, comfortable stretch across your pectorals.\n\
+  3. Powerfully press through your palms to return to the top plank position with\
+  \ arms fully extended.\n\nCues:\nThe deficit provides an extended range of motion;\
+  \ maintain complete core stiffness and only descend as deep as shoulder mobility\
+  \ safely allows."
+search_terms:
+  - Deficit Push ups
+  - Deep Push Ups
+  - Elevated Hand Push Ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen

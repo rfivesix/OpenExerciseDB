@@ -1,10 +1,24 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1471'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kroc Rows
-description: Kurzhantelrudern mit lockererer Technik, aber höherem Gewicht.
+name: Kroc Rows (Schweres Kurzhantelrudern)
+description: |-
+  Ausgangsposition:
+  Stütze dich mit einer Hand und dem gleichseitigen Knie auf einer Flachbank oder mit einer Hand an einem Kurzhantelständer ab. Der Rücken ist gerade, der Rumpf angespannt. Greife eine schwere Kurzhantel mit der freien Hand im neutralen Griff, Arm vollständig nach unten hängend.
+
+  Ausführung:
+  1. Ziehe die schwere Kurzhantel explosiv nach oben in Richtung Hüfte, wobei ein kontrollierter, minimaler Einsatz von Körperschwung erlaubt ist.
+  2. Ziehe den Ellenbogen weit nach hinten oben und kontrahiere den oberen Rücken und Latissimus kraftvoll.
+  3. Senke das Gewicht kontrolliert wieder ab, bis der Arm voll gestreckt ist und der Schultergürtel gedehnt wird.
+
+  Hinweise:
+  Kroc Rows wurden von Matt Kroc entwickelt und kombinieren sehr hohe Gewichte mit hohen Wiederholungszahlen (oft 20+ Wiederholungen), um maximale Rückendicke und Griffkraft aufzubauen.
+search_terms:
+  - Kroc Rows
+  - Kroc Row
+  - Schweres Kurzhantelrudern
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -1,19 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1772'
 language: en
 status: ai_reviewed
 name: Reverse Crunch
-description: |-
-  Lay down
-  Place your hands near your butt (often slightly in front or under or both)
-  Raise your legs, but about 70% of the way you should be able to also raise your pelvis
-  (optional/variable) Hold 1/2 seconds at the top
-  Go back to starting position
+description: "Starting Position:\nLie flat on your back on a mat with your arms at\
+  \ your sides, palms pressing into the floor for support. Raise your legs with your\
+  \ hips and knees bent at approximately 90 degrees.\n\nExecution:\n1. Contract your\
+  \ abdominal muscles and curl your knees toward your chest.\n2. At the peak of the\
+  \ movement, actively curl your pelvis and lower back a few inches off the mat.\n\
+  3. Hold the contraction at the top for 1 to 2 seconds while breathing out.\n4. Slowly\
+  \ and under control, lower your pelvis back down until your thighs return to vertical,\
+  \ keeping abdominal tension engaged.\n\nCues:\nAvoid kicking or using momentum with\
+  \ your legs; the movement must be driven purely by curling your spine with your\
+  \ abdominals."
+search_terms:
+  - Reverse Crunch
+  - Reverse Ab Crunches
+  - Pelvic Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh

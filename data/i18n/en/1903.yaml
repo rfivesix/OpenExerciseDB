@@ -5,12 +5,13 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1903'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Walking Lunges
-description: |-
-  Starting Position: Stand with feet hip-width apart and hands either on your hips or holding dumbbells at your sides.
-  The Stride: Take a wide step forward with your right leg.
-  The Descent: Lower your hips until both knees are bent at approximately 90-degree angles.
-  The Transition: Drive through your front heel to stand up, bringing your back foot forward to step directly into the next lunge.
+description: "Starting Position: Stand with feet hip-width apart and hands either\
+  \ on your hips or holding dumbbells at your sides.\nThe Stride: Take a wide step\
+  \ forward with your right leg.\nThe Descent: Lower your hips until both knees are\
+  \ bent at approximately 90-degree angles.\nThe Transition: Drive through your front\
+  \ heel to stand up, bringing your back foot forward to step directly into the next\
+  \ lunge."
 upstream:
   license: CC-BY-SA-4.0

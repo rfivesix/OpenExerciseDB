@@ -1,11 +1,24 @@
 exercise_id: '2536'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Bankdrücken isometrisch
+name: Isometrisches Bankdrücken
 description: |-
-  Ein isometrisches Halten beim Bankdrücken ist eine statische Kraftübung, bei der du eine Langhantel oder Kurzhanteln für eine festgelegte Zeit ohne Bewegung an der Brust, in der Mitte der Druckbewegung oder in der Endposition hältst.
+  Ausgangsposition:
+  Lege dich rücklings auf eine Flachbank unter eine Langhantel. Platziere die Augen direkt unter der Hantelstange. Ziehe die Schulterblätter zusammen, stelle die Füße flach auf den Boden und greife die Hantel etwas weiter als schulterbreit im Obergriff. Hebe die Hantel aus der Ablage und bringe sie stabil über die Brust.
+
+  Ausführung:
+  1. Senke die Hantel kontrolliert bis zum gewünschten Punkt der Bewegung ab (z. B. wenige Zentimeter über der Brust oder am persönlichen Sticking Point). Alternativ drückst du die Stange von unten gegen fest eingestellte Sicherheitsablagen (Pins) im Rack.
+  2. Halte die Hantelstange an dieser Position völlig bewegungslos für die vorgegebene Zeitspanne und spanne Brust, vordere Schultern und Trizeps maximal an.
+  3. Drücke das Gewicht nach Ablauf der Haltezeit kraftvoll nach oben in die Ausgangsposition aus (bzw. setze es sicher auf den Ablagen ab).
+
+  Hinweise:
+  Halte die Körperspannung und die Fußposition während des gesamten Haltens aufrecht. Vermeide es, die Hantel auf dem Brustkorb abzulegen oder einsinken zu lassen.
+search_terms:
+- Bankdrücken isometrisch
+- Isometrisches Halten beim Bankdrücken
+- Isometric Bench Press
+- Bankdrücken Pause
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

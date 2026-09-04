@@ -1,11 +1,24 @@
 exercise_id: '2532'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Planche Lean Hold
+name: Planche-Lean (Halten)
 description: |-
-  Ein statischer Calisthenics-Halt mit gestreckten Armen, bei dem du eine Plank-Position einnimmst und die Schultern mit proträhierten Schulterblättern und einem Hollow Body so weit wie möglich über die Handgelenke nach vorn lehnst.
+  Ausgangsposition:
+  Begib dich in eine hohe Liegestützposition (Liegestützstütz) auf den Boden. Drehe die Hände leicht nach außen, um die Handgelenke zu entlasten. Die Arme sind vollständig durchgestreckt.
+
+  Ausführung:
+  1. Drücke deine Hände fest in den Boden, um die Schulterblätter maximal nach vorne außen zu schieben (Scapular Protraction / Runder oberer Rücken).
+  2. Spanne Bauch und Gesäß fest in einer Schiffchen-Position (Hollow Body) an.
+  3. Lehne deine Schultern langsam so weit wie möglich nach vorne über die Handgelenke hinaus, während deine Zehenspitzen am Boden bleiben.
+  4. Halte diese maximale Vorlage statisch für die angegebene Zeit, während die Arme komplett gestreckt bleiben.
+
+  Hinweise:
+  Knicke in den Ellbogen zu keinem Zeitpunkt ein; die Vorlage baut spezifische Kraft in den vorderen Schultern und der Bizepssehne für die spätere Planche auf.
+search_terms:
+- Planche Lean Hold
+- Planche Lean
+- Planche Vorlage
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege

@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1718'
 language: es
-status: upstream_unreviewed
-name: Remo alto desde polea
-description: Remo alto desde polea alta con apoyo con agarre unilat
+status: ai_reviewed
+name: Remo alto en polea alta
+description: |-
+  Posición inicial:
+  Ajusta la polea en posición alta y coloca un agarre individual. Colócate frente a la máquina, apoya la mano libre en el soporte para mayor estabilidad y sujeta el agarre con el brazo extendido.
+  
+  Ejecución:
+  1. Tira del cable en dirección descendente y hacia atrás, llevando el codo hacia el torso.
+  2. Contrae con fuerza los romboides, el trapecio medio y el deltoides posterior al final de la tracción.
+  3. Regresa lentamente con control extendiendo el brazo por completo.
+  
+  Consejos:
+  Mantén el torso estable sin rotar la columna para ayudar en la repetición.
+search_terms:
+  - Remo alto desde polea
+  - Remo alto desde polea alta con apoyo con agarre unilat
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

@@ -1,19 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2524'
 language: en
-status: upstream_unreviewed
-name: Straddle Stance Good Morning
+status: ai_reviewed
+name: Staggered-Stance Good Morning
 description: |-
-  Hold the barbell on your shoulders as if to squat.
-  Take a half-step forwards with one leg, placing your foot on the ground.
-  Lock the front leg, and either lock your back leg or allow it to bend very slightly.
-  Bend forwards under control to stretch the rear of your front leg, then return to your standing position.
+  Starting Position:
+  Rest a barbell across your upper back (trapezius) as if preparing to squat. Take a half-step forward with one leg into a staggered (kickstand) stance. Keep the front leg nearly straight and the rear knee slightly bent for balance.
 
-  Repeat as necessary for reps/time. You should also repeat for the other leg.
+  Execution:
+  1. Hinge forward at the hips while pushing your glutes backward, keeping your chest open and spine neutral.
+  2. Lower your torso until you feel a deep stretch in the hamstrings of your front working leg, stopping when your torso is roughly parallel to the floor.
+  3. Drive your hips forward and contract your glutes and hamstrings to return smoothly to the upright starting position.
+  4. Complete all repetitions on one leg, then switch feet and repeat.
+
+  Cues:
+  Keep the load predominantly on the front heel and hip; do not round your lumbar spine at any point during the hinge.
+search_terms:
+- Straddle Stance Good Morning
+- Staggered-Stance Good Morning
+- Kickstand Good Morning
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

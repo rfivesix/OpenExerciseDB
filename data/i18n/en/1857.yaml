@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1857'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Iliotibial band
-description: Slide on the Foam Roller over your iliotibial band. Is english terrible checker
+description: "Starting Position: Lie on your side with the foam roller positioned\
+  \ under the outer side of your bottom thigh, just below the hip joint. Support yourself\
+  \ on your forearm and place your top foot flat on the floor in front of you for\
+  \ stability and weight management.\nExecution: Slowly roll along the outer thigh\
+  \ from just below the hip down to just above the knee joint.\nTips: Never roll directly\
+  \ over the hip bone or the knee joint. Regulate the pressure by pressing into the\
+  \ supporting foot and arm."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

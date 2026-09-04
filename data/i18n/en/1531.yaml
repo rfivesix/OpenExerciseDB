@@ -1,14 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1531'
 language: en
-status: upstream_unreviewed
-name: Cable Curls
-description: Bicep Curls using cables. Can be seated or standing
+status: ai_reviewed
+name: Cable Biceps Curl
+description: 'Starting Position:
+
+  Attach a straight or EZ bar to the low pulley of a cable station. Stand upright
+  (or sit) facing the machine and grasp the bar with a shoulder-width supinated grip
+  (palms facing up). Pin your elbows to your sides.
+
+
+  Execution:
+
+  1. Keeping your upper arms completely still, curl the bar up towards your upper
+  chest by flexing at the elbows.
+
+  2. Squeeze your biceps hard at the top of the range of motion.
+
+  3. Lower the weight under control until your arms are almost fully extended, resisting
+  the cable tension.
+
+
+  Cues:
+
+  Cables deliver continuous mechanical tension on the biceps throughout both the concentric
+  and eccentric phases.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Brigade7938
   source_id: '2489'
+search_terms:
+- Cable Bicep Curl
+- Cable Curls
+- Low Pulley Cable Curl

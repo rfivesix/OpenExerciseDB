@@ -9,19 +9,20 @@ language: en
 status: ai_reviewed
 name: Biceps Curl Trifecta
 description: |-
-  This exercise is a mixture of three different curls: the Supinated Cross Body Curl, the Pronated Cross Body Curl and the No Money Curl. You
-  alternate between three curl variations that each accomplish different goals,
-  and you’ll keep the set going beyond the usual 8-12 rep range&nbsp;which gives
-  us that intensity.
+  Starting Position:
+  Stand upright with feet shoulder-width apart holding a dumbbell in each hand, arms extended down at your sides.
 
-  For the Supinated Cross Body
-  Curl, supinate the forearm with palms facing toward the ceiling and
-  forearms coming across the body. Lift the inner-facing weight of the dumbbell towards your shoulder.
-  For the Pronated Cross Body
-  Curl, pronate the forearm with palms facing toward the floor (pronated
-  grip or overhand grip) and forearms coming across the body.&nbsp;Lift the inner-facing weight of the dumbbell towards your shoulder.
-  For the No Money Curl, you’ll
-  curl the dumbbell as you outwardly rotate the shoulder.&nbsp;Lift the inner-facing weight of the dumbbell towards your outer side of the shoulder.
+  Execution:
+  This exercise combines three distinct curl variations into a single continuous sequence:
+  1. Supinated Cross Body Curl: Supinate your forearm with your palm facing the ceiling and curl the dumbbell across your torso toward the opposite shoulder.
+  2. Pronated Cross Body Curl: Pronate your forearm with your palm facing the floor (overhand grip) and curl across your body toward the opposite shoulder to target the brachialis and forearm flexors.
+  3. No Money Curl: Curl the dumbbells while simultaneously externally rotating your shoulders, driving the hands outward to maximize peak tension on the biceps.
+
+  Cues:
+  Cycle through all three variations smoothly to accumulate high-volume time under tension across all elbow flexors.
+search_terms:
+  - Trifecta Biceps Curl
+  - 3-Way Dumbbell Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

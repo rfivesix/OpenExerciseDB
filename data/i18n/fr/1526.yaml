@@ -1,19 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1526'
 language: fr
-status: upstream_unreviewed
-name: Machine de ski (ski erg)
-description: |-
-  Commencez debout sur la plateforme, les pieds écartés de la largeur des hanches.
-  Levez les bras au-dessus de la tête pour saisir les poignées, paumes tournées vers l'intérieur.
-  Relâchez légèrement les genoux, puis reculez les fesses comme si vous fermiez une porte derrière vous, tout en tirant les bras droit vers le bas le long de vos hanches jusqu'à ce que vos mains passent à côté de vos genoux.
-  Ensuite, ramenez vos bras au-dessus de la tête tout en poussant les hanches vers l'avant jusqu'à vous tenir debout, bras complètement tendus.
-  Répétez selon un nombre de répétitions, une durée ou une distance.
+status: ai_reviewed
+name: Ergomètre de ski (SkiErg)
+description: 'Commencez debout sur la plateforme, les pieds écartés de la largeur
+  des hanches.
+
+  Levez les bras au-dessus de la tête pour saisir les poignées, paumes tournées vers
+  l''intérieur.
+
+  Relâchez légèrement les genoux, puis reculez les fesses comme si vous fermiez une
+  porte derrière vous, tout en tirant les bras droit vers le bas le long de vos hanches
+  jusqu''à ce que vos mains passent à côté de vos genoux.
+
+  Ensuite, ramenez vos bras au-dessus de la tête tout en poussant les hanches vers
+  l''avant jusqu''à vous tenir debout, bras complètement tendus.
+
+  Répétez selon un nombre de répétitions, une durée ou une distance.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4681'
+search_terms:
+- Machine de ski (ski erg)
+- SkiErg

@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1580'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo unilateral perpendicular en landmine
 description: |-
-  Usando un accesorio de landmine con la barra colocada a 90 grados hacia un lado, flexiona ligeramente las caderas y agarra la barra por la manga donde van los discos. Levanta la barra hasta la altura del pecho, con el brazo superior paralelo al suelo en el punto más alto del movimiento.
+  Posición inicial:
+  Coloca una barra en un accesorio de landmine de modo que quede en ángulo de 90 grados perpendicular a tu cuerpo. Colócate de pie junto al extremo donde van los discos, flexiona las caderas con la espalda recta y agarra la manga de la barra con una mano.
+
+  Ejecución:
+  Activa el abdomen y tira de la barra hacia la caja torácica o el lateral del pecho. Conduce el codo hacia atrás y arriba contrayendo la espalda. Aprieta el dorsal en el punto máximo de contracción y baja la barra de forma controlada hasta extender el brazo por completo.
+
+  Consejos:
+  - Mantén el torso firme y evita rotar la columna durante el tirón.
+  - Tira guiando el movimiento desde el codo para involucrar al máximo el dorsal.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

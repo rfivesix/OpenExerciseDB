@@ -1,19 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1953'
 language: en
-status: upstream_unreviewed
-name: Bent-knee Iron Cross
-description: |-
-  Bent-knee Iron Cross
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 5-10 reps each side
-  Type: dynamic
+status: ai_reviewed
+name: Bent-Knee Iron Cross
+description: 'Starting position:
+
+  Lie flat on your back on an exercise mat. Extend your arms out to your sides in a "T" position at shoulder height with palms facing down. Lift your legs and bend both hips and knees to 90 degrees, shins parallel to the floor.
+
+
+  Execution:
+
+  Keeping both shoulders pinned flat to the floor, slowly lower your stacked knees down to the right side until they hover just above the floor or gently touch down. Engage your obliques to pull your knees back to the vertical starting position, then smoothly lower them to the left side. Perform 5 to 10 dynamic repetitions per side.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Keep both shoulder blades firmly anchored to the floor throughout the rotation to mobilize the lumbar spine safely.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3104'
+search_terms:
+- Bent-knee Iron Cross
+- Iron Cross Bent Knees
+- Limber 11 Iron Cross
+- Supine Knee Drops

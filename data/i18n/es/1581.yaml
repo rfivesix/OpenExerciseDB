@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1581'
 language: es
-status: upstream_unreviewed
-name: Press de trapecio
+status: ai_reviewed
+name: Press escapular con mancuerna (Press de trapecio)
+search_terms:
+  - Press de trapecio
+  - Serratus punch con mancuerna
+  - Protracción escapular con mancuerna
 description: |-
-  Tumbado boca arriba con el brazo apuntando recto hacia arriba y el codo completamente extendido, usa únicamente el hombro para levantar el peso tan alto como te resulte cómodo y bájalo de nuevo hasta la posición de reposo.
+  Posición inicial:
+  Túmbate boca arriba en un banco plano sosteniendo una mancuerna con una mano. Extiende el brazo verticalmente hacia el techo directamente sobre tu hombro, con el codo completamente bloqueado o recto.
+
+  Ejecución:
+  Sin flexionar el codo, empuja el peso hacia el techo mediante la protracción de la escápula (separando el omóplato del banco). Mantén la contracción en el serrato anterior durante un instante y luego retrae lentamente la escápula para volver a apoyar el hombro en el banco.
+
+  Consejos:
+  - El movimiento debe originarse exclusivamente en la escápula; el codo no debe doblarse en ningún momento.
+  - Mantén el torso estable y la espalda bien apoyada en el banco durante todo el ejercicio.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

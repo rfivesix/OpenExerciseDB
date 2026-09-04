@@ -1,14 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1528'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Glute drive (machine à fessiers)
-description: |-
-  Allongez-vous sur le coussin dorsal et attachez-vous avec la ceinture. Placez vos pieds écartés de la largeur des épaules. Ils doivent être légèrement ouverts vers l'extérieur.
+description: Allongez-vous sur le coussin dorsal et attachez-vous avec la ceinture.
+  Placez vos pieds écartés de la largeur des épaules. Ils doivent être légèrement
+  ouverts vers l'extérieur.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

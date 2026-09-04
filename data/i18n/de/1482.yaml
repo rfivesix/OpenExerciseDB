@@ -5,24 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1482'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Cheat-Curl
 description: |-
-  Die Ausgangsposition ist stehend
-  mit den Füßen schulterbreit auseinander.
-  Die Hände nehmen einen Untergriff
-  bzw. supinierten Griff an den Kurzhanteln ein und halten sie mit den Händen
-  schulterbreit auseinander.
-  Halte die Ellbogen während der gesamten
-  Bewegung eng am Körper, nutze Schwung, um die Kurzhanteln zu curlen,
-  und spanne den Bizeps am oberen Ende der Bewegung an.
-  Senke sie langsam ab, um in die
-  Ausgangsposition zurückzukehren. Halte den Rumpf während der gesamten Übung fest.
+  Ausgangsposition:
+  Stehe aufrecht mit schulterbreitem Stand. Halte in jeder Hand eine schwere Kurzhantel mit gestreckten Armen im Untergriff (Handflächen nach vorne).
 
-  Das Mogeln
-  durch den konzentrischen Curl-Anteil dieser anspruchsvollen Übung gibt uns eine
-  große Gelegenheit, die Zeit unter Spannung zu erhöhen und beim Absenken mit
-  schwererem Gewicht eine exzentrische Überlastung zu erzeugen.
+  Ausführung:
+  1. Nutze einen leichten, kontrollierten Schwung aus Hüfte und Oberkörper, um den Totpunkt der Bewegung zu überwinden und die schweren Kurzhanteln nach oben zu curlen.
+  2. Spanne den Bizeps am obersten Punkt für einen Moment maximal an.
+  3. Senke die Hanteln betont langsam und streng kontrolliert über 3 bis 4 Sekunden ab (exzentrische Überlastung), ohne dabei mit dem Körper zu schwingen.
+
+  Hinweise:
+  Das kontrollierte „Mogeln“ (Cheat) dient ausschließlich dazu, die konzentrische Phase mit einem höheren Gewicht zu bewältigen, um in der negativen (exzentrischen) Phase einen maximalen Wachstumsreiz zu setzen.
+search_terms:
+  - Cheat Curls mit Kurzhanteln
+  - Cheat Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

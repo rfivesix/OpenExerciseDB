@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1843'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Butterfly Stretch
-description: |-
-  Sit in a prayer position with the soles of your feet gently pressed together.
-  Use your hands to slowly pull your feet inwards towards your groin. Hold for as long as required.
+description: "Starting Position: Sit upright on the floor and bring the soles of your\
+  \ feet together, letting your knees drop open to the sides.\nExecution: Grasp your\
+  \ feet or ankles with your hands and gently draw your heels toward your groin. Keeping\
+  \ your spine long, allow your knees to ease downward toward the floor.\nTips: Hold\
+  \ the stretch for 20–30 seconds while breathing steadily. Avoid aggressive bouncing."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

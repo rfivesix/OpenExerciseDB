@@ -1,30 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1747'
 language: en
-status: upstream_unreviewed
-name: Smith machine squat
-description: |-
-  Technique and Execution
-  The Smith machine squat is a variation of the traditional barbell squat that uses a guided, fixed-path barbell. Here's a detailed breakdown of the proper technique:
-  Starting Position
-  Foot Placement: Position feet slightly forward of the bar, about shoulder-width apart
-  Bar Position: Rest the bar on your upper trapezius/shoulders, similar to a traditional back squat
-  Stance: Feet can be slightly angled outward for natural hip rotation
-  Squat Movement
-  Unrack the bar by rotating it to release from the safety hooks
-  Slowly lower your body by bending knees and hips
-  Descend until thighs are parallel to the ground (or slightly below)
-  Pause briefly at the bottom of the movement
-  Drive through your heels to return to the starting position
-  Benefits and Considerations
-  Advantages
-  Reduced Balance Requirements: Fixed bar path makes it easier for beginners
-  Controlled Movement: Less risk of improper form compared to free weight squats
-  Isolation: Allows focused leg muscle development
+status: ai_reviewed
+name: Smith Machine Squat
+description: "Starting Position:\nStep under the Smith machine bar and rest it across\
+  \ your upper trapezius. Set your feet shoulder-width apart, positioned slightly\
+  \ in front of the bar's vertical plane to optimize knee mechanics and direct load\
+  \ to the quadriceps and glutes. Unrack the bar by rotating your wrists.\n\nExecution:\n\
+  1. Inhale and brace your core, then initiate the squat by bending at your hips and\
+  \ knees along the fixed track.\n2. Descend under strict control until your thighs\
+  \ are at least parallel to the floor.\n3. Drive firmly through your whole foot and\
+  \ heels to return to the starting position.\n4. Stop just short of locking your\
+  \ knees out at the top to maintain continuous tension.\n\nCues:\nKeep your chest\
+  \ proud and spine neutral; adjust foot placement forward if you wish to reduce forward\
+  \ knee travel and maximize glute/quad emphasis."
+search_terms:
+  - Smith Machine Squats
+  - Smith Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

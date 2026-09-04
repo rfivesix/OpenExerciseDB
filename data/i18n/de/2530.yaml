@@ -1,12 +1,24 @@
 exercise_id: '2530'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Russische Liegestütze
+name: Russische Liegestütze (Russian Push-Ups)
 description: |-
-  Russische Liegestütze
-  Beginne in einer normalen Liegestützposition, die Hände etwas weiter als schulterbreit auseinander. Senke die Brust zum Boden ab und verlagere dann den Körper nach vorn, während die Brust nah am Boden bleibt. Strecke die Arme, um in die Ausgangsposition zurückzukehren, und kehre die Bewegung dann fließend um. Halte den Rumpf angespannt und führe die Bewegung während der gesamten Übung kontrolliert aus.
+  Ausgangsposition:
+  Gehe in eine klassische Liegestützposition auf einer rutschfesten Matte. Die Hände stehen etwas weiter als schulterbreit, der gesamte Körper ist von Kopf bis Fuß angespannt.
+
+  Ausführung:
+  1. Senke deinen Oberkörper wie bei einem normalen Liegestütz ab, bis die Brust kurz vor dem Boden ist.
+  2. Verlagere dein Körpergewicht im tiefsten Punkt nach hinten, indem du die Unterarme und Ellbogen kontrolliert flach auf dem Boden ablegst.
+  3. Schiebe deinen Körper wieder nach vorne auf deine Handflächen, sodass die Ellbogen sich vom Boden lösen.
+  4. Drücke dich kraftvoll aus der Brust und dem Trizeps zurück nach oben in die Ausgangsposition.
+
+  Hinweise:
+  Halte die Bauch- und Gesäßmuskulatur während der gesamten horizontalen Verlagerung unter maximaler Spannung. Dies ist eine anspruchsvolle Calisthenics-Übung für Trizeps und Schultern.
+search_terms:
+- Russische Liegestütze
+- Russian Push-Ups
+- Russian Push Ups Calisthenics
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege

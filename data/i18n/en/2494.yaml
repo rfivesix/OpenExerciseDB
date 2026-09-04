@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2494'
 language: en
-status: upstream_unreviewed
-name: Band Terminal Knee extension
+status: ai_reviewed
+name: Band Terminal Knee Extension (TKE)
 description: |-
-  This is an end range strengthening exercise for the knee extensors. Start by looping a band around the back of one knee and anchoring the other end to a stable surface in front of you. Stand in a split stance with the banded knee bent and placed as the front leg. Straighten the knee to pull against the bands resistance and maintain a contraction in your quadriceps for up to 5 seconds before releasing.
+  Starting Position:
+  Anchor a resistance band to a sturdy post at knee height. Loop the other end behind the crease of one knee. Step back into a split stance facing the anchor, with the working banded leg forward and knee slightly bent.
+
+  Execution:
+  1. Drive your heel into the floor and straighten your knee backward against the elastic resistance into full extension.
+  2. Actively squeeze your quadriceps (especially the VMO) hard at lockout for 2 to 3 seconds.
+  3. Allow the knee to bend slightly forward under control against the band's pull.
+  4. Complete your reps, then switch to the other leg.
+
+  Cues:
+  Keep your hips square and torso upright; do not hyperextend violently, focus on a controlled quad squeeze.
+search_terms:
+- Band Terminal Knee extension
+- Terminal Knee Extension
+- Band TKE Quad Exercise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rehab Hero

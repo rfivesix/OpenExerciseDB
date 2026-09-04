@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2538'
 language: en
-status: upstream_unreviewed
-name: Lateral Raise Isometric
+status: ai_reviewed
+name: Isometric Cable Lateral Raise
 description: |-
-  An isometric lateral raise is a shoulder exercise where you hold your arms out to the sides at waist height for a set amount of time instead of moving up and down
+  Starting Position:
+  Stand upright beside or centered between low cable pulleys. Grasp the handle with a slight bend in your elbow. Brace your core and maintain a tall, stable posture with a very subtle forward torso lean.
+
+  Execution:
+  1. Raise your arm out to the side in the scapular plane until your elbow reaches approximately shoulder height (parallel to the floor).
+  2. Hold this abducted position completely motionless against the continuous cable resistance for the prescribed duration, maintaining intense contraction in the lateral deltoid.
+  3. Lower the arm slowly and with full control once the time expires.
+
+  Cues:
+  Do not shrug your shoulder toward your ear; keep your upper traps relaxed. Maintain the fixed, slight bend in your elbow throughout the entire isometric hold rather than letting the arm drop.
+search_terms:
+- Lateral Raise Isometric
+- Isometric Lateral Raise
+- Cable Lateral Raise Isometric Hold
+- Side Lateral Raise Isometric
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

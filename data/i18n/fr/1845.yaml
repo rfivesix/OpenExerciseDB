@@ -5,12 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1845'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Good morning jambes écartées assis
-description: |-
-  Asseyez-vous avec les jambes complètement tendues (genoux verrouillés), largement écartées en position d'écart facial.
-  Placez vos mains derrière la nuque.
-  Basculez le torse et la tête vers le sol.
+description: "Position de départ : Asseyez-vous au sol en grand écart facial (position\
+  \ pancake), jambes tendues et orteils vers le plafond. Placez les mains derrière\
+  \ la tête.\nExécution : En gardant le dos droit, basculez le buste vers l'avant\
+  \ à partir des hanches en direction du sol jusqu'à ressentir un étirement marqué\
+  \ dans les adducteurs et les ischio-jambiers.\nConseils : Redressez-vous en contrôlant\
+  \ le mouvement avec les fessiers. Évitez d'arrondir exagérément la colonne."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

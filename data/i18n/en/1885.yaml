@@ -5,27 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1885'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: YTWL Exercise
-description: |-
-  Purpose: Improves shoulder stability, posture, and scapular (shoulder blade) control. Often used in physical therapy and warm-ups.
-  Starting Position:
-  Stand with feet shoulder-width apart. Hinge forward at the hips (like a
-  deadlift) keeping your back flat, or lie face down on an incline bench.
-  Keep your thumbs pointing up throughout.
-  Y (Arms up):
-  Extend both arms straight forward and upward at a 135-degree angle from
-  your body, forming a "Y". Squeeze your shoulder blades together at the
-  top.
-  T (Arms out): Open your arms straight out to the sides, perpendicular to your body, forming a "T". Focus on pinching your shoulder blades.
-  W (Arms bent): Pull your elbows back, bending them to 90 degrees, and squeeze your shoulder blades to form a "W". Keep your wrists firm.
-  L (Arms rotated):
-  Start with elbows bent at 90 degrees and close to your body. Rotate
-  your forearms outward (external rotation) like a goalpost, forming an
-  "L" or a gate.
-  Key Focus:
-  Movements should be slow and controlled. Always lead with the thumbs
-  and think about moving the shoulder blades, not just the arms.
+description: "Purpose: Improves shoulder stability, posture, and scapular (shoulder\
+  \ blade) control. Often used in physical therapy and warm-ups.\nStarting Position:\n\
+  Stand with feet shoulder-width apart. Hinge forward at the hips (like a\ndeadlift)\
+  \ keeping your back flat, or lie face down on an incline bench.\nKeep your thumbs\
+  \ pointing up throughout.\nY (Arms up):\nExtend both arms straight forward and upward\
+  \ at a 135-degree angle from\nyour body, forming a \"Y\". Squeeze your shoulder\
+  \ blades together at the\ntop.\nT (Arms out): Open your arms straight out to the\
+  \ sides, perpendicular to your body, forming a \"T\". Focus on pinching your shoulder\
+  \ blades.\nW (Arms bent): Pull your elbows back, bending them to 90 degrees, and\
+  \ squeeze your shoulder blades to form a \"W\". Keep your wrists firm.\nL (Arms\
+  \ rotated):\nStart with elbows bent at 90 degrees and close to your body. Rotate\n\
+  your forearms outward (external rotation) like a goalpost, forming an\n\"L\" or\
+  \ a gate.\nKey Focus:\nMovements should be slow and controlled. Always lead with\
+  \ the thumbs\nand think about moving the shoulder blades, not just the arms."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

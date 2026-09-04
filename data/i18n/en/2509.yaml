@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2509'
 language: en
-status: upstream_unreviewed
-name: Side Plank (Core L1)
+status: ai_reviewed
+name: Side Plank
 description: |-
-  Vasco custom side plank - foundational lateral core stability. Targets obliques, QL, and hip abductors. Essential for spinal stability and rotational control.
+  Starting Position:
+  Lie on your side on an exercise mat with your legs straight and feet stacked or staggered for balance. Rest on your lower forearm with your elbow placed directly beneath your shoulder.
+
+  Execution:
+  1. Engage your core and lift your hips off the floor until your body forms a straight diagonal line from head to feet.
+  2. Keep your top hand on your hip or extend it upward toward the ceiling.
+  3. Hold this rigid isometric position for the prescribed duration while breathing steadily.
+  4. Lower your hips under control and repeat on the opposite side.
+
+  Cues:
+  Do not let your hips sag toward the floor or roll forward; actively push through your supporting forearm to keep your shoulder stable.
+search_terms:
+- Side Plank (Core L1)
+- Side Plank
+- Lateral Plank
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4988'

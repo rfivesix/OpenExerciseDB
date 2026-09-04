@@ -1,10 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1939'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Nackenkreisen kontrolliert (Neck CARs)
-description: Kontrollierte Gelenkrotationen. Langsame vollständige Kreise, drei in jede Richtung. Beweglichkeit der Halswirbelsäule.
+name: Kontrollierte Nackenrotationen (Neck CARs)
+description: 'Ausgangsposition:
+
+  Stehe oder sitze aufrecht mit stabiler Körperhaltung. Fixiere die Schultern aktiv nach hinten unten und spanne den Rumpf leicht an, um Mitbewegungen des Körpers zu verhindern.
+
+
+  Ausführung:
+
+  Senke das Kinn langsam zur Brust ab. Führe das Kinn entlang des Schlüsselbeins zur rechten Schulter, neige das rechte Ohr zur rechten Schulter und rolle den Kopf kontrolliert über die Dehnung nach hinten (ohne zu stauchen). Führe das linke Ohr zur linken Schulter, drehe das Kinn zur linken Schulter und rolle zurück zur Brustmitte. Führe 3 langsame Kreise in eine Richtung aus und wechsle dann die Drehrichtung.
+
+
+  Hinweise:
+
+  CARs (Controlled Articular Rotations) leben von maximaler Kontrolle und bewusster Muskelspannung; arbeite an deinen persönlichen schmerzfreien Bewegungsgrenzen und bewege ausschließlich den Hals, nicht die Schultern oder den Rumpf.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3089'
+search_terms:
+- Nackenkreisen kontrolliert (Neck CARs)
+- Neck CARs
+- Nackenkreisen kontrolliert
+- Halswirbelsäule Mobilisation

@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1854'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Calves foam roller
-description: Move your calves slowly over the foam roller
+description: "Starting Position: Sit on the floor and place the foam roller horizontally\
+  \ beneath your calves (between the Achilles tendon and the back of the knee). Support\
+  \ yourself with your hands behind you and lift your hips slightly off the ground.\n\
+  Execution: Slowly roll forward and backward from just above your ankles to just\
+  \ below your knees. Rotate your legs slightly inward and outward to target both\
+  \ the inner and outer calf muscles.\nTips: Pause on tender spots (trigger points)\
+  \ for 15–20 seconds while taking deep breaths."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

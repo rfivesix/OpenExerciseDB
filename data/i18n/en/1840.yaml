@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1840'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bent-Leg Hamstring Stretch
-description: |-
-  See this instructional video from Stretch Therapy: https://www.youtube.com/watch?v=CrF2iMnn09w .
+description: "Starting Position: Lie on your back or sit upright. Grasp the back of\
+  \ your thigh with both hands.\nExecution: Draw your thigh toward your chest while\
+  \ keeping the knee slightly bent. Extend your lower leg just enough to feel a comfortable\
+  \ stretch in the muscle belly of the hamstrings.\nTips: Hold for 20–30 seconds while\
+  \ breathing steadily, then switch sides. Keeping the knee slightly bent protects\
+  \ the sciatic nerve and focuses the stretch on the muscle tissue."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

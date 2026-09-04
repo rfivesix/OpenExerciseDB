@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1475'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Black Widow Knee Slides
 description: |-
-  In
-  this bottom-up rotation exercise movement, you’ll cross your knee over and
-  drive it into that opposite elbow. Start in high plank position (or tabletop
-  position) with hands directly beneath your shoulders. Lift the left knee toward
-  the right arm and slide it up the forearm to get more of that posterior pelvic
-  tilt and engagement of the abdominal muscles. Then do the opposite side,
-  bringing your right knee toward your left hand.
+  Starting Position:
+  Begin in a high plank position with your hands planted directly beneath your shoulders, fingers spread, and body forming a rigid straight line from head to heels.
+
+  Execution:
+  1. Drive one knee across and under your torso toward the opposite elbow.
+  2. Slide the knee upward along the forearm, curling the pelvis into a posterior pelvic tilt to strongly contract your obliques and rectus abdominis.
+  3. Return the leg under control to the starting plank position.
+  4. Repeat the motion on the opposite side, alternating fluidly between reps.
+
+  Cues:
+  Do not allow your lower back to sag or hips to rotate excessively; keep your core braced tightly throughout.
+search_terms:
+  - Black Widow Plank
+  - Diagonal Knee Slides
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

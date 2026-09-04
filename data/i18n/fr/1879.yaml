@@ -5,17 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1879'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Élévation en Y aux haltères sur banc incliné
-description: |-
-  Réglez un banc incliné à un angle de 45 degrés et asseyez-vous face au banc, la poitrine contre le dossier, un haltère dans chaque main, les paumes se faisant face.
-  Posez fermement les pieds au sol pour plus de stabilité et laissez vos bras pendre naturellement avec une légère flexion des coudes.
-  Engagez la sangle abdominale et gardez le dos droit tout au long du mouvement.
-  Levez les bras vers l'avant et vers l'extérieur pour former un Y, en gardant le mouvement contrôlé et les coudes légèrement fléchis.
-  Montez jusqu'à ce que vos bras soient à peu près parallèles au sol et alignés avec vos oreilles.
-  Marquez une brève pause en haut du mouvement pour solliciter pleinement les muscles des épaules, puis abaissez lentement les bras jusqu'à la position de départ.
-  Assurez-vous que le mouvement reste lent et contrôlé pendant la montée comme pendant la descente afin de maximiser le travail des deltoïdes et des muscles auxiliaires.
-  Répétez pour le nombre de répétitions souhaité, en conservant une bonne technique tout du long.
+description: "Réglez un banc incliné à un angle de 45 degrés et asseyez-vous face\
+  \ au banc, la poitrine contre le dossier, un haltère dans chaque main, les paumes\
+  \ se faisant face.\nPosez fermement les pieds au sol pour plus de stabilité et laissez\
+  \ vos bras pendre naturellement avec une légère flexion des coudes.\nEngagez la\
+  \ sangle abdominale et gardez le dos droit tout au long du mouvement.\nLevez les\
+  \ bras vers l'avant et vers l'extérieur pour former un Y, en gardant le mouvement\
+  \ contrôlé et les coudes légèrement fléchis.\nMontez jusqu'à ce que vos bras soient\
+  \ à peu près parallèles au sol et alignés avec vos oreilles.\nMarquez une brève\
+  \ pause en haut du mouvement pour solliciter pleinement les muscles des épaules,\
+  \ puis abaissez lentement les bras jusqu'à la position de départ.\nAssurez-vous\
+  \ que le mouvement reste lent et contrôlé pendant la montée comme pendant la descente\
+  \ afin de maximiser le travail des deltoïdes et des muscles auxiliaires.\nRépétez\
+  \ pour le nombre de répétitions souhaité, en conservant une bonne technique tout\
+  \ du long."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

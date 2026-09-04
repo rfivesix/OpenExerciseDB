@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2448'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Clamshell
 description: |-
-  Lie on your side with your hips and knees bent, keeping your knees stacked on top of each other. Keep your feet together at first, then keep your knees touching while lifting your top foot upward. Slowly lower the foot back down with control.
-  Move only through the hip and avoid rolling your pelvis backward. The movement should be small, controlled, and focused on hip rotation.
+  Starting Position:
+  Lie on your side on an exercise mat with your hips and knees bent to approximately 90 degrees, stacking your legs directly on top of each other. Support your head comfortably on your bottom arm.
+
+  Execution:
+  1. Keeping your knees pressed together, lift your top foot and ankle upward toward the ceiling by internally rotating your hip.
+  2. Pause for a second at the top of the range of motion, feeling the contraction in your hip rotators and glute muscles.
+  3. Lower the foot slowly and under control back to the starting position.
+  4. Complete your repetitions and switch to the other side.
+
+  Cues:
+  Keep your pelvis completely steady and perpendicular to the floor; do not allow your hips to roll forward or backward.
+search_terms:
+- Internal Rotation Clamshell
+- Inverted Clamshell
+- Side-Lying Hip Internal Rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk

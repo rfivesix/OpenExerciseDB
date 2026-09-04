@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2484'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Seitliches Kicken mit Brett (Atmung)
+name: Seitlicher Beinschlag mit Schwimmbrett (Atmung)
 description: |-
-  Stoße dich seitlich von der Wand ab (nicht flach auf dem Bauch); halte dabei einen Arm nach vorn ausgestreckt am Brett oder strecke ihn einfach aus und schlage durchgehend mit den Beinen. Halte den Kopf neutral und schaue zum Beckenboden; wenn du Luft brauchst, drehe den Kopf seitlich zum Atmen (ein Ohr bleibt im Wasser, das andere zeigt nach oben), dann drehe ihn zurück in die neutrale Position. Schwimme so eine Bahnlänge und wiederhole es dann auf der anderen Seite. Das vermittelt genau die Kopfposition und Drehung, die du nutzt, sobald die Atmung beim vollständigen Armzug hinzukommt.
+  Ausgangsposition:
+  Stoße dich in Seitenlage von der Beckenwand ab. Der untere Arm ist nach vorne ausgestreckt und hält das Schwimmbrett, der obere Arm liegt flach an der Hüfte an. Der Körper liegt exakt auf der Seite im Wasser.
+
+  Ausführung:
+  1. Führe kontinuierliche Beinschläge aus, um den Vortrieb und die Seitenlage stabil zu halten.
+  2. Halte den Kopf zunächst neutral mit Blick nach unten zum Beckenboden.
+  3. Wenn du einatmen möchtest, drehe den Kopf seitlich nach oben (das untere Ohr bleibt im Wasser, das obere zeigt zur Decke) und atme ein.
+  4. Drehe den Kopf ruhig zurück in die neutrale Blickposition und schwimme eine Bahn, bevor du die Seite wechselst.
+
+  Hinweise:
+  Vermeide es, den Kopf anzuheben; die Drehbewegung erfolgt rein um die Längsachse.
+search_terms:
+- Seitliches Kicken mit Brett (Atmung)
+- Side-Kick Breathing
+- Seitenlage Beinschlag Brett
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

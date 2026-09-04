@@ -1,33 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1690'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Écarté à la poulie pour le haut des pectoraux
 description: |-
   Exécution
-
-
+  
   Position de départ :
-
+  
   Bras le long du corps et légèrement en arrière, coudes légèrement fléchis.
   Ressentez un léger étirement dans les pectoraux.
-
-
-
+  
   Mouvement :
-
+  
   Amenez vos mains vers le haut et l'une vers l'autre devant le haut de votre poitrine, à peu près au niveau du menton et de la clavicule.
   Utilisez un mouvement fluide et contrôlé (évitez les à-coups).
   Contractez vos pectoraux en haut pendant 1 à 2 secondes.
-
-
-
+  
   Retour :
-
+  
   Laissez lentement vos bras redescendre et s'écarter sur les côtés, en gardant le contrôle et la tension.
 upstream:
   license: CC-BY-SA-4.0

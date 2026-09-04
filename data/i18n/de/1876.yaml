@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1876'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wadendehnung mit Abstützen
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Stelle dich etwa einen Schritt vor eine Wand und stütze\
+  \ dich mit beiden Händen auf Schulterhöhe an der Wand ab.\nAusführung: Setze einen\
+  \ Fuß weit nach hinten und drücke die hintere Ferse fest auf den Boden, während\
+  \ das hintere Bein vollständig gestreckt bleibt. Beuge das vordere Knie und schiebe\
+  \ die Hüfte sanft nach vorne, bis eine deutliche Dehnung in der hinteren Wade spürbar\
+  \ ist.\nHinweise: Die Fußspitzen beider Füße zeigen gerade nach vorne. Halte die\
+  \ Dehnung für 20–30 Sekunden und wechsle dann das Bein."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

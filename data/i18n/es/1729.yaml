@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1729'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotación externa de hombro (polea)
 description: |-
   Mantén el codo fijo a tu costado y rota el antebrazo hacia afuera de forma suave.

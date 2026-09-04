@@ -1,17 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2527'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Front Split Stretch
 description: |-
-  Start kneeling.
-  Extend one leg out forwards, fully straightened. Follow with your hips so your back leg begins to unfold.
-  Carefully lower yourself into the stretch. Do not go beyond your limit.
-  Hold for the required time.
+  Starting Position:
+  Begin in a half-kneeling position on an exercise mat. Place your hands on yoga blocks or the floor on both sides of your hips for balance and weight support.
+
+  Execution:
+  1. Slowly slide your front heel forward while extending your rear leg and hip straight behind you.
+  2. Lower your pelvis toward the floor under control, keeping your hips square to the front.
+  3. Stop at the point of deep, manageable muscular tension in your hamstrings and hip flexors.
+  4. Hold this stretch statically for the designated time (20 to 30 seconds) while maintaining calm, deep diaphragmatic breaths.
+  5. Carefully press into your hands to ease yourself out of the split, then repeat on the other side.
+
+  Cues:
+  Never bounce or force yourself beyond your current range of motion; support your body weight with your hands or place a block beneath your front thigh.
+search_terms:
+- Front Split Stretch
+- Splits Stretch
+- Hamstring and Hip Flexor Split
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

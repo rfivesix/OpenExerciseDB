@@ -5,18 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1486'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Remo alto en polea alternado
 description: |-
-  Empieza
-  colocando el accesorio en una posición alta de la estación de poleas y da un paso atrás de aproximadamente 1 m respecto al accesorio. Agarra
-  el asa de la polea con la mano izquierda a la altura de la cabeza, con el codo ligeramente flexionado. Da un paso atrás con el pie izquierdo.
-  Tira
-  de la articulación del codo hacia el torso girando ligeramente y realiza un
-  remo a un brazo. Activa los dorsales mientras giras.
-  Vuelve
-  a la posición inicial con la polea y el pie izquierdo y agarra el asa de la polea con la
-  mano derecha. Repite este movimiento en el lado contrario con el pie derecho dado un paso atrás.
+  Posición inicial:
+  Coloca un agarre individual en una posición alta de la polea y da un paso atrás de aproximadamente un metro. Sujeta el asa con una mano a la altura de la cabeza con el codo ligeramente flexionado y retrasa el pie de ese mismo lado en posición escalonada.
+
+  Ejecución:
+  1. Tira del codo hacia el torso rotando ligeramente el cuerpo para activar intensamente el dorsal ancho.
+  2. Contrae la musculatura de la espalda al final del movimiento durante un segundo.
+  3. Regresa con control a la posición de partida, cambia de mano y de pie de apoyo, y repite con el lado opuesto.
+
+  Consejos:
+  Alternar los brazos de forma individual potencia el control del core antirrotacional y mejora el equilibrio entre ambos dorsales.
+search_terms:
+  - Remo alto alternado con cable
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

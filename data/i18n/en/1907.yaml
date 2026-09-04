@@ -1,14 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1907'
 language: en
-status: upstream_unreviewed
-name: Unilateral Lunges
-description: No stops during movement, hands on the hips.
+status: ai_reviewed
+name: Unilateral Lunges (Split Squats)
+description: 'Starting position:
+
+  Assume a staggered split stance with your front foot flat on the floor and your rear foot balanced on the ball of the foot. Place your hands on your hips and hold your torso upright.
+
+
+  Execution:
+
+  Lower your hips smoothly by bending both knees until your back knee hovers just above the floor and both knees form roughly 90-degree angles. Drive through the heel of the front foot to rise back up smoothly without pausing at the top. Perform all repetitions consecutively on one leg before switching sides.
+
+
+  Tips:
+
+  Maintain an upright posture and braced core throughout. Ensure your front knee tracks directly in line with your toes without collapsing inward.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3054'
+search_terms:
+- Unilateral Lunges
+- Static Lunges
+- Bodyweight Split Squat

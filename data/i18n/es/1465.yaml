@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: es
-status: upstream_unreviewed
-name: Curl Araña
+status: ai_reviewed
+name: Curl araña con mancuernas
 description: |-
-  Comience colocando la barra en la parte del banco en la que normalmente se sentaría. Debe asegurarse de alinear la barra correctamente para que no se caiga y esté equilibrada.
-  Muévase a la parte delantera del banco, la parte donde generalmente se encuentran los brazos, y colóquese para recostarse en un ángulo de 45 grados con el estómago y el torso presionados contra la parte delantera del banco.
-  Los pies, y especialmente los dedos de los pies, deben estar bien colocados en el piso. Luego coloque los brazos superiores sobre la almohadilla que se encuentra en la parte interior del banco. La almohadilla superior debe estar ajustada en las axilas.
-  Use sus brazos para agarrar la barra con las palmas hacia arriba, con un poco de ancho de hombro o un poco más cerca. Su agarre para este ejercicio será importante. Sosteniendo las manos juntas, apuntará a la cabeza externa del bíceps, mientras que cuanto más separadas estén las manos, apuntará a la cabeza interna. Puede experimentar haciendo un conjunto de rizos con un agarre más cercano y otro conjunto con un agarre más ancho para asegurarse de golpear ambas cabezas del bíceps.
-  Poco a poco comience a levantar la barra hacia arriba y exhale. Asegúrese de mantener la posición contratada por un segundo y luego apriete los bíceps. Al hacer esto, desea mantener la parte superior de los brazos estacionaria y rizar el peso lo más alto posible.
-  Vuelva a colocar la barra lentamente en la posición inicial y asegúrese de respirar.
-  Haga una breve pausa antes de repetir la cantidad recomendada de repeticiones para su set.
+  Posición inicial:
+  Ajusta un banco inclinable a unos 45 grados. Colócate boca abajo apoyando el pecho firmemente contra el respaldo acolchado, con la cabeza sobresaliendo del borde superior y las puntas de los pies apoyadas en el suelo para mayor estabilidad. Sujeta una mancuerna en cada mano dejando colgar los brazos verticalmente con las palmas hacia delante (agarre supino).
+
+  Ejecución:
+  1. Manteniendo los brazos perpendiculares al suelo y los codos fijos, flexiona los codos para elevar las mancuernas hacia los hombros.
+  2. Aprieta fuertemente los bíceps en el punto de máxima contracción durante 1 o 2 segundos.
+  3. Desciende las mancuernas de forma lenta y controlada (en 3-4 segundos) hasta la posición inicial de completa extensión.
+
+  Consejos:
+  El soporte del banco evita cualquier tipo de balanceo o impulso con el cuerpo, aislando el trabajo en los bíceps.
+search_terms:
+  - Curl Araña
+  - Spider Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

@@ -1,14 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1935'
 language: en
-status: upstream_unreviewed
-name: Belt Squat
-description: |-
-  Belt Squat: a squat variation done with a belt attached to a loading machine or platform so the weight is supported at the hips instead of on the spine. It mainly trains the quads and glutes, with much less lower-back fatigue than a barbell squat. Use a full range of motion, keep the torso upright, and drive through the mid-foot.
+status: ai_reviewed
+name: Belt Squat Machine
+description: 'Starting position:
+
+  Stand on the foot platforms of the belt squat machine and fasten the dipping belt securely around your hips. Attach the belt chain to the machine''s loading arm, position your feet shoulder-width apart, and hold the balance handles lightly.
+
+
+  Execution:
+
+  Release the safety lever and descend into a deep squat by hinging your hips and bending your knees until your thighs are parallel to the platform or lower. Maintain an upright torso. Drive through your mid-foot and heels to return to standing, contracting your quads and glutes firmly at the top.
+
+
+  Tips:
+
+  Because the load is attached directly to the hips, the belt squat completely spares the spine and shoulders from axial compression while delivering heavy leg overload.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3084'
+search_terms:
+- Belt Squat
+- Belt Squat Machine
+- Machine Belt Squat
+- Hip Belt Squat

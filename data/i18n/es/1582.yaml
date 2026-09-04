@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1582'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotación interna tumbado de lado
 description: |-
-  Tumbado de lado y usando el brazo más cercano al banco, mantén una flexión de 90 grados en el codo y deja que el peso caiga hacia el suelo por delante del banco, tan bajo como te resulte cómodo. Sube el peso usando únicamente la rotación del hombro hacia el hombro contrario.
+  Posición inicial:
+  Túmbate de lado sobre un banco plano. Utiliza el brazo inferior (el más cercano al banco). Mantén el codo flexionado a 90 grados y apoya el brazo de forma estable sosteniendo una mancuerna ligera.
+
+  Ejecución:
+  Deja que el peso descienda de forma controlada hacia el suelo por el borde del banco, tanto como tu movilidad permita sin molestias. Desde esa posición, gira el antebrazo hacia arriba rotando internamente el hombro hacia tu abdomen y hombro contrario.
+
+  Consejos:
+  - Utiliza un peso moderado o ligero para asegurar un estímulo limpio y seguro en el manguito rotador.
+  - Mantén el ángulo de 90 grados en el codo durante todo el recorrido.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

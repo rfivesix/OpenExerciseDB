@@ -1,10 +1,22 @@
 exercise_id: '1777'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Defizit-Liegestütze
-description: Führe Liegestütze auf Blöcken oder Griffen aus, sodass du dich beim Absenken tiefer als deine Hände absenken kannst.
+description: "Ausgangsposition:\nPlatziere zwei Hantelscheiben, Yoga-Blöcke oder Liegestützgriffe\
+  \ schulterbreit auf dem Boden. Stütze deine Hände darauf ab und begib dich in eine\
+  \ Liegestützposition mit gestreckten Beinen und fest angespanntem Rumpf.\n\nAusführung:\n\
+  1. Senke deinen Körper langsam und kontrolliert ab, indem du die Ellenbogen im 45-Grad-Winkel\
+  \ nach hinten-außen beugst.\n2. Senke deine Brust tiefer als das Niveau deiner Hände\
+  \ ab (in das Defizit), bis du eine intensive Dehnung in der Brustmuskulatur spürst.\n\
+  3. Drücke dich kraftvoll über die Handflächen wieder nach oben, bis deine Arme vollständig\
+  \ gestreckt sind.\n\nHinweise:\nDie erhöhte Position der Hände vergrößert den Bewegungsumfang\
+  \ (ROM) deutlich. Gehe nur so tief, wie es schmerzfrei für die vordere Schulterkapsel\
+  \ möglich ist."
+search_terms:
+  - Deficit Push ups
+  - Defizit-Liegestütz
+  - Deep Push-Ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rottekongen

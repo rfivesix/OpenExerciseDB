@@ -1,19 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2525'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Couch Stretch
 description: |-
-  Stand facing away from a bench, couch or similar-height object.
-  Extend one leg backwards, resting your foot "laces-down" on the edge of the bench.
-  Lower yourself until your rear knee is on the floor and you are in a lunge position, with your torso hanging forwards slightly.
-  Brace your core, tense your rear glute, and straighten up your torso to vertical, under control. Relax and repeat.
+  Starting Position:
+  Kneel on an exercise mat facing away from a wall, bench, or couch. Place your rear knee close to the base of the wall/bench, resting your shin vertically and foot laces-down against the support. Step your other foot forward into a 90-degree lunge position.
 
-  Repeat for the other leg, too.
+  Execution:
+  1. Brace your core and actively squeeze the glute of your rear leg into a posterior pelvic tilt.
+  2. Slowly raise your torso up to vertical until you feel a profound stretch through the hip flexors and quadriceps of your back leg.
+  3. Hold this upright stretch for the prescribed time while breathing deeply and steadily.
+  4. Carefully ease out of the stretch and switch legs.
+
+  Cues:
+  Do not hyperextend your lumbar spine to get upright; keep your ribs down and glutes clenched to target the hip flexor accurately.
+search_terms:
+- Couch Stretch
+- Wall Hip Flexor Stretch
+- Quad and Hip Flexor Stretch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

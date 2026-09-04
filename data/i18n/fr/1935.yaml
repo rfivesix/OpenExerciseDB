@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1935'
 language: fr
-status: upstream_unreviewed
-name: Squat à la ceinture
-description: |-
-  Squat à la ceinture : une variante du squat réalisée avec une ceinture fixée à une machine à charge ou à une plateforme, de sorte que le poids soit supporté au niveau des hanches plutôt que sur la colonne vertébrale. Il sollicite principalement les quadriceps et les fessiers, avec beaucoup moins de fatigue pour le bas du dos qu'un squat à la barre. Utilisez une amplitude de mouvement complète, gardez le tronc droit et poussez à travers le milieu du pied.
+status: ai_reviewed
+name: Squat à la machine avec ceinture (Belt Squat)
+description: 'Position de départ :
+
+  Montez sur la plateforme de la machine de belt squat et fixez la ceinture de lest autour des hanches. Raccordez la chaîne au bras de charge, écartez les pieds à la largeur des épaules et tenez légèrement les poignées d''équilibre.
+
+
+  Exécution :
+
+  Déverrouillez la sécurité et descendez en squat profond en fléchissant les genoux et les hanches jusqu''à ce que les cuisses soient parallèles au sol. Poussez fermement à travers les talons et le milieu du pied pour remonter en position debout avec le buste droit.
+
+
+  Conseils :
+
+  La charge étant appliquée sur les hanches, la colonne vertébrale est totalement déchargée de toute pression axiale.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4812'
+search_terms:
+- Squat à la ceinture
+- Squat à la machine avec ceinture
+- Belt Squat Machine

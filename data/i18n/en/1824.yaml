@@ -1,21 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1824'
 language: en
 status: ai_reviewed
 name: Dumbbell Tate Press
-description: |-
-  Set Up: Lie flat with a dumbbell in each hand. Extend your arms straight up over your chest as if you were at the top of a dumbbell bench press
-  Starting Position: Position the dumbbells so they are touching or very close together with a pronated grip (palms facing your feet and thumbs facing each other)
-  Lowering: Without moving your upper arms or shoulders, bend your elbows and flare them outward to the sides. Lower the inner ends of the dumbbells toward the center of your chest
-  Touch and Pause: Gently touch the dumbbells to your chest. Do not rest the weight on your body; maintain constant tension in your triceps
-  Press: Forcefully extend your elbows to return the dumbbells to the starting position. Focus on "pushing your pinkies toward the sky" to maximize triceps engagement
-
-  https://www.youtube.com/watch?v=IgSjoXbpy1M&t=2
+description: "Starting Position:\nLie flat on your back on a flat exercise bench holding\
+  \ a pair of dumbbells. Extend your arms directly over your chest as in the lockout\
+  \ of a bench press. Rotate your hands into a pronated grip with palms facing toward\
+  \ your feet and thumbs facing each other, keeping the inner heads of the dumbbells\
+  \ touching or close together.\n\nExecution:\n1. Keeping your upper arms fixed and\
+  \ elbows flaring outward to the sides, bend your elbows to lower the inner dumbbell\
+  \ heads toward the center of your chest.\n2. Touch the dumbbells lightly against\
+  \ your sternum without resting the weight on your body.\n3. Forcefully extend your\
+  \ elbows to press the dumbbells back up to the starting position, focusing on \"\
+  pushing your pinkies toward the ceiling\" for peak triceps recruitment.\n4. Squeeze\
+  \ your triceps firmly at lockout before beginning the next repetition.\n\nCues:\n\
+  Keep the movement isolated to elbow extension; do not let your shoulders or upper\
+  \ arms swing during the press."
+search_terms:
+  - Dumbbell Tate Press
+  - Tate Press
+  - Tricep Tate Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

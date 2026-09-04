@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2448'
 language: de
-status: upstream_unreviewed
-name: Reverse Clamshell
+status: ai_reviewed
+name: Reverse Clamshell (Umgekehrte Muschel)
 description: |-
-  Lege dich auf die Seite, Hüfte und Knie gebeugt, wobei die Knie übereinander liegen. Halte die Füße zunächst zusammen, lass dann die Knie aneinander, während du den oberen Fuß nach oben hebst. Senke den Fuß langsam und kontrolliert wieder ab.
-  Bewege dich nur aus der Hüfte und vermeide es, das Becken nach hinten zu rollen. Die Bewegung sollte klein, kontrolliert und auf die Hüftrotation konzentriert sein.
+  Ausgangsposition:
+  Lege dich in Seitlage auf eine Trainingsmatte. Beuge Hüfte und Knie in einen Winkel von etwa 90 Grad und lagere die Beine übereinander. Stütze deinen Kopf entspannt mit dem unteren Arm ab.
+
+  Ausführung:
+  1. Halte die Knie fest aneinander gepresst und hebe nur den oberen Fuß bzw. Knöchel langsam und kontrolliert nach oben zur Decke (Hüftinnenrotation).
+  2. Pausiere am obersten Punkt für einen kurzen Moment und spüre die Kontraktion in den tiefen Hüftrotatoren und Gesäßmuskeln.
+  3. Senke den Fuß langsam wieder ab, bis er den unteren Fuß leicht berührt.
+  4. Absolviere die Wiederholungszahl und wechsle die Seite.
+
+  Hinweise:
+  Das Becken bleibt während der gesamten Übung stabil senkrecht zum Boden; kippe mit den Hüftknochen nicht nach vorne oder hinten weg.
+search_terms:
+- Reverse Clamshell
+- Umgekehrte Muschel
+- Hüft-Innenrotation Liegen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

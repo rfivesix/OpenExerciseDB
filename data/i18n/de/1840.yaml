@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1840'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Beinbeuger-Dehnung mit angewinkeltem Bein
-description: 'Sieh dir dieses Anleitungsvideo von Stretch Therapy an: https://www.youtube.com/watch?v=CrF2iMnn09w .'
+description: "Ausgangsposition: Lege dich auf den Rücken oder setze dich aufrecht\
+  \ hin. Umfasse die Rückseite eines Oberschenkels mit beiden Händen.\nAusführung:\
+  \ Ziehe den Oberschenkel zum Oberkörper heran, während das Knie leicht angewinkelt\
+  \ bleibt. Strecke den Unterschenkel nur so weit, bis eine angenehme Dehnung im Muskelbauch\
+  \ der Oberschenkelrückseite (Beinbeuger) spürbar ist.\nHinweise: Halte die Position\
+  \ für 20–30 Sekunden bei ruhiger Atmung und wechsle dann die Seite. Das gebeugte\
+  \ Knie schont den Ischiasnerv und fokussiert die Dehnung auf die Muskulatur."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

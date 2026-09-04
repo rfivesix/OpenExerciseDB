@@ -1,18 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1810'
 language: en
-status: upstream_unreviewed
-name: Sphinx
-description: |-
-  Lie on your stomach flat, legs extended and the backs of your feet on
-  the ground. Bring your forearms under your shoulders, elbows directly
-  underneath. Then press your hands into the floor to lift your chest.
-  Draw your shoulder blades together, open your collarbones, and direct
-  your gaze forward, while keeping the lower back relaxed.
+status: ai_reviewed
+name: Sphinx Pose
+description: "Starting Position:\nLie flat on your stomach on an exercise mat with\
+  \ your legs extended hip-width apart and the tops of your feet flat on the floor.\
+  \ Place your forearms on the mat parallel to each other, with your elbows aligned\
+  \ directly beneath your shoulders and palms facing down.\n\nExecution:\n1. Press\
+  \ your forearms and palms gently into the floor to lift your chest and head off\
+  \ the mat into a gentle backbend.\n2. Draw your shoulder blades together and down\
+  \ your back, broadening your collarbones and keeping your gaze soft and forward.\n\
+  3. Lightly anchor your pubic bone into the mat and engage your glutes slightly,\
+  \ keeping your lumbar spine relaxed and long.\n4. Hold this position for several\
+  \ slow, deep breaths before slowly lowering back down.\n\nCues:\nFocus on opening\
+  \ through your thoracic spine and chest rather than collapsing into your lower back."
+search_terms:
+  - Sphinx
+  - Sphinx Pose
+  - Yoga Sphinx
 upstream:
   license: CC-BY-SA-4.0
   license_author: Joculari

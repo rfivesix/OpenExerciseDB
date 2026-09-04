@@ -1,16 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2495'
 language: en
-status: upstream_unreviewed
-name: Machine Leg Flexion
+status: ai_reviewed
+name: Seated Leg Curl Machine
 description: |-
-  Adjust the back seat or pad so your knees align with the side pivot axis.Place the lower roller pad against your lower calves, just above the back of your ankles.Lower the upper thigh restraint pad so your legs stay firmly on the seat.Pick a light weight on the stack with the pin.
+  Starting Position:
+  Sit in the seated leg curl machine with your back flat against the backrest. Adjust the back pad so your knees align with the machine's pivot axis. Position the lower roller pad against the back of your lower calves, just above your heels. Lower the thigh pad firmly across your quads to secure your legs.
+
+  Execution:
+  1. Grasp the machine handles for stability. Flex your knees to pull the roller pad down and back beneath the seat.
+  2. Squeeze your hamstrings forcefully at peak flexion, holding for 1 second.
+  3. Slowly extend your legs back upward under complete control, resisting the weight stack until your legs are nearly straight.
+
+  Cues:
+  Keep your toes pointed slightly upward (dorsiflexed) or neutral; do not lift your hips off the seat during the movement.
 search_terms:
-  - Setead leg curl
+- Setead leg curl
+- Machine Leg Flexion
+- Seated Leg Curl
+- Machine Hamstring Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me

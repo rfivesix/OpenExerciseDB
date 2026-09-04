@@ -1,11 +1,24 @@
 exercise_id: '2538'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Seitheben isometrisch
+name: Isometrisches Seitheben am Kabelzug
 description: |-
-  Beim isometrischen Seitheben hältst du die Arme für eine festgelegte Zeit seitlich auf Taillenhöhe, statt sie auf und ab zu bewegen.
+  Ausgangsposition:
+  Stelle dich seitlich oder mittig an eine Kabelzugstation mit den Umlenkrollen auf tiefster Stufe. Greife den Griff mit leicht gebeugtem Ellbogen und nimm einen aufrechten, stabilen Stand mit leicht nach vorn geneigtem Oberkörper ein. Spanne deinen Rumpf fest an.
+
+  Ausführung:
+  1. Hebe den Arm seitlich in der Ebene des Schulterblatts (Scaption) bis auf etwa Schulterhöhe (Arm parallel zum Boden) an.
+  2. Halte den Arm in dieser 90-Grad-Abduktionsposition statisch gegen den ständigen Zug des Kabels für die vorgegebene Zeitspanne und erzeuge maximale Spannung im seitlichen Deltamuskel.
+  3. Führe den Arm nach Ablauf der Haltezeit langsam und kontrolliert wieder nach unten.
+
+  Hinweise:
+  Ziehe die Schultern nicht zu den Ohren hoch; der Nacken bleibt entspannt. Behalte die leichte Beugung im Ellbogen während des gesamten Haltens unverändert bei.
+search_terms:
+- Seitheben isometrisch
+- Isometrisches Seitheben
+- Kabel-Seitheben isometrisch
+- Lateral Raise Isometric
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

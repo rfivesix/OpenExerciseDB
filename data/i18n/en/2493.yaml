@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2493'
 language: en
-status: upstream_unreviewed
-name: Adductor Side Plank
+status: ai_reviewed
+name: Adductor Side Plank (Copenhagen Plank)
 description: |-
-  Set up next to a bench in a  90° angle on your side. One leg goes up on the bench with the side of your calf touching it. The other leg goes below the bench. Forearm closer to the ground is at a 90° angle, hand pointing front. Now push off the floor with the forearm closer to the ground, upper side of your body should be completely straight, level with the bench (it's a side plank after all). Hold that position.
+  Starting Position:
+  Lie on your side next to a flat bench. Place the inside of your top foot and ankle (or lower leg) on top of the bench. Position your bottom forearm on the floor directly beneath your shoulder. Keep your bottom leg resting underneath the bench.
+
+  Execution:
+  1. Press through your bottom forearm and the inside of your top foot to lift your hips off the floor.
+  2. Elevate your body until your torso, hips, and top leg form a straight, rigid line level with the bench.
+  3. Hover your bottom leg off the floor so it floats just beneath the bench.
+  4. Hold this isometric position for the prescribed time, then lower with control and switch sides.
+
+  Cues:
+  Do not let your hips sag toward the floor or rotate forward; engage your obliques and inner thighs actively throughout.
+search_terms:
+- Adductor Side Plank
+- Copenhagen Plank
+- Copenhagen Adductor Plank
 upstream:
   license: CC-BY-SA-4.0
   license_author: hurr99

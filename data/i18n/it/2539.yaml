@@ -2,10 +2,23 @@ exercise_id: '2539'
 language: it
 status: ai_reviewed
 translated_from: en
-name: Curl panca Scott isometrico
+name: Curl su panca Scott isometrico
+description: |-
+  Posizione di partenza:
+  Siediti alla panca Scott regolando l'altezza del sedile affinché il bordo superiore del cuscino sia a contatto con le ascelle. Appoggia la parte posteriore del braccio sul piano inclinato, impugnando un manubrio in supinazione.
+
+  Esecuzione:
+  1. Fletti il gomito sollevando il manubrio fino a circa metà traiettoria (con un angolo del gomito a 90 gradi).
+  2. Trattieni il manubrio in posizione perfettamente statica contro la gravità per il tempo prescritto, mantenendo la massima contrazione nel bicipite.
+  3. Abbassa lentamente il manubrio con pieno controllo una volta terminato il tempo.
+
+  Note:
+  Non sollevare il braccio o il gomito dal supporto durante la tenuta. Mantieni il polso rigido e neutro evitando torsioni articolari.
+search_terms:
+- Curl panca Scott isometrico
+- Preacher curl isometrico
+- Scott curl con manubrio isometrico
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5010'
-description: |-
-  Appoggia il braccio sul cuscinetto della panca Scott con un manubrio a gomito flesso a circa 90 gradi, mantenendo la contrazione isometrica statica sotto carico continuo.

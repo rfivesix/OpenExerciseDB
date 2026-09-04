@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1915'
 language: de
-status: upstream_unreviewed
-name: Hüftabduktion im Vierfüßlerstand
-description: |-
-  Verteile dein Körpergewicht gleichmäßig auf alle Knie und Arme.
-  Halte den Oberkörper stabil, die Bauchmuskulatur angespannt und die Lendenwirbelsäule
-  gerade, ohne den Rücken zu verdrehen (Vorstellung: ein Glas auf deinem unteren Rücken
-  würde nicht herunterfallen). Hebe ein Bein nach außen, ohne es zu verdrehen.
-  Achte auf den rechten Winkel an Hüfte und Knie. Trainiere immer beide Körperseiten.
-  Um den Widerstand zu erhöhen, kannst du ein Widerstandsband verwenden.
+status: ai_reviewed
+name: Hüftabduktion im Vierfüßlerstand (Fire Hydrant)
+description: 'Ausgangsposition:
+
+  Gehe auf einer Matte in den Vierfüßlerstand, die Hände unter den Schultern und die Knie unter den Hüften. Platziere optional ein kurzes Widerstandsband oberhalb der Knie, um den Trainingsreiz zu erhöhen. Spanne den Rumpf fest an.
+
+
+  Ausführung:
+
+  Hebe ein Bein bei konstant 90 Grad gebeugtem Knie kontrolliert seitlich nach außen an, bis der Oberschenkel etwa parallel zum Boden steht. Halte das Becken waagerecht und vermeide ein Aufdrehen der Hüfte. Senke das Bein langsam wieder ab, ohne das Knie vollständig abzusetzen. Führe alle Wiederholungen auf einer Seite durch und wechsle dann das Bein.
+
+
+  Hinweise:
+
+  Konzentriere dich auf die Anspannung im mittleren Gesäßmuskel und halte den unteren Rücken absolut stabil (Vorstellung: ein Glas Wasser auf dem Rücken darf nicht verschüttet werden).'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4282'
+search_terms:
+- Hüftabduktion im Vierfüßlerstand
+- Fire Hydrant
+- Hydrantenübung

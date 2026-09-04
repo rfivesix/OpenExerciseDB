@@ -1,22 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1962'
 language: de
-status: upstream_unreviewed
-name: Step Jack
-description: |-
-  Der Step Jack ist eine gelenkschonende Übung im Stil der Plyometrie, die den Kreislauf in Schwung bringt, ohne die Gelenke wie beim Springen zu belasten. Sie beansprucht den ganzen Körper und zielt besonders auf Beine, Rumpf und Schultern ab. Diese Übung ist ideal für Anfänger, für Menschen mit empfindlichen Gelenken oder als dynamisches Aufwärmen, um die Herzfrequenz allmählich zu steigern.
-  Hinweise (Anleitung):
+status: ai_reviewed
+name: Step Jack (Hampelmann ohne Springen)
+description: 'Ausgangsposition:
 
-  Stehe aufrecht, die Füße zusammen und die Arme seitlich am Körper.
-  Setze deinen rechten Fuß zur Seite, während du gleichzeitig beide Arme über den Kopf schwingst.
-  Führe deinen rechten Fuß zurück zur Mitte und senke die Arme.
-  Wiederhole die Bewegung sofort, indem du mit dem linken Fuß zur Seite ausschreitest.
-  Wechsle weiter die Seiten in einem gleichmäßigen, rhythmischen Tempo.
+  Stehe aufrecht mit geschlossenen Füßen und locker an den Seiten liegenden Armen. Spanne den Rumpf leicht an.
+
+
+  Ausführung:
+
+  Mache mit dem rechten Fuß einen weiten Schritt zur Seite, während du gleichzeitig beide Arme in einem weiten Bogen seitlich über den Kopf führst. Führe den Fuß zurück zur Mitte und senke die Arme ab. Wiederhole die Bewegung direkt mit dem linken Fuß zur anderen Seite. Wechsle kontinuierlich und rhythmisch zwischen beiden Seiten.
+
+
+  Hinweise:
+
+  Der Step Jack ist die gelenkschonende Low-Impact-Alternative zum klassischen Jumping Jack (Hampelmann). Er bringt das Herz-Kreislauf-System in Schwung, ohne Sprungbelastung auf Knie und Sprunggelenke auszuüben.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3556'
+search_terms:
+- Step Jack
+- Side Step Jack
+- Gelenkschonender Hampelmann

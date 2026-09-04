@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1864'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ankle Roll
-description: View the video to undestand the exercise
+description: "Starting Position: Sit upright on a chair or the floor and elevate one\
+  \ foot so your ankle can move freely in all directions.\nExecution: Slowly trace\
+  \ large circles with your toes, rotating your ankle through its full range of motion.\
+  \ Complete several repetitions clockwise, then reverse counter-clockwise.\nTips:\
+  \ Keep your lower leg and knee still so the rotation comes entirely from the ankle\
+  \ joint. Perform 10–15 rotations in each direction per foot."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

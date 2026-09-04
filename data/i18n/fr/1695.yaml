@@ -1,26 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1695'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tractions (prise large)
 description: |-
   Exécution
-
-
+  
   Phase de tirage (concentrique) :
-
+  
   Tirez vos coudes vers le bas et légèrement en arrière, en amenant votre poitrine vers la barre.
   Concentrez-vous sur le fait de mener le mouvement avec la poitrine, pas avec le menton.
   Gardez vos épaules abaissées (évitez de hausser les épaules).
-
-
-
+  
   Position haute :
-
+  
   Le menton doit dépasser la barre (ou au moins atteindre son niveau).
   Marquez une brève pause avec une contraction du grand dorsal.
 upstream:

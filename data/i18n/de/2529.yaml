@@ -1,21 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2529'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Explosive Liegestütze
 description: |-
-  Explosive Liegestütze
+  Ausgangsposition:
+  Nimm eine klassische Liegestützposition auf dem Boden ein. Die Hände stehen etwas weiter als schulterbreit, die Finger zeigen leicht nach vorne außen. Der Körper bildet von den Fersen bis zum Kopf eine feste, gerade Linie.
 
-  Beginne in einer normalen Liegestützposition, senke die Brust ab und drücke dich dann explosiv vom Boden ab, sodass deine Hände den Boden verlassen. Lande weich und wiederhole die Bewegung sofort.
+  Ausführung:
+  1. Senke deinen Oberkörper kontrolliert ab, bis deine Brust fast den Boden berührt.
+  2. Drücke dich explosiv und maximal kraftvoll mit Händen und Brust vom Boden ab, sodass deine Hände für einen Moment vollständig den Boden verlassen.
+  3. Fange deinen Körper beim Landen mit weich nachgebenden Armen federnd ab und gehe direkt fließend in die nächste Wiederholung über.
+
+  Hinweise:
+  Halte den Rumpf während des Abdrückens und Landens bretthart gespannt, um ein Durchhängen der Lendenwirbelsäule zu verhindern.
+search_terms:
+- explosive liegestütze
+- Explosive Liegestütze
+- Explosive Push-Ups
+- Klatschen-Liegestütze Vorstufe
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '4998'
-search_terms:
-  - explosive liegestütze

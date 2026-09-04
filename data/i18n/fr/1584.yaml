@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1584'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Marche ou course sur place
 description: |-
-  Exercice cardiovasculaire à faible impact qui simule la course sans se déplacer, idéal pour s'échauffer, améliorer l'endurance ou s'entraîner dans des espaces réduits.
+  Position de départ:
+  Tenez-vous debout, pieds écartés de la largeur des hanches, genoux souples, buste droit et sangle abdominale légèrement engagée. Pliez les coudes à 90 degrés le long du corps.
+
+  Exécution:
+  Montez un genou vers la hauteur des hanches puis reposez le pied en douceur tout en montant le genou opposé. Coordonnez vos bras de manière rythmée et opposée aux jambes (mouvement naturel de course). Conservez un rythme régulier de marche ou accélérez progressivement en un trot léger sur place.
+
+  Conseils:
+  - Atterrissez en douceur sur l'avant du pied en déroulant vers le talon pour amortir les chocs.
+  - Gardez le dos droit sans vous pencher en avant ou en arrière.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

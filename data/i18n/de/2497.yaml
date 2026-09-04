@@ -1,11 +1,24 @@
 exercise_id: '2497'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einarmiges Kurzhantel-Bodendrücken
 description: |-
-  Benutzerdefiniertes einarmiges Kurzhantel-Bodendrücken von Vasco für das Heimtraining mit einer 5-kg-Kurzhantel. Einseitiges Training für Symmetrie und Rumpf-Anti-Rotation. Teil des Push-Tags am Montag.
+  Ausgangsposition:
+  Lege dich rücklings auf den Boden oder eine Trainingsmatte. Stelle die Füße flach auf den Boden mit gebeugten Knien. Halte eine Kurzhantel in einer Hand senkrecht über der Brust mit gestrecktem Arm. Der freie Arm ruht zur Stabilisierung seitlich auf dem Boden.
+
+  Ausführung:
+  1. Senke die Kurzhantel kontrolliert ab, indem du den Ellbogen im 45- bis 60-Grad-Winkel zum Oberkörper nach unten führst, bis dein Oberarm sanft den Boden berührt.
+  2. Pausiere für einen kurzen Moment am Boden, ohne die Spannung in der Muskulatur zu verlieren.
+  3. Drücke die Hantel kraftvoll und geradlinig nach oben in die Ausgangsposition zurück.
+  4. Absolviere die Wiederholungen und wechsle die Seite.
+
+  Hinweise:
+  Spanne den Rumpf fest an, um einer Rotation des Oberkörpers entgegenzuwirken (Anti-Rotation). Das Bodendrücken schont die Schultergelenke durch die begrenzte Tiefe.
+search_terms:
+- Einarmiges Kurzhantel-Bodendrücken
+- Single Arm Dumbbell Floor Press
+- One Arm Floor Press
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4979'

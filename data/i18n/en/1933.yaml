@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1933'
 language: en
-status: upstream_unreviewed
-name: Abdominal Crunch
-description: |-
-  The Abdominal Crunch is a classic core isolation exercise performed on the floor or a mat. Unlike a full sit-up, it involves a smaller range of motion where you only lift your shoulders and upper back off the ground, keeping your lower back pressed firmly against the floor.
+status: ai_reviewed
+name: Reverse Crunch
+description: 'Starting position:
+
+  Lie flat on your back on an exercise mat with your arms resting beside your hips for stability. Raise your legs with your hips and knees bent at approximately 90 degrees.
+
+
+  Execution:
+
+  Contract your abdominals to curl your pelvis off the floor, bringing your knees toward your chest in a smooth, controlled motion. Pause briefly at the top to emphasize abdominal contraction. Slowly unroll your spine and lower your pelvis back to the floor under control without letting your feet touch down.
+
+
+  Tips:
+
+  Initiate the movement by rolling your pelvis rather than kicking your legs or pushing hard through your arms.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3082'
+search_terms:
+- Abdominal Crunch
+- Reverse Crunch
+- Reverse Abdominal Crunch
+- Pelvic Tilt Crunch

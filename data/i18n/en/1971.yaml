@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1971'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Mentzer Pulldown
 description: |-
-  Close grip front facing Pull down, while focusing on Biceps, Increases activation of biceps over the whole range, Avoid activating Lats.
+  Starting Position:
+  Sit at a lat pulldown station and adjust the thigh pad so your thighs are firmly secured. Grasp the bar with a close underhand (supinated) grip, shoulder-width or slightly narrower, with palms facing you.
+
+  Execution:
+  1. Keeping your chest high and torso nearly upright, pull the bar smoothly down toward your upper chest by driving your elbows down and back.
+  2. Hold the peak contraction at the bottom for 1 to 2 seconds, squeezing your lats and biceps firmly.
+  3. Slowly resist the weight as you return the bar back up through a full range of motion until your arms are fully extended.
+
+  Cues:
+  Maintain an upright posture without excessive backward swinging; focus on a full stretch at the top and a hard squeeze at the bottom.
+search_terms:
+- Close-Grip Underhand Pulldown
+- Supinated Lat Pulldown
+- Mentzer Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mike Mentzer

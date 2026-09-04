@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2454'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: YTW Raises
 description: |-
-  The YTW exercise for scapular retraction is designed to strengthen the inter-scapular muscles between your shoulder blades, to help retract or pull your shoulders back, helping to maintain proper upright posture.
+  Starting Position:
+  Lie facedown on an exercise mat (or bend forward at the hips with a flat back). Extend your arms outward with your thumbs pointing up toward the ceiling.
+
+  Execution:
+  1. Y-Raise: Lift your straight arms diagonally forward at approximately 45 degrees, forming a 'Y' shape with your torso. Squeeze your lower and middle traps, holding for 1 to 2 seconds.
+  2. T-Raise: Move your arms straight out to the sides perpendicular to your body, forming a 'T' shape. Retract your shoulder blades hard and pause.
+  3. W-Raise: Bend your elbows and draw them down toward your ribcage while rotating your forearms back, forming a 'W' shape. Contract your rhomboids and rear delts tightly.
+
+  Cues:
+  Move with deliberate control without shrugging your neck; initiate all movement by squeezing your shoulder blades together.
+search_terms:
+- Prone YTW Raises
+- Y-T-W Scapular Raises
+- YTW Exercise
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging

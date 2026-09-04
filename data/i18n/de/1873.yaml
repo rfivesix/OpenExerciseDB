@@ -1,10 +1,15 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1873'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Quadrizepsdehnung
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Stehe aufrecht auf einem Bein (stütze dich bei Bedarf\
+  \ mit einer Hand an einer Wand ab).\nAusführung: Beuge das andere Knie nach hinten,\
+  \ fasse den Fußrücken oder Knöchel mit der Hand und ziehe die Ferse sanft in Richtung\
+  \ Gesäß. Halte beide Knie nebeneinander.\nHinweise: Spanne das Gesäß leicht an und\
+  \ halte das Becken aufgerichtet, um ein Hohlkreuz zu vermeiden. Halte die Dehnung\
+  \ für 20–30 Sekunden und wechsle das Bein."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

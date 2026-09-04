@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1963'
 language: fr
-status: upstream_unreviewed
-name: Squat lent
-description: |-
-  Un squat basé sur le tempo qui utilise un mouvement contrôlé pour augmenter la tension musculaire et améliorer la stabilité du bas du corps.
+status: ai_reviewed
+name: Squat lent au tempo (Tempo Squat)
+description: 'Position de départ :
 
-  Descente : Descendez lentement pendant 3 secondes.
-  Pause : Maintenez la position basse pendant 1 seconde.
-  Remontée : Revenez à la position de départ à un rythme normal.
-  Technique : Gardez la poitrine ouverte et le poids dans les talons.
+  Debout, pieds écartés à la largeur des épaules, pointes légèrement ouvertes vers l''extérieur. Buste droit et bras tendus devant vous pour l''équilibre.
+
+
+  Exécution :
+
+  Descendez lentement en squat pendant 3 secondes en poussant les fesses vers l''arrière jusqu''à ce que les cuisses soient parallèles au sol. Marquez une pause isométrique de 2 secondes en bas sans relâcher la tension, puis remontez avec puissance en 1 seconde en poussant sur les talons.
+
+
+  Conseils :
+
+  Ce tempo strict (3 secondes de descente, 2 de pause, 1 de montée) décuple le temps sous tension et renforce la stabilité articulaire.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4395'
+search_terms:
+- Squat lent
+- Tempo Squat

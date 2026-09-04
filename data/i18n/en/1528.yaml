@@ -1,15 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1528'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Glute Drive
-description: |-
-  Lie down on the back pad and strap yourself in with the waistband. Position yout feet&nbsp;shoulder-length apart. They should be slightly splayed.
+description: 'Starting Position:
+
+  Sit in the glute drive machine, resting your upper back against the pivot pad. Fasten
+  the padded belt securely across your hips. Place your feet shoulder-width apart
+  on the footplate with toes slightly flared.
+
+
+  Execution:
+
+  1. Disengage the safety release and drive through your heels to bridge your hips
+  upward against the belt.
+
+  2. Ascend until your torso and thighs form a straight horizontal line, squeezing
+  your glutes intensely at peak contraction for 1–2 seconds.
+
+  3. Lower your hips back down slowly under control before repeating.
+
+
+  Cues:
+
+  The machine provides a stable, biomechanically guided setup for heavy hip thrusting,
+  isolating the gluteus maximus safely.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2485'
+search_terms:
+- Glute Drive Machine
+- Machine Hip Thrust

@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1861'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Seitliche Rumpfdehnung
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Stehe aufrecht mit hüft- bis schulterbreitem Stand.\
+  \ Spanne den Rumpf leicht an.\nAusführung: Hebe einen Arm senkrecht über den Kopf\
+  \ und neige den Oberkörper langsam und kontrolliert zur gegenüberliegenden Seite.\
+  \ Die andere Hand kann am Oberschenkel nach unten gleiten. Spüre die Dehnung entlang\
+  \ der gesamten Körperseite, der Rippen und des Latissimus.\nHinweise: Halte das\
+  \ Becken stabil und nach vorne ausgerichtet; drehe den Oberkörper nicht ein. Halte\
+  \ die Position für 20–30 Sekunden und wechsle die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -1,17 +1,25 @@
 exercise_id: '2528'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kniebeuge mit Griff zum Himmel
-# AI generation provenance: GPT-5, 2026-09-03.
+name: Tiefe Kniebeuge mit Rotation (Sky Reach)
 description: |-
-  Gehe in eine Kniebeuge.
-  Halte mit der gegenüberliegenden Hand einen Knöchel fest.
-  Winkle den anderen Arm vor der Brust an.
-  Bleibe in der Kniebeuge und halte weiter deinen Knöchel fest; drehe dich, um die Hand vor deiner Brust nach hinten/außen zu führen, bis dein Ellbogen zum Himmel zeigt.
-  Kehre mit der Hand vor der Brust in die neutrale Kniebeugenposition zurück. Wiederhole die Bewegung nach Bedarf.
+  Ausgangsposition:
+  Stelle dich schulterbreit hin und gehe in eine tiefe Kniebeuge (Deep Squat). Umfasse mit deiner linken Hand deinen rechten Knöchel oder Fuß. Winkle den rechten Arm an oder lege die Hand an die Brust.
 
-  Wiederhole auf beiden Seiten.
+  Ausführung:
+  1. Halte die tiefe Hocke stabil und drehe deinen Oberkörper nach rechts auf.
+  2. Führe den rechten Ellbogen und Arm in einer weiten Drehbewegung nach oben hinten, bis die Hand oder der Ellbogen zur Decke zeigt.
+  3. Folge der Hand mit dem Blick und spüre die Mobilisation in der Brustwirbelsäule und Hüfte.
+  4. Halte die Position für 1 bis 2 Sekunden und kehre kontrolliert in die mittige Hocke zurück.
+  5. Wiederhole die Drehung für die gewünschten Wiederholungen und wechsle zur anderen Seite.
+
+  Hinweise:
+  Halte die Fersen flach auf dem Boden und die Knie nach außen gedrückt; die Rotation soll hauptsächlich aus der Brustwirbelsäule erfolgen.
+search_terms:
+- Kniebeuge mit Griff zum Himmel
+- Squat Sky Reach Stretch
+- Deep Squat Thoracic Rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

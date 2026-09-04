@@ -1,18 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1925'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Barbell Silverback Shrug
-description: |-
-  Stand with your feet shoulder width apart holding the barbell with both hands in front just past shoulder width.
-  Bend forward at the hips with a slight bend in your knees, keeping your back straight.
-  Engage your shoulder blades, as if you are trying to touch them together.
-  Release the shrug.
-  Description taken from MuscleWiki
+description: 'Starting position:
+
+  Stand with your feet shoulder-width apart holding a barbell with an overhand grip slightly wider than shoulder-width. Soften your knees and hinge forward at the hips to roughly a 45-degree torso angle while keeping a flat back. The barbell hangs straight down with arms extended.
+
+
+  Execution:
+
+  Without bending your elbows, elevate and retract your shoulder blades upward and backward toward your spine. Squeeze your traps and rhomboids firmly at the top for one full second. Slowly lower the barbell back down under control to achieve a full stretch before the next repetition.
+
+
+  Tips:
+
+  Maintain a rigid spine throughout; do not use hip drive or knee bounce to heave the weight up. The bent-over angle shifts tension to the mid traps and rhomboids.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3074'
+search_terms:
+- Silverback Shrug
+- Bent-Over Barbell Shrug
+- Prone Barbell Shrug

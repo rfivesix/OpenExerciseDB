@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2501'
 language: en
-status: upstream_unreviewed
-name: Table Bodyweight Rows (Vasco L1)
+status: ai_reviewed
+name: Inverted Table Row
 description: |-
-  Vasco custom table bodyweight row for horizontal pulling in home training. Zero equipment except sturdy table. Part of Tuesday Pull day.
+  Starting Position:
+  Lie on your back beneath a heavy, sturdy table. Reach up and grasp the edge of the tabletop with an overhand or neutral grip slightly wider than shoulder-width. Rest your heels on the floor and brace your core and glutes into a rigid horizontal plank.
+
+  Execution:
+  1. Pull your chest upward toward the underside of the table by driving your elbows backward.
+  2. Squeeze your shoulder blades together tightly at the top of the movement and pause for 1 second.
+  3. Lower yourself back down with control until your arms are fully extended.
+
+  Cues:
+  Ensure the table is completely stable before beginning; bending your knees and placing feet flat on the floor decreases resistance if needed.
+search_terms:
+- Table Bodyweight Rows (Vasco L1)
+- Inverted Table Row
+- Table Inverted Row
+- Bodyweight Table Row
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4982'

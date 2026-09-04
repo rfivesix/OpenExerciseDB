@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1478'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch de levitación
 description: |-
-  Para
-  este movimiento de arriba hacia abajo, intentamos mover la parte superior del tronco sin mover la
-  parte inferior. Comienza tumbado en el suelo con los pies apoyados en el suelo y los
-  brazos cruzados por encima de la cabeza con las manos detrás de la cabeza. Eleva la parte superior del cuerpo y despega los
-  omóplatos del suelo, luego mantén y haz una pausa arriba durante una o
-  dos cuentas. Intenta que trabaje la parte alta de los abdominales y mantén esa contracción durante 10 buenas
-  repeticiones de calidad.
+  Posición inicial:
+  Túmbate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados en el suelo. Cruza los brazos por encima del pecho o coloca las manos suavemente detrás de la cabeza sin tirar del cuello.
+
+  Ejecución:
+  1. Despega la parte superior del torso y los omóplatos del suelo mediante una contracción directa del abdomen superior.
+  2. Mantén la parte inferior del tronco y la pelvis completamente inmóviles en el suelo.
+  3. Aguanta la contracción máxima en la posición alta durante 1 o 2 segundos.
+  4. Desciende lentamente de nuevo sin relajar por completo los abdominales.
+
+  Consejos:
+  No tires de la cabeza ni del cuello; concéntrate en elevar el pecho hacia arriba como si levitaras desde el suelo.
+search_terms:
+  - Levitation Crunch
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

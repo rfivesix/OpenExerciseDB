@@ -1,32 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1691'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Écarté à la poulie pour le bas des pectoraux
 description: |-
   Exécution
-
-
+  
   Position de départ :
-
+  
   Bras tendus sur les côtés en forme de « Y ».
   Ressentez un étirement dans les pectoraux (légère flexion des coudes, ne les verrouillez pas).
-
-
-
+  
   Mouvement :
-
+  
   Amenez vos mains vers le bas et l'une vers l'autre devant le bas de votre poitrine ou le haut des abdominaux, dans un mouvement d'arc fluide.
   Contractez fortement vos pectoraux en bas pendant 1 à 2 secondes.
-
-
-
+  
   Retour :
-
+  
   Relevez lentement vos bras en suivant la même trajectoire jusqu'à ressentir un bon étirement dans les pectoraux.
   Gardez le contrôle, ne laissez pas les poids vous tirer en arrière trop rapidement.
 upstream:

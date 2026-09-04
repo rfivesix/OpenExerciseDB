@@ -1,21 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1964'
 language: fr
-status: upstream_unreviewed
-name: Pompe prise large
-description: |-
-  Une variante de la pompe avec une position des mains plus large pour accentuer le travail des pectoraux externes et des épaules.
+status: ai_reviewed
+name: Pompes prise large (Wide Push-Up)
+description: 'Position de départ :
 
-  Installation : Placez les mains au sol, plus écartées que la largeur des épaules.
-  Descente : Descendez jusqu'à ce que la poitrine effleure presque le sol, en gardant la sangle abdominale gainée.
-  Poussée : Poussez à travers les paumes pour revenir à la position de départ.
-  Technique : Ne laissez pas le bas du dos s'affaisser ; conservez une ligne droite de la tête aux talons.
+  Placez-vous en planche haute, les mains écartées plus largement que la largeur des épaules (environ 1,5 fois la largeur des épaules), doigts légèrement orientés vers l''extérieur. Corps parfaitement aligné de la tête aux talons.
+
+
+  Exécution :
+
+  Descendez la poitrine vers le sol de façon contrôlée en fléchissant les coudes jusqu''à ce que le torse frôle le sol. Marquez une courte pause, puis poussez puissamment sur les paumes pour remonter en position initiale.
+
+
+  Conseils :
+
+  Cette prise large accentue le recrutement du grand pectoral et des épaules antérieures tout en diminuant l''intervention des triceps. Gardez le bassin gainé.'
 search_terms:
-  - Pompe écartée
+- Pompe écartée
+- Pompe prise large
+- Wide Push-Up
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

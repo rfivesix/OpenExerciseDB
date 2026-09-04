@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2491'
 language: it
-status: upstream_unreviewed
-name: Abduzioni
+status: ai_reviewed
+name: Abduzioni alla macchina per glutei
 description: |-
-  Esercizio basato su Abductors Sel. by Technogym.
-  Posizionati seduto sulla macchina, a gambe chiuse.
-  Apri le gambe il più possibile.
-  Ritorna alla posizione di partenza lentamente.
+  Posizione di partenza:
+  Siediti alla macchina per abduzioni con la schiena ben appoggiata allo schienale. Posiziona i cuscinetti contro la parte esterna delle ginocchia o delle cosce e i piedi sui supporti.
+
+  Esecuzione:
+  1. Spingi le gambe verso l'esterno aprendole il più possibile contro la resistenza della macchina.
+  2. Sostieni la contrazione massima sui glutei per 1-2 secondi.
+  3. Richiudi lentamente le gambe in modo controllato prima di iniziare la ripetizione successiva.
+
+  Consigli:
+  Mantieni la schiena sempre aderente allo schienale evitando di scattare con il busto.
+search_terms:
+- Abduzioni
+- Abductor Machine
+- Macchina per abduttori
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

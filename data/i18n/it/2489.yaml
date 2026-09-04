@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2489'
 language: it
-status: upstream_unreviewed
-name: Trazioni
+status: ai_reviewed
+name: Rematore al macchinario (Low Row)
 description: |-
-  Basato sulla macchina Low Row Sel. di Technogym. In questa versione si usano due braccia.
+  Posizione di partenza:
+  Siediti al macchinario per rematore (Low Row) con supporto per il petto. Regola l'altezza del sedile in modo che le impugnature siano all'altezza dell'addome. Appoggia saldamente i piedi sulle pedane e il petto contro il cuscino d'appoggio.
+
+  Esecuzione:
+  1. Tira le impugnature verso il bacino mantenendo i gomiti vicini al tronco.
+  2. Adduci le scapole al termine del movimento e mantieni la contrazione dorsale per un secondo.
+  3. Ritorna in avanti in modo lento e controllato fino alla completa estensione delle braccia.
+
+  Consigli:
+  Mantieni il busto aderente al supporto per tutta la durata dell'esercizio senza staccare il petto.
+search_terms:
+- Trazioni
+- Rematore alla macchina
+- Low Row Machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

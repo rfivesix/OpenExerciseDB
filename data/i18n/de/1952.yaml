@@ -1,16 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1952'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Faszienmassage Gesäß (Lacrosseball)
-description: |-
-  Selbstmyofasziale Entspannung für das Gesäß (Lacrosseball)
-  Teil von: Limber 11
-  Quelle: Joe DeFranco
-  Vorgabe: 30 Sek.–2 Min.
-  Typ: Weichteilgewebe
+name: Faszienmassage Gesäß mit Lacrosseball
+description: 'Ausgangsposition:
+
+  Setze dich auf den Boden und platziere einen festen Massage- oder Lacrosseball unter einer Gesäßhälfte. Stütze dich mit den Händen hinter dem Rücken ab und stelle die Füße auf. Optional kannst du das Sprunggelenk der behandelten Seite auf das gegenüberliegende Knie legen (Vierer-Position), um die Gesäßmuskeln vorzudehnen.
+
+
+  Ausführung:
+
+  Rolle mit kleinen, langsamen Bewegungen über die Gesäßmuskulatur (Gluteus maximus, Gluteus medius und Piriformis), um Verspannungen und Triggerpunkte aufzuspüren. Verweile auf verhärteten Stellen für 20–30 Sekunden bei tiefer, gleichmäßiger Atmung, bis der Spannungsschmerz spürbar nachlässt. Bearbeite jede Seite für etwa 30 Sekunden bis 2 Minuten.
+
+
+  Hinweise:
+
+  Teil der Limber-11-Routine von Joe DeFranco. Atme ruhig und entspanne die Muskulatur bewusst in den Druck des Balls hinein; rolle nicht direkt über knöcherne Strukturen wie das Steißbein.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3103'
+search_terms:
+- Faszienmassage Gesäß (Lacrosseball)
+- SMR Glutes (lax ball)
+- Lacrosseball Gesäß
+- Triggerpunktmassage Gesäß

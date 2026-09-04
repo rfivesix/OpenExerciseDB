@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1582'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Innenrotation in Seitenlage
 description: |-
-  Lege dich auf die Seite und verwende den Arm, der der Bank am nächsten ist. Halte einen 90-Grad-Winkel im Ellbogen und lasse das Gewicht an der Bank vorbei so weit wie angenehm möglich in Richtung Boden sinken. Hebe das Gewicht wieder an, indem du nur die Schulter in Richtung der gegenüberliegenden Schulter rotierst.
+  Ausgangsposition:
+  Lege dich seitlich auf eine Flachbank. Verwende den unteren Arm (der der Bank am nächsten ist). Platziere den Oberarm stabil am Körper oder auf der Bank und beuge den Ellbogen im 90-Grad-Winkel. Halte eine leichte Kurzhantel in der Hand.
+
+  Ausführung:
+  Lasse das Gewicht kontrolliert an der Bank vorbei nach unten in Richtung Boden sinken, soweit es die Schultermobilität schmerzfrei erlaubt. Rotiere den Unterarm anschließend über die Schulterinnenrotation wieder nach oben in Richtung Bauch bzw. gegenüberliegende Schulter.
+
+  Hinweise:
+  - Führe die Bewegung langsam und mit geringem Gewicht aus, um die Muskeln der Rotatorenmanschette gezielt anzusteuern.
+  - Halte den Ellbogen während der gesamten Ausführung stabil gebeugt.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

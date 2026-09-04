@@ -1,15 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1751'
 language: fr
-status: upstream_unreviewed
-name: Tirage à la poulie entre les jambes
-description: |-
-  Le tirage à la poulie entre les jambes est un exercice pour le bas du corps qui sollicite les fessiers et les ischio-jambiers grâce à un mouvement de charnière de hanche. Pour l'exécuter, fixez une corde à la poulie réglée au plus bas, placez-vous dos à la machine avec la corde entre vos jambes, et avancez d'un pas pour créer de la tension. En gardant le dos plat et les genoux légèrement déverrouillés, poussez vos hanches vers l'arrière comme si vous cherchiez à fermer une porte derrière vous, jusqu'à sentir un étirement profond dans vos ischio-jambiers.
-  Pour terminer la répétition, propulsez vos hanches vers l'avant de façon explosive pour revenir en position debout, en contractant fortement les fessiers en haut. Il est essentiel de retenir que ce n'est pas un squat ; vos genoux ne doivent pas fléchir profondément, et vos bras doivent rester tendus et détendus, servant uniquement de crochets pour la corde. Ce mouvement procure une tension constante sur les fessiers tout en sollicitant moins le bas du dos qu'un soulevé de terre traditionnel.
+status: ai_reviewed
+name: Pull-through à la poulie
+description: "Position de départ :\nAttachez une corde à la poulie la plus basse.\
+  \ Placez-vous dos à la poulie, la corde passant entre vos jambes. Saisissez les\
+  \ extrémités de la corde, avancez de deux pas pour créer une tension continue et\
+  \ écartez les pieds un peu plus que la largeur des épaules.\n\nExécution :\n1. Poussez\
+  \ les hanches vers l'arrière en charnière tout en gardant le dos plat et les genoux\
+  \ très légèrement fléchis.\n2. Laissez la corde reculer entre vos cuisses jusqu'à\
+  \ sentir un étirement marqué dans les ischio-jambiers.\n3. Poussez puissamment les\
+  \ hanches vers l'avant pour revenir debout en contractant fortement les fessiers\
+  \ en haut.\n\nConseils :\nCe n'est pas un squat mais une charnière de hanches ;\
+  \ gardez les bras relâchés et laissez les hanches générer toute la force."
+search_terms:
+  - Cable Pull Through
+  - Pull Through fessiers
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

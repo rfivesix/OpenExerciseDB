@@ -5,18 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1477'
 language: de
-status: upstream_unreviewed
-name: Sitzender Korkenzieher
+status: ai_reviewed
+name: Sitzender Korkenzieher (Seated Corkscrew)
 description: |-
-  Um
-  diese Übung für Bauch- und seitliche Bauchmuskulatur auszuführen, beginne mit den Händen hinter deinem Körper
-  und ziehe deine Knie heran und quer hinüber, wobei du wirklich versuchst, die seitliche Bauchmuskulatur
-  anzuspannen. Strecke dann deine Beine wieder in die Ausgangsposition aus und wiederhole zur
-  gegenüberliegenden Seite der Bauchmuskulatur.
-  Anfänger
-  stellen vielleicht fest, dass sie nicht einmal die ersten 45 Sekunden dieser
-  anspruchsvollen Variante des umgekehrten Crunches durchhalten. Das ist in Ordnung, denn es gibt dir einen
-  Punkt, an dem du anfangen kannst, und etwas, woran du dich verbessern kannst.
+  Ausgangsposition:
+  Setze dich auf den Boden und stütze dich mit den Händen hinter dem Körper ab. Lehne den Oberkörper leicht zurück, hebe die Füße vom Boden ab und winkle die Knie leicht an.
+
+  Ausführung:
+  1. Ziehe die Knie kontrolliert heran und drehe sie dabei zur Seite ein, um die schrägen Bauchmuskeln maximal anzuspannen.
+  2. Strecke die Beine wieder nach vorne aus, ohne die Füße auf dem Boden abzusetzen.
+  3. Ziehe die Knie erneut heran und drehe sie zur gegenüberliegenden Seite ein.
+  4. Wiederhole die Bewegung abwechselnd und flüssig von Seite zu Seite.
+
+  Hinweise:
+  Halte die Spannung in der Körpermitte während des gesamten Satzes aufrecht. Die kontrollierte Rotation des Beckens aktiviert gezielt die schräge Bauchmuskulatur.
+search_terms:
+  - Sitzender Korkenzieher
+  - Seated Corkscrew
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,10 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1940'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Zwerchfellatmung
-description: Bauchatmung. Die Hand auf der Brust bleibt ruhig, die Hand auf dem Bauch hebt sich. 8–10 langsame Atemzüge.
+name: Zwerchfellatmung (Bauchatmung)
+description: 'Ausgangsposition:
+
+  Lege dich bequem auf den Rücken auf eine Matte (optional mit leicht angewinkelten Beinen oder einer Kissenrolle unter den Knien). Platziere eine Hand auf deine obere Brust und die andere Hand auf deinen oberen Bauch knapp unterhalb des Rippenbogens.
+
+
+  Ausführung:
+
+  Atme langsam und tief durch die Nase ein. Führe die Atemluft bewusst tief in den Bauchraum, sodass sich die Hand auf deinem Bauch spürbar hebt, während die Hand auf der Brust weitgehend ruhig bleibt. Halte den Atem für 1–2 Sekunden sanft an. Atme anschließend langsam und vollständig durch den leicht geöffneten Mund oder die Nase aus, während der Bauch wieder absinkt. Führe 8–10 langsame, kontrollierte Atemzüge aus.
+
+
+  Hinweise:
+
+  Entspanne dabei bewusst Schultern, Nacken und Kiefer; die Zwerchfellatmung aktiviert das parasympathische Nervensystem und fördert die Rumpfstabilität und Regeneration.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'
+search_terms:
+- Zwerchfellatmung
+- Diaphragmatic Breathing
+- Bauchatmung
+- Tiefe Bauchatmung

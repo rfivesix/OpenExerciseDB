@@ -1,10 +1,19 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1737'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Unterstützte Klimmzüge (Untergriff)
-description: Klimmzüge im Untergriff mit Maschinenunterstützung (Gegengewichten).
+description: |-
+  Ausgangsposition:
+  Stelle das gewünschte Gegengewicht an der Klimmzugmaschine ein. Knie dich auf das Stützpolster und greife die Klimmzugstange im etwa schulterbreiten Untergriff (Handflächen zeigen zum Körper). Hänge dich mit fast vollständig gestreckten Armen kontrolliert ein.
+  
+  Ausführung:
+  1. Ziehe dich kontrolliert nach oben, indem du die Ellbogen nach unten und hinten führst, bis dein Kinn die Stange passiert.
+  2. Spanne am obersten Punkt den Latissimus und die Bizepse intensiv an.
+  3. Senke dich langsam und kontrolliert wieder ab, bis die Arme wieder fast gestreckt sind.
+  
+  Hinweise:
+  Nutze das Gegengewicht, um eine saubere Ausführung über den vollen Bewegungsumfang zu gewährleisten. Vermeide Schwingen oder ruckartiges Reißen.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2867'

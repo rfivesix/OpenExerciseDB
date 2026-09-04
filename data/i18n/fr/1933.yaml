@@ -1,16 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1933'
 language: fr
-status: upstream_unreviewed
-name: Crunch abdominal
-description: |-
-  Le crunch abdominal est un exercice d'isolation classique pour la sangle abdominale, réalisé au sol ou sur un tapis. Contrairement au redressement assis complet, il implique une amplitude de mouvement plus réduite où vous ne soulevez que les épaules et le haut du dos du sol, en gardant le bas du dos fermement plaqué contre le sol.
+status: ai_reviewed
+name: Crunch inversé
+description: 'Position de départ :
+
+  Allongez-vous sur le dos sur un tapis de sol avec les bras le long du corps pour stabiliser la posture. Levez les jambes avec les hanches et les genoux fléchis à 90 degrés.
+
+
+  Exécution :
+
+  Contractez la sangle abdominale pour décoller le bassin du sol et enrouler les genoux vers la poitrine avec fluidité. Marquez un temps d''arrêt en haut pour accentuer la contraction, puis redescendez le bassin lentement sous contrôle sans poser les pieds par terre.
+
+
+  Conseils :
+
+  Enroulez la colonne vertébrale sans donner d''à-coups avec les jambes et sans pousser excessivement sur les mains.'
 search_terms:
-  - Crunch
+- Crunch
+- Crunch abdominal
+- Crunch inversé
+- Reverse Crunch
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

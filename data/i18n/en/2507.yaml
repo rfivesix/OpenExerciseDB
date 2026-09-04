@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2507'
 language: en
-status: upstream_unreviewed
-name: Forearm Plank (Core L1)
+status: ai_reviewed
+name: Forearm Plank
 description: |-
-  Vasco custom forearm plank - foundational anterior core stability exercise. Teaches full-body tension, breath control, and anti-extension. Prerequisite for all advanced core work.
+  Starting Position:
+  Lie prone on an exercise mat. Place your forearms on the floor with your elbows directly beneath your shoulders and forearms parallel. Tuck your toes onto the floor.
+
+  Execution:
+  1. Engage your core and lift your hips, thighs, and knees off the floor until your body forms a straight, rigid line from head to heels.
+  2. Actively squeeze your glutes, quadriceps, and abdominal wall.
+  3. Keep your neck neutral and eyes focused directly between your forearms.
+  4. Hold this isometric position for the prescribed duration while maintaining steady, continuous breathing.
+
+  Cues:
+  Do not allow your hips to sag toward the floor or pike high in the air; maintain active posterior pelvic tilt.
+search_terms:
+- Forearm Plank (Core L1)
+- Forearm Plank
+- Standard Plank
+- Prone Plank
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4986'

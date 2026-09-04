@@ -1,18 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1835'
 language: en
 status: ai_reviewed
-name: External Rotation Stretch
-description: |-
-  Sit with your feet pressed against each other, and one knee raised all the way out to the side of your body.
-  Place your elbow on your raised knee, bend it at 90 degrees, and point your hand directly forward, holding your dumbbell.
-  Keep your shoulder depressed and retracted, raise your hand until your forearm is vertical, as if you were about to wave at someone like a robot.
-  Lower your hand to the original position and repeat.
+name: Seated Dumbbell External Rotation
+description: "Starting Position:\nSit on an exercise mat or flat bench with one knee\
+  \ elevated and foot flat. Place the elbow of your working arm on top of your raised\
+  \ knee, bent at a 90-degree angle. Hold a light dumbbell with your forearm positioned\
+  \ horizontally forward.\n\nExecution:\n1. Keep your shoulder blade retracted and\
+  \ depressed away from your ear.\n2. Rotate your forearm upward along a vertical\
+  \ arc until it is perpendicular to the floor.\n3. Pause at the top for one second,\
+  \ feeling the contraction in your external rotators (infraspinatus and teres minor).\n\
+  4. Slowly lower the dumbbell back to horizontal with control, feeling a gentle stretch\
+  \ at the bottom before repeating.\n\nCues:\nUse a light dumbbell to prevent compensatory\
+  \ movements; keep your elbow anchored stably on your knee throughout."
+search_terms:
+  - External Rotation Stretch
+  - Seated Dumbbell External Rotation
+  - Knee-Supported External Rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

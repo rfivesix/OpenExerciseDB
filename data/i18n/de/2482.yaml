@@ -1,11 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2482'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ausatmungsübung im Wasser (Bobbing)
 description: |-
-  Stehe in brusttiefem Wasser. Atme ein, tauche dein Gesicht vollständig unter und atme während der gesamten Zeit unter Wasser langsam und vollständig durch Nase und/oder Mund aus — ein sanftes Summen kann helfen, die Ausatmung gleichmäßig und kontrolliert zu halten. Wenn keine Luft mehr da ist, hebe den Kopf, atme neu ein und tauche wieder unter. Wiederhole dies fortlaufend. Ziel ist es, den Körper daran zu gewöhnen, dass die gesamte Ausatmung unter Wasser erfolgt, sodass an der Oberfläche nur eingeatmet werden muss.
+  Ausgangsposition:
+  Stelle dich in brusttiefes Wasser mit etwa schulterbreitem Stand. Halte dich bei Bedarf leicht am Beckenrand fest.
+
+  Ausführung:
+  1. Atme an der Wasseroberfläche tief durch den Mund ein.
+  2. Gehe in die Knie und tauche dein Gesicht vollständig unter Wasser.
+  3. Atme langsam, gleichmäßig und vollständig durch die Nase (oder Nase und Mund) unter Wasser aus. Ein leises Summen kann helfen, den Luftstrom zu kontrollieren.
+  4. Sobald die Lunge leer ist, drücke dich mit den Beinen nach oben, bringe den Kopf aus dem Wasser, atme sofort frisch ein und tauche direkt wieder unter.
+  5. Führe die Bewegung rhythmisch und ohne Unterbrechung für die vorgegebene Wiederholungszahl durch.
+
+  Hinweise:
+  Trainiere deinen Körper darauf, die gesamte Ausatmung unter Wasser zu vollenden, sodass über Wasser nur kurz eingeatmet werden muss.
+search_terms:
+- Ausatmungsübung im Wasser
+- Bobbing Schwimmen
+- Wasser-Ausatmung Drill
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

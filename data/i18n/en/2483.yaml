@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2483'
 language: en
-status: upstream_unreviewed
-name: Wall-Hold Rotation
+status: ai_reviewed
+name: Wall-Hold Head Rotation Drill
 description: |-
-  Hold the pool wall or edge with one hand, body horizontal at the surface, legs kicking gently behind you. Keep your face in the water, exhaling continuously, then rotate your head to the side — not lifting it up — so one goggle stays in the water while the other clears the surface. Take a quick breath, then rotate your face back down to neutral. This isolates the head-rotation motion without any arm strokes to think about.
+  Starting Position:
+  Hold the pool wall or gutter with one hand, body floating horizontally at the surface, with a gentle flutter kick keeping your hips up.
+
+  Execution:
+  1. Place your face in the water looking directly down, exhaling steadily.
+  2. Rotate your head to the side—without lifting it up out of the water—so that one goggle stays submerged while the other clears the surface.
+  3. Take a quick breath in through your mouth, then rotate your face back down into the neutral face-down position.
+  4. Continue the rhythmic breathing cycles, then switch hands to practice on the opposite side.
+
+  Cues:
+  Rest your cheek and bottom ear directly on the water surface; rotate along the long axis of your spine without lifting your head.
+search_terms:
+- Wall-Hold Rotation
+- Freestyle Breathing Drill
+- Wall Breathing Drill
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

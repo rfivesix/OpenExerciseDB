@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1960'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento del flexor de cadera con pie trasero elevado
-description: |-
-  Estiramiento del flexor de cadera con pie trasero elevado
-  Parte de: Limber 11
-  Fuente: Joe DeFranco
-  Indicación: 5-10 repeticiones por lado
-  Tipo: dinámico
-  Incluye movimiento dinámico más una retención de 3s.
+description: 'Posición inicial:
+
+  Colócate en posición de zancada frente a un banco o cajón, con el empeine del pie trasero apoyado en la superficie elevada y una esterilla bajo la rodilla. La pierna delantera queda flexionada a 90 grados.
+
+
+  Ejecución:
+
+  Mantén el torso erguido. Bascula la pelvis hacia atrás y aprieta con fuerza el glúteo de la pierna trasera mientras desplazas suavemente la cadera hacia delante. Siente el estiramiento en la parte frontal de la cadera y cuádriceps, mantén durante 3 segundos y relaja ligeramente para realizar 5 a 10 repeticiones por lado.
+
+
+  Consejos:
+
+  Parte de la rutina Limber 11. No arquees la espalda baja; la contracción glútea es la clave para desbloquear los flexores de cadera.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4386'
+search_terms:
+- Estiramiento del flexor de cadera con pie trasero elevado
+- Rear-foot-elevated Hip Flexor Stretch

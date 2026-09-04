@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1807'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seitheben am Kabelzug hinter dem Rücken
-description: |-
-  Seitheben ist seit Langem ein Klassiker zum Aufbau ausgeprägter Schultern, und Trainierende nutzen alles von Kurzhanteln und Bändern bis hin zu Maschinen und einarmigen Varianten, um sie wachsen zu lassen.
+description: "Ausgangsposition:\nStelle dich seitlich neben einen niedrigen Kabelzug.\
+  \ Führe den D-Griff mit der äußeren Hand hinter deinem Gesäß vorbei. Halte dich\
+  \ mit der inneren Hand stabil am Pfosten des Kabelturms fest. Stehe aufrecht mit\
+  \ leicht nach vorne geneigtem Oberkörper.\n\nAusführung:\n1. Hebe den Arm mit leichter\
+  \ Ellenbogenbeugung seitlich in einem weiten Bogen nach oben, bis deine Hand Schulterhöhe\
+  \ erreicht.\n2. Spanne den seitlichen Deltamuskel am obersten Punkt für 1 Sekunde\
+  \ intensiv an.\n3. Senke das Kabel langsam und kontrolliert wieder hinter deinem\
+  \ Körper ab, um die konstante Dehnungsspannung voll mitzunehmen.\n\nHinweise:\n\
+  Die Führung des Kabels hinter dem Rücken verhindert jegliches Reiben an Oberschenkel\
+  \ oder Hüfte und sorgt für eine isolierte Beanspruchung des mittleren Deltamuskels\
+  \ ohne Schwung."
+search_terms:
+  - Seitheben hinter dem Rücken
+  - Behind the Back Cable Lateral Raise
+  - Kabelzug-Seitheben hinten
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

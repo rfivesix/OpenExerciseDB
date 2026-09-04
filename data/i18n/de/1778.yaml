@@ -1,10 +1,25 @@
 exercise_id: '1778'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Schrägbankdrücken
-description: Schrägbankdrücken bei 90 Grad mit leichten und präzisen Bewegungen.
+name: Schrägbankdrücken mit Langhantel
+description: "Ausgangsposition:\nLege dich auf eine Schrägbank, die auf einen Winkel\
+  \ von 30 bis 45 Grad eingestellt ist. Platziere deine Augen unter der Langhantel,\
+  \ ziehe die Schulterblätter zusammen und drücke die Füße fest in den Boden. Greife\
+  \ die Langhantel etwas mehr als schulterbreit im festen Obergriff und hebe sie aus\
+  \ der Halterung über deine obere Brust.\n\nAusführung:\n1. Atme ein, halte die Körperspannung\
+  \ und senke die Hantelstange kontrolliert zur oberen Brust (unterhalb des Schlüsselbeins)\
+  \ ab, während die Ellenbogen in einem 45- bis 70-Grad-Winkel zum Körper geführt\
+  \ werden.\n2. Berühre die obere Brust sanft ohne abzufedern.\n3. Drücke die Stange\
+  \ kraftvoll nach oben zurück in die Ausgangsposition, während du ausatmest.\n\n\
+  Hinweise:\nDer Neigungswinkel von 30 bis 45 Grad betont den oberen Anteil der Brustmuskulatur\
+  \ (Pars clavicularis). Ein steilerer Winkel (über 60 Grad) verlagert die Last zu\
+  \ stark auf die vordere Schulter."
+search_terms:
+  - Schrägbankdrücken
+  - Incline Bench Press
+  - Supino Inclinado
+  - Langhantel-Schrägbankdrücken
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'

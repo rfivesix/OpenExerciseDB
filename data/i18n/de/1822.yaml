@@ -1,37 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1822'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Buch aufschlagen (Open Book)
-description: |-
-  Grundübung
-
-  Fokus: verbessert die Beweglichkeit der Brustwirbelsäule und
-  die segmentale Bewegung der Wirbelsäule, während Schultern und Brustkorb geöffnet werden.
-  Position: Knie auf dem Boden, mit der rechten Seite zu einer Wand gewandt. Das Becken ist gerade und stabil, das rechte Knie unten und der linke Fuß nach vorne. Strecke deine Wirbelsäule und richte deinen Kopf bequem aus.
-  Beginne mit entspannten, vor der Brust geöffneten Armen, die Handflächen einander zugewandt und die Hände auseinander.
-  Einatmen,
-  um die Bewegung einzuleiten, und lasse deinen linken Arm – den weiter
-  von der Wand entfernten – nach außen und hinten öffnen. Leite die Drehung
-  aus der Brustwirbelsäule ein und drehe deinen oberen Rücken allmählich, während du dein Becken
-  ruhig hältst.
-  Ausatmen, während du die Drehung vollendest und deine linke Hand
-  zur Wand führst, wobei dein Blick der Hand folgt.
-  Kehre einatmend zurück und
-  führe deinen Arm langsam nach vorne, wobei du die Drehung der Wirbelsäule Segment
-  für Segment rückgängig machst.
-  Wiederhole auf der gegenüberliegenden Seite.
-
-  Steigerung
-
-  Position: Knie auf dem Boden, mit der rechten Seite zu einer Wand gewandt. Linkes Knie unten und rechter Fuß nach vorne.
-  Vor der Grundübung: einatmen, ausatmen, während du den rechten Arm in einem Kreis nach oben und hinten an der Wand entlangführst, einatmen, während du den Arm zurückbringst.
-  Grundübung.
-  Wiederhole auf der gegenüberliegenden Seite.
+description: "Ausgangsposition:\nLege dich in Seitlage auf eine Trainingsmatte (oder\
+  \ nimm den halbknienden Stand mit einer Körperseite zur Wand ein). Beuge Hüfte und\
+  \ Knie im 90-Grad-Winkel nach vorne an, um die Lendenwirbelsäule und das Becken\
+  \ zu stabilisieren. Strecke beide Arme auf Schulterhöhe gerade nach vorne aus und\
+  \ lege die Handflächen aufeinander.\n\nAusführung:\n1. Atme ein und hebe den oberen\
+  \ Arm kontrolliert an. Führe ihn in einem weiten Bogen nach oben und hinten zur\
+  \ Gegenseite, als würdest du ein Buch aufschlagen.\n2. Drehe deinen Kopf und den\
+  \ oberen Brustkorb mit und folge deiner Hand mit den Augen. Das Becken und beide\
+  \ Knie bleiben fest aufeinander und bewegen sich nicht.\n3. Atme am Ende der Bewegung\
+  \ tief aus, halte die Dehnung im Brustkorb und der Brustwirbelsäule für 1 bis 2\
+  \ Sekunden.\n4. Führe den Arm langsam mit der Einatmung wieder nach vorne und schließe\
+  \ das Buch.\n\nHinweise:\nHervorragende Mobilitätsübung zur Verbesserung der Brustwirbelsäulen-Rotation\
+  \ (Thoraxmobilität) und Öffnung der vorderen Schulter."
+search_terms:
+  - Open Book
+  - Buch aufschlagen
+  - Brustwirbelsäulen-Mobilisation
+  - Open Book Stretch
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

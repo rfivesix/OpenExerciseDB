@@ -1,10 +1,21 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1719'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Einarmiger Latzug im Kniestand
-description: Zug im Ritterstand ausgeführt.
+name: Einarmiger Latzug im halben Kniestand
+description: |-
+  Ausgangsposition:
+  Bringe den Kabelzug in eine hohe Position und befestige einen Einhandgriff. Gehe vor dem Gerät in den halben Kniestand (das Knie der ziehenden Seite ist am Boden, das andere Bein vorne aufgestellt). Greife den Griff mit nach oben gestrecktem Arm.
+  
+  Ausführung:
+  1. Ziehe den Griff kontrolliert nach unten zur Schulter, indem du den Ellbogen senkrecht nach unten zur Hüfte führst.
+  2. Spanne den Latissimus am tiefsten Punkt intensiv an.
+  3. Lasse den Arm langsam und kontrolliert wieder nach oben steigen, bis eine angenehme Dehnung im Rücken spürbar ist.
+  
+  Hinweise:
+  Halte den Oberkörper aufrecht und fest angespannt. Der halbe Kniestand stabilisiert das Becken und verhindert Ausweichbewegungen.
+search_terms:
+  - Einarmiger Latzug im Kniestand
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

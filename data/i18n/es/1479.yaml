@@ -5,15 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1479'
 language: es
-status: upstream_unreviewed
-name: Abdominal con golpe de codo
+status: ai_reviewed
+name: Sit-up con golpe de codo (Sit Up Elbow Thrust)
 description: |-
-  Este
-  es un movimiento de rotación de arriba hacia abajo, y es un poco más
-  explosivo también.
-  Tumbado con las rodillas flexionadas y los pies en el suelo, incorpórate y luego lleva el codo izquierdo cruzando todo el cuerpo hacia la
-  derecha, después vuelve al
-  centro y finalmente baja. Luego haz el otro lado.
+  Posición inicial:
+  Túmbate boca arriba en una colchoneta con las rodillas flexionadas, los pies apoyados en el suelo y las manos cerca del rostro en guardia defensiva.
+
+  Ejecución:
+  1. Incorpórate de forma explosiva realizando un sit-up mediante la contracción del abdomen.
+  2. En la parte alta del movimiento, gira el torso con decisión y lanza un codazo diagonal cruzando el cuerpo con fuerza.
+  3. Vuelve al centro y baja la espalda al suelo con control.
+  4. Repite alternando el codazo hacia el lado opuesto en cada repetición.
+
+  Consejos:
+  Coordina la flexión espinal con la rotación explosiva arriba para activar simultáneamente el recto abdominal y los oblicuos.
+search_terms:
+  - Abdominal con golpe de codo
+  - Sit Up Elbow Thrust
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

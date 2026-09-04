@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2483'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rumpfdrehung am Beckenrand
+name: Kopfdrehung am Beckenrand (Atemübung)
 description: |-
-  Halte die Beckenwand oder den Beckenrand mit einer Hand, den Körper waagerecht an der Oberfläche, während die Beine sanft hinter dir schlagen. Halte das Gesicht im Wasser und atme kontinuierlich aus. Drehe dann den Kopf zur Seite — hebe ihn nicht an — sodass eine Schwimmbrille im Wasser bleibt, während die andere die Oberfläche verlässt. Atme kurz ein und drehe das Gesicht dann wieder nach unten in die neutrale Position. Dies isoliert die Kopfdrehung, ohne dass du an Armzüge denken musst.
+  Ausgangsposition:
+  Halte dich mit einer Hand am Beckenrand fest. Nimm eine waagerechte Wasserlage an der Oberfläche ein, der freie Arm liegt locker am Körper oder wird gestreckt. Schlage mit den Beinen locker, um den Körper oben zu halten.
+
+  Ausführung:
+  1. Lege das Gesicht ins Wasser mit Blick zum Beckenboden und atme ruhig unter Wasser aus.
+  2. Drehe den Kopf zur Seite – ohne ihn nach oben aus dem Wasser zu heben –, sodass eine Brillenhälfte im Wasser bleibt, während die andere die Oberfläche durchbricht.
+  3. Atme rasch durch den Mund ein und drehe das Gesicht sofort wieder kontrolliert nach unten ins Wasser.
+  4. Wiederhole die rhythmische Drehung und wechsle nach einigen Wiederholungen die Seite.
+
+  Hinweise:
+  Halte den Kopf flach; das Ohr ruht wie auf einem Kissen auf dem Wasser. Diese Übung isoliert die seitliche Atemrotation beim Kraulschwimmen.
+search_terms:
+- Rumpfdrehung am Beckenrand
+- Wall-Hold Rotation
+- Kopfdrehung Beckenrand Kraulatmung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

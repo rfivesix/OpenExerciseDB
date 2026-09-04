@@ -2,10 +2,23 @@ exercise_id: '2541'
 language: it
 status: ai_reviewed
 translated_from: en
-name: Pushdown per tricipiti isometrico
+name: Pushdown per tricipiti isometrico a un braccio
+description: |-
+  Posizione di partenza:
+  In piedi davanti a una carrucola alta, impugna una maniglia singola con una mano. Blocca la parte superiore del braccio contro il fianco con il gomito flesso a circa 90 gradi. Inclina leggermente il busto in avanti e contrai l'addome per dare stabilità.
+
+  Esecuzione:
+  1. Spingi la maniglia verso il basso estendendo il gomito fino a raggiungere la quasi completa estensione (o l'angolo prescelto).
+  2. Trattieni la posizione solida e immobile contro il carico del cavo per il tempo prestabilito, contraendo intensamente il tricipite.
+  3. Ritorna lentamente e con controllo alla posizione di partenza prima di cambiare braccio.
+
+  Note:
+  Mantieni il gomito fisso lungo il busto senza farlo avanzare o arretrare durante la tenuta isometrica. Spalle basse e rilassate.
+search_terms:
+- Pushdown per tricipiti isometrico
+- Estensioni tricipiti ai cavi isometriche
+- Pushdown unilaterale isometrico
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5012'
-description: |-
-  In piedi davanti al cavo, spingi la maniglia verso il basso con il gomito bloccato a metà movimento (circa 90 gradi) e mantieni la posizione statica contraendo intensamente il tricipite contro la resistenza costante.

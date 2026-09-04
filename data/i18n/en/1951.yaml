@@ -1,17 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1951'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roll Adductors
-description: |-
-  Foam Roll Adductors
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 10-15 passes
-  Type: soft_tissue
+description: 'Lie face down on a mat and prop yourself onto your forearms. Place a foam roller parallel to your body and extend one leg out to the side with the knee bent at roughly 90 degrees, resting your inner thigh on top of the roller. Slowly roll back and forth from just above the knee joint up toward the groin, pausing on tight spots for 10-15 passes per side. (Part of Joe DeFranco''s Limber 11 routine; note: this exercise entry is deprecated).'
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+- Foam Roll Adductors
+- Adductor Foam Rolling
+- Inner Thigh Foam Roll

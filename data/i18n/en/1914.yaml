@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1914'
 language: en
 status: ai_reviewed
 name: Parallel Bar Support Hold
-description: |-
-  The parallel bars isometric hold is a static upper-body exercise performed on dip bars (parallel bars). Instead of moving up and down like in a traditional dip, you hold a fixed position under tension.
+description: 'Starting position:
+
+  Stand between parallel dip bars. Grasp the bars with a neutral grip and press yourself upward until your arms are fully extended and your feet are suspended off the floor.
+
+
+  Execution:
+
+  Maintain a static hold at the top of the dip position with straight arms (elbows locked without hyperextending). Actively depress your shoulders by pushing down into the bars, keeping your chest proud and your core and glutes braced. Hold this position steadily for the target duration.
+
+
+  Tips:
+
+  Do not allow your shoulders to shrug up toward your ears; maintain continuous scapular depression and a rigid body line throughout the hold.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3061'
+search_terms:
+- Parallel Bar Support Hold
+- Dip Bar Support Hold
+- Isometric Dip Hold

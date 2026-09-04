@@ -2,10 +2,23 @@ exercise_id: '2539'
 language: fr
 status: ai_reviewed
 translated_from: en
-name: Curl pupitre isométrique
+name: Curl pupitre Larry Scott isométrique
+description: |-
+  Position de départ :
+  Installez-vous sur un pupitre Larry Scott en ajustant le siège pour que les aisselles reposent confortablement contre le haut du support incliné. Posez l'arrière du bras à plat sur le coussin en tenant un haltère en supination.
+
+  Exécution :
+  1. Fléchissez le coude pour amener l'haltère à mi-course (angle de coude d'environ 90 degrés), zone où le bras de levier et la tension sont maximaux.
+  2. Maintenez cette position de manière strictement immobile contre la gravité pendant la durée fixée, en contractant intensément le biceps.
+  3. Redescendez l'haltère avec retenue et contrôle jusqu'à la position de départ.
+
+  Conseils :
+  Gardez le coude et le bras bien calés sur le pupitre sans décoller le buste. Évitez de casser le poignet pendant le maintien.
+search_terms:
+- Curl pupitre isométrique
+- Preacher Curl isométrique
+- Curl Scott avec haltère isométrique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5010'
-description: |-
-  Au pupitre Larry Scott, maintenez la charge à mi-course (angle de coude à environ 90 degrés) en contraction isométrique statique pendant la durée indiquée.

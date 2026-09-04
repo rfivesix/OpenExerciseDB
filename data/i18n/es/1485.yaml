@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1485'
 language: es
-status: upstream_unreviewed
-name: Rocking triceps pushdown
+status: ai_reviewed
+name: Pushdown de tríceps con balanceo (Rocking Triceps Pushdown)
 description: |-
-  Coloca los pies debajo de la cuerda e inclina el torso hacia la cuerda. Lleva un pie hacia atrás. Empuja la cuerda hacia abajo e inclina todo el cuerpo hacia atrás sobre el pie trasero mientras empujas para llevar las manos por detrás del cuerpo. No olvides llevar el pecho hacia delante durante el empuje. Al soltar la cuerda lentamente, inclina el cuerpo de nuevo sobre el pie delantero.
+  Posición inicial:
+  Ponte de pie frente a una polea alta con cuerda, en postura de pies escalonada. Sujeta los extremos de la cuerda con agarre neutro e inclina el torso hacia delante, con el peso sobre el pie delantero.
+
+  Ejecución:
+  1. Empuja la cuerda hacia abajo mientras trasladas el peso corporal hacia el pie trasero, permitiendo que las manos lleguen detrás de la línea del cuerpo.
+  2. Separa las puntas de la cuerda al final del recorrido para una contracción máxima de los tríceps.
+  3. Regresa lentamente con control mientras vuelves a apoyar el peso en el pie delantero.
+
+  Consejos:
+  El ligero balanceo amplía el rango de recorrido final y potencia la contracción de la cabeza larga del tríceps.
+search_terms:
+  - Rocking triceps pushdown
+  - Extensión de tríceps con balanceo
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

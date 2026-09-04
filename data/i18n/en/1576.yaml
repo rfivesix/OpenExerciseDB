@@ -1,25 +1,28 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1576'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Snap Down
-description: |-
-  Begin in a standing position with your
-  arms up over your head and your toes pushing into the ground raising
-  your heels up becoming as tall as you can. From this position, perform a
-  small hop with both feet slightly coming off of the ground. As you
-  land, bend your knees and begin to hinge forward at your hips absorbing
-  the landing. Return to the starting position and repeat.&nbsp;
-  You should feel the muscles in your lower body working.&nbsp;
-  Start with your arms and knees fully
-  straightened out. Keep a stable balance as you land and briefly hold
-  that end position, don’t go too fast and become off balanced. Keep your
-  chest up.&nbsp;
-  For a detailed video on landing mechanics, click here: https://youtu.be/RThUCYRDyZw
+description: 'Starting Position:
+
+  Stand tall with feet shoulder-width apart. Reach your arms straight up overhead
+  and rise onto your toes, making your body as tall and elongated as possible.
+
+
+  Execution:
+
+  1. Explosively snap your arms downward while rapidly dropping your hips and bending
+  your knees into a solid athletic stance.
+
+  2. Land softly on full feet, absorbing the force with chest up, hips hinged, and
+  core firmly braced.
+
+  3. Hold the solid athletic landing position for a brief pause before resetting.
+
+
+  Cues:
+
+  Develops rapid deceleration, landing mechanics, and eccentric control to prepare
+  for explosive jumps and changes of direction.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato

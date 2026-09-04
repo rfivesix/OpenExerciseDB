@@ -1,13 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2491'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Abduktorenmaschine
+name: Hüftabduktion an der Maschine
 description: |-
-  Basierend auf Abductors Selection von Technogym.
-  Positioniere dich an der Maschine und öffne deine Beine so weit wie möglich.
-  Kehre langsam in die Ausgangsposition zurück.
+  Ausgangsposition:
+  Setze dich auf die Abduktorenmaschine und lehne deinen Rücken vollständig an das Rückenpolster an. Stelle die Hebel so ein, dass die Außenpolster eng an der Außenseite deiner Oberschenkel oder Knie anliegen. Platziere die Füße auf den Fußstützen.
+
+  Ausführung:
+  1. Drücke deine Beine gegen den Widerstand der Polster so weit wie möglich kontrolliert nach außen auseinander.
+  2. Halte die maximale Abduktion für 1 bis 2 Sekunden und spanne den mittleren und kleinen Gesäßmuskel intensiv an.
+  3. Führe die Beine langsam und kontrolliert wieder zusammen, ohne dass die Gewichtsplatten ganz aufsetzen.
+
+  Hinweise:
+  Bleibe mit dem Gesäß fest auf dem Sitz und nutze keinen Schwung aus dem Oberkörper.
+search_terms:
+- Abduktorenmaschine
+- Hüftabduktion sitzend
+- Seated Hip Abduction
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

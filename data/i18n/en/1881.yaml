@@ -5,11 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1881'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: DB Wrist Extension
-description: |-
-  :   Grab two dumbbells with an overhand grip and lay your forearms across your knees.
-  :   Let your wrists flex fully, then extend your wrists.
+description: "Starting Position: Sit on a bench and grasp two dumbbells with an overhand\
+  \ (pronated) grip. Rest your forearms across your thighs or knees with your wrists\
+  \ extending just past your knees.\nExecution: Lower the dumbbells by allowing your\
+  \ wrists to flex fully downward toward the floor. Then raise the dumbbells by extending\
+  \ your wrists upward as high as comfortable, squeezing the forearm extensors at\
+  \ the top.\nTips: Keep your forearms stationary throughout the movement, isolating\
+  \ the wrist extension."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Deflation

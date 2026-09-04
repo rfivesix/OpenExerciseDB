@@ -1,11 +1,26 @@
 exercise_id: '1916'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Tuck Planche
-description: Grundlegende Calisthenics-Progression für die vollständige Planche.
+name: Tuck Planche (eingehockte Planche)
+description: 'Ausgangsposition:
+
+  Platziere deine Hände etwa schulterbreit auf dem Boden oder auf stabilen Parallettes. Die Finger zeigen leicht nach außen oder nach vorne.
+
+
+  Ausführung:
+
+  Drücke dich mit vollkommen gestreckten Armen kraftvoll vom Boden ab und verlagere dein Körpergewicht nach vorne über die Handgelenke. Ziehe die Knie eng an die Brust (Tuck-Haltung) und hebe die Füße und den Unterkörper vollständig vom Boden ab. Runde den oberen Rücken bewusst durch Protraktion der Schulterblätter und baue maximale Spannung im Rumpf auf. Halte diese statische Position für die vorgegebene Zeitspanne.
+
+
+  Hinweise:
+
+  Halte die Arme während des gesamten Haltens absolut gestreckt (kein Einknicken der Ellbogen); die Hauptlast tragen die vordere Schultermuskulatur, der Sägemuskel und der Core.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: ISSACS
   source_id: '3063'
+search_terms:
+- Tuck Planche
+- Planche eingehockt
+- Tuck-Planche

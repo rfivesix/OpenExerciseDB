@@ -1,14 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1546'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Larsen Press
-description: Put your legs up on a separate Bench and press with no leg drive
+description: 'Starting Position:
+
+  Lie back on a flat bench beneath the barbell. Extend your legs straight out in front
+  of you suspended in mid-air (or rest them flat on an adjacent bench), completely
+  removing your feet from the floor. Grasp the bar slightly wider than shoulder-width
+  and retract your shoulder blades.
+
+
+  Execution:
+
+  1. Unrack the bar and lower it with steady control to your mid-chest, keeping your
+  core rigidly braced for balance.
+
+  2. Press the barbell straight back up to full arm extension using pure upper-body
+  pressing power, completely devoid of leg drive.
+
+  3. Pause briefly at lockout before beginning the next repetition.
+
+
+  Cues:
+
+  Eliminating leg drive places tremendous isolated overload on the pectorals and triceps
+  while forcing significant core and scapular stability.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2495'
+search_terms:
+- Feet-Up Bench Press
+- Larsen Bench Press

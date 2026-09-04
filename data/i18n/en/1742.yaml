@@ -1,13 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1742'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Back Lever
-description: Hanging from a pull-up bar facing downwards with your arms extended
+description: "Starting Position:\nHang from a pull-up bar or gymnastics rings with\
+  \ an overhand or supinated grip. Pass your legs through your arms into an inverted\
+  \ hang (skin the cat position), facing downward toward the floor.\n\nExecution:\n\
+  1. Slowly lower your body from the vertical inverted hang until your entire body—from\
+  \ shoulders through hips and heels—forms a straight, horizontal line parallel to\
+  \ the ground.\n2. Keep your arms completely straight, actively depress and retract\
+  \ your shoulder blades, and contract your glutes, spinal erectors, and core firmly.\n\
+  3. Hold this static position for the prescribed duration while maintaining steady\
+  \ breathing.\n4. Carefully exit the position under control by either pulling back\
+  \ into an inverted hang or lowering to a safe release.\n\nCues:\nDo not allow the\
+  \ hips to sag or pike; progressively build up through tuck and advanced tuck variations\
+  \ to condition the bicep tendons and shoulder joint."
+search_terms:
+  - Back Lever Hold
+  - Gymnastic Back Lever
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

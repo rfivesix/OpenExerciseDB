@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1825'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Chest-Supported Rear Delt Raise
-description: |-
-  "The Y"Position: Set an incline bench to 30-45 degrees. Lie face-down with your chest supported, keeping your head neutral or looking slightly down to avoid neck strain.Grip: Hold light dumbbells with a neutral or thumbs-up grip (thumb pointing to the ceiling).Movement: With straight or slightly bent elbows, raise the dumbbells up and out in a "Y" shape. Focus on moving the shoulders and shoulder blades rather than just lifting the arms.Top Position: Squeeze the shoulder blades together and reach high, ensuring the arms are angled to form a "Y".Control: Lower the dumbbells slowly to the starting position.
+description: "Starting Position:\nSet an incline bench to approximately 30 to 45 degrees.\
+  \ Lie face-down with your chest firmly supported against the pad, feet grounded,\
+  \ and neck neutral. Hold a pair of light dumbbells hanging straight down with a\
+  \ neutral or thumbs-up grip.\n\nExecution:\n1. With elbows slightly unlocked, raise\
+  \ the dumbbells upward and diagonally outward in a wide \"Y\" arc.\n2. Focus on\
+  \ pulling through your rear deltoids and retracting your scapulae at peak height.\n\
+  3. Squeeze firmly at the top when your arms are roughly level with your shoulders\
+  \ for a one-second pause.\n4. Slowly lower the weights back to the starting position\
+  \ under full control.\n\nCues:\nResting your chest against the bench prevents body\
+  \ swaying and ensures strict, isolated posterior deltoid and upper-back recruitment."
+search_terms:
+  - Chest-Supported Rear Delt Raise
+  - Incline Rear Delt Fly
+  - Prone Incline Rear Delt Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

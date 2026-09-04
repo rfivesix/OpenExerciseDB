@@ -5,22 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1886'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Supine Hip Abduction
-description: |-
-  Starting Position:
-  Lie on your back (supine) on a mat, with your legs extended and
-  relaxed. Arms can be placed alongside your body or out to the sides for
-  stability.
-  The Movement:
-  Slightly lift one leg off the floor (keeping it straight or with a
-  slight bend). Move it laterally outward, away from the other leg, as if
-  stepping over a small obstacle.
-  Range of Motion:
-  Move the leg as far as comfortable without lifting your pelvis or
-  rotating your torso, feeling a stretch in the inner thigh and hip.
-  Return: Slowly bring the leg back to the starting position with controlled movement.
-  Goal: Improves lateral hip mobility (abduction) and strengthens the pelvic stabilizer muscles.
+description: "Starting Position:\nLie on your back (supine) on a mat, with your legs\
+  \ extended and\nrelaxed. Arms can be placed alongside your body or out to the sides\
+  \ for\nstability.\nThe Movement:\nSlightly lift one leg off the floor (keeping it\
+  \ straight or with a\nslight bend). Move it laterally outward, away from the other\
+  \ leg, as if\nstepping over a small obstacle.\nRange of Motion:\nMove the leg as\
+  \ far as comfortable without lifting your pelvis or\nrotating your torso, feeling\
+  \ a stretch in the inner thigh and hip.\nReturn: Slowly bring the leg back to the\
+  \ starting position with controlled movement.\nGoal: Improves lateral hip mobility\
+  \ (abduction) and strengthens the pelvic stabilizer muscles."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

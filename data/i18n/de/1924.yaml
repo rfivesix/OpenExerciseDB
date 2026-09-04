@@ -1,10 +1,25 @@
 exercise_id: '1924'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Bauchpresse (3008 Abdominal Crunch)
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Diese Übung ist speziell für das Gerät gym80 3008 Abdominal Crunch.
+name: Bauchpresse an der Maschine (gym80 3008)
+description: 'Ausgangsposition:
+
+  Setze dich auf das Gerät gym80 3008 Abdominal Crunch. Stelle Sitzhöhe und Polster so ein, dass die Drehachse der Maschine auf Höhe deiner Lendenwirbelsäule liegt. Klemme die Beine an den Rollen ein und lehne den oberen Rücken an das Brustpolster. Greife die Griffe locker.
+
+
+  Ausführung:
+
+  Atme aus und rolle den Oberkörper durch kraftvolles Anspannen der Bauchmuskeln nach vorne unten ein. Halte die maximale Kontraktion im geraden Bauchmuskel am tiefsten Punkt für eine Sekunde. Führe die Bewegung langsam und kontrolliert gegen den Widerstand zurück, ohne dass die Gewichte zwischen den Wiederholungen aufsetzen.
+
+
+  Hinweise:
+
+  Die Bewegung erfolgt rein aus dem Einrollen der Wirbelsäule; ziehe nicht mit den Armen und drücke nicht mit den Beinen gegen die Polster.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3073'
+search_terms:
+- Bauchpresse (3008 Abdominal Crunch)
+- gym80 3008 Abdominal Crunch
+- gym80 Klappsitz

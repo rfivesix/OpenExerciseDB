@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2497'
 language: en
-status: upstream_unreviewed
-name: DB Floor Press (5kg Single Arm)
+status: ai_reviewed
+name: Single-Arm Dumbbell Floor Press
 description: |-
-  Vasco custom single-arm DB floor press for 5kg dumbbell home training. Unilateral work for symmetry and core anti-rotation. Part of Monday Push day.
+  Starting Position:
+  Lie on your back on the floor or an exercise mat with knees bent and feet flat. Hold a dumbbell in one hand directly over your chest with arm extended. Keep your opposite arm resting on the floor for lateral stabilization.
+
+  Execution:
+  1. Lower the dumbbell slowly, keeping your elbow at roughly a 45-to-60-degree angle from your torso, until your tricep touches the floor gently.
+  2. Pause briefly at the bottom without letting the weight rest entirely on the floor.
+  3. Drive the dumbbell straight back up to full extension by contracting your chest and triceps.
+  4. Complete your prescribed reps, then switch hands.
+
+  Cues:
+  Brace your core tightly to resist torso rotation; the floor naturally restricts excessive shoulder extension.
+search_terms:
+- DB Floor Press (5kg Single Arm)
+- Single-Arm Floor Press
+- One Arm Dumbbell Floor Press
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4979'

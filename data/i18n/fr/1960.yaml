@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1960'
 language: fr
-status: upstream_unreviewed
-name: Étirement des fléchisseurs de la hanche, pied arrière surélevé
-description: |-
-  Étirement des fléchisseurs de la hanche, pied arrière surélevé
-  Fait partie de : Limber 11
-  Source : Joe DeFranco
-  Prescription : 5 à 10 répétitions de chaque côté
-  Type : dynamique
-  Comprend un mouvement dynamique ainsi qu'un maintien de 3 s.
+status: ai_reviewed
+name: Étirement des fléchisseurs de hanche avec pied arrière surélevé
+description: 'Position de départ :
+
+  Placez-vous en fente devant un banc ou un support, le cou-de-pied de la jambe arrière posé sur le support et le genou au sol sur un tapis. La jambe avant est fléchie à 90 degrés, buste droit.
+
+
+  Exécution :
+
+  Basculez le bassin en rétroversion et contractez puissamment le fessier de la jambe arrière en avançant légèrement les hanches. Maintenez l''étirement intense du psoas et du quadriceps pendant 3 secondes, relâchez légèrement et répétez 5 à 10 fois par côté de manière dynamique.
+
+
+  Conseils :
+
+  Fait partie de la routine Limber 11. Ne cambrez pas le bas du dos; l''activation du grand fessier est indispensable pour étirer les fléchisseurs de hanche en toute sécurité.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4920'
+search_terms:
+- Étirement des fléchisseurs de la hanche, pied arrière surélevé
+- Rear-foot-elevated Hip Flexor Stretch

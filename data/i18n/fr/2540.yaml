@@ -3,9 +3,22 @@ language: fr
 status: ai_reviewed
 translated_from: en
 name: Tirage vertical isométrique
+description: |-
+  Position de départ :
+  Asseyez-vous au tirage vertical et ajustez le boudin pour caler fermement les cuisses. Saisissez la barre avec une prise large en pronation. Sortez la poitrine, engagez les omoplates vers le bas et inclinez très légèrement le buste en arrière.
+
+  Exécution :
+  1. Tirez la barre vers le bas jusqu'au niveau du haut de la poitrine ou de la clavicule.
+  2. Maintenez cette position de contraction maximale de façon parfaitement immobile pendant le temps imparti, en serrant fortement les dorsaux.
+  3. Laissez remonter la barre lentement et de manière maîtrisée à la fin du maintien.
+
+  Conseils :
+  Gardez la poitrine ouverte et les coudes tirés vers le bas. Ne laissez pas les épaules s'enrouler vers l'avant pendant la contraction isométrique.
+search_terms:
+- Lat pulldown isométrique
+- Tirage poitrine isométrique
+- Maintien tirage vertical
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5011'
-description: |-
-  Assis à la poulie haute, descendez la barre à hauteur de clavicules et maintenez la contraction de manière isométrique continue contre la charge.

@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2486'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Erholungs-Bobbing im Wasser
+name: Erholungs-Bobbing im Tiefwasser
 description: |-
-  Gleiche Bewegung wie bei der Ausatmungsübung im Wasser, aber in etwas tieferem Wasser (sodass du den Boden nicht berührst) und in einem langsameren, entspannteren Tempo — als Erholungs-/Reset-Übung statt als anstrengender Drill. Nutze sie zwischen schwierigeren Drills, um deinen Atemrhythmus zurückzusetzen und dich zu beruhigen, wenn du dich gehetzt oder aus dem Takt fühlst.
+  Ausgangsposition:
+  Begib dich in etwas tieferes Wasser, in dem deine Füße den Boden nicht berühren (oder nur ganz leicht tippen). Halte deinen Körper aufrecht und entspannt.
+
+  Ausführung:
+  1. Atme an der Oberfläche ruhig und tief durch den Mund ein.
+  2. Lasse dich sanft unter Wasser sinken und atme langsam, gleichmäßig und vollständig durch die Nase oder den Mund aus.
+  3. Führe eine sanfte Paddelbewegung mit den Händen oder einen leichten Beinschlag aus, um ruhig und ohne Hast wieder an die Oberfläche zu gleiten.
+  4. Atme an der Oberfläche entspannt ein und sinke direkt wieder ab.
+
+  Hinweise:
+  Nutze diese Übung als aktive Erholungspause zwischen anstrengenden Schwimmabschnitten, um Herzfrequenz und Atmung wieder zu harmonisieren.
+search_terms:
+- Erholungs-Bobbing im Wasser
+- Recovery Bobbing
+- Tiefwasser Bobbing
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

@@ -1,20 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2522'
 language: en
-status: upstream_unreviewed
-name: Tricep Pull-Down
+status: ai_reviewed
+name: Band Triceps Pushdown
 description: |-
-  Secure Band above you.
+  Starting Position:
+  Secure a resistance band to an overhead anchor point such as a pull-up bar or door anchor. Stand facing the anchor with feet hip-width apart and knees slightly bent. Grasp the band handles or loop with an overhand or neutral grip, pinning your elbows tight against your ribs.
 
-  Stand facing band, with feet hip-width apart.
-  Bend your knees slightly to engage your core.
-  Keep your chest up, pin your shoulder blades back, and tuck your elbows tightly to the sides of your torso.
-  Exhale and pull the band straight down toward your thighs.
-  Inhale and slowly control the band as you let your arms return upwards to their starting position.
+  Execution:
+  1. Extend your elbows smoothly downward to pull the band straight down until your arms are fully locked out beside your thighs.
+  2. Squeeze your triceps hard at the bottom for 1 to 2 seconds.
+  3. Slowly allow your elbows to flex back up under control until your forearms reach roughly 90 degrees.
+
+  Cues:
+  Keep your upper arms locked in place against your torso; do not swing your elbows forward or shrug your shoulders.
+search_terms:
+- Tricep Pull-Down
+- Band Tricep Pushdown
+- Resistance Band Triceps Pushdown
 upstream:
   license: CC-BY-SA-4.0
   license_author: G. Johnson

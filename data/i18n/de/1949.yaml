@@ -1,28 +1,36 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1949'
 language: de
-status: upstream_unreviewed
-name: Limber 11
-description: |-
-  Limber 11
-  Quelle: Joe DeFranco
+status: ai_reviewed
+name: Limber-11-Mobilitätsroutine
+description: 'Die Limber-11-Routine nach Coach Joe DeFranco ist ein hocheffektives Aufwärm- und Mobilitätsprogramm für den Unterkörper und die Hüfte. Sie kombiniert myofasziale Selbstmassage (SMR) mit dynamischen und statischen Dehnübungen:
 
-  Foam-Rolling Tractus iliotibialis [soft_tissue] - 10-15 Durchgänge
-  Foam-Rolling Adduktoren [soft_tissue] - 10-15 Durchgänge
-  SMR Gesäßmuskulatur (Lacrosse-Ball) [soft_tissue] - 30 Sek-2 Min
-  Bent-knee Iron Cross [dynamic] - 5-10 Wiederholungen pro Seite
-  Roll-overs in V-Sits [dynamic] - 10 Wiederholungen
-  Rocking Frog Stretch [dynamic] - 10 Wiederholungen
-  Fire Hydrant Circles [dynamic] - 10 vorwärts / 10 rückwärts
-  Mountain Climbers [dynamic] - 10 Wiederholungen pro Bein
-  Cossack Squats [dynamic] - 5-10 Wiederholungen pro Seite
-  Sitzende Piriformis-Dehnung [isometric] - 20-30 Sek pro Seite
-  Hüftbeuger-Dehnung mit erhöhtem hinterem Fuß [dynamic + 3s halten] - 5-10 Wiederholungen pro Seite
+
+  1. Faszienrolle IT-Band (10–15 Durchgänge pro Seite)
+
+  2. Faszienrolle Adduktoren (10–15 Durchgänge pro Seite)
+
+  3. Faszienmassage Gesäß mit Lacrosseball (30 Sek.–2 Min. pro Seite)
+
+  4. Eisernes Kreuz mit angewinkelten Beinen (5–10 Wdh. pro Seite)
+
+  5. Rollen in den V-Sitz (10 Wiederholungen)
+
+  6. Wippende Frosch-Dehnung (10 Wiederholungen)
+
+  7. Hydrantenkreisen (10 vorwärts / 10 rückwärts pro Seite)
+
+  8. Mountain Climbers (10 Wiederholungen pro Bein)
+
+  9. Kosaken-Kniebeuge (5–10 Wiederholungen pro Seite)
+
+  10. Sitzende Piriformis-Dehnung (20–30 Sek. pro Seite)
+
+  11. Hüftbeuger-Dehnung mit erhöhtem hinteren Fuß (5–10 Wdh. inkl. 3s Halten pro Seite)'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4254'
+search_terms:
+- Limber 11
+- Joe DeFranco Limber 11
+- Hüftmobilität Limber 11

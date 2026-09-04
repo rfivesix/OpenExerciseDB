@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1719'
 language: en
-status: upstream_unreviewed
-name: Jalon caballero unialteral
-description: Pull performed in knight's stance
+status: ai_reviewed
+name: Half-Kneeling One-Arm Lat Pulldown
+description: |-
+  Starting position:
+  Set a cable pulley high and attach a single handle. Adopt a half-kneeling position on the floor, placing the knee on the working side on the ground and the opposite foot forward for balance. Grasp the handle with your arm extended overhead.
+  
+  Movement:
+  1. Pull the handle down toward your shoulder, driving your elbow straight down toward your hip.
+  2. Squeeze your lat tightly at the bottom of the movement.
+  3. Slowly allow your arm to extend back overhead, feeling a deep stretch along the side of your back.
+  
+  Tips:
+  Keep your torso upright and core engaged. The half-kneeling position prevents lower body sway and isolates the latissimus dorsi.
+search_terms:
+  - Jalon caballero unialteral
+  - Half-kneeling lat pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

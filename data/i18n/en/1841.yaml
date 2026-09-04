@@ -5,15 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1841'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Shoulder Extension Stretch
-description: |-
-  Sit with your hands behind you, shoulder width apart.
-  Lock your elbows.
-  Scoot your feet and hips out forwards, lowering your shoulders down towards ground.
-  Go as far as possible to obtain a good stretch.
-
-  See the video: https://www.youtube.com/watch?v=ihUAbG0e8zw
+description: "Starting Position: Sit on the floor with your hands placed behind you\
+  \ about shoulder-width apart, fingers pointing backward or slightly outward.\nExecution:\
+  \ Keep your arms extended and slide your hips and feet forward, moving your shoulders\
+  \ into extension until you feel a comfortable stretch across the anterior deltoids\
+  \ and chest.\nTips: Move only as far as comfortable without pain. Hold the stretch\
+  \ for 20–30 seconds while breathing steadily."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

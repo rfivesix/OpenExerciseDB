@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1724'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Adduktion im Stehen (Kabelzug)
 description: |-
   Halte deine Hüften gerade und ruhig und ziehe das Kabel nur mit deiner Oberschenkelinnenseite über dein gegenüberliegendes Bein.

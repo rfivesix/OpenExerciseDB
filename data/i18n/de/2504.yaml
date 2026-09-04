@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2504'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kurzhantel-Hammercurls
-description: Vasco-spezifischer einarmiger Hammercurl mit einer 5-kg-Kurzhantel. Zielt für mehr Armumfang auf den Brachialis ab. Teil des Pull-Trainings am Dienstag.
+description: |-
+  Ausgangsposition:
+  Stelle dich aufrecht mit hüftbreitem Stand hin (oder setze dich auf eine Bank). Halte in jeder Hand eine Kurzhantel im neutralen Griff (Handflächen zeigen zueinander). Die Arme hängen seitlich am Körper herab, die Schultern sind nach hinten unten fixiert.
+
+  Ausführung:
+  1. Beuge die Ellbogen und curle die Hanteln kontrolliert nach oben in Richtung Schultern, während die Handflächen während der gesamten Bewegung zueinander gerichtet bleiben.
+  2. Halte die Kontraktion am obersten Punkt für 1 Sekunde und spanne Brachialis und Brachioradialis fest an.
+  3. Senke die Kurzhanteln langsam und kontrolliert wieder vollständig nach unten ab.
+
+  Hinweise:
+  Halte die Ellbogen fest an den Seiten des Oberkörpers fixiert und vermeide jeglichen Schwung aus den Schultern oder dem Rumpf.
+search_terms:
+- Kurzhantel-Hammercurls
+- Dumbbell Hammer Curls
+- Hammer Curls Kurzhantel
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'

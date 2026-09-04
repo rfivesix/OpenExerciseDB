@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1846'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reiterstellung (Seitspagat)
-description: |-
-  Stelle dich wie für eine Kniebeuge hin, mit weit auseinanderstehenden Füßen und leicht nach außen gedrehten Fußspitzen.
-  Gehe sanft in eine tiefe, breite Kniebeuge – deine Hüften sollten unter deinen Knien sein.
-  Halte 3 bis 5 Sekunden.
-  Komme kontrolliert wieder hoch und wiederhole nach Bedarf.
+description: "Stelle dich wie für eine Kniebeuge hin, mit weit auseinanderstehenden\
+  \ Füßen und leicht nach außen gedrehten Fußspitzen.\nGehe sanft in eine tiefe, breite\
+  \ Kniebeuge – deine Hüften sollten unter deinen Knien sein.\nHalte 3 bis 5 Sekunden.\n\
+  Komme kontrolliert wieder hoch und wiederhole nach Bedarf."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

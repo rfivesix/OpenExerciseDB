@@ -3,9 +3,22 @@ language: it
 status: ai_reviewed
 translated_from: de
 name: Distensioni su panca piana isometriche
+description: |-
+  Posizione di partenza:
+  Sdraiati supino su una panca piana con gli occhi sotto il bilanciere. Adduci e deprimi le scapole, appoggia i piedi saldamente a terra e impugna il bilanciere con una presa prona leggermente più ampia delle spalle. Stacca il bilanciere dai supporti e stabilizzalo sopra il petto a braccia distese.
+
+  Esecuzione:
+  1. Abbassa il bilanciere in modo controllato fino all'altezza prestabilita (ad esempio pochi centimetri sopra il petto o al punto di stallo), oppure spingi contro i fermi di sicurezza (pin) del rack.
+  2. Trattieni il bilanciere completamente fermo in tale posizione per il tempo prestabilito, contraendo con la massima intensità pettorali, deltoidi anteriori e tricipiti.
+  3. Spingi il bilanciere verso l'alto tornando alla posizione di blocco al termine della serie prima di riappoggiarlo.
+
+  Note:
+  Mantieni una solida tensione di tutto il corpo e una spinta costante delle gambe sul pavimento. Non appoggiare il peso direttamente sullo sterno.
+search_terms:
+- Panca piana isometrica
+- Bench Press Isometric
+- Tenuta isometrica su panca piana
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5007'
-description: |-
-  Esercizio di forza statica su panca piana in cui trattieni il bilanciere o i manubri senza movimento a un'altezza prestabilita (sul petto, a metà corsa o vicino al blocco) per un tempo determinato, massimizzando la tensione muscolare.

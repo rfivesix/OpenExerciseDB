@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1867'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Flexor Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Assume a half-kneeling lunge position with your back\
+  \ knee resting on a comfortable mat and your front knee bent at 90 degrees. Keep\
+  \ your torso tall and upright.\nExecution: Squeeze the glute on the trailing leg\
+  \ and tuck your tailbone slightly. Gently glide your hips forward until you feel\
+  \ a targeted stretch across the front of your rear hip and upper thigh.\nTips: Maintain\
+  \ an upright spine without overarching your lower back. Hold for 20–30 seconds while\
+  \ breathing steadily, then switch sides."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1832'
 language: de
-status: upstream_unreviewed
-name: Stützhalt an den Ringen
-description: |-
-  Halte dich in einer Stützposition auf Turnringen, die Arme gestreckt an den Seiten. Achte darauf, die Ringe leicht nach außen gedreht zu halten und eine Hollow-Body-Position einzunehmen. Dies ist ein isometrischer Halt für Brust, Schultern und Trizeps.
+status: ai_reviewed
+name: Stützhalt an den Turnringen
+description: "Ausgangsposition:\nStelle dich zwischen zwei frei hängende Turnringe.\
+  \ Greife die Ringe im festen neutralen Griff. Springe oder drücke dich nach oben\
+  \ in den Stütz mit vollkommen gestreckten Armen.\n\nAusführung:\n1. Drehe die Ringe\
+  \ aktiv leicht nach außen (Rings Turned Out / RTO), sodass die Daumen nach außen\
+  \ zeigen und die Unterarme die Ringgurte nicht berühren.\n2. Drücke die Schultern\
+  \ kraftvoll nach unten (Depression der Schulterblätter) und fixiere die Ellenbogen\
+  \ in voller Streckung.\n3. Nimm eine Hollow-Body-Position ein: Spanne Bauch und\
+  \ Gesäß maximal an, halte die Beine geschlossen und die Zehen gestreckt.\n4. Halte\
+  \ diese Position ruhig und stabil für die angegebene Zeitdauer.\n\nHinweise:\nEine\
+  \ fundamentale gymnastische Kraft- und Stabilisationsübung. Die frei schwingenden\
+  \ Ringe verlangen maximale Gelenkstabilität in Schultern, Brust und Trizeps."
+search_terms:
+  - Ring Support Hold
+  - Stützhalt Ringe
+  - Turnring Stütz
+  - RTO Support Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

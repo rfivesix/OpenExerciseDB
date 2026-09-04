@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1779'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotación con landmine
-description: |-
-  Comienza con la barra de landmine recta hacia arriba, empujándola por encima de ti con los hombros. Luego, desde esa posición, llévala hacia un costado para trabajar los abdominales y vuelve a la posición inicial.
+description: "Posición inicial:\nAncla un extremo de la barra en un soporte landmine.\
+  \ Colócate de pie frente a la barra con los pies al ancho de los hombros. Sujeta\
+  \ el extremo libre con ambas manos entrelazadas y los brazos extendidos frente al\
+  \ pecho. Activa el abdomen y flexiona ligeramente las rodillas.\n\nEjecución:\n\
+  1. Desciende la barra en un arco amplio y controlado hacia un lado de la cadera\
+  \ manteniendo los brazos casi rectos.\n2. Rota el tronco de forma controlada pivotando\
+  \ levemente sobre el pie trasero y frenando la carga con los oblicuos.\n3. Impulsa\
+  \ la barra de vuelta hacia arriba al centro y desciéndela de inmediato hacia el\
+  \ lado opuesto.\n\nConsejos:\nMantén los brazos prácticamente extendidos; la rotación\
+  \ y el frenado deben ser ejecutados por el core y los oblicuos."
+search_terms:
+  - Rotación con landmine
+  - Landmine Rotation
+  - Giros en landmine
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

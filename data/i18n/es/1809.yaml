@@ -1,18 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1809'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hiperextensión inversa
-description: |-
-  Túmbate boca abajo sobre un banco con las piernas colgando por el borde.
-
-  Flexiona las caderas de modo que los muslos queden verticales, flexionando al mismo tiempo las rodillas para que las espinillas permanezcan horizontales.
-  Estira las piernas hasta que queden rectas y las puntas de los pies apunten hacia atrás en horizontal.
-  Vuelve a la posición inicial y repite.
+description: "Posición inicial:\nTúmbate boca abajo sobre un banco plano o máquina\
+  \ de hiperextensión inversa, de modo que las caderas queden al borde y las piernas\
+  \ cuelguen libremente hacia abajo. Agárrate con firmeza al banco para fijar el torso.\n\
+  \nEjecución:\n1. Contrae los glúteos y los isquiotibiales para elevar las piernas\
+  \ hacia atrás y hacia arriba en un movimiento controlado.\n2. Sube hasta que las\
+  \ piernas queden alineadas con el torso, apretando los glúteos en la parte alta.\n\
+  3. Desciende las piernas lentamente hasta la posición inicial sin balanceo.\n\n\
+  Consejos:\nEvita arquear en exceso la zona lumbar; el movimiento debe ser generado\
+  \ principalmente por la extensión de cadera."
+search_terms:
+  - Hiperextensión inversa
+  - Reverse Hyperextension
+  - Reverse Hyper
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

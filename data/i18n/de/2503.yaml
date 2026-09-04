@@ -1,11 +1,23 @@
 exercise_id: '2503'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Face Pulls mit Handtuch/Türrahmen
+name: Face Pulls am Türrahmen (mit Handtuch)
 description: |-
-  Individuelle Face-Pull-Variante von Vasco mit Türrahmen oder Handtuch zur Entwicklung der hinteren Schultern. Ohne Geräte. Teil des dienstäglichen Zugtrainings.
+  Ausgangsposition:
+  Wickle ein stabiles Handtuch um einen festen Türrahmen (oder einen stabilen Pfosten). Greife beide Enden des Handtuchs fest mit den Händen. Stelle deine Füße nah an die Türbasis und lehne deinen Körper mit geradem Rücken nach hinten, bis deine Arme gestreckt sind.
+
+  Ausführung:
+  1. Ziehe deinen Oberkörper nach vorne oben, indem du die Ellbogen hoch und weit nach hinten außen führst, bis deine Hände auf Höhe der Schläfen bzw. Ohren sind.
+  2. Rotiere am Endpunkt die Unterarme leicht nach hinten und ziehe die Schulterblätter und hinteren Deltamuskeln maximal zusammen.
+  3. Senke dich langsam und kontrolliert wieder nach hinten ab, bis die Arme gestreckt sind.
+
+  Hinweise:
+  Je näher die Füße am Türrahmen stehen, desto höher ist der Widerstand. Ausgezeichnete Übung zur Stärkung der hinteren Schultern und Rotatorenmanschette im Heimtraining.
+search_terms:
+- Face Pulls mit Handtuch/Türrahmen
+- Doorframe Face Pull
+- Körpergewichts-Face-Pulls
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4984'

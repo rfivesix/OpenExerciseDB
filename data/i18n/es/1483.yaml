@@ -5,22 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1483'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de bíceps trifecta
 description: |-
-  Este ejercicio es una mezcla de tres curls diferentes: el curl cruzado en supinación, el curl cruzado en pronación y el no money curl. Vas
-  alternando entre tres variantes de curl que cumplen objetivos distintos,
-  y continúas la serie más allá del rango habitual de 8-12 repeticiones, lo que
-  nos da esa intensidad.
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de los hombros, sujetando una mancuerna en cada mano a los lados del cuerpo.
 
-  Para el curl cruzado en
-  supinación, supina el antebrazo con las palmas hacia el techo y
-  los antebrazos cruzando el cuerpo. Eleva hacia el hombro el lado interior de la mancuerna.
-  Para el curl cruzado en
-  pronación, prona el antebrazo con las palmas hacia el suelo (agarre
-  prono o agarre en pronación) y los antebrazos cruzando el cuerpo. Eleva hacia el hombro el lado interior de la mancuerna.
-  Para el no money curl, harás el curl
-  con la mancuerna mientras rotas el hombro hacia afuera. Eleva el lado interior de la mancuerna hacia la parte externa del hombro.
+  Ejecución:
+  Este ejercicio combina tres variaciones de curl de forma continua en una misma serie:
+  1. Curl cruzado en supinación: Supina el antebrazo con la palma hacia arriba y eleva la mancuerna cruzando el torso hacia el hombro opuesto.
+  2. Curl cruzado en pronación: Prona el antebrazo con la palma hacia abajo y eleva la mancuerna cruzando el torso para enfatizar el braquial y el braquiorradial.
+  3. No Money Curl: Realiza el curl rotando externamente los hombros y llevando las manos hacia afuera para una contracción intensa del bíceps.
+
+  Consejos:
+  Realiza cada repetición de forma estricta y sin balanceos para acumular una alta intensidad y tiempo bajo tensión.
+search_terms:
+  - Curl Trifecta
+  - Biceps Curl Trifecta
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

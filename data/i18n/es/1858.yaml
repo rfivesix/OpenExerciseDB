@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1858'
 language: es
-status: upstream_unreviewed
-name: Foam Roller cuadriceps
-description: Deslizate sobre el Foam Roller sobre tus cuadriceps
+status: ai_reviewed
+name: Foam Roller Cuádriceps
+description: "Posición inicial: Túmbate boca abajo apoyado sobre los antebrazos en\
+  \ posición de plancha, con el rodillo de espuma situado bajo la parte anterior de\
+  \ los muslos.\nEjecución: Rueda lentamente desde la parte superior de la cadera\
+  \ hasta justo por encima de las rótulas. Gira las piernas ligeramente hacia dentro\
+  \ o hacia fuera para trabajar todas las porciones del cuádriceps.\nConsejos: Mantén\
+  \ el abdomen activo para evitar arquear la zona lumbar."
+search_terms:
+- Foam Roller cuadriceps
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

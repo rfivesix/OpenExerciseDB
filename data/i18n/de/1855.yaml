@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1855'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle Beinbeuger
-description: Bewege deine Beinbeuger langsam über die Faszienrolle.
+description: "Ausgangsposition: Setze dich auf den Boden und lege die Faszienrolle\
+  \ unter die Rückseite deiner Oberschenkel. Stütze dein Körpergewicht mit den Händen\
+  \ hinter dir ab und hebe das Gesäß an.\nAusführung: Rolle langsam von den Sitzbeinhöckern\
+  \ (unterhalb des Gesäßes) bis kurz vor die Kniekehlen vor und zurück. Drehe die\
+  \ Füße leicht nach innen und außen, um die gesamte Oberschenkelrückseite zu erfassen.\n\
+  Hinweise: Führe die Bewegung kontrolliert aus und halte an verhärteten Stellen kurz\
+  \ inne."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

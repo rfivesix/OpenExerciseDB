@@ -1,13 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1741'
 language: en
-status: upstream_unreviewed
-name: L-Sit Pull-ups
-description: L-Sit Pull-ups train both upper body and core muscles.
+status: ai_reviewed
+name: L-Sit Pull-Ups
+description: "Starting Position:\nGrip a pull-up bar with an overhand grip slightly\
+  \ wider than shoulder-width. Hang with your arms fully extended, then lift your\
+  \ straight legs directly in front of you to a 90-degree angle with your torso, forming\
+  \ an \"L\" shape. Brace your core and hip flexors tightly.\n\nExecution:\n1. Maintaining\
+  \ the strict L-sit position, pull yourself upward by driving your elbows down and\
+  \ back until your chin clears the bar.\n2. Pause briefly at the top while keeping\
+  \ your legs locked horizontally.\n3. Lower your body under strict control back to\
+  \ the full hang without letting your legs drop.\n\nCues:\nKeep your knees fully\
+  \ extended and toes pointed; do not use momentum or kip."
+search_terms:
+  - L-Sit Pull-ups
+  - L-Sit Chin Up
+  - L Sit Pull Up
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

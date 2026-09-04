@@ -1,10 +1,22 @@
 exercise_id: '1467'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Enges Schrägbankdrücken mit Langhantel
-description: Engerer Griff als beim normalen Bankdrücken, knapp außerhalb der Schulterbreite.
+description: |-
+  Ausgangsposition:
+  Lege dich auf eine Schrägbank (ca. 30° bis 45° Neigung). Greife die Langhantel im Obergriff mit einem engen Handabstand (etwa schulterbreit oder minimal enger). Hebe die Hantel aus der Ablage und halte sie mit gestreckten Armen über der oberen Brust.
+
+  Ausführung:
+  1. Senke die Langhantel langsam und kontrolliert zur oberen Brust oder zum Brustbein ab, wobei die Ellenbogen nah am Körper geführt werden (ca. 30–45 Grad zum Rumpf).
+  2. Drücke die Hantel kraftvoll durch Streckung der Ellenbogen wieder nach oben, wobei Trizeps und obere Brustmuskulatur arbeiten.
+  3. Am obersten Punkt kurz pausieren, ohne die Ellenbogen ruckartig durchzuschlagen.
+
+  Hinweise:
+  Greife nicht zu eng (nicht unter Schulterbreite), um die Handgelenke nicht unnötig zu belasten. Die enge Ellenbogenführung verlagert den Schwerpunkt stark auf den Trizeps.
+search_terms:
+  - Incline Close Grip Bench Press
+  - Schrägbankdrücken enger Griff
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -5,19 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: fr
-status: upstream_unreviewed
-name: Spider curl
+status: ai_reviewed
+name: Spider curl aux haltères
 description: |-
-  Pour tirer le meilleur parti des spider curls aux haltères, il vous faut un banc réglable incliné à 45 degrés. Cette position inclinée permet à vos bras de pendre librement, les plaçant dans une position de départ étirée avec les coudes légèrement en avant du tronc, ce qui est la clé pour maintenir une tension isométrique de faible niveau tout au long du mouvement.
+  Position de départ :
+  Réglez un banc inclinable à environ 45 degrés. Allongez-vous à plat ventre, la poitrine bien calée contre le dossier, la tête dépassant le bord supérieur et les pieds ancrés au sol pour assurer la stabilité. Tenez un haltère dans chaque main, les bras pendant verticalement vers le sol et les paumes orientées vers l'avant (prise en supination).
 
-  Allongez-vous à plat ventre sur un banc réglable, la poitrine entièrement soutenue, en tenant une paire d'haltères.
-  Gardez la tête en position neutre et ne tendez pas le cou.
-  Laissez vos bras pendre droit vers le bas, paumes vers l'avant (pour un spider curl classique) ou paumes tournées vers l'intérieur pour une variante en curl marteau.
-  Gardez les pieds stables au sol pour maintenir l'équilibre et le contrôle.
-  Amorcez le mouvement de curl en contractant les biceps et en soulevant la paire d'haltères ou la barre de curl vers les épaules.
-  Gardez la flexion du coude contrôlée. Vos bras doivent rester verrouillés en position, sans mouvement inutile.
-  Contractez fortement au sommet pendant 1 à 2 secondes. C'est là que la tension maximale atteint les fibres musculaires des biceps.
-  Abaissez la charge de manière contrôlée pendant 3 à 4 secondes afin de maintenir les muscles sous tension sur toute l'amplitude de mouvement.
+  Exécution :
+  1. En gardant les bras immobiles et perpendiculaires au sol, fléchissez les coudes pour monter les haltères vers les épaules.
+  2. Contractez intensément les biceps au sommet du mouvement pendant 1 à 2 secondes.
+  3. Redescendez les haltères lentement et avec contrôle (en 3 à 4 secondes) jusqu'à la position d'extension complète des bras.
+
+  Conseils :
+  L'appui ventral élimine tout élan du torse et permet une isolation maximale des biceps sur toute l'amplitude.
+search_terms:
+  - Spider curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

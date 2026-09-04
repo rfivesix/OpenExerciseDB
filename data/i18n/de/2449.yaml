@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2449'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clamshell zu Reverse Clamshell
 description: |-
-  Lege dich auf die Seite, Hüfte und Knie gebeugt, die Beine übereinander. Hebe dein oberes Knie in eine Clamshell-Position und halte das Bein während der gesamten Bewegung angehoben. Wechsle von dort aus zwischen dem Öffnen des Knies nach oben und dem Anheben des Fußes nach oben, indem du durch die Außen- und Innenrotation der Hüfte gehst.
-  Halte die Bewegung langsam und kontrolliert. Lass das obere Bein zwischen den Wiederholungen nicht auf dem unteren Bein ablegen.
+  Ausgangsposition:
+  Lege dich in Seitlage auf die Matte. Beuge Hüfte und Knie in einen 90-Grad-Winkel und lagere die Beine übereinander. Hebe das obere Bein leicht an, sodass es während der gesamten Übung in der Luft bleibt.
+
+  Ausführung:
+  1. Halte die Fersen beieinander und öffne das obere Knie nach oben (klassische Clamshell / Außenrotation).
+  2. Führe das Knie wieder nach unten, bringe die Knie zusammen und hebe gleichzeitig den Fuß nach oben (Reverse Clamshell / Innenrotation).
+  3. Wechsle fließend und kontrolliert zwischen beiden Positionen ab, ohne das obere Bein zwischen den Wiederholungen abzulegen.
+
+  Hinweise:
+  Halte das Becken stabil und aufgerichtet; die Rotation findet ausschließlich im Hüftgelenk statt.
+search_terms:
+- Clamshell to Reverse Clamshell
+- Kombinierte Muschelübung
+- Hüftrotation Kombination
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

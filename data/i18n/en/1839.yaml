@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1839'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Solo Hip Flexor Stretch
-description: 'See this instructive video: https://www.youtube.com/watch?v=qHwyBHS6MQs .'
+description: "Starting Position: Kneel on the floor in a half-kneeling lunge position\
+  \ (one knee on the ground, front leg bent at 90 degrees with the foot flat on the\
+  \ floor). Keep your torso upright.\nExecution: Tuck your pelvis slightly, engage\
+  \ the glute of the trailing leg, and gently shift your hips forward until you feel\
+  \ a deep stretch in the front of your rear hip (hip flexors/psoas).\nTips: Hold\
+  \ the stretch for 20–30 seconds while breathing steadily, then switch sides. Avoid\
+  \ arching your lower back."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

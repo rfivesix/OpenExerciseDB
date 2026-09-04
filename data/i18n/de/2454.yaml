@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2454'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: YTW-Heben
+name: YTW-Heben (Schulterblatt-Aktivierung)
 description: |-
-  Die YTW-Übung zur Schulterblattretraktion soll die Muskeln zwischen den Schulterblättern stärken, um die Schultern zurückzuziehen, und so eine aufrechte Haltung unterstützen.
+  Ausgangsposition:
+  Lege dich bäuchlings auf eine Trainingsmatte (oder neige den Oberkörper im Stand mit geradem Rücken weit nach vorne). Strecke die Arme nach vorne aus, Daumen zeigen nach oben zur Decke.
+
+  Ausführung:
+  1. Y-Position: Hebe die gestreckten Arme diagonal nach vorne oben (ca. 45 Grad), sodass der Körper ein 'Y' bildet. Ziehe die Schulterblätter nach hinten unten und halte 2 Sekunden.
+  2. T-Position: Führe die gestreckten Arme im 90-Grad-Winkel seitlich aus, sodass der Körper ein 'T' bildet. Ziehe die Schulterblätter kraftvoll zusammen und halte 2 Sekunden.
+  3. W-Position: Beuge die Ellbogen an und ziehe sie dicht an die Rippen, während die Hände nach oben außen zeigen ('W'-Form). Ziehe die Schulterblattmuskeln maximal zusammen.
+
+  Hinweise:
+  Führe jede Position kontrolliert und ohne Schwung aus. Die Übung stärkt gezielt den mittleren und unteren Trapezius sowie die Rautenmuskeln für eine aufrechte Körperhaltung.
+search_terms:
+- YTW-Heben
+- YTW Raises
+- Y-T-W Heben
+- Schulterblattretraktion
 upstream:
   license: CC-BY-SA-4.0
   license_author: probablyforging

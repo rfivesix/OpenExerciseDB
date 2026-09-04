@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1884'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement en rotation interne en position shinbox
-description: |-
-  Position de départ : Asseyez-vous au sol, les hanches et les genoux fléchis à un angle de 90 degrés.
-  Placement des jambes :
-  Placez une jambe devant vous (rotation externe) et l'autre jambe sur le côté ou derrière vous (rotation interne). Les tibias et les genoux doivent rester à plat sur le sol.
-  Le mouvement :
-  En gardant les hanches bien parallèles, basculez le torse vers l'avant ou inclinez-le latéralement (d'un côté à l'autre) vers la jambe avant pour approfondir l'étirement.
-  Zones ciblées :
-  Étire les fessiers et le piriforme (jambe avant) ainsi que les fléchisseurs de la hanche et les quadriceps (jambe arrière). Sollicite la sangle abdominale et les obliques pendant la flexion latérale.
-  Objectif : Améliore la mobilité de la hanche, en particulier les rotations interne et externe, et soulage les tensions dans le bas du dos.
+description: "Position de départ : Asseyez-vous au sol, les hanches et les genoux\
+  \ fléchis à un angle de 90 degrés.\nPlacement des jambes :\nPlacez une jambe devant\
+  \ vous (rotation externe) et l'autre jambe sur le côté ou derrière vous (rotation\
+  \ interne). Les tibias et les genoux doivent rester à plat sur le sol.\nLe mouvement\
+  \ :\nEn gardant les hanches bien parallèles, basculez le torse vers l'avant ou inclinez-le\
+  \ latéralement (d'un côté à l'autre) vers la jambe avant pour approfondir l'étirement.\n\
+  Zones ciblées :\nÉtire les fessiers et le piriforme (jambe avant) ainsi que les\
+  \ fléchisseurs de la hanche et les quadriceps (jambe arrière). Sollicite la sangle\
+  \ abdominale et les obliques pendant la flexion latérale.\nObjectif : Améliore la\
+  \ mobilité de la hanche, en particulier les rotations interne et externe, et soulage\
+  \ les tensions dans le bas du dos."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

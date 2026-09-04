@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2534'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Glute Bridge (Beckenheben)
-description: Lege dich auf den Rücken, Hüfte und Knie gebeugt, die Füße auf dem Boden. Hebe aus dieser Position dein Gesäß vom Boden an, bis dein Körper von den Knien bis zu den Schultern eine gerade Linie bildet. Um die Übung intensiver zu machen, kannst du Gewicht hinzufügen, indem du während der Bewegung eine Langhantel auf der Hüfte ruhen lässt, oder du stellst die Füße auf eine leicht erhöhte Fläche wie eine Stufe oder Bank.
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings auf eine Matte. Winkle die Knie an und stelle die Füße hüftbreit flach auf den Boden, etwa eine Handbreite vom Gesäß entfernt. Die Arme liegen entspannt seitlich neben dem Körper.
+
+  Ausführung:
+  1. Spanne deine Bauch- und Gesäßmuskulatur an.
+  2. Drücke dich über die Fersen kraftvoll nach oben, bis Oberschenkel, Becken und Oberkörper eine gerade Diagonale bilden.
+  3. Halte die Kontraktion am obersten Punkt für 1 bis 2 Sekunden und spanne das Gesäß maximal an.
+  4. Senke das Becken langsam und kontrolliert wieder ab, bis es den Boden fast berührt, und starte sofort die nächste Wiederholung.
+
+  Hinweise:
+  Drücke das Becken nicht ins Hohlkreuz über; die Streckung erfolgt rein aus der Hüfte. Zur Steigerung kann eine Hantel auf die Hüfte gelegt oder die Füße auf eine Erhöhung gestellt werden.
+search_terms:
+- Glute Bridge (Beckenheben)
+- Glute Bridge
+- Beckenheben am Boden
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95

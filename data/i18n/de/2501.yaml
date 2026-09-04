@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2501'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Tisch-Körpergewichtsrudern
-description: Vasco-eigenes Tisch-Körpergewichtsrudern für horizontales Ziehen im Heimtraining. Keine Geräte außer einem stabilen Tisch. Teil des Pull-Tags am Dienstag.
+name: Tisch-Körpergewichtsrudern (Inverted Row)
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings unter einen stabilen, schweren Tisch. Fasse die Tischkante mit beiden Händen etwa schulterbreit im Obergriff oder neutralen Griff. Setze deine Fersen auf den Boden und spanne Gesäß und Bauch fest an, sodass der Körper eine gerade Linie bildet.
+
+  Ausführung:
+  1. Ziehe deinen Brustkorb kraftvoll nach oben zur Unterkante der Tischplatte, indem du die Ellbogen nach hinten führst.
+  2. Ziehe am höchsten Punkt die Schulterblätter aktiv zusammen und halte die Spannung für 1 Sekunde.
+  3. Senke den Körper langsam und kontrolliert wieder ab, bis deine Arme fast vollständig gestreckt sind.
+
+  Hinweise:
+  Stelle unbedingt sicher, dass der Tisch standsicher und ausreichend schwer ist, um ein Umkippen auszuschließen. Mit gebeugten Knien und flachen Füßen lässt sich die Intensität verringern.
+search_terms:
+- Tisch-Körpergewichtsrudern
+- Table Inverted Row
+- Inverted Row am Tisch
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4982'

@@ -1,15 +1,32 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1516'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Handstand
-description: |-
-  Handstand free standing by pressing arms into the ground and contracting core and glutes
+description: 'Starting Position:
+
+  Place both hands shoulder-width apart on the floor with fingers splayed for stability.
+  Keep your shoulders active, pressing firmly into the ground.
+
+
+  Execution:
+
+  1. Kick up one leg smoothly while pushing off with the trailing leg until your body
+  is inverted vertically.
+
+  2. Lock your elbows, push tall through your shoulders, and squeeze your core, glutes,
+  and legs together in a straight line.
+
+  3. Balance by making micro-adjustments with your fingertips and the palms of your
+  hands.
+
+
+  Cues:
+
+  Avoid excessive arching in the lower back; keep your ribs pulled down and maintain
+  a rigid hollow body position.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69
   source_id: '2475'
+search_terms:
+- Freestanding Handstand

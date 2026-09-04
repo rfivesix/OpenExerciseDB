@@ -1,19 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1952'
 language: en
-status: upstream_unreviewed
-name: SMR Glutes (lax ball)
-description: |-
-  SMR Glutes (lax ball)
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 30 sec-2 min
-  Type: soft_tissue
+status: ai_reviewed
+name: SMR Glutes with Lacrosse Ball
+description: 'Starting position:
+
+  Sit on the floor and place a firm massage or lacrosse ball under one of your glutes. Support your torso with your hands behind you. For a deeper release, cross the ankle of the targeted leg over the opposite knee into a figure-four position.
+
+
+  Execution:
+
+  Shift your weight onto the ball and roll gently with small, controlled movements across the gluteus maximus, medius, and piriformis to identify tight knots or tender trigger points. When you find a tender spot, pause and maintain direct pressure for 20 to 30 seconds while taking slow, deep breaths until the tension dissipates. Spend 30 seconds to 2 minutes on each side.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Relax your breathing and consciously let the muscle sink into the ball; avoid rolling directly onto bony landmarks like the tailbone.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3103'
+search_terms:
+- SMR Glutes (lax ball)
+- Lacrosse Ball Glute Release
+- Glute Myofascial Release
+- Piriformis Ball Release

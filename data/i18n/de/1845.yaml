@@ -5,12 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1845'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitzendes Good Morning mit weitem Stand (Pancake)
-description: |-
-  Setze dich mit vollständig gestreckten Beinen (Knie durchgedrückt) hin, weit gespreizt in einer Grätschstellung.
-  Lege deine Hände an deinen Nacken.
-  Beuge deinen Oberkörper und Kopf zum Boden.
+description: "Ausgangsposition: Setze dich mit aufrechtem Oberkörper auf den Boden\
+  \ und grätsche die Beine weit auseinander (Pancake-Position). Die Knie bleiben gestreckt\
+  \ und die Zehen zeigen nach oben. Lege die Hände an den Hinterkopf.\nAusführung:\
+  \ Beuge den Oberkörper mit geradem Rücken aus den Hüftgelenken nach vorne (Hüftbeuge),\
+  \ bis eine spürbare Dehnung in den Adduktoren und der Oberschenkelrückseite entsteht.\n\
+  Hinweise: Richte den Oberkörper über die Kraft der Gesäß- und Beinbeugermuskulatur\
+  \ wieder auf. Vermeide es, die Wirbelsäule stark einzurunden."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

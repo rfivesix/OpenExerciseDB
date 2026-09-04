@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1852'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: L-sit
-description: |-
-  Sit on the ground with your legs together and your arms by your sides. Push your body off the ground using your hands, maintaining the same sitting position so that your legs are straight and your feet do not touch the floor.
-  Hold for as long as required.
+description: "Sit on the ground with your legs together and your arms by your sides.\
+  \ Push your body off the ground using your hands, maintaining the same sitting position\
+  \ so that your legs are straight and your feet do not touch the floor.\nHold for\
+  \ as long as required."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

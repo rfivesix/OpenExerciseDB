@@ -2,10 +2,23 @@ exercise_id: '2537'
 language: fr
 status: ai_reviewed
 translated_from: de
-name: Développé militaire isométrique
+name: Développé épaules isométrique à la poulie
+description: |-
+  Position de départ :
+  Positionnez-vous au centre d'une station de poulies basses en tenant les poignées à hauteur d'épaules, paumes vers l'avant et coudes placés sous les poignets. Adoptez une posture stable, pieds écartés à la largeur des épaules, en gainant les abdominaux et les fessiers.
+
+  Exécution :
+  1. Poussez les poignées vers le haut jusqu'à hauteur du front ou à bout de bras juste avant le verrouillage des coudes.
+  2. Maintenez cette position statique sous la tension constante du câble pendant la durée indiquée, en contractant fermement les deltoïdes antérieurs et les triceps.
+  3. Redescendez les poignées lentement et avec contrôle à hauteur des clavicules à la fin du maintien.
+
+  Conseils :
+  Gardez la colonne vertébrale neutre et évitez de cambrer le bas du dos. Respirez calmement pendant toute la phase de contraction isométrique.
+search_terms:
+- Développé militaire isométrique
+- Overhead press isométrique
+- Développé câble statique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5008'
-description: |-
-  Maintenez une charge fixe au-dessus de la tête à bout de bras en contraction isométrique statique pour développer la stabilité des épaules.

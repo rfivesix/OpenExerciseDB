@@ -1,11 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1913'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Einbeiniges Beckenheben (Hip Thrust)
-description: Strecke im Liegen ein Bein aus und beginne, deinen Körper anzuheben, während ein Bein mit der Ferse den Boden berührt.
+name: Einbeiniges Beckenheben (Single-Leg Glute Bridge)
+description: 'Ausgangsposition:
+
+  Lege dich rücklings auf eine Trainingsmatte. Stelle einen Fuß mit gebeugtem Knie flach und fest auf den Boden nahe am Gesäß auf. Strecke das andere Bein gerade nach vorne in Verlängerung des Oberschenkels oder senkrecht nach oben aus. Die Arme liegen entspannt neben dem Körper.
+
+
+  Ausführung:
+
+  Drücke die Hüfte über die Ferse des gebeugten Standbeins kraftvoll nach oben, bis Oberschenkel und Rumpf eine gerade Linie bilden. Spanne das Gesäß am höchsten Punkt fest an und halte die Position für eine Sekunde. Senke das Becken langsam und kontrolliert wieder ab, ohne es komplett auf dem Boden abzulegen, und wiederhole die Bewegung. Absolviere alle Wiederholungen auf einer Seite, bevor du das Bein wechselst.
+
+
+  Hinweise:
+
+  Halte das Becken waagerecht und vermeide ein Abkippen zur Seite des angehobenen Beins.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3060'
+search_terms:
+- Einbeiniges Beckenheben (Hip Thrust)
+- Unilateral Hip Thrust
+- Single-Leg Glute Bridge
+- Einbeinige Brücke

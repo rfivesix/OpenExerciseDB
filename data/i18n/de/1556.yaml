@@ -1,20 +1,37 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1556'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Devil's Press
-description: |-
-  Der Devil's Press ist eine Hybridbewegung, die einen Burpee mit Kurzhanteln und einen beidarmigen Kurzhantel-Snatch kombiniert. Es ist eine hochintensive Ganzkörperübung, die Kraft, Schnellkraft und die metabolische Kondition entwickelt.
+description: 'Ausgangsposition:
 
-  Beginne mit einer Kurzhantel in jeder Hand und führe einen Burpee aus, wobei deine Brust den Boden berührt, während du die Kurzhanteln festhältst.
-  Springe explosiv mit den Füßen nach vorn und schwinge die Kurzhanteln zwischen deinen Beinen hindurch.
-  Reiße die Kurzhanteln in einer durchgehenden Bewegung über den Kopf und strecke die Arme vollständig aus.
-  Senke die Kurzhanteln kontrolliert ab, um in die Ausgangsposition zurückzukehren, und wiederhole die Bewegung
+  Platziere zwei Kurzhanteln schulterbreit vor dir auf dem Boden und stelle dich hüftbreit
+  dahinter auf.
+
+
+  Ausführung:
+
+  1. Gehe in die Hocke, greife die Hantelgriffe, springe mit den Füßen nach hinten
+  in den Liegestütz und senke die Brust bis auf den Boden zwischen die Hanteln ab
+  (Burpee).
+
+  2. Springe mit den Füßen explosiv nach vorne außen neben die Hanteln in einen breiten
+  Stand.
+
+  3. Schwinge die Kurzhanteln mit einem kraftvollen Hüftstoß (Hip Hinge) zwischen
+  den Beinen an und reiße sie in einer flüssigen Snatch-Bewegung direkt über den Kopf.
+
+  4. Führe die Hanteln kontrolliert zum Boden zurück und gehe direkt in die nächste
+  Wiederholung über.
+
+
+  Hinweise:
+
+  Hochintensive Ganzkörperübung, die Kraftausdauer, Schnellkraft und kardiovaskuläre
+  Fitness maximal fordert.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4080'
+search_terms:
+- Devil’s Press
+- Kurzhantel Devil's Press

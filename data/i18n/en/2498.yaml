@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2498'
 language: en
-status: upstream_unreviewed
-name: Pike Push-ups (Vasco L1)
+status: ai_reviewed
+name: Pike Push-Ups
 description: |-
-  Vasco custom pike push-up for shoulder development in beginner home training. Bodyweight only. Part of Monday Push day.
+  Starting Position:
+  Start in a push-up position, then walk your feet forward while pushing your hips high into the air, forming an inverted 'V' shape with your body. Keep your hands shoulder-width apart, arms straight, and head between your shoulders.
+
+  Execution:
+  1. Bend your elbows to lower your head forward and down in a tripod trajectory until the crown of your head lightly grazes the floor just ahead of your hands.
+  2. Press aggressively through your palms and anterior deltoids to push back and up into the starting inverted-V position.
+  3. Keep your core tight and maintain straight legs or slightly bent knees depending on hamstring flexibility.
+
+  Cues:
+  Move diagonally forward on the descent and push straight back up; avoid flaring your elbows wide outward.
+search_terms:
+- Pike Push-ups (Vasco L1)
+- Pike Push-Ups
+- Bodyweight Pike Press
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4980'

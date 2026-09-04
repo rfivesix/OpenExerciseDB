@@ -1,31 +1,32 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1519'
 language: en
-status: upstream_unreviewed
-name: Overhead Triceps Extension
-description: |-
-  Overhead Triceps Extension with EZ Bar – Quick Guide
-  The overhead position emphasizes the long head of the triceps (because it's stretched under load), the exercise does engage all three triceps heads (long, lateral, and medial) to some degree during extension.
+status: ai_reviewed
+name: EZ-Bar Overhead Triceps Extension
+description: 'Starting Position:
 
-  Setup:
-  Sit on a bench (or stand) and hold an EZ bar with a narrow, overhand
-  grip. Lift the bar overhead, arms fully extended. Keep your core tight
-  and elbows close to your head.
+  Sit on a bench with back support or stand upright with a tight core. Grasp an EZ
+  bar using a close overhand grip and press it overhead to arm''s length.
+
+
   Execution:
-  Slowly lower the bar behind your head by bending your elbows until they
-  reach ~90°. Keep elbows pointed forward (not flaring out).
-  Finish: Extend your arms back up to the starting position, squeezing your triceps at the top.
 
-  Tips:
+  1. Keeping your upper arms close to your head and elbows pointing forward, slowly
+  lower the bar behind your head by bending your elbows to roughly 90 degrees.
 
-  Control the movement to avoid straining your shoulders.
-  Use a moderate weight for full range of motion.
-  Keep your back straight and avoid arching.
+  2. Pause briefly in the fully stretched position.
+
+  3. Extend your elbows to press the bar back up to the starting position, contracting
+  your triceps firmly at the top.
+
+
+  Cues:
+
+  Keep your elbows from flaring out wide. The overhead position heavily recruits the
+  long head of the triceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: benjamin.yildiz@proton.me
   source_id: '2476'
+search_terms:
+- EZ Bar Overhead Triceps Extension
+- Overhead Triceps Extension

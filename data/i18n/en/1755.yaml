@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1755'
 language: en
-status: upstream_unreviewed
-name: Shoulder Y-pull cable
-description: on a cable rack cross the cables and pull elbows to ceiling close to the body.
+status: ai_reviewed
+name: Cable Shoulder Y-Raise
+description: "Starting Position:\nAttach D-handles to the low pulleys of a dual-cable\
+  \ station. Stand in the center and grasp the handles with crossed arms (right hand\
+  \ grabs the left cable, left hand grabs the right cable). Begin with your hands\
+  \ crossed in front of your waist.\n\nExecution:\n1. Pull both arms upward and diagonally\
+  \ outward in a smooth sweeping motion until your arms form a \"Y\" shape above shoulder\
+  \ height.\n2. Actively retract and depress your shoulder blades at the top, focusing\
+  \ on your lower trapezius and lateral deltoids.\n3. Slowly lower your arms along\
+  \ the same diagonal path back to the crossed starting position.\n\nCues:\nMaintain\
+  \ a slight, fixed bend in your elbows and avoid arching your lower back to complete\
+  \ the lift."
+search_terms:
+  - Shoulder Y-pull cable
+  - Cable Y-Pull
+  - Cable Y-Raise
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2892'

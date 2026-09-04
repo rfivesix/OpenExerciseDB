@@ -1,10 +1,24 @@
 exercise_id: '2488'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Hintere Beckenkippung
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Lege dich mit gebeugten Knien und flachen Füßen auf den Rücken. Drücke den unteren Rücken gegen den Boden, indem du dein Becken nach hinten kippst und Bauch und Gesäß anspannst. Halte 5 Sekunden, dann löse. Dies trainiert die Beckenposition neu, um einer vorderen Beckenkippung entgegenzuwirken.
+name: Hintere Beckenkippung (Posterior Pelvic Tilt)
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings auf eine Matte. Stelle die Füße hüftbreit flach auf den Boden und beuge die Knie um ca. 90 Grad. Die Arme ruhen entspannt seitlich neben dem Körper. In der neutralen Position besteht eine leichte natürliche Lendenlordose (Hohlkreuz).
+
+  Ausführung:
+  1. Spanne Bauchmuskeln und Gesäßmuskulatur aktiv an.
+  2. Kippe das Becken nach hinten, sodass deine Lendenwirbelsäule komplett flach auf den Boden gedrückt wird und kein Zwischenraum mehr bleibt.
+  3. Halte diesen Druck für 5 Sekunden fest aufrecht, während du ruhig weiteratmest.
+  4. Löse die Anspannung kontrolliert und kehre in die neutrale Beckenposition zurück.
+
+  Hinweise:
+  Dies schult die bewusste Rumpf- und Beckenkontrolle und hilft effektiv, einer übermäßigen vorderen Beckenkippung (Hohlkreuz) entgegenzuwirken.
+search_terms:
+- Hintere Beckenkippung
+- Posterior Pelvic Tilt
+- Beckenkippung Liegen
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj

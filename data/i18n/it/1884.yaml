@@ -5,23 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1884'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Shinbox IR stretch
-description: |-
-  Posizione di partenza: Seduti a terra con entrambe le anche e le ginocchia piegate a 90 gradi.
-  Posizione delle gambe:
-  Una gamba è posizionata davanti (rotazione esterna), l'altra è
-  posizionata di lato/dietro (rotazione interna). Tibie e ginocchia devono
-  rimanere appoggiate a terra.
-  Il movimento:
-  Mantenendo il bacino dritto, inclinare il busto in avanti o
-  lateralmente (da un lato all'altro) verso la gamba anteriore per
-  intensificare l'allungamento.
-  Aree coinvolte:
-  Allunga i glutei e il piriforme (gamba anteriore) e i flessori
-  dell'anca e i quadricipiti (gamba posteriore). Attiva il core e gli
-  obliqui durante la flessione laterale.
-  Obiettivo: Migliora la mobilità dell'anca (rotazione interna ed esterna) e allevia la tensione nella zona lombare.
+description: "Posizione di partenza: Seduti a terra con entrambe le anche e le ginocchia\
+  \ piegate a 90 gradi.\nPosizione delle gambe:\nUna gamba è posizionata davanti (rotazione\
+  \ esterna), l'altra è\nposizionata di lato/dietro (rotazione interna). Tibie e ginocchia\
+  \ devono\nrimanere appoggiate a terra.\nIl movimento:\nMantenendo il bacino dritto,\
+  \ inclinare il busto in avanti o\nlateralmente (da un lato all'altro) verso la gamba\
+  \ anteriore per\nintensificare l'allungamento.\nAree coinvolte:\nAllunga i glutei\
+  \ e il piriforme (gamba anteriore) e i flessori\ndell'anca e i quadricipiti (gamba\
+  \ posteriore). Attiva il core e gli\nobliqui durante la flessione laterale.\nObiettivo:\
+  \ Migliora la mobilità dell'anca (rotazione interna ed esterna) e allevia la tensione\
+  \ nella zona lombare."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

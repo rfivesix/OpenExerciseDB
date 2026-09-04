@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2494'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Endgradige Kniestreckung mit Band
-description: Dies ist eine Kräftigungsübung im Endbereich für die Kniestrecker. Beginne, indem du ein Band um die Rückseite eines Knies legst und das andere Ende vor dir an einer stabilen Fläche befestigst. Stehe im Ausfallschritt, wobei das Knie mit dem Band gebeugt ist und das vordere Bein bildet. Strecke das Knie, um gegen den Widerstand des Bandes zu ziehen, und halte die Anspannung im Quadrizeps bis zu 5 Sekunden, bevor du löst.
+name: Endgradige Kniestreckung mit Band (TKE)
+description: |-
+  Ausgangsposition:
+  Befestige ein elastisches Widerstandsband an einem festen Pfosten auf Kniehöhe. Stelle dich frontal zum Ankerpunkt und lege die Schlaufe um die Kniekehle eines Beins. Gehe in eine leichte Schrittstellung, wobei das trainierte Bein vorne steht und das Knie leicht gebeugt ist.
+
+  Ausführung:
+  1. Drücke die Ferse fest in den Boden und strecke das Knie gegen den Zug des Bandes kraftvoll nach hinten durch.
+  2. Spanne den Quadrizeps (insbesondere den Vastus medialis) am Punkt der vollständigen Streckung für 2 bis 3 Sekunden maximal an.
+  3. Beuge das Knie langsam und kontrolliert wieder gegen den Bandwiderstand leicht nach vorne.
+  4. Wiederhole die Bewegung für die gewünschte Wiederholungszahl und wechsle das Bein.
+
+  Hinweise:
+  Halte den Oberkörper aufrecht; die Bewegung findet isoliert im Kniegelenk statt. Ideal zur Rehabilitation und Stabilisierung des Knies.
+search_terms:
+- Endgradige Kniestreckung mit Band
+- Terminal Knee Extension
+- Band TKE
 upstream:
   license: CC-BY-SA-4.0
   license_author: Rehab Hero

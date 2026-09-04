@@ -1,20 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1959'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Piriformis Stretch
-description: |-
-  Seated Piriformis Stretch
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 20-30 sec each side
-  Type: static
-  Includes isometric hold.
+description: 'Starting position:
+
+  Sit tall on the edge of a chair or bench with feet flat on the floor. Cross the ankle of one leg over the opposite knee into a figure-four position, letting the bent knee open outward.
+
+
+  Execution:
+
+  Maintain an upright posture with a proud chest. Hinge forward at your hips, keeping your back flat, until you feel a deep, focused stretch in the glute and piriformis of the crossed leg. Hold the static stretch for 20 to 30 seconds while breathing smoothly, then switch sides.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Do not round your lower back to reach forward; hinging from the hips with a flat spine produces optimal stretch on the deep hip rotators.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3110'
+search_terms:
+- Seated Piriformis Stretch
+- Chair Piriformis Stretch
+- Figure Four Stretch Seated
+- Limber 11 Piriformis

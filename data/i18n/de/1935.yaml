@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1935'
 language: de
-status: upstream_unreviewed
-name: Belt Squat
-description: |-
-  Belt Squat: eine Kniebeuge-Variante, die mit einem Gürtel ausgeführt wird, der an einer Lademaschine oder Plattform befestigt ist, sodass das Gewicht an der Hüfte statt auf der Wirbelsäule getragen wird. Sie trainiert vor allem die vordere Oberschenkelmuskulatur und die Gesäßmuskulatur, mit deutlich weniger Belastung für den unteren Rücken als eine Langhantel-Kniebeuge. Nutze den vollen Bewegungsumfang, halte den Oberkörper aufrecht und drücke über den Mittelfuß.
+status: ai_reviewed
+name: Belt Squat an der Maschine
+description: 'Ausgangsposition:
+
+  Stelle dich auf die Plattform der Belt-Squat-Maschine und lege den Trainingsgürtel um deine Hüfte. Befestige den Gürtel an der Ladehaken-Kette der Maschine, stelle die Füße schulterbreit auf und halte dich leicht an den Haltegriffen fest.
+
+
+  Ausführung:
+
+  Entriegle das Gewicht und beuge Knie und Hüfte kontrolliert, um in eine tiefe Kniebeuge abzusinken, bis die Oberschenkel mindestens parallel zum Boden stehen. Halte den Oberkörper aufrecht. Drücke dich kraftvoll über die gesamte Fußsohle wieder nach oben in den Stand, ohne die Knie am Umkehrpunkt zu überstrecken.
+
+
+  Hinweise:
+
+  Da das Gewicht direkt an der Hüfte zieht, entlastet die Belt Squat die Wirbelsäule vollständig und eignet sich hervorragend für Personen mit Rückenbeschwerden oder zur gezielten Beinbelastung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4297'
+search_terms:
+- Belt Squat
+- Belt Squat Machine
+- Gürtel-Kniebeuge
+- Kniebeuge am Gürtel

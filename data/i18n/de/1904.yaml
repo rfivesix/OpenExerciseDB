@@ -1,11 +1,16 @@
 exercise_id: '1904'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pec Deck (Butterfly)
-description: |-
-  Isolationsübung für die Brustmuskulatur – ein voller Bewegungsumfang ist am besten, mit vollständiger Kontraktion und langsamer negativer Phase.
+description: "Ausgangsposition: Setze dich auf das Polster der Pec-Deck-Maschine (Butterfly)\
+  \ und drücke den Rücken sowie den Kopf fest an das Rückenpolster. Stelle die Sitzhöhe\
+  \ so ein, dass sich die Ellbogen bzw. Griffe auf Brusthöhe befinden.\nAusführung:\
+  \ Führe die Hebelarme mit leicht gebeugten Ellbogen in einem weiten Bogen vor deiner\
+  \ Brust zusammen. Halte am Punkt der maximalen Kontraktion für 1–2 Sekunden inne\
+  \ und spanne die Brustmuskeln aktiv an.\nHinweise: Führe das Gewicht langsam und\
+  \ kontrolliert zurück, bis eine angenehme Dehnung in der Brustmuskulatur spürbar\
+  \ ist, ohne die Schultergelenke zu überdehnen."
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3051'

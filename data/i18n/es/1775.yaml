@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1775'
 language: es
-status: upstream_unreviewed
-name: Pájaro para deltoides posterior en máquina pec deck
-description: |-
-  Pájaro para el deltoides posterior sentado en la máquina pec deck (de cara a la máquina y extendiendo los brazos hacia atrás; las manos deben quedar a la altura de los hombros).
+status: ai_reviewed
+name: Pájaro en máquina pec deck
+description: "Posición inicial:\nSiéntate de cara al respaldo de la máquina pec deck.\
+  \ Ajusta el asiento de modo que los manillares queden a la altura de los hombros.\
+  \ Apoya el pecho contra el cojín y sujeta las agarraderas con los codos ligeramente\
+  \ flexionados.\n\nEjecución:\n1. Abre los brazos hacia atrás y hacia afuera en un\
+  \ arco horizontal contrayendo los deltoides posteriores.\n2. Mantén la contracción\
+  \ durante un segundo en el punto máximo cuando los brazos estén alineados con el\
+  \ torso.\n3. Regresa lentamente controlando la carga hasta la posición inicial sin\
+  \ dejar caer los pesos.\n\nConsejos:\nMantén los hombros descendidos y enfoca el\
+  \ esfuerzo en la parte posterior del hombro."
+search_terms:
+  - Pájaro en máquina pec deck
+  - Reverse Pec Deck
+  - Pec deck rear delt fly
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

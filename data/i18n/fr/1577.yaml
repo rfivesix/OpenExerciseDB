@@ -1,14 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1577'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement Bretzel
-description: |-
-  Comment réaliser l'étirement Bretzel    Position de départ :        Allongez-vous sur le dos sur une surface plane, comme un tapis.        Fléchissez les genoux et posez les pieds à plat sur le sol.    Placement des jambes :        Levez la jambe droite et croisez-la par-dessus la jambe gauche, en posant le pied droit à l'extérieur du genou gauche.        La jambe gauche doit rester à plat sur le sol.    Placement des bras :        Tendez le bras gauche sur le côté à hauteur d'épaule, en le gardant droit.        Avec la main droite, tirez doucement le genou droit vers le sol, du côté gauche de votre corps.    Étirement :        En tirant le genou vers le bas, essayez de garder l'épaule gauche à plat sur le sol.        Vous devez ressentir un étirement dans la hanche, le bas du dos et éventuellement les pectoraux.    Maintenez la position :        Tenez cette position pendant 20 à 30 secondes, en respirant profondément et en vous relâchant dans l'étirement.        Changez de côté et répétez le mouvement.
+description: 'Position de départ :
+
+  Allongez-vous sur le côté sur un tapis. Fléchissez la jambe supérieure à 90 degrés
+  vers l''avant au sol et maintenez-la plaquée avec la main inférieure.
+
+
+  Exécution :
+
+  1. Pliez le genou inférieur vers l''arrière et attrapez la cheville ou le pied avec
+  la main supérieure.
+
+  2. En expirant, faites pivoter lentement les épaules et le haut du dos vers le sol
+  pour ouvrir la cage thoracique.
+
+  3. Gardez le genou supérieur en contact permanent avec le sol.
+
+  4. Maintenez la position 20 à 30 secondes en respirant profondément, puis changez
+  de côté.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

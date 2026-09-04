@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1727'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seitlicher Überzug mit gestrecktem Arm am Kabelzug
 description: |-
   Halte deinen Oberkörper ruhig und ziehe den Griff seitlich an deinem Körper entlang nach unten, indem du den äußeren Teil des Latissimus einsetzt.

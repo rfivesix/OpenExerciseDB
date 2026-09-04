@@ -1,14 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1521'
 language: es
-status: upstream_unreviewed
-name: Pendular hack
-description: Pendular hack, realizado en máquina pendular
+status: ai_reviewed
+name: Hack squat pendular
+description: 'Posición inicial:
+
+  Colócate en la máquina de sentadilla hack pendular con la espalda y los hombros
+  firmemente apoyados en las almohadillas y los pies a la anchura de los hombros en
+  la plataforma.
+
+
+  Ejecución:
+
+  1. Desciende de forma controlada a lo largo de la trayectoria pendular curvada flexionando
+  rodillas y caderas en una sentadilla profunda.
+
+  2. Empuja fuertemente a través de toda la planta del pie para regresar arriba sin
+  bloquear las rodillas por completo.
+
+  3. Mantén la tensión constante en los cuádriceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin
   source_id: '2610'
+search_terms:
+- Pendular hack
+- Sentadilla hack pendular

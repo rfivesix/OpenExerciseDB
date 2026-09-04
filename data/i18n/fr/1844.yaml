@@ -5,12 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1844'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement de la grenouille
-description: |-
-  Mettez-vous à quatre pattes.
-  Écartez les genoux vers l'extérieur et descendez sur les coudes.
-  Sans bouger les coudes ni les genoux, commencez à vous balancer d'avant en arrière, en cherchant à rapprocher vos fessiers de vos pieds.
+description: "Position de départ : Mettez-vous à quatre pattes et écartez les genoux\
+  \ vers l'extérieur autant que possible. Descendez en appui sur les avant-bras, dos\
+  \ droit.\nExécution : En gardant la colonne vertébrale neutre, balancez lentement\
+  \ le bassin vers l'arrière en direction des talons jusqu'à ressentir un étirement\
+  \ profond dans les adducteurs.\nConseils : Effectuez un mouvement d'oscillation\
+  \ lent et contrôlé ou maintenez la position basse pendant 20 à 30 secondes en respirant\
+  \ calmement."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1580'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Einarmiges Landmine-Rudern (senkrecht)
 description: |-
-  Verwende einen Landmine-Aufsatz, wobei die Langhantel in einem Winkel von 90 Grad zur Seite zeigt. Beuge dich leicht in den Hüften und greife die Langhantel an der Hülse der Gewichtsscheibe. Hebe die Langhantel auf Brusthöhe an, sodass dein Oberarm am höchsten Punkt der Bewegung parallel zum Boden ist.
+  Ausgangsposition:
+  Befestige eine Langhantel in einem Landmine-Aufsatz, sodass die Hantelstange im 90-Grad-Winkel (senkrecht) seitlich zu deinem Körper verläuft. Stelle dich in Schrittstellung oder schulterbreitem Stand neben das beladene Ende der Stange, beuge den Oberkörper mit geradem Rücken aus der Hüfte nach vorne und greife die Hantelaufnahme mit einer Hand.
+
+  Ausführung:
+  Spanne den Rumpf an und ziehe die Langhantel nach oben in Richtung deiner seitlichen Brust bzw. Rippen. Führe den Ellbogen eng am Körper nach hinten oben. Ziehe das Schulterblatt bewusst zusammen, halte die Kontraktion kurz und senke das Gewicht anschließend kontrolliert wieder ab, bis der Arm gestreckt ist.
+
+  Hinweise:
+  - Halte den Rücken neutral und vermeide ein Rotieren des Oberkörpers beim Heben.
+  - Ziehe primär aus dem Ellbogen, um den Latissimus und die obere Rückenmuskulatur optimal zu aktivieren.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

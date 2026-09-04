@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1740'
 language: en
-status: upstream_unreviewed
-name: Single Leg Glute Bridge
-description: A glute bridge, where you use just one leg at a time.
+status: ai_reviewed
+name: Single-Leg Glute Bridge
+description: "Starting Position:\nLie flat on your back on an exercise mat with your\
+  \ knees bent and feet flat on the floor, about hip-width apart. Lift one leg off\
+  \ the floor, either extended straight out in line with your opposite thigh or with\
+  \ the knee tucked toward your chest. Keep your arms resting by your sides for stability.\n\
+  \nExecution:\n1. Drive through the heel of your working foot to lift your hips toward\
+  \ the ceiling until your thighs, hips, and torso form a straight line.\n2. Squeeze\
+  \ your glute firmly at the top of the movement and hold for 1 to 2 seconds.\n3.\
+  \ Lower your hips slowly and under control back toward the floor without fully resting\
+  \ your weight, then begin the next repetition.\n\nCues:\nKeep your pelvis level\
+  \ throughout the movement, preventing the non-working side from sagging or rotating."
+search_terms:
+  - Single Leg Glute Bridge
+  - One Leg Glute Bridge
+  - Unilateral Hip Bridge
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

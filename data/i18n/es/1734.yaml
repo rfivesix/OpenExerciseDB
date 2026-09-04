@@ -1,15 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1734'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zancada con pesa rusa a una pierna
 description: |-
   La "zancada con pesa rusa a una pierna" (o unilateral)
-  es un ejercicio que mejora el equilibrio y la fuerza, implicando sujetar la pesa rusa cerca del pecho o con un brazo (mismo lado de la pierna de apoyo) y bajar en una zancada profunda, alternando piernas, o hacer variantes como sentadillas búlgaras con kettlebell, enfocándose en la estabilidad y el trabajo unilateral del tren inferior para fortalecer cuádriceps, glúteos y femorales, con versiones hacia adelante, atrás o laterales.&nbsp;
+  es un ejercicio que mejora el equilibrio y la fuerza, implicando sujetar la pesa rusa cerca del pecho o con un brazo (mismo lado de la pierna de apoyo) y bajar en una zancada profunda, alternando piernas, o hacer variantes como sentadillas búlgaras con kettlebell, enfocándose en la estabilidad y el trabajo unilateral del tren inferior para fortalecer cuádriceps, glúteos y femorales, con versiones hacia adelante, atrás o laterales.
   Cómo hacer la zancada unilateral con pesa rusa
   Preparación: Ponte de pie con los pies juntos. Sujeta la pesa rusa con ambas manos por el asa, manteniéndola pegada al pecho, o sosténla con una sola mano (del mismo lado que la pierna que trabajará).
   Paso y descenso: Da un gran paso hacia adelante (o hacia atrás, que es más seguro para las rodillas) con una pierna, bajando la cadera hasta que ambas rodillas formen un ángulo de 90 grados.

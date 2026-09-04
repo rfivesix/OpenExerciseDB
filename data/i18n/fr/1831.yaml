@@ -1,18 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1831'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé décliné sur machine Hammer Strength
-description: |-
-  Asseyez-vous bien droit sur une machine Hammer Strength de développé décliné en rapprochant vos omoplates et en posant fermement les talons au sol, sous les genoux.
-  Le dossier doit rester en contact avec votre tête, vos épaules et vos fessiers à tout moment.
-  Saisissez les poignées en prise pronation, juste un peu plus large que la largeur des épaules, légèrement sous la poitrine.
-  En gardant la sangle abdominale gainée par une respiration ventrale et une contraction des abdominaux, poussez à travers les paumes pour tendre les coudes tout en les maintenant à un angle de 45 degrés par rapport au torse.
-  Une fois les bras complètement tendus, revenez à la position de départ.
+description: "Position de départ :\nAsseyez-vous sur la machine Hammer Strength pour\
+  \ développé décliné, les omoplates bien plaquées contre le dossier et les pieds\
+  \ au sol. Réglez le siège pour que les poignées arrivent au niveau du bas des pectoraux.\
+  \ Saisissez les poignées en pronation.\n\nExécution :\n1. Gainez la sangle abdominale\
+  \ et poussez fermement sur les poignées vers l'avant et le bas, coudes orientés\
+  \ à 45 degrés du buste.\n2. Tendez les bras presque complètement en contractant\
+  \ fortement le faisceau inférieur des pectoraux.\n3. Revenez lentement à la position\
+  \ de départ en contrôlant la phase excentrique.\n\nConseils :\nGardez le dos et\
+  \ la tête calés contre le dossier tout au long de la série."
+search_terms:
+  - Développé décliné machine Hammer Strength
+  - Hammer Strength Decline Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

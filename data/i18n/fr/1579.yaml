@@ -1,16 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1579'
 language: fr
-status: upstream_unreviewed
-name: Bronco
-description: |-
-  Test de condition physique pour le rugby. 5 séries de courses navettes de 20 m, 40 m et 60 m (20 yd, 45 yd, 65 yd / repère lointain à 45 yd)
-  À réaliser le plus vite possible
+status: ai_reviewed
+name: Test Bronco (course navette)
+description: 'Test de condition physique pour le rugby. 5 séries de courses navettes
+  de 20 m, 40 m et 60 m (20 yd, 45 yd, 65 yd / repère lointain à 45 yd)
+
+  À réaliser le plus vite possible'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4705'
+search_terms:
+- Bronco
+- Test Bronco

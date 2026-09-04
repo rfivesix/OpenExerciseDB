@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1487'
 language: de
-status: upstream_unreviewed
-name: Hyper Y-W-Kombination
+status: ai_reviewed
+name: Hyper Y-W-Kombination (Hyperextensionen mit Gewichtsscheiben)
 description: |-
-  Nutze einen Glute-Ham-Raise oder einen
-  Gymnastikball für diese Übung und eine leichte Gewichtsscheibe in jeder Hand.
-  Hebe deinen Oberkörper an, sodass er eine gerade Linie mit deinen Beinen bildet, und hebe die
-  Arme leicht über einen 90-Grad-Winkel hinaus nach außen in eine W-Position, um
-  die Muskeln der Rotatorenmanschette anzusprechen, und senke dann wieder in die Ausgangsposition ab.
-  Hebe dich dann erneut an, mit den Armen
-  in einer Y-Position, um den unteren Trapezius zu aktivieren.
+  Ausgangsposition:
+  Positioniere dich auf einer Hyperextensionsbank (45°-Bank oder Glute-Ham-Developer) mit den Fersen fixiert und dem Becken am Polster. Halte in jeder Hand eine leichte Gewichtsscheibe.
+
+  Ausführung:
+  1. Richte den Oberkörper auf, bis er eine gerade Linie mit den Beinen bildet.
+  2. Hebe die Arme mit den Scheiben schräg nach vorne-oben in eine „Y“-Form, um den unteren Trapezius zu aktivieren, und halte kurz.
+  3. Ziehe die Ellenbogen anschließend nach hinten-unten in eine „W“-Form, ziehe die Schulterblätter fest zusammen und aktiviere die Außenrotatoren.
+  4. Senke den Oberkörper langsam und kontrolliert wieder in die Ausgangsposition ab.
+
+  Hinweise:
+  Wähle bewusst sehr leichte Scheiben (1,25–2,5 kg); die Qualität und Kontrolle der Schulterblattführung steht im Vordergrund.
+search_terms:
+  - Hyper Y-W-Kombination
+  - Hyperextension Y-W-Heben
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

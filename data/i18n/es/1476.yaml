@@ -5,17 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1476'
 language: es
-status: upstream_unreviewed
-name: Abdominal mariposa
+status: ai_reviewed
+name: Sit-up mariposa (Butterfly Sit-up)
 description: |-
-  En
-  este ejercicio de rango medio, los músculos de los brazos te proporcionan un poco de
-  impulso para ayudarte a despegar del suelo. También los abres en posición por encima de la cabeza,
-  lo que activa la parte alta de la espalda. Empieza
-  tumbado con los pies apoyados en el suelo, las rodillas en ángulo y los brazos cruzados sobre el pecho. Usando
-  los músculos abdominales, despega el tronco del suelo mientras abres los brazos
-  en posición de portería, y luego baja lentamente para volver a la
-  posición inicial.
+  Posición inicial:
+  Túmbate boca arriba sobre una colchoneta con las plantas de los pies juntas y las rodillas abiertas hacia los lados en forma de mariposa. Extiende los brazos por detrás de la cabeza tocando el suelo con las manos.
+
+  Ejecución:
+  1. Contrae el abdomen y utiliza un ligero impulso coordinado de los brazos para incorporar el torso.
+  2. Sube hasta quedar sentado erguido, llevando las manos a tocar el suelo justo por delante de los pies.
+  3. Desciende desenrollando la espalda vértebra a vértebra de forma controlada hasta volver a tocar el suelo con las manos por detrás de la cabeza.
+
+  Consejos:
+  La posición de mariposa reduce la activación de los flexores de la cadera (psoas) y concentra el trabajo en el recto abdominal.
+search_terms:
+  - Abdominal mariposa
+  - Butterfly Sit-up
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

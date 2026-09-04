@@ -5,14 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1882'
 language: es
-status: upstream_unreviewed
-name: Elevación lateral en polea alta
-description: |-
-  Colócate junto a una máquina de poleas con la polea ajustada a la altura de la cintura.
-  Agarra el manillar del lado opuesto con la mano más alejada de la polea, manteniendo la palma hacia adentro.
-  Mantén el core activado, el pecho arriba y los hombros relajados. Conserva una ligera flexión en el codo durante toda la elevación.
-  Eleva el brazo hacia el lado hasta que el codo alcance la altura del hombro, manteniendo la muñeca alineada con el codo.
-  Haz una breve pausa en la parte alta y luego baja el manillar lentamente y con control hacia tu costado. Repite las repeticiones deseadas.
+status: ai_reviewed
+name: Elevación lateral en polea a la altura de la cintura
+description: "Colócate junto a una máquina de poleas con la polea ajustada a la altura\
+  \ de la cintura.\nAgarra el manillar del lado opuesto con la mano más alejada de\
+  \ la polea, manteniendo la palma hacia adentro.\nMantén el core activado, el pecho\
+  \ arriba y los hombros relajados. Conserva una ligera flexión en el codo durante\
+  \ toda la elevación.\nEleva el brazo hacia el lado hasta que el codo alcance la\
+  \ altura del hombro, manteniendo la muñeca alineada con el codo.\nHaz una breve\
+  \ pausa en la parte alta y luego baja el manillar lentamente y con control hacia\
+  \ tu costado. Repite las repeticiones deseadas."
+search_terms:
+- Elevación lateral en polea alta
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

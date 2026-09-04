@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1803'
 language: es
-status: upstream_unreviewed
-name: Sentadilla con barra hexagonal
-description: |-
-  Una combinación de los principios de la sentadilla y el peso muerto mediante el uso de una barra hexagonal (trap bar), que reduce el estrés sobre la zona lumbar al centrar mejor el peso.
+status: ai_reviewed
+name: Sentadilla con barra hexagonal (Trap Bar)
+description: "Posición inicial:\nSitúate en el centro de la barra hexagonal (trap\
+  \ bar) con los pies al ancho de los hombros. Desciende en sentadilla manteniendo\
+  \ el torso erguido y sujeta los agarres neutros con firmeza. Saca pecho y activa\
+  \ fuertemente el core.\n\nEjecución:\n1. Empuja con fuerza contra el suelo a través\
+  \ de los talones y la planta del pie, extendiendo rodillas y caderas simultáneamente.\n\
+  2. Mantén el torso levantado para enfatizar el trabajo sobre los cuádriceps y glúteos.\n\
+  3. Llega a la extensión completa arriba contrayendo glúteos.\n4. Desciende la barra\
+  \ con control flexionando caderas y rodillas hasta tocar el suelo.\n\nConsejos:\n\
+  La barra hexagonal centra la carga de forma óptima, reduciendo la tensión sobre\
+  \ la espalda baja."
+search_terms:
+  - Sentadilla con barra hexagonal
+  - Trap Bar Squat
+  - Hex Bar Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

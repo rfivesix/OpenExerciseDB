@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1965'
 language: fr
-status: upstream_unreviewed
-name: Montées de genoux sur place
-description: |-
-  Un exercice de cardio et de mobilité à faible impact qui renforce les fléchisseurs de la hanche et améliore l'équilibre.
+status: ai_reviewed
+name: Montées de genou debout
+description: 'Position de départ :
 
-  Mouvement : Tenez-vous bien droit et levez un genou vers la poitrine, aussi haut que possible et confortablement.
-  Bras : Balancez le bras opposé vers l'avant à mesure que vous levez le genou, comme lors de la marche.
-  Gainage : Gardez les abdominaux engagés pour maintenir une posture droite.
-  Rythme : Effectuez le mouvement avec contrôle, en alternant les jambes de façon rythmée.
+  Debout, pieds écartés à la largeur du bassin, buste droit et bras fléchis à 90 degrés devant vous.
+
+
+  Exécution :
+
+  Montez un genou vers la poitrine jusqu''à ce que la cuisse soit au moins parallèle au sol, en restant stable sur la jambe d''appui. Redescendez le pied sous contrôle et montez aussitôt l''autre genou de manière alternée et rythmée.
+
+
+  Conseils :
+
+  Ne penchez pas le buste vers l''arrière lors de la montée du genou; engagez les fléchisseurs de la hanche et les abdominaux pour guider l''élévation.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4397'
+search_terms:
+- Montées de genoux sur place
+- Montée de genou debout
+- Standing Knee Raise

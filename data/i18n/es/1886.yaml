@@ -5,22 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1886'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abducción de cadera en supino
-description: |-
-  Posición inicial:
-  Túmbate boca arriba (supino) sobre una colchoneta, con las piernas extendidas y
-  relajadas. Los brazos pueden ir junto al cuerpo o abiertos hacia los lados para
-  mayor estabilidad.
-  El movimiento:
-  Eleva ligeramente una pierna del suelo (manteniéndola recta o con una
-  ligera flexión). Muévela lateralmente hacia afuera, alejándola de la otra pierna, como si
-  pasaras por encima de un pequeño obstáculo.
-  Rango de movimiento:
-  Mueve la pierna tan lejos como te resulte cómodo sin levantar la pelvis ni
-  rotar el torso, sintiendo un estiramiento en la cara interna del muslo y la cadera.
-  Regreso: Lleva lentamente la pierna de vuelta a la posición inicial con un movimiento controlado.
-  Objetivo: Mejora la movilidad lateral de la cadera (abducción) y fortalece los músculos estabilizadores de la pelvis.
+description: "Posición inicial:\nTúmbate boca arriba (supino) sobre una colchoneta,\
+  \ con las piernas extendidas y\nrelajadas. Los brazos pueden ir junto al cuerpo\
+  \ o abiertos hacia los lados para\nmayor estabilidad.\nEl movimiento:\nEleva ligeramente\
+  \ una pierna del suelo (manteniéndola recta o con una\nligera flexión). Muévela\
+  \ lateralmente hacia afuera, alejándola de la otra pierna, como si\npasaras por\
+  \ encima de un pequeño obstáculo.\nRango de movimiento:\nMueve la pierna tan lejos\
+  \ como te resulte cómodo sin levantar la pelvis ni\nrotar el torso, sintiendo un\
+  \ estiramiento en la cara interna del muslo y la cadera.\nRegreso: Lleva lentamente\
+  \ la pierna de vuelta a la posición inicial con un movimiento controlado.\nObjetivo:\
+  \ Mejora la movilidad lateral de la cadera (abducción) y fortalece los músculos\
+  \ estabilizadores de la pelvis."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1475'
 language: fr
-status: upstream_unreviewed
-name: Black widow knee slides (glissements de genou)
+status: ai_reviewed
+name: Glissements de genoux Black Widow
 description: |-
-  Dans ce mouvement de rotation de bas en haut, vous croisez le genou et le ramenez vers le coude opposé. Commencez en position de planche haute (ou en position de table) avec les mains directement sous les épaules. Levez le genou gauche vers le bras droit et faites-le glisser le long de l'avant-bras pour accentuer la bascule postérieure du bassin et l'engagement des muscles abdominaux. Faites ensuite l'autre côté, en ramenant votre genou droit vers votre main gauche.
+  Position de départ :
+  Commencez en position de planche haute, les mains directement sous les épaules et le corps formant une ligne droite de la tête aux talons.
+
+  Exécution :
+  1. Amenez un genou en diagonale sous le tronc en direction du coude opposé.
+  2. Faites glisser le genou vers le haut le long de l'avant-bras tout en accentuant la bascule postérieure du bassin pour contracter fortement les obliques et les abdominaux.
+  3. Revenez avec contrôle en position de planche de départ.
+  4. Répétez le mouvement avec le genou opposé, en alternant les côtés.
+
+  Conseils :
+  Gardez le bassin stable et le ventre rentré sans laisser le bas du dos se creuser.
+search_terms:
+  - Black widow knee slides (glissements de genou)
+  - Black Widow Knee Slides
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

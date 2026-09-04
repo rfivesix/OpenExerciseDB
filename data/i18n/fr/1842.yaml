@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1842'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Coquille à l'élastique
-description: |-
-  Position
-  Planche latérale avec le coude et l'avant-bras au sol et les jambes légèrement fléchies. Tendez un élastique replié en deux entre vos cuisses, juste au-dessus du genou.
-  Exécution
-  Levez le genou supérieur tout en gardant les pieds rapprochés, comme une « coquille qui s'ouvre », puis revenez lentement à la position de départ. Gardez la sangle abdominale stable et les hanches alignées.
+description: "Position de départ : Allongez-vous sur le côté, genoux fléchis et jambes\
+  \ superposées. Placez un élastique autour des cuisses, juste au-dessus des genoux.\n\
+  Exécution : En gardant les pieds joints, levez le genou supérieur vers le haut contre\
+  \ la résistance de l'élastique comme une coquille qui s'ouvre. Revenez lentement\
+  \ à la position de départ.\nConseils : Gardez le bassin stable et orienté vers l'avant\
+  \ sans basculer les hanches vers l'arrière."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

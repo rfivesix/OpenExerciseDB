@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2482'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bobbing Exhale Drill
 description: |-
-  Stand in chest-deep water. Take a breath, submerge your face fully, and exhale slowly and completely through your nose and/or mouth the whole time you're underwater — a gentle humming sound can help keep the exhale steady and controlled. Once you're empty of air, lift your head, take a fresh breath, and go back under. Repeat continuously. The goal is training your body that all your exhaling happens underwater, so all you need to do at the surface is inhale.
+  Starting Position:
+  Stand in chest-deep water with feet shoulder-width apart, lightly touching the pool edge if needed for reassurance.
+
+  Execution:
+  1. Inhale deeply through your mouth above the surface.
+  2. Bend your knees to submerge your head fully underwater.
+  3. Exhale slowly, continuously, and completely through your nose and/or mouth while submerged; a gentle hum helps regulate the airflow.
+  4. Push off the bottom to break the surface, take a quick breath in through your mouth, and immediately sink back down to repeat.
+  5. Continue bobbing up and down in a calm, continuous rhythm.
+
+  Cues:
+  Train yourself so that 100% of your exhalation occurs underwater; the surface time is strictly for breathing in.
+search_terms:
+- Bobbing Exhale Drill
+- Swimming Breathing Drill
+- Rhythmic Breathing Bobbing
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

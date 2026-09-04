@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1740'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einbeinige Gesäßbrücke
-description: Eine Gesäßbrücke, bei der du jeweils nur ein Bein verwendest.
+description: "Ausgangsposition:\nLege dich rücklings auf eine Matte, winkle die Knie\
+  \ an und stelle die Füße hüftbreit flach auf den Boden. Hebe ein Bein an und strecke\
+  \ es entweder gerade in Verlängerung des Oberschenkels aus oder beuge das Knie leicht\
+  \ zur Brust. Die Arme liegen entspannt seitlich auf dem Boden.\n\nAusführung:\n\
+  1. Drücke dich über die Ferse des Standbeins kraftvoll nach oben, bis Oberschenkel,\
+  \ Hüfte und Oberkörper eine gerade Linie bilden.\n2. Spanne am obersten Punkt die\
+  \ Gesäßmuskulatur des Standbeins für 1 bis 2 Sekunden maximal an.\n3. Senke das\
+  \ Becken langsam und kontrolliert wieder ab, ohne es ganz auf dem Boden abzulegen,\
+  \ und starte die nächste Wiederholung.\n\nHinweise:\nHalte das Becken während der\
+  \ gesamten Bewegung waagerecht und verhindere ein Absacken oder Verdrehen der freien\
+  \ Seite."
+search_terms:
+  - Einbeiniges Beckenheben
+  - Single Leg Glute Bridge
+  - Einbeinige Glute Bridge
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

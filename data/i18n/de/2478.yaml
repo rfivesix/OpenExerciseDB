@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2478'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Glute-Ham Raise
-description: Knie auf einem Glute-Ham-Developer oder lass deine Knöchel von einer Partnerperson festhalten. Halte die Hüfte gerade, senke den Oberkörper kontrolliert zum Boden und beuge dich dann durch Anspannen der Beinbeuger und Gesäßmuskeln wieder nach oben.
+name: Glute-Ham-Raise (GHR)
+description: |-
+  Ausgangsposition:
+  Positioniere dich auf einem Glute-Ham-Developer (GHD). Platziere deine Knie auf dem halbrunden Polster und fixiere deine Fersen und Knöchel sicher zwischen den Rollen und der Fußplatte. Der Oberkörper ist aufgerichtet und bildet mit den Oberschenkeln eine gerade Linie.
+
+  Ausführung:
+  1. Senke deinen Oberkörper langsam und mit voller Kontrolle nach vorne ab, indem du die Knie streckst, bis dein Körper parallel zum Boden ist.
+  2. Spanne deine Beinbeuger (Hamstrings) und die Gesäßmuskulatur kraftvoll an, um die Knie zu beugen und den Oberkörper wieder in die Ausgangsposition nach oben zu ziehen.
+  3. Halte die Hüfte während der gesamten Bewegung gestreckt und vermeide ein Abknicken im Becken.
+
+  Hinweise:
+  Nutze die Hände bei Bedarf für eine leichte Unterstützung am tiefsten Punkt, falls die Kraft der Beinbeuger noch nicht für den vollen Bewegungsradius ausreicht.
+search_terms:
+- Glute-Ham Raise
+- GHR
+- Becken-Beinbeuger an der GHR-Bank
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4955'

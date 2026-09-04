@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1863'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hüft-Crossover
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Lege dich rücklings auf eine Matte und breite die\
+  \ Arme im 90-Grad-Winkel zur Seite aus (Handflächen zum Boden). Die Knie sind angewinkelt.\n\
+  Ausführung: Führe ein Bein (oder beide angewinkelten Beine) langsam zur Seite hinab\
+  \ in Richtung Boden, während beide Schulterblätter festen Kontakt zum Boden behalten.\
+  \ Blicke optional zur entgegengesetzten Seite.\nHinweise: Halte die Dehnung in Gesäß\
+  \ und unterem Rücken für 20–30 Sekunden, atme tief in den Bauch ein und wechsle\
+  \ kontrolliert die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

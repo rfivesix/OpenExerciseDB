@@ -1,11 +1,21 @@
 exercise_id: '1753'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Seitheben hinter dem Körper
-description: |-
-  Führe am Kabelturm Seitheben aus, wobei sich der Kabelzug hinter dir befindet, und konzentriere dich auf Spannung im vorderen Bereich der Schulter.
+description: "Ausgangsposition:\nStelle dich seitlich neben einen niedrigen Kabelzug.\
+  \ Greife den D-Griff mit der äußeren Hand, sodass das Kabel hinter deinem Gesäß\
+  \ und Rücken verläuft. Halte dich mit der inneren Hand am Turm fest, stehe stabil\
+  \ und neige deinen Oberkörper minimal nach vorne.\n\nAusführung:\n1. Hebe den Arm\
+  \ mit leicht gebeugtem Ellenbogen seitlich nach oben, bis der Oberarm parallel zum\
+  \ Boden ist.\n2. Halte die Kontraktion am oberen Punkt kurz und fokussiere dich\
+  \ auf den seitlichen Deltamuskel.\n3. Senke den Arm langsam und kontrolliert wieder\
+  \ hinter den Körper ab, um die Dehnung im seitlichen Deltamuskel mitzunehmen.\n\n\
+  Hinweise:\nDie Kabelführung hinter dem Rücken eliminiert Reibung am Oberschenkel\
+  \ und sorgt für eine saubere laterale Abduktionslinie."
+search_terms:
+  - Behind-the-Back Cable Lateral Raise
+  - Kabel-Seitheben hinter dem Rücken
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2890'

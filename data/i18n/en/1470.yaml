@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1470'
 language: en
-status: upstream_unreviewed
-name: 1-Arm Half-Kneeling Lat Pulldown
+status: ai_reviewed
+name: One-Arm Half-Kneeling Lat Pulldown
 description: |-
-  Attach a D-Handle to a high pully. And use your lat muscles to pull the weight single handedly.
+  Starting Position:
+  Attach a single D-handle to a high cable pulley. Kneel on one knee directly facing or slightly angled to the machine, placing the knee on the working side down on the floor or mat. Grasp the handle with your arm fully extended upward to achieve a deep stretch in the lat, keeping your torso upright and core engaged.
+
+  Execution:
+  1. Pull the handle downward by driving your elbow down and slightly back toward your hip until your hand reaches chest level.
+  2. Squeeze your lat hard at the bottom of the movement for one second.
+  3. Slowly return the cable to the starting position under full control, allowing the lat to fully stretch before beginning the next rep.
+
+  Cues:
+  The half-kneeling position locks your pelvis and core, preventing momentum and rotational cheating, and isolating the latissimus dorsi.
+search_terms:
+  - 1-Arm Half-Kneeling Lat Pulldown
+  - Half-Kneeling Single-Arm Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

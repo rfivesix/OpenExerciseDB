@@ -1,11 +1,35 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1531'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kabelzug-Curls
-description: Bizepscurls am Kabelzug. Kann sitzend oder stehend ausgeführt werden.
+name: Bizepscurls am Kabelzug
+description: 'Ausgangsposition:
+
+  Stelle dich aufrecht vor den unteren Kabelzug (oder setze dich davor). Greife die
+  gerade Stange oder SZ-Stange im schulterbreiten Untergriff (Handflächen nach oben).
+  Fixiere die Ellbogen eng an den Körperseiten.
+
+
+  Ausführung:
+
+  1. Halte die Oberarme stabil und beuge die Unterarme kontrolliert nach oben in Richtung
+  der Schultern.
+
+  2. Kontrahiere den Bizeps am obersten Punkt für einen Moment maximal.
+
+  3. Senke das Gewicht langsam und kontrolliert ab, bis die Arme fast vollständig
+  gestreckt sind.
+
+
+  Hinweise:
+
+  Der Kabelzug sorgt im Gegensatz zu Hanteln für eine gleichmäßige, ununterbrochene
+  Muskelspannung über die gesamte Bewegungsamplitude.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Brigade7938
   source_id: '2489'
+search_terms:
+- Cable Curls
+- Kabelcurls
+- Kabelzug-Curls

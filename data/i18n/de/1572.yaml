@@ -1,21 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1572'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bird Dog
-description: |-
-  Der Bird Dog ist eine Übung für die Rumpfstabilität, die Gleichgewicht, Koordination und die Ausrichtung der Wirbelsäule verbessert. Es ist eine gelenkschonende Bewegung, die sich ideal zum Stärken der hinteren Muskelkette und zur Verbesserung der allgemeinen funktionellen Kontrolle eignet.
+description: 'Ausgangsposition:
 
-  Beginne im Vierfüßlerstand mit den Händen unter den Schultern und den Knien unter den Hüften und halte deine Wirbelsäule neutral.
-  Strecke gleichzeitig deinen rechten Arm nach vorn und dein linkes Bein nach hinten und halte die Hüften gerade.
-  Halte bei voller Streckung kurz inne, während du Rumpf und Gesäßmuskulatur anspannst.
-  Kehre in die Ausgangsposition zurück und wiederhole die Bewegung auf der anderen Seite
+  Gehe in den Vierfüßlerstand auf eine Matte. Die Hände stehen direkt unter den Schultern,
+  die Knie unter den Hüften. Die Wirbelsäule ist in neutraler Position, der Blick
+  zum Boden gerichtet.
+
+
+  Ausführung:
+
+  1. Strecke gleichzeitig den rechten Arm gerade nach vorne und das linke Bein gerade
+  nach hinten aus, bis beide eine waagerechte Linie mit dem Rumpf bilden.
+
+  2. Halte die Endposition für 1–2 Sekunden unter voller Anspannung von Gesäß und
+  Rückenstreckern.
+
+  3. Führe Arm und Bein kontrolliert zurück in die Ausgangsposition und wiederhole
+  die Bewegung auf der Gegenseite.
+
+
+  Hinweise:
+
+  Achte darauf, das Becken nicht aufzudrehen und kein Hohlkreuz zu bilden. Eine fundamentale
+  Stabilitätsübung für Rumpf und hintere Kette.'
 search_terms:
-  - Vierfüßlerstand diagonal
+- Kreuzheben im Vierfüßler
+- Vierfüßlerstand diagonal
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,38 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1822'
 language: es
-status: upstream_unreviewed
-name: Libro abierto
-description: |-
-  Ejercicio básico
-
-  Enfoque: mejora la movilidad torácica y
-  la segmentación de la columna, a la vez que abre los hombros y el pecho.
-  Posición: de rodillas en el suelo, con el lado derecho frente a una pared. Las caderas alineadas y estables, con la rodilla derecha abajo y el pie izquierdo adelante. Alarga la columna y alinea la cabeza de forma cómoda.
-  Comienza con los brazos relajados y abiertos frente al pecho, las palmas
-  enfrentadas entre sí y las manos separadas.
-  Inhala
-  para iniciar el movimiento, dejando que tu brazo izquierdo —el más alejado de
-  la pared— se abra hacia afuera y hacia atrás. Lidera el giro desde la columna
-  torácica, rotando la parte superior de la espalda de forma progresiva mientras mantienes la pelvis
-  quieta.
-  Exhala mientras completas la rotación, guiando tu mano izquierda
-  hacia la pared a la vez que la mirada sigue a la mano.
-  Regresa inhalando y
-  llevando lentamente el brazo hacia adelante, deshaciendo la rotación de la columna segmento
-  a segmento.
-  Repite hacia el lado opuesto.
-
-  Progresión
-
-  Posición: de rodillas en el suelo, con el lado derecho frente a una pared. Rodilla izquierda abajo y pie derecho adelante.
-  Antes del ejercicio básico: inhala, exhala mientras desplazas el brazo derecho a lo largo de la pared con un círculo hacia arriba y atrás, inhala mientras devuelves el brazo.
-  Ejercicio básico.
-  Repite hacia el lado opuesto.
+status: ai_reviewed
+name: Libro abierto (Open Book)
+description: "Posición inicial:\nTúmbate de lado sobre una colchoneta con las caderas\
+  \ y rodillas flexionadas a 90 grados, una pierna sobre la otra para fijar la pelvis.\
+  \ Extiende ambos brazos hacia adelante a la altura del pecho con las palmas juntas.\n\
+  \nEjecución:\n1. Inhala y eleva el brazo superior en un arco amplio hacia arriba\
+  \ y atrás, como si abrieras las páginas de un libro.\n2. Rota la columna torácica\
+  \ siguiendo la mano con la mirada, manteniendo las rodillas y la pelvis totalmente\
+  \ fijas y juntas.\n3. Exhala en la posición final sintiendo la apertura en el pecho\
+  \ y la espalda alta durante 1 o 2 segundos.\n4. Inhala y regresa lentamente el brazo\
+  \ hacia adelante hasta volver a juntar las palmas.\n\nConsejos:\nAsegúrate de que\
+  \ la rotación provenga de la espalda media y alta, evitando que las rodillas se\
+  \ despeguen."
+search_terms:
+  - Libro abierto
+  - Open Book
+  - Movilidad torácica
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1773'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Legend Incline Bench Press
-description: incline bench press on LeverEdge machine.
+description: "Starting Position:\nSit in the incline bench of the Legend Fitness LeverEdge\
+  \ machine. Adjust seat height so that the converging handles align comfortably with\
+  \ your upper chest. Press your head, upper back, and glutes firmly against the back\
+  \ pad, and plant your feet flat on the floor. Grasp the handles with a firm overhand\
+  \ grip.\n\nExecution:\n1. Drive through your palms to press the independent lever\
+  \ arms upward and inward along their converging arc until your arms are nearly fully\
+  \ extended.\n2. Squeeze your upper chest (clavicular head) firmly at lockout.\n\
+  3. Lower the weight slowly and under control, feeling a deep stretch across the\
+  \ pectorals before initiating the next repetition.\n\nCues:\nKeep your shoulder\
+  \ blades retracted and depressed against the back pad throughout the press."
 search_terms:
+  - Legend Incline Bench Press
   - LeverEdge Machine Incline Press
+  - Plate-Loaded Incline Chest Press
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2907'

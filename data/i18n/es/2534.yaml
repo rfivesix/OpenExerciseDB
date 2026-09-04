@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2534'
 language: es
-status: upstream_unreviewed
-name: excercise error
+status: ai_reviewed
+name: Puente de glúteos
 description: |-
-  excercise error / Para realizar correctamente la plancha lateral, apóyate sobre un antebrazo y coloca los pies uno encima del otro, asegurándote de elevar la cadera hasta formar una línea recta de cabeza a pies sin dejar que la cadera caiga. Mantén el cuerpo alineado, el cuello neutro y aprieta el abdomen y los glúteos para estabilizar la postura, sosteniendo la posición antes de cambiar de lado al terminar.
+  Posición inicial:
+  Túmbate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados planos sobre la esterilla, separados al ancho de las caderas. Coloca los brazos relajados a los lados del cuerpo.
+
+  Ejecución:
+  1. Activa el abdomen y empuja con fuerza a través de los talones para elevar la cadera hacia el techo.
+  2. Sube la pelvis hasta que los muslos, las caderas y el torso formen una línea recta desde las rodillas hasta los hombros.
+  3. Aprieta fuertemente los glúteos en el punto más alto durante 1 o 2 segundos.
+  4. Desciende la cadera de forma lenta y controlada hasta casi rozar el suelo y repite.
+
+  Consejos:
+  Evita arquear excesivamente la espalda baja en la parte superior; la extensión debe originarse en la cadera.
+search_terms:
+- excercise error
+- Puente de glúteos
+- Glute bridge
+- Elevación de pelvis
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95

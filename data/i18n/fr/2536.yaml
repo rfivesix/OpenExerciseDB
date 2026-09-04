@@ -3,9 +3,22 @@ language: fr
 status: ai_reviewed
 translated_from: de
 name: Développé couché isométrique
+description: |-
+  Position de départ :
+  Allongez-vous sur un banc plat sous une barre olympique. Fixez les omoplates vers l'arrière et vers le bas, posez les pieds bien à plat au sol et saisissez la barre avec une prise légèrement supérieure à la largeur des épaules. Décrochez la barre et stabilisez-la bras tendus au-dessus de la poitrine.
+
+  Exécution :
+  1. Descendez la barre de façon contrôlée jusqu'à la position cible (par exemple quelques centimètres au-dessus de la poitrine ou au niveau du point de blocage), ou poussez la barre contre les butées métalliques (pins) d'un rack.
+  2. Maintenez la barre immobile à cette hauteur pendant la durée prescrite, en générant une tension maximale dans les pectoraux, les deltoïdes antérieurs et les triceps.
+  3. Repoussez la barre vers le haut jusqu'au verrouillage avant de la reposer sur les supports.
+
+  Conseils :
+  Conservez un gainage complet et une pression ferme des pieds dans le sol. Ne laissez pas la barre s'écraser sur le sternum pendant le maintien.
+search_terms:
+- Maintien isométrique au développé couché
+- Bench press isométrique
+- Développé couché statique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5007'
-description: |-
-  Maintien isométrique au développé couché : poussez la barre contre les butées d'une cage à un angle fixe en exerçant une force maximale sans déplacement.

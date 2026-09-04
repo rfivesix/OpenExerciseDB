@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1717'
 language: en
-status: upstream_unreviewed
-name: Neck extension
+status: ai_reviewed
+name: One-Arm Overhead Cable Triceps Extension
 description: |-
-  Unilateral triceps exercise with your back to the pulley, with the pulley at the top
+  Starting position:
+  Stand with your back to a high cable pulley. Grasp the single handle or rope attachment overhead with one hand, elbow bent and pointing forward next to your head.
+  
+  Movement:
+  1. Keeping your upper arm stationary, extend your elbow to press the cable forward and slightly downward until your arm is fully extended.
+  2. Squeeze the triceps firmly at peak contraction.
+  3. Slowly bend your elbow to return to the stretched starting position under full control.
+  
+  Tips:
+  Keep your core braced and your spine neutral. The overhead cable angle places a strong stretch on the long head of the triceps.
+search_terms:
+  - Neck extension
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

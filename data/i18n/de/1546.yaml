@@ -1,11 +1,36 @@
 exercise_id: '1546'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Larsen Press
-description: Lege deine Beine auf eine separate Bank und drücke ohne Beineinsatz.
+name: Larsen Press (Bankdrücken ohne Beineinsatz)
+description: 'Ausgangsposition:
+
+  Lege dich flach auf eine Hantelbank unter die Langhantel. Hebe die Beine an und
+  strecke sie gerade nach vorne in die Luft (oder lege sie auf einer zweiten Bank
+  ab), sodass die Füße den Boden nicht berühren. Greife die Stange etwas mehr als
+  schulterbreit und fixiere die Schulterblätter.
+
+
+  Ausführung:
+
+  1. Hebe die Hantel heraus und senke sie kontrolliert zur mittleren Brust ab, während
+  du mit dem Rumpf aktiv das Gleichgewicht hältst.
+
+  2. Drücke die Stange kraftvoll senkrecht nach oben, bis die Arme gestreckt sind
+  – ohne jeglichen Beineinsatz (Leg Drive).
+
+  3. Halte den Rumpf während des gesamten Satzes fest angespannt, um ein Wackeln auf
+  der Bank zu verhindern.
+
+
+  Hinweise:
+
+  Durch das vollständige Ausschalten des Beineinsatzes wird die Drückkraft von Brust
+  und Trizeps isoliert gefordert und die Rumpfstabilisation massiv gestärkt.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2495'
+search_terms:
+- Bankdrücken mit angehobenen Beinen
+- Larsen Press

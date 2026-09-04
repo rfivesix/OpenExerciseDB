@@ -1,11 +1,34 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1537'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Isometrischer Klimmzug-Hold
-description: Halte die Klimmzugbewegung in einer beliebigen Position.
+name: Isometrisches Halten am Klimmzug
+description: 'Ausgangsposition:
+
+  Greife eine Klimmzugstange im schulterbreiten Obergriff. Ziehe deinen Körper nach
+  oben in die gewünschte Zielposition (z. B. Kinn über der Stange oder im 90-Grad-Winkel
+  der Ellbogen).
+
+
+  Ausführung:
+
+  1. Fixiere deinen Körper in dieser Position völlig regungslos.
+
+  2. Ziehe die Schulterblätter nach hinten-unten und spanne Latissimus, Rhomboiden
+  und Bizeps kontinuierlich maximal an.
+
+  3. Halte die Position für die vorgegebene Zeitspanne (z. B. 10–30 Sekunden), bevor
+  du dich kontrolliert herablässt.
+
+
+  Hinweise:
+
+  Hervorragend geeignet zum Überwinden von Kraftplateaus am Klimmzug und zur Steigerung
+  der statischen Zug- und Griffkraft.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: DiscoCop
   source_id: '2492'
+search_terms:
+- Isometrischer Klimmzug-Hold
+- Pull-up Isometric Hold

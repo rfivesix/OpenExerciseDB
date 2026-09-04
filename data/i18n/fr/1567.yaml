@@ -1,14 +1,9 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1567'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl marteau alterné avec haltères
-description: |-
-  Tenez-vous debout, les genoux légèrement fléchis et le dos droit. Tenez un haltère dans chaque main, en prise neutre, les bras le long du corps.
+description: Tenez-vous debout, les genoux légèrement fléchis et le dos droit. Tenez
+  un haltère dans chaque main, en prise neutre, les bras le long du corps.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

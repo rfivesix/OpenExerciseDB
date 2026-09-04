@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2490'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Kabelrudern am unteren Zug (Dreiecksgriff)
-description: Diese Übung basiert auf dem Technogym Pulley Sel. Halte das Dreieck mit beiden Händen und ziehe das Gewicht zum Bauch.
+name: Kabelrudern sitzend mit Dreiecksgriff
+description: |-
+  Ausgangsposition:
+  Setze dich an die Kabelruderstation (Kabelzug unten) und befestige einen engen Parallelgriff (Dreiecksgriff / V-Bar). Stelle deine Füße auf die Fußstützen mit leicht gebeugten Knien. Greife den Griff, richte den Oberkörper auf und halte den Rücken gerade.
+
+  Ausführung:
+  1. Ziehe den Dreiecksgriff mit eng am Körper geführten Ellbogen in Richtung Bauchnabel.
+  2. Führe die Schultern nach hinten unten und ziehe die Schulterblätter am Endpunkt maximal zusammen; halte für 1 Sekunde.
+  3. Lasse das Gewicht langsam und kontrolliert nach vorne gleiten, bis die Arme gestreckt sind, ohne mit dem Oberkörper nach vorne einzusacken.
+
+  Hinweise:
+  Vermeide starkes Vor- und Zurückwippen des Oberkörpers; halte die Rumpfmuskulatur stabil.
+search_terms:
+- Kabelrudern am unteren Zug (Dreiecksgriff)
+- Seated Cable Row
+- Rudern am Kabelzug eng
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

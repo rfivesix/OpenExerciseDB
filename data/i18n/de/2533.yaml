@@ -1,16 +1,25 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2533'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Bogenhang (Arch Hang)
 description: |-
-  https://www.youtube.com/watch?v=C995b3KLXS4&amp;t=7s
+  Ausgangsposition:
+  Hänge dich mit beiden Händen im Obergriff schulterbreit an eine Klimmzugstange. Beginne in einem passiven Hang, aktiviere dann deine Schultern, indem du die Schulterblätter nach unten ziehst (aktiver Hang).
 
-  Die Ellbogen sollten gestreckt bleiben.
-  Halte die Position für Zeit/Wiederholungen.
-  Beginne in einem aktiven Hang: https://www.youtube.com/watch?v=HoE-C85ZlCE
-  Arbeite auf einen 90-Grad-Winkel in der Schulter hin.
+  Ausführung:
+  1. Halte die Arme während der gesamten Übung komplett gestreckt.
+  2. Ziehe deine Schulterblätter kraftvoll nach hinten unten zusammen und überstrecke die Brustwirbelsäule, sodass dein Brustkorb nach oben zur Stange zeigt.
+  3. Bringe deinen Oberkörper in einen 45- bis 90-Grad-Winkel zur Senkrechten und bilde einen stabilen dorsalen Bogen (Arch).
+  4. Halte die isometrische Bogenposition für 2 bis 5 Sekunden unter maximaler Anspannung im Latissimus und unteren Trapez.
+  5. Lasse dich langsam wieder in den aktiven Hang absinken und wiederhole die Bewegung.
+
+  Hinweise:
+  Beuge nicht die Ellbogen; die Bewegung stammt rein aus der Retraktion und Depression der Schulterblätter sowie der Thoraxstreckung.
+search_terms:
+- Bogenhang (Arch Hang)
+- Arch Hang
+- Scapular Arch Hang
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan

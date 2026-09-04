@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1476'
 language: fr
-status: upstream_unreviewed
-name: Relevé de buste papillon
+status: ai_reviewed
+name: Sit-up papillon (Butterfly Sit-up)
 description: |-
-  Dans cet exercice à mi-amplitude, les muscles de vos bras vous fournissent un peu d'élan pour vous aider à décoller du sol. Vous les ouvrez également en position au-dessus de la tête, ce qui sollicite le haut du dos. Commencez allongé, les pieds à plat sur le sol, les genoux fléchis, les bras croisés contre la poitrine. En utilisant vos abdominaux, soulevez le haut du corps du sol tout en ouvrant les bras en position de cage (bras en « poteaux de but »), puis redescendez lentement pour revenir à la position de départ.
+  Position de départ :
+  Allongez-vous sur le dos sur un tapis, les plantes de pieds l'une contre l'autre et les genoux ouverts vers l'extérieur en papillon. Tendez les bras derrière la tête en touchant le sol avec les mains.
+
+  Exécution :
+  1. Contractez les abdominaux et utilisez un léger élan contrôlé des bras pour relever le torse.
+  2. Montez jusqu'à la position assise complète en venant toucher le sol avec les mains devant vos pieds.
+  3. Redescendez lentement en déroulant la colonne vertébrale jusqu'à retrouver la position de départ au sol.
+
+  Conseils :
+  L'ouverture des hanches désactive en partie les fléchisseurs de la hanche, concentrant ainsi l'effort sur les abdominaux.
+search_terms:
+  - Relevé de buste papillon
+  - Butterfly Sit-up
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,20 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1771'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de muñeca en polea
-description: |-
-  Extiende el brazo hacia abajo y luego levanta ligeramente el antebrazo
-  Extiende la muñeca en posición supinada (palma hacia arriba)
-  Ajusta la altura de la polea de modo que el agarre quede en tu mano supinada
-  Realiza el movimiento
-  enrollando las palmas y las muñecas hacia arriba
-  (opcional/variable) Haz una pausa en la parte superior
-  Vuelve lentamente a la posición inicial
+description: "Posición inicial:\nConecta una barra recta a la polea baja. Arrodíllate\
+  \ o siéntate frente a la máquina apoyando los antebrazos sobre los muslos o sobre\
+  \ un banco plano, de modo que las muñecas queden libres sobre el borde. Sujeta la\
+  \ barra con agarre supino (palmas hacia arriba).\n\nEjecución:\n1. Desciende la\
+  \ barra permitiendo que ruede ligeramente por los dedos para obtener un estiramiento\
+  \ completo de los flexores del antebrazo.\n2. Vuelve a cerrar la mano y flexiona\
+  \ las muñecas con fuerza hacia arriba tanto como sea posible.\n3. Mantén la contracción\
+  \ durante un segundo en la parte superior y regresa lentamente a la posición inicial.\n\
+  \nConsejos:\nMantén los antebrazos totalmente fijos y apoyados para aislar el trabajo\
+  \ en las muñecas."
+search_terms:
+  - Curl de muñeca en polea
+  - Cable Wrist Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

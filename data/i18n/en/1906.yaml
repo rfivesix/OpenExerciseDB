@@ -1,16 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1906'
 language: en
-status: upstream_unreviewed
-name: Hip Bridge
-description: |-
-  Get into bridge position, balance yourself on heels and start extending legs unilaterally.
-  Keep hip extended as much as possible.
+status: ai_reviewed
+name: Glute Bridge with Alternating Leg Extension
+description: 'Starting position:
+
+  Lie on your back on an exercise mat with knees bent and feet hip-width apart resting on your heels. Place your arms by your sides for stability.
+
+
+  Execution:
+
+  Drive through your heels to raise your hips into a bridge until your thighs and torso form a straight line. Squeeze your glutes, then extend one leg straight out in line with your thigh while keeping your hips fully elevated. Return the foot to the floor and smoothly repeat with the opposite leg.
+
+
+  Tips:
+
+  Maintain a level pelvis and prevent your hips from dipping or twisting during the alternating extensions. Keep core and glutes continuously engaged.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3053'
+search_terms:
+- Hip Bridge
+- Bridge with Leg Extension
+- Alternating Single-Leg Glute Bridge

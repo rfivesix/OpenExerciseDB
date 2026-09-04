@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1834'
 language: de
-status: upstream_unreviewed
-name: Trap-3-Raise
-description: |-
-  Beuge dich aus der Hüfte nach vorne und beuge die Knie leicht. Senke und ziehe die Schulter zurück, die du verwenden wirst. Stütze die andere Hand auf dein Knie.
-  Hebe deine Hand etwa 15 Grad über Kopfhöhe an und halte dabei die Position deiner Schulter.
+status: ai_reviewed
+name: Trap-3-Raise (Heben für den unteren Trapez)
+description: "Ausgangsposition:\nStelle dich hin, beuge die Knie leicht und kippe\
+  \ deinen geraden Oberkörper aus der Hüfte um etwa 45 Grad nach vorne (Hip Hinge).\
+  \ Stütze eine Hand auf deinem Oberschenkel oder einer Hantelbank ab. Lasse den freien\
+  \ Arbeitsarm locker nach unten hängen, Schulterblatt nach unten gezogen (Depression).\n\
+  \nAusführung:\n1. Hebe den gestreckten Arbeitsarm mit nach oben zeigendem Daumen\
+  \ diagonal nach vorne-oben an (in einem Winkel von etwa 15 bis 30 Grad über Kopfhöhe).\n\
+  2. Fokussiere dich darauf, die Bewegung rein aus dem unteren Anteil des Trapezmuskels\
+  \ (Pars ascendens / Trap 3) einzuleiten, ohne die Schulter zum Ohr hochzuziehen.\n\
+  3. Halte die Kontraktion am oberen Punkt für 1 bis 2 Sekunden.\n4. Senke den Arm\
+  \ langsam und kontrolliert wieder ab.\n\nHinweise:\nEine fundamentale Reha- und\
+  \ Haltungsübung zur Kräftigung des unteren Trapezmuskels und zur Optimierung der\
+  \ Schulterblattaufwärtsrotation."
+search_terms:
+  - Trap-3 Raise
+  - Trap 3 Raise
+  - Unteres Trapeztraining
+  - Lower Trap Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

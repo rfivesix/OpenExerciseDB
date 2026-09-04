@@ -5,14 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1889'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Decline Bench Leg Raise
-description: |-
-  Setup: Lie on a decline bench with your head at the top and grip the handles.
-  The Start: Extend legs fully, keeping them slightly elevated to engage your core.
-  The Lift: Raise your legs toward the ceiling using your abs, not momentum.
-  The Squeeze: Pause and contract your lower abdominals at the top.
-  The Return: Lower your legs slowly to the starting position with control.
+description: "Setup: Lie on a decline bench with your head at the top and grip the\
+  \ handles.\nThe Start: Extend legs fully, keeping them slightly elevated to engage\
+  \ your core.\nThe Lift: Raise your legs toward the ceiling using your abs, not momentum.\n\
+  The Squeeze: Pause and contract your lower abdominals at the top.\nThe Return: Lower\
+  \ your legs slowly to the starting position with control."
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712

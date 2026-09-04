@@ -1,18 +1,12 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1699'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing à la barre (prise en supination)
 description: |-
   Exécution
-
-
+  
   Position de départ :
-
+  
   Tenez la barre avec les bras complètement tendus vers le sol.
   Maintenez la tension dans votre grand dorsal et les muscles du dos.
 upstream:

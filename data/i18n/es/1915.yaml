@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1915'
 language: es
-status: upstream_unreviewed
-name: Abducción de cadera en cuadrupedia
-description: |-
-  Reparte el peso del cuerpo de forma uniforme sobre las rodillas y los brazos.
-  Mantén el torso estable, con el abdomen activado y la columna lumbar
-  recta sin torcer la espalda (imagina: un vaso sobre tu zona lumbar
-  no se caería). Eleva una pierna hacia fuera sin girarla.
-  Presta atención al ángulo recto en las caderas y las rodillas. Entrena siempre ambos lados del cuerpo.
-  Para aumentar la resistencia, puedes usar una banda elástica.
+status: ai_reviewed
+name: Abducción de cadera en cuadrupedia (Fire Hydrant)
+description: 'Posición inicial:
+
+  Colócate a cuatro patas sobre una esterilla con las manos bajo los hombros y las rodillas bajo las caderas. Opcionalmente, coloca una banda elástica justo por encima de las rodillas. Mantén el abdomen activo y la espalda recta.
+
+
+  Ejecución:
+
+  Con la rodilla flexionada a 90 grados, eleva una pierna lateralmente hacia fuera hasta que el muslo quede casi paralelo al suelo. Aprieta el glúteo medio y evita rotar la pelvis. Baja lentamente la pierna sin apoyarla del todo y repite. Completa la serie antes de cambiar de pierna.
+
+
+  Consejos:
+
+  Imagina que llevas un vaso de agua en la zona lumbar: no permitas que la espalda se balancee ni se incline.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4283'
+search_terms:
+- Abducción de cadera en cuadrupedia
+- Fire Hydrant

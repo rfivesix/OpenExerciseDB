@@ -1,11 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1717'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Einarmiges Trizepsdrücken am Kabelzug
+name: Einarmiges Überkopf-Trizepsdrücken am Kabelzug
 description: |-
-  Einseitige Trizepsübung mit dem Rücken zum Kabelzug, wobei sich der Kabelzug oben befindet.
+  Ausgangsposition:
+  Stelle dich mit dem Rücken zu einem oberen Kabelzug. Greife den Einhandgriff über Kopf mit einer Hand; der Ellbogen zeigt gebeugt nach vorne oben neben deinen Kopf.
+  
+  Ausführung:
+  1. Halte den Oberarm fixiert und strecke den Ellbogen kraftvoll nach vorne unten aus, bis der Arm gestreckt ist.
+  2. Halte die Kontraktion im Trizeps am Endpunkt für einen Moment fest.
+  3. Beuge den Ellbogen langsam und kontrolliert wieder, um den Trizeps unter Dehnung in die Ausgangsposition zurückzuführen.
+  
+  Hinweise:
+  Halte den Rumpf stabil und den Rücken gerade. Die Überkopfposition dehnt besonders den langen Kopf des Trizeps intensiv.
+search_terms:
+  - Einarmiges Trizepsdrücken am Kabelzug
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

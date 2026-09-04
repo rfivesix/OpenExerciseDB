@@ -1,10 +1,15 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1860'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle Adduktoren
-description: Rolle mit der Faszienrolle über deine Adduktoren. Das ist auf Englisch, bitte.
+description: "Ausgangsposition: Lege dich bauchlings auf die Matte und stütze dich\
+  \ auf die Unterarme. Lege die Faszienrolle parallel zu deinem Körper. Winkle ein\
+  \ Bein um ca. 90 Grad zur Seite ab und platziere die Rolle unter der Innenseite\
+  \ des Oberschenkels.\nAusführung: Rolle langsam von der Knieinnenseite bis hinauf\
+  \ zur Leiste vor und zurück.\nHinweise: Kontrolliere den Druck über deine Unterarme\
+  \ und das andere Bein. Vermeide ruckartige Bewegungen."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

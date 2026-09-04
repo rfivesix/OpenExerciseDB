@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2543'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Handgelenkkreisen
 description: |-
-  Handgelenkkreisen ist eine Aufwärmübung, bei der du die Handgelenke kreisförmig drehst. Es verbessert die Beweglichkeit und wird vor Übungen wie Klimmzügen, Handständen und anderen Übungen empfohlen, die Druck auf die Handgelenke ausüben.
+  Ausgangsposition:
+  Nimm eine aufrechte Sitz- oder Standposition ein. Verschränke die Finger beider Hände ineinander vor der Brust oder halte die Hände mit leicht geschlossenen Fäusten frei vor dir. Die Schultern sind entspannt und die Ellbogen leicht angewinkelt.
+
+  Ausführung:
+  1. Kreise die Handgelenke langsam und flüssig in kreisförmigen Bewegungen über ihren vollen Bewegungsumfang im Uhrzeigersinn.
+  2. Wechsle nach der Hälfte der Zeit (z. B. nach 15 bis 30 Sekunden) die Richtung und kreise gegen den Uhrzeigersinn.
+  3. Führe die Bewegungen kontrolliert durch und spüre die sanfte Erwärmung und Mobilisation in Beugern und Streckern des Unterarms.
+
+  Hinweise:
+  Bewege die Handgelenke ohne Rucken oder Schmerzen. Diese Übung eignet sich hervorragend als Aufwärm- und Vorbereitungsübung vor Liegestützen, Handständen, Klimmzügen oder Hanteltraining.
+search_terms:
+- Handgelenkskreisen
+- Handgelenk mobilisieren
+- Wrist Circles
+- Handgelenk-Rotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex

@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1872'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pigeon Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Begin in a plank or tabletop position. Slide one\
+  \ knee forward behind your wrist and angle the shin diagonally across the mat. Extend\
+  \ the opposite leg straight back with the top of the foot resting on the floor.\n\
+  Execution: Square your hips toward the floor and lower your pelvis. You can remain\
+  \ upright with hands on the mat or fold forward onto your forearms to deepen the\
+  \ stretch in the outer glute and hip of the front leg.\nTips: Keep your hips level\
+  \ and avoid tilting heavily to one side. Hold the stretch for 30 seconds while breathing\
+  \ deeply, then switch sides."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

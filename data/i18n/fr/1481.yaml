@@ -5,12 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1481'
 language: fr
-status: upstream_unreviewed
-name: Extension des triceps à la poulie en tirant la corde vers soi
+status: ai_reviewed
+name: Drag pushdown à la poulie
 description: |-
-  La position de départ de cette extension des triceps à la corde consiste à se tenir debout face à une machine à câbles, les poignées d'une corde dans les deux mains et les pieds écartés à la largeur des épaules.
-  Faites une légère charnière des hanches vers l'avant en gardant la poitrine droite, et amenez les épaules et les coudes derrière le corps, de sorte qu'en poussant la corde vers le bas, vous puissiez obtenir une contraction complète du chef long des triceps.
-  Tirez la corde de la machine à câbles aussi près du corps que possible et tendez les coudes jusqu'au verrouillage.
+  Position de départ :
+  Tenez-vous debout face à une poulie haute équipée d'une corde. Saisissez les extrémités de la corde en prise neutre, pieds écartés à la largeur des épaules, buste légèrement incliné vers l'avant et cage thoracique sortie.
+
+  Exécution :
+  1. Laissez les coudes reculer légèrement tout en poussant la corde vers le bas le long du corps, au plus près du tronc.
+  2. Tendez complètement les coudes en bas et écartez les extrémités de la corde pour contracter au maximum le chef long du triceps.
+  3. Remontez lentement la corde de façon contrôlée en la gardant proche du corps.
+
+  Conseils :
+  Faire glisser la corde au ras du corps maximise le pic de contraction du triceps en fin de mouvement.
+search_terms:
+  - Extension des triceps à la poulie en tirant la corde vers soi
+  - Drag pushdown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

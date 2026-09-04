@@ -8,9 +8,13 @@ exercise_id: '1838'
 language: de
 status: ai_reviewed
 name: Schulterübungen mit Widerstandsband
-description: |-
-  Befestige ein Widerstandsband hinter dir an etwas Stabilem. Stelle dich davon weg und halte es in der Hand, sodass es straff gespannt ist.
-  Siehe das beigefügte YouTube-Video: https://www.youtube.com/watch?v=zdwEWchSjrI .
+description: "Ausgangsposition: Befestige ein Widerstandsband auf Schulter- oder Brusthöhe\
+  \ an einem stabilen Befestigungspunkt. Halte das Band in der Hand und tritt zurück,\
+  \ bis es unter leichter bis moderater Spannung steht.\nAusführung: Führe mit gestrecktem\
+  \ oder leicht gebeugtem Arm kontrollierte Kreis- und Rotationsbewegungen in verschiedenen\
+  \ Bewegungsebenen aus, um das Schultergelenk und die Rotatorenmanschette zu mobilisieren.\n\
+  Hinweise: Achte auf eine aufrechte Haltung und eine stabile Rumpfspannung. Bewege\
+  \ dich kontrolliert und ohne ruckartige Schwungbewegungen."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

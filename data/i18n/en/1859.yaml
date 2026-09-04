@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1859'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Gluteus
-description: Slide on the Foam Roller over your gluteus. Is english please
+description: "Starting Position: Sit directly on top of the foam roller. Cross one\
+  \ ankle over the opposite knee (figure-four position) and shift your weight slightly\
+  \ toward the side of the crossed leg. Support yourself with your hands behind you.\n\
+  Execution: Roll with slow, controlled motions over the gluteal muscles and outer\
+  \ hip area.\nTips: Pause on tender spots (trigger points like the piriformis) for\
+  \ 15–20 seconds while maintaining steady breathing. Switch sides when finished."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -5,20 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1480'
 language: es
-status: upstream_unreviewed
-name: Extensiones de tríceps tumbado
+status: ai_reviewed
+name: Extensiones de tríceps tumbado con barra
 description: |-
-  La posición inicial de este
-  práctico ejercicio de tríceps es tumbado en un banco estándar sujetando una barra o dos mancuernas con ambas manos en agarre prono, las manos separadas al ancho de los hombros.
-  Empieza con los brazos sobre la parte alta del
-  pecho y los codos flexionados hacia atrás en un ángulo de unos 45 grados.
-  Primero flexiona los codos y
-  luego deja caer el brazo hacia atrás, llevando la barra/mancuernas detrás de la
-  cabeza y hacia abajo en dirección al suelo. En cuanto a la posición del brazo, la barra/las mancuernas nunca deben quedar completamente por encima de la cabeza, sino detrás de ella, para
-  asegurarte de que trabajas el tríceps.
-  Mantén los omóplatos
-  recogidos hacia abajo, los codos pegados a la cabeza y el core activo durante
-  todo el movimiento.
+  Posición inicial:
+  Túmbate boca arriba en un banco plano sujetando una barra con agarre prono a la anchura de los hombros. Extiende los brazos hacia arriba de modo que la barra quede por encima del pecho o ligeramente inclinada hacia la cabeza.
+
+  Ejecución:
+  1. Manteniendo los brazos fijos y los codos apuntando al techo, flexiona únicamente los codos para descender la barra de forma controlada hacia la frente o justo detrás de la cabeza.
+  2. Evita abrir los codos hacia afuera durante la bajada.
+  3. Extiende los codos con fuerza contrayendo los tríceps para volver a la posición de partida.
+
+  Consejos:
+  Mantén los hombros estables y la espalda apoyada firmemente contra el banco durante toda la serie.
+search_terms:
+  - Extensiones de tríceps tumbado
+  - Press francés con barra
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

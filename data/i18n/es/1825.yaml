@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1825'
 language: es
-status: upstream_unreviewed
-name: Elevación posterior de hombro con apoyo en el pecho
-description: |-
-  "La Y" – Posición: Ajusta un banco inclinado a 30–45 grados. Túmbate boca abajo con el pecho apoyado, manteniendo la cabeza neutra o mirando ligeramente hacia abajo para evitar tensión en el cuello. Agarre: Sujeta mancuernas ligeras con un agarre neutro o con los pulgares hacia arriba (el pulgar apuntando al techo). Movimiento: Con los codos rectos o ligeramente flexionados, eleva las mancuernas hacia arriba y hacia afuera formando una "Y". Concéntrate en mover los hombros y los omóplatos en lugar de solo levantar los brazos. Posición alta: Junta los omóplatos y estírate hacia arriba, asegurándote de que los brazos formen una "Y". Control: Baja las mancuernas lentamente a la posición inicial.
+status: ai_reviewed
+name: Elevación para deltoides posteriores con apoyo en el pecho
+description: "Posición inicial:\nAjusta un banco inclinado a 30-45 grados. Túmbate\
+  \ boca abajo con el pecho bien apoyado en el respaldo y el cuello neutro. Sujeta\
+  \ un par de mancuernas ligeras con agarre neutro o con los pulgares hacia arriba,\
+  \ con los brazos colgando hacia el suelo.\n\nEjecución:\n1. Con los codos ligeramente\
+  \ flexionados, eleva las mancuernas hacia arriba y hacia afuera en forma de \"Y\"\
+  .\n2. Concéntrate en activar los deltoides posteriores y retraer los omóplatos en\
+  \ la parte más alta.\n3. Mantén la contracción durante un segundo a la altura de\
+  \ los hombros.\n4. Desciende las mancuernas lentamente hasta la posición inicial\
+  \ sin usar balanceo.\n\nConsejos:\nEl apoyo sobre el banco aísla el trabajo eliminando\
+  \ cualquier impulso de la zona lumbar."
+search_terms:
+  - Elevación posterior con apoyo en pecho
+  - Chest-Supported Rear Delt Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

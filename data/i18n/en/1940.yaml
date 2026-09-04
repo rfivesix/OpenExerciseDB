@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1940'
 language: en
-status: upstream_unreviewed
-name: Diaphragmatic Breathing
-description: |-
-  Belly breathing. Hand on chest stays still, hand on belly rises. 8-10 slow breaths.
+status: ai_reviewed
+name: Diaphragmatic Breathing (Belly Breathing)
+description: 'Starting position:
+
+  Lie comfortably on your back on a mat, optionally with your knees slightly bent and feet flat on the floor. Place one hand flat on your chest and the other on your upper abdomen just below your ribcage.
+
+
+  Execution:
+
+  Inhale slowly and deeply through your nose, expanding your abdomen outward so that the hand on your belly rises while the hand on your chest remains nearly still. Pause softly for 1 to 2 seconds at the top of the breath. Exhale slowly and completely through parted lips or nose, allowing your belly to sink downward. Repeat for 8 to 10 slow, relaxed breath cycles.
+
+
+  Tips:
+
+  Keep your neck, shoulders, and jaw relaxed; diaphragmatic breathing engages the parasympathetic nervous system and re-establishes healthy intra-abdominal pressure patterns.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'
+search_terms:
+- Diaphragmatic Breathing
+- Belly Breathing
+- Deep Abdominal Breathing

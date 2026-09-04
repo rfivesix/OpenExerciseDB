@@ -1,13 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1737'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Assisted chin-ups
-description: Chin-ups with machine assistance (counterweights)
+description: |-
+  Starting position:
+  Select the appropriate counterweight on the assisted pull-up machine. Place your knees on the padded platform and grasp the bar with a shoulder-width underhand grip (palms facing you). Lower yourself into a controlled dead hang with arms extended.
+  
+  Movement:
+  1. Pull your body upward by driving your elbows down and back until your chin clears the bar.
+  2. Squeeze your lats and biceps firmly at peak contraction.
+  3. Lower yourself slowly and under control until your arms are nearly fully extended.
+  
+  Tips:
+  Use the machine assistance to focus on a full range of motion and strict control without swinging or kicking.
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2867'

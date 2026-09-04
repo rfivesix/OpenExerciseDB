@@ -1,25 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1774'
 language: en
-status: upstream_unreviewed
-name: Chair dips
-description: |-
-  Starting position:
-  Sit down on the front edge of a chair, back straight, hands holding the front edge. Still holding the edge of the chair, arms extended, lift your butt and walk forward slightly so that it is a few inches from the chair.
-  Steps:
-
-
-  Slowly lower your body, keeping the back straight, until your arms are at a right angle.
-
-
-  Raise your body again to the initial position, arms extended.
-
-
-  Repeat.
+status: ai_reviewed
+name: Chair Dips
+description: "Starting Position:\nSit on the front edge of a sturdy chair or bench.\
+  \ Place your hands next to your hips gripping the edge, fingers pointing forward.\
+  \ Extend your arms and slide your hips forward so they hover just off the edge.\
+  \ Place your feet flat on the floor with knees bent (easier) or extend your legs\
+  \ out straight with heels on the floor (harder).\n\nExecution:\n1. Slowly lower\
+  \ your body by bending your elbows directly behind you, keeping your back close\
+  \ to the chair.\n2. Descend until your upper arms are approximately parallel to\
+  \ the floor (90-degree bend in the elbows).\n3. Press firmly through your palms\
+  \ to extend your arms, returning to the starting position with triceps locked out.\n\
+  \nCues:\nKeep your torso upright and close to the chair; avoid flaring your elbows\
+  \ wide outward to protect your anterior shoulder capsule."
+search_terms:
+  - Chair Dips
+  - Bench Dips
+  - Bodyweight Tricep Dips
 upstream:
   license: CC-BY-SA-4.0
   license_author: tinman

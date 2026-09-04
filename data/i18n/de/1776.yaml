@@ -1,10 +1,22 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1776'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Koffertragen (Suitcase Carry)
-description: Gehe mit einer Hantel auf einer Seite vor und zurück, ohne dich gegen das Gewicht zu neigen.
+description: "Ausgangsposition:\nStelle dich aufrecht hin und hebe eine schwere Kurzhantel\
+  \ oder Kettlebell mit einer Hand wie einen Koffer auf. Der freie Arm kann zur Seite\
+  \ abgespreizt oder am Körper gehalten werden. Richte den Oberkörper vollkommen senkrecht\
+  \ auf, ziehe die Schultern nach hinten-unten und spanne Rumpf und Gesäß fest an.\n\
+  \nAusführung:\n1. Gehe mit kontrollierten, gleichmäßigen Schritten geradeaus vorwärts.\n\
+  2. Widerstehe aktiv der Last: Dein Oberkörper darf sich zu keinem Zeitpunkt zur\
+  \ Seite der Hantel neigen oder zur Gegenseite überkompensieren (Anti-Lateralflexion).\n\
+  3. Gehe die vorgegebene Distanz oder Zeitdauer ab, setze das Gewicht kontrolliert\
+  \ ab und wechsle die Hand.\n\nHinweise:\nHalte beide Schultern auf exakt gleicher\
+  \ Höhe und blicke geradeaus."
+search_terms:
+  - Suitcase Carry
+  - Koffertragen
+  - Einarmiges Tragen
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz

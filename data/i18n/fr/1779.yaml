@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1779'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotation au landmine
-description: |-
-  Commencez avec la barre du landmine pointée droit vers le haut en la poussant au-dessus de vous à l'aide de vos épaules. Puis, depuis cette position, amenez-la sur le côté pour solliciter vos abdominaux, et revenez à la position de départ.
+description: "Position de départ :\nFixez une extrémité de la barre dans un support\
+  \ landmine. Tenez-vous debout face à la barre, pieds à la largeur des épaules. Saisissez\
+  \ l'extrémité libre à deux mains, doigts croisés, bras tendus devant la poitrine.\
+  \ Fléchissez légèrement les genoux et gainez fermement la sangle abdominale.\n\n\
+  Exécution :\n1. Abaissez la barre dans un arc de cercle large et contrôlé vers une\
+  \ hanche en gardant les bras presque tendus.\n2. Laissez le buste pivoter et le\
+  \ pied arrière tourner légèrement tout en freinant la charge avec les obliques.\n\
+  3. Remontez la barre puissamment vers le haut au centre, puis enchaînez vers la\
+  \ hanche opposée.\n\nConseils :\nGardez les bras presque droits pour que la force\
+  \ rotationnelle provienne principalement de la sangle abdominale."
+search_terms:
+  - Rotation au landmine
+  - Landmine Rotation
+  - Landmine twist
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

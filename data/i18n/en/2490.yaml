@@ -2,11 +2,22 @@ exercise_id: '2490'
 language: en
 status: ai_reviewed
 name: Low Pulley Cable Row (Triangle Grip)
-description: This exercise is based on Technogym Pulley Sel. Hold the triangle with
-  both hands and bring the weight towards your belly.
+description: |-
+  Starting Position:
+  Sit upright at a low pulley cable row station and attach a close-grip triangle handle (V-bar). Place your feet securely on the footrests with your knees slightly bent. Grasp the handle with both hands, sit tall with your chest lifted, and depress your shoulders.
+
+  Execution:
+  1. Pull the triangle handle smoothly toward your lower abdomen and navel by driving your elbows backward close to your sides.
+  2. Retract your shoulder blades forcefully at peak contraction and hold for 1 second.
+  3. Slowly extend your arms forward under control, resisting the weight stack until your arms are nearly straight and lats are fully stretched.
+
+  Cues:
+  Avoid swinging your torso backward to heave the weight; maintain an upright, braced core throughout the set.
+search_terms:
+- Pulley (low, with triangle)
+- Seated Cable Row Triangle Grip
+- Close-Grip Cable Row
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi
   source_id: '4968'
-search_terms:
-- Pulley (low, with triangle)

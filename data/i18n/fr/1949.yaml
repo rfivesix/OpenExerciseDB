@@ -1,28 +1,35 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1949'
 language: fr
-status: upstream_unreviewed
-name: Limber 11
-description: |-
-  Limber 11
-  Source : Joe DeFranco
+status: ai_reviewed
+name: Routine de mobilité Limber 11
+description: 'La routine Limber 11 conçue par le coach Joe DeFranco est un circuit complet d''échauffement et de mobilité pour le bas du corps combinant automassage et étirements ciblés :
 
-  Rouleau de massage sur le tractus iliotibial [tissus mous] - 10 à 15 passages
-  Rouleau de massage sur les adducteurs [tissus mous] - 10 à 15 passages
-  Automassage des fessiers (balle de massage) [tissus mous] - 30 s à 2 min
-  Iron cross genou fléchi [dynamique] - 5 à 10 répétitions de chaque côté
-  Roulades vers des V-sits [dynamique] - 10 répétitions
-  Étirement de la grenouille en balancement [dynamique] - 10 répétitions
-  Cercles de la bouche d'incendie [dynamique] - 10 vers l'avant / 10 vers l'arrière
-  Mountain climbers [dynamique] - 10 répétitions par jambe
-  Squats cosaques [dynamique] - 5 à 10 répétitions de chaque côté
-  Étirement du piriforme assis [isométrique] - 20 à 30 s de chaque côté
-  Étirement des fléchisseurs de la hanche pied arrière surélevé [dynamique + maintien de 3 s] - 5 à 10 répétitions de chaque côté
+
+  1. Rouleau de massage sur le tractus ilio-tibial (10 à 15 passages)
+
+  2. Rouleau de massage sur les adducteurs (10 à 15 passages)
+
+  3. Automassage des fessiers à la balle de crosse (30 s à 2 min)
+
+  4. Croix de fer genoux fléchis (5 à 10 répétitions par côté)
+
+  5. Roulades vers le V-sit (10 répétitions)
+
+  6. Étirement de la grenouille avec balancement (10 répétitions)
+
+  7. Cercles de hanche à quatre pattes / Fire Hydrant (10 vers l''avant / 10 vers l''arrière)
+
+  8. Mountain climbers (10 répétitions par jambe)
+
+  9. Squats cosaques (5 à 10 répétitions par côté)
+
+  10. Étirement du piriforme assis (20 à 30 s par côté)
+
+  11. Étirement des fléchisseurs de hanche pied arrière surélevé (5 à 10 répétitions avec maintien de 3 s)'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4790'
+search_terms:
+- Limber 11
+- Joe DeFranco Limber 11

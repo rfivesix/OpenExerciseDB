@@ -5,18 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1477'
 language: es
-status: upstream_unreviewed
-name: Sacacorchos sentado
+status: ai_reviewed
+name: Sacacorchos sentado (Seated Corkscrew)
 description: |-
-  Para
-  hacer este ejercicio de abdominales y oblicuos, empieza con las manos detrás del cuerpo
-  y lleva las rodillas hacia dentro y cruzándolas, intentando realmente contraer los oblicuos.
-  Luego extiende de nuevo las piernas a la posición inicial y repite hacia el
-  lado opuesto de los abdominales.
-  Los principiantes
-  pueden notar que ni siquiera logran completar los primeros 45 segundos de esta
-  exigente variante del crunch invertido. No pasa nada, porque te da un
-  punto de partida y algo en lo que mejorar.
+  Posición inicial:
+  Siéntate en el suelo apoyando las manos detrás del cuerpo para mantener el equilibrio. Inclina ligeramente el torso hacia atrás, flexiona las rodillas y despega los pies del suelo.
+
+  Ejecución:
+  1. Flexiona y lleva las rodillas hacia el pecho mientras realizas una torsión rotando las piernas hacia un lado, contrayendo fuertemente los oblicuos.
+  2. Extiende de nuevo las piernas hacia delante sin tocar el suelo.
+  3. Vuelve a recoger las rodillas rotando esta vez hacia el lado contrario.
+  4. Alterna de forma continua y fluida entre ambos lados.
+
+  Consejos:
+  Mantén la tensión en el core durante toda la serie. El movimiento debe ser controlado y sin balanceos bruscos.
+search_terms:
+  - Sacacorchos sentado
+  - Seated Corkscrew
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

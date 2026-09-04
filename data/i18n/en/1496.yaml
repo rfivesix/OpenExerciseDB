@@ -5,10 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1496'
 language: en
-status: upstream_unreviewed
-name: DB Upper Chest Variation
+status: ai_reviewed
+name: Supinated Dumbbell Upper Chest Raise
 description: |-
-  Dumbbell in hand in a curl fashion, lean body into the arm to help the dumbbell up above the chest, next to the head, to activate chest and delt combo
+  Starting Position:
+  Stand upright or sit on a low-incline bench holding a dumbbell in one hand with an underhand (supinated) grip at hip height, elbow softly bent. Lean your torso slightly toward the working arm to align with the clavicular pec fibers.
+
+  Execution:
+  1. Raise the dumbbell upward and diagonally across the upper chest toward head height, keeping the palm facing upward throughout.
+  2. Follow the natural angle of the upper pectoral muscle fibers.
+  3. Squeeze the upper chest and anterior deltoid firmly at the peak contraction for one second.
+  4. Lower the dumbbell slowly under control back to the starting position.
+
+  Cues:
+  Maintaining supination while driving up and across maximizes clavicular head recruitment of the pectoralis major.
+search_terms:
+  - DB Upper Chest Variation
+  - Dumbbell Upper Chest Raise
+  - Supinated Incline Dumbbell Front Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: JohnPreston

@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1928'
 language: en
-status: upstream_unreviewed
-name: Seated V-Grip Row
-description: |-
-  The Seated V-Grip Row is a compound pulling exercise performed on a cable machine using a close-grip "V" handle. While seated with your feet braced, you pull the handle toward your midsection, focusing on back thickness and mid-back development.
+status: ai_reviewed
+name: Seated Cable Row with V-Grip
+description: 'Starting position:
+
+  Sit at a low cable row station with your feet planted securely on the footrests and knees slightly bent. Grasp the V-bar handles with a neutral grip, sit upright with a flat back, and lift your chest.
+
+
+  Execution:
+
+  Pull the V-handle smoothly into your lower abdomen by drawing your elbows back close to your sides. Retract your shoulder blades tightly at peak contraction. Slowly return the weight forward under control, allowing your arms to fully extend and feeling a stretch in your lats before beginning the next rep.
+
+
+  Tips:
+
+  Avoid excessive forward and backward torso swinging; maintain a stable torso angle to keep continuous tension on the lats and mid-back.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3077'
+search_terms:
+- Seated V-Grip Row
+- Close-Grip Cable Row
+- Seated Cable Row V-Handle

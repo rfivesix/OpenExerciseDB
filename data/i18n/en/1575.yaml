@@ -1,15 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1575'
 language: en
-status: upstream_unreviewed
-name: Standing Dowel Shoulder press
-description: |-
-  Mobility - prone dowel press or standing dowel shoulder press alternating between front andback
+status: ai_reviewed
+name: Standing Dowel Shoulder Press
+description: 'Starting Position:
+
+  Stand upright with your feet shoulder-width apart and core engaged. Grasp a lightweight
+  wooden dowel (or PVC pipe/broomstick) with an overhand grip slightly wider than
+  shoulder-width at chest height.
+
+
+  Execution:
+
+  1. Press the dowel smoothly overhead until your arms are fully extended and shoulders
+  shrugged slightly up to clear the subacromial space.
+
+  2. Lower the dowel with control either in front to your clavicles or behind your
+  neck, alternating between front and back positions.
+
+  3. Focus on shoulder and thoracic mobility rather than resistance.
+
+
+  Cues:
+
+  An excellent warm-up and mobility drill for the shoulder girdle and thoracic spine.
+  Move only within a pain-free range of motion.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2523'
+search_terms:
+- Broomstick Shoulder Press
+- Dowel Shoulder Press
+- Standing Dowel Shoulder press

@@ -1,10 +1,22 @@
 exercise_id: '1469'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Vorgebeugte Kabelzug-Fliegende
-description: Halte deinen Oberkörper in einem Winkel von ungefähr 105°.
+description: |-
+  Ausgangsposition:
+  Stelle die Seilzüge einer Kabelstation auf mittlere bis hohe Position ein und befestige D-Griffe. Greife die Griffe, stelle dich mittig hin und beuge den Oberkörper mit geradem Rücken etwa 45 bis 60 Grad (ca. 105° Hüftwinkel) nach vorne. Gehe in eine stabile Schrittstellung und halte die Arme mit leicht gebeugten Ellenbogen seitlich geöffnet.
+
+  Ausführung:
+  1. Führe die Hände in einer weiten Bogenbewegung nach vorne und unten vor der Brust zusammen, als würdest du einen großen Baum umarmen.
+  2. Spanne die Brustmuskulatur im tiefsten Punkt der Bewegung für eine Sekunde maximal an.
+  3. Führe die Arme kontrolliert und langsam wieder nach außen zurück, bis du eine angenehme Dehnung in der Brust spürst.
+
+  Hinweise:
+  Halte den Beugewinkel der Ellenbogen während der gesamten Übung konstant; die Bewegung findet ausschließlich im Schultergelenk statt.
+search_terms:
+  - Bent over Cable Flye
+  - Vorgebeugtes Kabel-Crossover
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

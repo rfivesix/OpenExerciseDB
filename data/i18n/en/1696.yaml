@@ -1,29 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1696'
 language: en
 status: ai_reviewed
 name: Neutral-Grip Pull-Up
 description: |-
   Execution
-
-
+  
   Pulling phase (concentric):
-
-  Drive your&nbsp;elbows down and back, pulling your&nbsp;chest toward your hands.
-  Keep your shoulders&nbsp;depressed and retracted&nbsp;(avoid shrugging).
-  Focus on squeezing your&nbsp;lats and upper back&nbsp;at the top.
-
-
-
+  
+  Drive your elbows down and back, pulling your chest toward your hands.
+  Keep your shoulders depressed and retracted (avoid shrugging).
+  Focus on squeezing your lats and upper back at the top.
+  
   Top position:
-
+  
   Chin should clear or reach the level of your hands.
-  Pause briefly and&nbsp;contract your lats&nbsp;hard.
+  Pause briefly and contract your lats hard.
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben

@@ -5,24 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1482'
 language: es
-status: upstream_unreviewed
-name: Curl con trampa con mancuernas
+status: ai_reviewed
+name: Cheat curl con mancuernas
 description: |-
-  La posición inicial es de pie
-  con los pies separados al ancho de los hombros.
-  Las manos deben tomar un agarre supino
-  o en supinación sobre las mancuernas, sujetándolas con las manos
-  separadas al ancho de los hombros.
-  Manteniendo los codos pegados a los
-  costados durante todo el movimiento, usa el impulso para hacer el curl con las mancuernas,
-  contrayendo el bíceps en la parte alta del movimiento.
-  Baja lentamente para volver a la
-  posición inicial. Mantén el core firme durante todo el ejercicio.
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de los hombros. Sujeta una mancuerna pesada en cada mano con los brazos extendidos y agarre supino (palmas hacia delante).
 
-  Hacer trampa
-  en la fase concéntrica del curl de este exigente ejercicio nos da una
-  gran oportunidad de aumentar el tiempo bajo tensión y crear una sobrecarga excéntrica
-  con más peso al bajar.
+  Ejecución:
+  1. Utiliza un ligero balanceo coordinado de las caderas para iniciar el movimiento y superar el punto de estancamiento, elevando las mancuernas hacia los hombros.
+  2. Aprieta intensamente los bíceps en el punto más alto durante un instante.
+  3. Baja el peso de forma estrictamente lenta y controlada (en 3-4 segundos), aprovechando la sobrecarga excéntrica.
+
+  Consejos:
+  El impulso inicial sirve únicamente para superar la fase concéntrica y poder sobrecargar al máximo la fase negativa excéntrica.
+search_terms:
+  - Curl con trampa con mancuernas
+  - Dumbbell Cheat Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

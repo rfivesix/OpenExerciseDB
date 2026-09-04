@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1833'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl de isquiotibiales en el suelo con discos deslizantes
-description: |-
-  Túmbate boca arriba con los talones sobre discos deslizantes o toallas. Eleva las caderas formando un puente y luego desliza los talones hacia los glúteos mientras mantienes las caderas elevadas. Vuelve lentamente a la posición inicial manteniendo el puente de cadera.
+description: "Posición inicial:\nTúmbate boca arriba con los talones apoyados sobre\
+  \ discos deslizantes o toallas. Eleva la cadera en posición de puente de glúteos\
+  \ formando una línea recta entre rodillas y hombros.\n\nEjecución:\n1. Manteniendo\
+  \ la pelvis alta, desliza los talones hacia adelante alejándolos del cuerpo hasta\
+  \ extender casi por completo las piernas.\n2. Sin dejar caer los glúteos al suelo,\
+  \ flexiona con fuerza las rodillas tirando de los talones hacia los glúteos mediante\
+  \ la contracción de los isquiotibiales.\n3. Empuja las caderas hacia arriba a medida\
+  \ que los talones regresan bajo las rodillas.\n\nConsejos:\nNo permitas que la cadera\
+  \ caiga al suelo durante la fase de extensión o flexión."
+search_terms:
+  - Curl de isquiotibiales con deslizadores
+  - Slider Hamstring Curl
+  - Floor Glider Hamstring Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

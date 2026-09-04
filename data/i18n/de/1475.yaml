@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1475'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Black Widow Knee Slides
 description: |-
-  Bei
-  dieser Rotationsbewegung von unten nach oben kreuzt du dein Knie hinüber und
-  drückst es zum gegenüberliegenden Ellbogen. Beginne in der hohen Plank-Position (oder
-  Tabletop-Position) mit den Händen direkt unter den Schultern. Hebe das linke Knie zum
-  rechten Arm und schiebe es am Unterarm hinauf, um mehr von dieser posterioren Beckenkippung
-  und Aktivierung der Bauchmuskulatur zu erreichen. Mach dann die andere Seite
-  und führe dein rechtes Knie zur linken Hand.
+  Ausgangsposition:
+  Gehe in die hohe Liegestützposition (Plank auf Händen), Hände direkt unter den Schultern platziert, der Körper bildet von Kopf bis Fersen eine gerade Linie.
+
+  Ausführung:
+  1. Ziehe ein Knie diagonal unter dem Oberkörper nach vorne in Richtung des gegenüberliegenden Ellenbogens.
+  2. Schiebe das Knie am Unterarm nach oben, während du das Becken leicht nach hinten kippst, um die schrägen und geraden Bauchmuskeln maximal zu kontrahieren.
+  3. Führe das Bein kontrolliert zurück in die Ausgangsposition und wiederhole die Bewegung mit der anderen Seite.
+
+  Hinweise:
+  Achte auf eine aktive Rumpfspannung und lass die Hüfte nicht durchhängen.
+search_terms:
+  - Black Widow Knee Slides
+  - Diagonales Kniegleiten
+  - Kniegleiten Plank
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

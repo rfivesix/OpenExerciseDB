@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1776'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Suitcase Carry
-description: |-
-  Walk forward and backward with holding dumbbell on one side without leaning to counter the weight.
+description: "Starting Position:\nDeadlift a heavy dumbbell or kettlebell from the\
+  \ floor with one hand like a suitcase. Stand tall with your feet hip-width apart,\
+  \ shoulders packed, and torso completely vertical. Brace your core and obliques\
+  \ tightly.\n\nExecution:\n1. Walk forward with slow, deliberate, and controlled\
+  \ steps in a straight line.\n2. Actively resist the pull of the weight: keep your\
+  \ shoulders level and prevent your torso from tilting sideways toward the load (anti-lateral\
+  \ flexion).\n3. Continue for the designated distance or time, set the weight down\
+  \ safely, and switch hands.\n\nCues:\nWalk with tall posture as if balancing a book\
+  \ on your head; do not lean toward the weight or hike your opposite hip."
+search_terms:
+  - Suitcase Carry
+  - One-Arm Farmer's Walk
+  - Single Arm Carry
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz

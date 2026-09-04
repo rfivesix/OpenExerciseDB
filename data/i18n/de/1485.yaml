@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1485'
 language: de
-status: upstream_unreviewed
-name: Rocking Triceps Pushdown
+status: ai_reviewed
+name: Rocking Triceps Pushdown (Trizepsdrücken mit Gewichtsverlagerung)
 description: |-
-  Stelle deine Füße unter das Seil und lehne deinen Oberkörper zum Seil hin. Stelle einen Fuß nach hinten. Drücke das Seil herunter und lehne deinen gesamten Körper auf den hinteren Fuß zurück, während du herunterdrückst, um deine Hände hinter deinen Körper zu bringen. Vergiss nicht, beim Herunterdrücken die Brust nach vorne zu bringen. Während du das Seil langsam zurücklässt, lehne deinen Körper zurück auf den vorderen Fuß.
+  Ausgangsposition:
+  Stelle dich mit leichtem Ausfallschritt vor einen hohen Kabelzug mit Seilaufsatz. Greife die Seilenden im neutralen Griff und lehne den Oberkörper leicht nach vorne in Richtung des Seils, das Körpergewicht liegt auf dem vorderen Fuß.
+
+  Ausführung:
+  1. Drücke das Seil nach unten und verlagere dabei gleichzeitig deinen Oberkörper leicht nach hinten auf den hinteren Fuß, sodass deine Hände hinter deinen Körper gelangen.
+  2. Öffne die Seilenden am tiefsten Punkt nach außen und spanne den Trizeps maximal an.
+  3. Führe das Seil langsam wieder nach oben und verlagere dein Körpergewicht zurück auf den vorderen Fuß.
+
+  Hinweise:
+  Die leichte dynamische Gewichtsverlagerung vergrößert den Bewegungsumfang in der Endkontraktion und sorgt für eine besonders intensive Beanspruchung des langen Trizepskopfs.
+search_terms:
+  - Rocking Triceps Pushdown
+  - Trizepsdrücken am Kabelzug mit Gewichtsverlagerung
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

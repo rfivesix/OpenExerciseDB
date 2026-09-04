@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1922'
 language: en
-status: upstream_unreviewed
-name: Seated Cable chest fly
-description: |-
-  Place a bench between two cable pulleys and adjust the pulleys so they are at chest/shoulder height when you are seated.
-  Grab the handles with a neutral grip and lean against the upright backrest.
-  Bring your arms together in front of your chest in a controlled motion, focusing on squeezing your chest muscles. Keep your elbows slightly bent throughout the movement.
-  Pause briefly at the top position.
-  Slowly lower your arms back to the starting position while maintaining control of the movement.
-  Repeat for reps.
+status: ai_reviewed
+name: Seated Cable Chest Fly
+description: 'Starting position:
+
+  Place an upright bench centered between two cable pulleys adjusted to chest or shoulder height. Sit back against the backrest with your feet flat on the floor and grasp the handles with a neutral grip (palms facing each other).
+
+
+  Execution:
+
+  Bring your hands together in front of your chest in a wide hugging motion, keeping a slight, rigid bend in your elbows. Squeeze your pectorals forcefully as your hands meet. Slowly open your arms back to the starting position under full control until you feel a comfortable stretch in your chest, then repeat.
+
+
+  Tips:
+
+  Keep your spine firmly supported against the backrest and maintain consistent elbow flexion throughout.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: shushu
   source_id: '3069'
+search_terms:
+- Seated Cable chest fly
+- Seated Cable Flyes

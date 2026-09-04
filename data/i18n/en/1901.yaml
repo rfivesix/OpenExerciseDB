@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1901'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clean and Press
-description: |-
-  The First Pull: Lift the bar from the floor to knee-height by driving with the legs, keeping the angle of your back constant.
-  The "Power" Position: As the bar reaches mid-thigh, explosively shrug and extend your hips to create vertical momentum.
-  The Quick Elbow Turnover: In the catch phase, rotate your elbows rapidly under the bar to create a "shelf" on your front deltoids.
-  The Vertical Press: Press the bar in a straight line; your head should shift slightly forward once the bar clears your forehead to reach full lockout.
+description: "The First Pull: Lift the bar from the floor to knee-height by driving\
+  \ with the legs, keeping the angle of your back constant.\nThe \"Power\" Position:\
+  \ As the bar reaches mid-thigh, explosively shrug and extend your hips to create\
+  \ vertical momentum.\nThe Quick Elbow Turnover: In the catch phase, rotate your\
+  \ elbows rapidly under the bar to create a \"shelf\" on your front deltoids.\nThe\
+  \ Vertical Press: Press the bar in a straight line; your head should shift slightly\
+  \ forward once the bar clears your forehead to reach full lockout."
 search_terms:
-  - Clean & Press
-  - Barbell Clean and Press
-  - Olympic Clean and Press
+- Clean & Press
+- Barbell Clean and Press
+- Olympic Clean and Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712

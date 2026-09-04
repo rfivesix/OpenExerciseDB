@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1855'
 language: es
-status: upstream_unreviewed
-name: Foam Roller isquitobiales
-description: Mueve sobre el foam roller tus isquitobiales lentamente
+status: ai_reviewed
+name: Foam Roller Isquiotibiales
+description: "Posición inicial: Siéntate en el suelo y coloca el rodillo de espuma\
+  \ debajo de la parte posterior de los muslos. Apoya las manos detrás del cuerpo\
+  \ para sostener tu peso y despega los glúteos del suelo.\nEjecución: Rueda lentamente\
+  \ desde la base de los glúteos hasta justo por encima de la parte posterior de las\
+  \ rodillas. Rota los pies ligeramente hacia adentro y hacia afuera para abarcar\
+  \ todos los isquiotibiales.\nConsejos: Mantén un ritmo lento y controlado, deteniéndote\
+  \ en las zonas de mayor sobrecarga."
+search_terms:
+- Foam Roller isquitobiales
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

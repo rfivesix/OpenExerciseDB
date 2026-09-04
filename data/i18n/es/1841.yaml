@@ -5,15 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1841'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de extensión de hombro sentado
-description: |-
-  Siéntate con las manos detrás de ti, separadas al ancho de los hombros.
-  Bloquea los codos.
-  Desplaza los pies y las caderas hacia adelante, bajando los hombros hacia el suelo.
-  Llega tan lejos como puedas para conseguir un buen estiramiento.
-
-  Consulta el vídeo: https://www.youtube.com/watch?v=ihUAbG0e8zw
+description: "Posición inicial: Siéntate en el suelo con las manos apoyadas detrás\
+  \ de ti, separadas al ancho de los hombros y con los dedos apuntando hacia atrás\
+  \ o ligeramente hacia afuera.\nEjecución: Mantén los brazos extendidos y desliza\
+  \ la pelvis y los pies hacia adelante, llevando los hombros a extensión hasta sentir\
+  \ un estiramiento cómodo en la parte frontal de los hombros y el pecho.\nConsejos:\
+  \ Avanza solo hasta donde resulte cómodo sin dolor. Mantén la posición durante 20-30\
+  \ segundos respirando de forma continua."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

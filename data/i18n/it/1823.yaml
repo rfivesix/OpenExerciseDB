@@ -1,19 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1823'
 language: it
-status: upstream_unreviewed
-name: Clamshell
-description: |-
-  Posizione
-  Plank laterale, avambraccio a terra, corpo in linea retta.
-  Esecuzione
-  Solleva il ginocchio superiore mantenendo i piedi vicini,
-  come un “guscio che si apre”, poi ritorna lentamente. Mantieni il core
-  stabile e i fianchi allineati.
+status: ai_reviewed
+name: Clamshell (Esercizio della conchiglia)
+description: "Posizione di partenza:\nSdraiati sul fianco su un tappetino con le anche\
+  \ flesse a 45 gradi e le ginocchia piegate a 90 gradi. Tieni le gambe sovrapposte\
+  \ con i talloni a contatto.\n\nEsecuzione:\n1. Mantenendo i talloni uniti, solleva\
+  \ il ginocchio superiore verso l'alto come una conchiglia che si apre.\n2. Raggiungi\
+  \ la massima apertura senza ruotare il bacino all'indietro.\n3. Contrai il medio\
+  \ gluteo per 1-2 secondi in cima.\n4. Riabbassa lentamente il ginocchio alla posizione\
+  \ di partenza con controllo.\n\nConsigli:\nMantieni il bacino stabile e perpendicolare\
+  \ al suolo durante l'intera esecuzione."
+search_terms:
+  - Clamshell
+  - Conchiglia glutei
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

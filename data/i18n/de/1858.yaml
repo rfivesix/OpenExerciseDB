@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1858'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle Quadrizeps
-description: Rolle die Faszienrolle über deine Quadrizeps. Ist Englisch, bitte.
+description: "Ausgangsposition: Lege dich bauchlings auf den Boden und platziere die\
+  \ Faszienrolle unter deinen Oberschenkelvorderseiten. Stütze dich auf den Unterarmen\
+  \ wie bei einem Unterarmstütz ab.\nAusführung: Rolle langsam vom Beckenansatz bis\
+  \ kurz oberhalb der Kniescheiben vor und zurück. Drehe die Beine leicht nach innen\
+  \ oder außen, um die verschiedenen Anteile des Quadrizeps anzusprechen.\nHinweise:\
+  \ Spanne die Bauchmuskeln an, um ein Durchhängen der Lendenwirbelsäule (Hohlkreuz)\
+  \ zu verhindern."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

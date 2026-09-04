@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1466'
 language: en
-status: upstream_unreviewed
-name: Calf Raise using Hack Squat Machine
+status: ai_reviewed
+name: Calf Raise on Hack Squat Machine
 description: |-
-  Ideally using a trapeze addon, Lift the weight up using your calves by getting on your toes.
+  Starting Position:
+  Step into the hack squat machine, resting your shoulders under the pads and placing your back flat against the backrest. Position the balls of your feet on the bottom edge of the footplate with your heels hanging off into space. Disengage the safety stops and keep your knees almost fully extended with a slight soft bend.
+
+  Execution:
+  1. Lower your heels slowly and under control as far below the platform as comfortable to achieve a deep stretch in the calf muscles.
+  2. Drive through the balls of your feet to press upward onto your tiptoes as high as possible.
+  3. Squeeze your calves firmly at the peak contraction for one second before lowering back down with control.
+
+  Cues:
+  Do not bounce at the bottom or bend your knees to generate momentum; ensure the movement originates entirely from the ankle joints.
+search_terms:
+  - Calf Raise using Hack Squat Machine
+  - Hack Squat Calf Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

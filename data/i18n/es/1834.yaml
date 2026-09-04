@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1834'
 language: es
-status: upstream_unreviewed
-name: Elevación Trap-3
-description: |-
-  Inclínate hacia adelante desde la cadera y flexiona ligeramente las rodillas. Desciende y retrae el hombro que vayas a usar. Apoya la otra mano sobre la rodilla.
-  Eleva la mano unos 15 grados por encima de la cabeza, manteniendo la posición del hombro.
+status: ai_reviewed
+name: Elevación Trap-3 (Trapecio inferior)
+description: "Posición inicial:\nInclina el torso hacia adelante desde la cadera a\
+  \ unos 45 grados con la espalda recta. Apoya una mano en la rodilla o en un banco\
+  \ como soporte. Deja colgar el brazo de trabajo con el pulgar hacia arriba y la\
+  \ escápula deprimida hacia abajo.\n\nEjecución:\n1. Con el codo bloqueado y extendido,\
+  \ eleva el brazo diagonalmente hacia adelante y arriba unos 15 a 30 grados por encima\
+  \ de la cabeza.\n2. Mantén el hombro descendido y alejado de la oreja para activar\
+  \ el trapecio inferior (Trap-3).\n3. Sostén la contracción durante 1 o 2 segundos\
+  \ en el punto más alto.\n4. Desciende el brazo lentamente con control a la posición\
+  \ inicial.\n\nConsejos:\nNo encojas el hombro hacia el cuello; el movimiento aísla\
+  \ el trapecio inferior."
+search_terms:
+  - Elevación Trap-3
+  - Trap-3 Raise
+  - Elevación trapecio inferior
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

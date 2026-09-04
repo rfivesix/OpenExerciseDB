@@ -5,10 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1853'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: L-Sit (Foot Supported)
-description: |-
-  As with an L-sit, but allow your feet to touch the floor to support the some of the weight of your legs.
+description: "Starting Position: Sit on the floor or between parallettes with your\
+  \ legs extended in front of you. Place your hands on the ground next to your hips.\n\
+  Execution: Press firmly through your palms to lift your hips and torso off the ground,\
+  \ keeping your heels resting on the floor to support a portion of your leg weight.\n\
+  Tips: Keep your shoulders depressed away from your ears and engage your core and\
+  \ triceps. Hold the position isometrically for the target duration."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

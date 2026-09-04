@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2531'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ellbogenhebel (Elbow Lever)
 description: |-
-  Eine statische Gleichgewichtsfertigkeit aus der Calisthenics, bei der der gesamte Körper gerade und parallel zum Boden gehalten wird, indem die Ellbogen fest in den Bauch oder die Beckenknochen gedrückt werden.
+  Ausgangsposition:
+  Knie dich auf den Boden und setze die Hände mit nach hinten oder zur Seite gedrehten Fingern schulterbreit auf die Matte. Lehne deinen Oberkörper nach vorne und platziere beide Ellbogen fest an den Seiten deines Bauches oder an den vorderen Beckenknochen (Darmbeinkämmen).
+
+  Ausführung:
+  1. Lehne deinen Schwerpunkt langsam weiter nach vorne über die Hände, bis der Kopf sich leicht absenkt und die Beine vom Boden abheben.
+  2. Spanne Rückenstrecker, Gesäß und Rumpf maximal an, um den gesamten Körper waagerecht und parallel zum Boden in einer geraden Linie zu halten.
+  3. Balanciere das Körpergewicht ausschließlich auf deinen Händen und den in den Bauch gestützten Ellbogen aus.
+  4. Halte diese statische Calisthenics-Position für die vorgegebene Dauer und setze die Füße sanft wieder ab.
+
+  Hinweise:
+  Die Position erfordert Handgelenkbeweglichkeit und Balance; je weiter die Ellbogen in Richtung Beckenknochen wandern, desto günstiger ist die Hebelwirkung.
+search_terms:
+- Ellbogenhebel (Elbow Lever)
+- Elbow Lever
+- Ellbogenwaage
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege

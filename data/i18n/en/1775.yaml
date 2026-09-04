@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1775'
 language: en
-status: upstream_unreviewed
-name: Pec deck rear delt fly
-description: |-
-  Seated rear delt fly on pec deck machine (facing the machine and extending arms backwards, the hands should be at the height of the shoulders)
+status: ai_reviewed
+name: Pec Deck Rear Delt Fly
+description: "Starting Position:\nSit facing the pad of a pec deck machine. Adjust\
+  \ the seat height so that the handles align with your shoulders. Rest your chest\
+  \ flat against the back pad, plant your feet firmly on the floor, and grasp the\
+  \ handles with a neutral or overhand grip with elbows slightly bent.\n\nExecution:\n\
+  1. Drive your elbows back and outward in a wide horizontal arc by contracting your\
+  \ posterior deltoids.\n2. Pause for a second at peak contraction when your arms\
+  \ are in line with your torso.\n3. Slowly resist the weight as you bring the handles\
+  \ back together to the starting position without allowing the weight stack to rest.\n\
+  \nCues:\nFocus on pulling with the back of your shoulders; avoid shrugging your\
+  \ traps upward or relying solely on excessive scapular pinching."
+search_terms:
+  - Pec deck rear delt fly
+  - Reverse Pec Deck Fly
+  - Machine Rear Delt Fly
 upstream:
   license: CC-BY-SA-4.0
   license_author: eufvksruh

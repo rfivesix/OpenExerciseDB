@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1922'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Aperturas de pecho en polea sentado
-description: |-
-  Coloca un banco entre dos poleas y ajústalas para que queden a la altura del pecho/hombros cuando estés sentado.
-  Agarra las empuñaduras con un agarre neutro y apóyate contra el respaldo vertical.
-  Junta los brazos delante del pecho con un movimiento controlado, concentrándote en apretar los músculos del pecho. Mantén los codos ligeramente flexionados durante todo el movimiento.
-  Haz una breve pausa en la posición final.
-  Baja lentamente los brazos de vuelta a la posición inicial manteniendo el control del movimiento.
-  Repite las repeticiones.
+description: 'Posición inicial:
+
+  Coloca un banco vertical entre dos poleas ajustadas a la altura del pecho. Siéntate con la espalda apoyada en el respaldo y sujeta las empuñaduras con agarre neutro.
+
+
+  Ejecución:
+
+  Junta las manos delante del pecho en un arco amplio como si dieras un abrazo, manteniendo los codos ligeramente flexionados. Aprieta fuertemente los pectorales al final del recorrido y regresa lentamente controlando la apertura hasta sentir un estiramiento agradable antes de repetir.
+
+
+  Consejos:
+
+  Mantén la espalda pegada al banco en todo momento y no estires ni dobles los codos durante el movimiento.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4284'
+search_terms:
+- Aperturas de pecho en polea sentado
+- Cable Fly sentado

@@ -5,16 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1893'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Overhead Barbell Press
-description: |-
-  Setup: Stand with feet together and grip the bar slightly wider than shoulders.
-  Position: Rest the bar on your upper chest.
-  Press: Brace your core and push the bar straight up until your arms lock out.
-  Finish: Control the bar back down to your chest.
-  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+description: "Setup: Stand with feet hip-width apart and grip the bar slightly wider\
+  \ than shoulder-width.\nPosition: Rest the bar comfortably across your upper chest\
+  \ and front deltoids.\nPress: Brace your core and press the bar straight overhead\
+  \ until your arms are fully extended.\nFinish: Control the bar steadily back down\
+  \ to your upper chest."
 search_terms:
-  - Military Press
+- Military Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712

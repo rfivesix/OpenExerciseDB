@@ -5,13 +5,11 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1846'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Horse Stance (Side Splits)
-description: |-
-  Stand as for a squat, with your feet wide and your toes pointed slightly outwards.
-  Gently squat into a deep, wide squat - your hips should be below your knees.
-  Hold for 3 to 5 seconds.
-  Come up under control, and repeat as needed.
+description: "Stand as for a squat, with your feet wide and your toes pointed slightly\
+  \ outwards.\nGently squat into a deep, wide squat - your hips should be below your\
+  \ knees.\nHold for 3 to 5 seconds.\nCome up under control, and repeat as needed."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

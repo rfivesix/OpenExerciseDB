@@ -1,20 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1960'
 language: en
-status: upstream_unreviewed
-name: Rear-foot-elevated Hip Flexor Stretch
-description: |-
-  Rear-foot-elevated Hip Flexor Stretch
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 5-10 reps each side
-  Type: dynamic
-  Includes dynamic movement plus 3s hold.
+status: ai_reviewed
+name: Rear-Foot-Elevated Hip Flexor Stretch
+description: 'Starting position:
+
+  Assume a half-kneeling stance in front of a flat bench, box, or wall. Rest the top of your rear foot elevated on the surface behind you with a mat beneath your kneeling knee. Keep your front foot planted with knee at 90 degrees.
+
+
+  Execution:
+
+  Keep your torso completely vertical. Posteriorly tilt your pelvis and contract the glute on your rear leg, gently shifting your hips forward until you feel a strong stretch in the front of your rear hip and quad. Hold the stretch for 3 seconds, ease off slightly, and pulse through 5 to 10 dynamic repetitions before switching sides.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Avoid arching your lower back; engaging the glute is the key to safely opening the psoas and rectus femoris.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3111'
+search_terms:
+- Rear-foot-elevated Hip Flexor Stretch
+- Couch Stretch
+- Elevated Hip Flexor Mobilization
+- Limber 11 Hip Flexor

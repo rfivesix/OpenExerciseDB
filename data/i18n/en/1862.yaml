@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1862'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Circles
-description: View the video to undestand the exercise
+description: "Starting Position: Stand tall with your feet hip-width apart and place\
+  \ your hands on your hips.\nExecution: Make smooth, wide circular motions with your\
+  \ hips, rotating in a clockwise direction before switching to counter-clockwise.\
+  \ Keep your torso relatively upright and allow your hip joints to move through their\
+  \ full available range.\nTips: Move with control and avoid jerking, focusing on\
+  \ lubricating the hip joints and warming up the surrounding musculature."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

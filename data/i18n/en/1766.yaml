@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1766'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plank Reach
-description: |-
-  Position your body in plank position, keeping your eyes on the ground. Raise one arm in front of you and return it. Repeat with the other arm. Raise and return slowly while keeping your body as still as possible.
+description: "Starting Position:\nAssume a forearm plank position with your elbows\
+  \ directly beneath your shoulders, forearms parallel, and feet slightly wider than\
+  \ hip-width apart to provide a stable base of support. Brace your core and squeeze\
+  \ your glutes so your body forms a straight line from head to heels.\n\nExecution:\n\
+  1. Slowly lift one arm from the floor and reach it straight out in front of you\
+  \ at shoulder height.\n2. Hold the extended position for 1 to 2 seconds while actively\
+  \ resisting any rotation or tilting of your hips.\n3. Return the forearm to the\
+  \ starting position under control, then immediately repeat with the opposite arm.\n\
+  4. Continue alternating sides with steady, deliberate pacing.\n\nCues:\nFocus on\
+  \ anti-rotation; keep your hips and shoulders completely square to the floor throughout."
+search_terms:
+  - Plank Arm Reach
+  - Plank Reach Out
+  - Forearm Plank Reach
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2898'

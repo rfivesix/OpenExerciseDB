@@ -5,16 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1842'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clamshell mit Band
-description: |-
-  Position
-  Seitlicher Unterarmstütz, mit Ellenbogen und Unterarm auf dem Boden und leicht gebeugten Beinen. Spanne ein doppelt gelegtes Widerstandsband zwischen deinen Oberschenkeln, knapp oberhalb des Knies.
-  Ausführung
-  Hebe
-  dein oberes Knie an, während du deine Füße eng beieinander hältst, wie eine sich
-  „öffnende Muschel“, und kehre dann langsam in die Ausgangsposition zurück. Halte deinen Rumpf
-  stabil und deine Hüften ausgerichtet.
+description: "Ausgangsposition: Lege dich in Seitlage (oder in einen seitlichen Unterarmstütz)\
+  \ mit gebeugten Knien und übereinanderliegenden Beinen. Platziere ein Miniband knapp\
+  \ oberhalb beider Knie um die Oberschenkel.\nAusführung: Hebe das obere Knie gegen\
+  \ den Widerstand des Bandes an, während die Füße aneinander bleiben, wie eine sich\
+  \ öffnende Muschel. Senke das Knie langsam wieder ab.\nHinweise: Halte das Becken\
+  \ stabil und nach vorne ausgerichtet; kippe mit der Hüfte nicht nach hinten weg."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1769'
 language: en
 status: ai_reviewed
-name: Cable Row
-description: No description available.
+name: Cable Glute Kickback
+description: "Starting Position:\nAttach an ankle cuff to a low cable pulley and fasten\
+  \ it securely around your ankle. Stand facing the weight stack, grasping the machine's\
+  \ frame for support, and shift your weight onto your non-working leg. Bend forward\
+  \ slightly at the hips with your working leg slightly in front.\n\nExecution:\n\
+  1. Kick your working leg backward and slightly upward by contracting your gluteus\
+  \ maximus through hip extension.\n2. Squeeze your glute firmly at the top of the\
+  \ movement for 1 second without arching your lumbar spine.\n3. Slowly return the\
+  \ leg to the starting position under control, maintaining tension on the glute throughout\
+  \ the repetition.\n\nCues:\nKeep your torso stable and do not rotate your pelvis;\
+  \ ensure the movement comes entirely from hip extension rather than lower-back extension."
 search_terms:
   - cabel
+  - Cable Row
+  - Cable Glute Kickback
+  - Cable Hip Extension
 upstream:
   license: CC-BY-SA-4.0

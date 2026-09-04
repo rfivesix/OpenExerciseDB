@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1686'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pont fessier avec développé d'un bras
 description: |-
   Un haltère dans une main, réalisez un pont fessier. Tenez ensuite l'haltère au-dessus de votre poitrine : c'est la position de départ de la répétition. Abaissez l'haltère jusqu'à ce que votre coude touche le sol ou se trouve à environ 45 degrés en dessous de votre épaule si vous utilisez un banc. Poussez l'haltère pour revenir à la position de départ.

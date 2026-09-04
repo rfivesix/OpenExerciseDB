@@ -5,14 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1483'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl biceps trifecta
 description: |-
-  Cet exercice est un mélange de trois curls différents : le curl en supination en travers du corps, le curl en pronation en travers du corps et le no money curl. Vous alternez entre trois variantes de curl qui visent chacune des objectifs différents, et vous prolongerez la série au-delà de la fourchette habituelle de 8 à 12 répétitions, ce qui nous apporte cette intensité.
+  Position de départ :
+  Tenez-vous debout, pieds à la largeur des épaules, en tenant un haltère dans chaque main, bras tendus le long du corps.
 
-  Pour le curl en supination en travers du corps, mettez l'avant-bras en supination, paumes tournées vers le plafond, et amenez les avant-bras en travers du corps. Soulevez vers l'épaule le côté de l'haltère orienté vers l'intérieur.
-  Pour le curl en pronation en travers du corps, mettez l'avant-bras en pronation, paumes tournées vers le sol (prise pronation), et amenez les avant-bras en travers du corps. Soulevez vers l'épaule le côté de l'haltère orienté vers l'intérieur.
-  Pour le no money curl, vous réalisez le curl tout en effectuant une rotation externe de l'épaule. Soulevez le côté de l'haltère orienté vers l'intérieur vers l'extérieur de votre épaule.
+  Exécution :
+  Cet exercice enchaîne trois variantes de curl au cours d'une même série :
+  1. Curl en supination en travers du corps : Tournez la paume vers le haut et montez l'haltère en diagonale vers l'épaule opposée.
+  2. Curl en pronation en travers du corps : Tournez la paume vers le bas (prise pronation) et montez l'haltère vers l'épaule opposée pour solliciter le brachial et le long supinateur.
+  3. No Money Curl : Effectuez le curl en réalisant une rotation externe des épaules et en écartant les mains vers l'extérieur pour un pic de contraction optimal.
+
+  Conseils :
+  Enchaînez les répétitions avec régularité et contrôle pour maintenir une tension continue sur les fléchisseurs du bras.
+search_terms:
+  - Curl Trifecta
+  - Biceps Curl Trifecta
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

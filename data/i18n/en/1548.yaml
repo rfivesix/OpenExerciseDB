@@ -1,16 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1548'
 language: en
 status: ai_reviewed
-name: Stair Master
-description: |-
-  Cardio and lower-body strength machine designed to simulate climbing stairs. It provides a low-impact, high-intensity workout that targets the legs, glutes, and core while improving cardiovascular endurance.
+name: StairMaster (Stair Climber)
+description: Cardio and lower-body strength machine designed to simulate climbing
+  stairs. It provides a low-impact, high-intensity workout that targets the legs,
+  glutes, and core while improving cardiovascular endurance.
 upstream:
   license: CC-BY-SA-4.0
   license_author: MisterPinnacle
   source_id: '2496'
+search_terms:
+- Stair Master
+- Stair Stepper
+- StairMaster

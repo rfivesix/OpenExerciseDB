@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1474'
 language: es
-status: upstream_unreviewed
-name: W-Raise
+status: ai_reviewed
+name: Elevación en W (W-Raise)
 description: |-
-  Este exigente ejercicio es una variante del crunch invertido que se compone de tres partes en las que básicamente dibujamos una „W“ invertida con las piernas.
-  La posición inicial es tumbado boca arriba en el suelo con las piernas extendidas en el punto bajo de la pata exterior de la „W“. Manteniendo un core firme y las piernas rectas, sube, eleva las caderas y luego baja lentamente las piernas hasta la mitad. Después, vuelve a subir las piernas hasta arriba, eleva de nuevo las caderas manteniendo esa línea recta y usa la fuerza del core para finalmente bajar del todo hasta la otra pata exterior de la W. Luego invierte la „W“ para volver al inicio.
+  Posición inicial:
+  Túmbate boca arriba sobre una colchoneta con los brazos extendidos a los lados para dar estabilidad. Mantén las piernas juntas y estiradas, despegándolas ligeramente del suelo.
+
+  Ejecución:
+  1. Manteniendo el core activo y las piernas rectas, eleva las piernas en diagonal hacia la izquierda despegando las caderas del suelo (primer trazo de la W invertida).
+  2. Desciende las piernas hasta la mitad de forma controlada, llévalas al centro y elévalas verticalmente hacia arriba despegando de nuevo las caderas.
+  3. Baja de nuevo hasta la mitad y elévalas en diagonal hacia la derecha.
+  4. Invierte la trayectoria para completar el dibujo de la W y repetir.
+
+  Consejos:
+  No utilices el impulso de las piernas; la elevación de las caderas debe realizarse exclusivamente por la contracción del abdomen inferior y los oblicuos.
+search_terms:
+  - W-Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

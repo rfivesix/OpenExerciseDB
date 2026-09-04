@@ -1,21 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1745'
 language: es
-status: upstream_unreviewed
-name: Elevación frontal en polea con barra
-description: |-
-  Posición inicial: Colócate de espaldas a la polea baja. Agarra la barra recta (o barra Z) con un agarre prono (palmas hacia abajo), a la anchura de los hombros. Da un paso atrás para que la barra quede a la altura de tus muslos, con las rodillas ligeramente flexionadas y el core activado para proteger la zona lumbar.
-  Fase de elevación: Levanta la barra hacia adelante en un arco, manteniendo los codos semiflexionados. Sube hasta que la barra esté a la altura de los hombros o un poco por debajo.
-  Contracción: En la parte superior, aprieta el deltoides anterior (parte frontal del hombro) durante un instante.
-  Fase de descenso: Baja el peso de forma lenta y controlada hasta la posición inicial. La fase excéntrica (bajada) es crucial para el desarrollo muscular.
-  Consejos clave
-  Evita el balanceo: Mantén el torso firme y no uses el impulso del cuerpo. Si te balanceas, el peso es demasiado alto.
-  Codos: Mantenlos ligeramente flexionados y fijos; no los extiendas por completo ni los subas excesivamente.
-  Enfoque: Concéntrate en sentir el trabajo en el deltoides anterior. Es un movimiento de flexión de hombro, no de bíceps.
+status: ai_reviewed
+name: Elevación frontal en polea con barra corta
+description: "Posición inicial:\nConecta una barra recta corta a la polea baja. Colócate\
+  \ de espaldas a la máquina, de modo que el cable pase entre tus piernas. Sujeta\
+  \ la barra con un agarre prono al ancho de los hombros frente a los muslos, con\
+  \ los codos ligeramente flexionados y el torso erguido.\n\nEjecución:\n1. Eleva\
+  \ la barra hacia adelante y arriba en un arco controlado hasta la altura de los\
+  \ hombros.\n2. Mantén la contracción máxima en la parte alta durante un segundo\
+  \ apretando el deltoides anterior.\n3. Desciende la barra lentamente a la posición\
+  \ inicial manteniendo la tensión muscular continua.\n\nConsejos:\nNo te balancees\
+  \ ni arquees la zona lumbar para subir el peso."
+search_terms:
+  - Elevación frontal en polea con barra
+  - Cable Front Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

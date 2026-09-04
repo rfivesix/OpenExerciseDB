@@ -1,16 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1950'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Faszienrolle IT-Band
-description: |-
-  IT-Band mit der Faszienrolle bearbeiten
-  Teil von: Limber 11
-  Quelle: Joe DeFranco
-  Vorgabe: 10–15 Durchgänge
-  Typ: Weichteilgewebe
+name: Faszienrolle IT-Band (Tractus iliotibialis)
+description: 'Ausgangsposition:
+
+  Lege dich in Seitlage auf eine Matte und platziere eine Faszienrolle unter der Außenseite deines Oberschenkels knapp unterhalb des Hüftgelenks. Stütze dich mit den Unterarmen und dem oberen aufgestellten Bein am Boden ab, um das aufliegende Körpergewicht zu regulieren.
+
+
+  Ausführung:
+
+  Rolle langsam und kontrolliert entlang der Oberschenkelaußenseite von der Hüfte bis kurz vor das Knie (nicht direkt über das Kniegelenk rollen). Verweile bei besonders empfindlichen Stellen (Triggerpunkten) für einige tiefe Atemzüge, um das Gewebe zu entspannen. Führe 10–15 langsame Rollbewegungen pro Seite aus.
+
+
+  Hinweise:
+
+  Teil der Limber-11-Routine von Joe DeFranco. Löst muskuläre Verspannungen und Verklebungen am Tractus iliotibialis und bereitet die Beine auf Kniebeugen und Sprints vor.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3101'
+search_terms:
+- Faszienrolle IT-Band
+- Foam Roll IT Band
+- Tractus iliotibialis Massage
+- Oberschenkelaußenseite Faszienrolle

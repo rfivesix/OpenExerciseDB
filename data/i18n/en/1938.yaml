@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1938'
 language: en
-status: upstream_unreviewed
-name: Cat-Cow
-description: |-
-  On all fours. Arch spine up (cat) then drop it down (cow). Breathe with movement.
+status: ai_reviewed
+name: Cat-Cow Stretch
+description: 'Starting position:
+
+  Begin on all fours on an exercise mat with your hands directly beneath your shoulders and your knees directly beneath your hips. Start with a neutral, flat spine.
+
+
+  Execution:
+
+  Inhale deeply as you tilt your pelvis forward, allowing your belly to sink gently toward the floor while lifting your chest and gazing softly forward into Cow pose. Exhale slowly and fully as you tuck your tailbone, draw your navel toward your spine, and round your entire back toward the ceiling into an arched Cat pose, letting your head relax down. Flow between these two shapes for 8 to 12 breath cycles.
+
+
+  Tips:
+
+  Move articulately through each segment of your spine rather than forcing end-range hyperextension.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3088'
+search_terms:
+- Cat-Cow
+- Cat Cow Stretch
+- Spinal Mobility Cat Cow

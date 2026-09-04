@@ -1,16 +1,35 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1579'
 language: en
-status: upstream_unreviewed
-name: Bronco
-description: |-
-  Finess test for rugby.5 x shuttle runs of 20m, 40m, and 60m (20yd, 45yd, 65yd/far 45yd mark)
-  Complete as fast as possible
+status: ai_reviewed
+name: Bronco Test
+description: 'Starting Position:
+
+  Set up cones at 0m (start line), 20m, 40m, and 60m markers on a running track or
+  field.
+
+
+  Execution:
+
+  1. Sprint 20m from the start line, touch the line/cone, and sprint back to the start.
+
+  2. Immediately turn and sprint 40m, touch the mark, and sprint back to the start.
+
+  3. Immediately turn and sprint 60m, touch the mark, and sprint back to the start
+  (this completes 1 repetition of 240m).
+
+  4. Repeat for a total of 5 continuous repetitions without rest (1,200 meters total)
+  as fast as possible.
+
+
+  Cues:
+
+  A gold-standard aerobic and anaerobic running fitness test widely used in rugby
+  and field sports.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: MU5H
   source_id: '2527'
+search_terms:
+- Bronco
+- Bronco Shuttle Run
+- Rugby Bronco Test

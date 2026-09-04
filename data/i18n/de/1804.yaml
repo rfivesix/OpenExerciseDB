@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1804'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Wippen in die Sprunggelenk-Dorsalflexion
-description: |-
-  Bewege dein Knie nach vorne und halte dabei deine Ferse am Boden. Halte die Position einige Sekunden und kehre in die Ausgangsposition zurück.
+description: "Ausgangsposition:\nBegib dich in den Halbkniestand (Half-Kneeling):\
+  \ Ein Knie ruht auf dem Boden (ggf. gepolstert), der vordere Fuß steht flach und\
+  \ stabil auf dem Boden, etwa eine Schienbeinlänge vor dem Körper.\n\nAusführung:\n\
+  1. Schiebe dein vorderes Knie langsam und kontrolliert geradeaus über die Zehenspitzen\
+  \ nach vorne, während deine Ferse fest auf dem Boden verankert bleibt.\n2. Gehe\
+  \ so weit in die Dehnung am Sprunggelenk, bis du den maximalen Bewegungsumfang erreichst,\
+  \ ohne dass die Ferse abhebt.\n3. Halte die Endposition für 2 bis 3 Sekunden und\
+  \ spüre die Mobilisation im Sprunggelenk und den Waden.\n4. Gleite sanft zurück\
+  \ in die Ausgangsposition und wiederhole die Wippbewegung flüssig für die gewünschte\
+  \ Wiederholungszahl, bevor du das Bein wechselst.\n\nHinweise:\nEine verbesserte\
+  \ Dorsalflexion ist die entscheidende Voraussetzung für eine saubere, aufrechte\
+  \ Kniebeugentechnik."
+search_terms:
+  - Sprunggelenksmobilisation
+  - Ankle Dorsiflexion Rocks
+  - Sprunggelenk mobilisieren
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

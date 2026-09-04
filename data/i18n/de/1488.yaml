@@ -5,19 +5,21 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1488'
 language: de
-status: upstream_unreviewed
-name: Dumbbell Pullover
+status: ai_reviewed
+name: Kurzhantel-Überzüge
 description: |-
-  Starting
-  position is lying across a flat bench perpendicularly with your feet flat
-  on the ground, holding a dumbbell overhead with both hands.
-  With
-  a slight bend in the elbow, begin lowering the dumbbell over and behind
-  the head with the arm muscles in extended position.
-  Then
-  reverse the movement bringing the dumbbell back up and over the head.
-  Keep
-  your abdominal muscles tight and spine stable throughout allow repetitions
-  and don’t allow your back to arch up away from the flat bench.
+  Ausgangsposition:
+  Lege dich quer über eine Flachbank, sodass dein oberer Rücken auf dem Polster aufliegt und deine Füße stabil und flach auf dem Boden stehen. Halte eine Kurzhantel mit beiden Händen (Handflächen an der Innenseite der oberen Hantelscheibe) mit gestreckten Armen über der Brust.
+
+  Ausführung:
+  1. Senke die Kurzhantel mit leicht gebeugten Ellenbogen in einem weiten Bogen langsam hinter den Kopf ab, bis du eine deutliche Dehnung im Latissimus und im Brustkorb spürst.
+  2. Führe das Gewicht über denselben Bogen aktiv durch Kontraktion des Latissimus und der Brustmuskeln zurück nach oben über die Brust.
+  3. Halte die Hüfte stabil und leicht abgesenkt, spanne den Rumpf fest an und überstrecke die Lendenwirbelsäule nicht.
+
+  Hinweise:
+  Halte die Beugung in den Ellenbogen während der gesamten Bewegung konstant, um die Belastung gezielt auf Rücken und Brust zu halten und den Trizeps zu entlasten.
+search_terms:
+  - Dumbbell Pullover
+  - Überzüge mit Kurzhantel
 upstream:
   license: CC-BY-SA-4.0

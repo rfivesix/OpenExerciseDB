@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1807'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Élévation latérale à la poulie derrière le dos
-description: |-
-  Les élévations latérales sont depuis longtemps un incontournable pour développer des deltoïdes bien arrondis, et les pratiquants utilisent tout ce qui est possible, des haltères et des élastiques aux machines et aux variantes à un bras, pour les faire grossir.
+description: "Position de départ :\nPlacez-vous de profil à côté d'une poulie basse.\
+  \ Attrapez la poignée avec votre main extérieure en faisant passer le câble derrière\
+  \ vos fessiers. Tenez le montant de la poulie avec la main intérieure pour vous\
+  \ stabiliser et penchez très légèrement le buste en avant.\n\nExécution :\n1. Levez\
+  \ le bras latéralement avec le coude très légèrement déverrouillé jusqu'à hauteur\
+  \ de l'épaule.\n2. Maintenez la contraction du deltoïde latéral pendant une seconde\
+  \ au sommet.\n3. Redescendez lentement la charge derrière le dos en résistant continuellement\
+  \ à la tension du câble.\n\nConseils :\nLe passage du câble derrière le dos assure\
+  \ une tension d'étirement continue et élimine tout frottement sur la hanche."
+search_terms:
+  - Élévation latérale à la poulie derrière le dos
+  - Behind the back lateral raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

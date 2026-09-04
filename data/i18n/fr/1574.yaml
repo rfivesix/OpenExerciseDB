@@ -7,5 +7,17 @@ upstream:
   license: CC-BY-SA-4.0
   license_author: delta@romeo
   source_id: '2522'
-description: |-
-  Séance de natation en nage libre sur une distance continue de 800 mètres à cadence soutenue.
+description: 'Position de départ :
+
+  Mettez-vous à l''eau et préparez-vous pour une séance de natation en continu dans
+  la nage de votre choix (crawl, brasse).
+
+
+  Exécution :
+
+  1. Nagez à une cadence régulière et soutenue sur la distance ou durée programmée.
+
+  2. Engagez les grands dorsaux, les épaules et la sangle abdominale pour propulser
+  le corps vers l''avant.
+
+  3. Maintenez un alignement hydrodynamique constant et une respiration rythmée.'

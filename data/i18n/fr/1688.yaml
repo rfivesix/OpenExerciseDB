@@ -3,9 +3,18 @@ language: fr
 status: ai_reviewed
 translated_from: de
 name: Soulevé de terre jambes tendues unilatéral (Kickstand RDL)
+description: |-
+  Position de départ :
+  Debout, tenez une barre devant vos cuisses avec une prise en pronation. Transférez environ 80 à 90 % de votre poids corporel sur la jambe avant d'appui. Reculez légèrement l'autre jambe en posant uniquement la pointe des pieds au sol pour stabiliser l'équilibre (position béquille).
+  
+  Mouvement :
+  1. En gardant le dos droit et la poitrine fière, poussez les hanches vers l'arrière et basculez le buste vers l'avant.
+  2. Faites descendre la barre le long de votre tibia avant jusqu'à ressentir un étirement marqué dans l'ischio-jambier de la jambe d'appui.
+  3. Poussez les hanches vers l'avant en contractant les fessiers pour revenir à la position initiale.
+  
+  Conseils :
+  La jambe arrière ne sert que de stabilisateur et ne doit porter presque aucun poids. Concentrez l'effort sur la chaîne postérieure de la jambe avant.
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle
   source_id: '2807'
-description: |-
-  Soulevé de terre roumain unilatéral avec le pied arrière en appui sur les orteils pour stabiliser l'équilibre, concentrant tout l'effort sur la jambe avant.

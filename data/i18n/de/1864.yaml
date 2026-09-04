@@ -1,10 +1,15 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1864'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Sprunggelenkkreisen
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Setze dich auf einen Stuhl oder den Boden und hebe\
+  \ einen Fuß leicht an, sodass das Sprunggelenk frei beweglich ist.\nAusführung:\
+  \ Kreise den Fuß langsam und mit maximalem Bewegungsumfang aus dem Sprunggelenk\
+  \ – zunächst im Uhrzeigersinn, dann gegen den Uhrzeigersinn.\nHinweise: Bewege bewusst\
+  \ nur das Sprunggelenk, während das Knie und das Schienbein ruhig bleiben. Führe\
+  \ 10–15 Wiederholungen pro Richtung aus und wechsle dann den Fuß."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

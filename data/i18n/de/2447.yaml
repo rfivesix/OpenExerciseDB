@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2447'
 language: de
-status: upstream_unreviewed
-name: Hip Airplane
+status: ai_reviewed
+name: Hip Airplane (Standwaage-Hüftrotation)
 description: |-
-  Stehe auf einem Bein und neige deinen Oberkörper leicht nach vorne, während du den Rücken gerade hältst. Strecke das freie Bein nach hinten aus, sodass dein Oberkörper und das Bein ungefähr eine Linie bilden. Öffne deine Hüfte langsam zur Seite, indem du Becken und Oberkörper kontrolliert drehst. Schließe die Hüfte dann wieder und kehre in die Ausgangsposition zurück.
-  Die Bewegung sollte hauptsächlich aus der Hüfte kommen. Halte deinen Standfuß stabil und vermeide es, dass dein Knie nach innen einknickt.
+  Ausgangsposition:
+  Stelle dich auf ein Bein und halte dich bei Bedarf mit einer Hand an einer Wand oder Stange fest. Neige den Oberkörper mit geradem Rücken nach vorne und strecke das freie Bein nach hinten aus, bis Oberkörper und Bein etwa eine waagerechte Linie bilden (Standwaage).
+
+  Ausführung:
+  1. Drehe dein Becken langsam und kontrolliert nach innen zum Standbein hin (Hüftinnenrotation), sodass sich die Hüfte schließt.
+  2. Drehe das Becken anschließend weit nach außen auf (Hüftaußenrotation), sodass sich die freie Hüftseite zur Decke öffnet.
+  3. Kehre kontrolliert in die neutrale Ausgangslage zurück und wiederhole die Bewegung für die gewünschte Wiederholungszahl, bevor du das Standbein wechselst.
+
+  Hinweise:
+  Die Bewegung erfolgt rein aus der Hüfte des Standbeins. Das Standbein bleibt stabil und das Knie minimal gebeugt, ohne nach innen einzuknicken.
+search_terms:
+- Hip Airplane
+- Hüftflugzeug
+- Hüftrotation im Einbeinstand
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,21 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2452'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Handgelenkscurl mit Langhantel
+name: Handgelenkcurls mit Langhantel
 description: |-
-  Dies ist eine Variante des Flachbankdrückens, die den Schlüsselbeinkopf des großen Brustmuskels (den oberen Bereich) betonen soll. Durch das Neigen des Oberkörpers verändert sich der Winkel des Drückens, wodurch mehr Spannung auf die obere Brust und die Schultern verlagert wird, was zu einer ästhetischeren, ausgewogenen und dreidimensionalen Entwicklung des Oberkörpers beitragen soll.
+  Ausgangsposition:
+  Knie dich vor eine Flachbank oder setze dich auf eine Bank. Lege deine Unterarme flach auf die Bank (oder auf deine Oberschenkel), sodass die Handgelenke knapp über die Kante hinausragen. Greife eine Langhantel im Untergriff (Handflächen nach oben) etwa schulterbreit.
 
-  Ausgangsposition: Greife eine Stange im Obergriff (Handflächen nach oben) etwa schulterbreit.
+  Ausführung:
+  1. Senke die Hantel langsam und kontrolliert ab, indem du die Handgelenke nach unten abknickst. Lasse die Hantel am tiefsten Punkt leicht in die Finger rollen, um die Unterarmbeuger maximal zu dehnen.
+  2. Schließe die Finger und curle das Handgelenk kraftvoll nach oben, bis die Unterarme maximal kontrahiert sind.
+  3. Halte die Kontraktion am obersten Punkt für 1 Sekunde und senke die Hantel wieder kontrolliert ab.
 
-  Position an der Bank: Knie dich vor eine Flachbank und lege die Rückseiten deiner Unterarme darauf ab. Deine Handgelenke und Hände sollten leicht über die Kante hinausragen, um einen vollen Bewegungsumfang zu ermöglichen.
-
-  Exzentrische Phase (Absenken): Senke die Stange kontrolliert ab, indem du die Handgelenke zum Boden streckst. Spreize am unteren Punkt die Finger leicht, damit die Stange ein Stück herunterrollen kann und die Dehnung maximiert wird.
-
-  Konzentrische Phase (Anheben): Schließe zuerst die Finger, um die Stange zu sichern, und beuge dann die Handgelenke explosiv, aber kontrolliert nach oben, sodass die Stange möglichst hoch kommt. Spanne die Unterarme in der obersten Position eine Sekunde lang kräftig an.
-
-  Ausführung: Halte die Unterarme während der gesamten Übung fest gegen die Bank gedrückt; nur die Handgelenke und Finger sollen sich bewegen.
+  Hinweise:
+  Halte die Unterarme während der gesamten Bewegung fest auf der Unterlage fixiert; bewege ausschließlich Handgelenke und Finger.
+search_terms:
+- Handgelenkscurl mit Langhantel
+- Handgelenkbeugen mit Langhantel
+- Wrist Curls Langhantel
+- Unterarmcurls Langhantel
 upstream:
   license: CC-BY-SA-4.0
   license_author: xWan

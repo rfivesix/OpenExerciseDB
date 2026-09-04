@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2485'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Stroke-and-Roll Drill
 description: |-
-  Push off, swim a few strokes, and every breath roll fully onto your back for 2-3 breaths, then roll back into freestyle. This teaches you to rotate your body as a unit rather than just turning your head, and helps remove the fear of not having your face in the water.
+  Starting Position:
+  Push off the wall in a streamline position and begin swimming freestyle with a steady flutter kick.
+
+  Execution:
+  1. Swim 3 to 4 standard freestyle strokes.
+  2. When initiating a breath, roll your entire torso and hips smoothly onto your back instead of just turning your neck.
+  3. Remain in the backstroke position for 2 to 3 calm, full breaths while keeping your legs kicking.
+  4. Roll smoothly back onto your stomach into freestyle and repeat the sequence.
+
+  Cues:
+  Rotate your body as a single synchronized unit from hips to shoulders, eliminating tension and fear of breathing.
+search_terms:
+- Stroke-and-Roll Drill
+- Freestyle Roll Drill
+- Swim Breathing Progression
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

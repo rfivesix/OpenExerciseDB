@@ -2,10 +2,21 @@ exercise_id: '1795'
 language: en
 status: ai_reviewed
 name: Unilateral Cross-Body Cable Pulldown
-description: on a cable rack place cable high, and with a straight arm pull that cable
-  across you from high to low. focus on tension in back shoulder.
+description: "Starting Position:\nSet the pulley of a cable station to its highest\
+  \ position. Stand slightly offset so the cable travels diagonally across your upper\
+  \ torso. Grasp the handle or cable ball with your far hand, maintain a slight forward\
+  \ hinge at the hips, and allow your arm to extend fully upward in line with the\
+  \ cable.\n\nExecution:\n1. Pull the cable diagonally downward and inward across\
+  \ your torso toward your hip, keeping a slight, fixed bend in your elbow.\n2. Drive\
+  \ your elbow tightly toward your ribcage, squeezing your latissimus dorsi and teres\
+  \ major hard at peak contraction.\n3. Slowly let the cable guide your arm back up\
+  \ along the diagonal path into a full lat stretch before initiating the next rep.\n\
+  \nCues:\nAligning the cable across your body matches the natural anatomical fiber\
+  \ orientation of your lats for superior isolated recruitment."
+search_terms:
+  - Unilateral Cross-Body Cable Pulldown
+  - Cross Body Lat Pulldown
+  - Single Arm Cross Body Cable Pull Down
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2918'
-search_terms:
-- unilateral cross body cable pull down

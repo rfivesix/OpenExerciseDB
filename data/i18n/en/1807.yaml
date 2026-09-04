@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1807'
 language: en
 status: ai_reviewed
 name: Behind-the-Back Cable Lateral Raise
-description: |-
-  Lateral raises have long been a staple for building capped delts, and lifters use everything from dumbbells and bands to machines and single-arm variations to make them grow.
+description: "Starting Position:\nStand sideways next to a low pulley cable machine.\
+  \ Reach your outer hand behind your glutes to grasp the D-handle. Hold onto the\
+  \ cable upright with your inside hand for support, and lean slightly forward with\
+  \ your chest proud.\n\nExecution:\n1. With a slight, fixed bend in your elbow, raise\
+  \ your arm outward and upward along your side until your hand reaches shoulder height.\n\
+  2. Squeeze your lateral deltoid hard at the top of the movement for a full one-second\
+  \ pause.\n3. Lower the handle back behind your body in a slow, controlled descent,\
+  \ keeping tension on the shoulder throughout.\n\nCues:\nRouting the cable behind\
+  \ your back prevents the handle from bumping your hips and provides uninterrupted\
+  \ tension at the stretched position."
+search_terms:
+  - Behind-the-Back Cable Lateral Raise
+  - Behind Back Lateral Raise
+  - Cable Side Lateral Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: LEBRERO

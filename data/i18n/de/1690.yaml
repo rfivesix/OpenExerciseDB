@@ -1,33 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1690'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kabelzug-Fly für die obere Brust
 description: |-
   Ausführung
-
-
+  
   Startposition:
-
+  
   Die Arme sind nach unten und leicht hinter dem Körper, die Ellenbogen leicht gebeugt.
   Spüre eine leichte Dehnung in der Brust.
-
-
-
+  
   Bewegung:
-
+  
   Führe deine Hände nach oben und zusammen vor deiner oberen Brust — etwa auf Kinn- bis Schlüsselbeinhöhe.
   Nutze eine flüssige, kontrollierte Bewegung (vermeide Ruckeln).
   Drücke deine Brustmuskulatur oben für 1–2 Sekunden zusammen.
-
-
-
+  
   Rückführung:
-
+  
   Lass die Arme langsam wieder nach unten und zu den Seiten zurückgehen, kontrolliert und unter Spannung.
 upstream:
   license: CC-BY-SA-4.0

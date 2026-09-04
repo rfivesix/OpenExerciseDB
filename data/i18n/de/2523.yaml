@@ -1,14 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2523'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Serratus-Wandgleiten Dehnung
+name: Serratus-Wandgleiten (Wall Slide)
 description: |-
-  Stelle dich mit dem Gesicht zu einer Wand. Lege die Unterarme senkrecht an die Wand, sodass sowohl Ellbogen als auch Handgelenke die Wand berühren.
-  Richte die Arme leicht nach außen statt gerade nach oben.
-  Schiebe die Schultern stark nach vorn und gleite dann mit den Unterarmen an der Wand nach oben, bis die Ellbogen etwa auf Kinnhöhe sind.
-  Gleite mit den Unterarmen wieder an der Wand nach unten. Wiederhole dies nach Bedarf.
+  Ausgangsposition:
+  Stelle dich aufrecht mit dem Gesicht zu einer glatten Wand. Lege deine Unterarme senkrecht flach an die Wand, sodass sowohl Ellbogen als auch Handgelenke Wandkontakt haben. Die Ellbogen stehen etwa auf Schulterhöhe und schulterbreit auseinander.
+
+  Ausführung:
+  1. Drücke deine Unterarme aktiv gegen die Wand, um die Schulterblätter nach vorne außen zu schieben (Protraction).
+  2. Lasse deine Unterarme langsam und kontrolliert an der Wand nach oben gleiten, bis die Ellbogen sich auf Stirn- oder Augenhöhe befinden.
+  3. Halte die Dehnung und Aktivierung im vorderen Sägemuskel (Serratus anterior) am höchsten Punkt für 1 bis 2 Sekunden.
+  4. Gleite mit den Unterarmen kontrolliert wieder in die Ausgangsposition nach unten zurück.
+
+  Hinweise:
+  Halte während des gesamten Gleitens ständigen Druck gegen die Wand aufrecht und vermeide ein Hohlkreuz.
+search_terms:
+- Serratus-Wandgleiten Dehnung
+- Serratus Wall Slide
+- Wall Slide Schulteraktivierung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

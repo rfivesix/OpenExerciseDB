@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2496'
 language: en
-status: upstream_unreviewed
-name: Wall Push-ups (Vasco L1)
+status: ai_reviewed
+name: Wall Push-Ups
 description: |-
-  Vasco custom beginner wall push-up for zero-equipment home training. Part of 7-day Push/Pull/Core/Lower/Full/Recovery/Rest periodization. 6:30 AM wake, 1hr sessions. Stoic discipline focus.
+  Starting Position:
+  Stand facing a flat wall about arm's length away. Place your palms flat against the wall slightly wider than shoulder-width apart at chest height. Step your feet back so your body leans toward the wall in a straight diagonal line.
+
+  Execution:
+  1. Bend your elbows at about a 45-degree angle to lower your chest toward the wall under control until your nose or chest nearly touches it.
+  2. Press firmly through your palms to push your body away from the wall back to the starting position.
+  3. Keep your core braced and your spine neutral throughout the movement.
+
+  Cues:
+  Avoid sagging your lower back or flaring your elbows wide; this serves as an excellent beginner regression for building pressing strength.
+search_terms:
+- Wall Push-ups (Vasco L1)
+- Wall Push-Ups
+- Beginner Wall Pushups
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4978'

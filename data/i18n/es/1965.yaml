@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1965'
 language: es
-status: upstream_unreviewed
-name: Marcha con rodillas altas
-description: |-
-  Un ejercicio de cardio y movilidad de bajo impacto que fortalece los flexores de la cadera y mejora el equilibrio.
+status: ai_reviewed
+name: Elevaciones de rodilla de pie
+description: 'Posición inicial:
 
-  Movimiento: Ponte de pie erguido y eleva una rodilla hacia el pecho tan alto como te resulte cómodo.
-  Brazos: Lleva el brazo contrario hacia delante mientras subes la rodilla, como al caminar.
-  Core: Mantén los abdominales activados para conservar una postura erguida.
-  Ritmo: Realiza el movimiento con control, alternando las piernas de forma rítmica.
+  Ponte de pie erguido con los pies a la anchura de las caderas y el abdomen activado.
+
+
+  Ejecución:
+
+  Eleva una rodilla hacia el pecho hasta que el muslo quede como mínimo paralelo al suelo, manteniendo el equilibrio sobre la pierna de apoyo. Baja el pie con control e inmediatamente eleva la rodilla contraria, alternando los lados de manera rítmica.
+
+
+  Consejos:
+
+  No te eches hacia atrás al levantar la pierna; conserva la verticalidad del tronco trabajando desde los flexores de cadera y el core.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3563'
+search_terms:
+- Marcha con rodillas altas
+- Elevación de rodilla de pie
+- Standing Knee Raise

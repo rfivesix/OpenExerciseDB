@@ -1,10 +1,22 @@
 exercise_id: '1489'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Plank Jacks
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Hampelmänner aus der Plank-Position.
+name: Plank Jacks (Unterarmstütz mit Grätschsprüngen)
+description: |-
+  Ausgangsposition:
+  Begib dich in eine stabile Unterarmstütz-Position (Plank auf den Unterarmen) oder eine hohe Plank auf den Händen. Der Körper bildet von Kopf bis Fersen eine gerade Linie, die Füße stehen eng zusammen.
+
+  Ausführung:
+  1. Halte den Rumpf maximal fest angespannt und springe mit beiden Füßen gleichzeitig leicht nach außen in eine gegrätschte Position.
+  2. Lande sanft auf den Fußballen und springe sofort wieder kontrolliert in die geschlossene Ausgangsposition zurück.
+  3. Führe die Sprünge in einem gleichmäßigen, rhythmischen Tempo durch.
+
+  Hinweise:
+  Halte die Hüfte auf einer stabilen Höhe; vermeide es, das Becken hochschnellen oder durchhängen zu lassen.
+search_terms:
+  - Plank Jacks
+  - Plank Jumping Jacks
 upstream:
   license: CC-BY-SA-4.0
   license_author: jayninja

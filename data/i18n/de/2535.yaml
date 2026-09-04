@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2535'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Beinstrecken isometrisch
-description: Eine isometrische Beinstreckung ist eine Kräftigungsübung, bei der du deinen Quadrizeps gegen einen unbeweglichen Widerstand anspannst, ohne die Muskellänge zu verändern oder dein Kniegelenk zu bewegen.
+name: Isometrisches Beinstrecken
+description: |-
+  Ausgangsposition:
+  Setze dich auf die Beinstreckmaschine und stelle das Rückenpolster so ein, dass deine Kniekehlen an der Sitzkante anliegen und die Drehachse der Maschine genau auf Höhe deiner Kniegelenke liegt. Platziere das Polster auf den unteren Schienbeinen knapp über den Fußgelenken. Greife die seitlichen Griffe, um das Becken stabil im Sitz zu halten.
+
+  Ausführung:
+  1. Strecke die Beine gegen das Polster nach oben, bis der gewünschte Kniewinkel (z. B. 45 bis 60 Grad oder kurz vor der vollständigen Streckung) erreicht ist.
+  2. Halte diese Position statisch gegen den Widerstand für die vorgegebene Zeitdauer (z. B. 30 bis 45 Sekunden) und spanne den Quadrizeps maximal an.
+  3. Senke das Gewicht nach Ablauf der Haltezeit langsam und kontrolliert wieder in die Ausgangsposition ab.
+
+  Hinweise:
+  Atme während der gesamten Haltephase gleichmäßig weiter und halte die Luft nicht an. Vermeide ein Hohlkreuz und halte das Gesäß fest im Sitz.
+search_terms:
+- Beinstrecken isometrisch
+- Leg Extension isometrisch
+- Isometrische Beinstreckung
+- Quadriceps Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

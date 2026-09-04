@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1803'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trap-Bar-Kniebeuge
-description: |-
-  Eine Kombination aus den Prinzipien von Kniebeuge und Kreuzheben unter Verwendung einer Hex-/Trap-Bar, die den unteren Rücken entlastet, indem das Gewicht besser zentriert wird.
+description: "Ausgangsposition:\nStelle dich mittig in eine Trap-Bar (Hex-Bar) mit\
+  \ schulterbreitem Stand. Gehe in die Hocke, halte den Oberkörper aufrechter als\
+  \ beim klassischen Kreuzheben und greife die neutralen Griffe der Hantel fest. Ziehe\
+  \ die Schulterblätter zusammen, die Brust ist stolz aufgerichtet und der Blick geht\
+  \ leicht schräg nach vorne.\n\nAusführung:\n1. Drücke kraftvoll über die gesamte\
+  \ Fußfläche und vor allem über die Fersen in den Boden, während du Knie und Hüfte\
+  \ gleichzeitig streckst.\n2. Halte den Rumpf während des gesamten Aufstehens maximal\
+  \ stabil und führe die Bewegung primär über die Beine aus.\n3. Richte dich oben\
+  \ vollständig auf und spanne Oberschenkel und Gesäß fest an.\n4. Senke die Hantel\
+  \ durch kontrolliertes Beugen der Knie und Hüften wieder zum Boden ab.\n\nHinweise:\n\
+  Durch die zentrale Lastverteilung der Hex-Bar wird die Lendenwirbelsäule deutlich\
+  \ entlastet, während Quadrizeps und Gesäß effektiv trainiert werden."
+search_terms:
+  - Trap-Bar-Kniebeuge
+  - Hex-Bar Squat
+  - Trap Bar Kniebeugen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

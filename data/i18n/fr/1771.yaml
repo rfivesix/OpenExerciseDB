@@ -1,20 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1771'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexion des poignets à la poulie
-description: |-
-  Tendez le bras vers le bas, puis levez légèrement l'avant-bras
-  Mettez le poignet en supination (paume vers le haut)
-  Réglez la hauteur de la poulie pour que la poignée se trouve dans votre main en supination
-  Réalisez le mouvement en
-  enroulant les paumes et les poignets vers le haut
-  (optionnel/variable) Marquez une pause en haut
-  Revenez lentement à la position de départ
+description: "Position de départ :\nAttachez une barre droite à la poulie basse. À\
+  \ genoux ou assis devant la poulie, posez vos avant-bras à plat sur vos cuisses\
+  \ ou sur un banc, les poignets dépassant du bord. Saisissez la barre avec une prise\
+  \ en supination (paumes vers le haut).\n\nExécution :\n1. Laissez la barre descendre\
+  \ doucement en déroulant légèrement les doigts pour bien étirer les fléchisseurs\
+  \ de l'avant-bras.\n2. Refermez la prise et fléchissez vigoureusement les poignets\
+  \ vers le haut au maximum de l'amplitude.\n3. Marquez une seconde d'arrêt en contraction\
+  \ maximale en haut, puis redescendez avec contrôle.\n\nConseils :\nGardez les avant-bras\
+  \ parfaitement immobiles et plaqués sur le support pour isoler les poignets."
+search_terms:
+  - Flexion poignets poulie
+  - Cable Wrist Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

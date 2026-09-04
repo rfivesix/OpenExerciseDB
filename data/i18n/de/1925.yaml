@@ -1,19 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1925'
 language: de
-status: upstream_unreviewed
-name: Langhantel-Silverback-Shrug
-description: |-
-  Stelle dich schulterbreit hin und halte die Langhantel mit beiden Händen vor dem Körper, etwas weiter als schulterbreit.
-  Beuge dich in der Hüfte nach vorne, mit einer leichten Beugung in den Knien, und halte deinen Rücken gerade.
-  Spanne deine Schulterblätter an, als würdest du versuchen, sie zusammenzuführen.
-  Löse das Schulterziehen wieder.
-  Beschreibung übernommen von MuscleWiki
+status: ai_reviewed
+name: Silverback-Shrugs mit der Langhantel
+description: 'Ausgangsposition:
+
+  Stelle dich etwa schulterbreit hin und greife die Langhantel im Obergriff etwas breiter als schulterbreit. Beuge die Knie leicht und kippe den geraden Oberkörper aus der Hüfte in eine stabile Vorbeuge (ca. 45 Grad). Die Hantel hängt mit gestreckten Armen senkrecht nach unten.
+
+
+  Ausführung:
+
+  Ziehe die Schultern kraftvoll nach oben und hinten zusammen, als wolltest du deine Schulterblätter in der Rückenmitte berühren. Halte die Arme währenddessen gestreckt. Halte die Kontraktion im oberen und mittleren Trapez für eine Sekunde und senke die Hantel langsam und kontrolliert wieder in die Ausgangslage ab.
+
+
+  Hinweise:
+
+  Die Vorbeuge verlagert den Schwerpunkt von der oberen Nackenmuskulatur auf den mittleren Trapez und die Rautenmuskeln; halte die Lendenwirbelsäule stabil und hole keinen Schwung aus den Beinen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4285'
+search_terms:
+- Langhantel-Silverback-Shrug
+- Barbell Silverback Shrug
+- Silverback Shrugs Langhantel
+- Vorgebeugtes Schulterheben

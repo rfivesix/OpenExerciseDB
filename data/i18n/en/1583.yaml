@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1583'
 language: en
-status: upstream_unreviewed
-name: Supine press
-description: Take a close grip and push perpendicular to the bench. Keep back flat.
+status: ai_reviewed
+name: Close-Grip Barbell Bench Press (Supine Press)
+search_terms:
+  - Supine press
+  - Close-Grip Bench Press
+  - Barbell Close-Grip Bench Press
+description: |-
+  Starting Position:
+  Lie flat on your back on a flat bench with your feet planted firmly on the floor. Grip the barbell with a close overhand grip (roughly shoulder-width apart) and unrack the bar directly above your upper chest with your arms extended.
+
+  Execution:
+  Inhale and lower the barbell in a controlled manner toward your lower chest or sternum, keeping your elbows tucked relatively close to your torso (around 30–45 degrees). Lightly touch your chest without bouncing, then press the barbell powerfully back up to full elbow extension by contracting your triceps and pecs.
+
+  Cues:
+  - Keep your wrists stacked directly over your forearms and elbows.
+  - Do not grip too narrowly (hands should not touch), which avoids excessive wrist and elbow strain.
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard

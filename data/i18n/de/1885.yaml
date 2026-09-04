@@ -5,27 +5,25 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1885'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: YTWL-Übung
-description: |-
-  Zweck: Verbessert die Schulterstabilität, die Haltung und die Kontrolle der Schulterblätter. Wird häufig in der Physiotherapie und beim Aufwärmen eingesetzt.
-  Ausgangsposition:
-  Stehe mit schulterbreit aufgestellten Füßen. Beuge dich aus der Hüfte nach vorne (wie beim
-  Kreuzheben) und halte deinen Rücken gerade, oder lege dich mit dem Gesicht nach unten auf eine Schrägbank.
-  Halte deine Daumen die ganze Zeit nach oben gerichtet.
-  Y (Arme nach oben):
-  Strecke beide Arme gerade nach vorne und oben in einem 135-Grad-Winkel zu
-  deinem Körper, sodass sie ein „Y“ bilden. Ziehe deine Schulterblätter am
-  obersten Punkt zusammen.
-  T (Arme zur Seite): Öffne deine Arme gerade zur Seite, senkrecht zu deinem Körper, sodass sie ein „T“ bilden. Konzentriere dich darauf, deine Schulterblätter zusammenzuziehen.
-  W (Arme gebeugt): Ziehe deine Ellenbogen zurück, beuge sie auf 90 Grad und ziehe deine Schulterblätter zusammen, sodass ein „W“ entsteht. Halte deine Handgelenke fest.
-  L (Arme gedreht):
-  Beginne mit auf 90 Grad gebeugten Ellenbogen, die nah am Körper sind. Drehe
-  deine Unterarme nach außen (Außenrotation) wie einen Torpfosten, sodass ein
-  „L“ oder ein Tor entsteht.
-  Wichtiger Fokus:
-  Die Bewegungen sollten langsam und kontrolliert sein. Führe stets mit den Daumen
-  und denke daran, die Schulterblätter zu bewegen, nicht nur die Arme.
+description: "Zweck: Verbessert die Schulterstabilität, die Haltung und die Kontrolle\
+  \ der Schulterblätter. Wird häufig in der Physiotherapie und beim Aufwärmen eingesetzt.\n\
+  Ausgangsposition:\nStehe mit schulterbreit aufgestellten Füßen. Beuge dich aus der\
+  \ Hüfte nach vorne (wie beim\nKreuzheben) und halte deinen Rücken gerade, oder lege\
+  \ dich mit dem Gesicht nach unten auf eine Schrägbank.\nHalte deine Daumen die ganze\
+  \ Zeit nach oben gerichtet.\nY (Arme nach oben):\nStrecke beide Arme gerade nach\
+  \ vorne und oben in einem 135-Grad-Winkel zu\ndeinem Körper, sodass sie ein „Y“\
+  \ bilden. Ziehe deine Schulterblätter am\nobersten Punkt zusammen.\nT (Arme zur\
+  \ Seite): Öffne deine Arme gerade zur Seite, senkrecht zu deinem Körper, sodass\
+  \ sie ein „T“ bilden. Konzentriere dich darauf, deine Schulterblätter zusammenzuziehen.\n\
+  W (Arme gebeugt): Ziehe deine Ellenbogen zurück, beuge sie auf 90 Grad und ziehe\
+  \ deine Schulterblätter zusammen, sodass ein „W“ entsteht. Halte deine Handgelenke\
+  \ fest.\nL (Arme gedreht):\nBeginne mit auf 90 Grad gebeugten Ellenbogen, die nah\
+  \ am Körper sind. Drehe\ndeine Unterarme nach außen (Außenrotation) wie einen Torpfosten,\
+  \ sodass ein\n„L“ oder ein Tor entsteht.\nWichtiger Fokus:\nDie Bewegungen sollten\
+  \ langsam und kontrolliert sein. Führe stets mit den Daumen\nund denke daran, die\
+  \ Schulterblätter zu bewegen, nicht nur die Arme."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

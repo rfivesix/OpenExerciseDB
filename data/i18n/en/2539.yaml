@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2539'
 language: en
-status: upstream_unreviewed
-name: Preacher Curl Isometric
+status: ai_reviewed
+name: Isometric Dumbbell Preacher Curl
 description: |-
-  An isometric preacher curl is a static strength exercise where you hold a fixed position on a preacher pad or and inclined bench under tension without moving the joint.
+  Starting Position:
+  Sit at a preacher bench and adjust the seat so the top of the angled pad fits snugly into your armpits. Rest the back of your upper arm flush against the pad, holding a dumbbell in an underhand (supinated) grip.
+
+  Execution:
+  1. Flex your elbow to curl the dumbbell up to the mid-range point (elbow flexed at approximately 90 degrees), where mechanical leverage creates peak tension.
+  2. Hold this position completely static against gravity for the prescribed time, sustaining maximal contraction in the biceps and brachialis.
+  3. Lower the dumbbell slowly and under control once the hold duration is reached.
+
+  Cues:
+  Keep your arm and chest pinned against the pad without leaning back or shifting your shoulder. Keep your wrist firm and breathe steadily throughout the hold.
+search_terms:
+- Preacher Curl Isometric
+- Isometric Preacher Curl
+- Dumbbell Preacher Curl Isometric Hold
+- Scott Curl Isometric
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

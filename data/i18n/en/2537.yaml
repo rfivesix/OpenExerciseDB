@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2537'
 language: en
-status: upstream_unreviewed
-name: Overhead Press Isometric
+status: ai_reviewed
+name: Isometric Cable Overhead Press
 description: |-
-  An isometric overhead press involves holding a weight statically overhead or pushing against an immovable object at a specific point in the press without moving the joint.
+  Starting Position:
+  Stand centered between low cable pulleys holding single-grip handles, or in front of a low dual-cable stack. Bring the handles up to shoulder level with an overhand grip, elbows positioned directly beneath your wrists. Stand with feet shoulder-width apart and brace your core and glutes firmly.
+
+  Execution:
+  1. Press the cable handles upward until your hands reach forehead level or just short of full overhead lockout.
+  2. Hold this overhead position completely motionless against the continuous cable tension for the prescribed duration, maximally contracting your anterior deltoids and triceps.
+  3. Lower the handles slowly and under control back to shoulder height once the hold is finished.
+
+  Cues:
+  Keep your ribcage down and avoid arching your lower back. The constant multi-directional pull of the cables demands intense shoulder and core stability throughout the isometric hold.
+search_terms:
+- Overhead Press Isometric
+- Isometric Overhead Press
+- Cable Shoulder Press Isometric
+- Isometric Cable Military Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

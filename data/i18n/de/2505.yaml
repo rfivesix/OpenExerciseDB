@@ -1,10 +1,24 @@
 exercise_id: '2505'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Dead Bug
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Vasco-eigener Dead Bug – grundlegende Stabilität der tiefen Rumpfmuskulatur und Anti-Extension. Vermittelt die Entkopplung von Lendenwirbelsäule und Becken, Atemkoordination und proximale Stabilität für distale Beweglichkeit. Voraussetzung für jedes Rumpftraining.
+name: Dead Bug (Käfer-Übung)
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings auf eine Matte. Hebe die Arme senkrecht nach oben in Richtung Decke. Beuge die Hüften und Knie im 90-Grad-Winkel (Stufenbett-Position), sodass die Schienbeine parallel zum Boden stehen. Spanne den Bauch fest an und drücke den unteren Rücken flach auf den Boden.
+
+  Ausführung:
+  1. Senke gleichzeitig den rechten Arm langsam über den Kopf nach hinten und strecke das linke Bein knapp über dem Boden nach vorne aus.
+  2. Halte den unteren Rücken während der gesamten Streckung fest in Kontakt mit dem Boden (Anti-Extension).
+  3. Führe Arm und Bein kontrolliert in die Ausgangsposition zurück.
+  4. Wiederhole die Bewegung mit dem linken Arm und dem rechten Bein und wechsle kontinuierlich ab.
+
+  Hinweise:
+  Gehe mit Arm und Bein nur so weit nach unten, wie du den Kontakt des unteren Rückens zum Boden stabil halten kannst.
+search_terms:
+- Dead Bug
+- Käfer-Übung
+- Dead Bug Bauchübung
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4990'

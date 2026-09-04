@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1485'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rocking Triceps Pushdown
 description: |-
-  Set your feet below the rope and lean your upper body towards the rope. Set one foot back. Push down the rope and lean your entire body back onto the rear foot as you push down to get your hands behind your body. Don't forget to bring your chest to the front during the pushdown. As you release the rope slowly, lean your body back onto the front foot.
+  Starting Position:
+  Stand in a staggered stance in front of a high cable pulley with a rope attachment. Grasp the ends of the rope with a neutral grip and lean your upper body slightly forward toward the cable with your weight over your front foot.
+
+  Execution:
+  1. Push the rope downward while rocking your weight slightly back onto your rear foot, allowing your hands to extend behind the line of your torso.
+  2. Flare the rope ends outward at the bottom for an intense peak contraction in the triceps.
+  3. Slowly let the rope rise back up under control while shifting your weight forward again onto the front foot.
+
+  Cues:
+  The subtle rocking motion extends the active range of motion, providing a deeper lockout and enhanced engagement of the triceps long head.
+search_terms:
+  - Rocking Pushdown
+  - Triceps Rope Pushdown with Weight Shift
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

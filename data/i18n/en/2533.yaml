@@ -1,19 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2533'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Arch Hang
 description: |-
-  https://www.youtube.com/watch?v=C995b3KLXS4&amp;t=7s
+  Starting Position:
+  Hang from a pull-up bar with an overhand grip slightly wider than shoulder-width. Transition from a dead hang into an active hang by depressing your shoulder blades away from your ears.
 
-  Elbows should stay straight
-  Hold it for time/reps
-  Start at an active hang: https://www.youtube.com/watch?v=HoE-C85ZlCE
-  Progress towards a 90 degree in your shoulder
+  Execution:
+  1. Keeping your elbows completely locked straight, retract your shoulder blades hard and extend your thoracic spine.
+  2. Pull your chest upward toward the ceiling, tilting your torso back to roughly a 45-to-90-degree angle relative to the ground to form a shallow arc.
+  3. Squeeze your lats and lower traps forcefully at peak arch, holding the isometric position for 2 to 5 seconds.
+  4. Lower slowly and under control back to an active hang.
+
+  Cues:
+  Do not bend your elbows to pull yourself up; the movement must be driven purely by scapular retraction and lat engagement.
+search_terms:
+- Arch Hang
+- Scapular Pull-Up Arch
+- Gymnastics Arch Hang
 upstream:
   license: CC-BY-SA-4.0
   license_author: wintercyan

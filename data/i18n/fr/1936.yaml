@@ -1,16 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1936'
 language: fr
-status: upstream_unreviewed
-name: Oiseau à la poulie (un bras)
-description: |-
-  Oiseau à la poulie (un bras) :
-  Tenez-vous de profil par rapport à une machine à poulie, la poignée réglée à environ hauteur d'épaule. Le coude légèrement fléchi, tirez la poignée vers l'extérieur et l'arrière en un large arc de cercle, de sorte que le bras s'éloigne du corps. Gardez le buste immobile et concentrez-vous sur le travail du deltoïde postérieur. Utilisez une charge légère à modérée et des répétitions contrôlées.
+status: ai_reviewed
+name: Oiseau à la poulie à un bras
+description: 'Position de départ :
+
+  Placez-vous de profil par rapport à la poulie réglée à hauteur d''épaule. Saisissez le câble avec la main extérieure en croisant devant le torse. Gardez le coude légèrement déverrouillé.
+
+
+  Exécution :
+
+  Tirez le câble vers l''extérieur et l''arrière dans un arc de cercle horizontal jusqu''à ce que le bras soit aligné avec l''épaule. Contractez fermement le deltoïde postérieur pendant une seconde, puis revenez lentement à la position de départ.
+
+
+  Conseils :
+
+  Gardez le buste immobile et les hanches de face pour éviter toute rotation compensatoire du tronc.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4823'
+search_terms:
+- Oiseau à la poulie (un bras)
+- One-Arm Cable Rear Delt Fly

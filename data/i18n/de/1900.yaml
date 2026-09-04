@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1900'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trizepsdrücken am Seil
-description: |-
-  Aufbau: Stelle dich mit dem Gesicht zum Kabelzug, die Füße schulterbreit, und lehne dich leicht nach vorne.
-  Griff: Halte das Seil mit zueinander zeigenden Handflächen und die Ellbogen eng an den Rippen.
-  Ausführung: Drücke das Seil nach unten, bis die Arme vollständig gestreckt sind, und ziehe die Enden unten auseinander.
-  Kontrolle: Halte die Oberarme ruhig und kehre langsam und kontrolliert zur Ausgangsposition zurück.
+description: "Aufbau: Stelle dich mit dem Gesicht zum Kabelzug, die Füße schulterbreit,\
+  \ und lehne dich leicht nach vorne.\nGriff: Halte das Seil mit zueinander zeigenden\
+  \ Handflächen und die Ellbogen eng an den Rippen.\nAusführung: Drücke das Seil nach\
+  \ unten, bis die Arme vollständig gestreckt sind, und ziehe die Enden unten auseinander.\n\
+  Kontrolle: Halte die Oberarme ruhig und kehre langsam und kontrolliert zur Ausgangsposition\
+  \ zurück."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2449'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clamshell to Reverse Clamshell
 description: |-
-  Lie on your side with your hips and knees bent, keeping your legs stacked. Lift your top knee into a clamshell position and keep the leg elevated throughout the movement. From there, alternate between opening the knee upward and lifting the foot upward, moving through hip external and internal rotation.
-  Keep the movement slow and controlled. Do not let the top leg rest on the bottom leg between repetitions.
+  Starting Position:
+  Lie on your side with hips and knees flexed to 90 degrees and legs stacked. Elevate your top leg slightly so that it stays suspended throughout the exercise.
+
+  Execution:
+  1. Keeping your heels touching, open your top knee upward into external hip rotation (standard clamshell).
+  2. Lower the knee, touch your knees together, and simultaneously rotate your hip to lift your top foot upward (reverse clamshell).
+  3. Alternate continuously between external and internal hip rotation in a smooth, controlled rhythm.
+
+  Cues:
+  Keep your pelvis stable and square to the front; do not let your top leg rest on the bottom leg between reps.
+search_terms:
+- Clamshell Combo
+- Internal and External Hip Rotation
+- Clamshell to Reverse Clamshell
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk

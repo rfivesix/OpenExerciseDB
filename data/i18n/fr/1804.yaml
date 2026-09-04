@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1804'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bascules en dorsiflexion de la cheville
-description: |-
-  Avancez le genou vers l'avant en gardant le talon au sol. Maintenez la position quelques secondes et revenez à la position de départ.
+description: "Position de départ :\nPlacez-vous en position de fente basse (un genou\
+  \ au sol et le pied avant bien à plat sur le sol).\n\nExécution :\n1. Poussez lentement\
+  \ le genou avant vers l'avant au-dessus des orteils en veillant à garder le talon\
+  \ fermement collé au sol.\n2. Atteignez l'amplitude maximale de flexion de la cheville\
+  \ et maintenez la position pendant 2 à 3 secondes.\n3. Revenez doucement en arrière\
+  \ et répétez ce mouvement de balancement avant de changer de jambe.\n\nConseils\
+  \ :\nLe talon ne doit jamais décoller du sol pour garantir une véritable mobilisation\
+  \ de l'articulation de la cheville."
+search_terms:
+  - Bascules en dorsiflexion
+  - Mobilité cheville
+  - Ankle Dorsiflexion Rocks
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

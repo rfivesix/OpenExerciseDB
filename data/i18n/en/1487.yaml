@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1487'
 language: en
-status: upstream_unreviewed
-name: Hyper Y W Combo
+status: ai_reviewed
+name: Hyper Y-W Combo with Weight Plates
 description: |-
-  Use a glute-ham raise or a
-  stability ball for this exercise and a light weight plate in each hand.
-  Raise your torso to form a straight line with your legs and raise the
-  arms outward slightly beyond a 90-degree angle into a W position to hit
-  the rotator cuff muscles, and then lower back to the starting position.
-  Then raise up again with arms
-  in a Y position to activate the lower traps.
+  Starting Position:
+  Position yourself on a hyperextension bench (or roman chair/GHD) with your hips against the pad and feet secured. Hold a light weight plate in each hand with your arms hanging down.
+
+  Execution:
+  1. Raise your torso until it forms a straight line with your legs, engaging your glutes and spinal erectors.
+  2. Raise your arms diagonally overhead into a Y position, squeezing your lower traps and holding briefly.
+  3. Draw your elbows down and back into a W position, retracting your scapulae firmly to hit the mid traps and rotator cuff.
+  4. Lower your arms and torso back down under control before initiating the next rep.
+
+  Cues:
+  Use light weight plates (2.5 to 5 lbs); focus entirely on scapular retraction, lower trap activation, and spinal control.
+search_terms:
+  - Hyper Y W Combo
+  - Hyperextension Y-W Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

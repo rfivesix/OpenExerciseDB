@@ -1,20 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1745'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Frontheben am Kabelzug mit kurzer Stange
-description: |-
-  Das Frontheben am Kabelzug mit kurzer Stange isoliert deinen vorderen Deltamuskel (vordere Schulter) durch konstante Spannung. Dabei stehst du mit dem Rücken zu einem niedrigen Kabelzug, greifst die Stange im Obergriff und hebst sie mit leicht gebeugten Armen vor dir auf Schulterhöhe an, ohne zu schwingen, und hältst deinen Rumpf für eine kontrollierte Aufwärts- und Abwärtsbewegung angespannt. Verwende ein leichtes bis moderates Gewicht und konzentriere dich auf langsame, kontrollierte Wiederholungen, um den Muskel arbeiten zu spüren, nicht den Schwung.
-  So führst du das Frontheben am Kabelzug (Stange) aus
-  Aufbau: Befestige eine kurze gerade Stange an einem niedrigen Kabelzug. Stelle das Gewicht leicht bis moderat ein.
-  Ausgangsposition: Stelle dich mit dem Rücken zur Maschine und halte die Stange im Obergriff (Handflächen nach unten) auf Hüfthöhe, die Arme gestreckt, aber nicht durchgedrückt. Die Füße schulterbreit, der Rumpf angespannt, die Schultern nach hinten und unten.
-  Das Heben: Atme aus und hebe die Stange langsam gerade vor dir nach oben, wobei du eine leichte Beugung in den Ellbogen beibehältst, bis deine Hände Schulterhöhe (oder etwas darunter) erreichen.
-  Das Halten: Halte oben kurz inne und spanne deinen vorderen Deltamuskel an.
-  Das Absenken: Atme ein, während du die Stange langsam und kontrolliert in die Ausgangsposition zurückführst und dabei die Spannung beibehältst.
+description: "Ausgangsposition:\nBefestige eine kurze gerade Stange an der untersten\
+  \ Position eines Kabelzugs. Stelle dich mit dem Rücken zur Maschine über das Kabel,\
+  \ sodass das Kabel zwischen deinen Beinen hindurchläuft. Greife die Stange im Obergriff\
+  \ (Handflächen nach unten) etwa schulterbreit vor deinen Oberschenkeln. Stehe aufrecht,\
+  \ Knie leicht gebeugt, Schultern nach hinten-unten fixiert.\n\nAusführung:\n1. Hebe\
+  \ die Stange mit fast gestreckten Armen (minimale Ellenbogenbeugung) in einem weiten\
+  \ Bogen kontrolliert nach vorne oben bis auf Schulterhöhe an.\n2. Halte die Kontraktion\
+  \ am obersten Punkt für 1 Sekunde und spüre die Spannung im vorderen Deltamuskel.\n\
+  3. Senke die Stange langsam und kontrolliert wieder vor die Oberschenkel ab, ohne\
+  \ das Gewicht ganz abzusetzen.\n\nHinweise:\nVermeide Schwungholen aus dem Rumpf\
+  \ oder ein Überstrecken des unteren Rückens."
+search_terms:
+  - Frontheben Kabelzug
+  - Cable Front Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

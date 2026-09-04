@@ -2,12 +2,24 @@ exercise_id: '2531'
 language: en
 status: ai_reviewed
 name: Elbow Lever
-description: ​A calisthenics static balance skill where the entire body is held straight
-  and parallel to the ground, supported by tucking the elbows firmly into the abdomen
-  or pelvic bones.
+description: |-
+  Starting Position:
+  Kneel on the floor and place your hands on the mat with fingers pointing backward or turned outward. Lean your torso forward and tuck both elbows firmly into your lower abdomen or against your anterior pelvic bones (iliac crests).
+
+  Execution:
+  1. Lean your center of mass forward past your hands until your head lowers slightly and your feet naturally float off the floor.
+  2. Actively contract your erector spinae, glutes, and core to extend your legs straight, bringing your entire body horizontal and parallel to the ground.
+  3. Balance steadily on your hands with your elbows acting as a fulcrum.
+  4. Hold this static hold for time, breathing shallowly, then lower your feet back down under control.
+
+  Cues:
+  Keep your hands grounded and shift forward until the balance point is found; avoid collapsing the shoulders.
+search_terms:
+- elbow lever
+- Elbow Lever
+- Gymnastics Elbow Lever
+- Calisthenics Lever
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '5000'
-search_terms:
-- elbow lever

@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1965'
 language: de
-status: upstream_unreviewed
-name: Knieheben im Stand
-description: |-
-  Eine gelenkschonende Cardio- und Mobilitätsübung, die die Hüftbeuger stärkt und das Gleichgewicht verbessert.
+status: ai_reviewed
+name: Knieheben im Stand (Standing Knee Raise)
+description: 'Ausgangsposition:
 
-  Bewegung: Stehe aufrecht und hebe ein Knie so weit wie angenehm zur Brust.
-  Arme: Schwinge den gegenüberliegenden Arm nach vorne, während du das Knie hebst, ähnlich wie beim Gehen.
-  Rumpf: Halte deine Bauchmuskulatur angespannt, um eine aufrechte Haltung zu bewahren.
-  Tempo: Führe die Bewegung kontrolliert aus und wechsle die Beine rhythmisch ab.
+  Stelle dich aufrecht hin, die Füße hüftbreit und die Arme locker an den Seiten oder zur Unterstützung im 90-Grad-Winkel vor dem Körper gehalten. Spanne die Bauchmuskeln leicht an.
+
+
+  Ausführung:
+
+  Hebe ein Knie kontrolliert nach oben, bis der Oberschenkel mindestens parallel zum Boden steht oder Hüfthöhe erreicht. Halte den Oberkörper dabei aufrecht und stabil auf dem Standbein. Senke den Fuß kontrolliert ab und hebe direkt das andere Knie. Führe die Bewegung im zügigen Wechsel aus.
+
+
+  Hinweise:
+
+  Vermeide es, dich beim Heben des Knies nach hinten zu lehnen oder den Rücken einzurunden; die Kraft kommt aus den Hüftbeugern und den unteren Bauchmuskeln.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3562'
+search_terms:
+- Knieheben im Stand
+- Standing Knee Raise
+- High Knees Stand

@@ -1,13 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1688'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kickstand RDL
-description: use non-working leg's toes to help with balance and perform an RDL.
+description: |-
+  Starting position:
+  Stand upright holding a barbell in front of your thighs with an overhand grip. Shift approximately 80–90% of your body weight onto the front working leg. Place the rear foot slightly behind you with only the toes touching the floor for balance (kickstand position).
+  
+  Movement:
+  1. Keeping your chest up and spine neutral, push your hips backward and hinge forward at the waist.
+  2. Lower the barbell close to your front shin until you feel a deep stretch in the hamstring of your front leg.
+  3. Drive your hips forward and squeeze your glutes to return to the upright starting position.
+  
+  Tips:
+  The rear foot is strictly for balance and should bear minimal weight. Focus all muscular tension on the hamstring and glute of the front leg.
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle

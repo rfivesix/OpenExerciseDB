@@ -1,10 +1,15 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1856'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle vorderer Schienbeinmuskel
-description: Rolle mit der Faszienrolle langsam über den vorderen Schienbeinmuskel. Das ist auf Englisch, bitte.
+description: "Ausgangsposition: Begib dich in den Vierfüßlerstand und platziere die\
+  \ Faszienrolle unter der Außenseite deines Schienbeins (auf dem vorderen Schienbeinmuskel,\
+  \ nicht direkt auf dem Knochen).\nAusführung: Rolle langsam vom Fußgelenk bis knapp\
+  \ unter das Knie vor und zurück, indem du dein Körpergewicht über Arme und das andere\
+  \ Knie steuerst.\nHinweise: Vermeide direkten Druck auf die Schienbeinkante. Konzentriere\
+  \ dich auf das weiche Muskelgewebe an der Außenseite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1856'
 language: en
-status: upstream_unreviewed
-name: Foam Roller Anterior tibialis
-description: Use the foam roller slowly in the tibial anterioris. This is english, please
+status: ai_reviewed
+name: Foam Roller Anterior Tibialis
+description: "Starting Position: Begin on hands and knees (quadruped) and place the\
+  \ foam roller beneath the outside front of your shin (on the tibialis anterior muscle,\
+  \ not directly on the shin bone).\nExecution: Slowly roll forward and backward from\
+  \ just above the ankle to just below the knee, adjusting pressure with your hands\
+  \ and the supporting knee.\nTips: Avoid applying direct pressure onto the bony shin\
+  \ ridge. Focus on the soft muscle belly along the outer side of the lower leg."
+search_terms:
+- Foam Roller Anterior tibialis
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

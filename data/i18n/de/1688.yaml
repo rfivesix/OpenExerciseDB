@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1688'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Stützbein-RDL (Kickstand RDL)
-description: Nutze die Zehen des nicht arbeitenden Beins zur Unterstützung des Gleichgewichts und führe einen RDL aus.
+description: |-
+  Ausgangsposition:
+  Aufrecht stehen und eine Langhantel im schulterbreiten Obergriff vor den Oberschenkeln halten. Das Körpergewicht zu etwa 80–90 % auf das vordere Standbein verlagern. Das hintere Bein einen halben Schritt nach hinten setzen und nur mit den Zehenspitzen als Stütze aufstellen (Kickstand).
+  
+  Ausführung:
+  1. Mit geradem Rücken die Hüfte nach hinten schieben und den Oberkörper nach vorne beugen.
+  2. Die Langhantel eng am vorderen Schienbein entlang nach unten führen, bis eine deutliche Dehnung in der hinteren Oberschenkelmuskulatur des Standbeins spürbar ist.
+  3. Die Hüfte kraftvoll nach vorne strecken und in die Ausgangsposition zurückkehren.
+  
+  Hinweise:
+  Das hintere Bein dient ausschließlich dem Gleichgewicht und trägt kaum Last. Die Bewegung erfolgt primär über das Hüftgelenk des Standbeins.
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle

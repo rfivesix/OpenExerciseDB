@@ -5,11 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1838'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ejercicios de hombro con banda
-description: |-
-  Fija una banda de resistencia a algo sólido detrás de ti. Aléjate de ella y sujétala con la mano de modo que quede tensa.
-  Consulta el vídeo de YouTube adjunto: https://www.youtube.com/watch?v=zdwEWchSjrI .
+description: "Posición inicial: Fija una banda de resistencia a la altura del hombro\
+  \ o del pecho a un soporte sólido. Sujeta la banda con la mano y aléjate hasta que\
+  \ quede ligeramente tensa.\nEjecución: Realiza movimientos controlados de rotación\
+  \ y círculos con el brazo en varios planos para calentar y movilizar la articulación\
+  \ del hombro y el manguito rotador.\nConsejos: Mantén una postura erguida y el core\
+  \ firme durante todo el ejercicio, moviéndote de forma suave y controlada."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

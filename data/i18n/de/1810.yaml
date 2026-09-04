@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1810'
 language: de
-status: upstream_unreviewed
-name: Sphinx
-description: |-
-  Flach auf den Bauch legen, Beine gestreckt und Fußrücken am Boden. Bringe die Unterarme unter die Schultern, Ellenbogen direkt darunter. Dann drücke die Hände auf den Fußboden um den Brustkorb anzuheben. Ziehe die Schulterblätter zusammen, öffne die Schlüsselbeine und richte den Blick nach vorn, während der untere Rücken entspannt bleibt.
+status: ai_reviewed
+name: Sphinx-Haltung (Sphinx Pose)
+description: "Ausgangsposition:\nLege dich bauchlings flach auf eine Matte, Beine\
+  \ hüftbreit ausgestreckt, Fußrücken am Boden. Platziere deine Unterarme parallel\
+  \ auf dem Boden, mit den Ellenbogen direkt unter den Schultern und den Handflächen\
+  \ nach unten gerichtet.\n\nAusführung:\n1. Drücke deine Unterarme und Handflächen\
+  \ sanft in den Boden und hebe deinen Brustkorb und Kopf kontrolliert an.\n2. Ziehe\
+  \ die Schulterblätter nach hinten-unten zusammen, öffne die Schlüsselbeine und richte\
+  \ den Blick entspannt geradeaus.\n3. Drücke das Schambein sanft in die Matte und\
+  \ halte die Gesäßmuskulatur leicht aktiv, während der untere Rücken lang und spannungsfrei\
+  \ bleibt.\n4. Halte diese Haltung für mehrere ruhige, tiefe Atemzüge.\n\nHinweise:\n\
+  Eine wohltuende Yoga- und Mobilitätsübung zur sanften Streckung der Brustwirbelsäule\
+  \ und Entlastung nach vielem Sitzen."
+search_terms:
+  - Sphinx
+  - Sphinx-Haltung
+  - Sphinx Pose
+  - Sphinx-Position
 upstream:
   license: CC-BY-SA-4.0
   license_author: Joculari

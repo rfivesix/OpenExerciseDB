@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1779'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Landmine-Rotation
-description: |-
-  Beginne mit der Landmine-Langhantel gerade nach oben, indem du sie mit deinen Schultern über dich drückst. Führe sie dann aus dieser Position seitlich nach unten, um deine Bauchmuskulatur zu beanspruchen, und kehre in die Ausgangsposition zurück.
+description: "Ausgangsposition:\nVerankere ein Ende einer Langhantel in einer Landmine-Hülse.\
+  \ Stelle dich mit dem Gesicht zur Hantel schulterbreit auf. Greife das freie Hantelende\
+  \ mit beiden Händen verschränkt und strecke die Arme vor deiner Brust nach oben\
+  \ aus. Die Knie sind leicht gebeugt, der Rumpf ist maximal angespannt.\n\nAusführung:\n\
+  1. Führe die Hantel mit fast gestreckten Armen in einem weiten Bogen kontrolliert\
+  \ zu einer Hüftseite nach unten.\n2. Rotiere dabei deinen Rumpf kontrolliert mit\
+  \ und drehe den hinteren Fuß leicht auf dem Fußballen ein, während deine Bauchmuskeln\
+  \ (vor allem die schrägen Bauchmuskeln) gegen die Drehkraft arbeiten.\n3. Führe\
+  \ die Stange über denselben Bogen kraftvoll zurück nach oben zur Mitte und senke\
+  \ sie im Anschluss zur gegenüberliegenden Hüfte ab.\n\nHinweise:\nLass die Arme\
+  \ gestreckt; die Drehung und Abbremsung erfolgt primär über die Rumpf- und Bauchmuskulatur."
+search_terms:
+  - Landmine Rotation
+  - Landmine Twists
+  - Landmine Rumpfrotation
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

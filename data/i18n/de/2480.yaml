@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2480'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Lockeres Dauerschwimmen (Kraul)
 description: |-
-  Schwimme Kraul in entspanntem, gleichmäßigem Tempo ohne anzuhalten — denke an Gesprächstempo, nicht an Rennen. Konzentriere dich auf ruhige, gleichmäßige Armzüge statt auf Geschwindigkeit oder Atemtechnik; das dient nur dazu, deinen Körper in Bewegung zu bringen und deinen Puls zu erhöhen.
+  Ausgangsposition:
+  Begib dich ins Schwimmbecken und stoße dich sanft von der Beckenwand in eine gestreckte, waagerechte Wasserlage (Streamline-Position) ab.
+
+  Ausführung:
+  1. Schwimme Kraul in einem gleichmäßigen, entspannten Wohlfühltempo, bei dem du dich theoretisch noch unterhalten könntest.
+  2. Führe lange, saubere Armzüge aus und atme ruhig und rhythmisch zu beiden Seiten (Dreieratmung) oder zur bevorzugten Seite.
+  3. Halte den Beinschlag locker und ökonomisch aus der Hüfte.
+  4. Schwimme kontinuierlich über die geplante Distanz oder Dauer ohne Zwischenstopps.
+
+  Hinweise:
+  Konzentriere dich auf Gleitphasen und Wassergefühl statt auf Tempo; die Übung dient dem lockeren Herz-Kreislauf-Training und der Ausdauerbasis.
+search_terms:
+- Lockeres Dauerschwimmen
+- Kraulschwimmen Grundlagenausdauer
+- Easy Swim Freestyle
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

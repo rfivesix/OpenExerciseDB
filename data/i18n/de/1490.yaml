@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1490'
 language: de
-status: upstream_unreviewed
-name: Liegender Trizeps-Kickback
+status: ai_reviewed
+name: Trizeps-Kickback auf der Schrägbank
 description: |-
-  Stelle die Bank auf einen Winkel von 60 Grad ein. Stehe still und lege deinen Oberkörper auf die geneigte Bank, sodass dein gesamter Körper eine nahezu gerade Linie bildet. Ziehe die Schulterblätter zusammen, sodass sich deine Ellbogen hinter deinem Oberkörper befinden und deine Oberarme nahezu parallel zum Boden sind. Hebe die Kurzhanteln an, bis deine Arme eine gerade Linie bilden. Senke die Kurzhanteln langsam wieder in die Ausgangsposition ab. Die Ausgangsposition entspricht einer rechtwinkligen Position von Ober- und Unterarm.
+  Ausgangsposition:
+  Stelle eine Schrägbank auf einen Winkel von ca. 60 Grad ein. Lege dich mit der Brust und dem Oberkörper bauchlings gegen die Schrägbank, die Beine stabil nach hinten gestützt. Halte in jeder Hand eine Kurzhantel. Ziehe die Schulterblätter zusammen und hebe die Oberarme an, sodass sie etwa parallel zum Boden und nah am Oberkörper liegen.
+
+  Ausführung:
+  1. Halte die Oberarme vollkommen ruhig und strecke die Ellenbogen nach hinten durch, bis die Arme eine gerade Linie bilden.
+  2. Spanne den Trizeps am obersten Punkt für eine Sekunde maximal an.
+  3. Senke die Unterarme kontrolliert wieder in den 90-Grad-Winkel der Ausgangsposition ab.
+
+  Hinweise:
+  Durch die feste Auflage auf der Schrägbank wird jeglicher Schwung aus dem Rumpf eliminiert, was eine optimale Isolation des langen Trizepskopfs bewirkt.
+search_terms:
+  - Liegender Trizeps-Kickback
+  - Incline Dumbbell Kickback
+  - Trizeps-Kickbacks mit Kurzhanteln
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

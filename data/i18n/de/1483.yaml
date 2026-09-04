@@ -5,22 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1483'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bizeps-Curls-Trifecta
 description: |-
-  Diese Übung ist eine Mischung aus drei verschiedenen Curls: dem Supinated Cross Body Curl, dem Pronated Cross Body Curl und dem No Money Curl. Du
-  wechselst zwischen drei Curl-Varianten, die jeweils unterschiedliche Ziele erfüllen,
-  und du führst den Satz über den üblichen Bereich von 8-12 Wiederholungen hinaus fort, was
-  uns diese Intensität verleiht.
+  Ausgangsposition:
+  Stehe aufrecht mit schulterbreitem Stand, in jeder Hand eine Kurzhantel.
 
-  Für den Supinated Cross Body
-  Curl supinierst du den Unterarm, sodass die Handflächen zur Decke zeigen und
-  die Unterarme quer über den Körper geführt werden. Hebe das innen liegende Gewicht der Kurzhantel zu deiner Schulter.
-  Für den Pronated Cross Body
-  Curl pronierst du den Unterarm, sodass die Handflächen zum Boden zeigen (pronierter
-  Griff oder Obergriff) und die Unterarme quer über den Körper geführt werden. Hebe das innen liegende Gewicht der Kurzhantel zu deiner Schulter.
-  Für den No Money Curl curlst du
-  die Kurzhantel, während du die Schulter nach außen rotierst. Hebe das innen liegende Gewicht der Kurzhantel zur Außenseite deiner Schulter.
+  Ausführung:
+  Diese Übung kombiniert drei verschiedene Curl-Varianten hintereinander in einem einzigen Satz:
+  1. Supinated Cross Body Curl: Führe die Kurzhantel mit der Handfläche nach oben (Supination) quer vor dem Oberkörper zur gegenüberliegenden Schulter.
+  2. Pronated Cross Body Curl: Führe die Kurzhantel mit der Handfläche nach unten (Pronation/Obergriff) quer vor dem Oberkörper zur gegenüberliegenden Schulter, um Brachialis und Brachioradialis zu treffen.
+  3. No Money Curl: Curle beide Hanteln nach oben, während du die Unterarme und Schultern nach außen rotierst, um den kurzen Bizepskopf maximal zu kontrahieren.
+
+  Hinweise:
+  Führe jede Wiederholung kontrolliert und ohne Schwung aus. Die Kombination hält die Muskulatur über eine hohe Wiederholungszahl unter konstanter Spannung.
+search_terms:
+  - Biceps Curl Trifecta
+  - Trifecta Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

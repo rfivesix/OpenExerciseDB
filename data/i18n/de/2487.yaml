@@ -1,11 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2487'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Ausschwimmen
+name: Ausschwimmen (Cool-Down)
 description: |-
-  Schwimme in einem leichten, gemächlichen Tempo — Kraul, Rücken oder einfach treiben/gleiten — ohne dich auf Technik oder Übungen zu konzentrieren. Das einzige Ziel ist, deinen Puls allmählich sinken zu lassen und deine Muskeln zu entspannen, bevor du das Becken verlässt.
+  Ausgangsposition:
+  Bleibe nach Abschluss der Trainingseinheit im Wasser und bereite dich auf ein lockeres Ausklingen vor.
+
+  Ausführung:
+  1. Schwimme in einem sehr leichten, völlig unbeschwerten Tempo eine lockere Distanz (z. B. 100 bis 200 Meter).
+  2. Wechsle beliebig zwischen Kraul, Rückenschwimmen oder entspanntem Brustschwimmen ab.
+  3. Konzentriere dich auf lange Züge, entspanntes Gleiten und eine tiefe, beruhigende Atmung.
+
+  Hinweise:
+  Verzichte komplett auf Technikdrills oder Tempovorgaben; das Ziel ist der Abbau von Stoffwechselprodukten und die schrittweise Senkung der Herzfrequenz.
+search_terms:
+- Ausschwimmen
+- Cool-Down Swim
+- Regenerationsschwimmen
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

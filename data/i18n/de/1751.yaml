@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1751'
 language: de
-status: upstream_unreviewed
-name: Cable Pull Through
-description: |-
-  Der Cable Pull Through ist eine Übung für den Unterkörper, die mit einer „Hüftbeuge"-Bewegung (Hip Hinge) die Gesäßmuskulatur und die hintere Oberschenkelmuskulatur beansprucht. Um sie auszuführen, befestige ein Seil an der niedrigsten Einstellung des Kabelzugs, wende dich von der Maschine ab, sodass das Seil zwischen deinen Beinen verläuft, und mache einen Schritt nach vorne, um Spannung aufzubauen. Halte deinen Rücken flach und deine Knie leicht gebeugt und schiebe deine Hüften nach hinten, als wolltest du eine Tür hinter dir schließen, bis du eine tiefe Dehnung in deiner hinteren Oberschenkelmuskulatur spürst.
-  Um die Wiederholung abzuschließen, schiebe deine Hüften explosiv nach vorne, um in die stehende Position zurückzukehren, und spanne dabei oben deine Gesäßmuskulatur kräftig an. Es ist wichtig, sich zu merken, dass dies keine Kniebeuge ist; deine Knie sollten sich nicht tief beugen, und deine Arme sollten gestreckt und entspannt bleiben und nur als Haken für das Seil dienen. Diese Bewegung sorgt für konstante Spannung auf der Gesäßmuskulatur und belastet dabei den unteren Rücken weniger als ein klassisches Kreuzheben.
+status: ai_reviewed
+name: Cable Pull-Through
+description: "Ausgangsposition:\nBefestige ein Tauseil an der untersten Position eines\
+  \ Kabelzugs. Stelle dich mit dem Rücken zur Maschine über das Kabel, sodass das\
+  \ Seil zwischen deinen Beinen hindurchläuft. Greife die Seilenden mit beiden Händen\
+  \ im neutralen Griff, mache ein bis zwei Schritte nach vorne, um Grundspannung aufzubauen,\
+  \ und nimm einen etwas mehr als hüftbreiten Stand ein. Die Knie sind minimal gebeugt.\n\
+  \nAusführung:\n1. Leite die Bewegung durch ein Zurückschieben der Hüfte ein (Hip\
+  \ Hinge), während dein Rücken vollkommen gerade bleibt und die Arme entspannt das\
+  \ Seil nach hinten führen.\n2. Beuge dich vor, bis du eine deutliche Dehnung in\
+  \ den Beinbeugern (Hamstrings) spürst; die Knie bleiben dabei nur leicht angewinkelt\
+  \ (keine Kniebeuge).\n3. Strecke die Hüfte kraftvoll nach vorne durch und spanne\
+  \ am obersten Punkt dein Gesäß maximal an.\n\nHinweise:\nDie Arme fungieren nur\
+  \ als Halteelemente; die gesamte Zugkraft stammt aus der Hüftstreckung von Gesäß\
+  \ und Beinbeugern."
+search_terms:
+  - Cable Pull Through
+  - Kabel-Durchzug
+  - Glute Pull Through
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

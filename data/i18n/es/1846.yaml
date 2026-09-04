@@ -5,13 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1846'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Postura del jinete (split lateral)
-description: |-
-  Colócate como para una sentadilla, con los pies bien separados y las puntas de los pies ligeramente hacia afuera.
-  Baja suavemente a una sentadilla profunda y amplia: las caderas deben quedar por debajo de las rodillas.
-  Mantén entre 3 y 5 segundos.
-  Sube de forma controlada y repite las veces que necesites.
+description: "Colócate como para una sentadilla, con los pies bien separados y las\
+  \ puntas de los pies ligeramente hacia afuera.\nBaja suavemente a una sentadilla\
+  \ profunda y amplia: las caderas deben quedar por debajo de las rodillas.\nMantén\
+  \ entre 3 y 5 segundos.\nSube de forma controlada y repite las veces que necesites."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

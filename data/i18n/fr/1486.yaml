@@ -5,12 +5,21 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1486'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage à la poulie haute en alternance
 description: |-
-  Commencez par placer l'accessoire en position haute sur la machine à câbles et reculez d'environ 1 m par rapport à l'accessoire. Saisissez la poignée de la poulie dans la main gauche, environ à hauteur de la tête, le coude légèrement fléchi. Reculez le pied gauche.
-  Tirez le coude vers le tronc en effectuant une légère rotation et réalisez un tirage à un bras. Engagez le grand dorsal pendant la rotation.
-  Revenez à la position de départ avec la poulie et le pied gauche, puis saisissez la poignée de la poulie dans la main droite. Répétez ce mouvement du côté opposé, le pied droit reculé.
+  Position de départ :
+  Fixez une poignée en position haute sur la poulie et reculez d'environ un mètre. Saisissez la poignée d'une main à hauteur de tête avec le coude légèrement fléchi, et reculez le pied du même côté en position décalée.
+
+  Exécution :
+  1. Tirez le coude vers le tronc en amorçant une légère rotation contrôlée pour engager le grand dorsal et le dos.
+  2. Maintenez la contraction pendant une seconde au point d'effort maximal.
+  3. Revenez avec contrôle à la position initiale, changez de main et de pied d'appui, et effectuez le mouvement de l'autre côté.
+
+  Conseils :
+  L'alternance permet de travailler le gainage anti-rotationnel tout en corrigeant les déséquilibres musculaires du dos.
+search_terms:
+  - Tirage haut alterné à la poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

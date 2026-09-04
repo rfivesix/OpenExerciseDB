@@ -1,10 +1,24 @@
 exercise_id: '1773'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Schrägbankdrücken (Legend)
-description: Schrägbankdrücken an der LeverEdge-Maschine.
+name: Schrägbankdrücken an der LeverEdge-Maschine
+description: "Ausgangsposition:\nSetze dich in die Schrägbank der Legend LeverEdge-Maschine.\
+  \ Stelle die Sitzhöhe so ein, dass sich die Griffe auf Höhe der oberen Brustmuskulatur\
+  \ befinden. Drücke deinen oberen Rücken, die Schultern und das Gesäß fest an die\
+  \ Rückenlehne und stelle deine Füße stabil auf den Boden. Greife die Hebelgriffe\
+  \ fest im Obergriff.\n\nAusführung:\n1. Drücke die Hebelarme kraftvoll und synchron\
+  \ nach oben und leicht zusammen (konvergierende Bewegung), bis die Arme fast vollständig\
+  \ gestreckt sind.\n2. Spanne die obere Brustmuskulatur (Pars clavicularis) am obersten\
+  \ Punkt für einen Moment maximal an.\n3. Senke die Hebelarme langsam und kontrolliert\
+  \ ab, bis du eine angenehme Dehnung in der Brustmuskulatur spürst, bevor du die\
+  \ nächste Wiederholung einleitest.\n\nHinweise:\nNutze die geführte konvergierende\
+  \ Bewegungsbahn der Maschine, um hohe Lasten ohne instabile Ausweichbewegungen sicher\
+  \ zu bewegen."
+search_terms:
+  - Legend Incline Bench Press
+  - LeverEdge Incline Press
+  - Schrägbankdrücken Maschine
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2907'

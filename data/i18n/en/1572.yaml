@@ -1,20 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1572'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bird Dog
-description: |-
-  The Bird Dog is a core stability exercise that enhances balance, coordination, and spinal alignment. It’s a low-impact movement ideal for strengthening the posterior chain and improving overall functional control.
+description: 'Starting Position:
 
-  Begin on all fours with hands under shoulders and knees under hips, keeping your spine neutral.
-  Extend your right arm forward and left leg backward simultaneously, keeping hips square.
-  Pause briefly at full extension while engaging your core and glutes.
-  Return to the starting position and repeat on the opposite side
+  Begin on all fours (quadruped position) on a mat with hands directly under shoulders
+  and knees under hips. Maintain a neutral spine and engage your core.
+
+
+  Execution:
+
+  1. Simultaneously reach your right arm straight forward and extend your left leg
+  straight back until both are parallel to the floor.
+
+  2. Pause and hold the fully extended position for 1–2 seconds, actively squeezing
+  your glute and spinal erectors without arching your lower back.
+
+  3. Return to the starting position under control and switch to the opposite arm
+  and leg.
+
+
+  Cues:
+
+  Keep your hips and shoulders squared to the floor. Avoid rotating your pelvis or
+  overarching the lumbar spine.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2520'
+search_terms:
+- Birddog
+- Quadruped Bird Dog

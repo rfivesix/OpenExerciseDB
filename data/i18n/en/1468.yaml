@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1468'
 language: en
-status: upstream_unreviewed
-name: Floor Skull Crusher
+status: ai_reviewed
+name: EZ-Bar Floor Skull Crusher
 description: |-
-  Allowing you to safely load more weight than a regular skull crusher, lie on the floor and rest the weight on the floor in between each repetition.
+  Starting Position:
+  Lie flat on your back on the floor or an exercise mat with an EZ-curl bar resting on the floor behind your head. Grasp the bar with a narrow overhand grip on the inner curves and press it up so your arms are extended, tilted slightly back from vertical.
+
+  Execution:
+  1. Keeping your upper arms fixed in position, flex your elbows to lower the barbell down behind your head until the weight plates rest gently on the floor.
+  2. Pause briefly on the floor to eliminate the stretch reflex and prevent any momentum.
+  3. Press the bar back up explosively by extending your elbows, squeezing the triceps hard at the top.
+
+  Cues:
+  Resting the bar on the floor between reps protects the elbows from sudden joint strain and allows you to handle heavier loads safely.
+search_terms:
+  - Floor Skull Crusher
+  - Lying Floor Triceps Extension
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

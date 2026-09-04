@@ -1,10 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1919'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Intensive Brustdehnung
-description: Tiefe belastete Dehnung für die Brustmuskeln, die üblicherweise am Ende des Brusttrainings ausgeführt wird.
+description: 'Ausgangsposition:
+
+  Lege dich rücklings auf eine Flachbank und halte leichte Kurzhanteln (oder nutze alternativ einen stabilen Türrahmen bzw. Pfosten im Stehen mit angewinkeltem Unterarm an der Kante).
+
+
+  Ausführung:
+
+  Lasse die Arme langsam und kontrolliert seitlich nach unten sinken, sodass eine tiefe Dehnung über der gesamten Brustmuskulatur entsteht. Halte die Dehnposition statisch für 30 bis 60 Sekunden und atme tief und gleichmäßig durch die Nase in den Brustkorb ein und aus.
+
+
+  Hinweise:
+
+  Die Dehnung sollte intensiv, aber schmerzfrei sein; federe nicht nach. Ideal als gezielte Mobilitäts- und Regenerationsübung nach schweren Drückeinheiten.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3066'
+search_terms:
+- Extreme Chest Stretch
+- Brustmuskel-Dehnung
+- Pectoralis Dehnung

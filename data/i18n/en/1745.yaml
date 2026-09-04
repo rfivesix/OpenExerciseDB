@@ -1,20 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1745'
 language: en
-status: upstream_unreviewed
-name: Cable Front Raise with a small bar
-description: |-
-  The Cable Front Raise with a small bar isolates your anterior deltoids (front shoulders) by providing constant tension, requiring you to stand facing away from a low pulley, grab the bar with an overhand grip, and lift it in front of you to shoulder height with slightly bent arms, avoiding swinging and keeping your core tight for controlled movement up and down. Use a light-to-moderate weight, focusing on slow, controlled reps to feel the muscle work, not momentum.
-  How to Perform the Cable Front Raise (Bar)
-  Setup: Attach a small straight bar to a low cable pulley. Set the weight to a light or moderate setting.
-  Starting Position: Stand with your back to the machine, holding the bar with an overhand grip (palms facing down) at hip level, arms extended but not locked. Feet shoulder-width apart, core braced, shoulders back and down.
-  The Lift: Exhale and slowly raise the bar straight up in front of you, keeping a slight bend in your elbows, until your hands reach shoulder height (or slightly below).
-  The Hold: Pause briefly at the top, squeezing your front delts.
-  The Lower: Inhale as you slowly and controllably lower the bar back to the starting position, maintaining tension.
+status: ai_reviewed
+name: Cable Front Raise with Short Bar
+description: "Starting Position:\nAttach a short straight bar to the low pulley of\
+  \ a cable station. Stand facing away from the machine with the cable running between\
+  \ your legs. Grasp the bar with a shoulder-width overhand grip (palms down) resting\
+  \ against your thighs. Maintain an upright posture with chest up, shoulders depressed,\
+  \ and a slight bend in your knees.\n\nExecution:\n1. Keeping your elbows nearly\
+  \ straight, raise the bar upward and forward in a smooth arc until your hands are\
+  \ level with your shoulders.\n2. Pause for a second at the top, focusing on the\
+  \ contraction in your anterior deltoids.\n3. Slowly lower the bar back to the starting\
+  \ position under control, keeping tension on the shoulders throughout.\n\nCues:\n\
+  Avoid rocking your torso or hyperextending your lower back to swing the weight up."
+search_terms:
+  - Cable Front Raise with a small bar
+  - Cable Straight Bar Front Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

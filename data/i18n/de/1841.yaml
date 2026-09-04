@@ -5,15 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1841'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sitzende Schulterextensions-Dehnung
-description: |-
-  Setze dich mit den Händen hinter dir hin, schulterbreit auseinander.
-  Strecke deine Ellenbogen durch.
-  Schiebe deine Füße und Hüften nach vorne und senke deine Schultern zum Boden ab.
-  Gehe so weit wie möglich, um eine gute Dehnung zu erreichen.
-
-  Siehe das Video: https://www.youtube.com/watch?v=ihUAbG0e8zw
+description: "Ausgangsposition: Setze dich auf den Boden und platziere deine Hände\
+  \ schulterbreit hinter deinem Körper mit den Fingern nach hinten oder leicht zur\
+  \ Seite gerichtet.\nAusführung: Halte die Arme gestreckt und schiebe dein Gesäß\
+  \ und deine Füße langsam nach vorne, sodass sich die Schultern in eine Extension\
+  \ nach hinten bewegen und eine Dehnung in den vorderen Schultern und der Brust entsteht.\n\
+  Hinweise: Gehe nur so weit, wie es schmerzfrei möglich ist. Halte die Dehnung für\
+  \ 20–30 Sekunden bei gleichmäßiger Atmung."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

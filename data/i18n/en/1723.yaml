@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1723'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Glute Kickback (Machine)
 description: |-
-  Drive through your heel, not your toes, to hit the glute.
-  Don’t hyperextend your lower back at the top.
+  Starting position:
+  Position yourself on the glute kickback machine, resting your upper body against the support pad. Place the sole of your foot, emphasizing the heel, firmly against the footplate.
+  
+  Movement:
+  1. Drive through your heel to push the plate backward and upward until your hip is fully extended.
+  2. Squeeze your glute firmly at the peak contraction point.
+  3. Slowly return the pedal back to the starting position under full control.
+  
+  Tips:
+  Drive through the heel rather than your toes to isolate the gluteus maximus. Avoid hyperextending your lower back at the top of the movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

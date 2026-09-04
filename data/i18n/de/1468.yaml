@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1468'
 language: de
-status: upstream_unreviewed
-name: Floor Skull Crusher
+status: ai_reviewed
+name: Floor Skull Crusher mit der SZ-Stange
 description: |-
-  Da du so sicher mehr Gewicht bewegen kannst als bei einem normalen Skull Crusher, lege dich auf den Boden und lege das Gewicht zwischen jeder Wiederholung auf dem Boden ab.
+  Ausgangsposition:
+  Lege dich mit dem Rücken flach auf den Boden bzw. eine Trainingsmatte. Die SZ-Stange liegt auf dem Boden hinter deinem Kopf. Greife die Stange im engen Obergriff an den Innenbiegungen und hebe sie so an, dass deine Oberarme etwa senkrecht zum Boden stehen und leicht nach hinten geneigt sind.
+
+  Ausführung:
+  1. Beuge die Ellenbogen kontrolliert und senke die Stange hinter den Kopf ab, bis die Gewichtsscheiben sanft den Boden berühren (Dead-Stop).
+  2. Pausiere kurz auf dem Boden, um jeglichen Dehnungsreflex und Schwung zu neutralisieren.
+  3. Drücke die Stange kraftvoll durch Streckung des Trizeps wieder nach oben in die Ausgangsposition.
+
+  Hinweise:
+  Die Bodenablage entlastet die Ellenbogengelenke im Umkehrpunkt und erlaubt eine sichere Belastung des Trizeps ohne Partner.
+search_terms:
+  - Floor Skull Crusher
+  - Trizepsdrücken am Boden
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

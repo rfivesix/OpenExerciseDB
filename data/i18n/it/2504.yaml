@@ -2,9 +2,21 @@ exercise_id: '2504'
 language: it
 status: ai_reviewed
 translated_from: de
-name: Curl a martello con manubrio da 5 kg
+name: Curl a martello con manubri
+description: |-
+  Posizione di partenza:
+  In piedi con i piedi alla larghezza delle anche, impugna i manubri lungo i fianchi con una presa neutra (palmi rivolti l'uno verso l'altro). Gomiti stabili e spalle basse.
+
+  Esecuzione:
+  1. Mantenendo la presa a martello, fletti i gomiti sollevando i manubri verso le spalle.
+  2. Contrai intensamente il muscolo brachiale e i flessori dell'avambraccio per un secondo in cima.
+  3. Abbassa lentamente i manubri fino alla completa estensione con movimento controllato.
+
+  Consigli:
+  Mantieni i gomiti fermi lungo i fianchi evitando oscillazioni del busto.
+search_terms:
+- Curl a martello con manubrio da 5 kg
+- Hammer curl con manubri
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'
-description: |-
-  In piedi con un manubrio da 5 kg in presa neutra (palmo verso il corpo), fletti l'avambraccio sollevando il peso verso la spalla per isolare il muscolo brachiale, poi abbassalo con controllo.

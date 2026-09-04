@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2495'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Beinbeugen an der Maschine
-description: Stelle den Rückensitz oder das Polster so ein, dass deine Knie mit der seitlichen Drehachse ausgerichtet sind. Lege das untere Rollenpolster an die unteren Waden, direkt über die Rückseite der Knöchel. Senke das obere Oberschenkel-Haltepolster ab, damit deine Beine fest auf dem Sitz bleiben. Wähle mit dem Stift ein leichtes Gewicht am Gewichtsblock.
+name: Beinbeugen sitzend an der Maschine
+description: |-
+  Ausgangsposition:
+  Setze dich auf die sitzende Beinbeugemaschine. Stelle die Rückenlehne so ein, dass deine Kniegelenke genau auf Höhe der Drehachse der Maschine liegen. Positioniere das untere Rollenpolster an der Rückseite deiner unteren Waden, knapp oberhalb der Fersen. Senke das Oberschenkel-Gegenpolster fest auf deine Oberschenkel ab.
+
+  Ausführung:
+  1. Fasse die Handgriffe seitlich am Sitz. Beuge deine Knie kraftvoll und ziehe die Fersen in einem weiten Bogen unter den Sitz nach hinten unten.
+  2. Halte die maximale Beugung am tiefsten Punkt für 1 Sekunde und spanne die Beinbeuger (Hamstrings) maximal an.
+  3. Führe das Polster langsam und kontrolliert wieder nach oben, bis deine Beine fast vollständig gestreckt sind.
+
+  Hinweise:
+  Lasse die Gewichte zwischen den Wiederholungen nicht aufsetzen, um die Spannung in den Hamstrings aufrechtzuerhalten.
+search_terms:
+- Beinbeugen an der Maschine
+- Sitzendes Beinbeugen
+- Seated Leg Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: Me

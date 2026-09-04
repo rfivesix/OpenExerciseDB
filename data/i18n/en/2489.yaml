@@ -1,13 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2489'
 language: en
-status: upstream_unreviewed
-name: Low row
-description: Based on Low Row Sel. by Technogym. In this version, you use it with two arms.
+status: ai_reviewed
+name: Seated Machine Low Row
+description: |-
+  Starting Position:
+  Sit upright at a chest-supported low row machine. Adjust the seat height so the handles align with your lower chest or upper abdomen. Place your feet firmly on the footrests and rest your chest against the support pad. Grasp the handles with a neutral grip.
+
+  Execution:
+  1. Pull the handles smoothly back toward your waist, driving your elbows back close to your sides.
+  2. Squeeze your shoulder blades together at the peak of the contraction, holding for 1 second.
+  3. Slowly extend your arms forward under control, allowing your back muscles to stretch fully without rounding your spine.
+
+  Cues:
+  Keep your chest glued to the pad throughout the movement; avoid swinging your torso back to move the weight.
+search_terms:
+- Low row
+- Machine Low Row
+- Chest-Supported Low Row
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

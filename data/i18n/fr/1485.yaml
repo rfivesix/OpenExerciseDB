@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1485'
 language: fr
-status: upstream_unreviewed
-name: Extension des triceps à la corde avec balancement
+status: ai_reviewed
+name: Extension des triceps à la corde avec balancement (Rocking Pushdown)
 description: |-
-  Placez vos pieds sous la corde et inclinez le haut du corps vers la corde. Reculez un pied. Poussez la corde vers le bas et basculez tout votre corps en arrière sur le pied arrière au moment de la poussée afin d'amener vos mains derrière le corps. N'oubliez pas de ramener la poitrine vers l'avant pendant la poussée. Lorsque vous relâchez lentement la corde, ramenez votre corps en avant sur le pied avant.
+  Position de départ :
+  Tenez-vous debout face à une poulie haute avec corde, pieds en fente décalée. Saisissez la corde en prise neutre et inclinez le haut du corps vers l'avant, le poids reposant sur le pied avant.
+
+  Exécution :
+  1. Poussez la corde vers le bas en transférant le poids de votre corps vers l'arrière sur le pied arrière pour amener les mains derrière la ligne du buste.
+  2. Écartez les extrémités de la corde en bas pour contracter au maximum les triceps.
+  3. Remontez la corde lentement avec contrôle tout en revenant en appui sur le pied avant.
+
+  Conseils :
+  Ce léger mouvement de bascule augmente l'amplitude en fin de poussée et sollicite intensément le chef long du triceps.
+search_terms:
+  - Extension des triceps à la corde avec balancement
+  - Rocking Triceps Pushdown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

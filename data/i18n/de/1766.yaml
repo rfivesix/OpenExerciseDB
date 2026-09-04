@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1766'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Unterarmstütz mit Armheben
-description: |-
-  Bringe deinen Körper in die Planken-Position. Halte den Blick auf den Boden gerichtet und hebe abwechselnd deine Arme langsam nach vorne und zurück. Versuche dabei deinen Körper so ruhig wie möglich zu halten.
+description: "Ausgangsposition:\nBegib dich in den Unterarmstütz (Plank): Die Unterarme\
+  \ liegen parallel auf dem Boden, Ellenbogen direkt unter den Schultern, Beine gestreckt,\
+  \ Füße etwas weiter als hüftbreit für eine stabile Basis. Spanne Rumpf und Gesäß\
+  \ fest an, sodass der Körper eine gerade Linie bildet.\n\nAusführung:\n1. Löse einen\
+  \ Arm langsam vom Boden und strecke ihn gerade nach vorne auf Schulterhöhe aus.\n\
+  2. Halte die Endposition für 1 bis 2 Sekunden, während du Becken und Schultern vollkommen\
+  \ parallel zum Boden hältst (kein Eindrehen oder Kippen der Hüfte).\n3. Setze den\
+  \ Unterarm kontrolliert wieder ab und wiederhole die Bewegung mit dem anderen Arm\
+  \ im Wechsel.\n\nHinweise:\nDies ist eine anspruchsvolle Anti-Rotations-Übung. Fokussiere\
+  \ dich auf maximale Stabilität der Hüfte."
+search_terms:
+  - Plank Reach
+  - Unterarmstütz Armstrecken
+  - Plank mit Vorgriff
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2899'

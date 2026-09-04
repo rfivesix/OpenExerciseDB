@@ -1,16 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1954'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Rolle in den V-Sitz
-description: |-
-  Rollen in den V-Sitz
-  Teil von: Limber 11
-  Quelle: Joe DeFranco
-  Vorgabe: 10 Wiederholungen
-  Typ: dynamisch
+name: Rollen in den V-Sitz (Roll-overs into V-sits)
+description: 'Ausgangsposition:
+
+  Setze dich auf eine Matte mit gestreckten, geschlossenen Beinen und geradem Oberkörper.
+
+
+  Ausführung:
+
+  Rolle dich kontrolliert über den runden Rücken nach hinten ab, bis dein Becken abhebt und deine Beine über den Kopf nach hinten geführt werden (wie beim Pflug im Yoga), um den Rücken und die Beinrückseiten dynamisch zu dehnen. Nutze den Schwung der Vorwärtsbewegung, um dich wieder nach vorne in den Sitz aufzurollen. Öffne dabei die Beine in einen weiten Grätschsitz (V-Sitz) und beuge den Oberkörper mit ausgestreckten Armen dynamisch zwischen den Beinen nach vorne unten. Wiederhole diesen Ablauf flüssig für 10 Wiederholungen.
+
+
+  Hinweise:
+
+  Teil der Limber-11-Routine von Joe DeFranco. Führe die Bewegung rhythmisch und kontrolliert aus; stütze das Gewicht auf dem oberen Rücken ab und belaste nicht die Halswirbelsäule.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3105'
+search_terms:
+- Rolle in den V-Sitz
+- Rollen in den V-Sitz
+- Roll-overs into V-sits
+- Pflug in Grätschsitz

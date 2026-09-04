@@ -1,21 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1910'
 language: es
-status: upstream_unreviewed
-name: Superman de rodillas
-description: |-
-  Empuja un pie hacia atrás hasta que la pierna quede completamente estirada, concentrándote en mantener el pie alto y empujado hacia atrás como si tiraran de él.
+status: ai_reviewed
+name: Superman de rodillas (Bird Dog)
+description: 'Posición inicial:
+
+  Colócate en cuadrupedia sobre una esterilla con las manos debajo de los hombros y las rodillas debajo de las caderas. Mantén la columna neutra y el core activado.
 
 
-  Extiende el brazo hacia delante prestando atención a mantener el hombro bien alto.
+  Ejecución:
+
+  Extiende simultáneamente un brazo hacia delante y la pierna contraria hacia atrás hasta que queden alineados con el torso. Mantén la postura durante 2 o 3 segundos con el core firme. Regresa con control y repite con el lado opuesto.
 
 
-  Unilateral y con sujeción estática.
+  Consejos:
+
+  Evita rotar la pelvis o arquear en exceso la zona lumbar; el movimiento debe ser completamente estable y controlado.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4275'
+search_terms:
+- Superman de rodillas
+- Bird Dog

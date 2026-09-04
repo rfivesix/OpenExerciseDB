@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1834'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Trap-3 Raise
-description: |-
-  Hinge forwards and bend your knees slightly. Depress and retract the shoulder you will use. Rest the other hand on your knee.
-  Raise your hand about 15 degrees overhead, maintaining the position of your shoulder.
+description: "Starting Position:\nHinge forward at your hips to approximately 45 degrees\
+  \ with a flat spine and soft knees. Rest one hand on your knee or an incline bench\
+  \ for support. Let your working arm hang straight down with your thumb pointing\
+  \ upward. Actively depress and retract your working scapula.\n\nExecution:\n1. Keeping\
+  \ your elbow locked straight, raise your arm diagonally forward and upward until\
+  \ your hand is roughly 15 to 30 degrees above your head.\n2. Keep your shoulder\
+  \ blade held down away from your ear to isolate the lower trapezius (Trap 3).\n\
+  3. Pause for 1 to 2 seconds at peak elevation, feeling the intense contraction in\
+  \ your mid-to-lower back.\n4. Lower your arm smoothly back to the hanging starting\
+  \ position under control.\n\nCues:\nDo not shrug your upper trap toward your ear;\
+  \ the goal is pure lower trapezius activation and upward scapular rotation."
+search_terms:
+  - Trap-3 Raise
+  - Lower Trap Raise
+  - Poliquin Trap 3 Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

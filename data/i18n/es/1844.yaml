@@ -5,12 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1844'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de rana
-description: |-
-  Ponte a cuatro patas, apoyado sobre manos y rodillas.
-  Abre las rodillas hacia afuera y baja hasta apoyarte sobre los codos.
-  Sin mover los codos ni las rodillas, empieza a balancearte hacia adelante y hacia atrás, intentando acercar los glúteos a los pies.
+description: "Posición inicial: Colócate a cuatro patas y separa las rodillas hacia\
+  \ afuera tanto como puedas cómodamente. Apoya los antebrazos en el suelo manteniendo\
+  \ la espalda neutra.\nEjecución: Desplaza suavemente las caderas hacia atrás en\
+  \ dirección a los talones hasta notar un estiramiento profundo en los aductores\
+  \ de la cadera.\nConsejos: Realiza un suave balanceo hacia adelante y hacia atrás\
+  \ o mantén la posición final durante 20-30 segundos respirando con calma."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

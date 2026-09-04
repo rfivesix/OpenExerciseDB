@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2502'
 language: en
-status: upstream_unreviewed
-name: DB Single-Arm Row (5kg)
+status: ai_reviewed
+name: Single-Arm Dumbbell Row
 description: |-
-  Vasco custom single-arm DB row for 5kg dumbbell home training. Unilateral horizontal pull. Part of Tuesday Pull day.
+  Starting Position:
+  Place one knee and same-side hand onto a flat bench (or adopt a staggered hinge stance supporting yourself on a sturdy surface). Keep your torso flat and parallel to the floor. Hold a dumbbell in your free hand with your arm extended toward the floor.
+
+  Execution:
+  1. Pull the dumbbell upward toward your hip crease by driving your elbow straight back along your ribcage.
+  2. Squeeze your lat and retract your shoulder blade firmly at the top, pausing for 1 second.
+  3. Slowly lower the dumbbell back down under control until your arm is fully extended with a mild lat stretch.
+  4. Complete your reps, then repeat on the opposite side.
+
+  Cues:
+  Do not twist your torso or jerk the weight up with momentum; keep your shoulders square to the floor.
+search_terms:
+- DB Single-Arm Row (5kg)
+- Single-Arm Dumbbell Row
+- One-Arm DB Row
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4983'

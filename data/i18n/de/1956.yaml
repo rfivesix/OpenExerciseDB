@@ -1,16 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1956'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hydrantenkreisen (Fire Hydrant Circles)
-description: |-
-  Fire-Hydrant-Kreise
-  Teil von: Limber 11
-  Quelle: Joe DeFranco
-  Vorgabe: 10 vorwärts / 10 rückwärts
-  Typ: dynamisch
+description: 'Ausgangsposition:
+
+  Gehe auf einer Matte in den stabilen Vierfüßlerstand, Hände unter den Schultern, Knie unter den Hüften, der Rumpf angespannt und die Wirbelsäule neutral.
+
+
+  Ausführung:
+
+  Hebe ein Knie bei 90 Grad gebeugtem Bein seitlich an und führe mit dem Oberschenkel große, kontrollierte Kreise in der Hüfte aus. Beschreibe zunächst 10 Kreise in Vorwärtsrichtung und anschließend direkt 10 Kreise in Rückwärtsrichtung. Halte dabei das Becken und den Rücken weitgehend waagerecht und stabil. Wiederhole die Übung mit dem anderen Bein.
+
+
+  Hinweise:
+
+  Teil der Limber-11-Routine von Joe DeFranco. Die Bewegung mobilisiert das Hüftgelenk über den gesamten Bewegungsumfang und aktiviert intensiv die Gesäßmuskulatur vor dem Beintraining.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3107'
+search_terms:
+- Hydrantenkreisen (Fire Hydrant Circles)
+- Fire Hydrant Circles
+- Hüftkreisen im Vierfüßlerstand
+- Limber 11 Fire Hydrant

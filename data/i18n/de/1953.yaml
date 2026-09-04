@@ -1,16 +1,27 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1953'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Eisernes Kreuz mit gebeugten Knien
-description: |-
-  Eisernes Kreuz mit gebeugten Knien
-  Teil von: Limber 11
-  Quelle: Joe DeFranco
-  Vorgabe: 5–10 Wiederholungen pro Seite
-  Typ: dynamisch
+name: Eisernes Kreuz mit angewinkelten Beinen (Bent-Knee Iron Cross)
+description: 'Ausgangsposition:
+
+  Lege dich flach auf den Rücken auf eine Matte. Strecke beide Arme seitlich auf Schulterhöhe T-förmig am Boden aus, Handflächen nach unten. Beuge Hüfte und Knie in einen 90-Grad-Winkel, sodass die Unterschenkel parallel zum Boden sind.
+
+
+  Ausführung:
+
+  Halte beide Schultern fest am Boden und lasse die geschlossenen Knie langsam und kontrolliert zur rechten Seite absinken, bis sie kurz vor dem Boden schweben oder ihn sanft berühren. Ziehe die Knie aus der Kraft der schrägen Bauchmuskulatur zurück zur Mitte und senke sie direkt kontrolliert zur linken Seite ab. Führe 5–10 dynamische Wiederholungen pro Seite aus.
+
+
+  Hinweise:
+
+  Teil der Limber-11-Routine von Joe DeFranco. Halte die Schulterblätter durchgehend flach auf dem Boden; mobilisiert die Lendenwirbelsäule und dehnt die Gesäß- und Rumpfmuskulatur sanft auf.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3104'
+search_terms:
+- Eisernes Kreuz mit gebeugten Knien
+- Bent-knee Iron Cross
+- Iron Cross angewinkelt
+- Limber 11 Iron Cross

@@ -1,19 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1772'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch inversé
-description: |-
-  Allongez-vous
-  Placez vos mains près de vos fessiers (souvent légèrement devant, ou en dessous, ou les deux)
-  Levez les jambes, mais à environ 70 % du mouvement vous devriez pouvoir lever aussi le bassin
-  (optionnel/variable) Maintenez 1 à 2 secondes en haut
-  Revenez à la position de départ
+description: "Position de départ :\nAllongez-vous sur le dos sur un tapis, les bras\
+  \ le long du corps et les paumes au sol pour vous stabiliser. Levez les jambes avec\
+  \ les genoux et les hanches fléchis à 90 degrés.\n\nExécution :\n1. Contractez les\
+  \ abdominaux pour ramener les genoux vers la poitrine.\n2. En fin de mouvement,\
+  \ enroulez le bassin pour décoller les fessiers et le bas du dos de quelques centimètres\
+  \ du sol.\n3. Marquez une pause d'une à deux secondes en contraction maximale en\
+  \ haut.\n4. Redescendez lentement et avec contrôle le bassin jusqu'à la position\
+  \ de départ.\n\nConseils :\nN'utilisez aucun élan des jambes ; concentrez-vous sur\
+  \ l'enroulement de la colonne par les abdominaux."
 search_terms:
+  - Crunch inversé
   - Crunch renversé
 upstream:
   license: CC-BY-SA-4.0

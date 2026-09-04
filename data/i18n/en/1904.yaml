@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1904'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pec Deck
-description: |-
-  Pectoral issolation exercise - full range of motion is best with full contraction and slow negative
+description: "Starting Position: Sit with your back and head firmly pressed against\
+  \ the backrest of the pec deck machine. Adjust the seat height so that the arm pads\
+  \ or handles are aligned with your mid-chest.\nExecution: Grip the handles or place\
+  \ your forearms on the pads with a slight bend in your elbows. Bring your arms together\
+  \ in front of your chest in a smooth arc, squeezing your pectorals at peak contraction\
+  \ for 1–2 seconds.\nTips: Control the weight on the eccentric return, feeling a\
+  \ gentle stretch in your chest without letting your elbows travel excessively behind\
+  \ your shoulders."
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3051'

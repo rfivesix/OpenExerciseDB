@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2537'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Schulterdrücken isometrisch
+name: Isometrisches Schulterdrücken am Kabelzug
 description: |-
-  Ein isometrisches Schulterdrücken besteht darin, ein Gewicht statisch über dem Kopf zu halten oder an einem bestimmten Punkt der Druckbewegung gegen ein unbewegliches Objekt zu drücken, ohne das Gelenk zu bewegen.
+  Ausgangsposition:
+  Stelle dich mittig in eine Kabelzugstation, deren Griffe auf die unterste Position eingestellt sind. Greife die Griffe im Obergriff und bringe sie kontrolliert auf Schulterhöhe, die Ellbogen unter den Händen positioniert. Nimm einen schulterbreiten, stabilen Stand ein und spanne Rumpf und Gesäß fest an.
+
+  Ausführung:
+  1. Drücke die Griffe gegen den Kabelzug nach oben, bis sie sich auf Stirnhöhe oder kurz vor der vollständigen Streckung der Arme über dem Kopf befinden.
+  2. Halte die Arme in dieser Position für die vorgegebene Zeitspanne völlig ruhig und spanne die vordere Schultermuskulatur und den Trizeps unter dem kontinuierlichen Kabelzugwiderstand maximal an.
+  3. Senke die Griffe nach Ablauf der Haltezeit langsam und kontrolliert wieder auf Schulterhöhe ab.
+
+  Hinweise:
+  Halte die Wirbelsäule neutral und vermeide es, ins Hohlkreuz zu fallen. Der Kabelzug sorgt für eine durchgehende Zugspannung, die eine hohe Rumpfstabilität erfordert.
+search_terms:
+- Schulterdrücken isometrisch
+- Isometrisches Überkopfdrücken am Kabelzug
+- Overhead Press Isometric
+- Kabel-Schulterdrücken statisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

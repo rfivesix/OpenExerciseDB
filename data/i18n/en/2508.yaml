@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2508'
 language: en
-status: upstream_unreviewed
-name: Bird Dog (Core L1)
+status: ai_reviewed
+name: Bird Dog
 description: |-
-  Vasco custom bird dog - foundational contralateral limb coordination and lumbar stability. Teaches hip dissociation from spine, glute activation, and scapular control.
+  Starting Position:
+  Begin on your hands and knees in a tabletop position on an exercise mat. Place your wrists directly under your shoulders and your knees directly beneath your hips with a neutral spine.
+
+  Execution:
+  1. Slowly extend your right arm straight forward and your left leg straight back until both are parallel to the floor.
+  2. Keep your thumb pointing up and kick your back heel back without rotating your hips or hyperextending your lumbar spine.
+  3. Pause for 1 to 2 seconds at full extension, maintaining anti-rotational core stability.
+  4. Slowly lower your hand and knee back to the starting tabletop position.
+  5. Repeat on the opposite side (left arm and right leg) and alternate smoothly.
+
+  Cues:
+  Imagine balancing a glass of water on your lower back; keep your pelvis level and avoid twisting your torso.
+search_terms:
+- Bird Dog (Core L1)
+- Bird Dog Exercise
+- Quadruped Bird Dog
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4987'

@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1855'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hamstring Foam roller
-description: Move your hamstrings slowly over the foam roller
+description: "Starting Position: Sit on the floor with the foam roller placed beneath\
+  \ the back of your thighs. Support your body weight on your hands behind you and\
+  \ lift your hips.\nExecution: Slowly roll forward and backward from just below your\
+  \ glutes down to just above the back of your knees. Rotate your feet slightly inward\
+  \ and outward to cover the entire hamstring group.\nTips: Move with control and\
+  \ pause on tight areas to encourage myofascial release."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

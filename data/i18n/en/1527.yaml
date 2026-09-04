@@ -1,15 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1527'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pendulum Squat
-description: |-
-  Place your feet in the middle of the plate at about shoulder width. Tense your torso. Keep your neck relaxed.
+description: 'Starting Position:
+
+  Step onto the pendulum squat platform, placing your shoulders snugly against the
+  pads and feet shoulder-width apart in the center of the footplate. Disengage the
+  safety latch and brace your core.
+
+
+  Execution:
+
+  1. Bend your knees and hips to descend along the machine''s curved circular arc
+  into a deep squat.
+
+  2. When your thighs reach full depth and your quadriceps are fully stretched, drive
+  through your midfoot and heels to push back up.
+
+  3. Return to the starting position without forcefully locking your knees out at
+  the top.
+
+
+  Cues:
+
+  The pendulum mechanism counterbalances spinal loading and allows an exceptionally
+  deep knee flexion angle, placing tremendous tension on the quadriceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2484'
+search_terms:
+- Machine Pendulum Squat
+- Pendulum Squats

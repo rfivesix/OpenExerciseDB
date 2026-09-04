@@ -1,10 +1,25 @@
 exercise_id: '2507'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Unterarmstütz (Forearm Plank)
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Vasco-eigener Unterarmstütz – grundlegende Übung für die vordere Rumpfstabilität. Vermittelt Ganzkörperspannung, Atemkontrolle und Anti-Extension. Voraussetzung für alle fortgeschrittenen Rumpfübungen.
+name: Unterarmstütz (Plank)
+description: |-
+  Ausgangsposition:
+  Lege dich bäuchlings auf eine Trainingsmatte. Stütze dich auf die Unterarme, sodass sich die Ellbogen direkt unter den Schultern befinden. Stelle die Zehenspitzen auf den Boden und spanne den gesamten Körper an.
+
+  Ausführung:
+  1. Hebe das Becken und die Oberschenkel vom Boden ab, bis der Körper von den Fersen bis zum Kopf eine vollkommen gerade Linie bildet.
+  2. Spanne Bauchmuskeln, Gesäß und Oberschenkel maximal an.
+  3. Halte den Kopf in neutraler Verlängerung der Wirbelsäule, der Blick geht nach unten auf die Matte.
+  4. Halte diese isometrische Position für die vorgegebene Dauer unter ruhiger, gleichmäßiger Atmung.
+
+  Hinweise:
+  Vermeide es, im unteren Rücken ins Hohlkreuz durchzuhängen oder das Gesäß weit in die Luft zu schieben.
+search_terms:
+- Unterarmstütz (Forearm Plank)
+- Unterarmstütz
+- Plank
+- Planke
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4986'

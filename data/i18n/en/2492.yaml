@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2492'
 language: en
-status: upstream_unreviewed
-name: Adductors
+status: ai_reviewed
+name: Seated Hip Adduction Machine
 description: |-
-  Based on Adductor Sel. by Technogym.
-  Sit on the machine and set the rest position to a comfortable opening angle.
-  Close your legs.
-  Gently return to the rest position.
+  Starting Position:
+  Sit squarely in the hip adduction machine with your back flat against the backrest. Set the lever arms to a comfortable open position so the pads rest on the inside of your knees and thighs.
+
+  Execution:
+  1. Squeeze your thighs together against the pads until they meet in the center.
+  2. Hold the peak contraction firmly for 1 to 2 seconds, focusing on your inner thigh adductor muscles.
+  3. Slowly allow the pads to return to the starting position under control, feeling a gentle stretch before the next rep.
+
+  Cues:
+  Control the negative phase carefully to protect the groin; keep your hips grounded on the seat.
+search_terms:
+- Adductors
+- Hip Adduction Machine
+- Inner Thigh Machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

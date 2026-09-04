@@ -1,18 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1735'
 language: es
-status: upstream_unreviewed
-name: Gluteo en prensa de lado con una pierna
+status: ai_reviewed
+name: Prensa lateral para glúteos a una pierna
 description: |-
   Colócate en la máquina de prensa de piernas, pero en lugar de sentarte de frente, siéntate de lado para que la pierna que vas a trabajar quede alineada con la plataforma móvil. Asegura tu espalda contra el respaldo y agárrate bien de las asas para mantener la estabilidad
   Coloca el pie de la pierna de trabajo en la plataforma, asegurándote de que el talón quede bien apoyado y que la pierna esté casi completamente extendida, pero sin bloquear la rodilla. Desbloquea la seguridad de la máquina. Baja la plataforma lentamente y con control, doblando la rodilla y la cadera. El objetivo es llevar el talón lo más cerca posible de tu glúteo sin que la zona lumbar se despegue del respaldo. Es crucial mantener la espalda recta y no encorvarse.
   Empuja la plataforma hacia arriba usando principalmente la fuerza del glúteo y el cuádriceps, volviendo a la posición inicial (pierna casi extendida). Concéntrate en la contracción muscular en la parte superior del movimiento
   Evita rebotar o usar el impulso
   Comienza con un peso ligero para dominar la técnica y evitar lesiones, especialmente en la espalda baja o las rodillas.
+search_terms:
+  - Gluteo en prensa de lado con una pierna
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

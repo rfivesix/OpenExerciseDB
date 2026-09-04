@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1928'
 language: es
-status: upstream_unreviewed
-name: Remo sentado con agarre en V
-description: |-
-  El remo sentado con agarre en V es un ejercicio de tirón compuesto que se realiza en una máquina de poleas con un agarre cerrado en forma de "V". Sentado con los pies apoyados, tiras del agarre hacia la mitad del cuerpo, concentrándote en el grosor de la espalda y el desarrollo de la zona media de la espalda.
+status: ai_reviewed
+name: Remo sentado en polea con agarre en V
+description: 'Posición inicial:
+
+  Siéntate en la máquina de remo en polea baja con los pies firmes en los soportes y las rodillas ligeramente flexionadas. Agarra el maneral en V con toma neutra, mantén el torso erguido y el pecho fuera.
+
+
+  Ejecución:
+
+  Tira del maneral en V hacia la parte baja del abdomen pegando los codos al cuerpo. Junta con fuerza las escápulas al final del recorrido y haz una pausa de un segundo. Regresa el peso hacia delante de forma lenta y controlada extendiendo los brazos por completo.
+
+
+  Consejos:
+
+  No te balancees hacia delante y hacia atrás; mantén la inclinación del torso fija para aislar la musculatura dorsal.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4290'
+search_terms:
+- Remo sentado con agarre en V
+- Seated V-Grip Row

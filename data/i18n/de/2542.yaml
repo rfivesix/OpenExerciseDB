@@ -1,10 +1,25 @@
 exercise_id: '2542'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Boxen
-description: Training am Boxsack zur Entwicklung von Boxfähigkeiten und Verbesserung der Ausdauer.
+name: Boxtraining (Boxsack und Schattenboxen)
+description: |-
+  Ausgangsposition:
+  Nimm eine klassische Boxstellung vor dem Boxsack ein (Rechtshänder mit linkem Fuß vorn, Linkshänder mit rechtem Fuß vorn). Die Knie sind leicht gebeugt, das Gewicht ruht federnd auf den Fußballen. Halte beide Fäuste schützend vor dem Kinn (Deckung) und halte die Ellbogen nah am Körper.
+
+  Ausführung:
+  1. Führe flüssige und dynamische Schlagkombinationen aus geraden Schlägen (Jab, Cross), Haken (Hook) und Aufwärtshaken (Uppercut) gegen den Sandsack oder in die Luft (Schattenboxen) aus.
+  2. Rotiere bei jedem Schlag kraftvoll aus der Hüfte und dem Rumpf, um maximale Kraft und Stabilität zu erzeugen.
+  3. Bewege dich kontinuierlich mit flinken Beinen um den Sack herum, wechsle die Distanz und kehre nach jedem Schlag sofort in die stabile Deckung zurück.
+
+  Hinweise:
+  Schütze deine Handgelenke und Hände immer durch Boxbandagen und geeignete Handschuhe. Halte das Handgelenk beim Aufprall gerade und atme bei jedem Schlag explosiv aus.
+search_terms:
+- Boxen
+- Boxsack-Training
+- Sandsacktraining
+- Schattenboxen
+- Boxing
 upstream:
   license: CC-BY-SA-4.0
   license_author: SAH

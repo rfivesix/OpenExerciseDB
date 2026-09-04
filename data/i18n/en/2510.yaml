@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2510'
 language: en
-status: upstream_unreviewed
-name: Hollow Body Hold (Core L1)
+status: ai_reviewed
+name: Hollow Body Hold
 description: |-
-  Vasco custom hollow body hold - foundational anti-extension core stability. Teaches global anterior chain tension, breath control under load, and positional awareness for gymnastics/calisthenics.
+  Starting Position:
+  Lie flat on your back on an exercise mat with your legs extended straight and together, and your arms reached overhead in line with your ears.
+
+  Execution:
+  1. Engage your core and press your lower back completely flat against the floor (posterior pelvic tilt).
+  2. Simultaneously lift your shoulder blades, head, and straight legs about 4 to 6 inches off the floor, creating a shallow curved 'banana' shape with your body.
+  3. Maintain full-body tension, keeping your toes pointed and glutes squeezed.
+  4. Hold this isometric position for the prescribed duration while breathing shallowly but continuously.
+  5. Lower back down to the floor under control.
+
+  Cues:
+  If your lower back arches off the floor at any point, regress by tucking your knees or bringing your arms forward beside your hips.
+search_terms:
+- Hollow Body Hold (Core L1)
+- Hollow Body Hold
+- Gymnastics Hollow Hold
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4989'

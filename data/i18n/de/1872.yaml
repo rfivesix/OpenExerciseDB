@@ -1,10 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1872'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Taube (Pigeon Stretch)
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Starte im Vierfüßlerstand oder Stütz. Ziehe ein Knie\
+  \ nach vorne hinter das gleichseitige Handgelenk und lege den Unterschenkel schräg\
+  \ auf der Matte ab. Strecke das andere Bein lang nach hinten aus.\nAusführung: Senke\
+  \ das Becken gleichmäßig nach unten ab. Halte den Oberkörper aufrecht oder wandere\
+  \ mit den Unterarmen nach vorne auf den Boden, um die Dehnung in der Gesäßmuskulatur\
+  \ des vorderen Beins zu vertiefen.\nHinweise: Achte darauf, dass das Becken gerade\
+  \ bleibt und nicht zur Seite abkippt. Halte die Position für 30 Sekunden und wechsle\
+  \ die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

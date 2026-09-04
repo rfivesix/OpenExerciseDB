@@ -1,12 +1,19 @@
 exercise_id: '1730'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Seitheben
 description: |-
-  Führe die Bewegung mit den Ellbogen, nicht den Händen.
-  Ziehe die Schultern nicht hoch; halte den Trapezmuskel ruhig.
+  Ausgangsposition:
+  Stelle dich seitlich neben einen niedrigen Kabelzug. Greife den Einhandgriff mit der abgewandten Hand vor dem Körper. Halte den Rumpf aufrecht und den Ellbogen leicht gebeugt.
+  
+  Ausführung:
+  1. Hebe den Arm seitlich an, geführt durch den Ellbogen, bis die Hand etwa auf Schulterhöhe ist.
+  2. Halte die Kontraktion am obersten Punkt kurz, ohne die Schulter nach oben zu den Ohren zu ziehen.
+  3. Senke den Griff langsam und kontrolliert wieder in die Ausgangsposition ab.
+  
+  Hinweise:
+  Führe die Bewegung mit dem Ellbogen an und ziehe die Schultern nicht hoch; halte den oberen Trapezmuskel ruhig.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2447'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Airplane
 description: |-
-  Stand on one leg and lean your upper body slightly forward while keeping your back straight. Extend the free leg behind you so that your torso and leg form roughly one line. Slowly open your hip to the side by rotating your pelvis and upper body in a controlled way. Then close the hip again and return to the starting position.
-  The movement should mainly come from the hip. Keep your standing foot stable and avoid letting your knee collapse inward.
+  Starting Position:
+  Stand on one leg, lightly touching a wall or sturdy support for balance if needed. Hinge forward at the hips with a flat back while extending your non-working leg straight behind you, until your torso and back leg form a horizontal line.
+
+  Execution:
+  1. Slowly rotate your pelvis inward toward the standing leg (internal hip rotation), bringing your free hip down toward the floor.
+  2. Reverse the direction and rotate your pelvis outward and upward toward the ceiling (external hip rotation), opening your hips.
+  3. Return smoothly to the neutral starting position and repeat for the desired number of reps before switching sides.
+
+  Cues:
+  Drive the movement exclusively through the hip joint of the standing leg; keep the standing foot firmly rooted and prevent the standing knee from caving inward.
+search_terms:
+- Single-Leg Hip Airplane
+- Hip Airplane Mobility Drill
 upstream:
   license: CC-BY-SA-4.0
   license_author: TobiasFalk

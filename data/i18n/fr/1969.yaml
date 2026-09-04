@@ -1,19 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1969'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extension triceps unilatérale à la poulie
-description: |-
-  L'extension triceps unilatérale à la poulie est un exercice d'isolation unilatéral qui cible le triceps brachial. En travaillant un bras à la fois, il aide à corriger les déséquilibres de force entre les côtés tout en sollicitant la sangle abdominale pour la stabilité.
-  Position de départ :
-  Tenez-vous face à la machine à poulie, les pieds écartés à la largeur des épaules. Fixez une poignée individuelle à la poulie haute. Saisissez la poignée d'une main en prise pronation, le coude fléchi à environ 90° et collé contre le corps. Gardez la sangle abdominale gainée et le dos droit.
+description: 'Position de départ :
+
+  Debout face à la poulie haute, pieds écartés à la largeur des épaules. Fixez une poignée simple et tenez-la en prise pronation, coude fléchi à 90 degrés et collé contre le flanc. Buste légèrement penché vers l''avant et gainé.
+
+
   Exécution :
-  Poussez la poignée vers le bas dans un mouvement contrôlé en tendant le coude jusqu'à ce que le bras soit complètement tendu. Maintenez la contraction pendant 1 seconde en position basse, puis revenez lentement à la position de départ.
+
+  Poussez la poignée vers le bas en tendant l''avant-bras jusqu''à extension complète du triceps. Marquez un temps d''arrêt d''une seconde en contraction maximale, puis laissez remonter la charge lentement sous contrôle jusqu''à 90 degrés.
+
+
+  Conseils :
+
+  Gardez le bras et le coude parfaitement immobiles contre les côtes; n''utilisez aucun élan du haut du corps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4417'
+search_terms:
+- Extension triceps unilatérale à la poulie
+- Pushdown triceps un bras

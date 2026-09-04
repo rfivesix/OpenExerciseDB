@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1751'
 language: en
-status: upstream_unreviewed
-name: Cable pull through
-description: |-
-  The Cable Pull Through is a lower-body exercise that targets the glutes and hamstrings using a "hip hinge" motion. To perform it, attach a rope to the lowest pulley setting, face away from the machine with the rope between your legs, and step forward to create tension. Keeping your back flat and knees slightly soft, push your hips backward as if trying to close a door behind you until you feel a deep stretch in your hamstrings.
-  To finish the rep, explosively drive your hips forward to return to a standing position, squeezing your glutes hard at the top. It is vital to remember that this is not a squat; your knees should not bend deeply, and your arms should remain straight and relaxed, acting only as hooks for the rope. This movement provides constant tension on the glutes while placing less stress on the lower back than a traditional deadlift.
+status: ai_reviewed
+name: Cable Pull-Through
+description: "Starting Position:\nAttach a rope attachment to the lowest setting of\
+  \ a cable pulley. Stand facing away from the machine with the cable running between\
+  \ your legs. Grip the rope handles with both hands, take two steps forward to establish\
+  \ cable tension, and adopt a stance slightly wider than shoulder-width with a slight\
+  \ bend in your knees.\n\nExecution:\n1. Hinge at your hips, pushing your glutes\
+  \ backward while keeping your spine flat and shoulders packed.\n2. Allow the rope\
+  \ to travel backward between your legs until you feel a deep stretch in your hamstrings.\n\
+  3. Powerfully drive your hips forward to return to an upright standing position,\
+  \ squeezing your glutes firmly at the top.\n\nCues:\nThis is a hip hinge, not a\
+  \ squat. Keep your arms relaxed and straight; do not pull the weight with your upper\
+  \ body."
+search_terms:
+  - Cable Pull Through
+  - Glute Rope Pull-Through
+  - Cable Hip Hinge
 upstream:
   license: CC-BY-SA-4.0
   license_author: manuher89

@@ -1,17 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2522'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Trizepsdrücken am Kabelzug
+name: Trizepsdrücken mit Widerstandsband
 description: |-
-  Befestige das Band über dir.
+  Ausgangsposition:
+  Befestige ein elastisches Widerstandsband sicher an einem hohen Ankerpunkt über dir (z. B. Klimmzugstange oder Türanker). Stelle dich hüftbreit mit leicht gebeugten Knien vor das Band. Greife die Bandenden mit neutralem Griff oder Obergriff und halte die Ellbogen eng an den Flanken deines Oberkörpers fixiert.
 
-  Stelle dich mit hüftbreit auseinander stehenden Füßen zum Band.
-  Beuge die Knie leicht, um deinen Rumpf anzuspannen.
-  Halte die Brust aufrecht, ziehe die Schulterblätter nach hinten und halte die Ellbogen eng an den Seiten deines Oberkörpers.
-  Atme aus und ziehe das Band gerade nach unten zu deinen Oberschenkeln.
-  Atme ein und kontrolliere das Band langsam, während du die Arme wieder in die Ausgangsposition nach oben führst.
+  Ausführung:
+  1. Strecke deine Unterarme kraftvoll nach unten durch, bis die Arme vollständig gestreckt sind und deine Hände neben den Oberschenkeln stehen.
+  2. Spanne den Trizeps am tiefsten Punkt für 1 bis 2 Sekunden maximal an.
+  3. Führe die Unterarme langsam und kontrolliert gegen den Bandzug wieder nach oben in etwa 90 Grad Beugung zurück.
+
+  Hinweise:
+  Die Oberarme und Ellbogen bleiben während der gesamten Übung unbeweglich an den Rippen fixiert; bewege ausschließlich die Unterarme.
+search_terms:
+- Trizepsdrücken am Kabelzug
+- Trizepsdrücken mit Widerstandsband
+- Band Triceps Pushdown
 upstream:
   license: CC-BY-SA-4.0
   license_author: G. Johnson

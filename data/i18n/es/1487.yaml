@@ -5,16 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1487'
 language: es
-status: upstream_unreviewed
-name: Combinación hiperextensión Y-W
+status: ai_reviewed
+name: Combinación hiperextensión Y-W con discos
 description: |-
-  Usa una máquina de glute-ham raise o una
-  pelota de estabilidad para este ejercicio y un disco ligero en cada mano.
-  Eleva el torso hasta formar una línea recta con las piernas y eleva los
-  brazos hacia afuera, ligeramente más allá de un ángulo de 90 grados, hasta una posición en W para
-  trabajar los músculos del manguito rotador, y luego baja a la posición inicial.
-  Después vuelve a elevarte con los brazos
-  en una posición en Y para activar la parte baja del trapecio.
+  Posición inicial:
+  Colócate en un banco de hiperextensiones con los tobillos asegurados y la pelvis apoyada en el acolchado. Sujeta un disco ligero en cada mano.
+
+  Ejecución:
+  1. Eleva el torso hasta formar una línea recta con las piernas activando los erectores espinales y los glúteos.
+  2. Eleva los brazos diagonalmente hacia arriba formando una „Y“ con el cuerpo para activar el trapecio inferior.
+  3. Luego flexiona y lleva los codos hacia atrás formando una „W“ y juntando fuertemente los omóplatos para trabajar el manguito rotador y trapecio medio.
+  4. Desciende lentamente el torso para volver a la posición de partida.
+
+  Consejos:
+  Utiliza discos ligeros para priorizar la técnica escapular y la estabilidad postural en lugar de la carga.
+search_terms:
+  - Combinación hiperextensión Y-W
+  - Hiperextensión Y-W
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

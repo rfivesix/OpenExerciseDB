@@ -3,9 +3,18 @@ language: it
 status: ai_reviewed
 translated_from: de
 name: Stacco rumeno a una gamba con supporto (Kickstand RDL)
+description: |-
+  Posizione di partenza:
+  In piedi, impugna un bilanciere davanti alle cosce con presa prona. Trasferisci la maggior parte del peso corporeo sulla gamba anteriore di lavoro. Posiziona il piede posteriore leggermente indietro poggiando solo la punta per mantenere l'equilibrio (supporto a cavalletto).
+  
+  Esecuzione:
+  1. Fletti le anche spingendo il bacino all'indietro e piegando il busto in avanti con la colonna vertebrale in posizione neutra.
+  2. Abbassa il bilanciere mantenendolo aderente alla tibia anteriore finché non avverti un intenso allungamento nei femorali della gamba d'appoggio.
+  3. Estendi con forza le anche e contrai i glutei per ritornare alla posizione eretta.
+  
+  Note:
+  Il piede posteriore funge solo da punto d'appoggio per l'equilibrio; focalizza lo sforzo sui muscoli ischiocrurali e sul gluteo della gamba attiva.
 upstream:
   license: CC-BY-SA-4.0
   license_author: eriktrinkle
   source_id: '2807'
-description: |-
-  Usa la punta del piede posteriore solo come leggero appoggio di equilibrio ed esegui uno stacco rumeno caricando la gamba anteriore.

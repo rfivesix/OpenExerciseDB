@@ -1,22 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1966'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Brustwirbelsäulen-Rotation im halben Kniestand
-description: |-
-  Beginne im halben Kniestand, wobei das von der Wand abgewandte
-  Bein mit einem Ball an der Wand stabilisiert
-  wird.
-  Halte beide Hände direkt vor
-  dir und drehe einen Arm geöffnet auf, um
-  die Wand hinter dir zu erreichen.
-  Atme beim Drehen aus, atme ein,
-  wenn du in die neutrale Position zurückkehrst, und wiederhole.
+description: 'Ausgangsposition:
+
+  Begib dich seitlich neben eine Wand in den halben Kniestand. Das wandnahe Bein ist vorne im 90-Grad-Winkel aufgestellt, das hintere Knie ruht auf einer Matte. Klemme optional einen Schaumstoffball oder eine Faszienrolle zwischen das vordere Knie und die Wand, um das Becken zu fixieren. Strecke beide Arme auf Schulterhöhe nach vorne aus.
+
+
+  Ausführung:
+
+  Führe den wandfernen Arm in einem weiten horizontalen Bogen nach hinten auf, während du den Kopf und den Brustkorb mitdrehst. Die Hüfte und das vordere Knie bleiben dabei vollkommen unverändert nach vorne ausgerichtet. Halte die maximale Dehnposition in der Brustwirbelsäule für 1–2 Sekunden und führe den Arm langsam wieder nach vorne. Absolviere alle Wiederholungen auf einer Seite und wechsle dann.
+
+
+  Hinweise:
+
+  Durch die Fixierung des vorderen Knies an der Wand kann die Lendenwirbelsäule nicht kompensieren, sodass die Rotation gezielt und sicher in der Brustwirbelsäule stattfindet.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3564'
+search_terms:
+- Brustwirbelsäulen-Rotation im halben Kniestand
+- Half-Kneeling Thoracic Rotation
+- BWS Rotation Kniestand

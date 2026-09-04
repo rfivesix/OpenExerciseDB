@@ -1,17 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1801'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tiefe Kniebeuge mit Langhantel
-description: |-
-  Die tiefe Kniebeuge mit Langhantel ist eine Grundübung, die mehrere Muskelgruppen im Unterkörper anspricht, darunter die vordere Oberschenkelmuskulatur, die hintere Oberschenkelmuskulatur und die Gesäßmuskulatur.
-  Eine korrekte Ausführung ist entscheidend, um die Ergebnisse zu maximieren und Verletzungen während der tiefen Kniebeuge mit Langhantel zu vermeiden. Dazu gehören ein schulterbreiter Stand, eine Ganzkörperspannung, ein kontrolliertes Absenken sowie die richtige Tiefe und Knieposition.
-  Hilfsübungen wie die Frontkniebeuge, die Goblet-Kniebeuge, die Split-Kniebeuge und die bulgarische Split-Kniebeuge können deine Leistung in der tiefen Kniebeuge mit Langhantel verbessern, indem sie bestimmte Muskelgruppen ansprechen und die Gesamttechnik verbessern.
-  Um neue persönliche Rekorde in der Kniebeuge zu erreichen, steigere das Gewicht nach und nach, variiere die Wiederholungs- und Satzbereiche, um das Muskelwachstum zu stimulieren, und priorisiere Ruhe und Erholung zwischen den Trainingseinheiten.
+description: "Ausgangsposition:\nPlatziere die Langhantel im Rack auf Schulterhöhe.\
+  \ Tritt unter die Hantel und lege sie fest auf den oberen Trapezmuskel (High-Bar).\
+  \ Greife die Stange mit beiden Händen, hebe sie heraus und mache zwei Schritte nach\
+  \ hinten. Nimm einen schulterbreiten oder leicht weiteren Stand ein, die Fußspitzen\
+  \ zeigen etwa 15 bis 30 Grad nach außen. Brust raus, Rumpf unter maximale Spannung\
+  \ bringen (Bauchpresse).\n\nAusführung:\n1. Leite die Kniebeuge ein, indem du Knie\
+  \ und Hüfte gleichzeitig beugst und die Knie in Richtung der Zehenspitzen nach außen\
+  \ führst.\n2. Senke dich kontrolliert und tief ab, bis deine Oberschenkel deutlich\
+  \ unter die Parallele zum Boden absinken (Full Depth).\n3. Halte den Rumpf aufrecht\
+  \ und die Fersen fest am Boden.\n4. Drücke dich aus der tiefsten Position kraftvoll\
+  \ und explosiv über den gesamten Fuß nach oben zurück in den Stand.\n\nHinweise:\n\
+  Eine volle Kniebeuge erfordert gute Sprunggelenks- und Hüftbeweglichkeit. Gehe nur\
+  \ so tief, wie die Lendenwirbelsäule stabil neutral gehalten werden kann (ohne starken\
+  \ Butt-Wink)."
+search_terms:
+  - Tiefe Kniebeuge
+  - Barbell Full Squat
+  - Ass to Grass Squat
+  - Tiefe Kniebeugen mit Langhantel
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

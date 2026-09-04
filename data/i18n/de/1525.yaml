@@ -1,18 +1,35 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1525'
 language: de
-status: upstream_unreviewed
-name: Ball Slams
-description: |-
-  Stelle dich mit den Füßen etwa schulterbreit auseinander, die Knie und Hüften leicht gebeugt, und halte den Ball mit beiden Händen auf Brusthöhe. Spanne deine Rumpfmuskulatur an und behalte eine gute Haltung bei.
-  Strecke deine Knie und schiebe deine Hüfte nach vorne, während du gleichzeitig den Ball anhebst. Strecke dich so groß wie möglich, der Ball über dem Kopf, die Arme nach oben, die Hüfte leicht nach vorne, und durch die Kraft deines Antriebs auf den Zehenspitzen.
-  Nutze deine Rumpfmuskulatur und deine Arme, um den Medizinball mit so viel Kraft wie möglich gerade nach unten zwischen deine Füße zu schmettern. Drücke deine Hüfte zurück und beuge deine Knie, um den Schlag weiter zu verstärken. Atme aus, während du den Ball nach unten schmetterst.
-  Gehe in die Hocke, um den Ball vom Boden aufzuheben, und gehe dann sofort in den nächsten Schlag über, indem du die Bewegung wiederholst. Wiederhole für Wiederholungen oder auf Zeit.
+status: ai_reviewed
+name: Medizinball-Slams
+description: 'Ausgangsposition:
+
+  Stelle dich schulterbreit hin, die Knie und Hüften leicht gebeugt. Halte einen Medizinball
+  mit beiden Händen vor der Brust. Spanne deine Rumpfmuskulatur an.
+
+
+  Ausführung:
+
+  1. Strecke Knie und Hüfte explosiv und hebe den Ball über den Kopf, während du dich
+  auf die Zehenspitzen aufrichtest.
+
+  2. Schmettere den Ball mit voller Kraft aus Rumpf, Latissimus und Armen senkrecht
+  vor deinen Füßen auf den Boden.
+
+  3. Beuge die Knie und schiebe die Hüfte nach hinten, um die Wurfbewegung dynamisch
+  abzufedern.
+
+  4. Gehe in die Hocke, nimm den Ball auf und führe die nächste Wiederholung flüssig
+  aus.
+
+
+  Hinweise:
+
+  Explosive Ganzkörperübung für Schnellkraft, Rumpfstabilität und metabolische Ausdauer.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4043'
+search_terms:
+- Ball Slams
+- Medizinball Schmettern

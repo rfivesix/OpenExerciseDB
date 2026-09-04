@@ -1,12 +1,35 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1516'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Handstand
-description: |-
-  Freistehender Handstand, indem du die Arme in den Boden drückst und Rumpf und Gesäß anspannst.
+description: 'Ausgangsposition:
+
+  Gehe in die Hocke oder den Ausfallschritt und setze beide Hände schulterbreit mit
+  gespreizten Fingern fest auf den Boden auf. Spanne den Rumpf an und fixiere den
+  Blick zwischen deinen Händen.
+
+
+  Ausführung:
+
+  1. Schwinge ein Bein kontrolliert nach oben und drücke dich mit dem anderen Bein
+  vom Boden ab, um in den Handstand zu gelangen.
+
+  2. Drücke den Boden aktiv mit Händen und Schultern weg, spanne Bauch, Gesäß und
+  Beine fest an und bilde von den Handgelenken bis zu den Zehenspitzen eine gerade
+  Linie.
+
+  3. Steuere die Balance über minimale Druckverlagerungen in den Fingerkuppen und
+  Handballen.
+
+
+  Hinweise:
+
+  Vermeide ein extremes Hohlkreuz (Bananenform). Halte die Rippen eingezogen und den
+  Rumpf fest auf Spannung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69
   source_id: '2475'
+search_terms:
+- Freistehender Handstand

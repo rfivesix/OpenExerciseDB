@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1875'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Standing IT Band Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Stand tall sideways next to a wall or sturdy support.\
+  \ Cross the outer leg (the one being stretched) behind the front leg, placing the\
+  \ foot flat on the floor.\nExecution: Support yourself with your inner hand on the\
+  \ wall and gently push your hips toward the wall (away from the direction of your\
+  \ lean). Lean your torso in the opposite direction until you feel a distinct stretch\
+  \ along the outer hip and thigh.\nTips: Keep your pelvis facing forward without\
+  \ rotating. Hold for 20–30 seconds while breathing smoothly, then repeat on the\
+  \ other side."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

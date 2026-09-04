@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1905'
 language: en
-status: upstream_unreviewed
-name: Pullback
-description: |-
-  Set weight and grip for the cables in the cage. Take a few steps away, bend over, pull and extend the back at the same time.
+status: ai_reviewed
+name: Cable Pullback with Back Extension
+description: 'Starting position:
+
+  Set the cable pulleys at hip to chest height and attach suitable handles. Grasp the handles, take a few steps back, slightly bend your knees, and hinge forward from the hips with a flat back, extending your arms forward.
+
+
+  Execution:
+
+  Pull the handles toward your torso while simultaneously extending your spine and driving your chest up. Squeeze your shoulder blades together at peak contraction. Slowly return under control to the hinged starting position with arms extended.
+
+
+  Tips:
+
+  Maintain core tension throughout and ensure the movement is controlled, combining horizontal pulling with spinal extension without jerking.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3052'
+search_terms:
+- Pullback
+- Standing Cable Pullback

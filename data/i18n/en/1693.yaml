@@ -1,33 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1693'
 language: en
-status: upstream_unreviewed
-name: Incline Static Hold
+status: ai_reviewed
+name: Incline Dumbbell Static Hold
 description: |-
   Execution
-
-
+  
   Hold Position:
-
-  Lower the dumbbells&nbsp;a few inches above your chest&nbsp;— about the&nbsp;midpoint&nbsp;of a normal incline press.
+  
+  Lower the dumbbells a few inches above your chest — about the midpoint of a normal incline press.
   This is where your upper chest is under maximum tension.
-
-
-
+  
   Static Hold:
-
-  Hold the position for&nbsp;20–45 seconds&nbsp;while keeping the chest tight.
-  Breathe slowly but stay tense —&nbsp;do not relax your chest or shoulders.
-
-
-
+  
+  Hold the position for 20–45 seconds while keeping the chest tight.
+  Breathe slowly but stay tense — do not relax your chest or shoulders.
+  
   End the set:
-
+  
   After the hold, carefully bring the dumbbells down and rest.
+search_terms:
+  - Incline Static Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben

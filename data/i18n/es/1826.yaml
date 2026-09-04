@@ -1,22 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1826'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Apertura con banda y rotación externa
-description: |-
-  Ponte de pie erguido con los pies separados al ancho de los hombros, el pecho hacia afuera y los hombros hacia atrás.
-  Sujeta la banda de resistencia con ambas manos, las palmas hacia arriba o enfrentadas entre sí, según el tipo de banda.
-  Flexiona los codos en un ángulo de 90 grados y pega los brazos superiores a los costados.
-  La banda debe tener algo de tensión en la posición inicial, con las manos más juntas frente al abdomen.
-  Rota hacia afuera: Manteniendo los codos pegados a los costados, separa lentamente las manos una de otra, estirando la banda.
-  Aprieta: Junta los omóplatos y bájalos mientras rotas las manos hacia afuera.
-  Rango de movimiento: Rota las manos tan hacia afuera como puedas cómodamente, sin permitir que los codos se separen de los costados.
-  Mantén: Mantén la posición final durante 1–2 segundos para maximizar la activación muscular.
-  Regresa: Lleva las manos de vuelta a la posición inicial de forma lenta y controlada.
+description: "Posición inicial:\nPonte de pie con los pies al ancho de los hombros\
+  \ y el pecho erguido. Sujeta una banda elástica con ambas manos en supinación (palmas\
+  \ hacia arriba) frente al ombligo. Flexiona los codos a 90 grados y pégalos firmemente\
+  \ a los costados del torso.\n\nEjecución:\n1. Sin separar los codos de los costados,\
+  \ rota los antebrazos hacia afuera separando las manos y estirando la banda.\n2.\
+  \ Junta y desciende los omóplatos en el punto de máxima rotación externa.\n3. Mantén\
+  \ la posición final durante 1 o 2 segundos apretando el manguito rotador.\n4. Regresa\
+  \ lentamente con control a la posición de inicio.\n\nConsejos:\nMantén los codos\
+  \ pegados a los costados para garantizar que el trabajo se concentre en los rotadores\
+  \ externos."
+search_terms:
+  - Apertura con banda y rotación externa
+  - Rotación externa con banda
+  - Band Pull-Apart
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

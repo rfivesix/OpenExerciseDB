@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2484'
 language: en
-status: upstream_unreviewed
-name: Side-Kick Breathing (Kickboard)
+status: ai_reviewed
+name: Side-Kick Breathing with Kickboard
 description: |-
-  Push off the wall on your side (not flat on your stomach), one arm extended forward holding the board or just extended, kicking continuously. Keep your head in a neutral position looking at the bottom of the pool, and when you need air, rotate your head sideways (one ear stays in the water, other faces up) to breathe, then rotate back to neutral. Swim a length like this, then repeat on the other side. This teaches the exact head position and rotation you'll use once full stroke breathing comes in.
+  Starting Position:
+  Push off the wall on your side. Extend your bottom arm forward holding a kickboard, and rest your top arm flat along your side and hip.
+
+  Execution:
+  1. Maintain a continuous flutter kick while keeping your body balanced directly on your side.
+  2. Keep your head in a neutral position with your face turned toward the bottom of the pool.
+  3. When you need air, rotate your head slightly toward the ceiling (keeping your bottom ear rested on your arm in the water) to breathe.
+  4. Rotate your face back downward to neutral and continue across the pool before switching to your other side.
+
+  Cues:
+  Maintain body alignment on your side; rotate your head cleanly along your spine rather than lifting your forehead out of the water.
+search_terms:
+- Side-Kick Breathing (Kickboard)
+- Side Kick Drill
+- Freestyle Side Kicking
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

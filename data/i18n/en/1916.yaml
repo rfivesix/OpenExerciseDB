@@ -1,14 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1916'
 language: en
-status: upstream_unreviewed
-name: Tuck planche
-description: Basic calisthenics progression for the full planche
+status: ai_reviewed
+name: Tuck Planche
+description: 'Starting position:
+
+  Place your hands shoulder-width apart on the floor or parallettes, with fingers pointed forward or slightly turned out.
+
+
+  Execution:
+
+  Press forcefully into the floor with fully straightened arms and lean your shoulders forward past your wrists. Pull your knees tightly into your chest into a compact tucked position, lifting your entire lower body off the ground. Actively protract your shoulder blades to create an arched hollow upper back and brace your core intensely. Hold this isometric position steadily for time.
+
+
+  Tips:
+
+  Keep your elbows locked straight throughout the hold. Generate maximum pressing power from your anterior deltoids and serratus anterior.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: ISSACS
   source_id: '3063'
+search_terms:
+- Tuck Planche
+- Tucked Planche Hold
+- Planche Progression

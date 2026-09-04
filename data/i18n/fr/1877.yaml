@@ -5,10 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1877'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rétraction scapulaire à l'élastique
-description: |-
-  Fixez une extrémité de l'élastique à un mur, un montant ou un autre support, à hauteur d'épaule. Passez le bras dans la boucle, au niveau du triceps. Reculez jusqu'à ce que l'élastique soit tendu. Tirez le coude et l'épaule vers l'arrière contre la résistance de l'élastique.
+description: Fixez une extrémité de l'élastique à un mur, un montant ou un autre support,
+  à hauteur d'épaule. Passez le bras dans la boucle, au niveau du triceps. Reculez
+  jusqu'à ce que l'élastique soit tendu. Tirez le coude et l'épaule vers l'arrière
+  contre la résistance de l'élastique.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

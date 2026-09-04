@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2478'
 language: en
-status: upstream_unreviewed
-name: Glute-Ham Raise
+status: ai_reviewed
+name: Glute-Ham Raise (GHR)
 description: |-
-  Kneel on a glute-ham developer or have a partner hold your ankles. Keeping hips straight, lower your torso toward the floor under control, then curl back up by contracting the hamstrings and glutes.
+  Starting Position:
+  Position yourself on a Glute-Ham Developer (GHD). Rest your knees on the curved thigh pad and secure your ankles firmly between the rollers and footplate. Begin with your torso upright and aligned with your thighs.
+
+  Execution:
+  1. Lower your torso forward and downward under complete control by extending your knees, keeping a straight line from knees to head.
+  2. Actively contract your hamstrings and glutes, flexing at the knees to pull your body back up to the vertical starting position.
+  3. Keep your hips extended and spine neutral throughout the entire repetition.
+
+  Cues:
+  Avoid breaking at the hips; if needed, use a light push off the floor or an assistance band until sufficient hamstring strength is developed.
+search_terms:
+- Glute-Ham Raise
+- GHR Machine
+- Glute Ham Developer
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4955'

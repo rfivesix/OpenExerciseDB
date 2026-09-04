@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: fr
-status: upstream_unreviewed
-name: Curl avec haltères
-description: |-
-  Le curl avec haltères est un exercice d'isolation classique pour les bras. Contrairement au curl marteau, il implique une rotation des poignets (supination) au moment de soulever les charges, ce qui permet une contraction complète des biceps.
+status: ai_reviewed
+name: Spider curl avec haltères
+description: 'Position de départ :
+
+  Allongez-vous à plat ventre sur un banc incliné à environ 45 degrés, la poitrine calée sur le haut du dossier. Tenez une paire d''haltères en prise supination, bras relâchés à la verticale vers le sol.
+
+
+  Exécution :
+
+  Fléchissez les coudes pour monter les haltères vers les épaules en gardant les bras immobiles et strictement verticaux. Contractez les biceps fermement pendant une seconde en position haute, puis redescendez lentement jusqu''à extension complète des bras.
+
+
+  Conseils :
+
+  L''appui sur le banc empêche tout élan avec le corps; concentrez-vous sur l''isolation pure des biceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4810'
+search_terms:
+- Curl avec haltères
+- Spider curl avec haltères
+- Dumbbell Spider Curl

@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1490'
 language: en
-status: upstream_unreviewed
-name: Lying Triceps Kickback
+status: ai_reviewed
+name: Incline Dumbbell Triceps Kickback
 description: |-
-  Set the bench to an 60deg angle. Stand still and rest your upper body on the inclined bench, ensuring a nearly straight line of your entire body. Squeeze your shoulder blades together, so that your elbows are located behind your torso with your upper arms nearly parallel to the floor. Lift the dumbbells until your arms form a straight line. Slowly lower the dumbbells back to the initial position. Initial position corresponds to an rectangular position of upper and lower arms.
+  Starting Position:
+  Set an incline bench to approximately a 60-degree angle. Lie prone with your chest resting firmly against the inclined pad, feet planted on the floor for stability. Hold a dumbbell in each hand, retract your shoulder blades, and bring your upper arms up so they are roughly parallel to the floor alongside your ribs.
+
+  Execution:
+  1. Keeping your upper arms completely still and elbows pinned, extend your elbows backward until your arms form a straight line.
+  2. Squeeze your triceps forcefully at the top lockout for a full second.
+  3. Slowly lower your forearms back down to a 90-degree angle under strict control.
+
+  Cues:
+  Resting your chest against the bench eliminates momentum and cheating, delivering intense isolation to the triceps long head.
+search_terms:
+  - Lying Triceps Kickback
+  - Dumbbell Kickback on Incline Bench
+  - Chest-Supported Triceps Kickback
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

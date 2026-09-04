@@ -1,10 +1,15 @@
 exercise_id: '1853'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: L-Sit (fußunterstützt)
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Wie bei einem L-Sit, aber die Füße dürfen den Boden berühren, um einen Teil des Gewichts deiner Beine zu tragen.
+description: "Ausgangsposition: Setze dich mit aufrechtem Oberkörper und gestreckten\
+  \ Beinen auf den Boden oder zwischen Parallettes. Platziere die Hände neben den\
+  \ Hüften auf dem Boden.\nAusführung: Drücke dich über die Hände nach oben und hebe\
+  \ das Gesäß vom Boden ab. Die Fersen bleiben auf dem Boden aufgestellt, um einen\
+  \ Teil des Beingewichts zu tragen und die Belastung zu reduzieren.\nHinweise: Halte\
+  \ die Schultern tief (weg von den Ohren) und spanne Bauch- und Trizepsmuskulatur\
+  \ fest an. Halte die Position für die vorgegebene Zeit."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

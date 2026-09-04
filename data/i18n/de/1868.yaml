@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1868'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Ausfallschritt mit Rumpfdrehung
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Begib dich in einen tiefen Ausfallschritt (das hintere\
+  \ Knie kann auf dem Boden aufliegen oder leicht abgehoben sein). Der vordere Fuß\
+  \ steht fest und stabil.\nAusführung: Halte den Oberkörper aufrecht, strecke die\
+  \ Arme nach vorne oder nimm die Hände vor die Brust und drehe den Oberkörper langsam\
+  \ zur Seite des vorderen Beins.\nHinweise: Halte das vordere Knie stabil in einer\
+  \ Linie mit den Zehen. Verweile für einige Sekunden in der Drehung oder wiederhole\
+  \ die Bewegung dynamisch 5–8 Mal pro Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

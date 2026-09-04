@@ -2,10 +2,23 @@ exercise_id: '2538'
 language: it
 status: ai_reviewed
 translated_from: en
-name: Alzate laterali isometriche
+name: Alzate laterali isometriche ai cavi
+description: |-
+  Posizione di partenza:
+  Posizionati accanto a una carrucola bassa regolata a livello del pavimento. Impugna la maniglia con il braccio lungo il fianco e il gomito leggermente flesso. Mantieni una postura stabile con il core attivato.
+
+  Esecuzione:
+  1. Solleva il braccio lateralmente lungo il piano scapolare fino a raggiungere l'altezza della spalla (braccio parallelo al pavimento).
+  2. Trattieni la posizione sollevata in modo statico contro la trazione continua del cavo per il tempo stabilito, massimizzando la contrazione del deltoide laterale.
+  3. Abbassa lentamente il braccio tornando alla posizione iniziale in modo fluido e controllato.
+
+  Note:
+  Evita di alzare la spalla verso l'orecchio o di oscillare con il busto. Mantieni fissa la leggera piega del gomito per tutta la tenuta.
+search_terms:
+- Alzate laterali isometriche
+- Lateral Raise Isometric
+- Alzate laterali al cavo statiche
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5009'
-description: |-
-  Esercizio per i deltoidi in cui mantieni le braccia sollevate lateralmente all'altezza delle spalle in modo statico per il tempo stabilito, mantenendo una tensione continua senza oscillazioni.

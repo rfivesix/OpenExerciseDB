@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1755'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Y-Zug für die Schulter
-description: Kreuze die Kabel an einem Kabelzugturm und ziehe die Ellbogen nah am Körper zur Decke.
+description: "Ausgangsposition:\nBefestige D-Griffe an den niedrigsten Umlenkrollen\
+  \ eines doppelten Kabelzugs. Stelle dich mittig zwischen die Türme und greife die\
+  \ Griffe über Kreuz (linke Hand an das rechte Kabel, rechte Hand an das linke Kabel).\
+  \ Die Arme sind vor dem Becken gekreuzt, die Knie leicht gebeugt.\n\nAusführung:\n\
+  1. Ziehe beide Arme mit leicht gebeugten Ellenbogen diagonal nach oben und außen,\
+  \ sodass dein Körper und deine Arme am oberen Punkt eine „Y“-Form bilden.\n2. Ziehe\
+  \ dabei die Schulterblätter aktiv nach hinten und unten zusammen und fokussiere\
+  \ dich auf den unteren Trapezius und den seitlichen Deltamuskel.\n3. Senke die Arme\
+  \ langsam und kontrolliert entlang derselben diagonalen Bahn wieder ab, bis sie\
+  \ sich vor deinem Körper kreuzen.\n\nHinweise:\nVermeide Schwung und halte den Kopf\
+  \ neutral; diese Übung stärkt wichtige Schulterblatt-Stabilisatoren."
+search_terms:
+  - Cable Y-Raise
+  - Shoulder Y-pull cable
+  - Kabelzug Y-Heben
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2892'

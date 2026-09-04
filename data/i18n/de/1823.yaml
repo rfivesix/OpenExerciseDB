@@ -1,17 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1823'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Clamshell (Muschel)
-description: |-
-  Position
-  Seitlicher Unterarmstütz, mit Ellenbogen und Unterarm auf dem Boden und leicht gebeugten Beinen.
-  Ausführung
-  Hebe dein oberes Knie an, während du deine Füße eng beieinander hältst, wie eine sich „öffnende Muschel“, und kehre dann langsam in die Ausgangsposition zurück. Halte deinen Rumpf stabil und deine Hüften ausgerichtet.
+description: "Ausgangsposition:\nLege dich seitlich auf eine Trainingsmatte. Winkle\
+  \ die Hüften etwa 45 Grad und die Knie etwa 90 Grad an. Lege die Beine exakt aufeinander,\
+  \ sodass die Fersen fest zusammenbleiben. Stütze deinen Kopf entspannt mit dem unteren\
+  \ Arm ab und lege die obere Hand zur Stabilisierung vor deinem Bauch auf den Boden.\n\
+  \nAusführung:\n1. Halte deine Fersen fest zusammen und öffne das obere Knie langsam\
+  \ nach oben zur Decke, wie eine sich öffnende Muschel.\n2. Rotiere das Knie so weit\
+  \ nach oben, wie es geht, ohne dass dein Becken nach hinten wegdreht.\n3. Spanne\
+  \ die seitliche Gesäßmuskulatur (Gluteus medius) am obersten Punkt für 1 bis 2 Sekunden\
+  \ fest an.\n4. Senke das Knie langsam und kontrolliert wieder ab, bis es das untere\
+  \ Knie fast berührt, und starte die nächste Wiederholung.\n\nHinweise:\nHalte das\
+  \ Becken vollkommen stabil und senkrecht zum Boden; drehe die Hüfte nicht nach hinten\
+  \ auf. (Als fortgeschrittene Variante kann die Übung auch im seitlichen Unterarmstütz\
+  \ ausgeführt werden)."
+search_terms:
+  - Clamshell
+  - Muschel Übung
+  - Clamshells
+  - Hüftaußenrotation Liegen
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

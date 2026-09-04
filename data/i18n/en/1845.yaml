@@ -5,12 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1845'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Seated Pancake Good Morning
-description: |-
-  Sit with your legs completely straight (knees locked), spread wide in a straddle position.
-  Place your hands on the back of your neck.
-  Hinge your torso and head towards the floor.
+description: "Starting Position: Sit tall on the floor in a wide straddle (pancake)\
+  \ position with your legs straight, knees extended, and toes pointing upward. Place\
+  \ your hands lightly behind your head.\nExecution: Keeping your spine flat and chest\
+  \ open, hinge forward from your hips toward the floor until you feel a strong stretch\
+  \ in your inner thighs and hamstrings.\nTips: Engage your glutes and hamstrings\
+  \ to return smoothly to the upright position. Avoid hunching through your upper\
+  \ back."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

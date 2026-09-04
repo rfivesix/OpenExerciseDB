@@ -1,15 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1948'
 language: en
-status: upstream_unreviewed
-name: 1 Leg Box Squat
-description: |-
-  This exercise requires a sturdy box or a chair. Simple stand ~6 inches in front of it and balance yourself on one leg. From here, begin squatting down in a smooth controlled motion while keeping your other leg straight out in front of you for balance. Slowly sit down on the box, pause for a 1 count and push back up with the working leg, while never letting your other leg touch the ground.
+status: ai_reviewed
+name: Cossack Squat
+description: 'Starting position:
+
+  Stand in a wide sumo stance with your feet well outside shoulder-width and your toes angled slightly outward. Keep your torso upright and clasp your hands in front of your chest.
+
+
+  Execution:
+
+  Shift your bodyweight onto one leg and squat deeply while keeping the opposite leg fully extended out to the side. As you descend, rotate the foot of the straight leg upward so your toes point to the ceiling with your heel anchored on the floor. Sink as low as your mobility allows while keeping the heel of your working foot flat on the ground and your chest proud. Drive through your working heel to return to center and smoothly descend onto the opposite side.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine (5-10 reps each side). Builds unilateral leg strength while dramatically improving adductor flexibility and ankle dorsiflexion.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: jesusd
   source_id: '3099'
+search_terms:
+- 1 Leg Box Squat
+- Cossack Squats
+- Lateral Squat
+- Deep Side Squat
+- Limber 11 Cossack Squat

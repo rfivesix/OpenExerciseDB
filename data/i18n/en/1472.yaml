@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1472'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Shrug-In
-description: Attach two D-Handles to two low cables and shrug in using your upper traps.
+description: |-
+  Starting Position:
+  Attach two D-handles to the lowest pulley settings on a dual cable station. Stand upright in the center between the towers with feet shoulder-width apart, holding each handle with your arms straight at your sides, aligning with the angle of the cables.
+
+  Execution:
+  1. With arms kept straight, shrug your shoulders upward and slightly inward toward your ears, matching the line of pull from the cables.
+  2. Squeeze your upper trapezius muscles hard at the top of the movement for a full one-second pause.
+  3. Lower your shoulders slowly and under control back down into a full stretch.
+
+  Cues:
+  The diagonal inward pull of the cables matches the anatomical fiber orientation of the upper traps better than vertical barbell shrugs. Keep your elbows locked throughout.
+search_terms:
+  - Cable Shrug In
+  - Cable Inward Shrug
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -5,12 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1844'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Froschdehnung
-description: |-
-  Begib dich in den Vierfüßlerstand.
-  Spreize deine Knie weit nach außen und senke dich auf deine Ellbogen ab.
-  Wippe, ohne deine Ellbogen oder Knie zu bewegen, langsam vor und zurück und versuche, dein Gesäß näher an deine Füße zu bringen.
+description: "Ausgangsposition: Begib dich in den Vierfüßlerstand und spreize die\
+  \ Knie weit nach außen. Die Unterschenkel zeigen nach hinten und die Fußinnenseiten\
+  \ liegen flach auf der Matte. Stütze dich auf die Unterarme ab.\nAusführung: Schiebe\
+  \ dein Gesäß mit geradem Rücken langsam nach hinten in Richtung Fersen, bis eine\
+  \ intensive Dehnung in den Hüftadduktoren entsteht.\nHinweise: Wippe sanft und kontrolliert\
+  \ vor und zurück oder halte die tiefste Dehnung für 20–30 Sekunden. Atme gleichmäßig\
+  \ weiter."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

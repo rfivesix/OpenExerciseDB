@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2486'
 language: en
-status: upstream_unreviewed
-name: Recovery Bobbing
+status: ai_reviewed
+name: Deep-Water Recovery Bobbing
 description: |-
-  Same motion as the Bobbing Exhale Drill, but done in slightly deeper water (so you're not touching the bottom) and at a slower, more relaxed pace — think of it as a recovery/reset exercise rather than a hard drill. Use it between harder drills to reset your breathing rhythm and calm down if you're feeling rushed or out of sync.
+  Starting Position:
+  Position yourself in slightly deeper water where you cannot easily touch bottom. Remain relaxed and vertical in the water.
+
+  Execution:
+  1. Inhale calmly through your mouth above the surface.
+  2. Allow yourself to submerge gently and exhale smoothly, slowly, and completely through your nose and mouth underwater.
+  3. Use a gentle sculling motion with your hands or an easy kick to guide your head back above the surface.
+  4. Inhale quietly and sink back under in a calm, unhurried rhythm.
+
+  Cues:
+  Treat this as a restorative drill between demanding swim sets to calm your heart rate and reset your respiratory control.
+search_terms:
+- Recovery Bobbing
+- Deep Water Bobbing
+- Swim Recovery Drill
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

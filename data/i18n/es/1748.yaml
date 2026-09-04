@@ -1,35 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1748'
 language: es
-status: upstream_unreviewed
-name: Abducción en máquina
-description: |-
-  Técnica y ejecución
-  Posición inicial
-  Posición sentada: Siéntese en la máquina con la espalda apoyada en la almohadilla. Colocación de las piernas: La parte interna de los muslos contra los puntos de resistencia acolchados de la máquina. Ajuste de la máquina: Ajuste la posición del asiento para alinear la articulación de la cadera con el punto de pivote de la máquina.
-  Técnica de movimiento
-  Comience con las piernas juntas o ligeramente presionadas contra las almohadillas internas. Empuje lentamente las piernas hacia afuera, separándolas. Muévase hasta alcanzar el máximo rango lateral cómodo. Haga una breve pausa en el punto final del movimiento. Regrese lentamente a la posición inicial con un movimiento controlado.
-  Desglose biomecánico
-  Activación muscular
-  Activación principal: Glúteo medio (músculo lateral de la cadera)
-  Estabilización: Activa los músculos del core y la zona lumbar.
-  Movimiento funcional: Imita el movimiento lateral de las piernas utilizado al caminar, practicar deportes y realizar actividades diarias.
-  Beneficios
-  Fuerza y ​​estabilidad
-  Mejora la estabilidad de la cadera
-  Reduce el riesgo de lesiones de rodilla
-  Mejora la capacidad de movimiento lateral
-  Trabaja grupos musculares a menudo descuidados
-  Rehabilitación y prevención
-  Beneficioso para:
-  Corredores
-  Atletas de deportes de movimiento lateral
-  Personas que se recuperan de lesiones en la parte inferior del cuerpo
-  Prevención de la desalineación de cadera y rodilla
+status: ai_reviewed
+name: Abducción de cadera en máquina
+description: "Posición inicial:\nSiéntate en la máquina de abducción con la espalda\
+  \ bien apoyada en el respaldo. Coloca la parte externa de los muslos y rodillas\
+  \ contra las almohadillas acolchadas. Apoya los pies en los soportes y sujeta los\
+  \ agarres laterales para estabilizar la pelvis.\n\nEjecución:\n1. Empuja las piernas\
+  \ hacia afuera separándolas mediante la fuerza del glúteo medio y los abductores\
+  \ de cadera.\n2. Abre al máximo rango de movimiento y mantén la contracción durante\
+  \ 1 a 2 segundos en el punto final.\n3. Regresa lentamente juntando las piernas\
+  \ de manera controlada sin que las placas de peso choquen.\n\nConsejos:\nMantén\
+  \ el torso estable y evita balancearte hacia adelante o atrás durante el movimiento."
+search_terms:
+  - Abducción en máquina
+  - Máquina de abductores
+  - Hip Abduction Machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

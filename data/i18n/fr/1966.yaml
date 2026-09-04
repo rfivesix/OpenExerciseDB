@@ -1,17 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1966'
 language: fr
-status: upstream_unreviewed
-name: Rotation thoracique à demi-genou
-description: |-
-  Commencez en position de demi-genou, la jambe éloignée du mur étant stabilisée contre le mur à l'aide d'un ballon.
-  Les deux mains tendues directement devant vous, ouvrez un bras en rotation en cherchant à atteindre le mur derrière vous.
-  Expirez pendant la rotation, inspirez en revenant à la position neutre, puis répétez.
+status: ai_reviewed
+name: Rotation thoracique en fente basse contre un mur
+description: 'Position de départ :
+
+  Placez-vous en position de chevalier servant (un genou au sol) à côté d''un mur, la jambe avant fléchie à 90 degrés du côté du mur. Vous pouvez coincer un ballon en mousse entre votre genou avant et le mur pour stabiliser le bassin. Tendez les deux bras devant vous à hauteur d''épaules.
+
+
+  Exécution :
+
+  Ouvrez le bras extérieur vers l''arrière dans un grand mouvement circulaire en tournant le haut du buste et le regard. Gardez le genou avant et les hanches orientés droit devant sans bouger. Maintenez l''ouverture maximale pendant 1 à 2 secondes puis ramenez le bras vers l''avant.
+
+
+  Conseils :
+
+  Ce calage contre le mur isole la rotation dans la colonne thoracique sans laisser la région lombaire compenser.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4398'
+search_terms:
+- Rotation thoracique à demi-genou
+- Rotation thoracique en demi-chevalier
+- Half-Kneeling Thoracic Rotation

@@ -1,18 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1809'
 language: de
-status: upstream_unreviewed
-name: Umgekehrte Hyperextension
-description: |-
-  Lege dich mit dem Gesicht nach unten auf eine Bank, sodass deine Beine über die Kante hinausragen.
-
-  Beuge deine Hüften, sodass deine Oberschenkel senkrecht stehen, und beuge gleichzeitig die Knie, sodass deine Unterschenkel waagerecht bleiben.
-  Strecke deine Beine, sodass sie nicht mehr gebeugt sind und deine Fußspitzen waagerecht nach hinten zeigen.
-  Kehre in die Ausgangsposition zurück und wiederhole die Bewegung.
+status: ai_reviewed
+name: Umgekehrte Hyperextension (Reverse Hyperextension)
+description: "Ausgangsposition:\nLege dich bauchlings auf eine Flachbank oder eine\
+  \ Reverse-Hyper-Maschine, sodass dein Becken genau an der Kante abschließt und deine\
+  \ Beine frei nach unten hängen. Halte dich mit den Händen an der Bank oder an den\
+  \ Griffen der Maschine fest, um den Oberkörper zu fixieren.\n\nAusführung:\n1. Spanne\
+  \ Gesäß und Beinbeuger fest an und hebe die gestreckten (oder minimal angewinkelten)\
+  \ Beine kontrolliert nach hinten oben an.\n2. Hebe die Beine an, bis sie eine gerade\
+  \ Linie mit deinem Oberkörper bilden, und spanne die Gesäßmuskulatur am obersten\
+  \ Punkt für 1 Sekunde maximal an.\n3. Senke die Beine langsam und kontrolliert wieder\
+  \ ab, ohne ins Schwingen zu geraten.\n\nHinweise:\nÜberstrecke die Lendenwirbelsäule\
+  \ am obersten Punkt nicht übermäßig; die Bewegung soll gezielt aus der Hüftstreckung\
+  \ von Gesäß und Beinbeugern kommen."
+search_terms:
+  - Reverse Hyperextension
+  - Umgekehrte Hyperextension
+  - Reverse Hyper
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

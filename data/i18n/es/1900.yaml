@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1900'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensiones de tríceps con cuerda en polea
-description: |-
-  Preparación: Ponte de pie frente a la polea, con los pies a la anchura de los hombros y una ligera inclinación hacia delante.
-  Agarre: Sujeta la cuerda con las palmas mirándose entre sí y los codos pegados a las costillas.
-  Ejecución: Empuja la cuerda hacia abajo hasta que los brazos queden completamente estirados, separando los extremos en la parte baja.
-  Control: Mantén los brazos superiores quietos y vuelve a la posición inicial con un movimiento lento y controlado.
+description: "Preparación: Ponte de pie frente a la polea, con los pies a la anchura\
+  \ de los hombros y una ligera inclinación hacia delante.\nAgarre: Sujeta la cuerda\
+  \ con las palmas mirándose entre sí y los codos pegados a las costillas.\nEjecución:\
+  \ Empuja la cuerda hacia abajo hasta que los brazos queden completamente estirados,\
+  \ separando los extremos en la parte baja.\nControl: Mantén los brazos superiores\
+  \ quietos y vuelve a la posición inicial con un movimiento lento y controlado."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1724'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Adduction debout (poulie)
 description: |-
   Gardez les hanches bien parallèles et immobiles, en tirant le câble en travers de votre jambe opposée en utilisant uniquement l'intérieur de la cuisse.

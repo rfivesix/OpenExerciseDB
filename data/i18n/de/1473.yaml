@@ -1,11 +1,22 @@
 exercise_id: '1473'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Reverse Kabelzug-Fliegende
 description: |-
-  Befestige D-Griffe an zwei Kabelzügen in oberer Position. Greife den linken mit der rechten Hand und umgekehrt.
+  Ausgangsposition:
+  Stelle zwei Seilzüge auf Schulter- oder Kopfhöhe ein. Greife die Kabel über Kreuz (den linken Zug mit der rechten Hand und den rechten Zug mit der linken Hand), vorzugsweise direkt am Karabiner oder mit Griffen. Stelle dich mittig hin, halte die Arme vor der Brust gestreckt mit minimal gebeugten Ellenbogen.
+
+  Ausführung:
+  1. Führe beide Arme gleichzeitig in einer weiten Bogenbewegung horizontal nach hinten und außen, bis die Ellenbogen auf Höhe der Schultern sind.
+  2. Spanne die hintere Schulter (hinterer Deltamuskel) und den oberen Rücken am Ende der Bewegung maximal an.
+  3. Führe die Arme langsam und kontrolliert wieder vor den Körper zurück, ohne dass sich die Gewichte absetzen.
+
+  Hinweise:
+  Halte die Ellenbogen während der gesamten Bewegung in einem leichten, festen Winkel. Vermeide Schwung aus dem Rumpf.
+search_terms:
+  - Reverse Cable Flye
+  - Vorgebeugte Reverse Flys am Kabelzug
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

@@ -1,13 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1717'
 language: es
-status: upstream_unreviewed
-name: Codo unilateral polea alta
-description: Ejerecicio realizado en polea alta, de espaldas a la polea. Unilateral
+status: ai_reviewed
+name: Extensión unilateral de tríceps en polea alta
+description: |-
+  Posición inicial:
+  Colócate de espaldas a la polea alta. Sujeta la empuñadura individual por encima de la cabeza con una mano, manteniendo el codo flexionado y orientado hacia delante.
+  
+  Ejecución:
+  1. Manteniendo el brazo inmóvil, extiende el codo empujando el cable hacia delante y abajo hasta extender casi por completo el brazo.
+  2. Aprieta el tríceps con fuerza en el punto de máxima contracción.
+  3. Regresa lentamente a la posición inicial sintiendo el estiramiento del tríceps.
+  
+  Consejos:
+  Mantén el core firme y el torso estable para evitar balanceos.
+search_terms:
+  - Codo unilateral polea alta
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

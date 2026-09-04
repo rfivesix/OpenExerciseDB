@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1929'
 language: en
-status: upstream_unreviewed
-name: Assisted Pull-Up
-description: |-
-  The Assisted Pull-Up is a compound vertical pulling exercise performed on a machine with a counterweight platform or by using resistance bands. It mimics the mechanics of a standard pull-up but reduces the total weight you have to lift, making it an excellent tool for building functional strength and perfecting your technique.
+status: ai_reviewed
+name: Straight-Arm Band Pulldown
+description: 'Starting position:
+
+  Anchor a resistance band overhead to a pull-up bar or high anchor point. Stand facing the anchor, grasp the band with both hands using an overhand grip, and step back until tension is established. Hinge slightly forward at your hips with a flat back and extend your arms overhead with a slight, locked bend in your elbows.
+
+
+  Execution:
+
+  Pull the band downward in a sweeping arc toward your thighs, driving the motion strictly through your lats. Squeeze your lats and rear delts firmly at the bottom for one full second. Slowly allow the band to return upward under control until you feel a complete stretch along your sides.
+
+
+  Tips:
+
+  Keep your elbows rigid; do not bend or extend at the elbow joint during the pull, as that shifts tension from the lats to the triceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3078'
+search_terms:
+- Assisted Pull-Up
+- Straight Arm Band Pull Down
+- Banded Lat Pulldown Straight Arm
+- Resistance Band Straight Arm Pulldown

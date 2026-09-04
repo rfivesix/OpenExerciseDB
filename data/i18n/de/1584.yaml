@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1584'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Auf der Stelle marschieren oder joggen
 description: |-
-  Gelenkschonende Herz-Kreislauf-Übung, die das Laufen ohne Fortbewegung simuliert. Ideal zum Aufwärmen, zur Verbesserung der Ausdauer oder zum Training auf kleinem Raum.
+  Ausgangsposition:
+  Stelle dich aufrecht hin, die Füße hüftbreit auseinander, die Knie leicht gebeugt. Richte den Oberkörper auf, halte die Schultern entspannt und winkle die Arme im 90-Grad-Winkel seitlich an.
+
+  Ausführung:
+  Hebe abwechselnd ein Knie in Richtung Hüfthöhe an und setze den Fuß wieder sanft auf den Ballen ab. Führe die Arme gegenläufig im Rhythmus wie bei einer normalen Laufbewegung mit. Führe die Bewegung als gelenkschonenden Marsch aus oder steigere das Tempo zu einem leichten Joggen auf der Stelle.
+
+  Hinweise:
+  - Lande sanft auf den Fußballen und federe leicht ab, um Gelenke und Sehnen zu schonen.
+  - Halte den Oberkörper aufrecht und vermeide Vor- oder Rückneigen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

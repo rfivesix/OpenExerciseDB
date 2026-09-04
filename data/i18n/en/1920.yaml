@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1920'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extreme Shoulder Stretch
-description: Deep loaded stretch for deltoids, performed after pressing movements.
+description: 'Starting position:
+
+  Stand upright with your back to a flat bench or waist-height bar. Place both hands behind you on the edge, palms facing down, or hold a sturdy post behind you.
+
+
+  Execution:
+
+  Carefully lower your hips or take a small step forward to guide your arms into extension behind your torso. Keep your chest high and shoulder blades drawn together until you feel a deep stretch in the front and lateral deltoids. Hold steadily for 30 to 60 seconds while taking slow, deep breaths.
+
+
+  Tips:
+
+  Do not let your shoulders roll forward or shrug up toward your ears. Perform post-workout to relieve tightness from heavy pressing.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3067'
+search_terms:
+- Loaded Shoulder Stretch
+- Anterior Deltoid Stretch
+- Extreme Shoulder Stretch

@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1683'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl Zottman
 description: |-
   Con las palmas mirando hacia delante, lleva los pesos hacia tus hombros con un curl. Gira las manos de modo que las palmas miren hacia abajo y baja lentamente los pesos. Por último, vuelve a girar las palmas hacia delante.

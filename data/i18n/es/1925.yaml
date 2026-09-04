@@ -1,19 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1925'
 language: es
-status: upstream_unreviewed
-name: Encogimiento Silverback con barra
-description: |-
-  Ponte de pie con los pies a la anchura de los hombros sujetando la barra con ambas manos por delante, algo más ancho que los hombros.
-  Inclínate hacia delante desde las caderas con una ligera flexión de las rodillas, manteniendo la espalda recta.
-  Activa los omóplatos, como si intentaras juntarlos.
-  Suelta el encogimiento.
-  Descripción tomada de MuscleWiki
+status: ai_reviewed
+name: Encogimientos Silverback con barra
+description: 'Posición inicial:
+
+  Ponte de pie con los pies a la anchura de los hombros sosteniendo una barra con agarre prono algo más ancho que los hombros. Flexiona ligeramente las rodillas e inclina el torso hacia delante unos 45 grados manteniendo la espalda recta. La barra cuelga verticalmente con los brazos rectos.
+
+
+  Ejecución:
+
+  Sin doblar los codos, eleva y junta las escápulas hacia arriba y hacia atrás. Aprieta con fuerza la parte media del trapecio y los romboides en la cima durante un segundo. Baja la barra despacio y con control hasta estirar por completo antes de repetir.
+
+
+  Consejos:
+
+  Mantén la columna lumbar neutra y evita dar impulsos con las piernas o las caderas.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4286'
+search_terms:
+- Encogimiento Silverback con barra
+- Silverback Shrug con barra

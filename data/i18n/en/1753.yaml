@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1753'
 language: en
-status: upstream_unreviewed
-name: Side lateral raise - Back (Cable)
-description: |-
-  on a cable rack do a side lateral raise with the cable behind you. focus on tension in the front of the shoulder.
+status: ai_reviewed
+name: Behind-the-Back Cable Lateral Raise
+description: "Starting Position:\nStand sideways next to a low cable pulley. Grasp\
+  \ the single D-handle with your far (outer) hand with the cable running behind your\
+  \ hips and back. Hold onto the cable tower with your inside hand and lean slightly\
+  \ forward for balance.\n\nExecution:\n1. Keeping a slight bend in your working elbow,\
+  \ raise your arm out to the side until your upper arm is parallel to the floor.\n\
+  2. Squeeze your lateral deltoid at the top of the range of motion.\n3. Slowly lower\
+  \ the handle back behind your body, feeling the continuous resistance in the side\
+  \ shoulder.\n\nCues:\nRunning the cable behind your back prevents friction against\
+  \ your hips and maintains pure lateral deltoid recruitment without trap takeover."
+search_terms:
+  - Side lateral raise - Back (Cable)
+  - Behind the Back Lateral Raise
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2890'

@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1713'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement des pectoraux dans l'encadrement de porte
 description: |-
   Placez l'avant-bras à la verticale contre un encadrement de porte ou un objet fixe, à hauteur de la tête

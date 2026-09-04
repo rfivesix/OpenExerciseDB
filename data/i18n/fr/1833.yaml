@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1833'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl des ischio-jambiers avec sliders au sol
-description: |-
-  Allongez-vous sur le dos, les talons posés sur des sliders ou des serviettes. Soulevez les hanches en position de pont, puis faites glisser les talons vers les fessiers tout en gardant les hanches relevées. Revenez lentement à la position de départ en maintenant le pont de hanches.
+description: "Position de départ :\nAllongez-vous sur le dos, les talons posés sur\
+  \ des disques glissants (sliders) ou des serviettes. Montez le bassin en pont fessier\
+  \ pour aligner les genoux, le bassin et les épaules.\n\nExécution :\n1. En gardant\
+  \ le bassin surélevé, faites glisser lentement les talons vers l'avant jusqu'à ce\
+  \ que les jambes soient presque entièrement tendues.\n2. Sans poser les fessiers\
+  \ au sol, tirez vigoureusement sur les talons pour les ramener vers les fessiers\
+  \ en contractant les ischio-jambiers.\n3. Poussez le bassin vers le haut au retour\
+  \ sous les genoux.\n\nConseils :\nConservez les hanches hautes tout au long du mouvement\
+  \ pour maintenir une tension constante sur les ischio-jambiers."
+search_terms:
+  - Curl ischio-jambiers sliders
+  - Slider leg curl
+  - Floor Glider Hamstring Curls
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

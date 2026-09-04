@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1686'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Puente de glúteos con press a un brazo
 description: |-
   Con una mancuerna en la mano, realiza un puente de glúteos. Ahora sostén la mancuerna por encima del pecho, esta es la posición inicial de la repetición. Baja la mancuerna hasta que el codo toque el suelo o quede aproximadamente 45 grados por debajo del hombro si usas un banco. Empuja la mancuerna de nuevo hasta la posición inicial.

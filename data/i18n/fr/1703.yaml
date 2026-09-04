@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1703'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensions des triceps en kickback
 description: |-
   Le kickback avec haltère est un exercice de musculation populaire qui cible les triceps, à l'arrière du haut des bras. Il aide à renforcer et à tonifier les triceps, contribuant à la force et à l'esthétique générales des bras.

@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1795'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón cruzado unilateral en polea
-description: |-
-  En una torre de poleas, coloca la polea en una posición alta y, con el brazo recto, tira del cable de arriba hacia abajo cruzándolo por delante de ti. Concéntrate en la tensión del hombro posterior.
+description: "Posición inicial:\nAjusta la polea a la posición más alta. Colócate\
+  \ ligeramente desfasado de la torre de modo que el cable cruce diagonalmente frente\
+  \ a tu torso. Sujeta el agarre con la mano contraria, inclina el torso levemente\
+  \ hacia adelante y permite que el brazo se estire en línea con el cable.\n\nEjecución:\n\
+  1. Tira del cable en un arco diagonal descendente hacia tu cadera, manteniendo el\
+  \ codo casi recto con una mínima flexión fija.\n2. Conduce el codo pegado al costado\
+  \ apretando con fuerza el dorsal ancho en el punto de máxima contracción.\n3. Regresa\
+  \ lentamente a lo largo de la misma trayectoria diagonal hasta sentir el estiramiento\
+  \ completo del dorsal.\n\nConsejos:\nLa trayectoria diagonal en polea coincide con\
+  \ la dirección de las fibras del dorsal ancho para un estímulo óptimo."
+search_terms:
+  - Jalón cruzado unilateral en polea
+  - Cross-Body Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

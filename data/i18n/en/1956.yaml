@@ -1,19 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1956'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Fire Hydrant Circles
-description: |-
-  Fire Hydrant Circles
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 10 forward / 10 backward
-  Type: dynamic
+description: 'Starting position:
+
+  Begin on all fours on an exercise mat with your hands beneath your shoulders and your knees beneath your hips. Keep your core braced and spine neutral.
+
+
+  Execution:
+
+  Keeping your working knee bent at 90 degrees, lift it out to the side like a fire hydrant and trace a large, smooth circle with your hip and knee. Complete 10 large circles in a forward direction, then immediately reverse and complete 10 circles in a backward direction. Repeat the sequence on the opposite leg.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Avoid twisting or tilting your pelvis; isolate the circular motion strictly to the hip capsule to activate the gluteus medius.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3107'
+search_terms:
+- Fire Hydrant Circles
+- Hip CARs Quadruped
+- Quadruped Hip Circles
+- Limber 11 Fire Hydrant

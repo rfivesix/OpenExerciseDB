@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2490'
 language: it
-status: upstream_unreviewed
-name: Rematore con triangolo - busto eretto
+status: ai_reviewed
+name: Rematore al cavo basso con triangolo
 description: |-
-  Basato sulla macchina Pulley sel. di Technogym. Tieni il triangolo con entrambe le mani e, a busto eretto, porta il peso verso l'ombelico.
+  Posizione di partenza:
+  Siediti alla stazione per pulley basso e aggancia la maniglia a triangolo (V-bar). Appoggia i piedi sulle pedane con ginocchia leggermente flesse e afferra la maniglia con la schiena diritta e il petto aperto.
+
+  Esecuzione:
+  1. Tira la maniglia verso l'ombelico guidando i gomiti indietro vicini ai fianchi.
+  2. Stringi le scapole nel punto di massima contrazione per un secondo.
+  3. Rilascia lentamente il peso in avanti controllando il movimento senza inarcare la colonna vertebrale.
+
+  Consigli:
+  Evita oscillazioni eccessive del busto; mantieni il core solido per isolare i muscoli dorsali.
+search_terms:
+- Rematore con triangolo - busto eretto
+- Pulley basso con triangolo
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

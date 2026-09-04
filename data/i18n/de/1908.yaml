@@ -1,11 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1908'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Butterfly Superman
-description: Lege dich auf den Bauch, verschränke die Finger hinter dem Kopf, hebe den Kopf an und hebe die Ellbogen so weit wie möglich an.
+name: Butterfly-Superman (Superman mit Händen am Hinterkopf)
+description: 'Ausgangsposition:
+
+  Lege dich bauchlings auf eine Trainingsmatte. Strecke die Beine lang nach hinten aus und verschränke die Finger am Hinterkopf, sodass die Ellbogen weit nach außen zeigen.
+
+
+  Ausführung:
+
+  Hebe den Kopf, die Brust und die Ellbogen gleichzeitig kontrolliert vom Boden ab, indem du die Rückenstrecker und die Muskulatur des oberen Rückens anspannst. Ziehe die Schulterblätter aktiv zusammen und führe die Ellbogen so weit wie möglich nach oben. Halte die Spitzenkontraktion für 1–2 Sekunden und senke den Oberkörper langsam wieder ab.
+
+
+  Hinweise:
+
+  Überstrecke den Nacken nicht; halte den Blick nach unten zum Boden gerichtet, um die Halswirbelsäule in einer neutralen Linie zu halten.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3055'
+search_terms:
+- Butterfly Superman
+- Superman Butterfly
+- Bauchlage Rückenstrecken

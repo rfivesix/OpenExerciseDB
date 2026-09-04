@@ -5,28 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1484'
 language: de
-status: upstream_unreviewed
-name: Omni Cable Crossover
+status: ai_reviewed
+name: Kabelzug-Crossover kombiniert (Omni Cable Crossover)
 description: |-
-  Passe die Gewichte je nach
-  Bewegung an. Wenn du von oben nach unten ziehst, erhöhe das Gewicht um 20 % bis 40 %
-  gegenüber der Bewegung von unten nach oben. Das berücksichtigt die Tatsache, dass beim
-  Arbeiten von oben nach unten die obere Brustmuskulatur von Natur aus schwächer ist als
-  die untere Brustmuskulatur. Passe also deinen Gewichtsstapel entsprechend an,
-  um das auszugleichen.
+  Ausgangsposition:
+  Stelle an einer Doppel-Kabelzugstation eine Umlenkrolle auf die höchste Position und die andere auf die niedrigste Position ein. Stelle dich mit leicht versetzten Füßen mittig zwischen die Türme und greife beide Griffe.
 
-  Positioniere ein Kabel auf einer hohen
-  Einstellung und das andere auf der niedrigsten Einstellung. Nimm eine versetzte
-  Standposition zwischen den Kabeltürmen ein.
-  Bei dem niedrig eingestellten Kabel ziehst du es
-  nach oben und quer über deinen Körper. Das beansprucht effektiv die obere Brust.
-  Bei dem hoch eingestellten Kabel ziehst du es
-  nach unten und quer über deinen Körper. Das beansprucht hauptsächlich die untere Brust.
+  Ausführung:
+  1. Führe den tief eingestellten Kabelzug in einer Bogenbewegung nach oben und diagonal über den Körper, um die obere (klavikuläre) Brust anzusprechen.
+  2. Führe den hoch eingestellten Kabelzug in einer Bogenbewegung nach unten und diagonal über den Körper, um die untere (sternokostale) Brust zu fordern.
+  3. Nach Abschluss des Satzes wechselst du die Höheneinstellungen der beiden Kabelzüge und wiederholst die Übung für die andere Seite.
 
-  Wenn du fertig bist, tausche die
-  Positionen der Kabel. Stelle das zuvor hohe Kabel auf die niedrigste
-  Position und umgekehrt. Wiederhole den Übungsablauf und stelle sicher, dass du
-  beide Brustbereiche effektiv ansprichst.
+  Hinweise:
+  Passe die Gewichte an den Zugwinkel an: Bei der Bewegung von oben nach unten ist die Brustmuskulatur meist stärker (ca. 20–40 % mehr Gewicht möglich) als bei der Bewegung von unten nach oben.
+search_terms:
+  - Omni Cable Crossover
+  - Cable Crossover kombiniert
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,11 +1,23 @@
 exercise_id: '2496'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wandliegestütze
 description: |-
-  Benutzerdefinierte Wandliegestütze für Anfänger von Vasco für das Heimtraining ohne Geräte. Teil einer 7-tägigen Periodisierung aus Drücken/Ziehen/Rumpf/Unterkörper/Ganzkörper/Erholung/Ruhe. Aufstehen um 6:30 Uhr, einstündige Einheiten. Schwerpunkt auf stoischer Disziplin.
+  Ausgangsposition:
+  Stelle dich etwa armlang vor eine stabile Wand. Platziere deine Hände flach an der Wand, etwas weiter als schulterbreit und auf Brusthöhe. Trete mit den Füßen einen Schritt nach hinten, sodass dein Körper von Kopf bis Fuß eine leichte Schräglage und eine feste gerade Linie bildet.
+
+  Ausführung:
+  1. Beuge die Ellbogen kontrolliert im ca. 45-Grad-Winkel zum Körper und senke die Brust langsam zur Wand ab, bis die Nase oder Brust die Wand fast berührt.
+  2. Drücke dich kraftvoll und kontrolliert über die Handflächen von der Wand ab, bis die Arme wieder fast gestreckt sind.
+  3. Halte während der gesamten Bewegung die Bauch- und Gesäßmuskulatur angespannt.
+
+  Hinweise:
+  Eine ideale Einsteiger-Progression zur Kräftigung von Brust, Schultern und Trizeps sowie zum Erlernen des Liegestütz-Bewegungsmusters.
+search_terms:
+- Wandliegestütze
+- Wall Push-ups
+- Wandstütz Liegestütze
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4978'

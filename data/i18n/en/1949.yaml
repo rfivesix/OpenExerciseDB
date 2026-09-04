@@ -1,28 +1,36 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1949'
 language: en
-status: upstream_unreviewed
-name: Limber 11
-description: |-
-  Limber 11
-  Source: Joe DeFranco
+status: ai_reviewed
+name: Limber 11 Mobility Routine
+description: 'The Limber 11 routine by Coach Joe DeFranco is a renowned lower-body warm-up and mobility circuit designed to optimize hip function, relieve tightness, and prepare the body for heavy lifting or athletics:
 
-  1. Foam Roll IT Band [soft_tissue] - 10-15 passes
-  2. Foam Roll Adductors [soft_tissue] - 10-15 passes
-  3. SMR Glutes (lax ball) [soft_tissue] - 30 sec-2 min
-  4. Bent-knee Iron Cross [dynamic] - 5-10 reps each side
-  5. Roll-overs into V-sits [dynamic] - 10 reps
-  6. Rocking Frog Stretch [dynamic] - 10 reps
-  7. Fire Hydrant Circles [dynamic] - 10 forward / 10 backward
-  8. Mountain Climbers [dynamic] - 10 reps each leg
-  9. Cossack Squats [dynamic] - 5-10 reps each side
-  10. Seated Piriformis Stretch [isometric] - 20-30 sec each side
-  11. Rear-foot-elevated Hip Flexor Stretch [dynamic + 3s hold] - 5-10 reps each side
+
+  1. Foam Roll IT Band (10-15 passes each side)
+
+  2. Foam Roll Adductors (10-15 passes each side)
+
+  3. SMR Glutes with Lacrosse Ball (30 sec - 2 min each side)
+
+  4. Bent-Knee Iron Cross (5-10 reps each side)
+
+  5. Roll-Overs into V-Sits (10 reps)
+
+  6. Rocking Frog Stretch (10 reps)
+
+  7. Fire Hydrant Circles (10 forward / 10 backward each side)
+
+  8. Mountain Climbers (10 reps each leg)
+
+  9. Cossack Squats (5-10 reps each side)
+
+  10. Seated Piriformis Stretch (20-30 sec each side)
+
+  11. Rear-Foot-Elevated Hip Flexor Stretch (5-10 reps with 3s hold each side)'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3100'
+search_terms:
+- Limber 11
+- Joe DeFranco Limber 11
+- Hip Mobility Routine

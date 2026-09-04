@@ -1,14 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2527'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Spagat-Dehnung
+name: Spagat-Dehnung (Front Split)
 description: |-
-  Beginne im Kniestand.
-  Strecke ein Bein vollständig gerade nach vorn aus. Folge mit der Hüfte, sodass sich das hintere Bein zu strecken beginnt.
-  Senke dich vorsichtig in die Dehnung. Gehe nicht über deine Grenze hinaus.
-  Halte die Dehnung für die erforderliche Zeit.
+  Ausgangsposition:
+  Beginne im halben Kniestand auf einer weichen Matte. Stütze deine Hände seitlich auf Yogablöcken oder dem Boden ab.
+
+  Ausführung:
+  1. Schiebe die Ferse des vorderen Beins langsam nach vorne, während das hintere Knie und der Fuß nach hinten gleiten.
+  2. Senke dein Becken behutsam und kontrolliert in Richtung Boden ab, während beide Beine sich zunehmend strecken.
+  3. Halte das vordere Knie nach oben und die Hüfte möglichst gerade nach vorne ausgerichtet.
+  4. Verweile an deiner persönlichen Dehngrenze (ohne stechenden Schmerz) und atme für 20 bis 30 Sekunden ruhig weiter.
+  5. Drücke dich vorsichtig über die Hände nach oben heraus und wechsle die Seite.
+
+  Hinweise:
+  Forciere die Dehnung niemals ruckartig; nutze Kissen oder Blöcke unter dem vorderen Oberschenkel zur progressiven Annäherung.
+search_terms:
+- Spagat-Dehnung
+- Front Split Stretch
+- Längsspagat Dehnung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

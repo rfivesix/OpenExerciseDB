@@ -1,21 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1910'
 language: en
-status: upstream_unreviewed
-name: Kneeling Superman
-description: |-
-  Push one foot back until leg fully extended, concentrating on the having the foot high and pushed back as if pulled.
+status: ai_reviewed
+name: Kneeling Superman (Bird Dog)
+description: 'Starting position:
+
+  Start on all fours on an exercise mat with hands directly beneath your shoulders and knees under your hips. Maintain a neutral spine and brace your core.
 
 
-  Extend arm forward with focus having the shoulder high up.
+  Execution:
+
+  Simultaneously reach one arm straight forward and extend the opposite leg straight back until both are parallel to the floor and aligned with your torso. Hold this static position for 2 to 3 seconds while maintaining complete core stability. Slowly return to the starting position and repeat on the opposite side.
 
 
-  Unilateral and static hold.
+  Tips:
+
+  Do not allow your hips to tilt or rotate. Keep your neck neutral by looking down at the mat rather than looking forward.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3057'
+search_terms:
+- Kneeling Superman
+- Bird Dog
+- Quadruped Bird Dog

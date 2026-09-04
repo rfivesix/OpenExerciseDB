@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1718'
 language: en
-status: upstream_unreviewed
-name: Remo alto polea alta
-description: High pulley row with support using a single grip
+status: ai_reviewed
+name: Single-Arm High Cable Row
+description: |-
+  Starting position:
+  Set a cable pulley to a high position and attach a single handle. Stand facing the machine in a staggered stance, brace your non-working hand on the machine frame for stability, and grasp the handle with arm extended.
+  
+  Movement:
+  1. Pull the cable handle diagonally toward your upper chest or ribcage, driving your elbow backward.
+  2. Squeeze your shoulder blade and upper back firmly at the end of the pull.
+  3. Slowly extend your arm to return to the starting position under full control.
+  
+  Tips:
+  Keep your torso stationary and avoid twisting your hips or spine during the row.
+search_terms:
+  - Remo alto polea alta
+  - High pulley row
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

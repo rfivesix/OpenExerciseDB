@@ -1,24 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1692'
 language: de
-status: upstream_unreviewed
-name: Incline Smith Press
+status: ai_reviewed
+name: Schrägbankdrücken an der Smith-Maschine
 description: |-
-  * Execution * Start position:
-
-  Unrack the bar and hold it above your upper chest with arms fully extended.
-  Keep your shoulder blades&nbsp;retracted and pressed into the bench.
-  Lowering phase (eccentric):
-  Slowly bring the bar down to just below your collarbone or upper chest.
-  Maintain control — don’t bounce the bar.
-  Pressing phase (concentric):
-  Push the bar upward in a straight line until your arms are fully extended.
-  Focus on&nbsp;squeezing your upper chest&nbsp;at the top.
-  Lock and repeat:
-  Complete your reps, then safely rack the bar back into the hooks.
+  Ausgangsposition:
+  Lege dich auf eine um etwa 30 bis 45 Grad geneigte Schrägbank unter die geführte Langhantel der Smith-Maschine. Greife die Stange im schulterweiten Obergriff, entriegele sie und halte sie mit gestreckten Armen über der oberen Brust. Die Schulterblätter bleiben nach hinten unten fixiert.
+  
+  Ausführung:
+  1. Senke die Stange langsam und kontrolliert ab, bis sie knapp oberhalb des Schlüsselbeins bzw. der oberen Brust ankommt.
+  2. Drücke die Stange kraftvoll entlang der Schienen nach oben zurück, bis die Arme gestreckt sind, ohne die Ellbogen zu überstrecken.
+  3. Fokussiere dich am obersten Punkt auf eine intensive Kontraktion der oberen Brustmuskulatur.
+  4. Nach Beendigung des Satzes die Stange sicher in den Haltehaken der Führung verriegeln.
+search_terms:
+  - Incline Smith Press
+  - Schrägbankdrücken an der Multipresse
 upstream:
   license: CC-BY-SA-4.0

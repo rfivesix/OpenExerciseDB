@@ -1,11 +1,23 @@
 exercise_id: '2499'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Erhöhte Liegestütze (Incline Push-ups)
+name: Erhöhte Liegestütze (Incline Push-Ups)
 description: |-
-  Benutzerdefinierte Progression erhöhter Liegestütze von Vasco für das Heimtraining für Anfänger. Überbrückt Wandliegestütze und Liegestütze am Boden. Teil des Push-Tags am Montag.
+  Ausgangsposition:
+  Stelle deine Hände etwas weiter als schulterbreit auf eine stabile erhöhte Fläche (z. B. Hantelbank, Tisch oder Stufe). Trete mit den Füßen nach hinten, sodass dein Körper von Kopf bis Fersen eine vollkommen gerade Linie bildet.
+
+  Ausführung:
+  1. Senke die Brust langsam und kontrolliert ab, indem du die Ellbogen im 45-Grad-Winkel beugst, bis deine Brust die Kante der Erhöhung fast berührt.
+  2. Halte die Rumpf- und Gesäßmuskulatur fest angespannt, ohne im unteren Rücken durchzuhängen.
+  3. Drücke dich kraftvoll über die Hände zurück nach oben in die gestreckte Ausgangsposition.
+
+  Hinweise:
+  Je höher die gewählte Auflagefläche, desto leichter fällt die Übung. Ideal als fließende Progression zwischen Wandliegestützen und regulären Bodenliegestützen.
+search_terms:
+- Erhöhte Liegestütze (Incline Push-ups)
+- Incline Push-Ups
+- Liegestütze auf Erhöhung
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4981'

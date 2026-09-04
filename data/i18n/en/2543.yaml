@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2543'
 language: en
-status: upstream_unreviewed
-name: Wrist circles
+status: ai_reviewed
+name: Wrist Circles
 description: |-
-  Wrist circles is warm-up exercise, where you rotate your wrists in a circular motion. They improve mobility and are recommended before exercises such as pull ups, hand stands and other exercises that put pressure on your wrists.
+  Starting Position:
+  Sit or stand tall with relaxed shoulders. Interlace your fingers together in front of your chest, or make loose fists with both hands held in front of you with elbows comfortably bent.
+
+  Execution:
+  1. Roll your wrists in slow, smooth circular motions through their full comfortable range of motion in a clockwise direction.
+  2. After the designated time (e.g., 15 to 30 seconds), reverse the motion and rotate counter-clockwise.
+  3. Focus on fluid movement, feeling the gentle activation and stretching through the wrist flexors and extensors.
+
+  Cues:
+  Keep the movement smooth and pain-free; never force the wrist into sharp angles. This is an ideal warm-up prior to pressing, handstands, front squats, or pull-ups to prepare the wrists for load.
+search_terms:
+- Wrist circles
+- Wrist Rotations
+- Wrist Mobility Circles
+- Hand Circles
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex

@@ -1,18 +1,30 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1542'
 language: de
-status: upstream_unreviewed
-name: Wide Pull Up
-description: |-
-  The grip width for a wide grip pull-up is typically wider than
-  shoulder-width apart, which means your hands will be positioned farther
-  apart than they would be for a standard pull-up. This wider grip targets
-  the latissimus dorsi muscles more effectively, making it an excellent
-  exercise for building upper body strength, particularly in the back
-  muscles.
+status: ai_reviewed
+name: Klimmzug mit breitem Griff
+description: 'Ausgangsposition:
+
+  Hänge dich an eine Klimmzugstange mit einem Überhandgriff, der deutlich breiter
+  als schulterbreit ist. Der Körper hängt lang gestreckt, die Schulterblätter sind
+  aktiv fixiert.
+
+
+  Ausführung:
+
+  1. Ziehe deinen Körper kraftvoll nach oben, indem du die Ellbogen nach unten und
+  außen führst, bis das Kinn die Stange passiert.
+
+  2. Spanne den Latissimus am obersten Punkt maximal an.
+
+  3. Senke dich langsam und kontrolliert wieder in den vollen Hang ab.
+
+
+  Hinweise:
+
+  Der breite Griff betont vor allem die oberen Fasern des Musculus latissimus dorsi
+  und den Musculus teres major für mehr Rückenbreite.'
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+- Breiter Klimmzug
+- Wide Pull Up

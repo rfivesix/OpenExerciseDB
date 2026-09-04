@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1743'
 language: fr
-status: upstream_unreviewed
-name: Essuie-glaces
-description: |-
-  Suspendez-vous à une barre de traction et levez les jambes vers le plafond. Déplacez le bas du corps de gauche à droite, jambes tendues, comme un essuie-glace.
+status: ai_reviewed
+name: Essuie-glaces suspendu
+description: "Position de départ :\nSuspendez-vous à une barre de traction avec une\
+  \ prise en pronation à la largeur des épaules. Engagez les dorsaux et la sangle\
+  \ abdominale, puis levez les jambes tendues jusqu'à ce que vos pieds pointent vers\
+  \ la barre ou le plafond.\n\nExécution :\n1. En gardant les jambes jointes et tendues,\
+  \ faites-les pivoter lentement vers la gauche selon un arc de cercle contrôlé, à\
+  \ la manière d'un essuie-glace.\n2. Revenez au centre vertical en contractant puissamment\
+  \ les obliques et les abdominaux.\n3. Basculez ensuite les jambes vers la droite\
+  \ avec le même contrôle et continuez d'alterner de façon rythmée.\n\nConseils :\n\
+  Contrôlez chaque répétition sans utiliser d'élan ; fléchissez légèrement les genoux\
+  \ si la version jambes tendues est trop difficile."
+search_terms:
+  - Essuie-glaces
+  - Hanging Windshield Wipers
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

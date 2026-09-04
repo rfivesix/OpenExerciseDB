@@ -2,10 +2,23 @@ exercise_id: '2538'
 language: fr
 status: ai_reviewed
 translated_from: en
-name: Élévations latérales isométriques
+name: Élévations latérales isométriques à la poulie
+description: |-
+  Position de départ :
+  Placez-vous à côté d'une poulie réglée en position basse. Saisissez la poignée avec une prise neutre ou en pronation, le coude très légèrement fléchi. Maintenez le buste droit et gainé.
+
+  Exécution :
+  1. Élevez le bras sur le côté dans le plan de l'omoplate jusqu'à ce que la main et le coude atteignent la hauteur de l'épaule (parallèle au sol).
+  2. Maintenez cette position statique sous la tension continue du câble pendant la durée indiquée, en isolant le deltoïde latéral.
+  3. Redescendez le bras lentement et de manière contrôlée une fois le maintien terminé.
+
+  Conseils :
+  Ne haussez pas les épaules pour éviter de solliciter excessivement les trapèzes supérieurs. Gardez le poignet aligné avec l'avant-bras.
+search_terms:
+- Élévations latérales isométriques
+- Lateral raise isométrique
+- Maintien élévation latérale câble
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5009'
-description: |-
-  Maintien statique des bras à l'horizontale sur les côtés, avec haltères ou câbles, pour isoler les faisceaux latéraux du deltoïde en contraction isométrique.

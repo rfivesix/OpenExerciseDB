@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1868'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Lunge with Twist Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Step into a forward lunge with your front foot planted\
+  \ flat and your rear knee resting on the mat or hovering just above the ground.\n\
+  Execution: Keeping your torso upright, extend your arms forward or place your hands\
+  \ in front of your chest, then slowly rotate your torso toward the side of the front\
+  \ leg.\nTips: Keep your front knee tracking in line with your toes throughout the\
+  \ twist. Hold the stretch for a few seconds or perform 5–8 controlled rotations\
+  \ per side before switching legs."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

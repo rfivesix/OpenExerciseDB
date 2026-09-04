@@ -1,33 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1690'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Aperturas en polea para el pecho superior
 description: |-
   Ejecución
-
-
+  
   Posición inicial:
-
+  
   Los brazos abajo y ligeramente detrás del cuerpo, los codos ligeramente flexionados.
   Siente un ligero estiramiento en el pecho.
-
-
-
+  
   Movimiento:
-
+  
   Lleva las manos hacia arriba y hacia el centro delante del pecho superior — aproximadamente a la altura del mentón a la clavícula.
   Usa un movimiento suave y controlado (evita los tirones).
   Contrae el pecho arriba durante 1–2 segundos.
-
-
-
+  
   Vuelta:
-
+  
   Deja que los brazos bajen lentamente de nuevo hacia los lados, manteniendo el control y la tensión.
 upstream:
   license: CC-BY-SA-4.0

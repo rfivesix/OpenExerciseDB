@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2485'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Armzug-Roll-Übung (Schwimmen)
+name: Armzug-Roll-Übung (Kraul-Rücken-Wechsel)
 description: |-
-  Stoße dich ab, schwimme einige Züge und rolle dich bei jedem Atemzug für 2–3 Atemzüge vollständig auf den Rücken; rolle dann zurück in die Kraulposition. Dadurch lernst du, deinen Körper als Einheit zu drehen, statt nur den Kopf zu drehen, und es hilft, die Angst davor abzubauen, das Gesicht nicht im Wasser zu haben.
+  Ausgangsposition:
+  Stoße dich in Bauchlage von der Beckenwand ab und beginne mit einem normalen Kraulzug.
+
+  Ausführung:
+  1. Schwimme zwei bis drei Kraulzüge mit gleichmäßigem Beinschlag.
+  2. Statt einer gewöhnlichen seitlichen Kopfdrehung zur Atmung rollst du deinen gesamten Körper als feste Einheit auf den Rücken.
+  3. Nimm auf dem Rücken liegend 2 bis 3 ruhige Atemzüge, während du mit den Beinen weiterschlägst.
+  4. Rolle den Körper kontrolliert wieder auf den Bauch zurück und setze den Kraulzug nahtlos fort.
+
+  Hinweise:
+  Die Übung schult die ganzheitliche Körperrotation um die Längsachse (Body Roll) und baut Atemhektik beim Kraulschwimmen ab.
+search_terms:
+- Armzug-Roll-Übung (Schwimmen)
+- Stroke-and-Roll Drill
+- Kraul Rollübung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1803'
 language: fr
-status: upstream_unreviewed
-name: Squat à la barre trap
-description: |-
-  Une combinaison des principes du squat et du soulevé de terre à l'aide d'une barre hexagonale (trap bar), qui réduit la contrainte sur le bas du dos en centrant mieux la charge.
+status: ai_reviewed
+name: Squat à la barre trap (Hex Bar)
+description: "Position de départ :\nPlacez-vous au centre de la trap bar (barre hexagonale),\
+  \ les pieds écartés de la largeur des épaules. Accroupissez-vous en gardant le buste\
+  \ plus droit que sur un soulevé de terre traditionnel et agrippez les poignées neutres.\
+  \ Bombez le torse et gainez la sangle abdominale.\n\nExécution :\n1. Poussez puissamment\
+  \ dans le sol à travers les talons pour tendre simultanément les genoux et les hanches.\n\
+  2. Conservez le torse bien haut pendant la montée pour cibler en priorité les quadriceps\
+  \ et les fessiers.\n3. Terminez l'extension complète debout en verrouillant les\
+  \ fessiers.\n4. Redescendez la charge avec contrôle en pliant genoux et hanches\
+  \ jusqu'au sol.\n\nConseils :\nLe centrage de la masse dans la barre hexagonale\
+  \ soulage fortement les lombaires tout en permettant de charger lourd."
+search_terms:
+  - Squat à la barre trap
+  - Trap Bar Squat
+  - Squat hex bar
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

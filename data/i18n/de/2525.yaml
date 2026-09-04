@@ -1,16 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2525'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Couch Stretch
+name: Couch-Stretch (Hüftbeuger-Dehnung)
 description: |-
-  Stelle dich mit dem Rücken zu einer Bank, einem Sofa oder einem ähnlich hohen Gegenstand.
-  Strecke ein Bein nach hinten und lege den Fuß mit dem Spann nach unten auf die Kante der Bank.
-  Senke dich ab, bis dein hinteres Knie den Boden berührt und du dich in einer Ausfallschrittposition befindest, wobei dein Oberkörper leicht nach vorn hängt.
-  Spanne deinen Rumpf an, aktiviere den hinteren Gesäßmuskel und richte deinen Oberkörper kontrolliert senkrecht auf. Entspanne dich und wiederhole die Bewegung.
+  Ausgangsposition:
+  Knie dich mit dem Rücken vor eine Wand, eine Hantelbank oder ein Sofa. Platziere das hintere Knie nahe an der Wand bzw. Bank und lege den Fußspann senkrecht an der Kante oder Wand nach oben ab. Setze den vorderen Fuß im 90-Grad-Winkel stabil auf den Boden (Ausfallschritt).
 
-  Wiederhole dies auch mit dem anderen Bein.
+  Ausführung:
+  1. Spanne die Gesäßmuskulatur der hinteren Seite und deine Bauchmuskeln fest an (hintere Beckenkippung).
+  2. Richte deinen Oberkörper langsam und kontrolliert in die Senkrechte auf, bis du eine intensive Dehnung im Hüftbeuger (Psoas) und Quadrizeps des hinteren Beins spürst.
+  3. Halte die aufrechte Dehnposition ruhig für die vorgegebene Zeit und atme tief ein und aus.
+  4. Löse die Dehnung achtsam und wechsle das Bein.
+
+  Hinweise:
+  Vermeide ein Ausweichen ins Hohlkreuz; die Beckenaufrichtung ist der Schlüssel zur Dehnung des Hüftbeugers.
+search_terms:
+- Couch Stretch
+- Couch-Stretch
+- Hüftbeuger Dehnung Couch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

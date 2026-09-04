@@ -3,9 +3,23 @@ language: fr
 status: ai_reviewed
 translated_from: en
 name: Rotations articulaires des poignets
+description: |-
+  Position de départ :
+  Tenez-vous debout ou assis le dos droit, les épaules détendues. Entrelacez les doigts devant la poitrine, ou formez deux poings souples tenus devant vous avec les coudes fléchis.
+
+  Exécution :
+  1. Faites tourner lentement les poignets en décrivant des cercles amples et réguliers dans le sens des aiguilles d'une montre sur toute l'amplitude articulaire confortable.
+  2. Inversez le sens de rotation (sens antihoraire) à mi-parcours de la série (environ 15 à 30 secondes).
+  3. Maintenez une cadence douce pour échauffer progressivement les fléchisseurs et extenseurs du carpe.
+
+  Conseils :
+  Évitez tout à-coup ou mouvement brusque douloureux. Cet exercice est particulièrement recommandé comme échauffement articulaire avant les pompes, tractions ou appuis sur les mains.
+search_terms:
+- Cercles de poignets
+- Mobilisation des poignets
+- Wrist circles
+- Rotations des poignets
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex
   source_id: '5014'
-description: |-
-  Les doigts entrelacés ou poings fermés, effectuez des cercles amples et contrôlés avec les poignets pour préparer et soulager les articulations.

@@ -5,13 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1480'
 language: fr
-status: upstream_unreviewed
-name: Extensions des triceps allongé
+status: ai_reviewed
+name: Extensions des triceps allongé à la barre
 description: |-
-  La position de départ de cet exercice efficace pour les triceps consiste à être allongé sur un banc standard, en tenant une barre ou deux haltères des deux mains en prise pronation, mains écartées à la largeur des épaules.
-  Commencez avec les bras au-dessus du haut de la poitrine et les coudes fléchis vers l'arrière à environ 45 degrés.
-  Fléchissez d'abord les coudes, puis laissez le bras reculer, amenant la barre ou les haltères derrière la tête et vers le bas en direction du sol. Concernant la position du bras, la barre ou les haltères ne doivent jamais être entièrement au-dessus de votre tête, mais plutôt derrière, afin de garantir que vous ciblez bien les triceps.
-  Gardez les omoplates rentrées vers le bas, les coudes serrés vers la tête et la sangle abdominale active pendant tout ce mouvement.
+  Position de départ :
+  Allongez-vous sur un banc plat, en tenant une barre avec une prise pronation à la largeur des épaules. Tendez les bras vers le haut, perpendiculaires au corps ou légèrement inclinés vers l'arrière.
+
+  Exécution :
+  1. En gardant les bras immobiles et les coudes serrés vers l'avant, fléchissez uniquement les coudes pour descendre la barre avec contrôle vers le front ou juste au-dessus de la tête.
+  2. Ne laissez pas les coudes s'écarter vers l'extérieur.
+  3. Poussez à travers les triceps pour tendre à nouveau les bras et ramener la barre en position de départ.
+
+  Conseils :
+  Gardez les coudes stables pendant toute la durée du mouvement pour cibler précisément les trois chefs du triceps.
+search_terms:
+  - Extensions des triceps allongé
+  - Barre au front
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

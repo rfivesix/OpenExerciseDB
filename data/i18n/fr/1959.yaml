@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1959'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement du piriforme assis
-description: |-
-  Étirement du piriforme assis
-  Fait partie de : Limber 11
-  Source : Joe DeFranco
-  Prescription : 20 à 30 s de chaque côté
-  Type : statique
-  Comprend un maintien isométrique.
+description: 'Position de départ :
+
+  Asseyez-vous bien droit sur le bord d''une chaise ou d''un banc, pieds à plat sur le sol. Posez la cheville d''une jambe sur le genou opposé en formant un quatre.
+
+
+  Exécution :
+
+  En gardant le dos bien droit et la poitrine fière, penchez-vous lentement vers l''avant à partir des hanches jusqu''à ressentir un étirement profond dans le fessier et le muscle piriforme. Maintenez la position de manière statique pendant 20 à 30 secondes en respirant calmement, puis changez de côté.
+
+
+  Conseils :
+
+  Fait partie de la routine Limber 11. Ne courbez pas le bas du dos; l''inclinaison doit se faire depuis le bassin pour cibler efficacement les rotateurs profonds de hanche.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4792'
+search_terms:
+- Étirement du piriforme assis
+- Seated Piriformis Stretch

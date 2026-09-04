@@ -1,16 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1972'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage vertical à un bras
 description: |-
-  Asseyez-vous à la machine de tirage vertical et saisissez la poignée individuelle en prise neutre. Gardez le torse stable, la poitrine ouverte et les omoplates légèrement rétractées. Commencez bras complètement tendu au-dessus de la tête, puis tirez la poignée vers le haut de la poitrine en suivant une trajectoire contrôlée et légèrement diagonale. Concentrez-vous sur l'engagement du grand dorsal tout en gardant l'épaule basse et en évitant toute rotation du torse. Revenez lentement à la position de départ, en gardant le contrôle tout au long du mouvement.
+  Position de départ :
+  Asseyez-vous à la machine de tirage vertical et saisissez la poignée simple en prise neutre (paume vers l'intérieur). Gardez le buste stable, la poitrine haute et les abdominaux gainés.
+
+  Exécution :
+  1. Tirez la poignée vers le haut de la poitrine en guidant le coude vers le bas et le côté de la cage thoracique.
+  2. Maintenez la contraction maximale du grand dorsal pendant 1 seconde en bas du mouvement.
+  3. Laissez la poignée remonter lentement et sous contrôle jusqu'à l'extension complète du bras pour étirer le dorsal.
+  4. Effectuez la série complète puis changez de côté.
+
+  Conseils :
+  Évitez toute rotation ou inclinaison du torse pendant la traction ; concentrez-vous sur le travail du dos.
 search_terms:
-  - Tirage vertical unilatéral
+- Tirage vertical unilatéral
+- Tirage unilatéral à la poulie
+- Single-Arm Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

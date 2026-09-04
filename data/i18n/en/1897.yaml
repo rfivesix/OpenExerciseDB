@@ -5,12 +5,12 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1897'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Close-Grip Bench Press
-description: |-
-  Setup: Lie flat on the bench and grip the bar at shoulder-width (closer than a standard bench press).
-  Descent: Lower the bar with control to your lower chest.
-  Form: Keep your elbows tucked in tight against your torso—do not let them flare out.
-  Ascent: Press the bar straight back up, squeezing your triceps at the top.
+description: "Setup: Lie flat on the bench and grip the bar at shoulder-width (closer\
+  \ than a standard bench press).\nDescent: Lower the bar with control to your lower\
+  \ chest.\nForm: Keep your elbows tucked in tight against your torso—do not let them\
+  \ flare out.\nAscent: Press the bar straight back up, squeezing your triceps at\
+  \ the top."
 upstream:
   license: CC-BY-SA-4.0

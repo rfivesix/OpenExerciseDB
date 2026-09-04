@@ -1,30 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1747'
 language: es
-status: upstream_unreviewed
-name: Sentadilla multipower
-description: |-
-  Técnica y ejecución
-  La sentadilla en máquina Smith es una variante de la sentadilla con barra tradicional que utiliza una barra guiada con una trayectoria fija. Aquí tienes un desglose detallado de la técnica correcta:
-  Posición inicial
-  Colocación de los pies: Coloca los pies ligeramente por delante de la barra, separados aproximadamente a la anchura de los hombros.
-  Posición de la barra: Apoya la barra sobre la parte superior del trapecio/hombros, similar a una sentadilla tradicional.
-  Postura: Los pies pueden estar ligeramente inclinados hacia afuera para una rotación natural de la cadera.
-  Movimiento de la sentadilla
-  Descarga la barra girándola para soltarla de los ganchos de seguridad.
-  Baja lentamente el cuerpo flexionando las rodillas y las caderas.
-  Desciende hasta que los muslos estén paralelos al suelo (o ligeramente por debajo).
-  Haz una breve pausa al final del movimiento.
-  Impulsa los talones para volver a la posición inicial.
-  Beneficios y consideraciones
-  Ventajas
-  Requiere menos equilibrio: La trayectoria fija de la barra facilita el movimiento para principiantes.
-  Movimiento controlado: Menor riesgo de mala postura en comparación con las sentadillas con peso libre.
-  Aislamiento: Permite el desarrollo muscular de las piernas.
+status: ai_reviewed
+name: Sentadilla en máquina Smith
+description: "Posición inicial:\nColócate bajo la barra guiada de la máquina Smith\
+  \ apoyándola sobre la parte superior del trapecio. Sitúa los pies al ancho de los\
+  \ hombros, ligeramente adelantados respecto a la línea vertical de la barra. Gira\
+  \ las muñecas para desbloquear la barra de los soportes de seguridad.\n\nEjecución:\n\
+  1. Inhala profundamente, aprieta el abdomen y desciende flexionando caderas y rodillas\
+  \ de forma controlada.\n2. Baja hasta que los muslos queden al menos paralelos al\
+  \ suelo.\n3. Empuja con fuerza a través de los talones y toda la planta del pie\
+  \ para regresar a la posición erguida.\n4. Mantén una ligera flexión en las rodillas\
+  \ al llegar arriba antes de iniciar la siguiente repetición.\n\nConsejos:\nMantén\
+  \ el pecho levantado y la espalda alineada durante todo el recorrido guiado."
+search_terms:
+  - Sentadilla multipower
+  - Smith Machine Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

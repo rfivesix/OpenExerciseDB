@@ -1,13 +1,13 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1806'
 language: en
-status: upstream_unreviewed
-name: Lat Pull Down
-description: |-
-  The lat pull down is an exercise used to build the muscles of the back. While the exercise will primarily target the lats, you will also notice a fair amount of bicep and middle back activation.
+status: ai_reviewed
+name: Lat Pulldown
+description: The lat pulldown is a classic compound movement designed to develop upper
+  back width and strength. It primarily targets the latissimus dorsi, while secondary
+  contributions come from the biceps, brachialis, teres major, and middle trapezius.
+search_terms:
+  - Lat Pull Down
+  - Lat Pulldown
+  - Cable Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0

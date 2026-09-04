@@ -1,20 +1,31 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1545'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Traction de l'archer
-description: |-
-  La traction de l'archer est un exercice avancé au poids du corps qui renforce votre dos et vos biceps, servant de progression vers la traction à un bras. Elle tient son nom de la position de « tir à l'arc » que prend votre corps en haut du mouvement. Voici comment la réaliser :
+description: 'La traction de l''archer est un exercice avancé au poids du corps qui
+  renforce votre dos et vos biceps, servant de progression vers la traction à un bras.
+  Elle tient son nom de la position de « tir à l''arc » que prend votre corps en haut
+  du mouvement. Voici comment la réaliser :
 
-  Prise : Saisissez une barre de traction avec une prise en pronation plus large que la largeur des épaules.
-  Position de départ : Suspendez-vous, bras complètement tendus, en gainant la sangle abdominale et en gardant vos omoplates abaissées.
-  Le tirage : Tirez votre corps vers une main, comme pour une traction classique. En même temps, tendez l'autre bras sur le côté, en le gardant aussi droit que possible. Votre menton doit venir vers la main qui tire.
-  Maintien et descente : Maintenez brièvement la position haute où un bras est fléchi et tire, et l'autre est tendu. Redescendez lentement à la position de départ, en gardant le contrôle.
-  Alternez : Répétez le mouvement en tirant vers la main opposée. La clé de cet exercice est de garder le bras d'assistance aussi droit que possible afin de maximiser la charge sur le bras qui travaille. Cela en fait un exercice exigeant mais efficace pour la force de tirage unilatérale.
+
+  Prise : Saisissez une barre de traction avec une prise en pronation plus large que
+  la largeur des épaules.
+
+  Position de départ : Suspendez-vous, bras complètement tendus, en gainant la sangle
+  abdominale et en gardant vos omoplates abaissées.
+
+  Le tirage : Tirez votre corps vers une main, comme pour une traction classique.
+  En même temps, tendez l''autre bras sur le côté, en le gardant aussi droit que possible.
+  Votre menton doit venir vers la main qui tire.
+
+  Maintien et descente : Maintenez brièvement la position haute où un bras est fléchi
+  et tire, et l''autre est tendu. Redescendez lentement à la position de départ, en
+  gardant le contrôle.
+
+  Alternez : Répétez le mouvement en tirant vers la main opposée. La clé de cet exercice
+  est de garder le bras d''assistance aussi droit que possible afin de maximiser la
+  charge sur le bras qui travaille. Cela en fait un exercice exigeant mais efficace
+  pour la force de tirage unilatérale.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

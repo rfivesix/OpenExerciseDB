@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1779'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Landmine Rotation
-description: |-
-  Start with landmine barbell straight up by using your shoulders to push it up above you. Then, from that position, bring it your side to target your abdominals and return to starting position.
+description: "Starting Position:\nAnchor one end of a barbell into a landmine attachment\
+  \ or corner. Stand facing the bar with feet shoulder-width apart. Cup the sleeve\
+  \ of the free end with both hands with interlaced fingers, arms extended in front\
+  \ of your chest. Keep a slight bend in your knees and brace your core.\n\nExecution:\n\
+  1. Lower the barbell in a controlled, wide arc down toward one hip, keeping your\
+  \ arms nearly straight.\n2. Allow your torso to rotate and your back foot to pivot\
+  \ slightly while actively decelerating the weight using your obliques and core.\n\
+  3. Reverse the motion by contracting your core, bringing the bar back to the top\
+  \ center, then lower it smoothly to the opposite hip.\n4. Continue alternating in\
+  \ a smooth, continuous tempo.\n\nCues:\nDo not bend your elbows excessively to turn\
+  \ it into an arm exercise; the power and control should originate from your rotational\
+  \ core."
+search_terms:
+  - Landmine Rotation
+  - Landmine Twists
+  - Landmine Oblique Twist
 upstream:
   license: CC-BY-SA-4.0
   license_author: aboksz

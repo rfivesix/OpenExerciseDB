@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1968'
 language: fr
-status: upstream_unreviewed
-name: Développé épaules unilatéral à l'haltère
-description: |-
-  Poussez l'haltère verticalement au-dessus de la tête dans un mouvement contrôlé jusqu'à ce que le bras soit complètement tendu, sans verrouiller le coude. Abaissez lentement l'haltère vers la position de départ, à hauteur d'épaule.
+status: ai_reviewed
+name: Développé épaules unilatéral avec haltère
+description: 'Position de départ :
+
+  Debout, pieds à la largeur des épaules, tenez un haltère à hauteur d''épaule avec le coude sous le poignet. Posez la main libre sur la hanche pour stabiliser le tronc.
+
+
+  Exécution :
+
+  Développez l''haltère verticalement au-dessus de la tête dans un mouvement fluide jusqu''à tendre le bras sans verrouiller brutalement le coude. Gardez la sangle abdominale solide pour empêcher le buste de pencher. Redescendez lentement à hauteur d''épaule et effectuez toutes les répétitions avant de changer de bras.
+
+
+  Conseils :
+
+  Ce travail unilatéral renforce la stabilité du tronc (anti-inclinaison) et équilibre la force entre les deux épaules.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4399'
+search_terms:
+- Développé épaules unilatéral à l'haltère
+- Single-Arm Dumbbell Shoulder Press

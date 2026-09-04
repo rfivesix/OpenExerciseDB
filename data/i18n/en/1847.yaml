@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1847'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Straddle L-Sit
-description: |-
-  With your legs in a sitting saddle position, push your body upwards off the ground. Your legs should be horizontal and point straight outwards. Your arms should be between your legs.
-  Hold isometrically as long as required.
+description: "Starting Position: Sit on the floor in a wide straddle seated position.\
+  \ Place your hands on the ground between your thighs.\nExecution: Press down firmly\
+  \ through your palms, lock your elbows, and lift your hips and extended legs off\
+  \ the floor, holding your legs horizontally.\nTips: Maintain full-body isometric\
+  \ tension through your core, hip flexors, and triceps for the required duration."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

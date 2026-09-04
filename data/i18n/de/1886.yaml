@@ -5,22 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1886'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hüftabduktion in Rückenlage
-description: |-
-  Ausgangsposition:
-  Lege dich auf den Rücken (Rückenlage) auf eine Matte, mit gestreckten und
-  entspannten Beinen. Die Arme kannst du seitlich am Körper oder zur Seite ausgestreckt
-  für mehr Stabilität ablegen.
-  Die Bewegung:
-  Hebe ein Bein leicht vom Boden ab (halte es gestreckt oder mit einer
-  leichten Beugung). Bewege es seitlich nach außen, weg vom anderen Bein, als würdest
-  du über ein kleines Hindernis steigen.
-  Bewegungsumfang:
-  Bewege das Bein so weit, wie es angenehm ist, ohne dein Becken anzuheben oder
-  deinen Oberkörper zu drehen, und spüre dabei eine Dehnung an der Innenseite des Oberschenkels und der Hüfte.
-  Zurückführen: Bringe das Bein langsam und mit kontrollierter Bewegung in die Ausgangsposition zurück.
-  Ziel: Verbessert die seitliche Hüftbeweglichkeit (Abduktion) und kräftigt die stabilisierende Beckenmuskulatur.
+description: "Ausgangsposition:\nLege dich auf den Rücken (Rückenlage) auf eine Matte,\
+  \ mit gestreckten und\nentspannten Beinen. Die Arme kannst du seitlich am Körper\
+  \ oder zur Seite ausgestreckt\nfür mehr Stabilität ablegen.\nDie Bewegung:\nHebe\
+  \ ein Bein leicht vom Boden ab (halte es gestreckt oder mit einer\nleichten Beugung).\
+  \ Bewege es seitlich nach außen, weg vom anderen Bein, als würdest\ndu über ein\
+  \ kleines Hindernis steigen.\nBewegungsumfang:\nBewege das Bein so weit, wie es\
+  \ angenehm ist, ohne dein Becken anzuheben oder\ndeinen Oberkörper zu drehen, und\
+  \ spüre dabei eine Dehnung an der Innenseite des Oberschenkels und der Hüfte.\n\
+  Zurückführen: Bringe das Bein langsam und mit kontrollierter Bewegung in die Ausgangsposition\
+  \ zurück.\nZiel: Verbessert die seitliche Hüftbeweglichkeit (Abduktion) und kräftigt\
+  \ die stabilisierende Beckenmuskulatur."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

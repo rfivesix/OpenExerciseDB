@@ -1,19 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1947'
 language: es
-status: upstream_unreviewed
-name: Arrancada con mancuerna (dumbbell snatch)
-description: |-
-  Pasos clave para una ejecución correcta:
-  Preparación: Coloca la mancuerna entre tus pies, con los hombros por encima de las caderas, el pecho arriba y la espalda recta.
-  El tirón: Extiende de forma explosiva las caderas, las rodillas y los tobillos (triple extensión) para impulsar la mancuerna hacia arriba, manteniendo el codo alto y la mancuerna cerca del cuerpo.
-  La recepción: Flexiona rápidamente las caderas y las rodillas para meterte por debajo de la mancuerna y recibirla por encima de la cabeza con el brazo bloqueado, aterrizando en una posición de media sentadilla.
-  Errores comunes: Usar demasiado los brazos en lugar de las piernas para levantar el peso, tener el codo bajo durante la fase de tirón y desalinear el hombro, el codo y la muñeca en la posición final. Para principiantes, se recomienda empezar con cargas ligeras, centrarse en la técnica y realizar de 3 a 5 series de 3 a 5 repeticiones por brazo.
+status: ai_reviewed
+name: Arrancada con mancuerna (Dumbbell Snatch)
+description: 'Posición inicial:
+
+  Colócate de pie con los pies a la anchura de los hombros y la mancuerna en el suelo entre ambos pies. Flexiona caderas y rodillas manteniendo la espalda recta y sujeta la mancuerna con agarre prono.
+
+
+  Ejecución:
+
+  Extiende de forma explosiva tobillos, rodillas y caderas (triple extensión) para impulsar la mancuerna hacia arriba cerca del cuerpo con el codo alto. Flexiona rápidamente las piernas para meterte por debajo del peso y recibirlo con el brazo bloqueado sobre la cabeza en un cuarto de sentadilla, antes de ponerte completamente de pie.
+
+
+  Consejos:
+
+  La potencia proviene de la cadera y las piernas; no tires del peso con la fuerza aislada del brazo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4249'
+search_terms:
+- Arrancada con mancuerna
+- Dumbbell Snatch

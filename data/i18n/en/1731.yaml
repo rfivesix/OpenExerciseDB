@@ -1,15 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1731'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Front Raise (Cable)
 description: |-
-  Raise the handle in a slight arc with controlled movement.
-  Don’t swing your torso to start the rep.
+  Starting position:
+  Stand facing away from or toward a low cable pulley. Grasp the handle with an overhand grip in front of your thighs. Keep a slight bend in your elbow and engage your core.
+  
+  Movement:
+  1. Raise the handle forward and upward in a smooth arc until your arm reaches shoulder height.
+  2. Pause briefly at the top to squeeze the anterior deltoid.
+  3. Lower the handle slowly and under control back to the starting position.
+  
+  Tips:
+  Maintain a steady posture without leaning back or swinging your torso to initiate the rep.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

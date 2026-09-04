@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1496'
 language: fr
-status: upstream_unreviewed
-name: Variante haut des pectoraux aux haltères
+status: ai_reviewed
+name: Élévation aux haltères en supination pour le haut des pectoraux
 description: |-
-  L'haltère en main à la manière d'un curl, inclinez le corps vers le bras pour aider à monter l'haltère au-dessus de la poitrine, à côté de la tête, afin d'activer la combinaison pectoraux et deltoïdes.
+  Position de départ :
+  Tenez-vous debout ou assis légèrement incliné, en tenant un haltère d'une main en prise supination (paume vers le haut) au niveau de la hanche, le coude légèrement fléchi. Inclinez très légèrement le buste vers le bras actif.
+
+  Exécution :
+  1. Montez l'haltère en diagonale vers le haut et l'intérieur devant le haut de la poitrine jusqu'à hauteur de tête.
+  2. Suivez l'orientation des fibres du faisceau claviculaire du grand pectoral.
+  3. Contractez fermement le haut des pectoraux et le deltoïde antérieur au sommet pendant une seconde.
+  4. Redescendez l'haltère lentement avec contrôle jusqu'à la position de départ.
+
+  Conseils :
+  La prise en supination associée à la trajectoire diagonale permet de cibler de manière optimale la partie haute des pectoraux.
+search_terms:
+  - Variante haut des pectoraux aux haltères
+  - Élévation supination haut des pectoraux
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

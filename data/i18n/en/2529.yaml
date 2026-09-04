@@ -1,14 +1,24 @@
 exercise_id: '2529'
 language: en
 status: ai_reviewed
-name: Explosive Push-Up
-description: 'Explosive Push-Ups
+name: Explosive Push-Ups
+description: |-
+  Starting Position:
+  Assume a standard push-up position on the floor with your hands slightly wider than shoulder-width and your body in a rigid plank from head to heels.
 
-  Start in a standard push-up position, lower your chest, then explosively push off
-  the ground so your hands leave the floor. Land softly and immediately repeat.'
+  Execution:
+  1. Lower your chest with control until it is just an inch above the floor.
+  2. Explosively drive through your palms and chest with maximum power, pushing your upper body fast enough that your hands leave the floor entirely.
+  3. Land softly with slightly bent elbows, absorbing the impact smoothly, and immediately descend into the next repetition.
+
+  Cues:
+  Maintain a rigid core throughout the jump and landing; do not let your lower back sag upon impact.
+search_terms:
+- explosive push ups
+- Explosive Push-Up
+- Plyometric Push-Ups
+- Clap Push-Ups Prep
 upstream:
   license: CC-BY-SA-4.0
   license_author: ege
   source_id: '4998'
-search_terms:
-- explosive push ups

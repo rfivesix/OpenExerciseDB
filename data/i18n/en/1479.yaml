@@ -5,14 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1479'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sit Up Elbow Thrust
 description: |-
-  This
-  is a top down rotation movement, and it’s a bit more
-  explosive, too.
-  Lying with knees bent and feet on the floor, sit up and then drive your left elbow across your entire body toward the right, then come back
-  to center and then finally lower yourself down. Then hit the other side.
+  Starting Position:
+  Lie flat on your back on a mat with your knees bent, feet flat on the floor, and hands in a defensive guard position near your face.
+
+  Execution:
+  1. Perform an explosive sit-up by driving your upper body upward using your abdominal muscles.
+  2. At the top of the sit-up, rotate your torso sharply and drive one elbow diagonally across your body in a powerful thrusting motion.
+  3. Return your torso to center and lower yourself back down to the floor under control.
+  4. Repeat, alternating the elbow thrust to the opposite side on each rep.
+
+  Cues:
+  Combine the forward flexion with explosive rotational drive at the top to maximally engage both the rectus abdominis and obliques.
+search_terms:
+  - Sit-Up with Elbow Strike
+  - Rotational Sit Up
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

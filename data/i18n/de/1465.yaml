@@ -5,35 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1465'
 language: de
-status: upstream_unreviewed
-name: Spider Curl
+status: ai_reviewed
+name: Spider Curls mit Kurzhanteln
 description: |-
-  Um das Beste aus Kurzhantel-Spider-Curls herauszuholen, brauchst du eine
-  verstellbare Hantelbank, die auf eine 45-Grad-Neigung eingestellt ist. Diese geneigte Position
-  lässt deine Arme frei hängen und bringt sie in eine gestreckte Ausgangsposition
-  mit den Ellbogen leicht vor dem Oberkörper, was der Schlüssel ist, um
-  durchgehend eine niedrigschwellige isometrische Spannung im gesamten Bewegungsablauf aufrechtzuerhalten.
+  Ausgangsposition:
+  Stelle eine verstellbare Hantelbank auf eine Schrägstellung von etwa 45 Grad ein. Lege dich mit der Brust flach und stabil auf das Polster, sodass der Kopf über das obere Ende ragt und die Füße fest auf dem Boden stehen. Halte in jeder Hand eine Kurzhantel, die Arme hängen senkrecht nach unten, Handflächen nach vorne (Supination).
 
-  Lege dich mit dem Gesicht nach unten auf eine verstellbare
-  Hantelbank, sodass deine Brust vollständig aufliegt, und halte ein Paar Kurzhanteln.
-  Halte den Kopf in einer neutralen Position
-  und überstrecke den Nacken nicht.
-  Lass deine Arme gerade
-  nach unten hängen, mit den Handflächen nach vorne (für einen normalen Spider Curl) oder den Handflächen
-  nach innen für eine Hammer-Curl-Variante.
-  Halte eine stabile Fußposition auf
-  dem Boden, um Gleichgewicht und Kontrolle zu bewahren.
-  Beginne die Curl-Bewegung, indem du
-  deinen Bizeps anspannst und das Paar Kurzhanteln oder die Curl-Stange
-  zu den Schultern anhebst.
-  Halte die Ellbogenbeugung
-  kontrolliert. Deine Arme sollten in Position fixiert bleiben, ohne unnötige
-  Bewegung.
-  Drücke am oberen Ende 1-2 Sekunden kräftig zusammen. Hier
-  trifft die maximale Spannung auf die Muskelfasern des Bizeps.
-  Senke das Gewicht kontrolliert
-  über 3-4 Sekunden ab, um die Muskeln über den gesamten Bewegungsumfang
-  unter Spannung zu halten.
+  Ausführung:
+  1. Beuge die Ellenbogen und curle die Kurzhanteln kontrolliert in Richtung der Schultern, ohne dass die Oberarme nach hinten ausweichen.
+  2. Spanne den Bizeps am obersten Punkt für 1 bis 2 Sekunden maximal an.
+  3. Senke die Kurzhanteln langsam und kontrolliert über 3 bis 4 Sekunden wieder in die vollständige Dehnung ab.
+
+  Hinweise:
+  Durch das Aufliegen auf der Bank wird jeglicher Schwung aus dem Körper eliminiert und der Bizeps isoliert gefordert.
+search_terms:
+  - Spider Curl
+  - Kurzhantel-Spider-Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,22 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1962'
 language: es
-status: upstream_unreviewed
-name: Step Jack
-description: |-
-  El Step Jack es un movimiento de bajo impacto al estilo pliométrico que ofrece beneficios cardiovasculares sin el estrés articular del salto. Trabaja todo el cuerpo y se centra especialmente en las piernas, el core y los hombros. Este movimiento es ideal para principiantes, para personas con articulaciones sensibles o como calentamiento dinámico para elevar la frecuencia cardíaca de forma gradual.
-  Notas (Instrucciones):
+status: ai_reviewed
+name: Step Jack (Jumping jack de bajo impacto)
+description: 'Posición inicial:
 
-  Ponte de pie erguido con los pies juntos y los brazos a los lados.
-  Da un paso hacia el lado con el pie derecho mientras subes ambos brazos por encima de la cabeza al mismo tiempo.
-  Lleva el pie derecho de vuelta al centro y baja los brazos.
-  Repite el movimiento de inmediato, dando un paso hacia el lado con el pie izquierdo.
-  Continúa alternando los lados a un ritmo constante y rítmico.
+  Ponte de pie erguido con los pies juntos y los brazos relajados a los lados. Mantén el core firme.
+
+
+  Ejecución:
+
+  Da un paso amplio lateral hacia la derecha mientras subes simultáneamente ambos brazos por encima de la cabeza en un arco fluido. Regresa el pie al centro bajando los brazos y repite de inmediato dando el paso lateral hacia la izquierda. Continúa alternando ambos lados a un ritmo continuo.
+
+
+  Consejos:
+
+  Variante de bajo impacto del jumping jack tradicional; eleva las pulsaciones sin someter las articulaciones al impacto del salto.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3557'
+search_terms:
+- Step Jack
+- Side Step Jack

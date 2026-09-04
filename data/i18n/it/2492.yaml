@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2492'
 language: it
-status: upstream_unreviewed
-name: Adduttori
+status: ai_reviewed
+name: Adduzioni alla macchina per interno coscia
 description: |-
-  Basato su Adductor Sel. di Technogym.
-  Siediti sulla macchina e imposta la posizione di riposo ad un'apertura confortevole.
-  Chiudi le gambe.
-  Torna lentamente alla posizione di riposo.
+  Posizione di partenza:
+  Siediti alla macchina per adduttori con la schiena appoggiata. Regola l'apertura delle leve a un raggio confortevole con i cuscinetti posti all'interno delle cosce.
+
+  Esecuzione:
+  1. Spingi le cosce verso l'interno chiudendo le gambe fino a toccare il centro.
+  2. Contrai fortemente gli adduttori nella posizione di chiusura per 1-2 secondi.
+  3. Riapri lentamente le gambe controllando la fase eccentrica.
+
+  Consigli:
+  Evita movimenti a scatto per preservare l'articolazione dell'anca e gli adduttori.
+search_terms:
+- Adduttori
+- Adductor Machine
+- Macchina per adduttori
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

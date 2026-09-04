@@ -1,15 +1,37 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1578'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Hinge
-description: |-
-  Beschreibung der Übung Hip HingeDer Hip Hinge ist ein grundlegendes Bewegungsmuster, bei dem du dich in den Hüften beugst, während die Wirbelsäule neutral bleibt. Er wird häufig bei Übungen wie Kreuzheben, Kettlebell-Swings und Good Mornings eingesetzt. So führst du einen Hip Hinge aus:    Ausgangsposition: Stelle dich hüftbreit hin und beuge die Knie leicht.    Beuge in den Hüften: Schiebe deine Hüften nach hinten, während du den Rücken gerade hältst. Dein Oberkörper neigt sich nach vorn, und dein Brustkorb bleibt aufgerichtet.    Absenkphase: Beuge dich weiter, bis dein Oberkörper nahezu parallel zum Boden ist oder bis du eine Dehnung in der hinteren Oberschenkelmuskulatur spürst.    Zurück in den Stand: Drücke dich über die Fersen ab und schiebe deine Hüften nach vorn, um in die Ausgangsposition zurückzukehren.
+description: 'Ausgangsposition:
+
+  Stelle dich aufrecht mit hüftbreitem Stand hin. Lege die Hände an die Hüftbeuge
+  (Leiste) oder halte sie vor der Brust. Die Knie sind minimal gebeugt (weich), aber
+  nicht durchgestreckt.
+
+
+  Ausführung:
+
+  1. Schiebe dein Gesäß geradlinig nach hinten, als ob du eine Wand hinter dir mit
+  dem Gesäß berühren wolltest.
+
+  2. Beuge den Oberkörper mit vollkommen geradem Rücken aus der Hüfte nach vorne.
+
+  3. Gehe so tief, bis eine spürbare Dehnung in der hinteren Oberschenkelmuskulatur
+  (Hamstrings) entsteht.
+
+  4. Drücke die Hüfte durch kraftvolle Anspannung von Gesäß und Oberschenkelrückseite
+  wieder nach vorne in den aufrechten Stand.
+
+
+  Hinweise:
+
+  Das fundamentale Grundbewegungsmuster für Kreuzheben, Kettlebell Swings und Good
+  Mornings. Der Rücken bleibt während der gesamten Bewegung neutral.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4090'
+search_terms:
+- Bodyweight Hip Hinge
+- Hüftbeuge
+- Hüftbeugen ohne Zusatzgewicht

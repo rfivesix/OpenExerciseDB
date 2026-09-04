@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1857'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle IT-Band
-description: Bewege die Faszienrolle über dein Iliotibialband. Ist Englisch schrecklich, Prüfer.
+description: "Ausgangsposition: Lege dich in Seitlage auf die Matte. Platziere die\
+  \ Faszienrolle unter der Außenseite deines unteren Oberschenkels, knapp unterhalb\
+  \ des Hüftgelenks. Stütze dich auf dem unteren Unterarm ab und stelle den oberen\
+  \ Fuß zur Entlastung vor dem Körper auf.\nAusführung: Rolle langsam entlang der\
+  \ Oberschenkelaußenseite von der Hüfte bis knapp oberhalb des Knies.\nHinweise:\
+  \ Rolle nicht direkt über das Hüft- oder Kniegelenk. Bei starker Druckempfindlichkeit\
+  \ das Gewicht vermehrt über Arme und den aufgestellten Fuß abfangen."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

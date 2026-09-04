@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1744'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Machine Side Lateral Raises
-description: |-
-  Machine side lateral raises are an isolation exercise for the side (lateral) deltoids, performed on a machine for stability, targeting the outer shoulder by lifting pads or handles out to the sides to shoulder height, then lowering slowly, keeping elbows slightly bent and traps down to focus on the delts. This exercise helps build shoulder width by preventing swinging and providing constant tension, making it great for beginners or as a finisher.
-  How to Perform Machine Lateral Raises
-  Setup: Adjust the seat so your shoulders align with the machine's pivot point, your chest is against the pad (or back if facing out), and your arms are at a 90-degree angle with the pads/handles.
-  Starting Position: Grip the handles with a relaxed grip, elbows slightly bent, and shoulders down (depressed) away from your ears.
-  Lifting Phase: Exhale and lift your arms out to the sides, moving your upper arms laterally, until they are parallel to the floor.
-  Peak Contraction: Pause briefly at the top, squeezing the side delts, but don't shrug your shoulders up.
-  Lowering Phase: Inhale and slowly lower the weight back down with control, resisting the weight on the way down.
+description: "Machine side lateral raises are an isolation exercise for the side (lateral)\
+  \ deltoids, performed on a machine for stability, targeting the outer shoulder by\
+  \ lifting pads or handles out to the sides to shoulder height, then lowering slowly,\
+  \ keeping elbows slightly bent and traps down to focus on the delts. This exercise\
+  \ helps build shoulder width by preventing swinging and providing constant tension,\
+  \ making it great for beginners or as a finisher.\nHow to Perform Machine Lateral\
+  \ Raises\nSetup: Adjust the seat so your shoulders align with the machine's pivot\
+  \ point, your chest is against the pad (or back if facing out), and your arms are\
+  \ at a 90-degree angle with the pads/handles.\nStarting Position: Grip the handles\
+  \ with a relaxed grip, elbows slightly bent, and shoulders down (depressed) away\
+  \ from your ears.\nLifting Phase: Exhale and lift your arms out to the sides, moving\
+  \ your upper arms laterally, until they are parallel to the floor.\nPeak Contraction:\
+  \ Pause briefly at the top, squeezing the side delts, but don't shrug your shoulders\
+  \ up.\nLowering Phase: Inhale and slowly lower the weight back down with control,\
+  \ resisting the weight on the way down."
+search_terms:
+  - Machine Side Lateral Raises
+  - Machine Lateral Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: Tierrasverdes

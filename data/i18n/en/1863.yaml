@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1863'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Hip Crossover
-description: View the video to undestand the exercise
+description: "Starting Position: Lie flat on your back with your arms outstretched\
+  \ to the sides in a 'T' shape (palms facing down). Bend your knees with feet flat\
+  \ or elevated.\nExecution: Slowly lower your knees (or cross one knee over the body)\
+  \ toward the floor on one side, keeping both shoulder blades pinned firmly to the\
+  \ ground. You may gently turn your head toward the opposite side.\nTips: Hold the\
+  \ stretch in your outer hip, glutes, and lower back for 20–30 seconds, breathing\
+  \ deeply into your abdomen before switching sides."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

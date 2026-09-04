@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1478'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch en lévitation
 description: |-
-  Pour ce mouvement de haut en bas, nous cherchons à déplacer le haut du tronc sans bouger le bas du tronc. Commencez allongé au sol, les pieds à plat sur le sol et les bras croisés au-dessus de la tête, mains derrière la tête. Soulevez le haut du corps et décollez les omoplates du sol, puis maintenez et marquez une pause au sommet pendant un ou deux temps. Cherchez à faire travailler le haut des abdominaux et à tenir cette contraction pendant 10 répétitions de bonne qualité.
+  Position de départ :
+  Allongez-vous sur le dos, les genoux fléchis et les pieds à plat sur le sol. Croisez les bras sur la poitrine ou placez les mains légèrement derrière la tête sans tirer sur la nuque.
+
+  Exécution :
+  1. Décollez le haut du torse et les omoplates du sol en contractant intensément le haut des abdominaux.
+  2. Maintenez le bas du tronc et le bassin parfaitement immobiles et plaqués au sol.
+  3. Marquez une pause en contraction maximale au sommet pendant 1 à 2 temps.
+  4. Redescendez lentement avec contrôle avant d'enchaîner la répétition suivante.
+
+  Conseils :
+  Le mouvement doit être court et vertical, sans tirer avec le cou, en concentrant tout l'effort sur les abdominaux.
+search_terms:
+  - Levitation Crunch
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

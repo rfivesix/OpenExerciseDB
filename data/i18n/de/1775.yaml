@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1775'
 language: de
-status: upstream_unreviewed
-name: Reverse Butterfly für die hintere Schulter
-description: |-
-  Sitzendes Reverse Butterfly für die hintere Schulter an der Butterfly-Maschine (zur Maschine gewandt und die Arme nach hinten streckend; die Hände sollten sich auf Schulterhöhe befinden).
+status: ai_reviewed
+name: Reverse Butterfly am Pec Deck
+description: "Ausgangsposition:\nSetze dich mit der Brust zum Polster auf die Butterfly-Maschine\
+  \ (Pec Deck). Stelle die Sitzhöhe so ein, dass sich die Griffe auf Schulterhöhe\
+  \ befinden. Platziere deine Brust fest am Polster, stelle die Füße flach auf den\
+  \ Boden und greife die Griffe mit neutralem oder leicht proniertem Griff. Die Arme\
+  \ sind fast gestreckt mit minimal gebeugten Ellenbogen.\n\nAusführung:\n1. Führe\
+  \ die Griffe in einem weiten horizontalen Bogen nach hinten außen, indem du die\
+  \ hintere Schultermuskulatur (Deltamuskel Pars posterior) anspannst.\n2. Halte die\
+  \ Kontraktion am hinteren Wendepunkt für 1 Sekunde; vermeide dabei ein übermäßiges\
+  \ Zusammendrücken der Schulterblätter, um die Last auf dem hinteren Deltamuskel\
+  \ zu halten.\n3. Führe die Hebelarme langsam und kontrolliert wieder nach vorne\
+  \ in die Ausgangsposition zurück.\n\nHinweise:\nLass die Schultern tief und hebe\
+  \ die Ellenbogen nicht höher als die Schultern an."
+search_terms:
+  - Reverse Butterfly
+  - Pec deck rear delt fly
+  - Butterfly Reverse
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

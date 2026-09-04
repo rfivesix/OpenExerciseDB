@@ -1,10 +1,24 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1492'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: High Row (Hohes Rudern)
-description: Knie auf einem Bein nieder und ziehe das Kabel nach unten, während du den Ellenbogen in Richtung Latissimus führst.
+name: Kabel-High-Row im Kniestand
+description: |-
+  Ausgangsposition:
+  Befestige einen D-Griff an einem hohen Kabelzug. Begib dich vor der Kabelstation in den halben Kniestand (das Knie auf der Zugseite ist am Boden). Greife den Griff mit gestrecktem Arm, sodass der Latissimus voll auf Spannung und Dehnung ist. Halte den Oberkörper aufrecht und den Rumpf stabil.
+
+  Ausführung:
+  1. Ziehe den Griff in einer schrägen Zuglinie nach unten und hinten, indem du den Ellenbogen kraftvoll in Richtung des Beckenkamms/der Hüfte führst.
+  2. Spanne den Latissimus und die Rautenmuskeln (Rhomboiden) am Endpunkt der Bewegung für eine Sekunde maximal an.
+  3. Führe den Griff langsam und kontrolliert wieder nach oben vorne in die volle Dehnung zurück.
+
+  Hinweise:
+  Die schräg nach unten verlaufende Zugbahn trifft die Fasern des Latissimus und oberen Rückens hervorragend, während der Kniestand für optimale Stabilität ohne Rückenschwung sorgt.
+search_terms:
+  - High Row
+  - Hohes Rudern am Kabelzug
+  - Kneeling Cable High Row
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja

@@ -1,19 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1950'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roll IT Band
-description: |-
-  Foam Roll IT Band
-  Part of: Limber 11
-  Source: Joe DeFranco
-  Prescription: 10-15 passes
-  Type: soft_tissue
+description: 'Starting position:
+
+  Lie on your side on an exercise mat with a foam roller positioned under the outside of your thigh just below your hip joint. Support your upper body with your forearms and cross your top leg over in front with your foot flat on the floor to regulate pressure.
+
+
+  Execution:
+
+  Slowly roll back and forth along the lateral aspect of your thigh from just below the hip down to just above the knee joint. Pause on tight or tender trigger points for several deep breaths to encourage tissue release. Complete 10 to 15 slow, deliberate passes per side.
+
+
+  Tips:
+
+  Part of Joe DeFranco''s Limber 11 routine. Do not roll directly over the knee joint or hip bone; use your supporting limbs to manage the degree of bodyweight pressure.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3101'
+search_terms:
+- Foam Roll IT Band
+- IT Band Foam Rolling
+- Iliotibial Band SMR
+- Outer Thigh Foam Roll

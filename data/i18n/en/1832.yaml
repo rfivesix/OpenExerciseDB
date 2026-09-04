@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1832'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ring Support Hold
-description: |-
-  Hold yourself in a support position on gymnastic rings with arms straight at sides. Focus on keeping rings turned out slightly and maintaining hollow body position. This is an isometric hold for chest, shoulders, and triceps.
+description: "Starting Position:\nStand between a pair of hanging gymnastics rings.\
+  \ Grasp the rings with a firm neutral grip and jump or press yourself up into a\
+  \ top support position with arms fully locked out.\n\nExecution:\n1. Actively turn\
+  \ the rings outward (Rings Turned Out / RTO) so that your palms face forward and\
+  \ thumbs point away from your body, preventing your forearms from resting against\
+  \ the straps.\n2. Depress your shoulders firmly away from your ears and lock your\
+  \ elbows completely straight.\n3. Lock into a hollow-body position: brace your abs,\
+  \ squeeze your glutes, and hold your legs straight together with toes pointed.\n\
+  4. Maintain this rigid isometric hold for the required duration while breathing\
+  \ steadily.\n\nCues:\nTurning the rings out eliminates resting on the straps and\
+  \ maximizes chest, bicep, and anterior shoulder stabilization."
+search_terms:
+  - Ring Support Hold
+  - RTO Support Hold
+  - Gymnastic Ring Support
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2967'

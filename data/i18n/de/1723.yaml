@@ -1,12 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1723'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Glute Kickback an der Maschine
 description: |-
-  Drücke über die Ferse und nicht über die Zehen, um den Gesäßmuskel zu treffen.
-  Überstrecke den unteren Rücken oben nicht.
+  Ausgangsposition:
+  Positioniere dich an der Glute-Kickback-Maschine. Lege den Oberkörper am Stützpolster an und platziere die Fußsohle (insbesondere die Ferse) des arbeitenden Beins fest auf dem Druckpolster.
+  
+  Ausführung:
+  1. Drücke das Polster kraftvoll über die Ferse nach hinten oben weg, bis die Hüfte gestreckt und das Gesäß maximal angespannt ist.
+  2. Halte die Kontraktion am obersten Punkt für einen kurzen Moment.
+  3. Führe das Bein kontrolliert und langsam wieder in die Ausgangsposition zurück.
+  
+  Hinweise:
+  Drücke über die Ferse und nicht über die Zehen. Überstrecke den unteren Rücken am höchsten Punkt nicht, um die Belastung rein im großen Gesäßmuskel zu halten.
 upstream:
   license: CC-BY-SA-4.0
   license_author: barry

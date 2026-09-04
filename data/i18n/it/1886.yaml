@@ -5,24 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1886'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abduzione dell'anca in posizione supina
-description: |-
-  Posizione iniziale:
-  Sdraiati sulla schiena (supini) su un tappetino, con le gambe distese e
-  rilassate. Le braccia possono essere lungo i fianchi o aperte per
-  maggiore stabilità.
-  Il movimento:
-  Solleva leggermente una gamba da terra (mantenendola tesa o con una
-  leggera flessione). Spostala lateralmente verso l'esterno,
-  allontanandola dall'altra gamba, come se dovessi scavalcare un piccolo
-  ostacolo.
-  Ampiezza:
-  Porta la gamba più in là possibile senza sollevare il bacino o ruotare
-  il busto, sentendo un allungamento nella parte interna della coscia e
-  dell'anca.
-  Ritorno: Riporta lentamente la gamba alla posizione iniziale, controllando il movimento.
-  Obiettivo: Migliora la mobilità laterale dell'anca (abduzione) e allena i muscoli stabilizzatori del bacino.
+description: "Posizione iniziale:\nSdraiati sulla schiena (supini) su un tappetino,\
+  \ con le gambe distese e\nrilassate. Le braccia possono essere lungo i fianchi o\
+  \ aperte per\nmaggiore stabilità.\nIl movimento:\nSolleva leggermente una gamba\
+  \ da terra (mantenendola tesa o con una\nleggera flessione). Spostala lateralmente\
+  \ verso l'esterno,\nallontanandola dall'altra gamba, come se dovessi scavalcare\
+  \ un piccolo\nostacolo.\nAmpiezza:\nPorta la gamba più in là possibile senza sollevare\
+  \ il bacino o ruotare\nil busto, sentendo un allungamento nella parte interna della\
+  \ coscia e\ndell'anca.\nRitorno: Riporta lentamente la gamba alla posizione iniziale,\
+  \ controllando il movimento.\nObiettivo: Migliora la mobilità laterale dell'anca\
+  \ (abduzione) e allena i muscoli stabilizzatori del bacino."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

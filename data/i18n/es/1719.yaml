@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1719'
 language: es
-status: upstream_unreviewed
-name: Jalón caballero unialteral
+status: ai_reviewed
+name: Jalón unilateral en postura de caballero
 description: |-
-  Jalón unilateral realizado en postura de caballero. La rodilla que se apoya en el suelo es la misma de la mano que hace la fuerza
+  Posición inicial:
+  Ajusta la polea en posición alta con un agarre individual. Adopta una postura de caballero (apoyando en el suelo la rodilla del mismo lado que realiza la fuerza y la otra pierna adelantada). Sujeta el agarre con el brazo extendido hacia arriba.
+  
+  Ejecución:
+  1. Tira del agarre hacia abajo en dirección al hombro, llevando el codo hacia la cadera.
+  2. Contrae intensamente el dorsal en la parte inferior del movimiento.
+  3. Permite que el brazo vuelva a extenderse lentamente hacia arriba, sintiendo el estiramiento del dorsal.
+  
+  Consejos:
+  Mantén el tronco erguido y el core firme durante todo el recorrido.
+search_terms:
+  - Jalón caballero unialteral
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

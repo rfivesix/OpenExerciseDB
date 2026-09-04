@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1795'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage croisé unilatéral à la poulie
-description: |-
-  Sur une station à poulies, placez la poulie en position haute et, le bras tendu, tirez le câble en travers de votre corps, du haut vers le bas. Concentrez-vous sur la tension dans l'arrière de l'épaule.
+description: "Position de départ :\nRéglez la poulie en position haute. Placez-vous\
+  \ légèrement de biais pour que le câble traverse votre buste en diagonale. Saisissez\
+  \ la poignée avec la main opposée, inclinez légèrement le buste et laissez le bras\
+  \ s'étirer dans l'alignement du câble.\n\nExécution :\n1. Tirez le câble en diagonale\
+  \ vers le bas et l'intérieur en direction de la hanche, le coude légèrement déverrouillé.\n\
+  2. Amenez le coude près des côtes en contractant intensément le grand dorsal en\
+  \ bas du mouvement.\n3. Laissez remonter la charge avec contrôle le long de la même\
+  \ trajectoire pour obtenir un étirement complet du grand dorsal.\n\nConseils :\n\
+  L'angle diagonal de tirage respecte l'orientation anatomique des fibres du grand\
+  \ dorsal pour une isolation maximale."
+search_terms:
+  - Tirage croisé unilatéral à la poulie
+  - Tirage dorsal croisé poulie
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

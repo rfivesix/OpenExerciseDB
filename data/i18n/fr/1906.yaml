@@ -1,16 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1906'
 language: fr
-status: upstream_unreviewed
-name: Pont fessier
-description: |-
-  Mettez-vous en position de pont, tenez-vous en équilibre sur les talons et commencez à étendre les jambes de manière unilatérale.
-  Gardez la hanche en extension autant que possible.
+status: ai_reviewed
+name: Pont fessier avec extension alternée des jambes
+description: 'Position de départ :
+
+  Allongez-vous sur le dos sur un tapis, les genoux fléchis et les pieds posés sur les talons à la largeur du bassin. Placez les bras le long du corps.
+
+
+  Exécution :
+
+  Poussez sur les talons pour soulever le bassin jusqu''à aligner les cuisses et le tronc. En maintenant le bassin en position haute, tendez une jambe vers l''avant dans le prolongement de la cuisse. Reposez le pied au sol et effectuez immédiatement la même extension avec l''autre jambe.
+
+
+  Conseils :
+
+  Gardez les fessiers et les abdominaux contractés en continu pour éviter que le bassin ne s''affaisse ou ne pivote lors des changements de jambe.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4798'
+search_terms:
+- Pont fessier
+- Glute Bridge

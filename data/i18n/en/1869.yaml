@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1869'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Lying Figure Four Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Lie on your back on a mat with your knees bent and\
+  \ feet flat on the floor.\nExecution: Cross your right ankle over your left knee,\
+  \ creating a figure-four shape. Reach through and grasp the back of your left thigh\
+  \ with both hands, gently drawing the leg toward your chest until you feel a deep\
+  \ stretch in your right glute and piriformis.\nTips: Keep your head, neck, and shoulders\
+  \ relaxed on the floor. Hold for 20–30 seconds while breathing smoothly, then repeat\
+  \ on the opposite side."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

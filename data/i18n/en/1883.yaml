@@ -5,15 +5,13 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1883'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Machine Chest Press
-description: |-
-  Adjust the seat height so that the grips are parallel to your chest.
-  Use your legs to push the foot forward pedal.
-  Bring the handles to the start position.
-  Keep your back and the cushion in contact with the handles, press outwards.
-  Press the handles away from your chest and exhale.
-  Allow the handles to come in gently until they reach your chest.
-  Allow the handles to return to your chest as you exhale.
+description: "Starting Position: Adjust the seat height so that the handles are aligned\
+  \ with the middle of your chest. Sit back firmly against the pad with feet flat\
+  \ on the floor.\nExecution: Grasp the handles with an overhand grip and press forward\
+  \ until your arms are extended, exhaling as you push.\nTips: Pause briefly at full\
+  \ extension without locking your elbows. Slowly return the handles under control\
+  \ until you feel a comfortable stretch across your chest."
 upstream:
   license: CC-BY-SA-4.0

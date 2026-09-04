@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1900'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensions triceps à la corde
-description: |-
-  Mise en place : Tenez-vous face à la poulie, les pieds écartés de la largeur des épaules, avec une légère inclinaison vers l'avant.
-  Prise : Tenez la corde, les paumes se faisant face et les coudes bien serrés contre les côtes.
-  Exécution : Poussez la corde vers le bas jusqu'à ce que les bras soient complètement tendus, en écartant les extrémités l'une de l'autre en bas du mouvement.
-  Contrôle : Gardez le haut des bras immobile et revenez à la position de départ par un mouvement lent et contrôlé.
+description: "Mise en place : Tenez-vous face à la poulie, les pieds écartés de la\
+  \ largeur des épaules, avec une légère inclinaison vers l'avant.\nPrise : Tenez\
+  \ la corde, les paumes se faisant face et les coudes bien serrés contre les côtes.\n\
+  Exécution : Poussez la corde vers le bas jusqu'à ce que les bras soient complètement\
+  \ tendus, en écartant les extrémités l'une de l'autre en bas du mouvement.\nContrôle\
+  \ : Gardez le haut des bras immobile et revenez à la position de départ par un mouvement\
+  \ lent et contrôlé."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

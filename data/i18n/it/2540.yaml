@@ -3,9 +3,22 @@ language: it
 status: ai_reviewed
 translated_from: en
 name: Lat machine isometrica
+description: |-
+  Posizione di partenza:
+  Siediti alla lat machine regolando il supporto per le cosce in modo che le gambe siano ben salde. Impugna la sbarra con una presa prona più ampia delle spalle. Mantieni il petto aperto, le scapole addotte e depresse, con una leggera inclinazione del busto all'indietro.
+
+  Esecuzione:
+  1. Tira la sbarra verso il basso fino a portarla a livello della parte superiore del petto o delle clavicole.
+  2. Trattieni questa posizione di massima contrazione per il tempo prestabilito senza muovere le braccia, spingendo i gomiti verso il basso e stringendo intensamente il gran dorsale.
+  3. Rilascia e guida la sbarra verso l'alto con lentezza e pieno controllo una volta scaduto il tempo.
+
+  Note:
+  Non lasciarti trascinare violentemente dal peso alla fine della tenuta. Mantieni il petto in fuori e le spalle lontane dalle orecchie per tutto l'esercizio.
+search_terms:
+- Trazioni alla lat machine isometriche
+- Lat pulldown isometrico
+- Tenuta isometrica alla lat machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5011'
-description: |-
-  Variante di forza alla lat machine in cui tiri la sbarra verso il petto e trattieni la posizione di massima contrazione per diversi secondi senza muovere le braccia prima di rilasciare.

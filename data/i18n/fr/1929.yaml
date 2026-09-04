@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1929'
 language: fr
-status: upstream_unreviewed
-name: Traction assistée
-description: |-
-  La traction assistée est un exercice de tirage vertical polyarticulaire réalisé sur une machine avec un contrepoids ou à l'aide d'élastiques. Elle reproduit la mécanique d'une traction classique mais réduit le poids total à soulever, ce qui en fait un excellent outil pour développer une force fonctionnelle et perfectionner votre technique.
+status: ai_reviewed
+name: Tirage bras tendus avec bande élastique
+description: 'Position de départ :
+
+  Accrochez un élastique en hauteur (sur une barre de traction). Saisissez l''élastique à deux mains en prise pronation et reculez pour créer de la tension. Penchez légèrement le buste vers l''avant avec le dos plat, bras tendus au-dessus de la tête avec les coudes quasi verrouillés.
+
+
+  Exécution :
+
+  Tirez l''élastique vers le bas dans un large arc de cercle en direction des cuisses en initiant le mouvement avec le grand dorsal. Marquez un temps d''arrêt en serrant fort les dorsaux en bas, puis laissez remonter lentement avec contrôle jusqu''à étirement complet.
+
+
+  Conseils :
+
+  Ne fléchissez pas les coudes pendant la descente afin d''isoler le grand dorsal sans solliciter les triceps.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4809'
+search_terms:
+- Traction assistée
+- Tirage bras tendus avec bande élastique
+- Straight Arm Band Pull Down

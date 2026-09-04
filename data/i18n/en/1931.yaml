@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: en
-status: upstream_unreviewed
-name: Dumbbell Curl
-description: |-
-  The Dumbbell Curl is a classic isolation exercise for the arms. Unlike the Hammer Curl, it involves rotating your wrists (supination) as you lift the weights, which allows for a full contraction of the biceps.
+status: ai_reviewed
+name: Dumbbell Spider Curl
+description: 'Starting position:
+
+  Lie face down on an incline bench set to approximately 45 degrees, with your upper chest resting comfortably near the top and toes braced on the floor. Hold a pair of dumbbells with an underhand (supinated) grip, arms hanging vertically toward the floor.
+
+
+  Execution:
+
+  Curl the dumbbells upward toward your shoulders by flexing your elbows while keeping your upper arms stationary and perpendicular to the floor. Squeeze your biceps forcefully at peak contraction for one full second. Slowly lower the dumbbells back down under complete control until your arms are fully extended.
+
+
+  Tips:
+
+  The prone chest support prevents torso swinging or momentum; focus entirely on strict elbow flexion and peak biceps recruitment.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3080'
+search_terms:
+- Dumbbell Curl
+- Dumbbell Spider Curl
+- Incline Prone Bicep Curl
+- Prone Bench Curl

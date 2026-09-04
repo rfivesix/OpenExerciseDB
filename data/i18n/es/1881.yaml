@@ -5,11 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1881'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extensión de muñeca con mancuernas
-description: |-
-  Agarra dos mancuernas con un agarre prono y apoya los antebrazos sobre las rodillas.
-  Deja que las muñecas se flexionen por completo y luego extiéndelas.
+description: "Agarra dos mancuernas con un agarre prono y apoya los antebrazos sobre\
+  \ las rodillas.\nDeja que las muñecas se flexionen por completo y luego extiéndelas."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

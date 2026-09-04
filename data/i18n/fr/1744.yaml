@@ -1,20 +1,29 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1744'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Élévations latérales à la machine
-description: |-
-  Les élévations latérales à la machine sont un exercice d'isolation pour les deltoïdes latéraux, réalisé sur une machine pour plus de stabilité. Elles sollicitent l'épaule externe en soulevant les appuis ou les poignées sur les côtés jusqu'à la hauteur des épaules, puis en les abaissant lentement, en gardant les coudes légèrement fléchis et les trapèzes relâchés pour bien cibler les deltoïdes. Cet exercice aide à développer la largeur des épaules en évitant les balancements et en offrant une tension constante, ce qui en fait un excellent choix pour les débutants ou comme exercice de finition.
-  Comment réaliser les élévations latérales à la machine
-  Mise en place : Réglez le siège pour que vos épaules soient alignées avec le point de pivot de la machine, votre poitrine contre l'appui (ou le dos si vous êtes face à l'extérieur), et vos bras à un angle de 90 degrés avec les appuis ou les poignées.
-  Position de départ : Saisissez les poignées avec une prise détendue, les coudes légèrement fléchis et les épaules abaissées (loin des oreilles).
-  Phase de montée : Expirez et levez les bras sur les côtés, en déplaçant la partie supérieure des bras vers l'extérieur, jusqu'à ce qu'ils soient parallèles au sol.
-  Contraction maximale : Marquez une brève pause en haut en contractant les deltoïdes latéraux, mais sans hausser les épaules.
-  Phase de descente : Inspirez et abaissez lentement la charge avec contrôle, en résistant au poids pendant la descente.
+description: "Les élévations latérales à la machine sont un exercice d'isolation pour\
+  \ les deltoïdes latéraux, réalisé sur une machine pour plus de stabilité. Elles\
+  \ sollicitent l'épaule externe en soulevant les appuis ou les poignées sur les côtés\
+  \ jusqu'à la hauteur des épaules, puis en les abaissant lentement, en gardant les\
+  \ coudes légèrement fléchis et les trapèzes relâchés pour bien cibler les deltoïdes.\
+  \ Cet exercice aide à développer la largeur des épaules en évitant les balancements\
+  \ et en offrant une tension constante, ce qui en fait un excellent choix pour les\
+  \ débutants ou comme exercice de finition.\nComment réaliser les élévations latérales\
+  \ à la machine\nMise en place : Réglez le siège pour que vos épaules soient alignées\
+  \ avec le point de pivot de la machine, votre poitrine contre l'appui (ou le dos\
+  \ si vous êtes face à l'extérieur), et vos bras à un angle de 90 degrés avec les\
+  \ appuis ou les poignées.\nPosition de départ : Saisissez les poignées avec une\
+  \ prise détendue, les coudes légèrement fléchis et les épaules abaissées (loin des\
+  \ oreilles).\nPhase de montée : Expirez et levez les bras sur les côtés, en déplaçant\
+  \ la partie supérieure des bras vers l'extérieur, jusqu'à ce qu'ils soient parallèles\
+  \ au sol.\nContraction maximale : Marquez une brève pause en haut en contractant\
+  \ les deltoïdes latéraux, mais sans hausser les épaules.\nPhase de descente : Inspirez\
+  \ et abaissez lentement la charge avec contrôle, en résistant au poids pendant la\
+  \ descente."
+search_terms:
+  - Élévations latérales à la machine
+  - Machine élévations latérales
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,28 +1,41 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1519'
 language: fr
-status: upstream_unreviewed
-name: Extension des triceps au-dessus de la tête
-description: |-
-  Extension des triceps au-dessus de la tête avec barre EZ – Guide rapide
-  La position au-dessus de la tête met l'accent sur le chef long des triceps (parce qu'il est étiré sous la charge), mais l'exercice sollicite bien les trois chefs du triceps (long, latéral et médial) dans une certaine mesure pendant l'extension.
+status: ai_reviewed
+name: Extension des triceps au-dessus de la tête avec barre EZ
+description: 'Extension des triceps au-dessus de la tête avec barre EZ – Guide rapide
+
+  La position au-dessus de la tête met l''accent sur le chef long des triceps (parce
+  qu''il est étiré sous la charge), mais l''exercice sollicite bien les trois chefs
+  du triceps (long, latéral et médial) dans une certaine mesure pendant l''extension.
+
 
   Préparation :
-  Asseyez-vous sur un banc (ou tenez-vous debout) et saisissez une barre EZ avec une prise serrée en pronation. Levez la barre au-dessus de la tête, bras complètement tendus. Gardez la sangle abdominale contractée et les coudes près de la tête.
+
+  Asseyez-vous sur un banc (ou tenez-vous debout) et saisissez une barre EZ avec une
+  prise serrée en pronation. Levez la barre au-dessus de la tête, bras complètement
+  tendus. Gardez la sangle abdominale contractée et les coudes près de la tête.
+
   Exécution :
-  Abaissez lentement la barre derrière votre tête en fléchissant les coudes jusqu'à ce qu'ils atteignent environ 90°. Gardez les coudes pointés vers l'avant (sans les écarter).
-  Fin : Tendez à nouveau vos bras pour revenir à la position de départ, en contractant vos triceps en haut.
+
+  Abaissez lentement la barre derrière votre tête en fléchissant les coudes jusqu''à
+  ce qu''ils atteignent environ 90°. Gardez les coudes pointés vers l''avant (sans
+  les écarter).
+
+  Fin : Tendez à nouveau vos bras pour revenir à la position de départ, en contractant
+  vos triceps en haut.
+
 
   Conseils :
 
+
   Contrôlez le mouvement pour éviter de solliciter excessivement vos épaules.
+
   Utilisez une charge modérée pour une amplitude de mouvement complète.
-  Gardez le dos droit et évitez de le cambrer.
+
+  Gardez le dos droit et évitez de le cambrer.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4675'
+search_terms:
+- Extension des triceps au-dessus de la tête

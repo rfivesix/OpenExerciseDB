@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexiones con peso
-description: |-
-  Preparación: Comienza en una posición de plancha estándar con un disco de peso equilibrado de forma segura sobre la parte alta de la espalda.
-  Alineación: Mantén una línea recta desde la cabeza hasta los talones, activando el core para evitar que la espalda se hunda.
-  Ejecución: Baja el cuerpo hasta que el pecho casi toque el suelo, manteniendo los codos a cuarenta y cinco grados.
-  Ascenso: Empuja a través de las palmas para volver a la posición inicial, estirando completamente los brazos.
+description: "Preparación: Comienza en una posición de plancha estándar con un disco\
+  \ de peso equilibrado de forma segura sobre la parte alta de la espalda.\nAlineación:\
+  \ Mantén una línea recta desde la cabeza hasta los talones, activando el core para\
+  \ evitar que la espalda se hunda.\nEjecución: Baja el cuerpo hasta que el pecho\
+  \ casi toque el suelo, manteniendo los codos a cuarenta y cinco grados.\nAscenso:\
+  \ Empuja a través de las palmas para volver a la posición inicial, estirando completamente\
+  \ los brazos."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

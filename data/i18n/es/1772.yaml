@@ -1,19 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1772'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Crunch inverso
-description: |-
-  Túmbate
-  Coloca las manos cerca de los glúteos (a menudo ligeramente delante o debajo, o ambos)
-  Eleva las piernas, pero alrededor del 70 % del recorrido deberías poder elevar también la pelvis
-  (opcional/variable) Mantén 1/2 segundos en la parte superior
-  Vuelve a la posición inicial
+description: "Posición inicial:\nTúmbate boca arriba en una colchoneta con los brazos\
+  \ extendidos a los lados y las palmas apoyadas en el suelo. Eleva las piernas flexionando\
+  \ caderas y rodillas a 90 grados.\n\nEjecución:\n1. Contrae el abdomen y lleva las\
+  \ rodillas en dirección al pecho.\n2. En la parte final del recorrido, despega la\
+  \ pelvis y la parte baja de la espalda unos centímetros del suelo.\n3. Mantén la\
+  \ contracción en el punto más alto durante 1 o 2 segundos.\n4. Desciende la pelvis\
+  \ de forma lenta y controlada hacia la posición inicial sin dejar caer las piernas.\n\
+  \nConsejos:\nNo des patadas ni uses el balanceo de las piernas; el movimiento debe\
+  \ ser generado enteramente por la flexión del abdomen."
 search_terms:
+  - Crunch inverso
   - Encogimiento inverso
 upstream:
   license: CC-BY-SA-4.0

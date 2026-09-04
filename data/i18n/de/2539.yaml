@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2539'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Preacher Curl isometrisch
-description: Ein isometrischer Preacher Curl ist eine statische Kraftübung, bei der du eine feste Position auf einem Scottpolster oder einer Schrägbank unter Spannung hältst, ohne das Gelenk zu bewegen.
+name: Isometrischer Preacher Curl mit Kurzhantel
+description: |-
+  Ausgangsposition:
+  Setze dich an eine Scottbank (Preacher-Bank) und passe die Sitzhöhe so an, dass deine Achselhöhlen bündig auf der Oberkante des Polsters aufliegen. Platziere den Oberarm stabil auf dem Polster und halte eine Kurzhantel mit nach oben zeigender Handfläche (Untergriff).
+
+  Ausführung:
+  1. Beuge den Ellbogen, um die Kurzhantel bis etwa zur Mitte der Bewegung (Ellbogenwinkel ca. 90 Grad) anzuheben, wo der Hebelarm am größten ist.
+  2. Halte die Kurzhantel an diesem Punkt völlig ruhig gegen die Schwerkraft für die vorgegebene Zeitspanne und kontrahiere den Bizeps maximal.
+  3. Senke die Kurzhantel nach Ablauf der Haltezeit langsam und kontrolliert wieder ab.
+
+  Hinweise:
+  Löse den Oberarm während des Haltens nicht vom Polster. Vermeide es, das Handgelenk übermäßig abzuknicken, und atme gleichmäßig weiter.
+search_terms:
+- Preacher Curl isometrisch
+- Isometrischer Scott-Curl
+- Preacher Curl Isometric
+- Scott-Bank Curl statisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

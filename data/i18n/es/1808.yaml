@@ -1,17 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1808'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sujeción en barras paralelas
-description: |-
-  Colócate entre unas barras paralelas.
-  Apoya las manos sobre las barras, con los nudillos hacia afuera.
-  Empuja hacia abajo con las manos para elevarte del suelo.
-  Mantente en esta posición con los brazos rectos durante el tiempo indicado.
+description: "Posición inicial:\nColócate entre las barras paralelas. Sujeta las barras\
+  \ con un agarre neutro y salta o empuja con los brazos para elevarte a la posición\
+  \ de apoyo con los brazos completamente extendidos.\n\nEjecución:\n1. Empuja activamente\
+  \ hacia abajo alejando los hombros de las orejas (depresión escapular).\n2. Aprieta\
+  \ el abdomen y los glúteos, manteniendo las piernas juntas y extendidas.\n3. Sostén\
+  \ esta posición isométrica durante el tiempo prescrito respirando de manera fluida.\n\
+  4. Desciende con control al suelo al finalizar.\n\nConsejos:\nNo dejes que los hombros\
+  \ se eleven hacia el cuello; mantén la tensión constante en tríceps y pecho."
+search_terms:
+  - Sujeción en barras paralelas
+  - Soporte en paralelas
+  - Parallel Bar Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2502'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einarmiges Kurzhantelrudern
-description: Vasco-eigenes einarmiges Kurzhantelrudern mit einer 5-kg-Kurzhantel für das Heimtraining. Einseitiges horizontales Ziehen. Teil des Pull-Tags am Dienstag.
+description: |-
+  Ausgangsposition:
+  Stütze dich mit einer Hand und dem gleichseitigen Knie auf einer Flachbank ab (oder stelle dich in Schrittstellung auf und stütze dich auf einem Oberschenkel oder Tisch ab). Halte den Rücken gerade und parallel zum Boden. Fasse eine Kurzhantel mit der freien Hand mit gestrecktem Arm im neutralen Griff.
+
+  Ausführung:
+  1. Ziehe die Kurzhantel kontrolliert nach oben in Richtung Hüfte, indem du den Ellbogen eng am Körper nach hinten oben führst.
+  2. Ziehe das Schulterblatt am obersten Punkt aktiv heran und halte die Kontraktion im Latissimus für 1 Sekunde.
+  3. Senke die Hantel langsam und kontrolliert wieder ab, bis der Arm gestreckt ist und der Rückenmuskel sanft gedehnt wird.
+  4. Wiederhole die Bewegung für die gewünschte Wiederholungszahl und wechsle die Seite.
+
+  Hinweise:
+  Vermeide es, den Oberkörper bei der Zugbewegung aufzudrehen; halte die Schultern parallel zum Boden.
+search_terms:
+- Einarmiges Kurzhantelrudern
+- Single Arm Dumbbell Row
+- One Arm Dumbbell Row
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4983'

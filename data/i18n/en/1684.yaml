@@ -1,16 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1684'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Thruster
 description: |-
-  Start with the dumbbells resting on your shoulders and squat down. Push
-  into standing and raise the dumbbells into an overhead position. Bring
-  the dumbbells back to your shoulders and repeat.
+  Starting position:
+  Stand upright with your feet shoulder-width apart, holding a pair of dumbbells at shoulder height with elbows slightly forward.
+  
+  Movement:
+  1. Lower your hips down and back into a deep squat until your thighs are at least parallel to the floor.
+  2. Drive up explosively through your heels, using the upward momentum to press the dumbbells overhead in one fluid motion.
+  3. Lower the dumbbells back to your shoulders with control as you transition smoothly into the next squat repetition.
+  
+  Tips:
+  Keep your chest up and core braced throughout the movement to maintain a stable spine.
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun

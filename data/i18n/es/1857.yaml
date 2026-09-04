@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1857'
 language: es
-status: upstream_unreviewed
-name: Foam Roller Cintillar iliotibial
-description: Deslizate sobr el Foam Roller sobre tu Cintilla iliotibial
+status: ai_reviewed
+name: Foam Roller Cintilla iliotibial
+description: "Posición inicial: Túmbate de lado en el suelo con el rodillo de espuma\
+  \ colocado bajo la parte externa del muslo inferior, justo por debajo de la cadera.\
+  \ Apóyate en el antebrazo y cruza la pierna superior por delante apoyando el pie\
+  \ en el suelo.\nEjecución: Rueda despacio a lo largo de la cara lateral del muslo\
+  \ desde la cadera hasta justo por encima de la rodilla.\nConsejos: No pases el rodillo\
+  \ directamente sobre los huesos de la cadera o de la rodilla. Regula la presión\
+  \ usando el pie y los brazos de apoyo."
+search_terms:
+- Foam Roller Cintillar iliotibial
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

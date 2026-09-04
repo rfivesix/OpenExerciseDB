@@ -1,15 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1908'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Butterfly Superman
-description: |-
-  Lie on stomach, intertwine fingers behind the head and start raising your head and raise elbows as far as they go.
+description: 'Starting position:
+
+  Lie face down on an exercise mat with legs fully extended. Interlace your fingers behind your head with your elbows flared wide to the sides.
+
+
+  Execution:
+
+  Simultaneously lift your head, chest, and elbows off the floor by contracting your spinal erectors and upper back muscles. Retract your shoulder blades and raise your elbows as high as comfortably possible. Hold the peak contraction for 1 to 2 seconds, then slowly lower back down under control.
+
+
+  Tips:
+
+  Keep your gaze focused on the mat to maintain a neutral cervical spine rather than cranking your neck backward.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3055'
+search_terms:
+- Butterfly Superman
+- Prone Butterfly Extension

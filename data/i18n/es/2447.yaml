@@ -1,15 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2447'
 language: es
-status: upstream_unreviewed
-name: Hip airplane
+status: ai_reviewed
+name: Hip Airplane
 description: |-
-  Ponte de pie sobre una pierna e inclina ligeramente el torso hacia delante mientras mantienes la espalda recta. Extiende la pierna libre hacia atrás de modo que el torso y la pierna formen aproximadamente una línea. Abre la cadera lentamente hacia el lado rotando la pelvis y el torso de forma controlada. Luego cierra la cadera de nuevo y vuelve a la posición inicial.
-  El movimiento debe provenir principalmente de la cadera. Mantén el pie de apoyo estable y evita que la rodilla se desplome hacia dentro.
+  Posición inicial:
+  Apóyate sobre una pierna (puedes apoyarte ligeramente en una pared o barra si necesitas estabilidad). Inclina el torso hacia adelante manteniendo la columna recta y extiende la otra pierna hacia atrás hasta formar una línea horizontal con el cuerpo.
+
+  Ejecución:
+  1. Rota lentamente la pelvis hacia el interior, dirigiéndola hacia el suelo para cerrar la cadera (rotación interna).
+  2. A continuación, rota la pelvis hacia el exterior y hacia arriba, abriendo la cadera hacia el techo (rotación externa).
+  3. Regresa al punto neutral de forma fluida y repite el recorrido antes de cambiar de pierna.
+
+  Consejos:
+  El movimiento debe originarse únicamente en la articulación de la cadera de la pierna de apoyo. Mantén la rodilla de apoyo ligeramente desbloqueada sin que colapse hacia adentro.
+search_terms:
+- Hip airplane
+- Rotación de cadera en un apoyo
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

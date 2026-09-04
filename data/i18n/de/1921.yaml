@@ -1,10 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1921'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Intensive Latissimusdehnung
-description: Tiefe belastete Dehnung für den Latissimus dorsi, die nach Zugbewegungen ausgeführt wird.
+description: 'Ausgangsposition:
+
+  Stelle dich vor einen stabilen Pfosten oder eine Klimmzugstange. Greife den Haltepunkt mit einer oder beiden Händen über Kopfhöhe fest im Obergriff.
+
+
+  Ausführung:
+
+  Trete einen Schritt zurück, beuge die Knie leicht und schiebe die Hüfte nach hinten unten, während der Oberkörper nach vorne absinkt. Verlagere dein Körpergewicht nach hinten, sodass ein starker Dehnungszug entlang der Flanke und des Latissimus von der Achselhöhle bis zum Becken entsteht. Halte diese Position ruhig für 30 bis 60 Sekunden und atme tief in die Flanke ein.
+
+
+  Hinweise:
+
+  Lasse den Kopf entspannt zwischen den Armen und vermeide plötzliche Ruckbewegungen; wechsle nach der Haltezeit gegebenenfalls die Seite.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
+search_terms:
+- Extreme Lat Stretch
+- Latissimus Dehnung
+- Dehnung breiter Rückenmuskel

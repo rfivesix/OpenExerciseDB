@@ -5,11 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1843'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de mariposa
-description: |-
-  Siéntate en posición de oración con las plantas de los pies suavemente juntas.
-  Usa las manos para tirar lentamente de los pies hacia dentro, en dirección a la ingle. Mantén durante el tiempo que necesites.
+description: "Posición inicial: Siéntate en el suelo con la espalda erguida y junta\
+  \ las plantas de los pies, dejando caer las rodillas hacia los lados.\nEjecución:\
+  \ Sujeta los pies con las manos y acerca suavemente los talones hacia la pelvis.\
+  \ Deja que las rodillas desciendan hacia el suelo al compás de la respiración.\n\
+  Consejos: Mantén la posición durante 20-30 segundos con la columna alargada, sin\
+  \ realizar rebotes bruscos."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

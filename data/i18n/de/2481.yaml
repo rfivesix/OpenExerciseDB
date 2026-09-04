@@ -1,11 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2481'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Beinschlag mit Schwimmbrett
 description: |-
-  Halte ein Schwimmbrett mit beiden Händen und strecke die Arme vor dir aus; das Gesicht ist im Wasser (hebe zum Atmen bei Bedarf den Kopf nach vorn). Der Beinschlag kommt aus der Hüfte, nicht aus den Knien; halte die Beine überwiegend gestreckt, mit leichter Beugung und einem gleichmäßigen, kompakten Kraulbeinschlag. Das stärkt die Ausdauer der Beine und hält den Körper horizontal, ohne dass du dich um die Arme kümmern musst.
+  Ausgangsposition:
+  Halte ein Schwimmbrett (Kickboard) mit beiden Händen am vorderen oder hinteren Ende fest. Stoße dich von der Wand ab und nimm eine flache, waagerechte Bauchlage im Wasser ein, Arme nach vorne ausgestreckt.
+
+  Ausführung:
+  1. Schlage abwechselnd mit fast gestreckten Beinen locker und kontinuierlich aus der Hüfte (Kraulbeinschlag).
+  2. Halte das Gesicht im Wasser, Blick zum Beckenboden gerichtet, und hebe oder drehe den Kopf nur kurz zum Einatmen an.
+  3. Halte die Fußspitzen gestreckt und erzeuge eine kleine, rhythmische Wasserfontäne an der Oberfläche.
+
+  Hinweise:
+  Knicke die Knie nicht übermäßig ein; der Impuls kommt aus der Gesäßmuskulatur und den Hüftbeugern. Dies stärkt die Beinausdauer und schult die stabile Wasserlage.
+search_terms:
+- Beinschlag mit Schwimmbrett
+- Kraulbeinschlag Brett
+- Kickboard Flutter Kick
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

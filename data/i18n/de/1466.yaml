@@ -1,10 +1,23 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1466'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Wadenheben an der Hackenschmidt-Maschine
-description: Hebe das Gewicht idealerweise mit einem Trapezaufsatz durch Wadenheben auf die Zehenspitzen an.
+description: |-
+  Ausgangsposition:
+  Positioniere dich in der Hackenschmidt-Maschine mit den Schultern unter den Polstern und dem Rücken am Rückenpolster. Platziere die Fußballen auf der unteren Kante der Fußplatte, sodass die Fersen frei in der Luft hängen. Löse die Sicherung und halte die Beine fast vollständig gestreckt (Knie minimal gebeugt).
+
+  Ausführung:
+  1. Senke die Fersen langsam und kontrolliert so weit wie möglich unter das Niveau der Plattform ab, um die Wadenmuskulatur maximal zu dehnen.
+  2. Drücke dich kraftvoll über die Fußballen nach oben und hebe die Fersen so hoch wie möglich an.
+  3. Halte die Spitzenkontraktion für eine Sekunde, bevor du kontrolliert in die Dehnung zurückkehrst.
+
+  Hinweise:
+  Vermeide es, aus den Knien zu federn; die Bewegung erfolgt ausschließlich aus dem Sprunggelenk.
+search_terms:
+  - Hack Squat Calf Raise
+  - Wadenheben Hackenschmidt
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

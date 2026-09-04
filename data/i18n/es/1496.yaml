@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1496'
 language: es
-status: upstream_unreviewed
-name: Variación con mancuerna para el pecho superior
+status: ai_reviewed
+name: Elevación con mancuerna en supinación para pecho superior
 description: |-
-  Sujeta la mancuerna en la mano como en un curl e inclina el cuerpo hacia el brazo para ayudar a subir la mancuerna por encima del pecho, junto a la cabeza, para activar la combinación de pecho y deltoides.
+  Posición inicial:
+  Ponte de pie o siéntate con una ligera inclinación sujetando una mancuerna en una mano con agarre supino (palma hacia arriba) a la altura de la cadera y el codo ligeramente flexionado. Inclina levemente el cuerpo hacia el brazo activo.
+
+  Ejecución:
+  1. Eleva la mancuerna en diagonal hacia arriba y hacia dentro por delante del pecho superior hasta la altura de la cabeza.
+  2. Sigue la dirección de las fibras de la parte clavicular del pectoral mayor.
+  3. Aprieta intensamente el pecho superior y el deltoides anterior en la contracción máxima durante un segundo.
+  4. Desciende la mancuerna de forma lenta y controlada a la posición inicial.
+
+  Consejos:
+  Mantener la palma hacia arriba durante la elevación diagonal concentra la activación en la porción clavicular del pectoral.
+search_terms:
+  - Variación con mancuerna para el pecho superior
+  - Elevación supina pecho superior
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

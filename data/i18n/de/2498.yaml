@@ -1,11 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2498'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pike-Liegestütze
 description: |-
-  Individuelle Pike-Liegestütze von Vasco für die Schulterentwicklung im Heimtraining für Anfänger. Nur Körpergewicht. Teil des Montag-Push-Tags.
+  Ausgangsposition:
+  Beginne in einer Liegestützposition und wandere mit den Füßen in Richtung der Hände, während du das Gesäß zur Decke schiebst. Dein Körper bildet ein umgekehrtes 'V' (Pike-Position). Die Hände stehen etwas weiter als schulterbreit, die Beine und der Rücken sind möglichst gerade gestreckt.
+
+  Ausführung:
+  1. Beuge die Ellbogen kontrolliert und senke den Kopf diagonal nach vorne unten ab, bis dein Scheitel knapp vor den Händen den Boden berührt.
+  2. Drücke dich kraftvoll durch die Schultern und den Trizeps nach hinten oben zurück in die spitze Ausgangs-V-Position.
+  3. Halte den Rumpf während der gesamten Bewegung stabil unter Spannung.
+
+  Hinweise:
+  Pike-Liegestütze sind eine hervorragende Körpergewichtsübung zur Stärkung der Schultermuskulatur und Vorbereitung auf den Handstand-Liegestütz.
+search_terms:
+- Pike-Liegestütze
+- Pike Push-ups
+- Pike Pushups Calisthenics
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4980'

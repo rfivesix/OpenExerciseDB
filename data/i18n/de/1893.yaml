@@ -5,16 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1893'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Langhantel-Überkopfdrücken
-description: |-
-  Aufbau: Stelle dich mit geschlossenen Füßen hin und greife die Stange etwas weiter als schulterbreit.
-  Position: Lege die Stange auf deinem oberen Brustkorb ab.
-  Drücken: Spanne deinen Rumpf an und drücke die Stange gerade nach oben, bis deine Arme durchgestreckt sind.
-  Abschluss: Führe die Stange kontrolliert zurück zu deiner Brust.
-  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+description: "Aufbau: Stelle dich mit schulterbreitem oder etwas engerem Stand hin\
+  \ und greife die Stange etwas weiter als schulterbreit.\nPosition: Lege die Stange\
+  \ auf deinem oberen Brustkorb (vorderen Schultern) ab.\nDrücken: Spanne deinen Rumpf\
+  \ an und drücke die Stange gerade nach oben, bis deine Arme über Kopf durchgestreckt\
+  \ sind.\nAbschluss: Führe die Stange kontrolliert zurück zu deiner oberen Brust."
 search_terms:
-  - Schulterdrücken
+- Schulterdrücken
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

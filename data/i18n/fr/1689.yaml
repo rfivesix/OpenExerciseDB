@@ -1,26 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1689'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Écarté à la poulie pour le milieu des pectoraux
 description: |-
   Exécution
-
-
+  
   Position de départ : Bras tendus sur les côtés (en grand « T »), en ressentant un étirement dans les pectoraux.
-
-
+  
   Mouvement : Rapprochez vos mains devant votre poitrine dans un large geste d'accolade.
-
+  
   Concentrez-vous sur la contraction des pectoraux au centre.
   Ne verrouillez pas les coudes et n'en faites pas un développé.
-
-
-
+  
   Retour : Ouvrez lentement les bras pour revenir à la position de départ, en maintenant la tension sur les pectoraux.
 upstream:
   license: CC-BY-SA-4.0

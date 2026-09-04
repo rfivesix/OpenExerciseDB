@@ -1,17 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1835'
 language: fr
-status: upstream_unreviewed
-name: Étirement en rotation externe
-description: |-
-  Asseyez-vous avec les pieds pressés l'un contre l'autre et un genou relevé complètement sur le côté du corps.
-  Placez votre coude sur le genou relevé, pliez-le à 90 degrés et pointez la main droit devant vous, en tenant votre barre ou votre haltère.
-  Gardez l'épaule abaissée et rétractée, puis levez la main jusqu'à ce que l'avant-bras soit vertical, comme si vous alliez saluer quelqu'un à la manière d'un robot.
-  Abaissez la main jusqu'à la position initiale et répétez.
+status: ai_reviewed
+name: Rotation externe assise avec haltère
+description: "Position de départ :\nAsseyez-vous sur un tapis ou un banc avec un genou\
+  \ relevé, pied à plat. Posez le coude du bras actif sur le genou relevé, fléchi\
+  \ à 90 degrés. Tenez un haltère léger avec l'avant-bras orienté horizontalement\
+  \ vers l'avant.\n\nExécution :\n1. Gardez l'épaule basse et les omoplates bien fixées.\n\
+  2. Faites pivoter l'avant-bras vers le haut jusqu'à ce qu'il soit vertical par rapport\
+  \ au sol.\n3. Marquez une seconde d'arrêt en contraction maximale des rotateurs\
+  \ externes.\n4. Redescendez lentement l'haltère à l'horizontale en contrôlant l'étirement.\n\
+  \nConseils :\nEmployez une charge légère pour préserver et renforcer la coiffe des\
+  \ rotateurs avec une technique stricte."
+search_terms:
+  - Rotation externe avec haltère
+  - Étirement en rotation externe
+  - External Rotation Stretch
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

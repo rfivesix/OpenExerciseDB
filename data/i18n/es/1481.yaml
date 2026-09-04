@@ -5,21 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1481'
 language: es
-status: upstream_unreviewed
-name: Drag pushdown
+status: ai_reviewed
+name: Drag pushdown en polea con cuerda
 description: |-
-  La posición
-  inicial de este pushdown con cuerda es de pie frente a una máquina de poleas con
-  los agarres de un accesorio de cuerda en ambas manos y los pies separados al ancho de los
-  hombros.
-  Flexiona
-  ligeramente las caderas hacia delante manteniendo el pecho erguido y lleva los
-  hombros y los codos por detrás del cuerpo para que, al empujar hacia abajo
-  los accesorios de cable, consigas una cabeza larga del tríceps totalmente
-  contraída.
-  Arrastra
-  el accesorio de cuerda de la máquina de poleas lo más cerca posible del cuerpo y
-  estira los codos hasta el bloqueo.
+  Posición inicial:
+  Ponte de pie frente a una polea alta con un accesorio de cuerda. Sujeta los extremos de la cuerda con agarre neutro, pies separados al ancho de los hombros y flexiona ligeramente las caderas manteniendo el pecho erguido.
+
+  Ejecución:
+  1. Deja que los codos retrocedan ligeramente mientras empujas la cuerda hacia abajo, arrastrándola lo más pegada posible al torso.
+  2. Extiende por completo los codos al final del recorrido y separa las puntas de la cuerda hacia afuera para contraer al máximo la cabeza larga del tríceps.
+  3. Regresa lentamente con control manteniendo la cuerda cerca del cuerpo.
+
+  Consejos:
+  Mantener el accesorio pegado al torso permite conseguir un rango de contracción muy intenso en el tríceps.
+search_terms:
+  - Drag pushdown
+  - Extensión de tríceps pegada al cuerpo
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

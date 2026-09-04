@@ -1,18 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1525'
 language: es
-status: upstream_unreviewed
-name: Lanzamientos de balón
-description: |-
-  Colócate con los pies a la anchura de los hombros, las rodillas y caderas ligeramente flexionadas, sujetando el balón con ambas manos a la altura del pecho. Activa el core y mantén una buena postura.
-  Extiende las rodillas e impulsa las caderas hacia delante mientras levantas simultáneamente el balón. Busca estirarte lo más alto posible, con el balón por encima de la cabeza, los brazos arriba, las caderas ligeramente hacia delante y de puntillas por la fuerza de tu impulso.
-  Usa el core y los brazos para lanzar el balón medicinal directamente hacia abajo entre los pies con toda la fuerza posible. Empuja las caderas hacia atrás y flexiona las rodillas para potenciar aún más el lanzamiento. Exhala mientras lanzas el balón hacia abajo.
-  Agáchate para recoger el balón del suelo y pasa inmediatamente al siguiente lanzamiento repitiendo el movimiento. Repite por repeticiones o por tiempo.
+status: ai_reviewed
+name: Lanzamientos de balón medicinal (Ball Slams)
+description: 'Colócate con los pies a la anchura de los hombros, las rodillas y caderas
+  ligeramente flexionadas, sujetando el balón con ambas manos a la altura del pecho.
+  Activa el core y mantén una buena postura.
+
+  Extiende las rodillas e impulsa las caderas hacia delante mientras levantas simultáneamente
+  el balón. Busca estirarte lo más alto posible, con el balón por encima de la cabeza,
+  los brazos arriba, las caderas ligeramente hacia delante y de puntillas por la fuerza
+  de tu impulso.
+
+  Usa el core y los brazos para lanzar el balón medicinal directamente hacia abajo
+  entre los pies con toda la fuerza posible. Empuja las caderas hacia atrás y flexiona
+  las rodillas para potenciar aún más el lanzamiento. Exhala mientras lanzas el balón
+  hacia abajo.
+
+  Agáchate para recoger el balón del suelo y pasa inmediatamente al siguiente lanzamiento
+  repitiendo el movimiento. Repite por repeticiones o por tiempo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4044'
+search_terms:
+- Ball Slams
+- Lanzamientos de balón

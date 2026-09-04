@@ -1,10 +1,19 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1739'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Shrimp Squat
-description: Einbeinige Kniebeuge, bei der ein Bein hinter dir ist.
+description: |-
+  Ausgangsposition:
+  Stelle dich aufrecht auf ein Bein. Beuge das andere Knie nach hinten und greife das Sprunggelenk bzw. den Fuß mit der Hand hinter deinem Körper.
+  
+  Ausführung:
+  1. Beuge die Hüfte und das Knie des Standbeins, um dich kontrolliert in eine einbeinige Kniebeuge abzusenken.
+  2. Gehe so tief nach unten, bis das Knie des hinten gehaltenen Beins sanft den Boden berührt.
+  3. Drücke dich kraftvoll über das Standbein wieder nach oben in den aufrechten Stand.
+  
+  Hinweise:
+  Lehne den Oberkörper leicht nach vorne, um das Gleichgewicht zu halten. Führe die Bewegung stets kontrolliert aus, um das Knie des Standbeins zu stabilisieren.
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

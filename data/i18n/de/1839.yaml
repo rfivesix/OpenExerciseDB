@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1839'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hüftbeuger-Dehnung
-description: 'Siehe dieses Anleitungsvideo: https://www.youtube.com/watch?v=qHwyBHS6MQs .'
+description: "Ausgangsposition: Begib dich in einen halbknienden Ausfallschritt (ein\
+  \ Knie auf dem Boden, das vordere Bein im 90-Grad-Winkel aufgestellt). Der Oberkörper\
+  \ ist aufrecht.\nAusführung: Kippe das Becken leicht nach hinten, spanne den Gesäßmuskel\
+  \ der hinteren Seite an und schiebe die Hüfte sanft nach vorne, bis eine deutliche\
+  \ Dehnung an der Vorderseite der Hüfte (Hüftbeuger/Psoas) spürbar ist.\nHinweise:\
+  \ Halte die Position für 20–30 Sekunden ruhig bei gleichmäßiger Atmung und wechsle\
+  \ anschließend die Seite. Vermeide ein Hohlkreuz."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

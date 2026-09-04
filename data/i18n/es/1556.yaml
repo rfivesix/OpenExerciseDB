@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1556'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Devil's Press
-description: |-
-  El Devil's Press es un movimiento híbrido que combina un burpee con mancuernas y un arrancada (snatch) con dos mancuernas. Es un ejercicio de cuerpo completo y alta intensidad que desarrolla fuerza, potencia y acondicionamiento metabólico.
+description: 'El Devil''s Press es un movimiento híbrido que combina un burpee con
+  mancuernas y un arrancada (snatch) con dos mancuernas. Es un ejercicio de cuerpo
+  completo y alta intensidad que desarrolla fuerza, potencia y acondicionamiento metabólico.
 
-  Empieza con una mancuerna en cada mano y realiza un burpee, dejando que el pecho toque el suelo mientras sujetas las mancuernas.
-  Salta de forma explosiva llevando los pies hacia delante y balancea las mancuernas entre las piernas.
-  Impulsa las mancuernas por encima de la cabeza en un solo movimiento continuo, bloqueando los brazos.
-  Baja las mancuernas con control para volver a la posición inicial y repite
+
+  Empieza con una mancuerna en cada mano y realiza un burpee, dejando que el pecho
+  toque el suelo mientras sujetas las mancuernas.
+
+  Salta de forma explosiva llevando los pies hacia delante y balancea las mancuernas
+  entre las piernas.
+
+  Impulsa las mancuernas por encima de la cabeza en un solo movimiento continuo, bloqueando
+  los brazos.
+
+  Baja las mancuernas con control para volver a la posición inicial y repite'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4081'
+search_terms:
+- Devil’s Press

@@ -1,16 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1827'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Presión abdominal con ambas piernas
-description: |-
-  Túmbate boca arriba con las rodillas y las caderas flexionadas a 90 grados (posición de mesa).
-  Coloca las manos sobre los muslos, justo por encima de las rodillas. Empuja las manos contra las rodillas con toda la fuerza posible mientras usas los abdominales para llevar las rodillas hacia las manos.
-  Mantén durante 10 segundos con el máximo esfuerzo. Tus abdominales deberían temblar.
+description: "Posición inicial:\nTúmbate boca arriba sobre una colchoneta con caderas\
+  \ y rodillas flexionadas a 90 grados en posición de mesa. Pega la zona lumbar firmemente\
+  \ contra el suelo. Coloca las palmas de las manos sobre los muslos, justo por encima\
+  \ de las rodillas.\n\nEjecución:\n1. Empuja con fuerza las manos contra los muslos\
+  \ mientras resistes empujando los muslos contra las manos con igual intensidad.\n\
+  2. Genera una potente contracción isométrica en toda la pared abdominal.\n3. Mantén\
+  \ este esfuerzo isométrico durante 10 a 15 segundos sin cortar la respiración.\n\
+  4. Libera la presión lentamente y descansa antes de la siguiente repetición.\n\n\
+  Consejos:\nLa espalda baja no debe despegarse del suelo en ningún instante."
+search_terms:
+  - Presión abdominal con ambas piernas
+  - Double-Leg Abdominal Press
+  - Isométrico abdominal
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

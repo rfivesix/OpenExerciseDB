@@ -1,19 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1947'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Reißen (Dumbbell Snatch)
-description: |-
-  Wichtige Schritte zur korrekten Ausführung:
-  Aufbau: Lege die Kurzhantel zwischen deine Füße, mit den Schultern über den Hüften, der Brust aufgerichtet und flachem Rücken.
-  Der Zug: Strecke explosiv deine Hüften, Knie und Sprunggelenke (Dreifachstreckung), um die Kurzhantel nach oben zu treiben, wobei du den Ellenbogen hoch und die Kurzhantel nah am Körper hältst.
-  Das Auffangen: Beuge schnell deine Hüften und Knie, um unter die Kurzhantel zu gehen und sie mit fixiertem Arm über dem Kopf aufzunehmen, wobei du in einer halben Kniebeuge landest.
-  Häufige Fehler: Das Gewicht zu sehr mit den Armen statt mit den Beinen anzuheben, einen tiefen Ellenbogen in der Zugphase zu haben und Schulter, Ellenbogen und Handgelenk in der Endposition nicht auszurichten. Anfängern wird empfohlen, mit leichten Gewichten zu beginnen, sich auf die Technik zu konzentrieren und 3 bis 5 Sätze mit 3 bis 5 Wiederholungen pro Arm auszuführen.
+description: 'Ausgangsposition:
+
+  Stelle dich hüft- bis schulterbreit hin und platziere eine Kurzhantel auf dem Boden zwischen deinen Füßen. Beuge Hüfte und Knie mit geradem Rücken und aufgerichteter Brust und greife die Kurzhantel im Obergriff.
+
+
+  Ausführung:
+
+  Strecke Hüfte, Knie und Sprunggelenke explosionsartig (Dreifachstreckung), um die Kurzhantel senkrecht nach oben zu katapultieren. Führe die Hantel mit hohem Ellbogen eng am Körper entlang. Sobald die Hantel Brusthöhe erreicht, tauche blitzschnell unter das Gewicht ab, fange die Hantel mit voll gestrecktem Arm über Kopf in einer leichten Kniebeuge auf und richte dich vollständig auf. Führe die Hantel kontrolliert wieder zum Boden zurück.
+
+
+  Hinweise:
+
+  Die Kraft kommt ausschließlich aus der Hüftstreckung und den Beinen, nicht aus dem Arm; beginne mit moderatem Gewicht, um die Technik präzise einzuschleifen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4248'
+search_terms:
+- Kurzhantel-Reißen
+- Dumbbell Snatch
+- Einarmiges Reißen Kurzhantel

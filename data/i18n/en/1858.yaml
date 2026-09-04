@@ -5,9 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1858'
 language: en
-status: upstream_unreviewed
-name: Foam Roller quadriceps
-description: Slide the Foam Roller over your quadriceps. Is english, please
+status: ai_reviewed
+name: Foam Roller Quadriceps
+description: "Starting Position: Lie face down on the floor with the foam roller positioned\
+  \ beneath the front of your thighs. Support your upper body on your forearms in\
+  \ a forearm plank position.\nExecution: Slowly roll forward and backward from the\
+  \ top of the pelvic crease down to just above your kneecaps. Slightly angle your\
+  \ legs inward or outward to address all heads of the quadriceps.\nTips: Keep your\
+  \ abdominal muscles braced to protect your lower back from sagging into excessive\
+  \ extension."
+search_terms:
+- Foam Roller quadriceps
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

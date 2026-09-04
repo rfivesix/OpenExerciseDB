@@ -5,8 +5,13 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1871'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Lying Knee to Chest Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Lie flat on your back on a comfortable mat with both\
+  \ legs fully extended.\nExecution: Bend one knee and grasp the shin or the back\
+  \ of the thigh with both hands. Gently pull the knee toward your chest while keeping\
+  \ the opposite leg straight and resting on the floor.\nTips: Keep your neck, shoulders,\
+  \ and lower back relaxed against the mat. Hold for 20–30 seconds with deep breathing,\
+  \ then repeat with the other leg."
 upstream:
   license: CC-BY-SA-4.0

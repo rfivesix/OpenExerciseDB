@@ -5,31 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1885'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Esercizio YTWL
-description: |-
-  Obiettivo:
-  Migliorare la stabilità della spalla, la postura e il controllo delle
-  scapole. Ampiamente usato in fisioterapia e nel riscaldamento.
-  Posizione iniziale:
-  In piedi con i piedi alla larghezza delle spalle. Piega il busto in
-  avanti mantenendo la schiena dritta (come uno stacco), oppure sdraiati a
-  pancia in giù su una panca inclinata. Tieni i pollici sempre rivolti
-  verso l'alto.
-  Y (Braccia in alto):
-  Distendi entrambe le braccia dritte in avanti e verso l'alto con un
-  angolo di 135° rispetto al corpo, formando una "Y". Unisci le scapole
-  nel punto più alto.
-  T (Braccia aperte): Apri le braccia lateralmente, perpendicolari al corpo, formando una "T". Concentrati sullo stringere le scapole.
-  W (Braccia piegate): Tira i gomiti indietro piegandoli a 90°, stringendo le scapole per formare una "W". Tieni i polsi fermi.
-  L (Rotazione esterna):
-  Gomiti piegati a 90° e vicini al corpo. Ruota gli avambracci verso
-  l'esterno (rotazione esterna) come dei pali della porta, formando una
-  "L".
-  Attenzione:
-  I movimenti devono essere lenti e controllati. Guida sempre il
-  movimento con i pollici e concentrati sul movimento delle scapole, non
-  solo delle braccia.
+description: "Obiettivo:\nMigliorare la stabilità della spalla, la postura e il controllo\
+  \ delle\nscapole. Ampiamente usato in fisioterapia e nel riscaldamento.\nPosizione\
+  \ iniziale:\nIn piedi con i piedi alla larghezza delle spalle. Piega il busto in\n\
+  avanti mantenendo la schiena dritta (come uno stacco), oppure sdraiati a\npancia\
+  \ in giù su una panca inclinata. Tieni i pollici sempre rivolti\nverso l'alto.\n\
+  Y (Braccia in alto):\nDistendi entrambe le braccia dritte in avanti e verso l'alto\
+  \ con un\nangolo di 135° rispetto al corpo, formando una \"Y\". Unisci le scapole\n\
+  nel punto più alto.\nT (Braccia aperte): Apri le braccia lateralmente, perpendicolari\
+  \ al corpo, formando una \"T\". Concentrati sullo stringere le scapole.\nW (Braccia\
+  \ piegate): Tira i gomiti indietro piegandoli a 90°, stringendo le scapole per formare\
+  \ una \"W\". Tieni i polsi fermi.\nL (Rotazione esterna):\nGomiti piegati a 90°\
+  \ e vicini al corpo. Ruota gli avambracci verso\nl'esterno (rotazione esterna) come\
+  \ dei pali della porta, formando una\n\"L\".\nAttenzione:\nI movimenti devono essere\
+  \ lenti e controllati. Guida sempre il\nmovimento con i pollici e concentrati sul\
+  \ movimento delle scapole, non\nsolo delle braccia."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

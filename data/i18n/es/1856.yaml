@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1856'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Tibial anterior
-description: Deslice el tibial anterior lentamente sobre el Foam Roller
+description: "Posición inicial: Colócate en posición cuadrúpeda (a cuatro patas) y\
+  \ sitúa el rodillo de espuma bajo la parte anterolateral de la espinilla, sobre\
+  \ el músculo tibial anterior.\nEjecución: Rueda despacio desde el tobillo hasta\
+  \ justo debajo de la rodilla, controlando el peso con las manos y la rodilla de\
+  \ apoyo.\nConsejos: Evita presionar directamente sobre la cresta ósea de la tibia;\
+  \ enfoca el masaje en el tejido muscular blando."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

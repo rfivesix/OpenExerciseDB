@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1972'
 language: it
-status: upstream_unreviewed
-name: Lat machine monolaterale con maniglia
+status: ai_reviewed
+name: Lat machine unilaterale con maniglia
 description: |-
-  Siediti alla lat machine e afferra la maniglia singola con una presa neutra. Mantieni il busto stabile, il petto sollevato e le scapole leggermente addotte. Inizia con il braccio completamente esteso sopra la testa, quindi tira la maniglia verso la parte alta del petto seguendo una traiettoria controllata e leggermente diagonale. Concentrati sull’attivazione del gran dorsale mantenendo la spalla depressa ed evitando qualsiasi rotazione del busto. Ritorna lentamente alla posizione iniziale mantenendo sempre il controllo del movimento.
+  Posizione di partenza:
+  Siediti alla lat machine e afferra la maniglia singola con una presa neutra. Mantieni il busto eretto, il petto sollevato e le scapole stabilizzate verso il basso.
+
+  Esecuzione:
+  1. Tira la maniglia verso la parte alta del petto guidando il gomito verso il basso e vicino al costato.
+  2. Contrai intensamente il gran dorsale nella posizione di massima contrazione per un secondo.
+  3. Risali lentamente verso l'alto con pieno controllo fino alla completa estensione del braccio per allungare il dorsale.
+  4. Completa le ripetizioni previste e ripeti con l'altro lato.
+
+  Consigli:
+  Mantieni le spalle allineate evitando qualsiasi torsione o compensazione con il tronco.
+search_terms:
+- Lat machine monolaterale con maniglia
+- Lat machine a un braccio
+- Pulldown monolaterale al cavo
+- Single-Arm Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: evtimovgeorg

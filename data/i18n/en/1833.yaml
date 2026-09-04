@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1833'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Floor Glider Hamstring Curls
-description: |-
-  Lie on back with heels on floor gliders or towels. Lift hips into a bridge, then slide heels toward glutes while keeping hips elevated. Slowly return to the starting position while maintaining the hip bridge.
+description: "Starting Position:\nLie flat on your back on the floor with your heels\
+  \ planted on sliding discs (or towels on a smooth floor). Keep your arms at your\
+  \ sides for stability. Drive through your heels to raise your hips into a glute\
+  \ bridge position, forming a straight line from knees to shoulders.\n\nExecution:\n\
+  1. Maintaining hip elevation, slowly slide your heels forward away from your body\
+  \ until your legs are nearly fully extended.\n2. Pause briefly at full extension\
+  \ without allowing your glutes to touch the floor.\n3. Powerfully curl your heels\
+  \ back toward your glutes by contracting your hamstrings, driving your hips higher\
+  \ as your heels arrive under your knees.\n4. Repeat smoothly for the desired number\
+  \ of repetitions.\n\nCues:\nKeep your hips elevated throughout both the extension\
+  \ and curl phases to maximize hamstring recruitment under full tension."
+search_terms:
+  - Floor Glider Hamstring Curls
+  - Slider Leg Curl
+  - Glider Hamstring Curl
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2968'

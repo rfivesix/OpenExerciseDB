@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1924'
 language: en
-status: upstream_unreviewed
-name: 3008 Abdominal Crunch
-description: This is especially for the gym80 device 3008 Abdominal Crunch.
+status: ai_reviewed
+name: gym80 3008 Abdominal Crunch Machine
+description: 'Starting position:
+
+  Sit on the gym80 3008 Abdominal Crunch machine. Adjust the seat and leg pads so that the machine''s pivot axis aligns precisely with your lumbar spine. Rest your upper torso against the chest pad and lightly hold the handles.
+
+
+  Execution:
+
+  Exhale and curl your torso forward and down by flexing your spine through maximal contraction of your rectus abdominis. Pause and squeeze your abs tightly at peak contraction for one second. Slowly resist the weight as you return to the upright starting position without letting the stack slam.
+
+
+  Tips:
+
+  Initiate and drive the entire movement with your abdominal muscles; do not pull with your arms or push through your feet.'
 search_terms:
-  - 3008 Klappsitz
+- 3008 Klappsitz
+- 3008 Abdominal Crunch
+- gym80 3008 Klappsitz
+- Machine Crunch gym80
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3073'

@@ -1,14 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1574'
 language: en
-status: upstream_unreviewed
-name: Schwimmen
-description: 800m Schwimmen in 20 Minuten
+status: ai_reviewed
+name: Swimming
+description: 'Starting Position:
+
+  Enter the pool and prepare in the water for laps using your preferred stroke (such
+  as freestyle or breaststroke).
+
+
+  Execution:
+
+  1. Swim continuous laps at a steady, rhythmic cadence focusing on smooth breathing
+  and efficient propulsion.
+
+  2. Engage your latissimus dorsi, deltoids, and core to pull through the water with
+  full arm extension.
+
+  3. Maintain a streamlined horizontal body position throughout the session.
+
+
+  Cues:
+
+  Swimming provides low-impact, high-efficiency cardiovascular conditioning and muscular
+  endurance, heavily engaging the back, shoulders, and core.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: delta@romeo
   source_id: '2522'
+search_terms:
+- Freestyle Swimming
+- Lap Swimming
+- Schwimmen

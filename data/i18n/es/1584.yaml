@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1584'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Marcha o trote en el lugar
 description: |-
-  Ejercicio cardiovascular de bajo impacto que simula correr sin desplazamiento, ideal para calentar, mejorar la resistencia o entrenar en espacios reducidos.
+  Posición inicial:
+  Ponte de pie con los pies separados al ancho de las caderas, las rodillas relajadas, el pecho erguido y el abdomen ligeramente activo. Dobla los codos a 90 grados a los lados del cuerpo.
+
+  Ejecución:
+  Comienza levantando una rodilla hacia la altura de la cadera y bájala apoyando suavemente la parte delantera del pie mientras elevas la rodilla contraria. Mueve los brazos rítmicamente en coordinación cruzada con las piernas. Mantén un ritmo de marcha constante y controlado, o auméntalo progresivamente a un trote suave en el sitio.
+
+  Consejos:
+  - Aterriza con suavidad sobre la bola del pie para minimizar el impacto en las articulaciones.
+  - Mantén una postura erguida durante todo el ejercicio.
 upstream:
   license: CC-BY-SA-4.0
   license_author: admin

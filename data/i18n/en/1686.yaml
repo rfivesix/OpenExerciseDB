@@ -1,14 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1686'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Glute Bridge Single-Arm Press
 description: |-
-  With one dumbbell in hand, perform a glute bridge. Now hold the dumbbell above your chest, this is the rep starting position.&nbsp;Lower the dumbbell so that your elbow touches the floor or is roughly 45 degrees below your shoulder if using a bench. Push the dumbbell back into the starting position.
+  Starting position:
+  Lie flat on your back with knees bent and feet flat on the floor, holding a dumbbell in one hand. Drive through your heels to raise your hips into a stable glute bridge, and press the dumbbell directly above your chest.
+  
+  Movement:
+  1. Lower the dumbbell with control until your upper arm or elbow touches the floor at roughly a 45-degree angle to your body.
+  2. Press the dumbbell back up to the starting position while keeping your hips fully extended.
+  3. Complete the prescribed repetitions, then repeat on the opposite side.
+  
+  Tips:
+  Keep your glutes firmly squeezed and core tight throughout to prevent your hips from rotating or sagging.
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun

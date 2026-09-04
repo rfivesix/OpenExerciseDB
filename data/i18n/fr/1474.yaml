@@ -5,11 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1474'
 language: fr
-status: upstream_unreviewed
-name: W-Raise
+status: ai_reviewed
+name: Relevé en W (W-Raise)
 description: |-
-  Cet exercice exigeant est une variante des crunchs inversés, composée de trois parties au cours desquelles nous dessinons essentiellement un « W » à l'envers avec nos jambes.
-  La position de départ consiste à être allongé sur le dos, à plat sur le sol, jambes tendues au point bas de la branche externe du « W ». En gardant un gainage solide et les jambes tendues, montez, soulevez les hanches puis abaissez lentement les jambes à mi-hauteur. Ensuite, en relevant les jambes vers le haut, soulevez à nouveau les hanches, en maintenant cette ligne droite, et utilisez la force de votre sangle abdominale pour finalement redescendre complètement vers l'autre branche externe du W. Inversez ensuite le « W » pour revenir au départ.
+  Position de départ :
+  Allongez-vous sur le dos sur un tapis, les bras le long du corps pour la stabilité. Gardez les jambes tendues et légèrement décollées du sol.
+
+  Exécution :
+  1. En maintenant le gainage abdominal, levez les jambes en diagonale vers la gauche en décollant le bassin du sol (première branche du W inversé).
+  2. Redescendez les jambes à mi-hauteur de manière contrôlée, amenez-les au centre et levez-les droit vers le haut en soulevant à nouveau les hanches.
+  3. Redescendez à mi-hauteur puis levez les jambes en diagonale vers la droite.
+  4. Inversez le parcours pour revenir au point de départ et continuez la séquence.
+
+  Conseils :
+  Gardez les abdominaux sous tension continue et évitez tout élan des jambes pour protéger le bas du dos.
+search_terms:
+  - W-Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

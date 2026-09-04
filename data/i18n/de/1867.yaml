@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1867'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hüftbeugerdehnung
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Begib dich in den halbknienden Ausfallschritt (ein\
+  \ Knie am Boden, vorderes Bein im 90-Grad-Winkel aufgestellt). Der Oberkörper bleibt\
+  \ aufrecht.\nAusführung: Spanne den Gesäßmuskel der hinteren Seite an und kippe\
+  \ das Becken leicht nach hinten. Schiebe die Hüfte sanft nach vorne, bis eine deutliche\
+  \ Dehnung in der Vorderseite der Leiste und des Oberschenkels spürbar wird.\nHinweise:\
+  \ Vermeide es, ins Hohlkreuz zu fallen. Halte die Dehnung für 20–30 Sekunden bei\
+  \ ruhiger Atmung und wechsle die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -1,19 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1830'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Ausfallschritt nach hinten mit Langhantel
-description: |-
-  Schritt 1: Stehe mit hüftbreit aufgestellten Füßen und halte eine Langhantel auf deinem oberen Rücken.
-  Schritt 2: Halte deinen Rücken gerade, die Brust aufgerichtet und den Rumpf angespannt.
-  Schritt 3: Mache mit einem Bein einen Schritt nach hinten und senke deinen Körper, indem du beide Knie beugst. Achte darauf, dass dein hinteres Knie den Boden fast berührt.
-  Schritt 4: Drücke dich mit dem hinteren Fuß ab, um in die Ausgangsposition zurückzukehren.
-  Schritt 5: Wiederhole die Bewegung mit dem anderen Bein.
-  Wechsle weiter zwischen den Beinen für die gewünschte Anzahl an Wiederholungen ab.
+description: "Ausgangsposition:\nNimm eine Langhantel im oberen Rückenbereich auf\
+  \ (High-Bar). Stehe aufrecht mit hüftbreitem Stand, Brust angehoben und Rumpf fest\
+  \ angespannt.\n\nAusführung:\n1. Mache mit einem Bein einen weiten, kontrollierten\
+  \ Schritt nach hinten und senke dein Becken senkrecht ab.\n2. Beuge beide Knie,\
+  \ bis der vordere Oberschenkel parallel zum Boden ist und das hintere Knie kurz\
+  \ über dem Boden schwebt (beide Knie etwa im 90-Grad-Winkel).\n3. Drücke dich kraftvoll\
+  \ über die Ferse des VORDEREN Fußes ab, um in den aufrechten Stand zurückzukehren.\n\
+  4. Wiederhole die Bewegung mit dem anderen Bein im Wechsel oder absolviere zunächst\
+  \ alle Wiederholungen auf einer Seite.\n\nHinweise:\nDer Ausfallschritt nach hinten\
+  \ (Reverse Lunge) ist knieschonender als der Ausfallschritt nach vorne und fordert\
+  \ Gesäß und Oberschenkel intensiv."
+search_terms:
+  - Barbell Step Back Lunge
+  - Barbell Reverse Lunge
+  - Ausfallschritte rückwärts
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

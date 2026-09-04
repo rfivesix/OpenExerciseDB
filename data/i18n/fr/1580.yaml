@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1580'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rowing landmine unilatéral perpendiculaire
 description: |-
-  À l'aide d'un accessoire landmine, la barre orientée à 90 degrés sur le côté, basculez légèrement au niveau des hanches et saisissez la barre par le manchon à disques. Soulevez la barre jusqu'à hauteur de poitrine, le haut du bras parallèle au sol en haut du mouvement.
+  Position de départ:
+  Installez une barre dans un support landmine de façon à ce qu'elle soit perpendiculaire (à 90 degrés) par rapport à votre corps. Tenez-vous debout à côté du manchon de chargement, inclinez le buste vers l'avant à partir des hanches en gardant le dos droit, et saisissez le manchon de la barre à une main.
+
+  Exécution:
+  Gaine la sangle abdominale et tirez la barre vers le côté de la poitrine ou le bas des côtes. Conduisez le coude vers l'arrière et le haut sans tourner le torse. Contractez fermement le grand dorsal au sommet du mouvement, puis redescendez la barre de façon contrôlée jusqu'à extension complète du bras.
+
+  Conseils:
+  - Gardez le dos neutre et résistez à toute rotation du buste lors du tirage.
+  - Tirez en initiant le mouvement par le coude pour maximiser le recrutement du dos.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

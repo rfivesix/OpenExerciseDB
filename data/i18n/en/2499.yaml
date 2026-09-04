@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2499'
 language: en
-status: upstream_unreviewed
-name: Incline Push-ups (Vasco L2)
+status: ai_reviewed
+name: Incline Push-Ups
 description: |-
-  Vasco custom incline push-up progression for beginner home training. Bridges wall push-ups to floor push-ups. Part of Monday Push day.
+  Starting Position:
+  Place your hands slightly wider than shoulder-width apart on a sturdy elevated surface such as a bench, table, or step. Walk your feet back until your body forms a straight, rigid plank from head to heels.
+
+  Execution:
+  1. Lower your chest toward the edge of the elevated surface with control, keeping your elbows angled back at roughly 45 degrees.
+  2. Maintain active tension through your core and glutes to keep your hips aligned with your spine.
+  3. Press firmly away from the surface until your arms are extended back to the starting plank.
+
+  Cues:
+  Do not allow your lower back to sag or hips to hike; adjust the height of the incline to scale difficulty smoothly toward floor push-ups.
+search_terms:
+- Incline Push-ups (Vasco L2)
+- Incline Push-Ups
+- Hands Elevated Push-Ups
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4981'

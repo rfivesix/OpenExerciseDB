@@ -1,17 +1,14 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1716'
 language: fr
-status: upstream_unreviewed
-name: Pompe inclinée pour les épaules
+status: ai_reviewed
+name: Pompe scapulaire inclinée
 description: |-
   Placez vos mains sur le banc en position de pompe
   Éloignez votre poitrine du banc pour écarter vos omoplates
   En gardant les coudes tendus, abaissez votre poitrine vers le banc de sorte que vos omoplates se rapprochent
   Éloignez de nouveau votre poitrine du banc
+search_terms:
+  - Pompe inclinée pour les épaules
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

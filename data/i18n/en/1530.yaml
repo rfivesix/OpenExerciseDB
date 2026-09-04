@@ -1,20 +1,32 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1530'
 language: en
-status: upstream_unreviewed
-name: Lying Dumbbell Curls
-description: |-
-  Take a
-  dumbbell in each hand and lie backwards on a bench, similar to a classic chest press.
-  Let your arms hang down at your sides, with the dumbbells possibly touching the
-  floor. Now start to lift the dumbbells upwards until your forearms are
-  perpendicular to the ceiling. Slowly lower the dumbbells until they almost
-  touch the floor again. Keep your ellbows in place to minimize cheating.
+status: ai_reviewed
+name: Lying Dumbbell Curl
+description: 'Starting Position:
+
+  Hold a dumbbell in each hand and lie flat on your back on a bench. Let your arms
+  hang down straight towards the floor on either side of the bench.
+
+
+  Execution:
+
+  1. Keeping your upper arms stable and elbows in place, curl the dumbbells upward
+  until your forearms are perpendicular to the ceiling.
+
+  2. Squeeze your biceps firmly at the top of the movement.
+
+  3. Slowly lower the dumbbells back down under control until your arms are fully
+  extended.
+
+
+  Cues:
+
+  Lying on a bench eliminates torso momentum and places the long head of the biceps
+  under a significant passive stretch at the bottom.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2488'
+search_terms:
+- Lying Dumbbell Curls
+- Supine Dumbbell Curl

@@ -5,10 +5,24 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1496'
 language: de
-status: upstream_unreviewed
-name: Kurzhantel-Variation für die obere Brust
+status: ai_reviewed
+name: Kurzhantel-Frontheben supiniert für die obere Brust
 description: |-
-  Halte die Kurzhantel wie bei einem Curl in der Hand und lehne deinen Körper in den Arm, um die Kurzhantel über die Brust nach oben zu führen, neben den Kopf, um die Brustmuskulatur und den Deltamuskel gemeinsam zu aktivieren.
+  Ausgangsposition:
+  Stehe aufrecht oder setze dich leicht geneigt hin. Halte eine Kurzhantel in einer Hand mit nach oben zeigender Handfläche (Supination) auf Hüfthöhe, der Ellenbogen ist leicht angewinkelt. Lehne den Oberkörper minimal in Richtung des arbeitenden Arms.
+
+  Ausführung:
+  1. Hebe die Kurzhantel in einem leichten Bogen diagonal nach oben und innen vor das Gesicht bzw. über die obere Brust.
+  2. Führe die Bewegung entlang des Faserverlaufs des Schlüsselbeinteils des großen Brustmuskels (obere Brust) und des vorderen Deltamuskels aus.
+  3. Spanne die obere Brust am höchsten Punkt für eine Sekunde maximal an.
+  4. Senke die Kurzhantel langsam und kontrolliert wieder in die Ausgangsposition ab.
+
+  Hinweise:
+  Die Supination des Unterarms in Kombination mit der diagonalen Vorwärts-Aufwärts-Bewegung aktiviert gezielt die klavikulären Fasern der Brustmuskulatur.
+search_terms:
+  - Kurzhantel-Variation für die obere Brust
+  - Upper Chest Dumbbell Raise
+  - Supinierte Kurzhantel-Drückvariante
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,14 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1893'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Press de barra por encima de la cabeza
-description: |-
-  Preparación: Ponte de pie con los pies juntos y agarra la barra un poco más ancha que los hombros.
-  Posición: Apoya la barra sobre la parte superior del pecho.
-  Empuje: Activa el core y empuja la barra recta hacia arriba hasta que los brazos queden completamente estirados.
-  Final: Baja la barra de forma controlada de vuelta al pecho.
-  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+description: "Preparación: Ponte de pie con los pies a la anchura de las caderas y\
+  \ agarra la barra un poco más ancha que los hombros.\nPosición: Apoya la barra sobre\
+  \ la parte superior del pecho y los deltoides anteriores.\nEmpuje: Activa el core\
+  \ y empuja la barra recta hacia arriba hasta que los brazos queden completamente\
+  \ estirados por encima de la cabeza.\nFinal: Baja la barra de forma controlada de\
+  \ vuelta al pecho."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

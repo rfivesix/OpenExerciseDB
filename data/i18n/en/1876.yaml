@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1876'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Supported Calf Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Stand facing a wall about an arm's length away and\
+  \ place both palms flat on the wall at shoulder height.\nExecution: Step one leg\
+  \ back into a staggered stance, keeping that trailing leg straight and pressing\
+  \ the heel firmly into the floor. Bend your front knee and lean your hips toward\
+  \ the wall until you feel a strong stretch in your back calf.\nTips: Ensure both\
+  \ feet point directly forward without turning outward. Hold the stretch for 20–30\
+  \ seconds, then switch legs."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

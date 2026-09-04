@@ -1,15 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1912'
 language: de
-status: upstream_unreviewed
-name: Rumpfrotation
-description: |-
-  Setze dich zurück, hebe die Füße mit gebeugten Knien vom Boden ab und beginne, dich nach links und rechts zu drehen, wobei du bei jeder Bewegung mit den Händen den Boden berührst.
+status: ai_reviewed
+name: Rumpfrotation im Sitzen (Russian Twist)
+description: 'Ausgangsposition:
+
+  Setze dich auf eine Matte, beuge die Knie und stelle die Fersen auf. Lehne den geraden Oberkörper leicht nach hinten (ca. 45 Grad), bis die Bauchmuskeln spürbar arbeiten. Hebe die Füße knapp vom Boden ab, um auf den Sitzbeinhöckern zu balancieren.
+
+
+  Ausführung:
+
+  Rotiere den Oberkörper kontrolliert von Seite zu Seite und berühre mit den Händen jeweils neben der Hüfte kurz den Boden. Führe die Bewegung flüssig und kontrolliert aus der Bauch- und Rumpfmuskulatur aus.
+
+
+  Hinweise:
+
+  Halte die Brust stolz und die Wirbelsäule gestreckt; vermeide ein Einrunden des unteren Rückens oder reines Hin- und Herschwingen der Arme.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4278'
+search_terms:
+- Rumpfrotation
+- Russian Twist
+- Core Rotation
+- Sitzendes Drehen

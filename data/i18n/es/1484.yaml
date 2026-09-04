@@ -5,28 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1484'
 language: es
-status: upstream_unreviewed
-name: Cruce de poleas omni
+status: ai_reviewed
+name: Cruce de poleas omni (Omni Cable Crossover)
 description: |-
-  Ajusta los pesos según el
-  movimiento. Al tirar de arriba hacia abajo, aumenta el peso entre un 20 % y un 40 %
-  más que en el movimiento de abajo hacia arriba. Esto compensa el hecho de que, al
-  trabajar de arriba hacia abajo, los músculos de la parte alta del pecho son por naturaleza más débiles que
-  los de la parte baja del pecho. Así que ajusta tu placa de pesos para
-  compensarlo.
+  Posición inicial:
+  Coloca una polea en la posición más alta y la otra en la posición más baja de la estación de poleas. Sitúate en el centro con una postura de pies escalonada y sujeta ambos agarres.
 
-  Coloca una polea en una posición
-  alta y la otra en la posición más baja. Adopta una postura escalonada
-  entre las torres de poleas.
-  Con la polea colocada abajo, tira de ella
-  hacia arriba y cruzando tu cuerpo. Esto trabaja eficazmente la parte alta del pecho.
-  Con la polea colocada arriba, tira de ella
-  hacia abajo y cruzando tu cuerpo. Esto activa principalmente la parte baja del pecho.
+  Ejecución:
+  1. Tira de la polea baja hacia arriba y diagonalmente a través del torso para activar las fibras superiores del pectoral.
+  2. Lleva la polea alta hacia abajo y cruzando el cuerpo para reclutar la parte inferior del pecho.
+  3. Al finalizar la serie, invierte las alturas de las poleas para entrenar ambos lados por igual.
 
-  Cuando termines, intercambia las
-  posiciones de las poleas. Cambia la polea que antes estaba arriba a la posición más baja
-  y viceversa. Repite la secuencia del ejercicio, asegurándote de
-  trabajar eficazmente ambas zonas del pecho.
+  Consejos:
+  Adapta las cargas según la dirección del movimiento: en la trayectoria descendente se suele poder mover un 20-40 % más de carga que en la ascendente.
+search_terms:
+  - Cruce de poleas omni
+  - Omni Cable Crossover
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

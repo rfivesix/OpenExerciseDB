@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1683'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zottman curl
 description: |-
-  With your palms facing forward, curl the weights up to your shoulders. Turn your hands so that that your palms downwards and slowly return the weights back down. Finally face your palms back forward.
+  Starting position:
+  Stand upright holding a dumbbell in each hand at your sides, palms facing forward (underhand grip).
+  
+  Movement:
+  1. Curl the weights up toward your shoulders in a smooth, controlled motion.
+  2. At the top of the movement, rotate your wrists so that your palms face downward (overhand grip).
+  3. Slowly lower the dumbbells back down under control in this pronated position.
+  4. At the bottom, rotate your palms forward again to reset.
+  
+  Tips:
+  Keep your elbows stationary at your sides and avoid swinging. The controlled overhand lowering phase heavily recruits the brachioradialis and forearm muscles.
 upstream:
   license: CC-BY-SA-4.0
   license_author: meldun

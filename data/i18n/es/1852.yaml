@@ -5,11 +5,12 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1852'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: L-Sit
-description: |-
-  Siéntate en el suelo con las piernas juntas y los brazos a los lados. Empuja tu cuerpo hacia arriba separándolo del suelo con las manos, manteniendo la misma posición de sentado para que las piernas queden rectas y los pies no toquen el suelo.
-  Mantén la posición el tiempo que necesites.
+description: "Siéntate en el suelo con las piernas juntas y los brazos a los lados.\
+  \ Empuja tu cuerpo hacia arriba separándolo del suelo con las manos, manteniendo\
+  \ la misma posición de sentado para que las piernas queden rectas y los pies no\
+  \ toquen el suelo.\nMantén la posición el tiempo que necesites."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

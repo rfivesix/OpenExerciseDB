@@ -5,13 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Liegestütze mit Zusatzgewicht
-description: |-
-  Aufbau: Beginne in einer normalen Plank-Position mit einer Gewichtsscheibe, die sicher auf deinem oberen Rücken balanciert.
-  Ausrichtung: Halte eine gerade Linie vom Kopf bis zu den Fersen und spanne deinen Rumpf an, damit dein Rücken nicht durchhängt.
-  Ausführung: Senke deinen Körper, bis deine Brust den Boden fast berührt, und halte die Ellbogen in einem 45-Grad-Winkel.
-  Aufwärtsbewegung: Drücke dich über die Handflächen zurück in die Ausgangsposition und strecke die Arme vollständig durch.
+description: "Aufbau: Beginne in einer normalen Plank-Position mit einer Gewichtsscheibe,\
+  \ die sicher auf deinem oberen Rücken balanciert.\nAusrichtung: Halte eine gerade\
+  \ Linie vom Kopf bis zu den Fersen und spanne deinen Rumpf an, damit dein Rücken\
+  \ nicht durchhängt.\nAusführung: Senke deinen Körper, bis deine Brust den Boden\
+  \ fast berührt, und halte die Ellbogen in einem 45-Grad-Winkel.\nAufwärtsbewegung:\
+  \ Drücke dich über die Handflächen zurück in die Ausgangsposition und strecke die\
+  \ Arme vollständig durch."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

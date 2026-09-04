@@ -1,10 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1874'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Läufer-Ausfallschritt-Dehnung
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Mache einen weiten Schritt nach vorne in einen tiefen\
+  \ Ausfallschritt. Platziere beide Hände flach auf dem Boden auf der Innenseite oder\
+  \ zu beiden Seiten des vorderen Fußes.\nAusführung: Strecke das hintere Bein lang\
+  \ durch und schiebe die hintere Ferse nach hinten, während du die Hüfte kontrolliert\
+  \ nach unten sinken lässt. Das vordere Knie bleibt über dem Sprunggelenk.\nHinweise:\
+  \ Halte die Brust aufgerichtet und den Rücken lang. Spüre die Dehnung in den Hüftbeugern\
+  \ des hinteren Beins und der Oberschenkelrückseite. Halte für 20–30 Sekunden pro\
+  \ Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

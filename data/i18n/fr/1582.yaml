@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1582'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Rotation interne en décubitus latéral
 description: |-
-  Allongé sur le côté et en utilisant le bras le plus proche du banc, maintenez le coude fléchi à 90 degrés et laissez le poids descendre vers le sol au-delà du banc, aussi bas que possible sans inconfort. Remontez le poids en utilisant uniquement la rotation de l'épaule vers l'épaule opposée.
+  Position de départ:
+  Allongez-vous de côté sur un banc plat. Utilisez le bras du dessous (le plus proche du banc). Gardez le coude fléchi à 90 degrés et le bras bien calé en tenant un haltère léger.
+
+  Exécution:
+  Laissez descendre le poids de manière contrôlée vers le sol au-delà du bord du banc, aussi bas que possible sans douleur. Remontez ensuite le poids en effectuant une rotation interne de l'épaule vers votre buste et l'épaule opposée.
+
+  Conseils:
+  - Utilisez une charge légère pour préserver et renforcer les rotateurs internes sans compensation.
+  - Conservez l'angle de 90 degrés au niveau du coude durant toute l'amplitude.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1905'
 language: es
-status: upstream_unreviewed
-name: Pullback
-description: |-
-  Ajusta el peso y el agarre de las poleas en la jaula. Da unos pasos hacia atrás, inclínate hacia delante, tira y extiende la espalda al mismo tiempo.
+status: ai_reviewed
+name: Pullback en polea con extensión de espalda
+description: 'Posición inicial:
+
+  Ajusta las poleas a la altura de la cadera o el pecho y coloca los agarres adecuados. Sujeta los agarres, da unos pasos hacia atrás, flexiona ligeramente las rodillas e inclina el torso recto hacia delante desde la cadera con los brazos extendidos.
+
+
+  Ejecución:
+
+  Tira de los agarres hacia el cuerpo mientras extiendes la espalda y abres el pecho al mismo tiempo. Junta las escápulas en la contracción máxima y regresa lentamente a la posición inicial inclinada.
+
+
+  Consejos:
+
+  Mantén la zona lumbar firme y realiza el movimiento de tirón y extensión de forma coordinada y sin balanceos.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4269'
+search_terms:
+- Pullback

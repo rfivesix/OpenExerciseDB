@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1683'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Zottman-Curl
 description: |-
-  Curle die Gewichte mit nach vorne zeigenden Handflächen zu deinen Schultern. Drehe deine Hände so, dass deine Handflächen nach unten zeigen, und senke die Gewichte langsam wieder ab. Drehe schließlich deine Handflächen wieder nach vorne.
+  Ausgangsposition:
+  Aufrecht stehen, in jeder Hand eine Kurzhantel im Untergriff (Handflächen zeigen nach vorne) seitlich am Körper halten.
+  
+  Ausführung:
+  1. Die Kurzhanteln kontrolliert nach oben zu den Schultern curlen.
+  2. Am obersten Punkt die Handgelenke nach innen drehen, sodass die Handflächen nach unten zeigen (Obergriff).
+  3. Die Kurzhanteln langsam und kontrolliert im Obergriff absenken.
+  4. Am tiefsten Punkt die Handflächen wieder nach vorne drehen.
+  
+  Hinweise:
+  Die Ellbogen eng am Körper halten. Die betonte exzentrische Phase im Obergriff stärkt gezielt den Brachioradialis und die Unterarmmuskulatur.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

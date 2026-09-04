@@ -1,10 +1,24 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1493'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Bayesian Curl
-description: Kabelzugcurl mit gestreckter Schulter (nach hinten).
+name: Bayesian Curl am Kabelzug
+description: |-
+  Ausgangsposition:
+  Befestige einen D-Griff an einem tiefen Kabelzug. Stelle dich mit dem Rücken zum Kabelturm etwa einen Schritt nach vorne in eine versetzte Schrittstellung. Greife den Griff einarmig hinter deinem Körper, sodass dein Arm leicht nach hinten gestreckt ist und der lange Kopf des Bizeps unter starker Vordehnung steht.
+
+  Ausführung:
+  1. Beuge den Ellenbogen und curle den Griff nach vorne und oben in Richtung Schulter, ohne den Oberarm nach vorne zu werfen.
+  2. Spanne den Bizeps am obersten Punkt für eine Sekunde intensiv an.
+  3. Senke den Griff langsam und kontrolliert über 2 bis 3 Sekunden wieder nach hinten unten in die vollständige Dehnung ab.
+
+  Hinweise:
+  Da die Schulter nach hinten überstreckt ist (Retroversion), wird der lange Kopf des Bizeps maximal vorgedehnt und über die gesamte Bewegung unter kontinuierlicher Kabelspannung gehalten.
+search_terms:
+  - Bayesian Curl
+  - Kabelzugcurl überstreckt
+  - Biceps Curl Kabelzug überstreckt
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja

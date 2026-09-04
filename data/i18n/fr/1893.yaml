@@ -5,14 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1893'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Développé militaire à la barre
-description: |-
-  Mise en place : Tenez-vous debout, les pieds joints, et saisissez la barre un peu plus large que la largeur des épaules.
-  Position : Posez la barre sur le haut de la poitrine.
-  Poussée : Gainez la sangle abdominale et poussez la barre droit vers le haut jusqu'à ce que vos bras soient tendus.
-  Fin : Contrôlez la descente de la barre jusqu'à votre poitrine.
-  https://youtu.be/ZXpdJOLNoWw?si=u27cGyODoblXHBu1
+description: "Mise en place : Tenez-vous debout avec les pieds écartés de la largeur\
+  \ des hanches et saisissez la barre un peu plus large que les épaules.\nPosition\
+  \ : Posez la barre sur le haut de la poitrine et les deltoïdes antérieurs.\nPoussée\
+  \ : Gainez la sangle abdominale et poussez la barre droit vers le haut jusqu'à l'extension\
+  \ complète des bras au-dessus de la tête.\nFin : Contrôlez la descente de la barre\
+  \ jusqu'à votre poitrine."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

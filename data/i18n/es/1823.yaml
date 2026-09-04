@@ -1,17 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1823'
 language: es
-status: upstream_unreviewed
-name: Almeja (clamshell)
-description: |-
-  Posición
-  Plancha lateral con el codo y el antebrazo en el suelo y las piernas ligeramente flexionadas.
-  Ejecución
-  Eleva la rodilla superior manteniendo los pies juntos, como una "almeja que se abre", y luego regresa lentamente a la posición inicial. Mantén el core estable y las caderas alineadas.
+status: ai_reviewed
+name: Almeja (Clamshell)
+description: "Posición inicial:\nTúmbate de lado sobre una colchoneta con las caderas\
+  \ flexionadas a 45 grados y las rodillas dobladas a 90 grados, manteniendo las piernas\
+  \ apiladas y los talones juntos. Apoya la cabeza cómodamente sobre el brazo inferior.\n\
+  \nEjecución:\n1. Manteniendo los talones pegados entre sí, eleva la rodilla superior\
+  \ hacia el techo abriéndola como una concha de almeja.\n2. Sube hasta el punto máximo\
+  \ sin permitir que la pelvis gire hacia atrás.\n3. Aprieta el glúteo medio durante\
+  \ 1 a 2 segundos en la parte alta.\n4. Desciende la rodilla lentamente hasta la\
+  \ posición inicial con total control.\n\nConsejos:\nMantén la cadera perpendicular\
+  \ al suelo sin rodar hacia atrás durante la apertura."
+search_terms:
+  - Almeja
+  - Clamshell
+  - Almeja ejercicio
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

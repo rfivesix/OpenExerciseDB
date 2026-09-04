@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1971'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage Mentzer
 description: |-
-  Tirage vertical face à la machine en prise serrée, en mettant l'accent sur les biceps. Augmente l'activation des biceps sur toute l'amplitude. Évitez de solliciter le grand dorsal.
+  Position de départ :
+  Asseyez-vous à la machine de tirage vertical et ajustez le boudin pour caler fermement vos cuisses. Saisissez la barre avec une prise supination serrée (paumes tournées vers vous), à la largeur des épaules ou légèrement moins.
+
+  Exécution :
+  1. En gardant le buste droit et la cage thoracique ouverte, tirez la barre vers le haut de la poitrine en ramenant les coudes vers le bas et l'arrière.
+  2. Marquez une pause d'une à deux secondes en bas du mouvement en contractant intensément les dorsaux et les biceps.
+  3. Remontez lentement et sous contrôle jusqu'à l'extension complète des bras pour profiter d'un étirement maximal.
+
+  Conseils :
+  Ne donnez pas d'élan avec le dos ; concentrez-vous sur la tension continue et le contrôle du mouvement.
+search_terms:
+- Tirage vertical prise serrée supination
+- Mentzer Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

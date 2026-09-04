@@ -1,14 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1521'
 language: en
-status: upstream_unreviewed
-name: Pendular hack
-description: Pendulum hack, made on a pendulum machine
+status: ai_reviewed
+name: Pendulum Hack Squat
+description: 'Starting Position:
+
+  Position yourself in the pendulum hack squat machine with your back and shoulders
+  firmly against the pads. Place your feet shoulder-width apart on the footplate and
+  disengage the safety handles.
+
+
+  Execution:
+
+  1. Descend smoothly along the curved pendulum trajectory by bending your knees and
+  hips into a deep squat.
+
+  2. At the bottom of the movement where your quadriceps are fully stretched, drive
+  through your whole foot to press back up.
+
+  3. Stop just short of locking your knees to keep tension squarely on the quads.
+
+
+  Cues:
+
+  The pendulum arc significantly reduces knee joint shear forces while providing intense
+  quad loading throughout the full range of motion.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2477'
+search_terms:
+- Pendular hack
+- Pendulum Hack

@@ -1,10 +1,25 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1920'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Intensive Schulterdehnung
-description: Tiefe belastete Dehnung für die Deltamuskeln, die nach Druckbewegungen ausgeführt wird.
+description: 'Ausgangsposition:
+
+  Stelle dich aufrecht mit dem Rücken zu einer hüfthohen Bank oder Stange. Platziere beide Hände hinter dem Rücken auf der Kante oder greife mit einer Hand einen festen Pfeiler hinter dir.
+
+
+  Ausführung:
+
+  Senke die Hüfte kontrolliert leicht ab oder trete sanft einen Schritt nach vorne, sodass die Arme hinter den Rumpf in die Streckung geführt werden. Halte die Brust aufgerichtet und die Schultern nach hinten unten gezogen, bis eine deutliche Dehnung im vorderen und seitlichen Deltamuskel spürbar wird. Halte diese Position ruhig für 30 bis 60 Sekunden.
+
+
+  Hinweise:
+
+  Vermeide es, die Schultern nach vorne oben zu ziehen. Atme gleichmäßig und entspanne die Schultermuskulatur in die Dehnung hinein.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3067'
+search_terms:
+- Extreme Shoulder Stretch
+- Schulterdehnung statisch
+- Deltoideus Dehnung

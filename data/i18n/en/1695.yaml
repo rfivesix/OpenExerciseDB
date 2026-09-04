@@ -1,29 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1695'
 language: en
 status: ai_reviewed
 name: Wide-Grip Pull-Up
 description: |-
   Execution
-
-
+  
   Pulling phase (concentric):
-
-  Drive your&nbsp;elbows down and slightly back, pulling your chest&nbsp;toward the bar.
-  Focus on leading with your&nbsp;chest, not your chin.
-  Keep your&nbsp;shoulders depressed&nbsp;(avoid shrugging).
-
-
-
+  
+  Drive your elbows down and slightly back, pulling your chest toward the bar.
+  Focus on leading with your chest, not your chin.
+  Keep your shoulders depressed (avoid shrugging).
+  
   Top position:
-
+  
   Chin should clear the bar (or at least reach bar level).
-  Pause for a brief&nbsp;squeeze in your lats.
+  Pause for a brief squeeze in your lats.
 upstream:
   license: CC-BY-SA-4.0
   license_author: daiben

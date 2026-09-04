@@ -5,11 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1838'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Exercices d'épaules à l'élastique
-description: |-
-  Fixez un élastique à un support solide derrière vous. Tenez-vous à distance en le maintenant dans la main de façon à ce qu'il soit tendu.
-  Consultez la vidéo YouTube jointe : https://www.youtube.com/watch?v=zdwEWchSjrI .
+description: "Position de départ : Fixez un élastique à hauteur d'épaule ou de poitrine\
+  \ à un support solide. Tenez l'élastique en main et reculez jusqu'à obtenir une\
+  \ tension légère à modérée.\nExécution : Effectuez des mouvements circulaires et\
+  \ de rotation contrôlés du bras dans différents plans pour échauffer et mobiliser\
+  \ l'articulation de l'épaule et la coiffe des rotateurs.\nConseils : Gardez une\
+  \ posture droite et gainez la sangle abdominale tout au long de l'exercice, sans\
+  \ donner d'à-coups."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

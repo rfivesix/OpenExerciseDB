@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2480'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Easy Continuous Swim (Freestyle)
 description: |-
-  Swim freestyle at a relaxed, steady pace without stopping — think conversation pace, not racing. Focus on smooth, even strokes rather than speed or breathing technique; this is just to get your body moving and your heart rate up.
+  Starting Position:
+  Enter the pool and push off smoothly from the wall into a streamlined horizontal body position at the water's surface.
+
+  Execution:
+  1. Swim freestyle at a relaxed, steady conversational pace without stopping at the walls.
+  2. Focus on smooth, long arm strokes and a calm, rhythmic breathing pattern.
+  3. Keep your flutter kick relaxed, compact, and driven from your hips rather than knees.
+  4. Maintain a continuous swim for the designated duration or distance.
+
+  Cues:
+  Prioritize efficiency and body line over speed; the goal is aerobic conditioning and feel for the water.
+search_terms:
+- Easy Continuous Swim
+- Aerobic Freestyle Swim
+- Continuous Freestyle
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan

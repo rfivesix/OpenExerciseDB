@@ -1,11 +1,34 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1536'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Deltamuskel-Dehnung
-description: Dehne deine Deltamuskeln für einen bestimmten Zeitraum.
+name: Schulterdehnung im Stand (Deltamuskel-Dehnung)
+description: 'Ausgangsposition:
+
+  Stehe oder sitze aufrecht mit entspannten Schultern und neutraler Wirbelsäule.
+
+
+  Ausführung:
+
+  1. Führe einen gestreckten Arm auf Schulterhöhe horizontal quer über deine Brust.
+
+  2. Greife mit der anderen Hand den Oberarm oder Ellbogen des gestreckten Arms und
+  ziehe ihn sanft näher an den Brustkorb heran.
+
+  3. Halte die Dehnung für 20 bis 30 Sekunden, während du gleichmäßig weiteratmest.
+
+  4. Löse die Dehnung langsam und wiederhole die Übung auf der Gegenseite.
+
+
+  Hinweise:
+
+  Dehnt gezielt die hintere Schultermuskulatur (Pars posterior des Deltamuskels) und
+  die Außenrotatoren. Ziehe die Schulter dabei nicht nach oben in Richtung Ohr.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2491'
+search_terms:
+- Delt Stretch
+- Deltamuskel-Dehnung
+- Schulterdehnung

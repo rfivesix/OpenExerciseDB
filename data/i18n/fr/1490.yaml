@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1490'
 language: fr
-status: upstream_unreviewed
-name: Kickback triceps allongé
+status: ai_reviewed
+name: Kickback triceps sur banc incliné aux haltères
 description: |-
-  Réglez le banc à un angle de 60 degrés. Tenez-vous immobile et reposez le haut du corps sur le banc incliné, en veillant à maintenir tout votre corps presque en ligne droite. Serrez les omoplates l'une vers l'autre, de sorte que vos coudes se trouvent derrière le tronc et que vos bras soient presque parallèles au sol. Levez les haltères jusqu'à ce que vos bras forment une ligne droite. Redescendez lentement les haltères à la position initiale. La position initiale correspond à un angle droit entre le bras et l'avant-bras.
+  Position de départ :
+  Réglez un banc inclinable à environ 60 degrés. Allongez-vous à plat ventre, poitrine fermement appuyée contre le dossier et pieds au sol pour assurer la stabilité. Tenez un haltère dans chaque main, resserrez les omoplates et relevez les bras pour qu'ils soient parallèles au sol le long des côtes.
+
+  Exécution :
+  1. En gardant les bras immobiles, étendez les coudes vers l'arrière jusqu'à ce que les bras soient complètement tendus.
+  2. Contractez fermement les triceps au sommet pendant une seconde complète.
+  3. Fléchissez lentement les coudes avec contrôle pour revenir à l'angle droit de départ.
+
+  Conseils :
+  Le maintien du buste sur le banc supprime tout élan parasite et optimise le travail du chef long du triceps.
+search_terms:
+  - Kickback triceps allongé
+  - Incline Triceps Kickback
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

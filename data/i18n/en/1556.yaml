@@ -1,20 +1,35 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1556'
 language: en
-status: upstream_unreviewed
-name: Devil’s Press
-description: |-
-  The Devil’s Press is a hybrid movement combining a dumbbell burpee and a double dumbbell snatch. It’s a full-body, high-intensity exercise that develops strength, power, and metabolic conditioning.
+status: ai_reviewed
+name: Devil's Press
+description: 'Starting Position:
 
-  Start with a dumbbell in each hand and perform a burpee, letting your chest touch the ground while holding the dumbbells.
-  Explosively jump your feet forward and swing the dumbbells between your legs.
-  Drive the dumbbells overhead in one continuous motion, locking out your arms.
-  Lower the dumbbells with control to return to the starting position and repeat
+  Place a pair of dumbbells on the floor shoulder-width apart and stand behind them.
+
+
+  Execution:
+
+  1. Drop down placing your hands on the dumbbell handles, kick your feet back into
+  a plank, and lower your chest to the floor between the weights (dumbbell burpee).
+
+  2. Explosively jump your feet forward just outside the dumbbells into a wide hinge
+  stance.
+
+  3. In one continuous, fluid hip-hinge motion, swing the dumbbells slightly back
+  between your legs and snatch them directly overhead to full lockout.
+
+  4. Lower the dumbbells under control back to the floor and immediately begin the
+  next rep.
+
+
+  Cues:
+
+  A demanding metabolic conditioning movement combining a burpee and a double dumbbell
+  snatch. Keep your back flat during the hip drive.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2503'
+search_terms:
+- Devil’s Press
+- Dumbbell Devil's Press

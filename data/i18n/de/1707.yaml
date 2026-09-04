@@ -1,10 +1,19 @@
 exercise_id: '1707'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Kabelzug-Seitheben
-description: Einseitiges Seitheben am Kabelzug.
+description: |-
+  Ausgangsposition:
+  Stelle dich seitlich neben einen niedrigen Kabelzug. Greife den Einhandgriff mit der abgewandten Hand vor dem Körper. Halte die Brust aufrecht und den Ellbogen leicht gebeugt.
+  
+  Ausführung:
+  1. Führe den Arm seitlich nach oben, geführt vom Ellbogen, bis er etwa auf Schulterhöhe parallel zum Boden ist.
+  2. Halte die Position am obersten Punkt kurz, um den seitlichen Deltamuskel intensiv zu kontrahieren.
+  3. Senke den Griff langsam und kontrolliert wieder in die Ausgangsposition ab.
+  
+  Hinweise:
+  Ziehe die Schultern nicht hoch und hole keinen Schwung aus dem Oberkörper. Der Kabelzug sorgt für eine gleichmäßige Spannung über den gesamten Bewegungsumfang.
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

@@ -1,16 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2488'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Posterior Pelvic Tilt
 description: |-
-  Lie on your back with knees bent, feet flat on the floor. Flatten your lower back against the floor by tilting your pelvis posteriorly, engaging your abs and glutes. Hold 5 seconds, release. This retrains pelvic positioning to counter anterior pelvic tilt.
+  Starting Position:
+  Lie on your back on an exercise mat with your knees bent and feet flat on the floor, about hip-width apart. Rest your arms comfortably by your sides.
+
+  Execution:
+  1. Engage your abdominal muscles and contract your glutes.
+  2. Tilt your pelvis backward (posteriorly) so that your lower back completely flattens down firmly against the floor.
+  3. Hold this flattened position under active tension for 5 seconds while breathing steadily.
+  4. Slowly release back to the neutral starting position and repeat.
+
+  Cues:
+  Focus on eliminating the space beneath your lower back; this exercise rebuilds pelvic motor control to counter excessive anterior pelvic tilt (hyperlordosis).
 search_terms:
-  - Pelvic Tilt Drill / Supine Pelvic Tilt
+- Pelvic Tilt Drill / Supine Pelvic Tilt
+- Posterior Pelvic Tilt
+- Pelvic Tilt Exercise
+- Supine Pelvic Tilt
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj

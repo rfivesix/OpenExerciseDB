@@ -1,17 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1801'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sentadilla profunda con barra
-description: |-
-  La sentadilla profunda con barra es un ejercicio compuesto que trabaja varios grupos musculares del tren inferior, incluyendo los cuádriceps, los isquiotibiales y los glúteos.
-  Una técnica correcta es crucial para maximizar los resultados y prevenir lesiones durante la sentadilla profunda con barra. Esto incluye mantener una postura al ancho de los hombros, crear tensión en todo el cuerpo, controlar el descenso y mantener una profundidad adecuada y una buena posición de las rodillas.
-  Ejercicios de asistencia como la sentadilla frontal, la sentadilla goblet, la sentadilla dividida y la sentadilla búlgara pueden ayudar a mejorar tu rendimiento en la sentadilla profunda con barra al trabajar grupos musculares específicos y mejorar la técnica general.
-  Para lograr nuevos récords personales en tu sentadilla trasera, aumenta el peso de forma gradual con el tiempo, varía los rangos de repeticiones y series para estimular el crecimiento muscular, y prioriza el descanso y la recuperación entre sesiones de entrenamiento.
+description: "Posición inicial:\nSaca la barra del rack apoyándola sobre la parte\
+  \ superior del trapecio. Da dos pasos atrás y coloca los pies al ancho de los hombros\
+  \ o ligeramente más amplios, con las puntas dirigidas hacia afuera entre 15 y 30\
+  \ grados. Inhala profundamente activando la presión intraabdominal y manteniendo\
+  \ el pecho erguido.\n\nEjecución:\n1. Flexiona simultáneamente caderas y rodillas,\
+  \ dirigiendo las rodillas en la misma línea que las puntas de los pies.\n2. Desciende\
+  \ bajo control total pasando la línea paralela hasta alcanzar la profundidad completa\
+  \ de la sentadilla.\n3. Empuja con fuerza a través de toda la planta del pie y los\
+  \ talones para ascender de manera explosiva a la posición erguida.\n\nConsejos:\n\
+  Baja únicamente hasta la profundidad en la que puedas preservar la neutralidad lumbar\
+  \ sin que la pelvis bascule en exceso."
+search_terms:
+  - Sentadilla profunda con barra
+  - Full Squat con barra
+  - Barbell Full Squat
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,21 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1884'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Shinbox-Innenrotations-Dehnung
-description: |-
-  Ausgangsposition: Setze dich auf den Boden, mit Hüften und Knien im 90-Grad-Winkel gebeugt.
-  Beinstellung:
-  Lege ein Bein vor dich (Außenrotation) und das andere Bein zur Seite
-  bzw. hinter dich (Innenrotation). Die Unterschenkel und Knie sollten
-  flach auf dem Boden bleiben.
-  Die Bewegung:
-  Halte deine Hüften gerade und beuge deinen Oberkörper nach vorne oder neige ihn seitlich
-  (von Seite zu Seite) in Richtung des vorderen Beins, um die Dehnung zu vertiefen.
-  Zielbereiche:
-  Dehnt die Gesäßmuskulatur und den Piriformis (vorderes Bein) sowie die Hüftbeuger und
-  die vordere Oberschenkelmuskulatur (hinteres Bein). Beansprucht bei der seitlichen Beugung den Rumpf und die schrägen Bauchmuskeln.
-  Ziel: Verbessert die Hüftbeweglichkeit, insbesondere die Innen- und Außenrotation, und löst Verspannungen im unteren Rücken.
+description: "Ausgangsposition: Setze dich auf den Boden, mit Hüften und Knien im\
+  \ 90-Grad-Winkel gebeugt.\nBeinstellung:\nLege ein Bein vor dich (Außenrotation)\
+  \ und das andere Bein zur Seite\nbzw. hinter dich (Innenrotation). Die Unterschenkel\
+  \ und Knie sollten\nflach auf dem Boden bleiben.\nDie Bewegung:\nHalte deine Hüften\
+  \ gerade und beuge deinen Oberkörper nach vorne oder neige ihn seitlich\n(von Seite\
+  \ zu Seite) in Richtung des vorderen Beins, um die Dehnung zu vertiefen.\nZielbereiche:\n\
+  Dehnt die Gesäßmuskulatur und den Piriformis (vorderes Bein) sowie die Hüftbeuger\
+  \ und\ndie vordere Oberschenkelmuskulatur (hinteres Bein). Beansprucht bei der seitlichen\
+  \ Beugung den Rumpf und die schrägen Bauchmuskeln.\nZiel: Verbessert die Hüftbeweglichkeit,\
+  \ insbesondere die Innen- und Außenrotation, und löst Verspannungen im unteren Rücken."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

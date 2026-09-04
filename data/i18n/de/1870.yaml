@@ -1,10 +1,17 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1870'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Beinbeugerdehnung in Rückenlage mit Band
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Lege dich auf den Rücken und lege die Schlaufe eines\
+  \ Widerstandsbands oder eines Gurts um den Fußballen eines Beins. Halte die Bandenden\
+  \ mit beiden Händen fest. Das andere Bein liegt flach oder mit aufgestelltem Knie\
+  \ am Boden.\nAusführung: Strecke das Bein nach oben in Richtung Decke und ziehe\
+  \ das Band sanft zu dir heran, bis eine deutliche Dehnung auf der Oberschenkelrückseite\
+  \ spürbar ist.\nHinweise: Halte das Knie leicht gebeugt oder gestreckt (nicht überstrecken).\
+  \ Halte die Position für 20–30 Sekunden bei ruhiger Atmung und wechsle anschließend\
+  \ die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

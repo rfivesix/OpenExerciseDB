@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2542'
 language: en
-status: upstream_unreviewed
-name: Boxing
-description: Bag workout for boxing skill development and cardio improvement
+status: ai_reviewed
+name: Boxing Training
+description: |-
+  Starting Position:
+  Assume a balanced boxing stance in front of a heavy bag or open floor space (orthodox: left foot forward; southpaw: right foot forward). Keep your knees slightly bent, weight bouncing lightly on the balls of your feet, hands held up protecting your chin, and elbows tucked close to your ribs.
+
+  Execution:
+  1. Throw rhythmic, explosive punch combinations integrating jabs, crosses, hooks, and uppercuts against the heavy bag or into the air (shadow boxing).
+  2. Rotate your hips, shoulders, and core with each strike to generate power through kinetic chain sequencing.
+  3. Maintain active footwork by circling the bag, pivoting, and resetting into your defensive guard immediately after every combination.
+
+  Cues:
+  Always wrap your hands and wear proper boxing gloves when hitting a heavy bag. Keep your wrists straight upon impact and exhale sharply with every punch.
 search_terms:
-  - Nah workout
+- Boxing
+- Heavy Bag Workout
+- Punching Bag Training
+- Shadow Boxing
 upstream:
   license: CC-BY-SA-4.0
   license_author: SAH

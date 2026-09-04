@@ -1,12 +1,34 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1575'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Schulterdrücken mit Holzstab im Stand
-description: |-
-  Mobilität – Stabdrücken in Bauchlage oder Schulterdrücken mit Holzstab im Stand, abwechselnd zwischen vorne und hinten.
+description: 'Ausgangsposition:
+
+  Stehe aufrecht im schulterbreiten Stand mit stabiler Rumpfspannung. Halte einen
+  leichten Holzstab (oder Besenstiel / PVC-Rohr) im schulterbreiten Obergriff vor
+  der oberen Brust.
+
+
+  Ausführung:
+
+  1. Drücke den Stab kontrolliert senkrecht nach oben über den Kopf, bis die Arme
+  vollkommen gestreckt sind.
+
+  2. Senke den Stab anschließend langsam wahlweise vor die Brust oder hinter den Nacken
+  ab und wechsle zwischen beiden Positionen.
+
+  3. Halte den Bewegungsfluss gleichmäßig und kontrolliert.
+
+
+  Hinweise:
+
+  Effektive Mobilisations- und Aufwärmübung für Schultergelenke, Schulterblattmuskeln
+  und die Brustwirbelsäule.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2523'
+search_terms:
+- Stabdrücken Schultern
+- Standing Dowel Shoulder Press

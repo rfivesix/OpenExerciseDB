@@ -1,20 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1964'
 language: es
-status: upstream_unreviewed
-name: Flexión con manos abiertas
-description: |-
-  Una variante de la flexión con una colocación de manos más amplia para aumentar el énfasis en los músculos externos del pecho y los hombros.
+status: ai_reviewed
+name: Flexiones con agarre ancho
+description: 'Posición inicial:
 
-  Preparación: Coloca las manos en el suelo más separadas que el ancho de los hombros.
-  Bajada: Desciende hasta que el pecho casi toque el suelo, manteniendo el core firme.
-  Empuje: Empuja con las palmas para volver a la posición inicial.
-  Técnica: No dejes que la zona lumbar se hunda; mantén una línea recta desde la cabeza hasta los talones.
+  Colócate en plancha alta apoyando las manos bastante más abiertas que la anchura de los hombros (aproximadamente una vez y media el ancho de hombros), con las puntas de los dedos ligeramente hacia fuera y el cuerpo alineado de pies a cabeza.
+
+
+  Ejecución:
+
+  Baja el pecho hacia el suelo flexionando los codos de forma controlada hasta rozar la esterilla. Haz una breve pausa y empuja firmemente con las palmas para regresar a la posición de plancha inicial.
+
+
+  Consejos:
+
+  La posición amplia de manos incrementa la tensión en los pectorales y deltoides frontales. Mantén el abdomen tenso para evitar que la cadera se hunda.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3561'
+search_terms:
+- Flexión con manos abiertas
+- Flexión ancha
+- Wide Push-Up

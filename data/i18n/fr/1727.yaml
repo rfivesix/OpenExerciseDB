@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1727'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tirage latéral bras tendu (poulie)
 description: |-
   Gardez le buste immobile, en tirant la poignée vers le bas le long de votre côté en utilisant la partie externe du grand dorsal.

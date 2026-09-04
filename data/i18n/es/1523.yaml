@@ -1,16 +1,17 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Empuje de trineo
-description: |-
-  Carga el trineo con el 25 % de tu carga máxima. Si no la conoces, elige un peso que puedas empujar durante 10 minutos con pausas cortas. Los principiantes pueden empujar el trineo sin peso.
+description: 'Carga el trineo con el 25 % de tu carga máxima. Si no la conoces, elige
+  un peso que puedas empujar durante 10 minutos con pausas cortas. Los principiantes
+  pueden empujar el trineo sin peso.
+
   Colócate detrás del trineo y agarra las barras con una posición de manos alta.
-  Activa los músculos del core y empieza a empujar el trineo hacia delante lo más rápido posible, generando fuerza con toda la pierna. Extiende las caderas y las rodillas mientras desplazas el trineo hacia delante. Tu postura de pies debe parecerse a tu posición natural de carrera.
+
+  Activa los músculos del core y empieza a empujar el trineo hacia delante lo más
+  rápido posible, generando fuerza con toda la pierna. Extiende las caderas y las
+  rodillas mientras desplazas el trineo hacia delante. Tu postura de pies debe parecerse
+  a tu posición natural de carrera.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

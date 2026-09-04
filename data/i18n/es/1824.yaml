@@ -1,20 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1824'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Tate press con mancuernas
-description: |-
-  Preparación: Túmbate boca arriba con una mancuerna en cada mano. Extiende los brazos rectos hacia arriba sobre el pecho, como si estuvieras en la posición alta de un press de banca con mancuernas.
-  Posición inicial: Coloca las mancuernas de forma que se toquen o estén muy juntas, con un agarre prono (las palmas hacia los pies y los pulgares enfrentados).
-  Descenso: Sin mover los brazos superiores ni los hombros, flexiona los codos y ábrelos hacia los lados. Baja los extremos internos de las mancuernas hacia el centro del pecho.
-  Contacto y pausa: Toca suavemente el pecho con las mancuernas. No apoyes el peso sobre el cuerpo; mantén la tensión constante en el tríceps.
-  Empuje: Extiende los codos con fuerza para devolver las mancuernas a la posición inicial. Concéntrate en "empujar los meñiques hacia el cielo" para maximizar la activación del tríceps.
-
-  https://www.youtube.com/watch?v=IgSjoXbpy1M&amp;t=2
+description: "Posición inicial:\nTúmbate boca arriba en un banco plano con una mancuerna\
+  \ en cada mano. Extiende los brazos rectos sobre el pecho. Coloca un agarre prono\
+  \ con las palmas mirando hacia los pies y los pulgares enfrentados, con los extremos\
+  \ interiores de las mancuernas muy juntos.\n\nEjecución:\n1. Manteniendo los brazos\
+  \ superiores fijos, flexiona los codos abriéndolos hacia los costados para descender\
+  \ los extremos interiores de las mancuernas hacia el centro del pecho.\n2. Toca\
+  \ suavemente el esternón sin apoyar el peso ni perder tensión.\n3. Extiende con\
+  \ fuerza los codos para devolver las mancuernas a la posición inicial apretando\
+  \ los tríceps.\n\nConsejos:\nMantén los codos apuntando hacia afuera para aislar\
+  \ los tríceps en esta variante diseñada por Dave Tate."
+search_terms:
+  - Tate press con mancuernas
+  - Dumbbell Tate Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

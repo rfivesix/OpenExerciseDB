@@ -1,16 +1,18 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1684'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kurzhantel-Thruster
 description: |-
-  Beginne mit den Kurzhanteln auf deinen Schultern und gehe in die Kniebeuge. Drücke dich
-  in den Stand hoch und hebe die Kurzhanteln in eine Position über dem Kopf. Bringe
-  die Kurzhanteln zurück zu deinen Schultern und wiederhole die Bewegung.
+  Ausgangsposition:
+  Aufrecht stehen, die Füße etwa schulterbreit auseinander. Die Kurzhanteln auf Schulterhöhe halten, die Ellbogen leicht nach vorne gerichtet.
+  
+  Ausführung:
+  1. In eine kontrollierte Kniebeuge absenken, bis die Oberschenkel mindestens parallel zum Boden sind.
+  2. Kraftvoll aus den Beinen nach oben drücken und den Bewegungsschwung nutzen, um die Kurzhanteln in einer fließenden Bewegung über den Kopf zu drücken.
+  3. Die Kurzhanteln kontrolliert wieder auf Schulterhöhe absenken und direkt in die nächste Kniebeuge übergehen.
+  
+  Hinweise:
+  Kniebeuge und Überkopfdrücken gehen nahtlos ineinander über. Den Rumpf während der gesamten Bewegung fest anspannen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

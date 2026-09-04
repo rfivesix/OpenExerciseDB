@@ -1,10 +1,21 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1718'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Hohes Rudern am oberen Kabelzug
-description: Hohes Rudern am oberen Kabelzug mit Abstützung und einseitigem Griff
+name: Einarmiges hohes Kabelrudern
+description: |-
+  Ausgangsposition:
+  Stelle den Kabelzug auf eine hohe Position ein und befestige einen Einhandgriff. Stelle dich mit versetzten Beinen vor den Turm, stütze dich mit der freien Hand am Rahmen ab und greife den Griff mit ausgestrecktem Arm.
+  
+  Ausführung:
+  1. Ziehe den Griff diagonal nach hinten unten in Richtung oberer Brustkorb, indem du den Ellbogen kraftvoll nach hinten führst.
+  2. Ziehe am Ende der Bewegung das Schulterblatt intensiv nach hinten und spanne den oberen Rücken an.
+  3. Führe den Arm kontrolliert und langsam wieder nach vorne in die Ausgangsposition.
+  
+  Hinweise:
+  Halte den Oberkörper ruhig und vermeide ein Verdrehen der Wirbelsäule beim Ziehen.
+search_terms:
+  - Hohes Rudern am oberen Kabelzug
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

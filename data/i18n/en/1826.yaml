@@ -1,22 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1826'
 language: en
-status: upstream_unreviewed
-name: Band pull-apart with external rotation
-description: |-
-  Stand tall with your feet shoulder-width apart, chest out, and shoulders back.
-  Hold the resistance band with both hands, palms facing up or facing each other, depending on the band type.
-  Bend your elbows at a 90-degree angle and glue your upper arms to your sides.
-  The band should have some tension in the starting position, with your hands closer together in front of your stomach.
-  Rotate Outward: While keeping your elbows tucked into your sides, slowly move your hands away from each other, stretching the band.
-  Squeeze: Squeeze your shoulder blades together and down as you rotate your hands outward.
-  Range of Motion: Rotate your hands as far outward as you comfortably can without allowing your elbows to leave your sides.
-  Hold: Hold the end position for 1–2 seconds to maximize muscle engagement.
-  Return: Slowly and with control, bring your hands back to the starting position.
+status: ai_reviewed
+name: Band Pull-Apart with External Rotation
+description: "Starting Position:\nStand tall with feet shoulder-width apart, chest\
+  \ upright, and shoulders set back and down. Grasp a light resistance band with both\
+  \ hands using an underhand (supinated) grip in front of your navel. Bend your elbows\
+  \ to 90 degrees and tuck your upper arms tight against your ribcage.\n\nExecution:\n\
+  1. Keeping your elbows glued to your sides, rotate your forearms and hands outward\
+  \ away from each other, stretching the band.\n2. Squeeze your shoulder blades together\
+  \ and down as your shoulders externally rotate.\n3. Hold the end-range contraction\
+  \ for 1 to 2 seconds to stimulate the infraspinatus and teres minor.\n4. Slowly\
+  \ return your hands to the front starting position under full control.\n\nCues:\n\
+  Do not allow your elbows to flare away from your ribs; the movement must come strictly\
+  \ from glenohumeral external rotation."
+search_terms:
+  - Band pull-apart with external rotation
+  - Band External Rotation
+  - Rotator Cuff Band Pull Apart
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

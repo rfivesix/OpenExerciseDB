@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1828'
 language: en
 status: ai_reviewed
-name: Abdominal Draw-In
-description: |-
-  Lie on your back with knees bent. Gently pull your belly button toward your spine without moving your hips or holding your breath.
+name: Abdominal Draw-In Maneuver (ADIM)
+description: "Starting Position:\nLie flat on your back on an exercise mat with knees\
+  \ bent and feet flat on the floor (can also be performed in quadruped or seated).\
+  \ Place your fingertips on your lower abdomen just inside your hip bones to monitor\
+  \ muscle recruitment.\n\nExecution:\n1. Exhale fully through your mouth, emptying\
+  \ your lungs of air.\n2. Gently pull your belly button inward and upward toward\
+  \ your spine as if zipping up a tight pair of jeans.\n3. Maintain a neutral spine\
+  \ and stable pelvis without flattening your lower back into the floor.\n4. Hold\
+  \ this deep contraction for 10 to 15 seconds while continuing shallow, steady breathing.\n\
+  5. Slowly release the contraction and take a normal breath before repeating.\n\n\
+  Cues:\nThis exercise specifically isolates the transversus abdominis, the deepest\
+  \ abdominal stabilizer responsible for core stability and waistline control."
+search_terms:
+  - Abdominal Draw-In
+  - Stomach Vacuum
+  - ADIM
+  - Transverse Abdominis Activation
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

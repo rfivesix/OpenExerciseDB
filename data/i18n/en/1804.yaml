@@ -2,11 +2,21 @@ exercise_id: '1804'
 language: en
 status: ai_reviewed
 name: Ankle Dorsiflexion Rocks
-description: Move your knee forward, keeping your heel on the ground. Hold the position
-  for a couple of seconds and return to the starting position.
+description: "Starting Position:\nAssume a half-kneeling position on a mat with one\
+  \ knee down and the front foot flat on the floor, about a shin-length in front of\
+  \ you. Place your hands on your front thigh for balance.\n\nExecution:\n1. Slowly\
+  \ drive your front knee straight forward tracking over your toes while keeping your\
+  \ front heel glued firmly to the ground.\n2. Glide forward into end-range ankle\
+  \ dorsiflexion until you feel a deep stretch in your calf and Achilles tendon.\n\
+  3. Hold the stretch at end range for 2 to 3 seconds.\n4. Gently rock backward to\
+  \ the starting position and repeat the rocking oscillation for reps before switching\
+  \ legs.\n\nCues:\nDo not allow the front heel to lift off the floor; maintaining\
+  \ heel contact is essential for mobilizing the ankle capsule and soleus."
+search_terms:
+  - Ankle Dorsiflexion Rocks
+  - Ankle Mobilization
+  - Half-Kneeling Ankle Rock
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32
   source_id: '2928'
-search_terms:
-- ankle dorsiflexion rocks

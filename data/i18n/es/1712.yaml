@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1712'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de flexión horizontal del hombro
 description: |-
   Levanta el brazo hacia el lado, apoyando la mano en una pared o el marco de una puerta junto a ti, a la altura del hombro

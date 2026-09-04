@@ -5,10 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1859'
 language: es
-status: upstream_unreviewed
-name: Foam roller Gluteo
-description: |-
-  Deslizate sobre el Foam Roller sobre tu glúteo. Es castellano por favor corrector
+status: ai_reviewed
+name: Foam Roller Glúteo
+description: "Posición inicial: Siéntate sobre el rodillo de espuma. Cruza un tobillo\
+  \ sobre la rodilla opuesta (posición en cuatro) e inclina el peso ligeramente hacia\
+  \ el glúteo de la pierna cruzada. Apoya las manos detrás para mantener el equilibrio.\n\
+  Ejecución: Rueda con movimientos cortos y controlados sobre la musculatura del glúteo\
+  \ y la parte lateral de la cadera.\nConsejos: Mantén la presión en los puntos gatillo\
+  \ más tensos durante 15-20 segundos y respira con calma antes de cambiar de lado."
+search_terms:
+- Foam roller Gluteo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

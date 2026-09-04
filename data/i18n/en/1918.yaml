@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1918'
 language: en
-status: upstream_unreviewed
-name: Legend Chest Press
-description: Plate-loaded chest press machine from Legend Fitness LeverEdge line.
+status: ai_reviewed
+name: Legend Plate-Loaded Chest Press
+description: 'Starting position:
+
+  Adjust the seat height on the plate-loaded chest press machine so that the handles align with your mid-chest. Sit with your back and head firmly against the backrest and grip the handles. Retract and depress your shoulder blades.
+
+
+  Execution:
+
+  Press the handles forward in a smooth, converging motion until your arms are extended without locking your elbows. Squeeze your pectorals firmly at peak contraction. Slowly lower the handles back under control until you feel a deep stretch in your chest, then smoothly begin the next repetition.
+
+
+  Tips:
+
+  Keep your shoulder blades pinned against the pad throughout each rep to keep tension strictly on the chest and protect the anterior deltoids.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3065'
+search_terms:
+- Legend Chest Press
+- LeverEdge Chest Press
+- Machine Chest Press

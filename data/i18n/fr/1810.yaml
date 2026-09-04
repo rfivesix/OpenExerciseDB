@@ -1,14 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1810'
 language: fr
-status: upstream_unreviewed
-name: Sphinx
-description: |-
-  Allongez-vous à plat ventre, les jambes tendues et le dessus des pieds posé au sol. Amenez vos avant-bras sous vos épaules, les coudes juste en dessous. Puis poussez vos mains dans le sol pour soulever la poitrine. Rapprochez vos omoplates, ouvrez les clavicules et dirigez votre regard vers l'avant, tout en gardant le bas du dos détendu.
+status: ai_reviewed
+name: Posture du sphinx
+description: "Position de départ :\nAllongez-vous à plat ventre sur un tapis, jambes\
+  \ tendues à la largeur des hanches et dessus des pieds au sol. Placez vos avant-bras\
+  \ parallèles au sol, les coudes alignés directement sous les épaules et les paumes\
+  \ vers le bas.\n\nExécution :\n1. Pressez délicatement les avant-bras dans le sol\
+  \ pour décoller la poitrine et la tête dans une douce extension dorsale.\n2. Rapprochez\
+  \ les omoplates vers l'arrière et le bas, ouvrez la cage thoracique et regardez\
+  \ devant vous.\n3. Ancrez le pubis dans le sol et respirez profondément et calmement.\n\
+  4. Maintenez la posture pendant plusieurs respirations complètes avant de vous allonger\
+  \ doucement.\n\nConseils :\nCherchez l'ouverture et l'extension au niveau de la\
+  \ colonne thoracique plutôt qu'un pincement lombaire."
+search_terms:
+  - Sphinx
+  - Posture du sphinx
+  - Sphinx Pose
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,21 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1884'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Estiramiento de rotación interna en shinbox
-description: |-
-  Posición inicial: Siéntate en el suelo con las caderas y las rodillas flexionadas a 90 grados.
-  Colocación de las piernas:
-  Coloca una pierna delante de ti (rotación externa) y la otra hacia
-  el lado o detrás de ti (rotación interna). Las espinillas y las rodillas deben
-  permanecer apoyadas en el suelo.
-  El movimiento:
-  Manteniendo las caderas alineadas, flexiona el torso hacia adelante o inclínalo lateralmente
-  (de lado a lado) hacia la pierna delantera para profundizar el estiramiento.
-  Zonas objetivo:
-  Estira los glúteos y el piriforme (pierna delantera) y los flexores de la cadera y
-  los cuádriceps (pierna trasera). Activa el core y los oblicuos durante la flexión lateral.
-  Objetivo: Mejora la movilidad de la cadera, en concreto la rotación interna y externa, y alivia la tensión en la zona lumbar.
+description: "Posición inicial: Siéntate en el suelo con las caderas y las rodillas\
+  \ flexionadas a 90 grados.\nColocación de las piernas:\nColoca una pierna delante\
+  \ de ti (rotación externa) y la otra hacia\nel lado o detrás de ti (rotación interna).\
+  \ Las espinillas y las rodillas deben\npermanecer apoyadas en el suelo.\nEl movimiento:\n\
+  Manteniendo las caderas alineadas, flexiona el torso hacia adelante o inclínalo\
+  \ lateralmente\n(de lado a lado) hacia la pierna delantera para profundizar el estiramiento.\n\
+  Zonas objetivo:\nEstira los glúteos y el piriforme (pierna delantera) y los flexores\
+  \ de la cadera y\nlos cuádriceps (pierna trasera). Activa el core y los oblicuos\
+  \ durante la flexión lateral.\nObjetivo: Mejora la movilidad de la cadera, en concreto\
+  \ la rotación interna y externa, y alivia la tensión en la zona lumbar."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

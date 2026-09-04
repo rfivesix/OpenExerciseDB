@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1854'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Gemelos
-description: Mueve sobre el foam roller tus gemelos lentamente
+description: "Posición inicial: Siéntate en el suelo y coloca el rodillo de espuma\
+  \ (foam roller) debajo de las pantorrillas, entre el tendón de Aquiles y el hueco\
+  \ poplíteo. Apoya las manos detrás de ti y eleva ligeramente la pelvis.\nEjecución:\
+  \ Rueda lentamente hacia adelante y hacia atrás desde los tobillos hasta justo debajo\
+  \ de las rodillas. Gira las piernas ligeramente hacia dentro y hacia fuera para\
+  \ masajear toda la musculatura del gemelo.\nConsejos: Detente en los puntos de mayor\
+  \ tensión durante 15-20 segundos manteniendo una respiración fluida."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

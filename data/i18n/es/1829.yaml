@@ -1,23 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1829'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sentadilla con barra landmine y press
-description: |-
-  Posición de la barra: Ancla un extremo de una barra en un soporte landmine o en una esquina segura.
-  Postura: Colócate de pie frente a la barra con los pies algo más anchos que el ancho de los hombros. Gira las puntas de los pies de 10 a 35 grados hacia afuera para permitir un mejor movimiento de la pelvis y mayor profundidad.
-  Agarre: Ahueca el extremo libre de la barra con ambas manos (los dedos entrelazados o superpuestos) y sujétala a la altura media del pecho, justo debajo de la clavícula.
-  Descenso: Activa el core y siéntate hacia atrás en una sentadilla, manteniendo el pecho arriba y el peso sobre los talones.
-  Profundidad: Baja hasta que los muslos queden al menos paralelos al suelo. Una buena referencia es cuando los codos tocan la parte superior de los muslos o justo por dentro de las rodillas.
-  Postura: Asegúrate de que la espalda permanezca recta y la columna neutra durante todo el movimiento.
-  Impulso: Empuja con fuerza a través de los talones para incorporarte. Usa el impulso de las piernas para "propulsar" el peso hacia arriba.
-  Extensión: En un movimiento fluido, presiona la barra por encima de la cabeza hasta que los brazos queden completamente extendidos. En la posición alta, los bíceps deberían estar cerca de las orejas.
-  La "inclinación": Al alcanzar la parte alta del press, inclínate ligeramente hacia adelante contra la barra para favorecer la rotación ascendente correcta de los omóplatos y evitar arquear la zona lumbar.
-  Baja la barra lentamente y de forma controlada hasta la altura del pecho antes de comenzar de inmediato la siguiente repetición.
+description: "Posición inicial:\nAncla un extremo de la barra en un soporte landmine.\
+  \ Colócate frente a la barra con los pies al ancho de los hombros, puntas ligeramente\
+  \ hacia afuera. Sujeta el extremo libre con ambas manos entrelazadas a la altura\
+  \ del pecho.\n\nEjecución:\n1. Desciende en sentadilla profunda con el pecho erguido\
+  \ hasta que los muslos queden paralelos al suelo.\n2. Empuja con fuerza a través\
+  \ de los talones para incorporarte de forma explosiva.\n3. Aprovecha el impulso\
+  \ de las piernas para presionar la barra hacia arriba por encima de la cabeza en\
+  \ un movimiento continuo.\n4. Baja la barra con control al pecho e inicia la siguiente\
+  \ sentadilla de manera fluida.\n\nConsejos:\nSincroniza la subida de la sentadilla\
+  \ con el empuje de brazos en un movimiento unificado."
+search_terms:
+  - Sentadilla con barra landmine y press
+  - Landmine Thruster
+  - Landmine Squat to Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

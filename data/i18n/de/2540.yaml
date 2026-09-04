@@ -1,11 +1,24 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2540'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Latzug isometrisch
+name: Isometrischer Latzug
 description: |-
-  Ein isometrischer Latzug ist eine kraftaufbauende Übung, bei der du die Stange zur Brust ziehst und die kontrahierte Position unten für eine festgelegte Anzahl von Sekunden hältst, ohne die Gliedmaßen zu bewegen.
+  Ausgangsposition:
+  Setze dich an die Latzugstation und passe das Oberschenkelpolster so an, dass deine Beine fest fixiert sind. Fasse die Latzugstange im breiten Obergriff, richte die Brust auf, ziehe die Schulterblätter nach hinten-unten und lehne den Oberkörper ganz leicht zurück.
+
+  Ausführung:
+  1. Ziehe die Stange kraftvoll nach unten, bis sie sich knapp unterhalb des Kinns bzw. auf Höhe des oberen Brustbeins befindet.
+  2. Halte diese maximal kontrahierte Position für die vorgegebene Zeitdauer (z. B. 10 bis 30 Sekunden) völlig bewegungslos und spanne den Latissimus und die oberen Rückenmuskeln mit voller Kraft an.
+  3. Führe die Stange nach Ablauf der Zeit langsam, kontrolliert und gegen den Widerstand wieder nach oben in die Ausgangsposition.
+
+  Hinweise:
+  Lass dich am Ende des Haltens nicht vom Gewicht nach oben reißen. Halte die Brust während des gesamten Haltens stolz aufgerichtet und die Ellbogen nach unten gerichtet.
+search_terms:
+- Latzug isometrisch
+- Isometrisches Latziehen
+- Lat Pulldown Isometric
+- Latzug Halten
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

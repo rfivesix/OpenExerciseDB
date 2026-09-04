@@ -5,11 +5,13 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1843'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement du papillon
-description: |-
-  Asseyez-vous en position de prière, les plantes des pieds doucement collées l'une contre l'autre.
-  À l'aide de vos mains, tirez lentement vos pieds vers l'intérieur, en direction de l'aine. Maintenez aussi longtemps que nécessaire.
+description: "Position de départ : Asseyez-vous sur le sol le dos droit et joignez\
+  \ la plante de vos pieds, en laissant les genoux s'ouvrir sur les côtés.\nExécution\
+  \ : Tenez vos pieds avec les mains et rapprochez délicatement les talons vers votre\
+  \ bassin. Laissez vos genoux descendre vers le sol en expirant.\nConseils : Maintenez\
+  \ l'étirement pendant 20 à 30 secondes avec le dos droit, sans à-coups ni rebonds."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

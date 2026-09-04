@@ -1,18 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1525'
 language: en
-status: upstream_unreviewed
-name: Ball Slams
-description: |-
-  Stand with your feet about shoulder-width apart, your knees and hips slightly bent, holding the ball in both hands at chest height. Engage your core, and keep a good posture.
-  Extend your knees and drive your hips forward while simultaneously lifting the ball. Aim for being as tall as possible, the ball overhead, arms up, hips slightly forward, and on your toes from the force of your drive.
-  Use your core and arms to slam the medicine ball straight down between your feet with as much force as possible. Press your hips back and bend your knees to further power the slam. Exhale as you slam the ball down.
-  Squat down to pick up the ball from the floor, then immediately move into the next slam by repeating the movement. Repeat for reps or time.
+status: ai_reviewed
+name: Medicine Ball Slams
+description: 'Starting Position:
+
+  Stand with your feet shoulder-width apart, knees and hips slightly bent, holding
+  a medicine ball with both hands at chest height. Engage your core.
+
+
+  Execution:
+
+  1. Extend your knees and hips explosively while raising the ball overhead, rising
+  onto your toes.
+
+  2. Use your core, lats, and arms to slam the ball straight down into the floor between
+  your feet with maximum force.
+
+  3. Hinge at your hips and bend your knees to absorb the movement as you follow through.
+
+  4. Squat down to retrieve the ball and immediately transition into the next repetition.
+
+
+  Cues:
+
+  A full-body explosive power exercise developing triple extension, core strength,
+  and metabolic conditioning.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2481'
+search_terms:
+- Ball Slams
+- Med Ball Slams

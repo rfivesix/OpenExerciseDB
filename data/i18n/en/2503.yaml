@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2503'
 language: en
-status: upstream_unreviewed
-name: Face Pulls (Bodyweight Doorframe/Towel)
+status: ai_reviewed
+name: Doorframe Bodyweight Face Pull
 description: |-
-  Vasco custom face pull variation using doorframe or towel for rear delt development. Zero equipment. Part of Tuesday Pull day.
+  Starting Position:
+  Loop a sturdy bath towel around a secure doorframe or vertical post. Grasp the ends of the towel firmly with both hands. Walk your feet toward the base of the doorframe and lean your torso back with straight arms, keeping your body in a rigid plank.
+
+  Execution:
+  1. Pull your face toward the towel by driving your elbows high and wide out to the sides.
+  2. At the peak of the pull, rotate your hands back level with your ears and squeeze your rear deltoids and scapular retractors firmly for 1 second.
+  3. Slowly lower your body back under control until your arms are fully extended.
+
+  Cues:
+  Position your feet further forward to increase resistance; keep your elbows high at ear level to target the posterior deltoids and upper back.
+search_terms:
+- Face Pulls (Bodyweight Doorframe/Towel)
+- Towel Face Pull
+- Doorframe Face Pull
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4984'

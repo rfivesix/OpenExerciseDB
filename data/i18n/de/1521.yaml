@@ -1,11 +1,35 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1521'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pendel-Hackenschmidt
-description: Pendel-Hackenschmidt, ausgeführt an einer Pendelmaschine.
+description: 'Ausgangsposition:
+
+  Positioniere dich auf der Pendel-Hackenschmidt-Maschine, lehne den Rücken und die
+  Schultern fest an die Polster und platziere deine Füße etwa schulterbreit auf der
+  Fußplatte. Löse die Sicherung.
+
+
+  Ausführung:
+
+  1. Beuge kontrolliert die Knie und die Hüfte entlang der bogenförmigen Pendel-Bewegungsbahn
+  in eine tiefe Hocke.
+
+  2. Sobald die Oberschenkel maximal gebeugt sind und die Quadrizeps intensiv gedehnt
+  sind, drücke dich über die gesamte Fußfläche kraftvoll wieder nach oben.
+
+  3. Halte die Knie im obersten Punkt minimal gebeugt, um die Muskelspannung auf den
+  Quadrizeps aufrechtzuerhalten.
+
+
+  Hinweise:
+
+  Die geführte Pendelbewegung reduziert Scherkräfte auf die Kniegelenke und ermöglicht
+  eine außergewöhnlich tiefe und sichere Quadrizeps-Belastung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro
   source_id: '2477'
+search_terms:
+- Pendel-Kniebeuge Hackenschmidt
+- Pendulum Hack Squat

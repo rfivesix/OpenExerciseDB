@@ -2,9 +2,21 @@ exercise_id: '2504'
 language: fr
 status: ai_reviewed
 translated_from: de
-name: Curl marteau avec haltères (5 kg)
+name: Curl marteau avec haltères
+description: |-
+  Position de départ :
+  Debout, pieds écartés de la largeur des hanches, tenez un haltère dans chaque main en prise neutre (paumes face à face). Gardez les coudes près du corps et les épaules basses.
+
+  Exécution :
+  1. En maintenant la prise neutre, fléchissez les coudes pour monter les haltères vers les épaules.
+  2. Contractez fortement les biceps, le brachial et les avant-bras en haut du mouvement pendant 1 seconde.
+  3. Redescendez lentement les haltères de manière contrôlée jusqu'à l'extension complète des bras.
+
+  Conseils :
+  Gardez les coudes immobiles le long du buste ; ne balancez pas le torse pour soulever les charges.
+search_terms:
+- Curl marteau avec haltères (5 kg)
+- Hammer curl haltères
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'
-description: |-
-  Debout, réalisez des curls en prise neutre (marteau) avec haltères en gardant les coudes immobiles le long du torse pour développer les bras et l'épaisseur du biceps.

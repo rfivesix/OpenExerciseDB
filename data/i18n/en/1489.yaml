@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1489'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Plank Jacks
-description: Jumping jacks from the plank position.
+description: |-
+  Starting Position:
+  Assume a solid plank position on your forearms (or hands) with elbows directly beneath your shoulders and feet positioned close together, forming a rigid straight line from head to heels.
+
+  Execution:
+  1. Keeping your core braced and torso level, jump both feet outward simultaneously into a wide stance, similar to the leg motion of a jumping jack.
+  2. Land softly on the balls of your feet and immediately spring back to the center starting position.
+  3. Continue hopping out and in with a smooth, controlled rhythm.
+
+  Cues:
+  Do not allow your hips to bounce up and down or your lower back to sag; the core must remain tightly locked against anti-extension throughout.
+search_terms:
+  - Plank Jumping Jacks
+  - Plank Jack
 upstream:
   license: CC-BY-SA-4.0
   license_author: jayninja

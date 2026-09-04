@@ -5,16 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1475'
 language: es
-status: upstream_unreviewed
-name: Black Widow Knee Slides
+status: ai_reviewed
+name: Deslizamientos de rodilla Black Widow
 description: |-
-  En
-  este movimiento de rotación de abajo hacia arriba, cruzarás la rodilla por encima y
-  la llevarás hacia el codo opuesto. Comienza en posición de plancha alta (o
-  posición de cuadrupedia) con las manos directamente debajo de los hombros. Eleva la rodilla izquierda hacia el
-  brazo derecho y deslízala por el antebrazo para conseguir más de esa retroversión pélvica
-  y activación de los músculos abdominales. Luego haz el lado contrario,
-  llevando la rodilla derecha hacia la mano izquierda.
+  Posición inicial:
+  Comienza en posición de plancha alta con las manos directamente debajo de los hombros y el cuerpo formando una línea recta desde la cabeza hasta los talones.
+
+  Ejecución:
+  1. Cruza una rodilla por debajo del torso dirigiéndola hacia el codo opuesto.
+  2. Desliza la rodilla hacia arriba por el antebrazo mientras realizas una retroversión pélvica para conseguir la máxima activación de los oblicuos y el abdomen.
+  3. Regresa la pierna de forma controlada a la posición de plancha.
+  4. Repite el movimiento con la rodilla contraria, alternando lados.
+
+  Consejos:
+  Mantén el core firme en todo momento y evita que las caderas se hundan o se eleven en exceso.
+search_terms:
+  - Black Widow Knee Slides
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1473'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Cable Flye
 description: |-
-  Attach D-Handles to two cable pulleys in the upper position. Grab the left on with your right hand and vice-versa.
+  Starting Position:
+  Set both pulleys of a dual cable machine at upper-chest to eye level. Grab the cables crosswise (left cable with right hand, right cable with left hand) by the carabiners or D-handles. Stand centered with feet shoulder-width apart, holding your arms extended forward in front of your chest with a soft bend in your elbows.
+
+  Execution:
+  1. Pull both arms simultaneously out and backward in a wide horizontal arc until your hands are in line with your shoulders.
+  2. Squeeze your rear deltoids and rhomboids firmly at the peak contraction for one second.
+  3. Slowly bring your arms back forward under full control to the starting crossed position.
+
+  Cues:
+  Maintain the slight bend in your elbows throughout the movement; do not turn it into a triceps extension or row. Keep your torso stationary.
+search_terms:
+  - Rear Delt Cable Flye
+  - Cross-Body Cable Reverse Flye
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

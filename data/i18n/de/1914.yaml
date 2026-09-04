@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1914'
 language: de
-status: upstream_unreviewed
-name: Isometrisches Halten am Barren
-description: |-
-  Das isometrische Halten am Barren ist eine statische Oberkörperübung, die an Dip-Stangen (Parallelbarren) ausgeführt wird. Anstatt dich wie bei einem klassischen Dip auf und ab zu bewegen, hältst du unter Spannung eine feste Position.
+status: ai_reviewed
+name: Stützhalten am Barren (Support Hold)
+description: 'Ausgangsposition:
+
+  Begib dich zwischen die Holme eines Parallelbarrens (Dip-Station). Greife die Griffe im neutralen Griff und drücke dich mit gestreckten Armen nach oben, sodass die Füße den Boden verlassen.
+
+
+  Ausführung:
+
+  Halte diese Stützposition mit vollständig gestreckten, aber nicht überstreckten Armen statisch. Drücke die Schultern aktiv nach unten (Depression der Schulterblätter), öffne die Brust und spanne Bauch und Gesäß fest an, um eine stabile Körperlinie zu bilden. Halte die Position für die vorgegebene Zeitspanne.
+
+
+  Hinweise:
+
+  Vermeide es, in den Schultern einzusinken; die Schultern bleiben weit von den Ohren entfernt und der Körper voll unter Spannung.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4280'
+search_terms:
+- Isometrisches Halten am Barren
+- Parallel Bar Support Hold
+- Barrenstütz statisch

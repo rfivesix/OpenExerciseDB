@@ -2,10 +2,24 @@ exercise_id: '2543'
 language: it
 status: ai_reviewed
 translated_from: en
-name: Rotazioni articolari dei polsi
+name: Circonduzioni articolari dei polsi
+description: |-
+  Posizione di partenza:
+  Siediti o posizionati in piedi con la schiena dritta e le spalle rilassate. Intreccia le dita di entrambe le mani davanti al petto, oppure chiudi le mani a pugno morbido con i gomiti comodamente flessi.
+
+  Esecuzione:
+  1. Ruota i polsi compiendo cerchi ampi e fluidi in senso orario attraverso l'intero raggio di movimento naturale e senza dolore.
+  2. Inverti il senso di rotazione compiendo cerchi in senso antiorario per la restante durata dell'esercizio.
+  3. Mantieni una velocità controllata percependo il progressivo riscaldamento di flessori ed estensori dell'avambraccio.
+
+  Note:
+  Esegui il movimento in maniera fluida senza scatti. È un esercizio eccellente di riscaldamento prima di piegamenti, trazioni, verticali o sollevamento pesi.
+search_terms:
+- Rotazioni articolari dei polsi
+- Mobilità polsi
+- Circonduzione polsi
+- Wrist circles
 upstream:
   license: CC-BY-SA-4.0
   license_author: Awlex
   source_id: '5014'
-description: |-
-  Esercizio di riscaldamento e mobilità articolare: ruota lentamente i polsi compiendo cerchi completi in senso orario e antiorario per preparare le articolazioni e gli avambracci all'allenamento.

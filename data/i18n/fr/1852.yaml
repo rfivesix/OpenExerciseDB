@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1852'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: L-sit
-description: |-
-  Asseyez-vous au sol, les jambes serrées et les bras le long du corps. Poussez sur vos mains pour décoller votre corps du sol, en conservant la même position assise de sorte que vos jambes soient tendues et que vos pieds ne touchent pas le sol.
-  Maintenez la position aussi longtemps que nécessaire.
+description: "Asseyez-vous au sol, les jambes serrées et les bras le long du corps.\
+  \ Poussez sur vos mains pour décoller votre corps du sol, en conservant la même\
+  \ position assise de sorte que vos jambes soient tendues et que vos pieds ne touchent\
+  \ pas le sol.\nMaintenez la position aussi longtemps que nécessaire."
 search_terms:
-  - Équerre
+- Équerre
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,10 +1,25 @@
 exercise_id: '2509'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Seitstütz (Side Plank)
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Vasco-eigener Seitstütz – grundlegende seitliche Rumpfstabilität. Zielt auf schräge Bauchmuskeln, den Quadratus lumborum und Hüftabduktoren. Wesentlich für Wirbelsäulenstabilität und Rotationskontrolle.
+description: |-
+  Ausgangsposition:
+  Lege dich auf die Seite auf eine Matte. Stütze deinen Oberkörper auf den unteren Unterarm, wobei der Ellbogen direkt unter der Schulter platziert ist. Die Beine sind gestreckt und die Füße übereinander oder leicht versetzt hintereinander abgelegt.
+
+  Ausführung:
+  1. Spanne deinen Rumpf fest an und hebe die Hüfte kraftvoll vom Boden ab, bis dein gesamter Körper von Kopf bis Fuß eine gerade Linie bildet.
+  2. Der freie obere Arm kann an die Hüfte gelegt oder senkrecht zur Decke gestreckt werden.
+  3. Halte diese Position stabil für die vorgegebene Zeit, ohne die Hüfte nach unten durchhängen zu lassen.
+  4. Senke die Hüfte langsam ab und wiederhole die Übung auf der anderen Seite.
+
+  Hinweise:
+  Achte darauf, dass die Schulter des Stützarms aktiv nach unten gedrückt bleibt und der Kopf in Verlängerung der Wirbelsäule gehalten wird.
+search_terms:
+- Side Plank (Core L1)
+- Seitstütz
+- Side Plank
+- Seitliche Planke
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4988'

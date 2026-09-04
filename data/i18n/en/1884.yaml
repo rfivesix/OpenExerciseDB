@@ -5,21 +5,17 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1884'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Shinbox IR Stretch
-description: |-
-  Starting Position: Sit on the floor with both hips and knees bent at 90-degree angles.
-  Leg Placement:
-  Place one leg in front of you (external rotation) and the other leg out
-  to the side/behind you (internal rotation). The shins and knees should
-  remain flat on the ground.
-  The Movement:
-  Keeping your hips square, hinge your torso forward or tilt it laterally
-  (side-to-side) toward the front leg to deepen the stretch.
-  Target Areas:
-  Stretches the glutes and piriformis (front leg) and the hip flexors and
-  quads (back leg). Engages the core and obliques during lateral flexion.
-  Goal: Improves hip mobility, specifically internal and external rotation, and relieves lower back tension.
+description: "Starting Position: Sit on the floor with both hips and knees bent at\
+  \ 90-degree angles.\nLeg Placement:\nPlace one leg in front of you (external rotation)\
+  \ and the other leg out\nto the side/behind you (internal rotation). The shins and\
+  \ knees should\nremain flat on the ground.\nThe Movement:\nKeeping your hips square,\
+  \ hinge your torso forward or tilt it laterally\n(side-to-side) toward the front\
+  \ leg to deepen the stretch.\nTarget Areas:\nStretches the glutes and piriformis\
+  \ (front leg) and the hip flexors and\nquads (back leg). Engages the core and obliques\
+  \ during lateral flexion.\nGoal: Improves hip mobility, specifically internal and\
+  \ external rotation, and relieves lower back tension."
 upstream:
   license: CC-BY-SA-4.0
   license_author: teus_ergaster

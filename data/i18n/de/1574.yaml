@@ -1,11 +1,34 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1574'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Schwimmen
-description: 800 m Schwimmen in 20 Minuten
+description: 'Ausgangsposition:
+
+  Begib dich ins Wasser und richte dich für das Bahnenschwimmen im gewünschten Schwimmstil
+  (z. B. Kraulschwimmen oder Brustschwimmen) ein.
+
+
+  Ausführung:
+
+  1. Schwimme kontinuierlich in einem gleichmäßigen, rhythmischen Tempo über die festgelegte
+  Distanz oder Zeit.
+
+  2. Nutze einen sauberen Armzug aus Latissimus und Schultern sowie einen kontinuierlichen
+  Beinschlag für den Vortrieb.
+
+  3. Halte eine stromlinienförmige Wasserlage und atme rhythmisch im Takt der Schwimmzüge.
+
+
+  Hinweise:
+
+  Hervorragendes, extrem gelenkschonendes Herz-Kreislauf- und Ausdauertraining, das
+  die gesamte Rücken-, Schulter- und Rumpfmuskulatur beansprucht.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: delta@romeo
   source_id: '2522'
+search_terms:
+- Bahnen ziehen
+- Freistilschwimmen
+- Swimming

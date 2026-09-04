@@ -1,10 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1938'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Katze-Kuh
-description: Im Vierfüßlerstand den Rücken nach oben wölben (Katze), dann nach unten senken (Kuh). Mit der Bewegung atmen.
+name: Katze-Kuh (Cat-Cow)
+description: 'Ausgangsposition:
+
+  Begib dich auf einer Gymnastikmatte in den Vierfüßlerstand. Platziere die Handgelenke direkt unter den Schultern und die Knie hüftbreit unter den Hüften. Die Wirbelsäule befindet sich zunächst in neutraler Position.
+
+
+  Ausführung:
+
+  Atme tief ein, lasse den Bauch sanft in Richtung Boden sinken, hebe das Brustbein und das Becken an und blicke leicht nach vorne oben in die Kuh-Position. Atme langsam und vollständig aus, kippe das Becken nach hinten, ziehe den Bauchnabel fest zur Wirbelsäule und runde den gesamten Rücken wie einen Katzenbuckel nach oben, während das Kinn zur Brust sinkt. Wechsle im Rhythmus deiner Atmung fließend für 8–12 Wiederholungen zwischen beiden Positionen.
+
+
+  Hinweise:
+
+  Führe die Bewegung achtsam und wirbelweise aus, ohne in der Lendenwirbelsäule abzuknicken oder in die Schultern einzusinken.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3088'
+search_terms:
+- Katze-Kuh
+- Cat-Cow
+- Katzenbuckel Pferderücken
+- Vierfüßler Wirbelsäulenmobilisation

@@ -1,16 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1906'
 language: es
-status: upstream_unreviewed
-name: Puente de cadera
-description: |-
-  Colócate en posición de puente, mantén el equilibrio sobre los talones y comienza a extender las piernas de forma unilateral.
-  Mantén la cadera lo más extendida posible.
+status: ai_reviewed
+name: Puente de glúteos con extensión alterna de piernas
+description: 'Posición inicial:
+
+  Túmbate boca arriba sobre una esterilla con las rodillas flexionadas y los pies apoyados sobre los talones a la anchura de las caderas. Coloca los brazos a los lados.
+
+
+  Ejecución:
+
+  Empuja con los talones para elevar la pelvis hasta que muslos y tronco formen una línea recta. Desde esta posición de puente, extiende una pierna hacia delante en línea con el muslo manteniendo la cadera alta y nivelada. Apoya de nuevo el pie y repite con la otra pierna de forma alterna.
+
+
+  Consejos:
+
+  Aprieta los glúteos y el abdomen para que la pelvis no caiga ni rote durante el cambio de piernas.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4271'
+search_terms:
+- Puente de cadera
+- Hip Bridge

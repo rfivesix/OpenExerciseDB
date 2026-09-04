@@ -1,35 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1748'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abduction des hanches à la machine
-description: |-
-  Technique et exécution
-  Position de départ
-  Positionnement assis : Asseyez-vous dans la machine, le dos contre l'appui
-  Placement des jambes : Faces internes des cuisses contre les points de résistance rembourrés de la machine
-  Réglage de la machine : Réglez la position du siège pour aligner votre articulation de hanche avec le point de pivot de la machine
-  Technique du mouvement
-  Commencez jambes serrées ou légèrement appuyées contre les coussins internes
-  Poussez lentement les jambes vers l'extérieur en les écartant
-  Écartez-les jusqu'à atteindre l'amplitude latérale maximale confortable
-  Marquez une brève pause au point le plus écarté du mouvement
-  Revenez lentement à la position de départ avec un mouvement contrôlé
-  Détail biomécanique
-  Sollicitation musculaire
-  Activation principale : Moyen fessier (muscle latéral de la hanche)
-  Stabilisation : Sollicite la sangle abdominale et les muscles du bas du dos
-  Mouvement fonctionnel : Reproduit le mouvement latéral des jambes utilisé à la marche, dans le sport et les activités quotidiennes
-  Bienfaits
-  Force et stabilité
-  Améliore la stabilité de la hanche
-  Réduit le risque de blessures au genou
-  Améliore les capacités de mouvement latéral
-  Cible des groupes musculaires souvent négligés
+description: "Position de départ :\nAsseyez-vous sur la machine à abductions avec\
+  \ le dos fermement calé contre le dossier. Placez la face externe de vos cuisses\
+  \ et de vos genoux contre les coussins d'appui. Posez vos pieds sur les repose-pieds\
+  \ et tenez les poignées latérales pour fixer le bassin.\n\nExécution :\n1. Écartez\
+  \ puissamment les jambes vers l'extérieur en poussant contre les coussins avec la\
+  \ force du moyen fessier.\n2. Atteignez l'écartement maximal et maintenez la contraction\
+  \ de pointe pendant 1 à 2 secondes.\n3. Revenez lentement et sous contrôle vers\
+  \ la position centrale sans laisser les plaques de poids se reposer.\n\nConseils\
+  \ :\nGardez le dos et les hanches plaqués contre le siège sans balancer le buste."
+search_terms:
+  - Abduction à la machine
+  - Machine abducteurs
+  - Hip Abduction Machine
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,10 +1,22 @@
 exercise_id: '1583'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Bankdrücken in Rückenlage
-description: Nimm einen engen Griff und drücke senkrecht zur Bank. Halte den Rücken flach.
+name: Enges Bankdrücken mit Langhantel
+search_terms:
+  - Bankdrücken in Rückenlage
+  - Supine press
+  - Enges Bankdrücken
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings auf eine Flachbank, wobei die Füße fest auf dem Boden stehen. Greife die Langhantel im schulterbreiten Obergriff (etwa 30–40 cm Handabstand) und hebe sie mit gestreckten Armen senkrecht über deine Brust aus der Ablage.
+
+  Ausführung:
+  Senke die Hantelstange kontrolliert zur unteren Brust oder zum Rippenbogen ab. Halte die Ellbogen dabei nah am Oberkörper (ca. 30–45 Grad). Berühre die Brust leicht ohne Abfedern und drücke die Langhantel anschließend kraftvoll über Trizeps und Brust nach oben in die Ausgangsposition zurück.
+
+  Hinweise:
+  - Greife nicht zu eng, um Handgelenke und Ellbogengelenke nicht unnötig zu überlasten.
+  - Halte die Handgelenke gerade und knicke sie unter der Last nicht nach hinten ab.
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard

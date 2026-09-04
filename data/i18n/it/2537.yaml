@@ -2,10 +2,23 @@ exercise_id: '2537'
 language: it
 status: ai_reviewed
 translated_from: de
-name: Lento avanti per spalle isometrico
+name: Distensioni sopra la testa isometriche ai cavi
+description: |-
+  Posizione di partenza:
+  Posizionati al centro di una stazione con cavi bassi impugnando le maniglie all'altezza delle spalle, con i gomiti sotto i polsi e i palmi rivolti in avanti. Mantieni una postura eretta, piedi alla larghezza delle spalle e addome contratto per stabilizzare il tronco.
+
+  Esecuzione:
+  1. Spingi le maniglie verso l'alto fino all'altezza della fronte o a braccia quasi del tutto distese sopra la testa.
+  2. Trattieni la posizione in modo assolutamente statico contro la trazione continua dei cavi per il tempo stabilito, contraendo con forza deltoidi anteriori e tricipiti.
+  3. Riporta lentamente e con controllo le maniglie all'altezza delle spalle al termine della tenuta.
+
+  Note:
+  Evita di inarcare il tratto lombare stringendo glutei e addominali. La resistenza costante del cavo richiede un controllo continuo della traiettoria.
+search_terms:
+- Lento avanti per spalle isometrico
+- Shoulder press isometrico ai cavi
+- Overhead Press Isometric
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5008'
-description: |-
-  Esercizio statico che consiste nel mantenere un carico fermo sopra la testa a braccia tese, oppure nello spingere contro una resistenza inamovibile a un punto prestabilito della traiettoria, sviluppando forza nei deltoidi senza movimento articolare.

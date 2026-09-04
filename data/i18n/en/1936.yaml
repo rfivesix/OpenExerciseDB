@@ -1,16 +1,26 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1936'
 language: en
-status: upstream_unreviewed
-name: Cable Rear-Delt Fly (single arm)
-description: |-
-  Cable rear delt fly (single arm):
-  Stand sideways to a cable machine with the handle set around shoulder height. With a slight bend in the elbow, pull the handle out and back in a wide arc so the upper arm moves away from the body. Keep your torso still and focus on the rear delt doing the work. Use light to moderate weight and controlled reps.
+status: ai_reviewed
+name: One-Arm Cable Rear Delt Fly
+description: 'Starting position:
+
+  Stand sideways to a cable tower with the pulley set to shoulder height. Reach across your chest with your outside hand to grasp the cable or single handle. Maintain a slight, fixed bend in your elbow and keep your core braced.
+
+
+  Execution:
+
+  Pull the cable horizontally across your body in a wide arc until your arm extends straight out to your side, squeezing your rear deltoid and upper back firmly at full contraction. Slowly return the cable across your chest along the same path under complete control.
+
+
+  Tips:
+
+  Keep your torso stationary and hips squared forward; do not twist your torso to gain momentum.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Dulive
   source_id: '3085'
+search_terms:
+- Cable Rear-Delt Fly (single arm)
+- One-Arm Cable Rear Delt Fly
+- Single-Arm Cable Reverse Fly
+- Standing Cable Rear Delt Fly

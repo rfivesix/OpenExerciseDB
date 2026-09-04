@@ -1,10 +1,22 @@
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1741'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: L-Sit-Klimmzüge
-description: L-Sit-Klimmzüge trainieren sowohl Oberkörper- als auch Rumpfmuskulatur.
+description: "Ausgangsposition:\nUmfasse eine Klimmzugstange im schulterbreiten Obergriff\
+  \ (Pronation). Hänge dich mit gestreckten Armen an die Stange und hebe deine gestreckten\
+  \ Beine im 90-Grad-Winkel nach vorne an, sodass dein Körper ein „L“ bildet. Spanne\
+  \ Rumpf und Hüftbeuger fest an.\n\nAusführung:\n1. Halte die L-Position der Beine\
+  \ stabil und ziehe deinen Körper kontrolliert nach oben, indem du die Ellenbogen\
+  \ nach unten und hinten führst, bis dein Kinn die Stange passiert.\n2. Halte die\
+  \ Kontraktion am oberen Punkt kurz und halte die Beine weiterhin exakt waagerecht.\n\
+  3. Senke dich langsam und kontrolliert wieder in die vollständige Armstreckung ab,\
+  \ ohne die Beine absinken zu lassen.\n\nHinweise:\nVermeide Schwung und halte die\
+  \ Knie durchgedrückt und die Zehenspitzen gestreckt."
+search_terms:
+  - L-Sit Chin-Up
+  - L-Klimmzug
+  - L-Sit Pull-ups
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

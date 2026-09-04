@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1935'
 language: es
-status: upstream_unreviewed
-name: Sentadilla con cinturón
-description: |-
-  Sentadilla con cinturón: una variante de la sentadilla que se realiza con un cinturón sujeto a una máquina de carga o plataforma, de modo que el peso se sostiene en las caderas en lugar de sobre la columna. Trabaja principalmente los cuádriceps y los glúteos, con mucha menos fatiga lumbar que una sentadilla con barra. Usa un rango de movimiento completo, mantén el torso erguido y empuja a través de la parte media del pie.
+status: ai_reviewed
+name: Sentadilla en máquina con cinturón (Belt Squat)
+description: 'Posición inicial:
+
+  Súbete a la plataforma de la máquina de sentadilla con cinturón y ajusta el cinturón de carga alrededor de las caderas. Engancha la cadena al soporte, coloca los pies a la anchura de los hombros y sujeta los asideros para mantener el equilibrio.
+
+
+  Ejecución:
+
+  Quita el seguro y desciende en una sentadilla profunda doblando las rodillas y caderas hasta que los muslos queden paralelos a la plataforma. Mantén el torso erguido y empuja con fuerza con toda la planta del pie para regresar a la posición vertical.
+
+
+  Consejos:
+
+  Al situar la carga directamente sobre la pelvis, se descarga completamente la columna vertebral, siendo ideal para entrenar piernas de forma pesada y segura.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4298'
+search_terms:
+- Sentadilla con cinturón
+- Sentadilla en máquina con cinturón
+- Belt Squat Machine

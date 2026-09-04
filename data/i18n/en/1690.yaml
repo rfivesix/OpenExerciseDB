@@ -1,33 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1690'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Cable Fly Upper Chest
 description: |-
   Execution
-
-
+  
   Start position:
-
+  
   Arms down and slightly behind your body, elbows slightly bent.
   Feel a light stretch across your chest.
-
-
-
+  
   Movement:
-
-  Bring your hands&nbsp;upward and together&nbsp;in front of your upper chest — roughly at&nbsp;chin to collarbone level.
+  
+  Bring your hands upward and together in front of your upper chest — roughly at chin to collarbone level.
   Use a smooth, controlled motion (avoid jerking).
-  Squeeze&nbsp;your chest at the top for 1–2 seconds.
-
-
-
+  Squeeze your chest at the top for 1–2 seconds.
+  
   Return:
-
+  
   Slowly let your arms move back down and out to the sides, keeping control and tension.
 upstream:
   license: CC-BY-SA-4.0

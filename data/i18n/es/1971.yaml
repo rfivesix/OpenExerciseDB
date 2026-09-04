@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1971'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jalón Mentzer
 description: |-
-  Jalón al frente con agarre cerrado, centrándote en el bíceps. Aumenta la activación del bíceps en todo el recorrido. Evita activar los dorsales.
+  Posición inicial:
+  Siéntate en la máquina de jalón dorsal y ajusta las almohadillas para asegurar firmemente los muslos. Sujeta la barra con un agarre supino cerrado (palmas hacia ti), a la anchura de los hombros o ligeramente más estrecho.
+
+  Ejecución:
+  1. Mantén el pecho erguido y tira de la barra hacia la parte superior del pecho dirigiendo los codos hacia abajo y atrás.
+  2. Contrae fuertemente los dorsales y bíceps en el punto más bajo durante 1 o 2 segundos.
+  3. Regresa la barra de manera lenta y controlada hasta extender los brazos casi por completo para un estiramiento total.
+
+  Consejos:
+  Evita balancear el torso o utilizar el impulso de la espalda baja; controla la fase excéntrica.
+search_terms:
+- Jalón supino cerrado
+- Mentzer Pulldown
+- Jalón al pecho agarre cerrado
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

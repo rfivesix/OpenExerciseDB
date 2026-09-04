@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1479'
 language: fr
-status: upstream_unreviewed
-name: Relevé de buste avec poussée du coude
+status: ai_reviewed
+name: Sit-up avec coup de coude (Sit Up Elbow Thrust)
 description: |-
-  Il s'agit d'un mouvement de rotation de haut en bas, et il est aussi un peu plus explosif.
-  Allongé, les genoux fléchis et les pieds au sol, relevez le buste puis projetez votre coude gauche en travers de tout le corps vers la droite, revenez ensuite au centre et enfin redescendez. Faites ensuite l'autre côté.
+  Position de départ :
+  Allongez-vous sur le dos sur un tapis, genoux fléchis, pieds au sol et mains en garde près du visage.
+
+  Exécution :
+  1. Relevez le buste de manière dynamique et explosive grâce à la contraction des abdominaux.
+  2. Au sommet du relevé, effectuez une rotation du tronc et projetez énergiquement le coude vers l'avant et en diagonale.
+  3. Revenez au centre et redescendez le dos au sol avec contrôle.
+  4. Répétez en alternant le coup de coude du côté opposé à chaque répétition.
+
+  Conseils :
+  Liez la montée du buste à la frappe du coude pour combiner flexion et rotation du tronc.
+search_terms:
+  - Relevé de buste avec poussée du coude
+  - Sit Up Elbow Thrust
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

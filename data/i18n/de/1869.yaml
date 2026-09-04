@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1869'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Vierer-Dehnung in Rückenlage (Figure Four)
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Lege dich rücklings auf eine Matte, beuge beide Knie\
+  \ und stelle die Füße flach auf den Boden.\nAusführung: Lege den rechten Knöchel\
+  \ über den linken Oberschenkel (knapp oberhalb des Knies), sodass die Beine eine\
+  \ „4“ bilden. Greife mit beiden Händen die Rückseite des linken Oberschenkels und\
+  \ ziehe das Bein sanft zum Brustkorb heran.\nHinweise: Du solltest eine intensive\
+  \ Dehnung im rechten Gesäß und Piriformis spüren. Halte den Kopf und die Schultern\
+  \ entspannt am Boden. Halte für 20–30 Sekunden und wechsle die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1490'
 language: es
-status: upstream_unreviewed
-name: Patada de tríceps tumbado
+status: ai_reviewed
+name: Patada de tríceps en banco inclinado con mancuernas
 description: |-
-  Ajusta el banco a un ángulo de 60 grados. Mantente quieto y apoya el torso sobre el banco inclinado, asegurando una línea casi recta de todo el cuerpo. Junta los omóplatos, de modo que los codos queden por detrás del torso con los brazos casi paralelos al suelo. Levanta las mancuernas hasta que los brazos formen una línea recta. Baja lentamente las mancuernas a la posición inicial. La posición inicial corresponde a una posición en ángulo recto entre el brazo y el antebrazo.
+  Posición inicial:
+  Ajusta un banco inclinable a unos 60 grados. Colócate boca abajo apoyando el pecho contra el respaldo inclinado y los pies en el suelo. Sujeta una mancuerna en cada mano, junta los omóplatos y eleva los brazos de modo que queden paralelos al suelo junto al torso.
+
+  Ejecución:
+  1. Manteniendo los brazos fijos y los codos pegados a los costados, extiende los codos hacia atrás hasta que los brazos queden completamente rectos.
+  2. Aprieta con fuerza los tríceps en el bloqueo superior durante un segundo.
+  3. Flexiona los codos de forma lenta y controlada de vuelta a un ángulo de 90 grados.
+
+  Consejos:
+  El apoyo del pecho en el banco evita cualquier balanceo corporal y asegura un aislamiento riguroso de los tríceps.
+search_terms:
+  - Patada de tríceps tumbado
+  - Incline Triceps Kickback
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

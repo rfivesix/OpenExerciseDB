@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1929'
 language: es
-status: upstream_unreviewed
-name: Dominada asistida
-description: |-
-  La dominada asistida es un ejercicio de tirón vertical compuesto que se realiza en una máquina con plataforma de contrapeso o usando bandas elásticas. Imita la mecánica de una dominada estándar pero reduce el peso total que tienes que levantar, lo que la convierte en una herramienta excelente para desarrollar fuerza funcional y perfeccionar tu técnica.
+status: ai_reviewed
+name: Jalón con brazos rectos con banda elástica
+description: 'Posición inicial:
+
+  Fija una banda de resistencia a un punto alto. Sujeta la banda con ambas manos en agarre prono y da un paso atrás para crear tensión. Inclina ligeramente el torso hacia delante con la espalda recta y los brazos casi extendidos por encima de la cabeza.
+
+
+  Ejecución:
+
+  Tira de la banda hacia abajo en un arco amplio en dirección a los muslos, concentrando la fuerza en los dorsales. Aprieta intensamente en la posición final y regresa despacio controlando la resistencia hasta estirar los dorsales por completo.
+
+
+  Consejos:
+
+  Mantén los codos con un bloqueo fijo y no flexiones los brazos durante el movimiento para aislar correctamente el dorsal.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4292'
+search_terms:
+- Dominada asistida
+- Jalón con brazos rectos con banda elástica
+- Straight Arm Band Pull Down

@@ -5,9 +5,16 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1865'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Banded Ankle Mobility
-description: View the video to undestand the exercise
+description: "Starting Position: Anchor a heavy resistance band low behind you. Assume\
+  \ a half-kneeling position with your front foot inside the loop, positioning the\
+  \ band just below the ankle bones across the talus so it pulls backward and downward.\n\
+  Execution: Slowly drive your front knee forward past your toes while keeping your\
+  \ heel firmly planted on the floor. Pause for 2–3 seconds at the end-range of dorsiflexion,\
+  \ then release.\nTips: The backward band tension mobilizes the talus bone and improves\
+  \ ankle dorsiflexion without joint pinch. Complete 10–15 controlled repetitions\
+  \ per leg."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

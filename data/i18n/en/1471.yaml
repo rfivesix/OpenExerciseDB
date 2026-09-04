@@ -5,9 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1471'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Kroc Row
-description: Dumbbell rows with looser technique but heavier weight.
+description: |-
+  Starting Position:
+  Support your torso by placing one hand and knee on a flat bench, or bracing one hand against a sturdy dumbbell rack. Keep your back flat and core tight. Hold a heavy dumbbell in your free hand with your arm hanging straight down in a neutral grip.
+
+  Execution:
+  1. Explosively pull the heavy dumbbell upward toward your hip, allowing a slight, controlled degree of body momentum to initiate the pull with the heavy load.
+  2. Drive your elbow high and back, squeezing your lats and upper back muscles forcefully at the top.
+  3. Lower the weight under control through the full range of motion, allowing the shoulder to stretch at the bottom before initiating the next rep.
+
+  Cues:
+  Pioneered by Matt Kroc, this powerbuilding staple combines heavy loads with high reps (often 15–25+ reps) to build massive back thickness and grip strength.
+search_terms:
+  - Kroc Rows
+  - Heavy Dumbbell Row
+  - High-Rep Heavy Dumbbell Row
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

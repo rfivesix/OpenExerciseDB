@@ -1,16 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1827'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pression abdominale à deux jambes
-description: |-
-  Allongez-vous sur le dos, les genoux et les hanches fléchis à 90 degrés (position de la table).
-  Placez vos mains sur vos cuisses, juste au-dessus des genoux. Poussez vos mains contre vos genoux aussi fort que possible tout en utilisant vos abdominaux pour tirer vos genoux vers vos mains.
-  Maintenez pendant 10 secondes à effort maximal. Vos abdominaux devraient trembler.
+description: "Position de départ :\nAllongez-vous sur le dos, les hanches et les genoux\
+  \ fléchis à 90 degrés en position de table. Plaquez fermement le bas du dos contre\
+  \ le sol. Posez vos paumes de mains sur vos cuisses, juste au-dessus des genoux.\n\
+  \nExécution :\n1. Poussez de toutes vos forces avec vos mains contre vos cuisses\
+  \ tout en poussant simultanément vos cuisses contre vos mains.\n2. Créez un gainage\
+  \ isométrique intense sur l'ensemble de la sangle abdominale.\n3. Maintenez cette\
+  \ poussée maximale pendant 10 à 15 secondes sans bloquer votre respiration.\n4.\
+  \ Relâchez doucement la pression avant d'enchaîner la répétition suivante.\n\nConseils\
+  \ :\nLe bas du dos doit rester en contact continu avec le tapis tout au long de\
+  \ l'effort."
+search_terms:
+  - Pression abdominale à deux jambes
+  - Double-Leg Abdominal Press
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

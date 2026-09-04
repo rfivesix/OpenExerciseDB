@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1804'
 language: es
-status: upstream_unreviewed
-name: Dorsiflexión de tobillo
-description: |-
-  Mueve tu rodilla adelante evitando separar el talón del suelo. Manten la posición un par de segundos y vuelve a&nbsp; la posición inicial
+status: ai_reviewed
+name: Movilidad de dorsiflexión de tobillo
+description: "Posición inicial:\nAdopta una posición de medio arrodillado con una\
+  \ rodilla apoyada en el suelo y el pie adelantado plano y firme sobre la colchoneta.\n\
+  \nEjecución:\n1. Desplaza la rodilla delantera hacia adelante pasando por encima\
+  \ de la punta de los pies sin despegar el talón del suelo.\n2. Alcanza el rango\
+  \ máximo de dorsiflexión del tobillo y mantén la posición durante 2 o 3 segundos.\n\
+  3. Regresa suavemente a la posición inicial y repite el movimiento de oscilación\
+  \ rítmica antes de cambiar de pierna.\n\nConsejos:\nAsegúrate de que el talón permanezca\
+  \ siempre en contacto con el suelo durante todo el estiramiento."
+search_terms:
+  - Dorsiflexión de tobillo
+  - Ankle Dorsiflexion Rocks
+  - Movilidad de tobillo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

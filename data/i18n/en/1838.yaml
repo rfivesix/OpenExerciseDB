@@ -5,11 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1838'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Banded Shoulder Drills
-description: |-
-  Attach a resistance band to something solid behind you. Stand away from it, holding it in your hand so it is taut.
-  See the attached youtube video: https://www.youtube.com/watch?v=zdwEWchSjrI .
+description: "Starting Position: Attach a resistance band at shoulder or chest height\
+  \ to a sturdy anchor. Grasp the band with one hand and step away until there is\
+  \ light to moderate tension.\nExecution: Perform controlled circular and rotational\
+  \ arm movements across multiple planes of motion to mobilize the shoulder joint\
+  \ and warm up the rotator cuff.\nTips: Maintain an upright posture and keep your\
+  \ core engaged. Move smoothly without jerking or rushing."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

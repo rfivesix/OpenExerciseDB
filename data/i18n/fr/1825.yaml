@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1825'
 language: fr
-status: upstream_unreviewed
-name: Élévation des deltoïdes postérieurs avec appui sur la poitrine
-description: |-
-  « Le Y »Position : Réglez un banc incliné à 30-45 degrés. Allongez-vous à plat ventre, la poitrine en appui, en gardant la tête neutre ou le regard légèrement vers le bas pour éviter de forcer sur la nuque.Prise : Tenez des haltères légers en prise neutre ou pouces vers le haut (le pouce pointant vers le plafond).Mouvement : Les coudes tendus ou légèrement fléchis, levez les haltères vers le haut et vers l'extérieur en formant un « Y ». Concentrez-vous sur le mouvement des épaules et des omoplates plutôt que sur le simple fait de lever les bras.Position haute : Rapprochez les omoplates et étirez-vous bien haut, en veillant à ce que les bras soient orientés de façon à former un « Y ».Contrôle : Abaissez lentement les haltères jusqu'à la position de départ.
+status: ai_reviewed
+name: Élévation des deltoïdes postérieurs sur banc incliné
+description: "Position de départ :\nRéglez un banc incliné à 30-45 degrés. Allongez-vous\
+  \ à plat ventre, la poitrine fermement calée contre le dossier et le cou neutre.\
+  \ Tenez des haltères légers les bras ballants, en prise neutre ou pouces vers le\
+  \ haut.\n\nExécution :\n1. Les coudes très légèrement déverrouillés, levez les haltères\
+  \ vers le haut et l'extérieur en formant un « Y ».\n2. Tirez avec l'arrière des\
+  \ épaules et rapprochez les omoplates au sommet du mouvement.\n3. Marquez un temps\
+  \ d'arrêt d'une seconde en contraction maximale à hauteur d'épaules.\n4. Redescendez\
+  \ lentement les haltères sous contrôle jusqu'à la position de départ.\n\nConseils\
+  \ :\nL'appui pectoral sur le banc supprime tout élan du bas du dos pour une isolation\
+  \ parfaite."
+search_terms:
+  - Élévation deltoïdes postérieurs banc
+  - Chest-Supported Rear Delt Raise
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

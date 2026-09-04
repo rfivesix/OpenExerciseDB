@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2509'
 language: es
-status: upstream_unreviewed
-name: Puente lateral
+status: ai_reviewed
+name: Plancha lateral
 description: |-
-  Para realizar correctamente el puente o plancha lateral, apóyate sobre un antebrazo y coloca los pies uno encima del otro. Luego, eleva la cadera hasta formar una línea recta de cabeza a pies, manteniendo la posición antes de cambiar de lado al terminar. Como claves esenciales para cuidar la postura, no dejes caer la cadera, mantén el cuerpo alineado, el cuello neutro y aprieta el abdomen y los glúteos durante todo el ejercicio.
+  Posición inicial:
+  Túmbate de lado en el suelo sobre una esterilla con las piernas estiradas y los pies apilados o ligeramente escalonados. Apóyate sobre el antebrazo inferior con el codo colocado directamente bajo el hombro.
+
+  Ejecución:
+  1. Activa el abdomen y eleva la cadera del suelo hasta que tu cuerpo dibuje una línea recta desde la cabeza hasta los pies.
+  2. Mantén el cuello neutro y el brazo superior apoyado sobre la cadera o extendido hacia el techo.
+  3. Sostén esta postura isométrica durante el tiempo prescrito respirando de manera controlada.
+  4. Desciende la cadera suavemente y repite el ejercicio sobre el otro lado.
+
+  Consejos:
+  No permitas que la cadera caiga hacia el suelo ni que el torso rote hacia adelante; mantén la contracción en oblicuos y glúteos.
+search_terms:
+- Puente lateral
+- Plancha lateral
+- Side Plank
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95

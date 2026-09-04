@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1854'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Faszienrolle Wade
-description: Rolle deine Waden langsam über die Faszienrolle.
+description: "Ausgangsposition: Setze dich auf den Boden und platziere die Faszienrolle\
+  \ quer unter deinen Waden (zwischen Achillessehne und Kniekehle). Stütze dich mit\
+  \ den Händen hinter dem Körper ab und hebe das Gesäß leicht an.\nAusführung: Rolle\
+  \ langsam und kontrolliert von der Achillessehne bis kurz vor die Kniekehle vor\
+  \ und zurück. Drehe die Beine leicht nach innen und außen, um alle Bereiche der\
+  \ Wadenmuskulatur zu erreichen.\nHinweise: Verweile an besonders verspannten Stellen\
+  \ (Triggerpunkten) für 15–20 Sekunden und atme ruhig weiter."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

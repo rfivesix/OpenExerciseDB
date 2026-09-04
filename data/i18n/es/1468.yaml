@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1468'
 language: es
-status: upstream_unreviewed
-name: Press francés en el suelo
+status: ai_reviewed
+name: Press francés en el suelo con barra EZ
 description: |-
-  Como te permite cargar de forma segura más peso que un press francés normal, túmbate en el suelo y apoya el peso en el suelo entre cada repetición.
+  Posición inicial:
+  Túmbate boca arriba en el suelo o sobre una colchoneta con una barra Z apoyada en el suelo detrás de la cabeza. Sujeta la barra con un agarre prono cerrado en las curvas interiores y eleva los brazos de modo que queden casi verticales, ligeramente inclinados hacia atrás.
+
+  Ejecución:
+  1. Manteniendo los brazos fijos, flexiona los codos para bajar la barra detrás de la cabeza hasta que los discos toquen suavemente el suelo.
+  2. Haz una breve pausa en el suelo para eliminar cualquier rebote o impulso.
+  3. Empuja la barra hacia arriba extendiendo con fuerza los tríceps hasta volver a la posición de partida.
+
+  Consejos:
+  Apoyar el peso en el suelo en cada repetición reduce la tensión excesiva sobre las articulaciones de los codos y permite entrenar con cargas más pesadas de forma segura.
+search_terms:
+  - Press francés en el suelo
+  - Floor Skull Crusher
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

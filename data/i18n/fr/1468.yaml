@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1468'
 language: fr
-status: upstream_unreviewed
-name: Barre au front au sol
+status: ai_reviewed
+name: Barre au front au sol avec barre EZ
 description: |-
-  Vous permettant de charger en toute sécurité plus de poids qu'une barre au front classique, allongez-vous au sol et reposez la charge sur le sol entre chaque répétition.
+  Position de départ :
+  Allongez-vous sur le dos à même le sol ou sur un tapis, la barre EZ posée au sol derrière la tête. Saisissez la barre avec une prise serrée en pronation sur les courbes intérieures et tendez les bras vers le haut, légèrement inclinés vers l'arrière par rapport à la verticale.
+
+  Exécution :
+  1. En gardant les bras immobiles, fléchissez uniquement les coudes pour faire descendre la barre derrière la tête jusqu'à ce que les disques touchent doucement le sol.
+  2. Marquez une brève pause au sol pour éliminer tout effet de rebond ou d'élan.
+  3. Poussez la barre vers le haut en étendant fermement les triceps pour revenir à la position de départ.
+
+  Conseils :
+  Le fait de reposer la charge au sol soulage la tension sur les coudes au point mort bas et permet de travailler plus lourd en toute sécurité.
+search_terms:
+  - Barre au front au sol
+  - Floor Skull Crusher
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

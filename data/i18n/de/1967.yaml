@@ -1,11 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1967'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Sitzendes Frontdrücken mit Kurzhanteln
-description: Langsame, kontrollierte Übung im Sitzen mit Kurzhanteln.
+name: Schulterdrücken mit Kurzhanteln im Sitzen
+description: 'Ausgangsposition:
+
+  Setze dich auf eine Trainingsbank mit steil aufgerichteter Rückenlehne (ca. 75–85 Grad). Hebe zwei Kurzhanteln auf Schulterhöhe, sodass deine Handflächen nach vorne zeigen und deine Ellbogen etwa im 90-Grad-Winkel gebeugt sind. Die Füße stehen fest auf dem Boden, die Schulterblätter sind fixiert.
+
+
+  Ausführung:
+
+  Drücke die Kurzhanteln kontrolliert senkrecht nach oben, bis deine Arme fast vollständig gestreckt sind, ohne die Ellbogen durchzudrücken. Führe die Hanteln am obersten Punkt leicht zueinander, ohne sie aneinanderzustoßen. Halte die Kontraktion für einen Moment und senke die Hanteln langsam und kontrolliert zurück auf Schulterhöhe ab.
+
+
+  Hinweise:
+
+  Halte den Rücken flach am Polster und vermeide ein starkes Hohlkreuz beim Hochdrücken des Gewichts.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Cf
   source_id: '3122'
+search_terms:
+- Sitzendes Frontdrücken mit Kurzhanteln
+- Seated Dumbbell Overhead Press
+- Kurzhantel-Schulterdrücken sitzend

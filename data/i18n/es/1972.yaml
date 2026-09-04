@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1972'
 language: es
-status: upstream_unreviewed
-name: Jalón al pecho a un brazo
+status: ai_reviewed
+name: Jalón al pecho unilateral
 description: |-
-  Siéntate en la máquina de jalón y agarra el asa individual con un agarre neutro. Mantén el torso estable, el pecho elevado y las escápulas ligeramente retraídas. Comienza con el brazo completamente extendido por encima de la cabeza y luego tira del asa hacia la parte alta del pecho siguiendo una trayectoria controlada y ligeramente diagonal. Concéntrate en activar el dorsal ancho mientras mantienes el hombro deprimido y evitas cualquier rotación del torso. Vuelve lentamente a la posición inicial, manteniendo el control total durante todo el movimiento.
+  Posición inicial:
+  Siéntate en la máquina de jalón dorsal y sujeta el asa individual con agarre neutro (palma hacia el interior). Mantén el torso erguido, el pecho hacia arriba y el abdomen activo.
+
+  Ejecución:
+  1. Tira del asa hacia la parte alta del pecho guiando el codo hacia abajo y pegado al costado.
+  2. Contrae conscientemente el dorsal en la posición final durante 1 segundo.
+  3. Regresa de manera lenta y controlada hacia la posición inicial hasta extender completamente el brazo para sentir el estiramiento del dorsal.
+  4. Completa las repeticiones deseadas y repite con el otro brazo.
+
+  Consejos:
+  Evita rotar o ladear el torso para levantar el peso; mantén los hombros alineados.
+search_terms:
+- Jalón al pecho a un brazo
+- Jalón unilateral
+- Single-Arm Lat Pulldown
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

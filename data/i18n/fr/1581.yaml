@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1581'
 language: fr
-status: upstream_unreviewed
-name: Développé trapèzes
+status: ai_reviewed
+name: Développé scapulaire aux haltères (Trap press)
+search_terms:
+  - Trap press
+  - Développé trapèzes
+  - Serratus punch aux haltères
+  - Protraction scapulaire avec haltère
 description: |-
-  Allongé à plat, le bras pointé droit vers le haut et le coude complètement tendu, utilisez uniquement l'épaule pour soulever le poids aussi haut que possible sans inconfort, puis revenez à la position de repos.
+  Position de départ:
+  Allongez-vous sur le dos sur un banc plat en tenant un haltère d'une main. Tendez le bras verticalement vers le plafond directement au-dessus de votre épaule, le coude verrouillé ou presque tendu.
+
+  Exécution:
+  En gardant le bras parfaitement tendu sans fléchir le coude, poussez l'haltère vers le haut par une protraction de l'omoplate (en décollant l'omoplate du banc). Maintenez la contraction du grand dentelé (serratus anterior) un instant, puis rétractez lentement l'omoplate pour revenir en appui sur le banc.
+
+  Conseils:
+  - Le mouvement doit provenir exclusivement de l'omoplate et non d'une flexion ou extension du coude.
+  - Gardez le buste stable et le dos bien plaqué contre le banc durant toute la répétition.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

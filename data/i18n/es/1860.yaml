@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1860'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Aductores
-description: Deslizate sobre el Foam Roller sobre tus Aductores. Es castellano por favor
+description: "Posición inicial: Túmbate boca abajo apoyado sobre los antebrazos. Coloca\
+  \ el rodillo de espuma paralelo a tu cuerpo. Abre una pierna flexionada hacia el\
+  \ lateral a unos 90 grados y apoya la cara interna del muslo sobre el rodillo.\n\
+  Ejecución: Rueda lentamente desde la parte interna de la rodilla hasta la ingle\
+  \ y regresa.\nConsejos: Modula la presión con los antebrazos y la pierna que queda\
+  \ apoyada en el suelo, respirando de manera constante."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

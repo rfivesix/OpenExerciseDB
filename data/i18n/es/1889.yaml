@@ -5,14 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1889'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Elevación de piernas en banco declinado
-description: |-
-  Preparación: Túmbate en un banco declinado con la cabeza en la parte superior y agarra las empuñaduras.
-  El inicio: Estira las piernas por completo, manteniéndolas ligeramente elevadas para activar el core.
-  La elevación: Eleva las piernas hacia el techo usando los abdominales, no el impulso.
-  La contracción: Haz una pausa y contrae la parte baja de los abdominales en la parte superior.
-  El retorno: Baja las piernas lentamente a la posición inicial con control.
+description: "Preparación: Túmbate en un banco declinado con la cabeza en la parte\
+  \ superior y agarra las empuñaduras.\nEl inicio: Estira las piernas por completo,\
+  \ manteniéndolas ligeramente elevadas para activar el core.\nLa elevación: Eleva\
+  \ las piernas hacia el techo usando los abdominales, no el impulso.\nLa contracción:\
+  \ Haz una pausa y contrae la parte baja de los abdominales en la parte superior.\n\
+  El retorno: Baja las piernas lentamente a la posición inicial con control."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

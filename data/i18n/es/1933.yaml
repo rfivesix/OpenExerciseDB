@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1933'
 language: es
-status: upstream_unreviewed
-name: Crunch abdominal
-description: |-
-  El crunch abdominal es un ejercicio de aislamiento clásico para el core que se realiza en el suelo o sobre una colchoneta. A diferencia de un sit-up completo, implica un rango de movimiento menor en el que solo elevas los hombros y la parte alta de la espalda del suelo, manteniendo la zona lumbar firmemente apoyada contra el suelo.
+status: ai_reviewed
+name: Crunch invertido
+description: 'Posición inicial:
+
+  Túmbate boca arriba sobre una esterilla con los brazos a los lados para dar estabilidad. Eleva las piernas con las caderas y rodillas flexionadas a 90 grados.
+
+
+  Ejecución:
+
+  Contrae los abdominales para despegar la pelvis de la esterilla, llevando las rodillas hacia el pecho de manera suave y controlada. Haz una breve pausa en el punto máximo de contracción y desciende lentamente la pelvis sin que los pies toquen el suelo.
+
+
+  Consejos:
+
+  Enfócate en enrollar la pelvis con la fuerza del abdomen inferior en lugar de tomar impulso con las piernas.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4296'
+search_terms:
+- Crunch abdominal
+- Crunch invertido
+- Reverse Crunch

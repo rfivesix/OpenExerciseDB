@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2534'
 language: en
-status: upstream_unreviewed
-name: (D) Puente de glúteos
+status: ai_reviewed
+name: Glute Bridge
 description: |-
-  Lie on you back with your hips and knees flexed, feet on the ground. From this position, raise your butt off of the ground to a height where your body makes a straight line from your knees to your shoulders. To make the exercise more intense, you can add weight by letting a barbell rest on your hips as you complete the motion, or you can put your feet on a slightly higher surface such as a step or a bench.
+  Starting Position:
+  Lie flat on your back on an exercise mat with your knees bent and feet flat on the floor, about hip-width apart and a few inches away from your glutes. Rest your arms flat along your sides.
+
+  Execution:
+  1. Engage your core and drive firmly through your heels to lift your hips toward the ceiling.
+  2. Raise your hips until your thighs, pelvis, and torso form a straight line from knees to shoulders.
+  3. Squeeze your glutes hard at the top of the movement and hold for 1 to 2 seconds.
+  4. Lower your hips back down under control until they lightly touch the floor, then immediately begin the next rep.
+
+  Cues:
+  Avoid overextending or hyperextending your lumbar spine at the top; the extension should come solely from your hip joints.
+search_terms:
+- (D) Puente de glúteos
+- Glute Bridge
+- Hip Bridge
+- Butt Bridge
 upstream:
   license: CC-BY-SA-4.0
   license_author: dvdfernandez95

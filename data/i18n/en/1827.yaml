@@ -1,16 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1827'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Double-Leg Abdominal Press
-description: |-
-  Lie on your back with knees and hips bent at 90 degrees (tabletop).
-  Place your hands on your thighs just above your knees. Push your hands against your knees as hard as possible while using your abs to pull your knees toward your hands.
-  Hold for 10 seconds of maximum effort. Your abs should be shaking.
+description: "Starting Position:\nLie flat on your back on a mat. Raise your legs\
+  \ into a tabletop position with your hips and knees flexed at 90 degrees. Press\
+  \ your lower back firmly into the floor so there is no gap. Place both palms on\
+  \ your thighs just above your knees.\n\nExecution:\n1. Push your hands as forcefully\
+  \ as possible against your thighs while simultaneously driving your thighs against\
+  \ your hands with equal force.\n2. Lock in a maximal isometric contraction across\
+  \ your entire abdominal wall and deep core (transversus abdominis).\n3. Hold this\
+  \ maximal isometric tension for 10 to 15 seconds while continuing to breathe shallowly\
+  \ and rhythmically.\n4. Release the tension smoothly, rest for a moment, and repeat.\n\
+  \nCues:\nKeep your lumbar spine glued to the floor throughout the effort; do not\
+  \ hold your breath."
+search_terms:
+  - Double-Leg Abdominal Press
+  - Isometric Tabletop Press
+  - Dead Bug Isometric Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: beagle

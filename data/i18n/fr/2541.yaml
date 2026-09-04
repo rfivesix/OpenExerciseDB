@@ -2,10 +2,23 @@ exercise_id: '2541'
 language: fr
 status: ai_reviewed
 translated_from: en
-name: Extension triceps isométrique à la poulie
+name: Extension triceps unilatérale isométrique à la poulie
+description: |-
+  Position de départ :
+  Debout face à une poulie haute, saisissez une poignée simple d'une main. Plaquez fermement le haut du bras contre le flanc, le coude fléchi à 90 degrés. Inclinez légèrement le buste vers l'avant et gainez la sangle abdominale.
+
+  Exécution :
+  1. Poussez la poignée vers le bas en tendant le bras jusqu'à extension quasi-complète (ou à l'angle ciblé).
+  2. Maintenez cette contraction de manière strictement statique contre la résistance du câble pendant la durée fixée, en contractant le triceps au maximum.
+  3. Laissez remonter la poignée avec lenteur et contrôle jusqu'à 90 degrés, puis répétez de l'autre bras.
+
+  Conseils :
+  Le coude doit rester immobile et collé aux côtes pendant tout le maintien. Ne compensez pas en penchant le poids du corps sur la charge.
+search_terms:
+- Extension triceps isométrique à la poulie
+- Pushdown triceps isométrique
+- Triceps à la poulie unilatéral statique
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5012'
-description: |-
-  Exercice d'isolation unilatéral à la poulie : tenez la poignée à un angle de flexion déterminé du coude et maintenez la contraction de manière isométrique contre la résistance.

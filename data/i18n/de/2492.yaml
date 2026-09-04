@@ -1,14 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '2492'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Adduktorenmaschine
+name: Hüftadduktion an der Maschine
 description: |-
-  Nach Adductor Sel. von Technogym.
-  Setze dich an die Maschine und stelle die Ruheposition auf einen angenehmen Öffnungswinkel ein.
-  Schließe deine Beine.
-  Kehre behutsam in die Ruheposition zurück.
+  Ausgangsposition:
+  Setze dich auf die Adduktorenmaschine mit dem Rücken fest am Rückenpolster. Stelle die Hebelarme auf eine komfortable, weite Spreizung ein, bei der deine Oberschenkelinnenseiten an den Polstern anliegen. Platziere die Füße auf den Fußstützen.
+
+  Ausführung:
+  1. Drücke deine Beine gegen den Widerstand kraftvoll nach innen zusammen, bis sich die Polster fast oder ganz berühren.
+  2. Spanne die Adduktoren (Oberschenkelinnenseite) am Endpunkt für 1 bis 2 Sekunden fest an.
+  3. Öffne die Beine langsam und kontrolliert wieder in die Ausgangsdehnung zurück, ohne das Gewicht ganz abzusetzen.
+
+  Hinweise:
+  Bewege dich in einem kontrollierten Tempo und vermeide ruckartiges Aufschlagen der Gewichte.
+search_terms:
+- Adduktorenmaschine
+- Hüftadduktion sitzend
+- Seated Hip Adduction
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

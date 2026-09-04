@@ -1,10 +1,23 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2489'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Tiefes Rudern
-description: Basiert auf dem Low Row Sel. von Technogym. In dieser Version wird die Übung mit beiden Armen ausgeführt.
+name: Tiefes Rudern an der Maschine
+description: |-
+  Ausgangsposition:
+  Setze dich auf die Rudermaschine mit Brustpolster. Stelle die Sitzhöhe so ein, dass sich die Griffe etwa auf Höhe des oberen Bauchs befinden. Platziere die Füße stabil auf den Fußstützen und lege die Brust flach an das Polster an. Greife die Griffe mit neutralem Griff.
+
+  Ausführung:
+  1. Ziehe die Griffe kontrolliert nach hinten in Richtung Unterbauch/Taille, indem du die Ellbogen eng am Oberkörper nach hinten führst.
+  2. Ziehe am Ende der Zugbewegung die Schulterblätter aktiv zusammen und halte die Kontraktion für 1 Sekunde.
+  3. Führe die Griffe langsam und kontrolliert nach vorne zurück, bis die Arme gestreckt sind und die Rückenmuskulatur gedehnt wird.
+
+  Hinweise:
+  Halte den Brustkorb stets am Polster abgestützt und hole keinen Schwung aus dem unteren Rücken.
+search_terms:
+- Tiefes Rudern
+- Low Row Maschine
+- Maschinenrudern tief
 upstream:
   license: CC-BY-SA-4.0
   license_author: lbroggi

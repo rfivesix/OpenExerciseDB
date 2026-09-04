@@ -1,10 +1,25 @@
 exercise_id: '1918'
 language: de
-# AI review provenance: GPT-5, 2026-09-03.
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Brustpresse (Legend)
-description: Scheibenbeladene Brustpressmaschine aus der LeverEdge-Reihe von Legend Fitness.
+name: Brustpresse an der Maschine (Legend)
+description: 'Ausgangsposition:
+
+  Stelle die Sitzhöhe der plate-loaded Brustpressmaschine so ein, dass sich die Griffe auf Höhe der mittleren Brust befinden. Setze dich aufrecht hin, lehne den Rücken fest an das Polster und greife die Griffe mit beiden Händen. Ziehe die Schulterblätter nach hinten unten zusammen.
+
+
+  Ausführung:
+
+  Drücke die Griffe in einer kontrollierten Vorwärtsbewegung nach vorne, bis die Arme fast vollständig gestreckt sind, ohne die Ellbogen durchzudrücken. Halte die Kontraktion in den Brustmuskeln kurz fest. Führe die Griffe langsam und kontrolliert zurück, bis eine angenehme Dehnung in der Brust spürbar ist, bevor du die nächste Wiederholung beginnst.
+
+
+  Hinweise:
+
+  Halte die Schultern während der gesamten Übung fixiert an der Rückenlehne und vermeide ein Nach-vorne-Wandern der Schultern beim Drücken.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3065'
+search_terms:
+- Brustpresse (Legend)
+- Legend Chest Press
+- LeverEdge Brustpresse

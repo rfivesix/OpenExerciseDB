@@ -1,14 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1825'
 language: de
-status: upstream_unreviewed
-name: Reverse Flys für die hintere Schulter mit Brustauflage
-description: |-
-  „Das Y“ – Position: Stelle eine Schrägbank auf 30–45 Grad ein. Lege dich mit dem Gesicht nach unten und gestützter Brust hin und halte den Kopf neutral oder schaue leicht nach unten, um die Nackenmuskulatur zu schonen. Griff: Halte leichte Kurzhanteln mit neutralem Griff oder mit dem Daumen nach oben (Daumen zeigt zur Decke). Bewegung: Mit gestreckten oder leicht gebeugten Ellenbogen hebst du die Kurzhanteln nach oben und außen in eine „Y“-Form. Konzentriere dich darauf, die Schultern und Schulterblätter zu bewegen, statt nur die Arme anzuheben. Obere Position: Ziehe die Schulterblätter zusammen und strecke dich weit nach oben, sodass die Arme ein „Y“ bilden. Kontrolle: Senke die Kurzhanteln langsam in die Ausgangsposition zurück.
+status: ai_reviewed
+name: Reverse Flys auf Schrägbank mit Brustauflage
+description: "Ausgangsposition:\nStelle eine verstellbare Hantelbank auf eine Schrägstellung\
+  \ von etwa 30 bis 45 Grad ein. Lege dich mit der Brust flach auf das Polster, sodass\
+  \ der Kopf über das Kopfende ragt und die Füße stabil auf dem Boden stehen. Halte\
+  \ in jeder Hand eine leichte Kurzhantel mit neutralem oder leicht pronierendem Griff\
+  \ (Daumen leicht nach oben gedreht), Arme hängen senkrecht nach unten.\n\nAusführung:\n\
+  1. Hebe die Kurzhanteln mit fast gestreckten Armen (minimale Ellenbogenbeugung)\
+  \ in einem weiten Bogen nach oben und schräg außen an (Y-Form).\n2. Führe die Bewegung\
+  \ über die hintere Schultermuskulatur (Deltamuskel Pars posterior) und ziehe am\
+  \ obersten Punkt die Schulterblätter zusammen.\n3. Halte die Spitzenkontraktion\
+  \ für 1 Sekunde auf Schulterhöhe.\n4. Senke die Hanteln langsam und kontrolliert\
+  \ wieder ab, ohne Schwung zu nutzen.\n\nHinweise:\nDurch die Brustauflage wird jeglicher\
+  \ Schwung aus den Beinen und dem unteren Rücken eliminiert, was eine optimale Isolation\
+  \ der hinteren Schulter ermöglicht."
+search_terms:
+  - Chest-Supported Rear Delt Raise
+  - Reverse Flys Brustauflage
+  - Schrägbank Reverse Flys
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

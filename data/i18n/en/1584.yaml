@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1584'
 language: en
-status: upstream_unreviewed
-name: March or jog in place
+status: ai_reviewed
+name: March or Jog in Place
+search_terms:
+  - March or jog in place
+  - Marching in Place
+  - Jogging in Place
 description: |-
-  Low-impact cardiovascular exercise that simulates running without moving, ideal for warming up, improving endurance, or training in small spaces.
+  Starting Position:
+  Stand upright with feet hip-width apart, knees soft, chest lifted, and core gently engaged. Keep your arms relaxed and bent at a 90-degree angle by your sides.
+
+  Execution:
+  Begin lifting one knee up toward hip height, then lower it with a soft landing as you lift the opposite knee. Synchronize your arms by swinging them naturally in rhythm with the opposite legs (like a running motion). Keep a steady, low-impact marching pace or increase the tempo into a gentle jog in place.
+
+  Cues:
+  - Land softly on the balls of your feet and roll through to your heels.
+  - Maintain an upright posture without leaning forward or backward.
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot

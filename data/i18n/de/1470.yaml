@@ -1,11 +1,23 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1470'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Einarmiger Latzug im halben Kniestand
 description: |-
-  Befestige einen D-Griff an einem hohen Flaschenzug. Ziehe das Gewicht einarmig mit deinem Latissimus nach unten.
+  Ausgangsposition:
+  Befestige einen D-Griff an einem hohen Kabelzug. Gehe vor dem Kabelzug in den halben Kniestand (das Knie auf der Seite des ziehenden Arms ist am Boden). Greife den Griff mit ausgestrecktem Arm, sodass der Latissimus in der Ausgangsposition voll gedehnt wird. Halte den Rumpf aufrecht und stabil.
+
+  Ausführung:
+  1. Ziehe den Griff kontrolliert nach unten in Richtung Schulter/Schlüsselbein, indem du den Ellenbogen nach unten und leicht nach hinten zur Hüfte führst.
+  2. Halte die Kontraktion im Latissimus am tiefsten Punkt für eine Sekunde.
+  3. Führe das Gewicht langsam und kontrolliert wieder nach oben in die Ausgangsstreckung zurück.
+
+  Hinweise:
+  Der halbe Kniestand fixiert das Becken und verhindert ein Ausweichen oder Mitschwingen des Rumpfes, was eine optimale Isolation des Lats gewährleistet.
+search_terms:
+  - 1-Arm Half-Kneeling Lat Pulldown
+  - Einarmiger Latzug kniend
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

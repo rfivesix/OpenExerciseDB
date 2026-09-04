@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1493'
 language: en
-status: upstream_unreviewed
-name: Bayesian Curl
-description: Cable curl with stretched shoulder (backwards)
+status: ai_reviewed
+name: Cable Bayesian Curl
+description: |-
+  Starting Position:
+  Attach a D-handle to a low cable pulley. Stand facing away from the cable tower with a staggered stance about one step forward. Grasp the handle behind your torso with your arm extended backward, putting the long head of the biceps into a position of deep stretch.
+
+  Execution:
+  1. Keeping your upper arm stationary behind your body, flex your elbow to curl the handle forward and upward toward your shoulder.
+  2. Squeeze your biceps hard at the peak contraction for one second.
+  3. Slowly lower the handle back down and behind you over 2 to 3 seconds until you feel a full stretch in the biceps.
+
+  Cues:
+  The shoulder extension position places the long head of the biceps under loaded stretch, while the cable provides constant tension throughout the entire curve.
+search_terms:
+  - Bayesian Curl
+  - Behind-the-Back Cable Curl
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja

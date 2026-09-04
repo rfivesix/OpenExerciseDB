@@ -1,17 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1523'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sled Push
-description: |-
-  Load the sled with 25% of your maximum load. If you don’t know this, choose a weight you can push for 10 minutes with short breaks. Beginners may choose to push the sled with no weight.
-  Stand behind the sled and grab the poles with a high-grip hand position.
-  Engage your core muscles and start pushing the sled forward as fast as you can, powering through your entire leg. Extend your hips and knees as you move the sled forward. Your foot stance should resemble your natural running position.
+description: 'Starting Position:
+
+  Load the sled with the appropriate weight. Stand behind the sled and grip the vertical
+  uprights with arms extended or slightly bent, leaning your torso forward at roughly
+  a 45-degree angle.
+
+
+  Execution:
+
+  1. Drive powerfully through the balls of your feet, pushing the sled forward with
+  strong, continuous strides.
+
+  2. Keep your core braced and maintain a straight line from your head through your
+  spine to your driving leg.
+
+  3. Push through the target distance or time with steady cadence and high intensity.
+
+
+  Cues:
+
+  The sled push builds powerful leg drive and conditioning with minimal eccentric
+  muscle damage, making it ideal for speed, power, and metabolic conditioning.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2479'
+search_terms:
+- Prowler Push
+- Weight Sled Push

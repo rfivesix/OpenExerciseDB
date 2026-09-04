@@ -5,12 +5,16 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1903'
 language: de
-status: upstream_unreviewed
-name: Walking Lunges
-description: |-
-  Starting Position: Stand with feet hip-width apart and hands either on your hips or holding dumbbells at your sides.
-  The Stride: Take a wide step forward with your right leg.
-  The Descent: Lower your hips until both knees are bent at approximately 90-degree angles.
-  The Transition: Drive through your front heel to stand up, bringing your back foot forward to step directly into the next lunge.
+status: ai_reviewed
+name: Ausfallschritte im Gehen
+description: "Ausgangsposition: Stehe aufrecht mit hüftbreitem Stand. Die Hände liegen\
+  \ entweder auf den Hüften oder halten Kurzhanteln seitlich am Körper.\nSchritt:\
+  \ Mache einen weiten Schritt nach vorne.\nAbsenken: Senke die Hüfte kontrolliert\
+  \ ab, bis beide Knie in einem Winkel von etwa 90 Grad gebeugt sind. Das hintere\
+  \ Knie stoppt knapp über dem Boden.\nÜbergang: Drücke dich kraftvoll über die vordere\
+  \ Ferse nach oben ab, führe das hintere Bein nach vorne und setze direkt zum nächsten\
+  \ Ausfallschritt an."
+search_terms:
+- Walking Lunges
 upstream:
   license: CC-BY-SA-4.0

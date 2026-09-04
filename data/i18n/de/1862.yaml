@@ -1,10 +1,15 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1862'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Hüftkreisen
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Stelle dich aufrecht hin mit hüftbreitem Stand und\
+  \ lege die Hände an die Hüften.\nAusführung: Führe mit dem Becken langsame, große\
+  \ kreisende Bewegungen aus – zunächst im Uhrzeigersinn, dann gegen den Uhrzeigersinn.\
+  \ Halte den Oberkörper relativ ruhig, während sich die Hüftgelenke durch ihren vollen\
+  \ Bewegungsradius bewegen.\nHinweise: Bewege dich kontrolliert und ohne Schwung,\
+  \ um die Gelenkkapsel sanft zu mobilisieren und die Hüftmuskulatur zu erwärmen."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

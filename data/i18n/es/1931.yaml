@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1931'
 language: es
-status: upstream_unreviewed
-name: Curl con mancuerna
-description: |-
-  El curl con mancuerna es un ejercicio de aislamiento clásico para los brazos. A diferencia del curl martillo, implica rotar las muñecas (supinación) mientras levantas las pesas, lo que permite una contracción completa del bíceps.
+status: ai_reviewed
+name: Spider curl con mancuernas
+description: 'Posición inicial:
+
+  Túmbate boca abajo sobre un banco inclinado a unos 45 grados, apoyando el pecho cerca de la parte superior del respaldo. Sujeta un par de mancuernas con agarre supino dejando los brazos colgando verticalmente.
+
+
+  Ejecución:
+
+  Flexiona los codos y eleva las mancuernas hacia los hombros manteniendo la parte superior de los brazos completamente inmóvil y perpendicular al suelo. Aprieta los bíceps durante un segundo en la cima y desciende las mancuernas despacio y con control hasta estirar los brazos.
+
+
+  Consejos:
+
+  El apoyo en el banco elimina todo balanceo corporal; céntrate en una flexión estricta de codo.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4294'
+search_terms:
+- Curl con mancuerna
+- Curl araña con mancuernas
+- Dumbbell Spider Curl

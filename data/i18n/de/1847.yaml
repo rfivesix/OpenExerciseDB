@@ -5,11 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1847'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Straddle L-Sit
-description: |-
-  Bringe deine Beine in eine grätschende Sitzposition und drücke deinen Körper vom Boden nach oben. Deine Beine sollten waagerecht sein und gerade nach außen zeigen. Deine Arme sollten sich zwischen deinen Beinen befinden.
-  Halte die Position isometrisch so lange wie nötig.
+description: "Ausgangsposition: Setze dich mit weit gegrätschten Beinen auf den Boden.\
+  \ Platziere deine Hände zwischen den Oberschenkeln auf dem Boden.\nAusführung: Drücke\
+  \ dich über die Handflächen kraftvoll nach oben ab, strecke die Arme durch und hebe\
+  \ das Gesäß sowie die gestreckten Beine vom Boden ab, sodass sie waagerecht in der\
+  \ Luft gehalten werden.\nHinweise: Halte die Position isometrisch unter maximaler\
+  \ Körperspannung (Bauchmuskeln, Hüftbeuger, Trizeps) für die vorgegebene Zeit."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -3,8 +3,21 @@ language: it
 status: ai_reviewed
 translated_from: en
 name: Distensioni a terra a un braccio con manubrio
+description: |-
+  Posizione di partenza:
+  Sdraiati supino a terra con le ginocchia flesse e i piedi ben appoggiati al pavimento. Impugna un manubrio con una mano tenendolo esteso sopra il petto.
+
+  Esecuzione:
+  1. Abbassa il manubrio lentamente flettendo il gomito a circa 45 gradi dal corpo finché la parte posteriore del braccio sfiora il pavimento.
+  2. Fai una breve pausa sul fondo mantenendo la tensione attiva.
+  3. Spingi il manubrio verso l'alto fino alla completa distensione del braccio contraendo petto e tricipite.
+  4. Completa la serie e passa all'altro braccio.
+
+  Consigli:
+  Contrai gli addominali per evitare che il tronco ruoti durante la spinta unilaterale.
+search_terms:
+- Distensioni a terra a un braccio
+- Single Arm Floor Press
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4979'
-description: |-
-  Distensione unilaterale a terra con manubrio da 5 kg per l'allenamento a casa. Ottimo lavoro per la simmetria muscolare e l'anti-rotazione del core.

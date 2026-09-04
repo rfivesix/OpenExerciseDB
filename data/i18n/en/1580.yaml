@@ -5,10 +5,18 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1580'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Perpendicular Unilateral Landmine Row
 description: |-
-  Using a landmine attachment with the barbell running at 90 degrees to either side, hinge slightly at the hips and grip the barbell by the plate sleeve. Raise the barbell to chest height, with your upper arm parallel to the floor at the top of the movement.
+  Starting Position:
+  Set up a barbell in a landmine attachment so that the bar extends perpendicular (at 90 degrees) to your body. Stand beside the sleeve end of the bar in a staggered or athletic stance, hinge at the hips with a flat back, and grip the sleeve or collar with one hand.
+
+  Execution:
+  Brace your core and pull the barbell up toward the side of your chest or lower ribcage. Drive your elbow back and upward while keeping your torso square and stationary. Squeeze your lats and mid-back at the peak of the movement, then lower the barbell under control until your arm is fully extended.
+
+  Cues:
+  - Keep your spine neutral and resist twisting through your torso during the pull.
+  - Pull with your elbow rather than your hand to maximize lat and upper back recruitment.
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard

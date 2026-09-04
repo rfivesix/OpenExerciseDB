@@ -1,11 +1,26 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1907'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Einbeinige Ausfallschritte
-description: Keine Stopps während der Bewegung, Hände an den Hüften.
+name: Einbeinige Ausfallschritte (Split Squats)
+description: 'Ausgangsposition:
+
+  Stelle dich in einen weiten Ausfallschritt, bei dem der vordere Fuß flach auf dem Boden steht und der hintere Fuß auf dem Fußballen abgestützt ist. Platziere die Hände an den Hüften und richte den Oberkörper aufrecht aus.
+
+
+  Ausführung:
+
+  Senke das hintere Knie kontrolliert in Richtung Boden ab, bis beide Knie etwa einen 90-Grad-Winkel bilden. Drücke dich über die Ferse des vorderen Fußes wieder nach oben, ohne am obersten Punkt eine Pause einzulegen oder das Knie durchzudrücken. Führe alle Wiederholungen auf einem Bein kontinuierlich durch, bevor du die Seite wechselst.
+
+
+  Hinweise:
+
+  Halte den Rumpf aufrecht und stabil. Das vordere Knie bleibt stets in einer Linie mit den Zehenspitzen und wandert nicht nach innen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3054'
+search_terms:
+- Einbeinige Ausfallschritte
+- Unilateral Lunges
+- Split Squats

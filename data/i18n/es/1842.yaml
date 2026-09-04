@@ -5,16 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1842'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Almeja con banda
-description: |-
-  Posición
-  Plancha lateral con el codo y el antebrazo en el suelo y las piernas ligeramente flexionadas. Estira una banda de resistencia doblada entre los muslos, justo por encima de la rodilla.
-  Ejecución
-  Eleva
-  la rodilla superior manteniendo los pies juntos, como una
-  "almeja que se abre", y luego regresa lentamente a la posición inicial. Mantén el core
-  estable y las caderas alineadas.
+description: "Posición inicial: Túmbate de lado con las rodillas flexionadas y las\
+  \ piernas juntas. Coloca una banda elástica alrededor de los muslos, justo por encima\
+  \ de las rodillas.\nEjecución: Manteniendo los pies juntos, eleva la rodilla superior\
+  \ hacia arriba contra la resistencia de la banda, como una concha que se abre. Regresa\
+  \ lentamente a la posición inicial.\nConsejos: Mantén la pelvis estable y alineada;\
+  \ evita rotar la cadera hacia atrás."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

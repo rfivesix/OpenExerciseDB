@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1743'
 language: de
 status: ai_reviewed
 name: Hängender Scheibenwischer
-description: |-
-  Hänge dich an eine Klimmzugstange und hebe deine Beine zur Decke. Bewege deinen Unterkörper mit gestreckten Beinen von links nach rechts wie ein Scheibenwischer.
+description: "Ausgangsposition:\nHänge dich an eine Klimmzugstange im schulterbreiten\
+  \ Obergriff. Ziehe deinen Oberkörper leicht nach hinten und hebe deine gestreckten\
+  \ Beine kontrolliert an, bis deine Füße senkrecht nach oben zur Stange zeigen.\n\
+  \nAusführung:\n1. Halte die Schultern und den Latissimus aktiv fixiert und führe\
+  \ die geschlossenen, gestreckten Beine langsam und kontrolliert in einem Bogen zur\
+  \ linken Seite nach unten.\n2. Halte die Bewegung kurz vor der Waagerechten an und\
+  \ ziehe die Beine durch kraftvolle Kontraktion der seitlichen Bauchmuskeln (Obliquus)\
+  \ zurück zur Mitte nach oben.\n3. Führe die Beine anschließend im gleichen Bogen\
+  \ zur rechten Seite und wiederhole die Scheibenwischer-Bewegung kontinuierlich im\
+  \ Wechsel.\n\nHinweise:\nVermeide Schwung und unkontrolliertes Pendeln. Wenn die\
+  \ gestreckte Variante zu schwer ist, winkle die Knie leicht an."
+search_terms:
+  - Hanging Windshield Wipers
+  - Scheibenwischer an der Klimmzugstange
+  - Hanging Wipers
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

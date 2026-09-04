@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2535'
 language: en
-status: upstream_unreviewed
-name: Leg Extension Isometric
+status: ai_reviewed
+name: Isometric Leg Extension
 description: |-
-  An isometric leg extension is a strengthening exercise where you contract your quadriceps muscles against an immovable resistance without changing the length of the muscle or moving your knee joint.
+  Starting Position:
+  Sit on the leg extension machine with your back firmly against the backrest, ensuring your knee joints align with the machine's pivot axis. Position the shin pad against your lower shins just above the ankles. Grip the side handles to anchor your hips into the seat.
+
+  Execution:
+  1. Extend your knees to lift the padded lever to the target angle (typically between 45 to 60 degrees of flexion, or just short of full extension).
+  2. Hold this position statically against the resistance for the prescribed duration, maintaining maximal contraction in the quadriceps.
+  3. Lower the weight slowly and under control once the hold is complete.
+
+  Cues:
+  Breathe steadily throughout the hold and avoid bearing down (Valsalva maneuver). Keep your hips pressed firmly into the seat and do not allow your knees to shift during the contraction.
+search_terms:
+- Leg Extension Isometric
+- Isometric Leg Extension Hold
+- Quad Extension Isometric
+- Machine Leg Extension Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

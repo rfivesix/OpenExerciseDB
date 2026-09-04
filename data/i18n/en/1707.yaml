@@ -1,13 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1707'
 language: en
-status: upstream_unreviewed
-name: Elevación lateral polea
-description: Lateral elevation unilateral using a polea
+status: ai_reviewed
+name: Cable Lateral Raise
+description: |-
+  Starting position:
+  Stand sideways next to a low cable pulley. Grasp the single handle with the far-side hand across the front of your body. Keep your chest tall and maintain a slight bend in your elbow.
+  
+  Movement:
+  1. Raise the cable handle out to the side leading with your elbow until your arm is parallel to the floor at shoulder height.
+  2. Pause briefly at the top to emphasize the peak contraction of the lateral deltoid.
+  3. Lower the weight slowly and under control back to the starting position.
+  
+  Tips:
+  Avoid shrugging your traps or using momentum from your torso. The cable provides constant, smooth tension throughout the entire movement.
+search_terms:
+  - Elevación lateral polea
 upstream:
   license: CC-BY-SA-4.0
   license_author: polloperro

@@ -1,14 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2541'
 language: en
-status: upstream_unreviewed
-name: Triceps Pushdown Isometric
+status: ai_reviewed
+name: Single-Arm Isometric Triceps Pushdown
 description: |-
-  A single-arm isometric or isolated triceps pushdown is an isolation cable exercise where you pin your upper arm against your torso, hinge at the hips, and extend the elbow to achieve a peak contraction in the triceps muscle.
+  Starting Position:
+  Stand facing or slightly angled to a high pulley cable machine. Grasp a single-handle attachment with one hand in an overhand or neutral grip. Pin your upper arm securely against the side of your torso with your elbow bent at about 90 degrees. Hinge slightly forward at the hips and brace your core.
+
+  Execution:
+  1. Push down by extending your elbow until the arm reaches near full extension (or the targeted mid-range angle).
+  2. Hold this contracted position completely static against the cable resistance for the prescribed time, focusing on peak contraction of the triceps.
+  3. Allow the handle to return slowly and under control back to the 90-degree start position, then repeat on the opposite arm.
+
+  Cues:
+  Keep your elbow pinned to your side without allowing it to drift forward, backward, or outward during the hold. Keep your shoulder depressed and stationary.
+search_terms:
+- Triceps Pushdown Isometric
+- Isometric Triceps Pushdown
+- One-Arm Cable Triceps Pushdown Isometric
+- Cable Triceps Hold
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

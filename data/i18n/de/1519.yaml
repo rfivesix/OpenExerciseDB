@@ -1,28 +1,33 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1519'
 language: de
-status: upstream_unreviewed
-name: Trizepsstrecken über Kopf
-description: |-
-  Trizepsstrecken über Kopf mit der SZ-Stange – Kurzanleitung
-  Die Position über Kopf betont den langen Kopf des Trizeps (weil er unter Last gedehnt wird), die Übung beansprucht jedoch alle drei Trizepsköpfe (langer, seitlicher und mittlerer) während der Streckung in gewissem Maße.
+status: ai_reviewed
+name: Trizepsstrecken über Kopf mit der SZ-Stange
+description: 'Ausgangsposition:
 
-  Aufbau:
-  Setze dich auf eine Bank (oder stehe) und halte eine SZ-Stange mit einem engen Obergriff. Hebe die Stange über den Kopf, die Arme vollständig gestreckt. Halte deinen Rumpf angespannt und die Ellenbogen nah am Kopf.
+  Setze dich auf eine Bank (idealerweise mit kurzer Rückenlehne) oder stehe aufrecht.
+  Greife eine SZ-Stange im engen Obergriff und drücke sie mit gestreckten Armen senkrecht
+  über den Kopf. Der Rumpf ist angespannt, der Rücken gerade.
+
+
   Ausführung:
-  Senke die Stange langsam hinter deinen Kopf, indem du die Ellenbogen beugst, bis sie etwa 90° erreichen. Halte die Ellenbogen nach vorne gerichtet (lass sie nicht nach außen ausscheren).
-  Abschluss: Strecke deine Arme wieder nach oben in die Ausgangsposition und drücke deinen Trizeps oben zusammen.
 
-  Tipps:
+  1. Senke die SZ-Stange kontrolliert hinter den Kopf ab, indem du die Ellbogen beugst,
+  bis diese einen Winkel von etwa 90 Grad erreichen.
 
-  Kontrolliere die Bewegung, um deine Schultern nicht zu überlasten.
-  Verwende ein moderates Gewicht für den vollen Bewegungsumfang.
-  Halte deinen Rücken gerade und vermeide ein Hohlkreuz.
+  2. Halte die Ellbogen eng beieinander und lasse sie nicht nach außen wandern.
+
+  3. Drücke die Stange kraftvoll aus dem Trizeps wieder nach oben in die Ausgangsposition
+  zurück, ohne die Ellbogen zu überstrecken.
+
+
+  Hinweise:
+
+  Die Überkopfposition dehnt den langen Kopf des Trizeps intensiv unter Last. Verwende
+  ein moderates Gewicht, um die Schultergelenke zu schonen.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4033'
+search_terms:
+- Trizepsstrecken über Kopf
+- Überkopf-Trizepsstrecken SZ-Stange

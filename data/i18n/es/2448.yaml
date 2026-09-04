@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2448'
 language: es
-status: upstream_unreviewed
-name: Almeja inversa
+status: ai_reviewed
+name: Almeja inversa (Reverse Clamshell)
 description: |-
-  Túmbate de lado con las caderas y las rodillas flexionadas, manteniendo las rodillas apiladas una encima de la otra. Mantén los pies juntos al principio y luego, manteniendo las rodillas en contacto, eleva el pie de arriba hacia arriba. Baja el pie lentamente y con control.
-  Muévete solo desde la cadera y evita rotar la pelvis hacia atrás. El movimiento debe ser pequeño, controlado y centrado en la rotación de la cadera.
+  Posición inicial:
+  Túmbate de lado en el suelo con las caderas y las rodillas flexionadas a unos 90 grados, con las piernas alineadas una sobre otra. Apoya la cabeza cómodamente sobre el brazo inferior.
+
+  Ejecución:
+  1. Manteniendo las rodillas juntas en contacto, eleva el pie superior hacia el techo rotando internamente la cadera.
+  2. Mantén la posición superior durante un segundo para sentir el trabajo en los rotadores de la cadera.
+  3. Desciende el pie de forma lenta y controlada hasta la posición inicial.
+  4. Realiza las repeticiones indicadas y cambia de lado.
+
+  Consejos:
+  Evita que la pelvis se desplace hacia adelante o hacia atrás; el movimiento debe limitarse a la rotación de la cadera.
+search_terms:
+- Almeja inversa
+- Reverse Clamshell
+- Rotación interna de cadera
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

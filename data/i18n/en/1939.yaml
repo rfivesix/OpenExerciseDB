@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1939'
 language: en
-status: upstream_unreviewed
-name: Neck CARs
-description: Controlled Articular Rotations. Slow full circles 3 each way. Cervical mobility.
+status: ai_reviewed
+name: Controlled Articular Rotations for Neck (Neck CARs)
+description: 'Starting position:
+
+  Stand or sit upright with tall posture. Pull your shoulder blades down and back, bracing your core lightly to isolate your cervical spine.
+
+
+  Execution:
+
+  Tuck your chin slowly toward your chest. Glide your chin along your right collarbone toward your right shoulder, gently tip your right ear back toward your right shoulder, and trace a smooth arc across the ceiling into extension without pinching your neck. Continue rolling over to your left shoulder, sweep your chin down the left collarbone, and return to center. Perform 3 slow, controlled rotations, then reverse direction.
+
+
+  Tips:
+
+  CARs require intentional muscle irradiation and maximum control throughout the pain-free range of motion; ensure only your neck moves while your shoulders and torso remain completely still.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3089'
+search_terms:
+- Neck CARs
+- Cervical CARs
+- Controlled Neck Circles

@@ -5,12 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1487'
 language: fr
-status: upstream_unreviewed
-name: Combo hyperextension Y et W
+status: ai_reviewed
+name: Combo hyperextension Y-W avec disques
 description: |-
-  Utilisez un banc à lombaires (glute-ham raise) ou un ballon de stabilité pour cet exercice, ainsi qu'un disque léger dans chaque main.
-  Soulevez le tronc pour former une ligne droite avec les jambes et levez les bras vers l'extérieur, légèrement au-delà d'un angle de 90 degrés, en position de « W » pour solliciter les muscles de la coiffe des rotateurs, puis redescendez à la position de départ.
-  Remontez ensuite avec les bras en position de « Y » pour activer le bas des trapèzes.
+  Position de départ :
+  Installez-vous sur un banc à lombaires (banc à hyperextensions ou chaise romaine), les chevilles calées et le bassin contre le coussin. Tenez un petit disque de poids dans chaque main.
+
+  Exécution :
+  1. Redressez le torse dans l'alignement des jambes en contractant les érecteurs du rachis et les fessiers.
+  2. Levez les bras vers l'avant et le haut en formant un « Y » pour activer le bas des trapèzes.
+  3. Ramenez ensuite les coudes vers le bas et l'arrière pour dessiner un « W », en serrant fermement les omoplates.
+  4. Redescendez le torse de façon contrôlée avant d'entamer la répétition suivante.
+
+  Conseils :
+  Utilisez des disques très légers afin de privilégier un contrôle strict des omoplates et de la coiffe des rotateurs.
+search_terms:
+  - Combo hyperextension Y et W
+  - Hyperextension Y-W
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

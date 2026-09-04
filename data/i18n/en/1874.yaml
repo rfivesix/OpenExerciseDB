@@ -5,9 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1874'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Runners Lunge Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Step forward into a deep lunge, placing both hands\
+  \ flat on the floor on either side (or to the inside) of your front foot.\nExecution:\
+  \ Press through the ball of your back foot and extend your trailing leg straight\
+  \ back, allowing your hips to sink toward the floor. Keep your front knee stacked\
+  \ directly over the ankle.\nTips: Keep your chest lifted and spine long rather than\
+  \ rounding forward. Feel the stretch across the trailing hip flexor and front hamstring.\
+  \ Hold for 20–30 seconds, then switch legs."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

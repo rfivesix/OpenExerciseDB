@@ -5,17 +5,19 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1886'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Abduction de hanche en décubitus dorsal
-description: |-
-  Position de départ :
-  Allongez-vous sur le dos (décubitus dorsal) sur un tapis, les jambes tendues et détendues. Les bras peuvent être placés le long du corps ou écartés sur les côtés pour plus de stabilité.
-  Le mouvement :
-  Soulevez légèrement une jambe du sol (en la gardant tendue ou avec une légère flexion). Déplacez-la latéralement vers l'extérieur, en l'éloignant de l'autre jambe, comme si vous enjambiez un petit obstacle.
-  Amplitude de mouvement :
-  Déplacez la jambe aussi loin que possible sans soulever le bassin ni faire tourner le torse, en ressentant un étirement à l'intérieur de la cuisse et de la hanche.
-  Retour : Ramenez lentement la jambe à la position de départ par un mouvement contrôlé.
-  Objectif : Améliore la mobilité latérale de la hanche (abduction) et renforce les muscles stabilisateurs du bassin.
+description: "Position de départ :\nAllongez-vous sur le dos (décubitus dorsal) sur\
+  \ un tapis, les jambes tendues et détendues. Les bras peuvent être placés le long\
+  \ du corps ou écartés sur les côtés pour plus de stabilité.\nLe mouvement :\nSoulevez\
+  \ légèrement une jambe du sol (en la gardant tendue ou avec une légère flexion).\
+  \ Déplacez-la latéralement vers l'extérieur, en l'éloignant de l'autre jambe, comme\
+  \ si vous enjambiez un petit obstacle.\nAmplitude de mouvement :\nDéplacez la jambe\
+  \ aussi loin que possible sans soulever le bassin ni faire tourner le torse, en\
+  \ ressentant un étirement à l'intérieur de la cuisse et de la hanche.\nRetour :\
+  \ Ramenez lentement la jambe à la position de départ par un mouvement contrôlé.\n\
+  Objectif : Améliore la mobilité latérale de la hanche (abduction) et renforce les\
+  \ muscles stabilisateurs du bassin."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

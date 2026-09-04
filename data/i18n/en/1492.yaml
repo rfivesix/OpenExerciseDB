@@ -5,10 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1492'
 language: en
-status: upstream_unreviewed
-name: High Row
+status: ai_reviewed
+name: Half-Kneeling Cable High Row
 description: |-
-  Kneeling down on one leg and pulling cable down while driving elbow into the lats.
+  Starting Position:
+  Attach a single D-handle to a high cable pulley. Kneel on one knee facing the cable tower (working-side knee on the mat) with your torso tall and core braced. Grasp the handle with your arm extended upward in line with the cable.
+
+  Execution:
+  1. Pull the cable downward and backward by driving your elbow down toward your hip and ribs.
+  2. Squeeze your lat, rhomboids, and upper back firmly at the contraction point for a full second.
+  3. Slowly allow the cable to return upward under control, achieving a deep stretch in the lat before beginning the next repetition.
+
+  Cues:
+  The high-to-low pulling trajectory emphasizes the lats and lower traps while the half-kneeling setup prevents lower-back arching and momentum.
+search_terms:
+  - High Row
+  - Cable High Row
+  - Kneeling Single-Arm High Row
 upstream:
   license: CC-BY-SA-4.0
   license_author: aahuja

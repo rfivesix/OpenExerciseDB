@@ -1,17 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1911'
 language: en
 status: ai_reviewed
 name: Cat Plank
-description: |-
-  Get on all fours and raise your knees off the floor ever so slightly.
-  Round your back upward and push back through your shoulders to resemble a cat arching its back.
+description: 'Starting position:
+
+  Begin on all fours on an exercise mat with your hands directly under your shoulders and toes tucked. Lift your knees just an inch or two off the ground so you are supported on hands and toes.
+
+
+  Execution:
+
+  Actively push the floor away through your shoulders to round your upper and mid-back toward the ceiling, mimicking a cat arching its back. Tuck your pelvis slightly and draw your navel toward your spine, creating maximum contraction in your abs and serratus anterior. Hold this static shape for the target duration while maintaining steady breathing.
+
+
+  Tips:
+
+  Keep your knees hovering barely above the mat throughout; do not let them rise too high or touch down.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3058'
+search_terms:
+- Cat Plank
+- Quadruped Cat Plank
+- Hollow Body Bear Plank

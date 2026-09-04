@@ -1,10 +1,16 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '1875'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: IT-Band-Dehnung stehend
-description: Sieh dir das Video an, um die Übung zu verstehen.
+description: "Ausgangsposition: Stehe aufrecht neben einer Wand oder einem festen\
+  \ Gegenstand. Kreuz das äußere (zu dehnende) Bein hinter dem anderen Bein vorbei\
+  \ und stelle den Fuß flach ab.\nAusführung: Stütze dich mit der wandnahen Hand ab\
+  \ und schiebe deine Hüfte sanft zur Wand hin bzw. zur Seite des hinteren Beins heraus.\
+  \ Neige den Oberkörper leicht zur entgegengesetzten Seite, bis eine Dehnung an der\
+  \ Oberschenkelaußenseite spürbar wird.\nHinweise: Halte den Rumpf stabil und drehe\
+  \ die Hüfte nicht ein. Halte für 20–30 Sekunden und wechsle die Seite."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

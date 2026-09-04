@@ -5,13 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1902'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Weighted push-ups
-description: |-
-  Setup: Begin in a standard plank position with a weight plate balanced securely on your upper back.
-  Alignment: Maintain a straight line from your head to your heels, engaging your core to prevent your back from sagging.
-  Execution: Lower your body until your chest nearly touches the floor, keeping your elbows at a&nbsp;forty-five degrees.
-  Ascent: Press through your palms to return to the starting position, fully extending your arms.
+description: "Setup: Begin in a standard plank position with a weight plate balanced\
+  \ securely on your upper back.\nAlignment: Maintain a straight line from your head\
+  \ to your heels, engaging your core to prevent your back from sagging.\nExecution:\
+  \ Lower your body until your chest nearly touches the floor, keeping your elbows\
+  \ at a 45-degree angle.\nAscent: Press through your palms to return to the starting\
+  \ position, fully extending your arms."
 upstream:
   license: CC-BY-SA-4.0
   license_author: nishant0712

@@ -5,23 +5,20 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1879'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Incline DB Y-Raise
-description: |-
-  Set
-  an incline bench to a 45-degree angle and sit facing the bench, chest
-  against the pad, with a dumbbell in each hand, palms facing each other.
-  Position your feet firmly on the ground for stability and let your arms hang down naturally with a slight bend in your elbows.
-  Engage your core and keep your back straight throughout the movement.
-  Raise your arms forward and out to form a Y shape, keeping the movement controlled and your elbows slightly bent.
-  Lift until your arms are roughly parallel to the floor and in line with your ears.
-  Pause
-  briefly at the top of the movement to engage your shoulder muscles
-  fully, then slowly lower your arms back down to the starting position.
-  Ensure
-  the movement is slow and controlled during both the ascent and descent
-  to maximize engagement of the deltoids and supporting muscles.
-  Repeat for the desired number of repetitions, maintaining proper form throughout.
+description: "Set\nan incline bench to a 45-degree angle and sit facing the bench,\
+  \ chest\nagainst the pad, with a dumbbell in each hand, palms facing each other.\n\
+  Position your feet firmly on the ground for stability and let your arms hang down\
+  \ naturally with a slight bend in your elbows.\nEngage your core and keep your back\
+  \ straight throughout the movement.\nRaise your arms forward and out to form a Y\
+  \ shape, keeping the movement controlled and your elbows slightly bent.\nLift until\
+  \ your arms are roughly parallel to the floor and in line with your ears.\nPause\n\
+  briefly at the top of the movement to engage your shoulder muscles\nfully, then\
+  \ slowly lower your arms back down to the starting position.\nEnsure\nthe movement\
+  \ is slow and controlled during both the ascent and descent\nto maximize engagement\
+  \ of the deltoids and supporting muscles.\nRepeat for the desired number of repetitions,\
+  \ maintaining proper form throughout."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Deflation

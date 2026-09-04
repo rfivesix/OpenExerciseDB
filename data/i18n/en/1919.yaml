@@ -1,13 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1919'
 language: en
-status: upstream_unreviewed
-name: Extreme Pec Stretch
-description: Deep loaded stretch for pectorals, typically performed at end of chest work.
+status: ai_reviewed
+name: Extreme Chest Stretch
+description: 'Starting position:
+
+  Lie face up on a flat bench holding light dumbbells, or stand alongside a sturdy door frame or rack post with your arm positioned at shoulder height against the surface.
+
+
+  Execution:
+
+  Slowly allow your arms to sink out and down into a deep chest fly position, producing an intense, sustained stretch across your pectorals. Breathe deeply into your ribcage and hold this position under control for 30 to 60 seconds without bouncing.
+
+
+  Tips:
+
+  The sensation should be a strong muscle stretch without sharp shoulder discomfort. Excellent as an end-of-workout stretch to improve flexibility and tissue recovery.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3066'
+search_terms:
+- Extreme Pec Stretch
+- Loaded Chest Stretch
+- Deep Pectoral Stretch
+- Extreme Chest Stretch

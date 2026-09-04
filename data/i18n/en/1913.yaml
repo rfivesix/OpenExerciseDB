@@ -1,15 +1,25 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1913'
 language: en
-status: upstream_unreviewed
-name: Unilateral Hip Thrust
-description: |-
-  Extend one leg while laying down and start raising your body with one leg touching the ground through the heel.
+status: ai_reviewed
+name: Single-Leg Glute Bridge (Unilateral Hip Thrust)
+description: 'Starting position:
+
+  Lie flat on your back on a mat. Bend one knee and place that foot firmly on the floor close to your glutes. Extend the opposite leg straight out in line with your thigh or upward toward the ceiling. Place your arms by your sides for support.
+
+
+  Execution:
+
+  Drive through the heel of your working foot to elevate your hips until your torso and thigh form a straight line. Squeeze your glute firmly at the top for a brief pause. Slowly lower your hips back toward the floor under control without resting completely, then immediately repeat. Complete all reps on one side before switching.
+
+
+  Tips:
+
+  Keep your hips level throughout the entire movement and prevent your pelvis from tilting or dropping on the unsupported side.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3060'
+search_terms:
+- Unilateral Hip Thrust
+- Single-Leg Glute Bridge
+- Single-Leg Hip Bridge

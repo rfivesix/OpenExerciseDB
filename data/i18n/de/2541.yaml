@@ -1,11 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2541'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Trizepsdrücken isometrisch
+name: Einarmiges isometrisches Trizepsdrücken am Kabelzug
 description: |-
-  Ein einarmiges isometrisches oder isoliertes Trizepsdrücken ist eine isolierende Kabelzugübung, bei der du den Oberarm am Oberkörper fixierst, die Hüfte beugst und den Ellbogen streckst, um eine maximale Kontraktion des Trizeps zu erreichen.
+  Ausgangsposition:
+  Stelle dich seitlich versetzt vor eine Kabelzugstation mit oberer Umlenkrolle. Fasse den Einzelgriff oder das Seilende mit einer Hand im Ober- oder neutralen Griff. Fixiere den Oberarm eng am seitlichen Oberkörper und beuge den Ellbogen im 90-Grad-Winkel. Spanne den Rumpf an und beuge die Hüfte leicht nach vorn.
+
+  Ausführung:
+  1. Drücke das Kabel durch Strecken des Ellbogens nach unten, bis der Arm fast vollständig gestreckt ist (oder an einem festen mittleren Gelenkwinkel).
+  2. Halte diese Position statisch gegen den Zug des Kabels für die vorgegebene Zeitspanne und spanne den Trizeps maximal an.
+  3. Führe den Unterarm nach Ablauf der Haltezeit langsam und kontrolliert wieder nach oben und wechsle anschließend die Seite.
+
+  Hinweise:
+  Halte den Oberarm während der gesamten Haltephase absolut bewegungslos am Rumpf fixiert. Vermeide ein Ausweichen der Schulter oder Schwungbewegungen.
+search_terms:
+- Trizepsdrücken isometrisch
+- Einarmiges Trizepsdrücken isometrisch
+- Triceps Pushdown Isometric
+- Kabel-Trizepsdrücken statisch
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering

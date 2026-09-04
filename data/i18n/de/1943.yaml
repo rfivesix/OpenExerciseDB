@@ -1,12 +1,10 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1943'
 language: de
-status: upstream_unreviewed
-name: Neck CARs
-description: Controlled Articular Rotations. Slow full circles 3 each way. Cervical mobility.
+status: ai_reviewed
+name: Kontrollierte Nackenrotationen (Neck CARs)
+description: 'Kontrollierte Gelenkrotationen (CARs) der Halswirbelsäule zur Verbesserung der Nackenmobilität. (Hinweis: Diese Übung wurde mit Übung 1939 zusammengeführt).'
 upstream:
   license: CC-BY-SA-4.0
+search_terms:
+- Neck CARs
+- Nackenkreisen kontrolliert

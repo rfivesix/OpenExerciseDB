@@ -1,17 +1,34 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1524'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Battle Ropes
-description: |-
-  Halte die Enden des Seils mit gestreckten Armen vor deinen Hüften, die Hände schulterbreit auseinander.
-  Spanne deine Rumpfmuskulatur an und beginne, jeden Arm abwechselnd explosiv zu heben und zu senken.
-  Wechsle die Arme weiter ab, für drei bis vier Sätze von 1 bis 2 Minuten.
+description: 'Ausgangsposition:
+
+  Stelle dich schulterbreit hin, beuge Knie und Hüfte leicht in eine stabile sportliche
+  Grundhaltung. Halte die Enden der Battle Ropes mit neutralem Griff vor den Hüften.
+
+
+  Ausführung:
+
+  1. Bewege die Arme abwechselnd (oder gleichzeitig) explosiv auf und ab, sodass sich
+  gleichmäßige Wellen durch die Seile bis zur Verankerung fortsetzen.
+
+  2. Halte den Rumpf fest angespannt und den Oberkörper stabil, ohne ins Hohlkreuz
+  zu fallen.
+
+  3. Führe die Bewegung über die vorgegebene Zeitdauer mit hoher Frequenz und maximalem
+  Krafteinsatz aus.
+
+
+  Hinweise:
+
+  Intensives Ganzkörper-Konditionstraining zur Stärkung der Schultermuskulatur, der
+  Rumpfstabilität und des Herz-Kreislauf-Systems.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4041'
+search_terms:
+- Battleropes
+- Tau-Wellen
+- Wild Ropes

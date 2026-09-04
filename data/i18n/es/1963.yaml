@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1963'
 language: es
-status: upstream_unreviewed
-name: Sentadilla lenta
-description: |-
-  Una sentadilla basada en el tempo que utiliza un movimiento controlado para aumentar la tensión muscular y mejorar la estabilidad del tren inferior.
+status: ai_reviewed
+name: Sentadilla a tempo lenta
+description: 'Posición inicial:
 
-  Bajada: Desciende lentamente durante 3 segundos.
-  Pausa: Mantén la posición abajo durante 1 segundo.
-  Subida: Vuelve a la posición inicial a un ritmo normal.
-  Técnica: Mantén el pecho erguido y el peso sobre los talones.
+  Colócate de pie con los pies a la anchura de los hombros y las puntas ligeramente hacia fuera. Pecho erguido y brazos cruzados o extendidos al frente.
+
+
+  Ejecución:
+
+  Desciende de forma controlada durante 3 segundos empujando las caderas hacia atrás hasta romper el paralelo. Mantén la posición baja profunda durante 2 segundos con el core firme. Sube de forma explosiva y firme en 1 segundo empujando con toda la planta del pie.
+
+
+  Consejos:
+
+  La cadencia controlada (3 segundos de bajada, 2 de pausa, 1 de subida) aumenta el tiempo bajo tensión y perfecciona la técnica.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '3559'
+search_terms:
+- Sentadilla lenta
+- Tempo Squat

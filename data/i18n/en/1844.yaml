@@ -5,12 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1844'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Frog Stretch
-description: |-
-  Get on your hands and knees.
-  Widen your knees outwards, and drop to your elbows.
-  Without moving your elbows or knees, start to rock forwards and backwards, trying to get your bum closer to your feet.
+description: "Starting Position: Begin on your hands and knees (quadruped) and widen\
+  \ your knees as far apart as comfortable. Drop down onto your forearms, keeping\
+  \ your shins parallel and inner feet resting on the mat.\nExecution: Keeping your\
+  \ spine neutral, slowly rock your hips backward toward your heels until you feel\
+  \ a deep stretch in your hip adductors and groin.\nTips: Rock gently forward and\
+  \ backward with control or hold the deep stretch for 20–30 seconds while breathing\
+  \ deeply."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

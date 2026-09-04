@@ -1,14 +1,19 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1743'
 language: es
-status: upstream_unreviewed
-name: Limpiaparabrisas
-description: |-
-  Cuélgate de una barra de dominadas y eleva las piernas hacia el techo. Mueve la parte inferior del cuerpo de izquierda a derecha con las piernas rectas, como un limpiaparabrisas.
+status: ai_reviewed
+name: Limpiaparabrisas colgado
+description: "Posición inicial:\nCuélgate de una barra de dominadas con agarre prono\
+  \ al ancho de los hombros. Activa los dorsales y el core, e inclina ligeramente\
+  \ el torso hacia atrás mientras elevas las piernas rectas hasta que los pies apunten\
+  \ hacia arriba, cerca de la barra.\n\nEjecución:\n1. Con las piernas juntas y extendidas,\
+  \ rótalas lentamente hacia un lado describiendo un arco controlado, como un limpiaparabrisas.\n\
+  2. Contrae fuertemente los oblicuos para devolver las piernas al centro vertical.\n\
+  3. Desciende las piernas hacia el lado opuesto de forma fluida y alterna el movimiento\
+  \ entre ambos lados.\n\nConsejos:\nEvita el balanceo del cuerpo; si la variante\
+  \ con piernas rectas resulta demasiado exigente, flexiona las rodillas a 90 grados."
+search_terms:
+  - Limpiaparabrisas
+  - Hanging Windshield Wipers
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

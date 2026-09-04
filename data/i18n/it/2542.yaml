@@ -2,10 +2,24 @@ exercise_id: '2542'
 language: it
 status: ai_reviewed
 translated_from: en
-name: Pugilato e colpi a vuoto
+name: Allenamento di pugilato (sacco e vuoto)
+description: |-
+  Posizione di partenza:
+  Assumi una guardia da pugilato bilanciata di fronte al sacco pesante o a vuoto (piede debole avanti, ginocchia morbide con peso distribuito sugli avampiedi). Tieni i pugni all'altezza del mento a protezione del viso e i gomiti aderenti al costato.
+
+  Esecuzione:
+  1. Esegui combinazioni ritmiche di colpi alternando diretti (jab e cross), ganci e montanti contro il sacco da boxe o a vuoto.
+  2. Ruota il bacino, le anche e le spalle a ogni colpo per trasferire la forza dal tronco alle braccia.
+  3. Muoviti continuamente sulle gambe attorno al sacco con passi e perni, rientrando rapidamente in guardia dopo ogni sequenza.
+
+  Note:
+  Usa sempre fasce protettive e guantoni adatti per preservare le articolazioni dei polsi. Espira bruscamente a ogni colpo e mantieni i polsi allineati e rigidi all'impatto.
+search_terms:
+- Pugilato e colpi a vuoto
+- Boxe al sacco
+- Shadow boxing
+- Allenamento pugilistico
 upstream:
   license: CC-BY-SA-4.0
   license_author: SAH
   source_id: '5013'
-description: |-
-  Allenamento al sacco o a vuoto per sviluppare le tecniche di pugilato, velocità delle braccia e resistenza cardiovascolare.

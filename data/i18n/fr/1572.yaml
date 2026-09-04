@@ -1,19 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1572'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Bird Dog
-description: |-
-  Le Bird Dog est un exercice de stabilité du tronc qui améliore l'équilibre, la coordination et l'alignement de la colonne vertébrale. C'est un mouvement à faible impact, idéal pour renforcer la chaîne postérieure et améliorer le contrôle fonctionnel global.
+description: 'Le Bird Dog est un exercice de stabilité du tronc qui améliore l''équilibre,
+  la coordination et l''alignement de la colonne vertébrale. C''est un mouvement à
+  faible impact, idéal pour renforcer la chaîne postérieure et améliorer le contrôle
+  fonctionnel global.
 
-  Commencez à quatre pattes, les mains sous les épaules et les genoux sous les hanches, en gardant la colonne en position neutre.
-  Tendez simultanément le bras droit vers l'avant et la jambe gauche vers l'arrière, en gardant les hanches bien parallèles.
-  Marquez une courte pause en pleine extension tout en engageant les abdominaux et les fessiers.
-  Revenez à la position de départ et répétez du côté opposé
+
+  Commencez à quatre pattes, les mains sous les épaules et les genoux sous les hanches,
+  en gardant la colonne en position neutre.
+
+  Tendez simultanément le bras droit vers l''avant et la jambe gauche vers l''arrière,
+  en gardant les hanches bien parallèles.
+
+  Marquez une courte pause en pleine extension tout en engageant les abdominaux et
+  les fessiers.
+
+  Revenez à la position de départ et répétez du côté opposé'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

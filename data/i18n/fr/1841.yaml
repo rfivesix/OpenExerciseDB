@@ -5,15 +5,15 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1841'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Étirement des épaules en extension assis
-description: |-
-  Asseyez-vous avec les mains derrière vous, écartées de la largeur des épaules.
-  Verrouillez les coudes.
-  Avancez vos pieds et vos hanches vers l'avant, en abaissant vos épaules vers le sol.
-  Allez aussi loin que possible pour obtenir un bon étirement.
-
-  Consultez la vidéo : https://www.youtube.com/watch?v=ihUAbG0e8zw
+description: "Position de départ : Asseyez-vous au sol avec les mains posées derrière\
+  \ vous, écartées de la largeur des épaules, doigts pointant vers l'arrière ou légèrement\
+  \ vers l'extérieur.\nExécution : Gardez les bras tendus et faites glisser le bassin\
+  \ et les pieds vers l'avant, amenant les épaules en extension jusqu'à ressentir\
+  \ un étirement confortable dans les deltoïdes antérieurs et la poitrine.\nConseils\
+  \ : Avancez uniquement jusqu'à une amplitude confortable sans douleur. Maintenez\
+  \ la position pendant 20 à 30 secondes en respirant calmement."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

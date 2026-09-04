@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1711'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Sleeper Stretch
 description: |-
   Lie on your side so that you are resting a little weight on your shoulder blade to keep it still

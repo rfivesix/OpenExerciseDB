@@ -1,21 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1830'
 language: en
-status: upstream_unreviewed
-name: Barbell Step Back Lunge
-description: |-
-  Step 1: Stand with your feet hip-width apart, holding a barbell on your upper back.
-  Step 2: Keep your back straight, chest up, and core engaged.
-  Step 3: Take a step back with one leg and lower your body by bending both knees. Ensure that your back knee nearly touches the ground.
-  Step 4: Push off your back foot to return to the starting position.
-  Step 5: Repeat the movement with the other leg.
-  Continue alternating between legs for the desired repetitions.
+status: ai_reviewed
+name: Barbell Reverse Lunge
+description: "Starting Position:\nRest a barbell across your upper trapezius. Stand\
+  \ tall with your feet hip-width apart, chest proud, and core firmly braced.\n\n\
+  Execution:\n1. Take a deliberate, controlled step backward with one leg, keeping\
+  \ your hips square.\n2. Lower your hips vertically until your front thigh is parallel\
+  \ to the floor and your back knee hovers just above the mat (both knees at roughly\
+  \ 90 degrees).\n3. Drive firmly through the heel and midfoot of your FRONT leg to\
+  \ stand back up to the starting position.\n4. Repeat with the opposite leg, alternating\
+  \ sides, or complete all reps on one leg before switching.\n\nCues:\nPush through\
+  \ the front heel rather than kicking off the rear foot to keep tension loaded on\
+  \ the lead glute and quadriceps."
 search_terms:
+  - Barbell Step Back Lunge
   - Barbell Reverse Lunge
+  - Reverse Lunges with Barbell
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2965'

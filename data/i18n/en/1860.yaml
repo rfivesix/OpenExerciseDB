@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1860'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Foam Roller Adductors
-description: Slide the Foam Roller over your Adductors. Is english please
+description: "Starting Position: Lie face down on a mat, supported on your forearms.\
+  \ Place the foam roller parallel to your body. Bend one leg out to the side at roughly\
+  \ a 90-degree angle and rest the inner thigh on top of the roller.\nExecution: Slowly\
+  \ roll from just above the inner knee up toward your groin and back.\nTips: Adjust\
+  \ the amount of body weight pressed into the roller using your arms and supporting\
+  \ leg. Breathe steadily throughout."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

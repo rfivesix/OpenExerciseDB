@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1714'
 language: de
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pendelübung für die Schulter mit Kurzhantel
 description: |-
   Beuge dich nach vorne und stütze eine Hand auf einem Stuhl oder einem anderen Gegenstand ab, während du in der anderen Hand eine Kurzhantel hältst.

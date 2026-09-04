@@ -3,9 +3,22 @@ language: it
 status: ai_reviewed
 translated_from: en
 name: Leg extension isometrico
+description: |-
+  Posizione di partenza:
+  Siediti sulla macchina leg extension con la schiena appoggiata allo schienale e allinea l'asse di rotazione del ginocchio con il perno della macchina. Regola il rullo imbottito sulla parte inferiore degli stinchi, appena sopra le caviglie. Afferra saldamente le maniglie laterali per mantenere il bacino ben saldo.
+
+  Esecuzione:
+  1. Estendi le ginocchia sollevando il carico fino a raggiungere l'angolo desiderato (generalmente tra 45 e 60 gradi o a estensione quasi completa).
+  2. Mantieni la posizione statica contro la resistenza per la durata prescritta, contraendo i quadricipiti al massimo.
+  3. Riabbassa il peso in modo lento e controllato al termine della tenuta.
+
+  Note:
+  Mantieni una respirazione regolare e costante per tutta la durata dell'esercizio senza andare in apnea. Assicurati che i glutei rimangano ancorati al sedile evitando di inarcare la schiena.
+search_terms:
+- Estensione gambe isometrica
+- Tenuta isometrica leg extension
+- Isometric Leg Extension
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5006'
-description: |-
-  Il leg extension isometrico è un esercizio di potenziamento in cui contrai intensamente i muscoli quadricipiti contro una resistenza inamovibile senza modificare la lunghezza muscolare né muovere l'articolazione del ginocchio.

@@ -5,20 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1481'
 language: en
-status: upstream_unreviewed
-name: Drag Pushdown
+status: ai_reviewed
+name: Cable Drag Pushdown
 description: |-
-  Starting
-  position for this rope pushdown is standing facing a cable machine with
-  the handles of a rope attachment in both hands and feet shoulder width
-  apart.
-  Hinge
-  forward slightly at the hips maintaining an upright chest and bring the
-  shoulders and elbows behind the body so that when you push down on the
-  cable attachments, you can get a fully contracted triceps long head.
-  Drag
-  the cable machine rope attachment as close to the body as possible and
-  straighten your elbows until lockout.
+  Starting Position:
+  Stand facing a high cable pulley with a rope attachment secured. Grasp the ends of the rope with a neutral grip (palms facing inward) and set your feet shoulder-width apart, hinging slightly forward at the hips with an upright chest.
+
+  Execution:
+  1. Instead of pinning your elbows strictly by your ribs, let your elbows drift slightly back as you drag the rope straight downward, keeping it as close to your torso as possible.
+  2. Fully extend your elbows at the bottom and spread the rope ends apart, achieving a powerful peak contraction in the long head of the triceps.
+  3. Slowly return the rope back upward under control while maintaining proximity to the body.
+
+  Cues:
+  Dragging the attachment tight against your torso allows maximal extension and contraction of the triceps long head.
+search_terms:
+  - Drag Pushdown
+  - Triceps Drag Pushdown
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi

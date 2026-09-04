@@ -1,10 +1,24 @@
 exercise_id: '2510'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Hollow Body Hold
-# AI generation provenance: GPT-5, 2026-09-03.
-description: Vasco-eigenes Hollow Body Hold – grundlegende Rumpfstabilität gegen Extension. Vermittelt Spannung der gesamten vorderen Kette, Atemkontrolle unter Last und Körperwahrnehmung für Turnen und Calisthenics.
+name: Hollow Body Hold (Schiffchen)
+description: |-
+  Ausgangsposition:
+  Lege dich rücklings auf eine Matte. Strecke die Arme gerade über den Kopf nach hinten aus und lege die Beine gestreckt und geschlossen ab.
+
+  Ausführung:
+  1. Spanne deine Bauchmuskeln fest an und drücke die Lendenwirbelsäule komplett flach auf den Boden (hintere Beckenkippung).
+  2. Hebe gleichzeitig Schulterblätter, Kopf und die gestreckten Beine etwa 10 bis 15 cm vom Boden ab. Dein Körper nimmt eine sanfte Bananen- bzw. Schiffchenform an.
+  3. Halte diese maximale Ganzkörperspannung statisch für die vorgegebene Zeit, während du ruhig und kontrolliert weiteratmest.
+  4. Senke Schultern und Beine wieder kontrolliert ab.
+
+  Hinweise:
+  Der untere Rücken darf sich zu keinem Zeitpunkt vom Boden lösen. Sollte dies passieren, beuge die Knie leicht an oder führe die Arme nach vorne neben die Hüfte (Tuck Hollow).
+search_terms:
+- Hollow Body Hold
+- Hollow Body Hold (Core L1)
+- Schiffchen Turnen
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4989'

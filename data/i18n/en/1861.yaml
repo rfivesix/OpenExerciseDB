@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1861'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Side stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Stand upright with feet hip- to shoulder-width apart.\
+  \ Lightly engage your core.\nExecution: Raise one arm overhead and slowly bend your\
+  \ torso laterally toward the opposite side, letting the other hand slide down your\
+  \ outer thigh. Feel a deep stretch along your ribcage, obliques, and latissimus\
+  \ dorsi.\nTips: Keep your hips square and avoid rotating your torso forward or backward.\
+  \ Hold the stretch for 20–30 seconds, then switch sides."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

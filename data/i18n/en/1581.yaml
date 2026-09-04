@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1581'
 language: en
-status: upstream_unreviewed
-name: Trap press
+status: ai_reviewed
+name: Dumbbell Scapular Press (Trap Press)
+search_terms:
+  - Trap press
+  - Dumbbell Serratus Punch
+  - Dumbbell Scapular Protraction
 description: |-
-  Laying flat with arm pointing straight upwards, elbow fully extended, use only your shoulder to raise the weight as high as comfortable and back to rest.
+  Starting Position:
+  Lie flat on your back on a bench holding a dumbbell in one hand. Extend your arm vertically toward the ceiling directly above your shoulder, with your elbow locked out or nearly locked.
+
+  Execution:
+  Keeping your arm completely straight and without bending your elbow, protract your shoulder blade to push the dumbbell directly upward toward the ceiling as high as comfortable. Squeeze your serratus anterior at the top, then slowly retract your shoulder blade to lower the weight back to the resting position on the bench.
+
+  Cues:
+  - Movement must occur entirely at the shoulder blade (scapular protraction and retraction), not at the elbow joint.
+  - Keep your core engaged and your back flat against the bench throughout the movement.
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard

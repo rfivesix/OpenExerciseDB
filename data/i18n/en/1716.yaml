@@ -1,17 +1,15 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1716'
 language: en
-status: upstream_unreviewed
-name: Incline Shoulder Press Up
+status: ai_reviewed
+name: Incline Scapular Push-Up
 description: |-
   Place your hands on the bench in a press up position
   Push your chest away from the bench to separate your shoulder blades
   Keeping your elbows straight, lower your chest towards the bench so your shoulder blades move closer together
   Push your chest away from the bench again
+search_terms:
+  - Incline Shoulder Press Up
+  - Incline shoulder press up
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

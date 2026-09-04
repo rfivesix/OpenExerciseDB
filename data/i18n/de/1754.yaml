@@ -1,10 +1,22 @@
 exercise_id: '1754'
-# AI generation provenance: GPT-5, 2026-09-03.
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 45°-Seitheben
-description: Kurzhantelheben im Bereich zwischen Front- und Seitheben.
+name: 45°-Seitheben (Skapuläres Seitheben)
+description: "Ausgangsposition:\nStehe aufrecht mit hüftbreitem Stand und halte in\
+  \ jeder Hand eine Kurzhantel vor deinen Oberschenkeln mit neutralem bis leicht proniertem\
+  \ Griff. Die Schultern sind nach hinten-unten fixiert.\n\nAusführung:\n1. Hebe die\
+  \ Kurzhanteln in einem Winkel von etwa 30 bis 45 Grad vor der reinen Seithebene\
+  \ nach oben (in der Skapularebene).\n2. Führe die Hanteln bis auf Schulterhöhe,\
+  \ wobei die Daumen minimal höher als die kleinen Finger stehen.\n3. Halte die Kontraktion\
+  \ am höchsten Punkt kurz und senke die Gewichte anschließend langsam und kontrolliert\
+  \ wieder ab.\n\nHinweise:\nDie Bewegung in der Skapularebene schont das Schultergelenk,\
+  \ vermeidet ein Impingement und aktiviert gleichzeitig den mittleren und vorderen\
+  \ Deltamuskel sowie den Trapezius optimal."
+search_terms:
+  - 45° lateral raises
+  - Scaption
+  - Seitheben Skapularebene
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2891'

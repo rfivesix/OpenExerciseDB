@@ -1,12 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
-#
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
 exercise_id: '1769'
 language: de
 status: ai_reviewed
-name: Kabelrudern
-description: Keine Beschreibung verfügbar.
+name: Kabel-Glute-Kickback
+description: "Ausgangsposition:\nBefestige eine Fußschlaufe an einem niedrigen Kabelzug\
+  \ und lege sie um dein Fußgelenk. Stelle dich mit dem Gesicht zur Kabelstation,\
+  \ stütze dich mit den Händen am Turm ab und verlagere dein Gewicht stabil auf das\
+  \ Standbein. Das gebeugte Spielbein befindet sich leicht vor dem Standbein.\n\n\
+  Ausführung:\n1. Führe das Bein durch eine kraftvolle Kontraktion des großen Gesäßmuskels\
+  \ (Gluteus maximus) kontrolliert nach hinten und leicht schräg oben.\n2. Halte am\
+  \ obersten Punkt der Hüftstreckung für 1 Sekunde inne und spanne das Gesäß maximal\
+  \ an, ohne ins Hohlkreuz zu verfallen.\n3. Führe das Bein langsam und kontrolliert\
+  \ gegen den Widerstand des Kabels wieder nach vorne in die Ausgangsposition.\n\n\
+  Hinweise:\nHalte den unteren Rücken und das Becken absolut stabil; die Bewegung\
+  \ erfolgt rein aus dem Hüftgelenk."
+search_terms:
+  - cabel
+  - Kabelrudern
+  - Glute Kickback am Kabelzug
+  - Hüftstrecken am Kabelzug
 upstream:
   license: CC-BY-SA-4.0

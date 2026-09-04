@@ -5,11 +5,23 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1477'
 language: fr
-status: upstream_unreviewed
-name: Tire-bouchon assis
+status: ai_reviewed
+name: Tire-bouchon assis (Seated Corkscrew)
 description: |-
-  Pour réaliser cet exercice des abdominaux et des obliques, commencez avec les mains posées derrière le corps et ramenez les genoux vers l'intérieur et en travers, en cherchant vraiment à contracter les obliques. Tendez ensuite les jambes pour revenir à la position de départ et répétez vers le côté opposé des abdominaux.
-  Les débutants pourront constater qu'ils n'arrivent même pas à tenir les 45 premières secondes de cette variante exigeante de crunchs inversés. Ce n'est pas grave, car cela vous donne un point de départ et un objectif à améliorer.
+  Position de départ :
+  Asseyez-vous au sol en plaçant vos mains derrière vous pour vous stabiliser. Inclinez légèrement le buste vers l'arrière, décollez les pieds du sol et fléchissez légèrement les genoux.
+
+  Exécution :
+  1. Ramenez les genoux vers la poitrine tout en effectuant une rotation vers un côté pour engager intensément les obliques.
+  2. Tendez à nouveau les jambes vers l'avant sans poser les pieds au sol.
+  3. Ramenez ensuite les genoux vers la poitrine en effectuant la rotation vers le côté opposé.
+  4. Alternez ainsi de manière fluide et rythmée.
+
+  Conseils :
+  Gardez le gainage abdominal actif pendant toute la série et contrôlez l'extension des jambes.
+search_terms:
+  - Tire-bouchon assis
+  - Seated Corkscrew
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

@@ -1,21 +1,28 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1551'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Push-Up
-description: |-
-  The push-up is a fundamental bodyweight exercise that targets the chest, arms, and shoulders while engaging the core for stability. It requires no equipment and is excellent for building upper body strength.
+description: 'The push-up is a fundamental bodyweight exercise that targets the chest,
+  arms, and shoulders while engaging the core for stability. It requires no equipment
+  and is excellent for building upper body strength.
+
   Instructions:
 
-  Start in a plank position with hands placed slightly wider than shoulder-width, feet together, and body in a straight line from head to heels.
-  Engage your core and lower your body by bending your elbows, keeping them close to your body or flared slightly outward.
+
+  Start in a plank position with hands placed slightly wider than shoulder-width,
+  feet together, and body in a straight line from head to heels.
+
+  Engage your core and lower your body by bending your elbows, keeping them close
+  to your body or flared slightly outward.
+
   Lower until your chest nearly touches the ground while maintaining a neutral spine.
-  Push through your palms to return to the starting position, fully extending your arms.
+
+  Push through your palms to return to the starting position, fully extending your
+  arms.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2498'
+search_terms:
+- Push-ups
+- Pushup

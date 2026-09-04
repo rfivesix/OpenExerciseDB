@@ -2,10 +2,24 @@ exercise_id: '1913'
 language: fr
 status: ai_reviewed
 translated_from: en
-name: Hip thrust unilatéral
+name: Pont fessier à une jambe (Single-Leg Glute Bridge)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3060'
-description: |-
-  Le haut du dos appuyé contre un banc, poussez sur un seul talon pour amener le bassin à l'horizontale en contractant le grand fessier à fond.
+description: 'Position de départ :
+
+  Allongez-vous sur le dos sur un tapis. Fléchissez un genou et posez fermement le pied au sol près des fessiers. Tendez l''autre jambe vers l''avant dans l''alignement de la cuisse ou vers le plafond. Bras au sol le long du corps.
+
+
+  Exécution :
+
+  Poussez fortement sur le talon d''appui pour monter le bassin jusqu''à aligner le torse et la cuisse. Serrez fort le grand fessier en haut pendant 1 seconde, puis redescendez avec contrôle sans poser complètement les fesses avant la répétition suivante. Réalisez toutes les répétitions d''un côté avant de changer.
+
+
+  Conseils :
+
+  Veillez à garder le bassin bien horizontal sans laisser la hanche du côté libre s''affaisser.'
+search_terms:
+- Hip thrust unilatéral
+- Single-Leg Glute Bridge

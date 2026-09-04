@@ -5,10 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1581'
 language: de
-status: upstream_unreviewed
-name: Trapez-Press
+status: ai_reviewed
+name: Kurzhantel-Scapular-Press (Trapez-Press)
+search_terms:
+  - Trapez-Press
+  - Serratus Punch mit Kurzhantel
+  - Schulterblattdrücken
 description: |-
-  Lege dich flach hin, der Arm zeigt gerade nach oben und der Ellbogen ist vollständig gestreckt. Hebe das Gewicht nur mit der Schulter so weit wie angenehm möglich an und senke es wieder ab.
+  Ausgangsposition:
+  Lege dich mit dem Rücken flach auf eine Flachbank und halte eine Kurzhantel in einer Hand. Strecke den Arm senkrecht nach oben zur Decke direkt über deine Schulter, wobei der Ellbogen gestreckt bleibt.
+
+  Ausführung:
+  Drücke das Gewicht ausschließlich über die Vorwärtsbewegung deines Schulterblatts (Protraktion) so weit wie möglich senkrecht nach oben, ohne den Ellbogen zu beugen. Halte die Kontraktion im Sägezahnmuskel (Serratus anterior) kurz und ziehe das Schulterblatt anschließend kontrolliert wieder nach hinten unten auf die Bank zurück.
+
+  Hinweise:
+  - Die Bewegung erfolgt rein aus dem Schulterblatt; der Arm bleibt während der gesamten Übung gestreckt.
+  - Halte den Rücken flach auf der Bank und vermeide Ausweichbewegungen des Rumpfes.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

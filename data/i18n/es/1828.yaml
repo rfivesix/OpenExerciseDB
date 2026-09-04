@@ -1,14 +1,20 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1828'
 language: es
-status: upstream_unreviewed
-name: Activación del transverso abdominal
-description: |-
-  Túmbate boca arriba con las rodillas flexionadas. Lleva suavemente el ombligo hacia la columna sin mover las caderas ni contener la respiración.
+status: ai_reviewed
+name: Activación del transverso abdominal (Vacuum)
+description: "Posición inicial:\nTúmbate boca arriba en una colchoneta con las rodillas\
+  \ dobladas y los pies planos en el suelo. Apoya las yemas de los dedos sobre el\
+  \ abdomen inferior para sentir la contracción muscular.\n\nEjecución:\n1. Exhala\
+  \ completamente por la boca expulsando todo el aire.\n2. Lleva suavemente el ombligo\
+  \ hacia adentro y hacia arriba en dirección a la columna, como abrochando un pantalón\
+  \ ajustado.\n3. Mantén la pelvis neutra y respira de forma suave y controlada mientras\
+  \ sostienes el ombligo hundido durante 10 a 15 segundos.\n4. Relaja la contracción\
+  \ suavemente e inhala con normalidad.\n\nConsejos:\nAísla la musculatura profunda\
+  \ del transverso del abdomen sin curvar la espalda baja."
+search_terms:
+  - Activación del transverso abdominal
+  - Stomach Vacuum
+  - Abdominal Draw-In
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

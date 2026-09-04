@@ -1,13 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1754'
 language: en
-status: upstream_unreviewed
-name: 45° lateral raises
-description: dumbbell raise in the space between front and side raises
+status: ai_reviewed
+name: 45° Scapular Lateral Raise
+description: "Starting Position:\nStand tall with feet hip-width apart, holding a\
+  \ pair of dumbbells in front of your thighs with a neutral to semi-pronated grip.\
+  \ Keep your chest up and shoulders pulled back and down.\n\nExecution:\n1. Raise\
+  \ the dumbbells upward along the scapular plane, approximately 30 to 45 degrees\
+  \ forward from purely out to your sides.\n2. Lift until your arms reach shoulder\
+  \ height, keeping a slight bend in your elbows and thumbs slightly tilted upward.\n\
+  3. Pause for a split second at the top, then lower the dumbbells slowly and under\
+  \ control to the starting position.\n\nCues:\nMoving in the scapular plane (scaption)\
+  \ provides an ergonomically optimal, impingement-free path for the shoulder joint\
+  \ while thoroughly loading the lateral deltoid."
+search_terms:
+  - 45° lateral raises
+  - Scaption Raise
+  - Scapular Plane Lateral Raise
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2891'

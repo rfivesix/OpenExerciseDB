@@ -1,14 +1,11 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1732'
 language: en
-status: upstream_unreviewed
-name: Face pulls with yellow/green band
+status: ai_reviewed
+name: Resistance Band Face Pull
 description: |-
   Face pulls with band – standing horizontal pull. Grab the band at face height, pull elbows high and wide towards your face while squeezing shoulder blades together. Trains upper back, rear shoulders and improves posture.
+search_terms:
+  - Face pulls with yellow/green band
 upstream:
   license: CC-BY-SA-4.0
   license_author: 54str

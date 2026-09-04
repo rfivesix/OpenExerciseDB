@@ -1,18 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1809'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Reverse Hyperextension
-description: |-
-  Lie face-down on a bench with your legs hanging off the edge.
-
-  Bend your hips so your thighs are vertical, bending your knees at the same time so your shins stay horizontal.
-  Straighten out your legs so they are not bent and your toes are pointing backwards horizontally.
-  Return to the original position, and repeat.
+description: "Starting Position:\nLie face-down on a flat bench or reverse hyper machine\
+  \ so that your hips rest right at the rear edge and your legs hang freely toward\
+  \ the floor. Firmly grip the bench or handles to anchor your upper body.\n\nExecution:\n\
+  1. Squeeze your glutes and hamstrings to raise your legs backward and upward in\
+  \ a smooth, controlled arc.\n2. Lift until your legs are parallel with your torso,\
+  \ feeling a peak contraction in your glutes and spinal erectors.\n3. Hold for a\
+  \ brief pause at the top without hyperextending your lower back.\n4. Slowly lower\
+  \ your legs back toward the starting position under control before beginning the\
+  \ next rep.\n\nCues:\nFocus on hip extension driven by the glutes and hamstrings\
+  \ rather than swinging your legs or hyperextending your lumbar spine."
+search_terms:
+  - Reverse Hyperextension
+  - Reverse Hyper
+  - Bodyweight Reverse Hyperextension
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

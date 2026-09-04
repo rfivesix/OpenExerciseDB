@@ -3,9 +3,22 @@ language: fr
 status: ai_reviewed
 translated_from: en
 name: Leg extension isométrique
+description: |-
+  Position de départ :
+  Installez-vous sur la machine de leg extension, le dos bien calé contre le dossier et les genoux alignés avec l'axe de rotation mécanique. Ajustez le boudin pour qu'il repose sur le bas des tibias, juste au-dessus des chevilles. Saisissez fermement les poignées latérales pour maintenir le bassin dans le siège.
+
+  Exécution :
+  1. Poussez sur le boudin en tendant les jambes jusqu'à l'angle cible (généralement entre 45° et 60° de flexion ou proche de l'extension complète).
+  2. Maintenez cette position statique contre la charge pendant la durée prescrite, en contractant intensément les quadriceps.
+  3. Reposez la charge avec lenteur et contrôle à la fin du temps imparti.
+
+  Conseils :
+  Respirez de façon fluide tout au long de l'effort sans bloquer votre respiration. Gardez les fesses bien plaquées sur le siège sans compenser avec le bas du dos.
+search_terms:
+- Extension des jambes isométrique
+- Tirage quadriceps isométrique
+- Maintien leg extension
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5006'
-description: |-
-  Assis sur la machine de leg extension, maintenez les genoux en extension fixe à un angle déterminé en contraction isométrique continue contre la résistance.

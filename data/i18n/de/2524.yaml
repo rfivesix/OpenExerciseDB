@@ -1,16 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '2524'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Good Morning im Grätschstand
+name: Good Morning in Schrittstellung
 description: |-
-  Halte die Langhantel wie bei einer Kniebeuge auf den Schultern.
-  Mache mit einem Bein einen halben Schritt nach vorn und stelle den Fuß auf den Boden.
-  Strecke das vordere Bein durch; strecke das hintere Bein ebenfalls durch oder lasse es ganz leicht gebeugt.
-  Beuge dich kontrolliert nach vorn, um die Rückseite des vorderen Beins zu dehnen, und kehre dann in den Stand zurück.
+  Ausgangsposition:
+  Platziere eine Langhantel wie bei einer Kniebeuge sicher auf deiner oberen Nackenmuskulatur (Trapezius). Mache mit einem Fuß einen halben Schritt nach vorne in eine versetzte Schrittstellung (Staggered Stance). Das vordere Bein ist fast gestreckt, das hintere Bein leicht gebeugt als Stütze.
 
-  Wiederhole dies nach Bedarf für Wiederholungen bzw. Zeit. Wiederhole es auch für das andere Bein.
+  Ausführung:
+  1. Beuge deinen Oberkörper mit geradem Rücken aus der Hüfte kontrolliert nach vorne unten (Hip Hinge), während du das Gesäß nach hinten schiebst.
+  2. Gehe so weit nach unten, bis du eine deutliche Dehnung in der Beinrückseite (Hamstrings) des vorderen Beins spürst (etwa bis der Oberkörper fast parallel zum Boden ist).
+  3. Richte den Oberkörper kraftvoll durch Kontraktion von Gesäß und Beinbeugern wieder in die aufrechte Schrittstellung auf.
+  4. Absolviere die Wiederholungszahl und wechsle anschließend die Beinstellung.
+
+  Hinweise:
+  Halte die Wirbelsäule stets in einer neutralen, stabilen Position und runde den unteren Rücken zu keinem Zeitpunkt ab.
+search_terms:
+- Good Morning im Grätschstand
+- Staggered Stance Good Morning
+- Good Morning Schrittstellung
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

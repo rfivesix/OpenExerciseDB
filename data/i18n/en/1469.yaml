@@ -5,9 +5,22 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1469'
 language: en
-status: upstream_unreviewed
-name: Bent over Cable Flye
-description: Holding your upper body at an approximate 105° angle.
+status: ai_reviewed
+name: Bent-Over Cable Flye
+description: |-
+  Starting Position:
+  Set the pulleys on a cable crossover station to a middle-to-high position and attach D-handles. Grasp the handles, step into the center with a staggered stance, and hinge forward at the hips to roughly a 45- to 60-degree angle (around 105 degrees relative to vertical) with a flat back. Keep your arms extended out to the sides with a slight bend in your elbows.
+
+  Execution:
+  1. Bring the handles forward and downward in a wide hugging arc until your hands meet in front of your lower chest.
+  2. Squeeze your chest muscles forcefully at the peak contraction for a full second.
+  3. Slowly reverse the movement under control back to the starting stretch, maintaining the same slight bend in your elbows.
+
+  Cues:
+  Keep your torso stationary throughout; do not rock back and forth to generate momentum. Movement should occur exclusively at the shoulder joints.
+search_terms:
+  - Bent over Cable Flye
+  - Bent-Over Cable Crossover
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000

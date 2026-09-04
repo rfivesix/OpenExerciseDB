@@ -1,20 +1,27 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1554'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Flexión con palmada
-description: |-
-  La flexión con palmada es un movimiento explosivo del tren superior que desarrolla potencia y la fuerza de las fibras musculares de contracción rápida. Añade un desafío pliométrico a la flexión tradicional, ya que exige que las manos se separen del suelo en mitad de la repetición.
+description: 'La flexión con palmada es un movimiento explosivo del tren superior
+  que desarrolla potencia y la fuerza de las fibras musculares de contracción rápida.
+  Añade un desafío pliométrico a la flexión tradicional, ya que exige que las manos
+  se separen del suelo en mitad de la repetición.
 
-  Empieza en una posición sólida de flexión, con las manos algo más anchas que el ancho de los hombros y el core activado
-  Baja el cuerpo de forma explosiva y empújate del suelo con suficiente fuerza para levantar las manos.
+
+  Empieza en una posición sólida de flexión, con las manos algo más anchas que el
+  ancho de los hombros y el core activado
+
+  Baja el cuerpo de forma explosiva y empújate del suelo con suficiente fuerza para
+  levantar las manos.
+
   Da una palmada rápida a la altura del pecho antes de devolver las manos al suelo.
-  Aterriza con los codos ligeramente flexionados para absorber el impacto y pasa de inmediato a la siguiente repetición
+
+  Aterriza con los codos ligeramente flexionados para absorber el impacto y pasa de
+  inmediato a la siguiente repetición'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4077'
+search_terms:
+- Clap Push-Up
+- Flexiones con aplauso

@@ -1,10 +1,24 @@
-# AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '1742'
 language: de
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Back Lever
-description: An einer Klimmzugstange hängend, mit ausgestreckten Armen nach unten gerichtet.
+name: Rückhangwaage (Back Lever)
+description: "Ausgangsposition:\nHänge dich an eine Klimmzugstange oder Turnringe.\
+  \ Führe die Beine zwischen den Armen hindurch nach hinten (Skin the Cat), bis du\
+  \ kopfüber mit dem Rücken zum Boden im Hang bist. Die Arme bleiben gestreckt.\n\n\
+  Ausführung:\n1. Senke deinen Körper langsam und kontrolliert aus der vertikalen\
+  \ Inversion ab, bis der gesamte Körper von den Schultern bis zu den Fersen eine\
+  \ waagerechte Linie parallel zum Boden bildet.\n2. Halte die Arme gestreckt, ziehe\
+  \ die Schulterblätter aktiv nach hinten und unten und spanne Gesäß, unteren Rücken\
+  \ und Rumpf maximal an.\n3. Halte diese isometrische Position für die vorgegebene\
+  \ Zeitdauer stabil.\n4. Führe den Körper kontrolliert zurück in den vertikalen Hang\
+  \ oder kehre die Bewegung vorsichtig um.\n\nHinweise:\nEine anspruchsvolle turnerische\
+  \ Haltefigur. Baue die Kraft schrittweise über Tuck Back Lever und Advanced Tuck\
+  \ Back Lever auf, um Überlastungen der Bizepssehnen und Schultern zu vermeiden."
+search_terms:
+  - Back Lever
+  - Rückhangwaage
+  - Turnwaage hinten
 upstream:
   license: CC-BY-SA-4.0
   license_author: Happy

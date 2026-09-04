@@ -1,22 +1,21 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1826'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Écarté à l'élastique avec rotation externe
-description: |-
-  Tenez-vous bien droit, les pieds écartés de la largeur des épaules, la poitrine sortie et les épaules en arrière.
-  Tenez l'élastique des deux mains, les paumes vers le haut ou se faisant face selon le type d'élastique.
-  Fléchissez les coudes à un angle de 90 degrés et collez la partie supérieure des bras contre vos côtés.
-  L'élastique doit présenter une certaine tension en position de départ, vos mains plus rapprochées devant votre ventre.
-  Rotation vers l'extérieur : Tout en gardant les coudes serrés contre vos côtés, éloignez lentement vos mains l'une de l'autre en étirant l'élastique.
-  Contraction : Rapprochez vos omoplates et abaissez-les pendant que vous tournez les mains vers l'extérieur.
-  Amplitude de mouvement : Tournez vos mains aussi loin vers l'extérieur que vous le pouvez confortablement, sans laisser vos coudes quitter vos côtés.
-  Maintien : Maintenez la position finale pendant 1 à 2 secondes pour maximiser la sollicitation musculaire.
-  Retour : Ramenez lentement et avec contrôle vos mains à la position de départ.
+description: "Position de départ :\nTenez-vous debout, pieds à la largeur des épaules\
+  \ et buste droit. Tenez un élastique léger dans vos deux mains en prise supination\
+  \ (paumes vers le haut) devant le nombril. Fléchissez les coudes à 90 degrés et\
+  \ serrez les bras contre les flancs.\n\nExécution :\n1. En gardant les coudes plaqués\
+  \ contre vos côtes, ouvrez les avant-bras vers l'extérieur en étirant l'élastique.\n\
+  2. Resserrez et abaissez les omoplates à la fin du mouvement de rotation externe.\n\
+  3. Marquez une pause d'une à deux secondes en contraction maximale des rotateurs\
+  \ externes.\n4. Ramenez lentement les mains vers l'avant à la position de départ.\n\
+  \nConseils :\nNe décollez jamais les coudes des côtes afin d'isoler parfaitement\
+  \ la coiffe des rotateurs."
+search_terms:
+  - Écarté à l'élastique avec rotation externe
+  - Rotation externe élastique
+  - Band Pull Apart
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

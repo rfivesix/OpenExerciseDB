@@ -1,15 +1,36 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1577'
 language: en
-status: upstream_unreviewed
-name: Bretzel stretch
-description: |-
-  How to Perform the Bretzel Stretch&nbsp; &nbsp; Starting Position:&nbsp; &nbsp; &nbsp; &nbsp; Lie on your back on a flat surface, such as a mat.&nbsp; &nbsp; &nbsp; &nbsp; Bend your knees and place your feet flat on the ground.&nbsp; &nbsp; Leg Positioning:&nbsp; &nbsp; &nbsp; &nbsp; Lift your right leg and cross it over your left leg, placing your right foot on the outside of your left knee.&nbsp; &nbsp; &nbsp; &nbsp; Your left leg should remain flat on the ground.&nbsp; &nbsp; Arm Positioning:&nbsp; &nbsp; &nbsp; &nbsp; Extend your left arm out to the side at shoulder height, keeping it straight.&nbsp; &nbsp; &nbsp; &nbsp; Use your right hand to gently pull your right knee towards the floor on the left side of your body.&nbsp; &nbsp; Stretching:&nbsp; &nbsp; &nbsp; &nbsp; As you pull your knee down, try to keep your left shoulder flat on the ground.&nbsp; &nbsp; &nbsp; &nbsp; You should feel a stretch in your hip, lower back, and possibly your chest.&nbsp; &nbsp; Hold the Position:&nbsp; &nbsp; &nbsp; &nbsp; Maintain this position for 20-30 seconds, breathing deeply and relaxing into the stretch.&nbsp; &nbsp; &nbsp; &nbsp; Switch sides and repeat the process.
+status: ai_reviewed
+name: Bretzel Stretch
+description: 'Starting Position:
+
+  Lie on your side on a mat. Bring your top knee up to hip level at a 90-degree angle
+  resting on the floor, and hold it pinned down with your bottom hand.
+
+
+  Execution:
+
+  1. Bend your bottom knee behind you and grab the bottom foot or ankle with your
+  top hand.
+
+  2. Inhale deeply, then exhale as you slowly rotate your top shoulder and upper back
+  towards the floor.
+
+  3. Keep the top knee pinned to the floor to preserve rotation in the thoracic spine
+  and stretch through the hips.
+
+  4. Hold the position for 20 to 30 seconds, taking slow deep breaths, then switch
+  sides.
+
+
+  Cues:
+
+  A premier mobility drill that combines thoracic spine rotation with a stretch of
+  the bottom leg''s hip flexors/quads and top leg''s gluteals.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2525'
+search_terms:
+- Bretzel stretch
+- The Bretzel

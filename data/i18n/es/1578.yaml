@@ -1,15 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1578'
 language: es
-status: upstream_unreviewed
-name: Hip Hinge
-description: |-
-  Descripción del ejercicio Hip HingeEl hip hinge es un patrón de movimiento fundamental que consiste en flexionar las caderas mientras se mantiene la columna neutra. Se utiliza habitualmente en ejercicios como el peso muerto, los kettlebell swings y los good mornings. Para realizar un hip hinge:    Posición inicial: Ponte de pie con los pies separados al ancho de las caderas y una ligera flexión en las rodillas.    Flexiona las caderas: Lleva las caderas hacia atrás manteniendo la espalda recta. El torso debe inclinarse hacia delante y el pecho debe permanecer erguido.    Fase de descenso: Sigue flexionando hasta que el torso quede casi paralelo al suelo, o hasta que notes un estiramiento en los isquiotibiales.    Regreso a la posición de pie: Empuja con los talones y proyecta las caderas hacia delante para volver a la posición inicial.
+status: ai_reviewed
+name: Hip Hinge (bisagra de cadera)
+description: 'Descripción del ejercicio Hip HingeEl hip hinge es un patrón de movimiento
+  fundamental que consiste en flexionar las caderas mientras se mantiene la columna
+  neutra. Se utiliza habitualmente en ejercicios como el peso muerto, los kettlebell
+  swings y los good mornings. Para realizar un hip hinge:    Posición inicial: Ponte
+  de pie con los pies separados al ancho de las caderas y una ligera flexión en las
+  rodillas.    Flexiona las caderas: Lleva las caderas hacia atrás manteniendo la
+  espalda recta. El torso debe inclinarse hacia delante y el pecho debe permanecer
+  erguido.    Fase de descenso: Sigue flexionando hasta que el torso quede casi paralelo
+  al suelo, o hasta que notes un estiramiento en los isquiotibiales.    Regreso a
+  la posición de pie: Empuja con los talones y proyecta las caderas hacia delante
+  para volver a la posición inicial.'
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de
   source_id: '4091'
+search_terms:
+- Bisagra de cadera
+- Hip Hinge

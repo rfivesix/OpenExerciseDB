@@ -1,11 +1,6 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1683'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Curl Zottman
 description: |-
   Les paumes tournées vers l'avant, fléchissez les bras pour monter les charges vers vos épaules. Tournez les mains de manière à orienter les paumes vers le bas, puis redescendez lentement les charges. Enfin, tournez de nouveau les paumes vers l'avant.

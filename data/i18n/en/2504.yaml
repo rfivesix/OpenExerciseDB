@@ -1,14 +1,22 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2504'
 language: en
-status: upstream_unreviewed
-name: DB Hammer Curls (5kg)
+status: ai_reviewed
+name: Dumbbell Hammer Curls
 description: |-
-  Vasco custom single-arm hammer curl for 5kg dumbbell. Targets brachialis for arm thickness. Part of Tuesday Pull day.
+  Starting Position:
+  Stand tall with feet hip-width apart (or sit on a flat bench) holding a pair of dumbbells at your sides with a neutral grip (palms facing each other). Keep your elbows close to your torso and shoulders back.
+
+  Execution:
+  1. Keeping your palms facing inward, flex your elbows to curl the dumbbells upward toward your shoulders.
+  2. Squeeze your biceps, brachialis, and forearm muscles hard at the top of the curl for 1 second.
+  3. Slowly lower the dumbbells back to full extension under complete control.
+
+  Cues:
+  Keep your upper arms stationary against your ribs; do not swing the weights or lean back during the curl.
+search_terms:
+- DB Hammer Curls (5kg)
+- Dumbbell Hammer Curls
+- Hammer Curls
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4985'

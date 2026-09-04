@@ -5,20 +5,25 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1885'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Exercice YTWL
-description: |-
-  But : Améliore la stabilité des épaules, la posture et le contrôle scapulaire (des omoplates). Souvent utilisé en kinésithérapie et lors des échauffements.
-  Position de départ :
-  Tenez-vous debout, les pieds écartés de la largeur des épaules. Basculez vers l'avant à partir des hanches (comme pour un soulevé de terre) en gardant le dos plat, ou allongez-vous à plat ventre sur un banc incliné. Gardez les pouces pointés vers le haut tout au long de l'exercice.
-  Y (bras levés) :
-  Tendez les deux bras droit vers l'avant et vers le haut, à un angle de 135 degrés par rapport au corps, pour former un « Y ». Resserrez vos omoplates en haut du mouvement.
-  T (bras tendus sur les côtés) : Ouvrez vos bras bien droit sur les côtés, perpendiculairement au corps, pour former un « T ». Concentrez-vous sur le rapprochement des omoplates.
-  W (bras fléchis) : Tirez vos coudes vers l'arrière en les pliant à 90 degrés et resserrez les omoplates pour former un « W ». Gardez les poignets fermes.
-  L (bras en rotation) :
-  Commencez avec les coudes fléchis à 90 degrés et près du corps. Effectuez une rotation des avant-bras vers l'extérieur (rotation externe), comme des poteaux de but, pour former un « L » ou une barrière.
-  Point clé :
-  Les mouvements doivent être lents et contrôlés. Menez toujours avec les pouces et pensez à mobiliser les omoplates, pas seulement les bras.
+description: "But : Améliore la stabilité des épaules, la posture et le contrôle scapulaire\
+  \ (des omoplates). Souvent utilisé en kinésithérapie et lors des échauffements.\n\
+  Position de départ :\nTenez-vous debout, les pieds écartés de la largeur des épaules.\
+  \ Basculez vers l'avant à partir des hanches (comme pour un soulevé de terre) en\
+  \ gardant le dos plat, ou allongez-vous à plat ventre sur un banc incliné. Gardez\
+  \ les pouces pointés vers le haut tout au long de l'exercice.\nY (bras levés) :\n\
+  Tendez les deux bras droit vers l'avant et vers le haut, à un angle de 135 degrés\
+  \ par rapport au corps, pour former un « Y ». Resserrez vos omoplates en haut du\
+  \ mouvement.\nT (bras tendus sur les côtés) : Ouvrez vos bras bien droit sur les\
+  \ côtés, perpendiculairement au corps, pour former un « T ». Concentrez-vous sur\
+  \ le rapprochement des omoplates.\nW (bras fléchis) : Tirez vos coudes vers l'arrière\
+  \ en les pliant à 90 degrés et resserrez les omoplates pour former un « W ». Gardez\
+  \ les poignets fermes.\nL (bras en rotation) :\nCommencez avec les coudes fléchis\
+  \ à 90 degrés et près du corps. Effectuez une rotation des avant-bras vers l'extérieur\
+  \ (rotation externe), comme des poteaux de but, pour former un « L » ou une barrière.\n\
+  Point clé :\nLes mouvements doivent être lents et contrôlés. Menez toujours avec\
+  \ les pouces et pensez à mobiliser les omoplates, pas seulement les bras."
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

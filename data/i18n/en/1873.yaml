@@ -5,9 +5,14 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1873'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Quad Stretch
-description: View the video to undestand the exercise
+description: "Starting Position: Stand tall on one foot, lightly holding onto a wall\
+  \ or sturdy object for balance if needed.\nExecution: Bend your opposite knee behind\
+  \ you, grasp the top of your foot or ankle with your hand, and gently pull your\
+  \ heel toward your glutes. Keep your knees close together and aligned.\nTips: Squeeze\
+  \ your glute and keep your pelvis tucked slightly to maximize the quadriceps stretch\
+  \ and avoid arching your lower back. Hold for 20–30 seconds, then switch legs."
 upstream:
   license: CC-BY-SA-4.0
   license_author: Davidgj32

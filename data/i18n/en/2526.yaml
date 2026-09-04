@@ -1,17 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2526'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Long Lunge Pulse Stretch
 description: |-
-  Hold the resistance band (or any other rope-like object, the elasticity is not necessary) above your head, between your hands, with your arms straight. Pull it taught to engage your lats.
-  Step forwards into a lunge, dropping until your knee is almost touching the floor.
-  Slowly and controlledly pulse your body up and down by about an inch. Repeat for required reps.
-  Repeat for other leg.
+  Starting Position:
+  Step forward into an exaggerated long lunge stance. Lower your hips until your front thigh is parallel to the ground and your rear knee hovers just above the floor. Optionally hold a band taut overhead with arms straight.
+
+  Execution:
+  1. Keep your torso tall, hips squared forward, and core engaged.
+  2. Gently pulse your hips up and down through a small, controlled 1-to-2-inch range of motion.
+  3. Maintain steady rhythmic pulses for the prescribed duration or repetitions.
+  4. Push off the front foot to return to standing, then repeat on the opposite leg.
+
+  Cues:
+  Keep the pulsing smooth and controlled rather than jerky; focus on lengthening the hip flexors and strengthening the adductors dynamically.
+search_terms:
+- Long Lunge Pulse Stretch
+- Lunge Pulse Drill
+- Hip Flexor Pulse Stretch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

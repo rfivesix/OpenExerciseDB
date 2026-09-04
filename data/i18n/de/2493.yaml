@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
-# AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '2493'
 language: de
 status: ai_reviewed
-name: Adduktoren-Seitstütz
+name: Adduktoren-Seitstütz (Copenhagen Plank)
 description: |-
-  Lege dich im 90°-Winkel zur Bank auf die Seite. Platziere das obere Bein mit der Wadeninnenseite auf der Bank. Führe das untere Bein unter die Bank. Stütze dich auf den bodennahen Unterarm im 90°-Winkel (Unterarmstütz). Drücke dich vom Boden ab, sodass der gesamte Körper eine gerade Linie bildet, auf einer Höhe mit der Bank. Halte diese Position.
+  Ausgangsposition:
+  Lege dich seitlich neben eine Flachbank. Lege das obere Bein mit der Innenseite des Unterschenkels bzw. Fußes flach auf die Bank. Das untere Bein liegt frei unterhalb der Bank. Stütze deinen Oberkörper auf den bodennahen Unterarm im 90-Grad-Winkel unter der Schulter ab.
+
+  Ausführung:
+  1. Drücke dich über den Unterarm und die Oberschenkelinnenseite des oberen Beins kraftvoll vom Boden ab.
+  2. Hebe das Becken an, bis dein gesamter Körper von Kopf bis Fuß eine gerade Linie bildet, genau auf Höhe der Bank.
+  3. Hebe das untere Bein leicht an, sodass es parallel knapp unter der Bank schwebt.
+  4. Halte diese isometrische Position für die angegebene Zeit stabil und wechsle anschließend die Seite.
+
+  Hinweise:
+  Halte das Becken aufgerichtet und lasse die Hüfte nicht nach unten durchhängen. Eine der effektivsten Übungen zur Kräftigung der Adduktoren und lateralen Rumpfstabilität.
+search_terms:
+- Adduktoren-Seitstütz
+- Copenhagen Plank
+- Kopenhagen Plank Adduktoren
 upstream:
   license: CC-BY-SA-4.0
   license_author: hurr99

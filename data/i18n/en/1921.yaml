@@ -1,13 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1921'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Extreme Lat Stretch
-description: Deep loaded stretch for latissimus dorsi, performed after pulling movements.
+description: 'Starting position:
+
+  Stand facing a sturdy upright post or power rack. Grasp the upright overhead with one or both hands using a secure grip.
+
+
+  Execution:
+
+  Step back, hinge at your hips, and push your glutes backward while lowering your chest toward the floor. Shift your bodyweight back against your grip so you feel a deep stretch along the lateral side of your back, running from your armpit down to your hip. Hold for 30 to 60 seconds while breathing deeply into your ribs.
+
+
+  Tips:
+
+  Relax your neck and allow your lats to elongate with every exhalation; do not force or jerk the movement.'
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3068'
+search_terms:
+- Loaded Lat Stretch
+- Hanging Lat Stretch
+- Extreme Lat Stretch

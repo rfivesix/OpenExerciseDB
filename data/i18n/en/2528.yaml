@@ -1,20 +1,24 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '2528'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Squat Sky Reach Stretch
 description: |-
-  Drop into a squat.
-  Hold one ankle with the opposite hand.
-  Fold your other arm to your chest.
-  Staying in the squat and keeping hold of your ankle, twist to turn your chest-hand back/outwards until your elbow is pointing at the sky.
-  Return to the neutral squatting position with your hand on your chest. Repeat movement as required.
+  Starting Position:
+  Stand with feet shoulder-width apart and lower your hips into a deep bodyweight squat. Grasp your right ankle or foot with your opposite (left) hand to anchor yourself.
 
-  Repeat on both sides.
+  Execution:
+  1. While maintaining the deep squat position, rotate your torso and chest toward the right side.
+  2. Reach your right arm up and back toward the ceiling, following your hand with your eyes.
+  3. Pause at the top of the rotation for 1 to 2 seconds, feeling the stretch through your thoracic spine, groin, and chest.
+  4. Return smoothly to the neutral deep squat position.
+  5. Complete repetitions on that side, then switch hands and rotate to the left.
+
+  Cues:
+  Keep both heels pinned flat to the floor and push your knees out; drive the twist from your mid-back (thoracic spine) rather than your neck.
+search_terms:
+- Squat Sky Reach Stretch
+- Deep Squat with Rotation
+- Squat Thoracic Rotation Stretch
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728

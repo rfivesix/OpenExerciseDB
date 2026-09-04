@@ -1,15 +1,23 @@
-# data/i18n/<lang>/<id>.yaml — Text zu genau einer Uebung.
-#
-# Automatisch erzeugt von import/wger_to_yaml.py aus dem wger-Snapshot.
-# Lizenz und Autor gelten fuer genau diesen Text, nicht fuer das Repo — wger
-# lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1778'
 language: en
 status: ai_reviewed
-name: Incline Bench Press
-description: Incline barbell bench press performed with controlled, precise movements.
+name: Barbell Incline Bench Press
+description: "Starting Position:\nLie back on an incline bench set to an angle of\
+  \ 30 to 45 degrees. Position your eyes under the racked barbell, retract and depress\
+  \ your shoulder blades into the pad, and plant your feet flat on the floor. Grasp\
+  \ the bar with an overhand grip slightly wider than shoulder-width, unrack it, and\
+  \ stabilize it directly over your upper chest with straight arms.\n\nExecution:\n\
+  1. Inhale, brace your core, and lower the bar with control to your upper chest (just\
+  \ below the collarbones), keeping your elbows tucked at roughly 45 to 70 degrees\
+  \ from your torso.\n2. Touch your chest lightly without bouncing the weight.\n3.\
+  \ Press the bar forcefully upward along a slight arc back over your upper chest\
+  \ until your arms are extended.\n\nCues:\nA 30- to 45-degree angle provides optimal\
+  \ recruitment of the clavicular (upper) pectoral head while minimizing excessive\
+  \ anterior deltoid strain."
 search_terms:
-  - Supino inclinado
+  - Incline Bench Press
+  - Barbell Incline Press
+  - Supino Inclinado
 upstream:
   license: CC-BY-SA-4.0
   source_id: '2912'
