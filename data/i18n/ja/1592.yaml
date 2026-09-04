@@ -1,9 +1,13 @@
 exercise_id: '1592'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 瞑想 (ガイド付き・自由)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2541'
+description: |-
+  開始姿勢：静かな場所で背筋を伸ばして楽な姿勢で座り、軽く目を閉じます。
+  動作手順：自然な呼吸のリズムに意識を向け、雑念が生じても判断せずにただ受け流します。
+  ポイント：脊柱起立筋を自然に保ち、心と体をリラックスさせて集中力を回復させます。

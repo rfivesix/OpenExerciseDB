@@ -1,9 +1,13 @@
 exercise_id: '1567'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: オルタネイト・ダンベルハンマーカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mariano_O
   source_id: '2515'
+description: |-
+  開始姿勢：直立して両手にダンベルを持ち、手のひらを向かい合わせた状態にします。
+  動作手順：片腕ずつダンベルを肩に向かって縦向きのまま持ち上げ、腕橈骨筋と上腕筋を収縮させます。
+  ポイント：体を左右に揺らさず体幹を固定し、下ろす局面をゆっくりコントロールします。

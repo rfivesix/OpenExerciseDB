@@ -1,9 +1,20 @@
 exercise_id: '1528'
 language: ja
-status: ai_raw
-translated_from: en
-name: ベルトスクワット
+status: ai_reviewed
+translated_from: de
+name: グルートドライブ (マシン・ヒップスラスト)
 upstream:
   license: CC-BY-SA-4.0
   license_author: schweezer
   source_id: '2485'
+description: |-
+  開始姿勢:
+  グルートドライブマシンのバックパッドに背中を預け、骨盤の上にパッド付きベルトをしっかりと締めます。足は肩幅でフットプレートに置きます。
+
+  動作手順:
+  1. セーフティレバーを外し、踵で強く踏み込んで骨盤を天井へ押し上げます。
+  2. 上半身と太ももが水平になるまで上げ、大臀筋を限界まで収縮させます。
+  3. コントロールしながらゆっくりと骨盤を下げます。
+
+  ポイント:
+  バーベルヒップスラストよりもセットアップが容易で安定し、大臀筋を高重量で安全に追い込めます。

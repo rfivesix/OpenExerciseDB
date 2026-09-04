@@ -1,9 +1,19 @@
 exercise_id: '1548'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ステアマシン (ステアマスター)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MisterPinnacle
   source_id: '2496'
+description: |-
+  開始姿勢:
+  ステアマスターのステップに立ち、姿勢を真っ直ぐ保って手すりに軽く手を添えます。
+
+  動作手順:
+  1. 連続して動く階段を、一定のステップレートで登り続けます。
+  2. 足裏全体でステップを踏み込み、大臀筋と大腿四頭筋をしっかり使って一段ずつ上がります。
+
+  ポイント:
+  膝への負担を抑えつつ、下半身の筋持久力強化と非常に高いカロリー燃焼効果が得られます。

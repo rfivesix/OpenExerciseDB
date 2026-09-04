@@ -1,9 +1,11 @@
 exercise_id: '1574'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: 水泳 (フリースタイル)
+name: 水泳 (有酸素・背部コンディショニング)
 upstream:
   license: CC-BY-SA-4.0
   license_author: delta@romeo
   source_id: '2522'
+description: |-
+  開始姿勢: プールに入り、リラックスした姿勢をとります。動作手順: クロールや平泳ぎなどの泳法で一定のペースを保ちながら継続して泳ぎます。広背筋や肩甲骨周囲筋を活用して滑らかに水をキャッチ＆プルします。ポイント: 関節への衝撃を避けながら心肺機能と背中の筋持久力を高める全身運動です。

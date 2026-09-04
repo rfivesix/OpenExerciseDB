@@ -1,9 +1,20 @@
 exercise_id: '1603'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: レジスタンスバンド・レッグカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal
   source_id: '2574'
+description: |-
+  開始姿勢:
+  柱などの固定物にバンドを結び、床にうつ伏せになります。足首の後ろにバンドの輪を掛けます。
+
+  動作手順:
+  1. ハムストリングスを収縮させ、バンドの張力に抵抗しながら踵をお尻に向かって力強く巻き上げます。
+  2. 膝を深く曲げた位置で1秒間ホールドします。
+  3. コントロールしながらゆっくりと脚を伸ばして戻します。
+
+  ポイント:
+  マシンがなくてもチューブ1本でハムストリングスの屈曲負荷を安全に得られます。

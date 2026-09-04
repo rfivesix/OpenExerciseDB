@@ -1,9 +1,21 @@
 exercise_id: '1579'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ブロンコ・シャトルラン
 upstream:
   license: CC-BY-SA-4.0
   license_author: MU5H
   source_id: '2527'
+description: |-
+  開始姿勢:
+  スタートラインに立ち、20m、40m、60mの地点にマーカーコーンを配置します。
+
+  動作手順:
+  1. スタートから20m地点まで全力疾走し、ターンしてスタートへ戻ります。
+  2. 続けて40m地点まで走り、ターンしてスタートへ戻ります。
+  3. さらに60m地点まで走り、ターンしてスタートへ戻ります（これで1セット＝1200m中1本）。
+  4. これを指定セット数ノンストップで行います。
+
+  ポイント:
+  ラグビー等で多用される極めて過酷なシャトルランで、無酸素性および有酸素性持久力を極限まで高めます。

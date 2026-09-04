@@ -1,9 +1,11 @@
 exercise_id: '1545'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アーチャー・プルアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Antsy6277
   source_id: '2494'
+description: |-
+  開始姿勢: 肩幅よりかなり広めのオーバーハンドグリップでバーを握り、ぶら下がります。動作手順: 片腕で身体を引き上げつつ、もう一方の腕を横へ真っ直ぐ伸ばして「弓を引くアーチャー」のような姿勢をとります。顎を引き手の手元に近づけたらトップで静止し、ゆっくりと下ろして反対側も同様に行います。ポイント: 片腕への負荷を高めることで片腕懸垂への移行トレーニングとして極めて有効です。

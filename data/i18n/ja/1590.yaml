@@ -1,9 +1,11 @@
 exercise_id: '1590'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 腕・首ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2539'
+description: |-
+  開始姿勢: 椅子に座るかリラックスして立ち、背筋を伸ばします。動作手順: 片腕を胸の前で交差させて反対の手で抱え込み、肩の後ろを伸ばします。同時に頭をゆっくりと反対側へ傾けて首筋から僧帽筋にかけてストレッチします。深呼吸をしながら20〜30秒キープし、反対側も行います。ポイント: デスクワーク等で固まりやすい上半身の緊張を緩和します。

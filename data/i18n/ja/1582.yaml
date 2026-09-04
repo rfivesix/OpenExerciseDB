@@ -1,9 +1,11 @@
 exercise_id: '1582'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: サイドライイング・インターナルローテーション
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2530'
+description: |-
+  【開始姿勢】横向きに寝て、下側の腕の肘を90度に曲げて構えます。【動作手順】前腕を床に向けてゆっくり下ろし、肩のインナーマッスルを使って元の位置へ引き上げます。【ポイント】回旋筋腱板 (ローテーターカフ)の内旋機能を鍛え、肩の障害予防に役立ちます。

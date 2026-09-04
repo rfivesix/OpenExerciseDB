@@ -1,9 +1,11 @@
 exercise_id: '1575'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スタンディング・棒ショルダープレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: mountain.potato
   source_id: '2523'
+description: |-
+  【開始姿勢】直立して軽い棒（またはタオル）を両手で持ち、肩幅で構えます。【動作手順】棒を頭上へスムーズに押し上げ、肩甲骨の可動性を意識しながら胸の前や首の後ろへ下ろします。【ポイント】三角筋と肩関節のモビリティを高めるウォームアップ種目です。

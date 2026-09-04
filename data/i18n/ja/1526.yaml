@@ -1,9 +1,11 @@
 exercise_id: '1526'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スキーマシン (スキーエルゴ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2482'
+description: |-
+  開始姿勢: スキーエルゴマシンのプラットフォームに足を腰幅に開いて立ち、頭上のハンドルを両手で握ります。動作手順: 膝を軽く曲げ、お尻を後ろに引きながら両腕を力強く下方に引き下ろします。手が膝の横を通過するまで振り下ろしたら、股関節を伸ばして立ち上がりながら腕を頭上へ戻します。ポイント: クロスカントリースキーの動作を模した全身有酸素運動で、広背筋、三頭筋、体幹を強化します。

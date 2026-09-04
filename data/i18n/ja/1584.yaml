@@ -1,9 +1,19 @@
 exercise_id: '1584'
 language: ja
-status: ai_raw
-translated_from: en
-name: チェストプレスマシン
+status: ai_reviewed
+translated_from: de
+name: その場足踏み・ジョギング
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2532'
+description: |-
+  開始姿勢:
+  リラックスして直立し、腕を自然に曲げて構えます。
+
+  動作手順:
+  1. その場で交互に膝を持ち上げながら、リズミカルに足踏みまたは軽いジョギングを行います。
+  2. 腕を前後に振り、全身の血流を促進します。
+
+  ポイント:
+  スペースを取らずに手軽に心拍数を上げられるウォームアップ運動です。

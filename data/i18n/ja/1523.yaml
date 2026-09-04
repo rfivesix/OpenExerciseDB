@@ -1,9 +1,19 @@
 exercise_id: '1523'
 language: ja
-status: ai_raw
-translated_from: en
-name: プッシュアップ
+status: ai_reviewed
+translated_from: de
+name: スレッドプッシュ (そり押し)
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2479'
+description: |-
+  開始姿勢:
+  ウェイトスレッド（そり）のバーを両手で握り、体を前傾させて構えます。腕を伸ばして体幹を固めます。
+
+  動作手順:
+  1. 地面を後方に力強く蹴り出しながら、一歩一歩力強く前進してスレッドを押します。
+  2. 大腿四頭筋、大臀筋、ふくらはぎをフル稼働させ、一定の力強いピッチを保ちます。
+
+  ポイント:
+  エキセントリックな筋肉損傷が少なく、下半身の筋力、パワー、心肺機能を極限まで追い込める種目です。

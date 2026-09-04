@@ -1,9 +1,13 @@
 exercise_id: '1573'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: アブローラー
 upstream:
   license: CC-BY-SA-4.0
   license_author: lhegedus
   source_id: '2521'
+description: |-
+  開始姿勢：マットに膝をつき、アブローラーのハンドルを両手でしっかりと握ります。
+  動作手順：体幹を固めてローラーを前方へゆっくりと転がし、腹直筋を使って元の位置へ引き戻します。
+  ポイント：腰を反らさず背中をわずかに丸め、腹圧をしっかりとかけた状態で動作します。

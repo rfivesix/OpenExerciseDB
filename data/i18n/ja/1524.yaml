@@ -1,9 +1,11 @@
 exercise_id: '1524'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バトルロープ
 upstream:
   license: CC-BY-SA-4.0
   license_author: flanny
   source_id: '2480'
+description: |-
+  【開始姿勢】膝を軽く曲げて腰を落とし、両手でバトルロープの端を握ります。【動作手順】腕を交互または同時に素早く上下に振り、波を作るようにロープを打ち付けます。【ポイント】三角筋と体幹を強烈に動員し、高強度の全身トレーニングを行います。

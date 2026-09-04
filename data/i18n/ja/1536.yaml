@@ -1,9 +1,11 @@
 exercise_id: '1536'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 三角筋ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Expenses7000
   source_id: '2491'
+description: |-
+  【開始姿勢】背筋を伸ばして直立し、片腕を胸の前で水平に伸ばします。【動作手順】反対側の腕で肘を抱え込み、胸に向けてゆっくり引き寄せます。【ポイント】三角筋後部と肩の後ろ側が心地よく伸びるのを感じながら静止します。

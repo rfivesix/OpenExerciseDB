@@ -1,9 +1,13 @@
 exercise_id: '1529'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: インクライン・チェストプレスマシン
+name: トーズ・トゥ・バー
 upstream:
   license: CC-BY-SA-4.0
   license_author: florian.bussmann
   source_id: '2487'
+description: |-
+  開始姿勢：プルアップバーに順手でぶら下がり、体をまっすぐに安定させます。
+  動作手順：広背筋と腹直筋を強く収縮させ、両脚を伸ばしたままつま先がバーに触れるまで高く持ち上げます。
+  ポイント：激しい反動に頼らず、体幹の力でコントロールしながらゆっくりと元の位置へ戻します。

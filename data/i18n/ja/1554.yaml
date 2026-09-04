@@ -1,9 +1,11 @@
 exercise_id: '1554'
 language: ja
-status: ai_raw
-translated_from: en
-name: ケトルベル・ゴブレットスクワット
+status: ai_reviewed
+translated_from: de
+name: クラッププッシュアップ (拍手腕立て伏せ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2501'
+description: |-
+  【開始姿勢】通常の腕立て伏せの姿勢から開始します。【動作手順】身体を深く下ろし、爆発的に床を押して身体を浮かせ、空中で素早く手を叩いてから着地します。【ポイント】大胸筋のプライオメトリックな瞬発力を鍛え、着地時は肘を柔らかく使います。

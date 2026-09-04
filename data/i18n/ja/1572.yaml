@@ -1,9 +1,13 @@
 exercise_id: '1572'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: バードドッグ
 upstream:
   license: CC-BY-SA-4.0
   license_author: Settebello
   source_id: '2520'
+description: |-
+  開始姿勢：マットの上で四つ這いになり、手首は肩の真下、膝は股関節の真下に配置します。
+  動作手順：対角の手と足を床と水平になるまでまっすぐ伸ばして静止し、元の位置に戻して交代します。
+  ポイント：脊柱起立筋と大臀筋を意識し、骨盤や腰が傾かないように体幹の水平を保ちます。

@@ -1,9 +1,13 @@
 exercise_id: '1591'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 深呼吸 (座位・立位)
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2540'
+description: |-
+  開始姿勢：背筋をまっすぐに伸ばして椅子に座るか、リラックスして直立します。
+  動作手順：鼻から深く息を吸い込んで横隔膜を広げ、口からゆっくりと完全に息を吐き出します。
+  ポイント：肩の力を抜き、お腹と胸が穏やかに膨らみ縮むのを感じながら呼吸を整えます。

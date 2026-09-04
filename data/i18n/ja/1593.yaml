@@ -1,9 +1,20 @@
 exercise_id: '1593'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スミスマシン・スプリットスクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: workout@rooven.anonaddy.me
   source_id: '2542'
+description: |-
+  開始姿勢:
+  スミスマシンのバーの下に入り、僧帽筋上部で担ぎます。足を前後に大きく開いたスプリット姿勢をとります。
+
+  動作手順:
+  1. バーのロックを外し、上体を垂直に保ったまま両膝が90度になるまで腰を沈めます。
+  2. 前足の太ももが床と平行になる深さまで下ろします。
+  3. 前足の踵で強く踏み込んで押し上げ、元のスプリット姿勢に戻ります。
+
+  ポイント:
+  軌道が安定しているためバランスを気にせず、前脚の大腿四頭筋と大臀筋に高重量の刺激を集中させられます。

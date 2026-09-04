@@ -1,9 +1,11 @@
 exercise_id: '1516'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: 倒立 (ハンドスタンド)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Fittness69
   source_id: '2475'
+description: |-
+  【開始姿勢】両手を肩幅で床につき、足を蹴り上げて倒立姿勢をとります。【動作手順】腕で床を強く押し、腹筋とお尻を締めて身体を一直線に保ちます。【ポイント】三角筋と前鋸筋で体重を支え、バランスをコントロールします。

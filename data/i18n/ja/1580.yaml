@@ -1,9 +1,11 @@
 exercise_id: '1580'
 language: ja
-status: ai_raw
-translated_from: en
-name: ワンハンド・パーペンディキュラー・ランドマインロー
+status: ai_reviewed
+translated_from: de
+name: パーペンディキュラー・ランドマイン・ワンハンドロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: CptnFatbeard
   source_id: '2528'
+description: |-
+  開始姿勢: ランドマインのバーベルに対して垂直 (90度) に立ち、股関節から上体を前傾させます。バーのスリーブ端を片手で握ります。動作手順: 肘を後方へ引き上げ、上腕が床と平行になる高さまでバーベルを引き上げます。トップで背中の筋肉を強く収縮させ、ゆっくりと下ろします。ポイント: バーに対して垂直に構えることで、通常のランドマインローとは異なる角度から上背部や広背筋を刺激します。

@@ -1,9 +1,19 @@
 exercise_id: '1589'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 脚・股関節ストレッチ
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrAlfaRobot
   source_id: '2538'
+description: |-
+  開始姿勢:
+  マットの上でリラックスした姿勢をとります。
+
+  動作手順:
+  1. 股関節をゆっくりと曲げ伸ばし、脚全体と臀部、ハムストリングス、内転筋群を無理のない範囲で伸ばします。
+  2. 深い呼吸を繰り返しながら、緊張している筋肉を優しくほぐします。
+
+  ポイント:
+  トレーニング後のクールダウンや柔軟性の維持に効果的なストレッチです。

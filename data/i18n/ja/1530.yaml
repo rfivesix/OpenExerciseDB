@@ -1,9 +1,13 @@
 exercise_id: '1530'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ライイング・ダンベルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Moffi
   source_id: '2488'
+description: |-
+  開始姿勢：フラットベンチに仰向けになり、両手にダンベルを持って腕を床に向かって垂らします。
+  動作手順：肘の位置を固定したまま上腕二頭筋長頭を使ってダンベルを巻き上げ、ゆっくり下ろします。
+  ポイント：初動から二頭筋に強いストレッチがかかるため、反動を使わずに丁寧に動作します。

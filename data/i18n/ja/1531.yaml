@@ -1,9 +1,13 @@
 exercise_id: '1531'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ケーブルカール
 upstream:
   license: CC-BY-SA-4.0
   license_author: Brigade7938
   source_id: '2489'
+description: |-
+  開始姿勢：ケーブルタワーの前に立ち、ロープーリーのバーを逆手で握って直立します。
+  動作手順：肘を体側に固定し、上腕二頭筋を収縮させてバーを胸の高さまで引き上げます。
+  ポイント：動作全体を通して負荷が抜けず一定にかかるため、トップとボトムの両方でコントロールします。
