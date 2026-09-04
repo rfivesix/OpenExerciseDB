@@ -1,9 +1,18 @@
 exercise_id: '2452'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: Flessioni dei polsi con bilanciere
+name: Flessioni dei polsi con bilanciere (Wrist Curl)
 upstream:
   license: CC-BY-SA-4.0
   license_author: xWan
   source_id: '4929'
+description: |-
+  Posizione di partenza:
+  Inginocchiati davanti a una panca piana e appoggia la parte posteriore degli avambracci sulla superficie della panca, lasciando che i polsi e le mani sporgano leggermente oltre il bordo per consentire un'escursione articolare completa. Impugna il bilanciere con una presa supina (palmi rivolti verso l'alto) all'incirca alla larghezza delle spalle.
+
+  Esecuzione:
+  1. Fase eccentrica: abbassa lentamente il bilanciere con pieno controllo flettendo i polsi verso il pavimento. Al punto inferiore del movimento, apri leggermente le dita lasciando rotolare la barra lungo i palmi per massimizzare l'allungamento dei flessori.
+  2. Fase concentrica: richiudi saldamente le dita attorno alla barra, quindi fletti energicamente i polsi verso l'alto sollevando il bilanciere il più in alto possibile.
+  3. Contrai intensamente gli avambracci nella posizione più alta per un secondo completo.
+  4. Mantieni gli avambracci sempre saldamente a contatto con la panca: solo i polsi e le dita devono muoversi durante l'esercizio.

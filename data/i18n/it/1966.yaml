@@ -1,9 +1,16 @@
 exercise_id: '1966'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazione toracica in mezza ginocchia
 upstream:
   license: CC-BY-SA-4.0
   license_author: amwang4
   source_id: '3121'
+description: |-
+  Posizione di partenza:
+  Posizionati in affondo a terra con un ginocchio al suolo vicino a una parete, stabilizzando una palla contro il muro con il ginocchio avanzato.
+
+  Esecuzione:
+  1. Con le braccia distese davanti a te, ruota lentamente il torace e il braccio esterno aprendoti lateralmente.
+  2. Mantieni il bacino completamente immobile per isolare la mobilità della colonna toracica.

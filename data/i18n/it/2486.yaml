@@ -1,9 +1,17 @@
 exercise_id: '2486'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Respirazione e rilassamento in acqua (Bobbing)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4963'
+description: |-
+  Posizione di partenza:
+  Immergiti in acqua leggermente più profonda dove non tocchi il fondo.
+
+  Esecuzione:
+  1. Immergi la testa sott'acqua ed espira lentamente in modo calmo e rilassato attraverso naso e bocca.
+  2. Riemergi con delicatezza per inspirare aria fresca senza sforzo.
+  3. Esegui il movimento a ritmo lento per favorire il recupero e la calma respiratoria.

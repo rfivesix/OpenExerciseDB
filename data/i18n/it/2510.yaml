@@ -1,8 +1,10 @@
 exercise_id: '2510'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tenuta a barchetta a terra (Hollow Body Hold)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4989'
+description: |-
+  Sdraiati supino e solleva leggermente le braccia tese oltre la testa e le gambe unite da terra, appiattendo la zona lombare al pavimento per creare una contrazione totale della catena anteriore.

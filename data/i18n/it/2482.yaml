@@ -1,9 +1,17 @@
 exercise_id: '2482'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Esercizio di espirazione sott'acqua (Bobbing)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4959'
+description: |-
+  Posizione di partenza:
+  Posizionati in piedi in acqua con livello all'altezza del petto.
+
+  Esecuzione:
+  1. Inspira profondamente sopra la superficie, immergi completamente il viso ed espira lentamente e continuamente sott'acqua attraverso naso e bocca soffiando bolle.
+  2. Riemergi dalla superficie e inspira ritmicamente.
+  3. Ripeti l'esercizio a cadenza rilassata e regolare per sviluppare un controllo ottimale della respirazione in ambiente acquatico.

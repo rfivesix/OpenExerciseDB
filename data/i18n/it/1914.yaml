@@ -1,8 +1,15 @@
 exercise_id: '1914'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Tenuta isometrica alle parallele (Support Hold)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3061'
+description: |-
+  Posizione di partenza:
+  Posizionati alle parallele per dip afferrando le impugnature.
+
+  Esecuzione:
+  1. Spingi verso il basso per sostenere il peso del corpo a braccia completamente tese senza oscillare.
+  2. Mantieni le spalle depresse, il petto aperto e l'addome contratto per tutta la durata dell'esercizio statico.

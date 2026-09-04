@@ -1,8 +1,10 @@
 exercise_id: '1939'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazioni articolari controllate del collo (Neck CARs)
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3089'
+description: |-
+  Esegui rotazioni articolari controllate del collo disegnando cerchi ampi e lenti, tre per ciascuna direzione, per migliorare la mobilità e la salute della colonna cervicale.

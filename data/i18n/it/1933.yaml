@@ -1,9 +1,17 @@
 exercise_id: '1933'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Crunch a terra per addominali
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3082'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino con le ginocchia flesse, i piedi piatti a terra e le mani dietro la nuca.
+
+  Esecuzione:
+  1. Fletti la colonna sollevando le scapole dal pavimento senza tirare il collo.
+  2. Contrai intensamente gli addominali espirando in cima.
+  3. Abbassa lentamente le spalle senza appoggiarle completamente.

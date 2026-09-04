@@ -1,9 +1,11 @@
 exercise_id: '2539'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl panca Scott isometrico
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5010'
+description: |-
+  Appoggia il braccio sul cuscinetto della panca Scott con un manubrio a gomito flesso a circa 90 gradi, mantenendo la contrazione isometrica statica sotto carico continuo.

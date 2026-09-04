@@ -1,8 +1,10 @@
 exercise_id: '1940'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Respirazione diaframmatica guidata
 upstream:
   license: CC-BY-SA-4.0
   source_id: '3090'
+description: |-
+  Sdraiati comodamente con una mano sul petto e una sull'addome. Respira profondamente dal diaframma facendo salire solo la mano sulla pancia ed esegui 8-10 respiri lenti.

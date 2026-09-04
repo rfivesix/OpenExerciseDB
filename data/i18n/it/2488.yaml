@@ -1,9 +1,16 @@
 exercise_id: '2488'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Retroversione del bacino a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: Raj
   source_id: '4965'
+description: |-
+  Posizione di partenza:
+  Sdraiati supino con le ginocchia flesse e i piedi ben appoggiati a terra.
+
+  Esecuzione:
+  1. Appiattisci la parte bassa della schiena contro il pavimento ruotando il bacino all'indietro (retroversione).
+  2. Contrai i muscoli addominali e i glutei per mantenere la posizione per qualche secondo, poi rilascia delicatamente.

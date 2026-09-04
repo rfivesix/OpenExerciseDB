@@ -1,9 +1,11 @@
 exercise_id: '1971'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Pulldown alla Mentzer al cavo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Mike Mentzer
   source_id: '3126'
+description: |-
+  Siediti alla lat machine e afferra la barra con presa supina stretta; trazionai la sbarra verso il petto concentrando la trazione sui bicipiti lungo l'intero raggio di movimento prima di risalire con controllo.

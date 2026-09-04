@@ -1,9 +1,17 @@
 exercise_id: '2528'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Accosciata profonda con estensione del braccio al cielo
 upstream:
   license: CC-BY-SA-4.0
   license_author: Croak6728
   source_id: '4997'
+description: |-
+  Posizione di partenza:
+  Scendi in una posizione di squat profondo con i talloni ben appoggiati a terra. Con una mano afferra la caviglia opposta.
+
+  Esecuzione:
+  1. Ruota il torace verso l'alto ed estendi l'altro braccio verso il soffitto aprendo il petto.
+  2. Segui la mano sollevata con lo sguardo mantenendo il bacino basso.
+  3. Mantieni l'allungamento per qualche respiro profondo, ritorna al centro e ripeti sul lato opposto.

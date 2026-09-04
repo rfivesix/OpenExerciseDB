@@ -1,9 +1,17 @@
 exercise_id: '2522'
 language: it
-status: ai_raw
-translated_from: en
-name: Spinte al cavo alto per tricipiti
+status: ai_reviewed
+translated_from: de
+name: Spinte per tricipiti con elastico
 upstream:
   license: CC-BY-SA-4.0
   license_author: G. Johnson
   source_id: '4991'
+description: |-
+  Posizione di partenza:
+  Fissa un elastico di resistenza in alto sopra di te. Posizionati di fronte all'elastico con i piedi alla larghezza delle anche e le ginocchia leggermente flesse.
+
+  Esecuzione:
+  1. Afferra le estremità dell'elastico e mantieni i gomiti stretti lungo i fianchi.
+  2. Spingi verso il basso estendendo le braccia fino alla completa contrazione dei tricipiti.
+  3. Rilascia lentamente verso l'alto controllando la tensione dell'elastico.

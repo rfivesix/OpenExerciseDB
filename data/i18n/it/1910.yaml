@@ -1,9 +1,17 @@
 exercise_id: '1910'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Superman in ginocchio a terra
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3057'
+description: |-
+  Posizione di partenza:
+  Posizionati a quattro zampe con le mani sotto le spalle e le ginocchia sotto le anche.
+
+  Esecuzione:
+  1. Fai scivolare una gamba all'indietro fino a distenderla completamente e sollevala mantenendo il piede alto.
+  2. Estendi contemporaneamente il braccio opposto in avanti allineato al tronco.
+  3. Mantieni la tensione sui lombari e sui glutei prima di rientrare con controllo.

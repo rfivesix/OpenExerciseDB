@@ -1,9 +1,11 @@
 exercise_id: '2541'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Pushdown per tricipiti isometrico
 upstream:
   license: CC-BY-SA-4.0
   license_author: HexoctusEngineering
   source_id: '5012'
+description: |-
+  In piedi davanti al cavo, spingi la maniglia verso il basso con il gomito bloccato a metà movimento (circa 90 gradi) e mantieni la posizione statica contraendo intensamente il tricipite contro la resistenza costante.

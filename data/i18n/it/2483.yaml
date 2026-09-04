@@ -1,9 +1,16 @@
 exercise_id: '2483'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazione del busto con presa a bordo vasca
 upstream:
   license: CC-BY-SA-4.0
   license_author: Imported from swim plan
   source_id: '4960'
+description: |-
+  Posizione di partenza:
+  Afferra il bordo della piscina con una mano mantenendo il corpo in posizione orizzontale sull'acqua, con le gambe che battono dolcemente dietro di te per rimanere a galla.
+
+  Esecuzione:
+  1. Ruota lentamente il busto e il bacino verso l'esterno allontanandoti dalla parete, mantenendo la presa salda.
+  2. Mantieni la distensione per alcuni secondi sentendo l'allungamento del tronco e della spalla, poi ruota con calma verso la posizione di partenza.

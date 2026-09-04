@@ -1,9 +1,16 @@
 exercise_id: '1931'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Curl per bicipiti con manubri
 upstream:
   license: CC-BY-SA-4.0
   license_author: amaesc
   source_id: '3080'
+description: |-
+  Posizione di partenza:
+  In piedi con un manubrio in ciascuna mano lungo i fianchi con presa neutra.
+
+  Esecuzione:
+  1. Fletti i gomiti sollevando i manubri e ruota gli avambracci in supinazione verso l'alto.
+  2. Contrai i bicipiti in cima e abbassa i manubri con controllo tornando alla presa neutra.

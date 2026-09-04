@@ -1,8 +1,10 @@
 exercise_id: '2505'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Dead Bug a terra per stabilità del core
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4990'
+description: |-
+  Sdraiati supino con braccia verticali e ginocchia a 90 gradi. Estendi lentamente il braccio destro all'indietro e la gamba sinistra in avanti mantenendo la colonna lombare aderente al pavimento per allenare l'anti-estensione.

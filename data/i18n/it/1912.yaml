@@ -1,9 +1,16 @@
 exercise_id: '1912'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Rotazioni del busto da seduto a terra (Core Rotation)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3059'
+description: |-
+  Posizione di partenza:
+  Siediti sul tappetino, inclina il busto all'indietro e solleva i piedi da terra con le ginocchia piegate.
+
+  Esecuzione:
+  1. Ruota il busto alternativamente a sinistra e a destra.
+  2. Mantieni il core attivo ed espira a ogni cambio di lato per stimolare gli addominali obliqui.

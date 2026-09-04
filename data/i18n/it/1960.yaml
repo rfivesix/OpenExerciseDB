@@ -1,9 +1,11 @@
 exercise_id: '1960'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Allungamento dei flessori dell'anca con piede posteriore rialzato
 upstream:
   license: CC-BY-SA-4.0
   license_author: Pete-E automation
   source_id: '3111'
+description: |-
+  In posizione di affondo con il collo del piede posteriore appoggiato su una panca o un rialzo, spingi il bacino in avanti mantenendo il busto eretto per allungare il retto femorale e l'ileopsoas.

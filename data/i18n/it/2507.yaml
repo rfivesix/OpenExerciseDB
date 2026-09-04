@@ -1,8 +1,10 @@
 exercise_id: '2507'
 language: it
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Plank sugli avambracci per il core
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4986'
+description: |-
+  Mantieni una posizione orizzontale stabile sostenendoti sugli avambracci e sulle punte dei piedi, contraendo glutei e addome per rinforzare la catena anteriore e la stabilità del tronco.

@@ -1,9 +1,16 @@
 exercise_id: '1911'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Plank del gatto a terra (Cat Plank)
 upstream:
   license: CC-BY-SA-4.0
   license_author: cybro
   source_id: '3058'
+description: |-
+  Posizione di partenza:
+  Posizionati a quattro zampe e solleva appena le ginocchia da terra sulle punte dei piedi.
+
+  Esecuzione:
+  1. Arrotonda la colonna vertebrale verso l'alto spingendo con forza attraverso le spalle.
+  2. Risucchia l'ombelico verso la spina dorsale e mantieni la posizione contraendo al massimo il core.

@@ -1,8 +1,10 @@
 exercise_id: '2508'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Bird Dog alternato a quattro zampe
 upstream:
   license: CC-BY-SA-4.0
   source_id: '4987'
+description: |-
+  A quattro zampe con il core attivo, distendi contemporaneamente il braccio destro in avanti e la gamba sinistra indietro allineandoli al busto, promuovendo la stabilità lombare e la coordinazione controlaterale.

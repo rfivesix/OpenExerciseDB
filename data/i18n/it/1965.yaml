@@ -1,9 +1,17 @@
 exercise_id: '1965'
 language: it
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: Marcia sul posto a ginocchia alte
 upstream:
   license: CC-BY-SA-4.0
   license_author: Anon#2
   source_id: '3120'
+description: |-
+  Posizione di partenza:
+  In piedi in posizione eretta con le braccia piegate a 90 gradi lungo i fianchi.
+
+  Esecuzione:
+  1. Solleva un ginocchio in alto verso il petto fino all'altezza delle anche, oscillando il braccio opposto in avanti.
+  2. Abbassa il piede a terra in modo fluido e solleva immediatamente il ginocchio opposto.
+  3. Continua a marciare sul posto a ritmo sostenuto mantenendo il tronco eretto e l'addome attivo per rinforzare i flessori dell'anca.
