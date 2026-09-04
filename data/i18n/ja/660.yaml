@@ -1,9 +1,13 @@
 exercise_id: '660'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケーブル・バー・トライセプスエクステンション
 upstream:
   license: CC-BY-SA-3.0
   license_author: wger.de
   source_id: '90'
+description: |-
+  開始姿勢：ハイプーリーにストレートバーを装着し、順手で握って上体を軽く前傾させます。
+  動作手順：肘を体側に固定したままバーを太ももに向かって押し下げ、上腕三頭筋を完全に収縮させます。
+  ポイント：肩を上げず、肘を支点にして前腕部のみを動かすようにコントロールします。

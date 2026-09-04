@@ -1,9 +1,13 @@
 exercise_id: '607'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スプリンター・シットアップ
 upstream:
   license: CC-BY-SA-3.0
   license_author: djblitzd
   source_id: '170'
+description: |-
+  開始姿勢：マットに仰向けになり、両脚を伸ばして両手を体側に置きます。
+  動作手順：短距離走のスプリント姿勢のように片膝と対角の腕を同時に引き上げながら上体を起こし、交互に行います。
+  ポイント：腹直筋と腸腰筋を連動させ、反動に頼らず体幹の力で力強く起き上がります。

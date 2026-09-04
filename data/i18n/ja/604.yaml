@@ -1,9 +1,20 @@
 exercise_id: '604'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: スピードデッドリフト
 upstream:
   license: CC-BY-SA-4.0
   license_author: MrSteele
   source_id: '328'
+description: |-
+  開始姿勢:
+  1RMの約50〜70%の軽めの重量をセットしたバーベルの前に立ち、デッドリフトの基本姿勢をとります。
+
+  動作手順:
+  1. 体幹を固めてバーベルを握り、床からトップポジションまで最大の爆発的スピードと加速で引き上げます。
+  2. 股関節を力強く伸展させて直立し、素早くコントロールして床に戻します。
+  3. レップ間またはセット間のインターバルを短く保ちながら繰り返します。
+
+  ポイント:
+  最大筋力よりも筋力立ち上がり速度（RFD）と神経系の爆発的な出力を高めるトレーニングです。

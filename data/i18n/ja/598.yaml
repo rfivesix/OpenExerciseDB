@@ -1,9 +1,13 @@
 exercise_id: '598'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: フロントスプリット (前後開脚)
+name: スミスマシン・ナローベンチプレス
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '218'
+description: |-
+  開始姿勢：スミスマシンのベンチに仰向けになり、肩幅程度の狭い手幅でバーを握ります。
+  動作手順：脇を締めて肘を体側に沿わせながらバーを胸下部へ下ろし、上腕三頭筋を使って押し上げます。
+  ポイント：バーの軌道が固定されているため、肘が過度に開かないよう制御して押し込みます。

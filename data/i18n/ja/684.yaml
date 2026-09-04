@@ -1,9 +1,11 @@
 exercise_id: '684'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: アンダーハンド・ラットプルダウン
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '212'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、肩幅程度のアンダーハンドグリップ (逆手) でバーを握ります。上体をわずかに後傾させます。動作手順: 肘を真下から斜め後ろに引き下げながら、バーを胸の上部まで引き寄せます。トップで広背筋と上腕二頭筋を強く収縮させ、ゆっくりとバーを戻します。ポイント: 逆手で引くことで可動域を広く取りやすく、広背筋下部をしっかり刺激できます。

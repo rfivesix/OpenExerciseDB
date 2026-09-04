@@ -1,9 +1,13 @@
 exercise_id: '688'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 外腹斜筋スタビライゼーション
 upstream:
   license: CC-BY-SA-3.0
   license_author: http://www.carinatum.com/
   source_id: '258'
+description: |-
+  開始姿勢：マットに横向きに寝て、下側の腕で体を支え、体幹をまっすぐに整えます。
+  動作手順：外腹斜筋を意識しながら骨盤を安定させ、体幹の緊張を保ったまま姿勢を維持します。
+  ポイント：体が前後に傾かないよう真っ直ぐに保ち、深呼吸を繰り返しながら体幹を固めます。

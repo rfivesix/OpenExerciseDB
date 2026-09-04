@@ -1,9 +1,19 @@
 exercise_id: '624'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: エアロバイク
 upstream:
   license: CC-BY-SA-4.0
   license_author: intelman
   source_id: '293'
+description: |-
+  開始姿勢:
+  エアロバイク（ステーショナリーバイク）に座り、ペダルが最下点にあるときに膝がわずかに曲がる（約150度）高さにサドルを調節します。
+
+  動作手順:
+  1. ペダルストラップに足を固定し、背筋を伸ばしてハンドルを軽く握ります。
+  2. 目標の心拍ゾーンや負荷レベルに合わせて、スムーズかつ一定のリズムでペダルを漕ぎます。
+
+  ポイント:
+  膝や足首への衝撃が少なく、下半身の持久力強化と有酸素トレーニングに適しています。

@@ -1,9 +1,13 @@
 exercise_id: '621'
 language: ja
-status: ai_raw
-translated_from: en
-name: スタンディング・ダンベルバイセップスカール
+status: ai_reviewed
+translated_from: de
+name: スタンディング・ダンベルカール
 upstream:
   license: CC0-1.0
   license_author: BFad07
   source_id: '768'
+description: |-
+  開始姿勢：直立して背筋を伸ばし、両手にダンベルを持って腕を自然に下ろします。
+  動作手順：肘を体側に固定し、上腕二頭筋を収縮させてダンベルを胸の高さまで巻き上げ、ゆっくり下ろします。
+  ポイント：上半身を前後に揺らさず、肘の位置を固定して二頭筋に負荷を集中させます。

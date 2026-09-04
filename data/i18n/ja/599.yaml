@@ -1,9 +1,11 @@
 exercise_id: '599'
 language: ja
-status: ai_raw
-translated_from: en
-name: スナッチ
+status: ai_reviewed
+translated_from: de
+name: スナッチ (ウエイトリフティング)
 upstream:
   license: CC0-1.0
   license_author: Mens Fitness
   source_id: '271'
+description: |-
+  開始姿勢: バーベルの前に腰幅で立ち、すねをバーに近づけます。両手を肩幅の2倍ほどの広いワイドグリップで握り、背筋を伸ばして腰を落とします。動作手順: 脚と背中でバーベルを床から引き上げ、膝を越えたら股関節を爆発的に伸展させてバーを上方へ加速させます。バーベルの下に素早く潜り込み、頭上で腕を伸ばしてスクワット姿勢でキャッチし、立ち上がります。ポイント: 全身の瞬発力と柔軟性を必要とするオリンピックリフティング種目です。

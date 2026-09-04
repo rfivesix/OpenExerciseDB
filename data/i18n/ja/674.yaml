@@ -1,9 +1,11 @@
 exercise_id: '674'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: TRXローイング
+name: TRXローイング (サスペンショントレーナー)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Skadi
   source_id: '1044'
+description: |-
+  開始姿勢: TRXのハンドルを両手で握り、体を後方に傾けます。かかとを支点にして頭からかかとまで一直線に保ちます。動作手順: 肩甲骨を寄せながら肘を後方に引き、胸をハンドルに近づけます。トップで背中の筋肉を収縮させ、コントロールしながらゆっくりと元の位置へ体を戻します。ポイント: 体幹を引き締め、腰が反ったり落ちたりしないように一直線を維持します。

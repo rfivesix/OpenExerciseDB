@@ -1,8 +1,10 @@
 exercise_id: '801'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・プッシュアップ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '896'
+description: |-
+  【開始姿勢】床に置いたダンベルのグリップを両手で握り、腕立て伏せの姿勢をとります。【動作手順】体幹をまっすぐに保ちながら肘を曲げ、胸を深く下ろして大胸筋を十分にストレッチさせ、力強く押し上げます。【ポイント】手首の負担を軽減しつつ、通常より深い可動域で大胸筋を刺激します。

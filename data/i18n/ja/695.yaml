@@ -1,9 +1,11 @@
 exercise_id: '695'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: Vバー・ラットプルダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: apeschel
   source_id: '424'
+description: |-
+  開始姿勢: ラットプルダウンマシンにVバートライアングルを取り付けます。手のひらを向かい合わせるニュートラルグリップで握り、マシンに座ります。動作手順: 胸を張りながら、Vバーを胸の上部に向かって引き下げます。肘を体側に引き寄せて広背筋を強く収縮させ、コントロールしながらゆっくりと戻します。ポイント: ニュートラルグリップにより肩への負担を抑えつつ、広背筋を深く収縮させられます。

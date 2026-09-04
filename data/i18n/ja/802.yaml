@@ -1,8 +1,19 @@
 exercise_id: '802'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ウォーキング・バーベルランジ
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1053'
+description: |-
+  開始姿勢:
+  バーベルを僧帽筋上部に担ぎ、胸を張って直立します。
+
+  動作手順:
+  1. 片足を大きく一歩前へ踏み出し、前後の膝が直角になるまで腰を垂直に落とします。
+  2. 前足の踵で地面を押し込んで立ち上がりながら、後ろ足を前方へと連続して踏み出します。
+  3. 左右交互に歩を進めながらスムーズに前進します。
+
+  ポイント:
+  バーベルを担ぐことで体幹のバランス維持が強く要求され、大臀筋と大腿四頭筋を強力に鍛えられます。

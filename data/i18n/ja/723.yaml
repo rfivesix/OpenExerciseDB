@@ -1,9 +1,11 @@
 exercise_id: '723'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ワイドグリップ・ラットプルダウン
 upstream:
   license: CC-BY-SA-3.0
   license_author: tuckerm
   source_id: '204'
+description: |-
+  開始姿勢: ラットプルダウンマシンに座り、肩幅より広いワイドグリップでバーを握ります。胸を張り、肩をすくめず引き下げておきます。動作手順: 肘を外側から斜め後ろに引き下げるようにして、バーを鎖骨の上部まで引き寄せます。肩甲骨を寄せて広背筋を強く収縮させ、抵抗を感じながらゆっくりと元の位置に戻します。ポイント: 背中を丸めず、胸を開いたまま引くことで広背筋と大円筋を効果的に鍛えます。

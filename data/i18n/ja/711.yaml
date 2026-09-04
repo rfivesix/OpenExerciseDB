@@ -1,9 +1,11 @@
 exercise_id: '711'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: 壁倒立 (ウォールハンドスタンド)
 upstream:
   license: CC-BY-SA-4.0
   license_author: Nash
   source_id: '359'
+description: |-
+  【開始姿勢】壁に向かい、両手を床について壁に足を沿わせながら倒立姿勢をとります。【動作手順】腕をまっすぐ伸ばして床を強く押し、体幹とお尻を締めて身体を一直線に保ちます。【ポイント】三角筋と僧帽筋上部でしっかりと身体を支え、呼吸を止めずにキープします。

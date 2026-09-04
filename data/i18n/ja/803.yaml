@@ -1,8 +1,12 @@
 exercise_id: '803'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ワンアーム・ケーブル・トライセプスエクステンション
 upstream:
   license: CC-BY-SA-4.0
   source_id: '1055'
+description: |-
+  開始姿勢：ケーブルマシンの前に立ち、片手でシングルハンドルまたはロープを握ります。
+  動作手順：肘を体側に固定したまま下方向へ腕を伸ばし、上腕三頭筋を力強く収縮させます。
+  ポイント：肩が動かないように固定し、片腕ずつ集中してフルレンジで動作を行います。

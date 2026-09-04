@@ -1,9 +1,13 @@
 exercise_id: '804'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スローパーぶら下がり
 upstream:
   license: CC-BY-SA-4.0
   license_author: marcelbader
   source_id: '1071'
+description: |-
+  開始姿勢：フィンガーボードのスローパーホールドに両手を乗せ、腕を自然に伸ばします。
+  動作手順：足を浮かせてぶら下がり、手根屈筋群と前腕部の摩擦力を使って姿勢を一定時間維持します。
+  ポイント：肩甲骨を軽く引き下げて肩関節を保護し、反動をつけずに静止を保ちます。

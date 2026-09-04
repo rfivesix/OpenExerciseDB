@@ -1,9 +1,11 @@
 exercise_id: '675'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: ケトルベル・ターキッシュゲットアップ
 upstream:
   license: CC-BY-SA-4.0
   license_author: dookie1481
   source_id: '318'
+description: |-
+  【開始姿勢】仰向けになり、片手でケトルベルを天井へまっすぐ押し上げた状態を作ります。【動作手順】ケトルベルから目を離さず腕を垂直に保ったまま、肘・手・膝をつき段階的に立ち上がり、逆の手順で戻ります。【ポイント】三角筋と体幹の安定性を保ち、各動作を正確かつ慎重に行います。

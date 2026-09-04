@@ -1,9 +1,13 @@
 exercise_id: '805'
 language: ja
-status: ai_raw
-translated_from: en
-name: ケーブル・トライセプスプッシュダウン
+status: ai_reviewed
+translated_from: de
+name: ケーブル・ロープ・トライセプスプッシュダウン
 upstream:
   license: CC-BY-SA-4.0
   license_author: cshep442
   source_id: '1073'
+description: |-
+  開始姿勢：ロープをハイプーリーにセットし、背筋を伸ばしてやや前傾姿勢で立ちます。
+  動作手順：脇を締めたままロープを下方へ押し広げ、フィニッシュで上腕三頭筋外側頭を強く収縮させます。
+  ポイント：肘の位置を固定し、戻す動作でも負荷を逃がさずゆっくりとコントロールします。

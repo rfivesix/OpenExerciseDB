@@ -1,9 +1,20 @@
 exercise_id: '632'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: スモウ・スクワット
 upstream:
   license: CC-BY-SA-4.0
   license_author: sophialj
   source_id: '570'
+description: |-
+  開始姿勢:
+  足を肩幅の約1.5倍から2倍に大きく開き、つま先を斜め外側（約45度）に向けて立ちます。胸の前で手を組むか、重りを保持します。
+
+  動作手順:
+  1. 背筋を真っ直ぐ垂直に保ちながら、膝がつま先と同じ方向へ開くように腰を深く落とします。
+  2. 太ももが床と平行になるまでしゃがみ込み、股関節内転筋群とお尻のストレッチを感じます。
+  3. 踵で床を強く押して立ち上がり、トップポジションで大臀筋をしっかり収縮させます。
+
+  ポイント:
+  膝が内側に入らないよう外へ開き続け、骨盤を安定させます。

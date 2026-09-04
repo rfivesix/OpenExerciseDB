@@ -1,9 +1,11 @@
 exercise_id: '694'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: ダンベル・アップライトロー
 upstream:
   license: CC-BY-SA-4.0
   license_author: koreyhinton
   source_id: '311'
+description: |-
+  【開始姿勢】直立して両手にダンベルを持ち、太ももの前に構えます。【動作手順】肘を主導にしてダンベルを身体の近くを通しながら胸の高さまで引き上げます。【ポイント】手首ではなく肘を高く持ち上げる意識を持ち、三角筋中部 (側部)と僧帽筋上部を刺激します。

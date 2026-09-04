@@ -1,9 +1,13 @@
 exercise_id: '636'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
-name: ステップアップ
+name: スーパーマン
 upstream:
   license: CC-BY-SA-4.0
   license_author: baldurmen
   source_id: '330'
+description: |-
+  開始姿勢：マットの上にうつ伏せになり、両腕と両脚をまっすぐに伸ばします。
+  動作手順：脊柱起立筋と大臀筋を収縮させ、胸と太ももを同時に床から持ち上げて数秒間キープします。
+  ポイント：首を過度に反らさず目線を斜め下に向け、ゆっくりとコントロールして下ろします。

@@ -1,9 +1,13 @@
 exercise_id: '623'
 language: ja
-status: ai_raw
-translated_from: en
+status: ai_reviewed
+translated_from: de
 name: リストローラー (前腕巻き上げ)
 upstream:
   license: CC-BY-SA-4.0
   license_author: pwiltrout
   source_id: '382'
+description: |-
+  開始姿勢：直立して両手でリストローラーのバーを持ち、肩の高さで腕を前に伸ばします。
+  動作手順：手首を交互に反らせて巻き上げ、重りを引き上げてから逆回転でゆっくり下ろします。
+  ポイント：前腕部と手根伸筋群・手根屈筋群の持久力を意識し、腕の高さを保って行います。

@@ -1,9 +1,11 @@
 exercise_id: '687'
 language: ja
-status: ai_raw
+status: ai_reviewed
 translated_from: en
 name: オーバーヘッドプレス
 upstream:
   license: CC-BY-SA-4.0
   license_author: Vazco
   source_id: '1069'
+description: |-
+  【開始姿勢】ラックからバーベルを鎖骨の高さで構え、足を腰幅に開いて立ちます。【動作手順】体幹とお尻を引き締め、顔をわずかに後ろに引きながらバーベルを頭上へ垂直に押し上げます。【ポイント】バーが頭上を通過したら頭を前方に戻し、三角筋前部で支えます。
