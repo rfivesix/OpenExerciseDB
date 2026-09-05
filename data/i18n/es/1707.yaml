@@ -3,7 +3,7 @@ language: es
 status: ai_reviewed
 name: Elevación lateral en polea
 description: |-
-  elevaciones laterales realizadas unilateralmente en polea
+  Colócate de pie de lado a la polea baja, sosteniendo el agarre con la mano contraria. Manteniendo una ligera flexión en el codo, eleva el brazo lateralmente hasta la altura del hombro y desciende de forma controlada.
 search_terms:
   - Elevacion lateral polea
 upstream:

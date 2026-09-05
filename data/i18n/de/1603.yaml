@@ -4,7 +4,8 @@ language: de
 status: ai_reviewed
 translated_from: en
 name: Beinbeugen mit Widerstandsband
-description: 'Stehend: Lege das Band mittig unter deine Füße und greife es im Hammergriff.'
+description: |-
+  Lege dich auf den Bauch, fixiere ein Widerstandsband an einem tiefen Punkt und lege es um deinen Knöchel. Beuge das Knie, um deine Ferse gegen den Widerstand des Bandes zum Gesäß zu ziehen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

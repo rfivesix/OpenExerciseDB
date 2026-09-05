@@ -8,7 +8,7 @@ language: en
 status: ai_reviewed
 name: Leg curl with elastic
 description: |-
-  Standing position: Place the band under your feet in the middle of your foot and grasp it with a hammer grip.
+  Lying on your stomach with a resistance band anchored to a low point and looped around your ankle, bend your knee to curl your heel toward your glutes against the band.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

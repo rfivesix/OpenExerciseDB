@@ -2,7 +2,8 @@ exercise_id: '132'
 language: de
 status: ai_reviewed
 name: Burpees
-description: Spring, leg dich auf deine Brust, mach einen Liegestütz und spring, wiederhole
+description: |-
+  Aus dem aufrechten Stand in die Hocke gehen, Hände auf den Boden setzen, Beine nach hinten in die Liegestützposition springen, eine Liegestütze ausführen, mit den Füßen wieder nach vorne springen und mit einem Strecksprung aufrichten. Wiederholen.
 upstream:
   license: CC-BY-SA-4.0
   license_author: er0355

@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1603'
 language: it
-status: upstream_unreviewed
+status: ai_reviewed
 name: Leg curl con elastico
 description: |-
-  In posizione eretta: posiziona l'elastico sotto i piedi a centro piede e afferralo con presa a martello.
+  Sdraiati a pancia in giù, fissa un elastico a un punto basso e attorno alla caviglia. Fletti il ginocchio per portare il tallone verso i glutei contro la resistenza dell'elastico.
 upstream:
   license: CC-BY-SA-4.0
   license_author: clafal

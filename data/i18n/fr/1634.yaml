@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1634'
 language: fr
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pullover/rowing à la corde
 description: |-
-  Installez un banc devant la machine de tirage à la poulie basse. Penchez-vous au-dessus du banc pour effectuer un rowing/pullover à la corde qui cible le grand dorsal. Voir l'image.
+  Installez un banc incliné devant une poulie basse munie d'une corde. Penchez-vous sur le dossier du banc, initiez le mouvement bras tendus en arc de cercle comme un pullover, puis terminez par un tirage rowing en amenant les coudes vers l'arrière pour contracter pleinement le grand dorsal.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

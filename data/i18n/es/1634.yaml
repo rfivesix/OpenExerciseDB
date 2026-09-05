@@ -5,10 +5,10 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1634'
 language: es
-status: upstream_unreviewed
+status: ai_reviewed
 name: Pullover/remo con cuerda
 description: |-
-  Coloca un banco delante de la máquina de remo con polea. Inclínate sobre el banco para hacer un remo/pullover con la cuerda que trabaja los dorsales. Mira la imagen.
+  Coloca un banco inclinado delante de una polea baja con cuerda. Inclínate sobre el respaldo del banco, inicia el movimiento con los brazos extendidos en arco como un pullover y finaliza con un remo llevando los codos hacia atrás para contraer al máximo los dorsales.
 upstream:
   license: CC-BY-SA-4.0
   license_author: wger.de

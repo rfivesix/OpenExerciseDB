@@ -8,7 +8,8 @@ exercise_id: '283'
 language: en
 status: ai_reviewed
 name: Hanging Leg Raise
-description: Hanging from bar or straps, bring legs up with knees extended or flexed
+description: |-
+  Hang from a pull-up bar with an overhand grip, arms straight. Keeping your core tight, raise your legs until they are parallel to the floor (or higher) with knees straight or slightly flexed, then lower them slowly under control.
 upstream:
   license: CC-BY-SA-3.0
   license_author: robhoyt
