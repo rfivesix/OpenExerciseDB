@@ -60,15 +60,18 @@ def display_name(author: str) -> str:
     return match.group("local") if match else author
 
 
-def collect(data: dataset_mod.Dataset) -> tuple[Counter, Counter, dict[str, Counter]]:
+def collect(data: dataset_mod.Dataset) -> tuple[Counter, Counter, dict[str, Counter], dict[str, int]]:
     """Autoren zaehlen, getrennt nach Uebungen und Texten.
 
     Getrennt, weil es zwei verschiedene Beitraege sind: wer eine Uebung angelegt
     hat, und wer sie in eine Sprache uebersetzt hat. Beide sind zu nennen.
+    Zusaetzlich wird gezaehlt, wie viele Texte als `ai_authored` von Grund auf
+    neu geschrieben wurden.
     """
     authors: Counter = Counter()
     licenses: Counter = Counter()
     per_language: dict[str, Counter] = {}
+    authored_per_lang: dict[str, int] = {}
 
     for exercise in data.exercises.values():
         upstream = exercise.upstream or {}
@@ -81,6 +84,8 @@ def collect(data: dataset_mod.Dataset) -> tuple[Counter, Counter, dict[str, Coun
     for language, bucket in data.translations.items():
         counter = per_language.setdefault(language, Counter())
         for translation in bucket.values():
+            if translation.data.get("status") == "ai_authored":
+                authored_per_lang[language] = authored_per_lang.get(language, 0) + 1
             upstream = translation.upstream or {}
             if not upstream:
                 continue
@@ -90,14 +95,15 @@ def collect(data: dataset_mod.Dataset) -> tuple[Counter, Counter, dict[str, Coun
             if upstream.get("license"):
                 licenses[str(upstream["license"])] += 1
 
-    return authors, licenses, per_language
+    return authors, licenses, per_language, authored_per_lang
 
 
 def render(data: dataset_mod.Dataset) -> str:
-    authors, licenses, per_language = collect(data)
+    authors, licenses, per_language, authored_per_lang = collect(data)
     named = {name: count for name, count in authors.items() if name}
     anonymous = authors.get("", 0)
     total_records = sum(authors.values())
+    total_authored = sum(authored_per_lang.values())
 
     lines: list[str] = []
     lines.append("")
@@ -108,6 +114,12 @@ def render(data: dataset_mod.Dataset) -> str:
         f"**{people_count} distinct upstream authors** are credited. "
         f"{anonymous} of {total_records} records carry no author upstream."
     )
+    if total_authored > 0:
+        lines.append(
+            f"Additionally, **{total_authored} descriptions** have been newly authored (`status: ai_authored`) "
+            f"where upstream descriptions were missing, placeholder-only, or fundamentally rewritten. "
+            f"Upstream attribution is preserved for exercise provenance."
+        )
     lines.append("")
 
     lines.append("### Original licenses")
@@ -120,12 +132,13 @@ def render(data: dataset_mod.Dataset) -> str:
 
     lines.append("### Languages")
     lines.append("")
-    lines.append("| Language | Translations | Distinct authors |")
-    lines.append("|---|---|---|")
+    lines.append("| Language | Translations | Distinct authors | AI-authored |")
+    lines.append("|---|---|---|---|")
     for language in sorted(per_language):
         counter = per_language[language]
         distinct = len([name for name in counter if name])
-        lines.append(f"| `{language}` | {sum(counter.values())} | {distinct} |")
+        ai_cnt = authored_per_lang.get(language, 0)
+        lines.append(f"| `{language}` | {sum(counter.values())} | {distinct} | {ai_cnt} |")
     lines.append("")
 
     # Vier "Autoren" sind in Wahrheit Quellenangaben — Links auf die Seite, von
@@ -221,7 +234,7 @@ def main() -> int:
         return 0
 
     ATTRIBUTION_FILE.write_text(updated, encoding="utf-8")
-    authors, _, _ = collect(data)
+    authors, _, _, _ = collect(data)
     people = {display_name(a) for a in authors if a and not URL.match(a)}
     print(f"ATTRIBUTION.md geschrieben: {len(people)} Beitragende genannt.")
     return 0

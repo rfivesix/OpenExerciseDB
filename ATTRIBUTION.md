@@ -25,6 +25,7 @@ as a whole.
 
 <!-- BEGIN GENERATED LIST -->
 Across 909 exercises and 5546 translations, **249 distinct upstream authors** are credited. 937 of 6455 records carry no author upstream.
+Additionally, **1119 descriptions** have been newly authored (`status: ai_authored`) where upstream descriptions were missing, placeholder-only, or fundamentally rewritten. Upstream attribution is preserved for exercise provenance.
 
 ### Original licenses
 
@@ -36,31 +37,31 @@ Across 909 exercises and 5546 translations, **249 distinct upstream authors** ar
 
 ### Languages
 
-| Language | Translations | Distinct authors |
-|---|---|---|
-| `ar` | 48 | 11 |
-| `az` | 1 | 1 |
-| `cs` | 51 | 15 |
-| `de` | 908 | 140 |
-| `el` | 48 | 11 |
-| `en` | 909 | 240 |
-| `eo` | 2 | 0 |
-| `es` | 656 | 35 |
-| `fa` | 3 | 2 |
-| `fr` | 870 | 116 |
-| `he` | 22 | 7 |
-| `hr` | 31 | 8 |
-| `id` | 48 | 11 |
-| `it` | 868 | 239 |
-| `ja` | 868 | 241 |
-| `nl` | 49 | 12 |
-| `pl` | 4 | 2 |
-| `pt` | 66 | 18 |
-| `ru` | 10 | 6 |
-| `sv` | 3 | 2 |
-| `tr` | 31 | 10 |
-| `uk` | 2 | 1 |
-| `zh` | 48 | 11 |
+| Language | Translations | Distinct authors | AI-authored |
+|---|---|---|---|
+| `ar` | 48 | 11 | 1 |
+| `az` | 1 | 1 | 0 |
+| `cs` | 51 | 15 | 7 |
+| `de` | 908 | 140 | 289 |
+| `el` | 48 | 11 | 0 |
+| `en` | 909 | 240 | 360 |
+| `eo` | 2 | 0 | 0 |
+| `es` | 656 | 35 | 89 |
+| `fa` | 3 | 2 | 0 |
+| `fr` | 870 | 116 | 162 |
+| `he` | 22 | 7 | 3 |
+| `hr` | 31 | 8 | 5 |
+| `id` | 48 | 11 | 1 |
+| `it` | 868 | 239 | 171 |
+| `ja` | 868 | 241 | 20 |
+| `nl` | 49 | 12 | 1 |
+| `pl` | 4 | 2 | 0 |
+| `pt` | 66 | 18 | 1 |
+| `ru` | 10 | 6 | 2 |
+| `sv` | 3 | 2 | 0 |
+| `tr` | 31 | 10 | 3 |
+| `uk` | 2 | 1 | 0 |
+| `zh` | 48 | 11 | 4 |
 
 ### Contributors
 
