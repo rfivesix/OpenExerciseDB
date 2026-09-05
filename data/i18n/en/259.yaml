@@ -6,7 +6,7 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '259'
 language: en
-status: ai_reviewed
+status: ai_authored
 name: Front Pull narrow
 upstream:
   license: CC-BY-SA-3.0

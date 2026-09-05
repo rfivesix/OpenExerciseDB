@@ -5,7 +5,7 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1800'
 language: en
-status: ai_reviewed
+status: ai_authored
 name: Incline Bench Press (Steep, Slow)
 description: Barbell incline bench press performed slowly with controlled tempo on a steep incline to maximize upper pectoral tension.
 search_terms:

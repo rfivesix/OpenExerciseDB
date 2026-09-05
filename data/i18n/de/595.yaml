@@ -6,7 +6,7 @@
 # AI generation provenance: GPT-5, 2026-09-04.
 exercise_id: '595'
 language: de
-status: ai_reviewed
+status: ai_authored
 name: Seilspringen
 description: |-
   Führe für jeden Seilschwung einen Sprung mit beiden Füßen aus.

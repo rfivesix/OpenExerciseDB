@@ -5,7 +5,7 @@
 # Uebungsdatei fuer den Vermerk.
 exercise_id: '1500'
 language: en
-status: upstream_unreviewed
+status: ai_authored
 name: DB UCV
 description: |-
   Dumbbell upper chest variance. Curl like movement up above at head level, activating chest and front delts

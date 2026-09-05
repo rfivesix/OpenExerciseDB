@@ -6,7 +6,7 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '367'
 language: en
-status: ai_reviewed
+status: ai_authored
 name: Leg Curls (standing)
 upstream:
   license: CC-BY-SA-3.0

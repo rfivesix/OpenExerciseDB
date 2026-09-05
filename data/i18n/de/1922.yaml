@@ -6,7 +6,7 @@
 # AI review provenance: GPT-5, 2026-09-03.
 exercise_id: '1922'
 language: de
-status: ai_reviewed
+status: ai_authored
 name: Kabelzug-Flyes im Sitzen
 description: |-
   Stelle eine Bank zwischen zwei Kabeltürme und stelle die Seilrollen so ein, dass sie sich im Sitzen auf Brust- bzw. Schulterhöhe befinden.

@@ -6,7 +6,7 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '346'
 language: en
-status: ai_reviewed
+status: ai_authored
 name: Landmine press
 upstream:
   license: CC-BY-SA-4.0
