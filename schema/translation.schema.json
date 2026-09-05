@@ -24,11 +24,12 @@
     "status": {
       "enum": [
         "human",
+        "ai_authored",
         "ai_reviewed",
         "ai_raw",
         "upstream_unreviewed"
       ],
-      "description": "Auf Dokumentebene, nicht pro Feld - Texte werden als Ganzes uebersetzt und geprueft. `upstream_unreviewed` ist der Zustand nach dem Import: von Menschen geschrieben, aber von diesem Projekt nie abgenommen, und bei 511 Eintraegen ohne jede Autorenangabe. `human` bedeutet ausdruecklich, dass jemand hier hingesehen hat - die beiden zu vermischen ist genau die Sorte Information, die sich spaeter nicht mehr rekonstruieren laesst."
+      "description": "Auf Dokumentebene, nicht pro Feld - Texte werden als Ganzes uebersetzt und geprueft. `upstream_unreviewed` ist der Zustand nach dem Import: von Menschen geschrieben, aber von diesem Projekt nie abgenommen, und bei 511 Eintraegen ohne jede Autorenangabe. `human` bedeutet ausdruecklich, dass jemand hier hingesehen hat. `ai_reviewed` bedeutet durchgesehen und ggf. korrigiert. `ai_authored` kennzeichnet von Grund auf neu verfasste oder gegenueber der Quelle vollstaendig neugeschriebene Texte."
     },
     "translated_from": {
       "type": "string"
