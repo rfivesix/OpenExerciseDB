@@ -1,6 +1,11 @@
-# Build- und Importwerkzeuge. Die Daten selbst brauchen nichts davon.
+# Build and validation dependencies. The raw data files require none of these.
 PyYAML>=6.0
 jsonschema>=4.21
 
-# Nur fuer import/fetch_wger_snapshot.py — der einzige Schritt, der ins Netz geht.
+# Testing framework
+pytest>=7.0
+pytest-timeout>=2.1
+
+# Only needed for import/fetch_wger_snapshot.py — the sole step accessing the network.
 requests>=2.31
+
