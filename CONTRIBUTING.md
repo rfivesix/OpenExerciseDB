@@ -40,16 +40,17 @@ need to know which is which.
 ```bash
 pip install -r requirements.txt
 python3 build/validate.py
+pytest test
+python3 build/build_db.py
 ```
 
-That runs the invariants in [schema/invariants.md](schema/invariants.md) against
-your working copy — the same gate CI uses.
+`build/validate.py` runs the invariants in [schema/invariants.md](schema/invariants.md)
+against your working copy — the same gate CI uses.
 
 Two profiles exist. `--profile phase1` is the default and the one CI enforces:
-structure and vocabulary are strict, while the content rules apply only where a
-field is actually filled in. `--profile full` turns everything on and shows the
-work that is still outstanding; it is expected to report errors until phase 2 is
-finished, so do not treat its output as a failure.
+structure and vocabulary are strict, while the content rules apply to all active exercises.
+`--profile full` enforces all fields unconditionally across every historical record
+(including deprecated and merged entries).
 
 If you add a field to an exercise, the rules for that field start applying to it
 immediately. That is deliberate: partial data is welcome, wrong data is not.

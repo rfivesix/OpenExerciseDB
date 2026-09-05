@@ -1,7 +1,7 @@
 # Exercise Naming Conventions (NAMING.md)
 
 This document establishes the official English naming conventions for exercises in OpenExerciseDB.
-These rules are derived from the majority patterns observed across the 869 active exercises in the corpus, standardizing inconsistent and conflicting entries.
+These rules are derived from the majority patterns observed across the 868 active exercises in the corpus, standardizing inconsistent and conflicting entries.
 
 ---
 
@@ -9,7 +9,7 @@ These rules are derived from the majority patterns observed across the 869 activ
 
 1. **Clarity & Predictability**: A lifter or developer searching the catalog should immediately predict how an exercise is named.
 2. **Grammar & Word Order**: English standard descriptive modifier order: `[Equipment / Setup] [Position / Modifier] [Movement]`. Inverted catalog commas (e.g. `"Shrugs, Barbells"`) are prohibited.
-3. **Immutability of Identifiers**: `id` and `slug` **never change**, even when an English name is standardized or cleaned up (HANDOVER.md §2).
+3. **Immutability of Identifiers**: `id` and `slug` **never change**, even when an English name is standardized or cleaned up ([SCHEMA.md §3](SCHEMA.md#3-the-id-contract--the-non-negotiable-foundation)).
 
 ---
 

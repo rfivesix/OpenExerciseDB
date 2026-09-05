@@ -22,13 +22,14 @@ The full legal code is in [`LICENSE-CC-BY-SA-4.0.txt`](LICENSE-CC-BY-SA-4.0.txt)
 
 ## Code — MIT
 
-Everything under `build/`, `import/`, `schema/`, and `.github/` — the pipeline
-that turns the source files into a database — is licensed under the
+Everything under `build/`, `import/`, `oedb/`, `test/`, `web/`, `schema/`, and `.github/` — the
+tooling, testing suites, schemas, and pipeline that validate source files and generate the
+database — is original work and is licensed under the
 **MIT License**, see [`LICENSE-MIT.txt`](LICENSE-MIT.txt).
 
 The tooling is separate from the data on purpose: a permissive license lets
-other projects reuse the build pipeline without inheriting ShareAlike
-obligations on their own code.
+other projects reuse the build pipeline and library modules without inheriting ShareAlike
+obligations on their own software.
 
 ---
 

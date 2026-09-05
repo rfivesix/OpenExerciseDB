@@ -5,11 +5,11 @@ An open, structured, machine-readable strength-training exercise database.
 Every exercise is a plain text file you can read, diff, and send a pull request
 against. Every release ships a single SQLite file you can drop into an app.
 
-> **Status: pre-release.** The import and the classification work are done: all
-> 868 active exercises carry a full set of attributes, and English and German
-> text is complete. French, Italian and Japanese descriptions are still being
-> derived. There is no published release yet. See [Where it stands](#where-it-stands)
-> and [Roadmap](#roadmap).
+> **Status: initial release.** The database is published and ready for use.
+> All 868 active exercises carry a full set of attributes and complete text
+> in English, German, French, Italian, and Japanese. Releases are published
+> to the [`catalog-stable`](https://github.com/rfivesix/OpenExerciseDB/releases/tag/catalog-stable)
+> channel. See [Where it stands](#where-it-stands) and [Roadmap](#roadmap).
 
 ---
 
@@ -194,18 +194,15 @@ reports/                      Generated review reports: outliers, name changes, 
 |---|---|---|
 | English | 868 | 868 |
 | German | 868 | 868 |
-| French | 855 | 566 |
-| Italian | 819 | 142 |
-| Japanese | 807 | 0 |
+| French | 868 | 868 |
+| Italian | 868 | 868 |
+| Japanese | 868 | 868 |
 | Spanish | 644 | 644 |
 
-English and German are curated: every entry was read in both languages
-together and checked against the exercise's own attributes. The remaining
-description gaps are derived from those two in a later round — never from an
-unverified source, because one wrong description would otherwise become four.
-
-Sixteen further languages carry partial upstream text. They are shipped as they
-are and marked accordingly; none of them is claimed to be complete.
+English, German, French, Italian, and Japanese are complete across all 868
+active exercises. Spanish covers 644 active exercises. Seventeen further
+languages carry partial upstream text (23 languages total). They are shipped as
+they are and marked accordingly; none of them is claimed to be complete.
 
 ## Building it yourself
 
@@ -264,11 +261,12 @@ Do not edit `id` or `slug` — see [SCHEMA.md §3](SCHEMA.md) for why.
 - [x] **Phase 2 — English and German text.** Names standardised, every
       description read in both languages against the attributes, contradictions
       between the two resolved or recorded.
-- [ ] **Phase 2 — Derived languages.** French, Italian and Japanese
-      descriptions from the curated English and German.
-- [ ] **Phase 3 — Schema v2 in the consuming app.** The new tables, the alias
+- [x] **Phase 2 — Derived languages.** French, Italian, and Japanese
+      descriptions completed from curated English and German sources.
+- [x] **Phase 3 — Schema v2 in the consuming app.** The new tables, the alias
       mechanism, and the `schema_version` guard.
-- [ ] **Phase 4 — First public release.**
+- [x] **Phase 4 — Initial public release.** First release published to
+      `catalog-stable`.
 
 ## License
 
