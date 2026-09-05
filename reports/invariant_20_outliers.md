@@ -1,157 +1,156 @@
-# Ausreißer-Bericht: Invariante 20 (movement_pattern <-> primary_muscle_group)
+# Outlier Report: Invariant 20 (movement_pattern <-> primary_muscle_group)
 
-## 1. Methodik & Rohdaten-Messung
+## 1. Methodology & Raw Data Measurement
 
-1. **Statistische Roh-Ableitung**:
-   Die Erwartungstabelle wurde zunächst streng aus den **819 Nicht-Golden-Übungen** abgeleitet (Mindesthäufigkeit $\ge 5\ \%$, Mindestanzahl $\ge 2$ Vorkommen je Muster).
-2. **Gegenprüfung am Golden Set (50 handgeprüfte Referenz-Einträge)**:
-   - Gegen die unkorrigierte Roh-Häufigkeitstabelle fielen **6 von 50 Golden-Set-Übungen durch**.
-   - **Gemessene Fehlalarmquote der Rohstatistik: 12,0 %** (6 / 50).
-   - Alle 6 Golden-Set-Fälle (`1100 Wall-Balls`, `1116 Farmer's Carry`, `1523 Sled Push`, `1684 Thruster`, `423 Muscle-Up`, `500 Reverse Plank`) sind fachlich **vollkommen korrekt annotiert**.
-3. **Explizite Golden-Set-Ergänzungen**:
-   - Um Verzerrungen zu vermeiden (z. B. dass Sled Push stillschweigend Quads/Glutes für 91 normale Bankdrück-Übungen legitimiert), wurden die legitimen Muskelgruppen dieser 6 Fälle **explizit je Muster mit anatomischer Begründung** in `vocab/pattern_muscle_expectations.yaml` nachgetragen.
-4. **Ausnahmen von Invariante 20**:
-   - **`movement_pattern: other`** (73 aktive Übungen) ist ausdrücklich **von Invariante 20 ausgenommen**, da `other` definitionsgemäß keine Richtungs- oder Muskelbindung besitzt.
-5. **Semantik bei Dehnübungen (`SCHEMA.md §5`)**:
-   - Bei Dehnübungen (`modality: stretch`) bezeichnet `role: primary` die Zielmuskelgruppe, die **gedehnt** wird (z. B. `hamstrings` beim Sit & Reach oder `abs` beim Cobra Stretch), nicht den kontrahierenden Antagonisten. Viele scheinbare Ausreißer lösen sich dadurch als sachlich vollkommen korrekt auf.
+1. **Statistical Raw Derivation**:
+   The expectation table was initially derived strictly from the **818 non-golden exercises** (minimum frequency $\ge 5\ \%$, minimum count $\ge 2$ occurrences per pattern).
+2. **Cross-Validation Against the Golden Set (50 hand-verified reference entries)**:
+   - Against the unadjusted raw frequency table, **6 of 50 Golden Set exercises failed**.
+   - **Measured false-alarm rate of the raw statistics: 12.0 %** (6 / 50).
+   - All 6 Golden Set cases (`1100 Wall-Balls`, `1116 Farmer's Carry`, `1523 Sled Push`, `1684 Thruster`, `423 Muscle-Up`, `500 Reverse Plank`) are domain-wise **completely correctly annotated**.
+3. **Explicit Golden Set Additions**:
+   - To prevent distortion (e.g. Sled Push silently legitimizing quads/glutes for 91 regular bench press exercises), the legitimate muscle groups of these 6 cases were added **explicitly per pattern with anatomical rationale** in `vocab/pattern_muscle_expectations.yaml`.
+4. **Exemptions from Invariant 20**:
+   - **`movement_pattern: other`** (73 active exercises) is explicitly **exempt from Invariant 20**, as `other` by definition carries no directional or muscle-bound constraint.
+5. **Semantics for Stretches (`SCHEMA.md §5`)**:
+   - For stretches (`modality: stretch`), `role: primary` denotes the target muscle group being **stretched** (e.g. `hamstrings` in Sit & Reach or `abs` in Cobra Stretch), not the contracting antagonist. Many apparent outliers resolve naturally as completely factually accurate under this definition.
 
 ---
 
-## 2. Übersicht der verbleibenden 36 Ausreißer
+## 2. Overview of the Remaining 36 Outliers
 
-Im aktiven Gesamtbestand (869 Übungen) lösen genau **36 Übungen** (~4,1 % des Bestands) eine weiche Warnung (Invariante 20) aus. Keine dieser 36 Übungen wurde automatisch manipuliert.
+Across the total active inventory (868 exercises), exactly **36 exercises** (~4.1% of the catalog) trigger a soft warning (Invariant 20). None of these 36 exercises were artificially manipulated.
 
-Hier sind alle 36 Fälle, gruppiert nach Bewegungsmuster, mit konkreter fachlicher Einschätzung:
+Here are all 36 cases, grouped by movement pattern, with specific domain assessments:
 
+### Pattern `anti_extension` (4 outliers)
+*Expected muscle groups per table:* `abs, back, triceps`
 
-### Muster `anti_extension` (4 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `abs, back, triceps`
-
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1010` | [Back neck stretch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1010.yaml) | Nackendehnung | **neck** | `neck_extensors, traps_upper` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (neck) bei Gelenkstellung `anti_extension` (gemäß SCHEMA §5). |
-| `1238` | [Frog stand](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1238.yaml) | Froschstand | **shoulders** | `deltoid, triceps_brachii` | **Turnen/Calisthenics**: Isometrische Haltekraft auf shoulders zur Körperspannung. |
-| `1410` | [Plank with Alternating Leg Lift](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1410.yaml) | - | **glutes** | `rectus_abdominis, gluteus_maximus` | **Dynamische Plank**: Beinanheben aktiviert Gluteus maximus als zusätzliche Primärkomponente. |
-| `1911` | [Cat Plank](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1911.yaml) | Katzen-Plank | **quads** | `rectus_abdominis, quadriceps` | **Mögliche Fehlannotation**: Quadrizeps als Primärmuskel bei Plank ungewöhnlich (prüfen ob Core primär). |
+| `1010` | [Back Neck Stretch](../data/exercises/1010.yaml) | Nackendehnung (hinten) | **neck** | `neck_extensors, traps_upper` | **Legitimate stretch**: Stretches anatomical counterpart (neck) under joint angle `anti_extension` (per SCHEMA §5). |
+| `1238` | [Frog Stand](../data/exercises/1238.yaml) | Froschstand (Frog Stand) | **shoulders** | `deltoid, triceps_brachii` | **Gymnastics / Calisthenics**: Isometric tension on shoulders for body tension. |
+| `1410` | [Plank with Alternating Leg Lift](../data/exercises/1410.yaml) | Plank mit alternierendem Beinheben | **glutes** | `rectus_abdominis, gluteus_maximus` | **Dynamic plank**: Leg lift activates gluteus maximus as additional primary component. |
+| `1911` | [Cat Plank](../data/exercises/1911.yaml) | Katzen-Plank | **quads** | `rectus_abdominis, quadriceps` | **Possible misannotation**: Quadriceps as primary muscle in plank is unusual (check if core is primary). |
 
-### Muster `anti_flexion` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `glutes, lower_back`
+### Pattern `anti_flexion` (1 outliers)
+*Expected muscle groups per table:* `glutes, lower_back`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1742` | [Back Lever](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1742.yaml) | - | **back** | `latissimus_dorsi, erector_spinae` | **Turnen/Calisthenics**: Isometrische Haltekraft auf back zur Körperspannung. |
+| `1742` | [Back Lever](../data/exercises/1742.yaml) | Rückhangwaage (Back Lever) | **back** | `latissimus_dorsi, erector_spinae` | **Gymnastics / Calisthenics**: Isometric tension on back for body tension. |
 
-### Muster `elbow_flexion` (2 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `biceps, forearms`
+### Pattern `elbow_flexion` (2 outliers)
+*Expected muscle groups per table:* `biceps, forearms`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1230` | [Triceps stretch left](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1230.yaml) | Trizepsdehnung links | **triceps** | `triceps_brachii` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (triceps) bei Gelenkstellung `elbow_flexion` (gemäß SCHEMA §5). |
-| `1231` | [Triceps stretch right](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1231.yaml) | Trizepsdehnung rechts | **triceps** | `triceps_brachii` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (triceps) bei Gelenkstellung `elbow_flexion` (gemäß SCHEMA §5). |
+| `1230` | [Overhead Triceps Stretch (Left)](../data/exercises/1230.yaml) | Trizepsdehnung links | **triceps** | `triceps_brachii` | **Legitimate stretch**: Stretches anatomical counterpart (triceps) under joint angle `elbow_flexion` (per SCHEMA §5). |
+| `1231` | [Overhead Triceps Stretch (Right)](../data/exercises/1231.yaml) | Trizepsdehnung rechts | **triceps** | `triceps_brachii` | **Legitimate stretch**: Stretches anatomical counterpart (triceps) under joint angle `elbow_flexion` (per SCHEMA §5). |
 
-### Muster `gait` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `abs, back, calves, glutes, quads, shoulders`
+### Pattern `gait` (1 outliers)
+*Expected muscle groups per table:* `abs, back, calves, glutes, quads, shoulders`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1285` | [Talons fesses](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1285.yaml) | - | **hamstrings** | `hamstring_complex, calves` | **Lauf-Drill**: Butt Kicks (Fersenanschlag ans Gesäß); Beinbeuger kontrahieren aktiv bei der Kniebeugung. |
+| `1285` | [Butt Kicks](../data/exercises/1285.yaml) | Anfersen | **hamstrings** | `hamstring_complex, calves` | **Running drill**: Butt Kicks (heels to buttocks); hamstrings contract actively during knee flexion. |
 
-### Muster `hinge` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `adductors, glutes, hamstrings, lower_back, quads`
+### Pattern `hinge` (1 outliers)
+*Expected muscle groups per table:* `adductors, glutes, hamstrings, lower_back, quads`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1947` | [dumbbell snatch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1947.yaml) | Kurzhantel-Reißen (Dumbbell Snatch) | **shoulders** | `gluteus_maximus, hamstring_complex, deltoid` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; shoulders liefert Kraftkomponente der Teilbewegung. |
+| `1947` | [Dumbbell Snatch](../data/exercises/1947.yaml) | Kurzhantel-Reißen (Dumbbell Snatch) | **shoulders** | `gluteus_maximus, hamstring_complex, deltoid` | **Legitimate hybrid**: Multi-joint / full-body movement; shoulders provides force component for sub-movement. |
 
-### Muster `hip_adduction` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `adductors`
+### Pattern `hip_adduction` (1 outliers)
+*Expected muscle groups per table:* `adductors`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `2493` | [Adductor Side Plank](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/2493.yaml) | Adductor side plank | **abs** | `hip_adductors, obliques` | **Prüffall**: Primärmuskel abs bei `hip_adduction` ungewöhnlich; prüfen ob Sekundärmuskel genügt. |
+| `2493` | [Adductor Side Plank (Copenhagen Plank)](../data/exercises/2493.yaml) | Adduktoren-Seitstütz (Copenhagen Plank) | **abs** | `hip_adductors, obliques` | **Case for review**: Primary muscle abs in `hip_adduction` is unusual; check if secondary muscle suffices. |
 
-### Muster `horizontal_pull` (2 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `abs, back, biceps, shoulders`
+### Pattern `horizontal_pull` (2 outliers)
+*Expected muscle groups per table:* `abs, back, biceps, shoulders`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1093` | [Rowing Machine](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1093.yaml) | Rudergerät | **calves, glutes, quads** | `quadriceps, latissimus_dorsi, gluteus_maximus, calves` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; calves, glutes, quads liefert Kraftkomponente der Teilbewegung. |
-| `1905` | [Pullback](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1905.yaml) | Pullback | **lower_back** | `latissimus_dorsi, erector_spinae` | **Prüfen**: Pullback mit unterem Rücken als Primärmuskel (prüfen ob oberer Rücken/Lats gemeint sind). |
+| `1093` | [Indoor Rowing Machine](../data/exercises/1093.yaml) | Rudergerät (Indoor-Ruderergometer) | **calves, glutes, quads** | `quadriceps, latissimus_dorsi, gluteus_maximus, calves` | **Legitimate hybrid**: Multi-joint / full-body movement; calves, glutes, quads provides force component for sub-movement. |
+| `1905` | [Cable Pullback with Back Extension](../data/exercises/1905.yaml) | Pullback am Kabelzug | **lower_back** | `latissimus_dorsi, erector_spinae` | **Review required**: Pullback with lower back as primary muscle (check if upper back/lats intended). |
 
-### Muster `horizontal_push` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `chest, glutes, quads, shoulders, triceps`
+### Pattern `horizontal_push` (1 outliers)
+*Expected muscle groups per table:* `chest, glutes, quads, shoulders, triceps`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1217` | [Finger Pushup](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1217.yaml) | Fingerliegestütz | **forearms** | `pectoralis_major, wrist_flexors` | **Legitime Ausnahme**: Liegestütz auf Fingern; Unterarm-Beugesehnen tragen extreme Haltekraft. |
+| `1217` | [Finger Push-Up](../data/exercises/1217.yaml) | Finger-Liegestütze | **forearms** | `pectoralis_major, wrist_flexors` | **Legitimate exception**: Push-up on fingers; forearm flexor tendons bear extreme holding force. |
 
-### Muster `knee_extension` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `quads`
+### Pattern `knee_extension` (1 outliers)
+*Expected muscle groups per table:* `quads`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1398` | [Hamstring Chokes](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1398.yaml) | Hamstring Chokes | **hamstrings** | `hamstring_complex` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (hamstrings) bei Gelenkstellung `knee_extension` (gemäß SCHEMA §5). |
+| `1398` | [Seated Hamstring Choke Stretch](../data/exercises/1398.yaml) | Hamstring Chokes (Aktive Kniebeugerdehnung) | **hamstrings** | `hamstring_complex` | **Legitimate stretch**: Stretches anatomical counterpart (hamstrings) under joint angle `knee_extension` (per SCHEMA §5). |
 
-### Muster `lunge` (1 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `glutes, quads`
+### Pattern `lunge` (1 outliers)
+*Expected muscle groups per table:* `glutes, quads`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `2526` | [Long Lunge Pulse Stretch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/2526.yaml) | - | **abs** | `hip_flexors, gluteus_maximus` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (abs) bei Gelenkstellung `lunge` (gemäß SCHEMA §5). |
+| `2526` | [Long Lunge Pulse Stretch](../data/exercises/2526.yaml) | Tiefer Ausfallschritt mit Federn | **abs** | `hip_flexors, gluteus_maximus` | **Legitimate stretch**: Stretches anatomical counterpart (abs) under joint angle `lunge` (per SCHEMA §5). |
 
-### Muster `rotation` (4 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `abs, back, glutes, neck, shoulders`
+### Pattern `rotation` (4 outliers)
+*Expected muscle groups per table:* `abs, back, glutes, neck, shoulders`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1207` | [Scorpion Kick](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1207.yaml) | Skorpion-Kick | **lower_back** | `gluteus_maximus, erector_spinae` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (lower_back) bei Gelenkstellung `rotation` (gemäß SCHEMA §5). |
-| `1577` | [Bretzel stretch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1577.yaml) | Bretzel-Dehnung | **quads** | `gluteus_maximus, quadriceps` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (quads) bei Gelenkstellung `rotation` (gemäß SCHEMA §5). |
-| `1864` | [Ankle Roll](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1864.yaml) | - | **calves** | `calves` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (calves) bei Gelenkstellung `rotation` (gemäß SCHEMA §5). |
-| `2543` | [Wrist circles](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/2543.yaml) | - | **forearms** | `wrist_flexors, wrist_extensors` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (forearms) bei Gelenkstellung `rotation` (gemäß SCHEMA §5). |
+| `1207` | [Scorpion Kick](../data/exercises/1207.yaml) | Skorpion-Kick | **lower_back** | `gluteus_maximus, erector_spinae` | **Legitimate stretch**: Stretches anatomical counterpart (lower_back) under joint angle `rotation` (per SCHEMA §5). |
+| `1577` | [Bretzel Stretch](../data/exercises/1577.yaml) | Bretzel-Dehnung | **quads** | `gluteus_maximus, quadriceps` | **Legitimate stretch**: Stretches anatomical counterpart (quads) under joint angle `rotation` (per SCHEMA §5). |
+| `1864` | [Ankle Roll](../data/exercises/1864.yaml) | Sprunggelenkkreisen | **calves** | `calves` | **Legitimate stretch**: Stretches anatomical counterpart (calves) under joint angle `rotation` (per SCHEMA §5). |
+| `2543` | [Wrist Circles](../data/exercises/2543.yaml) | Handgelenkkreisen | **forearms** | `wrist_flexors, wrist_extensors` | **Legitimate stretch**: Stretches anatomical counterpart (forearms) under joint angle `rotation` (per SCHEMA §5). |
 
-### Muster `spinal_extension` (2 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `back, glutes, lower_back`
+### Pattern `spinal_extension` (2 outliers)
+*Expected muscle groups per table:* `back, glutes, lower_back`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1011` | [Front neck stretch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1011.yaml) | Nackenstütze vorne | **neck** | `neck_flexors` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (neck) bei Gelenkstellung `spinal_extension` (gemäß SCHEMA §5). |
-| `1450` | [Cobra Stretch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1450.yaml) | Kobra-Dehnung | **abs** | `rectus_abdominis` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (abs) bei Gelenkstellung `spinal_extension` (gemäß SCHEMA §5). |
+| `1011` | [Front Neck Stretch](../data/exercises/1011.yaml) | Vordere Halsdehnung | **neck** | `neck_flexors` | **Legitimate stretch**: Stretches anatomical counterpart (neck) under joint angle `spinal_extension` (per SCHEMA §5). |
+| `1450` | [Cobra Stretch](../data/exercises/1450.yaml) | Kobra-Dehnung (Cobra Stretch) | **abs** | `rectus_abdominis` | **Legitimate stretch**: Stretches anatomical counterpart (abs) under joint angle `spinal_extension` (per SCHEMA §5). |
 
-### Muster `spinal_flexion` (2 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `abs, lower_back`
+### Pattern `spinal_flexion` (2 outliers)
+*Expected muscle groups per table:* `abs, lower_back`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `1002` | [Child's pose](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1002.yaml) | Kinderpose | **back** | `latissimus_dorsi, erector_spinae` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (back) bei Gelenkstellung `spinal_flexion` (gemäß SCHEMA §5). |
-| `1394` | [Sit & Reach](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1394.yaml) | Sit & Reach | **hamstrings** | `hamstring_complex` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (hamstrings) bei Gelenkstellung `spinal_flexion` (gemäß SCHEMA §5). |
+| `1002` | [Child's Pose](../data/exercises/1002.yaml) | Kindhaltung (Child's Pose) | **back** | `latissimus_dorsi, erector_spinae` | **Legitimate stretch**: Stretches anatomical counterpart (back) under joint angle `spinal_flexion` (per SCHEMA §5). |
+| `1394` | [Sit & Reach](../data/exercises/1394.yaml) | Sit & Reach | **hamstrings** | `hamstring_complex` | **Legitimate stretch**: Stretches anatomical counterpart (hamstrings) under joint angle `spinal_flexion` (per SCHEMA §5). |
 
-### Muster `squat` (5 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `glutes, quads`
+### Pattern `squat` (5 outliers)
+*Expected muscle groups per table:* `glutes, quads`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `285` | [High Knee Jumps](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/285.yaml) | Hohe Knie-Sprünge | **abs** | `quadriceps, gluteus_maximus, hip_flexors` | **Prüffall**: Primärmuskel abs bei `squat` ungewöhnlich; prüfen ob Sekundärmuskel genügt. |
-| `632` | [Sumo Squats](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/632.yaml) | Sumo Kniebeuge | **adductors** | `quadriceps, gluteus_maximus, hip_adductors` | **Legitime Variante**: Extrem breiter Stand rekrutiert Adduktoren primär. |
-| `650` | [Thruster](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/650.yaml) | Thruster | **shoulders** | `quadriceps, gluteus_maximus, deltoid` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; shoulders liefert Kraftkomponente der Teilbewegung. |
-| `1829` | [Landmine Squat to Press](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1829.yaml) | Landmine Kniebeuge mit Überkopfdrücken | **shoulders** | `quadriceps, gluteus_maximus, deltoid` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; shoulders liefert Kraftkomponente der Teilbewegung. |
-| `1846` | [Horse Stance (Side Splits)](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1846.yaml) | Reiterstellung (Seitspagat) | **adductors** | `quadriceps, hip_adductors` | **Legitime Variante**: Extrem breiter Stand rekrutiert Adduktoren primär. |
+| `285` | [High Knee Jumps](../data/exercises/285.yaml) | Hohe Knie-Sprünge | **abs** | `quadriceps, gluteus_maximus, hip_flexors` | **Case for review**: Primary muscle abs in `squat` is unusual; check if secondary muscle suffices. |
+| `632` | [Sumo Squats](../data/exercises/632.yaml) | Sumo-Kniebeugen | **adductors** | `quadriceps, gluteus_maximus, hip_adductors` | **Legitimate variation**: Extremely wide stance recruits adductors primarily. |
+| `650` | [Thruster](../data/exercises/650.yaml) | Thruster | **shoulders** | `quadriceps, gluteus_maximus, deltoid` | **Legitimate hybrid**: Multi-joint / full-body movement; shoulders provides force component for sub-movement. |
+| `1829` | [Landmine Squat to Press](../data/exercises/1829.yaml) | Landmine Kniebeuge mit Überkopfdrücken | **shoulders** | `quadriceps, gluteus_maximus, deltoid` | **Legitimate hybrid**: Multi-joint / full-body movement; shoulders provides force component for sub-movement. |
+| `1846` | [Horse Stance (Side Splits)](../data/exercises/1846.yaml) | Reiterstellung (Seitspagat) | **adductors** | `quadriceps, hip_adductors` | **Legitimate variation**: Extremely wide stance recruits adductors primarily. |
 
-### Muster `vertical_pull` (5 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `back, biceps, chest, forearms, shoulders`
+### Pattern `vertical_pull` (5 outliers)
+*Expected muscle groups per table:* `back, biceps, chest, forearms, shoulders`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `599` | [Snatch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/599.yaml) | Reißen (Snatch) | **glutes, hamstrings, quads** | `gluteus_maximus, hamstring_complex, quadriceps` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; glutes, hamstrings, quads liefert Kraftkomponente der Teilbewegung. |
-| `1447` | [Snatch OL](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1447.yaml) | Snatch (Reißen) | **glutes, hamstrings, quads** | `gluteus_maximus, hamstring_complex, quadriceps` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; glutes, hamstrings, quads liefert Kraftkomponente der Teilbewegung. |
-| `1526` | [Ski Machine](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1526.yaml) | Ski-Maschine | **abs, triceps** | `latissimus_dorsi, triceps_brachii, rectus_abdominis` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; abs, triceps liefert Kraftkomponente der Teilbewegung. |
-| `1741` | [L-Sit Pull-ups](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1741.yaml) | - | **abs** | `latissimus_dorsi, rectus_abdominis` | **Legitimer Hybrid**: Klimmzug mit statisch gehaltenem L-Sitz (Bauchmuskeln primär aktiv). |
-| `1970` | [Kettlebell sumo high pull](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1970.yaml) | Kettlebell Sumo High Pull | **glutes** | `traps_upper, gluteus_maximus` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; glutes liefert Kraftkomponente der Teilbewegung. |
+| `599` | [Snatch](../data/exercises/599.yaml) | Reißen (Snatch) | **glutes, hamstrings, quads** | `gluteus_maximus, hamstring_complex, quadriceps` | **Legitimate hybrid**: Multi-joint / full-body movement; glutes, hamstrings, quads provides force component for sub-movement. |
+| `1447` | [Olympic Snatch](../data/exercises/1447.yaml) | Reißen (Snatch) | **glutes, hamstrings, quads** | `gluteus_maximus, hamstring_complex, quadriceps` | **Legitimate hybrid**: Multi-joint / full-body movement; glutes, hamstrings, quads provides force component for sub-movement. |
+| `1526` | [SkiErg (Ski Machine)](../data/exercises/1526.yaml) | Skilanglauf-Ergometer (SkiErg) | **abs, triceps** | `latissimus_dorsi, triceps_brachii, rectus_abdominis` | **Legitimate hybrid**: Multi-joint / full-body movement; abs, triceps provides force component for sub-movement. |
+| `1741` | [L-Sit Pull-Ups](../data/exercises/1741.yaml) | L-Sit-Klimmzüge | **abs** | `latissimus_dorsi, rectus_abdominis` | **Legitimate hybrid**: Pull-up with static L-sit hold (abdominals primarily active). |
+| `1970` | [Kettlebell Sumo High Pull](../data/exercises/1970.yaml) | Kettlebell Sumo High Pull | **glutes** | `traps_upper, gluteus_maximus` | **Legitimate hybrid**: Multi-joint / full-body movement; glutes provides force component for sub-movement. |
 
-### Muster `vertical_push` (3 Ausreißer)
-*Erwartete Muskelgruppen laut Tabelle:* `chest, glutes, quads, shoulders, triceps`
+### Pattern `vertical_push` (3 outliers)
+*Expected muscle groups per table:* `chest, glutes, quads, shoulders, triceps`
 
-| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |
+| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |
 |---|---|---|---|---|---|
-| `711` | [Wall Handstand](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/711.yaml) | Handstand Gegen Die Wand | **back** | `deltoid, trapezius` | **Turnen/Calisthenics**: Isometrische Haltekraft auf back zur Körperspannung. |
-| `716` | [Wall Slides](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/716.yaml) | Wandgleiten | **back** | `serratus_anterior, traps_lower` | **Legitime Dehnung**: Dehnt anatomische Gegenseite (back) bei Gelenkstellung `vertical_push` (gemäß SCHEMA §5). |
-| `1226` | [Dumbbell bicep curl to press](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1226.yaml) | Kurzhantel-Bizeps-Curl mit Schulterdrücken | **biceps** | `deltoid, biceps_brachii` | **Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; biceps liefert Kraftkomponente der Teilbewegung. |
+| `711` | [Wall Handstand](../data/exercises/711.yaml) | Handstand gegen die Wand | **back** | `deltoid, trapezius` | **Gymnastics / Calisthenics**: Isometric tension on back for body tension. |
+| `716` | [Wall Slides](../data/exercises/716.yaml) | Wandgleiten | **back** | `serratus_anterior, traps_lower` | **Legitimate stretch**: Stretches anatomical counterpart (back) under joint angle `vertical_push` (per SCHEMA §5). |
+| `1226` | [Dumbbell Biceps Curl to Overhead Press](../data/exercises/1226.yaml) | Kurzhantel-Bizeps-Curl mit Schulterdrücken | **biceps** | `deltoid, biceps_brachii` | **Legitimate hybrid**: Multi-joint / full-body movement; biceps provides force component for sub-movement. |

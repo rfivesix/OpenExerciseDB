@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.invalid/schema/exercise.schema.json",
   "title": "Exercise (language-neutral facts)",
-  "description": "Validiert data/exercises/<id>.yaml. Enum-Werte, die aus vocab/*.yaml stammen, sind hier NICHT dupliziert - sie werden vom Validator zur Laufzeit aus den Vokabular-Dateien nachgeladen. Ein zweiter Satz Wahrheit waere sonst garantiert irgendwann inkonsistent.",
+  "description": "Validates data/exercises/<id>.yaml. Enum values originating from vocab/*.yaml are NOT duplicated here — they are dynamically loaded by the validator at runtime from the vocabulary files. A second set of truth would inevitably become inconsistent over time.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -25,7 +25,7 @@
     "id": {
       "type": "string",
       "pattern": "^([0-9]+|x-[a-z0-9]{12})$",
-      "description": "Bestands-IDs aus wger sind numerisch und bleiben unveraendert. Neue eigene Uebungen bekommen 'x-' + 12 Hexzeichen (UUIDv5 ueber den Slug, gekuerzt) - damit kollidieren sie nie mit kuenftigen wger-IDs."
+      "description": "Legacy IDs from wger are numeric and remain unchanged. New custom exercises receive 'x-' + 12 hex characters (UUIDv5 derived from the slug, truncated) — ensuring they never collide with future wger IDs."
     },
     "slug": {
       "type": "string",
@@ -36,7 +36,7 @@
     },
     "merged_into": {
       "type": "string",
-      "description": "Pflicht wenn status == merged. Ziel-ID."
+      "description": "Required when status == merged. Target ID."
     },
     "modality": {
       "$ref": "#/$defs/vocabRef"
@@ -66,12 +66,12 @@
     },
     "load_mode": {
       "$ref": "#/$defs/vocabRef",
-      "description": "Was die geloggte Zahl bedeutet - external, bodyweight, assisted oder variable. Ohne das Feld ist eine Assistenzmaschine von einer Kraftmaschine nicht zu unterscheiden, und jede Auswertung liest ihren Verlauf rueckwaerts."
+      "description": "What the logged number represents — external, bodyweight, assisted, or variable. Without this field, an assisted machine cannot be distinguished from a weight machine, and analytics would read progress backwards."
     },
     "supports_added_weight": {
       "type": "boolean",
       "default": false,
-      "description": "Optionale Faehigkeit, nicht der Normalfall: Klimmzug geht mit Guertel. Setzt load_mode: bodyweight voraus (Invariante 24)."
+      "description": "Optional capability, not the default: pull-ups can be done with a belt. Requires load_mode: bodyweight (Invariant 24)."
     },
     "primary_equipment": {
       "$ref": "#/$defs/vocabRef"
@@ -107,7 +107,7 @@
             "type": "number",
             "minimum": 0,
             "maximum": 1,
-            "description": "Optional und in v1 bewusst leer. Erst befuellen, wenn die Zuweisungen selbst stabil sind - sonst diskutiert man Nachkommastellen, waehrend noch 189 Uebungen gar keine Muskeln haben."
+            "description": "Optional and intentionally empty in v1. Only populate once the assignments themselves are stable — otherwise decimal points are debated while 189 exercises still lack muscles entirely."
           }
         }
       }
@@ -117,11 +117,11 @@
       "items": {
         "type": "string"
       },
-      "description": "Frueher vergebene IDs, die auf diese Uebung zeigen. Wird zu exercise_aliases im DB-Build."
+      "description": "Previously issued IDs pointing to this exercise. Becomes exercise_aliases during DB build."
     },
     "exceptions": {
       "type": "object",
-      "description": "Entschaerft eine WEICHE Invariante fuer genau diese Uebung. Schluessel ist `invariant_<nummer>`, Wert die Begruendung im Klartext. Nur weiche Invarianten sind entschaerfbar: harte Regeln sind strukturell und haben keine legitimen Ausnahmen. Eine Ausnahme ohne Begruendung ist ein Fehler, eine Ausnahme die nicht greift eine Warnung - sonst sammeln sich Karteileichen an, die niemand mehr zuordnen kann.",
+      "description": "Mitigates a SOFT invariant for this specific exercise. Key is `invariant_<number>`, value is the justification in plain text. Only soft invariants can be excepted: hard rules are structural and have no legitimate exceptions. An exception without justification is an error; an exception that does not match is a warning — preventing orphan entries nobody can trace.",
       "propertyNames": {
         "pattern": "^invariant_[0-9]+[a-z]?$"
       },
@@ -132,7 +132,7 @@
     },
     "provenance": {
       "type": "object",
-      "description": "Feldname -> Herkunft. Feldnamen sind die Top-Level-Keys dieser Datei.",
+      "description": "Field name -> provenance. Field names are top-level keys in this file.",
       "additionalProperties": {
         "type": "object",
         "additionalProperties": false,
@@ -178,7 +178,7 @@
         "source",
         "license"
       ],
-      "description": "Lizenz-Provenienz des Ursprungseintrags. null bei selbst erstellten Uebungen. Siehe SCHEMA.md 3b.",
+      "description": "License provenance of the origin entry. null for newly created exercises. See SCHEMA.md 3b.",
       "properties": {
         "source": {
           "enum": [
@@ -210,11 +210,11 @@
         "source_fields": {
           "type": "object",
           "additionalProperties": false,
-          "description": "Rohwerte aus der Quelle, die im neuen Modell (noch) kein eigenes Feld haben. Sie werden beim Import verlustfrei mitgeschrieben, damit Phase 2 sie ableiten kann, ohne die API erneut zu ziehen - und damit der Build die Kompatibilitaetsspalte category_name befuellen kann, ohne selbst vom Snapshot abzuhaengen. Nach der Ableitung bleiben sie als Beleg stehen und werden nie wieder angefasst.",
+          "description": "Raw values from the source that do not (yet) have a dedicated field in the new model. Preserved losslessly during import so Phase 2 can derive them without re-querying the API — and so the build can populate the category_name compatibility column without depending on the snapshot. After derivation, they remain as reference and are never modified.",
           "properties": {
             "category": {
               "type": "string",
-              "description": "wger `category.name`. Vermischt Koerperregion und Trainingsart (SCHEMA.md 1) und wird deshalb nicht uebernommen, sondern nur konserviert. Speist die Kompatibilitaetsspalte category_name."
+              "description": "wger `category.name`. Conflates body region and training type (SCHEMA.md 1) and is therefore not adopted directly, only preserved. Populates compatibility column category_name."
             },
             "equipment": {
               "type": "array",
@@ -222,7 +222,7 @@
                 "type": "string"
               },
               "uniqueItems": true,
-              "description": "wger `equipment[].name`. Eine flache Menge ohne die Trennung primary_equipment / setup; die Ableitung ist Phase 2."
+              "description": "wger `equipment[].name`. A flat set without distinguishing primary_equipment / setup; derivation belongs in Phase 2."
             }
           }
         }
@@ -233,7 +233,7 @@
     "vocabRef": {
       "type": "string",
       "pattern": "^[a-z0-9_]+$",
-      "description": "Muss in der zugehoerigen vocab/*.yaml existieren. Wird vom Validator geprueft, nicht von JSON Schema."
+      "description": "Must exist in the corresponding vocab/*.yaml. Checked by validator, not by JSON Schema."
     }
   }
 }

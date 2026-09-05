@@ -1,12 +1,12 @@
-# Equipment-Vokabular — geschlossene Liste, zwei getrennte Achsen.
+# Equipment vocabulary — closed list, two separate axes.
 #
-# primary_equipment : genau EIN Wert je Uebung. Das Hauptgeraet, das die Last
-#                     erzeugt. Beantwortet "Womit trainiere ich?".
-# setup             : Liste, darf leer sein. Was ausserdem dastehen muss.
-#                     Beantwortet "Kann ich das hier ueberhaupt machen?".
+# primary_equipment : exactly ONE value per exercise. The primary implement
+#                     generating load. Answers "What do I train with?".
+# setup             : list, may be empty. What else must be present.
+#                     Answers "Can I do this here at all?".
 #
-# Die Trennung ist der Grund, warum "Was geht im Hotelzimmer?" filterbar wird:
-#   primary_equipment == bodyweight  UND  setup == []
+# The separation is why "What can I do in a hotel room?" becomes filterable:
+#   primary_equipment == bodyweight  AND  setup == []
 
 version: 1
 

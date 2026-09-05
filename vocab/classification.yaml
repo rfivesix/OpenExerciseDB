@@ -1,12 +1,12 @@
-# Klassifikations-Vokabulare. Alles geschlossene Listen.
+# Classification vocabularies. All closed lists.
 #
-# Wichtig: das sind ORTHOGONALE Achsen. wger hat sie in ein einziges
-# `category_name` gequetscht (Legs/Back/Arms/... UND Cardio), weshalb heute
-# `Exercise.isCardio` ein String-Vergleich auf einer Koerperregion ist.
+# Important: these are ORTHOGONAL axes. wger squeezed them into a single
+# `category_name` (Legs/Back/Arms/... AND Cardio), which is why today
+# `Exercise.isCardio` is a string comparison on a body region.
 
 version: 1
 
-# Was die Uebung IST. Genau ein Wert.
+# What the exercise IS. Exactly one value.
 modality:
   - { id: strength, names: { en: Strength, de: Kraft, fr: Force, it: Forza, ja: 筋力トレーニング } }
   - { id: cardio, names: { en: Cardio, de: Ausdauer, fr: Cardio, it: Cardio, ja: 有酸素運動 } }
@@ -15,8 +15,8 @@ modality:
   - { id: stretch, names: { en: Stretch, de: Dehnung, fr: Étirement, it: Stretching, ja: ストレッチ } }
   - { id: balance, names: { en: Balance, de: Balance, fr: Équilibre, it: Equilibrio, ja: バランストレーニング } }
 
-# Wofuer die Uebung EINGESETZT wird. Mehrwertig, mindestens ein Wert.
-# Mehrwertig, weil ein leichtes Band-Pull-Apart legitim warmup UND accessory ist.
+# What the exercise is USED FOR. Multi-valued, at least one value.
+# Multi-valued because a light band pull-apart is legitimately warmup AND accessory.
 usage_tags:
   - { id: warmup, names: { en: "Warm-up", de: Aufwärmen, fr: Échauffement, it: Riscaldamento, ja: ウォーミングアップ } }
   - { id: activation, names: { en: Activation, de: Aktivierung, fr: Activation, it: Attivazione, ja: アクティベーション } }
@@ -69,28 +69,28 @@ movement_pattern:
   - { id: gait, names: { en: "Gait / locomotion", de: Fortbewegung, fr: "Marche / Locomotion", it: "Deambulazione / Locomozione", ja: "歩行 / ロコモーション" } }
   - { id: other, names: { en: Other, de: Sonstiges, fr: Autre, it: Altro, ja: その他 } }
 
-# force_vector wird ABGELEITET, nicht annotiert.
+# force_vector is DERIVED, not annotated.
 #
-# Auswertung der ersten 50 annotierten Uebungen: 19 der 20 vorkommenden
-# movement_pattern hatten genau einen force_vector. Der einzige mehrdeutige war
-# `other` — der Eimer, der ohnehin "keine Aussage" heisst. force_vector ist also
-# eine Funktion von movement_pattern und keine unabhaengige Information; sie zu
-# annotieren heisst, dasselbe zweimal zu behaupten und irgendwann zu widersprechen.
+# Evaluation of the first 50 annotated exercises: 19 of the 20 occurring
+# movement_pattern values had exactly one force_vector. The only ambiguous one was
+# `other` — the bucket that means "no statement" anyway. force_vector is therefore
+# a function of movement_pattern rather than independent information; annotating
+# it means asserting the same thing twice and eventually contradicting oneself.
 #
-# `null` heisst ausdruecklich "es gibt keine ehrliche Antwort" und ist kein
-# Fehler. Ein Lauf ist weder Druecken noch Ziehen, und `push` dranzuschreiben,
-# weil ein Modell konsistent geraten hat, waere Scheinpraezision.
+# `null` explicitly means "there is no honest answer" and is not an error.
+# A run is neither push nor pull, and labeling it `push` because a model guessed
+# consistently would be spurious precision.
 #
-# Zwei Zeilen weichen bewusst von dem ab, was das Modell geschrieben hat:
-#   shoulder_abduction: das Modell sagte `pull`. Ein Seitheben ist eine
-#     Drueck-Bewegung — der Arm geht vom Koerper weg. Hier steht `push`.
-#   shoulder_flexion: Arm wird nach vorne/oben gehoben (Delta anterior) -> push.
-#   scapular_elevation: Schulterguertel wird nach oben gezogen (Trapez) -> pull.
+# Two lines deliberately deviate from what the model wrote:
+#   shoulder_abduction: the model said `pull`. A lateral raise is a
+#     pushing motion — the arm moves away from the body. Here it is `push`.
+#   shoulder_flexion: arm is raised forward/upward (anterior delt) -> push.
+#   scapular_elevation: shoulder girdle is pulled upward (traps) -> pull.
 #
-# `hinge: pull` und `hip_extension: pull` brechen die Beuge/Streck-Logik der
-# reinen Isolationsmuster (Hueftstreckung waere anatomisch Druecken). Das ist Absicht:
-# Kreuzheben, Glute Bridges und Hip Thrusts sind posteriore Kettenuebungen
-# und gehoeren zur Zug-Systematik. Bitte nicht "korrigieren".
+# `hinge: pull` and `hip_extension: pull` break the flexion/extension logic of
+# pure isolation patterns (hip extension would anatomically be push). This is intentional:
+# deadlifts, glute bridges, and hip thrusts are posterior chain exercises
+# and belong to the pull system. Please do not "correct" this.
 force_vector_by_pattern:
   horizontal_push: push
   vertical_push: push
@@ -117,7 +117,7 @@ force_vector_by_pattern:
   anti_lateral_flexion: static
   anti_flexion: static
 
-  # Kein ehrlicher Wert:
+  # No honest value:
   carry: null
   rotation: null
   hip_abduction: null
@@ -132,7 +132,7 @@ laterality:
   - { id: unilateral, names: { en: Unilateral, de: Einseitig, fr: Unilatéral, it: Unilaterale, ja: "片側性 (ユニラテラル)" } }
   - { id: alternating, names: { en: Alternating, de: Alternierend, fr: Alterné, it: Alternato, ja: "交互 (オルタネーティング)" } }
 
-# Bestimmt die Log-Maske in der App. Ersetzt `Exercise.isCardio`.
+# Determines the logging interface in the app. Replaces `Exercise.isCardio`.
 tracking_type:
   - id: weight_reps
     names: { en: "Weight & reps", de: "Gewicht & Wiederholungen", fr: "Poids & répétitions", it: "Peso & ripetizioni", ja: "重量 & 回数" }
@@ -147,26 +147,26 @@ tracking_type:
   - id: distance_only
     names: { en: Distance, de: Distanz, fr: Distance, it: Distanza, ja: 距離のみ }
 
-# Was die geloggte ZAHL bedeutet. Genau ein Wert.
+# What the logged NUMBER means. Exactly one value.
 #
-# `tracking_type` sagt, welche FORM die Log-Maske hat. Das reicht nicht: an einer
-# Assistenzmaschine ist die eingegebene Zahl Entlastung und nicht Last — mehr
-# Kilo heisst leichter. Als `weight_reps` geloggt lesen e1RM, Volumen und
-# Progressionserkennung die Entwicklung exakt rueckwaerts.
+# `tracking_type` determines what FORM the logging UI takes. That is not enough:
+# on an assisted machine, the entered number is assistance rather than load —
+# higher kilograms mean easier. Logged as `weight_reps`, e1RM, volume, and
+# progression tracking would interpret progress backwards.
 load_mode:
   - id: external
     names: { en: External load, de: Externe Last, fr: Charge externe, it: Carico esterno, ja: "外付け負荷 (外部重量)" }
-    # Die Zahl IST der Widerstand. Langhantel, Maschine, Kabel.
+    # The number IS the resistance. Barbell, machine, cable.
   - id: bodyweight
     names: { en: Bodyweight, de: Körpergewicht, fr: Poids du corps, it: Peso corporeo, ja: 自重負荷 }
-    # Koerpergewicht bewegt sich; eine Zahl ist optionales Zusatzgewicht.
-    # Klimmzug, Dip, Liegestuetz.
+    # Body weight moves; any number is optional added weight.
+    # Pull-up, dip, push-up.
   - id: assisted
     names: { en: Assisted, de: Unterstützt, fr: "Assisté / Délesté", it: "Assistito / Alleggerito", ja: "アシスト (負荷軽減)" }
-    # Die Zahl VERRINGERT den Widerstand. Assistenzmaschine — mehr ist leichter.
+    # The number REDUCES resistance. Assisted machine — higher is lighter.
   - id: variable
     names: { en: Variable resistance, de: Variabler Widerstand, fr: Résistance variable, it: Resistenza variabile, ja: "可変抵抗 (バンド等)" }
-    # Die Zahl ist kein Kilogramm. Widerstandsband.
+    # The number is not a kilogram value. Resistance band.
 
 difficulty:
   - { id: beginner, names: { en: Beginner, de: Anfänger, fr: Débutant, it: Principiante, ja: 初級 } }

@@ -1,11 +1,11 @@
-# data/exercises/<id>.yaml — zurueckgeholter Eintrag.
+# data/exercises/<id>.yaml — recovered entry.
 #
-# Diese Uebung wurde upstream geloescht, war aber bereits ausgeliefert und ist
-# damit in Nutzerdaten referenziert (SCHEMA.md 3). Sie bleibt als
-# `status: deprecated` bestehen: aufloesbar, aber aus Suche und Katalog heraus.
+# This exercise was deleted upstream, but was previously published and is therefore
+# referenced in user data (SCHEMA.md §3). It is retained with `status: deprecated`
+# (or merged): resolvable for user logs, but hidden from search and catalog UI.
 #
-# Wiederhergestellt von import/recover_removed_exercises.py aus einer
-# ausgelieferten Datenbank, nicht aus der Quelle — die hat den Eintrag nicht mehr.
+# Recovered by import/recover_removed_exercises.py from a previously published database,
+# not from upstream — which no longer contains this record.
 id: '1806'
 slug: lat-pull-down
 status: deprecated
@@ -18,9 +18,9 @@ muscles:
 provenance:
   id: {source: wger}
   slug: {source: derived, at: '2026-09-03'}
-  status: {source: derived, at: '2026-09-03', note: 'Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.'}
+  status: {source: derived, at: '2026-09-03', note: 'Deleted upstream, but previously published — SCHEMA.md §3.'}
   muscles: {source: wger, at: '2026-09-03'}
-  upstream: {source: derived, at: '2026-09-03', note: "Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die alte Pipeline hat license/license_author verworfen. Konservativ auf die restriktivste im Bestand vorkommende Lizenz gesetzt."}
+  upstream: {source: derived, at: '2026-09-03', note: "License unrecoverable: the upstream entry was deleted and the legacy pipeline discarded license/license_author. Conservatively set to the most restrictive license present in the catalog."}
 upstream:
   source: wger
   source_id: '1806'

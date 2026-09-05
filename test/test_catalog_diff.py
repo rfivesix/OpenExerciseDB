@@ -1,10 +1,10 @@
-"""Tests fuer build/catalog_diff.py.
+"""Tests for build/catalog_diff.py.
 
-Aus einer frueheren Pipeline uebernommen. Die Schwellwert-Tests sind unveraendert in ihrer
-Absicht, aber ihre Fixtures haben jetzt Aliase: unter Invariante 21 ist eine
-verschwundene ID ohne Nachfolger fuer sich genommen schon ein Abbruchgrund, und
-ohne Alias wuerden die Tests nicht mehr die Schwelle pruefen, sondern die neue
-Invariante. Beide Regeln bekommen eigene Tests.
+Adopted from an earlier pipeline. The threshold tests remain unchanged in their
+intent, but their fixtures now include aliases: under Invariant 21, a disappeared
+ID without a successor is itself grounds for failure, and without aliases the
+tests would no longer check the threshold but rather the invariant. Both rules
+have dedicated tests.
 """
 
 import argparse
@@ -191,12 +191,11 @@ class WgerCatalogDiffThresholdTests(unittest.TestCase):
         map_removals: bool = True,
         new_aliases: Optional[Dict[str, str]] = None,
     ):
-        """`map_removals` gibt jeder verschwundenen ID einen Nachfolger.
+        """`map_removals` assigns a successor to every removed ID.
 
-        Das ist der Normalfall im neuen Schema: geloescht wird nie, es wird
-        umgeleitet (SCHEMA.md 3). Ohne das wuerde jeder dieser Tests an
-        Invariante 21 haengenbleiben, statt die Schwelle zu pruefen, um die es
-        ihm geht.
+        This is the normal case in the new schema: IDs are never deleted, they are
+        redirected (SCHEMA.md §3). Without this, each of these tests would fail on
+        Invariant 21 instead of checking the threshold under test.
         """
         if new_aliases is None and map_removals:
             successor = sorted(new_ids)[0] if new_ids else "1"
@@ -355,12 +354,8 @@ class WgerCatalogDiffThresholdTests(unittest.TestCase):
         self.assertEqual("New DE 2", report["changed_fields_by_id"]["2"]["name_de"]["new"])
 
 
-if __name__ == "__main__":
-    unittest.main()
-
-
 class SchemaV2DiffTests(unittest.TestCase):
-    """Die Regeln, die mit SCHEMA.md 8 dazugekommen sind."""
+    """Rules introduced with SCHEMA.md §8."""
 
     def setUp(self) -> None:
         self.tmp = tempfile.TemporaryDirectory()
@@ -395,10 +390,10 @@ class SchemaV2DiffTests(unittest.TestCase):
     def _codes(self, report) -> Set[str]:
         return {warning["code"] for warning in report["warning_flags"]}
 
-    # -- Invariante 21 ------------------------------------------------------
+    # -- Invariant 21 ------------------------------------------------------
     def test_invariant_21_a_single_unmapped_removal_is_breaking(self):
-        """Eine ID ohne Nachfolger macht die Logs auf ihr unaufloesbar. Das ist
-        kein Schwellwertthema — eine reicht."""
+        """An ID without a successor makes existing logs referencing it unresolvable.
+        This is not a threshold issue — a single one is breaking."""
         _create_catalog(self.old_db, {str(i) for i in range(1, 901)})
         _create_catalog(self.new_db, {str(i) for i in range(2, 901)}, aliases={})
         report, should_fail, reasons = self._compare()
@@ -416,7 +411,7 @@ class SchemaV2DiffTests(unittest.TestCase):
         self.assertNotIn("INVARIANT_21_UNMAPPED_REMOVAL", self._codes(report))
         self.assertFalse(should_fail)
 
-    # -- Invariante 22 ------------------------------------------------------
+    # -- Invariant 22 ------------------------------------------------------
     def test_invariant_22_active_count_drop_above_five_percent_is_breaking(self):
         old_ids = {str(i) for i in range(1, 101)}
         new_ids = {str(i) for i in range(1, 94)}  # -7 %
@@ -435,7 +430,7 @@ class SchemaV2DiffTests(unittest.TestCase):
         self.assertNotIn("INVARIANT_22_ACTIVE_COUNT_DROP", self._codes(report))
         self.assertFalse(should_fail)
 
-    # -- Versionsvertrag ----------------------------------------------------
+    # -- Version contract ----------------------------------------------------
     def test_schema_version_must_not_go_backwards(self):
         ids = {"1", "2", "3"}
         _create_catalog(self.old_db, ids, schema_version=2)
@@ -453,8 +448,8 @@ class SchemaV2DiffTests(unittest.TestCase):
         self.assertFalse(should_fail)
 
     def test_a_missing_schema_version_on_one_side_is_not_a_regression(self):
-        """Der Vergleich v1-Release gegen v2-Build ist der Normalfall beim
-        Umstieg und darf nicht rot sein."""
+        """Comparing a v1 release against a v2 build is the expected path during
+        the transition and must not fail."""
         ids = {"1", "2", "3"}
         _create_catalog(self.old_db, ids)
         _create_catalog(self.new_db, ids, schema_version=2)

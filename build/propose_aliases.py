@@ -1,23 +1,22 @@
 #!/usr/bin/env python3
-"""Schlaegt Nachfolger fuer stillgelegte Uebungen vor. Anwenden tut es nichts.
+"""Proposes successors for deprecated exercises. Applies nothing automatically.
 
-Eine `status: deprecated`-Uebung bleibt aufloesbar, taucht aber nicht mehr auf.
-Fuer einen Teil davon gibt es im Bestand einen offensichtlichen Nachfolger —
-`154 Chin-ups` und `152 Chin Up` sind dieselbe Uebung, upstream doppelt gefuehrt
-und dann halb geloescht. Wo das zutrifft, ist `status: merged` + `merged_into`
-die bessere Antwort als `deprecated`: der Build erzeugt daraus einen Eintrag in
-`exercise_aliases`, und die App zieht damit beim Import `routine_exercises` und
-`set_logs` auf den Nachfolger um. Aus einer toten Zeile wird die richtige Uebung.
+A `status: deprecated` exercise remains resolvable but no longer appears in listings.
+For some of them, there is an obvious successor in the catalog —
+`154 Chin-ups` and `152 Chin Up` are the same exercise, tracked twice upstream
+and then partially deleted. Where this applies, `status: merged` + `merged_into`
+is the better response than `deprecated`: the build creates an entry in
+`exercise_aliases`, allowing the app to migrate `routine_exercises` and
+`set_logs` to the successor upon import. A dead row becomes the correct exercise.
 
-**Deshalb wird hier nichts automatisch angewandt.** Ein Merge schreibt
-Trainingsdaten auf fremden Geraeten um. Ein Fuzzy-Treffer, der das
-stillschweigend tut, ist schlimmer als die Luecke, die er schliesst. Das Skript
-schreibt Vorschlaege mit Begruendung und Score; die Bestaetigung ist ein
-bewusster, einzelner Schritt (`--apply` mit expliziter Liste).
+**Therefore, nothing is applied automatically here.** A merge rewrites workout
+data on user devices. A fuzzy match performing this silently is far worse
+than the gap it closes. The script generates proposals with justification and
+score; confirmation is a deliberate, explicit step (`--apply` with an explicit list).
 
-Aufruf:
+Usage:
 
-    python3 build/propose_aliases.py                       # Vorschlaege anzeigen
+    python3 build/propose_aliases.py                       # display proposals
     python3 build/propose_aliases.py --out artifacts/alias_proposals.yaml
     python3 build/propose_aliases.py --apply 154=152 268=1392
 """
@@ -40,22 +39,22 @@ from oedb.vocab import Vocabularies  # noqa: E402
 
 EXACT = 1.0
 STRONG = 0.90
-"""Ab hier ist ein Vorschlag es wert, angesehen zu werden. Darunter wird die
-Trefferquote so schlecht, dass die Liste mehr Arbeit macht als sie spart."""
+"""Threshold above which a proposal warrants review. Below this, the false positive
+rate makes the list more work than it saves."""
 
 
 def words(name: str) -> list[str]:
-    """Vergleichsform: ohne Akzente, ohne Satzzeichen, ohne Plural-s.
+    """Comparison format: stripped of accents, punctuation, and plural -s.
 
-    `Chin-ups` und `Chin Up` sollen zusammenfallen, `Leg Extension` und
-    `Leg Extension Machine` nicht.
+    `Chin-ups` and `Chin Up` should match, while `Leg Extension` and
+    `Leg Extension Machine` should not.
     """
     ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
     tokens = re.findall(r"[a-z0-9]+", ascii_name.lower())
-    # Schwelle 3, nicht 4: sonst faellt ausgerechnet "ups" durch, und
-    # `Chin-ups` trifft `Chin Up` nicht. Die Regel greift symmetrisch auf
-    # beiden Seiten, "press" wird also ueberall zu "pres" — unschoen, aber
-    # folgenlos, weil verglichen und nicht angezeigt wird.
+    # Length threshold 3, not 4: otherwise "ups" is excluded and
+    # `Chin-ups` does not match `Chin Up`. Applied symmetrically to both
+    # sides, "press" becomes "pres" everywhere — inelegant but harmless
+    # since it is used strictly for comparison, never displayed.
     return [token[:-1] if len(token) >= 3 and token.endswith("s") else token for token in tokens]
 
 
@@ -64,28 +63,26 @@ def normalize(name: str) -> str:
 
 
 def squash(name: str) -> str:
-    """Alle Buchstaben ohne Trenner. Faengt die Wortgrenzen-Faelle:
+    """All letters without delimiters. Catches word-boundary differences:
     `Handstand Push Up` / `Handstand Pushup`, `Lat Pull Down` / `Lat Pulldown`."""
     return "".join(words(name))
 
 
 def propose(data: dataset_mod.Dataset, vocab: Vocabularies) -> list[dict[str, Any]]:
-    """Drei Signale, absichtlich getrennt gehalten.
+    """Three signals, intentionally kept separate.
 
-    Sie sind unterschiedlich viel wert, und sie zu einem Score zu verrechnen
-    wuerde genau das verstecken, worauf es beim Review ankommt:
+    They carry different confidence levels, and combining them into a single score
+    would obscure the exact information needed during review:
 
-    * **wortgleich** — dieselben Woerter, andere Reihenfolge oder Schreibweise
-      (`Lying Leg Raise` / `Leg Raises, Lying`). Sehr wahrscheinlich dieselbe
-      Uebung.
-    * **enthalten** — die Wortmenge der einen steckt in der anderen
-      (`Barbell Hip Thrust` / `Hip Thrust`). Das ist zweischneidig: es findet
-      den Nachfolger, aber genauso oft eine *Variante* des Originals. Bei
-      `Lat Pull Down` sind es drei gleich gute (Inverted, Underhand,
-      Close-grip) — dann ist keiner davon die Antwort, und das Skript sagt das,
-      statt den erstbesten zu nennen.
-    * **aehnlich** — Zeichenaehnlichkeit ab 0.90, fuer Tippfehler und
-      Bindestriche.
+    * **exact_words** — same words, different order or punctuation
+      (`Lying Leg Raise` / `Leg Raises, Lying`). Highly likely the same exercise.
+    * **subset** — one word set is contained within the other
+      (`Barbell Hip Thrust` / `Hip Thrust`). A double-edged sword: it identifies
+      the successor, but just as often a *variant* of the original. For
+      `Lat Pull Down` there are three equally good matches (Inverted, Underhand,
+      Close-grip) — indicating none of them is the direct answer, which the script
+      flags rather than picking one arbitrarily.
+    * **similar** — character similarity >= 0.90, for typos and hyphens.
     """
     language = vocab.source_language
 
@@ -141,32 +138,31 @@ def propose(data: dataset_mod.Dataset, vocab: Vocabularies) -> list[dict[str, An
             )
 
         for candidate_id, name in by_wordset.get(own_words, []):
-            add(candidate_id, name, "wortgleich", EXACT)
+            add(candidate_id, name, "exact_words", EXACT)
         for candidate_id, name in by_squash.get(squash(translation.name), []):
-            add(candidate_id, name, "wortgleich", EXACT)
+            add(candidate_id, name, "exact_words", EXACT)
 
         if not matches:
             for candidate_id, name, wordset, _ in active:
                 if own_words <= wordset or wordset <= own_words:
                     extra = sorted(wordset - own_words)
-                    fehlt = sorted(own_words - wordset)
+                    missing = sorted(own_words - wordset)
                     add(
                         candidate_id,
                         name,
-                        "enthalten",
+                        "subset",
                         len(own_words & wordset) / max(len(own_words), len(wordset)),
-                        # Genau diese Worte sind der Unterschied. Sie zu zeigen
-                        # ist der halbe Review: "+assisted" beantwortet die
-                        # Frage, ob 154 Chin-ups nach 1737 gehoert, sofort mit
-                        # nein.
-                        diff=" ".join([f"+{w}" for w in extra] + [f"-{w}" for w in fehlt]),
+                        # Exactly these words constitute the difference. Showing them
+                        # provides half the review: "+assisted" immediately answers
+                        # whether 154 Chin-ups belongs to 1737 with no.
+                        diff=" ".join([f"+{w}" for w in extra] + [f"-{w}" for w in missing]),
                     )
 
         if not matches:
             for close in difflib.get_close_matches(own_key, keys, n=3, cutoff=STRONG):
                 score = difflib.SequenceMatcher(None, own_key, close).ratio()
                 for candidate_id, name in by_key.get(close, []):
-                    add(candidate_id, name, "aehnlich", score)
+                    add(candidate_id, name, "similar", score)
 
         matches.sort(key=lambda item: (-item["score"], not item["same_category"], item["id"]))
         top = matches[0]["score"] if matches else 0.0
@@ -176,14 +172,14 @@ def propose(data: dataset_mod.Dataset, vocab: Vocabularies) -> list[dict[str, An
                 "id": exercise.id,
                 "name": translation.name,
                 "category": own_category,
-                # Mehrere gleich gute Kandidaten heissen nicht "nimm den
-                # ersten", sondern "eine Maschine kann das hier nicht".
+                # Multiple equally ranked candidates mean "a machine cannot resolve this",
+                # not "pick the first one".
                 "ambiguous": len(tied) > 1,
                 "candidates": matches[:4],
             }
         )
 
-    order = {"wortgleich": 0, "enthalten": 1, "aehnlich": 2}
+    order = {"exact_words": 0, "subset": 1, "similar": 2}
     proposals.sort(
         key=lambda item: (
             order.get(item["candidates"][0]["kind"], 9) if item["candidates"] else 9,
@@ -200,19 +196,19 @@ def apply_merges(pairs: list[str]) -> int:
     changed = 0
     for pair in pairs:
         if "=" not in pair:
-            print(f"Erwartet <alt>=<neu>, bekommen: {pair!r}", file=sys.stderr)
+            print(f"Expected <old>=<new>, got: {pair!r}", file=sys.stderr)
             return 2
         old_id, new_id = (part.strip() for part in pair.split("=", 1))
         exercise = data.exercises.get(old_id)
         if exercise is None:
-            print(f"Uebung {old_id} existiert nicht.", file=sys.stderr)
+            print(f"Exercise {old_id} does not exist.", file=sys.stderr)
             return 2
         target = data.exercises.get(new_id)
         if target is None:
-            print(f"Ziel {new_id} existiert nicht.", file=sys.stderr)
+            print(f"Target {new_id} does not exist.", file=sys.stderr)
             return 2
         if target.status != "active":
-            print(f"Ziel {new_id} ist {target.status}, nicht active.", file=sys.stderr)
+            print(f"Target {new_id} is {target.status}, not active.", file=sys.stderr)
             return 2
 
         document = dict(exercise.data)
@@ -223,7 +219,7 @@ def apply_merges(pairs: list[str]) -> int:
             {"source": "human", "at": __import__("datetime").date.today().isoformat()}
         )
         document["provenance"] = provenance
-        # Reihenfolge erhalten: merged_into gehoert direkt hinter status.
+        # Preserve order: merged_into belongs immediately after status.
         ordered = {}
         for key, value in document.items():
             ordered[key] = value
@@ -232,21 +228,21 @@ def apply_merges(pairs: list[str]) -> int:
         ordered.pop("merged_into", None)
         ordered["merged_into"] = document["merged_into"]
         yamlio.write(exercise.path, document)
-        print(f"  {old_id} -> {new_id} als merged eingetragen")
+        print(f"  {old_id} -> {new_id} recorded as merged")
         changed += 1
-    print(f"{changed} Zusammenlegungen eingetragen. `build/validate.py` gegenpruefen.")
+    print(f"{changed} merges recorded. Verify with `build/validate.py`.")
     return 0
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--out", help="Vorschlaege zusaetzlich als YAML ablegen")
+    parser.add_argument("--out", help="Save proposals additionally as YAML")
     parser.add_argument(
         "--apply",
         nargs="+",
-        metavar="ALT=NEU",
-        help="Bestaetigte Zusammenlegungen eintragen. Schreibt Nutzer-Logs um — bewusst "
-        "einzeln anzugeben, nie aus der Vorschlagsliste uebernommen.",
+        metavar="OLD=NEW",
+        help="Record confirmed merges. Rewrites user logs — explicitly "
+        "provided individually, never applied en bloc from proposals.",
     )
     return parser.parse_args()
 
@@ -261,24 +257,24 @@ def main() -> int:
     proposals = propose(data, vocab)
 
     if not proposals:
-        print("Keine stillgelegten Uebungen ohne Nachfolger.")
+        print("No deprecated exercises without successors.")
         return 0
 
     def kind_of(item: dict[str, Any]) -> str:
-        return item["candidates"][0]["kind"] if item["candidates"] else "keiner"
+        return item["candidates"][0]["kind"] if item["candidates"] else "none"
 
-    same_name = [p for p in proposals if kind_of(p) == "wortgleich"]
-    contained = [p for p in proposals if kind_of(p) == "enthalten"]
-    similar = [p for p in proposals if kind_of(p) == "aehnlich"]
+    same_name = [p for p in proposals if kind_of(p) == "exact_words"]
+    contained = [p for p in proposals if kind_of(p) == "subset"]
+    similar = [p for p in proposals if kind_of(p) == "similar"]
     none_found = [p for p in proposals if not p["candidates"]]
 
-    print(f"{len(proposals)} stillgelegte Uebungen geprueft.\n")
+    print(f"{len(proposals)} deprecated exercises checked.\n")
 
     if same_name:
-        print(f"Gleicher Name ({len(same_name)}) — nur Schreibweise, Reihenfolge oder Plural:")
+        print(f"Identical words ({len(same_name)}) — punctuation, order, or plural differences only:")
         for item in same_name:
             for candidate in item["candidates"] if item["ambiguous"] else item["candidates"][:1]:
-                flag = "" if candidate["same_category"] else "  [andere Kategorie]"
+                flag = "" if candidate["same_category"] else "  [different category]"
                 print(
                     f"  {item['id']:>6} {item['name'][:34]:<34} -> {candidate['id']:>6} "
                     f"{candidate['name'][:34]:<34}{flag}"
@@ -286,17 +282,17 @@ def main() -> int:
         print()
 
     if contained:
-        print(f"Wortzusatz ({len(contained)}) — SCHWACHES SIGNAL, jeder Fall einzeln:")
+        print(f"Subsets / supersets ({len(contained)}) — WEAK SIGNAL, review each individually:")
         print(
-            "  Die Wortmenge steckt ineinander. Das findet genauso oft eine andere Uebung\n"
-            "  wie den Nachfolger — `Chin-ups` vs. `Assisted chin-ups` ist derselbe Treffer\n"
-            "  wie `Barbell Hip Thrust` vs. `Hip Thrust`. Die Spalte rechts sagt, welche\n"
-            "  Woerter dazukommen (+) oder wegfallen (-); danach ist es meist offensichtlich.\n"
+            "  Word set is contained. Finds variants just as often as direct successors —\n"
+            "  `Chin-ups` vs. `Assisted chin-ups` produces the same match as\n"
+            "  `Barbell Hip Thrust` vs. `Hip Thrust`. The right-hand column shows\n"
+            "  added (+) or removed (-) words; the distinction is usually obvious.\n"
         )
         for item in contained:
             print(f"  {item['id']:>6} {item['name']}")
             for candidate in item["candidates"]:
-                flag = "" if candidate["same_category"] else "  [andere Kategorie]"
+                flag = "" if candidate["same_category"] else "  [different category]"
                 print(
                     f"           -> {candidate['id']:>6} {candidate['name'][:40]:<40} "
                     f"{candidate['diff']:<24}{flag}"
@@ -304,7 +300,7 @@ def main() -> int:
         print()
 
     if similar:
-        print(f"Aehnlich geschrieben ({len(similar)}):")
+        print(f"Similar spelling ({len(similar)}):")
         for item in similar:
             best = item["candidates"][0]
             print(
@@ -314,11 +310,11 @@ def main() -> int:
         print()
 
     if none_found:
-        print(f"Ohne Kandidat ({len(none_found)}) — bleiben deprecated:")
+        print(f"No candidate found ({len(none_found)}) — remain deprecated:")
         print("  " + ", ".join(f"{item['id']} {item['name'][:24]}" for item in none_found))
         print()
 
-    print("Nichts davon ist angewandt. Bestaetigte Paare eintragen mit:")
+    print("None of these have been applied. Record confirmed pairs with:")
     print("  python3 build/propose_aliases.py --apply 154=152 268=1392")
 
     if args.out:
@@ -327,11 +323,11 @@ def main() -> int:
         yamlio.write(
             out,
             {"proposals": proposals},
-            header="Vorschlaege von build/propose_aliases.py. NICHT angewandt.\n"
-            "Ein Merge schreibt Trainingsdaten auf fremden Geraeten um und wird\n"
-            "einzeln bestaetigt: `build/propose_aliases.py --apply <alt>=<neu>`.",
+            header="Proposals from build/propose_aliases.py. NOT applied.\n"
+            "A merge rewrites workout logs on user devices and must be confirmed\n"
+            "individually: `build/propose_aliases.py --apply <old>=<new>`.",
         )
-        print(f"\nVorschlaege: {out}")
+        print(f"\nProposals: {out}")
     return 0
 
 

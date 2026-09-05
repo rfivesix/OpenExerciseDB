@@ -17,31 +17,30 @@ Path('reports').mkdir(parents=True, exist_ok=True)
 # ==============================================================================
 print("Generating reports/invariant_20_outliers.md...")
 
-r1_header = """# Ausreißer-Bericht: Invariante 20 (movement_pattern <-> primary_muscle_group)
+r1_header = """# Outlier Report: Invariant 20 (movement_pattern <-> primary_muscle_group)
 
-## 1. Methodik & Rohdaten-Messung
+## 1. Methodology & Raw Data Measurement
 
-1. **Statistische Roh-Ableitung**:
-   Die Erwartungstabelle wurde zunächst streng aus den **819 Nicht-Golden-Übungen** abgeleitet (Mindesthäufigkeit $\\ge 5\\ \\%$, Mindestanzahl $\\ge 2$ Vorkommen je Muster).
-2. **Gegenprüfung am Golden Set (50 handgeprüfte Referenz-Einträge)**:
-   - Gegen die unkorrigierte Roh-Häufigkeitstabelle fielen **6 von 50 Golden-Set-Übungen durch**.
-   - **Gemessene Fehlalarmquote der Rohstatistik: 12,0 %** (6 / 50).
-   - Alle 6 Golden-Set-Fälle (`1100 Wall-Balls`, `1116 Farmer's Carry`, `1523 Sled Push`, `1684 Thruster`, `423 Muscle-Up`, `500 Reverse Plank`) sind fachlich **vollkommen korrekt annotiert**.
-3. **Explizite Golden-Set-Ergänzungen**:
-   - Um Verzerrungen zu vermeiden (z. B. dass Sled Push stillschweigend Quads/Glutes für 91 normale Bankdrück-Übungen legitimiert), wurden die legitimen Muskelgruppen dieser 6 Fälle **explizit je Muster mit anatomischer Begründung** in `vocab/pattern_muscle_expectations.yaml` nachgetragen.
-4. **Ausnahmen von Invariante 20**:
-   - **`movement_pattern: other`** (73 aktive Übungen) ist ausdrücklich **von Invariante 20 ausgenommen**, da `other` definitionsgemäß keine Richtungs- oder Muskelbindung besitzt.
-5. **Semantik bei Dehnübungen (`SCHEMA.md §5`)**:
-   - Bei Dehnübungen (`modality: stretch`) bezeichnet `role: primary` die Zielmuskelgruppe, die **gedehnt** wird (z. B. `hamstrings` beim Sit & Reach oder `abs` beim Cobra Stretch), nicht den kontrahierenden Antagonisten. Viele scheinbare Ausreißer lösen sich dadurch als sachlich vollkommen korrekt auf.
+1. **Statistical Raw Derivation**:
+   The expectation table was initially derived strictly from the **818 non-golden exercises** (minimum frequency $\\ge 5\\ \\%$, minimum count $\\ge 2$ occurrences per pattern).
+2. **Cross-Validation Against the Golden Set (50 hand-verified reference entries)**:
+   - Against the unadjusted raw frequency table, **6 of 50 Golden Set exercises failed**.
+   - **Measured false-alarm rate of the raw statistics: 12.0 %** (6 / 50).
+   - All 6 Golden Set cases (`1100 Wall-Balls`, `1116 Farmer's Carry`, `1523 Sled Push`, `1684 Thruster`, `423 Muscle-Up`, `500 Reverse Plank`) are domain-wise **completely correctly annotated**.
+3. **Explicit Golden Set Additions**:
+   - To prevent distortion (e.g. Sled Push silently legitimizing quads/glutes for 91 regular bench press exercises), the legitimate muscle groups of these 6 cases were added **explicitly per pattern with anatomical rationale** in `vocab/pattern_muscle_expectations.yaml`.
+4. **Exemptions from Invariant 20**:
+   - **`movement_pattern: other`** (73 active exercises) is explicitly **exempt from Invariant 20**, as `other` by definition carries no directional or muscle-bound constraint.
+5. **Semantics for Stretches (`SCHEMA.md §5`)**:
+   - For stretches (`modality: stretch`), `role: primary` denotes the target muscle group being **stretched** (e.g. `hamstrings` in Sit & Reach or `abs` in Cobra Stretch), not the contracting antagonist. Many apparent outliers resolve naturally as completely factually accurate under this definition.
 
 ---
 
-## 2. Übersicht der verbleibenden 36 Ausreißer
+## 2. Overview of the Remaining 36 Outliers
 
-Im aktiven Gesamtbestand (869 Übungen) lösen genau **36 Übungen** (~4,1 % des Bestands) eine weiche Warnung (Invariante 20) aus. Keine dieser 36 Übungen wurde automatisch manipuliert.
+Across the total active inventory (868 exercises), exactly **36 exercises** (~4.1% of the catalog) trigger a soft warning (Invariant 20). None of these 36 exercises were artificially manipulated.
 
-Hier sind alle 36 Fälle, gruppiert nach Bewegungsmuster, mit konkreter fachlicher Einschätzung:
-"""
+Here are all 36 cases, grouped by movement pattern, with specific domain assessments:"""
 
 outliers_by_pattern = defaultdict(list)
 for ex in active_exercises:
@@ -63,29 +62,29 @@ for ex in active_exercises:
         assessment = ""
         slug = ex.slug
         if modality in ('stretch', 'mobility') or 'stretch' in slug or 'pose' in slug:
-            assessment = f"**Legitime Dehnung**: Dehnt anatomische Gegenseite ({', '.join(sorted(diff))}) bei Gelenkstellung `{pattern}` (gemäß SCHEMA §5)."
+            assessment = f"**Legitimate stretch**: Stretches anatomical counterpart ({', '.join(sorted(diff))}) under joint angle `{pattern}` (per SCHEMA §5)."
         elif any(k in slug for k in ('curl-to-press', 'thruster', 'squat-to-press', 'snatch', 'high-pull', 'rowing-machine', 'ski-machine', 'clean')):
-            assessment = f"**Legitimer Hybrid**: Mehrgelenk-/Ganzkörperbewegung; {', '.join(sorted(diff))} liefert Kraftkomponente der Teilbewegung."
+            assessment = f"**Legitimate hybrid**: Multi-joint / full-body movement; {', '.join(sorted(diff))} provides force component for sub-movement."
         elif 'finger-pushup' in slug:
-            assessment = "**Legitime Ausnahme**: Liegestütz auf Fingern; Unterarm-Beugesehnen tragen extreme Haltekraft."
+            assessment = "**Legitimate exception**: Push-up on fingers; forearm flexor tendons bear extreme holding force."
         elif 'l-sit-pull-ups' in slug:
-            assessment = "**Legitimer Hybrid**: Klimmzug mit statisch gehaltenem L-Sitz (Bauchmuskeln primär aktiv)."
+            assessment = "**Legitimate hybrid**: Pull-up with static L-sit hold (abdominals primarily active)."
         elif 'back-lever' in slug or 'frog-stand' in slug or 'handstand' in slug:
-            assessment = f"**Turnen/Calisthenics**: Isometrische Haltekraft auf {', '.join(sorted(diff))} zur Körperspannung."
+            assessment = f"**Gymnastics / Calisthenics**: Isometric tension on {', '.join(sorted(diff))} for body tension."
         elif 'sumo-squat' in slug or 'horse-stance' in slug:
-            assessment = "**Legitime Variante**: Extrem breiter Stand rekrutiert Adduktoren primär."
+            assessment = "**Legitimate variation**: Extremely wide stance recruits adductors primarily."
         elif 'ankle-roll' in slug or 'wrist-circles' in slug:
-            assessment = "**Isolierte Gelenkbewegung**: Spezifische Rotation für lokale Sehnen/Muskeln."
+            assessment = "**Isolated joint movement**: Specific rotation for local tendons/muscles."
         elif 'cat-plank' in slug:
-            assessment = "**Mögliche Fehlannotation**: Quadrizeps als Primärmuskel bei Plank ungewöhnlich (prüfen ob Core primär)."
+            assessment = "**Possible misannotation**: Quadriceps as primary muscle in plank is unusual (check if core is primary)."
         elif 'pullback' in slug:
-            assessment = "**Prüfen**: Pullback mit unterem Rücken als Primärmuskel (prüfen ob oberer Rücken/Lats gemeint sind)."
+            assessment = "**Review required**: Pullback with lower back as primary muscle (check if upper back/lats intended)."
         elif 'talons-fesses' in slug:
-            assessment = "**Lauf-Drill**: Butt Kicks (Fersenanschlag ans Gesäß); Beinbeuger kontrahieren aktiv bei der Kniebeugung."
+            assessment = "**Running drill**: Butt Kicks (heels to buttocks); hamstrings contract actively during knee flexion."
         elif 'plank-with-alternating-leg-lift' in slug:
-            assessment = "**Dynamische Plank**: Beinanheben aktiviert Gluteus maximus als zusätzliche Primärkomponente."
+            assessment = "**Dynamic plank**: Leg lift activates gluteus maximus as additional primary component."
         else:
-            assessment = f"**Prüffall**: Primärmuskel {', '.join(sorted(diff))} bei `{pattern}` ungewöhnlich; prüfen ob Sekundärmuskel genügt."
+            assessment = f"**Case for review**: Primary muscle {', '.join(sorted(diff))} in `{pattern}` is unusual; check if secondary muscle suffices."
 
         outliers_by_pattern[pattern].append({
             'id': ex.id,
@@ -101,16 +100,17 @@ for ex in active_exercises:
 
 r1_lines = [r1_header]
 for pattern, items in sorted(outliers_by_pattern.items()):
-    r1_lines.append(f"\n### Muster `{pattern}` ({len(items)} Ausreißer)")
-    r1_lines.append(f"*Erwartete Muskelgruppen laut Tabelle:* `{', '.join(items[0]['expected'])}`\n")
-    r1_lines.append("| ID | Name (EN) | Name (DE) | Unerwartet | Primärmuskel(n) | Einschätzung |")
+    r1_lines.append(f"\n### Pattern `{pattern}` ({len(items)} outliers)")
+    r1_lines.append(f"*Expected muscle groups per table:* `{', '.join(items[0]['expected'])}`\n")
+    r1_lines.append("| ID | Name (EN) | Name (DE) | Unexpected | Primary Muscle(s) | Assessment |")
     r1_lines.append("|---|---|---|---|---|---|")
     for item in sorted(items, key=lambda x: int(x['id'])):
-        link = f"[{item['name_en']}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{item['id']}.yaml)"
+        link = f"[{item['name_en']}](../data/exercises/{item['id']}.yaml)"
         r1_lines.append(f"| `{item['id']}` | {link} | {item['name_de']} | **{', '.join(item['unexpected'])}** | `{', '.join(item['prims'])}` | {item['assessment']} |")
 
 with open('reports/invariant_20_outliers.md', 'w') as f:
-    f.write('\n'.join(r1_lines))
+    f.write('\n'.join(r1_lines) + '\n')
+
 
 
 # ==============================================================================
@@ -147,40 +147,39 @@ for (pattern, group), exs in families.items():
             'exercises': exs
         })
 
-r2_header = """# Familien-Konsistenzbericht: Abweichungen innerhalb gleicher Muster & Muskelgruppen
+r2_header = """# Family Consistency Report: Divergences Within Same Patterns & Muscle Groups
 
-## Zweck & Methodik
-Übungen, die dasselbe Bewegungsmuster (`movement_pattern`) teilen und dieselbe primäre Muskelgruppe adressieren, bilden eine funktionelle Familie (z. B. `horizontal_push` + `chest` = Bankdrück-Familie).
+## Purpose & Methodology
+Exercises that share the same movement pattern (`movement_pattern`) and target the same primary muscle group form a functional family (e.g., `horizontal_push` + `chest` = bench press family).
 
-Dieser Bericht deckt Übungen auf, bei denen innerhalb derselben Familie abweichende Werte für:
+This report identifies exercises where divergent values occur within the same family for:
 - **`mechanic`** (`compound` vs. `isolation`)
 - **`tracking_type`** (`weight_reps`, `bodyweight_reps`, `time`, etc.)
 - **`load_mode`** (`external`, `bodyweight`, `assisted`, `variable`)
 
-auftreten. Einige Abweichungen sind **strukturell legitim** (z. B. Klimmzug mit Körpergewicht vs. Latzug mit externem Gewicht), andere sind **echte Inkonsistenzen** (z. B. eine Kniebeugen-Variante fälschlich als `isolation` oder ein Curl als `compound`).
-"""
+Some divergences are **structurally legitimate** (e.g. bodyweight pull-up vs. lat pulldown with external weight), while others are **true inconsistencies** (e.g. a squat variant erroneously declared as `isolation` or a curl as `compound`)."""
 
 r2_lines = [r2_header]
-r2_lines.append(f"\nInsgesamt wurden **{len(inconsistent_families)} Familien** mit Werte-Varianzen identifiziert:\n")
+r2_lines.append(f"\nA total of **{len(inconsistent_families)} families** with value variances were identified:\n")
 
 for fam in sorted(inconsistent_families, key=lambda x: (x['pattern'], x['group'])):
     p, g = fam['pattern'], fam['group']
-    r2_lines.append(f"\n### Familie `{p}` + `{g}` ({fam['count']} Übungen)")
+    r2_lines.append(f"\n### Family `{p}` + `{g}` ({fam['count']} exercises)")
     var_list = []
     if len(fam['mechanics']) > 1: var_list.append(f"mechanic: {fam['mechanics']}")
     if len(fam['load_modes']) > 1: var_list.append(f"load_mode: {fam['load_modes']}")
     if len(fam['trackings']) > 1: var_list.append(f"tracking_type: {fam['trackings']}")
-    r2_lines.append(f"*Varianzen:* {', '.join(var_list)}\n")
+    r2_lines.append(f"*Variances:* {', '.join(var_list)}\n")
     
     if len(fam['mechanics']) > 1:
-        r2_lines.append("> [!WARNING]\n> **Mechanic-Inkonsistenz**: Diese Familie enthält sowohl `compound` als auch `isolation`! Bitte prüfen, ob Isolationsübungen versehentlich als Compound deklariert wurden.\n")
+        r2_lines.append("> [!WARNING]\n> **Mechanic Inconsistency**: This family contains both `compound` and `isolation`! Please check whether isolation exercises were accidentally declared as compound.\n")
     
     r2_lines.append("| ID | Name (EN) | Equipment | Mechanic | Load Mode | Tracking Type |")
     r2_lines.append("|---|---|---|---|---|---|")
     for ex in sorted(fam['exercises'], key=lambda x: int(x.id)):
         t_en = data.translation('en', ex.id)
         name = t_en.name if t_en else ex.slug
-        link = f"[{name}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{ex.id}.yaml)"
+        link = f"[{name}](../data/exercises/{ex.id}.yaml)"
         eq = ex.data.get('primary_equipment', '-')
         mech = ex.data.get('mechanic', '-')
         lm = ex.data.get('load_mode', '-')
@@ -188,7 +187,7 @@ for fam in sorted(inconsistent_families, key=lambda x: (x['pattern'], x['group']
         r2_lines.append(f"| `{ex.id}` | {link} | `{eq}` | `{mech}` | `{lm}` | `{tr}` |")
 
 with open('reports/family_consistency.md', 'w') as f:
-    f.write('\n'.join(r2_lines))
+    f.write('\n'.join(r2_lines) + '\n')
 
 
 # ==============================================================================
@@ -199,18 +198,17 @@ print("Generating reports/unclassifiable.md...")
 other_pattern = [ex for ex in active_exercises if ex.data.get('movement_pattern') == 'other']
 other_equipment = [ex for ex in active_exercises if ex.data.get('primary_equipment') == 'other']
 
-r3_header = f"""# Unklassifizierte Übungen: `movement_pattern: other` und `primary_equipment: other`
+r3_header = """# Unclassifiable Exercises: `movement_pattern: other` and `primary_equipment: other`
 
-## Zweck
-In Phase 2 wurden alle 869 aktiven Übungen klassifiziert. Dabei verblieben:
-- **73 Übungen mit `movement_pattern: other`**
-- **10 Übungen mit `primary_equipment: other`**
+## Purpose
+In Phase 2, all 868 active exercises were classified. The remaining entries are:
+- **73 exercises with `movement_pattern: other`**
+- **10 exercises with `primary_equipment: other`**
 
-Dieser Bericht sortiert diese Einträge nach primärer Muskelgruppe. Ziel ist die strukturierte Prüfung:
-1. Verstecken sich unter `other` weitere geschlossene Bewegungsmuster (wie zuvor `hip_extension`)?
-2. Welche Übungen sind echte komplexe Mischformen (z. B. Burpee, Turkish Get-Up, Mountain Climber), die zu Recht `other` tragen?
-3. Welche Equipment-Einträge können auf präzisere Vokabularwerte umgestellt werden?
-"""
+This report groups these entries by primary muscle group. The goal is structured review:
+1. Are there other closed movement patterns concealed under `other` (such as previously `hip_extension`)?
+2. Which exercises are true complex hybrid movements (e.g. Burpee, Turkish Get-Up, Mountain Climber) that legitimately carry `other`?
+3. Which equipment entries can be migrated to more specific vocabulary values?"""
 
 r3_lines = [r3_header]
 
@@ -221,53 +219,53 @@ for ex in other_pattern:
     primary_key = '/'.join(groups) if groups else 'none'
     pattern_by_group[primary_key].append(ex)
 
-r3_lines.append(f"\n## 1. `movement_pattern: other` ({len(other_pattern)} Übungen, nach Muskelgruppe)\n")
+r3_lines.append(f"\n## 1. `movement_pattern: other` ({len(other_pattern)} exercises, grouped by muscle group)\n")
 for grp, exs in sorted(pattern_by_group.items(), key=lambda x: len(x[1]), reverse=True):
-    r3_lines.append(f"\n### Muskelgruppe(n): `{grp}` ({len(exs)} Übungen)\n")
-    r3_lines.append("| ID | Name (EN) | Modality | Equipment | Primärmuskel(n) | Potenzielle Sub-Muster / Einordnung |")
+    r3_lines.append(f"\n### Muscle group(s): `{grp}` ({len(exs)} exercises)\n")
+    r3_lines.append("| ID | Name (EN) | Modality | Equipment | Primary Muscle(s) | Potential Sub-Pattern / Classification |")
     r3_lines.append("|---|---|---|---|---|---|")
     for ex in sorted(exs, key=lambda x: int(x.id)):
         t_en = data.translation('en', ex.id)
         name = t_en.name if t_en else ex.slug
-        link = f"[{name}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{ex.id}.yaml)"
+        link = f"[{name}](../data/exercises/{ex.id}.yaml)"
         mod = ex.data.get('modality', '-')
         eq = ex.data.get('primary_equipment', '-')
         prims = ', '.join(ex.muscle_ids('primary'))
         
-        hint = "Echte Mischform / Ganzkörperübung"
+        hint = "True hybrid / full-body exercise"
         slug = ex.slug
-        if 'burpee' in slug or 'squat-thrust' in slug: hint = "Ganzkörper-Cardio (Burpee/Sprawl)"
-        elif 'mountain-climber' in slug: hint = "Dynamische Plank/Core-Cardio"
-        elif 'jumping-jack' in slug or 'jump' in slug or 'hop' in slug: hint = "Sprung-/Konditionsübung"
-        elif 'neck' in slug: hint = "Hals-/Nackenbeugung (evtl. `neck_flexion`)"
-        elif 'foam-roll' in slug or 'roll' in slug: hint = "Faszientraining / Rollen"
-        elif 'walk' in slug or 'run' in slug: hint = "Prüfen ob `gait` passt"
-        elif 'plank' in slug or 'hold' in slug: hint = "Prüfen ob `anti_extension` oder `anti_lateral_flexion` passt"
+        if 'burpee' in slug or 'squat-thrust' in slug: hint = "Full-body cardio (Burpee/Sprawl)"
+        elif 'mountain-climber' in slug: hint = "Dynamic plank / core cardio"
+        elif 'jumping-jack' in slug or 'jump' in slug or 'hop' in slug: hint = "Jumping / conditioning exercise"
+        elif 'neck' in slug: hint = "Neck flexion (possibly `neck_flexion`)"
+        elif 'foam-roll' in slug or 'roll' in slug: hint = "Myofascial release / rolling"
+        elif 'walk' in slug or 'run' in slug: hint = "Check if `gait` applies"
+        elif 'plank' in slug or 'hold' in slug: hint = "Check if `anti_extension` or `anti_lateral_flexion` applies"
         
         r3_lines.append(f"| `{ex.id}` | {link} | `{mod}` | `{eq}` | `{prims}` | {hint} |")
 
-r3_lines.append(f"\n## 2. `primary_equipment: other` ({len(other_equipment)} Übungen)\n")
-r3_lines.append("| ID | Name (EN) | Modality | Pattern | Setup | Erforderliches Gerät / Vorschlag |")
+r3_lines.append(f"\n## 2. `primary_equipment: other` ({len(other_equipment)} exercises)\n")
+r3_lines.append("| ID | Name (EN) | Modality | Pattern | Setup | Required Equipment / Proposal |")
 r3_lines.append("|---|---|---|---|---|---|")
 for ex in sorted(other_equipment, key=lambda x: int(x.id)):
     t_en = data.translation('en', ex.id)
     name = t_en.name if t_en else ex.slug
-    link = f"[{name}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{ex.id}.yaml)"
+    link = f"[{name}](../data/exercises/{ex.id}.yaml)"
     mod = ex.data.get('modality', '-')
     p = ex.data.get('movement_pattern', '-')
     setup = ', '.join(ex.data.get('setup') or []) or '[]'
     
-    proposal = "Prüfen ob bodyweight mit setup reicht"
+    proposal = "Check if bodyweight with setup suffices"
     slug = ex.slug
-    if 'towel' in slug: proposal = "Handtuch (Setup-Gegenstand / Bodyweight)"
-    elif 'stick' in slug or 'broom' in slug: proposal = "Stab / Besenstiel"
-    elif 'wheel' in slug: proposal = "Ab Wheel (bereits in Setup vorhanden!)"
-    elif 'tire' in slug: proposal = "Traktorreifen / Tire Flip"
+    if 'towel' in slug: proposal = "Towel (setup item / bodyweight)"
+    elif 'stick' in slug or 'broom' in slug: proposal = "Stick / broomstick"
+    elif 'wheel' in slug: proposal = "Ab Wheel (already present in setup!)"
+    elif 'tire' in slug: proposal = "Tractor tire / Tire Flip"
     
     r3_lines.append(f"| `{ex.id}` | {link} | `{mod}` | `{p}` | `{setup}` | {proposal} |")
 
 with open('reports/unclassifiable.md', 'w') as f:
-    f.write('\n'.join(r3_lines))
+    f.write('\n'.join(r3_lines) + '\n')
 
 
 # ==============================================================================
@@ -276,17 +274,17 @@ with open('reports/unclassifiable.md', 'w') as f:
 print("Generating reports/name_overrides.md...")
 
 name_rules = [
-    ('neck', re.compile(r'\b(neck|nacken|hals)\b', re.I), 'Nacken / Hals'),
-    ('chest', re.compile(r'\b(bench\s+press|chest|pecs?|brustpresse|bankdrücken)\b', re.I), 'Brust / Bench Press'),
-    ('biceps', re.compile(r'\b(biceps?|bizeps|bicep\s+curls?)\b', re.I), 'Bizeps / Curl'),
-    ('triceps', re.compile(r'\b(triceps?|trizeps|pushdowns?|skullcrushers?|kickbacks?)\b', re.I), 'Trizeps'),
-    ('back', re.compile(r'\b(lat\s+pull|latzug|pull-?ups?|chin-?ups?|klimmzug|rudern|\brow\b|\brows\b)\b', re.I), 'Rücken / Row / Lats'),
-    ('shoulders', re.compile(r'\b(overhead\s+press|military\s+press|lateral\s+raises?|seitheben|front\s+raises?|frontheben|shrugs?)\b', re.I), 'Schultern / Shrug'),
-    ('quads', re.compile(r'\b(squats?|kniebeuge|leg\s+press|beinpresse|leg\s+extensions?|beinstrecken)\b', re.I), 'Quadrizeps / Kniebeuge'),
-    ('hamstrings', re.compile(r'\b(hamstrings?|beinbeugen|leg\s+curls?|deadlifts?|kreuzheben|rdls?)\b', re.I), 'Beinbeuger / Hamstrings'),
-    ('calves', re.compile(r'\b(calves?|calfs?|waden?|wadenheben)\b', re.I), 'Waden'),
-    ('abs', re.compile(r'\b(crunches?|planks?|sit-?ups?|bauchpresse)\b', re.I), 'Bauch / Core'),
-    ('glutes', re.compile(r'\b(glutes?|hip\s+thrusts?|glute\s+bridge|beckenheben)\b', re.I), 'Gluteus / Hip Thrust'),
+    ('neck', re.compile(r'\b(neck|nacken|hals)\b', re.I), 'Neck'),
+    ('chest', re.compile(r'\b(bench\s+press|chest|pecs?|brustpresse|bankdrücken)\b', re.I), 'Chest / Bench Press'),
+    ('biceps', re.compile(r'\b(biceps?|bizeps|bicep\s+curls?)\b', re.I), 'Biceps / Curl'),
+    ('triceps', re.compile(r'\b(triceps?|trizeps|pushdowns?|skullcrushers?|kickbacks?)\b', re.I), 'Triceps'),
+    ('back', re.compile(r'\b(lat\s+pull|latzug|pull-?ups?|chin-?ups?|klimmzug|rudern|\brow\b|\brows\b)\b', re.I), 'Back / Row / Lats'),
+    ('shoulders', re.compile(r'\b(overhead\s+press|military\s+press|lateral\s+raises?|seitheben|front\s+raises?|frontheben|shrugs?)\b', re.I), 'Shoulders / Shrug'),
+    ('quads', re.compile(r'\b(squats?|kniebeuge|leg\s+press|beinpresse|leg\s+extensions?|beinstrecken)\b', re.I), 'Quadriceps / Squat'),
+    ('hamstrings', re.compile(r'\b(hamstrings?|beinbeugen|leg\s+curls?|deadlifts?|kreuzheben|rdls?)\b', re.I), 'Hamstrings'),
+    ('calves', re.compile(r'\b(calves?|calfs?|waden?|wadenheben)\b', re.I), 'Calves'),
+    ('abs', re.compile(r'\b(crunches?|planks?|sit-?ups?|bauchpresse)\b', re.I), 'Abs / Core'),
+    ('glutes', re.compile(r'\b(glutes?|hip\s+thrusts?|glute\s+bridge|beckenheben)\b', re.I), 'Glutes / Hip Thrust'),
 ]
 
 override_matches = []
@@ -314,26 +312,25 @@ for ex in active_exercises:
                     'prims': prims
                 })
 
-r4_header = f"""# Name-Override-Bericht: Widersprüche zwischen Übungsname und Primärmuskel
+r4_header = f"""# Name Override Report: Conflicts Between Exercise Name and Primary Muscle
 
-## Zweck & Heuristik
-In älteren wger-Datensätzen und bei automatisierten Annotationen treten gelegentlich fundamentale Diskrepanzen auf: Eine Übung heißt dem Namen nach eindeutig nach Muskelgruppe A (z. B. *Neck Extension*, *Hamstring Curl*, *Front Raise*), die Primärmuskelannotation weist jedoch eine völlig andere Muskelgruppe B zu.
+## Purpose & Heuristics
+In legacy wger datasets and automated annotations, fundamental discrepancies occasionally occur: an exercise by name clearly targets muscle group A (e.g. *Neck Extension*, *Hamstring Curl*, *Front Raise*), but primary muscle annotation assigns a completely different muscle group B.
 
-Dieser Bericht gleicht standardisierte Namensbestandteile (Reguläre Ausdrücke auf EN/DE-Titel) mit den annotierten Primärmuskeln ab.
+This report compares standardized naming patterns (regular expressions on EN/DE titles) with the annotated primary muscles.
 
-Gefundene Treffer: **{len(override_matches)} Übungen**.
-"""
+Matches found: **{len(override_matches)} exercises**."""
 
 r4_lines = [r4_header]
-r4_lines.append("| ID | Name (EN) | Name (DE) | Suchbegriff | Name impliziert | Annotierte Gruppe(n) | Primärmuskel(n) |")
+r4_lines.append("| ID | Name (EN) | Name (DE) | Search Term | Implied by Name | Annotated Group(s) | Primary Muscle(s) |")
 r4_lines.append("|---|---|---|---|---|---|---|")
 
 for match in sorted(override_matches, key=lambda x: (x['implied'], int(x['id']))):
-    link = f"[{match['name_en']}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{match['id']}.yaml)"
+    link = f"[{match['name_en']}](../data/exercises/{match['id']}.yaml)"
     r4_lines.append(f"| `{match['id']}` | {link} | {match['name_de']} | `{match['term']}` | **`{match['implied']}`** | `{', '.join(match['annotated_groups'])}` | `{', '.join(match['prims'])}` |")
 
 with open('reports/name_overrides.md', 'w') as f:
-    f.write('\n'.join(r4_lines))
+    f.write('\n'.join(r4_lines) + '\n')
 
 
 # ==============================================================================
@@ -373,27 +370,27 @@ for ex in active_exercises:
     # 1. Equipment mismatch in titles
     for en_re, de_re, label in equip_en_de:
         if en_re.search(en_title) and de_re.search(de_title):
-            issues.append(f"Geräte-Widerspruch im Titel: {label}")
+            issues.append(f"Equipment discrepancy in title: {label}")
             
     # 2. Movement pattern mismatch in titles (Push vs Pull)
     if re_press_en.search(en_title) and re_pull_de.search(de_title) and 'multi' not in en_title.lower():
-        issues.append("Bewegungs-Widerspruch: EN drückt (press/push), DE zieht (rudern/latzug)")
+        issues.append("Movement contradiction: EN presses (press/push), DE pulls (rudern/latzug)")
         
     if re_pull_en.search(en_title) and re_press_de.search(de_title):
-        issues.append("Bewegungs-Widerspruch: EN zieht (pull/row), DE drückt (drücken)")
+        issues.append("Movement contradiction: EN pulls (pull/row), DE presses (bankdrücken/schulterdrücken)")
         
     # 3. Text length disparity ratio >= 3.5 with substantial length
     len_en = len(en_desc.split())
     len_de = len(de_desc.split())
     if len_en > 15 or len_de > 15:
         if len_en > 0 and len_de == 0:
-            issues.append(f"Vollständige Text-Diskrepanz: EN hat {len_en} Wörter Beschreibung, DE ist leer")
+            issues.append(f"Complete text disparity: EN has {len_en} words of description, DE is empty")
         elif len_de > 0 and len_en == 0:
-            issues.append(f"Vollständige Text-Diskrepanz: DE hat {len_de} Wörter Beschreibung, EN ist leer")
+            issues.append(f"Complete text disparity: DE has {len_de} words of description, EN is empty")
         elif len_en >= 3.5 * len_de and len_de > 0:
-            issues.append(f"Große Asymmetrie: EN ({len_en} Wörter) deutlich ausführlicher als DE ({len_de} Wörter)")
+            issues.append(f"Large asymmetry: EN ({len_en} words) significantly more detailed than DE ({len_de} words)")
         elif len_de >= 3.5 * len_en and len_en > 0:
-            issues.append(f"Große Asymmetrie: DE ({len_de} Wörter) deutlich ausführlicher als EN ({len_en} Wörter)")
+            issues.append(f"Large asymmetry: DE ({len_de} words) significantly more detailed than EN ({len_en} words)")
 
     if issues:
         discrepancies.append({
@@ -404,28 +401,28 @@ for ex in active_exercises:
             'issues': issues
         })
 
-r5_header = f"""# Sprach-Diskrepanzbericht: EN vs. DE Widersprüche
+r5_header = f"""# Cross-Language Discrepancy Report: EN vs. DE Conflicts
 
-## Methodik & Prüfkriterien
-In Phase 2 wurden die sprachneutralen Fakten vereinheitlicht. Bei den Texten (`data/i18n/`) existieren jedoch historische Divergenzen zwischen den gepflegten Primärsprachen Englisch (`en`) und Deutsch (`de`).
+## Methodology & Verification Criteria
+In Phase 2, language-neutral facts were unified. However, within texts (`data/i18n/`), historical divergences exist between the maintained primary languages English (`en`) and German (`de`).
 
-Dieser Bericht prüft auf drei Ebenen:
-1. **Gerätefamilien-Widersprüche im Titel** (z. B. Kurzhantel auf Englisch, aber Langhantel auf Deutsch).
-2. **Bewegungsvektor-Widersprüche** (z. B. *Press* auf Englisch, aber *Rudern* auf Deutsch).
-3. **Starke Asymmetrien in der Beschreibung** ($\ge 3,5\\times$ Längenunterschied oder völlig fehlende deutsche Beschreibung bei bestehendem englischen Fachtext).
+This report checks three levels:
+1. **Equipment family conflicts in titles** (e.g. dumbbell in English, but barbell in German).
+2. **Movement vector conflicts** (e.g. *Press* in English, but *Row* in German).
+3. **Substantial description asymmetry** ($\\ge 3.5\\times$ length disparity or completely missing German description when English text exists).
 
-Insgesamt wurden **{len(discrepancies)} Übungen** mit Diskrepanzen identifiziert:
-"""
+A total of **{len(discrepancies)} exercises** with discrepancies were identified:"""
 
 r5_lines = [r5_header]
-r5_lines.append("| ID | Name (EN) | Name (DE) | Gefundene Diskrepanz(en) |")
+r5_lines.append("| ID | Name (EN) | Name (DE) | Identified Discrepancy / Discrepancies |")
 r5_lines.append("|---|---|---|---|")
 for item in sorted(discrepancies, key=lambda x: int(x['id'])):
-    link = f"[{item['name_en']}](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/{item['id']}.yaml)"
+    link = f"[{item['name_en']}](../data/exercises/{item['id']}.yaml)"
     issue_str = "<br>".join(item['issues'])
     r5_lines.append(f"| `{item['id']}` | {link} | {item['name_de']} | {issue_str} |")
 
 with open('reports/cross_language.md', 'w') as f:
-    f.write('\n'.join(r5_lines))
+    f.write('\n'.join(r5_lines) + '\n')
 
 print("All 5 reports generated successfully!")
+

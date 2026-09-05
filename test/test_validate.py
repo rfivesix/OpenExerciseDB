@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Prueft den Validator gegen absichtlich kaputte Daten.
+"""Tests the validator against deliberately malformed data.
 
-Ein Regelwerk, das nie anschlaegt, ist von einem Regelwerk, das nicht laeuft,
-nicht zu unterscheiden. Jede Invariante bekommt hier einen Fall, der sie
-ausloesen muss — und der Bestand im Repo ist der Gegenbeweis, dass sie nicht
-grundlos anschlaegt.
+A ruleset that never triggers is indistinguishable from a ruleset that does not
+run. Each invariant is provided a test case designed to trigger it — and the
+catalog in the repository serves as counter-proof that it does not fire without reason.
 """
 from __future__ import annotations
 
@@ -37,7 +36,7 @@ MINIMAL_TEXT = {
 
 
 class ValidatorTestCase(unittest.TestCase):
-    """Schreibt Fixtures in ein temporaeres data/ und laesst den Validator los."""
+    """Writes fixtures to a temporary data/ directory and runs the validator."""
 
     def setUp(self) -> None:
         self.tmp = tempfile.TemporaryDirectory()
@@ -74,8 +73,8 @@ class ValidatorTestCase(unittest.TestCase):
         return report
 
     def invariants(self, profile: str = "phase1", severity: str = validate.ERROR) -> set[str]:
-        # open_findings: entschaerfte Befunde bleiben im Bericht stehen, zaehlen
-        # aber nicht als offen — genau das ist der Zweck der Ausnahmen.
+        # open_findings: excused findings remain in the report, but do not
+        # count as open — this is precisely the purpose of exceptions.
         return {
             finding.invariant
             for finding in self.report(profile).open_findings
@@ -85,9 +84,9 @@ class ValidatorTestCase(unittest.TestCase):
     def assertTriggers(self, invariant: str, **overrides) -> None:
         self.write_exercise(**overrides)
         self.write_text()
-        self.assertIn(invariant, self.invariants(), f"Invariante {invariant} hat nicht ausgeloest")
+        self.assertIn(invariant, self.invariants(), f"Invariant {invariant} did not trigger")
 
-    # -- Struktur -----------------------------------------------------------
+    # -- Structure ----------------------------------------------------------
     def test_clean_fixture_is_silent(self) -> None:
         self.write_exercise()
         self.write_text()
@@ -103,8 +102,8 @@ class ValidatorTestCase(unittest.TestCase):
         self.assertTriggers("2", upstream={"source": "wger", "license": "WTFPL"})
 
     def test_2_language_directory_mismatch(self) -> None:
-        """Ein englischer Text im de-Verzeichnis. Genau so entsteht der Fehler,
-        den die alte Pipeline ueber die falsche LANGUAGE_ID_MAP eingebaut hat."""
+        """An English text in the de directory. This replicates the bug created
+        by the legacy pipeline's incorrect LANGUAGE_ID_MAP."""
         self.write_exercise()
         yamlio.write(self.i18n_dir / "de" / "1.yaml", {**MINIMAL_TEXT, "language": "en"})
         self.assertIn("2", self.invariants())
@@ -140,7 +139,7 @@ class ValidatorTestCase(unittest.TestCase):
         self.write_exercise(id="2", slug="b", aliases=["1"])
         self.assertIn("7", self.invariants())
 
-    # -- Inhaltliche Plausibilitaet -----------------------------------------
+    # -- Content Plausibility -----------------------------------------------
     def test_8_is_a_warning_in_phase1_and_an_error_in_full(self) -> None:
         self.write_exercise(muscles=[{"id": "latissimus_dorsi", "role": "secondary"}])
         self.write_text()
@@ -211,17 +210,17 @@ class ValidatorTestCase(unittest.TestCase):
         self.assertTriggers("17", supports_added_weight=True, tracking_type="weight_reps")
 
     def test_19_cannot_be_violated_any_more(self) -> None:
-        """force_vector ist abgeleitet — ein Widerspruch ist nicht formulierbar.
+        """force_vector is derived — a contradiction cannot be formulated.
 
-        Der Test haelt fest, dass die Ableitungstabelle jedes Muster kennt.
-        Faellt spaeter ein Muster ins Vokabular ohne Eintrag dort, wuerde der
-        Build stillschweigend NULL schreiben statt aufzufallen.
+        The test records that the derivation table knows every pattern.
+        If a pattern enters the vocabulary later without an entry here,
+        the build would silently write NULL instead of failing visibly.
         """
         vocab = Vocabularies()
         patterns = set(vocab.classification("movement_pattern"))
         table = set(vocab.force_vector_by_pattern)
-        self.assertEqual(set(), patterns - table, "Muster ohne Eintrag in der Ableitungstabelle")
-        self.assertEqual(set(), table - patterns, "Ableitungstabelle kennt unbekannte Muster")
+        self.assertEqual(set(), patterns - table, "Patterns without entry in derivation table")
+        self.assertEqual(set(), table - patterns, "Derivation table knows unknown patterns")
         allowed = set(vocab.classification("force_vector")) | {None}
         self.assertTrue(set(vocab.force_vector_by_pattern.values()) <= allowed)
 
@@ -245,7 +244,7 @@ class ValidatorTestCase(unittest.TestCase):
 
 
 class RealDataTestCase(unittest.TestCase):
-    """Der Bestand im Repo selbst — die Gegenprobe."""
+    """The repository data itself — end-to-end sanity check."""
 
     def test_repository_passes_the_phase1_profile(self) -> None:
         data = dataset_mod.load()
@@ -259,15 +258,14 @@ class RealDataTestCase(unittest.TestCase):
         validate.check_muscles(data, vocab, report, profile="phase1")
         validate.check_plausibility(data, vocab, report)
         validate.check_pattern_expectations(data, vocab, report)
-        # Wie in main(): zuletzt, und es entscheidet nicht ueber Befunde, sondern
-        # darueber, ob sie erklaert sind.
+        # As in main(): last, and it does not decide findings, but whether they are explained.
         validate.apply_exceptions(data, report)
         self.assertEqual(
-            [], [f.as_dict() for f in report.errors][:20], f"{len(report.errors)} Fehler"
+            [], [f.as_dict() for f in report.errors][:20], f"{len(report.errors)} errors"
         )
 
     def test_the_only_soft_invariant_that_fires_is_excused(self) -> None:
-        """616 Squat Thrust — Cardio-Uebung, die in Wiederholungen geloggt wird."""
+        """616 Squat Thrust — cardio exercise logged in repetitions."""
         data = dataset_mod.load()
         report = validate.Report(profile="phase1")
         validate.check_plausibility(data, Vocabularies(), report)
@@ -278,40 +276,34 @@ class RealDataTestCase(unittest.TestCase):
         self.assertEqual(1, soft["12"]["fired"])
 
     def test_every_legacy_wger_muscle_maps_back_to_its_own_name(self) -> None:
-        """Die Kompatibilitaetsspalten stehen und fallen mit dieser Umkehrung."""
+        """The compatibility columns stand and fall with this inverse mapping."""
         vocab = Vocabularies()
         for raw_name, node in vocab.muscles.legacy_wger_mapping.items():
             self.assertEqual(
                 raw_name,
                 vocab.muscles.legacy_wger_name(node),
-                f"{raw_name!r} -> {node!r} kommt nicht als {raw_name!r} zurueck",
+                f"{raw_name!r} -> {node!r} did not roundtrip back to {raw_name!r}",
             )
 
     def test_muscle_heads_resolve_to_their_parents_legacy_name(self) -> None:
-        """Der eigentliche Gewinn: Phase-2-Feinschliff bricht die App nicht."""
+        """The main benefit: Phase 2 refinement does not break the app."""
         vocab = Vocabularies()
         self.assertEqual("Trapezius", vocab.muscles.legacy_wger_name("traps_upper"))
         self.assertEqual("Triceps", vocab.muscles.legacy_wger_name("triceps_long_head"))
         self.assertEqual("Quads", vocab.muscles.legacy_wger_name("vastus_medialis"))
         self.assertEqual("Hamstrings", vocab.muscles.legacy_wger_name("biceps_femoris"))
-        # Muskeln, die die heutige App gar nicht kennt, duerfen nichts liefern —
-        # sonst landen sie unter einem falschen Namen in der Statistik.
+        # Muscles unknown to today's app must return None — otherwise they end up under a wrong name in statistics.
         self.assertIsNone(vocab.muscles.legacy_wger_name("erector_spinae"))
         self.assertIsNone(vocab.muscles.legacy_wger_name("hip_adductors"))
 
 
-if __name__ == "__main__":
-    unittest.main(verbosity=2)
-
-
 class PublishedIdsTestCase(unittest.TestCase):
-    """Invariante 21 gegen das Register — die Regel, die 38 Uebungen gekostet hat.
+    """Invariant 21 against the registry — the rule safeguarding previously published exercises.
 
-    Der urspruengliche Entwurf verglich gegen das *vorige* Release. Das hat eine
-    Ratsche: ist ein Verlust einmal durch, kennt die naechste Baseline die ID
-    nicht mehr, und jeder folgende Diff meldet voellig korrekt null
-    Entfernungen. Diese Tests halten fest, dass die Pruefung jetzt gegen einen
-    Bestand laeuft, der nur wachsen kann.
+    The original draft compared against the *previous* release. That had a
+    ratchet effect: once a deletion slipped through, the next baseline no longer
+    knew the ID, and every subsequent diff correctly reported zero deletions.
+    These tests ensure validation checks against an inventory that can only grow.
     """
 
     def setUp(self) -> None:
@@ -356,7 +348,7 @@ class PublishedIdsTestCase(unittest.TestCase):
         self.assertIn("2", self.findings()[0].message)
 
     def test_a_deprecated_entry_satisfies_the_rule(self) -> None:
-        """Der vorgesehene Weg: nicht loeschen, sondern stilllegen."""
+        """The intended path: deprecate rather than delete."""
         self.register("1", "2")
         self.write("1")
         self.write("2", status="deprecated")
@@ -369,21 +361,21 @@ class PublishedIdsTestCase(unittest.TestCase):
         self.assertEqual([], self.findings())
 
     def test_a_silenced_entry_without_any_text_is_an_error(self) -> None:
-        """Eine Zeile, die die App nicht anzeigen kann, ist keine Rettung."""
+        """A row that the app cannot display is not a valid rescue."""
         self.register("1", "2")
         self.write("1")
         self.write("2", status="deprecated", with_text=False)
         self.assertEqual(1, len(self.findings()))
 
     def test_new_ids_outside_the_registry_are_fine(self) -> None:
-        """Das Register waechst nach dem Release, nicht davor."""
+        """The registry grows after the release, not before."""
         self.register("1")
         self.write("1")
         self.write("2")
         self.assertEqual([], self.findings())
 
     def test_the_repository_registry_is_complete(self) -> None:
-        """Der Bestand selbst — die Gegenprobe zur Wiederherstellung der 38."""
+        """The repository data itself — end-to-end check for the 38 recovered exercises."""
         validate.PUBLISHED_IDS = self._real_registry
         data = dataset_mod.load()
         report = validate.Report(profile="phase1")
@@ -393,12 +385,12 @@ class PublishedIdsTestCase(unittest.TestCase):
 
 
 class ExceptionsTestCase(ValidatorTestCase):
-    """Die Ausnahmen-Mechanik: entschaerfen, aber nicht alles und nicht stumm.
+    """The exception mechanism: dismiss with cause, but never silently or arbitrarily.
 
-    Sie existiert, weil eine zu strenge Regel keinen sichtbaren Fehler erzeugt,
-    sondern eine still verbogene Annotation — bei Uebung 1103 wurde
-    `anti_extension` gegen `other` getauscht, damit die Regelkette aufging. Das
-    Ergebnis war eine gruene CI und ein falscher Wert in den Daten.
+    This exists because an overly rigid rule does not create a visible error,
+    but a silently distorted annotation — e.g. exercise 1103 swapped
+    `anti_extension` for `other` just to satisfy the rule chain. The result
+    was green CI with incorrect data.
     """
 
     def report(self, profile: str = "phase1") -> "validate.Report":
@@ -408,7 +400,7 @@ class ExceptionsTestCase(ValidatorTestCase):
         return report
 
     def test_a_soft_invariant_can_be_excused(self) -> None:
-        """Squat Thrust: Cardio-Uebung, in Reps geloggt."""
+        """Squat Thrust: cardio exercise logged in reps."""
         self.write_exercise(modality="cardio", tracking_type="bodyweight_reps")
         self.write_text()
         self.assertIn("12", self.invariants())
@@ -416,16 +408,16 @@ class ExceptionsTestCase(ValidatorTestCase):
         self.write_exercise(
             modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_12": "Cardio in Reps."},
+            exceptions={"invariant_12": "Cardio in reps."},
         )
         self.assertNotIn("12", self.invariants())
 
     def test_the_excused_finding_is_kept_with_its_reason(self) -> None:
-        """Entschaerft heisst nicht verschwunden — der Bericht behaelt beides."""
+        """Excused does not mean gone — the report retains both."""
         self.write_exercise(
             modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_12": "Cardio in Reps."},
+            exceptions={"invariant_12": "Cardio in reps."},
         )
         self.write_text()
         report = self.report()
@@ -438,12 +430,12 @@ class ExceptionsTestCase(ValidatorTestCase):
         self.write_exercise(
             supports_added_weight=True,
             tracking_type="weight_reps",
-            exceptions={"invariant_17": "Weil ich es so will, wirklich."},
+            exceptions={"invariant_17": "Because I want it, really."},
         )
         self.write_text()
         invariants = self.invariants()
         self.assertIn("exceptions", invariants)
-        self.assertIn("17", invariants, "die harte Regel feuert trotzdem")
+        self.assertIn("17", invariants, "the hard rule still triggers")
 
     def test_an_exception_without_a_reason_is_an_error(self) -> None:
         self.write_exercise(
@@ -453,21 +445,21 @@ class ExceptionsTestCase(ValidatorTestCase):
         )
         self.write_text()
         self.assertIn("exceptions", self.invariants())
-        self.assertIn("12", self.invariants(), "ohne Begruendung wird nicht entschaerft")
+        self.assertIn("12", self.invariants(), "not excused without a reason")
 
     def test_an_exception_that_never_fires_is_a_warning(self) -> None:
-        """Karteileichen schicken den naechsten Leser in die Irre."""
+        """Stale exceptions mislead the next developer."""
         self.write_exercise(
             modality="cardio",
             tracking_type="time",
-            exceptions={"invariant_12": "War mal noetig, ist es nicht mehr."},
+            exceptions={"invariant_12": "Once needed, no longer required."},
         )
         self.write_text()
         self.assertNotIn("exceptions", self.invariants())
         self.assertIn("exceptions", self.invariants(severity=validate.WARNING))
 
     def test_an_exception_on_an_unknown_invariant_is_an_error(self) -> None:
-        self.write_exercise(exceptions={"invariant_99": "Gibt es nicht, sollte auffallen."})
+        self.write_exercise(exceptions={"invariant_99": "Does not exist, should be flagged."})
         self.write_text()
         self.assertIn("exceptions", self.invariants())
 
@@ -477,7 +469,7 @@ class ExceptionsTestCase(ValidatorTestCase):
             slug="a",
             modality="cardio",
             tracking_type="bodyweight_reps",
-            exceptions={"invariant_12": "Hier begruendet, dort nicht."},
+            exceptions={"invariant_12": "Justified here, not there."},
         )
         self.write_exercise(
             id="2", slug="b", modality="cardio", tracking_type="bodyweight_reps"
@@ -490,10 +482,10 @@ class ExceptionsTestCase(ValidatorTestCase):
 class HardSoftSplitTestCase(unittest.TestCase):
     def test_every_invariant_is_classified_exactly_once(self) -> None:
         overlap = validate.HARD_INVARIANTS & validate.SOFT_INVARIANTS
-        self.assertEqual(set(), overlap, "eine Regel kann nicht hart und weich sein")
+        self.assertEqual(set(), overlap, "a rule cannot be both hard and soft")
 
     def test_the_split_matches_the_documented_one(self) -> None:
-        """Gegen schema/invariants.md, damit Code und Dokument nicht auseinanderlaufen."""
+        """Against schema/invariants.md, ensuring code and documentation stay in sync."""
         self.assertEqual(
             {"11", "12", "13", "14", "15", "20"}, validate.SOFT_INVARIANTS
         )
@@ -542,3 +534,7 @@ class TranslationIdentityTestCase(ValidatorTestCase):
         self.write_text(language="de", exercise_id="1", name="Bankdrücken", status="ai_raw")
         findings = [f for f in self.report().warnings if f.invariant == "translation_identity"]
         self.assertEqual(0, len(findings))
+
+
+if __name__ == "__main__":
+    unittest.main(verbosity=2)

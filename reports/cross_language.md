@@ -1,45 +1,28 @@
-# Sprach-Diskrepanzbericht: EN vs. DE Widersprüche
+# Cross-Language Discrepancy Report: EN vs. DE Conflicts
 
-## Methodik & Prüfkriterien
-In Phase 2 wurden die sprachneutralen Fakten vereinheitlicht. Bei den Texten (`data/i18n/`) existieren jedoch historische Divergenzen zwischen den gepflegten Primärsprachen Englisch (`en`) und Deutsch (`de`).
+## Methodology & Verification Criteria
+In Phase 2, language-neutral facts were unified. However, within texts (`data/i18n/`), historical divergences exist between the maintained primary languages English (`en`) and German (`de`).
 
-Dieser Bericht prüft auf drei Ebenen:
-1. **Gerätefamilien-Widersprüche im Titel** (z. B. Kurzhantel auf Englisch, aber Langhantel auf Deutsch).
-2. **Bewegungsvektor-Widersprüche** (z. B. *Press* auf Englisch, aber *Rudern* auf Deutsch).
-3. **Starke Asymmetrien in der Beschreibung** ($\ge 3,5\times$ Längenunterschied oder völlig fehlende deutsche Beschreibung bei bestehendem englischen Fachtext).
+This report checks three levels:
+1. **Equipment family conflicts in titles** (e.g. dumbbell in English, but barbell in German).
+2. **Movement vector conflicts** (e.g. *Press* in English, but *Row* in German).
+3. **Substantial description asymmetry** ($\ge 3.5\times$ length disparity or completely missing German description when English text exists).
 
-Insgesamt wurden **31 Übungen** mit Diskrepanzen identifiziert:
-
-| ID | Name (EN) | Name (DE) | Gefundene Diskrepanz(en) |
+A total of **15 exercises** with discrepancies were identified:
+| ID | Name (EN) | Name (DE) | Identified Discrepancy / Discrepancies |
 |---|---|---|---|
-| `20` | [Arnold Shoulder Press](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/20.yaml) | Arnold Press | Große Asymmetrie: DE (44 Wörter) deutlich ausführlicher als EN (7 Wörter) |
-| `51` | [Barbell Wrist Curl](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/51.yaml) | Handgelenkstreckung | Große Asymmetrie: EN (61 Wörter) deutlich ausführlicher als DE (16 Wörter) |
-| `71` | [Single Leg Extension](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/71.yaml) | Beinstrecker Einbeinig | Vollständige Text-Diskrepanz: DE hat 56 Wörter Beschreibung, EN ist leer |
-| `75` | [Benchpress Dumbbells](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/75.yaml) | Bankdrücken KH | Große Asymmetrie: EN (185 Wörter) deutlich ausführlicher als DE (48 Wörter) |
-| `152` | [Chin Up](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/152.yaml) | Chin-ups | Große Asymmetrie: EN (71 Wörter) deutlich ausführlicher als DE (6 Wörter) |
-| `165` | [Ball crunches](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/165.yaml) | Crunch am TRX Oder Auf Ball | Vollständige Text-Diskrepanz: DE hat 26 Wörter Beschreibung, EN ist leer |
-| `177` | [Cycling](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/177.yaml) | Fahrrad fahren | Vollständige Text-Diskrepanz: EN hat 47 Wörter Beschreibung, DE ist leer |
-| `256` | [Front Raises](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/256.yaml) | Frontheben am Kabel | Große Asymmetrie: EN (192 Wörter) deutlich ausführlicher als DE (44 Wörter) |
-| `312` | [Incline Plank With Alternate Floor Touch](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/312.yaml) | Negativ Plank Mit Abwechselnden Fuß-Kontakt | Geräte-Widerspruch im Titel: Schrägbank (EN) vs. Negativ/Flachbank (DE) |
-| `323` | [Cable Cross-over](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/323.yaml) | Kabelcross | Vollständige Text-Diskrepanz: EN hat 57 Wörter Beschreibung, DE ist leer |
-| `346` | [Landmine press](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/346.yaml) | Landmine-Press, Einarmig | Vollständige Text-Diskrepanz: DE hat 49 Wörter Beschreibung, EN ist leer |
-| `367` | [Leg Curls (standing)](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/367.yaml) | Beinbeuger Stehend | Vollständige Text-Diskrepanz: DE hat 53 Wörter Beschreibung, EN ist leer |
-| `375` | [Leg Press on Hackenschmidt Machine](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/375.yaml) | Kniebeuge an Hackenschmidtmaschine | Vollständige Text-Diskrepanz: DE hat 63 Wörter Beschreibung, EN ist leer |
-| `454` | [Pike Push Ups](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/454.yaml) | Hecht-Liegestütze | Große Asymmetrie: DE (85 Wörter) deutlich ausführlicher als EN (12 Wörter) |
-| `516` | [Front Wood Chop](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/516.yaml) | Rückenstrecker im Stehen | Vollständige Text-Diskrepanz: DE hat 36 Wörter Beschreibung, EN ist leer |
-| `530` | [Run - Treadmill](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/530.yaml) | Laufen an Laufband | Große Asymmetrie: DE (27 Wörter) deutlich ausführlicher als EN (4 Wörter) |
-| `537` | [Incline Bench Press - Dumbbell](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/537.yaml) | Schrägbankdrücken KH | Große Asymmetrie: EN (238 Wörter) deutlich ausführlicher als DE (49 Wörter) |
-| `538` | [Incline Bench Press - Barbell](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/538.yaml) | Schrägbankdrücken LH | Große Asymmetrie: DE (54 Wörter) deutlich ausführlicher als EN (6 Wörter) |
-| `539` | [Incline Bench Press - MP](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/539.yaml) | Schrägbankdrücken MP | Vollständige Text-Diskrepanz: DE hat 67 Wörter Beschreibung, EN ist leer |
-| `556` | [Side Bends on Machine](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/556.yaml) | Seitliches Oberkörperbeugen am Gerät | Vollständige Text-Diskrepanz: DE hat 42 Wörter Beschreibung, EN ist leer |
-| `566` | [Shoulder Press, Barbell](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/566.yaml) | Schulterdrücken LH | Große Asymmetrie: EN (41 Wörter) deutlich ausführlicher als DE (6 Wörter) |
-| `575` | [Shrugs on Multipress](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/575.yaml) | Shrugs an der MP | Vollständige Text-Diskrepanz: DE hat 65 Wörter Beschreibung, EN ist leer |
-| `577` | [Side Dumbbell Trunk Flexion](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/577.yaml) | Seitliches Oberkörperbeugen Mit KH | Große Asymmetrie: EN (47 Wörter) deutlich ausführlicher als DE (7 Wörter) |
-| `595` | [Skipping - Standard](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/595.yaml) | Seilspringen | Vollständige Text-Diskrepanz: EN hat 26 Wörter Beschreibung, DE ist leer |
-| `614` | [Squat Jumps](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/614.yaml) | Tiefe Hocksprünge | Große Asymmetrie: DE (23 Wörter) deutlich ausführlicher als EN (4 Wörter) |
-| `630` | [Sumo Deadlift](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/630.yaml) | Sumo Kreuzheben | Große Asymmetrie: EN (153 Wörter) deutlich ausführlicher als DE (14 Wörter) |
-| `632` | [Sumo Squats](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/632.yaml) | Sumo Kniebeuge | Große Asymmetrie: EN (80 Wörter) deutlich ausführlicher als DE (18 Wörter) |
-| `655` | [Tricep Dumbbell Kickback](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/655.yaml) | Kick-Backs | Große Asymmetrie: EN (208 Wörter) deutlich ausführlicher als DE (49 Wörter) |
-| `1479` | [Sit Up Elbow Thrust](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1479.yaml) | Sit-Ups (Ellenbogen zum Knie) | Große Asymmetrie: EN (54 Wörter) deutlich ausführlicher als DE (13 Wörter) |
-| `1889` | [Decline Bench Leg Raise](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1889.yaml) | Beinheben auf der Schrägbank | Geräte-Widerspruch im Titel: Negativbank (EN) vs. Schräg/Flachbank (DE) |
-| `1922` | [Seated Cable chest fly](file:///Users/richardgeorgschotte/Projekte/OpenExerciseDB/data/exercises/1922.yaml) | Butterfly am Kabelzug | Große Asymmetrie: EN (85 Wörter) deutlich ausführlicher als DE (14 Wörter) |
+| `75` | [Dumbbell Bench Press](../data/exercises/75.yaml) | Kurzhantel-Bankdrücken | Large asymmetry: EN (180 words) significantly more detailed than DE (48 words) |
+| `79` | [Bent High Pulls](../data/exercises/79.yaml) | Vorgebeugtes High Pull | Large asymmetry: EN (103 words) significantly more detailed than DE (25 words) |
+| `205` | [Dumbbell Lunges Standing](../data/exercises/205.yaml) | Ausfallschritte mit Kurzhanteln im Stehen | Large asymmetry: DE (84 words) significantly more detailed than EN (12 words) |
+| `237` | [Fly With Cable](../data/exercises/237.yaml) | Kabelzug-Fliegende | Large asymmetry: DE (85 words) significantly more detailed than EN (7 words) |
+| `256` | [Front Raises](../data/exercises/256.yaml) | Frontheben mit Kurzhanteln | Large asymmetry: EN (192 words) significantly more detailed than DE (43 words) |
+| `279` | [Hand Grip](../data/exercises/279.yaml) | Unterarm-Gripper | Large asymmetry: DE (63 words) significantly more detailed than EN (9 words) |
+| `284` | [Hercules Pillars](../data/exercises/284.yaml) | Herkulessäulen am Kabelzug | Large asymmetry: DE (74 words) significantly more detailed than EN (13 words) |
+| `537` | [Incline Bench Press - Dumbbell](../data/exercises/537.yaml) | Kurzhantel-Schrägbankdrücken | Large asymmetry: EN (238 words) significantly more detailed than DE (49 words) |
+| `683` | [Power Clean](../data/exercises/683.yaml) | Umsetzen | Large asymmetry: EN (89 words) significantly more detailed than DE (19 words) |
+| `711` | [Wall Handstand](../data/exercises/711.yaml) | Handstand gegen die Wand | Large asymmetry: EN (61 words) significantly more detailed than DE (10 words) |
+| `1119` | [Seated Machine Row (Close Grip)](../data/exercises/1119.yaml) | Maschinenrudern im engen Griff | Large asymmetry: DE (106 words) significantly more detailed than EN (8 words) |
+| `1120` | [Seated Machine Row (Underhand Grip)](../data/exercises/1120.yaml) | Maschinenrudern im engen Untergriff | Large asymmetry: DE (91 words) significantly more detailed than EN (12 words) |
+| `1143` | [Machine Back Extension](../data/exercises/1143.yaml) | Rückenstrecken an der Maschine | Large asymmetry: DE (75 words) significantly more detailed than EN (13 words) |
+| `1527` | [Pendulum Squat](../data/exercises/1527.yaml) | Pendelkniebeuge | Large asymmetry: EN (111 words) significantly more detailed than DE (22 words) |
+| `1567` | [Alternating Dumbbell Hammer Curl](../data/exercises/1567.yaml) | Hammercurl mit Kurzhanteln, abwechselnd | Large asymmetry: EN (99 words) significantly more detailed than DE (24 words) |

@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
-"""Sanity-Check auf der erzeugten Datenbank, direkt vor dem Release.
+"""Sanity check on generated database directly before release.
 
-Aus einer frueheren Pipeline uebernommen und um die Tabellen aus SCHEMA.md 8 erweitert.
-Der wesentliche Unterschied: das Vorbild war ein reiner Dump — es druckte
-Tabellen, Spalten und drei Beispielzeilen und lief immer mit Exitcode 0 durch.
-Das ist als Blick von aussen nuetzlich (`--inspect` gibt es weiterhin), taugt
-aber nicht als Gate: eine leere Uebersetzungstabelle haette man nur gesehen,
-wenn jemand hinschaut.
+Adopted from a legacy pipeline and extended with tables from SCHEMA.md 8.
+The essential difference: the predecessor was a pure dump — it printed
+tables, columns, and three sample rows, always exiting with code 0.
+While useful as an external overview (`--inspect` remains available), that
+does not serve as a gate: an empty translation table would only have been
+noticed if someone read through the log.
 
-Hier ist jede Aussage eine Pruefung mit Exitcode. Was geprueft wird, ist
-bewusst das, was zwischen Build und Geraet schiefgehen kann — nicht das, was
-schon `build/validate.py` auf den Quelldateien abgedeckt hat.
+Here, every assertion is a check with an exit code. What is verified is
+deliberately what can go wrong between build and device — not what
+`build/validate.py` already covered on the source files.
 
-Aufruf:
+Usage:
 
     python3 build/check_database.py artifacts/openexercisedb.db
     python3 build/check_database.py --inspect artifacts/openexercisedb.db
@@ -51,13 +51,13 @@ REQUIRED_METADATA_KEYS = (
 )
 
 APP_COMPAT_COLUMNS = ("id", "category_name", "muscles_primary", "muscles_secondary")
-"""Was `_mapExerciseBundle` in der heutigen App liest. Fehlt eine davon, laedt
-die App die Datenbank nicht — das ist der teuerste denkbare Fehler, weil er erst
-auf dem Geraet auffaellt."""
+"""Read by `_mapExerciseBundle` in the existing app. If any is missing,
+the app cannot load the database — the most expensive failure possible
+because it is only discovered on-device."""
 
 MIN_EXERCISES = 500
-"""Untergrenze aus dem Manifest-Vertrag (`min_exercise_count`). Ein Build, der
-deutlich darunter liegt, ist kaputt und kein neuer Datenstand."""
+"""Lower bound from the manifest contract (`min_exercise_count`). A build
+significantly below this is broken, not a new dataset."""
 
 
 class Check:
@@ -100,31 +100,31 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
     stats: dict = {"tables": sorted(tables)}
 
     for table in EXPECTED_TABLES:
-        check.expect(table in tables, f"Tabelle {table} fehlt")
+        check.expect(table in tables, f"Table {table} missing")
 
     if "exercises" not in tables:
         return stats
 
-    # --- Der App-Vertrag
+    # --- App contract
     exercise_columns = columns(connection, "exercises")
     for column in APP_COMPAT_COLUMNS:
         check.expect(
             column in exercise_columns,
-            f"Kompatibilitaetsspalte exercises.{column} fehlt — die heutige App "
-            f"koennte diese Datenbank nicht laden",
+            f"Compatibility column exercises.{column} missing — the app "
+            f"could not load this database",
         )
 
     exercise_count = count(connection, "exercises")
     stats["exercise_count"] = exercise_count
     check.expect(
         exercise_count >= MIN_EXERCISES,
-        f"nur {exercise_count} Uebungen (erwartet mindestens {MIN_EXERCISES})",
+        f"only {exercise_count} exercises (expected at least {MIN_EXERCISES})",
     )
 
     blank = connection.execute(
         "SELECT COUNT(*) FROM exercises WHERE category_name IS NULL OR TRIM(category_name) = ''"
     ).fetchone()[0]
-    check.expect(blank == 0, f"{blank} Uebungen ohne category_name")
+    check.expect(blank == 0, f"{blank} exercises without category_name")
 
     for column in ("muscles_primary", "muscles_secondary"):
         broken = []
@@ -137,20 +137,20 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
                 broken.append(row["id"])
         check.expect(
             not broken,
-            f"{len(broken)} Uebungen mit kaputtem JSON in {column} "
-            f"(z. B. {', '.join(str(i) for i in broken[:5])})",
+            f"{len(broken)} exercises with broken JSON in {column} "
+            f"(e.g. {', '.join(str(i) for i in broken[:5])})",
         )
 
-    # --- Eindeutigkeit
+    # --- Uniqueness
     for column in ("id", "slug"):
         if column not in exercise_columns:
             continue
         duplicates = connection.execute(
             f"SELECT {column} FROM exercises GROUP BY {column} HAVING COUNT(*) > 1"
         ).fetchall()
-        check.expect(not duplicates, f"{len(duplicates)} doppelte Werte in exercises.{column}")
+        check.expect(not duplicates, f"{len(duplicates)} duplicate values in exercises.{column}")
 
-    # --- Uebersetzungen
+    # --- Translations
     if "exercise_translations" in tables:
         stats["translations"] = {
             str(row["language_code"]): int(row["n"])
@@ -160,12 +160,12 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
             )
         }
         check.expect(
-            count(connection, "exercise_translations") > 0, "exercise_translations ist leer"
+            count(connection, "exercise_translations") > 0, "exercise_translations is empty"
         )
         empty_names = connection.execute(
             "SELECT COUNT(*) FROM exercise_translations WHERE name IS NULL OR TRIM(name) = ''"
         ).fetchone()[0]
-        check.expect(empty_names == 0, f"{empty_names} Uebersetzungen ohne Namen")
+        check.expect(empty_names == 0, f"{empty_names} translations without name")
 
         for language in ("de", "en"):
             missing = connection.execute(
@@ -175,7 +175,7 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
             ).fetchone()[0]
             check.expect(
                 missing == 0,
-                f"{missing} Uebungen ohne {language}-Text — die heutige App erwartet beide",
+                f"{missing} exercises without {language} text — the app expects both",
             )
 
         if "license" in columns(connection, "exercise_translations"):
@@ -185,42 +185,42 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
             ).fetchone()[0]
             check.expect(
                 without_license == 0,
-                f"{without_license} Uebersetzungen ohne Lizenzangabe (SCHEMA.md 3b)",
+                f"{without_license} translations without license attribution (SCHEMA.md 3b)",
             )
 
-    # --- Vokabulare muessen mitgeliefert sein, sonst sind die Verweise tot
+    # --- Vocabularies must be bundled, otherwise references are dangling
     for table in ("muscles", "equipment", "languages"):
         if table in tables:
-            check.expect(count(connection, table) > 0, f"{table} ist leer")
+            check.expect(count(connection, table) > 0, f"{table} is empty")
 
-    # --- Verweisintegritaet. FOREIGN KEY ist in SQLite per Default aus; ohne
-    # diesen Schalter wuerde die Datei mit toten Verweisen ausgeliefert.
+    # --- Referential integrity. FOREIGN KEY is disabled by default in SQLite;
+    # without this switch the file would be distributed with dangling references.
     connection.execute("PRAGMA foreign_keys = ON")
     violations = connection.execute("PRAGMA foreign_key_check").fetchall()
     check.expect(
         not violations,
-        f"{len(violations)} verletzte Fremdschluessel (z. B. {[tuple(v) for v in violations[:3]]})",
+        f"{len(violations)} foreign key violations (e.g. {[tuple(v) for v in violations[:3]]})",
     )
 
     integrity = connection.execute("PRAGMA integrity_check").fetchone()[0]
     check.expect(integrity == "ok", f"integrity_check: {integrity}")
 
-    # --- Metadaten
+    # --- Metadata
     if "metadata" in tables:
         metadata = {row["key"]: row["value"] for row in connection.execute("SELECT * FROM metadata")}
         stats["metadata"] = metadata
         for key in REQUIRED_METADATA_KEYS:
             check.expect(
-                metadata.get(key), f"metadata.{key} fehlt oder ist leer (SCHEMA.md 8)"
+                metadata.get(key), f"metadata.{key} missing or empty (SCHEMA.md 8)"
             )
         nullable = metadata.get("nullable_columns")
         if nullable and nullable != "[]":
             check.note(
-                f"Klassifikationsspalten noch nicht durchgaengig befuellt: {nullable}. "
-                f"Erwartet bis zum Ende von Phase 2."
+                f"Classification columns not yet comprehensively populated: {nullable}. "
+                f"Expected by end of Phase 2."
             )
 
-    # --- Muskelzuweisungen: kein Fehler, aber die Zahl gehoert ins Log
+    # --- Muscle assignments: not an error, but count belongs in log
     if "exercise_muscles" in tables:
         stats["muscle_links"] = count(connection, "exercise_muscles")
         without = connection.execute(
@@ -229,20 +229,20 @@ def run_checks(connection: sqlite3.Connection, check: Check) -> dict:
         ).fetchone()[0]
         stats["without_primary_muscle"] = without
         if without:
-            check.note(f"{without} Uebungen ohne primaeren Muskel (Arbeitsvorrat Phase 2)")
+            check.note(f"{without} exercises without primary muscle (Phase 2 backlog)")
 
     return stats
 
 
 def inspect(connection: sqlite3.Connection) -> None:
-    """Der Dump des Vorbilds — als Blick von aussen weiterhin nuetzlich."""
+    """The legacy dump — still useful for manual inspection."""
     connection.row_factory = sqlite3.Row
     for table in sorted(table_names(connection)):
         print(f"--- {table} ---")
         for name, kind in columns(connection, table).items():
             print(f"    {name} ({kind})")
         total = count(connection, table)
-        print(f"  Zeilen: {total}")
+        print(f"  Rows: {total}")
         if total:
             for row in connection.execute(f"SELECT * FROM {table} LIMIT 3"):
                 print(f"    {dict(row)}")
@@ -251,11 +251,11 @@ def inspect(connection: sqlite3.Connection) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("database", nargs="+", help="Zu pruefende SQLite-Datei(en)")
+    parser.add_argument("database", nargs="+", help="SQLite database file(s) to check")
     parser.add_argument(
-        "--inspect", action="store_true", help="Zusaetzlich Tabellen und Beispielzeilen ausgeben"
+        "--inspect", action="store_true", help="Also print tables and sample rows"
     )
-    parser.add_argument("--json-out", help="Pfad fuer den maschinenlesbaren Bericht")
+    parser.add_argument("--json-out", help="Path for machine-readable report")
     return parser.parse_args()
 
 
@@ -268,7 +268,7 @@ def main() -> int:
         path = Path(raw_path)
         print(f"== {path}")
         if not path.exists():
-            print("   FEHLER: Datei existiert nicht")
+            print("   ERROR: File does not exist")
             exit_code = 1
             continue
 
@@ -283,16 +283,16 @@ def main() -> int:
             connection.close()
 
         for note in check.notes:
-            print(f"   Hinweis: {note}")
+            print(f"   Note: {note}")
         for failure in check.failures:
-            print(f"   FEHLER: {failure}")
+            print(f"   ERROR: {failure}")
         if check.failures:
             exit_code = 1
         else:
             print(
-                f"   OK: {stats.get('exercise_count', 0)} Uebungen, "
-                f"{sum(stats.get('translations', {}).values())} Texte in "
-                f"{len(stats.get('translations', {}))} Sprachen"
+                f"   OK: {stats.get('exercise_count', 0)} exercises, "
+                f"{sum(stats.get('translations', {}).values())} texts in "
+                f"{len(stats.get('translations', {}))} languages"
             )
         reports[str(path)] = {
             "stats": stats,
@@ -304,7 +304,7 @@ def main() -> int:
         out = Path(args.json_out)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(json.dumps(reports, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"Bericht: {out}")
+        print(f"Report: {out}")
 
     return exit_code
 

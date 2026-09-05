@@ -1,9 +1,9 @@
-"""Lesen des eingefrorenen wger-Snapshots.
+"""Reads the frozen wger snapshot.
 
-Der Snapshot ist der Rohstand, aus dem `data/` erzeugt wurde. Er liegt im Repo,
-damit der Import reproduzierbar ist und bei einer Abweichung nachlesbar bleibt,
-woher eine Zeile kam. Geschrieben wird er von `import/fetch_wger_snapshot.py` —
-dem einzigen Schritt der Pipeline, der ins Netz geht.
+The snapshot represents the raw source from which `data/` was created. It lives
+in the repository so the import is reproducible and traceable if discrepancies
+arise. It is fetched by `import/fetch_wger_snapshot.py` — the only pipeline step
+that accesses the network.
 """
 from __future__ import annotations
 
@@ -46,24 +46,23 @@ class Snapshot:
 
     @property
     def label(self) -> str:
-        """Der Bezeichner aus dem Dateinamen, z. B. `2026-09-02`."""
+        """The label from the filename, e.g. `2026-09-02`."""
         name = self.path.name
         return name.removeprefix("wger-").removesuffix(".json.gz")
 
 
 def load(path: Path | None = None, *, verify: bool = True) -> Snapshot:
-    """Laedt den aktuellen Snapshot (oder den unter `path`).
+    """Loads the active snapshot (or the one at `path`).
 
-    Ohne `path` wird `snapshot/current.json` gelesen und der dort genannte
-    SHA-256 geprueft. Ein stillschweigend veraenderter Snapshot waere ein
-    Build, dessen Ergebnis niemand mehr erklaeren kann.
+    Without `path`, reads `snapshot/current.json` and verifies the recorded
+    SHA-256. A silently modified snapshot would lead to untraceable build results.
     """
     expected: str | None = None
     if path is None:
         current_path = SNAPSHOT_DIR / CURRENT_FILE
         if not current_path.exists():
             raise FileNotFoundError(
-                f"{current_path} fehlt. Zuerst `python3 import/fetch_wger_snapshot.py` laufen lassen."
+                f"{current_path} is missing. Run `python3 import/fetch_wger_snapshot.py` first."
             )
         current = json.loads(current_path.read_text(encoding="utf-8"))
         path = SNAPSHOT_DIR / current["file"]
@@ -71,13 +70,13 @@ def load(path: Path | None = None, *, verify: bool = True) -> Snapshot:
 
     path = Path(path)
     if not path.exists():
-        raise FileNotFoundError(f"Snapshot nicht gefunden: {path}")
+        raise FileNotFoundError(f"Snapshot not found: {path}")
 
     digest = sha256_file(path)
     if verify and expected and digest != expected:
         raise ValueError(
-            f"Snapshot-Pruefsumme weicht ab.\n  Datei:    {path}\n"
-            f"  erwartet: {expected}\n  gefunden: {digest}"
+            f"Snapshot checksum mismatch.\n  File:     {path}\n"
+            f"  expected: {expected}\n  found:    {digest}"
         )
 
     with gzip.open(path, "rb") as handle:
@@ -86,7 +85,7 @@ def load(path: Path | None = None, *, verify: bool = True) -> Snapshot:
     version = envelope.get("snapshot_version")
     if version != SNAPSHOT_VERSION:
         raise ValueError(
-            f"Snapshot-Format {version} wird nicht unterstuetzt (erwartet {SNAPSHOT_VERSION})."
+            f"Snapshot format {version} is not supported (expected {SNAPSHOT_VERSION})."
         )
 
     return Snapshot(

@@ -1,4 +1,4 @@
-"""Gemeinsame Helfer der Tests: Skripte laden, DB bauen, Referenz beschaffen."""
+"""Common test helpers: load scripts, build DB, retrieve reference DB."""
 from __future__ import annotations
 
 import importlib.util
@@ -15,15 +15,15 @@ CACHE_DIR = ROOT / "artifacts" / "reference"
 
 
 def load_script(relative: str) -> ModuleType:
-    """Laedt ein Skript aus `build/` oder `import/` als Modul.
+    """Loads a script from `build/` or `import/` as a module.
 
-    Ueber den Pfad und nicht ueber den Namen, weil `import` ein
-    Python-Schluesselwort ist und `import/` damit kein Paket sein kann.
+    Loaded via file path rather than module name because `import` is a
+    Python keyword, preventing `import/` from being a regular package.
     """
     path = ROOT / relative
     name = path.stem
     spec = importlib.util.spec_from_file_location(name, path)
-    assert spec and spec.loader, f"Kann {path} nicht laden"
+    assert spec and spec.loader, f"Cannot load {path}"
     module = importlib.util.module_from_spec(spec)
     sys.modules[name] = module
     spec.loader.exec_module(module)
@@ -31,14 +31,14 @@ def load_script(relative: str) -> ModuleType:
 
 
 class Options:
-    """Minimaler Ersatz fuer argparse.Namespace."""
+    """Minimal replacement for argparse.Namespace."""
 
     def __init__(self, **kwargs) -> None:
         self.__dict__.update(kwargs)
 
 
 def build_database(db_path: Path, *, version: str = "209912312359") -> dict:
-    """Baut `data/` in eine frische SQLite-Datei unter `db_path`."""
+    """Builds `data/` into a fresh SQLite database at `db_path`."""
     build_db = load_script("build/build_db.py")
     code, report = build_db.build(
         Options(
@@ -48,16 +48,16 @@ def build_database(db_path: Path, *, version: str = "209912312359") -> dict:
             source_repo=build_db.DEFAULT_SOURCE_REPO,
         )
     )
-    assert code == 0, f"build_db meldete Code {code}"
+    assert code == 0, f"build_db exited with code {code}"
     return report
 
 
 def reference_database() -> Path | None:
-    """Pfad zur veroeffentlichten Referenz-DB, oder None.
+    """Path to the published reference DB, or None.
 
-    Reihenfolge: `REFERENCE_DB_PATH` aus der Umgebung (so setzt die CI sie),
-    dann ein lokaler Cache. Ohne beides gibt die Funktion None zurueck und der
-    Abnahmetest ueberspringt sich.
+    Resolution order: `REFERENCE_DB_PATH` from environment (as set by CI),
+    then local cache. Without either, returns None and tests requiring the
+    reference will skip themselves.
     """
     from_env = os.environ.get("REFERENCE_DB_PATH")
     if from_env:

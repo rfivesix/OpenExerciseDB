@@ -17,7 +17,7 @@ provenance:
   status:
     source: derived
     at: '2026-09-03'
-    note: Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.
+    note: Deleted upstream, but previously published — SCHEMA.md §3.
   muscles:
     source: wger
     at: '2026-09-03'
@@ -25,7 +25,7 @@ provenance:
     source: derived
     at: '2026-09-03'
     note: |-
-      Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die alte Pipeline hat license/license_author verworfen. Konservativ auf die restriktivste im Bestand vorkommende Lizenz gesetzt.
+      License unrecoverable: the upstream entry was deleted and the legacy pipeline discarded license/license_author. Conservatively set to the most restrictive license present in the catalog.
   merged_into: {source: human, at: '2026-09-03'}
 upstream:
   source: wger

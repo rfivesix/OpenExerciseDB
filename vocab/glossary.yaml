@@ -1,6 +1,6 @@
 version: 1
 description: Authoritative glossary of recurring fitness terminology derived from
-  the 869 active English exercise names and descriptions.
+  the 868 active English exercise names and descriptions.
 collision_rule: Where a glossary term collides with an authoritative vocab/*.yaml
   label, the vocab label wins.
 terms:

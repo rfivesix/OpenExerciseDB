@@ -1,42 +1,38 @@
 #!/usr/bin/env python3
-"""Holt Uebungen zurueck, die upstream geloescht wurden, aber schon ausgeliefert waren.
+"""Recovers exercises that were deleted upstream, but were already published.
 
-**Das Problem.** wger hat zwischen dem 2026-06-15 und dem 2026-08-31 aufgeraeumt
-und dabei 38 Uebungen entfernt — teils zu Recht (`bicep`, `cabel`, `DB UCV`),
-teils nicht (Chin-ups, Good Mornings, Leg Extension, Barbell Hip Thrust). Der
-Import ist der Quelle treu gefolgt und hat sie damit auch nicht mehr.
+**The problem.** wger cleaned up between 2026-06-15 and 2026-08-31, removing 38
+exercises — some legitimately (`bicep`, `cabel`, `DB UCV`), others mistakenly
+(Chin-ups, Good Mornings, Leg Extension, Barbell Hip Thrust). The import followed
+upstream faithfully and therefore did not receive them.
 
-Fuer die Quelle ist das eine Loeschung. Fuer uns nicht: diese IDs sind auf
-Geraeten in `routine_exercises` und `set_logs` referenziert (SCHEMA.md 3). Der
-App-Importer arbeitet zwar upsert-only und behaelt sie auf bestehenden
-Installationen — aber bei einer Neuinstallation, einem Re-Seed oder einem
-Backup-Restore auf eine frisch geseedete Datenbank zeigen die Referenzen ins
-Leere.
+For upstream this was a simple deletion. For our catalog it is not: these IDs
+are referenced in user devices in `routine_exercises` and `set_logs` (SCHEMA.md §3).
+While the app importer is upsert-only and retains them on existing installs, a fresh
+install, re-seed, or backup restore onto a newly seeded database would leave those
+references dangling.
 
-**Die Regel.** Was einmal ausgeliefert war, verschwindet nie: es wird
-`status: deprecated`. Die Zeile bleibt in der Datenbank und aufloesbar, faellt
-aber aus Suche und Katalog. Ob eine dieser Uebungen zusaetzlich einen Nachfolger
-bekommt (`status: merged` + `merged_into`), entscheidet ein Mensch —
-`build/propose_aliases.py` macht Vorschlaege, dieses Skript nicht. Ein
-Fuzzy-Treffer, der stillschweigend Nutzer-Logs umschreibt, waere schlimmer als
-das Problem.
+**The rule.** What was once published never disappears: it receives
+`status: deprecated`. The row remains in the database and resolves correctly,
+but is excluded from search and catalog browsers. Whether any of these exercises
+additionally receives a successor (`status: merged` + `merged_into`) is decided
+by human review — `build/propose_aliases.py` proposes suggestions, but this script
+does not apply them automatically. A fuzzy match silently rewriting user logs would
+be worse than the problem.
 
-**Woher der Inhalt kommt.** Aus einer bereits ausgelieferten Datenbank — die
-Quelle hat die Eintraege ja nicht mehr. Zwei Dinge sind dabei zu beachten:
+**Where content comes from.** From an already published database — upstream no
+longer has the records. Two details apply:
 
-* Die alte Pipeline hatte die wger-Sprach-IDs falsch verdrahtet. In einer
-  v1-Datenbank enthaelt `fr` in Wahrheit Spanisch, `ja` Griechisch und `it`
-  Russisch. Beim Zurueckholen wird das mitkorrigiert (`LEGACY_LANGUAGE_FIX`),
-  statt die Texte unter falscher Flagge weiterzureichen oder wegzuwerfen.
-* Lizenz und Autor sind nicht wiederherstellbar — die alte Pipeline hat sie
-  verworfen, und der Upstream-Eintrag ist weg. Eingetragen wird deshalb
-  konservativ die restriktivste im Bestand vorkommende Lizenz, mit einem
-  Vermerk in `provenance`. Das ueberschaetzt die Auflage fuer uns selbst und
-  kann niemandem Attribution wegnehmen.
+* The legacy pipeline had wired wger language IDs incorrectly. In a v1 database,
+  `fr` contains Spanish, `ja` Greek, and `it` Russian. During recovery this is
+  corrected (`LEGACY_LANGUAGE_FIX`) rather than propagating mislabeled text.
+* License and author are unrecoverable — the legacy pipeline discarded them, and
+  the upstream entry is gone. They are conservatively marked with the most
+  restrictive license in the corpus, with a note in `provenance`.
 
-Aufruf:
+Usage:
 
-    python3 import/recover_removed_exercises.py --from-db <ausgelieferte.db>
+    python3 import/recover_removed_exercises.py --from-db <published.db>
     python3 import/recover_removed_exercises.py --from-db <db> --dry-run
 """
 from __future__ import annotations
@@ -56,37 +52,36 @@ from oedb import yamlio  # noqa: E402
 from oedb.paths import EXERCISES_DIR, I18N_DIR, PUBLISHED_IDS  # noqa: E402
 from oedb.vocab import Vocabularies  # noqa: E402
 
-# Die Sprachcodes einer v1-Datenbank sind zum Teil falsch — siehe
-# vocab/languages.yaml. Hier wird das beim Zurueckholen geradegezogen.
+# Language codes in a v1 database are partially erroneous — see vocab/languages.yaml.
+# Here they are corrected during recovery.
 LEGACY_LANGUAGE_FIX = {
     "de": "de",
     "en": "en",
-    "fr": "es",  # wger-Sprach-ID 4 ist Spanisch, nicht Franzoesisch
-    "ja": "el",  # 8 ist Griechisch; Japanisch gibt es bei wger nicht
-    "it": "ru",  # 5 ist Russisch
+    "fr": "es",  # wger language ID 4 is Spanish, not French
+    "ja": "el",  # 8 is Greek; Japanese does not exist in wger
+    "it": "ru",  # 5 is Russian
 }
 
 FALLBACK_LICENSE = "CC-BY-SA-4.0"
 LICENSE_NOTE = (
-    "Lizenz nicht wiederherstellbar: der Upstream-Eintrag ist geloescht und die "
-    "alte Pipeline hat license/license_author verworfen. Konservativ auf die "
-    "restriktivste im Bestand vorkommende Lizenz gesetzt."
+    "License not recoverable: upstream entry was deleted and legacy pipeline "
+    "discarded license/license_author. Conservatively set to the most restrictive "
+    "license present in the corpus."
 )
 
-EXERCISE_HEADER = """data/exercises/<id>.yaml — zurueckgeholter Eintrag.
+EXERCISE_HEADER = """data/exercises/<id>.yaml — recovered entry.
 
-Diese Uebung wurde upstream geloescht, war aber bereits ausgeliefert und ist
-damit in Nutzerdaten referenziert (SCHEMA.md 3). Sie bleibt als
-`status: deprecated` bestehen: aufloesbar, aber aus Suche und Katalog heraus.
+This exercise was deleted upstream, but was already published and is therefore
+referenced in user workout logs (SCHEMA.md §3). It is preserved as
+`status: deprecated`: resolvable, but excluded from search and catalog views.
 
-Wiederhergestellt von import/recover_removed_exercises.py aus einer
-ausgelieferten Datenbank, nicht aus der Quelle — die hat den Eintrag nicht mehr."""
+Recovered by import/recover_removed_exercises.py from a published database,
+not from upstream — upstream no longer has this entry."""
 
-TRANSLATION_HEADER = """data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+TRANSLATION_HEADER = """data/i18n/<lang>/<id>.yaml — recovered text.
 
-Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-Uebungsdatei fuer den Vermerk."""
+Recovered from a published database because the upstream entry was deleted.
+License and author were not included there; see the exercise file for attribution."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -95,28 +90,28 @@ def parse_args() -> argparse.Namespace:
         "--from-db",
         required=True,
         action="append",
-        metavar="PFAD",
-        help="Ausgelieferte Datenbank, aus der die Inhalte geholt werden. Mehrfach erlaubt; "
-        "die erste, die eine ID enthaelt, gewinnt.",
+        metavar="PATH",
+        help="Published database from which contents are retrieved. Allowed multiple times; "
+        "first database containing an ID wins.",
     )
     parser.add_argument(
-        "--dry-run", action="store_true", help="Nur berichten, nichts schreiben."
+        "--dry-run", action="store_true", help="Report only without writing files."
     )
-    parser.add_argument("--report-json-out", help="Pfad fuer den maschinenlesbaren Bericht")
+    parser.add_argument("--report-json-out", help="Path for machine-readable JSON report")
     return parser.parse_args()
 
 
 def load_registry() -> set[str]:
     if not PUBLISHED_IDS.exists():
         raise SystemExit(
-            f"{PUBLISHED_IDS} fehlt. Zuerst `python3 build/update_published_ids.py "
-            f"--from-db <ausgelieferte.db>` laufen lassen."
+            f"{PUBLISHED_IDS} is missing. Run `python3 build/update_published_ids.py "
+            f"--from-db <published.db>` first."
         )
     return {str(key) for key in (yamlio.read(PUBLISHED_IDS) or {}).get("ids", {})}
 
 
 def read_source(path: Path) -> dict[str, dict[str, Any]]:
-    """Liest eine ausgelieferte Datenbank zu {id: {row, translations}}."""
+    """Reads a published database into {id: {row, translations}}."""
     connection = sqlite3.connect(path)
     connection.row_factory = sqlite3.Row
     try:
@@ -134,7 +129,7 @@ def read_source(path: Path) -> dict[str, dict[str, Any]]:
 
 
 def muscles_from_legacy(row: dict[str, Any], vocab: Vocabularies) -> list[dict[str, str]]:
-    """Legacy-Muskelnamen zurueck auf Vokabular-Knoten."""
+    """Maps legacy muscle names back to vocabulary nodes."""
     mapping = vocab.muscles.legacy_wger_mapping
     out: list[dict[str, str]] = []
     seen: set[str] = set()
@@ -169,14 +164,14 @@ def main() -> int:
 
     missing = sorted(registry - set(data.exercises), key=str)
     if not missing:
-        print("Nichts zurueckzuholen: jede je ausgelieferte ID ist in data/exercises/ vorhanden.")
+        print("Nothing to recover: every published ID is present in data/exercises/.")
         return 0
 
     sources: list[dict[str, dict[str, Any]]] = []
     for raw_path in args.from_db:
         path = Path(raw_path)
         if not path.exists():
-            print(f"Datenbank nicht gefunden: {path}", file=sys.stderr)
+            print(f"Database not found: {path}", file=sys.stderr)
             return 2
         sources.append(read_source(path))
 
@@ -195,7 +190,7 @@ def main() -> int:
         row = entry["row"]
         raw_translations = entry["translations"]
 
-        # Sprachcodes geraderuecken, bevor irgendetwas geschrieben wird.
+        # Normalize language codes before writing anything.
         texts: dict[str, dict[str, Any]] = {}
         for legacy_code, translation in raw_translations.items():
             code = LEGACY_LANGUAGE_FIX.get(legacy_code)
@@ -234,7 +229,7 @@ def main() -> int:
                 {
                     "source": "derived",
                     "at": today,
-                    "note": "Upstream geloescht, aber bereits ausgeliefert — SCHEMA.md 3.",
+                    "note": "Deleted upstream, but already published — SCHEMA.md §3.",
                 }
             ),
         }
@@ -286,20 +281,20 @@ def main() -> int:
             }
         )
 
-    verb = "waeren zurueckzuholen" if args.dry_run else "zurueckgeholt"
-    print(f"{len(recovered)} von {len(missing)} Eintraegen {verb}:")
+    verb = "would be recovered" if args.dry_run else "recovered"
+    print(f"{len(recovered)} of {len(missing)} entries {verb}:")
     for item in recovered:
         print(
             f"  {item['id']:>6}  {item['name'][:46]:<46} "
-            f"{item['category'] or '-':<10} {len(item['languages'])} Sprachen, "
-            f"{item['muscles']} Muskeln"
+            f"{item['category'] or '-':<10} {len(item['languages'])} languages, "
+            f"{item['muscles']} muscles"
         )
     if unrecoverable:
         print(
-            f"\n{len(unrecoverable)} ohne Inhalt in den angegebenen Datenbanken: "
+            f"\n{len(unrecoverable)} without content in the specified databases: "
             f"{', '.join(unrecoverable)}"
         )
-        print("  Eine aeltere ausgelieferte Datenbank ueber --from-db ergaenzen.")
+        print("  Supply an older published database via --from-db.")
 
     if args.report_json_out:
         out = Path(args.report_json_out)
@@ -313,12 +308,12 @@ def main() -> int:
             + "\n",
             encoding="utf-8",
         )
-        print(f"Bericht: {out}")
+        print(f"Report: {out}")
 
     if not args.dry_run and recovered:
         print(
-            "\nNaechster Schritt: `python3 build/propose_aliases.py` schlaegt Nachfolger vor. "
-            "Ein Merge schreibt Nutzer-Logs um und wird deshalb einzeln bestaetigt."
+            "\nNext step: `python3 build/propose_aliases.py` proposes successors. "
+            "A merge rewrites user logs and is therefore confirmed individually."
         )
     return 0
 

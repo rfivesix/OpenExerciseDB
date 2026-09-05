@@ -1,8 +1,8 @@
-"""Laedt die geschlossenen Vokabulare aus `vocab/` und macht sie abfragbar.
+"""Loads the closed vocabularies from `vocab/` and exposes them for querying.
 
-Einzige Stelle im Code, die die Struktur dieser Dateien kennt. Importer, Build
-und Validator halten keine eigene Kopie — ein zweiter Satz Wahrheit waere
-garantiert irgendwann inkonsistent (vgl. den Kommentarkopf von
+The single place in code that understands the structure of these files. Importers,
+the build pipeline, and the validator do not maintain duplicate copies — a second
+source of truth would inevitably drift out of sync (see header of
 `schema/exercise.schema.json`).
 """
 from __future__ import annotations
@@ -29,26 +29,25 @@ class MuscleNode:
     names: dict[str, str]
     body_slugs: tuple[str, ...]
     legacy_wger_name: str | None
-    """Rohname aus dem alten wger-Vokabular, falls dieser Knoten selbst einen hat."""
+    """Raw name from legacy wger vocabulary if this node has one."""
 
     legacy_group: str
-    """Gruppe, die die heutige App erwartet. Weicht bei `serratus_anterior` und
-    `hip_flexors` bewusst von `group_id` ab — siehe SCHEMA.md 5."""
+    """Group expected by the current app. Deliberately differs from `group_id` for
+    `serratus_anterior` and `hip_flexors` — see SCHEMA.md §5."""
 
 
 @dataclass
 class MuscleVocabulary:
     nodes: dict[str, MuscleNode]
     legacy_wger_mapping: dict[str, str]
-    """wger-Rohname -> Knoten-ID dieses Vokabulars."""
+    """wger raw name -> node ID in this vocabulary."""
 
     _by_node: dict[str, str] = field(default_factory=dict, repr=False)
 
     def __post_init__(self) -> None:
         for raw_name, node_id in self.legacy_wger_mapping.items():
-            # Erster Treffer gewinnt; das Mapping ist heute injektiv, aber ein
-            # spaeterer zweiter Rohname fuer denselben Knoten darf den
-            # Rueckweg nicht mehrdeutig machen.
+            # First match wins; the mapping is injective today, but future
+            # secondary raw names for the same node must not make the reverse lookup ambiguous.
             self._by_node.setdefault(node_id, raw_name)
 
     def __contains__(self, node_id: object) -> bool:
@@ -58,7 +57,7 @@ class MuscleVocabulary:
         return self.nodes[node_id]
 
     def ancestors(self, node_id: str) -> list[str]:
-        """Vorfahren von unten nach oben, ohne den Knoten selbst."""
+        """Ancestors from bottom to top, excluding the node itself."""
         out: list[str] = []
         current = self.nodes[node_id].parent_id
         while current is not None:
@@ -74,16 +73,15 @@ class MuscleVocabulary:
         return out
 
     def legacy_wger_name(self, node_id: str) -> str | None:
-        """Der wger-Rohname, unter dem die heutige App diesen Knoten kennt.
+        """The raw wger name under which the legacy app knows this node.
 
-        Laeuft vom Knoten nach oben, bis ein Knoten gefunden wird, der im
-        `legacy_wger_mapping` vorkommt. Damit faellt spaeterer Feinschliff
-        automatisch korrekt zurueck: wird `trapezius` zu `traps_upper`
-        praezisiert, steht in der Kompatibilitaetsspalte weiterhin `Trapezius`.
+        Traverses upward from the node until a node present in `legacy_wger_mapping`
+        is found. This ensures future refinements fall back correctly: if `trapezius`
+        is refined to `traps_upper`, the compatibility column still reports `Trapezius`.
 
-        `None` heisst: die heutige App kennt diesen Muskel nicht und wuerde ihn
-        ohnehin still verwerfen (`majorMuscleGroupFor` -> null). Er gehoert dann
-        auch nicht in die Kompatibilitaetsspalte.
+        `None` indicates the legacy app does not know this muscle and would discard
+        it silently (`majorMuscleGroupFor` -> null). In that case it is excluded
+        from the compatibility column.
         """
         for candidate in [node_id, *self.ancestors(node_id)]:
             explicit = self.nodes[candidate].legacy_wger_name
@@ -103,8 +101,8 @@ class Language:
     wger_language_id: int | None
     fallback_chain: tuple[str, ...]
     complete_in_release: bool
-    """Das Release garantiert eine Zeile je aktiver Uebung; fehlende Texte
-    fuellt der Build ueber `fallback_chain`."""
+    """The release guarantees a row per active exercise; missing text is filled
+    by the build via `fallback_chain`."""
 
 
 def _entry_ids(entries: Iterable[Any]) -> list[str]:
@@ -112,7 +110,7 @@ def _entry_ids(entries: Iterable[Any]) -> list[str]:
 
 
 class Vocabularies:
-    """Alle Vokabulare, einmal geladen."""
+    """All vocabularies loaded and indexed once."""
 
     def __init__(self, vocab_dir: Path | None = None) -> None:
         self.dir = Path(vocab_dir) if vocab_dir else VOCAB_DIR
@@ -193,8 +191,8 @@ class Vocabularies:
 
     @cached_property
     def equipment_kinds(self) -> dict[str, str]:
-        """Equipment-ID -> 'primary' | 'setup'. Die Achsen sind disjunkt
-        (Invariante 3b), ein Wert kann also nur zu einer gehoeren."""
+        """Equipment ID -> 'primary' | 'setup'. The axes are disjoint
+        (Invariant 3b), so a value can only belong to one."""
         kinds = {eid: "primary" for eid in self.primary_equipment}
         kinds.update({eid: "setup" for eid in self.setup})
         return kinds
@@ -209,11 +207,10 @@ class Vocabularies:
 
     @cached_property
     def force_vector_by_pattern(self) -> dict[str, str | None]:
-        """movement_pattern -> force_vector. `None` heisst "keine ehrliche Antwort".
+        """movement_pattern -> force_vector. `None` indicates no honest answer.
 
-        force_vector ist eine Funktion von movement_pattern und wird deshalb
-        abgeleitet statt annotiert (SCHEMA.md 6). Diese Tabelle ist die einzige
-        Stelle, an der die Zuordnung steht.
+        force_vector is a derived function of movement_pattern (SCHEMA.md §6).
+        This table is the single authoritative mapping.
         """
         return dict(self._classification_raw.get("force_vector_by_pattern") or {})
 
@@ -254,8 +251,8 @@ class Vocabularies:
 
     @cached_property
     def wger_language_ids(self) -> dict[int, str]:
-        """wger-Sprach-ID -> Sprachcode. Der Ersatz fuer die fest verdrahtete
-        (und falsche) LANGUAGE_ID_MAP der alten Pipeline."""
+        """wger language ID -> language code. Replaces the hardwired (and faulty)
+        LANGUAGE_ID_MAP of the legacy pipeline."""
         return {
             int(lang.wger_language_id): code
             for code, lang in self.languages.items()
@@ -283,7 +280,7 @@ _default: Vocabularies | None = None
 
 
 def load() -> Vocabularies:
-    """Die Vokabulare des Repos, einmal geladen und danach zwischengespeichert."""
+    """Loads repository vocabularies once and caches the instance."""
     global _default
     if _default is None:
         _default = Vocabularies()

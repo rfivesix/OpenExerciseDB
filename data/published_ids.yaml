@@ -1,16 +1,16 @@
-# data/published_ids.yaml — jede ID, die je ausgeliefert wurde.
+# data/published_ids.yaml — every ID ever distributed.
 #
-# AUTOMATISCH GEPFLEGT von build/update_published_ids.py. Nur wachsen, nie
-# kuerzen: ein Eintrag hier heisst, dass diese ID auf Geraeten liegen kann und in
-# `routine_exercises` sowie `set_logs` referenziert sein kann (SCHEMA.md 3).
+# AUTOMATICALLY MAINTAINED by build/update_published_ids.py. Only grows, never
+# shrinks: an entry here means this ID may exist on user devices and be referenced
+# in `routine_exercises` and `set_logs` (SCHEMA.md 3).
 #
-# Invariante 21 prueft gegen diese Datei und nicht gegen das vorige Release —
-# sonst waere ein einmal durchgerutschter Verlust danach unsichtbar. Genau so
-# sind 38 Uebungen zwischen 2026-06-15 und 2026-08-31 verlorengegangen.
+# Invariant 21 checks against this file rather than against the previous release —
+# otherwise a loss that slips through once would be invisible thereafter. Exactly
+# how 38 exercises were lost between 2026-06-15 and 2026-08-31.
 #
-# Wert je Eintrag: die frueheste bekannte Release-Version, in der die ID auftrat.
-# "Bekannt" heisst: aus den Datenbanken, die beim Auffuellen vorlagen — aeltere
-# Releases sind nicht mehr beschaffbar.
+# Value per entry: earliest known release version in which the ID appeared.
+# "Known" means: from databases available during backfill — older releases
+# can no longer be retrieved.
 version: 1
 count: 909
 ids:

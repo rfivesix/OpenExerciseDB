@@ -1,17 +1,17 @@
-"""YAML-Ein- und Ausgabe mit stabiler, diffbarer Formatierung.
+"""YAML input and output with stable, diff-friendly formatting.
 
-Die Quelldateien sind das eigentliche Produkt dieses Repos — sie werden gelesen,
-review't und per PR geaendert. Deshalb schreibt der Importer sie nicht mit den
-PyYAML-Standardeinstellungen (alphabetisch sortiert, ASCII-escaped, 80 Zeichen
-hart umgebrochen), sondern in einer festen, menschenfreundlichen Form:
+The source files are the primary product of this repository — they are read,
+reviewed, and modified via pull requests. The serializer therefore does not use
+PyYAML defaults (alphabetically sorted, ASCII-escaped, hard-wrapped at 80 columns),
+but enforces a clean, predictable human-friendly format:
 
-* Schluessel in der Reihenfolge, in der sie gesetzt wurden — nicht alphabetisch.
-* Unicode bleibt Unicode. "Rückenstrecker", nicht "R\\u00fcckenstrecker".
-* Mehrzeilige Texte als Literal-Block, damit Diffs zeilenweise lesbar bleiben.
-* Keine Zeilenumbrueche in Listen-Eintraegen.
+* Keys in insertion order — not sorted alphabetically.
+* Unicode remains Unicode: "Rückenstrecker", not "R\\u00fcckenstrecker".
+* Multiline text as literal block scalars, keeping line-by-line diffs readable.
+* No wrapping inside list entries.
 
-Das ist keine Kosmetik: ein Importer, der bei jedem Lauf dieselbe Datei anders
-formatiert, macht jeden Folge-Diff unbrauchbar.
+This predictability ensures that repeated serialization does not generate noisy
+git diffs.
 """
 from __future__ import annotations
 
@@ -22,15 +22,15 @@ import yaml
 
 
 class inline(dict):
-    """Ein Mapping, das einzeilig geschrieben wird: `{ id: lats, role: primary }`.
+    """A mapping written in flow style on a single line: `{ id: lats, role: primary }`.
 
-    Fuer kurze, immer gleich aufgebaute Eintraege — Muskelzuweisungen etwa —
-    ist eine Zeile je Eintrag deutlich besser review-bar als drei.
+    For short, uniformly structured entries such as muscle assignments, a single
+    line per entry is far easier to review than three lines.
     """
 
 
 class _Dumper(yaml.SafeDumper):
-    """SafeDumper mit Einrueckung fuer Listen (PyYAML tut das per Default nicht)."""
+    """SafeDumper with indentation for list items (PyYAML does not indent by default)."""
 
     def increase_indent(self, flow: bool = False, indentless: bool = False):  # noqa: D102
         return super().increase_indent(flow, False)
@@ -44,13 +44,12 @@ _Dumper.add_representer(inline, _inline_representer)
 
 
 LITERAL_THRESHOLD = 80
-"""Ab dieser Laenge wird ein String als Literal-Block geschrieben."""
+"""Strings exceeding this length or containing newlines are emitted as literal blocks."""
 
 
 def _str_representer(dumper: yaml.Dumper, data: str):
-    # Laengere Texte als Literal-Block, nicht als umgebrochener Plain-Scalar:
-    # ein umgebrochener Absatz wird bei jeder Wortaenderung komplett neu
-    # umbrochen, und der Diff faerbt dann drei Zeilen statt einer.
+    # Longer text as literal block, not as wrapped plain scalar:
+    # re-wrapping paragraphs causes small word edits to touch multiple lines in diffs.
     if "\n" in data or len(data) > LITERAL_THRESHOLD:
         return dumper.represent_scalar("tag:yaml.org,2002:str", data, style="|")
     return dumper.represent_scalar("tag:yaml.org,2002:str", data)
@@ -60,7 +59,7 @@ _Dumper.add_representer(str, _str_representer)
 
 
 def dump(data: Any) -> str:
-    """Serialisiert `data` in die kanonische Repo-Form."""
+    """Serializes `data` into canonical repository YAML formatting."""
     return yaml.dump(
         data,
         Dumper=_Dumper,
@@ -72,11 +71,10 @@ def dump(data: Any) -> str:
 
 
 def write(path: Path, data: Any, header: str | None = None) -> None:
-    """Schreibt `data` nach `path`, optional mit einem Kommentarkopf.
+    """Writes `data` to `path`, optionally with a comment header.
 
-    Legt fehlende Verzeichnisse an und schreibt nur, wenn sich der Inhalt
-    aendert — sonst wuerde jeder Importlauf 871 Dateien anfassen und die
-    mtime-basierte Zwischenspeicherung von Werkzeugen entwerten.
+    Creates missing directories and only writes if content has changed,
+    preserving file modification timestamps.
     """
     text = dump(data)
     if header:
@@ -87,12 +85,13 @@ def write(path: Path, data: Any, header: str | None = None) -> None:
     path.write_text(text, encoding="utf-8")
 
 
-try:  # libyaml ist rund zehnmal schneller und beim Einlesen von 4.200 Dateien spuerbar
+try:  # libyaml is significantly faster when reading thousands of files
     _Loader: type = yaml.CSafeLoader  # type: ignore[attr-defined]
-except AttributeError:  # pragma: no cover — nur ohne libyaml
+except AttributeError:  # pragma: no cover — only without libyaml
     _Loader = yaml.SafeLoader
 
 
 def read(path: Path) -> Any:
     with path.open("r", encoding="utf-8") as handle:
         return yaml.load(handle, Loader=_Loader)
+

@@ -27,7 +27,7 @@ muscles:
     role: secondary
 exceptions:
   invariant_12: |-
-    Squat Thrust / Burpee ist eine Cardio-/Ganzkörperübung, wird aber nach Wiederholungen geloggt.
+    Squat Thrust / Burpee is a cardio / full-body exercise, but tracked by repetitions.
 provenance:
   id:
     source: wger

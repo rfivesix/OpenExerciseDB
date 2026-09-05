@@ -1,34 +1,32 @@
 #!/usr/bin/env python3
-"""Abnahmetest: laedt die heutige App diese Datenbank noch?
+"""Acceptance test: does the current app still load this database?
 
-Die Schwelle steht in `_bootstrap/HANDOFF.md`: der Importer der App
-(`_mapExerciseBundle` in `lib/core/infrastructure/basis_data_manager.dart`) liest
-genau vier Spalten aus `exercises` — `id`, `category_name`, `muscles_primary`,
+The threshold is documented in SCHEMA.md: the app's importer
+(`_mapExerciseBundle` in `lib/core/infrastructure/basis_data_manager.dart`) reads
+exactly four columns from `exercises` — `id`, `category_name`, `muscles_primary`,
 `muscles_secondary` — plus `exercise_translations`.
 
-**Was sich mit Phase 2 an diesem Test geaendert hat.** In Phase 1 war
-Zeichengleichheit die richtige Schwelle: der Umbau der Pipeline sollte nachweislich
-folgenlos sein. Ab Phase 2 waere sie falsch — bessere Muskelzuweisungen aendern
-`muscles_primary` und `muscles_secondary` zwangslaeufig, das ist der Zweck des
-ganzen Projekts. Ein Test, der darauf besteht, blockiert genau die Arbeit, fuer
-die er da ist.
+**What changed with Phase 2 in this test.** In Phase 1, character identity was
+the correct threshold: restructuring the pipeline was proven to have zero side effects.
+From Phase 2 onwards, strict character identity would be counterproductive — better
+muscle assignments necessarily change `muscles_primary` and `muscles_secondary`,
+which is the whole purpose of the project. A test insisting on old values would block
+the very work it is meant to protect.
 
-Geblieben ist die Zeichengleichheit dort, wo sie eine echte Aussage macht:
-`category_name` (wird nicht gepflegt, ist der konservierte Rohwert). Texte
-werden in Phase 2 bewusst kuratiert. Der Test schuetzt deshalb ihre
-Verfuegbarkeit und Abdeckung, nicht mehr einen ueberholten Zeichengleichstand.
-Fuer die Muskelspalten steht jetzt die eigentliche Gefahr im Test — dass eine
-Uebung ihre Information *verliert* statt sie zu praezisieren.
+Character identity is retained where it provides meaningful guarantees:
+`category_name` (unmaintained legacy raw value). Texts are deliberately curated
+in Phase 2; the test protects their availability and coverage rather than an obsolete
+frozen string match. For muscle columns, the test checks the real danger — that an
+exercise *loses* muscle information rather than refining it.
 
-Als Referenz dient bei Bedarf eine zuvor veroeffentlichte OpenExerciseDB-DB.
-Ohne Referenz (kein lokaler Cache) ueberspringen sich die Tests, die eine
-brauchen; die Struktur- und Vertragstests laufen immer.
+When available, a previously published OpenExerciseDB database serves as reference.
+Without a reference (no local cache), reference-dependent tests skip; structural
+and schema contract tests always run.
 
-Warum "Referenz-IDs sind eine Teilmenge" und nicht "gleiche Menge": das Release
-ist vom 31.08. und kennt 862 Uebungen, der eingefrorene Snapshot vom 02.09. kennt
-871. Neun sind seither dazugekommen, keine verschwunden. Ein Test auf
-Mengengleichheit wuerde nicht die Pipeline pruefen, sondern das Alter des
-Releases.
+Why "reference IDs are a subset" and not "exact same set": previous releases
+contain fewer exercises than the current catalog. New exercises are added over time,
+none are deleted. A test for set equality would test release age rather than pipeline
+integrity.
 """
 from __future__ import annotations
 
@@ -46,7 +44,7 @@ APP_REQUIRED_LANGUAGES = ("de", "en")
 
 
 class DatabaseTestCase(unittest.TestCase):
-    """Baut die DB einmal fuer alle Tests dieser Datei."""
+    """Builds the database once for all tests in this file."""
 
     tmp: tempfile.TemporaryDirectory
     db: sqlite3.Connection
@@ -67,7 +65,7 @@ class DatabaseTestCase(unittest.TestCase):
 
 
 class AppImporterContract(DatabaseTestCase):
-    """Was die heutige App braucht — pruefbar ohne die Referenz-DB."""
+    """What the current app requires — verifiable without the reference DB."""
 
     def test_required_tables_exist(self) -> None:
         tables = support.table_names(self.db)
@@ -78,16 +76,16 @@ class AppImporterContract(DatabaseTestCase):
     def test_required_columns_exist(self) -> None:
         columns = support.table_columns(self.db, "exercises")
         for column in APP_REQUIRED_EXERCISE_COLUMNS:
-            self.assertIn(column, columns, f"exercises.{column} fehlt")
-            self.assertEqual("TEXT", columns[column], f"exercises.{column} ist kein TEXT")
+            self.assertIn(column, columns, f"exercises.{column} missing")
+            self.assertEqual("TEXT", columns[column], f"exercises.{column} is not TEXT")
 
         columns = support.table_columns(self.db, "exercise_translations")
         for column in APP_REQUIRED_TRANSLATION_COLUMNS:
-            self.assertIn(column, columns, f"exercise_translations.{column} fehlt")
+            self.assertIn(column, columns, f"exercise_translations.{column} missing")
 
     def test_compat_columns_are_never_null(self) -> None:
-        """NULL statt "[]" wuerde in der App zu einem stillen Absturz beim
-        JSON-Dekodieren fuehren — die Spalten muessen belegt sein."""
+        """NULL instead of "[]" would cause a silent crash in the app during
+        JSON decoding — columns must be populated."""
         row = self.db.execute(
             "SELECT COUNT(*) AS n FROM exercises "
             "WHERE category_name IS NULL OR muscles_primary IS NULL OR muscles_secondary IS NULL"
@@ -100,17 +98,17 @@ class AppImporterContract(DatabaseTestCase):
                 value = json.loads(row[column])
                 self.assertIsInstance(value, list, f"{row['id']}.{column}")
                 self.assertTrue(all(isinstance(item, str) for item in value))
-                self.assertEqual(sorted(set(value)), value, f"{row['id']}.{column} unsortiert")
+                self.assertEqual(sorted(set(value)), value, f"{row['id']}.{column} unsorted")
 
     def test_every_exercise_has_de_and_en_text(self) -> None:
-        """`complete_in_release` in vocab/languages.yaml ist genau diese Zusage."""
+        """`complete_in_release` in vocab/languages.yaml is precisely this guarantee."""
         for language in APP_REQUIRED_LANGUAGES:
             missing = self.db.execute(
                 "SELECT e.id FROM exercises e LEFT JOIN exercise_translations t "
                 "ON t.exercise_id = e.id AND t.language_code = ? WHERE t.id IS NULL",
                 (language,),
             ).fetchall()
-            self.assertEqual([], [row["id"] for row in missing], f"{language} unvollstaendig")
+            self.assertEqual([], [row["id"] for row in missing], f"{language} incomplete")
 
     def test_translation_ids_follow_the_expected_pattern(self) -> None:
         for row in self.db.execute(
@@ -140,13 +138,13 @@ class AppImporterContract(DatabaseTestCase):
             "license",
             "attribution_url",
         ):
-            self.assertIn(key, metadata, f"metadata.{key} fehlt (SCHEMA.md 8)")
+            self.assertIn(key, metadata, f"metadata.{key} missing (SCHEMA.md §8)")
         self.assertEqual("2", metadata["schema_version"])
         self.assertEqual("1", metadata["min_app_schema_version"])
 
     def test_license_provenance_is_present_on_every_row(self) -> None:
-        """Der eigentliche Grund fuer den Fork-Teil dieser Phase: die heute
-        ausgelieferte DB enthaelt keinerlei Attribution (SCHEMA.md 3b)."""
+        """The primary reason for the fork aspect of this phase: the previously
+        shipped DB contained no attribution whatsoever (SCHEMA.md §3b)."""
         missing = self.db.execute(
             "SELECT COUNT(*) AS n FROM exercises WHERE upstream_license IS NULL AND upstream_source IS NOT NULL"
         ).fetchone()
@@ -158,7 +156,7 @@ class AppImporterContract(DatabaseTestCase):
 
 
 class ReferenceComparison(DatabaseTestCase):
-    """Zeichenvergleich gegen die veroeffentlichte Datenbank."""
+    """Character comparison against the published database."""
 
     reference: sqlite3.Connection
 
@@ -181,10 +179,10 @@ class ReferenceComparison(DatabaseTestCase):
     def setUp(self) -> None:
         if getattr(type(self), "reference", None) is None:
             self.skipTest(
-                "Keine Referenz-DB. REFERENCE_DB_PATH setzen oder OEDB_ALLOW_DOWNLOAD=1."
+                "No reference DB. Set REFERENCE_DB_PATH or OEDB_ALLOW_DOWNLOAD=1."
             )
 
-    # -- Helfer -------------------------------------------------------------
+    # -- Helpers ------------------------------------------------------------
     def _ids(self, connection: sqlite3.Connection) -> set[str]:
         return {row["id"] for row in connection.execute("SELECT id FROM exercises")}
 
@@ -193,17 +191,16 @@ class ReferenceComparison(DatabaseTestCase):
 
     # -- Tests --------------------------------------------------------------
     def test_no_reference_id_disappears(self) -> None:
-        """Invariante 21: eine ID, die verschwindet, macht Nutzerdaten
-        unaufloesbar (SCHEMA.md 3)."""
+        """Invariant 21: a disappearing ID breaks user history (SCHEMA.md §3)."""
         missing = sorted(self._ids(self.reference) - self._ids(self.db), key=str)
-        self.assertEqual([], missing, f"{len(missing)} Uebungen der Referenz fehlen")
+        self.assertEqual([], missing, f"{len(missing)} reference exercises missing")
 
     def test_exercise_count_does_not_drop(self) -> None:
         self.assertGreaterEqual(len(self._ids(self.db)), len(self._ids(self.reference)))
 
     def test_category_name_is_character_identical(self) -> None:
-        """`category_name` wird nicht gepflegt — es ist der konservierte
-        wger-Rohwert. Aendert es sich, stimmt etwas mit der Pipeline nicht."""
+        """`category_name` is unmaintained — it is the preserved wger raw value.
+        If it changes, something in the pipeline is wrong."""
         new = {row["id"]: row["category_name"] for row in self.db.execute(
             "SELECT id, category_name FROM exercises")}
         old = {row["id"]: row["category_name"] for row in self.reference.execute(
@@ -211,21 +208,19 @@ class ReferenceComparison(DatabaseTestCase):
         differences = [
             (i, old[i], new[i]) for i in sorted(self._shared_ids()) if old[i] != new[i]
         ]
-        self.assertEqual([], differences[:20], f"{len(differences)} Abweichungen")
+        self.assertEqual([], differences[:20], f"{len(differences)} divergences")
 
     def test_muscle_columns_never_lose_data_silently(self) -> None:
-        """Ab Phase 2 duerfen sich die Muskelspalten aendern — das ist der Zweck.
+        """From Phase 2 onwards, muscle columns may change — that is the purpose.
 
-        Zeichengleichheit war die richtige Schwelle fuer Phase 1 (keine
-        Verhaltensaenderung). Ab Phase 2 wuerde sie genau die Arbeit blockieren,
-        fuer die es dieses Repo gibt: bessere Zuweisungen aendern diese Spalten
-        zwangslaeufig.
+        Character identity was the correct threshold for Phase 1 (no behavioral change).
+        From Phase 2 onwards, it would block the exact work this repository exists for:
+        better assignments necessarily change these columns.
 
-        Was bleibt, ist die eigentliche Gefahr: dass eine Uebung ihre
-        Muskelinformation *verliert*. Deshalb wird hier nicht mehr auf Gleichheit
-        geprueft, sondern darauf, dass jede Abweichung durch praezisere Daten
-        gedeckt ist — `exercise_muscles` muss die Zuweisung enthalten, auch wenn
-        das alte 15-Werte-Vokabular sie nicht ausdruecken kann.
+        What remains is the real danger: that an exercise *loses* muscle information.
+        Therefore, this test does not check for equality, but ensures that every
+        divergence is backed by more precise data — `exercise_muscles` must contain
+        the assignment, even if the legacy 15-value vocabulary cannot express it.
         """
         losses = []
         for row in self.reference.execute(
@@ -248,20 +243,20 @@ class ReferenceComparison(DatabaseTestCase):
             has = json.loads(new_row["muscles_primary"] or "[]") + json.loads(
                 new_row["muscles_secondary"] or "[]"
             )
-            # Der einzige echte Verlust: vorher etwas, jetzt nichts — und auch
-            # keine praezise Zuweisung, die das erklaeren wuerde.
+            # The only real loss: previously something, now nothing — and no
+            # precise assignment either that would explain it.
             if had and not has and precise == 0:
                 losses.append(exercise_id)
-        self.assertEqual([], losses, f"{len(losses)} Uebungen ohne jede Muskelinformation")
+        self.assertEqual([], losses, f"{len(losses)} exercises without any muscle information")
 
     def test_the_legacy_vocabulary_gap_is_small_and_named(self) -> None:
-        """Wie viele Uebungen das alte 15-Werte-Vokabular nicht mehr ausdruecken kann.
+        """How many exercises the legacy 15-value vocabulary can no longer represent.
 
-        Kein Datenverlust — `exercise_muscles` traegt die praezise Zuweisung —,
-        aber ein Konsument, der nur die Legacy-Spalten liest, sieht sie nicht
-        mehr. Die Zahl gehoert sichtbar in den Test, damit sie nicht unbemerkt
-        waechst; behoben wird sie App-seitig durch den Umstieg auf die
-        mitgelieferten Vokabulare (SCHEMA.md 10, Punkt 6).
+        Not data loss — `exercise_muscles` carries the precise assignment —,
+        but a consumer reading only legacy columns will no longer see them.
+        The count belongs visibly in the test so that it does not grow unnoticed;
+        it is resolved app-side by migrating to the bundled vocabularies
+        (SCHEMA.md §10, item 6).
         """
         gap = []
         for exercise_id in sorted(self._shared_ids(), key=str):
@@ -276,8 +271,8 @@ class ReferenceComparison(DatabaseTestCase):
         self.assertLessEqual(
             len(gap),
             10,
-            f"{len(gap)} Uebungen fallen aus den Legacy-Spalten heraus: {gap[:20]}. "
-            f"Wenn das waechst, lohnt der App-seitige Umstieg dringender.",
+            f"{len(gap)} exercises dropped out of legacy columns: {gap[:20]}. "
+            f"If this grows, app-side migration becomes more urgent.",
         )
 
     def test_legacy_row_defaults_are_unchanged(self) -> None:
@@ -294,21 +289,21 @@ class ReferenceComparison(DatabaseTestCase):
         self.assertEqual([], differences[:20])
 
     def test_reference_de_and_en_names_remain_available(self) -> None:
-        """Ein vorhandener Name darf durch die Textpflege nicht verschwinden."""
+        """An existing name must not disappear during text curation."""
         for language in APP_REQUIRED_LANGUAGES:
             new = self._translations(self.db, language)
             old = self._translations(self.reference, language)
             shared = self._shared_ids() & set(old)
-            self.assertTrue(shared, f"Referenz hat keine {language}-Texte")
+            self.assertTrue(shared, f"Reference has no {language} texts")
             missing = [
                 exercise_id for exercise_id in sorted(shared)
                 if (old[exercise_id]["name"] or "").strip()
                 and not (new.get(exercise_id, {}).get("name") or "").strip()
             ]
-            self.assertEqual([], missing[:20], f"{language}: {len(missing)} Namen verloren")
+            self.assertEqual([], missing[:20], f"{language}: {len(missing)} names lost")
 
     def test_translation_coverage_never_drops(self) -> None:
-        """Jede in der Release-DB vorhandene Sprachzeile bleibt vorhanden."""
+        """Every language row present in the release DB remains present."""
         old = {
             row["language_code"]: row["n"]
             for row in self.reference.execute(
@@ -342,3 +337,4 @@ class ReferenceComparison(DatabaseTestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+

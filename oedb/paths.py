@@ -1,4 +1,4 @@
-"""Zentrale Pfade des Repos. Eine einzige Stelle, die den Repo-Root kennt."""
+"""Central repository paths. The single location that resolves the repository root."""
 from __future__ import annotations
 
 from pathlib import Path

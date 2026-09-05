@@ -1,25 +1,25 @@
 #!/usr/bin/env python3
-"""Prueft die Invarianten aus `schema/invariants.md`. Das CI-Gate.
+"""Validates the invariants from `schema/invariants.md`. The CI gate.
 
-Die Invarianten sind der eigentliche Qualitaetsmechanismus dieses Repos: sie
-fangen den mechanischen Teil der Fehler automatisch ab, damit der menschliche
-Review sich auf das konzentriert, was eine Maschine nicht entscheiden kann.
+The invariants are the core quality mechanism of this repository: they catch
+the mechanical portion of errors automatically, allowing human review to focus
+on what a machine cannot decide.
 
-**Zwei Profile.** In Phase 1 existieren die Klassifikationsfelder noch gar
-nicht — wger liefert sie nicht, und sie zu raten waere schlimmer als sie
-wegzulassen (SCHEMA.md 11). Ein Regelwerk, das deshalb dauerhaft rot steht, wird
-nach einer Woche ignoriert und ist damit wertlos. Also:
+**Two profiles.** In Phase 1, classification fields do not exist yet — wger does
+not provide them, and guessing them would be worse than leaving them empty
+(SCHEMA.md §11). A ruleset that is permanently red is ignored after a week and
+thus worthless. Therefore:
 
-    --profile phase1   Struktur und Vokabular scharf; die inhaltlichen Regeln
-                       greifen ueberall dort, wo die Felder vorhanden sind, und
-                       schweigen, wo sie es noch nicht sind.
-    --profile full     alles scharf. Das Ziel am Ende von Phase 2 — und der
-                       Beleg dafuer, dass Phase 2 fertig ist.
+    --profile phase1   Structure and vocabulary strictly enforced; content rules
+                       apply wherever fields exist, and remain silent where they
+                       do not yet exist.
+    --profile full     Everything strictly enforced. The target state at the end
+                       of Phase 2 — and proof that Phase 2 is complete.
 
-Was in Phase 1 fehlt, ist damit kein stiller blinder Fleck, sondern eine Zahl im
-Bericht: `--profile full` sagt jederzeit, wie weit es noch ist.
+What is missing in Phase 1 is not a silent blind spot, but a number in the
+report: `--profile full` indicates at any time how much remains to be done.
 
-Aufruf:
+Usage:
 
     python3 build/validate.py
     python3 build/validate.py --profile full --json-out artifacts/validation.json
@@ -57,16 +57,16 @@ HARD_INVARIANTS = {
     "1", "1b", "1c", "2", "3", "3b", "4", "5", "6", "7",
     "8", "9", "10", "17", "21", "22", "23", "24", "25",
 }
-"""Strukturell und referenziell: eine ID zeigt ins Leere, ein Vokabularwert
-existiert nicht, ein Muskel steht zweimal da. Keine legitimen Ausnahmen."""
+"""Structural and referential invariants: an ID points to nothing, a vocabulary
+value does not exist, a muscle is listed twice. No legitimate exceptions."""
 
 SOFT_INVARIANTS = {"11", "12", "13", "14", "15", "20"}
-"""Plausibilitaet — Korrelationen, keine Gesetze.
+"""Plausibility invariants — correlations, not absolute laws.
 
-Cardio wird nicht in Wiederholungen geloggt, ausser bei Burpees. Der Schaden
-einer zu strengen Regel ist nicht der Fehlalarm — der ist sichtbar —, sondern
-die still verbogene Annotation, die ihn vermeidet. Deshalb sind diese Regeln
-pro Uebung entschaerfbar, mit Begruendung im Klartext."""
+Cardio is not logged in reps, except for burpees. The damage of an overly strict
+rule is not the false alarm — which is visible —, but the silently distorted
+annotation made to avoid it. Therefore, these rules can be excused per exercise,
+with an explicit plain-text justification."""
 
 EXCEPTION_PREFIX = "invariant_"
 
@@ -83,13 +83,13 @@ PHASE2_FIELDS = (
     "setup",
     "muscles",
 )
-"""Felder, die wger nicht liefert und die Phase 1 deshalb leer laesst.
+"""Fields that wger does not provide and that Phase 1 leaves empty.
 
-Im Profil `phase1` werden sie aus `required` des JSON-Schemas herausgenommen.
-Ueberall sonst gilt: ist das Feld da, wird es voll geprueft."""
+In profile `phase1`, they are removed from the JSON schema's `required` list.
+Everywhere else: if the field is present, it is fully validated."""
 
 HEAVY_SETUP = ("squat_rack", "power_rack", "cable_tower", "landmine")
-"""Invariante 11: mit reinem Koerpergewicht unvereinbares Setup."""
+"""Invariant 11: setup incompatible with pure bodyweight."""
 
 CARDIO_TRACKING = {"time", "distance_time", "distance_only"}
 ADDED_WEIGHT_TRACKING = {"bodyweight_reps", "time"}
@@ -104,7 +104,7 @@ class Finding:
     location: str | None = None
     exercise_id: str | None = None
     excused: str | None = None
-    """Begruendung, falls der Befund per `exceptions` entschaerft wurde."""
+    """Justification if this finding was excused via `exceptions`."""
 
     def as_dict(self) -> dict[str, Any]:
         return {
@@ -136,7 +136,7 @@ class Report:
 
     @property
     def open_findings(self) -> list[Finding]:
-        """Alles, was nicht per Ausnahme entschaerft wurde."""
+        """All findings that have not been excused by an exception."""
         return [f for f in self.findings if f.excused is None]
 
     def skip(self, invariant: str, reason: str) -> None:
@@ -162,13 +162,12 @@ def relative(path: Path) -> str:
 
 
 def jsonify(value: Any) -> Any:
-    """YAML-Werte in das ueberfuehren, was JSON Schema erwartet.
+    """Convert YAML values to what JSON Schema expects.
 
-    YAML liest `at: 2026-09-02` als `datetime.date`, das Schema erwartet dort
-    einen String mit `format: date`. Beide Schreibweisen sind fuer einen
-    Beitragenden voellig gleichwertig — ein Validator, der die eine ablehnt
-    (und zwar genau die, die in `examples/` steht), erzieht niemanden, er
-    aergert nur.
+    YAML parses `at: 2026-09-02` as `datetime.date`, but the schema expects a
+    string with `format: date`. Both representations are completely equivalent
+    for a contributor — a validator that rejects one (namely the one shown in
+    `examples/`) teaches no one, it only frustrates.
     """
     if isinstance(value, dict):
         return {key: jsonify(item) for key, item in value.items()}
@@ -182,11 +181,11 @@ def jsonify(value: Any) -> Any:
 def check_schemas(
     data: dataset_mod.Dataset, report: Report, *, profile: str
 ) -> None:
-    """Invariante 1: jede Datei validiert gegen ihr JSON-Schema."""
+    """Invariant 1: each file validates against its JSON schema."""
     try:
         import jsonschema
     except ImportError:
-        report.skip("1", "jsonschema ist nicht installiert (pip install -r requirements.txt)")
+        report.skip("1", "jsonschema is not installed (pip install -r requirements.txt)")
         return
 
     full_exercise_schema = json.loads(EXERCISE_SCHEMA.read_text(encoding="utf-8"))
@@ -218,9 +217,9 @@ def check_schemas(
                     relative(document.path),
                 )
 
-    # 1c — die Beispieldatei ist Dokumentation und wird abgeschrieben. Sie wird
-    # immer gegen das VOLLE Schema geprueft, auch im Profil phase1: ein Beispiel,
-    # das nicht validiert, schickt jeden Beitragenden in denselben Fehler.
+    # 1c — the example file is documentation and is copied by contributors. It is
+    # always validated against the FULL schema, even in profile phase1: an example
+    # that does not validate leads every contributor into the same mistake.
     for path, schema in [
         (EXAMPLES_DIR / "exercises" / "475.yaml", full_exercise_schema),
         *[
@@ -237,7 +236,7 @@ def check_schemas(
 
 
 def check_vocabulary(data: dataset_mod.Dataset, vocab: Vocabularies, report: Report) -> None:
-    """Invariante 2: jeder klassifizierende Wert steht in einer vocab/*.yaml."""
+    """Invariant 2: every classifying value exists in a vocab/*.yaml file."""
     single_axes = {
         "status": set(vocab.classification("status")),
         "modality": set(vocab.classification("modality")),
@@ -258,27 +257,27 @@ def check_vocabulary(data: dataset_mod.Dataset, vocab: Vocabularies, report: Rep
         for field_name, allowed in single_axes.items():
             value = exercise.get(field_name)
             if value is not None and value not in allowed:
-                report.add("2", ERROR, f"{field_name}: unbekannter Wert {value!r}", location)
+                report.add("2", ERROR, f"{field_name}: unknown value {value!r}", location)
         for tag in exercise.get("usage_tags") or []:
             if tag not in usage_tags:
-                report.add("2", ERROR, f"usage_tags: unbekannter Wert {tag!r}", location)
+                report.add("2", ERROR, f"usage_tags: unknown value {tag!r}", location)
         for item in exercise.get("setup") or []:
             if item not in setup_values:
-                report.add("2", ERROR, f"setup: unbekannter Wert {item!r}", location)
+                report.add("2", ERROR, f"setup: unknown value {item!r}", location)
         for entry in exercise.muscles:
             node = entry.get("id") if isinstance(entry, dict) else None
             if node is not None and node not in vocab.muscles:
-                report.add("2", ERROR, f"muscles: unbekannter Knoten {node!r}", location)
+                report.add("2", ERROR, f"muscles: unknown node {node!r}", location)
         license_id = (exercise.upstream or {}).get("license")
         if license_id is not None and license_id not in licenses:
-            report.add("2", ERROR, f"upstream.license: unbekannt {license_id!r}", location)
+            report.add("2", ERROR, f"upstream.license: unknown {license_id!r}", location)
 
     for language, bucket in data.translations.items():
         if language not in vocab.languages:
             report.add(
                 "2",
                 ERROR,
-                f"Sprache {language!r} ist nicht in vocab/languages.yaml registriert",
+                f"Language {language!r} is not registered in vocab/languages.yaml",
                 f"data/i18n/{language}/",
             )
             continue
@@ -288,35 +287,35 @@ def check_vocabulary(data: dataset_mod.Dataset, vocab: Vocabularies, report: Rep
                 report.add(
                     "2",
                     ERROR,
-                    f"language: {translation.data.get('language')!r} passt nicht zum Verzeichnis "
+                    f"language: {translation.data.get('language')!r} does not match directory "
                     f"{language!r}",
                     location,
                 )
             license_id = (translation.upstream or {}).get("license")
             if license_id is not None and license_id not in licenses:
-                report.add("2", ERROR, f"upstream.license: unbekannt {license_id!r}", location)
+                report.add("2", ERROR, f"upstream.license: unknown {license_id!r}", location)
 
 
 def check_identity(data: dataset_mod.Dataset, report: Report) -> None:
-    """Invariante 3: `id` und `slug` sind global eindeutig."""
+    """Invariant 3: `id` and `slug` are globally unique."""
     for exercise_id, path in data.duplicate_ids:
-        report.add("3", ERROR, f"doppelte oder unlesbare Uebung {exercise_id!r}", path)
+        report.add("3", ERROR, f"duplicate or unreadable exercise {exercise_id!r}", path)
 
     slugs: dict[str, str] = {}
     for exercise in data.exercises.values():
         location = relative(exercise.path)
         if exercise.id != exercise.path.stem:
             report.add(
-                "3", ERROR, f"id {exercise.id!r} passt nicht zum Dateinamen", location
+                "3", ERROR, f"id {exercise.id!r} does not match filename", location
             )
         if not exercise.slug:
-            report.add("3", ERROR, "slug fehlt", location)
+            report.add("3", ERROR, "slug is missing", location)
             continue
         if exercise.slug in slugs:
             report.add(
                 "3",
                 ERROR,
-                f"slug {exercise.slug!r} ist schon von Uebung {slugs[exercise.slug]} belegt",
+                f"slug {exercise.slug!r} is already used by exercise {slugs[exercise.slug]}",
                 location,
             )
         else:
@@ -324,9 +323,8 @@ def check_identity(data: dataset_mod.Dataset, report: Report) -> None:
 
 
 def check_vocab_id_uniqueness(vocab: Vocabularies, report: Report) -> None:
-    """Invariante 3b: IDs sind innerhalb eines Vokabulars ebenenuebergreifend
-    eindeutig — Gruppe, Muskel und Kopf teilen sich im Build eine Tabelle mit
-    einem Primaerschluessel."""
+    """Invariant 3b: IDs within a vocabulary are unique across hierarchy levels
+    — group, muscle, and head share a single primary-keyed table in the build."""
     raw = yamlio.read(VOCAB_DIR / "muscles.yaml")
     seen: dict[str, str] = {}
     for group in raw.get("groups", []):
@@ -342,21 +340,21 @@ def check_vocab_id_uniqueness(vocab: Vocabularies, report: Report) -> None:
         for entry in raw.get(axis, []):
             _claim(seen, str(entry["id"]), axis, report, "vocab/equipment.yaml")
 
-    # Dieselbe Falle eine Ebene tiefer: das Legacy-Mapping darf nur auf Knoten
-    # zeigen, die es auch gibt.
+    # The same trap one level deeper: legacy mapping must only point to nodes
+    # that actually exist.
     for raw_name, node in vocab.muscles.legacy_wger_mapping.items():
         if node not in vocab.muscles:
             report.add(
                 "3b",
                 ERROR,
-                f"legacy_wger_mapping: {raw_name!r} zeigt auf unbekannten Knoten {node!r}",
+                f"legacy_wger_mapping: {raw_name!r} points to unknown node {node!r}",
                 "vocab/muscles.yaml",
             )
 
 
 def _claim(seen: dict[str, str], key: str, level: str, report: Report, location: str) -> None:
     if key in seen:
-        report.add("3b", ERROR, f"ID {key!r} doppelt ({seen[key]} und {level})", location)
+        report.add("3b", ERROR, f"ID {key!r} duplicated ({seen[key]} and {level})", location)
     else:
         seen[key] = level
 
@@ -364,7 +362,7 @@ def _claim(seen: dict[str, str], key: str, level: str, report: Report, location:
 def check_translation_coverage(
     data: dataset_mod.Dataset, vocab: Vocabularies, report: Report, *, profile: str
 ) -> None:
-    """Invarianten 4 und 5: Vollstaendigkeit und Gegenstueck."""
+    """Invariants 4 and 5: completeness and counterpart matching."""
     active = {exercise.id for exercise in data.active()}
 
     for code, language in vocab.languages.items():
@@ -377,8 +375,8 @@ def check_translation_coverage(
             report.add(
                 "4",
                 severity,
-                f"Sprache {code!r} ist als curated markiert, aber {len(missing)} aktive Uebungen "
-                f"haben keinen Text (z. B. {', '.join(missing[:5])})",
+                f"Language {code!r} is marked as curated, but {len(missing)} active exercises "
+                f"have no translation (e.g. {', '.join(missing[:5])})",
                 f"data/i18n/{code}/",
             )
 
@@ -388,15 +386,15 @@ def check_translation_coverage(
                 report.add(
                     "5",
                     ERROR,
-                    f"Text ohne zugehoerige Uebung {exercise_id!r}",
+                    f"Translation without corresponding exercise {exercise_id!r}",
                     relative(translation.path),
                 )
             elif translation.data.get("exercise_id") != exercise_id:
                 report.add(
                     "5",
                     ERROR,
-                    f"exercise_id {translation.data.get('exercise_id')!r} passt nicht zum "
-                    f"Dateinamen {exercise_id!r}",
+                    f"exercise_id {translation.data.get('exercise_id')!r} does not match "
+                    f"filename {exercise_id!r}",
                     relative(translation.path),
                 )
             elif code != "en" and translation.data.get("status") == "ai_raw":
@@ -405,34 +403,34 @@ def check_translation_coverage(
                     en_name = (en_translation.name or "").strip().lower()
                     tr_name = (translation.name or "").strip().lower()
                     if tr_name and en_name and tr_name == en_name:
-                        # Nicht blockierend, aber als Warnliste im QA-Gate sichtbar
+                        # Non-blocking, but visible as a warning in the QA gate
                         report.add(
                             "translation_identity",
                             WARNING,
-                            f"Uebersetzter Name ({code}) ist identisch zum englischen Namen: {translation.name!r}",
+                            f"Translated name ({code}) is identical to English name: {translation.name!r}",
                             relative(translation.path),
                             exercise_id,
                         )
 
 
 def check_merges(data: dataset_mod.Dataset, report: Report) -> None:
-    """Invarianten 6 und 7: Zusammenlegungen und Alias-Ketten."""
+    """Invariants 6 and 7: merges and alias chains."""
     alias_sources: dict[str, str] = {}
     for exercise in data.exercises.values():
         location = relative(exercise.path)
         if exercise.status == "merged":
             target = exercise.get("merged_into")
             if not target:
-                report.add("6", ERROR, "status: merged ohne merged_into", location)
+                report.add("6", ERROR, "status: merged without merged_into", location)
                 continue
             target = str(target)
             if target not in data.exercises:
-                report.add("6", ERROR, f"merged_into {target!r} existiert nicht", location)
+                report.add("6", ERROR, f"merged_into {target!r} does not exist", location)
             elif data.exercises[target].status != "active":
                 report.add(
                     "6",
                     ERROR,
-                    f"merged_into {target!r} ist selbst {data.exercises[target].status}",
+                    f"merged_into {target!r} is itself {data.exercises[target].status}",
                     location,
                 )
             alias_sources[exercise.id] = target
@@ -444,8 +442,8 @@ def check_merges(data: dataset_mod.Dataset, report: Report) -> None:
             report.add(
                 "7",
                 ERROR,
-                f"Alias-Kette: {old_id} -> {new_id} -> {alias_sources[new_id]}. "
-                f"Beide muessen direkt auf {alias_sources[new_id]} zeigen.",
+                f"Alias chain: {old_id} -> {new_id} -> {alias_sources[new_id]}. "
+                f"Both must point directly to {alias_sources[new_id]}.",
                 relative(data.exercises[new_id].path) if new_id in data.exercises else None,
             )
 
@@ -453,7 +451,7 @@ def check_merges(data: dataset_mod.Dataset, report: Report) -> None:
 def check_muscles(
     data: dataset_mod.Dataset, vocab: Vocabularies, report: Report, *, profile: str
 ) -> None:
-    """Invarianten 8 bis 10."""
+    """Invariants 8 to 10."""
     muscles = vocab.muscles
     without_primary: list[str] = []
 
@@ -462,29 +460,29 @@ def check_muscles(
         entries = [entry for entry in exercise.muscles if isinstance(entry, dict)]
         node_ids = [str(entry["id"]) for entry in entries if "id" in entry]
 
-        # 8 — mindestens ein primaerer Muskel (gilt fuer aktive Uebungen)
+        # 8 — at least one primary muscle (applies to active exercises)
         if exercise.status == "active" and not any(
             entry.get("role") == "primary" for entry in entries
         ):
             if profile == "full":
-                report.add("8", ERROR, "kein Muskel mit role: primary", location)
+                report.add("8", ERROR, "no muscle with role: primary", location)
             else:
                 without_primary.append(exercise.id)
 
-        # 9 — kein Muskel doppelt, keiner in beiden Rollen
+        # 9 — no duplicate muscles, none in both roles
         roles: dict[str, set[str]] = defaultdict(set)
         for entry in entries:
             roles[str(entry.get("id"))].add(str(entry.get("role")))
         for node_id, node_roles in sorted(roles.items()):
             count = sum(1 for entry in entries if str(entry.get("id")) == node_id)
             if count > 1:
-                report.add("9", ERROR, f"Muskel {node_id!r} {count}-mal genannt", location)
+                report.add("9", ERROR, f"muscle {node_id!r} listed {count} times", location)
             if len(node_roles) > 1:
                 report.add(
-                    "9", ERROR, f"Muskel {node_id!r} ist primary und secondary", location
+                    "9", ERROR, f"muscle {node_id!r} is both primary and secondary", location
                 )
 
-        # 10 — kein Knoten zusammen mit Vorfahr oder Nachfahr
+        # 10 — no node together with ancestor or descendant
         present = {node_id for node_id in node_ids if node_id in muscles}
         for node_id in sorted(present):
             redundant = sorted(present & set(muscles.ancestors(node_id)))
@@ -492,7 +490,7 @@ def check_muscles(
                 report.add(
                     "10",
                     ERROR,
-                    f"{node_id!r} und sein Vorfahr {other!r} sind beide genannt — redundant",
+                    f"{node_id!r} and its ancestor {other!r} are both listed — redundant",
                     location,
                 )
 
@@ -500,22 +498,22 @@ def check_muscles(
         report.add(
             "8",
             WARNING,
-            f"{len(without_primary)} Uebungen ohne primaeren Muskel. Das ist die Ausgangslage "
-            f"des Imports und die Hauptarbeit von Phase 2 (SCHEMA.md 11), kein Regelbruch.",
+            f"{len(without_primary)} exercises without a primary muscle. This is the baseline "
+            f"state of the import and the main work of Phase 2 (SCHEMA.md §11), not a violation.",
             "data/exercises/",
         )
     report.stats["without_primary_muscle"] = len(without_primary)
 
 
 def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: Report) -> None:
-    """Invarianten 11 bis 18 (weich) sowie 24 und 25 (hart).
+    """Invariants 11 to 18 (soft) as well as 24 and 25 (hard).
 
-    Alle konditional: was nicht da ist, wird nicht geprueft. Sobald Phase 2 ein
-    Feld befuellt, greift die zugehoerige Regel automatisch fuer genau diese
-    Uebung.
+    All conditional: what is not present is not checked. As soon as Phase 2
+    populates a field, the corresponding rule applies automatically for that
+    specific exercise.
 
-    Die weichen Regeln sind ueber `exceptions` entschaerfbar — sie beschreiben,
-    was ueblich ist, nicht was gelten muss. Die harten nicht.
+    Soft rules can be excused via `exceptions` — they describe what is standard,
+    not what is strictly mandated. Hard rules cannot.
     """
     muscles = vocab.muscles
 
@@ -532,46 +530,46 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
         primary = exercise.muscle_ids("primary")
         entries = [entry for entry in exercise.muscles if isinstance(entry, dict)]
 
-        # --- 11 (weich)
+        # --- 11 (soft)
         if equipment == "bodyweight":
             for item in sorted(set(setup) & set(HEAVY_SETUP)):
                 report.add(
                     "11",
                     ERROR,
-                    f"primary_equipment: bodyweight, aber setup enthaelt {item!r}",
+                    f"primary_equipment: bodyweight, but setup contains {item!r}",
                     location,
                     eid,
                 )
-        # --- 12 (weich) — Burpees sind Cardio in Wiederholungen.
+        # --- 12 (soft) — Burpees are cardio logged in repetitions.
         if modality == "cardio" and tracking and tracking not in CARDIO_TRACKING:
             report.add(
                 "12",
                 ERROR,
-                f"modality: cardio verlangt tracking_type aus {sorted(CARDIO_TRACKING)}, "
-                f"ist {tracking!r}",
+                f"modality: cardio requires tracking_type from {sorted(CARDIO_TRACKING)}, "
+                f"got {tracking!r}",
                 location,
                 eid,
             )
-        # --- 13 (weich)
+        # --- 13 (soft)
         if modality == "strength" and tracking == "distance_only":
             report.add(
-                "13", ERROR, "modality: strength mit tracking_type: distance_only", location, eid
+                "13", ERROR, "modality: strength with tracking_type: distance_only", location, eid
             )
-        # --- 14 (weich)
+        # --- 14 (soft)
         if mechanic == "isolation" and len(primary) > 2:
             report.add(
                 "14",
                 ERROR,
-                f"mechanic: isolation mit {len(primary)} primaeren Muskeln (hoechstens 2)",
+                f"mechanic: isolation with {len(primary)} primary muscles (at most 2)",
                 location,
                 eid,
             )
-        # --- 15 (weich)
+        # --- 15 (soft)
         if mechanic == "compound" and entries and len(entries) < 2:
             report.add(
-                "15", ERROR, "mechanic: compound mit nur einem beteiligten Muskel", location, eid
+                "15", ERROR, "mechanic: compound with only one involved muscle", location, eid
             )
-        # --- 17 (hart)
+        # --- 17 (hard)
         if (
             exercise.get("supports_added_weight")
             and tracking
@@ -580,53 +578,52 @@ def check_plausibility(data: dataset_mod.Dataset, vocab: Vocabularies, report: R
             report.add(
                 "17",
                 ERROR,
-                f"supports_added_weight verlangt tracking_type aus "
-                f"{sorted(ADDED_WEIGHT_TRACKING)}, ist {tracking!r}",
+                f"supports_added_weight requires tracking_type from "
+                f"{sorted(ADDED_WEIGHT_TRACKING)}, got {tracking!r}",
                 location,
                 eid,
             )
-        # --- 24 (hart) — etwas dazuzuladen setzt voraus, dass die Grundform das
-        # eigene Koerpergewicht ist.
+        # --- 24 (hard) — adding weight requires that the base form is bodyweight.
         if exercise.get("supports_added_weight") and load_mode and load_mode != "bodyweight":
             report.add(
                 "24",
                 ERROR,
-                f"supports_added_weight verlangt load_mode: bodyweight, ist {load_mode!r}",
+                f"supports_added_weight requires load_mode: bodyweight, got {load_mode!r}",
                 location,
                 eid,
             )
-        # --- 25 (hart) — Entlastung erzeugt eine Maschine oder ein Band.
+        # --- 25 (hard) — assistance requires a machine or band.
         if load_mode == "assisted" and equipment and equipment not in ASSISTED_EQUIPMENT:
             report.add(
                 "25",
                 ERROR,
-                f"load_mode: assisted verlangt primary_equipment aus "
-                f"{sorted(ASSISTED_EQUIPMENT)}, ist {equipment!r}",
+                f"load_mode: assisted requires primary_equipment from "
+                f"{sorted(ASSISTED_EQUIPMENT)}, got {equipment!r}",
                 location,
                 eid,
             )
-        # Muskelknoten muessen aufloesbar sein, sonst laufen 10 und 20 ins Leere.
+        # Muscle nodes must be resolvable, otherwise 10 and 20 fail silently.
         for node_id in primary:
             if node_id not in muscles:
-                report.add("2", ERROR, f"muscles: unbekannter Knoten {node_id!r}", location, eid)
+                report.add("2", ERROR, f"muscles: unknown node {node_id!r}", location, eid)
 
 
 def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
-    """Wertet `exceptions` aus: entschaerfen, pruefen, zaehlen.
+    """Evaluates `exceptions`: excuse, validate, count.
 
-    Muss nach allen anderen Pruefungen laufen — sie entscheidet nicht, ob etwas
-    ein Befund ist, sondern ob ein Befund erklaert ist.
+    Must run after all other checks — it does not decide whether something is a
+    finding, but whether a finding is accounted for.
 
-    Drei Regeln, jede mit einem Grund:
+    Three rules, each with a reason:
 
-    * Eine Ausnahme auf eine **harte** Invariante ist ein Fehler. Harte Regeln
-      sind strukturell; eine Ausnahme davon waere kein Sonderfall, sondern ein
-      kaputter Datensatz mit Zettel dran.
-    * Eine Ausnahme **ohne Begruendung** ist ein Fehler. Der Text ist der ganze
-      Zweck: er ist das, was ein Reviewer in einem Jahr liest.
-    * Eine Ausnahme, die **nicht greift**, ist eine Warnung. Sie wurde entweder
-      nie gebraucht oder ihr Anlass ist behoben — so oder so ist sie ab jetzt
-      eine Karteileiche, die den naechsten Leser in die Irre schickt.
+    * An exception on a **hard** invariant is an error. Hard rules are
+      structural; an exception would not be a special case, but a broken record
+      with a note attached.
+    * An exception **without a justification** is an error. The explanation is
+      the entire point: it is what a reviewer reads a year from now.
+    * An exception that **does not fire** is a warning. It was either never
+      needed or its underlying issue was fixed — either way, it is now obsolete
+      and misleads future readers.
     """
     declared: dict[tuple[str, str], str] = {}
 
@@ -640,8 +637,8 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
                 report.add(
                     "exceptions",
                     ERROR,
-                    f"{key!r} ist kein gueltiger Schluessel — erwartet "
-                    f"`{EXCEPTION_PREFIX}<nummer>`",
+                    f"{key!r} is not a valid key — expected "
+                    f"`{EXCEPTION_PREFIX}<number>`",
                     location,
                     exercise.id,
                 )
@@ -650,7 +647,7 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
                 report.add(
                     "exceptions",
                     ERROR,
-                    f"Ausnahme auf Invariante {invariant} ohne Begruendung",
+                    f"Exception on invariant {invariant} without justification",
                     location,
                     exercise.id,
                 )
@@ -659,9 +656,9 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
                 report.add(
                     "exceptions",
                     ERROR,
-                    f"Invariante {invariant} ist hart und nicht entschaerfbar. Harte Regeln "
-                    f"sind strukturell — eine Ausnahme waere ein kaputter Datensatz mit "
-                    f"Zettel dran.",
+                    f"Invariant {invariant} is hard and cannot be excused. Hard rules "
+                    f"are structural — an exception would be a broken record with "
+                    f"a note attached.",
                     location,
                     exercise.id,
                 )
@@ -670,7 +667,7 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
                 report.add(
                     "exceptions",
                     ERROR,
-                    f"Invariante {invariant} gibt es nicht",
+                    f"Invariant {invariant} does not exist",
                     location,
                     exercise.id,
                 )
@@ -699,9 +696,9 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
         report.add(
             "exceptions",
             WARNING,
-            f"Ausnahme auf Invariante {invariant} greift nicht — die Regel feuert hier gar "
-            f"nicht. Entweder wurde sie nie gebraucht oder ihr Anlass ist behoben; so oder "
-            f"so gehoert sie geloescht. ({reason[:60]})",
+            f"Exception on invariant {invariant} does not take effect — the rule does not "
+            f"fire here. Either it was never needed or its cause was resolved; either way "
+            f"it should be removed. ({reason[:60]})",
             relative(exercise.path) if exercise else None,
             exercise_id,
         )
@@ -720,17 +717,16 @@ def apply_exceptions(data: dataset_mod.Dataset, report: Report) -> None:
 def check_pattern_expectations(
     data: dataset_mod.Dataset, vocab: Vocabularies, report: Report
 ) -> None:
-    """Invariante 20: Primaermuskel-Gruppe passt zum `movement_pattern`.
+    """Invariant 20: Primary muscle group matches `movement_pattern`.
 
-    Warnung, kein Fehler — Ausnahmen existieren, aber jede will einmal
-    angeschaut werden.
+    Warning, not an error — exceptions exist, but each should be inspected.
     """
     table_path = VOCAB_DIR / "pattern_muscle_expectations.yaml"
     if not table_path.exists():
         report.skip(
             "20",
-            f"{relative(table_path)} existiert noch nicht. Die Tabelle setzt "
-            "movement_pattern voraus und gehoert damit zu Phase 2.",
+            f"{relative(table_path)} does not exist yet. The table requires "
+            "movement_pattern and belongs to Phase 2.",
         )
         return
 
@@ -752,32 +748,32 @@ def check_pattern_expectations(
             report.add(
                 "20",
                 WARNING,
-                f"movement_pattern {pattern!r} erwartet Primaermuskeln aus {sorted(expected)}, "
-                f"unerwartete Gruppe(n): {unexpected}",
+                f"movement_pattern {pattern!r} expects primary muscles from {sorted(expected)}, "
+                f"unexpected group(s): {unexpected}",
                 relative(exercise.path),
                 exercise.id,
             )
 
 
 def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
-    """Invariante 21: keine je ausgelieferte ID verschwindet.
+    """Invariant 21: no previously published ID may disappear.
 
-    Geprueft wird gegen `data/published_ids.yaml`, **nicht** gegen das vorige
-    Release. Der Unterschied ist der Punkt: ein Vergleich mit dem Vorgaenger hat
-    eine Ratsche. Rutscht ein Verlust einmal durch, ist die ID aus der Baseline
-    verschwunden und danach fuer immer unsichtbar — jeder folgende Diff meldet
-    voellig korrekt "null Entfernungen".
+    Validated against `data/published_ids.yaml`, **not** against the previous
+    release. The difference is the point: comparing with the predecessor has a
+    ratchet effect. If a deletion slips through once, the ID vanishes from the
+    baseline and becomes permanently invisible — every subsequent diff correctly
+    reports "zero removals".
 
-    Genau so sind 38 Uebungen verlorengegangen: sie standen im ausgelieferten
-    Stand vom 2026-06-15 (852 IDs), fehlten im Release vom 2026-08-31 (862) und
-    waren ab da nicht mehr nachweisbar. Ein Register im Repo kann das nicht
-    passieren.
+    This is precisely how 38 exercises were lost: they were present in the
+    published dataset from 2026-06-15 (852 IDs), missing from the 2026-08-31
+    release (862), and untraceable from that point on. A repository registry
+    prevents this.
     """
     if not PUBLISHED_IDS.exists():
         report.skip(
             "21",
-            f"{relative(PUBLISHED_IDS)} existiert noch nicht. Anlegen mit "
-            f"`build/update_published_ids.py --from-db <ausgelieferte.db>`.",
+            f"{relative(PUBLISHED_IDS)} does not exist yet. Create with "
+            f"`build/update_published_ids.py --from-db <published.db>`.",
         )
         return
 
@@ -787,8 +783,8 @@ def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
         report.add(
             "21",
             ERROR,
-            f"Uebung {exercise_id} wurde einmal ausgeliefert, fehlt aber in data/exercises/. "
-            f"Loeschen ist verboten (SCHEMA.md 3) — sie gehoert als status: deprecated zurueck.",
+            f"Exercise {exercise_id} was previously published, but is missing from data/exercises/. "
+            f"Deletion is prohibited (SCHEMA.md §3) — restore it with status: deprecated.",
             relative(PUBLISHED_IDS),
         )
     report.stats["published_ids"] = len(registry)
@@ -799,9 +795,9 @@ def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
         1 for exercise in data.exercises.values() if exercise.status == "merged"
     )
 
-    # Der zweite Teil von 21: ein `merged` braucht ein auflösbares Ziel — das
-    # prueft check_merges. Hier bleibt die Frage, ob ein stillgelegter Eintrag
-    # ueberhaupt noch Text hat, sonst zeigt die App eine leere Zeile.
+    # The second part of 21: a `merged` entry needs a resolvable target — checked
+    # by check_merges. Here the question is whether a silenced entry still has any
+    # text, otherwise the app displays a blank row.
     for exercise in data.exercises.values():
         if exercise.status == "active":
             continue
@@ -809,34 +805,33 @@ def check_published_ids(data: dataset_mod.Dataset, report: Report) -> None:
             report.add(
                 "21",
                 ERROR,
-                f"{exercise.status}-Eintrag ohne jeden Text — die App haette nichts anzuzeigen",
+                f"{exercise.status} entry without any text — the app would have nothing to display",
                 relative(exercise.path),
             )
 
 
 def check_regression(report: Report) -> None:
-    """Invariante 22 braucht zwei Datenbanken; 19 ist strukturell erfuellt."""
+    """Invariant 22 requires two databases; 19 is structurally fulfilled."""
     report.skip(
         "19",
-        "strukturell erfuellt: force_vector wird nicht annotiert, sondern aus "
-        "movement_pattern abgeleitet (vocab/classification.yaml). Ein Verstoss "
-        "ist nicht mehr formulierbar.",
+        "structurally fulfilled: force_vector is not annotated, but derived from "
+        "movement_pattern (vocab/classification.yaml). A violation cannot be formulated.",
     )
     report.skip(
         "22",
-        "Mengenvergleich zweier Releases — laeuft in build/catalog_diff.py "
-        "(INVARIANT_22_ACTIVE_COUNT_DROP), nicht hier.",
+        "set comparison of two releases — runs in build/catalog_diff.py "
+        "(INVARIANT_22_ACTIVE_COUNT_DROP), not here.",
     )
 
 
 def check_golden_set(data: dataset_mod.Dataset, report: Report) -> None:
-    """Invariante 23: das Golden Set stimmt feldweise."""
+    """Invariant 23: golden set matches field-by-field."""
     golden = sorted(GOLDEN_DIR.glob("*.yaml"))
     if not golden:
         report.skip(
             "23",
-            f"{relative(GOLDEN_DIR)} ist leer. Das Golden Set wird zu Beginn von Phase 2 "
-            "aufgebaut und ist erst dann pruefbar.",
+            f"{relative(GOLDEN_DIR)} is empty. The golden set is established at the start of Phase 2 "
+            "and can only be validated then.",
         )
         return
 
@@ -845,16 +840,16 @@ def check_golden_set(data: dataset_mod.Dataset, report: Report) -> None:
         exercise_id = str(expected.get("id", path.stem))
         actual = data.exercises.get(exercise_id)
         if actual is None:
-            report.add("23", ERROR, f"Golden-Eintrag {exercise_id!r} fehlt in data/", relative(path))
+            report.add("23", ERROR, f"Golden entry {exercise_id!r} missing from data/", relative(path))
             continue
         for key, value in expected.items():
             if key == "provenance":
-                continue  # Herkunft aendert sich legitim, der Inhalt nicht.
+                continue  # Provenance changes legitimately, content does not.
             if actual.data.get(key) != value:
                 report.add(
                     "23",
                     ERROR,
-                    f"{key}: erwartet {value!r}, gefunden {actual.data.get(key)!r}",
+                    f"{key}: expected {value!r}, got {actual.data.get(key)!r}",
                     relative(path),
                 )
 
@@ -879,10 +874,10 @@ def print_report(report: Report, limit: int) -> None:
         by_invariant[finding.invariant].append(finding)
 
     stats = report.stats
-    print(f"Profil     {report.profile}")
+    print(f"Profile    {report.profile}")
     print(
-        f"Bestand    {stats.get('exercises', 0)} Uebungen ({stats.get('active', 0)} aktiv), "
-        f"{stats.get('translations', 0)} Texte in {stats.get('languages', 0)} Sprachen"
+        f"Inventory  {stats.get('exercises', 0)} exercises ({stats.get('active', 0)} active), "
+        f"{stats.get('translations', 0)} translations in {stats.get('languages', 0)} languages"
     )
     print()
 
@@ -890,25 +885,25 @@ def print_report(report: Report, limit: int) -> None:
         findings = by_invariant[invariant]
         errors = sum(1 for f in findings if f.severity == ERROR)
         warnings = len(findings) - errors
-        label = f"Invariante {invariant}"
+        label = f"Invariant {invariant}"
         if invariant in SOFT_INVARIANTS:
-            label += " (weich)"
+            label += " (soft)"
         elif invariant == "exceptions":
-            label = "Ausnahmen"
-        marker = "FEHLER " if errors else "WARNUNG"
-        print(f"{marker} {label}: {errors} Fehler, {warnings} Warnungen")
+            label = "Exceptions"
+        marker = "ERROR  " if errors else "WARNING"
+        print(f"{marker} {label}: {errors} errors, {warnings} warnings")
         for finding in findings[:limit]:
             where = f"  [{finding.location}]" if finding.location else ""
             print(f"        {finding.message}{where}")
         if len(findings) > limit:
-            print(f"        ... und {len(findings) - limit} weitere")
+            print(f"        ... and {len(findings) - limit} more")
         print()
 
     soft = report.stats.get("soft_invariants") or {}
     if soft:
-        # Haeufung ist ein Signal, dass die Regel falsch ist und nicht die Daten.
-        print("Weiche Invarianten:")
-        print(f"  {'Regel':<8} {'gefeuert':>9} {'entschaerft':>12} {'offen':>7}")
+        # Clustering is a signal that the rule is wrong, not the data.
+        print("Soft invariants:")
+        print(f"  {'Rule':<8} {'fired':>9} {'excused':>12} {'open':>7}")
         for invariant, counts in soft.items():
             print(
                 f"  {invariant:<8} {counts['fired']:>9} {counts['excused']:>12} "
@@ -917,18 +912,18 @@ def print_report(report: Report, limit: int) -> None:
         loud = [i for i, c in soft.items() if c["excused"] >= 5]
         if loud:
             print(
-                f"  Haeufig entschaerft: {', '.join(loud)}. Das ist ein Signal, dass die "
-                f"Regel falsch ist und nicht die Daten."
+                f"  Frequently excused: {', '.join(loud)}. This signals that the "
+                f"rule is incorrect rather than the data."
             )
         print()
 
     if report.skipped:
-        print("Uebersprungen:")
+        print("Skipped:")
         for invariant in sorted(report.skipped, key=_invariant_key):
             print(f"  {invariant}: {report.skipped[invariant]}")
         print()
 
-    print(f"Ergebnis   {len(report.errors)} Fehler, {len(report.warnings)} Warnungen")
+    print(f"Result     {len(report.errors)} errors, {len(report.warnings)} warnings")
 
 
 def _invariant_key(value: str) -> tuple[int, str]:
@@ -942,16 +937,16 @@ def parse_args() -> argparse.Namespace:
         "--profile",
         choices=("phase1", "full"),
         default="phase1",
-        help="phase1: inhaltliche Regeln nur wo die Felder existieren. full: alles scharf.",
+        help="phase1: content rules only where fields exist. full: everything strictly enforced.",
     )
-    parser.add_argument("--json-out", help="Pfad fuer den maschinenlesbaren Bericht")
+    parser.add_argument("--json-out", help="Path for the machine-readable report JSON")
     parser.add_argument(
-        "--examples", type=int, default=10, help="Befunde je Invariante in der Konsole (Default: 10)"
+        "--examples", type=int, default=10, help="Findings per invariant in the console (default: 10)"
     )
     parser.add_argument(
         "--strict",
         action="store_true",
-        help="Auch Warnungen fuehren zu Exitcode 1.",
+        help="Warnings also cause exit code 1.",
     )
     return parser.parse_args()
 
@@ -973,7 +968,7 @@ def main() -> int:
     check_pattern_expectations(data, vocab, report)
     check_published_ids(data, report)
     check_regression(report)
-    # Zuletzt: entscheidet nicht, ob etwas ein Befund ist, sondern ob er erklaert ist.
+    # Lastly: does not decide if something is a finding, but whether it is explained.
     apply_exceptions(data, report)
     check_golden_set(data, report)
     summarize(report, data)
@@ -1000,7 +995,7 @@ def main() -> int:
             + "\n",
             encoding="utf-8",
         )
-        print(f"Bericht    {out}")
+        print(f"Report     {out}")
 
     if report.errors:
         return 1
@@ -1011,3 +1006,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+

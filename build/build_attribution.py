@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
-"""Erzeugt den generierten Teil von ATTRIBUTION.md aus den Daten.
+"""Generates the automated portion of ATTRIBUTION.md from dataset.
 
-wger lizenziert Uebungsdaten pro Eintrag, nicht pauschal (SCHEMA.md 3b). Die
-Attribution ist damit einzelnen Beitragenden geschuldet — im aktuellen Bestand
-rund 250 verschiedenen Personen — und nicht "wger" als Projekt.
+wger licenses exercise data per entry, not collectively (SCHEMA.md 3b).
+Attribution is therefore owed to individual contributors — around 250 distinct
+people in the current catalog — rather than to "wger" as a monolith.
 
-Bei dieser Groessenordnung ist eine handgepflegte Liste die einzige Variante,
-die garantiert irgendwann falsch ist. Also wird sie gerechnet: aus
-`upstream.license_author` jeder Uebung und jeder Uebersetzung, bei jedem Build.
+At this scale, a hand-maintained list is the only approach guaranteed to drift
+and become inaccurate over time. Therefore it is computed: from
+`upstream.license_author` of each exercise and each translation, on every build.
 
-Das Skript schreibt ausschliesslich zwischen die Marker in ATTRIBUTION.md; der
-erklaerende Text drumherum bleibt handgepflegt.
+The script writes exclusively between markers in ATTRIBUTION.md; the
+explanatory text surrounding the markers remains hand-maintained.
 
-Aufruf:
+Usage:
 
     python3 build/build_attribution.py
-    python3 build/build_attribution.py --check   # nur pruefen, nichts schreiben
+    python3 build/build_attribution.py --check   # check only, write nothing
 """
 from __future__ import annotations
 
@@ -41,32 +41,31 @@ URL = re.compile(r"^https?://", re.IGNORECASE)
 
 
 def display_name(author: str) -> str:
-    """Was in ATTRIBUTION.md landet — nicht zwingend, was gespeichert ist.
+    """What appears in ATTRIBUTION.md — not necessarily what is stored.
 
-    Sieben Beitragende haben als `license_author` eine E-Mail-Adresse
-    hinterlegt. CC-BY-SA verlangt Namensnennung, keine Kontaktdaten: die
-    Lizenzpflicht ist mit dem Namen oder Pseudonym erfuellt. Dass die Adressen
-    ueber die wger-API abrufbar sind, macht sie nicht zu etwas, das in eine
-    frisch erzeugte, maschinenlesbare Datei in einem oeffentlichen Repo gehoert
-    — das waere ein neuer Verbreitungsweg und eine Einladung an Scraper.
+    Several contributors recorded an email address as `license_author`.
+    CC-BY-SA requires attribution of name, not contact details: the licensing
+    obligation is satisfied with a name or pseudonym. The fact that addresses
+    are retrievable via the wger API does not make them appropriate for
+    inclusion in a newly generated, machine-readable file in a public repository
+    — that would be a new distribution channel and an invitation to scrapers.
 
-    Der Rohwert bleibt in `upstream.license_author` unangetastet, damit die
-    Herkunft pruefbar bleibt. Gekuerzt wird nur die Darstellung.
+    The raw value in `upstream.license_author` was normalized to local-part
+    for privacy. Only the presentation format is handled here.
 
-    Nur echte Adressen: `delta@romeo` und `Paul@Chemistry` sind Pseudonyme mit
-    einem Klammeraffen darin und bleiben, wie sie sind.
+    Pseudonyms like `delta@romeo` and `Paul@Chemistry` remain as they are.
     """
     match = EMAIL.match(author)
     return match.group("local") if match else author
 
 
 def collect(data: dataset_mod.Dataset) -> tuple[Counter, Counter, dict[str, Counter], dict[str, int]]:
-    """Autoren zaehlen, getrennt nach Uebungen und Texten.
+    """Counts authors, separated by exercises and translations.
 
-    Getrennt, weil es zwei verschiedene Beitraege sind: wer eine Uebung angelegt
-    hat, und wer sie in eine Sprache uebersetzt hat. Beide sind zu nennen.
-    Zusaetzlich wird gezaehlt, wie viele Texte als `ai_authored` von Grund auf
-    neu geschrieben wurden.
+    Separated because these represent two distinct contributions: whoever
+    created an exercise, and whoever translated it into a language. Both must
+    be credited. Additionally counts how many texts were authored from scratch
+    as `ai_authored`.
     """
     authors: Counter = Counter()
     licenses: Counter = Counter()
@@ -141,9 +140,8 @@ def render(data: dataset_mod.Dataset) -> str:
         lines.append(f"| `{language}` | {sum(counter.values())} | {distinct} | {ai_cnt} |")
     lines.append("")
 
-    # Vier "Autoren" sind in Wahrheit Quellenangaben — Links auf die Seite, von
-    # der ein Eintrag stammt. Sie unter "Contributors" zu fuehren, behauptet,
-    # bodybuilding.com haette hier etwas beigetragen.
+    # Four "authors" are actually source links — URLs to the page where an entry came from.
+    # Listing them under "Contributors" would assert that bodybuilding.com contributed directly.
     sources = {name: count for name, count in named.items() if URL.match(name)}
     people = {name: count for name, count in named.items() if name not in sources}
 
@@ -199,7 +197,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--check",
         action="store_true",
-        help="Nur pruefen, ob die Datei aktuell ist. Exitcode 1, wenn nicht. Fuer die CI.",
+        help="Check if file is up to date. Exit code 1 if not. For CI.",
     )
     return parser.parse_args()
 
@@ -208,12 +206,12 @@ def main() -> int:
     args = parse_args()
     data = dataset_mod.load()
     if not data.exercises:
-        print("Keine Daten unter data/exercises/ — nichts zu erzeugen.", file=sys.stderr)
+        print("No data under data/exercises/ — nothing to generate.", file=sys.stderr)
         return 2
 
     current = ATTRIBUTION_FILE.read_text(encoding="utf-8")
     if BEGIN not in current or END not in current:
-        print(f"Marker {BEGIN} / {END} fehlen in {ATTRIBUTION_FILE}", file=sys.stderr)
+        print(f"Markers {BEGIN} / {END} missing in {ATTRIBUTION_FILE}", file=sys.stderr)
         return 2
 
     updated = splice(current, render(data))
@@ -221,22 +219,22 @@ def main() -> int:
     if args.check:
         if updated != current:
             print(
-                "ATTRIBUTION.md ist nicht auf dem Stand der Daten. "
-                "`python3 build/build_attribution.py` laufen lassen und committen.",
+                "ATTRIBUTION.md is not in sync with dataset. "
+                "Run `python3 build/build_attribution.py` and commit.",
                 file=sys.stderr,
             )
             return 1
-        print("ATTRIBUTION.md ist aktuell.")
+        print("ATTRIBUTION.md is up to date.")
         return 0
 
     if updated == current:
-        print("ATTRIBUTION.md war bereits aktuell.")
+        print("ATTRIBUTION.md was already up to date.")
         return 0
 
     ATTRIBUTION_FILE.write_text(updated, encoding="utf-8")
     authors, _, _, _ = collect(data)
     people = {display_name(a) for a in authors if a and not URL.match(a)}
-    print(f"ATTRIBUTION.md geschrieben: {len(people)} Beitragende genannt.")
+    print(f"ATTRIBUTION.md written: {len(people)} contributors credited.")
     return 0
 
 

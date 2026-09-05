@@ -1,8 +1,8 @@
-"""Liest `data/` als Ganzes ein — die Source of Truth dieses Repos.
+"""Loads `data/` as a whole — the repository's source of truth.
 
-Build und Validator arbeiten beide hierauf. Bewusst nur Einlesen und Indizieren,
-keine Regelpruefung: die Regeln stehen in `build/validate.py`, damit es genau
-eine Stelle gibt, an der sie nachlesbar sind.
+Both the build pipeline and the validator operate on this dataset. It deliberately
+only loads and indexes data without enforcing validation rules; all rules live in
+`build/validate.py` so there is a single authoritative place to read them.
 """
 from __future__ import annotations
 
@@ -78,11 +78,11 @@ class Translation(Document):
 class Dataset:
     exercises: dict[str, Exercise] = field(default_factory=dict)
     translations: dict[str, dict[str, Translation]] = field(default_factory=dict)
-    """Sprachcode -> Uebungs-ID -> Text."""
+    """Language code -> exercise ID -> text document."""
 
     duplicate_ids: list[tuple[str, str]] = field(default_factory=list)
-    """(ID, Pfad) fuer Dateien, deren `id` nicht zum Dateinamen passt oder
-    doppelt vorkommt. Der Validator meldet sie; das Einlesen bricht nicht ab."""
+    """(ID, path) for files whose `id` does not match the filename or is duplicated.
+    The validator reports them; loading does not abort."""
 
     @property
     def languages(self) -> list[str]:
@@ -94,7 +94,7 @@ class Dataset:
                 yield exercise
 
     def sorted_exercises(self) -> list[Exercise]:
-        """Nach numerischer ID, wo moeglich — sonst waere '1000' vor '9'."""
+        """Sort by numeric ID where possible — otherwise '1000' would precede '9'."""
 
         def key(exercise: Exercise) -> tuple[int, str]:
             raw = exercise.id

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Erzeugt das Release-Manifest, an dem sich die App bedient.
+"""Generates the release manifest consumed by the app.
 
-Aus einer frueheren Pipeline uebernommen und um den Versionsvertrag aus SCHEMA.md 9
-erweitert: neben der Inhaltsversion `version` fuehrt das Manifest jetzt ein
-davon unabhaengiges `schema_version` und ein `min_app_schema_version`.
+Adopted from an earlier pipeline and extended with the versioning contract from
+SCHEMA.md 9: alongside content version `version`, the manifest now includes
+an independent `schema_version` and `min_app_schema_version`.
 
-Der Sinn: die App deklariert, welche Struktur sie lesen kann, und
-`exercise_catalog_refresh_service.dart` lehnt ein zu neues Release sauber ab,
-statt es zu laden und daran zu scheitern. Alte Installationen bleiben auf dem
-letzten kompatiblen Release stehen — genau das gewuenschte Verhalten.
+The purpose: the app declares which structure it supports, and
+`exercise_catalog_refresh_service.dart` cleanly rejects releases that are too new,
+rather than attempting to load them and crashing. Older installations remain on
+the latest compatible release — precisely the desired behavior.
 """
 import hashlib
 import json
@@ -53,16 +53,15 @@ def main() -> int:
     min_exercise_count = max(50, math.floor(imported_count * 0.85))
 
     manifest = {
-        # Unveraendert: die heutige App erkennt ihre Quelle daran wieder.
+        # Unchanged: existing app recognizes its source via this identifier.
         "source_id": "wger_catalog",
         "channel": os.environ.get("RELEASE_CHANNEL", "stable"),
         "release_tag": os.environ.get("RELEASE_TAG", ""),
         "release_page_url": os.environ.get("RELEASE_PAGE_URL", ""),
         "asset_base_url": release_base,
         "version": build.get("db_version", ""),
-        # Struktur, unabhaengig vom Inhalt (SCHEMA.md 9). Ein Konsument, der
-        # schema_version nicht kennt, ignoriert das Feld und laeuft weiter —
-        # deshalb ist die Ergaenzung fuer die heutige App folgenlos.
+        # Structure, independent of content (SCHEMA.md 9). Consumers unfamiliar
+        # with schema_version ignore the field and continue — making the addition backwards-compatible.
         "schema_version": build.get("schema_version"),
         "min_app_schema_version": build.get("min_app_schema_version"),
         "generated_at": build.get("generated_at"),
@@ -83,9 +82,8 @@ def main() -> int:
             "diff_skipped": bool(diff_report.get("skipped", False)),
             "diff_removed_count": diff_report.get("summary", {}).get("removed_count"),
             "diff_added_count": diff_report.get("summary", {}).get("added_count"),
-            # Invariante 21: eine verschwundene ID ohne Nachfolger macht
-            # Nutzerdaten unaufloesbar. Der Wert gehoert ins Manifest, damit die
-            # App ihn sehen kann, ohne den Diff-Report zu laden.
+            # Invariant 21: a vanished ID without successor makes user data unresolvable.
+            # The value belongs in the manifest so the app can inspect it without downloading the full diff report.
             "diff_unmapped_removed_count": diff_report.get("summary", {}).get(
                 "unmapped_removed_count"
             ),

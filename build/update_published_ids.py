@@ -1,29 +1,29 @@
 #!/usr/bin/env python3
-"""Fuehrt `data/published_ids.yaml` — das Register aller je ausgelieferten IDs.
+"""Maintains `data/published_ids.yaml` — the registry of all IDs ever distributed.
 
-**Warum es das gibt.** Invariante 21 verglich urspruenglich gegen das *vorige*
-Release. Das hat eine Ratsche: rutscht ein Verlust einmal durch, ist die ID aus
-der Baseline verschwunden und danach fuer immer unsichtbar. Genau das ist
-passiert — zwischen dem in der App ausgelieferten Stand (852 IDs, 2026-06-15)
-und dem Release vom 2026-08-31 (862 IDs) sind 38 Uebungen verschwunden, darunter
-Chin-ups, Good Mornings und Leg Extension. Ab dem Moment meldete jeder folgende
-Diff korrekt "null Entfernungen", weil er die 38 nicht mehr kannte.
+**Why this exists.** Invariant 21 originally compared against the *previous*
+release. That has a ratchet effect: if a loss slips through once, the ID
+disappears from the baseline and becomes invisible forever after. This exact
+failure occurred — between the catalog version shipped in the app (852 IDs,
+2026-06-15) and the 2026-08-31 release (862 IDs), 38 exercises disappeared,
+including Chin-ups, Good Mornings, and Leg Extension. From that point on, every
+subsequent diff reported "zero removals" because it no longer knew the 38.
 
-Das Register loest das: es waechst nur, liegt im Repo, und die Pruefung braucht
-kein Vorgaenger-Release mehr. Eine ID, die einmal auf einem Geraet gelandet ist,
-ist ein Vertrag mit den Nutzerdaten dort (SCHEMA.md 3) — dieser Vertrag gehoert
-in die Versionsverwaltung und nicht in ein Artefakt, das ueberschrieben wird.
+The registry solves this: it only grows, resides in the repo, and verification
+no longer requires a predecessor release asset. An ID once shipped to devices
+is a contract with user data there (SCHEMA.md 3) — this contract belongs in
+version control, not in an artifact that gets overwritten.
 
-Aufruf:
+Usage:
 
-    # Register aus vorhandenen Datenbanken auffuellen (einmalig)
-    python3 build/update_published_ids.py --from-db alt.db --from-db release.db
+    # Populate registry from existing databases (one-off)
+    python3 build/update_published_ids.py --from-db old.db --from-db release.db
 
-    # nach einem Release: die gerade ausgelieferten IDs aufnehmen
-    python3 build/update_published_ids.py --from-db artifacts/openexercisedb.db \\
+    # After a release: record newly distributed IDs
+    python3 build/update_published_ids.py --from-db artifacts/openexercisedb.db \
         --release-version 202609022334
 
-    # CI: nur pruefen, ob das Register vollstaendig ist
+    # CI: verify that the registry is complete
     python3 build/update_published_ids.py --check
 """
 from __future__ import annotations
@@ -39,19 +39,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from oedb import yamlio  # noqa: E402
 from oedb.paths import PUBLISHED_IDS  # noqa: E402
 
-HEADER = """data/published_ids.yaml — jede ID, die je ausgeliefert wurde.
+HEADER = """data/published_ids.yaml — every ID ever distributed.
 
-AUTOMATISCH GEPFLEGT von build/update_published_ids.py. Nur wachsen, nie
-kuerzen: ein Eintrag hier heisst, dass diese ID auf Geraeten liegen kann und in
-`routine_exercises` sowie `set_logs` referenziert sein kann (SCHEMA.md 3).
+AUTOMATICALLY MAINTAINED by build/update_published_ids.py. Only grows, never
+shrinks: an entry here means this ID may exist on user devices and be referenced
+in `routine_exercises` and `set_logs` (SCHEMA.md 3).
 
-Invariante 21 prueft gegen diese Datei und nicht gegen das vorige Release —
-sonst waere ein einmal durchgerutschter Verlust danach unsichtbar. Genau so
-sind 38 Uebungen zwischen 2026-06-15 und 2026-08-31 verlorengegangen.
+Invariant 21 checks against this file rather than against the previous release —
+otherwise a loss that slips through once would be invisible thereafter. Exactly
+how 38 exercises were lost between 2026-06-15 and 2026-08-31.
 
-Wert je Eintrag: die frueheste bekannte Release-Version, in der die ID auftrat.
-"Bekannt" heisst: aus den Datenbanken, die beim Auffuellen vorlagen — aeltere
-Releases sind nicht mehr beschaffbar."""
+Value per entry: earliest known release version in which the ID appeared.
+"Known" means: from databases available during backfill — older releases
+can no longer be retrieved."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -60,17 +60,17 @@ def parse_args() -> argparse.Namespace:
         "--from-db",
         action="append",
         default=[],
-        metavar="PFAD",
-        help="Ausgelieferte Datenbank, deren IDs aufgenommen werden. Mehrfach erlaubt.",
+        metavar="PATH",
+        help="Distributed database whose IDs are recorded. Allowed multiple times.",
     )
     parser.add_argument(
         "--release-version",
-        help="Version, unter der neue IDs vermerkt werden. Default: metadata.version der DB.",
+        help="Version under which new IDs are recorded. Default: metadata.version of DB.",
     )
     parser.add_argument(
         "--check",
         action="store_true",
-        help="Nichts schreiben; Exitcode 1, wenn eine registrierte ID in data/exercises/ fehlt.",
+        help="Dry run; exit code 1 if a registered ID is missing from data/exercises/.",
     )
     return parser.parse_args()
 
@@ -117,29 +117,29 @@ def main() -> int:
         missing = sorted(set(registry) - set(data.exercises), key=str)
         if missing:
             print(
-                f"{len(missing)} je ausgelieferte IDs fehlen in data/exercises/: "
+                f"{len(missing)} ever-distributed IDs missing in data/exercises/: "
                 f"{', '.join(missing[:20])}"
                 + (" ..." if len(missing) > 20 else ""),
                 file=sys.stderr,
             )
             print(
-                "Loeschen ist verboten (SCHEMA.md 3). Die Eintraege gehoeren als "
-                "status: deprecated zurueck — `python3 import/recover_removed_exercises.py`.",
+                "Deletion is forbidden (SCHEMA.md 3). Entries must be restored as "
+                "status: deprecated — run `python3 import/recover_removed_exercises.py`.",
                 file=sys.stderr,
             )
             return 1
-        print(f"Register vollstaendig: {len(registry)} IDs, alle in data/exercises/ vorhanden.")
+        print(f"Registry complete: {len(registry)} IDs, all present in data/exercises/.")
         return 0
 
     if not args.from_db:
-        print("Nichts zu tun: --from-db oder --check angeben.", file=sys.stderr)
+        print("Nothing to do: specify --from-db or --check.", file=sys.stderr)
         return 2
 
     added: dict[str, list[str]] = {}
     for raw_path in args.from_db:
         path = Path(raw_path)
         if not path.exists():
-            print(f"Datenbank nicht gefunden: {path}", file=sys.stderr)
+            print(f"Database not found: {path}", file=sys.stderr)
             return 2
         ids, db_version = read_database(path)
         version = args.release_version or db_version
@@ -147,10 +147,10 @@ def main() -> int:
         for exercise_id in new:
             registry[exercise_id] = version
         added[str(path)] = new
-        print(f"{path}: {len(ids)} IDs, davon {len(new)} neu im Register (Version {version})")
+        print(f"{path}: {len(ids)} IDs, of which {len(new)} are new in registry (version {version})")
 
     write_registry(registry)
-    print(f"Register: {len(registry)} IDs -> {PUBLISHED_IDS}")
+    print(f"Registry: {len(registry)} IDs -> {PUBLISHED_IDS}")
     return 0
 
 

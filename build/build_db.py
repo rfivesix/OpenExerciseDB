@@ -1,25 +1,25 @@
 #!/usr/bin/env python3
-"""Baut aus `data/` die auszuliefernde SQLite-Datei (SCHEMA.md 8).
+"""Builds the deliverable SQLite database from `data/` (SCHEMA.md §8).
 
-Zweite Haelfte des zerlegten `create_wger_exercise_db.py`. Der Unterschied zum
-Altskript ist nicht die Ausgabe, sondern die Eingabe: hier wird nichts mehr
-heruntergeladen. Der Build liest ausschliesslich die Textdateien im Repo und ist
-damit offline, reproduzierbar und ueberhaupt erst testbar.
+Second half of the decomposed `create_wger_exercise_db.py`. The difference from
+the legacy script is not the output, but the input: nothing is downloaded here.
+The build reads exclusively from the text files in the repository and is
+therefore offline, reproducible, and testable.
 
-**Die vier Kompatibilitaetsspalten.** `id`, `category_name`, `muscles_primary`
-und `muscles_secondary` — plus `exercise_translations` — sind exakt das, was
-`_mapExerciseBundle` in der heutigen App liest. Solange sie befuellt sind, laeuft
-die App unveraendert auf dieser Datenbank; das ist die Abnahmeschwelle fuer
-Phase 1 und wird von `test/test_compat.py` gegen die veroeffentlichte
-Referenz-DB geprueft.
+**The four compatibility columns.** `id`, `category_name`, `muscles_primary`,
+and `muscles_secondary` — plus `exercise_translations` — are exactly what
+`_mapExerciseBundle` in the current app reads. As long as they are populated,
+the app runs unmodified on this database; this is the acceptance threshold for
+Phase 1 and is verified by `test/test_compat.py` against the published
+reference DB.
 
-Die Legacy-Muskelnamen werden dabei nicht durchgereicht, sondern aus dem neuen
-Vokabular **zurueckgerechnet** (`MuscleVocabulary.legacy_wger_name`). Das kostet
-in Phase 1 nichts und zahlt sich in Phase 2 aus: wird `trapezius` spaeter zu
-`traps_upper` praezisiert, steht in der Kompatibilitaetsspalte weiterhin
-`Trapezius`, ohne dass jemand daran denken muss.
+Legacy muscle names are not passed through directly, but reverse-mapped from
+the new vocabulary (`MuscleVocabulary.legacy_wger_name`). This costs nothing in
+Phase 1 and pays off in Phase 2: if `trapezius` is later refined to
+`traps_upper`, the compatibility column still contains `Trapezius` without
+anyone having to remember it.
 
-Aufruf:
+Usage:
 
     python3 build/build_db.py --db-out artifacts/openexercisedb.db \\
         --report-json-out artifacts/build_report.json
@@ -48,8 +48,8 @@ REPO_LICENSE = "CC-BY-SA-4.0"
 DEFAULT_SOURCE_REPO = "https://github.com/rfivesix/openexercisedb"
 
 CATEGORY_OTHER = "Andere"
-"""Fallback des Altskripts fuer Uebungen ohne Kategorie. Beibehalten, weil die
-heutige App darauf trifft."""
+"""Fallback from the legacy script for exercises without a category. Retained
+because the current app expects it."""
 
 STRICT_WHEN_COMPLETE = (
     "modality",
@@ -60,19 +60,18 @@ STRICT_WHEN_COMPLETE = (
     "load_mode",
     "primary_equipment",
 )
-"""In SCHEMA.md 8 als NOT NULL gefuehrt, in Phase 1 aber noch nicht befuellt.
+"""Marked as NOT NULL in SCHEMA.md §8, but not yet populated in Phase 1.
 
-Der Build setzt die Bedingung genau dann, wenn die Daten sie tragen — und
-schreibt in `metadata.nullable_columns`, welche noch offen sind. Damit zieht
-sich das Schema mit dem Fortschritt von Phase 2 von selbst fest, statt auf einen
-Menschen zu warten, der daran denkt. Ein Platzhalterwert waere die Alternative
-gewesen; der waere von einem echten Wert nicht zu unterscheiden.
+The build sets the NOT NULL constraint exactly when the data supports it — and
+writes into `metadata.nullable_columns` which ones are still open. This tightens
+the schema automatically as Phase 2 progresses, instead of waiting for someone
+to remember. A placeholder value would have been an alternative, but would be
+indistinguishable from a real value.
 
-`force_vector` steht bewusst NICHT in dieser Liste: acht Bewegungsmuster bilden
-per Design auf `null` ab (ein Lauf ist weder Druecken noch Ziehen). Die Spalte
-wird also nie durchgaengig befuellt sein — stuende sie hier, koennte
-`nullable_columns` nie leer werden, und die Frage "ist v2 inhaltlich fertig?"
-waere nicht mehr beantwortbar."""
+`force_vector` is intentionally NOT in this list: eight movement patterns map to
+`null` by design (e.g. running is neither push nor pull). The column will therefore
+never be completely populated — if it were here, `nullable_columns` could never
+be empty, and the question "is v2 complete in content?" would be unanswerable."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -80,17 +79,17 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--db-out",
         default="artifacts/openexercisedb.db",
-        help="Zielpfad der SQLite-Datei (Default: artifacts/openexercisedb.db)",
+        help="Output path for the SQLite database file (default: artifacts/openexercisedb.db)",
     )
-    parser.add_argument("--report-json-out", help="Pfad fuer den maschinenlesbaren Buildbericht")
+    parser.add_argument("--report-json-out", help="Path for the machine-readable build report JSON")
     parser.add_argument(
         "--version",
-        help="Inhaltsversion (Default: UTC-Zeitstempel YYYYMMDDHHMM, Format wie bisher)",
+        help="Content version (default: UTC timestamp YYYYMMDDHHMM, same format as before)",
     )
     parser.add_argument(
         "--source-repo",
         default=os.environ.get("SOURCE_REPO", DEFAULT_SOURCE_REPO),
-        help="Repo-URL fuer metadata.source_repo und die Attribution",
+        help="Repository URL for metadata.source_repo and attribution",
     )
     return parser.parse_args()
 
@@ -111,8 +110,8 @@ def build_ddl(nullable: set[str]) -> list[str]:
           merged_into           TEXT REFERENCES exercises(id),
           modality              TEXT{null('modality')},
           mechanic              TEXT{null('mechanic')},
-          -- Immer nullable: abgeleitet aus movement_pattern, und acht Muster
-          -- bilden per Design auf NULL ab (SCHEMA.md 6).
+          -- Always nullable: derived from movement_pattern, and eight patterns
+          -- map to NULL by design (SCHEMA.md §6).
           force_vector          TEXT,
           movement_pattern      TEXT{null('movement_pattern')},
           laterality            TEXT{null('laterality')},
@@ -123,7 +122,7 @@ def build_ddl(nullable: set[str]) -> list[str]:
           primary_equipment     TEXT{null('primary_equipment')},
           body_region           TEXT,
 
-          -- Kompatibilitaetsspalten fuer Schema-v1-Konsumenten (heutige App).
+          -- Compatibility columns for schema v1 consumers (current app).
           category_name         TEXT,
           muscles_primary       TEXT,
           muscles_secondary     TEXT,
@@ -132,7 +131,7 @@ def build_ddl(nullable: set[str]) -> list[str]:
           created_by            TEXT DEFAULT 'system',
           source                TEXT DEFAULT 'base',
 
-          -- Lizenz-Provenienz, SCHEMA.md 3b.
+          -- License provenance, SCHEMA.md §3b.
           upstream_source         TEXT,
           upstream_id             TEXT,
           upstream_license        TEXT,
@@ -215,8 +214,8 @@ def build_ddl(nullable: set[str]) -> list[str]:
         )""",
         "CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT)",
         "CREATE INDEX idx_tr_exercise_lang ON exercise_translations(exercise_id, language_code)",
-        # "Welche Uebungen treffen diesen Muskel?" ist die Kernabfrage von
-        # Recovery und Volumenstatistik.
+        # "Which exercises target this muscle?" is the core query of
+        # recovery and volume statistics.
         "CREATE INDEX idx_ex_muscles_muscle ON exercise_muscles(muscle_id)",
     ]
 
@@ -247,7 +246,7 @@ GROUP_TO_BODY_REGION: dict[str, str] = {
 
 
 def derive_body_region(vocab: Vocabularies, primary_muscle_ids: list[str]) -> str | None:
-    """Leitet die Koerperregion aus den Primaermuskeln gemaess SCHEMA.md 6 ab."""
+    """Derives the body region from primary muscles according to SCHEMA.md §6."""
     groups = {
         vocab.muscles.nodes[m].group_id
         for m in primary_muscle_ids
@@ -263,12 +262,12 @@ def derive_body_region(vocab: Vocabularies, primary_muscle_ids: list[str]) -> st
 
 
 def legacy_muscle_json(vocab: Vocabularies, node_ids: list[str]) -> str:
-    """JSON-Array der wger-Legacy-Namen, wie die heutige App sie erwartet.
+    """JSON array of wger legacy names as expected by the current app.
 
-    Sortiert und dupliktfrei — zeichengleich zu `json.dumps(sorted({...}))` im
-    Altskript, sonst schlaegt der Zeichenvergleich in test/test_compat.py an.
-    Knoten, fuer die es keinen Legacy-Namen gibt (Rueckenstrecker etwa), fallen
-    heraus: die heutige App wuerde sie ohnehin still verwerfen.
+    Sorted and deduplicated — character-identical to `json.dumps(sorted({...}))`
+    in the legacy script, otherwise the character comparison in test/test_compat.py
+    fails. Nodes without a legacy name (such as erector spinae) are omitted: the
+    current app would silently discard them anyway.
     """
     names = {
         name
@@ -298,12 +297,11 @@ def git_commit() -> str:
 def resolve_text(
     data: dataset_mod.Dataset, language: str, exercise_id: str, chain: tuple[str, ...]
 ) -> tuple[dataset_mod.Translation, str | None] | None:
-    """Text in `language`, sonst der erste Treffer aus der Fallback-Kette.
+    """Text in `language`, otherwise the first hit from the fallback chain.
 
-    Rueckgabe: (Text, Quellsprache-falls-Fallback). Das zweite Element landet in
-    `exercise_translations.source_lang` — die heutige App liefert diese
-    Information nicht mit und niemand kann hinterher sagen, welche der 862
-    deutschen Zeilen tatsaechlich deutsch sind.
+    Returns: (text, source_lang_if_fallback). The second element is written to
+    `exercise_translations.source_lang` — the legacy app did not provide this
+    information, making it impossible to tell which rows were actually native.
     """
     native = data.translation(language, exercise_id)
     if native is not None:
@@ -323,15 +321,15 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
     data = dataset_mod.load()
 
     if not data.exercises:
-        print("Keine Uebungen unter data/exercises/ gefunden.", file=sys.stderr)
+        print("No exercises found under data/exercises/.", file=sys.stderr)
         return 2, {}
 
     exercises = data.sorted_exercises()
     version = args.version or dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d%H%M")
     generated_at = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
 
-    # Welche der in SCHEMA.md 8 als NOT NULL gefuehrten Spalten traegt der
-    # Datenbestand heute schon?
+    # Which columns marked as NOT NULL in SCHEMA.md §8 are already fully
+    # populated in the dataset today?
     nullable = {
         column
         for column in STRICT_WHEN_COMPLETE
@@ -348,14 +346,14 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         db_path.unlink()
 
     connection = sqlite3.connect(db_path)
-    # journal_mode=DELETE: die Datei wird als einzelnes Asset ausgeliefert, ein
-    # zurueckbleibendes -wal waere fuer den Konsumenten unsichtbarer Datenverlust.
+    # journal_mode=DELETE: the file is delivered as a single asset; a leftover
+    # -wal file would be invisible data loss for the consumer.
     connection.execute("PRAGMA journal_mode=DELETE")
     cursor = connection.cursor()
     for statement in build_ddl(nullable):
         cursor.execute(statement)
 
-    # ---------------------------------------------------------- Vokabulare
+    # ----------------------------------------------------------- Vocabularies
     muscle_rows = []
     muscle_translation_rows = []
     for node in vocab.muscles.nodes.values():
@@ -385,7 +383,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         "INSERT INTO equipment_translations VALUES (?, ?, ?)", equipment_translation_rows
     )
 
-    # ------------------------------------------------------------- Uebungen
+    # -------------------------------------------------------------- Exercises
     exercise_rows = []
     muscle_link_rows = []
     equipment_link_rows = []
@@ -409,9 +407,9 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                 exercise.get("merged_into"),
                 exercise.get("modality"),
                 exercise.get("mechanic"),
-                # Abgeleitet, nicht aus der Quelldatei uebernommen: force_vector
-                # ist eine Funktion von movement_pattern (SCHEMA.md 6). Der Build
-                # ist der einzige Schreiber dieser Spalte — sonst driftet sie.
+                # Derived, not copied from the source file: force_vector
+                # is a function of movement_pattern (SCHEMA.md §6). The build
+                # is the sole writer of this column — otherwise it drifts.
                 vocab.force_vector_for(exercise.get("movement_pattern")),
                 exercise.get("movement_pattern"),
                 exercise.get("laterality"),
@@ -421,19 +419,18 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                 1 if exercise.get("supports_added_weight") else 0,
                 exercise.get("primary_equipment"),
                 exercise.get("body_region") or derive_body_region(vocab, primary),
-                # --- Kompatibilitaetsspalten
+                # --- Compatibility columns
                 exercise.source_fields.get("category") or CATEGORY_OTHER,
                 legacy_muscle_json(vocab, primary),
                 legacy_muscle_json(vocab, secondary),
-                # Das Altskript schreibt hier "" und nicht NULL. Die heutige App
-                # bekommt damit einen leeren String; auf NULL umzustellen waere
-                # eine Verhaltensaenderung ohne Gegenwert, solange es keine
-                # Medien gibt.
+                # The legacy script writes "" here rather than NULL. The current app
+                # receives an empty string; switching to NULL would be a behavioral
+                # change without benefit as long as there are no media assets.
                 "",
                 0,
                 "system",
                 "base",
-                # --- Lizenz-Provenienz
+                # --- License provenance
                 upstream.get("source"),
                 upstream.get("source_id"),
                 upstream.get("license"),
@@ -467,7 +464,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
     cursor.executemany("INSERT INTO exercise_tags VALUES (?, ?)", tag_rows)
     cursor.executemany("INSERT INTO exercise_aliases VALUES (?, ?, ?, ?)", alias_rows)
 
-    # --------------------------------------------------------- Uebersetzungen
+    # ----------------------------------------------------------- Translations
     translation_rows = []
     native_counts: Counter = Counter()
     fallback_counts: Counter = Counter()
@@ -480,8 +477,8 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
             text, source_lang = resolved
             if source_lang is not None:
                 if not language.complete_in_release:
-                    # Ohne die Garantie wuerden hier 20 Sprachen je 871 Zeilen
-                    # englischen Text unter fremder Flagge erzeugen.
+                    # Without this guarantee, 20 languages would each generate
+                    # English text under a foreign flag.
                     continue
                 if exercise.status == "active":
                     fallback_counts[code] += 1
@@ -496,8 +493,8 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
                     exercise.id,
                     code,
                     text.name,
-                    # Das Altskript schreibt "" statt NULL, wenn kein
-                    # Beschreibungstext existiert. Beibehalten.
+                    # The legacy script writes "" instead of NULL when no
+                    # description exists. Retained.
                     text.get("description") or "",
                     json_array(text.get("instructions")),
                     json_array(text.get("cues")),
@@ -514,7 +511,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         f"INSERT INTO exercise_translations VALUES ({', '.join('?' * 13)})", translation_rows
     )
 
-    # --------------------------------------------------------------- Sprachen
+    # -------------------------------------------------------------- Languages
     active_count = sum(1 for exercise in exercises if exercise.status == "active")
     language_rows = []
     completeness_report: dict[str, dict[str, Any]] = {}
@@ -523,12 +520,11 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         delivered = native + fallback_counts.get(code, 0)
         completeness = min(1.0, native / active_count) if active_count else 0.0
         delivered_share = min(1.0, delivered / active_count) if active_count else 0.0
-        # `completeness` ist die ehrliche Zahl: wie viel ist wirklich uebersetzt.
-        # `displayable` beantwortet die andere Frage: kann die Oberflaeche diese
-        # Sprache ohne Loecher anbieten? Fuer eine Sprache mit
-        # complete_in_release ist das dank Fallback auch dann der Fall, wenn
-        # `completeness` niedrig ist — und die App sieht an `source_lang`
-        # zeilenweise, was tatsaechlich uebersetzt wurde.
+        # `completeness` is the honest number: how much is actually translated.
+        # `displayable` answers the other question: can the UI offer this
+        # language without gaps? For a language with complete_in_release, this is
+        # the case thanks to fallback even if `completeness` is low — and the app
+        # sees row by row in `source_lang` what was actually translated.
         displayable = 1 if delivered_share >= vocab.min_completeness else 0
         language_rows.append((code, language.tier, round(completeness, 6), displayable))
         completeness_report[code] = {
@@ -540,7 +536,7 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         }
     cursor.executemany("INSERT INTO languages VALUES (?, ?, ?, ?)", language_rows)
 
-    # -------------------------------------------------------------- metadata
+    # --------------------------------------------------------------- Metadata
     metadata = {
         "version": version,
         "schema_version": str(SCHEMA_VERSION),
@@ -552,8 +548,8 @@ def build(args: argparse.Namespace) -> tuple[int, dict[str, Any]]:
         "attribution_url": f"{args.source_repo.rstrip('/')}/blob/main/ATTRIBUTION.md",
         "exercise_count": str(len(exercise_rows)),
         "translation_count": str(len(translation_rows)),
-        # Welche der in SCHEMA.md 8 als NOT NULL gefuehrten Spalten noch nicht
-        # durchgaengig befuellt sind. Leer heisst: v2 ist inhaltlich erreicht.
+        # Columns marked as NOT NULL in SCHEMA.md §8 that are not yet
+        # consistently populated. Empty means: v2 is achieved in content.
         "nullable_columns": json.dumps(sorted(nullable)),
     }
     cursor.executemany(
@@ -606,22 +602,22 @@ def main() -> int:
         return code
 
     summary = report["summary"]
-    print(f"Datenbank  {report['build']['db_output_path']} (Version {report['build']['db_version']})")
-    print(f"Uebungen   {summary['imported_count']} ({summary['active_count']} aktiv)")
-    print(f"Texte      {summary['translation_count']} Zeilen")
-    print(f"Muskeln    {summary['muscle_link_count']} Zuweisungen")
+    print(f"Database   {report['build']['db_output_path']} (Version {report['build']['db_version']})")
+    print(f"Exercises  {summary['imported_count']} ({summary['active_count']} active)")
+    print(f"Texts      {summary['translation_count']} rows")
+    print(f"Muscles    {summary['muscle_link_count']} assignments")
     if report["nullable_columns"]:
         print(
-            "Offen      noch ohne NOT NULL: " + ", ".join(report["nullable_columns"])
+            "Pending    not yet NOT NULL: " + ", ".join(report["nullable_columns"])
         )
     if report["unknown_muscle_nodes"]:
-        print(f"WARNUNG    unbekannte Muskelknoten: {report['unknown_muscle_nodes']}")
+        print(f"WARNING    unknown muscle nodes: {report['unknown_muscle_nodes']}")
 
     if args.report_json_out:
         out = Path(args.report_json_out)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"Bericht    {out}")
+        print(f"Report     {out}")
     return 0
 
 

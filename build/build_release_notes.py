@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
-"""Erzeugt die Release Notes aus Build-, Diff- und Validierungsbericht.
+"""Generates release notes from build, diff, and validation reports.
 
-Aus einer frueheren Pipeline uebernommen und um das erweitert, was das neue Schema
-mitbringt: Schemaversion, Sprachabdeckung, Lizenzverteilung und den offenen
-Rest von Phase 2.
+Adopted from an earlier pipeline and extended with what the new schema introduces:
+schema version, language coverage, license distribution, and the remaining
+Phase 2 backlog.
 
-Die Notes sind fuer zwei Publikum gleichzeitig geschrieben: fuer Menschen, die
-wissen wollen, was sich geaendert hat, und fuer die Person, die in sechs
-Monaten herausfinden muss, warum eine bestimmte Zeile so aussieht, wie sie
-aussieht.
+The notes are written for two audiences simultaneously: users wanting to know
+what changed, and the developer six months from now trying to understand why
+a particular line looks the way it does.
 """
 import json
 import os
@@ -54,7 +53,7 @@ def main() -> int:
             f"(fetched `{upstream.get('snapshot_fetched_at', 'n/a')}`)"
         )
 
-    # --- Was sich gegenueber dem letzten Release geaendert hat
+    # --- Changes compared to previous release
     lines += ["", "## Changes against the previous release", ""]
     if diff.get("skipped"):
         lines.append("Diff skipped: no published reference database available.")
@@ -79,7 +78,7 @@ def main() -> int:
     else:
         lines.append("Diff summary unavailable.")
 
-    # --- Sprachen
+    # --- Languages
     languages = build.get("languages", {})
     if languages:
         lines += ["", "## Languages", "", "| Code | Tier | Translated | Filled from fallback | Shown |", "|---|---|---|---|---|"]
@@ -90,7 +89,7 @@ def main() -> int:
                 f"| {entry.get('fallback', 0)} | {'yes' if entry.get('displayable') else 'no'} |"
             )
 
-    # --- Lizenzen. Gehoert sichtbar ins Release, nicht in eine Fussnote.
+    # --- Licenses. Must be prominent in the release, not buried in a footnote.
     licenses = import_report.get("licenses") if import_report else None
     if licenses:
         lines += ["", "## Licensing", ""]
@@ -105,8 +104,8 @@ def main() -> int:
         lines.append("")
         lines.append("Upstream records keep their original per-entry license. See ATTRIBUTION.md.")
 
-    # --- Was noch offen ist. Ein Release, das seine eigenen Luecken verschweigt,
-    # macht sie unsichtbar statt kleiner.
+    # --- What remains open. A release concealing its gaps keeps them
+    # invisible instead of fixing them.
     coverage = build.get("field_coverage", {})
     nullable = build.get("nullable_columns", [])
     if nullable:

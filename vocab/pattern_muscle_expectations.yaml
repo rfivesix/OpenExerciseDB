@@ -1,17 +1,16 @@
-# Erwartete Muskelgruppen je Bewegungsmuster.
+# Expected muscle groups per movement pattern.
 #
-# Ableitungsmethode:
-# 1. Statistische Basis: abgeleitet aus den 819 Nicht-Golden-Übungen bei einer
-#    relativen Mindesthäufigkeit von >= 5 % und einer Mindestanzahl von >= 2 Übungen.
-# 2. Golden-Set-Validierung: Gegen die 50 handgeprüften Golden-Set-Übungen getestet.
-#    Dabei fielen 6 Übungen durch (12,0 % gemessene Fehlalarmquote der Rohstatistik),
-#    alle 6 fachlich vollkommen korrekt annotiert.
-# 3. Gezielte Golden-Set-Ergänzungen: Die legitimen Muskelgruppen dieser 6 Fälle wurden
-#    danach je Muster explizit und begründet ergänzt (nicht in die statistische
-#    Häufigkeitsrechnung eingerührt, um Fehllizenzierungen wie Quads beim Bankdrücken
-#    zu vermeiden).
+# Derivation methodology:
+# 1. Statistical baseline: derived from the 819 non-golden exercises at a
+#    relative minimum frequency of >= 5% and a minimum count of >= 2 exercises.
+# 2. Golden set validation: tested against the 50 hand-reviewed golden set exercises.
+#    6 exercises initially flagged (12.0% false alarm rate of raw statistics),
+#    all 6 being fully correct expert annotations.
+# 3. Targeted golden set additions: legitimate muscle groups for these 6 cases were
+#    explicitly and justifiably added per pattern (not mixed into statistical
+#    frequencies, preventing nonsense like quads on bench press).
 #
-# Hinweis: `other` ist als unklassifiziertes Sammelbecken von Invariante 20 ausgenommen.
+# Note: `other` is exempt from Invariant 20 as an unclassified catch-all.
 
 version: 1
 
@@ -20,7 +19,7 @@ expectations:
     - chest
     - triceps
     - shoulders
-    # Golden Set (1523 Sled Push): Horizontaler Ganzkörper-Beinvortrieb
+    # Golden Set (1523 Sled Push): Horizontal full-body leg drive
     - quads
     - glutes
 
@@ -29,7 +28,7 @@ expectations:
     - triceps
     - chest
     - quads
-    # Golden Set (1100 Wall-Balls, 1684 Dumbbell Thruster): Beinkraftübertrag aus der Kniebeuge
+    # Golden Set (1100 Wall-Balls, 1684 Dumbbell Thruster): Leg power transfer from squat
     - glutes
 
   horizontal_pull:
@@ -43,7 +42,7 @@ expectations:
     - biceps
     - forearms
     - shoulders
-    # Golden Set (423 Muscle-Up): Dip-Übergang über die Stange
+    # Golden Set (423 Muscle-Up): Dip transition above the bar
     - chest
 
   squat:
@@ -66,8 +65,8 @@ expectations:
     - quads
 
   carry:
-    # Golden Set (1116 Farmer's Carry) & Bestand (1430 Plate Pinch, 1776 Suitcase Carry):
-    # Haltekraft der Unterarme, Schultergürtel-Trapez und Rumpfstabilisation
+    # Golden Set (1116 Farmer's Carry) & Catalog (1430 Plate Pinch, 1776 Suitcase Carry):
+    # Forearm grip strength, trapezius shoulder girdle, and trunk stabilization
     - forearms
     - back
     - abs
@@ -98,7 +97,7 @@ expectations:
 
   anti_flexion:
     - lower_back
-    # Golden Set (500 Reverse Plank): Isometrische Hüftstreckung gegen Schwerkraft
+    # Golden Set (500 Reverse Plank): Isometric hip extension against gravity
     - glutes
 
   elbow_flexion:

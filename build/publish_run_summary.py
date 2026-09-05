@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Schreibt die GitHub-Step-Summary des Build-Laufs.
+"""Writes the GitHub Step Summary for the build run.
 
-Aus einer frueheren Pipeline uebernommen, um Validierung und Schemaversion erweitert. Der
-Bericht laeuft auch dann, wenn vorher etwas fehlgeschlagen ist — er ist oft die
-einzige Stelle, an der jemand sieht, wo genau es aufgehoert hat.
+Adopted from an earlier pipeline and extended with validation and schema version.
+The summary runs even if an earlier step failed — often serving as the only place
+revealing exactly where execution halted.
 """
 import json
 import os

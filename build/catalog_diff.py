@@ -1,25 +1,24 @@
 #!/usr/bin/env python3
-"""Vergleicht zwei Katalog-Datenbanken und erkennt gefaehrliche Aenderungen.
+"""Compares two catalog databases and detects breaking or dangerous changes.
 
-Aus einer frueheren Pipeline uebernommen und auf das Schema aus SCHEMA.md 8 erweitert. Die
-Logik fuer die v1-Spalten ist unveraendert — sie hat ihren Zweck erfuellt und
-ihre Tests laufen weiter. Dazugekommen sind:
+Adopted from an earlier pipeline and extended to the schema in SCHEMA.md 8. The
+logic for v1 columns is unchanged — it has fulfilled its purpose and its tests
+continue to run. Added features include:
 
-* die neuen Spalten von `exercises` (Klassifikation, Lizenz-Provenienz),
-* die Beziehungstabellen `exercise_muscles`, `exercise_equipment`,
-  `exercise_tags` als je ein vergleichbarer, sortierter Wert je Uebung,
-* **Invariante 21**: eine aktive Uebung darf nicht verschwinden, ohne dass ein
-  Alias oder `merged_into` auf einen Nachfolger zeigt. Genau das macht Dedupe
-  gefahrlos, und ohne diese Pruefung ist die `exercise_aliases`-Tabelle nur ein
-  Versprechen.
-* **Invariante 22**: die Zahl aktiver Uebungen faellt nie um mehr als 5 %.
-* **Lizenz-Regression**: eine Uebersetzung, die ihre Lizenzangabe verliert, ist
-  ein Attributionsfehler und kein kosmetisches Problem (SCHEMA.md 3b).
-* **schema_version** darf nicht rueckwaerts laufen (SCHEMA.md 9).
+* new columns of `exercises` (classification, license provenance),
+* relational tables `exercise_muscles`, `exercise_equipment`, `exercise_tags`
+  each summarized into a comparable, sorted value per exercise,
+* **Invariant 21**: an active exercise must not disappear without an alias or
+  `merged_into` pointing to a successor. This makes deduplication safe;
+  without this check, the `exercise_aliases` table is only a promise.
+* **Invariant 22**: the count of active exercises never drops by more than 5%.
+* **License regression**: a translation that loses its license attribution is
+  an attribution violation, not a cosmetic issue (SCHEMA.md 3b).
+* **schema_version** must not run backwards (SCHEMA.md 9).
 
-Aufruf:
+Usage:
 
-    python3 build/catalog_diff.py --old alt.db --new neu.db \\
+    python3 build/catalog_diff.py --old old.db --new new.db \
         --json-out artifacts/diff_report.json --fail-on-breaking
 """
 import argparse
@@ -45,8 +44,8 @@ OPTIONAL_EXERCISE_COLUMNS = (
     "source",
     "created_by",
     "is_custom",
-    # --- Schema v2. Werden verglichen, sobald die Spalte existiert; eine
-    # v1-Datenbank auf der einen Seite macht den Vergleich nicht kaputt.
+    # --- Schema v2. Compared as soon as column exists; a v1 database
+    # on either side does not break comparison.
     "slug",
     "status",
     "merged_into",
@@ -77,17 +76,17 @@ MAIN_COMPARE_FIELDS = (
 )
 
 RELATIONAL_FIELDS = {
-    # Feldname -> (Tabelle, Ausdruck je Zeile)
-    # Jede Beziehung wird zu einem sortierten String zusammengefasst, damit der
-    # vorhandene Feldvergleich sie ohne Sonderbehandlung mitnimmt.
+    # Field name -> (table, expression per row)
+    # Each relation is aggregated into a sorted string so existing field comparison
+    # includes it without special handling.
     "muscle_assignments": ("exercise_muscles", "role || ':' || muscle_id"),
     "equipment_assignments": ("exercise_equipment", "kind || ':' || equipment_id"),
     "usage_tags": ("exercise_tags", "tag"),
 }
 
 INVARIANT_22_MAX_ACTIVE_DROP_PERCENT = 5.0
-"""Invariante 22. Entspricht der Schwelle, die der Workflow heute als
-WGER_FAIL_ON_REMOVED_THRESHOLD fuehrt."""
+"""Invariant 22. Matches the threshold previously used by workflow as
+WGER_FAIL_ON_REMOVED_THRESHOLD."""
 
 
 def parse_args() -> argparse.Namespace:
@@ -243,7 +242,7 @@ def load_catalog(db_path: str) -> Dict[str, Any]:
             }
             exercises[exercise_id] = normalized
 
-        # --- Beziehungstabellen als je ein vergleichbarer Wert je Uebung.
+        # --- Relationship tables as a single comparable value per exercise.
         for field, (table, expression) in RELATIONAL_FIELDS.items():
             if table not in tables:
                 continue
@@ -256,12 +255,12 @@ def load_catalog(db_path: str) -> Dict[str, Any]:
             for exercise_id, entry in exercises.items():
                 entry[field] = ", ".join(sorted(collected.get(exercise_id, [])))
 
-        # --- Uebersetzungen: Zahl und Lizenzabdeckung je Sprache. Eine Sprache,
-        # die zwischen zwei Releases Zeilen verliert, ist kein Detail.
+        # --- Translations: row count and license coverage per language. A language
+        # losing rows between releases is significant.
         translations: Dict[str, Dict[str, int]] = {}
         if has_translations_table:
-            # `license` gibt es erst ab Schema v2; gegen eine v1-Datenbank waere
-            # die Spalte im SELECT ein harter Fehler statt einer leeren Zahl.
+            # `license` exists only starting in schema v2; querying against a v1
+            # database would fail with an error rather than returning zero.
             has_license = "license" in _columns(cursor, "exercise_translations")
             without_license = (
                 "SUM(CASE WHEN license IS NULL OR TRIM(license) = '' THEN 1 ELSE 0 END)"
@@ -277,7 +276,7 @@ def load_catalog(db_path: str) -> Dict[str, Any]:
                     "without_license": int(row["without_license"] or 0),
                 }
 
-        # --- Aliase: wer zeigt auf wen. Grundlage fuer Invariante 21.
+        # --- Aliases: who points to whom. Basis for Invariant 21.
         aliases: Dict[str, str] = {}
         if "exercise_aliases" in tables:
             for row in cursor.execute("SELECT old_id, new_id FROM exercise_aliases"):
@@ -293,7 +292,7 @@ def load_catalog(db_path: str) -> Dict[str, Any]:
                 status = entry.get("status") or "active"
                 status_counts[status] = status_counts.get(status, 0) + 1
         else:
-            # v1-Datenbank: es gibt nur aktive Uebungen.
+            # v1 database: only active exercises exist.
             status_counts["active"] = len(exercises)
 
         return {
@@ -402,15 +401,15 @@ def compare_catalogs(
         ):
             regressions["de_name_lost_en_still_present"] += 1
 
-        # `slug` ist laut SCHEMA.md 3 ein Vertrag und aendert sich nie. Wenn doch,
-        # will das jemand gesehen haben, bevor es im Release steht.
+        # `slug` is a contract under SCHEMA.md §3 and should not change. If it does,
+        # someone needs to review it before release.
         old_slug = old_row.get("slug")
         new_slug = new_row.get("slug")
         if not is_blank(old_slug) and not is_blank(new_slug) and old_slug != new_slug:
             regressions["slug_changed"] += 1
 
-        # Eine Uebung, die aus dem Katalog faellt, ohne geloescht zu werden —
-        # das ist der vorgesehene Weg (SCHEMA.md 3) und trotzdem meldepflichtig.
+        # An exercise transitioning out of the active catalog without being deleted —
+        # this is the intended path (SCHEMA.md §3), but still tracked.
         if old_row.get("status") in ("", "active") and new_row.get("status") in (
             "deprecated",
             "merged",
@@ -513,7 +512,7 @@ def compare_catalogs(
             }
         )
 
-    # --- Invariante 21: kein aktiver Eintrag verschwindet ohne Nachfolger.
+    # --- Invariant 21: no active entry disappears without successor.
     new_aliases = new_catalog.get("aliases", {})
     unmapped_removals = sorted(
         exercise_id for exercise_id in removed_ids if exercise_id not in new_aliases
@@ -525,15 +524,15 @@ def compare_catalogs(
                 "severity": "severe",
                 "value": len(unmapped_removals),
                 "message": (
-                    f"{len(unmapped_removals)} Uebungen sind verschwunden, ohne dass ein Alias "
-                    f"oder merged_into auf einen Nachfolger zeigt. Logs auf diesen IDs waeren "
-                    f"nicht mehr aufloesbar (SCHEMA.md 3). Beispiele: "
+                    f"{len(unmapped_removals)} exercises disappeared without an alias "
+                    f"or merged_into pointing to a successor. Logs referencing these IDs "
+                    f"would become unresolvable (SCHEMA.md 3). Examples: "
                     f"{', '.join(unmapped_removals[:5])}"
                 ),
             }
         )
 
-    # --- Invariante 22: die Zahl aktiver Uebungen faellt nie um mehr als 5 %.
+    # --- Invariant 22: active exercise count never drops by more than 5%.
     old_active = old_catalog.get("active_count", old_count)
     new_active = new_catalog.get("active_count", new_count)
     active_drop_percent = 0.0
@@ -546,14 +545,14 @@ def compare_catalogs(
                 "severity": "severe",
                 "value": active_drop_percent,
                 "message": (
-                    f"Aktive Uebungen um {active_drop_percent:.2f}% gefallen "
-                    f"({old_active} -> {new_active}), erlaubt sind "
+                    f"Active exercises dropped by {active_drop_percent:.2f}% "
+                    f"({old_active} -> {new_active}), allowed: "
                     f"{INVARIANT_22_MAX_ACTIVE_DROP_PERCENT:.0f}%."
                 ),
             }
         )
 
-    # --- Lizenz-Provenienz. Ohne sie ist die Weitergabe nicht mehr gedeckt.
+    # --- License provenance. Distribution is not covered without it.
     if regressions["license_became_blank"] > 0:
         warnings.append(
             {
@@ -561,8 +560,8 @@ def compare_catalogs(
                 "severity": "severe",
                 "value": regressions["license_became_blank"],
                 "message": (
-                    f"{regressions['license_became_blank']} Uebungen haben ihre Lizenzangabe "
-                    f"verloren (SCHEMA.md 3b)."
+                    f"{regressions['license_became_blank']} exercises lost their license "
+                    f"attribution (SCHEMA.md 3b)."
                 ),
             }
         )
@@ -576,13 +575,13 @@ def compare_catalogs(
                 "severity": "warning",
                 "value": lost_translation_licenses,
                 "message": (
-                    f"{lost_translation_licenses} Uebersetzungen ohne Lizenzangabe. wger "
-                    f"lizenziert pro Eintrag; ohne die Angabe ist die Attribution unvollstaendig."
+                    f"{lost_translation_licenses} translations without license attribution. "
+                    f"wger licenses per entry; attribution is incomplete without it."
                 ),
             }
         )
 
-    # --- schema_version darf nie rueckwaerts laufen (SCHEMA.md 9).
+    # --- schema_version must never decrease (SCHEMA.md 9).
     old_schema = old_catalog.get("schema_version")
     new_schema = new_catalog.get("schema_version")
     if old_schema is not None and new_schema is not None and new_schema < old_schema:
@@ -592,8 +591,8 @@ def compare_catalogs(
                 "severity": "severe",
                 "value": {"old": old_schema, "new": new_schema},
                 "message": (
-                    f"schema_version faellt von {old_schema} auf {new_schema}. Konsumenten, die "
-                    f"schon auf {old_schema} sind, koennen das nicht lesen."
+                    f"schema_version dropped from {old_schema} to {new_schema}. Consumers "
+                    f"already on {old_schema} cannot read this."
                 ),
             }
         )
@@ -605,8 +604,8 @@ def compare_catalogs(
                 "severity": "warning",
                 "value": regressions["slug_changed"],
                 "message": (
-                    f"{regressions['slug_changed']} Slugs haben sich geaendert. Slugs sind laut "
-                    f"SCHEMA.md 3 stabil."
+                    f"{regressions['slug_changed']} slugs changed. Slugs are stable per "
+                    f"SCHEMA.md 3."
                 ),
             }
         )
@@ -823,8 +822,8 @@ def should_fail(report: Dict[str, Any], args: argparse.Namespace) -> Tuple[bool,
         "CATEGORY_REGRESSION",
         "MUSCLE_REGRESSION",
         "ROW_COUNT_DROP",
-        # --- Schema v2. Alle drei machen ausgelieferte Daten unbrauchbar oder
-        # rechtlich ungedeckt, keines davon ist ein Warnhinweis wert.
+        # --- Schema v2. All of these render distributed data unusable or
+        # legally unprotected; none can be demoted to a mere warning.
         "INVARIANT_21_UNMAPPED_REMOVAL",
         "INVARIANT_22_ACTIVE_COUNT_DROP",
         "LICENSE_REGRESSION",

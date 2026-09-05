@@ -1,25 +1,25 @@
-# Muskel-Taxonomie — geschlossenes, hierarchisches Vokabular.
+# Muscle taxonomy — closed, hierarchical vocabulary.
 #
-# Drei Ebenen: group -> muscle -> head.
-# Eine Übung darf auf JEDER Ebene referenzieren. Wer sich bei den Köpfen nicht
-# sicher ist, annotiert den Muskel; wer sich beim Muskel nicht sicher ist, die
-# Gruppe. Statistik und Recovery rechnen immer auf `group`, Filter und
-# Body-Highlighter dürfen feiner gehen.
+# Three levels: group -> muscle -> head.
+# An exercise may reference AT ANY level. When uncertain about heads, annotate
+# the muscle; when uncertain about the muscle, annotate the group. Analytics
+# and recovery calculations always aggregate at `group`, while filters and
+# body highlighters may go deeper.
 #
-# body_slugs: Werte aus BodyPartSlug (flutter_body_highlighter, ref a8503b0a).
-#             Leere Liste = im Highlighter nicht darstellbar (kein Fehler).
-# legacy_group: kanonische Gruppe, die die heutige App in
-#               recovery_domain_service.dart `_majorGroupMap` erwartet.
-#               Nur fuer die Kompatibilitaets-Spalten des DB-Builds relevant.
-# legacy_wger_name: der wger-Rohname FUER DIESEN KNOTEN, wenn er sich nicht
-#               ueber `legacy_wger_mapping` ergibt. Gebraucht auf Gruppenebene:
-#               das Mapping unten zeigt von wger-Namen auf MUSKEL-Knoten, also
-#               liefert eine Annotation auf Gruppenebene sonst gar nichts —
-#               obwohl sie laut SCHEMA.md 5 ausdruecklich zulaessig und die
-#               ehrlichere Angabe ist, wenn man sich beim Muskel nicht sicher ist.
-#               Nur dort gesetzt, wo wger tatsaechlich ein Gegenstueck hat;
-#               `back`, `lower_back`, `forearms`, `adductors` und `neck` kennt
-#               das alte Vokabular schlicht nicht.
+# body_slugs: values from BodyPartSlug (flutter_body_highlighter, ref a8503b0a).
+#             Empty list = cannot be highlighted visually (not an error).
+# legacy_group: canonical group expected by the current app in
+#               recovery_domain_service.dart `_majorGroupMap`.
+#               Relevant only for compatibility columns during DB build.
+# legacy_wger_name: the raw wger name FOR THIS NODE if not derived via
+#               `legacy_wger_mapping`. Used at the group level:
+#               the mapping below points from wger names to MUSCLE nodes, so an
+#               annotation at group level would otherwise yield nothing —
+#               even though SCHEMA.md 5 explicitly permits it as the more
+#               honest annotation when uncertain about the specific muscle.
+#               Only set where wger actually had an equivalent;
+#               `back`, `lower_back`, `forearms`, `adductors`, and `neck` simply
+#               did not exist in the legacy vocabulary.
 
 version: 1
 
@@ -315,9 +315,9 @@ muscles:
     names: { en: Neck extensors, de: Nackenstrecker, fr: Extenseurs du cou, it: Estensori del collo, ja: 頸部伸筋群 }
     body_slugs: [neck]
 
-# Rohwerte aus dem wger-Bestand -> Knoten dieses Vokabulars.
-# Wird EINMAL beim Import angewendet und danach nur noch fuer User-Uebungen
-# und Altdaten gebraucht. Alle 15 heute vorkommenden Werte sind abgedeckt.
+# Raw values from wger catalog -> nodes in this vocabulary.
+# Applied ONCE during import and subsequently used only for user exercises
+# and legacy data. All 15 values occurring in wger are covered.
 legacy_wger_mapping:
   Chest: pectoralis_major
   Lats: latissimus_dorsi

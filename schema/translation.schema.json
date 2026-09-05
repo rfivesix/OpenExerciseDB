@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.invalid/schema/translation.schema.json",
   "title": "Exercise translation",
-  "description": "Validiert data/i18n/<lang>/<id>.yaml. Eine Datei je Uebung je Sprache - eine neue Sprache ist ein neues Verzeichnis, kein Schema-Change.",
+  "description": "Validates data/i18n/<lang>/<id>.yaml. One file per exercise per language — a new language is a new directory, not a schema change.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -19,7 +19,7 @@
     "language": {
       "type": "string",
       "pattern": "^[a-z]{2}(-[A-Z]{2})?$",
-      "description": "Muss in vocab/languages.yaml registriert sein."
+      "description": "Must be registered in vocab/languages.yaml."
     },
     "status": {
       "enum": [
@@ -29,7 +29,7 @@
         "ai_raw",
         "upstream_unreviewed"
       ],
-      "description": "Auf Dokumentebene, nicht pro Feld - Texte werden als Ganzes uebersetzt und geprueft. `upstream_unreviewed` ist der Zustand nach dem Import: von Menschen geschrieben, aber von diesem Projekt nie abgenommen, und bei 511 Eintraegen ohne jede Autorenangabe. `human` bedeutet ausdruecklich, dass jemand hier hingesehen hat. `ai_reviewed` bedeutet durchgesehen und ggf. korrigiert. `ai_authored` kennzeichnet von Grund auf neu verfasste oder gegenueber der Quelle vollstaendig neugeschriebene Texte."
+      "description": "Document-level, not per-field — texts are translated and reviewed as a whole. `upstream_unreviewed` is the state after import: written by humans, but never reviewed by this project, and lacking author attribution in 511 entries. `human` explicitly means reviewed by a person. `ai_reviewed` means reviewed and corrected if needed. `ai_authored` designates texts newly composed from scratch or completely rewritten compared to upstream."
     },
     "translated_from": {
       "type": "string"
@@ -65,7 +65,7 @@
       "items": {
         "type": "string"
       },
-      "description": "Synonyme und gaengige Falschschreibungen. Geht in den Suchindex, wird nie angezeigt."
+      "description": "Synonyms and common misspellings. Indexed for search, never displayed."
     },
     "upstream": {
       "type": [
@@ -76,7 +76,7 @@
       "required": [
         "license"
       ],
-      "description": "wger lizenziert PRO UEBERSETZUNG. Siehe SCHEMA.md 3b.",
+      "description": "wger licenses PER TRANSLATION. See SCHEMA.md 3b.",
       "properties": {
         "license": {
           "enum": [

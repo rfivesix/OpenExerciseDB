@@ -1,8 +1,8 @@
-# data/i18n/<lang>/<id>.yaml — zurueckgeholter Text.
+# data/i18n/<lang>/<id>.yaml — recovered text.
 #
-# Wiederhergestellt aus einer ausgelieferten Datenbank, weil der Upstream-Eintrag
-# geloescht wurde. Lizenz und Autor waren dort nicht enthalten; siehe die
-# Uebungsdatei fuer den Vermerk.
+# Recovered from a previously published database because the upstream record
+# was deleted. License and author were not stored there; see the exercise
+# file for provenance notes.
 exercise_id: '1793'
 language: en
 status: ai_authored

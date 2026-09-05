@@ -1,18 +1,18 @@
-# Baut aus den Quelldateien die auszuliefernde Datenbank und veroeffentlicht sie.
+# Builds the distributable SQLite database from source files and publishes it.
 #
-# Aufbauend auf einer frueheren Release-Pipeline.
-# Zwei Unterschiede zum Vorbild:
+# Built upon an earlier release pipeline.
+# Two key differences:
 #
-# 1. **Kein Cron mehr.** Der Build zieht nicht mehr live von wger, sondern liest
-#    `data/`. Ein woechentlicher Lauf ohne Aenderung im Repo wuerde dieselbe
-#    Datenbank noch einmal bauen. Trigger ist deshalb ein Push auf die Daten
-#    plus manuelle Ausloesung. Der Abruf von wger ist ein eigener, seltener
-#    Vorgang (`import/fetch_wger_snapshot.py`), der von Hand laeuft und als
-#    Snapshot-Commit im Repo landet — dort ist er reviewbar.
+# 1. **No cron schedule.** The build no longer fetches live from wger, but reads
+#    `data/`. A weekly run without repo changes would redundantly rebuild the same
+#    database. Triggers are therefore pushes to data/code plus manual dispatch.
+#    Fetching from wger is a distinct, infrequent operation
+#    (`import/fetch_wger_snapshot.py`), run manually and committed as a snapshot
+#    in the repo where it is fully reviewable.
 #
-# 2. **Die Invarianten sind ein Gate, kein Bericht.** `build/validate.py` laeuft
-#    vor dem Build. Was hier durchkommt, ist strukturell in Ordnung; der Diff
-#    danach prueft, was sich gegenueber dem letzten Release geaendert hat.
+# 2. **Invariants are a gate, not a report.** `build/validate.py` runs before
+#    the build. Whatever passes here is structurally sound; the subsequent diff
+#    checks what changed against the last release.
 
 name: Build and release catalog
 
@@ -73,8 +73,8 @@ jobs:
       RELEASE_NOTES_PATH: artifacts/release_notes.md
       RELEASE_REFERENCE_MANIFEST_PATH: artifacts/reference_catalog_manifest.json
       RELEASE_REFERENCE_DB_PATH: artifacts/reference_openexercisedb.db
-      # Schwelle unveraendert aus dem Vorbild: mehr als 30 verschwundene IDs
-      # sind kein Datenstand, sondern ein Fehler.
+      # Threshold preserved: more than 30 disappeared IDs indicate a broken dataset,
+      # not normal deprecation.
       WGER_FAIL_ON_REMOVED_THRESHOLD: 30
       RELEASE_CHANNEL: ${{ github.event.inputs.channel || 'stable' }}
       FAIL_ON_BREAKING: ${{ github.event_name == 'workflow_dispatch' &&
@@ -97,9 +97,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Der Release-Kanal ist kein Workflow-Detail, sondern der Vertrag zur App
-      # (SCHEMA.md 9): Schema-Aenderungen gehen zuerst nach beta, die
-      # unterstuetzende App-Version ins Store-Review, erst danach nach stable.
+      # The release channel is an API contract with the app (SCHEMA.md §9):
+      # schema changes go to beta first, enabling app updates to pass app store
+      # review before being promoted to stable.
       - name: Resolve release channel
         run: |
           if [ "$RELEASE_CHANNEL" = "beta" ]; then
@@ -122,9 +122,8 @@ jobs:
         run: |
           python -m compileall -q build oedb import test
 
-      # --- Referenz zuerst: sie ist Eingabe fuer den Abnahmetest UND fuer den
-      # Diff. Faellt sie aus, laufen beide in ihrem dokumentierten Ersatzpfad
-      # weiter, statt den Lauf abzubrechen.
+      # --- Reference baseline first: required both for the acceptance test AND
+      # for the diff. If unavailable, both proceed with their documented fallback paths.
       - name: Resolve previous published catalog baseline
         id: resolve_reference
         continue-on-error: true
@@ -160,28 +159,26 @@ jobs:
           cd test
           python -m unittest discover -p "test_*.py" -v
 
-      # --- Das eigentliche Gate.
+      # --- The primary gate.
       - name: Check invariants
         run: |
           python build/validate.py --profile phase1 --json-out "$VALIDATION_REPORT_PATH"
 
-      # Invariante 21 gegen das Register — die Pruefung, die den Verlust von 38
-      # Uebungen zwischen 2026-06-15 und 2026-08-31 verhindert haette. Sie steht
-      # hier zusaetzlich zum Validator, weil sie die teuerste Regel des Repos ist:
-      # eine verschwundene ID macht Trainingsdaten auf Geraeten unaufloesbar.
+      # Invariant 21 against the registry — the check safeguarding previously published
+      # exercises. Present here alongside the validator because it enforces the strictest
+      # rule: a missing ID breaks user workout logs on client devices.
       - name: Check that no published ID disappeared
         run: python build/update_published_ids.py --check
 
-      # ATTRIBUTION.md wird gerechnet, nicht gepflegt (SCHEMA.md 3b). Laeuft sie
-      # dem Datenstand hinterher, ist die Namensnennung unvollstaendig — und das
-      # ist eine Lizenzbedingung, kein Schoenheitsfehler.
+      # ATTRIBUTION.md is computed, not hand-edited (SCHEMA.md §3b). If it lags
+      # behind data, attribution is incomplete — which is a license violation.
       - name: Check that ATTRIBUTION.md matches the data
         run: python build/build_attribution.py --check
 
       - name: Report the phase 2 backlog
         continue-on-error: true
         run: |
-          echo "Gegen das vollstaendige Regelwerk — der offene Rest, kein Gate:"
+          echo "Against the full rule set — open backlog, non-blocking:"
           python build/validate.py --profile full --examples 3 || true
 
       - name: Build database
@@ -280,8 +277,8 @@ jobs:
             ${{ env.MANIFEST_PATH }}
           bodyFile: ${{ env.RELEASE_NOTES_PATH }}
 
-      # Nach dem Release: die gerade ausgelieferten IDs ins Register aufnehmen.
-      # Ab jetzt sind sie ein Vertrag mit den Nutzerdaten, die darauf zeigen.
+      # Post-release: record newly published IDs into the registry.
+      # From now on, they represent an invariant contract with user data referencing them.
       - name: Record the published IDs
         if: github.event_name != 'pull_request' &&
           steps.publish_release.outcome == 'success'

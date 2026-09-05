@@ -1,43 +1,41 @@
-# Sprach-Registry. Beliebig erweiterbar — eine neue Sprache ist EIN Eintrag
-# hier plus ein Verzeichnis unter data/i18n/<code>/. Kein Schema-Change,
-# kein App-Change, kein Build-Change.
+# Language registry. Freely extensible — a new language is ONE entry
+# here plus a directory under data/i18n/<code>/. No schema change,
+# no app change, no build change.
 #
 # tier:
-#   curated  — von diesem Projekt gepflegt und geprueft; blockiert den Release
-#              bei Luecken (Invariante 4)
-#   upstream — aus der Quelle uebernommen, von uns inhaltlich NICHT geprueft.
-#              Wird ausgeliefert und als solche markiert, blockiert nichts.
-#   assisted — KI-erzeugt, menschlich stichprobenartig geprueft
-#   machine  — KI-erzeugt, ungeprueft; wird ausgeliefert, aber als solche markiert
+#   curated  — maintained and verified by this project; blocks releases
+#              on coverage gaps (Invariant 4)
+#   upstream — imported from upstream, NOT content-reviewed by us.
+#              Distributed and marked as such, does not block.
+#   assisted — AI-generated, spot-checked by humans
+#   machine  — AI-generated, unreviewed; distributed, but marked as such
 #
-# Stand Phase 1: saemtliche Texte stammen unveraendert aus wger. `en` ist als
-# einzige Sprache `curated`, weil sie Quellsprache und vollstaendig ist und
-# damit das Release-Gate traegt; `de` wird auf `curated` hochgestuft, sobald es
-# vollstaendig und geprueft ist (heute 628 von 871).
+# Status Phase 1: all texts originated unchanged from wger. `en` was
+# originally the only `curated` language because it is the source language and
+# complete, carrying the release gate.
 #
-# wger_language_id: die numerische Sprach-ID der wger-API (/api/v2/language/).
-#   Der Importer liest AUSSCHLIESSLICH diese Registry und prueft sie beim Lauf
-#   gegen den Snapshot; weicht ein Eintrag ab, bricht der Import ab.
-#   Grund: die alte Pipeline hatte diese Zuordnung fest verdrahtet und dabei
-#   falsch (4 galt als fr, 5 als it, 8 als ja — tatsaechlich es, ru, el),
-#   weshalb die heute ausgelieferte Datenbank 646 spanische Texte als
-#   Franzoesisch, 48 griechische als Japanisch und 10 russische als
-#   Italienisch fuehrt. Japanisch gibt es bei wger ueberhaupt nicht.
+# wger_language_id: the numeric language ID in the wger API (/api/v2/language/).
+#   The importer reads EXCLUSIVELY this registry and verifies it against the
+#   snapshot during runtime; if an entry differs, import aborts.
+#   Reason: the legacy pipeline hard-coded this mapping incorrectly (4 was
+#   treated as fr, 5 as it, 8 as ja — actually es, ru, el), causing previously
+#   distributed databases to serve 646 Spanish texts as French, 48 Greek as
+#   Japanese, and 10 Russian as Italian. Japanese does not exist in wger at all.
 #
-# complete_in_release: Das Release garantiert fuer diese Sprache eine Zeile je
-#   aktiver Uebung — fehlt der Text, fuellt der Build ihn ueber die
-#   fallback_chain und markiert die Zeile mit `source_lang`. Nur `en` und `de`
-#   tragen das, weil der Importer der heutigen App genau diese beiden Sprachen
-#   erwartet (_mapExerciseBundle). Ohne das Flag wuerden 22 Sprachen je 871
-#   Fallback-Zeilen erzeugen, die zu 95 % englische Duplikate waeren.
+# complete_in_release: The release guarantees a row per active exercise for
+#   this language — if text is missing, the build fills it via fallback_chain
+#   and marks the row with `source_lang`. Only `en` and `de` carry this flag
+#   because the app importer expects exactly these two languages
+#   (_mapExerciseBundle). Without this flag, 22 languages would each generate
+#   868 fallback rows that would be 95% English duplicates.
 #
-# fallback_chain: was die App nimmt, wenn ein Text in dieser Sprache fehlt.
-# Ausgeliefert wird jede Sprache, unabhaengig vom Fuellstand — die App
-# entscheidet anhand von `min_completeness`, ob sie sie im Sprachwaehler zeigt.
+# fallback_chain: what the app uses when text in this language is missing.
+# Every language is distributed regardless of completion percentage — the app
+# uses `min_completeness` to decide whether to display it in the language picker.
 
 version: 2
 
-source_language: en   # Source of Truth fuer alle Uebersetzungen
+source_language: en   # Source of truth for all translations
 
 languages:
   - code: en
@@ -158,8 +156,8 @@ languages:
     wger_language_id: null
     fallback_chain: [en]
 
-# Ab welchem Fuellstand eine Sprache im Release als "anzeigbar" gilt.
-# Wird pro Sprache in die languages-Tabelle der DB geschrieben, damit die App
-# nicht selbst zaehlen muss. Gezaehlt werden nur echte Uebersetzungen, keine
-# Fallback-Zeilen.
+# Threshold above which a language is considered "displayable" in the release.
+# Written per language into the languages table of the DB so the app does not
+# need to count them itself. Only genuine translations are counted, not fallback
+# rows.
 min_completeness: 0.95

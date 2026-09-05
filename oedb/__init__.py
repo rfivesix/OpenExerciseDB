@@ -1,6 +1,7 @@
-"""Gemeinsame Bibliothek fuer Import, Build und Validierung.
+"""Shared library for import, build, and validation.
 
-Liegt bewusst als eigenes Paket neben `import/` und `build/`: `import` ist ein
-Python-Schluesselwort und damit kein importierbarer Paketname, die Skripte dort
-koennen also nichts exportieren.
+Placed deliberately as a separate package alongside `build/` and `import/`: `import`
+is a Python keyword and cannot be an importable package name, so scripts there
+cannot export modules.
 """
+

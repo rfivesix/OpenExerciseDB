@@ -1,27 +1,26 @@
 # data/exercises/475.yaml
-# Sprachneutrale Fakten. Enthaelt KEINEN uebersetzbaren Text — der liegt
-# ausschliesslich unter data/i18n/<lang>/475.yaml.
+# Language-agnostic facts. Contains NO translatable text — that lives
+# exclusively under data/i18n/<lang>/475.yaml.
 #
-# Beispiel gewaehlt, weil es zeigt, was das alte Schema nicht ausdruecken kann:
-# Klimmzuege sind bodyweight, brauchen aber eine Stange; sie werden in
-# Wiederholungen geloggt und koennen Zusatzgewicht tragen. Die
-# unterstuetzte Variante ist keine Eigenschaft dieser Uebung, sondern eine
-# eigene mit `load_mode: assisted` — an der Assistenzmaschine bedeutet die
-# eingegebene Zahl Entlastung statt Last.
+# Chosen example because it illustrates what the legacy schema could not express:
+# Pull-ups are bodyweight, but require a bar; they are logged in
+# repetitions and can take added weight. The assisted variant is not an
+# attribute of this exercise, but a distinct exercise with `load_mode: assisted` —
+# on the assisted pull-up machine, the entered number represents assistance rather than load.
 
-id: "475"                 # wger-Bestands-ID, unveraendert uebernommen
-slug: pull-up             # stabil, menschenlesbar, fuer URLs und Debugging
+id: "475"                 # wger catalog ID, preserved unchanged
+slug: pull-up             # stable, human-readable, for URLs and debugging
 status: active
 
 modality: strength
 mechanic: compound
-movement_pattern: vertical_pull   # force_vector wird daraus abgeleitet
+movement_pattern: vertical_pull   # force_vector is derived from this
 laterality: bilateral
 difficulty: intermediate
 usage_tags: [main_lift, accessory]
 
 tracking_type: bodyweight_reps
-load_mode: bodyweight        # Koerpergewicht bewegt sich; eine Zahl waere Zusatzgewicht
+load_mode: bodyweight        # body weight moves; a number would be added weight
 supports_added_weight: true
 
 primary_equipment: bodyweight
@@ -36,9 +35,9 @@ muscles:
   - { id: rhomboids,        role: secondary }
   - { id: rectus_abdominis, role: secondary }
 
-# Woher kommt welches Feld. Pro Feld, nicht pro Uebung — sonst ist ein
-# spaeteres "alle KI-Muskelzuweisungen von Modell X nochmal pruefen"
-# Archaeologie statt Query.
+# Provenance for each field. Tracked per field, not per exercise — otherwise
+# a later "check all AI muscle assignments from model X" becomes archaeology
+# instead of a simple query.
 provenance:
   id:                { source: wger }
   muscles:           { source: ai, model: <model-id>, at: 2026-09-02, reviewed_by: <handle>, reviewed_at: 2026-09-02 }
@@ -47,8 +46,8 @@ provenance:
   tracking_type:     { source: human, at: 2026-09-02 }
   load_mode:         { source: human, at: 2026-09-03 }
 
-# Lizenz-Provenienz. wger lizenziert pro Eintrag, nicht pauschal — siehe
-# SCHEMA.md §3b. Wird beim Import gesetzt und danach nie mehr angefasst.
+# License provenance. wger licenses per entry, not globally — see
+# SCHEMA.md §3b. Set during import and never touched afterwards.
 upstream:
   source: wger
   source_id: "475"
