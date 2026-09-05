@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '1510'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Neutral Grip Lat Pulldown
 description: Lat pull downs with a neutral grip on the bar.
 upstream:

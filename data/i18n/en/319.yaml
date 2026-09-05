@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '319'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Jogging
 description: Get your shoes on, go outside and start running at a moderate pace.
 upstream:

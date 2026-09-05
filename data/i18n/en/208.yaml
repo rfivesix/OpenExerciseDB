@@ -6,7 +6,7 @@
 # AI generation provenance: GPT-5, 2026-09-03.
 exercise_id: '208'
 language: en
-status: ai_raw
+status: ai_reviewed
 name: Dumbbells on Scott Machine
 upstream:
   license: CC-BY-SA-3.0

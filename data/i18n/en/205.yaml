@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '205'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Dumbbell Lunges Standing
 # Description expanded from exercise attributes (equipment: dumbbell, pattern: lunge, laterality: alternating)
 description: Stand upright holding dumbbells at your sides and perform alternating forward lunges.

@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '237'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Fly With Cable
 description: cable machine, two steps forward, straight back
 upstream:

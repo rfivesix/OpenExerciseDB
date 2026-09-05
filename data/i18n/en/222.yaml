@@ -5,7 +5,7 @@
 # lizenziert pro Eintrag (SCHEMA.md 3b).
 exercise_id: '222'
 language: en
-status: upstream_unreviewed
+status: ai_reviewed
 name: Facepull
 description: |-
   Attach a rope to a pulley station set at about chest level.
