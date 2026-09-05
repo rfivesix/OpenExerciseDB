@@ -45,7 +45,7 @@ upstream:
   source: wger
   source_id: '1429'
   license: CC-BY-SA-4.0
-  license_author: hpmbala@gmail.com
+  license_author: hpmbala
   imported_at: '2026-09-02'
   source_fields:
     category: Shoulders

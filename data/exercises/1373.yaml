@@ -82,7 +82,7 @@ upstream:
   source: wger
   source_id: '1373'
   license: CC-BY-SA-4.0
-  license_author: tekknokrat@gmx.de
+  license_author: tekknokrat
   imported_at: '2026-09-02'
   source_fields:
     category: Cardio

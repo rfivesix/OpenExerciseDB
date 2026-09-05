@@ -74,7 +74,7 @@ upstream:
   source: wger
   source_id: '1519'
   license: CC-BY-SA-4.0
-  license_author: benjamin.yildiz@proton.me
+  license_author: benjamin.yildiz
   imported_at: '2026-09-02'
   source_fields:
     category: Arms

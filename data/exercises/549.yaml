@@ -74,7 +74,7 @@ upstream:
   source: wger
   source_id: '549'
   license: CC-BY-SA-4.0
-  license_author: richmr2174@gmail.com
+  license_author: richmr2174
   imported_at: '2026-09-02'
   source_fields:
     category: Arms

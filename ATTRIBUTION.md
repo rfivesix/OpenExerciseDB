@@ -15,7 +15,9 @@ If you use openexercisedb, credit it like this:
 ## Upstream contributors
 
 The initial dataset was imported from the wger project, whose exercise entries
-carry per-entry licenses and per-entry authors.
+carry per-entry licenses and per-entry authors. Where upstream records listed a
+private email address as author, the address has been normalized to its local
+part to protect contributor privacy while preserving clear attribution.
 
 Everything below this line is generated from the data itself — every record's
 `upstream.license_author` — so that it stays correct as the database changes.
