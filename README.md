@@ -252,22 +252,6 @@ Do not edit `id` or `slug` — see [SCHEMA.md §3](SCHEMA.md) for why.
 
 ## Roadmap
 
-- [x] **Phase 1 — Import.** Upstream data into source files; the generated
-      database is a drop-in replacement for the current one, asserted against
-      the published release in `test/test_compat.py`.
-- [x] **Phase 2 — Classification.** All 868 active exercises carry modality,
-      mechanic, movement pattern, laterality, tracking type, load mode,
-      equipment and muscles. The empty muscle assignments are gone.
-- [x] **Phase 2 — English and German text.** Names standardised, every
-      description read in both languages against the attributes, contradictions
-      between the two resolved or recorded.
-- [x] **Phase 2 — Derived languages.** French, Italian, and Japanese
-      descriptions completed from curated English and German sources.
-- [x] **Phase 3 — Schema v2 in the consuming app.** The new tables, the alias
-      mechanism, and the `schema_version` guard.
-- [x] **Phase 4 — Initial public release.** First release published to
-      `catalog-stable`.
-
 ## License
 
 Data is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), the
