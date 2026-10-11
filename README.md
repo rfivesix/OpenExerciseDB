@@ -233,6 +233,24 @@ Releases carry two independent version numbers: `version` for content and
 `schema_version` for structure. Check `schema_version` before consuming a
 release so a structural change can never break an older client.
 
+## Search the exercise catalog
+
+The configured GitHub Pages [OpenExerciseDB exercise search page](https://rfivesix.github.io/OpenExerciseDB/exercise-search.html)
+is a human-readable, no-JavaScript index. Search names in available languages,
+IDs, muscles, and equipment with the browser’s Find command. The direct
+[machine-readable `exercises.json` catalog](https://rfivesix.github.io/OpenExerciseDB/exercises.json)
+contains localized exercise names and structured classification data. The
+interactive [database explorer](https://rfivesix.github.io/OpenExerciseDB/)
+remains available for browsing the complete SQLite database.
+
+Exercise `id` values in the JSON catalog are copied unchanged from the
+SQLite `exercises.id` column. Train Libre imports that same string as
+`Exercise.uuid`, and its routine importer resolves the routine `uuid` field
+against it. These are stable string identifiers, not necessarily UUID-formatted
+values. See [WEBSITE.md](WEBSITE.md) for catalog contents, local build and
+validation commands, and the Pages deployment workflow. For the routine JSON
+contract and example, see the [Train Libre AI routine guide](https://trainlibre.com/docs/user-guide/ai-workout-routines/).
+
 ## Projects using OpenExerciseDB
 
 - [TrainLibre](https://github.com/rfivesix/train-libre) — an independent

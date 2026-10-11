@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Browse the complete OpenExerciseDB SQLite catalog.">
+    <meta name="description" content="Search OpenExerciseDB exercises and inspect stable IDs, names, muscles, equipment, and training details.">
     <title>OpenExerciseDB Explorer</title>
     <link rel="stylesheet" href="style.css">
   </head>
@@ -18,6 +18,11 @@
     </header>
 
     <main>
+      <section class="notice ai-catalog" aria-labelledby="ai-catalog-heading">
+        <h2 id="ai-catalog-heading">AI-assisted exercise lookup</h2>
+        <p>Search by exercise name in any available language, stable ID, muscle, or equipment. For routines, use only active records and copy the catalog ID exactly into Train Libre’s <code>uuid</code> field.</p>
+        <p><a href="exercise-search.html">Browse the searchable, no-JavaScript exercise index</a> · <a href="exercises.json">Download the machine-readable JSON catalog</a> · <a href="https://trainlibre.com/docs/user-guide/ai-workout-routines/">Read the Train Libre AI routine guide</a></p>
+      </section>
       <section id="loading" class="notice" aria-live="polite">Loading catalog.db…</section>
       <section id="app" hidden>
         <div id="summary" class="summary" aria-label="Database summary"></div>

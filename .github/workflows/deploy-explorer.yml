@@ -9,6 +9,7 @@ on:
       - 'oedb/**'
       - 'build/build_db.py'
       - 'build/build_explorer_site.py'
+      - 'build/build_ai_catalog.py'
       - 'web/**'
       - 'requirements.txt'
       - '.github/workflows/deploy-explorer.yml'
