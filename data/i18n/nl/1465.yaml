@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1465'
+language: nl
+status: ai_authored
+translated_from: en
+name: Spider curl met halters
+description: Stel een verstelbare bank in op ongeveer 45 graden. Ga met je borst tegen de leuning liggen,
+  houd je hoofd boven de bank en zet je voeten stevig op de vloer. Houd in elke hand een halter, met je
+  armen recht omlaag en je handpalmen naar voren. Houd je bovenarmen stil en loodrecht op de vloer terwijl
+  je je ellebogen buigt en de halters naar je schouders curlt. Span bovenaan je biceps 1 tot 2 seconden
+  aan. Laat de halters in 3 tot 4 seconden beheerst zakken tot je armen gestrekt zijn. De borststeun beperkt
+  het meebewegen van je lichaam en richt de spanning op je biceps.
+search_terms:
+- Spider curl
+- Incline curl met borststeun
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2428"

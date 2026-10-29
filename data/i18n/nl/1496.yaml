@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1496'
+language: nl
+status: ai_authored
+translated_from: en
+name: Supinated dumbbell raise voor bovenborst
+search_terms:
+- "Dumbbellvariant voor bovenborst"
+- "Dumbbellheffing voor bovenborst"
+- "Schuine front raise met dumbbells en onderhandse greep"
+description: 'Startpositie:
+
+  Sta rechtop of zit op een licht schuine bank. Houd één dumbbell met onderhandse greep op heuphoogte
+  en buig je elleboog licht. Leun je romp iets naar de werkende arm.
+
+
+  Uitvoering:
+
+  1. Breng de dumbbell schuin over je bovenborst naar hoofdhoogte, met je handpalm omhoog.
+
+  2. Volg de natuurlijke richting van de vezels van de bovenste borstspier.
+
+  3. Span bovenaan je bovenborst en voorste schouder één seconde aan.
+
+  4. Laat de dumbbell langzaam en gecontroleerd zakken.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JohnPreston"
+  source_id: "2458"

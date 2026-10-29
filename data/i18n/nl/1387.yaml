@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1387'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hamstring kicks
+description: Sta met je voeten op heupbreedte en strek één arm voor je uit. Zwaai één been voor je omhoog
+  en weer omlaag. Houd je been zo recht mogelijk en je tenen omhoog gericht. Herhaal dit met het andere
+  been.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2353"

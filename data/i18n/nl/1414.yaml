@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1414'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hack squat op de machine
+description: Ga in de hack-squatmachine staan met je rug en hoofd tegen de rugleuning en je schouders
+  onder de schouderkussens. Zet je voeten op schouderbreedte in het midden of bovenste deel van de voetplaat
+  en ontgrendel de veiligheidsvergrendeling. Buig je knieën en laat de slede beheerst zakken tot je dijen
+  minstens parallel aan de voetplaat zijn, of lager afhankelijk van je mobiliteit. Duw vanuit je middenvoet
+  en hielen terug omhoog zonder je knieën hard op slot te zetten. Houd je onderrug tegen de leuning en
+  je hielen op de voetplaat.
+search_terms:
+- Hack squats
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2383"

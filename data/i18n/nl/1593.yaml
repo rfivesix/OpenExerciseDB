@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1593'
+language: nl
+status: ai_authored
+translated_from: en
+name: Split squat in de Smith-machine
+description: De split squat in de Smith-machine is een krachtoefening op de Smith-machine die geschikt
+  is om benen en bilspieren te trainen. Zet één voet naar voren en de andere naar achteren en laat je
+  lichaam zakken tot je voorste bovenbeen evenwijdig aan de vloer is, terwijl de stang verticaal langs
+  de machine beweegt. De oefening helpt de stabiliteit te verbeteren en spieronevenwichtigheden te corrigeren.
+  De machine vermindert de belasting van de rug en biedt een stabiele omgeving voor krachttraining.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "workout"
+  source_id: "2542"

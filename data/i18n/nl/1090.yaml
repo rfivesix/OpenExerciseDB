@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1090'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pike push-up (V-push-up)
+description: Plaats handen en voeten op schouderbreedte en loop met de voeten naar voren, heupen hoog
+  in een omgekeerde V. Houd benen en rug zo recht als comfortabel is. Buig de ellebogen en laat de kruin
+  diagonaal tussen en iets voor de handen zakken. Beweeg gecontroleerd tot het hoofd de vloer nadert en
+  duw via handpalmen en schouders terug naar de V. Houd de romp aangespannen.
+search_terms:
+- V-push-up
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2042"

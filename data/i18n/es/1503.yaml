@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1503'
+language: es
+status: ai_authored
+translated_from: en
+name: Press rana con mancuernas
+description: Es similar al puente de glúteos, pero junta los pies y elévalos en una posición de rana.
+  Levanta los glúteos del suelo.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JohnPreston"
+  source_id: "2465"

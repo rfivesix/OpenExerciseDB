@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1968'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige dumbbell shoulder press
+description: 'Startpositie:
+
+  Sta met je voeten op schouderbreedte of zit rechtop op een bank. Houd één dumbbell op schouderhoogte,
+  met je elleboog recht onder je pols en je handpalm naar voren of iets naar binnen. Plaats je vrije hand
+  op je heup of houd die opzij voor je evenwicht.
+
+
+  Uitvoering:
+
+  Duw de dumbbell soepel en gecontroleerd boven je hoofd tot je arm gestrekt is, zonder je elleboog op
+  slot te zetten. Span je romp aan zodat je bovenlichaam niet overhelt of draait. Laat de dumbbell volledig
+  gecontroleerd terugzakken tot schouderhoogte. Doe alle herhalingen aan één kant en wissel dan.
+
+
+  Tips:
+
+  De eenzijdige uitvoering activeert je romp voor zijdelingse stabilisatie en helpt krachtverschillen
+  tussen de schouders te corrigeren.'
+search_terms:
+- Eenarmige dumbbell shoulder press
+- Eenarmige dumbbell overhead press
+- Staande eenarmige press
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "evtimovgeorg"
+  source_id: "3123"

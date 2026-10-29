@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1393'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hamstringrek met één been
+description: Ga op de grond zitten met één been recht voor je en het andere naar je toe gebogen. Reik
+  met beide handen naar voren en probeer de tenen van je gestrekte been aan te raken.
+search_terms:
+- Zittende stretch met één been
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2360"

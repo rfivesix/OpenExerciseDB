@@ -1,10 +1,30 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '146'
 language: es
-status: ai_reviewed
-name: Gemelos en prensa
-description: 'Sentado sobre el aparato, la parte alta de los muslos apoyada sobre el asiento, la punta de los pies sobre la
-  calza, los tobillos en flexión pasiva: - Efectuar una extensión de los pies (flexión plantar).'
+status: ai_authored
+translated_from: en
+name: Elevación de talones en prensa de piernas
+description: 'Posición inicial:
+
+  Siéntate en la prensa de piernas y coloca la parte delantera de los pies en el borde inferior de la
+  plataforma, dejando los talones libres por debajo. Desbloquea los topes de seguridad con las rodillas
+  ligeramente flexionadas, no bloqueadas.
+
+
+  Ejecución:
+
+  1. Baja los talones flexionando los tobillos para estirar por completo los gemelos.
+
+  2. Empuja con la parte delantera de los pies y los dedos para alejar la plataforma y llevar los tobillos
+  a una flexión plantar completa.
+
+  3. Contrae los gemelos en el punto máximo durante un segundo y baja lentamente a la posición estirada.
+
+
+  Notas:
+
+  Mantén las rodillas ligeramente desbloqueadas durante toda la serie para centrar la tensión en el gastrocnemio.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2636'
+  license: "CC-BY-SA-4.0"
+  license_author: "nate303303"
+  source_id: "308"

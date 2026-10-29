@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '636'
+language: nl
+status: ai_authored
+translated_from: en
+name: Superman
+description: 'Ga plat op je buik liggen met je benen gestrekt en je armen boven je hoofd op de vloer.
+
+  Til je armen, borst en bovenbenen tegelijk enkele centimeters van de vloer door je onderrug, bilspieren en bovenrug
+  aan te spannen.
+
+  Houd de maximale aanspanning 2–5 seconden vast terwijl je rustig blijft ademen. Laat jezelf daarna langzaam en
+  gecontroleerd zakken.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "baldurmen"
+  source_id: "330"

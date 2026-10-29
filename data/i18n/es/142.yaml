@@ -1,19 +1,31 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '142'
 language: es
-status: ai_reviewed
-name: Rotación externa con polea
-description: |-
-  Posición inicial:
-  Ajusta la polea a la altura del codo. Colócate de lado a la torre de poleas y toma el agarre con la mano más alejada (brazo externo). Flexiona el codo a 90 grados y mantenlo pegado al costado del cuerpo.
+status: ai_authored
+translated_from: en
+name: Rotación externa en polea
+description: 'Posición inicial:
+
+  Ajusta la polea a la altura del codo. Colócate de lado a la torre y sujeta el asa con la mano exterior
+  (la más alejada de la polea). Flexiona el codo a 90 grados y mantenlo junto al costado; puedes colocar
+  una toalla pequeña enrollada entre el codo y el torso.
+
 
   Ejecución:
-  1. Manteniendo el codo fijo contra el torso, rota el antebrazo hacia afuera alejándolo del cuerpo tanto como te sea cómodo.
-  2. Haz una breve pausa en el punto de máxima contracción apretando los músculos del manguito rotador.
-  3. Regresa lentamente a la posición inicial cruzando el abdomen de forma controlada.
+
+  1. Manteniendo el codo pegado al costado, gira el antebrazo hacia fuera, alejándolo del cuerpo, hasta
+  donde te resulte cómodo.
+
+  2. Contrae los músculos del manguito rotador al final del recorrido y haz una pausa de un segundo.
+
+  3. Devuelve lentamente el asa por delante del torso a la posición inicial.
+
 
   Notas:
-  No gires el torso ni compenses con la espalda; el movimiento debe ser una rotación aislada del hombro.
+
+  Mantén el torso quieto, sin girar la columna ni las caderas. La rotación debe proceder únicamente de
+  la articulación del hombro.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3808'
+  license: "CC-BY-SA-3.0"
+  license_author: "lauroernesto"
+  source_id: "265"

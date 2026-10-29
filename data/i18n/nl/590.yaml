@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '590'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende kuitheffingen
+description: Ga op een bankje voor kuitheffingen zitten. Controleer of de helft van je voeten vrij is en of je je
+  kuitspieren volledig omlaag kunt strekken. Hef je hielen zo ver mogelijk. Pauzeer bovenaan 1 of 2 seconden en
+  laat ze zakken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "103"

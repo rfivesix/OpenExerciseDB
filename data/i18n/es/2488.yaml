@@ -1,0 +1,30 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2488'
+language: es
+status: ai_authored
+translated_from: en
+name: Inclinación pélvica posterior
+description: 'Posición inicial:
+
+  Túmbate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo. Deja los brazos relajados
+  a los lados.
+
+
+  Ejecución:
+
+  Contrae el abdomen e inclina la pelvis para presionar la zona lumbar contra el suelo. Mantén brevemente
+  la posición y vuelve de forma controlada a una posición neutra.
+
+
+  Consejos:
+
+  Mueve la pelvis con control sin levantar los pies ni los hombros del suelo.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Raj"
+  source_id: "4965"
+search_terms:
+- Ejercicio de inclinación pélvica / inclinación pélvica supina
+- Inclinación pélvica posterior
+- Ejercicio de inclinación pélvica
+- Inclinación pélvica supina

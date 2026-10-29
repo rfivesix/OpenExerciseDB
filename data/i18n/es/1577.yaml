@@ -1,24 +1,29 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1577'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Estiramiento Bretzel
 description: 'Posición inicial:
 
-  Túmbate de lado sobre una colchoneta. Flexiona la pierna superior 90 grados hacia
-  delante sobre el suelo y sujétala firme con la mano inferior.
+  Túmbate de lado sobre una colchoneta. Flexiona la pierna superior 90 grados hacia delante sobre el suelo
+  y sujétala firme con la mano inferior.
 
 
   Ejecución:
 
   1. Dobla la rodilla inferior hacia atrás y agarra el pie o tobillo con la mano superior.
 
-  2. Al exhalar, gira lentamente los hombros y la parte superior del tronco hacia
-  el suelo, abriendo el pecho.
+  2. Al exhalar, gira lentamente los hombros y la parte superior del tronco hacia el suelo, abriendo el
+  pecho.
 
   3. Mantén la rodilla superior en contacto con el suelo durante todo el estiramiento.
 
   4. Mantén la postura durante 20-30 segundos respirando con calma y cambia de lado.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4089'
+  license: "CC-BY-SA-4.0"
+  license_author: "mountain.potato"
+  source_id: "2525"
+search_terms:
+- Estiramiento Bretzel
+- Bretzel
+translated_from: en

@@ -1,0 +1,11 @@
+exercise_id: '660'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsstrekking met rechte stang aan kabel
+description: Pak de stang vast en sta met je voeten op schouderbreedte. Houd je rug recht en leun iets
+  naar voren. Duw de stang omlaag en houd je ellebogen stil. Keer zonder pauze terug naar de beginpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "90"

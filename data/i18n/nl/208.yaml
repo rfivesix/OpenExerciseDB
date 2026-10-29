@@ -1,0 +1,11 @@
+exercise_id: '208'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurls met dumbbells op de Scott-machine
+description: Ga op een preacherbank zitten met je bovenarmen op het kussen. Houd in elke hand een dumbbell
+  vast, buig je ellebogen om de gewichten omhoog te curlen en laat ze gecontroleerd zakken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "87"

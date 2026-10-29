@@ -1,0 +1,10 @@
+exercise_id: '319'
+language: nl
+status: ai_authored
+translated_from: en
+name: Jogging
+description: Trek je hardloopschoenen aan, ga naar buiten en begin in een gematigd tempo te hardlopen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Papazit"
+  source_id: "423"

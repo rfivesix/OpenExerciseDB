@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2501'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo invertido bajo mesa
+description: 'Posición inicial:
+
+  Túmbate boca arriba bajo una mesa pesada y firme. Agarra el borde de la mesa con una presa pronada o
+  neutra, algo más amplia que los hombros. Apoya los talones en el suelo y activa el abdomen y los glúteos
+  para mantener una plancha horizontal rígida.
+
+
+  Ejecución:
+
+  1. Tira del pecho hacia la parte inferior de la mesa llevando los codos hacia atrás.
+
+  2. Junta con fuerza los omóplatos arriba y haz una pausa de 1 segundo.
+
+  3. Baja de nuevo con control hasta extender los brazos.
+
+
+  Consejos:
+
+  Comprueba que la mesa sea completamente estable antes de empezar. Si hace falta, flexiona las rodillas
+  y apoya los pies para reducir la resistencia.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4982"
+search_terms:
+- Remo invertido con peso corporal bajo mesa (Vasco L1)
+- Remo invertido bajo mesa
+- Remo invertido en mesa
+- Remo con peso corporal bajo mesa

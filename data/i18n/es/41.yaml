@@ -1,14 +1,18 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '41'
 language: es
-status: ai_reviewed
-name: Rollout Abdominal con Barra
-description: |-
-  Cómo realizarlo:
+status: ai_authored
+translated_from: en
+name: Rueda abdominal con barra
+description: 'Arrodíllate sobre una esterilla y coloca una barra en el suelo delante de ti.
 
-  Preparación: Carga una barra con discos redondos (de 5 o 10 kg es suficiente para que ruede bien). Arrodíllate en el suelo, preferiblemente sobre una colchoneta. Agarra la barra con las palmas hacia abajo (agarre prono) y las manos separadas al ancho de los hombros.
-  El Despliegue (Rollout): Manteniendo el abdomen y los glúteos fuertemente contraídos, rueda la barra hacia adelante de manera lenta y controlada. Extiende tu cuerpo en una línea lo más recta posible, llegando tan lejos como puedas sin que tu espalda baja se arquee.
-  El Regreso: Haz una breve pausa en el punto de máxima extensión. Luego, usa la fuerza de tus abdominales para jalar la barra hacia ti, revirtiendo el movimiento hasta volver a la posición inicial de forma controlada.
+  Sujeta la barra con las manos separadas al ancho de los hombros y con agarre prono.
+
+  Con un movimiento lento y controlado, haz rodar la barra hacia delante hasta extender el cuerpo y mantener
+  la espalda recta.
+
+  Tira de la barra hacia ti usando los músculos abdominales para volver a la posición inicial.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2568'
+  license: "CC-BY-SA-4.0"
+  license_author: "sevae"
+  source_id: "343"

@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1283'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roeien met dumbbells op een schuine, borstondersteunde bank
+description: 'Zet een verstelbare bank in een hoek van 45 graden. Ga met je buik op de bank liggen, met
+  je hoofd net voorbij de rand. Pak in elke hand een dumbbell en neem een goede houding aan: span je romp
+  en lats aan en houd je schouders neutraal. Roei de dumbbells naar de bovenkant van je buik en span je
+  rug bovenaan de herhaling aan. Laat de dumbbells ten slotte terugzakken naar de beginpositie en herhaal
+  tot je alle herhalingen hebt voltooid.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "carlos3c"
+  source_id: "2250"

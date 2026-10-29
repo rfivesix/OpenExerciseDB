@@ -1,0 +1,12 @@
+exercise_id: '323'
+language: nl
+status: ai_authored
+translated_from: en
+name: Cable cross-over
+description: Zet de kabels ongeveer op schouderhoogte en houd er een in elke hand. Stap met één voet voor
+  de andere naar voren voor stabiliteit en om de kabels op spanning te brengen. Breng je handen voor je
+  samen en probeer ze een paar centimeter te laten overlappen, zodat de kabels elkaar kruisen.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "207"

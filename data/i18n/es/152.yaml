@@ -1,13 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '152'
 language: es
-status: ai_reviewed
-name: Dominadas con Agarre Supino
-description: |-
-  Esta es una variante de la dominada que se caracteriza por el tipo de agarre, lo cual involucra de forma muy activa a los bíceps junto con los músculos de la espalda (dorsales). A menudo resulta más accesible que la dominada con agarre prono (pull-up).
-  Instrucciones:
-  Sujeta la barra con las palmas de las manos mirando hacia ti (agarre supino), con una separación similar al ancho de tus hombros.
-  Desde una posición colgado con los brazos extendidos, jala tu cuerpo hacia arriba hasta que tu mentón o barbilla sobrepase la barra. Baja de forma controlada hasta la extensión completa para terminar la repetición.
+status: ai_authored
+translated_from: en
+name: Dominada supina
+description: La chin-up (también llamada chin o chinup) es un ejercicio de fuerza. Se suele realizar para
+  fortalecer músculos como el dorsal ancho y el bíceps, que extiende el hombro y flexiona el codo, respectivamente.
+  En este movimiento, las palmas miran hacia el cuerpo. Es una variante de la dominada en la que el recorrido
+  se define con respecto a la barbilla.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2708'
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "803"

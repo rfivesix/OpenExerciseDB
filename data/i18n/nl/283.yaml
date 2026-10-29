@@ -1,0 +1,12 @@
+exercise_id: '283'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hanging leg raise
+description: Hang aan een optrekstang met een bovenhandse greep en gestrekte armen. Span je romp aan en
+  til je benen op tot ze evenwijdig aan de vloer zijn of hoger; je knieën kunnen gestrekt of licht gebogen
+  zijn. Laat je benen daarna langzaam en gecontroleerd zakken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "robhoyt"
+  source_id: "166"

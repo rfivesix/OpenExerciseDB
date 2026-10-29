@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1408'
+language: nl
+status: ai_authored
+translated_from: en
+name: Muurzit
+description: De muurzit is een isometrische oefening waarbij vooral de beenspieren betrokken zijn; de
+  oefening traint het spieruithoudingsvermogen en de stabiliteit.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2372"

@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1086'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-ups met smalle greep
+description: Neem een hoge plank aan met de handen dicht bij elkaar direct onder de borst, smaller dan
+  schouderbreedte. Houd het lichaam recht van hoofd tot hielen. Buig de ellebogen gecontroleerd en houd
+  ze dicht langs de ribben; zak tot de borst bijna de handen raakt. Duw via de handpalmen terug naar de
+  plank en strek de armen. Houd de romp aangespannen en laat de heupen niet doorzakken.
+search_terms:
+- Push-ups met smalle greep
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2036"

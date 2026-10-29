@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1589'
+language: nl
+status: ai_authored
+translated_from: en
+name: Rek voor benen en heupen
+description: Rustige bewegingen om de flexibiliteit van het onderlichaam te verbeteren en spanning in
+  de heupen los te laten.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrAlfaRobot"
+  source_id: "2538"

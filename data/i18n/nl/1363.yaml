@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1363'
+language: nl
+status: ai_authored
+translated_from: en
+name: Foamrollen (Blackroll)
+description: 'Beginpositie:
+
+  Leg de foamroller op een trainingsmat en plaats de gewenste spiergroep (zoals quadriceps, hamstrings,
+  bilspieren, bovenrug of kuiten) op de roller. Gebruik je handen en voeten om je lichaamsgewicht en de
+  druk te regelen.
+
+
+  Beweging:
+
+  Rol langzaam en doelgericht heen en weer over het spierweefsel. Wanneer je een gevoelig punt bereikt,
+  blijf daar dan 20–30 seconden liggen en adem diep totdat de spanning afneemt.
+
+
+  Opmerkingen:
+
+  Rol niet rechtstreeks over botten, gewrichten of je onderrug (lendenwervelkolom). Houd de beweging gecontroleerd
+  en gebruik geen momentum.'
+search_terms:
+- Foamrollen (Blackroll)
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2330"

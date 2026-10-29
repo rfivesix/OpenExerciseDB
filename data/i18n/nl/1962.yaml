@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1962'
+language: nl
+status: ai_authored
+translated_from: en
+name: Step Jack (low-impact jumping jack)
+description: 'Startpositie:
+
+  Sta rechtop met je voeten bij elkaar en je armen langs je lichaam. Span je romp licht aan.
+
+
+  Uitvoering:
+
+  Stap met je rechtervoet opzij terwijl je beide armen in een wijde boog naar buiten en boven je hoofd
+  zwaait. Stap terug naar het midden en laat je armen zakken. Herhaal meteen met de linkervoet en wissel
+  in een vlot, ritmisch tempo af.
+
+
+  Tips:
+
+  Deze step jack geeft cardiovasculaire training zonder de gewrichtsbelasting van springen met hoge impact
+  en is geschikt als warming-up of voor een training met weinig impact.'
+search_terms:
+- Step jack
+- Jumping jack met lage impact
+- Step jack
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anon#2"
+  source_id: "3117"

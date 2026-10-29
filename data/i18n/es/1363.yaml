@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1363'
+language: es
+status: ai_authored
+translated_from: en
+name: Rodillo de espuma (Blackroll)
+description: 'Beginpositie:
+
+  Coloca el rodillo de espuma sobre una esterilla y apoya sobre él el grupo muscular que quieras trabajar
+  (como cuádriceps, isquiotibiales, glúteos, espalda alta o pantorrillas). Usa las manos y los pies para
+  regular el peso corporal y la presión.
+
+
+  Beweging:
+
+  Desplázate lenta y deliberadamente hacia delante y atrás sobre el tejido muscular. Al llegar a un punto
+  sensible, detente allí entre 20 y 30 segundos y respira profundamente hasta que disminuya la tensión.
+
+
+  Opmerkingen:
+
+  No pases el rodillo directamente sobre huesos, articulaciones ni la zona lumbar. Mantén el movimiento
+  controlado, sin impulso.'
+search_terms:
+- Blackroll
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2330"

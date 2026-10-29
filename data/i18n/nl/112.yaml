@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '112'
+language: nl
+status: ai_authored
+translated_from: en
+name: Opdrukken vanuit onderarmplank
+description: 'Neem op de vloer een plankpositie aan. Steun op je tenen en onderarmen en houd je romp recht.
+  Plaats je onderarmen op schouderbreedte. Dit is de beginpositie.
+
+  Duw je handpalmen stevig in de vloer en strek je ellebogen om je lichaam van de vloer te tillen. Houd
+  je romp tijdens de beweging stevig.
+
+  Laat je onderarmen langzaam weer naar de vloer zakken door je ellebogen te buigen.
+
+  Herhaal indien nodig.'
+search_terms:
+- Opdrukken vanuit onderarmplank
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cal.zabel"
+  source_id: "341"

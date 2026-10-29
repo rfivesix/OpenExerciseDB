@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1872'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de paloma
+description: 'Posición inicial: Empieza en plancha o cuadrupedia. Desliza una rodilla hacia delante, detrás
+  de la muñeca, con la espinilla en diagonal sobre la esterilla. Extiende la otra pierna hacia atrás con
+  el empeine apoyado.
+
+
+  Ejecución: Orienta las caderas hacia el suelo y baja la pelvis. Puedes mantenerte erguido con las manos
+  en la esterilla o inclinarte sobre los antebrazos para profundizar el estiramiento en el glúteo y la
+  cadera externa de la pierna delantera.
+
+
+  Consejos: Mantén las caderas niveladas, sin inclinarte demasiado hacia un lado. Sostén 30 segundos respirando
+  profundamente y cambia de lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3014"

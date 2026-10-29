@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '124'
+language: nl
+status: ai_authored
+translated_from: en
+name: Squat met voorwaarts gehouden gewicht
+description: 'Sta zo recht mogelijk met je voeten iets wijder dan schouderbreedte.
+
+  Houd een gewichtsschijf met gestrekte armen voor je lichaam. Span je romp aan en behoud de natuurlijke
+  kromming van je rug.
+
+  Duw je heupen naar achteren en buig je knieën om zo diep mogelijk in een squat te zakken. Houd de positie
+  even vast en kom terug naar de beginpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sevae"
+  source_id: "342"

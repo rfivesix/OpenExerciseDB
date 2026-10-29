@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1472'
+language: es
+status: ai_authored
+translated_from: en
+name: Encogimiento hacia dentro en poleas
+description: 'Posición inicial:
+
+  Fija dos agarres individuales en las poleas bajas de una estación doble. Colócate entre las torres,
+  con los pies a la anchura de los hombros, y sujeta los agarres con los brazos rectos a los lados.
+
+
+  Ejecución:
+
+  1. Sin doblar los brazos, eleva los hombros y llévalos ligeramente hacia dentro, en dirección a las
+  orejas.
+
+  2. Mantén la contracción de la parte superior del trapecio durante un segundo.
+
+  3. Baja los hombros despacio hasta estirarlos por completo.
+
+
+  Indicaciones:
+
+  Mantén los codos extendidos durante el movimiento.'
+search_terms:
+- Encogimiento en poleas hacia dentro
+- encogimiento diagonal en poleas
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2435"

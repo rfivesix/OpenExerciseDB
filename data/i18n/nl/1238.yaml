@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1238'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kikkerstand
+search_terms:
+- "Kikkerstand"
+- "Voorbereiding op de kraaihouding"
+description: 'Startpositie:
+
+  • Hurk met je voeten dicht bij elkaar en zet je handen op schouderbreedte plat op de vloer met gespreide
+  vingers.
+
+  • Plaats je knieën tegen de buitenkant van je ellebogen of op de achterkant van je bovenarmen.
+
+
+  Uitvoering:
+
+  • Verplaats je lichaamsgewicht langzaam naar voren op je handen.
+
+  • Til je voeten één voor één van de vloer tot je met gebogen ellebogen alleen op je handen balanceert.
+
+  • Span je romp aan, duw via je vingertoppen stevig in de vloer en kijk iets naar voren om je evenwicht
+  te bewaren.
+
+  • Houd de positie de voorgeschreven tijd vast, bijvoorbeeld 10 tot 30 seconden, en zet je voeten daarna
+  voorzichtig neer.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2200"

@@ -1,13 +1,20 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '76'
 language: es
-status: ai_reviewed
-name: Press de Banca con Agarre Cerrado
-description: |-
-  Esta variante del press de banca pone un mayor énfasis en los tríceps y la parte interna del pecho. La posición inicial en el banco es la misma que en un press normal, pero con estas diferencias clave:
+status: ai_authored
+translated_from: en
+name: Press de banca con agarre estrecho
+description: 'Preparación: Túmbate en el banco y sujeta la barra al ancho de los hombros, más estrecho
+  que en el press de banca habitual.
 
-  Agarre: Sujeta la barra con un agarre cerrado, aproximadamente al ancho de los hombros (unos 20-30 cm de separación entre las manos).
-  Movimiento: Baja la barra de forma controlada hacia la parte baja de tu pecho o el esternón (más abajo que en el press convencional), manteniendo los codos cerca de tu cuerpo. Desde ahí, empuja con fuerza hacia arriba hasta extender los brazos, enfocándote en la contracción de los tríceps.
+  Descenso: Baja la barra con control hacia la parte inferior del pecho.
+
+  Técnica: Mantén los codos pegados al torso; no dejes que se abran hacia los lados.
+
+  Subida: Empuja la barra hacia arriba en línea recta y contrae los tríceps arriba.'
+search_terms:
+- Press de banca con agarre cerrado
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2671'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "88"

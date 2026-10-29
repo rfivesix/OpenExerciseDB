@@ -1,7 +1,8 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1965'
 language: es
-status: ai_reviewed
-name: Elevaciones de rodilla de pie
+status: ai_authored
+name: Elevación de rodilla de pie
 description: 'Posición inicial:
 
   Ponte de pie erguido con los pies a la anchura de las caderas y el abdomen activado.
@@ -9,17 +10,24 @@ description: 'Posición inicial:
 
   Ejecución:
 
-  Eleva una rodilla hacia el pecho hasta que el muslo quede como mínimo paralelo al suelo, manteniendo el equilibrio sobre la pierna de apoyo. Baja el pie con control e inmediatamente eleva la rodilla contraria, alternando los lados de manera rítmica.
+  Eleva una rodilla hacia el pecho hasta que el muslo quede como mínimo paralelo al suelo, manteniendo
+  el equilibrio sobre la pierna de apoyo. Baja el pie con control e inmediatamente eleva la rodilla contraria,
+  alternando los lados de manera rítmica.
 
 
   Consejos:
 
-  No te eches hacia atrás al levantar la pierna; conserva la verticalidad del tronco trabajando desde los flexores de cadera y el core.'
+  No te eches hacia atrás al levantar la pierna; conserva la verticalidad del tronco trabajando desde
+  los flexores de cadera y el core.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3563'
+  license: "CC-BY-SA-4.0"
+  license_author: "Anon#2"
+  source_id: "3120"
 search_terms:
 - Marcha con rodillas altas
+- Impulsos de rodilla de pie
+- Marcha con rodillas elevadas
 - Elevación de rodilla de pie
-- Standing Knee Raise
+- Marcha en el sitio
+- Rodillas altas de pie
+translated_from: en

@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1198'
+language: nl
+status: ai_authored
+translated_from: en
+name: Omgekeerde roeibeweging
+description: 'Startpositie:
+
+  • Plaats een halterstang in een rek op heuphoogte, of gebruik een Smith-machine of suspensiontrainer.
+
+  • Ga op je rug onder de stang liggen en pak deze bovenhands iets breder dan schouderbreedte vast.
+
+  • Strek je benen met je hielen op de grond en houd je lichaam recht van hoofd tot hielen.
+
+
+  Uitvoering:
+
+  • Trek je borst naar de stang door je ellebogen naar achteren te bewegen en je schouderbladen naar elkaar
+  toe te trekken.
+
+  • Span je bilspieren en romp aan zodat je heupen niet doorzakken.
+
+  • Laat jezelf langzaam en gecontroleerd zakken tot je armen volledig gestrekt zijn.'
+search_terms:
+- "Horizontale pull-ups"
+- "Roeien met lichaamsgewicht"
+- "Australische pull-up"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Gavru"
+  source_id: "2156"

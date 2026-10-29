@@ -1,0 +1,12 @@
+exercise_id: '364'
+language: nl
+status: ai_authored
+translated_from: en
+name: Leg curl
+description: De leg curl, ook wel hamstringcurl genoemd, is een isolatieoefening voor de hamstrings. Je
+  buigt het onderbeen tegen weerstand richting de billen. Andere oefeningen om de hamstrings te versterken
+  zijn de glute-ham raise en de deadlift.
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "792"

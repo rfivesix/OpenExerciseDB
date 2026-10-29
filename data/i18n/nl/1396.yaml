@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1396'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande pancake
+description: Ga staan en spreid je benen zo ver mogelijk. Buig vanuit je heupen, duw ze naar achteren
+  en houd je rug recht.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2363"

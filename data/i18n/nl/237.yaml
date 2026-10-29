@@ -1,0 +1,10 @@
+exercise_id: '237'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kabel fly
+description: Kabelmachine; zet twee stappen naar voren en houd je rug recht.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "122"

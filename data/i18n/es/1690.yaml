@@ -1,25 +1,36 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1690'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Aperturas en polea para el pecho superior
-description: |-
-  Ejecución
-  
+description: 'Ejecución
+
+
   Posición inicial:
-  
+
+
   Los brazos abajo y ligeramente detrás del cuerpo, los codos ligeramente flexionados.
+
   Siente un ligero estiramiento en el pecho.
-  
+
+
   Movimiento:
-  
-  Lleva las manos hacia arriba y hacia el centro delante del pecho superior — aproximadamente a la altura del mentón a la clavícula.
+
+
+  Lleva las manos hacia arriba y hacia el centro delante del pecho superior — aproximadamente a la altura
+  del mentón a la clavícula.
+
   Usa un movimiento suave y controlado (evita los tirones).
+
   Contrae el pecho arriba durante 1–2 segundos.
-  
+
+
   Vuelta:
-  
-  Deja que los brazos bajen lentamente de nuevo hacia los lados, manteniendo el control y la tensión.
+
+
+  Deja que los brazos bajen lentamente de nuevo hacia los lados, manteniendo el control y la tensión.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4018'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2809"
+translated_from: en

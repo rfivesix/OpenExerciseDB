@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '566'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderdrukken met halterstang
+description: Ga op een bank zitten waarvan de rugleuning bijna verticaal staat. Pak een halterstang op schouderbreedte
+  vast en breng hem naar borsthoogte. Duw het gewicht omhoog, maar strek je armen niet volledig. Laat de stang langzaam
+  zakken en herhaal.
+search_terms:
+- OHP met halterstang
+- Overhead press met halterstang
+- Military press met halterstang
+- Schouderdrukken met halterstang
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "119"

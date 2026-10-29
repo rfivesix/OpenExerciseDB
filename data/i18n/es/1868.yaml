@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1868'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de zancada con rotación
+description: 'Posición inicial: Da un paso hacia delante en una zancada, con el pie delantero apoyado
+  y la rodilla trasera sobre la esterilla o justo por encima del suelo.
+
+
+  Ejecución: Mantén el torso erguido y extiende los brazos al frente o junta las manos ante el pecho.
+  Gira lentamente el torso hacia el lado de la pierna delantera.
+
+
+  Consejos: Mantén la rodilla delantera alineada con los dedos del pie. Sostén unos segundos o haz 5–8
+  rotaciones controladas por lado antes de cambiar de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3010"

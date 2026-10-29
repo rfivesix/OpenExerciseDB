@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '50'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsstrekking met halterstang
+description: 'Houd een halterstang boven je hoofd vast met een smalle bovenhandse greep.
+
+  Laat je onderarmen achter je bovenarmen zakken terwijl je ellebogen omhoog blijven. Strek je onderarmen
+  boven je hoofd. Laat zakken en herhaal.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sevae"
+  source_id: "344"

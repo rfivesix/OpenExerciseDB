@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '76'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bankdrukken met smalle greep
+description: 'Opstelling: Ga op de bank liggen en pak de stang op schouderbreedte vast, smaller dan bij
+  een gewone bankdruk.
+
+  Zakken: Laat de stang gecontroleerd naar het onderste deel van je borst zakken.
+
+  Techniek: Houd je ellebogen dicht tegen je romp; laat ze niet naar buiten wijzen.
+
+  Drukken: Duw de stang recht omhoog en span bovenaan je triceps aan.'
+search_terms:
+- Bankdrukken met gesloten greep
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "88"

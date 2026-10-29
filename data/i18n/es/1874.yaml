@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1874'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de zancada del corredor
+description: 'Posición inicial: Da un paso profundo hacia delante en una zancada y coloca ambas manos
+  planas en el suelo, a los lados o por dentro del pie delantero.
+
+
+  Ejecución: Empuja con la base del pie trasero y extiende la pierna de atrás, dejando que las caderas
+  bajen. Mantén la rodilla delantera justo encima del tobillo.
+
+
+  Consejos: Mantén el pecho elevado y la columna larga, sin redondearte. Nota el estiramiento en el flexor
+  de la cadera trasera y la parte delantera del muslo. Mantén 20–30 segundos y cambia de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3016"

@@ -1,13 +1,18 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '92'
 language: es
-status: ai_reviewed
-name: Curl de bíceps con mancuerna
-description: Sujeta dos pesas, los brazos estirados, las manos a los lados, las palmas hacia dentro. Flexiona los brazos y
-  sube el peso con un movimiento rápido. Al mismo tiempo, gira los brazos 90 grados al principio del movimiento. En el punto
-  más alto, gira un poco las pesas hacia fuera. Sin pausa, bájalas lentamente.No permitas que tu cuerpo se balancee durante
-  el ejercicio, todo el trabajo lo realizan los bíceps, que son los únicos músculos que deben moverse (presta atención a los
-  codos).
+status: ai_authored
+translated_from: en
+name: Curl de bíceps con mancuernas
+description: 'Sujeta dos mancuernas con los brazos extendidos a los lados y las palmas hacia dentro. Flexiona
+  los brazos y sube las pesas con un movimiento rápido. Al iniciar el movimiento, gira los brazos 90 grados.
+  En el punto más alto, gira las pesas un poco más hacia fuera. Sin pausa, bájalas lentamente.
+
+  No balancees el cuerpo durante el ejercicio: el trabajo lo hacen los bíceps y solo deben moverse los
+  brazos (presta atención a los codos).'
+search_terms:
+- Curl de bíceps con mancuernas
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '2051'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "81"

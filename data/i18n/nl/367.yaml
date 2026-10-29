@@ -1,0 +1,11 @@
+exercise_id: '367'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande leg curl
+description: Voer de beweging met één been tegelijk uit in de staande legcurlmachine. Plaats je onderbeen
+  achter het kussen, buig je knie tot ongeveer een rechte hoek en laat het gewicht gecontroleerd zakken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "118"

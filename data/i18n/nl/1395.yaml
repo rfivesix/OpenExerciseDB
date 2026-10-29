@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1395'
+language: nl
+status: ai_authored
+translated_from: en
+name: Been zwaaien voor het lichaam langs
+description: Houd een muur of steunpunt vast. Zwaai één been voor je lichaam langs en daarna naar achteren
+  en opzij. Herhaal en vergroot de bewegingsuitslag geleidelijk.
+search_terms:
+- Zijwaartse beenzwaaien
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2362"

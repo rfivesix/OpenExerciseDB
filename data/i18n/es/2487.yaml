@@ -1,0 +1,28 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2487'
+language: es
+status: ai_authored
+translated_from: en
+name: Natación de vuelta a la calma
+description: 'Posición inicial:
+
+  Impúlsate desde la pared de la piscina con el cuerpo alineado y extendido.
+
+
+  Ejecución:
+
+  Nada a crol con calma y sin esfuerzo durante el tiempo o la distancia indicados. Mantén las brazadas
+  fluidas y la respiración regular.
+
+
+  Consejos:
+
+  Mantén baja la intensidad para que la natación sirva como recuperación después de una sesión más exigente.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4964"
+search_terms:
+- Natación de vuelta a la calma
+- Natación de recuperación
+- Natación de recuperación activa

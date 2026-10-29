@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '583'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-ups van links naar rechts
+description: 'Startpositie: Begin in een hoge plank- of push-uphouding, met je handen iets breder dan schouderbreedte
+  en je lichaam in een rechte lijn.
+
+  Uitvoering: Laat je borst naar één hand zakken door je ellebogen te buigen en het grootste deel van je lichaamsgewicht
+  naar die kant te verplaatsen.
+
+  Terugkeer: Duw krachtig terug naar de startpositie en verplaats je bij de volgende herhaling naar de andere kant.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "nate303303"
+  source_id: "302"

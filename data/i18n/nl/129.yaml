@@ -1,0 +1,25 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '129'
+language: nl
+status: ai_authored
+translated_from: en
+name: Chest press
+description: 'Stel de zithoogte zo in dat de handgrepen op borsthoogte staan.
+
+  Duw het voetpedaal met je benen naar voren.
+
+  Breng de handgrepen naar de beginpositie.
+
+  Houd je rug tegen de rugleuning en duw naar voren.
+
+  Duw de handgrepen van je borst weg terwijl je uitademt.
+
+  Laat ze rustig terugkomen tot ze je borst bereiken.
+
+  Laat de handgrepen naar je borst terugkeren terwijl je inademt.'
+search_terms:
+- Chest press op de machine
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1064"

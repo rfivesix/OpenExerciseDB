@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '629'
+language: nl
+status: ai_authored
+translated_from: en
+name: Straight-arm pulldown met touw
+description: Gebruik het touw aan een hoge kabel. Pak de uiteinden van het touw vast met je armen recht voor je
+  uit. Trek je handen naar je heupen terwijl je armen gestrekt blijven en breng ze daarna terug naar de startpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "215"

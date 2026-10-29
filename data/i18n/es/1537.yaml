@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1537'
+language: es
+status: ai_authored
+translated_from: en
+name: Sujeción isométrica en dominada
+description: 'Posición inicial:
+
+  Agarra una barra de dominadas en pronación, con las manos algo más separadas que los hombros. Súbete
+  hasta la posición que quieras mantener, por ejemplo con la barbilla sobre la barra o con los codos flexionados
+  a 90 grados.
+
+
+  Ejecución:
+
+  1. Mantén el cuerpo completamente inmóvil en ese ángulo articular.
+
+  2. Retrae y baja las escápulas, manteniendo una contracción estática máxima de los dorsales, la parte
+  alta de la espalda y los bíceps.
+
+  3. Mantén la posición durante el tiempo indicado (por ejemplo, de 10 a 30 segundos) y luego baja de
+  forma controlada.
+
+
+  Indicaciones:
+
+  Desarrolla fuerza isométrica de tracción, refuerza la estabilidad escapular y ayuda a superar los puntos
+  difíciles de la dominada.'
+search_terms:
+- Sujeción isométrica en dominada
+- Dominada isométrica
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "DiscoCop"
+  source_id: "2492"

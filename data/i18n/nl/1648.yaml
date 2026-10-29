@@ -1,0 +1,18 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1648'
+language: nl
+status: ai_authored
+translated_from: en
+name: Crunch met gewichtsschijf
+description: 'De crunch met gewichtsschijf is een variant op de klassieke crunch, waarbij je een gewichtsschijf
+  vasthoudt om de buikspieroefening zwaarder te maken.
+
+
+  Ga op je rug op een mat liggen met gebogen knieën en je voeten plat op de vloer. Houd een gewichtsschijf
+  stevig tegen je borst of met gestrekte armen boven je. Til je schouders en bovenrug van de vloer door
+  je wervelkolom te buigen en je buikspieren aan te spannen. Laat jezelf langzaam terugzakken naar de
+  beginpositie en herhaal.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2759"

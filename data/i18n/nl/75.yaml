@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '75'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bankdrukken met dumbbells
+description: 'Opstelling en beginpositie: Ga op het uiteinde van een vlakke bank zitten met op elke dij
+  een dumbbell rechtop. Leun voorzichtig achterover en breng de dumbbells met hulp van je knieën naar
+  je borst.
+
+
+  Beeninzet en houding: Zet je voeten stevig op de vloer. Trek je schouderbladen naar elkaar toe tegen
+  de bank en behoud de natuurlijke holling van je onderrug.
+
+
+  Beginpositie: Duw de dumbbells omhoog. Houd je polsen boven je ellebogen. Draai de dumbbells iets naar
+  binnen (ongeveer 45 graden), zodat je ellebogen niet te ver zijwaarts uitwaaieren.
+
+
+  Excentrische fase (zakken): Laat de dumbbells beheerst naar de zijkanten van je borst zakken. Je ellebogen
+  zakken in een hoek van ongeveer 45–60 graden ten opzichte van je lichaam. Voel de rek in het onderste
+  deel van je borst.
+
+
+  Concentrische fase (drukken): Duw het gewicht in een lichte boog naar het midden omhoog, zonder de dumbbells
+  bovenaan tegen elkaar te laten botsen of je ellebogen volledig op slot te zetten; zo blijft er spierspanning.
+  Adem uit terwijl je duwt.'
+search_terms:
+- Dumbbell bench press
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "97"

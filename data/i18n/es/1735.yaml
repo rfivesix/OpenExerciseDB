@@ -1,16 +1,15 @@
 exercise_id: '1735'
 language: es
-status: ai_reviewed
-name: Prensa lateral para glúteos a una pierna
-description: |-
-  Colócate en la máquina de prensa de piernas, pero en lugar de sentarte de frente, siéntate de lado para que la pierna que vas a trabajar quede alineada con la plataforma móvil. Asegura tu espalda contra el respaldo y agárrate bien de las asas para mantener la estabilidad
-  Coloca el pie de la pierna de trabajo en la plataforma, asegurándote de que el talón quede bien apoyado y que la pierna esté casi completamente extendida, pero sin bloquear la rodilla. Desbloquea la seguridad de la máquina. Baja la plataforma lentamente y con control, doblando la rodilla y la cadera. El objetivo es llevar el talón lo más cerca posible de tu glúteo sin que la zona lumbar se despegue del respaldo. Es crucial mantener la espalda recta y no encorvarse.
-  Empuja la plataforma hacia arriba usando principalmente la fuerza del glúteo y el cuádriceps, volviendo a la posición inicial (pierna casi extendida). Concéntrate en la contracción muscular en la parte superior del movimiento
-  Evita rebotar o usar el impulso
-  Comienza con un peso ligero para dominar la técnica y evitar lesiones, especialmente en la espalda baja o las rodillas.
-search_terms:
-  - Gluteo en prensa de lado con una pierna
+status: ai_authored
+translated_from: en
+name: Prensa lateral de glúteo a una pierna
+description: 'Variación de prensa de piernas: siéntate de lado en la máquina, coloca un pie alto en la
+  plataforma y oriéntalo ligeramente hacia fuera o delante. Mantén alineados cadera, rodilla y tobillo,
+  y la zona lumbar apoyada. Baja el peso despacio, flexionando la rodilla y notando el estiramiento en
+  glúteos e isquiotibiales. Empuja con el talón para volver, contrayendo glúteos e isquiotibiales y sin
+  bloquear del todo la pierna. Evita rebotar o despegar la zona lumbar del respaldo; mantén la tensión
+  y el control.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Tierrasverdes
-  source_id: '2864'
+  license: "CC-BY-SA-4.0"
+  license_author: "Tierrasverdes"
+  source_id: "2863"

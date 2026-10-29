@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1642'
+language: nl
+status: ai_authored
+translated_from: en
+name: Heupstoot met dumbbell
+description: Ga op de grond zitten met een dumbbell op je heupen. Duw je heupen omhoog en span je bilspieren
+  aan. Deze oefening versterkt de bilspieren en verbetert de beweeglijkheid van de heupen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2751"

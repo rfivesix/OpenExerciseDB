@@ -1,0 +1,36 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2497'
+language: es
+status: ai_authored
+translated_from: en
+name: Press de suelo a un brazo con mancuerna
+description: 'Posición inicial:
+
+  Túmbate boca arriba en el suelo o sobre una esterilla, con las rodillas flexionadas y los pies apoyados.
+  Sostén una mancuerna con el brazo extendido sobre el pecho y deja el otro brazo en el suelo para estabilizarte
+  lateralmente.
+
+
+  Ejecución:
+
+  1. Baja la mancuerna despacio, con el codo a unos 45–60 grados del torso, hasta que el tríceps toque
+  suavemente el suelo.
+
+  2. Haz una breve pausa sin apoyar por completo el peso.
+
+  3. Contrae el pecho y los tríceps para empujar la mancuerna recta hacia arriba hasta extender el brazo.
+
+  4. Completa las repeticiones y cambia de mano.
+
+
+  Consejos:
+
+  Afirma el abdomen para evitar que el torso rote; el suelo limita de forma natural la extensión excesiva
+  del hombro.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4979"
+search_terms:
+- Press de suelo con mancuerna (5 kg, un brazo)
+- Press de suelo a un brazo
+- Press de suelo con una mancuerna

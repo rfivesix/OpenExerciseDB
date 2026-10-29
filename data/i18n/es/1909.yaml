@@ -1,24 +1,26 @@
 exercise_id: '1909'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Círculos con las piernas en el suelo
 description: 'Posición inicial:
 
-  Túmbate boca arriba sobre una esterilla y eleva las piernas a la vertical (90 grados) manteniendo las rodillas juntas y las manos apoyadas en el suelo a los lados de la cadera.
+  Túmbate boca arriba sobre una esterilla y eleva las piernas a la vertical (90 grados) manteniendo las
+  rodillas juntas y las manos apoyadas en el suelo a los lados de la cadera.
 
 
   Ejecución:
 
-  Comienza a dibujar pequeños círculos controlados en el aire con ambas piernas juntas en un sentido, con un rango de movimiento reducido y concentración total en el abdomen. Completa las repeticiones y cambia de sentido.
+  Comienza a dibujar pequeños círculos controlados en el aire con ambas piernas juntas en un sentido,
+  con un rango de movimiento reducido y concentración total en el abdomen. Completa las repeticiones y
+  cambia de sentido.
 
 
   Consejos:
 
-  Mantén la zona lumbar completamente pegada a la esterilla durante todas las rotaciones para proteger la espalda y maximizar el trabajo abdominal.'
+  Mantén la zona lumbar completamente pegada a la esterilla durante todas las rotaciones para proteger
+  la espalda y maximizar el trabajo abdominal.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4273'
-search_terms:
-- Círculos con las piernas
-- Lying Leg Circles
+  license: "CC-BY-SA-4.0"
+  license_author: "cybro"
+  source_id: "3056"
+translated_from: en

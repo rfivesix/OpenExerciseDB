@@ -1,21 +1,29 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1696'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Dominadas (agarre neutro)
-description: |-
-  Ejecución
-  
+description: 'Ejecución
+
+
   Fase de tracción (concéntrica):
-  
+
+
   Lleva los codos hacia abajo y atrás, tirando del pecho hacia las manos.
+
   Mantén los hombros deprimidos y retraídos (evita encogerlos).
+
   Concéntrate en apretar los dorsales y la parte alta de la espalda en la posición superior.
-  
+
+
   Posición superior:
-  
+
+
   La barbilla debe superar o alcanzar la altura de las manos.
-  Haz una breve pausa y contrae los dorsales con fuerza.
+
+  Haz una breve pausa y contrae los dorsales con fuerza.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4108'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2815"
+translated_from: en

@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1439'
+language: es
+status: ai_authored
+translated_from: en
+name: Press militar con barra desde topes
+description: Coloca la barra sobre los topes de seguridad del rack a la altura de la barbilla. De pie,
+  con los pies al ancho de los hombros, agarra la barra algo más ancho y activa todo el cuerpo. Aprieta
+  el abdomen y los glúteos y empuja la barra explosivamente desde los topes hasta extender los codos por
+  encima de la cabeza, inclinando ligeramente la cabeza al pasar la barra por la cara. Devuélvela con
+  control a los topes, deja que se detenga brevemente manteniendo la tensión y repite. Al empezar desde
+  una parada completa se elimina el impulso elástico y se trabaja la fuerza concéntrica de los deltoides
+  delanteros y tríceps.
+search_terms:
+- Press por encima de la cabeza desde topes
+- Press overhead desde topes
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2403"

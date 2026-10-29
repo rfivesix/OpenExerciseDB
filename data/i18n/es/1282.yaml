@@ -1,0 +1,25 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1282'
+language: es
+status: ai_authored
+translated_from: en
+name: Isométrico de dominada con agarre supino
+description: 'Beginpositie:
+
+  Agarra la barra a la anchura de los hombros con un agarre supino y elévate hasta que la barbilla quede
+  por encima de la barra.
+
+
+  Uitvoering:
+
+  1. Mantén estática esta posición superior, con los codos flexionados y pegados a los costados.
+
+  2. Mantén contraídos los dorsales, los bíceps y el core durante toda la sujeción.
+
+  3. Cuando termine el tiempo previsto, baja lentamente y de forma controlada.'
+search_terms:
+- Sujeción isométrica de dominada con agarre supino
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2249"

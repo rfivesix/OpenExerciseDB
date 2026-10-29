@@ -1,0 +1,11 @@
+exercise_id: '441'
+language: nl
+status: ai_authored
+translated_from: en
+name: Overhead squat
+description: Houd de halter boven je hoofd vast met een brede greep zoals bij de snatch. Een smallere
+  greep is ook mogelijk als je daarmee je evenwicht kunt bewaren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "geraldbaeck"
+  source_id: "355"

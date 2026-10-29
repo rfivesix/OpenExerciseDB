@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '962'
+language: nl
+status: ai_authored
+translated_from: en
+name: Crosstrainer
+description: Stap op de pedalen en pak de bewegende handgrepen of de vaste stang vast. Sta rechtop met
+  je borst omhoog en span je romp aan. Beweeg je benen in een vloeiende elliptische beweging en duw en
+  trek de handgrepen tegengesteld aan je benen. Houd je hele voet op de pedalen en blijf rechtop.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "1257"
+search_terms:
+- Crosstrainer
+- Elliptical

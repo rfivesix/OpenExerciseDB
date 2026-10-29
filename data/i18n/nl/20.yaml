@@ -1,0 +1,36 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '20'
+language: nl
+status: ai_authored
+translated_from: en
+name: Arnold-schouderdruk
+description: 'Beginpositie:
+
+  Ga rechtop op een bank met rugleuning zitten. Houd twee dumbbells voor je borst op schouderhoogte, met
+  je handpalmen naar je lichaam (gesupineerd) en je ellebogen onder je polsen.
+
+
+  Uitvoering:
+
+  1. Duw de dumbbells boven je hoofd en draai je handen geleidelijk naar buiten, zodat je handpalmen bovenaan
+  naar voren wijzen.
+
+  2. Strek je armen zonder je ellebogen op slot te zetten.
+
+  3. Laat de dumbbells langzaam langs dezelfde baan zakken en draai je handpalmen terug naar je borst
+  om naar de beginpositie te gaan.
+
+
+  Opmerkingen:
+
+  Voer de draaiing soepel uit tijdens het drukken en zakken. Houd je romp aangespannen en je wervelkolom
+  neutraal tegen de leuning.'
+search_terms:
+- Schwarzenegger press
+- Overhead press met handpalmrotatie
+- Rotational dumbbell press
+- Dumbbell corkscrew press
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "trzr23"
+  source_id: "227"

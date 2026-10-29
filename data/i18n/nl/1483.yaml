@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1483'
+language: nl
+status: ai_authored
+translated_from: en
+name: Biceps curl trifecta
+description: 'Startpositie:
+
+  Sta rechtop met je voeten op schouderbreedte en houd in elke hand een dumbbell naast je met je armen
+  gestrekt.
+
+
+  Uitvoering:
+
+  Deze oefening combineert drie curlvarianten in één doorlopende reeks:
+
+  1. Gekruiste curl in supinatie: draai je handpalm omhoog en curl de dumbbell naar de tegenoverliggende
+  schouder.
+
+  2. Gekruiste curl in pronatie: draai je handpalm omlaag en curl de dumbbell naar de overkant.
+
+  3. No-money-curl: curl de dumbbells terwijl je je schouders naar buiten draait en je handen uit elkaar
+  beweegt.
+
+
+  Aandachtspunten:
+
+  Wissel vloeiend tussen de drie varianten.'
+search_terms:
+- Trifecta biceps curl
+- drievarianten-dumbbellcurl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2446"

@@ -1,0 +1,11 @@
+exercise_id: '341'
+language: es
+status: ai_authored
+translated_from: en
+name: Sentadilla en máquina Smith
+description: Ajusta la barra de la máquina Smith a la altura de los hombros y colócate debajo con una
+  postura estrecha. Baja en una sentadilla y empuja con los pies para volver a ponerte de pie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1054"

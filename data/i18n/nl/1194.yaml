@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1194'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pallof press aan kabel
+description: Sta zijwaarts naast een kabelmachine met katrol op borsthoogte. Pak het handvat met beide
+  handen en houd het tegen het midden van de borst. Zet de voeten op schouderbreedte, knieën licht gebogen
+  en span romp en bilspieren aan. Duw het handvat recht vooruit tot de armen gestrekt zijn en weersta
+  de rotatietrek van de kabel; houd schouders en heupen naar voren gericht. Houd 1–2 seconden vast en
+  breng de handen gecontroleerd terug.
+search_terms:
+- Pallof press
+- Antirotatiepress
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "prevail90"
+  source_id: "2150"

@@ -1,0 +1,14 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1668'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige overhead tricepsstrekking met kabel
+description: Zet de katrol onderaan de kabelmachine en pak de kabel vast zonder handgreep. Strek de kabel
+  recht boven je hoofd. Houd je rug recht en je bovenarm stil. Laat de kabel achter je hoofd zakken tot
+  je een duidelijke rek in je triceps voelt en strek je arm daarna weer omhoog tot je elleboog gestrekt
+  is.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2787"

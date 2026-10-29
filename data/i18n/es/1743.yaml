@@ -1,20 +1,28 @@
 exercise_id: '1743'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Limpiaparabrisas colgado
-description: "Posición inicial:\nCuélgate de una barra de dominadas con agarre prono\
-  \ al ancho de los hombros. Activa los dorsales y el core, e inclina ligeramente\
-  \ el torso hacia atrás mientras elevas las piernas rectas hasta que los pies apunten\
-  \ hacia arriba, cerca de la barra.\n\nEjecución:\n1. Con las piernas juntas y extendidas,\
-  \ rótalas lentamente hacia un lado describiendo un arco controlado, como un limpiaparabrisas.\n\
-  2. Contrae fuertemente los oblicuos para devolver las piernas al centro vertical.\n\
-  3. Desciende las piernas hacia el lado opuesto de forma fluida y alterna el movimiento\
-  \ entre ambos lados.\n\nConsejos:\nEvita el balanceo del cuerpo; si la variante\
-  \ con piernas rectas resulta demasiado exigente, flexiona las rodillas a 90 grados."
+description: 'Cuélgate de una barra con agarre prono algo más ancho que los hombros. Activa dorsales y
+  hombros, inclina ligeramente el torso hacia atrás y eleva las piernas rectas hasta acercar los pies
+  a la barra o al techo.
+
+
+  1. Mantén las piernas rectas y juntas y gira lentamente las caderas y las piernas hacia un lado, describiendo
+  un arco como un limpiaparabrisas.
+
+  2. Invierte la dirección contrayendo los oblicuos y el abdomen, y lleva las piernas por el centro.
+
+  3. Baja las piernas hacia el lado opuesto con control y alterna continuamente.
+
+
+  Evita balancearte. Si mantener las piernas rectas dificulta el control, flexiona las rodillas y acerca
+  las piernas al pecho.'
 search_terms:
-  - Limpiaparabrisas
-  - Hanging Windshield Wipers
+- Limpiaparabrisas colgado
+- Limpiaparabrisas en barra
+- Limpiaparabrisas colgado de la barra
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4156'
+  license: "CC-BY-SA-4.0"
+  license_author: "Happy"
+  source_id: "2873"

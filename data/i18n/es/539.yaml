@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '539'
+language: es
+status: ai_authored
+translated_from: en
+name: Press inclinado en máquina Smith
+description: 'Posición inicial: Coloca un banco inclinado a 30–45 grados dentro de la máquina Smith. Siéntate con
+  la espalda apoyada en el respaldo y los pies planos en el suelo. Sujeta la barra con un agarre algo más ancho
+  que los hombros y libera los seguros.
+
+  Ejecución: Baja la barra suavemente hasta que toque la parte superior del pecho.
+
+  Regreso: Empuja la barra hacia arriba usando los pectorales superiores hasta extender los brazos, sin bloquear
+  los codos.'
+search_terms:
+- Press de banca inclinado en máquina Smith
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1049"

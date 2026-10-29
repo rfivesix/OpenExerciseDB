@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '135'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pec-deckfly
+description: Ga op de pec-deckmachine zitten met je voeten stevig op de vloer en je bovenarmen parallel
+  aan de vloer. Breng je armen bij elkaar tot de handgrepen elkaar bijna raken, maar niet helemaal. Keer
+  langzaam terug. De gewichten blijven tijdens de hele oefening bovenaan.
+search_terms:
+- Butterfly
+- Machine fly
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "98"

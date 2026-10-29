@@ -1,0 +1,11 @@
+exercise_id: '257'
+language: nl
+status: ai_authored
+translated_from: en
+name: Front squats
+description: Deze squatvariant traint de hamstrings en de grote bilspier. Ook de rugstrekkers en abductoren
+  worden aangesproken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "sistab2"
+  source_id: "191"

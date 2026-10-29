@@ -1,0 +1,11 @@
+exercise_id: '382'
+language: es
+status: ai_authored
+translated_from: en
+name: L-sit colgado
+description: Cuélgate de una barra de dominadas y eleva las piernas rectas hasta que formen un ángulo
+  de 90 grados con el torso (forma de L). Mantén la posición.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "bizyguy"
+  source_id: "281"

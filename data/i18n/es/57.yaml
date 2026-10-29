@@ -1,15 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '57'
 language: es
-status: ai_reviewed
-name: Caminata del Oso
-description: |-
-  Instrucciones:
+status: ai_authored
+translated_from: en
+name: Caminata del oso
+description: 'Posición inicial:
 
-  Posición Inicial: Colócate en cuatro apoyos (manos y pies) con las manos directamente debajo de los hombros y las rodillas debajo de las caderas. Desde ahí, levanta las rodillas del suelo unos pocos centímetros, manteniendo la espalda recta y el core activado. El peso debe estar sobre las palmas de las manos y las puntas de los pies.
-  Movimiento: Para avanzar, da un paso simultáneo con tu mano derecha y tu pie izquierdo, seguido inmediatamente por un paso con tu mano izquierda y tu pie derecho. La clave es este movimiento contralateral, como un oso caminando.
-  Intensidad y Medición: Muévete tan rápido como puedas manteniendo una buena forma. Las series se miden normalmente por distancia (ej: avanzar 20 o 30 metros) o por tiempo (ej: 45 segundos continuos).
-  Músculos Trabajados: Es un ejercicio muy completo que involucra: pectorales, deltoides, tríceps, trapecios, dorsales, abdominales y espalda baja (core), flexores de cadera, cuádriceps, glúteos y pantorrillas.
+  Colócate a cuatro patas, con las manos debajo de los hombros y las rodillas debajo de las caderas. Apoya
+  los dedos de los pies y eleva las rodillas unos centímetros del suelo, manteniendo la espalda recta.
+
+
+  Ejecución:
+
+  1. Avanza moviendo a la vez la mano derecha y el pie izquierdo.
+
+  2. Después avanza con la mano izquierda y el pie derecho, gateando en un patrón cruzado contralateral.
+
+  3. Desplázate a un ritmo constante y controlado durante la distancia (por ejemplo, 20–30 metros) o el
+  tiempo (por ejemplo, 45 segundos) indicados.
+
+
+  Notas:
+
+  Mantén las caderas bajas y paralelas al suelo, evitando balancearte demasiado de lado a lado. Activa
+  el tronco y los cuádriceps.'
+search_terms:
+- Marcha del oso
+- Gateo del oso
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2570'
+  license: "CC-BY-SA-4.0"
+  license_author: "nate303303"
+  source_id: "307"

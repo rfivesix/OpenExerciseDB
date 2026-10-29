@@ -1,12 +1,30 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '177'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Ciclismo
-description: |-
-  El ciclismo es el uso de la bicicleta como ejercicio, transporte o deporte. Es una de las actividades cardiovasculares más completas y populares.
-  Descripción:
-  Como ejercicio, el ciclismo es una actividad de bajo impacto, ideal para la salud del corazón y para proteger las articulaciones (rodillas, tobillos). Fortalece principalmente el tren inferior del cuerpo: cuádriceps, isquiotibiales, glúteos y pantorrillas. Se puede practicar al aire libre (ciclismo de ruta o de montaña) o en interiores, utilizando una bicicleta estacionaria o en clases de spinning.
+description: 'Posición inicial:
+
+  Ajusta la altura del sillín de la bicicleta o la bicicleta estática de modo que, cuando el pedal esté
+  abajo, la rodilla quede ligeramente flexionada (unos 25–35 grados). Ajusta el manillar para poder agarrarlo
+  cómodamente, con los hombros relajados y la columna neutra.
+
+
+  Ejecución:
+
+  1. Pedalea en círculos suaves y continuos a un ritmo constante.
+
+  2. Aplica fuerza con la parte delantera de los pies, empujando hacia abajo y tirando durante la rotación.
+
+  3. Mantén un ritmo uniforme y ajusta la resistencia al objetivo del entrenamiento.
+
+
+  Notas:
+
+  Mantén el tronco estable para que las caderas no se balanceen de lado a lado en el sillín. Respira con
+  regularidad y ritmo.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2705'
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "806"

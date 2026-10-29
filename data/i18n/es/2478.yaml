@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2478'
+language: es
+status: ai_authored
+translated_from: en
+name: Elevación glúteo-isquiotibiales (GHR)
+description: 'Posición inicial:
+
+  Colócate en un desarrollador de glúteos e isquiotibiales (GHD). Apoya las rodillas en la almohadilla
+  curva para los muslos y fija los tobillos entre los rodillos y la plataforma. Empieza erguido, con el
+  torso alineado con los muslos.
+
+
+  Ejecución:
+
+  1. Baja el torso hacia delante y abajo con control, extendiendo las rodillas y manteniendo una línea
+  recta desde ellas hasta la cabeza.
+
+  2. Contrae los isquiotibiales y glúteos y flexiona las rodillas para volver a la posición vertical.
+
+  3. Mantén las caderas extendidas y la columna neutra durante toda la repetición.
+
+
+  Consejos:
+
+  No flexiones desde las caderas. Si hace falta, impúlsate ligeramente con el suelo o usa una banda de
+  asistencia hasta ganar fuerza en los isquiotibiales.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4955"
+search_terms:
+- Elevación glúteo-isquiotibiales
+- Máquina GHR
+- Desarrollador glúteo-isquiotibiales

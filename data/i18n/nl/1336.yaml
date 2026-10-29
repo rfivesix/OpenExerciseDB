@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1336'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsstrekking boven het hoofd met dumbbell
+description: 'Beginpositie:
+
+  Ga rechtop op een bank zitten of sta met je voeten op schouderbreedte. Houd een dumbbell met beide handen
+  boven je hoofd en strek je armen.
+
+
+  Uitvoering:
+
+  1. Houd je bovenarmen stil en je ellebogen naar voren, dicht bij je hoofd. Laat de dumbbell langzaam
+  achter je hoofd zakken door je ellebogen te buigen.
+
+  2. Laat zakken totdat je triceps volledig op rek zijn.
+
+  3. Duw de dumbbell door je ellebogen te strekken weer boven je hoofd en span bovenaan je triceps aan.
+
+
+  Tips:
+
+  Houd je ellebogen gedurende de hele beweging op hun plek en hol je onderrug niet overdreven.'
+search_terms:
+- Extensión de tríceps sobre la cabeza con mancuerna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2306"

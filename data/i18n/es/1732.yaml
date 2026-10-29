@@ -1,12 +1,14 @@
 exercise_id: '1732'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Face pull con banda elástica
-description: |-
-  Face pulls con banda – tracción horizontal de pie. Agarra la banda a la altura de la cara, tira de los codos hacia arriba y hacia afuera en dirección a tu cara mientras juntas los omóplatos. Trabaja la parte superior de la espalda y los hombros posteriores, y mejora la postura.
-search_terms:
-  - Face pulls con banda amarilla/verde
+description: 'Face pull de pie con banda: coloca la banda a la altura de la cara y tira llevando los codos
+  altos y abiertos hacia el rostro, mientras juntas los omóplatos. Trabaja la parte alta de la espalda
+  y los hombros posteriores; la fuente también indica que mejora la postura.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4149'
+  license: "CC-BY-SA-4.0"
+  license_author: "54str"
+  source_id: "2858"
+search_terms:
+- Face pull con banda amarilla o verde

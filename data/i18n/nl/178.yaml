@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '178'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dead bug
+description: Ga op je rug liggen met je heupen en knieën 90 graden gebogen en je armen naar het plafond
+  gestrekt. Druk je onderrug tegen de vloer. Laat één been langzaam zakken en tik met je hiel de vloer
+  aan; houd je onderrug tegen de vloer. Breng je knie terug naar de beginpositie en herhaal aan de andere
+  kant. Maak de oefening moeilijker door tegelijk de tegenovergestelde arm en het been te laten zakken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Metin"
+  source_id: "544"

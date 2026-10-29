@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1450'
+language: nl
+status: ai_authored
+translated_from: en
+name: Cobra-stretch
+description: Ga op je buik op een mat liggen met je benen gestrekt en de bovenkant van je voeten op de
+  vloer. Zet je handen onder of iets voor je schouders en houd je ellebogen dicht bij je ribben. Duw zachtjes
+  met je handpalmen om je borst en romp op te tillen, terwijl je bekken en heupen op de mat blijven. Beweeg
+  je schouders omlaag en naar achteren. Houd de stretch 15 tot 30 seconden vast en adem rustig; laat je
+  borst langzaam zakken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2415"

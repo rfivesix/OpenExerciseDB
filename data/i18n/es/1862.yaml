@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1862'
+language: es
+status: ai_authored
+translated_from: en
+name: Círculos de cadera
+description: 'Posición inicial: Ponte erguido con los pies al ancho de las caderas y las manos en las
+  caderas.
+
+
+  Ejecución: Haz círculos amplios y fluidos con las caderas en sentido horario y luego antihorario. Mantén
+  el torso relativamente erguido y permite que las articulaciones de la cadera recorran todo el rango
+  disponible.
+
+
+  Consejos: Muévete con control, sin tirones, para movilizar las caderas y calentar la musculatura circundante.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3004"

@@ -1,13 +1,17 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1711'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Sleeper Stretch
-description: |-
-  Túmbate de lado de modo que apoyes un poco de peso sobre el omóplato para mantenerlo quieto
+description: 'Túmbate de lado de modo que apoyes un poco de peso sobre el omóplato para mantenerlo quieto
+
   Extiende el brazo 90 grados frente a ti, apoyado en el suelo o la colchoneta
+
   Levanta la mano desde el codo de forma que los dedos apunten al techo y la palma mire hacia tus pies
-  Manteniendo el codo quieto, baja suavemente la palma hacia el suelo
+
+  Manteniendo el codo quieto, baja suavemente la palma hacia el suelo'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4079'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2834"
+translated_from: en

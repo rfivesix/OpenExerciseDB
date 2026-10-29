@@ -1,22 +1,16 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '81'
 language: es
 status: ai_authored
-name: Remo con mancuerna a una mano en banco
+translated_from: en
+name: Remo con mancuerna a una mano
+description: Apoya una rodilla sobre un banco plano y sujétate con la mano del mismo lado. Sostén una
+  mancuerna con la mano libre, acércala al cuerpo y bájala de forma controlada. Después repite con el
+  otro lado.
 search_terms:
-- Remo con mancuernas
-- Remo unilateral con mancuerna
-description: |-
-  Posición inicial:
-  Apoya una rodilla y la mano del mismo lado sobre un banco plano, manteniendo la espalda recta y el torso paralelo al suelo. Apoya el otro pie firmemente en el piso para darte estabilidad. Sujeta una mancuerna con la mano libre, dejando que el brazo cuelgue hacia abajo.
-
-  Ejecución:
-  1. Jala la mancuerna hacia tu cadera llevando el codo hacia atrás y arriba, manteniéndolo cerca del cuerpo.
-  2. Aprieta el dorsal y retrae la escápula en la parte superior del movimiento durante un segundo.
-  3. Baja la mancuerna de forma lenta y controlada hasta estirar completamente el dorsal.
-
-  Notas:
-  Mantén el torso estable sin rotar la columna al subir el peso. Completa las repeticiones con un brazo antes de cambiar al otro.
+- Remo con mancuerna a un brazo
+- Remo inclinado con mancuernas
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: sebk
-  source_id: '2069'
+  license: "CC-BY-SA-4.0"
+  license_author: "sebk"
+  source_id: "362"

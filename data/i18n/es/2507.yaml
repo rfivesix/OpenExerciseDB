@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2507'
+language: es
+status: ai_authored
+translated_from: en
+name: Plancha sobre antebrazos
+description: 'Posición inicial:
+
+  Túmbate boca abajo sobre una esterilla. Apoya los antebrazos paralelos en el suelo, con los codos justo
+  debajo de los hombros. Apoya las puntas de los pies.
+
+
+  Ejecución:
+
+  1. Activa el abdomen y eleva las caderas, los muslos y las rodillas hasta formar una línea recta y firme
+  desde la cabeza hasta los talones.
+
+  2. Contrae activamente los glúteos, los cuádriceps y la pared abdominal.
+
+  3. Mantén el cuello neutro y la mirada dirigida al espacio entre los antebrazos.
+
+  4. Aguanta la posición isométrica durante el tiempo indicado y respira de forma continua y regular.
+
+
+  Consejos:
+
+  No dejes que las caderas caigan ni las eleves demasiado; mantén una inclinación pélvica posterior activa.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4986"
+search_terms:
+- Plancha sobre antebrazos (core L1)
+- Plancha sobre antebrazos
+- Plancha estándar
+- Plancha prona

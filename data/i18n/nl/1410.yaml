@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1410'
+language: nl
+status: ai_authored
+translated_from: en
+name: Onderarmplank met afwisselende beenlift
+description: Begin in een onderarmplank, met je ellebogen onder je schouders en je lichaam in een rechte
+  lijn. Houd één been gestrekt, span je bilspieren aan en til één voet beheerst enkele centimeters op.
+  Houd kort vast zonder je gewicht sterk te verplaatsen, laat je voet zakken en herhaal met het andere
+  been. Laat je heupen niet draaien, omhoogkomen of doorzakken; span je romp aan.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2374"

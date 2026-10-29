@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2492'
+language: es
+status: ai_authored
+translated_from: en
+name: Aducción de cadera sentada en máquina
+description: 'Posición inicial:
+
+  Siéntate recto en la máquina de aducción de cadera, con la espalda apoyada en el respaldo. Ajusta los
+  brazos de palanca a una apertura cómoda, con las almohadillas en la parte interior de las rodillas y
+  los muslos.
+
+
+  Ejecución:
+
+  1. Junta los muslos contra las almohadillas hasta que se encuentren en el centro.
+
+  2. Mantén la contracción máxima durante 1–2 segundos y concéntrate en los aductores de la cara interna
+  del muslo.
+
+  3. Deja que las almohadillas vuelvan despacio y con control a la posición inicial, sintiendo un estiramiento
+  suave antes de repetir.
+
+
+  Consejos:
+
+  Controla con cuidado la fase de retorno y mantén las caderas apoyadas en el asiento.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lbroggi"
+  source_id: "4972"
+search_terms:
+- Aductores
+- Máquina de aducción de cadera
+- Máquina para la cara interna del muslo

@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1384'
+language: es
+status: ai_authored
+translated_from: en
+name: Máquina de pullover
+description: 'Beginpositie:
+
+  Siéntate en la máquina de pullover y ajusta la altura del asiento para que las articulaciones de los
+  hombros queden alineadas con el eje de rotación. Apoya los codos firmemente en las palancas acolchadas
+  y sujeta las asas sin apretar demasiado. Abróchate el cinturón si lo hay.
+
+
+  Beweging:
+
+  Lleva los codos hacia abajo en un arco fluido, en dirección a los muslos, concentrándote en tirar con
+  el dorsal ancho. Contrae los dorsales abajo y deja que los apoyos vuelvan a subir lentamente para estirar
+  la espalda.
+
+
+  Opmerkingen:
+
+  Inicia y realiza el movimiento con los codos, en lugar de tirar con las manos. Mantén la zona lumbar
+  apoyada en el respaldo.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Paul@Chemistry"
+  source_id: "2352"

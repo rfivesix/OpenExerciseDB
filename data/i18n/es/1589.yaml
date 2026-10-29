@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1589'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de piernas y cadera
+description: Movimientos suaves para mejorar la flexibilidad del tren inferior y liberar tensión en las
+  caderas.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrAlfaRobot"
+  source_id: "2538"

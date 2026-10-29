@@ -1,22 +1,31 @@
 exercise_id: '1718'
 language: es
 status: ai_authored
-name: Remo alto en polea alta
-description: |-
-  Posición inicial:
-  Ajusta la polea en posición alta y coloca un agarre individual. Colócate frente a la máquina, apoya la mano libre en el soporte para mayor estabilidad y sujeta el agarre con el brazo extendido.
-  
+translated_from: en
+name: Remo unilateral alto en polea
+description: 'Posición inicial:
+
+  Coloca una polea alta con una empuñadura individual. Ponte frente a la máquina con una pierna adelantada,
+  apoya la mano libre en el bastidor para estabilizarte y sujeta el agarre con el brazo extendido.
+
+
   Ejecución:
-  1. Tira del cable en dirección descendente y hacia atrás, llevando el codo hacia el torso.
-  2. Contrae con fuerza los romboides, el trapecio medio y el deltoides posterior al final de la tracción.
-  3. Regresa lentamente con control extendiendo el brazo por completo.
-  
+
+  1. Lleva el agarre en diagonal hacia la parte alta del pecho o las costillas, desplazando el codo hacia
+  atrás.
+
+  2. Aprieta el omóplato y la parte alta de la espalda al final del tirón.
+
+  3. Extiende el brazo lentamente y con control para volver al inicio.
+
+
   Consejos:
-  Mantén el torso estable sin rotar la columna para ayudar en la repetición.
-search_terms:
-  - Remo alto desde polea
-  - Remo alto desde polea alta con apoyo con agarre unilat
+
+  Mantén quieto el torso y evita girar las caderas o la columna.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: polloperro
-  source_id: '2843'
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2842"
+search_terms:
+- Remo alto unilateral en polea
+- Remo alto con polea

@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1372'
+language: nl
+status: ai_authored
+translated_from: en
+name: Geassisteerde tricepsdips op machine
+description: 'Beginpositie:
+
+  Kies het gewenste contragewicht op de geassisteerde dipmachine (een hoger gewicht geeft meer ondersteuning).
+  Pak de parallelle handgrepen vast, plaats je knieën of voeten op het steunplatform en duw jezelf omhoog
+  totdat je armen bijna volledig gestrekt zijn.
+
+
+  Beweging:
+
+  Laat je lichaam gecontroleerd zakken door je ellebogen naar achteren te buigen, totdat je bovenarmen
+  ongeveer parallel aan de vloer zijn (een elleboogbuiging van circa 90 graden). Duw via je handpalmen
+  en span je triceps aan om terug te keren naar de beginpositie.
+
+
+  Opmerkingen:
+
+  Houd je ellebogen dicht bij je romp om de nadruk op de triceps te leggen in plaats van de borst. Strek
+  je ellebogen bovenaan niet hard door.'
+search_terms:
+- Fondos asistidos de tríceps
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "matpn"
+  source_id: "2338"

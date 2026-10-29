@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1462'
+language: nl
+status: ai_authored
+translated_from: en
+name: Stoten
+description: Sta in een gebalanceerde boksstand met één voet voor en je knieën licht gebogen. Houd je
+  handen ter hoogte van je kin en je ellebogen dicht bij je ribben. Stoot afwisselend recht vooruit (jab
+  en cross) in een vlot ritme. Draai bij elke stoot je heupen en romp mee en draai je vuist horizontaal
+  wanneer je arm strekt. Breng elke hand snel terug naar je dekking, span je romp aan en adem bij elke
+  stoot uit.
+search_terms:
+- Rechte stoten
+- Shadowboksen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lh1701"
+  source_id: "2425"

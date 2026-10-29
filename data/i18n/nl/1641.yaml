@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1641'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenbenige kettlebell deadlift
+description: Houd een kettlebell in één hand en sta op één been. Buig vanuit de heupen voorover om de
+  kettlebell naar de grond te brengen. De oefening traint de hamstrings, bilspieren en onderrug en daagt
+  ook je evenwicht en stabiliteit uit.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2749"

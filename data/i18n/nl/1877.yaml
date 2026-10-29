@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1877'
+language: nl
+status: ai_authored
+translated_from: en
+name: Scapularetractie met band
+description: Bevestig één uiteinde van een weerstandsband op schouderhoogte aan een muur, paal of ander
+  verticaal steunpunt. Plaats je arm in de lus ter hoogte van je triceps. Stap achteruit tot de band strak
+  staat en trek je elleboog en schouder tegen de weerstand naar achteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hurr99"
+  source_id: "3019"

@@ -1,0 +1,15 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1702'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lat pulldown met brede greep
+description: De lat pulldown is een trekoefening die vooral de brede rugspieren (lats) traint. Je trekt
+  een stang of handgreep aan een kabel omlaag naar je borst terwijl je zit op een speciaal daarvoor ontworpen
+  machine. Meestal gebruik je een brede greep; een smalle of onderhandse greep kan andere spieren van
+  de rug en armen benadrukken. De oefening wordt veel gebruikt om kracht in het bovenlichaam op te bouwen
+  en de houding te verbeteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2821"

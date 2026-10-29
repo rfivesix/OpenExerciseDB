@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '624'
+language: es
+status: ai_authored
+translated_from: en
+name: Bicicleta estática
+description: 'Posición inicial: Ajusta la altura del sillín para que las rodillas queden ligeramente flexionadas
+  (unos 25–30 grados) en la parte baja del pedaleo.
+
+  Ejecución: Pedalea a un ritmo constante y ajusta la resistencia a la intensidad del entrenamiento.
+
+  Indicaciones: Mantén el tronco ligeramente activo, la espalda en posición neutra y las manos cómodamente apoyadas
+  en el manillar, sin inclinarte demasiado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "intelman"
+  source_id: "293"

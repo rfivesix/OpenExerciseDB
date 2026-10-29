@@ -1,0 +1,24 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1693'
+language: nl
+status: ai_authored
+translated_from: en
+name: Statische dumbbell hold op inclinebank
+description: 'Uitvoering
+
+
+  Vasthouden: Laat de dumbbells zakken tot enkele centimeters boven je borst, ongeveer halverwege een
+  normale incline press. In deze positie staat je bovenborst onder maximale spanning.
+
+
+  Statische hold: Houd de positie 20–45 seconden vast en houd je borst aangespannen. Adem rustig, maar
+  blijf aangespannen; ontspan je borst of schouders niet.
+
+
+  Einde van de set: Breng de dumbbells na de hold voorzichtig omlaag en rust uit.'
+search_terms:
+- statische hold op inclinebank
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2812"

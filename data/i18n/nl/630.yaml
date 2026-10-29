@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '630'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sumo deadlift
+description: 'Begin met een geladen halterstang op de vloer. Ga zo staan dat de stang ter hoogte van het midden
+  van je voeten loopt. Zet je voeten zeer breed, dicht bij de sluitingen van de stang. Buig vanuit je heupen om
+  de stang vast te pakken. Je armen horen recht onder je schouders en binnen je benen te staan. Je kunt een bovenhandse,
+  gemengde of haakgreep gebruiken. Ontspan je schouders, zodat je armen langer worden.
+
+  Adem in en laat je heupen zakken. Kijk naar voren en houd je borst omhoog. Duw de vloer weg en spreid je voeten,
+  met je gewicht op de achterste helft van je voeten. Strek je heupen en knieën.
+
+  Wanneer de stang je knieën passeert, leun je achterover en duw je je heupen naar de stang terwijl je je schouderbladen
+  samenbrengt.
+
+  Breng het gewicht terug naar de vloer door je heupen te buigen en het gewicht gecontroleerd te laten zakken.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "magdy"
+  source_id: "557"

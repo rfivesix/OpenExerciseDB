@@ -1,11 +1,11 @@
 exercise_id: '1729'
 language: es
-status: ai_reviewed
-name: Rotación externa de hombro (polea)
-description: |-
-  Mantén el codo fijo a tu costado y rota el antebrazo hacia afuera de forma suave.
-  No dejes que tu muñeca o tu codo se desplacen hacia arriba: permanece en un solo plano.
+status: ai_authored
+translated_from: en
+name: Rotación externa de hombro en polea
+description: Mantén el codo fijo junto al costado y gira el antebrazo hacia fuera con suavidad. No dejes
+  que la muñeca ni el codo suban; mantén el movimiento en un mismo plano.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4147'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2855"

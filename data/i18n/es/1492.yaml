@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1492'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo alto en polea, medio arrodillado
+search_terms:
+- "Remo alto"
+- "Remo alto en polea"
+- "Remo alto unilateral de rodillas"
+description: 'Posición inicial:
+
+  Fija un agarre individual a una polea alta. Arrodíllate frente a la torre, con la rodilla del lado que
+  trabaja en la esterilla, el torso erguido y el abdomen firme. Sujeta el agarre con el brazo extendido
+  en la dirección del cable.
+
+
+  Ejecución:
+
+  1. Tira del cable hacia abajo y atrás, llevando el codo hacia la cadera y las costillas.
+
+  2. Contrae la espalda durante un segundo al final del tirón.
+
+  3. Deja que el cable vuelva arriba con control y estira el dorsal antes de repetir.
+
+
+  Indicaciones:
+
+  La posición medio arrodillada ayuda a limitar el arqueo lumbar y el impulso.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "aahuja"
+  source_id: "2455"

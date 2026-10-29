@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2522'
+language: es
+status: ai_authored
+translated_from: en
+name: Extensión de tríceps con banda
+description: 'Posición inicial:
+
+  Fija una banda de resistencia a un anclaje elevado, como una barra de dominadas o un anclaje de puerta.
+  Colócate frente al anclaje con los pies a la anchura de las caderas y las rodillas ligeramente flexionadas.
+  Sujeta las asas o la banda con agarre prono o neutro y mantén los codos pegados a las costillas.
+
+
+  Ejecución:
+
+  1. Extiende los codos suavemente hacia abajo y tira de la banda hasta estirar por completo los brazos
+  junto a los muslos.
+
+  2. Contrae con fuerza los tríceps abajo durante 1–2 segundos.
+
+  3. Deja que los codos se flexionen lentamente y con control hasta que los antebrazos formen unos 90
+  grados.
+
+
+  Consejos:
+
+  Mantén los brazos superiores pegados al torso. No lleves los codos hacia delante ni encojas los hombros.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "G. Johnson"
+  source_id: "4991"
+search_terms:
+- Extensión de tríceps hacia abajo
+- Pushdown de tríceps con banda
+- Extensión de tríceps con banda de resistencia

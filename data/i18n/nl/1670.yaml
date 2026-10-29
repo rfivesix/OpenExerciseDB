@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1670'
+language: nl
+status: ai_authored
+translated_from: en
+name: Been zwaaien (voor- en achterwaarts)
+description: Sta rechtop naast een muur of een stabiele steun. Zwaai één been gecontroleerd naar voren
+  en naar achteren, met je romp rechtop en aangespannen. Wissel van been nadat je de herhalingen hebt
+  voltooid.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Jhonatan"
+  source_id: "2793"

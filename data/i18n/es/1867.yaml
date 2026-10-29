@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1867'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de flexores de cadera
+description: 'Posición inicial: Arrodíllate en posición de zancada, con la rodilla trasera sobre una esterilla
+  y la delantera flexionada a 90°. Mantén el torso erguido.
+
+
+  Ejecución: Contrae el glúteo de la pierna trasera y mete ligeramente el coxis. Desliza las caderas hacia
+  delante hasta notar un estiramiento dirigido en la parte anterior de la cadera y el muslo superior traseros.
+
+
+  Consejos: Mantén la columna erguida sin arquear la zona lumbar. Sostén 20–30 segundos respirando con
+  regularidad y cambia de lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3009"

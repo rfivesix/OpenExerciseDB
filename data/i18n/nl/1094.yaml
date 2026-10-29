@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1094'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende chest press-machine
+description: Stel de zitting zo in dat de handgrepen ter hoogte van de midden- tot onderborst staan. Zit
+  rechtop met rug en hoofd tegen de leuning en voeten stevig op de vloer. Pak de handgrepen bovenhands,
+  trek de schouderbladen naar achteren en span de romp aan. Duw de handgrepen krachtig maar beheerst naar
+  voren tot de armen bijna gestrekt zijn, zonder de ellebogen te vergrendelen. Span de borstspieren aan
+  en laat gecontroleerd terug tot een comfortabele rek.
+search_terms:
+- Zittende chest press
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "colundrum"
+  source_id: "2052"

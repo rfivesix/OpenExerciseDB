@@ -1,0 +1,11 @@
+exercise_id: '346'
+language: es
+status: ai_authored
+translated_from: en
+name: Press landmine
+description: Sujeta con una mano el extremo libre de una barra fijada en un landmine. Empújala alejándola
+  del cuerpo sin desplazarla hacia la línea media. Mantén el cuerpo recto y firme.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Torsten Linnecke"
+  source_id: "1066"

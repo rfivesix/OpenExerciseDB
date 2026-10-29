@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1863'
+language: es
+status: ai_authored
+translated_from: en
+name: Rotación de cadera tumbado
+description: 'Posición inicial: Túmbate boca arriba con los brazos extendidos en T y las palmas hacia
+  abajo. Flexiona las rodillas, con los pies apoyados o elevados.
+
+
+  Ejecución: Baja lentamente las rodillas (o cruza una sobre el cuerpo) hacia un lado y mantén ambos omóplatos
+  en el suelo. Puedes girar suavemente la cabeza hacia el lado contrario.
+
+
+  Consejos: Mantén 20–30 segundos el estiramiento en la cadera externa, los glúteos y la zona lumbar;
+  respira profundamente y cambia de lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3005"

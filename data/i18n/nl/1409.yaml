@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1409'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dragon flag
+description: Houd je lichaam tijdens de hele beweging volledig recht en voorkom dat je onderrug doorzakt.
+  Houd je stevig vast om je bovenlichaam te stabiliseren. Begin met eenvoudigere varianten, bijvoorbeeld
+  met gebogen knieën, om kracht en controle op te bouwen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2373"

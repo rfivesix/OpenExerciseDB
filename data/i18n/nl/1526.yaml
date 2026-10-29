@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1526'
+language: nl
+status: ai_authored
+translated_from: en
+name: SkiErg (skiapparaat)
+description: 'Startpositie:
+
+  Ga op het platform van de ski-ergometer staan met je voeten op heupbreedte. Reik boven je hoofd en pak
+  de handgrepen met je handpalmen naar elkaar gericht.
+
+
+  Uitvoering:
+
+  1. Buig je knieën licht, beweeg je heupen naar achteren en trek beide armen explosief en vloeiend omlaag
+  langs je bovenbenen.
+
+  2. Eindig de trek wanneer je handen net naast je knieën komen.
+
+  3. Breng je heupen naar voren om weer rechtop te staan terwijl je armen soepel terug omhoog gaan.
+
+
+  Aandachtspunten:
+
+  De beweging bootst de dubbele stokinzet bij langlaufen na en traint lats, triceps en de voorzijde van
+  je core.'
+search_terms:
+- Ski-ergometer
+- skiapparaat
+- SkiErg
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "flanny"
+  source_id: "2482"

@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1102'
+language: nl
+status: ai_authored
+translated_from: en
+name: Afwisselende reverse lunges
+description: Sta rechtop met voeten op heupbreedte en romp aangespannen; handen op de heupen of voor de
+  borst. Stap gecontroleerd met één voet ver naar achteren en land op de bal van de achterste voet. Laat
+  de heupen recht omlaag zakken tot beide knieën ongeveer 90 graden gebogen zijn; achterste knie net boven
+  de vloer, voorste knie boven de enkel. Duw via hiel en middenvoet van het voorste been terug omhoog.
+  Herhaal met het andere been en wissel af.
+search_terms:
+- Afwisselende achterwaartse lunges
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2063"

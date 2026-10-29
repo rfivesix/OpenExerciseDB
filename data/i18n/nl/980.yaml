@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '980'
+language: nl
+status: ai_authored
+translated_from: en
+name: Commando-optrekken
+description: Ga recht onder de optrekstang staan, in de lengterichting. Pak de stang dicht bij elkaar
+  vast met één hand bovenhands en één onderhands en hang met gestrekte armen. Trek jezelf op zonder je
+  romp te draaien, tot je schouder de stang raakt en je hoofd ernaast komt. Zak gecontroleerd terug en
+  wissel de kant waar je hoofd langs de stang gaat. Wissel tussen sets de handposities.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "1296"
+search_terms:
+- Commando-optrekken
+- Commando pull-ups

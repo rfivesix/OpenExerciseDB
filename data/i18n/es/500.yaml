@@ -1,0 +1,15 @@
+exercise_id: '500'
+language: es
+status: ai_authored
+translated_from: en
+name: Plancha invertida
+description: 'Siéntate en el suelo con las piernas extendidas delante de ti. Coloca las manos detrás de
+  las caderas, con los dedos apuntando hacia los pies.
+
+  Empuja con las palmas y los talones para elevar las caderas hasta que el cuerpo forme una línea recta
+  de la cabeza a los talones. Contrae los glúteos, los isquiotibiales y la parte superior de la espalda,
+  mantén el pecho elevado y las caderas altas. Mantén la posición.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "spacetowaste"
+  source_id: "409"

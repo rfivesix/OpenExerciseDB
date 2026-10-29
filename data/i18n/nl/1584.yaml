@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1584'
+language: nl
+status: ai_authored
+translated_from: en
+name: Marcheren of joggen op de plaats
+search_terms:
+- "Marcheren ter plaatse"
+- "Marcheren op dezelfde plek"
+- "Joggen op dezelfde plek"
+description: 'Beginpositie:
+
+  Sta rechtop met je voeten op heupbreedte, je knieën licht gebogen, je borst omhoog en je romp licht
+  aangespannen. Houd je armen ontspannen en gebogen in een hoek van 90 graden naast je lichaam.
+
+
+  Uitvoering:
+
+  Til één knie richting heuphoogte en zet de voet zacht neer terwijl je de andere knie optilt. Beweeg
+  je armen in het ritme van de tegenovergestelde benen, zoals bij hardlopen. Houd een gelijkmatig tempo
+  met weinig impact aan tijdens het marcheren of verhoog het tempo tot een rustige jog op de plaats.
+
+
+  Aandachtspunten:
+
+  Land zacht op de bal van je voet en rol door naar je hiel. Houd je romp rechtop en leun niet naar voren
+  of achteren.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrAlfaRobot"
+  source_id: "2532"

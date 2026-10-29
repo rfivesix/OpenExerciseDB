@@ -1,18 +1,32 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '132'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Burpees
-description: |-
-  El burpee es uno de los ejercicios de acondicionamiento metabólico más completos, combinando fuerza de empuje, potencia de piernas y alta exigencia cardiovascular.
-  La secuencia del movimiento completo es:
+description: 'Posición inicial:
 
-  Agáchate y apoya las manos en el suelo.
-  Salta hacia atrás a una posición de plancha y realiza una flexión de pecho (el pecho toca el suelo).
-  Salta hacia adelante para volver a la posición de cuclillas.
-  Termina con un salto vertical explosivo, usualmente con un aplauso sobre la cabeza.
+  Ponte de pie con los pies al ancho de los hombros y los brazos a los lados.
 
-  Esa es una repetición. El ejercicio se realiza de forma continua y fluida.
+
+  Ejecución:
+
+  1. Lleva las caderas hacia atrás en una sentadilla y apoya las manos en el suelo delante de los pies.
+
+  2. Salta con ambos pies hacia atrás a la vez hasta quedar en plancha alta.
+
+  3. Baja el cuerpo y haz una flexión completa, tocando el suelo con el pecho.
+
+  4. Empuja hacia arriba y salta con los pies hacia las manos para volver a la sentadilla profunda.
+
+  5. Salta explosivamente hacia arriba, extendiendo los brazos sobre la cabeza. Aterriza suavemente sobre
+  la parte delantera de los pies y comienza enseguida la siguiente repetición.
+
+
+  Notas:
+
+  Mantén el tronco firme durante la plancha y la flexión para evitar que las caderas se hundan.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2698'
+  license: "CC-BY-SA-4.0"
+  license_author: "er0355"
+  source_id: "354"

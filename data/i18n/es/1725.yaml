@@ -1,11 +1,11 @@
 exercise_id: '1725'
 language: es
-status: ai_reviewed
-name: Remo sentado (máquina)
-description: |-
-  Mantén el pecho erguido y aprieta los omóplatos al final del movimiento.
-  No te encorves hacia delante ni redondees la espalda durante la tracción.
+status: ai_authored
+translated_from: en
+name: Remo sentado en máquina
+description: Mantén el pecho erguido y junta los omóplatos al final del tirón. No te encorves ni redondees
+  la espalda al tirar.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4128'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2851"

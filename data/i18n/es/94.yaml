@@ -1,11 +1,18 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '94'
 language: es
-status: ai_reviewed
-name: Curl de biceps con barra Z
-description: |-
-  Sostenga la barra SZ a la altura de los hombros, la espalda recta, los hombros ligeramente hacia atrás, los brazos estirados. Dobla los brazos, elevando el peso, con un movimiento rápido. Sin pausa, baja la barra con un movimiento lento y controlado.
-  No dejes que tu cuerpo se balancee durante el ejercicio, todo el trabajo lo hacen los bíceps, que son los únicos músculos que deben moverse (presta atención a los codos).
+status: ai_authored
+translated_from: en
+name: Curl de bíceps con barra EZ
+description: 'Sujeta la barra EZ al ancho de los hombros. Mantén la espalda recta, los hombros ligeramente
+  hacia atrás y los brazos extendidos. Flexiona los brazos y sube el peso con un movimiento rápido. Sin
+  hacer una pausa, baja la barra despacio y de forma controlada.
+
+  No balancees el cuerpo durante el ejercicio: el trabajo lo hacen los bíceps y solo deben moverse los
+  brazos (presta atención a los codos).'
+search_terms:
+- Curl de bíceps con barra SZ
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '2091'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "80"

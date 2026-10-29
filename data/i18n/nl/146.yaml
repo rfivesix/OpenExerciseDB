@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '146'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kuitdruk op de leg press
+description: 'Beginpositie:
+
+  Ga op de leg press zitten en plaats de bal van je voeten op de onderste rand van de voetplaat, zodat
+  je hielen eronder vrij kunnen bewegen. Ontgrendel de veiligheidsstops met je knieën licht gebogen, niet
+  op slot.
+
+
+  Uitvoering:
+
+  1. Laat je hielen zakken door je enkels te buigen, zodat je kuiten volledig rekken.
+
+  2. Duw met de bal van je voeten en je tenen het platform van je af en strek je enkels volledig.
+
+  3. Span je kuiten bovenaan één seconde aan en laat je hielen langzaam terugzakken naar de gestrekte
+  positie.
+
+
+  Opmerkingen:
+
+  Houd je knieën tijdens de hele set licht ontgrendeld om de spanning op de gastrocnemius te richten.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "nate303303"
+  source_id: "308"

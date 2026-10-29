@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1620'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende kuitheffing met dumbbell
+description: 'De zittende kuitheffing met dumbbell is een gerichte oefening om de spieren van het onderbeen
+  te versterken. Het bewegingspatroon is hetzelfde als bij de machinevariant: plaats het gewicht op je
+  knieën en verplaats het door je enkels te strekken en te buigen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2602"

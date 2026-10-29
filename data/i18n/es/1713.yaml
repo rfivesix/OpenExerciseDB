@@ -1,11 +1,15 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1713'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Estiramiento de pectoral en el marco de la puerta
-description: |-
-  Coloca el antebrazo en vertical sobre el marco de una puerta o un objeto fijo a la altura de la cabeza.
-  Da un paso hacia delante sobrepasando el brazo, manteniéndolo inmóvil contra el objeto para estirar el pecho.
+description: 'Coloca el antebrazo en vertical sobre el marco de una puerta o un objeto fijo a la altura
+  de la cabeza.
+
+  Da un paso hacia delante sobrepasando el brazo, manteniéndolo inmóvil contra el objeto para estirar
+  el pecho.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3634'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2836"
+translated_from: en

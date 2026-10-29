@@ -1,21 +1,28 @@
 exercise_id: '1748'
 language: es
-status: ai_reviewed
-name: Abducción de cadera en máquina
-description: "Posición inicial:\nSiéntate en la máquina de abducción con la espalda\
-  \ bien apoyada en el respaldo. Coloca la parte externa de los muslos y rodillas\
-  \ contra las almohadillas acolchadas. Apoya los pies en los soportes y sujeta los\
-  \ agarres laterales para estabilizar la pelvis.\n\nEjecución:\n1. Empuja las piernas\
-  \ hacia afuera separándolas mediante la fuerza del glúteo medio y los abductores\
-  \ de cadera.\n2. Abre al máximo rango de movimiento y mantén la contracción durante\
-  \ 1 a 2 segundos en el punto final.\n3. Regresa lentamente juntando las piernas\
-  \ de manera controlada sin que las placas de peso choquen.\n\nConsejos:\nMantén\
-  \ el torso estable y evita balancearte hacia adelante o atrás durante el movimiento."
+status: ai_authored
+translated_from: en
+name: Abducción de cadera sentada en máquina
+description: 'Siéntate erguido en la máquina de abducción, con la espalda apoyada. Coloca la parte externa
+  de las rodillas y los muslos contra las almohadillas. Apoya los pies en las plataformas y sujeta las
+  asas laterales para estabilizar la pelvis.
+
+
+  1. Empuja las piernas hacia fuera contra las almohadillas, contrayendo glúteo medio y músculos externos
+  de la cadera.
+
+  2. Abre las piernas hasta un recorrido cómodo y haz una pausa de 1–2 segundos arriba.
+
+  3. Devuelve lentamente las rodillas hacia el centro, resistiendo el peso y sin dejar que la pila toque
+  abajo entre repeticiones.
+
+
+  Mantén las caderas apoyadas y el torso quieto; no uses impulso ni te balancees.'
 search_terms:
-  - Abducción en máquina
-  - Máquina de abductores
-  - Hip Abduction Machine
+- Abducción de cadera en máquina
+- Abducción de cadera sentada
+- Máquina para abductores de cadera
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Tierrasverdes
-  source_id: '2883'
+  license: "CC-BY-SA-4.0"
+  license_author: "Tierrasverdes"
+  source_id: "2882"

@@ -1,12 +1,31 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '167'
 language: es
-status: ai_reviewed
-name: Abdominales
-description: |-
-  Acuéstese boca arriba en el suelo con las rodillas dobladas.
-  Flexione los hombros hacia la pelvis. Las manos pueden estar detrás o al costado del cuello o cruzadas sobre el pecho.
-  Repita
+status: ai_authored
+translated_from: en
+name: Encogimiento abdominal
+description: 'Posición inicial:
+
+  Túmbate boca arriba sobre una esterilla con las rodillas flexionadas y los pies apoyados al ancho de
+  las caderas. Coloca las manos suavemente detrás de la cabeza, sin entrelazar los dedos, o crúzalas sobre
+  el pecho.
+
+
+  Ejecución:
+
+  1. Contrae los abdominales para flexionar la parte superior de la columna y elevar los omóplatos del
+  suelo hacia la pelvis.
+
+  2. Espira y mantén la contracción máxima durante un segundo arriba.
+
+  3. Baja lentamente la parte superior de la espalda de forma controlada, manteniendo la tensión abdominal.
+
+
+  Notas:
+
+  No tires del cuello con las manos. Mantén la zona lumbar en contacto con la esterilla; se trata de flexionar
+  la columna, no de hacer una incorporación completa.'
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '1311'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "91"

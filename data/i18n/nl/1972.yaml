@@ -1,0 +1,36 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1972'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige lat pulldown
+description: 'Startpositie:
+
+  Ga bij een lat-pulldownmachine zitten en pak één D-handgreep met een neutrale greep (handpalm naar binnen).
+  Houd je borst omhoog, je romp stabiel en je schouderbladen laag.
+
+
+  Uitvoering:
+
+  1. Trek de handgreep soepel omlaag naar je bovenborst en sleutelbeen door je elleboog omlaag en dicht
+  langs je ribben te bewegen.
+
+  2. Span je brede rugspier onderaan 1 seconde stevig aan.
+
+  3. Laat de handgreep langzaam en volledig gecontroleerd boven je hoofd terugkeren tot je arm gestrekt
+  is en je de lats voelt rekken.
+
+  4. Maak alle herhalingen aan één kant af en wissel dan van arm.
+
+
+  Aandachtspunten:
+
+  Draai je romp niet en leun niet opzij. Houd je schouders recht en span je romp aan.'
+search_terms:
+- Eenarmige lat pulldown
+- Eenarmige kabelpulldown
+- Unilaterale lat pulldown
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "evtimovgeorg"
+  source_id: "3127"

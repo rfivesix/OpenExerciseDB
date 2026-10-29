@@ -1,0 +1,28 @@
+exercise_id: '1737'
+language: es
+status: ai_authored
+translated_from: en
+name: Dominada supina asistida en máquina
+description: 'Posición inicial:
+
+  Selecciona el contrapeso adecuado en la máquina de dominadas asistidas. Apoya las rodillas en la plataforma
+  acolchada y sujeta la barra con agarre supino al ancho de los hombros. Baja hasta quedar colgado con
+  los brazos extendidos y de forma controlada.
+
+
+  Ejecución:
+
+  1. Sube llevando los codos hacia abajo y atrás hasta que la barbilla supere la barra.
+
+  2. Contrae dorsales y bíceps arriba.
+
+  3. Baja despacio y con control hasta casi extender por completo los brazos.
+
+
+  Consejos:
+
+  Usa la asistencia para centrarte en un recorrido completo y un movimiento controlado, sin balanceos
+  ni patadas.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2867"

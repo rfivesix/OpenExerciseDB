@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1554'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-up met klap
+search_terms:
+- "Push-up met klap"
+- "Push-up met klappende handen"
+- "Plyometrische push-up"
+description: 'De push-up met klap is een explosieve oefening voor het bovenlichaam die kracht en snelle
+  spiervezels traint. De plyometrische variant op de gewone push-up vereist dat je handen halverwege de
+  herhaling van de vloer loskomen.
+
+
+  Begin in een stevige push-uphouding met je handen iets breder dan schouderbreedte en je romp aangespannen.
+
+  Laat je lichaam zakken en duw explosief van de vloer zodat je handen loskomen.
+
+  Klap snel op borsthoogte en plaats je handen weer op de vloer.
+
+  Land met licht gebogen ellebogen om de impact op te vangen en ga direct door met de volgende herhaling.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Settebello"
+  source_id: "2501"

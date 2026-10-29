@@ -1,20 +1,32 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1830'
 language: es
-status: ai_reviewed
-name: Zancada hacia atrás con barra
-description: "Posición inicial:\nApoya una barra sobre la parte alta de la espalda.\
-  \ Ponte de pie erguido con los pies al ancho de las caderas y el core activado.\n\
-  \nEjecución:\n1. Da un paso amplio y controlado hacia atrás con una pierna manteniendo\
-  \ el torso recto.\n2. Desciende la cadera hasta que el muslo delantero quede paralelo\
-  \ al suelo y la rodilla trasera roce casi el suelo.\n3. Empuja con fuerza a través\
-  \ del talón de la pierna DELANTERA para regresar a la posición inicial.\n4. Alterna\
-  \ de pierna o completa todas las repeticiones por lado.\n\nConsejos:\nEl empuje\
-  \ debe provenir del talón delantero y no de un rebote con el pie trasero."
-search_terms:
-  - Zancada hacia atrás con barra
-  - Barbell Reverse Lunge
-  - Zancada inversa
+status: ai_authored
+translated_from: en
+name: Zancada inversa con barra
+description: 'Posición inicial: Apoya una barra sobre el trapecio superior. Ponte erguido con los pies
+  al ancho de las caderas, el pecho abierto y el core firme.
+
+
+  Ejecución:
+
+  1. Da un paso deliberado y controlado hacia atrás con una pierna, manteniendo las caderas alineadas.
+
+  2. Baja las caderas verticalmente hasta que el muslo delantero quede paralelo al suelo y la rodilla
+  trasera casi toque la esterilla (ambas rodillas aproximadamente a 90°).
+
+  3. Empuja con firmeza desde el talón y el mediopié de la pierna delantera para volver al inicio.
+
+  4. Repite con la otra pierna alternando los lados o completa todas las repeticiones de un lado antes
+  de cambiar.
+
+
+  Indicaciones: Empuja desde el talón delantero en lugar de impulsarte con el pie trasero, para mantener
+  la tensión en el glúteo y el cuádriceps delanteros.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4210'
+  license: "CC-BY-SA-4.0"
+  source_id: "2965"
+search_terms:
+- Zancada atrás con barra
+- Zancada inversa con barra
+- Zancadas inversas con barra

@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1861'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento lateral
+description: 'Posición inicial: Ponte de pie con los pies al ancho de las caderas o los hombros. Activa
+  ligeramente el core.
+
+
+  Ejecución: Eleva un brazo por encima de la cabeza e inclina lentamente el torso hacia el lado contrario,
+  dejando que la otra mano baje por el muslo. Nota el estiramiento en las costillas, oblicuos y dorsal
+  ancho.
+
+
+  Consejos: Mantén las caderas alineadas y evita girar el torso hacia delante o atrás. Mantén 20–30 segundos
+  y cambia de lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3003"

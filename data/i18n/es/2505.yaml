@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2505'
+language: es
+status: ai_authored
+translated_from: en
+name: Dead bug
+description: 'Posición inicial:
+
+  Túmbate boca arriba sobre una esterilla y extiende los brazos hacia el techo. Eleva las piernas y flexiona
+  caderas y rodillas a 90 grados, con las tibias paralelas al suelo. Presiona la zona lumbar contra el
+  suelo activando el abdomen.
+
+
+  Ejecución:
+
+  1. Baja lentamente el brazo derecho por encima de la cabeza hacia el suelo, detrás de ti, mientras extiendes
+  la pierna izquierda justo por encima del suelo.
+
+  2. Mantén la zona lumbar completamente pegada al suelo durante todo el movimiento.
+
+  3. Devuelve el brazo y la pierna a la posición inicial con control.
+
+  4. Repite con el brazo izquierdo y la pierna derecha, alternando con suavidad.
+
+
+  Consejos:
+
+  Baja las extremidades solo hasta donde puedas mantener la zona lumbar en contacto con el suelo.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4990"
+search_terms:
+- Dead bug (core L1)
+- Ejercicio dead bug
+- Dead bug para el core

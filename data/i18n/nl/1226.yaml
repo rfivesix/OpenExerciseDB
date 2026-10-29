@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1226'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met dumbbells naar overhead press
+description: 'Startpositie:
+
+  • Sta rechtop met je voeten op heupbreedte en houd in elke hand een dumbbell naast je lichaam, met gestrekte
+  armen.
+
+  • Span je romp aan en trek je schouders naar achteren.
+
+
+  Uitvoering:
+
+  • Curl de dumbbells door je ellebogen te buigen naar je schouders.
+
+  • Draai je polsen soepel naar buiten en druk de dumbbells recht boven je hoofd tot je armen gestrekt
+  zijn.
+
+  • Laat de overhead press langzaam terugzakken tot schouderhoogte en laat daarna de dumbbells via de
+  neerwaartse curl zakken naar de startpositie.'
+search_terms:
+- "Dumbbell biceps curl naar press"
+- "Curl naar press"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Lynn_McIntyre"
+  source_id: "2191"

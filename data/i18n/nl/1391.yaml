@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1391'
+language: nl
+status: ai_authored
+translated_from: en
+name: Elephant walks
+description: Scharnier vanuit je heupen totdat je een rek achter je knieën voelt. Buig één been terwijl
+  het andere gestrekt blijft. Buig vervolgens vloeiend de andere knie terwijl je het eerste been weer
+  strekt.
+search_terms:
+- Estiramiento de isquiotibiales caminando
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2358"

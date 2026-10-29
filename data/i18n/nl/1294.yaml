@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1294'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hamstring curl met één been
+description: 'Beginpositie:
+
+  Ga op je rug op een mat liggen. Plaats de hiel van één been op de vloer (of op een glijschijf of handdoek)
+  met de knie licht gebogen. Houd je andere been van de grond.
+
+
+  Uitvoering:
+
+  1. Til je heupen van de mat tot een eenbenige brugpositie.
+
+  2. Buig je knie en trek je hiel richting je bil, waarbij je je hamstrings stevig aanspant.
+
+  3. Strek je been langzaam en gecontroleerd weer uit terwijl je je heupen hoog houdt.
+
+
+  Tips:
+
+  Deze oefening traint de hamstrings (biceps femoris, semimembranosus en semitendinosus) eenzijdig met
+  alleen lichaamsgewicht.'
+search_terms:
+- Curl femoral a una pierna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2260"

@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1582'
+language: nl
+status: ai_authored
+translated_from: en
+name: Inwendige rotatie op de zij
+description: Ga op je zij liggen en gebruik de arm die het dichtst bij de bank ligt. Houd je elleboog
+  90 graden gebogen en laat het gewicht naast de bank zo ver zakken als comfortabel is. Breng het gewicht
+  vervolgens naar de tegenoverliggende schouder door alleen je schouder te roteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "CptnFatbeard"
+  source_id: "2530"

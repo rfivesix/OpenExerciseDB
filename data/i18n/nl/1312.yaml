@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1312'
+language: nl
+status: ai_authored
+translated_from: en
+name: Squat met lichaamsgewicht
+description: De squat is een oefening met lichaamsgewicht en een van de populairste oefeningen voor kracht
+  en spiergroei. De oefening richt zich vooral op de spieren van de benen en heupen. Squats zijn eenvoudig
+  uit te voeren voor beginners. Ze kunnen de beenspieren versterken, de heupspieren aanspannen en calorieën
+  verbranden om af te vallen. Ze verstevigen de billen en benen en trainen de bilspieren, heupbuigers,
+  quadriceps, hamstrings en binnenkant van de dijen. Squats met lichaamsgewicht kunnen ook helpen de bilspieren
+  vorm te geven.
+search_terms:
+- Sentadilla con peso corporal
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2277"

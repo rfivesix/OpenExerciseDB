@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1186'
+language: es
+name: Remo inclinado a una mano en polea
+description: Fija un agarre individual en D a la polea baja. Ponte frente a la máquina con una postura
+  escalonada o atlética e inclínate desde las caderas con la espalda recta. Sujeta el agarre con una mano
+  y deja el brazo extendido hacia la polea. Tira hacia la cadera o cintura manteniendo el codo cerca del
+  torso. Retrae la escápula y contrae el dorsal; vuelve a extender el brazo hacia delante con control.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anto.kreegyr"
+  source_id: "2142"
+search_terms:
+- Remo inclinado a una mano
+- Remo a una mano en polea

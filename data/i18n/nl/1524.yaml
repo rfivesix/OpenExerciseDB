@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1524'
+language: nl
+status: ai_authored
+translated_from: en
+name: Battle ropes
+description: 'Startpositie:
+
+  Sta met je voeten op schouderbreedte in een atletische kwart-squat. Houd de touwhandgrepen met een neutrale
+  greep voor je heupen vast.
+
+
+  Uitvoering:
+
+  1. Beweeg je armen afwisselend of tegelijk explosief op en neer om doorlopende golven naar het ankerpunt
+  te sturen.
+
+  2. Houd je core stevig en je rug neutraal om de beweging op te vangen.
+
+  3. Houd het tempo hoog gedurende het voorgeschreven interval.
+
+
+  Aandachtspunten:
+
+  Battle ropes geven intensieve cardiovasculaire training en belasten ook schouders, lats en core.'
+search_terms:
+- Battle rope waves
+- battleropes
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "flanny"
+  source_id: "2480"

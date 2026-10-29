@@ -1,22 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1834'
 language: es
-status: ai_reviewed
-name: Elevación Trap-3 (Trapecio inferior)
-description: "Posición inicial:\nInclina el torso hacia adelante desde la cadera a\
-  \ unos 45 grados con la espalda recta. Apoya una mano en la rodilla o en un banco\
-  \ como soporte. Deja colgar el brazo de trabajo con el pulgar hacia arriba y la\
-  \ escápula deprimida hacia abajo.\n\nEjecución:\n1. Con el codo bloqueado y extendido,\
-  \ eleva el brazo diagonalmente hacia adelante y arriba unos 15 a 30 grados por encima\
-  \ de la cabeza.\n2. Mantén el hombro descendido y alejado de la oreja para activar\
-  \ el trapecio inferior (Trap-3).\n3. Sostén la contracción durante 1 o 2 segundos\
-  \ en el punto más alto.\n4. Desciende el brazo lentamente con control a la posición\
-  \ inicial.\n\nConsejos:\nNo encojas el hombro hacia el cuello; el movimiento aísla\
-  \ el trapecio inferior."
-search_terms:
-  - Elevación Trap-3
-  - Trap-3 Raise
-  - Elevación trapecio inferior
+status: ai_authored
+translated_from: en
+name: Elevación Trap-3
+description: 'Posición inicial: Inclínate desde las caderas unos 45°, con la espalda plana y las rodillas
+  ligeramente flexionadas. Apoya una mano en la rodilla o en un banco inclinado. Deja colgar el brazo
+  de trabajo con el pulgar hacia arriba. Baja y retrae activamente el omóplato.
+
+
+  Ejecución:
+
+  1. Con el codo extendido, eleva el brazo en diagonal hacia delante y arriba hasta que la mano quede
+  unos 15–30° por encima de la cabeza.
+
+  2. Mantén el omóplato abajo, lejos de la oreja, para aislar el trapecio inferior (Trap 3).
+
+  3. Pausa 1–2 segundos arriba, notando la contracción en la parte media e inferior de la espalda.
+
+  4. Baja el brazo suavemente y con control.
+
+
+  Indicaciones: No encojas el trapecio superior hacia la oreja; el objetivo es activar el trapecio inferior
+  y la rotación ascendente del omóplato.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4214'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2969"
+search_terms:
+- Elevación Trap-3
+- Elevación de trapecio inferior
+- Elevación Trap 3 de Poliquin

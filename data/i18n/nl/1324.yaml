@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1324'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lunge met lichaamsgewicht
+description: Lunges met lichaamsgewicht versterken het onderlichaam, verbeteren balans en stabiliteit
+  en ontwikkelen functionele kracht. Ze zijn populair bij calisthenics en thuistraining en passen ook
+  in een uitgebreider krachttrainingsprogramma.
+search_terms:
+- Zancada con peso corporal
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2297"

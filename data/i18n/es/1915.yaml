@@ -1,24 +1,32 @@
 exercise_id: '1915'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Abducción de cadera en cuadrupedia (Fire Hydrant)
 description: 'Posición inicial:
 
-  Colócate a cuatro patas sobre una esterilla con las manos bajo los hombros y las rodillas bajo las caderas. Opcionalmente, coloca una banda elástica justo por encima de las rodillas. Mantén el abdomen activo y la espalda recta.
+  Colócate a cuatro patas sobre una esterilla con las manos bajo los hombros y las
+  rodillas bajo las caderas. Opcionalmente, coloca una banda elástica justo por encima
+  de las rodillas. Mantén el abdomen activo y la espalda recta.
 
 
   Ejecución:
 
-  Con la rodilla flexionada a 90 grados, eleva una pierna lateralmente hacia fuera hasta que el muslo quede casi paralelo al suelo. Aprieta el glúteo medio y evita rotar la pelvis. Baja lentamente la pierna sin apoyarla del todo y repite. Completa la serie antes de cambiar de pierna.
+  Con la rodilla flexionada a 90 grados, eleva una pierna lateralmente hacia fuera
+  hasta que el muslo quede casi paralelo al suelo. Aprieta el glúteo medio y evita
+  rotar la pelvis. Baja lentamente la pierna sin apoyarla del todo y repite. Completa
+  la serie antes de cambiar de pierna.
 
 
   Consejos:
 
-  Imagina que llevas un vaso de agua en la zona lumbar: no permitas que la espalda se balancee ni se incline.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4283'
+  Imagina que llevas un vaso de agua en la zona lumbar: no permitas que la espalda
+  se balancee ni se incline.'
 search_terms:
 - Abducción de cadera en cuadrupedia
-- Fire Hydrant
+- Fire hydrant
+- Fire hydrant con banda
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "treder"
+  source_id: "3062"
+translated_from: en

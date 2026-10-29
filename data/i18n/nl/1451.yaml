@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1451'
+language: nl
+status: ai_authored
+translated_from: en
+name: Rek met romprotatie
+description: Sta met je voeten op schouderbreedte en je knieën licht gebogen, of zit rechtop. Plaats je
+  handen op je heupen of kruis je armen over je borst. Draai je bovenlichaam langzaam naar één kant terwijl
+  je heupen en bekken recht naar voren blijven wijzen. Houd de rek in je romp en borstkas 15 tot 30 seconden
+  vast en adem normaal. Keer terug naar het midden en draai naar de andere kant.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2417"

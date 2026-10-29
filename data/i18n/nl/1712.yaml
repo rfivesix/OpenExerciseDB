@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1712'
+language: nl
+status: ai_authored
+translated_from: en
+name: Horizontale schouderflexie-stretch
+description: Til je arm zijwaarts op en plaats je hand op schouderhoogte tegen een muur of deurpost naast
+  je. Draai je lichaam van je arm af tot je de borst voelt rekken, zover als comfortabel is.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2835"

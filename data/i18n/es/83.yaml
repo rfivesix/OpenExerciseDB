@@ -1,11 +1,19 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '83'
 language: es
-status: ai_reviewed
-name: Remo Inclinado con Barra (agarre prono)
-description: |-
-  Sujeta la barra con un agarre prono (palmas hacia abajo) y las manos un poco más abiertas que el ancho de tus hombros. Inclina tu torso hacia adelante desde la cadera, manteniendo la espalda completamente recta y las rodillas ligeramente flexionadas, hasta que el torso quede casi paralelo al suelo. La barra debe colgar con los brazos extendidos.
-  Desde esa posición, y manteniendo el torso fijo, jala la barra hacia la parte baja de tu abdomen. Mantén los codos cerca del cuerpo, aprieta los músculos de la espalda por un segundo en la cima del movimiento y luego baja la barra de forma lenta y controlada hasta la posición inicial.
+status: ai_authored
+translated_from: en
+name: Remo inclinado con barra
+description: 'Sujeta una barra con agarre prono (palmas hacia abajo). Flexiona ligeramente las rodillas
+  e inclina el torso desde la cintura, manteniendo la espalda recta, hasta que quede casi paralelo al
+  suelo. Mantén la cabeza elevada. La barra cuelga justo delante de ti y los brazos quedan perpendiculares
+  al suelo y al torso; esta es la posición inicial.
+
+  Sin mover el torso, espira y tira de la barra hacia ti. Mantén los codos cerca del cuerpo y usa los
+  antebrazos únicamente para sujetar el peso. Arriba, contrae la espalda y haz una breve pausa.
+
+  Inspira y baja lentamente la barra a la posición inicial. Repite las repeticiones indicadas.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2668'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "109"

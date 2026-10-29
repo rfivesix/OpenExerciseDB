@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1437'
+language: nl
+status: ai_authored
+translated_from: en
+name: Squat met halter vanaf pinnen
+description: Stel de veiligheidssteunen in het rek in op de gewenste diepte (bijvoorbeeld parallel of
+  net boven het knelpunt). Leg de halterstang op je bovenrug, neem je gebruikelijke squatstand aan en
+  span je romp aan. Zak beheerst tot de stang zacht op de steunen rust. Pauzeer volledig 1 tot 2 seconden
+  met aangespannen romp en benen en duw jezelf dan via je middenvoet en hielen omhoog. Verlies je rompspanning
+  niet wanneer de stang op de steunen rust.
+search_terms:
+- Pin squat
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2401"

@@ -1,14 +1,16 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '48'
 language: es
-status: ai_reviewed
-name: Curl de Muñeca Inverso con Barra
-description: |-
-  Este ejercicio se enfoca en fortalecer los músculos extensores del antebrazo, ubicados en la parte superior del mismo. Es clave para mejorar la fuerza de agarre y la estabilidad de la muñeca.
-  Cómo realizarlo:
+status: ai_authored
+translated_from: en
+name: Curl inverso de muñeca con barra
+description: 'Siéntate en un banco y sujeta una barra con las palmas hacia abajo y las manos separadas
+  al ancho de los hombros. Apoya los antebrazos sobre los muslos y deja las muñecas colgando más allá
+  de las rodillas.
 
-  Preparación: Siéntate en un banco y agarra una barra con las palmas mirando hacia abajo (agarre prono), con las manos separadas al ancho de los hombros. Apoya tus antebrazos firmemente sobre los muslos, de manera que tus muñecas queden libres justo por delante de las rodillas.
-  Ejecución: Desde esa posición, extiende las muñecas para levantar la barra tan alto como puedas, llevando los nudillos hacia el techo. Haz una pausa en el punto de máxima contracción y luego baja la barra de forma lenta y controlada, permitiendo que tus muñecas se flexionen completamente hacia abajo en la parte inferior del movimiento para un estiramiento completo.
+  Flexiona las muñecas para acercar los nudillos a la cara y levantar la barra. Haz una breve pausa arriba
+  y vuelve lentamente a la posición inicial.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2569'
+  license: "CC-BY-SA-4.0"
+  license_author: "burenl"
+  source_id: "759"

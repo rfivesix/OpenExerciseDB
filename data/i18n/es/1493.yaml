@@ -1,0 +1,27 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1493'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl bayesiano en polea
+description: 'Posición inicial:
+
+  Fija un agarre individual a una polea baja. Colócate de espaldas a la torre, con una pierna adelantada,
+  y sujeta el agarre detrás del torso con el brazo extendido hacia atrás.
+
+
+  Ejecución:
+
+  1. Mantén quieto el brazo superior detrás del cuerpo y flexiona el codo para llevar el agarre hacia
+  el hombro.
+
+  2. Contrae el bíceps durante un segundo arriba.
+
+  3. Baja despacio el agarre hasta extender el brazo detrás de ti y sentir el estiramiento.'
+search_terms:
+- Curl bayesiano
+- curl de bíceps en polea por detrás del cuerpo
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "aahuja"
+  source_id: "2456"

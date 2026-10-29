@@ -1,12 +1,21 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '84'
 language: es
-status: ai_reviewed
-name: Remo inclinado con agarre invertido
-description: |-
-  Igual que el remo normal, pero con un agarre invertido (las palmas apuntando hacia delante):
-  Agarra la barra con un agarre amplio (algo más que la anchura de los hombros) e inclínate hacia delante. Tu tronco no queda del todo paralelo al suelo, sino que forma un ligero ángulo. El pecho permanece hacia fuera durante todo el ejercicio.
-  Ahora tira de la barra con un movimiento rápido hacia el ombligo, no más arriba. Baja lentamente a la posición inicial. No te balancees con el cuerpo y mantén los brazos pegados al cuerpo.
+status: ai_authored
+translated_from: en
+name: Remo inclinado con barra y agarre inverso
+description: 'Igual que el remo habitual, pero con agarre inverso (las palmas hacia delante):
+
+  Sujeta la barra con un agarre amplio, algo mayor que el ancho de los hombros, e inclínate hacia delante.
+  El torso no queda del todo paralelo al suelo, sino ligeramente inclinado. Mantén el pecho hacia fuera
+  durante todo el ejercicio.
+
+  Tira de la barra con un movimiento rápido hacia el ombligo, sin subirla más. Vuelve despacio a la posición
+  inicial. No balancees el cuerpo y mantén los brazos junto al torso.'
+search_terms:
+- Remo inclinado inverso
+- Remo con barra en supinación
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3689'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "110"

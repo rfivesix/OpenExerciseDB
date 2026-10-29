@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1098'
+language: es
+name: Elevación de deltoides posterior sentado
+description: Siéntate en el borde de un banco con los pies juntos. Sujeta mancuernas ligeras, inclínate
+  desde las caderas y acerca el pecho a los muslos; deja las pesas colgando debajo de las piernas con
+  los codos ligeramente flexionados. Eleva ambos brazos hacia los lados en un arco amplio, guiando con
+  los codos, hasta que los brazos queden aproximadamente paralelos al suelo. Contrae los deltoides posteriores
+  y junta las escápulas. Haz una pausa breve sin impulso y baja con control.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2057"
+search_terms:
+- Elevación de deltoides posterior sentado

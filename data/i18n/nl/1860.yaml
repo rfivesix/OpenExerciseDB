@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1860'
+language: nl
+status: ai_authored
+translated_from: en
+name: Foamroller voor adductoren
+description: 'Beginpositie: Ga op je buik liggen en steun op je onderarmen. Plaats de foamroller parallel
+  aan je lichaam. Buig één been ongeveer 90° naar buiten en leg de binnenkant van je dij op de roller.
+
+
+  Uitvoering: Rol langzaam van net boven je binnenknie richting je lies en terug.
+
+
+  Tips: Regel de druk op de roller met je armen en steunbeen. Blijf rustig ademen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3001"

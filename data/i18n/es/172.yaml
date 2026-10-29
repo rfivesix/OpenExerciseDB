@@ -1,16 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '172'
 language: es
-status: ai_reviewed
-name: Abdominales en Máquina
-search_terms:
-- crunch en máquina
-- crunch en máquina
-description: |-
-  Esta máquina permite aislar y añadir resistencia de forma segura y controlada para fortalecer el recto abdominal.
-  Instrucciones:
-  Siéntate en la máquina y ajusta el asiento y las almohadillas (que usualmente van sobre los hombros o el pecho, según el diseño). Sujeta firmemente los agarres con los pies bien apoyados.
-  Contrae con fuerza el abdomen para flexionar tu columna vertebral, como si intentaras "enrollarte" sobre ti mismo y llevar tus costillas hacia tu pelvis. El movimiento debe ser un encogimiento abdominal, no una simple inclinación desde la cadera. Regresa de forma lenta y controlada, resistiendo el peso.
+status: ai_authored
+translated_from: en
+name: Encogimiento abdominal en máquina
+description: El procedimiento es muy parecido al crunch normal, pero con el peso adicional de la máquina.
+  Siéntate en la máquina y apoya bien ambos pies en el suelo. Sujeta las pesas, los cables u otros elementos
+  y flexiona el tronco hacia delante en un movimiento de enrollamiento (idealmente, la columna se despega
+  vértebra a vértebra). Vuelve lentamente a la posición inicial.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2697'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "94"

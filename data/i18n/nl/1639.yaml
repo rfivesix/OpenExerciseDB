@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1639'
+language: nl
+status: ai_authored
+translated_from: en
+name: Voorovergebogen face pull met dumbbells
+description: Bij deze oefening voer je met dumbbells een voorovergebogen face pull uit, gericht op de
+  bovenrug en schouders. Trek de gewichten naar je gezicht terwijl je je ellebogen hoog houdt en je schouderbladen
+  naar elkaar toe trekt.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2745"

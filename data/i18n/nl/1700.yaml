@@ -1,0 +1,16 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1700'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roemeense deadlift met halterstang
+description: 'Uitvoering
+
+
+  Heupscharnier: Duw je heupen naar achteren en houd je knieën licht gebogen. Laat de halterstang langs
+  de voorkant van je dijen en schenen zakken, met een neutrale wervelkolom. Houd de stang dicht bij je
+  lichaam.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2819"

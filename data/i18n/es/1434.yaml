@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1434'
+language: es
+status: ai_authored
+translated_from: en
+name: Jalón inclinado con mancuernas
+description: Empieza de pie, con los pies al ancho de las caderas y las rodillas ligeramente flexionadas.
+  Inclínate desde las caderas unos 45 grados con la columna neutra y sujeta una mancuerna en cada mano,
+  con los brazos extendidos y los codos algo desbloqueados. Lleva las mancuernas en un arco hacia las
+  caderas manteniendo casi fijo el ángulo de los codos. Aprieta los dorsales arriba y baja con control.
+  No conviertas el movimiento en un remo convencional.
+search_terms:
+- Jalón con mancuerna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2398"

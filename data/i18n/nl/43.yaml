@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '43'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hack squat met halterstang
+description: 'Beginpositie:
+
+  Leg een halterstang op de vloer vlak achter je hielen. Sta met je voeten op heup- tot schouderbreedte.
+  Zak met je borst omhoog en je rug recht in een squat en pak de stang achter je benen met een bovenhandse
+  greep (handpalmen naar achteren).
+
+
+  Uitvoering:
+
+  1. Duw via je hielen en voeten de knieën en heupen gestrekt en til de stang langs de achterkant van
+  je benen tot je rechtop staat.
+
+  2. Span bovenaan je quadriceps en bilspieren aan.
+
+  3. Laat de stang gecontroleerd langs dezelfde baan zakken tot de schijven de vloer raken.
+
+
+  Opmerkingen:
+
+  Houd je romp tijdens de beweging zo rechtop mogelijk om de quadriceps te benadrukken.'
+search_terms:
+- Hack squats met halterstang
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "BePieToday"
+  source_id: "407"

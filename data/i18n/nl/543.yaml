@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '543'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderdrukken op de machine
+description: 'Startpositie: Ga op de schouderdrukmachine zitten en stel de zithoogte zo af dat de handgrepen op
+  schouderhoogte staan. Houd je rug stevig tegen de leuning en je voeten plat op de vloer.
+
+  Uitvoering: Duw de handgrepen gecontroleerd boven je hoofd tot je armen gestrekt zijn, zonder je ellebogen te
+  vergrendelen.
+
+  Terugkeer: Laat het gewicht langzaam terugzakken naar de startpositie op schouderhoogte.'
+search_terms:
+- Schouderdrukken op de machine
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "152"

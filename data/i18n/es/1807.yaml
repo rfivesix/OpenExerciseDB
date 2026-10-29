@@ -1,20 +1,28 @@
 exercise_id: '1807'
 language: es
 status: ai_authored
+translated_from: en
 name: Elevación lateral en polea por detrás de la espalda
-description: "Posición inicial:\nColócate de lado junto a una polea baja. Pasa la\
-  \ mano exterior por detrás de los glúteos para sujetar la manija. Sujétate al soporte\
-  \ de la máquina con la mano interior e inclina el torso ligeramente hacia adelante.\n\
-  \nEjecución:\n1. Con una ligera flexión en el codo, eleva el brazo lateralmente\
-  \ hasta la altura del hombro.\n2. Contrae fuertemente el deltoides lateral en el\
-  \ punto más alto durante un segundo.\n3. Desciende la polea lentamente por detrás\
-  \ del cuerpo manteniendo la tensión continua.\n\nConsejos:\nPasar el cable por detrás\
-  \ evita el roce contra los muslos y proporciona una línea de tracción óptima para\
-  \ el hombro lateral."
+description: 'Colócate de lado junto a una polea baja. Lleva la mano exterior por detrás de los glúteos
+  para sujetar el agarre en D. Con la mano interior, sujétate al montante y flexiona ligeramente el torso
+  hacia delante, con el pecho erguido.
+
+
+  1. Con el codo ligeramente flexionado, eleva el brazo hacia fuera y arriba hasta que la mano llegue
+  a la altura del hombro.
+
+  2. Contrae el deltoides lateral arriba y mantén una pausa de un segundo.
+
+  3. Baja el agarre lentamente detrás del cuerpo, manteniendo la tensión en el hombro.
+
+
+  La fuente señala que pasar el cable por detrás evita que el agarre choque con las caderas y mantiene
+  tensión en la posición estirada.'
 search_terms:
-  - Elevación lateral en polea por detrás de la espalda
-  - Behind-the-Back Lateral Raise
+- Elevación lateral detrás de la espalda
+- Elevación lateral con cable
+- Elevación lateral de hombro con cable
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4233'
+  license: "CC-BY-SA-4.0"
+  license_author: "LEBRERO"
+  source_id: "2934"

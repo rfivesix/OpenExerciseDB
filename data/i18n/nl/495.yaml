@@ -1,0 +1,12 @@
+exercise_id: '495'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met omgekeerde greep
+description: De curl met halterstang en omgekeerde greep is een variant van de bicepscurl waarbij je handpalmen
+  omlaag wijzen. Door van een onderhandse naar een bovenhandse greep te wisselen, werken de onderarmspieren
+  en de brachialis meer mee.
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "771"

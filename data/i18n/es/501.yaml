@@ -1,0 +1,19 @@
+exercise_id: '501'
+language: es
+status: ai_authored
+translated_from: en
+name: Fondos en anillas
+description: 'Posición inicial: Sostente en las anillas con los brazos completamente extendidos. Mantén
+  el tronco firme, el cuerpo estable y gira las anillas ligeramente hacia fuera (posición de apoyo).
+
+  Ejecución: Baja el cuerpo de forma controlada flexionando los codos hasta que los hombros queden ligeramente
+  por debajo de los codos (aproximadamente 90 grados), con las anillas cerca de los costados.
+
+  Vuelta: Empuja con fuerza para regresar a la posición inicial y extender los brazos.
+
+  Indicaciones: Estabiliza activamente las anillas durante todo el recorrido para evitar que se desplacen
+  hacia fuera.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Nash"
+  source_id: "360"

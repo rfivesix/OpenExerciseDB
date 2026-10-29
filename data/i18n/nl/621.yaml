@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '621'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande bicepscurl
+description: Sta rechtop met dumbbells in je handen, op schouderbreedte. Draai je onderarmen omhoog en houd je bovenarmen
+  stil terwijl je elke dumbbell naar je schouder brengt.
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "768"

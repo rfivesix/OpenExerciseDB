@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1090'
+language: es
+name: Flexión en pica (V-push-up)
+description: Coloca manos y pies a la anchura de los hombros. Acerca los pies y eleva las caderas formando
+  una V invertida, con piernas y espalda tan rectas como resulte cómodo. Flexiona los codos y baja la
+  cabeza en diagonal hacia el suelo, entre las manos y ligeramente por delante. Desciende con control
+  y empuja con las palmas y los hombros para volver a la V. Mantén el abdomen firme.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2042"
+search_terms:
+- Flexión en pica

@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1325'
+language: nl
+status: ai_authored
+translated_from: en
+name: Laterale afzet
+description: 'Beginpositie:
+
+  Begin in een atletische, stabiele houding met je knieën licht gebogen en je romp aangespannen.
+
+
+  Uitvoering:
+
+  1. Zet je explosief zijwaarts af met je standbeen.
+
+  2. Land zacht op het andere been en vang de impact op via je knie en heup.
+
+  3. Herstel kort je balans en zet je weer af naar de andere kant.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cleen"
+  source_id: "2298"

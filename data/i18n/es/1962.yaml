@@ -1,7 +1,8 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1962'
 language: es
-status: ai_reviewed
-name: Step Jack (Jumping jack de bajo impacto)
+status: ai_authored
+name: Step Jack (jumping jack de bajo impacto)
 description: 'Posición inicial:
 
   Ponte de pie erguido con los pies juntos y los brazos relajados a los lados. Mantén el core firme.
@@ -9,16 +10,21 @@ description: 'Posición inicial:
 
   Ejecución:
 
-  Da un paso amplio lateral hacia la derecha mientras subes simultáneamente ambos brazos por encima de la cabeza en un arco fluido. Regresa el pie al centro bajando los brazos y repite de inmediato dando el paso lateral hacia la izquierda. Continúa alternando ambos lados a un ritmo continuo.
+  Da un paso amplio lateral hacia la derecha mientras subes simultáneamente ambos brazos por encima de
+  la cabeza en un arco fluido. Regresa el pie al centro bajando los brazos y repite de inmediato dando
+  el paso lateral hacia la izquierda. Continúa alternando ambos lados a un ritmo continuo.
 
 
   Consejos:
 
-  Variante de bajo impacto del jumping jack tradicional; eleva las pulsaciones sin someter las articulaciones al impacto del salto.'
+  Variante de bajo impacto del jumping jack tradicional; eleva las pulsaciones sin someter las articulaciones
+  al impacto del salto.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3557'
+  license: "CC-BY-SA-4.0"
+  license_author: "Anon#2"
+  source_id: "3117"
 search_terms:
-- Step Jack
-- Side Step Jack
+- Jack lateral
+- Jumping jack de bajo impacto
+- Step jack
+translated_from: en

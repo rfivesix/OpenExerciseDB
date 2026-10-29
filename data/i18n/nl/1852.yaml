@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1852'
+language: nl
+status: ai_authored
+translated_from: en
+name: L-sit
+description: 'Ga op de vloer zitten met je benen bij elkaar en je armen naast je. Duw je lichaam met je
+  handen van de vloer, behoud de zithouding en houd je benen gestrekt met je voeten van de vloer.
+
+  Houd de positie zo lang als voorgeschreven vast.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2987"

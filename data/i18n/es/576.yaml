@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '576'
+language: es
+status: ai_authored
+translated_from: en
+name: Abdominal lateral
+description: Sujeta una mancuerna con una mano junto al costado. Inclina lentamente el torso hacia ese lado, en
+  dirección a la rodilla, y luego vuelve a incorporarte usando los oblicuos. Repite y cambia de lado.
+search_terms:
+- Flexión lateral con mancuerna
+- Abdominal lateral de pie con mancuerna
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "kwrindy"
+  source_id: "176"

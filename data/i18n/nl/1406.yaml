@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1406'
+language: nl
+status: ai_authored
+translated_from: en
+name: Van onderarmplank naar hoge plank
+description: Begin in een onderarmplank, met je ellebogen onder je schouders, onderarmen op de vloer en
+  je lichaam in een rechte lijn van hoofd tot hielen. Plaats één hand onder je schouder en duw jezelf
+  omhoog; doe daarna hetzelfde met de andere hand tot je in een hoge plank staat. Zak arm voor arm terug
+  naar je onderarmen en wissel de leidende arm per herhaling. Span je romp aan zodat je heupen niet heen
+  en weer bewegen en hol je onderrug niet.
+search_terms:
+- Van plank naar ellebogen
+- Commando’s
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2369"

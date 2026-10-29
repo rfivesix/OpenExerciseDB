@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1449'
+language: nl
+status: ai_authored
+translated_from: en
+name: Trapklimmen op een machine
+description: Stap op de draaiende treden van de trapklimmachine en houd je lichaam rechtop. Leg je handen
+  licht op de leuningen voor je evenwicht, zonder erop te leunen. Stap soepel en beheerst van trede naar
+  trede en plaats je hele voet op elke trede. Houd je borst omhoog, schouders naar achteren en romp aangespannen.
+  Stel de snelheid af op je conditie.
+search_terms:
+- ClimbMill
+- Trapklimmer
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2413"

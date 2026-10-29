@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1314'
+language: nl
+status: ai_authored
+translated_from: en
+name: Jumping jack
+description: Jumping jacks zijn een plyometrische oefening. Plyometrische oefeningen zijn explosieve aerobe
+  bewegingen die snelheid, wendbaarheid en kracht vergroten en het hele lichaam trainen. Jumping jacks
+  richten zich op de arm-, schouder-, buik- en heupspieren en heupbuigers, en trainen ook de dijen, kniepezen
+  en quadriceps. Sprongen zijn gunstig voor de gezondheid omdat ze conditietraining combineren met krachtwerk.
+  Doordat sprongen je hartslag verhogen, kunnen ze ook je cardiovasculaire conditie verbeteren.
+search_terms:
+- Jumping jack
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2280"

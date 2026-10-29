@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1503'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell frog press
+description: Dit lijkt op een hip thrust, maar houd je voeten tegen elkaar in een kikkerhouding en til
+  je billen van de vloer.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JohnPreston"
+  source_id: "2465"

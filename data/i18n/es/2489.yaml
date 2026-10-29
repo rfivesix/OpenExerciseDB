@@ -1,0 +1,24 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2489'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo bajo en máquina
+description: 'Posición inicial:
+
+  Siéntate en una máquina de remo bajo y ajusta el asiento y el apoyo para el pecho para alcanzar cómodamente
+  las asas.
+
+
+  Ejecución:
+
+  Sujeta las asas y tira de ellas hacia el torso llevando los codos hacia atrás. Junta los omóplatos y
+  vuelve de forma controlada hasta extender los brazos.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lbroggi"
+  source_id: "4966"
+search_terms:
+- Remo bajo
+- Remo bajo en máquina
+- Remo bajo con apoyo en el pecho

@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1489'
+language: nl
+status: ai_authored
+translated_from: en
+name: Plank jacks
+description: 'Startpositie:
+
+  Neem een stevige plank aan op je onderarmen of handen, met je ellebogen onder je schouders en je voeten
+  dicht bij elkaar. Houd je lichaam recht van hoofd tot hielen.
+
+
+  Uitvoering:
+
+  1. Houd je core aangespannen en romp stabiel terwijl je beide voeten tegelijk naar buiten springt.
+
+  2. Land zacht op de bal van je voeten en spring direct terug naar het midden.
+
+  3. Blijf de voeten in een vloeiend, gecontroleerd ritme naar buiten en terug springen.
+
+
+  Aandachtspunten:
+
+  Laat je heupen niet op en neer stuiteren en laat je onderrug niet doorzakken.'
+search_terms:
+- Plank jumping jacks
+- plank jack
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "jayninja"
+  source_id: "2452"

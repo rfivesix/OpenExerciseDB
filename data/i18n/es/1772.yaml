@@ -1,20 +1,28 @@
 exercise_id: '1772'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Crunch inverso
-description: "Posición inicial:\nTúmbate boca arriba en una colchoneta con los brazos\
-  \ extendidos a los lados y las palmas apoyadas en el suelo. Eleva las piernas flexionando\
-  \ caderas y rodillas a 90 grados.\n\nEjecución:\n1. Contrae el abdomen y lleva las\
-  \ rodillas en dirección al pecho.\n2. En la parte final del recorrido, despega la\
-  \ pelvis y la parte baja de la espalda unos centímetros del suelo.\n3. Mantén la\
-  \ contracción en el punto más alto durante 1 o 2 segundos.\n4. Desciende la pelvis\
-  \ de forma lenta y controlada hacia la posición inicial sin dejar caer las piernas.\n\
-  \nConsejos:\nNo des patadas ni uses el balanceo de las piernas; el movimiento debe\
-  \ ser generado enteramente por la flexión del abdomen."
+description: 'Túmbate boca arriba en una colchoneta, con los brazos a los lados y las palmas apoyadas
+  en el suelo. Eleva las piernas con las caderas y rodillas flexionadas aproximadamente a 90 grados.
+
+
+  1. Contrae el abdomen y acerca las rodillas al pecho.
+
+  2. Arriba, enrolla la pelvis y despega unos centímetros la zona lumbar de la colchoneta.
+
+  3. Mantén la contracción 1–2 segundos mientras exhalas.
+
+  4. Baja la pelvis despacio y con control hasta que los muslos vuelvan a la vertical, manteniendo el
+  abdomen activo.
+
+
+  No des patadas ni uses impulso; inicia el movimiento enrollando la columna con el abdomen.'
 search_terms:
-  - Crunch inverso
-  - Encogimiento inverso
+- Crunch inverso
+- Encogimiento abdominal inverso
+- Curl pélvico
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4164'
+  license: "CC-BY-SA-4.0"
+  license_author: "eufvksruh"
+  source_id: "2906"

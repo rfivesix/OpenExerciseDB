@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1082'
+language: nl
+status: ai_authored
+translated_from: en
+name: Voorovergebogen roeien met externe rotatie
+description: Buig vanuit de heupen voorover met rechte rug en licht gebogen knieën; laat de armen hangen.
+  Roei de ellebogen tot schouderhoogte, bovenarmen haaks op de romp en onderarmen gebogen tot 90 graden
+  omlaag. Houd de ellebogen daar en draai de schouders naar buiten door de onderarmen en handen tot hoofdhoogte
+  te heffen. Pauzeer kort, laat de onderarmen beheerst zakken en strek de armen terug naar beginpositie.
+search_terms:
+- Voorovergebogen roeien met externe rotatie
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tinman"
+  source_id: "2032"

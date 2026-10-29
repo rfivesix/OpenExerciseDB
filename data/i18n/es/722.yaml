@@ -1,0 +1,16 @@
+exercise_id: '722'
+language: es
+status: ai_authored
+translated_from: en
+name: Subidas al cajón con peso
+description: Coloca una barra sobre la parte superior de la espalda o sujeta una mancuerna en cada mano
+  y ponte de pie frente a un cajón o banco estable. Sube con firmeza colocando un pie en la plataforma
+  y asegurándote de que todo el pie quede apoyado. Empuja con el talón delantero para extender la cadera
+  y la rodilla y subir hasta quedar erguido. Baja con control, manteniendo la tensión durante la fase
+  de descenso, antes de repetir o alternar las piernas.
+upstream:
+  license: "CC0-1.0"
+  license_author: "jigglychipmunk"
+  source_id: "321"
+search_terms:
+- Subidas al cajón con peso

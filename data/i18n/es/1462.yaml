@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1462'
+language: es
+status: ai_authored
+translated_from: en
+name: Golpes de puño
+description: Adopta una postura de boxeo equilibrada con un pie delante y las rodillas ligeramente flexionadas.
+  Lleva las manos a la altura de la barbilla con los codos cerca de las costillas. Lanza puñetazos rectos
+  alternos (jab y cruzado) hacia delante a un ritmo rápido y constante. Gira las caderas y el torso en
+  cada golpe y rota el puño al extender el brazo. Devuelve rápidamente cada mano a la guardia y mantén
+  el abdomen activo, espirando con cada golpe.
+search_terms:
+- Golpes rectos
+- Golpes de boxeo al aire
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lh1701"
+  source_id: "2425"

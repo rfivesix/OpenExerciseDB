@@ -1,11 +1,13 @@
 exercise_id: '1738'
 language: es
-status: ai_reviewed
-name: Dominadas en agarre neutro o remo TRX
-description: |-
-  Dominada: tracción vertical – se centra más en los dorsales (anchura de la espalda).
-  Remo TRX: tracción horizontal – se centra más en los romboides/trapecios (grosor de la zona media de la espalda y postura).
+status: ai_authored
+translated_from: en
+name: Dominadas con agarre neutro o remo TRX
+description: 'Dominada: tracción vertical, con mayor énfasis en los dorsales (anchura de la espalda).
+
+  Remo TRX: tracción horizontal, con mayor énfasis en romboides y trapecios (grosor de la zona media de
+  la espalda y postura).'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4154'
+  license: "CC-BY-SA-4.0"
+  license_author: "54str"
+  source_id: "2868"

@@ -1,0 +1,23 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '516'
+language: es
+status: ai_authored
+translated_from: en
+name: Leñador frontal
+description: 'Posición inicial: Ponte de pie con los pies separados a la anchura de las caderas. Extiende los brazos
+  por encima de la cabeza (puedes sostener una toalla o una pelota ligera con una tensión suave).
+
+  Ejecución: Extiende la columna y los hombros hacia arriba y ligeramente hacia atrás mientras levantas una pierna
+  hacia atrás, contrayendo los erectores espinales y el glúteo mayor.
+
+  Regreso: Baja la pierna de forma controlada y alterna las piernas en cada repetición.
+
+  Indicaciones: Concéntrate en la extensión de la columna y el equilibrio, manteniendo estable el tronco y evitando
+  arquear demasiado la zona lumbar.'
+search_terms:
+- Extensión de espalda de pie
+- Extensión frontal de espalda
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Konsumopfer"
+  source_id: "1063"

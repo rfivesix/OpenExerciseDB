@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '71'
+language: nl
+status: ai_authored
+translated_from: en
+name: Beenstrekking met één been
+description: 'Beginpositie:
+
+  Ga op de leg-extensionmachine zitten met je rug stevig tegen de leuning. Plaats de gevoerde hendel tegen
+  het onderste deel van je scheenbeen, net boven de enkel. Laat het andere been ontspannen.
+
+
+  Uitvoering:
+
+  1. Strek je werkende been door je quadriceps aan te spannen tot je knie bijna recht is.
+
+  2. Houd de maximale aanspanning bovenaan één seconde vast.
+
+  3. Laat het gewicht langzaam en gecontroleerd zakken naar de beginpositie zonder de gewichtstapel neer
+  te laten komen.
+
+
+  Opmerkingen:
+
+  Maak eerst alle herhalingen met één been en wissel daarna. Houd je heupen en rug stevig tegen de zitting.'
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1057"

@@ -1,11 +1,14 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1712'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Estiramiento de flexión horizontal del hombro
-description: |-
-  Levanta el brazo hacia el lado, apoyando la mano en una pared o el marco de una puerta junto a ti, a la altura del hombro
-  Gira el cuerpo alejándolo del brazo para estirar el pecho, tanto como te resulte cómodo
+description: 'Levanta el brazo hacia el lado, apoyando la mano en una pared o el marco de una puerta junto
+  a ti, a la altura del hombro
+
+  Gira el cuerpo alejándolo del brazo para estirar el pecho, tanto como te resulte cómodo'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4112'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2835"
+translated_from: en

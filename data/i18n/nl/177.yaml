@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '177'
+language: nl
+status: ai_authored
+translated_from: en
+name: Fietsen
+description: 'Beginpositie:
+
+  Stel het zadel van je fiets of hometrainer zo in dat je knie licht gebogen is (ongeveer 25–35 graden)
+  wanneer het pedaal onderaan staat. Stel het stuur zo af dat je het comfortabel kunt vasthouden, met
+  ontspannen schouders en een neutrale wervelkolom.
+
+
+  Uitvoering:
+
+  1. Trap in vloeiende, ononderbroken cirkels met een gelijkmatig ritme.
+
+  2. Duw met de bal van je voeten omlaag en trek mee tijdens de omwenteling.
+
+  3. Houd een gelijkmatig tempo aan en pas de weerstand aan het doel van de training aan.
+
+
+  Opmerkingen:
+
+  Houd je romp stabiel zodat je heupen niet heen en weer bewegen op het zadel. Adem regelmatig en ritmisch.'
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "806"

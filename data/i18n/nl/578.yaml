@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '578'
+language: nl
+status: ai_authored
+translated_from: en
+name: Externe rotatie in zijligging
+description: 'Houd een gewicht in één hand en ga op de andere zij liggen. Houd je knieën licht gebogen. Houd je
+  elleboog tegen je zij en strek je onderarm recht naar voren. Houd je elleboog tegen je zij en draai je onderarm
+  90 graden omhoog.
+
+  Een handdoek onder je oksel kan helpen bij de uitvoering. Het is ook een goed idee om je hoofd tijdens de oefening
+  te ondersteunen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "apeschel"
+  source_id: "422"

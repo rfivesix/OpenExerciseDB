@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1243'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kuitheffing met beide benen
+description: 'Startpositie:
+
+  Sta rechtop met je voeten op heupbreedte. Laat je handen licht tegen een muur of stevig voorwerp rusten
+  als je steun voor je evenwicht nodig hebt.
+
+
+  Uitvoering:
+
+  1. Duw via de bal van beide voeten en hef je hielen zo hoog mogelijk.
+
+  2. Houd bovenaan 1 tot 2 seconden vast en span je kuiten stevig aan.
+
+  3. Laat je hielen langzaam en volledig gecontroleerd zakken.
+
+
+  Tips:
+
+  Voer de herhalingen soepel uit zonder te veren of vaart te gebruiken. De bron noemt opbouw van enkelstabiliteit
+  en kuitkracht als doel.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2205"

@@ -1,0 +1,13 @@
+exercise_id: '445'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bench press met pauze
+description: 'Breng de stang naar je borst en pauzeer daar 2 seconden zonder de stang te laten rusten.
+  Duw hem daarna weer omhoog. Gebruik hetzelfde gewicht als bij de bench press, maar voer losse herhalingen
+  uit. Het totale aantal herhalingen moet overeenkomen met het aantal dat je in één set bench press deed
+  (bijvoorbeeld: bij 3 sets van 8 doe je 8 losse herhalingen met pauze).'
+upstream:
+  license: "CC0-1.0"
+  license_author: "Mens Fitness"
+  source_id: "270"

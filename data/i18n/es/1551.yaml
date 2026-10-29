@@ -1,30 +1,29 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1551'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Flexiones de brazos (Push-Up)
+search_terms:
+- "Flexiones"
+- "Flexión de brazos"
 description: 'Posición inicial:
 
-  Comienza en posición de plancha con las manos colocadas ligeramente más anchas que
-  los hombros, los pies juntos y el cuerpo formando una línea recta desde la cabeza
-  hasta los talones.
+  Comienza en posición de plancha con las manos colocadas ligeramente más anchas que los hombros, los
+  pies juntos y el cuerpo formando una línea recta desde la cabeza hasta los talones.
 
 
   Instrucciones:
 
   1. Contrae el core y los glúteos para mantener la columna alineada en posición neutra.
 
-  2. Baja el cuerpo flexionando los codos a unos 45 grados con respecto al torso,
-  evitando que se abran en exceso.
+  2. Baja el cuerpo flexionando los codos a unos 45 grados con respecto al torso, evitando que se abran
+  en exceso.
 
   3. Desciende hasta que el pecho casi roce el suelo.
 
-  4. Empuja fuertemente a través de las palmas para volver a la posición inicial con
-  los brazos extendidos.'
-search_terms:
-- Flexiones
-- Lagartijas
-- Push-Up
+  4. Empuja fuertemente a través de las palmas para volver a la posición inicial con los brazos extendidos.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Settebello
-  source_id: '2504'
+  license: "CC-BY-SA-4.0"
+  license_author: "Settebello"
+  source_id: "2498"
+translated_from: en

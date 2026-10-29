@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1116'
+language: es
+name: Paseo del granjero con mancuernas
+description: Levanta del suelo un par de mancuernas pesadas mediante una bisagra de cadera y sujétalas
+  a los lados con los brazos extendidos. Ponte erguido, con el pecho arriba, los hombros atrás y abajo
+  y el abdomen firme. Camina hacia delante con pasos cortos y controlados. Mantén el torso recto, sin
+  inclinarte ni balancearte; aprieta el agarre y evita que las mancuernas oscilen. Recorre la distancia
+  o el tiempo indicado y deja las pesas en el suelo con la espalda recta.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2079"
+search_terms:
+- Paseo del granjero con mancuernas

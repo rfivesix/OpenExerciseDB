@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1435'
+language: es
+status: ai_authored
+translated_from: en
+name: Dominadas escapulares
+description: Cuélgate de una barra con agarre prono algo más ancho que los hombros, los brazos extendidos,
+  el abdomen activo y los hombros relajados cerca de las orejas. Baja y retrae las escápulas para elevar
+  el cuerpo unos centímetros sin flexionar los codos. Mantén la contracción superior de 1 a 2 segundos
+  y desciende lentamente hasta quedar colgado de nuevo. Mantén los brazos rectos; el movimiento procede
+  de las escápulas y la espalda.
+search_terms:
+- Retracciones escapulares colgado
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2399"

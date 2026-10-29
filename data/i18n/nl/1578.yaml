@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1578'
+language: nl
+status: ai_authored
+translated_from: en
+name: Heupscharnier
+description: Sta rechtop met je voeten op heupbreedte en je knieën licht gebogen. Duw je heupen naar achteren
+  terwijl je bovenlichaam voorover beweegt en je rug neutraal blijft. Breng je heupen naar voren om weer
+  rechtop te staan.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "mountain.potato"
+  source_id: "2526"
+search_terms:
+- Heupscharnier met lichaamsgewicht
+- Heupscharnier

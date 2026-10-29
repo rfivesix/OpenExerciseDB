@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '575'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderophalen in de Smith-machine
+description: 'Startpositie: Sta rechtop voor de stang van de Smith-machine, met je voeten op schouderbreedte. Pak
+  de stang bovenhands vast en laat je armen recht omlaag hangen.
+
+  Uitvoering: Haal je schouders recht omhoog richting je oren zonder je ellebogen te buigen. Houd de maximale aanspanning
+  bovenaan 1–2 seconden vast.
+
+  Terugkeer: Laat je schouders langzaam en gecontroleerd zakken naar de startpositie.'
+search_terms:
+- Shrugs op de multipress
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1060"

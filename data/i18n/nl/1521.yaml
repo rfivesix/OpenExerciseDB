@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1521'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pendulum hack squat
+description: 'Startpositie:
+
+  Ga in de pendulum hack squatmachine staan met je rug en schouders tegen de kussens. Zet je voeten op
+  schouderbreedte op het voetplateau en ontgrendel de veiligheidsbeugels.
+
+
+  Uitvoering:
+
+  1. Buig je knieën en heupen en zak soepel langs de gebogen baan van de machine in een diepe squat.
+
+  2. Duw vanaf de onderkant met je hele voet terug omhoog wanneer je quadriceps volledig zijn gerekt.
+
+  3. Stop vlak voor je knieën op slot gaan om spanning op de quadriceps te houden.'
+search_terms:
+- Pendulum hack
+- pendulum hack squat
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2477"

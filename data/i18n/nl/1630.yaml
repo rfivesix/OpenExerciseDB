@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1630'
+language: nl
+status: ai_authored
+translated_from: en
+name: Blaze
+description: BLAZE is een full-body HIIT-training die is ontworpen om je cardiovasculaire conditie en
+  kracht te verbeteren. De training vindt plaats in een speciaal daarvoor ingerichte studio en combineert
+  vechtsport, intensieve cardio en krachttraining.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "ricwheatley"
+  source_id: "2739"

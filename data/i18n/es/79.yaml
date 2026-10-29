@@ -1,13 +1,30 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '79'
 language: es
-status: ai_reviewed
-name: Jalón Alto Inclinado con Mancuernas
-description: |-
-  Este ejercicio se enfoca en la parte alta de la espalda, los trapecios y los deltoides posteriores.
-  Descripción:
-  Sostén un par de mancuernas e inclina el torso ligeramente hacia adelante, manteniendo la espalda recta. Desde esa posición, jala las mancuernas verticalmente hacia la parte alta de tu pecho.
-  La clave es liderar el movimiento con los codos, elevándolos lo más alto y hacia afuera posible. Asegúrate de que tus codos siempre permanezcan por encima de tus muñecas durante el jalón. Baja de forma controlada.
+status: ai_authored
+translated_from: en
+name: Remo alto inclinado
+description: 'Posición inicial:
+
+  Ponte de pie con los pies al ancho de los hombros y sujeta una mancuerna en cada mano delante de los
+  muslos. Inclínate desde las caderas, con las rodillas ligeramente flexionadas y la espalda recta, hasta
+  que el torso quede inclinado y los brazos cuelguen.
+
+
+  Ejecución:
+
+  1. Tira de las mancuernas verticalmente hacia el pecho o las axilas, llevando los codos altos y hacia
+  fuera.
+
+  2. Contrae los deltoides posteriores y la parte superior de la espalda arriba.
+
+  3. Baja las mancuernas despacio y de forma controlada hasta que los brazos cuelguen de nuevo.
+
+
+  Notas:
+
+  Mantén la espalda recta y el tronco firme. El movimiento debe impulsarse llevando los codos hacia arriba.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2675'
+  license: "CC-BY-SA-3.0"
+  license_author: "lakerbeezel"
+  source_id: "268"

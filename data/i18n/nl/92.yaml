@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '92'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met dumbbells
+description: 'Houd twee dumbbells vast met je armen gestrekt langs je lichaam en je handpalmen naar binnen.
+  Buig je armen en breng de gewichten snel omhoog. Draai je armen vanaf het begin van de beweging 90 graden.
+  Draai de gewichten op het hoogste punt nog iets verder naar buiten. Laat ze zonder pauze langzaam zakken.
+
+  Zwaai tijdens de oefening niet met je lichaam. De biceps doen het werk; beweeg alleen je armen (let
+  op je ellebogen).'
+search_terms:
+- Dumbbell biceps curls
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "81"

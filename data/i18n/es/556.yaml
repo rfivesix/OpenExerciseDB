@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '556'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexiones laterales en silla romana
+description: 'Posición inicial: Colócate de lado en una silla romana o en un banco de hiperextensiones a 45°, con
+  la cadera apoyada en el acolchado y los pies sujetos.
+
+  Ejecución: Baja el torso lateralmente hacia el suelo hasta que quede aproximadamente paralelo al suelo o notes
+  un estiramiento en los oblicuos.
+
+  Regreso: Contrae los oblicuos superiores para elevar el torso hasta la posición inicial alineada.
+
+  Indicaciones: Mantén las manos cruzadas sobre el pecho o detrás de la cabeza y evita girar el torso hacia delante
+  o atrás.'
+search_terms:
+- Flexiones laterales en máquina
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "klabautermann"
+  source_id: "1070"

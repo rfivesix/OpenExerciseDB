@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '9'
+language: es
+status: ai_authored
+translated_from: en
+name: Balanceo de kettlebell con dos brazos
+description: 'Posición inicial:
+
+  Colócate de pie con los pies algo más separados que el ancho de los hombros y la kettlebell en el suelo,
+  aproximadamente a un pie de distancia delante de ti. Lleva la cadera hacia atrás con la espalda recta
+  y sujeta firmemente el asa con ambas manos.
+
+
+  Ejecución:
+
+  1. Lleva la kettlebell hacia atrás entre las piernas, como en el saque de un balón de fútbol americano.
+
+  2. Impulsa la cadera hacia delante de forma explosiva y contrae los glúteos y los isquiotibiales para
+  balancear la kettlebell hasta la altura del pecho o los ojos.
+
+  3. Guía la kettlebell mientras desciende, absorbiendo el peso con la cadera, y repite con un ritmo fluido.
+
+
+  Notas:
+
+  El movimiento es una bisagra de cadera explosiva, no una sentadilla. No levantes el peso con los brazos
+  ni los hombros.'
+search_terms:
+- Balanceo con kettlebell a dos brazos
+- Swing con kettlebell
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "deusinvictus"
+  source_id: "345"

@@ -1,0 +1,36 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1971'
+language: nl
+status: ai_authored
+translated_from: en
+name: Mentzer lat pulldown
+description: 'Startpositie:
+
+  Ga bij een lat-pulldownmachine zitten en stel de dijsteun zo af dat je bovenbenen stevig vastzitten.
+  Pak de stang met een smalle onderhandse (gesupineerde) greep, op of iets smaller dan schouderbreedte,
+  met je handpalmen naar je toe.
+
+
+  Uitvoering:
+
+  1. Houd je borst hoog en je romp bijna rechtop. Trek de stang soepel naar je bovenborst door je ellebogen
+  omlaag en naar achteren te bewegen.
+
+  2. Houd de maximale aanspanning onderaan 1–2 seconden vast en knijp je lats en biceps stevig aan.
+
+  3. Weersta het gewicht terwijl je de stang langzaam door een volledige bewegingsuitslag omhoog laat
+  gaan tot je armen gestrekt zijn.
+
+
+  Aandachtspunten:
+
+  Blijf rechtop zonder overdreven achterover te zwaaien. Richt je op een volledige rek bovenaan en een
+  stevige aanspanning onderaan.'
+search_terms:
+- Pulldown met smalle onderhandse greep
+- Gesupineerde lat pulldown
+- Mentzer lat pulldown
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Mike Mentzer"
+  source_id: "3126"

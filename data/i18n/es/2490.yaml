@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2490'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo sentado en polea baja con agarre en V
+description: 'Posición inicial:
+
+  Siéntate en el equipo de polea baja y coloca un agarre triangular en V. Apoya bien los pies y mantén
+  la espalda recta.
+
+
+  Ejecución:
+
+  1. Tira del agarre hacia la parte baja del abdomen y el ombligo, llevando los codos hacia atrás junto
+  al cuerpo.
+
+  2. Junta los omóplatos con fuerza al final del tirón y mantén la contracción durante 1 segundo.
+
+  3. Extiende los brazos hacia delante lentamente y con control, resistiendo el peso hasta estirar por
+  completo los dorsales.
+
+
+  Consejos:
+
+  No balancees el torso hacia atrás para mover la carga. Mantén el tronco erguido y firme.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lbroggi"
+  source_id: "4968"
+search_terms:
+- Polea baja con triángulo
+- Remo sentado en polea con agarre triangular
+- Remo cerrado en polea

@@ -1,0 +1,14 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1703'
+language: nl
+status: ai_authored
+translated_from: en
+name: Triceps kickback met dumbbell
+description: De dumbbell kickback is een populaire krachtoefening voor de triceps aan de achterkant van
+  je bovenarmen. De oefening versterkt en vormt de triceps en draagt bij aan de algehele armkracht. Van
+  de oefeningen voor de armspieren zijn de kickback en varianten ervan effectief. Je kunt ze uitvoeren
+  met dumbbells, kabels of weerstandsbanden.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2823"

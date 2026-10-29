@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1115'
+language: nl
+status: ai_authored
+translated_from: en
+name: 3D-lungewarming-up
+description: Sta rechtop met voeten op heupbreedte; gebruik lichte dumbbells of alleen lichaamsgewicht.
+  Stap voorwaarts en zak tot beide knieën ongeveer 90 graden gebogen zijn, duw terug naar het midden.
+  Stap daarna zijwaarts in een side lunge, buig de stappende knie en houd het andere been gestrekt; keer
+  terug. Stap diagonaal achterwaarts, open de heupen ongeveer 45 graden, zak in de lunge en keer terug.
+  Herhaal de reeks in alle richtingen met beide benen.
+search_terms:
+- 3D-lungewarming-up
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2078"

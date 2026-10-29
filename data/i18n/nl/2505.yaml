@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2505'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dead bug
+description: 'Startpositie:
+
+  Ga op je rug op een mat liggen met je armen recht omhoog naar het plafond. Til je benen op en buig je
+  heupen en knieën 90 graden zodat je schenen parallel aan de vloer zijn. Druk je onderrug door je romp
+  aan te spannen stevig tegen de vloer.
+
+
+  Uitvoering:
+
+  1. Laat je rechterarm langzaam boven je hoofd naar de vloer achter je zakken en strek tegelijk je linkerbeen
+  vlak boven de vloer uit.
+
+  2. Houd je onderrug gedurende de hele beweging plat tegen de vloer.
+
+  3. Breng arm en been gecontroleerd terug naar de startpositie.
+
+  4. Herhaal met je linkerarm en rechterbeen en wissel vloeiend af.
+
+
+  Aandachtspunten:
+
+  Laat je ledematen alleen zo ver zakken als je je onderrug volledig tegen de vloer kunt houden.'
+search_terms:
+- Dead bug (core L1)
+- Dead-bugoefening
+- Dead bug voor de romp
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4990"

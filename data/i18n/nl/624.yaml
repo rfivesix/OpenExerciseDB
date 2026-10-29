@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '624'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hometrainer
+description: 'Startpositie: Stel de zithoogte zo af dat je knieën onderaan de pedaalslag licht gebogen zijn (ongeveer
+  25–30 graden).
+
+  Uitvoering: Trap in een gelijkmatig tempo en stel de weerstand af op de intensiteit van je training.
+
+  Aandachtspunten: Span je romp licht aan, houd je rug neutraal en laat je handen comfortabel op het stuur rusten
+  zonder zwaar voorover te leunen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "intelman"
+  source_id: "293"

@@ -1,0 +1,29 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1687'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bear crawl pull-through
+description: 'Beginpositie: Ga op handen en knieën staan, met je handen onder je schouders en je knieën
+  onder je heupen. Leg een dumbbell net achter één hand. Til je knieën enkele centimeters van de vloer
+  en houd je rug vlak (bear crawl-houding).
+
+
+  Beweging:
+
+  1. Reik met de tegenovergestelde hand onder je romp, pak het handvat van de dumbbell en trek of schuif
+  deze naar de andere kant.
+
+  2. Zet je hand terug op de vloer om je bear crawl-houding te stabiliseren.
+
+  3. Herhaal in de andere richting met de andere hand.
+
+
+  Tips: Houd je heupen en schouders parallel aan de vloer. Laat je bekken niet zwaaien of draaien terwijl
+  je het gewicht verplaatst.'
+search_terms:
+- bear crawl pull-through
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2806"

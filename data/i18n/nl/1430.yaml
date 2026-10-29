@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1430'
+language: nl
+status: ai_authored
+translated_from: en
+name: Gewichtsschijven knijpen en vasthouden
+description: Kies één of twee gewichtsschijven (gladde randen werken het best) en knijp ze tussen je duim
+  en vingers tegen elkaar. Houd je arm recht langs je zij of iets voor je uit. Houd zo lang mogelijk vast
+  met ontspannen schouders en een stevige grip. Je kunt dit op tijd of herhalingen uitvoeren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2395"

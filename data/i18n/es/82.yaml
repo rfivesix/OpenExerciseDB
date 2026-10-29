@@ -1,13 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '82'
 language: es
-status: ai_reviewed
-name: Elevaciones Posteriores
-description: |-
-  Este ejercicio es excelente para aislar los deltoides posteriores (la parte trasera del hombro) y la espalda alta.
-  Descripción:
-  Siéntate en el borde de un banco, sosteniendo un par de mancuernas. Inclina el torso hacia adelante, manteniendo la espalda recta, hasta que tu pecho quede cerca de tus rodillas.
-  Con una ligera flexión en los codos, eleva los brazos hacia los lados en un movimiento de arco, como si estuvieras abriendo unas alas. Concéntrate en contraer la parte alta de la espalda en la cima del movimiento y luego baja las pesas de forma lenta y controlada.
+status: ai_authored
+translated_from: en
+name: Elevación lateral inclinado
+description: Siéntate en un banco sujetando las pesas. Inclínate hacia delante todo lo posible, con los
+  codos ligeramente flexionados. Haz una elevación lateral manteniendo esa flexión de los codos.
+search_terms:
+- Elevaciones laterales inclinado
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2670'
+  license: "CC-BY-SA-4.0"
+  license_author: "apeschel"
+  source_id: "421"

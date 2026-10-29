@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1407'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kozakkenhurk
+description: De kozakkenhurk is een meergewrichtsoefening die vooral de benen en bilspieren traint en
+  ook stabilisatiespieren aanspreekt. De bron beschrijft de oefening als geschikt om kracht, mobiliteit
+  en functionele stabiliteit te verbeteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2371"

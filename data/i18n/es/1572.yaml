@@ -1,22 +1,33 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1572'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Bird Dog
-description: 'El Bird Dog es un ejercicio de estabilidad del core que mejora el equilibrio,
-  la coordinación y la alineación de la columna. Es un movimiento de bajo impacto,
-  ideal para fortalecer la cadena posterior y mejorar el control funcional general.
+description: 'Posición inicial:
+
+  Colócate a cuatro patas sobre una colchoneta, con las manos justo debajo de los hombros y las rodillas
+  debajo de las caderas. Mantén la columna neutra y activa el core.
 
 
-  Colócate a cuatro patas con las manos bajo los hombros y las rodillas bajo las caderas,
-  manteniendo la columna neutra.
+  Ejecución:
 
-  Extiende el brazo derecho hacia delante y la pierna izquierda hacia atrás a la vez,
-  manteniendo las caderas niveladas.
+  1. Estira a la vez el brazo derecho hacia delante y la pierna izquierda hacia atrás, hasta que ambos
+  queden paralelos al suelo.
 
-  Haz una breve pausa en la extensión completa mientras activas el core y los glúteos.
+  2. Haz una pausa y mantén la extensión durante 1–2 segundos. Contrae el glúteo y los erectores espinales
+  sin arquear la zona lumbar.
 
-  Vuelve a la posición inicial y repite por el lado contrario'
+  3. Vuelve a la posición inicial con control y cambia de brazo y pierna.
+
+
+  Indicaciones:
+
+  Mantén las caderas y los hombros paralelos al suelo. Evita girar la pelvis o hiperextender la zona lumbar.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4083'
+  license: "CC-BY-SA-4.0"
+  license_author: "Settebello"
+  source_id: "2520"
+search_terms:
+- Bird dog
+- Perro de muestra
+translated_from: en

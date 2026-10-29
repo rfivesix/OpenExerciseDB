@@ -1,0 +1,15 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1699'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roeien met halterstang (onderhandse greep)
+description: 'Uitvoering
+
+
+  Beginpositie: Houd de halterstang vast met je armen volledig naar de vloer gestrekt. Houd spanning op
+  je brede rugspieren en rugspieren.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2818"

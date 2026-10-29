@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '9'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kettlebellzwaai met twee armen
+description: 'Beginpositie:
+
+  Sta met je voeten iets wijder dan schouderbreedte en plaats de kettlebell op de vloer, ongeveer dertig
+  centimeter voor je. Beweeg je heupen naar achteren met een rechte rug en pak het handvat stevig met
+  beide handen vast.
+
+
+  Uitvoering:
+
+  1. Zwaai de kettlebell tussen je benen naar achteren, zoals bij een football-snap.
+
+  2. Stoot je heupen explosief naar voren en span je bilspieren en hamstrings aan om de kettlebell tot
+  borst- of ooghoogte te zwaaien.
+
+  3. Begeleid de kettlebell omlaag, vang het gewicht op met je heupen en herhaal in een vloeiend ritme.
+
+
+  Opmerkingen:
+
+  Dit is een explosieve heupscharnierbeweging, geen squat. Til het gewicht niet met je armen of schouders.'
+search_terms:
+- Kettlebellzwaai met twee armen
+- Kettlebell swing
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "deusinvictus"
+  source_id: "345"

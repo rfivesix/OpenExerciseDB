@@ -1,0 +1,36 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2480'
+language: es
+status: ai_authored
+translated_from: en
+name: Natación continua suave (estilo libre)
+description: 'Posición inicial:
+
+  Entra en la piscina e impúlsate suavemente desde la pared hasta quedar horizontal y alineado en la superficie
+  del agua.
+
+
+  Ejecución:
+
+  1. Nada a crol a un ritmo relajado y constante, a un paso que te permita conversar, sin detenerte en
+  las paredes.
+
+  2. Busca brazadas largas y fluidas y una respiración tranquila y rítmica.
+
+  3. Mantén una patada de aleteo compacta y relajada, iniciada desde las caderas en vez de las rodillas.
+
+  4. Continúa nadando durante el tiempo o la distancia indicados.
+
+
+  Consejos:
+
+  Prioriza la eficiencia y la alineación corporal sobre la velocidad; el objetivo es el acondicionamiento
+  aeróbico y familiarizarse con el agua.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4957"
+search_terms:
+- Natación continua suave
+- Natación aeróbica estilo libre
+- Estilo libre continuo

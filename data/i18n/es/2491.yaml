@@ -1,0 +1,33 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2491'
+language: es
+status: ai_authored
+translated_from: en
+name: Abducción de cadera sentada en máquina
+description: 'Posición inicial:
+
+  Siéntate firmemente en la máquina de abducción de cadera con la espalda apoyada en el respaldo. Ajusta
+  las almohadillas para que descansen cómodamente en la parte exterior de las rodillas o los muslos. Coloca
+  los pies en los apoyos.
+
+
+  Ejecución:
+
+  1. Empuja las piernas hacia fuera contra las almohadillas hasta donde te resulte cómodo.
+
+  2. Mantén la abducción máxima durante 1–2 segundos y contrae los glúteos externos (glúteo medio y menor).
+
+  3. Junta las rodillas despacio y con control, sin dejar que las placas de la máquina choquen.
+
+
+  Consejos:
+
+  Mantén el torso apoyado en el respaldo; evita inclinarte hacia delante o usar impulso.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lbroggi"
+  source_id: "4970"
+search_terms:
+- Abductores
+- Máquina de abducción de cadera
+- Abductor de cadera sentado

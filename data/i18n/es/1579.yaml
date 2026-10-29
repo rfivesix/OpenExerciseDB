@@ -1,15 +1,18 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1579'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Test Bronco (Shuttle Run)
-description: 'Test de condición física para rugby. 5 x carreras de ida y vuelta de
-  20 m, 40 m y 60 m (20 yd, 45 yd, 65 yd / marca lejana de 45 yd)
+search_terms:
+- "Bronco"
+- "Carrera Bronco de ida y vuelta"
+- "Prueba Bronco de rugby"
+description: 'Test de condición física para rugby. 5 x carreras de ida y vuelta de 20 m, 40 m y 60 m (20
+  yd, 45 yd, 65 yd / marca lejana de 45 yd)
 
   Complétalo lo más rápido posible'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4093'
-search_terms:
-- Bronco
-- Test Bronco
+  license: "CC-BY-SA-4.0"
+  license_author: "MU5H"
+  source_id: "2527"
+translated_from: en

@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '576'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse crunch
+description: Houd een dumbbell in één hand naast je lichaam. Buig je romp langzaam zijwaarts in de richting van
+  die knie en kom daarna met je schuine buikspieren weer rechtop. Herhaal en wissel van kant.
+search_terms:
+- Zijwaartse buiging met dumbbell
+- Staande zijwaartse crunch met dumbbell
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "kwrindy"
+  source_id: "176"

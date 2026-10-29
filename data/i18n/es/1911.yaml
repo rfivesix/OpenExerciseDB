@@ -1,24 +1,27 @@
 exercise_id: '1911'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Plancha del gato (Cat Plank)
-description: 'Posición inicial:
-
-  Colócate en cuadrupedia sobre las manos y las puntas de los pies. Eleva las rodillas apenas unos centímetros del suelo manteniéndolas en el aire.
-
-
-  Ejecución:
-
-  Empuja el suelo con fuerza desde los hombros para redondear la espalda hacia el techo, semejante a un gato enfadado. Bascula ligeramente la pelvis y contrae fuertemente los abdominales. Mantén esta postura estática durante el tiempo indicado.
+description: 'Posición inicial: Colócate a cuatro apoyos sobre una colchoneta, con
+  las manos debajo de los hombros y los dedos de los pies apoyados. Eleva las rodillas
+  apenas unos centímetros para sostenerte sobre las manos y los pies.
 
 
-  Consejos:
+  Ejecución: Empuja el suelo activamente con los hombros y redondea la espalda alta
+  y media hacia el techo, como un gato arqueando el lomo. Mete ligeramente la pelvis
+  y lleva el ombligo hacia la columna para contraer al máximo los abdominales y el
+  serrato anterior. Mantén la posición durante el tiempo indicado y respira de forma
+  constante.
 
-  Conserva las rodillas flotando a ras de suelo y respira de forma constante sin perder la activación del core.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4277'
+
+  Consejos: Mantén las rodillas apenas separadas de la colchoneta; no las eleves demasiado
+  ni las apoyes.'
 search_terms:
 - Plancha del gato
-- Cat Plank
+- Plancha del gato en cuadrupedia
+- Plancha hueca del oso
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cybro"
+  source_id: "3058"
+translated_from: en

@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '571'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderophalen met halterstang
+description: 'Pak een halterstang en sta rechtop met je armen losjes voor je. Haal vanuit deze positie je schouders
+  zo hoog mogelijk op, zonder je armen te buigen. Pauzeer bovenaan kort, 1 of 2 seconden, en keer langzaam terug
+  naar de startpositie.
+
+  Zorg er bij een zwaarder gewicht voor dat je de volledige bewegingsuitslag behoudt.'
+search_terms:
+- Shrugs met halterstang
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "150"

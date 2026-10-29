@@ -1,0 +1,11 @@
+exercise_id: '379'
+language: nl
+status: ai_authored
+translated_from: en
+name: Chest press op een hefboommachine
+description: Stel de zithoogte zo in dat de handgrepen ter hoogte van de onderkant van je borstspieren
+  staan.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "211"

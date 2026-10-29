@@ -1,22 +1,36 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1829'
 language: es
-status: ai_reviewed
-name: Sentadilla con barra landmine y press
-description: "Posición inicial:\nAncla un extremo de la barra en un soporte landmine.\
-  \ Colócate frente a la barra con los pies al ancho de los hombros, puntas ligeramente\
-  \ hacia afuera. Sujeta el extremo libre con ambas manos entrelazadas a la altura\
-  \ del pecho.\n\nEjecución:\n1. Desciende en sentadilla profunda con el pecho erguido\
-  \ hasta que los muslos queden paralelos al suelo.\n2. Empuja con fuerza a través\
-  \ de los talones para incorporarte de forma explosiva.\n3. Aprovecha el impulso\
-  \ de las piernas para presionar la barra hacia arriba por encima de la cabeza en\
-  \ un movimiento continuo.\n4. Baja la barra con control al pecho e inicia la siguiente\
-  \ sentadilla de manera fluida.\n\nConsejos:\nSincroniza la subida de la sentadilla\
-  \ con el empuje de brazos en un movimiento unificado."
-search_terms:
-  - Sentadilla con barra landmine y press
-  - Landmine Thruster
-  - Landmine Squat to Press
+status: ai_authored
+translated_from: en
+name: Sentadilla y press con landmine
+description: 'Posición inicial: Ancla un extremo de la barra en un accesorio landmine o una esquina. Ponte
+  frente a ella con los pies algo más separados que los hombros y las puntas giradas 15–30°. Sujeta con
+  ambas manos entrelazadas el manguito del extremo libre y mantenlo a la altura media del pecho, debajo
+  de las clavículas.
+
+
+  Ejecución:
+
+  1. Activa el core y baja a una sentadilla profunda con el pecho erguido y los talones apoyados, hasta
+  que los muslos queden paralelos al suelo.
+
+  2. Empuja con fuerza desde los talones para levantarte y usa el impulso de las piernas para elevar la
+  barra.
+
+  3. En un movimiento fluido, presiona la barra sobre la cabeza hasta extender los brazos.
+
+  4. Inclínate ligeramente hacia la barra arriba para permitir la rotación natural ascendente de los omóplatos.
+
+  5. Baja la barra con control al pecho y enlaza con la siguiente sentadilla.
+
+
+  Indicaciones: Une la sentadilla y el press en un movimiento explosivo, coordinado y de cuerpo completo.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4208'
+  license: "CC-BY-SA-4.0"
+  license_author: "beagle"
+  source_id: "2964"
+search_terms:
+- Sentadilla y press con landmine
+- Thruster con landmine
+- Press de sentadilla con landmine y barra

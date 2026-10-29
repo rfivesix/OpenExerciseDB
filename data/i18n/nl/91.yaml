@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '91'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met halterstang
+description: 'Pak de halterstang op schouderbreedte vast. Houd je rug recht, je schouders iets naar achteren
+  en je armen gestrekt. Buig je armen en breng het gewicht met een snelle beweging omhoog. Laat de stang
+  zonder pauze langzaam en gecontroleerd zakken.
+
+  Zwaai tijdens de oefening niet met je lichaam. De biceps doen het werk; beweeg alleen je armen (let
+  op je ellebogen).'
+search_terms:
+- Bicepscurl met halterstang
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "74"

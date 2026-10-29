@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1298'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsstrekking aan hoge kabel
+description: De tricepsstrekking met gekruiste kabel aan een hoge pulley is een isolatieoefening voor
+  de triceps, vooral het lange hoofd. Je gebruikt kabels en handgrepen die je met de tegenovergestelde
+  handen vastpakt; dit zorgt voor een bijzondere duwbeweging die kan helpen de triceps sterker te maken.
+  Vergeleken met varianten met een rechte stang of touw kan deze uitvoering comfortabeler zijn voor je
+  polsen en ellebogen.
+search_terms:
+- Extensión cruzada de tríceps en polea alta
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JackSparrow"
+  source_id: "2264"

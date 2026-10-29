@@ -1,13 +1,18 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '148'
 language: es
-status: ai_reviewed
-name: Elevación de Pantorrillas en Hack
-description: |-
-  Este ejercicio permite aislar las pantorrillas (gemelos) con la estabilidad de la máquina Hack, facilitando el uso de cargas pesadas y un rango de movimiento completo.
-  Instrucciones:
-  Apoya la espalda firmemente en el respaldo de la máquina. Coloca las puntas de los pies en el borde inferior de la plataforma, de manera que los talones queden en el aire y puedan bajar completamente.
-  Manteniendo las rodillas rectas (pero sin bloquearlas), empuja con la parte delantera de los pies para elevar los talones lo más alto posible, apretando la pantorrilla en la cima. Luego, baja de forma controlada hasta sentir un estiramiento profundo.
+status: ai_authored
+translated_from: en
+name: Elevación de talones en máquina hack squat
+description: 'Colócate en la máquina con la espalda bien apoyada en el respaldo y los pies sobre la plataforma
+  para la elevación de talones. Comprueba que la mitad de cada pie quede fuera y que puedas estirar completamente
+  los gemelos hacia abajo.
+
+  Con las rodillas rectas, eleva el peso todo lo que puedas. Bájalo con un movimiento fluido hasta estirar
+  por completo los gemelos. Repite.'
+search_terms:
+- Elevación de gemelos en máquina Hackenschmidt
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2694'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "104"

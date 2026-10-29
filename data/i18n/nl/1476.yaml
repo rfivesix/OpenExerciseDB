@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1476'
+language: nl
+status: ai_authored
+translated_from: en
+name: Butterfly sit-up
+description: Bij deze oefening van gemiddelde moeilijkheid helpen je armen met wat momentum om van de
+  vloer te komen. Je opent ze boven je hoofd, waardoor ook de bovenrug wordt aangesproken. Begin liggend
+  met je voeten plat op de vloer, knieën gebogen en armen gekruist voor je borst. Gebruik je buikspieren
+  om je bovenlichaam op te tillen terwijl je je armen opent in een doelpaalpositie. Laat jezelf langzaam
+  zakken naar de beginpositie.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2439"

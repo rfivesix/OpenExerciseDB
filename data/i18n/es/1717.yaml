@@ -1,21 +1,31 @@
 exercise_id: '1717'
 language: es
 status: ai_authored
-name: Extensión unilateral de tríceps en polea alta
-description: |-
-  Posición inicial:
-  Colócate de espaldas a la polea alta. Sujeta la empuñadura individual por encima de la cabeza con una mano, manteniendo el codo flexionado y orientado hacia delante.
-  
-  Ejecución:
-  1. Manteniendo el brazo inmóvil, extiende el codo empujando el cable hacia delante y abajo hasta extender casi por completo el brazo.
-  2. Aprieta el tríceps con fuerza en el punto de máxima contracción.
-  3. Regresa lentamente a la posición inicial sintiendo el estiramiento del tríceps.
-  
-  Consejos:
-  Mantén el core firme y el torso estable para evitar balanceos.
+translated_from: en
+name: Extensión de tríceps por encima de la cabeza a un brazo en polea
 search_terms:
-  - Codo unilateral polea alta
+- "Extensión de cuello"
+description: 'Posición inicial:
+
+  Colócate de espaldas a una polea alta. Sujeta por encima de la cabeza una empuñadura individual o una
+  cuerda con una mano; flexiona el codo y oriéntalo hacia delante, junto a la cabeza.
+
+
+  Ejecución:
+
+  1. Mantén inmóvil el brazo y extiende el codo para empujar el cable hacia delante y ligeramente hacia
+  abajo, hasta estirar el brazo.
+
+  2. Contrae con firmeza el tríceps al final del movimiento.
+
+  3. Flexiona lentamente el codo para volver, con control, a la posición inicial estirada.
+
+
+  Consejos:
+
+  Mantén el abdomen activo y la columna neutra. El ángulo de la polea por encima de la cabeza estira la
+  cabeza larga del tríceps.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: polloperro
-  source_id: '2841'
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2840"

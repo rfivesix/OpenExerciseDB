@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2522'
+language: nl
+status: ai_authored
+translated_from: en
+name: Triceps pushdown met weerstandsband
+description: 'Startpositie:
+
+  Bevestig een weerstandsband aan een hoog anker, zoals een optrekstang of deuranker. Ga naar het anker
+  toe staan met je voeten op heupbreedte en je knieën licht gebogen. Pak de handgrepen of lus met bovenhandse
+  of neutrale greep vast en houd je ellebogen dicht tegen je ribben.
+
+
+  Uitvoering:
+
+  1. Strek je ellebogen soepel omlaag en trek de band recht naar beneden tot je armen naast je dijen volledig
+  gestrekt zijn.
+
+  2. Span je triceps onderaan 1–2 seconden stevig aan.
+
+  3. Laat je ellebogen langzaam en gecontroleerd weer buigen tot je onderarmen ongeveer 90 graden vormen.
+
+
+  Aandachtspunten:
+
+  Houd je bovenarmen tegen je romp. Zwaai je ellebogen niet naar voren en trek je schouders niet op.'
+search_terms:
+- Triceps pull-down
+- Triceps pushdown met band
+- Triceps pushdown met weerstandsband
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "G. Johnson"
+  source_id: "4991"

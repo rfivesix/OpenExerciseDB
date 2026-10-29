@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2498'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexiones en pica
+description: 'Posición inicial:
+
+  Comienza en posición de flexión y acerca los pies mientras elevas las caderas, formando una V invertida.
+  Coloca las manos a la anchura de los hombros, mantén los brazos rectos y la cabeza entre los hombros.
+
+
+  Ejecución:
+
+  1. Flexiona los codos para bajar la cabeza hacia delante y abajo, hasta que la coronilla roce suavemente
+  el suelo justo delante de las manos.
+
+  2. Empuja con energía las palmas y los deltoides anteriores para volver hacia arriba y atrás a la posición
+  de V invertida.
+
+  3. Mantén el abdomen firme y las piernas rectas o ligeramente flexionadas según la flexibilidad de los
+  isquiotibiales.
+
+
+  Consejos:
+
+  Desciende en diagonal hacia delante y empuja recto hacia atrás y arriba; evita abrir demasiado los codos.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4980"
+search_terms:
+- Flexiones pica (Vasco L1)
+- Flexiones pica
+- Press pica con peso corporal

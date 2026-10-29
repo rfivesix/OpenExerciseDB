@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1304'
+language: nl
+status: ai_authored
+translated_from: en
+name: Meadows row
+description: De Meadows row is een eenarmige roeibeweging met een landmine-opstelling, een bovenhandse
+  greep en een gespreide stand. Buig je romp naar voren en pak de halterstang vast. Laat je andere onderarm
+  op je voorste been rusten. Begin door je elleboog naar achteren te bewegen en tegelijk je schouderblad
+  naar je wervelkolom te trekken. Houd de werkende schouder laag. Trek richting je achterste heup totdat
+  je elleboog op romphoogte is.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "carlos3c"
+  source_id: "2267"

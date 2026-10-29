@@ -1,0 +1,36 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1575'
+language: es
+status: ai_authored
+translated_from: en
+name: Press de hombros de pie con bastón
+search_terms:
+- "Press de hombros con palo de escoba"
+- "Press de hombros con bastón"
+- "Press de hombros de pie con bastón"
+description: 'Posición inicial:
+
+  Ponte de pie con los pies separados al ancho de los hombros y el core activado. Sujeta a la altura del
+  pecho un bastón ligero de madera (o un tubo de PVC/escoba) con agarre prono, algo más ancho que los
+  hombros.
+
+
+  Ejecución:
+
+  1. Empuja el bastón suavemente por encima de la cabeza hasta extender los brazos y eleva ligeramente
+  los hombros para dejar espacio bajo el acromion.
+
+  2. Baja el bastón con control por delante, hasta las clavículas, o por detrás de la nuca. Alterna entre
+  ambas posiciones.
+
+  3. Céntrate en la movilidad de los hombros y la zona torácica, no en la resistencia.
+
+
+  Indicaciones:
+
+  Es un ejercicio de calentamiento y movilidad para la cintura escapular y la columna torácica. Muévete
+  solo dentro de un rango sin dolor.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "mountain.potato"
+  source_id: "2523"

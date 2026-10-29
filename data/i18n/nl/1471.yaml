@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1471'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kroc row
+description: 'Startpositie:
+
+  Steun met één hand en knie op een vlakke bank, of zet één hand tegen een stevig dumbbellrek. Houd je
+  rug recht en je core aangespannen. Houd in je vrije hand een zware dumbbell vast en laat je arm recht
+  omlaag hangen.
+
+
+  Uitvoering:
+
+  1. Trek de dumbbell explosief richting je heup; een kleine, gecontroleerde lichaamsbeweging mag de zware
+  trek op gang brengen.
+
+  2. Breng je elleboog hoog en naar achteren en span je latten en bovenrug bovenaan krachtig aan.
+
+  3. Laat het gewicht gecontroleerd door het volledige bewegingsbereik zakken en laat je schouder onderaan
+  rekken.'
+search_terms:
+- Kroc row
+- zware dumbbell row
+- zware dumbbell row met veel herhalingen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2434"

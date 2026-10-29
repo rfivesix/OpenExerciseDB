@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1104'
+language: es
+name: Caminar
+description: 'Mantén una postura erguida y relajada, con los hombros abajo y atrás y la mirada al frente.
+  Camina con un paso rítmico: apoya suavemente el talón y rueda el pie hasta impulsarte con la parte delantera.
+  Balancea los brazos de forma natural, en oposición a las piernas, con los codos ligeramente flexionados.
+  Mantén un ritmo activo de al menos 100 pasos por minuto, el abdomen suavemente firme y una respiración
+  constante.'
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2067"

@@ -1,0 +1,14 @@
+exercise_id: '713'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexión contra la pared
+description: Ponte a aproximadamente un brazo de distancia de una pared lisa, con los pies al ancho de
+  las caderas. Coloca las palmas contra la pared a la altura de los hombros y algo más separadas que estos.
+  Mantén el cuerpo en línea recta de la cabeza a los talones y flexiona los codos para acercar el pecho
+  a la pared con control. Empuja firmemente con las manos para volver a la posición inicial sin arquear
+  la zona lumbar ni dejar caer las caderas.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "Dexter"
+  source_id: "203"

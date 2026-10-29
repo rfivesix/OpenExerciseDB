@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1185'
+language: nl
+status: ai_authored
+translated_from: en
+name: Triceps pushdown
+description: Sta rechtop voor een hoge kabelkatrol met rechte stang, EZ-stang of touw. Pak de greep bovenhands,
+  ellebogen gebogen en dicht tegen de ribben. Buig licht vanuit de heupen met rechte rug en aangespannen
+  romp. Duw de stang omlaag door de ellebogen te strekken tot de armen richting dijen gestrekt zijn; houd
+  bovenarmen stil. Span de triceps onderaan kort aan en laat de stang beheerst terugkomen tot ongeveer
+  borsthoogte.
+search_terms:
+- Triceps pushdown aan kabel
+- Pushdown aan kabel
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anto.kreegyr"
+  source_id: "2141"

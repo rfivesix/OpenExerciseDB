@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1603'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl de piernas con banda elástica
+description: Túmbate boca abajo con una banda de resistencia anclada a un punto bajo y colocada alrededor
+  del tobillo. Flexiona la rodilla para acercar el talón al glúteo contra la resistencia de la banda.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2574"

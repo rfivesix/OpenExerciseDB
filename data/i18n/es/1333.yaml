@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1333'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl de muñeca con mancuernas y agarre supino
+description: 'Beginpositie:
+
+  Siéntate en un banco y apoya los antebrazos sobre los muslos o el borde del banco, con las muñecas justo
+  más allá de las rodillas. Sujeta las mancuernas con agarre supino (palmas hacia arriba).
+
+
+  Uitvoering:
+
+  1. Baja lentamente las mancuernas extendiendo las muñecas hasta donde te resulte cómodo.
+
+  2. Flexiona las muñecas para elevar las mancuernas y contrae con fuerza los flexores de la muñeca arriba.
+
+  3. Baja las pesas lentamente y con control.
+
+
+  Tips:
+
+  Aísla el movimiento en las muñecas. No uses el impulso de los brazos ni del cuerpo.'
+search_terms:
+- Curl de antebrazo con agarre supino
+- Curl de muñeca supino
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2303"

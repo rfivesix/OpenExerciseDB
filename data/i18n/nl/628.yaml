@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '628'
+language: nl
+status: ai_authored
+translated_from: en
+name: Straight-arm pulldown met rechte stang
+description: Gebruik de rechte stang aan een hoge kabel. Pak beide uiteinden van de stang vast met je handpalmen
+  omlaag en je armen recht voor je uit. Trek je handen naar je heupen terwijl je armen gestrekt blijven en breng
+  ze daarna terug naar de startpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "216"

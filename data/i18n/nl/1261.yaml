@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1261'
+language: nl
+status: ai_authored
+translated_from: en
+name: TRX-gorilla-bicepscurl
+description: Ga met je gezicht naar de TRX-banden staan. Pak de banden vast met je vuisten naar elkaar
+  en naar voren gericht, en je armen volledig gestrekt op ongeveer schouderbreedte. Houd je lichaam recht
+  en naar achteren geleund, met je voeten plat op de vloer. Houd je armen deze keer op borsthoogte naar
+  buiten geopend. Buig je ellebogen en trek je lichaam met je biceps naar de banden en je borst toe.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cynomops"
+  source_id: "2216"

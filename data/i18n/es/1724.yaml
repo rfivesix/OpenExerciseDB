@@ -1,11 +1,11 @@
 exercise_id: '1724'
 language: es
-status: ai_reviewed
-name: Aducción de pie (polea)
-description: |-
-  Mantén las caderas niveladas y quietas, tirando del cable cruzando por delante de la pierna contraria usando solo la cara interna del muslo.
-  No dejes que el torso se incline o gire; nada de flexiones laterales para ayudar en la repetición.
+status: ai_authored
+translated_from: en
+name: Aducción de cadera de pie en polea
+description: Mantén las caderas niveladas y quietas. Lleva el cable cruzando por delante de la pierna
+  contraria usando solo la cara interna del muslo. No inclines ni gires el torso para completar la repetición.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4126'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2850"

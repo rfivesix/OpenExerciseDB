@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1572'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bird dog
+description: 'Beginpositie:
+
+  Kom op handen en knieën op een mat, met je handen recht onder je schouders en je knieën onder je heupen.
+  Houd je wervelkolom neutraal en span je romp aan.
+
+
+  Uitvoering:
+
+  1. Strek tegelijk je rechterarm naar voren en je linkerbeen naar achteren tot beide evenwijdig aan de
+  vloer zijn.
+
+  2. Pauzeer 1–2 seconden in de gestrekte positie. Span je bilspier en rugstrekkers aan zonder je onderrug
+  hol te trekken.
+
+  3. Keer gecontroleerd terug en wissel van arm en been.
+
+
+  Aandachtspunt:
+
+  Houd je heupen en schouders naar de vloer gericht. Draai je bekken niet en overstrek je onderrug niet.'
+search_terms:
+- Vogelhond
+- Bird dog
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Settebello"
+  source_id: "2520"

@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1292'
+language: es
+status: ai_authored
+translated_from: en
+name: Dominada con agarre supino
+description: 'Beginpositie:
+
+  Cuélgate de una barra con los brazos extendidos y agárrala a la anchura de los hombros con las palmas
+  mirando hacia ti.
+
+
+  Uitvoering:
+
+  1. Eleva el cuerpo llevando los codos hacia abajo y atrás hasta que la barbilla supere la barra.
+
+  2. Aprieta los dorsales y los bíceps en la posición superior.
+
+  3. Baja lentamente y con control hasta volver a quedar colgado.'
+search_terms:
+- Dominada con agarre supino
+- Chin-ups
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2258"

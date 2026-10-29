@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2502'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo con mancuerna a un brazo
+description: 'Posición inicial:
+
+  Apoya una rodilla y la mano del mismo lado en un banco plano, o colócate en una postura escalonada inclinada
+  con apoyo en una superficie firme. Mantén el torso plano y aproximadamente paralelo al suelo. Sujeta
+  una mancuerna con la mano libre y deja el brazo extendido hacia abajo.
+
+
+  Ejecución:
+
+  1. Lleva la mancuerna hacia la cadera moviendo el codo recto hacia atrás junto a las costillas.
+
+  2. Contrae el dorsal y retrae el omóplato arriba; mantén 1 segundo.
+
+  3. Baja la mancuerna despacio y con control hasta extender el brazo y sentir un estiramiento leve del
+  dorsal.
+
+  4. Completa las repeticiones y repite en el otro lado.
+
+
+  Consejos:
+
+  No gires el torso ni tires del peso con impulso. Mantén los hombros paralelos al suelo.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4983"
+search_terms:
+- Remo con mancuerna a un brazo (5 kg)
+- Remo con mancuerna a un brazo
+- Remo con una mancuerna

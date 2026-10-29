@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '510'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roeien met halterstang, borst gesteund op bank
+description: 'Startpositie: Ga met je gezicht naar beneden op een vlakke, verhoogde bank liggen. Pak de halterstang
+  onder de bank vast met een bovenhandse greep op schouderbreedte.
+
+  Uitvoering: Trek de stang naar je romp door je ellebogen naar achteren te bewegen en je schouderbladen samen te
+  knijpen.
+
+  Terugkeer: Laat de stang gecontroleerd zakken tot je armen volledig gestrekt zijn.
+
+  Aandachtspunten: De bank ondersteunt je romp, ontlast de wervelkolom en maakt een geïsoleerde beweging van de
+  brede rugspier, ruitvormige spieren en bovenrug mogelijk.'
+search_terms:
+- Roeien liggend op bank
+- Roeien met dumbbells, borst gesteund op bank
+- Seal row met halterstang
+- Seal row
+- Roeien liggend met halterstang
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "142"

@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1469'
+language: es
+status: ai_authored
+translated_from: en
+name: Apertura de pie inclinado en poleas
+description: 'Posición inicial:
+
+  Coloca las poleas a media altura o por encima y fija un agarre en cada una. Sitúate en el centro con
+  una pierna adelantada e inclina el torso desde las caderas unos 45–60°, con la espalda recta. Mantén
+  los brazos abiertos y los codos ligeramente flexionados.
+
+
+  Ejecución:
+
+  1. Lleva los agarres hacia delante y abajo en un arco amplio, hasta juntar las manos delante de la parte
+  inferior del pecho.
+
+  2. Contrae el pecho durante un segundo.
+
+  3. Vuelve despacio y con control a la posición inicial, conservando la ligera flexión de los codos.
+
+
+  Indicaciones:
+
+  Mantén el torso quieto; no te balancees. El movimiento se realiza desde los hombros.'
+search_terms:
+- Apertura inclinada en poleas
+- cruce de poleas inclinado
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2432"

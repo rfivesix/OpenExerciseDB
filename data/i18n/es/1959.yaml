@@ -4,21 +4,30 @@ status: ai_authored
 name: Estiramiento del piriforme sentado
 description: 'Posición inicial:
 
-  Siéntate erguido en el borde de un banco o silla con los pies planos en el suelo. Cruza el tobillo de una pierna sobre la rodilla contraria formando un cuatro, dejando caer la rodilla flexionada hacia fuera.
+  Siéntate erguido en el borde de un banco o silla con los pies planos en el suelo.
+  Cruza el tobillo de una pierna sobre la rodilla contraria formando un cuatro, dejando
+  caer la rodilla flexionada hacia fuera.
 
 
   Ejecución:
 
-  Mantén la espalda recta y el pecho alto. Inclínate hacia delante desde las caderas hasta sentir un estiramiento profundo en el glúteo y el músculo piriforme. Mantén la posición estática durante 20 a 30 segundos respirando con calma, luego cambia de lado.
+  Mantén la espalda recta y el pecho alto. Inclínate hacia delante desde las caderas
+  hasta sentir un estiramiento profundo en el glúteo y el músculo piriforme. Mantén
+  la posición estática durante 20 a 30 segundos respirando con calma, luego cambia
+  de lado.
 
 
   Consejos:
 
-  Parte de la rutina Limber 11. No redondees la zona lumbar; la inclinación debe nacer de la cadera para aislar correctamente el piriforme.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4259'
+  Parte de la rutina Limber 11. No redondees la zona lumbar; la inclinación debe nacer
+  de la cadera para aislar correctamente el piriforme.'
 search_terms:
-- Estiramiento del piriforme sentado
-- Seated Piriformis Stretch
+- Estiramiento sentado del piriforme
+- Estiramiento del piriforme en silla
+- Estiramiento sentado en figura cuatro
+- Piriforme de Limber 11
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Pete-E automation"
+  source_id: "3110"
+translated_from: en

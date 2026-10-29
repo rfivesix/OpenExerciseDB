@@ -10,9 +10,9 @@
 #   assisted — AI-generated, spot-checked by humans
 #   machine  — AI-generated, unreviewed; distributed, but marked as such
 #
-# Status Phase 1: all texts originated unchanged from wger. `en` was
-# originally the only `curated` language because it is the source language and
-# complete, carrying the release gate.
+# Language tiers describe translation provenance and review state, not just
+# coverage. Spanish and Dutch active texts are machine-authored translations;
+# keep them at `machine` until they receive human spot-checking.
 #
 # wger_language_id: the numeric language ID in the wger API (/api/v2/language/).
 #   The importer reads EXCLUSIVELY this registry and verifies it against the
@@ -52,7 +52,7 @@ languages:
     fallback_chain: [en]
   - code: es
     names: { en: Spanish, de: Spanisch }
-    tier: upstream
+    tier: machine
     wger_language_id: 4
     fallback_chain: [en]
   - code: fr
@@ -72,7 +72,7 @@ languages:
     fallback_chain: [en]
   - code: nl
     names: { en: Dutch, de: Niederländisch }
-    tier: upstream
+    tier: machine
     wger_language_id: 6
     fallback_chain: [en]
   - code: cs

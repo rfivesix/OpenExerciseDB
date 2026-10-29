@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1429'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderrotaties met halter
+description: Houd voor de externe rotatie een halter vast met je elleboog 90 graden gebogen en dicht bij
+  je lichaam. Draai je onderarm naar buiten terwijl je elleboog stil blijft en keer langzaam terug. Draai
+  voor de interne rotatie vanuit dezelfde positie je onderarm naar binnen en keer langzaam terug. Beweeg
+  gecontroleerd.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2393"

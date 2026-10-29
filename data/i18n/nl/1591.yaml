@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1591'
+language: nl
+status: ai_authored
+translated_from: en
+name: Diep ademhalen, staand of zittend
+description: Een bewuste ademhalingstechniek om de zuurstofvoorziening te verbeteren, stress te verminderen
+  en contact te maken met het huidige moment.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrAlfaRobot"
+  source_id: "2540"

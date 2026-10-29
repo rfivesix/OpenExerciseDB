@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1103'
+language: nl
+status: ai_authored
+translated_from: en
+name: Walking bridge
+description: Begin staand met licht gebogen knieën en handen op de vloer. Loop vanaf daar met de handen
+  naar voren, houd de bilspieren aangespannen en behoud controle over de onderrug.
+search_terms:
+- Walking bridge
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2065"

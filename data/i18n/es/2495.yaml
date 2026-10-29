@@ -1,0 +1,37 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2495'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl femoral sentado en máquina
+description: 'Posición inicial:
+
+  Siéntate en la máquina de curl femoral sentado con la espalda apoyada en el respaldo. Ajusta el respaldo
+  para alinear las rodillas con el eje de giro. Coloca el rodillo inferior detrás de la parte baja de
+  las pantorrillas, justo por encima de los talones. Baja la almohadilla superior sobre los muslos para
+  fijar las piernas.
+
+
+  Ejecución:
+
+  1. Sujeta las asas para estabilizarte. Flexiona las rodillas y tira del rodillo hacia abajo y hacia
+  atrás, por debajo del asiento.
+
+  2. Contrae con fuerza los isquiotibiales al final de la flexión y mantén 1 segundo.
+
+  3. Extiende las piernas lentamente y con control, resistiendo el peso hasta que queden casi rectas.
+
+
+  Consejos:
+
+  Mantén los dedos de los pies ligeramente elevados o en posición neutra. No levantes las caderas del
+  asiento.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Me"
+  source_id: "4977"
+search_terms:
+- Curl de piernas sentado
+- Flexión de piernas en máquina
+- Curl de piernas sentado
+- Curl femoral en máquina

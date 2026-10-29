@@ -1,0 +1,11 @@
+exercise_id: '380'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo isométrico en máquina de palancas
+description: Ajusta la altura del asiento para que las empuñaduras queden a la altura de la parte inferior
+  de los pectorales o justo por debajo.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "214"

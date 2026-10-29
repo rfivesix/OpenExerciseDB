@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1290'
+language: nl
+status: ai_authored
+translated_from: en
+name: Reverse curl met halterstang
+description: Houd de halterstang ongeveer op schouderbreedte vast met een bovenhandse greep (handpalmen
+  omlaag). Houd je rug recht, je schouders licht naar achteren en je armen volledig gestrekt. Krul de
+  stang gecontroleerd richting je borst en houd je ellebogen dicht bij je lichaam. Beweeg vloeiend, zonder
+  te zwaaien of momentum te gebruiken. Pauzeer kort wanneer de stang op borsthoogte is om de biceps en
+  onderarmen maximaal aan te spannen. Laat de stang vervolgens langzaam en gecontroleerd terugzakken naar
+  de beginpositie en strek je armen volledig.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sTiKyt"
+  source_id: "2257"

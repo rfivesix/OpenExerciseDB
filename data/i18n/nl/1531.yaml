@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1531'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl aan de kabel
+description: 'Beginpositie:
+
+  Bevestig een rechte stang of EZ-stang aan de lage kabel. Ga rechtop voor het toestel staan (of zitten)
+  en pak de stang op schouderbreedte vast met de handpalmen naar boven. Houd je ellebogen tegen je zij.
+
+
+  Uitvoering:
+
+  1. Houd je bovenarmen stil en buig je ellebogen om de stang naar je bovenborst te brengen.
+
+  2. Span je biceps bovenaan stevig aan.
+
+  3. Laat het gewicht gecontroleerd zakken tot je armen bijna volledig gestrekt zijn en weersta daarbij
+  de trekkracht van de kabel.
+
+
+  Aandachtspunt:
+
+  Kabels houden tijdens zowel de concentrische als de excentrische fase voortdurend spanning op de biceps.'
+search_terms:
+- Bicepscurl aan de kabel
+- Kabelcurls
+- Bicepscurl aan lage kabel
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Brigade7938"
+  source_id: "2489"

@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1530'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met dumbbells, liggend
+description: 'Beginpositie:
+
+  Houd in elke hand een dumbbell en ga plat op je rug op een bank liggen. Laat je armen aan weerszijden
+  van de bank recht naar de vloer hangen.
+
+
+  Uitvoering:
+
+  1. Houd je bovenarmen stil en je ellebogen op hun plaats. Buig je armen en breng de dumbbells omhoog
+  tot je onderarmen verticaal staan.
+
+  2. Span je biceps bovenaan stevig aan.
+
+  3. Laat de dumbbells langzaam en gecontroleerd zakken tot je armen volledig gestrekt zijn.
+
+
+  Aandachtspunt:
+
+  Liggen op een bank voorkomt dat je romp momentum gebruikt en brengt de lange kop van de biceps onderaan
+  in een aanzienlijke passieve rek.'
+search_terms:
+- Liggende dumbbellcurl
+- Supine dumbbellcurl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2488"

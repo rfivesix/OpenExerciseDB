@@ -1,11 +1,11 @@
 exercise_id: '1727'
 language: es
-status: ai_reviewed
-name: Jalón lateral con brazo recto (polea)
-description: |-
-  Mantén el torso inmóvil y tira del agarre hacia abajo a lo largo de tu costado usando la parte externa del dorsal.
-  No gires el cuerpo ni rotes el torso para hacer trampa en la repetición.
+status: ai_authored
+translated_from: en
+name: Jalón lateral de brazos rectos de pie en polea
+description: Mantén el torso quieto y lleva el agarre hacia abajo junto al costado, usando la parte externa
+  del dorsal. No gires el cuerpo ni el torso para facilitar la repetición.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4143'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2853"

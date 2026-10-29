@@ -7,7 +7,7 @@ against. Every release ships a single SQLite file you can drop into an app.
 
 > **Status: initial release.** The database is published and ready for use.
 > All 868 active exercises carry a full set of attributes and complete text
-> in English, German, French, Italian, and Japanese. Releases are published
+> in English, German, Spanish, French, Italian, Dutch, and Japanese. Releases are published
 > to the [`catalog-stable`](https://github.com/rfivesix/OpenExerciseDB/releases/tag/catalog-stable)
 > channel. See [Where it stands](#where-it-stands) and [Roadmap](#roadmap).
 
@@ -194,13 +194,14 @@ reports/                      Generated review reports: outliers, name changes, 
 |---|---|---|
 | English | 868 | 868 |
 | German | 868 | 868 |
+| Spanish | 868 | 868 |
 | French | 868 | 868 |
 | Italian | 868 | 868 |
+| Dutch | 868 | 868 |
 | Japanese | 868 | 868 |
-| Spanish | 644 | 644 |
 
-English, German, French, Italian, and Japanese are complete across all 868
-active exercises. Spanish covers 644 active exercises. Seventeen further
+English, German, Spanish, French, Italian, Dutch, and Japanese have complete
+name and description coverage across all 868 active exercises. Sixteen further
 languages carry partial upstream text (23 languages total). They are shipped as
 they are and marked accordingly; none of them is claimed to be complete.
 

@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1527'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pendulum squat
+description: 'Startpositie:
+
+  Stap op het platform van de pendulum squatmachine. Plaats je schouders stevig tegen de kussens en je
+  voeten op schouderbreedte in het midden van het voetplateau. Ontgrendel de veiligheidspal en span je
+  core aan.
+
+
+  Uitvoering:
+
+  1. Buig je knieën en heupen en zak in een diepe squat langs de ronde baan van de machine.
+
+  2. Wanneer je bovenbenen diep staan en je quadriceps volledig zijn gerekt, duw je via je middenvoet
+  en hielen omhoog.
+
+  3. Keer terug naar de beginpositie zonder je knieën bovenaan krachtig op slot te zetten.'
+search_terms:
+- Machine pendulum squat
+- pendulum squats
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "schweezer"
+  source_id: "2484"

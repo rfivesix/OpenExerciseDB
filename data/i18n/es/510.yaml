@@ -1,0 +1,25 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '510'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo con barra con el pecho apoyado en banco
+description: 'Posición inicial: Túmbate boca abajo en un banco plano elevado. Sujeta la barra situada debajo del
+  banco con agarre prono y a la anchura de los hombros.
+
+  Ejecución: Tira de la barra hacia el torso llevando los codos hacia atrás y juntando los omóplatos.
+
+  Regreso: Baja la barra de forma controlada hasta extender los brazos por completo.
+
+  Indicaciones: El banco sostiene el torso y elimina la carga sobre la columna, permitiendo aislar los dorsales,
+  los romboides y la parte superior de la espalda.'
+search_terms:
+- Remo tumbado en banco
+- Remo con mancuernas con el pecho apoyado en banco
+- Remo seal con barra
+- Remo seal
+- Remo tumbado con barra
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "142"

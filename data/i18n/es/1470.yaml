@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1470'
+language: es
+status: ai_authored
+translated_from: en
+name: Jalón unilateral en polea, medio arrodillado
+description: 'Posición inicial:
+
+  Fija un agarre individual a una polea alta. Arrodíllate frente a la máquina, con la rodilla del lado
+  que trabaja apoyada en el suelo o una esterilla. Sujeta el agarre con el brazo extendido por encima
+  de la cabeza. Mantén el torso erguido y el abdomen activo.
+
+
+  Ejecución:
+
+  1. Tira del agarre hacia abajo llevando el codo hacia la cadera, ligeramente hacia atrás, hasta que
+  la mano llegue a la altura del pecho.
+
+  2. Contrae el dorsal durante un segundo abajo.
+
+  3. Devuelve el cable despacio y con control, dejando que el dorsal se estire antes de la siguiente repetición.
+
+
+  Indicaciones:
+
+  La posición medio arrodillada ayuda a mantener estables la pelvis y el torso.'
+search_terms:
+- Jalón unilateral en medio arrodillado
+- jalón de dorsal a una mano
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2433"

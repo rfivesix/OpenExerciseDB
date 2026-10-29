@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '530'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hardlopen op de loopband
+description: Hardlopen op een loopband is een effectieve cardio-oefening die de hartslag verhoogt en het uithoudingsvermogen
+  traint. De kuiten, bovenbenen en bilspieren worden vooral belast.
+search_terms:
+- Hardlopen op de loopband
+- Loopband hardlopen
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "foguinho.peruca"
+  source_id: "269"

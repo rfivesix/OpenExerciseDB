@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1523'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sled push
+description: 'Startpositie:
+
+  Laad de slee met het gewenste gewicht. Ga erachter staan en pak de verticale stangen vast met gestrekte
+  of licht gebogen armen. Leun met je romp ongeveer 45° naar voren.
+
+
+  Uitvoering:
+
+  1. Duw krachtig via de bal van je voeten en verplaats de slee met stevige, doorlopende passen.
+
+  2. Houd je core aangespannen en je lichaam in een rechte lijn van hoofd via rug naar het afzettende
+  been.
+
+  3. Duw de opgegeven afstand of tijd met een gelijkmatig tempo en hoge intensiteit.
+
+
+  Aandachtspunten:
+
+  De sled push traint krachtige beenaandrijving en conditie met weinig excentrische spierbelasting.'
+search_terms:
+- Prowler push
+- sled push met gewicht
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "flanny"
+  source_id: "2479"

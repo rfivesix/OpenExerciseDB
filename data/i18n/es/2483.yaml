@@ -1,0 +1,36 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2483'
+language: es
+status: ai_authored
+translated_from: en
+name: Ejercicio de rotación de cabeza junto a la pared
+description: 'Posición inicial:
+
+  Sujeta con una mano la pared o el borde de la piscina. Mantén el cuerpo flotando horizontalmente en
+  la superficie y usa una patada de aleteo suave para mantener las caderas elevadas.
+
+
+  Ejecución:
+
+  1. Mete la cara en el agua, mirando hacia abajo, y exhala de forma constante.
+
+  2. Gira la cabeza hacia un lado sin sacarla del agua, de modo que una lente de las gafas quede sumergida
+  y la otra fuera.
+
+  3. Inhala rápidamente por la boca y vuelve a girar la cara hacia abajo, a la posición neutra.
+
+  4. Repite el ciclo de respiración rítmico y luego cambia la mano para practicar el otro lado.
+
+
+  Consejos:
+
+  Apoya la mejilla y la oreja inferior en la superficie del agua. Gira siguiendo el eje longitudinal de
+  la columna sin levantar la cabeza.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4960"
+search_terms:
+- Rotación con apoyo en pared
+- Ejercicio de respiración de estilo libre
+- Ejercicio de respiración en la pared

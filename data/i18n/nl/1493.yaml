@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1493'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bayesian cable curl
+description: 'Startpositie:
+
+  Bevestig een D-handgreep aan een lage kabel. Ga met je rug naar de kabeltoren staan, één voet naar voren,
+  en houd de greep achter je romp vast met je arm naar achteren gestrekt.
+
+
+  Uitvoering:
+
+  1. Houd je bovenarm achter je lichaam stil en buig je elleboog om de greep naar je schouder te curlen.
+
+  2. Span bovenaan je biceps één seconde aan.
+
+  3. Laat de greep in 2–3 seconden langzaam achter je zakken tot je de biceps voelt rekken.'
+search_terms:
+- Bayesian curl
+- cable curl achter de rug
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "aahuja"
+  source_id: "2456"

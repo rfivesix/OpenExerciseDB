@@ -1,0 +1,17 @@
+exercise_id: '508'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roeibeweging
+description: Bij krachttraining is roeien een oefening om de spieren te versterken die de armen naar het
+  lichaam toe trekken (latissimus dorsi), de spieren die de schouderbladen naar elkaar toe trekken (trapezius
+  en rhomboïden) en de spieren die de wervelkolom ondersteunen (erector spinae). Bij gebruik van een roeimachine
+  train je ook de spieren die de benen strekken en ondersteunen (quadriceps en bovenbeenspieren). In alle
+  gevallen moeten de buik- en onderrugspieren het lichaam ondersteunen en helpen rugblessures te voorkomen.
+search_terms:
+- Roeien met halterstang
+- Voorovergebogen roeien met halterstang
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "801"

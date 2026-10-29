@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1307'
+language: nl
+status: ai_authored
+translated_from: en
+name: Plank
+description: De plank is een oefening met lichaamsgewicht. Deze veelzijdige beweging traint niet alleen
+  je buikspieren, maar ook je wervelkolom en heupen. Volgens de brontekst versterkt en verstevigt de plank
+  het hele lichaam, verbetert hij houding en balans, vermindert hij lichaamsvet en kan hij de stofwisseling
+  stimuleren. Plankoefeningen helpen het uithoudingsvermogen van stabiliserende buikspieren op te bouwen.
+  Ze kunnen ook helpen bij rugpijn die samenhangt met een verminderde functie van de stabiliserende spieren.
+  Planken trainen veel belangrijke spiergroepen en kunnen door iedereen worden gebruikt om het uithoudingsvermogen
+  en de algemene lichaamskracht te verbeteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2272"

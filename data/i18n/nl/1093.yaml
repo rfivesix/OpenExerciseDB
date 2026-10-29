@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1093'
+language: nl
+status: ai_authored
+translated_from: en
+name: Indoor roeimachine
+description: 'Ga rechtop op de schuifzitting zitten en zet de voeten vast. Schuif naar de catch: knieën
+  gebogen, schenen verticaal, romp licht voorover vanuit de heupen en armen gestrekt aan het handvat.
+  Duw voor de drive krachtig met de benen; leun daarna licht achterover en trek het handvat naar de onderste
+  ribben. Eindig met gestrekte benen, aangespannen romp en schouders laag. Strek voor herstel de armen,
+  buig vanuit de heupen voorover en buig daarna de knieën om terug te schuiven. Houd de drive krachtig
+  en het herstel ontspannen en gecontroleerd.'
+search_terms:
+- Roeimachine
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Boertie"
+  source_id: "2049"

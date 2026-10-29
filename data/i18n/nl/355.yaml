@@ -1,0 +1,11 @@
+exercise_id: '355'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lat pulldown met rechte rug
+description: De latpulldown is een oefening om de rugspieren te trainen. De oefening richt zich vooral
+  op de lats, maar ook de biceps en het midden van de rug worden behoorlijk geactiveerd.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "drthurlow"
+  source_id: "187"

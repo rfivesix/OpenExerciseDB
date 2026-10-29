@@ -1,0 +1,37 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2525'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento couch
+description: 'Posición inicial:
+
+  Arrodíllate sobre una esterilla de espaldas a una pared, un banco o un sofá. Coloca la rodilla trasera
+  cerca de la base del apoyo, con la tibia vertical y el empeine contra él. Adelanta el otro pie en una
+  posición de zancada de 90 grados.
+
+
+  Ejecución:
+
+  1. Activa el abdomen y contrae el glúteo de la pierna trasera para inclinar la pelvis hacia atrás.
+
+  2. Eleva el torso lentamente hasta quedar vertical, hasta sentir un estiramiento intenso en los flexores
+  de la cadera y los cuádriceps de la pierna trasera.
+
+  3. Mantén el estiramiento erguido el tiempo indicado y respira profundamente y con regularidad.
+
+  4. Sal de la posición con cuidado y cambia de pierna.
+
+
+  Consejos:
+
+  No hiperextiendas la zona lumbar para erguirte. Mantén las costillas abajo y los glúteos contraídos
+  para dirigir el estiramiento a los flexores de la cadera.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "4994"
+search_terms:
+- Estiramiento couch
+- Estiramiento de flexores de cadera en pared
+- Estiramiento de cuádriceps y flexores de cadera

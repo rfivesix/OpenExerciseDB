@@ -1,21 +1,35 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1828'
 language: es
 status: ai_authored
-name: Activación del transverso abdominal (Vacuum)
-description: "Posición inicial:\nTúmbate boca arriba en una colchoneta con las rodillas\
-  \ dobladas y los pies planos en el suelo. Apoya las yemas de los dedos sobre el\
-  \ abdomen inferior para sentir la contracción muscular.\n\nEjecución:\n1. Exhala\
-  \ completamente por la boca expulsando todo el aire.\n2. Lleva suavemente el ombligo\
-  \ hacia adentro y hacia arriba en dirección a la columna, como abrochando un pantalón\
-  \ ajustado.\n3. Mantén la pelvis neutra y respira de forma suave y controlada mientras\
-  \ sostienes el ombligo hundido durante 10 a 15 segundos.\n4. Relaja la contracción\
-  \ suavemente e inhala con normalidad.\n\nConsejos:\nAísla la musculatura profunda\
-  \ del transverso del abdomen sin curvar la espalda baja."
+translated_from: en
+name: Maniobra de retracción abdominal (ADIM)
+description: 'Posición inicial: Túmbate boca arriba en una esterilla, con las rodillas flexionadas y los
+  pies apoyados; también se puede hacer en cuadrupedia o sentado. Coloca las yemas de los dedos en la
+  parte baja del abdomen, justo dentro de los huesos de la cadera, para notar la activación.
+
+
+  Ejecución:
+
+  1. Exhala por completo por la boca.
+
+  2. Lleva suavemente el ombligo hacia dentro y arriba, hacia la columna, como si cerraras una cremallera.
+
+  3. Mantén la columna neutra y la pelvis estable, sin aplastar la zona lumbar contra el suelo.
+
+  4. Sostén la contracción profunda 10–15 segundos mientras respiras de forma superficial y constante.
+
+  5. Relaja lentamente y respira con normalidad antes de repetir.
+
+
+  Indicaciones: Este ejercicio aísla específicamente el transverso abdominal, el estabilizador profundo
+  del core responsable de la estabilidad y el control del contorno de la cintura.'
 search_terms:
-  - Activación del transverso abdominal
-  - Stomach Vacuum
-  - Abdominal Draw-In
+- Retracción abdominal
+- Vacío abdominal
+- ADIM
+- Activación del transverso abdominal
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4206'
+  license: "CC-BY-SA-4.0"
+  license_author: "beagle"
+  source_id: "2963"

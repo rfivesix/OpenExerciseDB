@@ -1,24 +1,31 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1970'
 language: es
-status: ai_reviewed
-name: Sumo high pull con kettlebell
+status: ai_authored
+name: Tirón alto sumo con kettlebell
 description: 'Posición inicial:
 
-  Colócate de pie en postura sumo (pies más anchos que los hombros y puntas hacia fuera) directamente encima de la kettlebell. Flexiona las caderas y rodillas con la espalda neutra y agarra el asa con ambas manos en toma prona.
+  Colócate de pie en postura sumo (pies más anchos que los hombros y puntas hacia fuera) directamente
+  encima de la kettlebell. Flexiona las caderas y rodillas con la espalda neutra y agarra el asa con ambas
+  manos en toma prona.
 
 
   Ejecución:
 
-  Extiende de forma explosiva las caderas y piernas empujando el suelo con los talones. Aprovecha el impulso vertical para tirar de la kettlebell hacia la altura del pecho guiando con los codos altos y hacia fuera, manteniendo la pesa pegada al cuerpo. Baja con control por la misma trayectoria.
+  Extiende de forma explosiva las caderas y piernas empujando el suelo con los talones. Aprovecha el impulso
+  vertical para tirar de la kettlebell hacia la altura del pecho guiando con los codos altos y hacia fuera,
+  manteniendo la pesa pegada al cuerpo. Baja con control por la misma trayectoria.
 
 
   Consejos:
 
-  La aceleración procede de la extensión de cadera y los glúteos; los brazos se limitan a dirigir y completar la trayectoria del peso.'
+  La aceleración procede de la extensión de cadera y los glúteos; los brazos se limitan a dirigir y completar
+  la trayectoria del peso.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3569'
+  license: "CC-BY-SA-4.0"
+  license_author: "wgerpott"
+  source_id: "3125"
 search_terms:
-- Sumo high pull con kettlebell
-- Tirón alto sumo con pesa rusa
+- Tirón alto sumo con kettlebell
+- Peso muerto sumo con tirón alto y kettlebell
+translated_from: en

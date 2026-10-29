@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1196'
+language: nl
+status: ai_authored
+translated_from: en
+name: Wall drills voor sprinttechniek
+description: 'Startpositie:
+
+  • Sta op ongeveer één grote stap afstand met je gezicht naar een stevige muur.
+
+  • Zet je handen op schouderhoogte tegen de muur en leun met je hele lichaam ongeveer 45 graden naar
+  voren.
+
+  • Houd je lichaam van hoofd tot hielen recht en span je romp aan.
+
+
+  Uitvoering:
+
+  • Breng één knie explosief naar je borst tot je bovenbeen evenwijdig aan de grond is; trek je tenen
+  naar je scheenbeen.
+
+  • Houd de houding vast of wissel ritmisch van been in een marcherend of sprinttempo.
+
+  • Duw af met de bal van je standvoet en houd je heupen gestrekt en je wervelkolom neutraal.'
+search_terms:
+- "Wall drills"
+- "Muurdrills voor houding"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Insight"
+  source_id: "2153"

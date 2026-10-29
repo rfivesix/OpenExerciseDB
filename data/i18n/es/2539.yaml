@@ -1,0 +1,27 @@
+exercise_id: '2539'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl isométrico con mancuerna en banco Scott
+description: 'Posición inicial: Siéntate en un banco Scott y ajusta el asiento para que la parte superior
+  del apoyo inclinado encaje bajo las axilas. Apoya la parte posterior del brazo contra el apoyo y sujeta
+  una mancuerna con agarre supino.
+
+
+  Ejecución: Flexiona el codo para subir la mancuerna hasta el punto medio del recorrido (unos 90 grados
+  de flexión del codo), donde la palanca mecánica genera tensión máxima. Mantén la posición completamente
+  inmóvil contra la gravedad durante el tiempo indicado, contrayendo al máximo los bíceps y el braquial.
+  Al terminar, baja la mancuerna despacio y con control.
+
+
+  Indicaciones: Mantén el brazo y el pecho apoyados contra el banco, sin inclinarte hacia atrás ni mover
+  el hombro. Mantén firme la muñeca y respira de forma constante durante la pausa.'
+search_terms:
+- Curl isométrico en banco Scott
+- Curl Scott isométrico
+- Curl de bíceps con mancuerna isométrico
+- Curl Scott isométrico
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "HexoctusEngineering"
+  source_id: "5010"

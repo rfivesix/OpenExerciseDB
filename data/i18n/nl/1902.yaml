@@ -1,0 +1,12 @@
+exercise_id: '1902'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-up met gewicht
+description: Begin in een plankpositie met een halterschijf stevig op je bovenrug. Houd je lichaam in
+  een rechte lijn en span je romp aan. Laat je zakken tot je borst bijna de vloer raakt, met je ellebogen
+  ongeveer 45 graden van je romp. Duw via je handpalmen terug omhoog en strek je armen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "nishant0712"
+  source_id: "3049"

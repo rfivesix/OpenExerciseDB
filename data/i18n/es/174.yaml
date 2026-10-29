@@ -1,13 +1,12 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '174'
 language: es
-status: ai_reviewed
-name: Encogimientos con Piernas Elevadas
-description: |-
-  Al tener las piernas en alto, esta variante de crunch concentra el esfuerzo en la parte superior y central del abdomen.
-  Instrucciones:
-  Acuéstate boca arriba y eleva las piernas, manteniéndolas lo más rectas posible y perpendiculares al suelo (apuntando hacia el techo).
-  Extiende los brazos y contrae el abdomen para despegar los hombros y la parte alta de la espalda del suelo, como si intentaras tocarte las puntas de los pies. La zona lumbar debe permanecer en contacto con el piso. Baja de forma controlada.
+status: ai_authored
+translated_from: en
+name: Encogimiento abdominal con piernas verticales
+description: Túmbate boca arriba con las piernas rectas y elevadas en vertical. Alcanza los dedos de los
+  pies con las manos, elevando los omóplatos del suelo, y vuelve a bajar.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2701'
+  license: "CC-BY-SA-4.0"
+  license_author: "krisbbb"
+  source_id: "416"

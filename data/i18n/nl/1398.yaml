@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1398'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende hamstringrek met trekbeweging
+description: Ga op de grond zitten en buig één been, met de knie naar je toe. Plaats je hand achter je
+  hamstring en trek je been voorzichtig naar je borst; voel de rek aan de achterkant van je dij. Strek
+  je been omhoog.
+search_terms:
+- Hamstringstretch
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2365"

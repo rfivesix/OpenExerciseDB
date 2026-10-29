@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '539'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schuine bench press in de Smith-machine
+description: 'Startpositie: Zet een schuine bank van 30–45 graden in de Smith-machine. Ga zitten met je rug stevig
+  tegen de leuning en je voeten plat op de vloer. Pak de stang iets breder dan schouderbreedte vast en maak de veiligheidshaken
+  los.
+
+  Uitvoering: Laat de stang soepel zakken tot deze je bovenborst licht raakt.
+
+  Terugkeer: Duw de stang omhoog met je bovenborstspieren tot je armen gestrekt zijn, zonder je ellebogen te vergrendelen.'
+search_terms:
+- Schuine bench press in de Smith-machine
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1049"

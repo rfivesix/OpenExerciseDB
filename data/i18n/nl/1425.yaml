@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1425'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tenen aantikken
+description: Ga op je rug liggen met je armen langs je zij en je benen in tafelpositie, met je knieën
+  90 graden gebogen. Laat één voet langzaam zakken tot hij de vloer zacht aantikt; span je romp aan en
+  houd je onderrug op de grond. Keer terug naar de beginpositie en wissel van been.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2389"

@@ -4,22 +4,30 @@ status: ai_authored
 name: Spider curl con mancuernas
 description: 'Posición inicial:
 
-  Túmbate boca abajo sobre un banco inclinado a unos 45 grados, apoyando el pecho cerca de la parte superior del respaldo. Sujeta un par de mancuernas con agarre supino dejando los brazos colgando verticalmente.
+  Túmbate boca abajo sobre un banco inclinado a unos 45 grados, apoyando el pecho
+  cerca de la parte superior del respaldo. Sujeta un par de mancuernas con agarre
+  supino dejando los brazos colgando verticalmente.
 
 
   Ejecución:
 
-  Flexiona los codos y eleva las mancuernas hacia los hombros manteniendo la parte superior de los brazos completamente inmóvil y perpendicular al suelo. Aprieta los bíceps durante un segundo en la cima y desciende las mancuernas despacio y con control hasta estirar los brazos.
+  Flexiona los codos y eleva las mancuernas hacia los hombros manteniendo la parte
+  superior de los brazos completamente inmóvil y perpendicular al suelo. Aprieta los
+  bíceps durante un segundo en la cima y desciende las mancuernas despacio y con control
+  hasta estirar los brazos.
 
 
   Consejos:
 
-  El apoyo en el banco elimina todo balanceo corporal; céntrate en una flexión estricta de codo.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4294'
+  El apoyo en el banco elimina todo balanceo corporal; céntrate en una flexión estricta
+  de codo.'
 search_terms:
-- Curl con mancuerna
-- Curl araña con mancuernas
-- Dumbbell Spider Curl
+- Curl con mancuernas
+- Spider curl con mancuernas
+- Curl de bíceps inclinado boca abajo
+- Curl en banco prono
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "amaesc"
+  source_id: "3080"
+translated_from: en

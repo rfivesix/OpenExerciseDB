@@ -1,21 +1,29 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1695'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Dominadas (agarre ancho)
-description: |-
-  Ejecución
-  
+description: 'Ejecución
+
+
   Fase de tracción (concéntrica):
-  
+
+
   Lleva tus codos hacia abajo y ligeramente hacia atrás, tirando del pecho hacia la barra.
+
   Concéntrate en liderar el movimiento con el pecho, no con el mentón.
+
   Mantén los hombros deprimidos (evita encogerlos).
-  
+
+
   Posición superior:
-  
+
+
   El mentón debe superar la barra (o al menos alcanzar su nivel).
-  Haz una breve pausa para contraer los dorsales.
+
+  Haz una breve pausa para contraer los dorsales.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4053'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2814"
+translated_from: en

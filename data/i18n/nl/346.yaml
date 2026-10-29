@@ -1,0 +1,11 @@
+exercise_id: '346'
+language: nl
+status: ai_authored
+translated_from: en
+name: Landmine press
+description: Houd met één hand het vrije uiteinde vast van een halterstang die in een landmine is bevestigd.
+  Duw de stang van je lichaam af zonder deze naar je middenlijn te bewegen. Houd je lichaam recht en aangespannen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Torsten Linnecke"
+  source_id: "1066"

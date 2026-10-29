@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1240'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de sóleo de pie
+search_terms:
+- "Estiramiento de pantorrilla con rodilla flexionada"
+- "Estiramiento del sóleo"
+description: 'Posición inicial:
+
+  • Ponte de pie frente a una pared y apoya las manos a la altura del pecho.
+
+  • Retrasa un pie ligeramente, con una zancada más corta que en el estiramiento habitual de pantorrilla.
+
+
+  Ejecución:
+
+  • Mantén ambos talones en el suelo y flexiona las dos rodillas, prestando atención a la rodilla trasera.
+
+  • Baja las caderas para estirar el sóleo, situado debajo del gastrocnemio, justo por encima del tendón
+  de Aquiles.
+
+  • Mantén el estiramiento entre 20 y 30 segundos respirando con normalidad y cambia de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2202"

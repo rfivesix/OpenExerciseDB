@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1080'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hindoe-push-ups
+description: 'Begin in de neerwaartse hond: handen iets wijder dan schouderbreedte en heupen hoog in een
+  omgekeerde V. Buig de ellebogen en beweeg in een boog omlaag, waarbij borst en gezicht dicht langs de
+  vloer gaan. Duw dynamisch door naar de opwaartse hond, borst naar voren en schouders naar achteren.
+  Keer de beweging om of duw de heupen terug naar de omgekeerde V. Herhaal vloeiend.'
+search_terms:
+- Hindoe-push-ups
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imobard"
+  source_id: "2025"

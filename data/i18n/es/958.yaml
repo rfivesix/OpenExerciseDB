@@ -1,13 +1,15 @@
 exercise_id: '958'
 language: es
-status: ai_reviewed
-name: Curl de Bíceps en TRX
-description: 'músculos implicados: bíceps Agarre las asas de las correas TRX, incline
-  el cuerpo hacia atrás, brazos y piernas extendidos, cuerpo posicionado en una sola
-  línea. (no es de abdominales, es de brazos)'
+status: ai_authored
+translated_from: en
+name: Curl de bíceps con TRX
+description: 'Posición inicial: sujeta las asas TRX con agarre supino mirando al punto de anclaje. Inclínate
+  hacia atrás con los brazos extendidos y los pies adelantados, manteniendo el cuerpo en una línea rígida
+  de plancha. Ejecución: mantén los codos altos a la altura de los hombros y apuntando hacia delante;
+  flexiónalos para llevar la frente hacia las manos usando los bíceps. Vuelta: extiende los brazos y deja
+  que el cuerpo se incline hacia atrás de forma controlada hasta el inicio. Indicaciones: no dejes caer
+  los codos ni uses el impulso de las caderas; mantén el abdomen tenso.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: clafal
-  source_id: '2158'
-search_terms:
-- Biceps con TRX
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "1238"

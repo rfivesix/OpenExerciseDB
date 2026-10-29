@@ -1,0 +1,23 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1694'
+language: nl
+status: ai_authored
+translated_from: en
+name: Chest press op vlakke machine
+description: 'Uitvoering
+
+
+  Beginpositie: Buig je ellebogen ongeveer 90 graden en plaats je handen net buiten je borst. Houd je
+  polsen recht in lijn met je onderarmen.
+
+
+  Drukfase (concentrisch): Duw de handgrepen naar voren tot je armen bijna volledig gestrekt zijn; vergrendel
+  je ellebogen niet. Span je borst aan aan het einde van de beweging.
+
+
+  Terugkeer (excentrisch): Breng de handgrepen langzaam terug naar je borst en voel de rek in je borstspieren.
+  Houd spanning en laat de gewichtsstapel niet tussen herhalingen neerkomen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2813"

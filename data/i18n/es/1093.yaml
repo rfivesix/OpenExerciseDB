@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1093'
+language: es
+name: Máquina de remo indoor
+description: 'Siéntate erguido en el asiento deslizante y fija los pies en las correas. Deslízate hacia
+  delante hasta la posición de inicio: rodillas flexionadas, tibias verticales, torso ligeramente inclinado
+  desde las caderas y brazos extendidos sujetando el agarre. Para impulsar, empuja con las piernas; cuando
+  estén casi extendidas, inclina el torso un poco hacia atrás y lleva el agarre a las costillas inferiores.
+  Para volver, extiende los brazos, inclínate hacia delante desde las caderas y flexiona las rodillas.
+  Mantén una tracción potente y una recuperación relajada y controlada.'
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Boertie"
+  source_id: "2049"
+search_terms:
+- Máquina de remo

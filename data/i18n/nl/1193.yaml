@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1193'
+language: nl
+status: ai_authored
+translated_from: en
+name: Russian twist met dumbbell
+description: Ga op een mat zitten met gebogen knieën en hielen op de vloer (of opgetild voor meer uitdaging).
+  Houd een dumbbell horizontaal voor de borst en leun ongeveer 45 graden achterover met rechte rug en
+  aangespannen romp. Draai soepel naar rechts en breng de dumbbell naast de heup richting vloer. Pauzeer
+  kort en draai beheerst via het midden naar links. Draai vanuit de ribbenkast en houd heupen en onderlichaam
+  zo stil mogelijk.
+search_terms:
+- Russian twist met dumbbell
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lion"
+  source_id: "2149"

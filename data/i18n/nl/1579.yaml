@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1579'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bronco-test
+search_terms:
+- "Bronco"
+- "Bronco-shuttlerun"
+- "Bronco-test voor rugby"
+description: De Bronco-test is een fitnesstest voor herhaald hardlopen en richtingsverandering. Leg vijf
+  markers in een rechte lijn met telkens 5 meter ertussen. Begin bij de eerste marker en ren achtereenvolgens
+  naar de marker op 5 meter, terug naar het begin, naar 10 meter en terug, en naar 20 meter en terug.
+  Dat is één ronde. Voltooi vijf rondes zo snel mogelijk.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MU5H"
+  source_id: "2527"

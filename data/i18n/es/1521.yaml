@@ -1,27 +1,27 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1521'
 language: es
 status: ai_authored
-name: Hack squat pendular
+translated_from: en
+name: Sentadilla hack pendular
 description: 'Posición inicial:
 
-  Colócate en la máquina de sentadilla hack pendular con la espalda y los hombros
-  firmemente apoyados en las almohadillas y los pies a la anchura de los hombros en
-  la plataforma.
+  Colócate en la máquina de sentadilla hack pendular con la espalda y los hombros apoyados en las almohadillas.
+  Sitúa los pies a la anchura de los hombros en la plataforma y suelta los seguros.
 
 
   Ejecución:
 
-  1. Desciende de forma controlada a lo largo de la trayectoria pendular curvada flexionando
-  rodillas y caderas en una sentadilla profunda.
+  1. Baja con suavidad siguiendo el arco curvo de la máquina, flexionando caderas y rodillas hasta una
+  sentadilla profunda.
 
-  2. Empuja fuertemente a través de toda la planta del pie para regresar arriba sin
-  bloquear las rodillas por completo.
+  2. Cuando los cuádriceps estén estirados abajo, empuja con todo el pie para volver a subir.
 
-  3. Mantén la tensión constante en los cuádriceps.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2610'
+  3. Detente justo antes de bloquear las rodillas para mantener la tensión en los cuádriceps.'
 search_terms:
-- Pendular hack
-- Sentadilla hack pendular
+- Hack pendular
+- sentadilla hack pendular
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2477"

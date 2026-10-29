@@ -1,13 +1,29 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1687'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Arrastre de mancuerna en posición de oso (Bear Crawl Pull-Through)
-description: |-
-  Coloca una mancuerna aproximadamente a la altura de las caderas y adopta una posición de oso (bear crawl). Despega las rodillas del suelo y mantén la posición.
-  Con la mano opuesta alcanza la mancuerna y tírala hacia el otro lado. Vuelve a apoyar la mano en el suelo y repite con la otra mano.
+description: 'Posición inicial: Colócate a cuatro apoyos con las manos debajo de los hombros y las rodillas
+  debajo de las caderas. Pon una mancuerna en el suelo justo detrás de una mano. Eleva las rodillas unos
+  centímetros del suelo y mantén la espalda recta (posición de bear crawl).
+
+
+  Movimiento:
+
+  1. Pasa la mano contraria por debajo del torso, agarra el asa de la mancuerna y arrástrala o deslízala
+  al otro lado.
+
+  2. Vuelve a apoyar la mano en el suelo para estabilizar la posición.
+
+  3. Repite en la dirección contraria con la otra mano.
+
+
+  Consejos: Mantén las caderas y los hombros paralelos al suelo. Evita que la pelvis oscile o rote al
+  arrastrar el peso.'
 search_terms:
-  - Bear crawl pull through
+- arrastre en bear crawl
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3903'
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2806"
+translated_from: en

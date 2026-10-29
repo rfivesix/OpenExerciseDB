@@ -1,21 +1,29 @@
 exercise_id: '1809'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Hiperextensión inversa
-description: "Posición inicial:\nTúmbate boca abajo sobre un banco plano o máquina\
-  \ de hiperextensión inversa, de modo que las caderas queden al borde y las piernas\
-  \ cuelguen libremente hacia abajo. Agárrate con firmeza al banco para fijar el torso.\n\
-  \nEjecución:\n1. Contrae los glúteos y los isquiotibiales para elevar las piernas\
-  \ hacia atrás y hacia arriba en un movimiento controlado.\n2. Sube hasta que las\
-  \ piernas queden alineadas con el torso, apretando los glúteos en la parte alta.\n\
-  3. Desciende las piernas lentamente hasta la posición inicial sin balanceo.\n\n\
-  Consejos:\nEvita arquear en exceso la zona lumbar; el movimiento debe ser generado\
-  \ principalmente por la extensión de cadera."
+description: 'Túmbate boca abajo en un banco plano o una máquina de hiperextensión inversa, con las caderas
+  en el borde posterior y las piernas colgando. Sujétate al banco o a las asas para estabilizar el torso.
+
+
+  1. Contrae glúteos e isquiotibiales para elevar las piernas hacia atrás y arriba en un arco controlado.
+
+  2. Sube hasta que las piernas queden paralelas al torso y notes la contracción de glúteos y erectores
+  espinales.
+
+  3. Haz una breve pausa arriba sin hiperextender la zona lumbar.
+
+  4. Baja las piernas despacio y con control antes de la siguiente repetición.
+
+
+  Prioriza la extensión de cadera impulsada por glúteos e isquiotibiales; evita balancear las piernas
+  o hiperextender la zona lumbar.'
 search_terms:
-  - Hiperextensión inversa
-  - Reverse Hyperextension
-  - Reverse Hyper
+- Hiperextensión inversa
+- Reverse hyper
+- Hiperextensión inversa con peso corporal
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4193'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2938"

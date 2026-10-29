@@ -1,13 +1,17 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '124'
 language: es
-status: ai_reviewed
-name: Sentadilla con Disco al Frente
-description: |-
-  Esta variante de la sentadilla utiliza un disco sostenido al frente como contrapeso, lo que facilita mantener el torso erguido y alcanzar una mayor profundidad, siendo excelente para aprender la técnica correcta.
-  Instrucciones:
-  De pie, con los pies un poco más anchos que tus hombros, sostén un disco (placa) con los brazos completamente extendidos frente a tu pecho.
-  Manteniendo el core activado y la espalda recta, empuja la cadera hacia atrás y baja a una sentadilla tan profunda como te sea posible. Haz una breve pausa en el fondo y luego sube de forma controlada a la posición inicial.
+status: ai_authored
+translated_from: en
+name: Sentadilla con peso delante
+description: 'Ponte de pie con los pies algo más separados que los hombros y estírate todo lo posible.
+
+  Sujeta un disco delante del cuerpo con los brazos extendidos. Mantén el tronco firme y la curva natural
+  de la espalda.
+
+  Lleva las caderas hacia atrás y flexiona las rodillas para bajar en sentadilla todo lo que puedas. Mantén
+  la posición unos instantes y vuelve a la posición inicial.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2692'
+  license: "CC-BY-SA-4.0"
+  license_author: "sevae"
+  source_id: "342"

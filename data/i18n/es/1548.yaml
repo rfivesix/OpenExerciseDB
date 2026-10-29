@@ -1,15 +1,17 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1548'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Simulador de escaleras (StairMaster)
-description: Una máquina de cardio y fuerza para el tren inferior diseñada para simular
-  la subida de escaleras. Ofrece un entrenamiento de bajo impacto y alta intensidad
-  que trabaja las piernas, los glúteos y el core, a la vez que mejora la resistencia
-  cardiovascular.
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4073'
 search_terms:
-- Stair Master
-- StairMaster
+- "Stair Master"
+- "Máquina de subir escaleras"
+- "StairMaster"
+description: Una máquina de cardio y fuerza para el tren inferior diseñada para simular la subida de escaleras.
+  Ofrece un entrenamiento de bajo impacto y alta intensidad que trabaja las piernas, los glúteos y el
+  core, a la vez que mejora la resistencia cardiovascular.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MisterPinnacle"
+  source_id: "2496"
+translated_from: en

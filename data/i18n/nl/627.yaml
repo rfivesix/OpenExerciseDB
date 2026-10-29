@@ -1,0 +1,24 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '627'
+language: nl
+status: ai_authored
+translated_from: en
+name: Deadlift met bijna gestrekte benen
+description: 'Startpositie: Sta met je voeten op heupbreedte en houd een halterstang voor je bovenbenen vast met
+  een bovenhandse greep op schouderbreedte. Houd je knieën bijna gestrekt, met een heel lichte buiging om de gewrichten
+  te beschermen.
+
+  Uitvoering: Buig vanuit je heupen en duw je billen naar achteren. Houd je rug volledig vlak en neutraal. Laat
+  de stang dicht langs je benen zakken tot je een diepe rek in je hamstrings voelt.
+
+  Terugkeer: Span je hamstrings en bilspieren krachtig aan om weer helemaal rechtop te komen.
+
+  Aandachtspunten: Laat je onderrug niet bol worden. Houd je knieën gedurende de hele beweging vrijwel gestrekt
+  en in dezelfde positie.'
+search_terms:
+- Deadlift met gestrekte benen
+- Straight-leg deadlift
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "209"

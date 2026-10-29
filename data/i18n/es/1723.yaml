@@ -1,0 +1,28 @@
+exercise_id: '1723'
+language: es
+status: ai_authored
+translated_from: en
+name: Patada de glúteo en máquina
+description: 'Posición inicial:
+
+  Colócate en la máquina de patada de glúteo con el torso apoyado en la almohadilla. Apoya la planta del
+  pie, especialmente el talón, contra la plataforma.
+
+
+  Ejecución:
+
+  1. Empuja la plataforma hacia atrás y arriba con el talón hasta extender la cadera.
+
+  2. Contrae el glúteo al final del movimiento.
+
+  3. Vuelve lentamente y con control a la posición inicial.
+
+
+  Consejos:
+
+  Empuja con el talón, no con los dedos, para centrar el trabajo en el glúteo mayor. Evita hiperextender
+  la zona lumbar al final.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2849"

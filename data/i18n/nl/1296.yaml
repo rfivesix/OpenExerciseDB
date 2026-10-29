@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1296'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lage kabel crossover
+description: De lage kabel crossover is een isolatieoefening met een kabelstation die het bovenste deel
+  van de borstspieren traint. De oefening wordt vaak gebruikt in trainingen voor het bovenlichaam of de
+  borst, vaak in combinatie met presses of flyes vanuit andere hoeken om alle delen van de borst te trainen.
+search_terms:
+- Cruce de poleas bajas
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JackSparrow"
+  source_id: "2262"

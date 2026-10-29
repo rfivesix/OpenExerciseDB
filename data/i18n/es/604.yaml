@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '604'
+language: es
+status: ai_authored
+translated_from: en
+name: Peso muerto rápido
+description: 'Posición inicial: Coloca una barra cargada aproximadamente al 50–70 % de tu repetición máxima y adopta
+  tu postura habitual de peso muerto, con la columna firme y estabilizada.
+
+  Ejecución: Levanta la barra del suelo con la máxima aceleración y velocidad explosiva, impulsando con fuerza las
+  caderas y las piernas hasta quedar erguido.
+
+  Regreso: Devuelve la barra al suelo rápidamente y con control.
+
+  Indicaciones: Concéntrate en la velocidad máxima y la intención explosiva. Los descansos son intencionadamente
+  breves (normalmente menos de 60 segundos) para entrenar la potencia explosiva y la tasa de desarrollo de fuerza.'
+search_terms:
+- Peso muerto con esfuerzo dinámico
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrSteele"
+  source_id: "328"

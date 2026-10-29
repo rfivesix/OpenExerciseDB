@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1448'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende W-curl met halters
+description: Ga tegen een schuin bankje zitten dat ongeveer 60 graden staat. Laat je armen langs je zij
+  hangen met je handpalmen naar buiten. Buig je ellebogen en curl de halters omhoog en iets naar buiten,
+  zodat je armen bovenaan een W vormen. Span je biceps aan zonder je ellebogen naar voren te bewegen en
+  laat de halters langzaam zakken tot je armen gestrekt zijn.
+search_terms:
+- Zittende W-curl
+- W-curl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2412"

@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2499'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexiones inclinadas
+description: 'Posición inicial:
+
+  Coloca las manos algo más separadas que los hombros sobre una superficie elevada y firme, como un banco,
+  una mesa o un escalón. Camina hacia atrás hasta formar una plancha recta y firme de la cabeza a los
+  talones.
+
+
+  Ejecución:
+
+  1. Baja el pecho con control hacia el borde de la superficie, manteniendo los codos dirigidos hacia
+  atrás unos 45 grados.
+
+  2. Mantén activos el abdomen y los glúteos para alinear las caderas con la columna.
+
+  3. Empuja con firmeza contra la superficie hasta extender los brazos y volver a la plancha inicial.
+
+
+  Consejos:
+
+  No dejes que la zona lumbar se hunda ni que las caderas se eleven. Ajusta la altura para acercarte gradualmente
+  a las flexiones en el suelo.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4981"
+search_terms:
+- Flexiones inclinadas (Vasco L2)
+- Flexiones inclinadas
+- Flexiones con manos elevadas

@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1081'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderdoorgangen met band of stok
+description: Sta rechtop met voeten op schouderbreedte. Houd voor het lichaam een weerstandsband, PVC-buis
+  of bezemsteel vast met een brede bovenhandse greep en gestrekte armen. Houd de ellebogen recht en beweeg
+  de armen in een ruime boog boven het hoofd en verder naar achteren tot de band of stok achter de heupen
+  komt. Hol de onderrug niet en buig de ellebogen niet; maak de greep zo nodig wijder. Beweeg vloeiend
+  terug over het hoofd en herhaal.
+search_terms:
+- Schouderdoorgangen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tinman"
+  source_id: "2031"

@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1285'
+language: es
+status: ai_authored
+translated_from: en
+name: Patadas hacia los glúteos
+description: 'Beginpositie:
+
+  Ponte de pie con los pies a la anchura de las caderas y el core ligeramente activado.
+
+
+  Uitvoering:
+
+  1. Empieza a trotar en el sitio o avanzando a un ritmo constante.
+
+  2. Flexiona las rodillas para llevar los talones hacia los glúteos en cada zancada.
+
+  3. Mantén los muslos orientados principalmente hacia abajo y acompaña el movimiento con los brazos de
+  forma natural.
+
+
+  Tips:
+
+  Es un calentamiento dinámico para activar los isquiotibiales y las pantorrillas antes de un trabajo
+  intenso del tren inferior.'
+search_terms:
+- Bum kicks
+- Talones a los glúteos
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "painDpice"
+  source_id: "2252"

@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1273'
+language: es
+status: ai_authored
+translated_from: en
+name: Pullover con mancuerna
+description: 'Posición inicial:
+
+  Túmbate en un banco (a lo largo o con la parte superior de la espalda apoyada si te colocas transversalmente)
+  y apoya los pies en el suelo. Sujeta una mancuerna con ambas manos en forma de diamante bajo el disco
+  interior y sostenla sobre el pecho con los codos ligeramente flexionados.
+
+
+  Ejecución:
+
+  1. Mantén los codos ligeramente flexionados y fijos. Baja lentamente la mancuerna en un arco detrás
+  de la cabeza hasta notar un estiramiento profundo en los dorsales y el pecho.
+
+  2. Lleva la mancuerna de vuelta sobre el pecho por el mismo arco, contrayendo el pecho y los dorsales.
+
+  3. Haz una pausa breve arriba y repite.
+
+
+  Consejos:
+
+  No conviertas el movimiento en una extensión de tríceps flexionando más los codos. Mantén las caderas
+  estables y evita arquear demasiado la zona lumbar.'
+search_terms:
+- Pullover con mancuerna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "3leh"
+  source_id: "2241"

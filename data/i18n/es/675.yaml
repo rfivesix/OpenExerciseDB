@@ -1,0 +1,11 @@
+exercise_id: '675'
+language: es
+status: ai_authored
+translated_from: en
+name: Levantamiento turco
+description: Empieza tumbado boca arriba y pasa a la posición de pie sujetando una kettlebell por encima
+  de la cabeza con una mano. Cambia de mano entre repeticiones.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "dookie1481"
+  source_id: "318"

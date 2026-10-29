@@ -1,25 +1,32 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1964'
 language: es
-status: ai_reviewed
-name: Flexiones con agarre ancho
+status: ai_authored
+name: Flexión con manos separadas
 description: 'Posición inicial:
 
-  Colócate en plancha alta apoyando las manos bastante más abiertas que la anchura de los hombros (aproximadamente una vez y media el ancho de hombros), con las puntas de los dedos ligeramente hacia fuera y el cuerpo alineado de pies a cabeza.
+  Colócate en plancha alta apoyando las manos bastante más abiertas que la anchura de los hombros (aproximadamente
+  una vez y media el ancho de hombros), con las puntas de los dedos ligeramente hacia fuera y el cuerpo
+  alineado de pies a cabeza.
 
 
   Ejecución:
 
-  Baja el pecho hacia el suelo flexionando los codos de forma controlada hasta rozar la esterilla. Haz una breve pausa y empuja firmemente con las palmas para regresar a la posición de plancha inicial.
+  Baja el pecho hacia el suelo flexionando los codos de forma controlada hasta rozar la esterilla. Haz
+  una breve pausa y empuja firmemente con las palmas para regresar a la posición de plancha inicial.
 
 
   Consejos:
 
-  La posición amplia de manos incrementa la tensión en los pectorales y deltoides frontales. Mantén el abdomen tenso para evitar que la cadera se hunda.'
+  La posición amplia de manos incrementa la tensión en los pectorales y deltoides frontales. Mantén el
+  abdomen tenso para evitar que la cadera se hunda.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3561'
+  license: "CC-BY-SA-4.0"
+  license_author: "Anon#2"
+  source_id: "3119"
 search_terms:
-- Flexión con manos abiertas
-- Flexión ancha
-- Wide Push-Up
+- Flexión con agarre amplio
+- Flexión amplia
+- Flexión con manos separadas
+- Flexión con manos muy abiertas
+translated_from: en

@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '549'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende tricepsdruk
+description: Ga op een bank zitten, bij voorkeur met rugsteun. Pak een dumbbell stevig met beide handen vast en
+  houd hem met gestrekte armen boven je hoofd. Houd je handpalmen omhoog en laat de dumbbell langzaam achter je
+  hoofd zakken terwijl je het gewicht ondersteunt.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "richmr2174"
+  source_id: "386"

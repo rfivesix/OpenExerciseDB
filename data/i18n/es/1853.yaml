@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1853'
+language: es
+status: ai_authored
+translated_from: en
+name: L-sit con apoyo de los pies
+description: 'Posición inicial: Siéntate en el suelo o entre paralelas con las piernas extendidas delante
+  de ti. Coloca las manos junto a las caderas.
+
+
+  Ejecución: Presiona las palmas para elevar las caderas y el torso, dejando los talones apoyados en el
+  suelo para sostener parte del peso de las piernas.
+
+
+  Consejos: Mantén los hombros bajos, lejos de las orejas, y activa el core y los tríceps. Sostén la posición
+  de forma isométrica durante el tiempo indicado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2988"

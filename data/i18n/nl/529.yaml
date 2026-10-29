@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '529'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hardlopen met intervaltraining
+description: Intervaltraining met hardlopen wisselt inspanningen op hoge intensiteit (zoals heuvelherhalingen, fartlek
+  of sprints op de baan) af met actieve herstelintervallen (joggen of wandelen) om het aerobe en anaerobe vermogen
+  te verbeteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "BeLikeWater"
+  source_id: "398"

@@ -1,0 +1,37 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2481'
+language: es
+status: ai_authored
+translated_from: en
+name: Patada de crol con tabla
+description: 'Posición inicial:
+
+  Sujeta una tabla con ambas manos y los brazos extendidos delante de ti. Impúlsate desde la pared y adopta
+  una posición horizontal boca abajo.
+
+
+  Ejecución:
+
+  1. Inicia una patada de aleteo constante y compacta desde las caderas, sin flexionar demasiado las rodillas.
+
+  2. Mantén las piernas relativamente rectas, las rodillas relajadas y los dedos de los pies extendidos
+  sin tensión.
+
+  3. Mantén la cara en el agua mirando al fondo; levanta la cabeza suavemente hacia delante cuando necesites
+  inhalar.
+
+  4. Mantén un ritmo de patada continuo para avanzar por la piscina.
+
+
+  Consejos:
+
+  Evita pedalear. La patada debe proceder principalmente de los glúteos y el abdomen para mantener las
+  caderas altas en el agua.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4958"
+search_terms:
+- Patada con tabla
+- Ejercicio con tabla
+- Patada de estilo libre con tabla

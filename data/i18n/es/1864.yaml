@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1864'
+language: es
+status: ai_authored
+translated_from: en
+name: Rotaciones de tobillo
+description: 'Posición inicial: Siéntate erguido en una silla o en el suelo y eleva un pie para que el
+  tobillo se mueva libremente.
+
+
+  Ejecución: Dibuja círculos amplios y lentos con los dedos, rotando el tobillo en todo su rango. Haz
+  varias repeticiones en sentido horario y luego al contrario.
+
+
+  Consejos: Mantén quietos la pierna y la rodilla para que la rotación venga del tobillo. Haz 10–15 círculos
+  en cada dirección por pie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3006"

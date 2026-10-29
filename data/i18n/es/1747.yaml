@@ -1,21 +1,28 @@
 exercise_id: '1747'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Sentadilla en máquina Smith
-description: "Posición inicial:\nColócate bajo la barra guiada de la máquina Smith\
-  \ apoyándola sobre la parte superior del trapecio. Sitúa los pies al ancho de los\
-  \ hombros, ligeramente adelantados respecto a la línea vertical de la barra. Gira\
-  \ las muñecas para desbloquear la barra de los soportes de seguridad.\n\nEjecución:\n\
-  1. Inhala profundamente, aprieta el abdomen y desciende flexionando caderas y rodillas\
-  \ de forma controlada.\n2. Baja hasta que los muslos queden al menos paralelos al\
-  \ suelo.\n3. Empuja con fuerza a través de los talones y toda la planta del pie\
-  \ para regresar a la posición erguida.\n4. Mantén una ligera flexión en las rodillas\
-  \ al llegar arriba antes de iniciar la siguiente repetición.\n\nConsejos:\nMantén\
-  \ el pecho levantado y la espalda alineada durante todo el recorrido guiado."
+description: 'Colócate bajo la barra de la máquina Smith, apoyada sobre los trapecios superiores. Separa
+  los pies al ancho de los hombros y sitúalos ligeramente por delante del plano vertical de la barra.
+  Desbloquea la barra girando las muñecas.
+
+
+  1. Inhala y activa el abdomen; flexiona caderas y rodillas siguiendo el recorrido guiado.
+
+  2. Baja con control hasta que los muslos queden al menos paralelos al suelo.
+
+  3. Empuja con toda la planta del pie y los talones para volver al inicio.
+
+  4. En la parte superior, evita bloquear las rodillas por completo.
+
+
+  Mantén el pecho erguido y la columna neutra. La fuente sugiere adelantar los pies si se desea reducir
+  el desplazamiento de las rodillas y enfatizar glúteos y cuádriceps.'
 search_terms:
-  - Sentadilla multipower
-  - Smith Machine Squat
+- Sentadilla Smith
+- Sentadilla en máquina guiada
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Tierrasverdes
-  source_id: '2881'
+  license: "CC-BY-SA-4.0"
+  license_author: "Tierrasverdes"
+  source_id: "2880"

@@ -1,0 +1,16 @@
+exercise_id: '310'
+language: nl
+status: ai_authored
+translated_from: en
+name: Incline dumbbell row
+description: 'Leun met een neutrale greep tegen een schuine bank.
+
+  Houd in elke hand een dumbbell met neutrale greep vast en begin met gestrekte armen. Dit is de beginpositie.
+
+  Trek je schouderbladen naar achteren en buig je ellebogen om de dumbbells naar je zij te roeien.
+
+  Pauzeer bovenaan en keer terug naar de beginpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cal.zabel"
+  source_id: "340"

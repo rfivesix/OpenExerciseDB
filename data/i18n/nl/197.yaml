@@ -1,0 +1,12 @@
+exercise_id: '197'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bench dips between two benches
+description: Zet twee banken zo ver uit elkaar dat je je met je handen aan de ene kunt vasthouden en met
+  je voeten de andere net kunt bereiken. Houd je benen tijdens de oefening volledig gestrekt. Richt je
+  ellebogen naar achteren en buig ze zo ver mogelijk. Duw jezelf omhoog, maar strek je armen niet helemaal.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "83"

@@ -1,11 +1,16 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '135'
 language: es
-status: ai_reviewed
-name: Aperturas en máquina
-description: Posición inicial Sentado en la máquina "Peck deck" con la espalda pegada al respaldo, los antebrazos bien apoyados
-  contra las piezas acolchadas previstas para este fin. La parte superior de los brazos debe estar paralela al suelo y en
-  línea con los hombros.
+status: ai_authored
+translated_from: en
+name: Aperturas en máquina (pec deck)
+description: Siéntate en la máquina de aperturas, con los pies bien apoyados en el suelo y la parte superior
+  de los brazos paralela al suelo. Junta los brazos hasta que las empuñaduras casi se toquen, pero sin
+  llegar a hacerlo. Vuelve lentamente. Las pesas deben permanecer suspendidas durante todo el ejercicio.
+search_terms:
+- Butterfly
+- Aperturas en máquina
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2620'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "98"

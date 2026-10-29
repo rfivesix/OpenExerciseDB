@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1012'
+language: nl
+status: ai_authored
+translated_from: en
+name: Afwisselende dumbbell-bicepscurl
+description: Sta rechtop met een dumbbell in elke hand naast je lichaam, armen gestrekt en handpalmen
+  naar binnen. Buig één arm en draai de onderarm omhoog zodat je handpalm bovenaan naar je schouder wijst.
+  Houd je bovenarm stil, laat het gewicht gecontroleerd zakken en herhaal met de andere arm.
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "1907"
+search_terms:
+- Afwisselende dumbbell-bicepscurl

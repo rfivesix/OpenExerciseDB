@@ -1,0 +1,15 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1704'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tuck L-sit
+description: De tuck L-sit is een statische oefening met lichaamsgewicht. Steun met gestrekte armen op
+  parallelle stangen, parallettes of de vloer en trek je knieën naar je borst. Houd je heupen omhoog,
+  je wervelkolom recht en je voeten van de vloer. Span je romp aan, houd je schouders laag en je armen
+  gestrekt terwijl je de ingetrokken positie vasthoudt. Deze statische houding vraagt veel van de romp
+  en stabiliseert de schouders; ze wordt vaak gebruikt als voorbereiding op de volledige L-sit.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2825"

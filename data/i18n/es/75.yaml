@@ -1,25 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '75'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Press de banca con mancuernas
-description: |-
-  Es un ejercicio multiarticular de fuerza y de hipertrofia destinado al desarrollo del tren superior, específicamente el pecho. Al usar mancuernas en lugar de barra, se corrige el desequilibrio de fuerza entre ambos lados del cuerpo y se permite un movimiento más natural y amigable para las articulaciones del hombro.
+description: 'Preparación y posición inicial: Siéntate en el extremo de un banco plano con una mancuerna
+  apoyada verticalmente sobre cada muslo. Inclínate con cuidado hacia atrás mientras llevas las mancuernas
+  al pecho con ayuda de las rodillas.
 
 
-  Preparación y Posición Inicial: Siéntate en el extremo de un banco plano con una mancuerna apoyada verticalmente en cada muslo. Túmbate hacia atrás con cuidado mientras impulsas las mancuernas con las rodillas hacia tu pecho.
+  Impulso de piernas y postura: Apoya bien los pies en el suelo. Junta las escápulas contra el banco y
+  conserva la curva lumbar natural.
 
 
-  El "Leg Drive" y Postura: Apoya los pies firmemente en el suelo. Retrae las escápulas (junta los omóplatos contra el banco) y mantén un ligero arco lumbar natural.
+  Posición inicial: Empuja las mancuernas hacia el techo. Alinea las muñecas con los codos. Gira ligeramente
+  las mancuernas hacia dentro (unos 45 grados) para que los codos no se abran demasiado hacia los lados.
 
 
-  Posición de Salida: Empuja las mancuernas hacia el techo. Tus muñecas deben estar alineadas con los codos. Gira ligeramente las mancuernas hacia adentro (unos 45 grados) para que los codos no se abran en exceso hacia los lados, protegiendo así tus hombros.
+  Fase excéntrica (bajada): Baja las mancuernas de forma controlada hacia los lados del pecho. Los codos
+  deben descender formando unos 45–60 grados respecto al cuerpo. Nota el estiramiento en la parte inferior
+  del pecho.
 
 
-  Fase Excéntrica (Bajada): Baja las mancuernas de forma controlada hacia los lados de tu pecho. Los codos deben bajar formando un ángulo de unos 45-60 grados respecto a tu cuerpo. Siente el estiramiento en el pectoral en la parte baja.
-
-
-  Fase Concéntrica (Subida): Empuja el peso hacia arriba siguiendo una ligera trayectoria en arco (hacia el centro), sin llegar a chocar las mancuernas arriba ni bloquear los codos por completo para mantener la tensión muscular. Expulsa el aire al subir.
+  Fase concéntrica (subida): Empuja el peso hacia arriba describiendo un arco leve hacia el centro, sin
+  que las mancuernas choquen arriba ni bloquear completamente los codos, para mantener la tensión muscular.
+  Espira al empujar.'
+search_terms:
+- Press de banca con mancuernas
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2626'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "97"

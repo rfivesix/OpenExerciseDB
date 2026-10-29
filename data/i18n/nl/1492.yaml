@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1492'
+language: nl
+status: ai_authored
+translated_from: en
+name: Halfknielende hoge cable row
+search_terms:
+- "Hoge row"
+- "Hoge cable row"
+- "Eenarmige hoge knielende row"
+description: 'Startpositie:
+
+  Bevestig een D-handgreep aan een hoge kabel. Kniel met één knie op een mat tegenover de kabeltoren;
+  houd je romp lang en je core aangespannen. Pak de greep met je arm omhoog in de lijn van de kabel.
+
+
+  Uitvoering:
+
+  1. Trek de kabel omlaag en naar achteren door je elleboog richting je heup en ribben te bewegen.
+
+  2. Span je rug bovenaan één seconde aan.
+
+  3. Laat de kabel langzaam en gecontroleerd omhooggaan en rek je lat voordat je herhaalt.
+
+
+  Aandachtspunten:
+
+  De halfknielende houding helpt holtrekken van de onderrug en momentum te beperken.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "aahuja"
+  source_id: "2455"

@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1857'
+language: nl
+status: ai_authored
+translated_from: en
+name: Foamroller voor de iliotibiale band
+description: 'Beginpositie: Ga op je zij liggen met de foamroller onder de buitenkant van je onderste
+  dij, net onder het heupgewricht. Steun op je onderarm en plaats je bovenste voet voor je plat op de
+  vloer voor stabiliteit en drukregeling.
+
+
+  Uitvoering: Rol langzaam over de buitenkant van je dij, van net onder je heup tot net boven je kniegewricht.
+
+
+  Tips: Rol nooit direct over je heupbot of kniegewricht. Regel de druk door met je steunvoet en -arm
+  te duwen.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "2995"

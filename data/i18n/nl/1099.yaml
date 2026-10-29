@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1099'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dynamische zijwaartse eenbenige hold met kettlebell
+description: Haal een elastische band door het handvat van een kettlebell en houd de band in één hand
+  zodat de kettlebell vrij naast je hangt. Sta rechtop met neutrale wervelkolom. Til één voet op en balanceer
+  op één been. Span romp, schuine buikspieren en standheup aan om rechtop te blijven terwijl de kettlebell
+  beweegt. Houd de voorgeschreven tijd vast; wissel eventueel halverwege van standbeen. Herhaal met het
+  gewicht in de andere hand.
+search_terms:
+- Dynamische zijwaartse hold
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2058"

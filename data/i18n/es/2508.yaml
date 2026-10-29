@@ -1,0 +1,38 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2508'
+language: es
+status: ai_authored
+translated_from: en
+name: Bird dog
+description: 'Posición inicial:
+
+  Colócate a cuatro patas sobre una esterilla, con las muñecas debajo de los hombros y las rodillas debajo
+  de las caderas. Mantén la columna neutra.
+
+
+  Ejecución:
+
+  1. Extiende lentamente el brazo derecho hacia delante y la pierna izquierda hacia atrás, hasta que ambos
+  queden paralelos al suelo.
+
+  2. Orienta el pulgar hacia arriba y empuja el talón hacia atrás sin girar las caderas ni hiperextender
+  la zona lumbar.
+
+  3. Mantén la extensión durante 1–2 segundos con el abdomen estable frente a la rotación.
+
+  4. Baja la mano y la rodilla a la posición inicial con control.
+
+  5. Repite con el brazo izquierdo y la pierna derecha, alternando con suavidad.
+
+
+  Consejos:
+
+  Imagina que mantienes un vaso de agua sobre la zona lumbar. Mantén la pelvis nivelada y evita girar
+  el torso.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4987"
+search_terms:
+- Bird dog (core L1)
+- Ejercicio bird dog
+- Bird dog cuadrúpedo

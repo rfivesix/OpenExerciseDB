@@ -1,22 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '2449'
 language: es
-status: ai_reviewed
-name: Almeja combinada con almeja inversa
-description: |-
-  Posición inicial:
-  Túmbate de lado con las caderas y rodillas flexionadas a 90 grados y las piernas superpuestas. Mantén la pierna superior ligeramente suspendida en el aire.
+status: ai_authored
+name: Almeja y almeja inversa
+description: 'Posición inicial:
+
+  Túmbate de lado con las caderas y rodillas flexionadas a 90 grados y las piernas superpuestas. Mantén
+  la pierna superior ligeramente suspendida en el aire.
+
 
   Ejecución:
-  1. Manteniendo los talones en contacto, abre la rodilla superior hacia arriba en rotación externa (almeja tradicional).
-  2. Baja la rodilla, junta ambas rodillas y eleva el pie superior hacia arriba en rotación interna (almeja inversa).
+
+  1. Manteniendo los talones en contacto, abre la rodilla superior hacia arriba en rotación externa (almeja
+  tradicional).
+
+  2. Baja la rodilla, junta ambas rodillas y eleva el pie superior hacia arriba en rotación interna (almeja
+  inversa).
+
   3. Alterna de manera fluida y controlada entre ambos movimientos sin apoyar la pierna durante la serie.
 
+
   Consejos:
-  Mantén la pelvis estable sin balanceos hacia atrás; concéntrate en el control del rango articular de la cadera.
+
+  Mantén la pelvis estable sin balanceos hacia atrás; concéntrate en el control del rango articular de
+  la cadera.'
 search_terms:
-- Almeja a almeja inversa
-- Clamshell to Reverse Clamshell
+- Combinación de almeja
+- Rotación interna y externa de cadera
+- De almeja a almeja inversa
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3605'
+  license: "CC-BY-SA-4.0"
+  license_author: "TobiasFalk"
+  source_id: "3555"
+translated_from: en

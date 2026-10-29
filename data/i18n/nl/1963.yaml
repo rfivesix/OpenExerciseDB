@@ -1,0 +1,24 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1963'
+language: nl
+status: ai_authored
+translated_from: en
+name: Langzame squat
+description: 'Een squat op tempo, waarbij gecontroleerde beweging de spierspanning verhoogt en de stabiliteit
+  van het onderlichaam verbetert.
+
+
+  Omlaag: zak langzaam in 3 seconden.
+
+  Pauze: houd de onderste positie 1 seconde vast.
+
+  Omhoog: keer in een normaal tempo terug naar de startpositie.
+
+  Houding: houd je borst omhoog en je gewicht op je hielen.'
+search_terms:
+- Squat op tempo
+- Squat met tempo 3-1-1
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anon#2"
+  source_id: "3118"

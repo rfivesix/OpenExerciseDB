@@ -1,24 +1,26 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1969'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Extensión de tríceps en polea a un brazo
 description: 'Posición inicial:
 
-  Colócate frente a la polea alta con los pies a la anchura de los hombros. Engancha un maneral individual y sujétalo en agarre prono con el codo flexionado a 90 grados y pegado al costado. Inclina ligeramente el torso al frente y activa el abdomen.
+  Colócate frente a la polea alta con los pies a la anchura de los hombros. Engancha un maneral individual
+  y sujétalo en agarre prono con el codo flexionado a 90 grados y pegado al costado. Inclina ligeramente
+  el torso al frente y activa el abdomen.
 
 
   Ejecución:
 
-  Empuja el maneral hacia abajo extendiendo el codo hasta estirar el brazo por completo. Mantén la contracción durante un segundo en el punto más bajo y regresa despacio controlando la subida hasta los 90 grados.
+  Empuja el maneral hacia abajo extendiendo el codo hasta estirar el brazo por completo. Mantén la contracción
+  durante un segundo en el punto más bajo y regresa despacio controlando la subida hasta los 90 grados.
 
 
   Consejos:
 
   Conserva el codo completamente bloqueado junto al cuerpo sin permitir que oscile adelante o atrás.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3589'
-search_terms:
-- Extensión de tríceps en polea a un brazo
-- Pushdown de tríceps a un brazo
+  license: "CC-BY-SA-4.0"
+  license_author: "evtimovgeorg"
+  source_id: "3124"
+translated_from: en

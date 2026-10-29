@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1637'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenzijdige row
+description: Ga op de vloer zitten en pak een hoge kabel met één handgreep vast. Voer een lat pulldown
+  uit en richt je op een ruime rek van de brede rugspieren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Rottekongen"
+  source_id: "2743"

@@ -1,12 +1,33 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1567'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Curl de martillo alterno con mancuernas
-description: De pie, con las rodillas ligeramente dobladas y la espalda recta. Sujeta
-  una mancuerna en cada mano, en un agarre neutral a lo largo del cuerpo.
+description: 'Posición inicial:
+
+  Ponte de pie con las rodillas ligeramente flexionadas y los pies separados al ancho de los hombros.
+  Sujeta una mancuerna en cada mano a los lados, con agarre neutro (las palmas enfrentadas).
+
+
+  Ejecución:
+
+  1. Mantén el brazo inmóvil y el codo pegado al cuerpo; flexiona un codo para llevar la mancuerna hacia
+  el hombro, manteniéndola vertical.
+
+  2. Contrae con fuerza el braquiorradial y el braquial en la parte alta del curl.
+
+  3. Baja la mancuerna lentamente y con control hasta la posición inicial antes de repetir con el otro
+  brazo.
+
+
+  Indicaciones:
+
+  Evita balancear el torso o usar impulso. El agarre neutro maximiza la tensión en el antebrazo y el braquial.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2623'
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2515"
 search_terms:
+- Curl alterno de martillo
 - Curl alterno de martillo con mancuernas
+translated_from: en

@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1318'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hoge kniesprongen
+description: 'Je kunt deze oefening gebruiken als dynamische warming-up vóór de training en als onderdeel
+  van je cardiotraining. High knee skips zijn plyometrisch: explosieve aerobe bewegingen die snelheid,
+  wendbaarheid en kracht vergroten en het hele lichaam trainen. Ze richten zich op de schuine buikspieren,
+  been- en heupspieren en heupbuigers, en trainen ook de dijen, kniepezen, quadriceps en schouders. Sprongen
+  combineren conditietraining met krachtwerk en kunnen je cardiovasculaire conditie verbeteren doordat
+  je hartslag stijgt.'
+search_terms:
+- Saltos con rodillas altas
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2288"

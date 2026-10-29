@@ -1,11 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '95'
 language: es
-status: ai_reviewed
-name: Curl de Bíceps en Polea
-description: |-
-  Párate a uno o dos pasos de una polea en su posición más baja y sujeta la barra o el agarre con las palmas hacia arriba (agarre supino).
-  Manteniendo los codos fijos a los costados de tu cuerpo, sube el peso con un movimiento relativamente rápido y potente, contrayendo el bíceps en la parte alta. La clave del ejercicio está en la bajada: regresa a la posición inicial de forma lenta y controlada, resistiendo la tensión constante del cable.
+status: ai_authored
+translated_from: en
+name: Curl de bíceps en polea
+description: Ponte a unos 30–40 cm de la polea, con los pies firmes en el suelo. Sujeta la barra y levanta
+  el peso con un movimiento rápido. Bájalo lentamente y de forma controlada, como en el curl con mancuernas.
+search_terms:
+- Curl de bíceps con cable
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2672'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "129"

@@ -1,0 +1,10 @@
+exercise_id: '284'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hercules pillars
+description: Pak twee kabels vast, ga ertussen staan zodat beide kabels op spanning staan en houd ze vast.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "GrosseHund"
+  source_id: "291"

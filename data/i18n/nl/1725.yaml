@@ -1,0 +1,11 @@
+exercise_id: '1725'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende roeibeweging op de machine
+description: Houd je borst omhoog en knijp je schouderbladen samen aan het einde van de trekbeweging.
+  Buig niet voorover en rond je rug niet tijdens het trekken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2851"

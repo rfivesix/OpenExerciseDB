@@ -1,0 +1,37 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2480'
+language: nl
+status: ai_authored
+translated_from: en
+name: Rustig onafgebroken zwemmen (vrije slag)
+description: 'Startpositie:
+
+  Ga het zwembad in en zet je soepel af van de wand naar een gestroomlijnde horizontale houding aan het
+  wateroppervlak.
+
+
+  Uitvoering:
+
+  1. Zwem de vrije slag in een ontspannen, gelijkmatig tempo waarop je zou kunnen praten, zonder bij de
+  wanden te stoppen.
+
+  2. Richt je op soepele, lange armslagen en een rustige, ritmische ademhaling.
+
+  3. Houd je flutterkick ontspannen en compact, en laat de beweging vanuit je heupen komen in plaats van
+  je knieën.
+
+  4. Blijf zwemmen gedurende de voorgeschreven tijd of afstand.
+
+
+  Aandachtspunten:
+
+  Geef voorrang aan efficiëntie en een goede lichaamslijn boven snelheid. Het doel is aerobe conditie
+  en gevoel voor het water.'
+search_terms:
+- Rustig onafgebroken zwemmen
+- Aerobe borstcrawl
+- Ononderbroken borstcrawl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4957"

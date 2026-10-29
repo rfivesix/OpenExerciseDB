@@ -1,18 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1573'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Rueda abdominal
-description: 'Posición inicial: Arrodíllate en el suelo con la rueda abdominal frente
-  a ti.
+search_terms:
+- "Despliegue con rodillo abdominal"
+- "Rueda abdominal"
+description: 'Posición inicial:
 
-  Agarra la rueda: Sujeta los mangos con firmeza.
+  Arrodíllate sobre una colchoneta acolchada, con las rodillas separadas al ancho de las caderas. Sujeta
+  con firmeza las asas de la rueda abdominal y apóyala en el suelo delante de las rodillas.
 
-  Despliega: Rueda lentamente hacia delante, extendiendo el cuerpo mientras mantienes
-  el core apretado.
 
-  Regresa: Tira de la rueda de vuelta hacia las rodillas, manteniendo la tensión en
-  el core.'
+  Ejecución:
+
+  1. Contrae los abdominales, inclina ligeramente la pelvis hacia atrás y rueda despacio hacia delante,
+  extendiendo el cuerpo hacia el suelo.
+
+  2. Desplázate solo hasta donde puedas mantener la columna neutra y la zona lumbar ligeramente redondeada,
+  sin hundirla.
+
+  3. Tira con los abdominales y los dorsales para volver a rodar hasta la posición inicial.
+
+
+  Indicaciones:
+
+  Es un ejercicio de anti-extensión para el recto abdominal y el transverso del abdomen. No permitas que
+  la zona lumbar se hunda en una extensión excesiva.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4085'
+  license: "CC-BY-SA-4.0"
+  license_author: "lhegedus"
+  source_id: "2521"
+translated_from: en

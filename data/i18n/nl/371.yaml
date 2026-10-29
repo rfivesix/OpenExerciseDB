@@ -1,0 +1,11 @@
+exercise_id: '371'
+language: nl
+status: ai_authored
+translated_from: en
+name: Leg press
+description: De leg press is een krachtoefening waarbij je met je benen een gewicht of weerstand van je
+  af duwt.
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "788"

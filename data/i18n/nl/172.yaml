@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '172'
+language: nl
+status: ai_authored
+translated_from: en
+name: Crunch op de machine
+description: De uitvoering lijkt sterk op een gewone crunch, maar met het extra gewicht van de machine.
+  Ga op de machine zitten en zet beide voeten stevig op de vloer. Pak de gewichten, kabels of andere grepen
+  vast en rol je romp naar voren (idealiter komt de wervelkolom wervel voor wervel van de steun los).
+  Keer langzaam terug naar de beginpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "94"

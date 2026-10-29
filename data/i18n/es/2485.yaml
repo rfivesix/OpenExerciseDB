@@ -1,0 +1,33 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2485'
+language: es
+status: ai_authored
+translated_from: en
+name: Ejercicio de brazada y rotación
+description: 'Posición inicial:
+
+  Impúlsate desde la pared y nada de lado, con un brazo extendido delante y el otro junto al costado.
+
+
+  Ejecución:
+
+  1. Da patadas suaves y mantén el cuerpo alineado de lado.
+
+  2. Gira el torso y el hombro hacia abajo mientras extiendes el brazo adelantado.
+
+  3. Haz una brazada y luego gira el torso hacia el otro lado mientras recuperas el brazo.
+
+  4. Repite las rotaciones alternas y acompáñalas con la respiración en un ritmo fluido.
+
+
+  Consejos:
+
+  Mantén la cabeza alineada con el torso y rota con el cuerpo en lugar de levantarla.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4962"
+search_terms:
+- Ejercicio de brazada y rotación
+- Ejercicio de rotación en estilo libre
+- Progresión respiratoria de natación

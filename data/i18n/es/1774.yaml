@@ -1,22 +1,28 @@
 exercise_id: '1774'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Fondos en silla
-description: "Posición inicial:\nSiéntate en el borde delantero de una silla estable\
-  \ o banco. Apoya las manos junto a las caderas sujetando el borde con los dedos\
-  \ hacia adelante. Extiende los brazos y desplaza la cadera hacia adelante para que\
-  \ quede suspendida fuera del asiento. Mantén las piernas flexionadas (más fácil)\
-  \ o estiradas (más exigente).\n\nEjecución:\n1. Flexiona los codos directamente\
-  \ hacia atrás para descender el cuerpo de forma controlada.\n2. Baja hasta que los\
-  \ codos formen un ángulo de unos 90 grados, manteniendo la espalda pegada a la silla.\n\
-  3. Empuja con fuerza a través de las palmas para extender los brazos y regresar\
-  \ arriba.\n\nConsejos:\nMantén la espalda cerca de la silla durante todo el descenso\
-  \ para no forzar la articulación del hombro."
+description: 'Siéntate en el borde delantero de una silla o banco estable. Coloca las manos junto a las
+  caderas y agarra el borde con los dedos hacia delante. Extiende los brazos y adelanta las caderas para
+  quedar justo fuera del borde. Apoya los pies con las rodillas flexionadas (más fácil) o extiende las
+  piernas con los talones en el suelo (más difícil).
+
+
+  1. Baja despacio flexionando los codos hacia atrás y manteniendo la espalda cerca de la silla.
+
+  2. Desciende hasta que los brazos queden aproximadamente paralelos al suelo, con unos 90 grados de flexión
+  en los codos.
+
+  3. Empuja con las palmas para extender los brazos y volver al inicio.
+
+
+  Mantén el torso erguido y cerca de la silla; evita abrir mucho los codos.'
 search_terms:
-  - Fondos en silla
-  - Fondos de tríceps en banco
-  - Chair dips
+- Fondos en silla
+- Fondos en banco
+- Fondos de tríceps con peso corporal
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4170'
+  license: "CC-BY-SA-4.0"
+  license_author: "tinman"
+  source_id: "2908"

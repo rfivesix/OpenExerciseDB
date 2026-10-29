@@ -1,0 +1,11 @@
+exercise_id: '258'
+language: nl
+status: ai_authored
+translated_from: en
+name: Wide-grip front pulldown
+description: Ga zitten of staan bij een hoge kabelkatrol en pak deze breed vast. Trek het handvat naar
+  je bovenborst door je ellebogen omlaag te bewegen en laat het gecontroleerd teruggaan.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1059"

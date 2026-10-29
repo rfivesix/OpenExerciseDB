@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1284'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pseudo-planche push-up
+description: Plaats je schouders vóór je polsen en voer een push-up uit terwijl je je schouders op die
+  plek houdt. Span je romp aan en duw je schouderbladen bovenaan elke herhaling naar voren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "vdrb"
+  source_id: "2251"

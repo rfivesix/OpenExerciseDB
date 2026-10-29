@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1087'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell hang power cleans
+description: Sta met voeten op heupbreedte en dumbbells langs het lichaam. Buig licht vanuit heupen en
+  knieën en laat de gewichten tot net boven de knieën zakken, met rechte rug. Strek heupen en knieën explosief
+  en haal de schouders krachtig op. Leid de dumbbells dicht langs het lichaam omhoog en draai de ellebogen
+  snel onder de gewichten. Vang ze op schouderhoogte in een ondiepe squat, kom rechtop en laat de gewichten
+  beheerst terugzakken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2037"

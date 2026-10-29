@@ -1,24 +1,32 @@
 exercise_id: '1936'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Aperturas para deltoides posterior en polea a un brazo
 description: 'Posición inicial:
 
-  Colócate de lado a la torre de poleas con la salida del cable ajustada a la altura del hombro. Cruza la mano más alejada por delante del pecho para sujetar el cable. Mantén el codo ligeramente flexionado.
+  Colócate de lado a la torre de poleas con la salida del cable ajustada a la altura
+  del hombro. Cruza la mano más alejada por delante del pecho para sujetar el cable.
+  Mantén el codo ligeramente flexionado.
 
 
   Ejecución:
 
-  Tira del cable hacia fuera y hacia atrás en un arco horizontal amplio hasta alinear el brazo con el hombro. Contrae intensamente el deltoides posterior durante un segundo y regresa despacio controlando el peso.
+  Tira del cable hacia fuera y hacia atrás en un arco horizontal amplio hasta alinear
+  el brazo con el hombro. Contrae intensamente el deltoides posterior durante un segundo
+  y regresa despacio controlando el peso.
 
 
   Consejos:
 
-  Mantén el torso inmóvil sin rotar el cuerpo para concentrar el esfuerzo exclusivamente en el hombro posterior.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4304'
+  Mantén el torso inmóvil sin rotar el cuerpo para concentrar el esfuerzo exclusivamente
+  en el hombro posterior.'
 search_terms:
-- Aperturas para deltoides posterior en polea (un brazo)
-- One-Arm Cable Rear Delt Fly
+- Apertura posterior de hombro en polea a un brazo
+- Apertura posterior de hombro en polea a un brazo
+- Apertura inversa en polea a un brazo
+- Apertura posterior de hombro de pie en polea
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Dulive"
+  source_id: "3085"
+translated_from: en

@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1869'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento tumbado en figura de cuatro
+description: 'Posición inicial: Túmbate boca arriba en una esterilla con las rodillas flexionadas y los
+  pies apoyados.
+
+
+  Ejecución: Cruza el tobillo derecho sobre la rodilla izquierda formando un cuatro. Pasa las manos y
+  sujeta la parte posterior del muslo izquierdo; acerca suavemente la pierna al pecho hasta notar un estiramiento
+  profundo en el glúteo derecho y el piriforme.
+
+
+  Consejos: Relaja la cabeza, el cuello y los hombros en el suelo. Mantén 20–30 segundos respirando suavemente
+  y repite al otro lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3011"

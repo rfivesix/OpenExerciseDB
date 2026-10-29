@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1397'
+language: nl
+status: ai_authored
+translated_from: en
+name: Good morning met brede stand
+description: Sta met je voeten wijder dan schouderbreedte en je tenen iets naar buiten. Plaats je handen
+  achter je hoofd. Buig vanuit je heupen en laat je bovenlichaam zakken met een rechte rug en open borst.
+search_terms:
+- Good morning met brede stand
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2364"

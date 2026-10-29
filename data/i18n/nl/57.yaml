@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '57'
+language: nl
+status: ai_authored
+translated_from: en
+name: Berenloop
+description: 'Beginpositie:
+
+  Ga op handen en voeten staan met je handen onder je schouders en knieën onder je heupen. Krul je tenen
+  in en til je knieën enkele centimeters van de vloer; houd je rug recht.
+
+
+  Uitvoering:
+
+  1. Beweeg naar voren door je rechterhand en linkervoet tegelijk te verplaatsen.
+
+  2. Zet daarna een stap met je linkerhand en rechtervoet en kruip zo in een kruislingse beweging verder.
+
+  3. Beweeg in een beheerst, gelijkmatig tempo over de voorgeschreven afstand (bijvoorbeeld 20–30 meter)
+  of tijd (bijvoorbeeld 45 seconden).
+
+
+  Opmerkingen:
+
+  Houd je heupen laag en evenwijdig aan de vloer en voorkom overmatig heen en weer zwaaien. Span je romp
+  en quadriceps aan.'
+search_terms:
+- Berenloop
+- Bear crawl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "nate303303"
+  source_id: "307"

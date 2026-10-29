@@ -1,12 +1,29 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1707'
 language: es
 status: ai_authored
 name: Elevación lateral en polea
-description: |-
-  Colócate de pie de lado a la polea baja, sosteniendo el agarre con la mano contraria. Manteniendo una ligera flexión en el codo, eleva el brazo lateralmente hasta la altura del hombro y desciende de forma controlada.
+description: 'Posición inicial: Ponte de lado junto a una polea baja. Sujeta el agarre individual con
+  la mano más alejada, cruzándola por delante del cuerpo. Mantén el pecho erguido y el codo ligeramente
+  flexionado.
+
+
+  Movimiento:
+
+  1. Eleva el agarre lateralmente, guiando con el codo, hasta que el brazo quede paralelo al suelo a la
+  altura del hombro.
+
+  2. Haz una breve pausa arriba para enfatizar la contracción del deltoides lateral.
+
+  3. Baja el peso lentamente y con control hasta la posición inicial.
+
+
+  Consejos: Evita encoger los trapecios o usar el impulso del torso. La polea proporciona una tensión
+  continua y uniforme durante todo el movimiento.'
 search_terms:
-  - Elevacion lateral polea
+- elevación lateral en polea
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: polloperro
-  source_id: '2830'
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2829"
+translated_from: en

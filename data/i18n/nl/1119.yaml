@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1119'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende machine-roei met smalle greep
+description: Zittend roeien op een machine met een smalle greep.
+search_terms:
+- Machine-roei met smalle greep
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Franpol"
+  source_id: "2088"

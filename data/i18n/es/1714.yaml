@@ -1,11 +1,14 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1714'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Ejercicio pendular de hombro con mancuerna
-description: |-
-  Inclínate hacia delante para apoyar una mano en una silla u otro objeto, sujetando una mancuerna con la otra mano.
-  Balancea suavemente la mancuerna describiendo un movimiento circular.
+description: 'Inclínate hacia delante para apoyar una mano en una silla u otro objeto, sujetando una mancuerna
+  con la otra mano.
+
+  Balancea suavemente la mancuerna describiendo un movimiento circular.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3755'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2837"
+translated_from: en

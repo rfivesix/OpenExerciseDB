@@ -1,21 +1,27 @@
 exercise_id: '1751'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Pull-through en polea
-description: "Posición inicial:\nColoca una cuerda en la polea más baja. Ponte de\
-  \ espaldas a la máquina con el cable pasando entre tus piernas. Sujeta los extremos\
-  \ de la cuerda, da un par de pasos adelante para generar tensión y adopta una postura\
-  \ con los pies un poco más anchos que los hombros.\n\nEjecución:\n1. Empuja la cadera\
-  \ hacia atrás flexionando las caderas (patrón de bisagra) con la espalda recta y\
-  \ las rodillas apenas flexionadas.\n2. Permite que la cuerda se desplace hacia atrás\
-  \ hasta sentir un estiramiento marcado en los isquiotibiales.\n3. Extiende la cadera\
-  \ hacia adelante con fuerza apretando los glúteos al máximo al llegar arriba.\n\n\
-  Consejos:\nNo conviertas el ejercicio en una sentadilla; los brazos actúan únicamente\
-  \ como ganchos mientras la fuerza proviene de las caderas."
+description: 'Coloca una cuerda en la posición más baja de la polea. Ponte de espaldas a la máquina, pasa
+  el cable entre las piernas y sujeta los extremos con ambas manos. Da dos pasos hacia delante para tensar
+  el cable y separa los pies algo más que el ancho de los hombros, con las rodillas ligeramente flexionadas.
+
+
+  1. Lleva las caderas hacia atrás manteniendo la espalda recta y los hombros estables.
+
+  2. Deja que la cuerda pase entre las piernas hasta notar un estiramiento profundo en los isquiotibiales.
+
+  3. Impulsa las caderas hacia delante para ponerte erguido y contrae los glúteos arriba.
+
+
+  Es una bisagra de cadera, no una sentadilla. Mantén los brazos relajados y rectos; no tires del peso
+  con la parte superior del cuerpo.'
 search_terms:
-  - Cable Pull Through
-  - Pull through con cuerda
+- Pull-through con cable
+- Bisagra de cadera en polea
+- Pull-through de glúteos con cuerda
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4161'
+  license: "CC-BY-SA-4.0"
+  license_author: "manuher89"
+  source_id: "2887"

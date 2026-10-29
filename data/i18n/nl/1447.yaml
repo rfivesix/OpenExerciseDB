@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1447'
+language: nl
+status: ai_authored
+translated_from: en
+name: Olympische snatch
+search_terms:
+- "Olympische snatch"
+- "Snatch"
+description: Sta met je voeten op heupbreedte bij de stang en pak hem breed vast. Houd je rug vlak, borst
+  omhoog en schouders iets voor de stang. Til de stang soepel van de vloer en houd hem dicht bij je schenen
+  en dijen. Strek bij je heupplooi je heupen, knieën en enkels explosief om de stang te versnellen. Zak
+  snel onder de stang in een diepe overhead squat en vang hem boven je hoofd met gestrekte armen. Stabiliseer
+  de stang en sta op terwijl je hem recht boven je zwaartepunt houdt.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2411"

@@ -1,9 +1,31 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '31'
 language: es
-status: ai_reviewed
-name: Sostenimiento Lateral Isométrico
-description: Toma un par de mancuernas, extiende los brazos hacia los lados y mantén la posición el mayor tiempo que puedas.
+status: ai_authored
+translated_from: en
+name: Sujeción en cruz
+description: 'Posición inicial:
+
+  Ponte de pie con los pies separados al ancho de los hombros y el tronco firme. Sujeta una mancuerna
+  a cada lado del cuerpo.
+
+
+  Ejecución:
+
+  1. Eleva ambas mancuernas hacia los lados, con los brazos rectos o ligeramente flexionados, hasta que
+  queden paralelos al suelo a la altura de los hombros.
+
+  2. Mantén esta posición isométrica durante el tiempo indicado o hasta el fallo, manteniendo contraídos
+  los deltoides laterales.
+
+  3. Cuando termine el tiempo, baja las pesas despacio y de forma controlada.
+
+
+  Notas:
+
+  No encojas los hombros hacia las orejas ni arquees la zona lumbar. Respira con regularidad mientras
+  mantienes la posición.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2549'
+  license: "CC-BY-SA-3.0"
+  license_author: "GrosseHund"
+  source_id: "289"

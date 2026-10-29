@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1480'
+language: nl
+status: ai_authored
+translated_from: en
+name: Liggende tricepsstrekking met halter
+description: Ga op een bank liggen en houd een halter met beide handen bovenhands vast, op schouderbreedte.
+  Begin met je armen boven je bovenborst en je ellebogen ongeveer 45° naar achteren gebogen. Buig je ellebogen
+  en beweeg je bovenarmen naar achteren, zodat de halter achter je hoofd richting de vloer zakt. Houd
+  de halter achter je hoofd en niet recht erboven om de triceps te richten. Houd je schouderbladen naar
+  achteren, je ellebogen dicht bij je hoofd en je core aangespannen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2443"

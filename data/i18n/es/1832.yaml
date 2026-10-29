@@ -1,22 +1,32 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1832'
 language: es
-status: ai_reviewed
-name: Mantenimiento en apoyo en anillas (Ring Support Hold)
-description: "Posición inicial:\nColócate entre un par de anillas de gimnasia suspendidas.\
-  \ Sujeta las anillas con agarre neutro y elévate con un salto o empuje a la posición\
-  \ de apoyo con brazos completamente extendidos.\n\nEjecución:\n1. Gira activamente\
-  \ las anillas hacia afuera (RTO), de modo que las palmas miren hacia adelante y\
-  \ los pulgares hacia afuera.\n2. Empuja los hombros hacia abajo alejándolos de las\
-  \ orejas y bloquea los codos rectos.\n3. Adopta una posición de cuerpo hueco (hollow\
-  \ body) apretando abdomen y glúteos con las piernas juntas.\n4. Sostén esta posición\
-  \ isométrica durante el tiempo prescrito con respiración constante.\n\nConsejos:\n\
-  Girar las anillas hacia afuera maximiza la estabilidad articular de los hombros\
-  \ y evita apoyarse en las correas."
-search_terms:
-  - Mantenimiento en apoyo en anillas
-  - Ring Support Hold
-  - Soporte en anillas
+status: ai_authored
+translated_from: en
+name: Sostén de apoyo en anillas
+description: 'Posición inicial: Ponte entre dos anillas colgantes. Agárralas con agarre neutro y salta
+  o impúlsate hasta quedar arriba, con los brazos completamente extendidos.
+
+
+  Ejecución:
+
+  1. Gira activamente las anillas hacia fuera (RTO), con las palmas al frente y los pulgares alejados
+  del cuerpo, para evitar que los antebrazos descansen en las correas.
+
+  2. Baja los hombros alejándolos de las orejas y bloquea los codos.
+
+  3. Mantén una posición de cuerpo hueco: activa los abdominales, contrae los glúteos y junta las piernas
+  extendidas con las puntas de los pies estiradas.
+
+  4. Mantén la contracción isométrica el tiempo indicado y respira con regularidad.
+
+
+  Indicaciones: Girar las anillas hacia fuera evita apoyarse en las correas y maximiza la estabilización
+  del pecho, bíceps y deltoides anterior.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4182'
+  license: "CC-BY-SA-4.0"
+  source_id: "2967"
+search_terms:
+- Sostén de apoyo en anillas
+- Sostén RTO
+- Apoyo en anillas gimnásticas

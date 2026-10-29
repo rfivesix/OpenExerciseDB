@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1109'
+language: nl
+status: ai_authored
+translated_from: en
+name: Concentration curl aan kabel
+description: Plaats een bank voor een lage kabelkatrol. Ga zitten, pak de eenhandgreep met onderhandse
+  greep en klem de achterkant van de bovenarm tegen de binnenkant van de dij. Curl de greep naar de schouder
+  door de elleboog te buigen; houd de bovenarm op zijn plaats. Span de biceps bovenaan aan en laat de
+  greep langzaam zakken tot de arm bijna gestrekt is. Voltooi de herhalingen en wissel dan van arm.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cshep442"
+  source_id: "2072"

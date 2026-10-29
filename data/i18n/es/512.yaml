@@ -16,6 +16,6 @@ description: Coloca la polea en el peldaño más bajo de la máquina. Coloque lo
   los dorsales y los omóplatos, manteniendo la contracción durante 1-2 segundos. Vuelve al principio y repite el número de
   repeticiones deseado.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: admin
-  source_id: '2638'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "108"

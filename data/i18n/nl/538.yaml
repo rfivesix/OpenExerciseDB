@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '538'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schuine bench press met halterstang
+description: 'Ga op de schuine bank zitten met je voeten stevig op de vloer voor stabiliteit en je hoofd tegen de
+  bank. Haal de halterstang met een greep iets breder dan schouderbreedte uit het rek en duw hem omhoog. Laat de
+  stang zakken tot deze je borst kort raakt en duw het gewicht weer omhoog. Voer de beweging langzaam uit (tempo:
+  4010).'
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "163"

@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1280'
+language: nl
+status: ai_authored
+translated_from: en
+name: Smalle lat pulldown voor de biceps
+description: Houd de stang van een latpulldownmachine met je handen relatief dicht bij elkaar vast. Gebruik
+  een onderhandse greep, zodat de handrug naar de machine wijst. Trek de stang vervolgens in een rechte
+  lijn omlaag. Laat je biceps het grootste deel van de beweging uitvoeren. Je zult waarschijnlijk ook
+  je schouders en lats voelen werken, maar zorg dat je biceps harder werken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daniel.escada"
+  source_id: "2247"

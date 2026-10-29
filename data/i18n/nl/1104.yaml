@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1104'
+language: nl
+status: ai_authored
+translated_from: en
+name: Wandelen
+description: 'Sta rechtop en ontspannen, schouders laag en naar achteren, blik vooruit. Wandel met een
+  soepele, ritmische pas: land zacht op de hiel en rol af via de bal van de voet. Zwaai de armen natuurlijk
+  tegengesteld aan de benen, ellebogen licht gebogen. Houd een actief tempo van minstens 100 stappen per
+  minuut aan en adem rustig terwijl de romp licht aangespannen blijft.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2067"

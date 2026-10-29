@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1294'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl femoral a una pierna
+description: 'Beginpositie:
+
+  Túmbate boca arriba sobre una esterilla. Apoya el talón de una pierna en el suelo (o sobre un disco
+  deslizante o una toalla), con la rodilla ligeramente flexionada, y mantén la otra pierna elevada.
+
+
+  Uitvoering:
+
+  1. Eleva las caderas de la esterilla hasta formar un puente a una pierna.
+
+  2. Flexiona la rodilla y lleva el talón hacia los glúteos contrayendo con fuerza los isquiotibiales.
+
+  3. Extiende la pierna despacio y con control, manteniendo las caderas elevadas.
+
+
+  Tips:
+
+  Aísla y fortalece unilateralmente los isquiotibiales (bíceps femoral, semimembranoso y semitendinoso)
+  utilizando solo el peso corporal.'
+search_terms:
+- Curl femoral a una pierna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2260"

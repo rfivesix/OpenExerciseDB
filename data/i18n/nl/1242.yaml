@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1242'
+language: nl
+status: ai_authored
+translated_from: en
+name: Plantaire flexie met weerstandsband
+description: 'Startpositie:
+
+  Ga op de vloer zitten met je benen recht voor je. Leg het midden van een weerstandsband om de bal van
+  je voet en houd beide uiteinden stevig vast om spanning te creëren.
+
+
+  Uitvoering:
+
+  1. Duw je voet tegen de weerstand van de band naar voren en omlaag en span je kuitspieren krachtig aan.
+
+  2. Houd de maximale aanspanning aan het einde van de beweging kort vast.
+
+  3. Keer langzaam en gecontroleerd terug naar de startpositie.
+
+
+  Tips:
+
+  Houd je been stil en laat de beweging uitsluitend vanuit het enkelgewricht komen. De bron noemt deze
+  oefening geschikt voor kuitversterking en revalidatie van de achillespees.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2204"

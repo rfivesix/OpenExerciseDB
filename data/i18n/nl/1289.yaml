@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1289'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende dumbbell curls
+description: Zittende dumbbell curls trainen de biceps en stabiliseren het bovenlichaam, waardoor je minder
+  momentum gebruikt dat de oefening kan verzwakken. Je voert de oefening zittend uit met een dumbbell
+  in elke hand en concentreert je op een gecontroleerde beweging om de biceps maximaal te activeren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sTiKyt"
+  source_id: "2256"

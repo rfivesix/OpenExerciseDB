@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1876'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de pantorrilla con apoyo
+description: 'Posición inicial: Ponte frente a una pared, a un brazo de distancia, y apoya ambas palmas
+  a la altura de los hombros.
+
+
+  Ejecución: Da un paso atrás con una pierna, mantenla extendida y presiona el talón contra el suelo.
+  Flexiona la rodilla delantera y acerca las caderas a la pared hasta sentir un estiramiento intenso en
+  la pantorrilla trasera.
+
+
+  Consejos: Mantén ambos pies apuntando al frente, sin girarlos hacia fuera. Sostén 20–30 segundos y cambia
+  de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3018"

@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1203'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kuitheffing met linkerbeen
+description: Sta op de vloer of op de rand van een trede voor een grotere bewegingsuitslag. Til één voet
+  op. Hef je hiel totdat je op je tenen staat. (Variabel) Houd deze positie drie seconden vast. Laat je
+  voet langzaam zakken tot je hiel de grond bijna raakt; laat je voet niet neerkomen.
+search_terms:
+- "Kuitheffingen met het linkerbeen"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "wakanda90"
+  source_id: "2162"

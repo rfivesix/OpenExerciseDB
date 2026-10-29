@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '48'
+language: nl
+status: ai_authored
+translated_from: en
+name: Omgekeerde polskrul met halterstang
+description: 'Ga op een bank zitten en pak een halterstang vast met je handpalmen omlaag en je handen
+  op schouderbreedte. Laat je onderarmen op je dijen rusten en je polsen voorbij je knieën hangen.
+
+  Buig je polsen zodat je knokkels naar je gezicht komen en de stang omhooggaat. Pauzeer kort bovenaan
+  en keer langzaam terug naar de beginpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "burenl"
+  source_id: "759"

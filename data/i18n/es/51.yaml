@@ -1,13 +1,17 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '51'
 language: es
-status: ai_reviewed
-name: Curl de Muñeca con Barra (Agarre Supino)
-description: |-
-  Este ejercicio es fundamental para desarrollar los músculos flexores del antebrazo (la parte interna o de abajo), que son cruciales para la fuerza de agarre.
-  Instrucciones:
-  Sentado en un banco, apoya tus antebrazos sobre los muslos y sujeta una barra con las palmas mirando hacia arriba (agarre supino). Las muñecas deben quedar libres, por delante de las rodillas.
-  Deja que la barra baje para estirar bien la muñeca y, desde ese punto, flexiónala para subir el peso lo más que puedas. Aprieta con fuerza en la cima y luego baja de manera lenta y controlada para maximizar el trabajo
+status: ai_authored
+translated_from: en
+name: Curl de muñeca con barra
+description: 'Siéntate en un banco y sujeta una barra con las palmas hacia arriba y las manos separadas
+  al ancho de los hombros. Apoya los antebrazos sobre los muslos y deja las muñecas colgando más allá
+  de las rodillas. Flexiona las palmas y las muñecas hacia la cara.
+
+  Haz una breve pausa arriba y vuelve lentamente a la posición inicial.'
+search_terms:
+- Curl de antebrazos
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2693'
+  license: "CC-BY-SA-4.0"
+  license_author: "burenl"
+  source_id: "758"

@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2503'
+language: es
+status: ai_authored
+translated_from: en
+name: Face pull con peso corporal en marco de puerta
+description: 'Posición inicial:
+
+  Pasa una toalla de baño resistente alrededor de un marco de puerta seguro o un poste vertical. Sujeta
+  firmemente ambos extremos. Acerca los pies a la base del marco e inclina el torso hacia atrás con los
+  brazos rectos, manteniendo el cuerpo en una plancha rígida.
+
+
+  Ejecución:
+
+  1. Acerca la cara a la toalla llevando los codos hacia los lados, altos y abiertos.
+
+  2. En el punto más alto, gira las manos hacia atrás hasta la altura de las orejas y contrae durante
+  1 segundo los deltoides posteriores y los retractores escapulares.
+
+  3. Baja el cuerpo lentamente y con control hasta extender los brazos.
+
+
+  Consejos:
+
+  Adelanta los pies para aumentar la resistencia. Mantén los codos altos, a la altura de las orejas, para
+  trabajar los deltoides posteriores y la parte superior de la espalda.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4984"
+search_terms:
+- Face pull con peso corporal en marco de puerta/toalla
+- Face pull con toalla
+- Face pull en marco de puerta

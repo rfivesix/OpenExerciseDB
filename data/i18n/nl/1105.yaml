@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1105'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende knee tuck
+description: Ga op de vloer of mat zitten met handen iets achter de heupen voor steun. Leun licht achterover
+  en til de voeten met licht gebogen knieën van de vloer. Strek de benen voor je uit terwijl de romp iets
+  verder achterover leunt en de voeten blijven zweven. Buig heupen en knieën en breng de knieën naar de
+  borst terwijl de romp iets naar voren komt. Pauzeer kort en strek de benen langzaam weer uit zonder
+  de voeten neer te zetten.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "utkb"
+  source_id: "2070"

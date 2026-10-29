@@ -1,11 +1,11 @@
 exercise_id: '1728'
 language: es
-status: ai_reviewed
-name: Rotación interna de hombro (polea)
-description: |-
-  Mantén el codo pegado a tu costado como si estuviera fijado con pegamento.
-  No rotes el torso: solo debe moverse tu antebrazo.
+status: ai_authored
+translated_from: en
+name: Rotación interna de hombro en polea
+description: 'Mantén el codo pegado al costado, como si estuviera fijado allí. No gires el torso: solo
+  debe moverse el antebrazo.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4145'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2854"

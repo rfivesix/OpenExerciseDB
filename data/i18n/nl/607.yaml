@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '607'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sprinter sit-up
+description: Ga op je rug liggen met je benen gestrekt en je armen langs je lichaam; houd je ellebogen 90 graden
+  gebogen. Draai tijdens het omhoogkomen je bovenlichaam naar rechts en breng je linkerknie naar je rechterelleboog
+  terwijl je je linkerarm naar achteren zwaait. Laat je lichaam zakken naar de startpositie en herhaal naar rechts.
+  Dat is één herhaling.
+search_terms:
+- Sprinter sit-up
+- Sprinter crunch
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "djblitzd"
+  source_id: "170"

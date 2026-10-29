@@ -1,20 +1,25 @@
 exercise_id: '1766'
 language: es
 status: ai_authored
-name: Plancha con extensión de brazo
-description: "Posición inicial:\nColócate en posición de plancha sobre los antebrazos,\
-  \ con los codos alineados bajo los hombros y los pies ligeramente más anchos que\
-  \ las caderas para mayor estabilidad. Mantén el cuerpo en una línea recta de la\
-  \ cabeza a los talones activando glúteos y abdomen.\n\nEjecución:\n1. Levanta un\
-  \ brazo del suelo lentamente y extiéndelo recto hacia adelante a la altura del hombro.\n\
-  2. Mantén la posición de extensión durante 1 o 2 segundos, evitando cualquier rotación\
-  \ o balanceo de la cadera.\n3. Vuelve a apoyar el antebrazo con control y repite\
-  \ con el brazo opuesto, alternando de manera fluida.\n\nConsejos:\nEnfócate en la\
-  \ antirrotación: mantén caderas y hombros estrictamente paralelos al suelo."
+translated_from: en
+name: Plancha con alcance de brazo
+description: 'Adopta una plancha sobre los antebrazos, con los codos bajo los hombros y los pies algo
+  más separados que las caderas para dar estabilidad. Activa el abdomen y los glúteos para formar una
+  línea recta de la cabeza a los talones.
+
+
+  1. Levanta lentamente un brazo y extiéndelo hacia delante a la altura del hombro.
+
+  2. Mantén la posición 1–2 segundos y evita que las caderas giren o se inclinen.
+
+  3. Vuelve a apoyar el antebrazo con control y repite con el otro lado. Alterna los lados.
+
+
+  Mantén las caderas y los hombros orientados al suelo.'
 search_terms:
-  - Plank Reach
-  - Plancha con alcance
+- Extensión de brazo en plancha
+- Alcance desde plancha de antebrazos
+- Alcance hacia delante en plancha
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4162'
+  license: "CC-BY-SA-4.0"
+  source_id: "2898"

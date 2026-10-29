@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1388'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenbenige Romanian deadlift
+description: Sta rechtop en houd eventueel gewichten in beide handen. Span je romp aan en til één been
+  van de vloer. Houd je rug recht en scharnier vanuit je heupen terwijl je je romp voorover laat zakken;
+  draai je heupen niet. Zak totdat je een rek voelt in de hamstring van je standbeen en keer terug naar
+  stand. Herhaal aan beide kanten.
+search_terms:
+- Peso muerto rumano a una pierna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2355"

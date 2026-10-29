@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1498'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell bench press met ellebogen ingetrokken
+description: Voer een chest press met dumbbells uit en houd je ellebogen dicht bij je lichaam. Houd de
+  dumbbells parallel aan je romp. De oefening richt zich op de triceps.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JohnPreston"
+  source_id: "2460"

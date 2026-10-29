@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1612'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sumo-deadlift met kettlebell
+description: Zet je voeten wijder dan schouderbreedte en draai je tenen naar buiten. Houd je rug recht,
+  je schouders naar achteren en je borst omhoog. Laat je knieën dezelfde richting volgen als je tenen
+  en niet naar voren bewegen. Span bij het omhoogkomen je bilspieren aan.
+search_terms:
+- Sumo-deadlift met kettlebell
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Tierrasverdes"
+  source_id: "2586"

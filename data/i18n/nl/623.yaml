@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '623'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande polsroller
+description: Pak een polsroller met beide handen vast en sta met je voeten ongeveer op schouderbreedte. Als je sportschool
+  geen polsroller heeft, kun je er eenvoudig zelf een maken. Je hebt alleen een halterschijf van 5 of 10 pond, een
+  sterk dun touw van ongeveer 90 cm en een stok of stang van 15–20 cm nodig. Bevestig het touw stevig aan het midden
+  van de stok en bind het andere uiteinde aan de halterschijf. Pak de stok met beide handen bovenhands vast. Strek
+  beide armen recht voor je uit, evenwijdig aan de vloer. Rol het gewicht vanaf de vloer omhoog door de stok snel
+  met je handen en polsen te draaien. Laat de schijf, zodra deze boven is, langzaam zakken door de beweging van
+  je handen en polsen om te keren. Herhaal (als je kunt!).
+search_terms:
+- Staande onderarmoefening met touw
+- Polsroller
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "pwiltrout"
+  source_id: "382"

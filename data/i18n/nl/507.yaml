@@ -1,0 +1,24 @@
+exercise_id: '507'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roemeense deadlift
+description: 'Beginpositie: Sta met je voeten op heupbreedte en houd een halter met een bovenhandse greep
+  op schouderbreedte voor je dijen. Trek je schouders naar achteren en omlaag en span je romp aan.
+
+  Uitvoering: Duw je heupen naar achteren en buig vanuit je heupen naar voren. Houd je rug recht en je
+  knieën licht gebogen in een vaste hoek. Laat de halter dicht langs je dijen en schenen zakken tot je
+  een diepe rek in je hamstrings voelt.
+
+  Terug: Duw je heupen naar voren om rechtop te komen en span bovenaan je bilspieren en hamstrings krachtig
+  aan.
+
+  Aandachtspunten: Houd de halter steeds dicht bij je lichaam en rond je rug niet. De beweging is een
+  heupscharnier, geen squat.'
+search_terms:
+- RDL
+- Stiff-leg deadlift
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "pjwirth"
+  source_id: "351"

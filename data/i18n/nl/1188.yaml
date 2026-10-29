@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1188'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse buiging met dumbbell
+description: Sta rechtop met voeten op heupbreedte en houd een dumbbell in één hand naast je. Leg de andere
+  hand licht achter het hoofd of op de tegenoverliggende heup. Houd borst open en romp aangespannen. Buig
+  de romp langzaam zijwaarts in het frontale vlak naar de dumbbell, zonder te draaien. Gebruik de schuine
+  buikspieren aan de andere zijde om terug rechtop te komen. Herhaal beheerst en wissel dan van kant.
+search_terms:
+- Zijwaartse buiging
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2144"

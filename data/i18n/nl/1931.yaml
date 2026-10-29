@@ -1,0 +1,19 @@
+exercise_id: '1931'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell spider curl
+description: Ga met je borst op een schuine bank van ongeveer 45 graden liggen en
+  steun je tenen op de vloer. Houd dumbbells onderhands vast met je armen verticaal
+  omlaag. Buig je ellebogen en curl de dumbbells naar je schouders terwijl je bovenarmen
+  stil blijven. Span je biceps bovenaan kort aan en laat de gewichten volledig gecontroleerd
+  zakken.
+search_terms:
+- Dumbbell curl
+- Dumbbell spider curl
+- Bicepscurl op schuine bank in buiklig
+- Prone bench curl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "amaesc"
+  source_id: "3080"

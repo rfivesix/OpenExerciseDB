@@ -1,21 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1835'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Rotación externa sentado con mancuerna
-description: "Posición inicial:\nSiéntate en el suelo o sobre un banco con una rodilla\
-  \ elevada y el pie apoyado. Apoya el codo del brazo activo sobre la rodilla levantada,\
-  \ flexionado a 90 grados. Sujeta una mancuerna ligera con el antebrazo apuntando\
-  \ en horizontal hacia adelante.\n\nEjecución:\n1. Mantén el hombro descendido y\
-  \ las escápulas activas.\n2. Rota el antebrazo hacia arriba hasta que quede vertical\
-  \ respecto al suelo.\n3. Mantén la contracción durante un segundo en la parte alta\
-  \ sintiendo los rotadores externos.\n4. Desciende la mancuerna lentamente de regreso\
-  \ a la horizontal sintiendo el estiramiento controlado.\n\nConsejos:\nUtiliza un\
-  \ peso moderado para aislar con precisión el manguito rotador sin compensaciones."
-search_terms:
-  - Rotación externa con mancuerna
-  - Estiramiento con rotación externa
-  - External Rotation Stretch
+description: 'Posición inicial: Siéntate en una esterilla o banco con una rodilla elevada y el pie apoyado.
+  Coloca el codo del brazo de trabajo sobre esa rodilla, flexionado a 90°. Sujeta una mancuerna ligera
+  con el antebrazo horizontal hacia delante.
+
+
+  Ejecución:
+
+  1. Mantén el omóplato retraído y bajo, lejos de la oreja.
+
+  2. Gira el antebrazo hacia arriba en un arco vertical hasta que quede perpendicular al suelo.
+
+  3. Pausa un segundo arriba y nota la contracción de los rotadores externos (infraespinoso y redondo
+  menor).
+
+  4. Baja lentamente la mancuerna hasta la horizontal, sintiendo un estiramiento suave abajo.
+
+
+  Indicaciones: Usa poco peso para evitar compensaciones y mantén el codo apoyado de forma estable sobre
+  la rodilla.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4216'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2970"
+search_terms:
+- Estiramiento de rotación externa
+- Rotación externa sentado con mancuerna
+- Rotación externa con apoyo en la rodilla

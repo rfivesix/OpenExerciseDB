@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1466'
+language: es
+status: ai_authored
+translated_from: en
+name: Elevación de talones en máquina hack
+description: 'Posición inicial:
+
+  Colócate en la máquina hack, con los hombros bajo las almohadillas y la espalda apoyada en el respaldo.
+  Apoya la parte delantera de los pies en el borde inferior de la plataforma y deja los talones fuera.
+  Suelta los seguros y mantén las rodillas casi extendidas, con una ligera flexión.
+
+
+  Ejecución:
+
+  1. Baja los talones despacio y con control, tanto por debajo de la plataforma como te resulte cómodo,
+  para estirar las pantorrillas.
+
+  2. Empuja con la parte delantera de los pies y elévate de puntillas todo lo posible.
+
+  3. Contrae las pantorrillas durante un segundo arriba y vuelve a bajar con control.
+
+
+  Indicaciones:
+
+  No rebotes abajo ni flexiones las rodillas para tomar impulso; el movimiento debe proceder de los tobillos.'
+search_terms:
+- Elevación de talones en máquina hack
+- elevación de pantorrillas en hack
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2429"

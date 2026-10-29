@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1512'
+language: nl
+status: ai_authored
+translated_from: en
+name: Drop curl
+description: Drop curls in een aangepaste houding en langzaam tempo trainen de brachialis. Begin met een
+  dumbbell in elke hand, beide armen licht naar elkaar gericht op borsthoogte. Laat één dumbbell langzaam
+  zakken tot je arm bijna gestrekt is en curl hem terug terwijl de andere dumbbell op de beginhoogte blijft.
+  Laat daarna de andere dumbbell zakken. Zo blijft spanning op de brachialis; onder de 90° neemt de biceps
+  het werk over.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2471"

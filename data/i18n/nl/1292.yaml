@@ -1,0 +1,27 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1292'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pull-up met onderhandse greep
+description: 'Beginpositie:
+
+  Hang met gestrekte armen aan een optrekstang en houd deze op schouderbreedte vast met een onderhandse
+  greep, met je handpalmen naar je toe.
+
+
+  Uitvoering:
+
+  1. Trek je lichaam omhoog door je ellebogen omlaag en naar achteren te bewegen, totdat je kin boven
+  de stang uitkomt.
+
+  2. Span bovenaan je lats en biceps stevig aan.
+
+  3. Laat jezelf langzaam en volledig gecontroleerd terugzakken naar de hangpositie.'
+search_terms:
+- Dominada con agarre supino
+- Pull-up met onderhandse greep
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2258"

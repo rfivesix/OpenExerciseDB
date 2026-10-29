@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1463'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dead-stop dumbbell row met onderhandse grip
+description: Sta met je voeten op schouderbreedte en houd de halters met een onderhandse grip vast. Buig
+  vanuit je heupen voorover tot je romp bijna parallel aan de vloer is en houd je rug vlak. Roei de halters
+  naar je ribben en heupen met je ellebogen dicht bij je zij. Span bovenaan je brede rugspieren en bovenrug
+  aan. Laat de halters zakken tot ze de vloer licht raken en volledig stilstaan voordat je de volgende
+  herhaling begint.
+search_terms:
+- Dead-stop dumbbell row met onderhandse grip
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2426"

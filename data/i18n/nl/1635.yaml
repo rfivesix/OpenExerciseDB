@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1635'
+language: nl
+status: ai_authored
+translated_from: en
+name: Aangepaste lat pulldown
+description: Zet een schuine bank voor het lat-pulldownapparaat en gebruik een smalle greep om de brede
+  rugspieren gericht te trainen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Rottekongen"
+  source_id: "2741"

@@ -1,23 +1,31 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1576'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Snap Down
 description: 'Posición inicial:
 
-  Ponte de pie con los brazos extendidos sobre la cabeza y elévate sobre las puntas
-  de los pies para estirar el cuerpo al máximo.
+  Ponte de pie con los pies separados al ancho de los hombros. Extiende los brazos sobre la cabeza y elévate
+  sobre las puntas de los pies, alargando el cuerpo todo lo posible.
 
 
   Ejecución:
 
-  1. Baja los brazos de forma rápida y explosiva hacia los costados mientras flexionas
-  caderas y rodillas para descender a una posición atlética baja.
+  1. Baja los brazos de forma explosiva mientras desciendes rápidamente las caderas y flexionas las rodillas
+  hasta una postura atlética firme.
 
-  2. Absorbe el aterrizaje con toda la planta del pie, manteniendo el pecho erguido
-  y el core firme.
+  2. Aterriza suavemente apoyando todo el pie y absorbe la fuerza con el pecho erguido, las caderas hacia
+  atrás y el core contraído.
 
-  3. Mantén la posición un segundo antes de incorporarte.'
+  3. Mantén brevemente la posición estable antes de reiniciar.
+
+
+  Indicaciones:
+
+  Desarrolla la desaceleración rápida, la mecánica de aterrizaje y el control excéntrico como preparación
+  para saltos explosivos y cambios de dirección.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4087'
+  license: "CC-BY-SA-4.0"
+  license_author: "mountain.potato"
+  source_id: "2524"
+translated_from: en

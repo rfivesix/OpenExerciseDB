@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1484'
+language: nl
+status: ai_authored
+translated_from: en
+name: Cable crossover vanuit meerdere hoeken
+description: 'Startpositie:
+
+  Zet één kabel op de hoogste en de andere op de laagste stand van een dubbele kabelmachine. Ga in het
+  midden staan met één voet voor, en pak beide handgrepen vast.
+
+
+  Uitvoering:
+
+  1. Trek de lage kabel omhoog en schuin voor je romp langs.
+
+  2. Trek tegelijk of na elkaar de hoge kabel omlaag en voor je lichaam langs.
+
+  3. Wissel na de set de hoogte van de kabels om beide kanten van de borst te trainen.
+
+
+  Aandachtspunten:
+
+  Stem het gewicht af op de trekrichting.'
+search_terms:
+- Omni cable crossover
+- cable crossover vanuit meerdere hoeken
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2447"

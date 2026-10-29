@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1338'
+language: nl
+status: ai_authored
+translated_from: en
+name: Front raise met dumbbells
+description: 'Beginpositie:
+
+  Sta rechtop met je voeten op heupbreedte en houd in elke hand een dumbbell vóór je dijen met een bovenhandse
+  greep (handpalmen naar je lichaam).
+
+
+  Uitvoering:
+
+  1. Houd je ellebogen licht gebogen en til de dumbbells naar voren en omhoog tot schouder- of ooghoogte.
+
+  2. Pauzeer bovenaan kort om de voorste deltaspieren aan te spannen.
+
+  3. Laat de gewichten langzaam en gecontroleerd terugzakken naar je dijen.
+
+
+  Tips:
+
+  Zwaai niet met je romp en gebruik geen vaart uit je benen. Span je romp aan.'
+search_terms:
+- Elevación de hombros con mancuernas
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2308"

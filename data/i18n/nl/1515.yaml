@@ -1,0 +1,11 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1515'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kuitdruk op leg press
+description: Beweeg de leg press met je kuiten door je voeten onderaan het platform te plaatsen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2474"

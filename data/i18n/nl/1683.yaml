@@ -1,0 +1,27 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1683'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zottman curl
+description: 'Beginpositie: Sta rechtop met in elke hand een dumbbell naast je lichaam. Je handpalmen
+  wijzen naar voren (onderhandse greep).
+
+
+  Beweging:
+
+  1. Curl de gewichten soepel en gecontroleerd naar je schouders.
+
+  2. Draai bovenaan je polsen zodat je handpalmen naar beneden wijzen (bovenhandse greep).
+
+  3. Laat de dumbbells langzaam en gecontroleerd in deze positie zakken.
+
+  4. Draai onderaan je handpalmen weer naar voren.
+
+
+  Tips: Houd je ellebogen naast je lichaam en voorkom dat je zwaait. De gecontroleerde neerwaartse fase
+  met bovenhandse greep spreekt de brachioradialis en onderarmspieren sterk aan.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2803"

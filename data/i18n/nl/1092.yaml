@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1092'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bokstraining met bokszak
+description: 'Sta op ongeveer armlengte van de bokszak in een gebalanceerde bokshouding: voorste hand
+  iets naar voren, achterste hand bij de kin, knieën licht gebogen en gewicht op de voorvoeten. Stoot
+  scherp en krachtig, bijvoorbeeld jabs, crosses, hooks en uppercuts, naar het midden van de zak. Draai
+  heupen en romp en pivot met de voeten. Breng de handen na elke stoot terug naar de dekking en beweeg
+  actief rond de zak. Werk in getimede rondes.'
+search_terms:
+- Bokszaktraining
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2046"

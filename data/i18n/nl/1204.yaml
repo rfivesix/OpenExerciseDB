@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1204'
+language: nl
+status: ai_authored
+translated_from: en
+name: Cardiosessie op de hometrainer
+description: 'Startpositie:
+
+  • Stel het zadel van de hometrainer in op heuphoogte, zodat je knie onderaan de pedaalslag licht gebogen
+  is.
+
+  • Stel het stuur zo in dat je rechtop of licht voorover kunt zitten zonder je nek te belasten.
+
+
+  Uitvoering:
+
+  • Trap soepel en houd doorgaans een cadans van 70 tot 90 omwentelingen per minuut aan.
+
+  • Stel de weerstand in op de beoogde aerobe hartslagzone voor de geplande duur.
+
+  • Houd je bovenlichaam ontspannen en stabiel op het zadel en laat je heupen niet heen en weer schommelen.'
+search_terms:
+- "Fiets-cardiosessie"
+- "Training op de hometrainer"
+- "Indoorcycling-cardio"
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2164"

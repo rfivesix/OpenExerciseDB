@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1288'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dynamische zijplank
+description: Bij de dynamische zijplank lig je op je zij en steun je op één elleboog en de zijkant van
+  je voet. Laat je heupen zakken en til ze weer op terwijl je lichaam in een rechte lijn blijft.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "painDpice"
+  source_id: "2255"

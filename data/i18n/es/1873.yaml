@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1873'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de cuádriceps
+description: 'Posición inicial: Ponte de pie sobre una pierna; si hace falta, sujétate ligeramente a una
+  pared o un objeto estable para mantener el equilibrio.
+
+
+  Ejecución: Flexiona la otra rodilla detrás de ti, agarra el empeine o el tobillo y acerca suavemente
+  el talón a los glúteos. Mantén las rodillas juntas y alineadas.
+
+
+  Consejos: Contrae el glúteo y mete ligeramente la pelvis para intensificar el estiramiento del cuádriceps
+  y evitar arquear la zona lumbar. Mantén 20–30 segundos y cambia de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3015"

@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1679'
+language: nl
+status: ai_authored
+translated_from: en
+name: Wall angels
+description: De Wall Angels trainen vooral de bovenrug- en schouderspieren en helpen bij houding, schoudermobiliteit
+  en controle van de schouderbladen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "bbayuwega"
+  source_id: "2801"

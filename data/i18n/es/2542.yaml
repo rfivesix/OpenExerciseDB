@@ -1,0 +1,28 @@
+exercise_id: '2542'
+language: es
+status: ai_authored
+translated_from: en
+name: Entrenamiento de boxeo
+description: 'Posición inicial: Adopta una postura equilibrada frente a un saco pesado o en un espacio
+  abierto (guardia ortodoxa: pie izquierdo delante; guardia zurda: pie derecho delante). Mantén las rodillas
+  ligeramente flexionadas, rebota suavemente sobre las puntas de los pies, protege la barbilla con las
+  manos y mantén los codos cerca de las costillas.
+
+
+  Ejecución: Lanza combinaciones rítmicas y explosivas de jabs, directos, ganchos y uppercuts contra el
+  saco o al aire (boxeo de sombra). Gira las caderas, los hombros y el tronco con cada golpe para generar
+  potencia mediante la secuencia de la cadena cinética. Mantén un juego de pies activo: rodea el saco,
+  pivota y vuelve inmediatamente a la guardia defensiva después de cada combinación.
+
+
+  Indicaciones: Venda siempre las manos y usa guantes adecuados al golpear un saco. Mantén las muñecas
+  rectas en el impacto y exhala con fuerza con cada golpe.'
+search_terms:
+- Boxeo
+- Entrenamiento con saco de boxeo
+- Entrenamiento de golpes al saco
+- Boxeo de sombra
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "SAH"
+  source_id: "5013"

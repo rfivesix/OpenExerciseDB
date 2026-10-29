@@ -1,20 +1,18 @@
 exercise_id: '957'
 language: es
-status: ai_reviewed
-name: Elevación de Brazo y Pierna en Cuadrupedia (Bird Dog)
-description: 'En este ejercicio se activan los músculos de la espalda y los músculos
-  de la parte posterior de la pierna y del brazo al levantar al mismo tiempo el brazo
-  y la pierna cruzados en posición de cuadrupedia. También mejora el equilibrio y
-  la propiocepción. El movimiento se realiza de forma simétrica.
-
-
-  Colócate en posición de cuadrupedia.2. Mete el abdomen y luego levanta tu pierna
-  derecha y tu brazo izquierdo.3. Debes mantener el abdomen metido durante 8 segundos.4.
-  Después de 8 segundos, baja lentamente el brazo y la pierna.5. Luego relaja los
-  músculos.'
+status: ai_authored
+translated_from: en
+name: Extensión de brazo y pierna en cuadrupedia (bird dog)
+description: 'Posición inicial: ponte a cuatro patas con las manos justo debajo de los hombros y las rodillas
+  debajo de las caderas. Mantén la cabeza y la columna en posición neutra. Ejecución: extiende a la vez
+  el brazo derecho hacia delante y la pierna izquierda hacia atrás hasta que ambos queden paralelos al
+  suelo, contrayendo glúteos y zona lumbar. Vuelta: mantén la extensión máxima 1–2 segundos y baja lentamente
+  la mano y la rodilla. Alterna los lados en cada repetición. Indicaciones: mantén el abdomen tenso y
+  las caderas alineadas con el suelo; no dejes que la pelvis gire ni hiperextiendas la zona lumbar.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3618'
+  license: "CC-BY-SA-4.0"
+  license_author: "utkb"
+  source_id: "1236"
 search_terms:
-- Elevación de brazos y piernas a cuatro patas
+- Elevación de brazo y pierna en cuadrupedia
+- Bird dog

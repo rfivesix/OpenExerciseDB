@@ -10,6 +10,6 @@ description: 'Posición inicial: Siéntate en la máquina de polea baja con los 
 
   Nota: Ejercicio fusionado con el ejercicio 1117 (Remo en polea sentado).'
 upstream:
-  license: CC-BY-SA-4.0
+  license: "CC-BY-SA-4.0"
 search_terms:
 - Tirar de cables sentados

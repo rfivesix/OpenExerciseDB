@@ -1,0 +1,37 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2483'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hoofdrotatie-oefening aan de badrand
+description: 'Startpositie:
+
+  Houd met één hand de zwembadwand of goot vast. Drijf horizontaal aan het oppervlak en gebruik een lichte
+  flutterkick om je heupen hoog te houden.
+
+
+  Uitvoering:
+
+  1. Leg je gezicht in het water, kijk recht naar beneden en adem rustig uit.
+
+  2. Draai je hoofd opzij zonder het uit het water op te tillen, zodat één zwembrilglas onder water blijft
+  en het andere boven het oppervlak komt.
+
+  3. Adem snel in door je mond en draai je gezicht terug naar de neutrale positie met je gezicht naar
+  beneden.
+
+  4. Herhaal de ritmische ademhalingscycli en wissel daarna van hand om de andere kant te oefenen.
+
+
+  Aandachtspunten:
+
+  Laat je wang en onderste oor op het wateroppervlak rusten. Draai langs de lengteas van je wervelkolom
+  zonder je hoofd op te tillen.'
+search_terms:
+- Rotatie met steun aan de wand
+- Ademhalingsoefening borstcrawl
+- Ademhalingsoefening aan de wand
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4960"

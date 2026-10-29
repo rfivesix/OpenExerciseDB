@@ -1,41 +1,32 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1519'
 language: es
-status: ai_reviewed
-name: Extensión de tríceps sobre la cabeza con barra Z
-description: 'Extensión de tríceps por encima de la cabeza con barra Z – Guía rápida
+status: ai_authored
+translated_from: en
+name: Extensión de tríceps por encima de la cabeza con barra EZ
+description: 'Posición inicial:
 
-  La posición por encima de la cabeza enfatiza la cabeza larga del tríceps (porque
-  se estira bajo carga), aunque el ejercicio sí involucra las tres cabezas del tríceps
-  (larga, lateral y medial) en cierta medida durante la extensión.
+  Siéntate con apoyo para la espalda o ponte de pie con el abdomen firme. Sujeta una barra EZ con agarre
+  estrecho en pronación y elévala por encima de la cabeza hasta extender los brazos.
 
-
-  Preparación:
-
-  Siéntate en un banco (o de pie) y sujeta una barra Z con un agarre estrecho por
-  encima. Levanta la barra por encima de la cabeza, con los brazos completamente extendidos.
-  Mantén el core firme y los codos cerca de la cabeza.
 
   Ejecución:
 
-  Baja lentamente la barra por detrás de la cabeza flexionando los codos hasta que
-  alcancen unos 90°. Mantén los codos apuntando hacia delante (sin abrirlos hacia
-  fuera).
+  1. Mantén los brazos superiores cerca de la cabeza y los codos hacia delante. Flexiona los codos lentamente
+  y baja la barra detrás de la cabeza hasta unos 90°.
 
-  Final: Extiende los brazos de nuevo hacia arriba hasta la posición inicial, contrayendo
-  el tríceps arriba.
+  2. Haz una breve pausa en la posición estirada.
 
-
-  Consejos:
+  3. Extiende los codos y vuelve a subir la barra, contrayendo los tríceps arriba.
 
 
-  Controla el movimiento para no forzar los hombros.
+  Indicaciones:
 
-  Usa un peso moderado para un rango de movimiento completo.
-
-  Mantén la espalda recta y evita arquearla.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4034'
+  Evita abrir mucho los codos.'
 search_terms:
-- Extensión de tríceps por encima de la cabeza
+- Extensión de tríceps con barra EZ por encima de la cabeza
+- extensión de tríceps sobre la cabeza
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "benjamin.yildiz"
+  source_id: "2476"

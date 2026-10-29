@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1536'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de hombro cruzado
+description: 'Posición inicial:
+
+  Ponte de pie o siéntate erguido, con los hombros relajados y la columna en posición neutra.
+
+
+  Ejecución:
+
+  1. Lleva un brazo horizontalmente por delante del pecho, a la altura del hombro.
+
+  2. Con la mano contraria, presiona suavemente la parte superior del brazo o el codo para acercarlo al
+  torso, hasta notar un estiramiento cómodo en la parte posterior del hombro.
+
+  3. Mantén la posición entre 20 y 30 segundos mientras respiras con regularidad.
+
+  4. Suelta lentamente y repite con el otro brazo.
+
+
+  Indicaciones:
+
+  Estira eficazmente el deltoides posterior y los rotadores externos. Evita elevar el hombro hacia la
+  oreja.'
+search_terms:
+- Estiramiento del deltoides posterior
+- Estiramiento de deltoides
+- Estiramiento deltoideo
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2491"

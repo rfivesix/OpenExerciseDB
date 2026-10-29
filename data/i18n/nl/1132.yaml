@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1132'
+language: nl
+status: ai_authored
+translated_from: en
+name: GHD-heupextensie
+description: Lig met de buik op een GHD of 45-graden-hyperextensiebank en zet de enkels onder de rollen
+  vast. Plaats de heupen net voorbij de voorkant van het kussen zodat ze kunnen scharnieren. Kruis de
+  armen voor de borst of leg de handen licht achter het hoofd. Buig vanuit de heupen voorover met neutrale,
+  rechte rug. Span bilspieren en hamstrings aan en strek de heupen tot het lichaam één rechte lijn vormt.
+  Pauzeer en laat gecontroleerd zakken.
+search_terms:
+- Heupextensie op machine
+- GHD-heupextensie
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Franpol"
+  source_id: "2109"

@@ -1,11 +1,11 @@
 exercise_id: '1726'
 language: es
-status: ai_reviewed
-name: Jalón con brazos rectos (polea)
-description: |-
-  Mantén los brazos rectos pero no bloqueados, tirando con los dorsales, no con los hombros.
-  No dejes que tus hombros se encojan hacia arriba durante el movimiento.
+status: ai_authored
+translated_from: en
+name: Jalón con brazos rectos en polea
+description: Mantén los brazos rectos, sin bloquear los codos, y tira con los dorsales, no con los hombros.
+  Evita encoger los hombros durante el movimiento.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4137'
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2852"

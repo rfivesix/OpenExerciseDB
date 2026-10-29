@@ -1,0 +1,27 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1481'
+language: nl
+status: ai_authored
+translated_from: en
+name: Triceps drag pushdown
+description: 'Startpositie:
+
+  Ga voor een hoge kabel met touwbevestiging staan. Pak de uiteinden neutraal vast, voeten op schouderbreedte,
+  en buig iets voorover vanuit je heupen met je borst rechtop.
+
+
+  Uitvoering:
+
+  1. Laat je ellebogen iets naar achteren bewegen in plaats van ze strak langs je ribben te houden. Trek
+  het touw recht omlaag, zo dicht mogelijk langs je romp.
+
+  2. Strek je ellebogen onderaan volledig en spreid de touweinden om je triceps krachtig aan te spannen.
+
+  3. Laat het touw langzaam en gecontroleerd omhoogkomen, dicht bij je lichaam.'
+search_terms:
+- Drag pushdown
+- triceps drag pushdown
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2444"

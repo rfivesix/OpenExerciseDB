@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1840'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de isquiotibiales con rodilla flexionada
+description: 'Posición inicial: Túmbate boca arriba o siéntate erguido. Sujeta la parte posterior del
+  muslo con ambas manos.
+
+
+  Ejecución: Acerca el muslo al pecho con la rodilla ligeramente flexionada. Extiende la parte inferior
+  de la pierna solo hasta sentir un estiramiento cómodo en el vientre muscular de los isquiotibiales.
+
+
+  Consejos: Mantén 20–30 segundos respirando con regularidad y cambia de lado. Mantener la rodilla algo
+  flexionada protege el nervio ciático y centra el estiramiento en el tejido muscular.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2975"

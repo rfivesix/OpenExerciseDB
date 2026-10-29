@@ -1,21 +1,33 @@
 exercise_id: '1719'
 language: es
 status: ai_authored
-name: Jalón unilateral en postura de caballero
-description: |-
-  Posición inicial:
-  Ajusta la polea en posición alta con un agarre individual. Adopta una postura de caballero (apoyando en el suelo la rodilla del mismo lado que realiza la fuerza y la otra pierna adelantada). Sujeta el agarre con el brazo extendido hacia arriba.
-  
-  Ejecución:
-  1. Tira del agarre hacia abajo en dirección al hombro, llevando el codo hacia la cadera.
-  2. Contrae intensamente el dorsal en la parte inferior del movimiento.
-  3. Permite que el brazo vuelva a extenderse lentamente hacia arriba, sintiendo el estiramiento del dorsal.
-  
-  Consejos:
-  Mantén el tronco erguido y el core firme durante todo el recorrido.
+translated_from: en
+name: Jalón unilateral en media rodilla
 search_terms:
-  - Jalón caballero unialteral
+- "Jalón unilateral en media rodilla"
+- "Jalón de dorsales en media rodilla"
+description: 'Posición inicial:
+
+  Coloca una polea alta con una empuñadura individual. Arrodíllate sobre la rodilla del lado que trabaja
+  y adelanta el pie contrario para mantener el equilibrio. Sujeta el agarre con el brazo extendido por
+  encima de la cabeza.
+
+
+  Ejecución:
+
+  1. Lleva el agarre hacia el hombro y dirige el codo hacia abajo, en dirección a la cadera.
+
+  2. Contrae el dorsal al final del movimiento.
+
+  3. Deja que el brazo vuelva lentamente por encima de la cabeza y siente el estiramiento en el costado
+  de la espalda.
+
+
+  Consejos:
+
+  Mantén el torso erguido y el abdomen activo. La posición de media rodilla limita el balanceo del tren
+  inferior y aísla el dorsal ancho.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: polloperro
-  source_id: '2845'
+  license: "CC-BY-SA-4.0"
+  license_author: "polloperro"
+  source_id: "2844"

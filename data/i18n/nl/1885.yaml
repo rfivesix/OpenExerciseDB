@@ -1,0 +1,14 @@
+exercise_id: '1885'
+language: nl
+status: ai_authored
+translated_from: en
+name: YTWL-oefening
+description: Deze oefening wordt gebruikt voor schouderstabiliteit, houding en controle van de schouderbladen.
+  Sta met de voeten op schouderbreedte en buig vanuit de heupen met een rechte rug, of lig met je gezicht
+  naar beneden op een schuine bank. Maak achtereenvolgens de vormen Y (armen schuin omhoog), T (armen
+  zijwaarts), W (ellebogen gebogen en naar achteren) en L (ellebogen langs je zij, onderarmen naar buiten
+  gedraaid). Beweeg langzaam en gecontroleerd en leid met je duimen.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "teus_ergaster"
+  source_id: "3030"

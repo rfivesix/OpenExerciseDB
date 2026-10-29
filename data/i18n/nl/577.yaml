@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '577'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse rompflexie met dumbbell
+description: Ook bekend als zijwaartse buiging met dumbbell. Sta rechtop met je heupen op één lijn en je knieën
+  licht gebogen. Behoud de natuurlijke kromming van je wervelkolom. Laat één arm langs je lichaam hangen en houd
+  met die hand een dumbbell vast. Buig je romp langzaam en gecontroleerd zijwaarts tot ongeveer 45°.
+search_terms:
+- Zijwaartse buigingen
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "GiglioRosso"
+  source_id: "278"

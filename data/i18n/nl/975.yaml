@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '975'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kettlebellcurl met één hand
+description: Sta rechtop met de voeten op heup- tot schouderbreedte. Houd een kettlebell aan het handvat
+  in één hand naast je, met de arm gestrekt. Buig je elleboog om het gewicht naar schouderhoogte te brengen;
+  houd je pols stabiel en je rug neutraal. Laat gecontroleerd zakken en wissel na alle herhalingen van
+  kant. Houd je elleboog dicht bij je romp en draai of leun niet.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "1283"
+search_terms:
+- Kettlebellcurl met één hand

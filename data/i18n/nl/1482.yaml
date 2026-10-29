@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1482'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell cheat curl
+description: 'Startpositie:
+
+  Sta rechtop met je voeten op schouderbreedte en houd in elke hand een zware dumbbell met je armen gestrekt
+  en je handpalmen naar voren.
+
+
+  Uitvoering:
+
+  1. Maak een kleine, gecontroleerde heupbeweging om genoeg momentum te creëren om de dumbbells naar je
+  schouders te curlen.
+
+  2. Span je biceps bovenaan kort aan.
+
+  3. Laat de gewichten in 3–4 seconden gecontroleerd zakken en weersta de zware belasting tijdens de neerwaartse
+  fase.'
+search_terms:
+- Cheat curl
+- zware biceps cheat curl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2445"

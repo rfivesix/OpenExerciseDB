@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1105'
+language: es
+name: Encogimiento de rodillas sentado
+description: Siéntate en el suelo o una colchoneta y apoya las manos un poco detrás de las caderas. Inclina
+  ligeramente el torso hacia atrás y eleva los pies con las rodillas algo flexionadas. Extiende las piernas
+  delante de ti mientras reclinas un poco más el torso, manteniendo los pies en el aire. Flexiona caderas
+  y rodillas para acercarlas al pecho y lleva el torso ligeramente hacia delante. Haz una pausa breve
+  y vuelve a extender las piernas sin apoyar los pies.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "utkb"
+  source_id: "2070"

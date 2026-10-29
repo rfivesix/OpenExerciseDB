@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '12'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende heupadductie
+description: 'Beginpositie:
+
+  Ga rechtop op het toestel zitten, met je rug stevig tegen de leuning en de kussens tegen de binnenkant
+  van je dijen of knieën. Pak de handgrepen aan de zijkant vast voor stabiliteit.
+
+
+  Uitvoering:
+
+  1. Duw je dijen gecontroleerd tegen de weerstandskussens naar elkaar toe door je adductoren aan te spannen.
+
+  2. Houd de maximale aanspanning kort vast wanneer de kussens dicht bij elkaar zijn.
+
+  3. Keer de beweging langzaam om en spreid je benen; beheers het gewicht zodat de stapel niet neerstort.
+
+
+  Opmerkingen:
+
+  Houd je romp stabiel en je rug tijdens de hele beweging tegen de leuning.'
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "flori"
+  source_id: "377"

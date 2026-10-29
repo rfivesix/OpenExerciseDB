@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1143'
+language: es
+name: Extensión lumbar en máquina
+description: Extensión de espalda realizada en una máquina con peso para trabajar la zona lumbar.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Franpol"
+  source_id: "2122"
+search_terms:
+- Extensión de espalda

@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1412'
+language: nl
+status: ai_authored
+translated_from: en
+name: Fietscrunches
+description: Ga op je rug liggen met je handen achter je hoofd en je benen gestrekt. Til je schouders
+  van de vloer, breng één knie naar je borst en draai je romp zodat je tegenovergestelde elleboog naar
+  die knie beweegt. Wissel de kanten af in een fietsbeweging, beheerst en met aangespannen romp.
+search_terms:
+- Fietscrunches
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2378"

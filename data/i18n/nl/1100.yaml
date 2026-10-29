@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1100'
+language: nl
+status: ai_authored
+translated_from: en
+name: Wall balls
+description: Sta op ongeveer armlengte van een stevige muur of doel, voeten iets wijder dan schouderbreedte.
+  Houd een medicinebal op borsthoogte met ellebogen dicht bij het lichaam. Zak diep in een squat met borst
+  omhoog en knieën in lijn met de tenen. Duw explosief omhoog via hielen en heupen en stoot de bal naar
+  het doel aan de muur. Vang de terugkaatsende bal op borsthoogte en zak direct gecontroleerd in de volgende
+  squat.
+search_terms:
+- Wall balls
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2059"

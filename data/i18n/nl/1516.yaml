@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1516'
+language: nl
+status: ai_authored
+translated_from: en
+name: Handstand
+description: 'Startpositie:
+
+  Plaats je handen op schouderbreedte op de vloer met je vingers gespreid voor stabiliteit. Duw actief
+  met je schouders in de vloer.
+
+
+  Uitvoering:
+
+  1. Zwaai één been soepel omhoog en zet af met het andere been tot je lichaam verticaal ondersteboven
+  staat.
+
+  2. Strek je ellebogen, duw jezelf lang vanuit je schouders en span core, billen en benen aan in een
+  rechte lijn.
+
+  3. Balanceer met kleine aanpassingen van je vingertoppen en handpalmen.
+
+
+  Aandachtspunten:
+
+  Hol je onderrug niet te veel; houd je ribben omlaag en je lichaam stevig.'
+search_terms:
+- Vrijstaande handstand
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Fittness69"
+  source_id: "2475"

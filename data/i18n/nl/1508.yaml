@@ -1,0 +1,11 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1508'
+language: nl
+status: ai_authored
+translated_from: en
+name: High-incline Smith machine press
+description: Zet de bank op een helling van 45–60°. Laat de stang de bovenborst raken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2467"

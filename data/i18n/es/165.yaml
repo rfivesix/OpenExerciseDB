@@ -1,22 +1,35 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '165'
 language: es
-status: ai_reviewed
-name: Encogimientos en balón suizo (Knee Tuck)
-search_terms:
-- Abdominales en Bola de Estabilidad
-- Jackknife en balón suizo
-description: |-
-  Posición inicial:
-  Colócate en posición de flexión (plancha alta) con las manos en el suelo separadas al ancho de los hombros y las espinillas apoyadas sobre la parte superior de una pelota suiza (fitball). Tu cuerpo debe formar una línea recta.
+status: ai_authored
+translated_from: en
+name: Encogimiento de rodillas con balón suizo
+description: 'Posición inicial:
+
+  Adopta una posición de plancha alta o flexión, con las manos al ancho de los hombros y las espinillas
+  apoyadas sobre un balón suizo. Mantén el cuerpo en línea recta desde los hombros hasta los tobillos
+  y el tronco firme.
+
 
   Ejecución:
-  1. Contrae los abdominales y flexores de cadera para llevar las rodillas hacia el pecho, haciendo rodar la pelota hacia adelante.
-  2. Aprieta el core en el punto de máxima flexión durante un segundo.
-  3. Extiende lentamente las piernas hacia atrás para regresar a la posición inicial de plancha de forma controlada.
+
+  1. Contrae los abdominales y los flexores de la cadera para llevar las rodillas hacia el pecho y hacer
+  rodar el balón hacia delante hasta los dedos de los pies.
+
+  2. Mantén la contracción del tronco un segundo en el punto máximo.
+
+  3. Extiende lentamente las piernas y rueda el balón hacia atrás hasta volver a la plancha recta.
+
 
   Notas:
-  Evita que la pelvis caiga hacia abajo arqueando la espalda baja. Mantén los hombros estables sobre las muñecas.
+
+  No dejes que la zona lumbar se hunda ni que las caderas bajen por debajo de la línea del cuerpo. Mantén
+  los hombros justo encima de las muñecas.'
+search_terms:
+- Encogimientos con balón
+- Navaja con balón suizo
+- Rodamiento con balón suizo
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2696'
+  license: "CC-BY-SA-4.0"
+  license_author: "Konsumopfer"
+  source_id: "1051"

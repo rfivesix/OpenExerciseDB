@@ -1,13 +1,40 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '184'
 language: es
-status: ai_reviewed
-name: Peso Muerto Convencional
-description: |-
-  Considerado uno de los ejercicios de fuerza más completos, es fundamental para desarrollar la cadena posterior (espalda, glúteos, isquiotibiales) y la fuerza general de todo el cuerpo. La técnica correcta es crucial.
-  Instrucciones:
-  Párate con los pies separados al ancho de las caderas, con la barra sobre la mitad de tus pies (casi tocando tus canillas/espinillas). Agáchate manteniendo la espalda completamente recta y el pecho erguido; sujeta la barra justo por fuera de tus piernas (puedes usar un agarre prono o mixto).
-  Para levantar, empuja el suelo con las piernas y extiende la cadera y las rodillas simultáneamente, manteniendo la barra siempre pegada a tu cuerpo. En la posición final, párate completamente erguido y aprieta los glúteos, sin hiperextender la espalda hacia atrás. Baja la barra de forma controlada invirtiendo el movimiento.
+status: ai_authored
+translated_from: en
+name: Peso muerto convencional
+description: 'Posición inicial:
+
+  Ponte de pie con los pies al ancho de las caderas y la barra sobre la parte media de los pies (a unos
+  2,5 cm de las espinillas). Lleva las caderas hacia atrás y flexiona las rodillas hasta poder agarrar
+  la barra justo por fuera de las piernas, con agarre prono o mixto. Mantén la espalda recta, el pecho
+  elevado y los hombros ligeramente por delante de la barra.
+
+
+  Ejecución:
+
+  1. Inspira profundamente hacia el abdomen y fija el tronco. Empuja el suelo con la parte media de los
+  pies y los talones, extendiendo a la vez las rodillas y las caderas.
+
+  2. Mantén la barra cerca de las espinillas y los muslos mientras sube.
+
+  3. Termina erguido y contrae los glúteos, con la columna neutra, sin inclinarte hacia atrás ni hiperextender
+  la zona lumbar.
+
+  4. Devuelve la barra al suelo de forma controlada, llevando primero las caderas hacia atrás y flexionando
+  las rodillas cuando la barra las haya superado.
+
+
+  Notas:
+
+  No redondees la columna bajo carga. Mantén los dorsales activos para que la barra permanezca cerca del
+  cuerpo durante todo el levantamiento.'
+search_terms:
+- Peso muerto
+- Deadlift
+- Peso muerto con barra
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2711'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "105"

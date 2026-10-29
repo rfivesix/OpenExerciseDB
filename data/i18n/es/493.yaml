@@ -1,0 +1,16 @@
+exercise_id: '493'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl inverso con barra EZ
+description: 'Ponte de pie y sujeta una barra EZ con un agarre prono al ancho de los hombros, con las
+  palmas hacia abajo. Mantén los codos cerca del torso.
+
+  Flexiona los codos para llevar la barra hacia el pecho, haciendo énfasis en el braquial y el braquiorradial
+  del antebrazo. Contrae arriba y baja el peso lentamente y de forma controlada hasta extender los brazos.'
+search_terms:
+- Curl inverso con barra
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "208"

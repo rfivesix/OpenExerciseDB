@@ -1,24 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '2509'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Plancha lateral
-description: |-
-  Posición inicial:
-  Túmbate de lado en el suelo sobre una esterilla con las piernas estiradas y los pies apilados o ligeramente escalonados. Apóyate sobre el antebrazo inferior con el codo colocado directamente bajo el hombro.
+description: 'Posición inicial:
+
+  Túmbate de lado en el suelo sobre una esterilla con las piernas estiradas y los pies apilados o ligeramente
+  escalonados. Apóyate sobre el antebrazo inferior con el codo colocado directamente bajo el hombro.
+
 
   Ejecución:
-  1. Activa el abdomen y eleva la cadera del suelo hasta que tu cuerpo dibuje una línea recta desde la cabeza hasta los pies.
+
+  1. Activa el abdomen y eleva la cadera del suelo hasta que tu cuerpo dibuje una línea recta desde la
+  cabeza hasta los pies.
+
   2. Mantén el cuello neutro y el brazo superior apoyado sobre la cadera o extendido hacia el techo.
+
   3. Sostén esta postura isométrica durante el tiempo prescrito respirando de manera controlada.
+
   4. Desciende la cadera suavemente y repite el ejercicio sobre el otro lado.
 
+
   Consejos:
-  No permitas que la cadera caiga hacia el suelo ni que el torso rote hacia adelante; mantén la contracción en oblicuos y glúteos.
+
+  No permitas que la cadera caiga hacia el suelo ni que el torso rote hacia adelante; mantén la contracción
+  en oblicuos y glúteos.'
 search_terms:
-- Puente lateral
+- Plancha lateral (core L1)
 - Plancha lateral
-- Side Plank
+- Plancha lateral
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: dvdfernandez95
-  source_id: '5005'
+  license: "CC-BY-SA-4.0"
+  source_id: "4988"
+translated_from: en

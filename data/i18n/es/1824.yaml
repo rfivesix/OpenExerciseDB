@@ -1,21 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1824'
 language: es
 status: ai_authored
-name: Tate press con mancuernas
-description: "Posición inicial:\nTúmbate boca arriba en un banco plano con una mancuerna\
-  \ en cada mano. Extiende los brazos rectos sobre el pecho. Coloca un agarre prono\
-  \ con las palmas mirando hacia los pies y los pulgares enfrentados, con los extremos\
-  \ interiores de las mancuernas muy juntos.\n\nEjecución:\n1. Manteniendo los brazos\
-  \ superiores fijos, flexiona los codos abriéndolos hacia los costados para descender\
-  \ los extremos interiores de las mancuernas hacia el centro del pecho.\n2. Toca\
-  \ suavemente el esternón sin apoyar el peso ni perder tensión.\n3. Extiende con\
-  \ fuerza los codos para devolver las mancuernas a la posición inicial apretando\
-  \ los tríceps.\n\nConsejos:\nMantén los codos apuntando hacia afuera para aislar\
-  \ los tríceps en esta variante diseñada por Dave Tate."
+translated_from: en
+name: Press Tate con mancuernas
+description: 'Posición inicial: Túmbate boca arriba en un banco plano con dos mancuernas. Extiende los
+  brazos sobre el pecho como al final de un press de banca. Gira las manos a pronación, con las palmas
+  hacia los pies y los pulgares enfrentados; mantén juntas o casi juntas las cabezas internas de las mancuernas.
+
+
+  Ejecución:
+
+  1. Mantén fijos los brazos superiores y los codos abiertos hacia los lados mientras los flexionas para
+  bajar las cabezas internas de las mancuernas hacia el centro del pecho.
+
+  2. Toca suavemente el esternón sin apoyar el peso sobre el cuerpo.
+
+  3. Extiende los codos con fuerza para volver al inicio, pensando en empujar los meñiques hacia el techo
+  para enfatizar los tríceps.
+
+  4. Contrae los tríceps arriba antes de la siguiente repetición.
+
+
+  Indicaciones: Aísla la extensión del codo; no balancees los hombros ni los brazos superiores.'
 search_terms:
-  - Tate press con mancuernas
-  - Dumbbell Tate Press
+- Press Tate con mancuernas
+- Press Tate
+- Press Tate de tríceps
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4198'
+  license: "CC-BY-SA-4.0"
+  license_author: "beagle"
+  source_id: "2959"

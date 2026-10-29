@@ -1,20 +1,26 @@
 exercise_id: '1745'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Elevación frontal en polea con barra corta
-description: "Posición inicial:\nConecta una barra recta corta a la polea baja. Colócate\
-  \ de espaldas a la máquina, de modo que el cable pase entre tus piernas. Sujeta\
-  \ la barra con un agarre prono al ancho de los hombros frente a los muslos, con\
-  \ los codos ligeramente flexionados y el torso erguido.\n\nEjecución:\n1. Eleva\
-  \ la barra hacia adelante y arriba en un arco controlado hasta la altura de los\
-  \ hombros.\n2. Mantén la contracción máxima en la parte alta durante un segundo\
-  \ apretando el deltoides anterior.\n3. Desciende la barra lentamente a la posición\
-  \ inicial manteniendo la tensión muscular continua.\n\nConsejos:\nNo te balancees\
-  \ ni arquees la zona lumbar para subir el peso."
+description: 'Coloca una barra recta corta en la polea baja. Ponte de espaldas a la máquina, con el cable
+  entre las piernas, y sujeta la barra con agarre prono al ancho de los hombros delante de los muslos.
+  Mantente erguido, con el pecho arriba, hombros bajos y rodillas ligeramente flexionadas.
+
+
+  1. Con los codos casi extendidos, eleva la barra hacia delante en un arco suave hasta que las manos
+  lleguen a la altura de los hombros.
+
+  2. Haz una pausa de un segundo y concéntrate en contraer los deltoides anteriores.
+
+  3. Baja la barra despacio y con control, manteniendo la tensión en los hombros.
+
+
+  No balancees el torso ni arquees en exceso la zona lumbar.'
 search_terms:
-  - Elevación frontal en polea con barra
-  - Cable Front Raise
+- Elevación frontal con barra corta en polea
+- Elevación frontal con barra recta
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Tierrasverdes
-  source_id: '2877'
+  license: "CC-BY-SA-4.0"
+  license_author: "Tierrasverdes"
+  source_id: "2876"

@@ -4,21 +4,27 @@ status: ai_authored
 name: Soporte isométrico en paralelas (Support Hold)
 description: 'Posición inicial:
 
-  Colócate entre las barras paralelas de fondos. Sujeta los agarres y empuja hacia abajo hasta que los brazos queden completamente extendidos y los pies suspendidos en el aire.
+  Colócate entre las barras paralelas de fondos. Sujeta los agarres y empuja hacia
+  abajo hasta que los brazos queden completamente extendidos y los pies suspendidos
+  en el aire.
 
 
   Ejecución:
 
-  Mantén esta posición estática con los brazos rectos. Empuja activamente los hombros hacia abajo (lejos de las orejas), saca pecho y activa fuertemente el abdomen y los glúteos para mantener el cuerpo inmóvil durante el tiempo marcado.
+  Mantén esta posición estática con los brazos rectos. Empuja activamente los hombros
+  hacia abajo (lejos de las orejas), saca pecho y activa fuertemente el abdomen y
+  los glúteos para mantener el cuerpo inmóvil durante el tiempo marcado.
 
 
   Consejos:
 
-  Evita hundirte en los hombros; conserva una firme depresión escapular durante toda la sujeción.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4281'
+  Evita hundirte en los hombros; conserva una firme depresión escapular durante toda
+  la sujeción.'
 search_terms:
-- Isometría en las paralelas
-- Parallel Bar Support Hold
+- Sostén en barras paralelas
+- Sostén en barras de fondos
+- Sostén isométrico de fondos
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "3061"
+translated_from: en

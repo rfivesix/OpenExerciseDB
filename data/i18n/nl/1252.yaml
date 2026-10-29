@@ -1,0 +1,23 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1252'
+language: nl
+status: ai_authored
+translated_from: en
+name: Front-lever-pull-up
+description: 'Startpositie:
+
+  Neem hangend onder een optrekstang een horizontale front-leverpositie aan, volledig of opgetrokken,
+  met gestrekte armen.
+
+
+  Uitvoering:
+
+  1. Trek je borst naar de stang door je ellebogen omlaag en naar achteren te bewegen.
+
+  2. Span je romp en lats stevig aan zodat je lichaam tijdens de hele trek horizontaal blijft.
+
+  3. Laat jezelf gecontroleerd terugzakken naar de front-lever-startpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2211"

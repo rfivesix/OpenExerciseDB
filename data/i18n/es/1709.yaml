@@ -1,16 +1,23 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1709'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Pájaro de pie
-description: |-
-  Ponte de pie con una buena postura sujetando un cable en cada mano, de cara a la máquina
+description: 'Ponte de pie con una buena postura sujetando un cable en cada mano, de cara a la máquina
+
   Empezando con las manos delante del pecho, lleva los brazos hacia
+
   los lados formando una T, con los codos casi estirados
+
   Lleva los brazos lentamente de nuevo hacia delante hasta la posición inicial
+
   Repite moviendo los brazos hasta formar una Y
+
   Repite con los brazos formando una W
-  Repite con los brazos formando una L pegados al cuerpo
+
+  Repite con los brazos formando una L pegados al cuerpo'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4110'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2832"
+translated_from: en

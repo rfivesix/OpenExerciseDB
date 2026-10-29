@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1657'
+language: nl
+status: ai_authored
+translated_from: en
+name: Preacher curl met interne rotatie
+description: Een eenarmige curl die je kunt uitvoeren met een dumbbell en een preacherbank, of met een
+  preacher-curlmachine. Draai je lichaam naar het gewicht.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Shiladree"
+  source_id: "2778"

@@ -1,13 +1,17 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '161'
 language: es
-status: ai_reviewed
-name: Pullover con Mancuerna
-description: |-
-  Este ejercicio clásico es excelente para estirar y trabajar simultáneamente los músculos del pecho (pectorales) y la espalda (dorsales), además de ayudar a la expansión de la caja torácica.
-  Instrucciones:
-  Acuéstate de forma transversal (atravesado) sobre un banco plano, apoyando únicamente la parte alta de tu espalda y hombros. Mantén los pies firmes en el suelo para darte estabilidad y la cadera a un nivel bajo.
-  Sujeta una mancuerna con ambas manos y extiéndela sobre tu pecho. Con una ligera pero constante flexión en los codos, baja la mancuerna en un arco amplio por detrás de tu cabeza hasta sentir un estiramiento profundo. Regresa a la posición inicial siguiendo el mismo arco y de forma controlada.
+status: ai_authored
+translated_from: en
+name: Pullover con mancuerna atravesado en banco
+description: Sujeta una mancuerna de peso moderado con las palmas apoyadas contra la parte inferior de
+  los discos superiores y los pulgares rodeando la barra. Túmbate atravesado sobre un banco plano, de
+  modo que solo la parte superior de la espalda y los hombros estén apoyados. Separa los pies aproximadamente
+  al ancho de los hombros y deja que la cabeza cuelgue ligeramente. Con la mancuerna sostenida con los
+  brazos extendidos directamente sobre el pecho, flexiona los brazos unos 15 grados y mantenlos así durante
+  todo el movimiento. Baja lentamente la mancuerna hacia atrás y hacia abajo describiendo un arco semicircular,
+  hasta donde te resulte cómodo. Súbela despacio por el mismo arco y repite las repeticiones necesarias.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2703'
+  license: "CC-BY-SA-3.0"
+  license_author: "powerade69"
+  source_id: "194"

@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '595'
+language: nl
+status: ai_authored
+translated_from: en
+name: Touwtjespringen (basis)
+description: 'Maak bij elke zwaai van het touw één sprong met beide voeten.
+
+  Werk aan een vloeiende, ritmische beweging en veer licht op de bal van je voeten.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Cerin"
+  source_id: "411"

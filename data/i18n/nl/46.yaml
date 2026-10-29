@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '46'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande uitvalspas met halterstang
+description: 'Leg de halterstang achter op je schouders. Sta rechtop en zet een eerste stap naar voren,
+  ver genoeg zodat de knie van je steunbeen de vloer kan raken. Kom weer overeind en herhaal met het andere
+  been.
+
+  Houd een goede houding aan.'
+search_terms:
+- Staande lunges met halterstang
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Mikko Ruohola"
+  source_id: "405"

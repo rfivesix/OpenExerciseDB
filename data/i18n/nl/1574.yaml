@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1574'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zwemmen
+description: 'Beginpositie:
+
+  Ga het zwembad in en maak je klaar om baantjes te zwemmen met een slag naar keuze, zoals borstcrawl
+  of schoolslag.
+
+
+  Uitvoering:
+
+  1. Zwem onafgebroken baantjes in een gelijkmatig ritme en let op een rustige ademhaling en efficiënte
+  voortstuwing.
+
+  2. Gebruik je brede rugspieren, deltaspieren en romp om door het water te trekken en strek je armen
+  volledig.
+
+  3. Houd tijdens de sessie een gestroomlijnde, horizontale lichaamshouding aan.
+
+
+  Aandachtspunt:
+
+  Zwemmen biedt cardiovasculaire conditietraining met weinig impact en traint het spieruithoudingsvermogen,
+  met name van rug, schouders en romp.'
+search_terms:
+- Vrije slag zwemmen
+- Baantjes zwemmen
+- Zwemmen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "delta@romeo"
+  source_id: "2522"

@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1608'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl met lichaamsgewicht
+description: Ga onder een rechte stang staan (ongeveer op taille- of borsthoogte). Pak de stang op schouderbreedte
+  vast met je handpalmen naar je toe. Leun met gestrekte armen achterover zodat je lichaam schuin ten
+  opzichte van de vloer staat. Houd je ellebogen hoog en dicht bij de stang en trek je bovenlichaam naar
+  de stang door je ellebogen te buigen, zoals bij een bicepscurl. Laat jezelf gecontroleerd zakken. Houd
+  je romp aangespannen en beweeg langzaam om de biceps spanning te laten houden.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tenebrizz"
+  source_id: "2583"

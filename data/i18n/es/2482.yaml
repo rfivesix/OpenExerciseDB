@@ -1,0 +1,38 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2482'
+language: es
+status: ai_authored
+translated_from: en
+name: Ejercicio de exhalación bajo el agua
+description: 'Posición inicial:
+
+  Colócate de pie en agua hasta el pecho, con los pies a la anchura de los hombros. Si lo necesitas, toca
+  ligeramente el borde de la piscina para sentirte seguro.
+
+
+  Ejecución:
+
+  1. Inhala profundamente por la boca por encima de la superficie.
+
+  2. Flexiona las rodillas y sumerge por completo la cabeza.
+
+  3. Exhala despacio y de forma continua hasta vaciar el aire por la nariz o la boca bajo el agua; tararear
+  suavemente puede ayudar a regular el flujo.
+
+  4. Impúlsate desde el fondo para salir a la superficie, toma rápidamente aire por la boca y vuelve a
+  sumergirte.
+
+  5. Continúa subiendo y bajando con un ritmo tranquilo y continuo.
+
+
+  Consejos:
+
+  Procura realizar toda la exhalación bajo el agua; el tiempo en la superficie es solo para inhalar.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4959"
+search_terms:
+- Ejercicio de exhalación con rebotes
+- Ejercicio de respiración en natación
+- Rebotes con respiración rítmica

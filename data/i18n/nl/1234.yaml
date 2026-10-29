@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1234'
+language: nl
+status: ai_authored
+translated_from: en
+name: Heupstoot op één been met dumbbell
+search_terms:
+- "Eenbenige hip thrust met dumbbell"
+- "Hip thrust op één been met dumbbell"
+description: 'Startpositie:
+
+  • Ga op de vloer zitten met je bovenrug tegen de rand van een stevige bank.
+
+  • Leg een dumbbell stevig over je heupen en houd deze met je handen op zijn plaats.
+
+  • Zet één voet stevig op de vloer met de knie ongeveer 90 graden gebogen en til het andere been op met
+  gebogen knie.
+
+
+  Uitvoering:
+
+  • Duw via de hiel van je standbeen en strek je heupen tot je romp en bovenbeen een rechte horizontale
+  lijn vormen.
+
+  • Span bovenaan je bilspier krachtig 1 tot 2 seconden aan.
+
+  • Laat je heupen langzaam en gecontroleerd zakken zonder volledig op de vloer te rusten.
+
+  • Voltooi de herhalingen en wissel van kant.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "carlos3c"
+  source_id: "2199"

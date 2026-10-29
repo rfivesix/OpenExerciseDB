@@ -1,0 +1,14 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1680'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende figure-four stretch
+description: Ga op een bankje zitten met je voeten plat op de grond. Leg je linkerenkel over je rechterknie.
+  Houd je rechterknie laag en je rug recht. Duw je linkerknie voorzichtig omlaag.
+search_terms:
+- zittende figure-four stretch
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "ricardodavidrd"
+  source_id: "2802"

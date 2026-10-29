@@ -1,13 +1,13 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '158'
 language: es
-status: ai_reviewed
-name: Jalón al Pecho con Agarre Cerrado
-description: |-
-  Esta variante del jalón, con un agarre más estrecho, se enfoca en la densidad de la espalda y permite un mayor rango de movimiento para la contracción de los dorsales.
-  Instrucciones:
-  Sujeta la barra con un agarre cerrado (manos más juntas que el ancho de los hombros) y prono (palmas mirando hacia abajo/lejos de ti). Inclina tu torso ligeramente hacia atrás.
-  Jala la barra verticalmente hacia la parte superior de tu pecho, manteniendo los codos siempre cerca de tus costados. Al final del recorrido, aprieta la espalda y junta los omóplatos. Regresa a la posición inicial de forma controlada.
+status: ai_authored
+translated_from: en
+name: Jalón al pecho con agarre estrecho
+description: Sujeta la barra del jalón con las manos más juntas que el ancho de los hombros y las palmas
+  hacia fuera. Inclínate ligeramente hacia atrás. Lleva la barra hacia el pecho manteniendo los codos
+  cerca de los costados. Al final del movimiento, lleva los hombros hacia atrás.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2691'
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "213"

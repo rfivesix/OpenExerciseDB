@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1320'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsdips op de vloer
+description: Tricepsdips op de vloer zijn een samengestelde oefening waarbij meerdere spiergroepen tegelijk
+  werken. Deze oefening met lichaamsgewicht richt zich vooral op de triceps, maar traint ook de borst
+  en voorkant van de schouders. De oefening kan de armkracht vergroten en spiermassa in de bovenarmen
+  opbouwen. Het is een gesloten-keten-oefening, waarbij je rond een vast punt beweegt. Volgens de brontekst
+  vergroot dit de compressiekracht op de gewrichten en daarmee de stabiliteit.
+search_terms:
+- Fondos de banco en el suelo
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hektkaso"
+  source_id: "2292"

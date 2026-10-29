@@ -1,0 +1,12 @@
+exercise_id: '367'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl de piernas de pie
+description: Haz el movimiento con una pierna cada vez en la máquina de curl de piernas de pie. Coloca
+  la parte inferior de la pierna detrás del rodillo, flexiona la rodilla hasta formar un ángulo recto
+  y baja el peso de forma controlada.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "118"

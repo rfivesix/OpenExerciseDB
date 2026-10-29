@@ -1,21 +1,27 @@
 exercise_id: '1775'
 language: es
-status: ai_reviewed
-name: Pájaro en máquina pec deck
-description: "Posición inicial:\nSiéntate de cara al respaldo de la máquina pec deck.\
-  \ Ajusta el asiento de modo que los manillares queden a la altura de los hombros.\
-  \ Apoya el pecho contra el cojín y sujeta las agarraderas con los codos ligeramente\
-  \ flexionados.\n\nEjecución:\n1. Abre los brazos hacia atrás y hacia afuera en un\
-  \ arco horizontal contrayendo los deltoides posteriores.\n2. Mantén la contracción\
-  \ durante un segundo en el punto máximo cuando los brazos estén alineados con el\
-  \ torso.\n3. Regresa lentamente controlando la carga hasta la posición inicial sin\
-  \ dejar caer los pesos.\n\nConsejos:\nMantén los hombros descendidos y enfoca el\
-  \ esfuerzo en la parte posterior del hombro."
+status: ai_authored
+translated_from: en
+name: Pájaro para deltoides posterior en pec deck
+description: 'Siéntate mirando al respaldo de la máquina pec deck. Ajusta el asiento para que las empuñaduras
+  queden a la altura de los hombros. Apoya el pecho contra el respaldo, planta los pies y sujeta las empuñaduras
+  con agarre neutro o prono, con los codos ligeramente flexionados.
+
+
+  1. Lleva los codos hacia atrás y hacia fuera en un arco amplio, contrayendo los deltoides posteriores.
+
+  2. Haz una pausa de un segundo cuando los brazos queden alineados con el torso.
+
+  3. Resiste el peso al devolver lentamente las empuñaduras al inicio, sin dejar reposar la pila.
+
+
+  Concéntrate en la parte posterior de los hombros; evita encoger los trapecios o depender solo de juntar
+  mucho los omóplatos.'
 search_terms:
-  - Pájaro en máquina pec deck
-  - Reverse Pec Deck
-  - Pec deck rear delt fly
+- Pájaro inverso en pec deck
+- Pájaro de deltoides posterior en máquina
+- Apertura inversa en pec deck
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4172'
+  license: "CC-BY-SA-4.0"
+  license_author: "eufvksruh"
+  source_id: "2909"

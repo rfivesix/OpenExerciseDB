@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '562'
+language: nl
+status: ai_authored
+translated_from: en
+name: Shotgun row
+description: 'Bevestig één handgreep aan een lage kabel.
+
+  Kies het juiste gewicht en ga een paar stappen naar achteren staan met je voeten breed en versprongen. Je arm
+  is gestrekt en je schouder naar voren gebracht. Dit is de startpositie.
+
+  Voer de beweging uit door je schouderbladen naar achteren te trekken en je elleboog te buigen. Draai tijdens het
+  trekken je pols naar buiten, zodat je handpalm omhoog komt.
+
+  Pauzeer kort en keer terug naar de startpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cal.zabel"
+  source_id: "339"

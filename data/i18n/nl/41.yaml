@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '41'
+language: nl
+status: ai_authored
+translated_from: en
+name: Buikspieruitrol met halterstang
+description: 'Kniel op een mat en leg een halterstang voor je op de vloer.
+
+  Pak de stang met een bovenhandse greep op schouderbreedte vast.
+
+  Rol de stang langzaam en gecontroleerd naar voren tot je lichaam gestrekt is en je rug recht blijft.
+
+  Trek de stang met je buikspieren terug naar de beginpositie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sevae"
+  source_id: "343"

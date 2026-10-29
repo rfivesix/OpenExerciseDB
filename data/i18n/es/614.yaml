@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '614'
+language: es
+status: ai_authored
+translated_from: en
+name: Saltos en cuclillas
+description: Salta explosivamente desde una postura amplia y aterriza con los pies juntos, alternando entre posiciones
+  amplias y estrechas.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "OGhTebfCxhexZXuf35mUxV9C--A"
+  source_id: "185"

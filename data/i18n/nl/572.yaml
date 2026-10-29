@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '572'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderophalen met dumbbells
+description: 'Sta rechtop met je armen langs je lichaam en houd in elke hand een dumbbell vast. Haal je schouders
+  zo hoog mogelijk op zonder je armen te buigen. Pauzeer bovenaan kort, 1 of 2 seconden, en keer langzaam terug
+  naar de startpositie.
+
+  Zorg er bij een zwaarder gewicht voor dat je de volledige bewegingsuitslag behoudt.'
+search_terms:
+- Shrugs met dumbbells
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "151"

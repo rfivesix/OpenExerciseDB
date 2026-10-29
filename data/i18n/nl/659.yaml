@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '659'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsstrekking met kabeltouw
+description: Pak het touw aan de kabel vast en sta met je voeten op schouderbreedte. Houd je rug recht en leun iets
+  naar voren. Duw het touw omlaag en houd je ellebogen tijdens de oefening stil. Draai je handen helemaal onderaan
+  naar buiten en keer gecontroleerd terug naar de startpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "89"

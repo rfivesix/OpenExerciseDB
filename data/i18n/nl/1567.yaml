@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1567'
+language: nl
+status: ai_authored
+translated_from: en
+name: Afwisselende hammer curl met dumbbells
+description: 'Beginpositie:
+
+  Sta rechtop met licht gebogen knieën en je voeten op schouderbreedte. Houd in elke hand naast je lichaam
+  een dumbbell vast met een neutrale greep (handpalmen naar elkaar).
+
+
+  Uitvoering:
+
+  1. Houd je bovenarm stil en je elleboog tegen je zij. Buig één arm en breng de dumbbell verticaal naar
+  je schouder.
+
+  2. Span bovenaan je brachioradialis en brachialis stevig aan.
+
+  3. Laat de dumbbell langzaam en gecontroleerd zakken. Herhaal daarna met de andere arm.
+
+
+  Aandachtspunt:
+
+  Zwaai niet met je romp en gebruik geen momentum. De neutrale greep belast vooral de onderarm en brachialis.'
+search_terms:
+- Afwisselende hammer curl
+- Afwisselende dumbbell hammer curl
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2515"

@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1486'
+language: nl
+status: ai_authored
+translated_from: en
+name: Afwisselende hoge cable row
+description: 'Startpositie:
+
+  Bevestig een handgreep aan een hoge kabel. Ga in een gespreide stand op ongeveer een meter afstand staan.
+  Houd de greep met één hand op hoofdhoogte vast, met je elleboog licht gebogen.
+
+
+  Uitvoering:
+
+  1. Trek je elleboog omlaag en naar binnen richting je romp, met een lichte, gecontroleerde romprotatie.
+
+  2. Span bovenaan je rugspieren één seconde aan.
+
+  3. Laat de kabel gecontroleerd teruggaan, wissel van hand en zet de andere voet voor; herhaal.
+
+
+  Aandachtspunten:
+
+  Wissel tussen je armen om ook je rompstabiliteit te belasten.'
+search_terms:
+- Afwisselende cable high row
+- eenarmige hoge cable row
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2449"

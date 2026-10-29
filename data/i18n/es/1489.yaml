@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1489'
+language: es
+status: ai_authored
+translated_from: en
+name: Saltos de tijera en plancha
+description: 'Posición inicial:
+
+  Colócate en plancha sobre los antebrazos o las manos, con los codos debajo de los hombros y los pies
+  juntos. Mantén el cuerpo en línea recta de la cabeza a los talones.
+
+
+  Ejecución:
+
+  1. Mantén el abdomen firme y el torso estable mientras saltas con ambos pies hacia fuera, separándolos.
+
+  2. Aterriza sobre la parte delantera de los pies y vuelve a saltar al centro.
+
+  3. Continúa alternando las posiciones con un ritmo fluido y controlado.
+
+
+  Indicaciones:
+
+  Evita que las caderas reboten o que la zona lumbar se hunda.'
+search_terms:
+- Saltos de tijera en plancha
+- jumping jack en plancha
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "jayninja"
+  source_id: "2452"

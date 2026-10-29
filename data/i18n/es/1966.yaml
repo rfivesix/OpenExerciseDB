@@ -1,25 +1,14 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '1966'
 language: es
 status: ai_authored
-name: Rotación torácica en posición de zancada (Half-Kneeling)
-description: 'Posición inicial:
-
-  Colócate en posición de rodillas (medio arrodillado) junto a una pared. La pierna más cercana a la pared queda adelantada a 90 grados. Si lo deseas, sujeta un balón de espuma entre la rodilla delantera y la pared para bloquear la pelvis. Extiende ambos brazos al frente a la altura del pecho.
-
-
-  Ejecución:
-
-  Abre el brazo exterior hacia atrás en un arco amplio rotando el tórax y la cabeza, manteniendo las caderas y la rodilla delantera inmóviles hacia delante. Haz una pausa de 1-2 segundos en la máxima apertura y regresa despacio al frente.
-
-
-  Consejos:
-
-  La fijación contra la pared evita compensaciones lumbares y asegura que la movilidad se desarrolle estrictamente en la columna dorsal.'
+name: Rotación torácica en media rodilla
+description: Comienza en posición de medio arrodillamiento. Estabiliza contra la pared, con una pelota,
+  la pierna que queda más alejada de ella. Coloca ambas manos delante de ti y abre un brazo en rotación,
+  intentando alcanzar la pared que queda detrás. Exhala al girar, inhala al volver a la posición neutra
+  y repite.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3565'
-search_terms:
-- Rotación torácica en media rodilla
-- Rotación torácica en zancada
-- Half-Kneeling Thoracic Rotation
+  license: "CC-BY-SA-4.0"
+  license_author: "amwang4"
+  source_id: "3121"
+translated_from: en

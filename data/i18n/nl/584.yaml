@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '584'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige preacher curl
+description: Ga op de preacher curl-bank zitten en voer met één hand een bicepscurl met een dumbbell uit. Je andere
+  hand kan rusten of onder de elleboog van je werkende arm worden geplaatst.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "205"

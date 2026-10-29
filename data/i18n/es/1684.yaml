@@ -1,12 +1,27 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1684'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Thruster con mancuernas
-description: |-
-  Comienza con las mancuernas apoyadas sobre los hombros y baja en sentadilla. Empuja
-  hacia arriba hasta quedar de pie y eleva las mancuernas a una posición por encima de la cabeza. Lleva
-  las mancuernas de nuevo a los hombros y repite.
+description: 'Posición inicial: Ponte de pie con los pies separados al ancho de los hombros y sostén dos
+  mancuernas a la altura de los hombros, con los codos ligeramente adelantados.
+
+
+  Movimiento:
+
+  1. Lleva las caderas hacia abajo y atrás hasta una sentadilla profunda, con los muslos al menos paralelos
+  al suelo.
+
+  2. Impúlsate de forma explosiva desde los talones y aprovecha el impulso ascendente para llevar las
+  mancuernas por encima de la cabeza en un movimiento fluido.
+
+  3. Baja las mancuernas con control hasta los hombros mientras enlazas con la siguiente repetición de
+  sentadilla.
+
+
+  Consejos: Mantén el pecho elevado y el abdomen firme para conservar estable la columna.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3899'
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2804"
+translated_from: en

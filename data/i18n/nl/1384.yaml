@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1384'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pullovermachine
+description: 'Beginpositie:
+
+  Ga op de pullovermachine zitten en stel de zithoogte zo af dat je schoudergewrichten op één lijn staan
+  met het draaipunt van de machine. Plaats je ellebogen stevig op de kussens van de hendels en pak de
+  handgrepen licht vast. Maak de heupgordel vast als die aanwezig is.
+
+
+  Beweging:
+
+  Duw je ellebogen in een vloeiende boog omlaag richting je dijen en concentreer je op het trekken met
+  je brede rugspieren. Span je lats onderaan stevig aan en laat de kussens langzaam weer omhoogkomen voor
+  een diepe rek in je rug.
+
+
+  Opmerkingen:
+
+  Begin en voer de beweging uit met je ellebogen in plaats van met je handen te trekken. Houd je onderrug
+  tegen de rugleuning.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Paul@Chemistry"
+  source_id: "2352"

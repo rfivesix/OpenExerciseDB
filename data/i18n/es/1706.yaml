@@ -1,10 +1,15 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1706'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Sentadilla búlgara con mancuernas
-description: |-
-  La sentadilla búlgara consiste en realizar una sentadilla a una pierna con el pie trasero apoyado sobre una plataforma elevada. Elevar la pierna trasera sobre un banco genera inestabilidad y aumenta el rango de movimiento del ejercicio.
+description: La sentadilla búlgara consiste en hacer una sentadilla sobre una pierna con el pie trasero
+  apoyado en una plataforma elevada. Elevar la pierna trasera sobre un banco crea inestabilidad y aumenta
+  el rango de movimiento del ejercicio.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4071'
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2827"
+translated_from: en
+search_terms:
+- sentadilla búlgara con mancuernas

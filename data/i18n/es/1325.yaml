@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1325'
+language: es
+status: ai_authored
+translated_from: en
+name: Desplazamiento lateral con impulso
+description: 'Beginpositie:
+
+  Empieza en una postura atlética y equilibrada, con las rodillas ligeramente flexionadas y el core activado.
+
+
+  Uitvoering:
+
+  1. Impúlsate explosivamente hacia un lado con la pierna apoyada.
+
+  2. Aterriza suavemente sobre la pierna contraria y amortigua el impacto con la rodilla y la cadera.
+
+  3. Recupera brevemente el equilibrio y vuelve a impulsarte hacia el otro lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cleen"
+  source_id: "2298"

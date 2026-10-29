@@ -1,24 +1,31 @@
 exercise_id: '1927'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Jalón al pecho con agarre supino (invertido)
 description: 'Posición inicial:
 
-  Siéntate en la máquina de jalón con las piernas bien sujetas bajo las almohadillas. Agarra la barra con una toma supina (palmas hacia ti) a la anchura de los hombros. Saca pecho y mantén una ligera curvatura natural en la espalda.
+  Siéntate en la máquina de jalón con las piernas bien sujetas bajo las almohadillas.
+  Agarra la barra con una toma supina (palmas hacia ti) a la anchura de los hombros.
+  Saca pecho y mantén una ligera curvatura natural en la espalda.
 
 
   Ejecución:
 
-  Tira de la barra hacia la parte superior del pecho dirigiendo los codos hacia abajo y ligeramente hacia atrás. Aprieta los dorsales y bíceps en el punto más bajo y regresa lentamente a la posición inicial extendiendo por completo los brazos.
+  Tira de la barra hacia la parte superior del pecho dirigiendo los codos hacia abajo
+  y ligeramente hacia atrás. Aprieta los dorsales y bíceps en el punto más bajo y
+  regresa lentamente a la posición inicial extendiendo por completo los brazos.
 
 
   Consejos:
 
-  Evita balancear el torso hacia atrás para ayudarte con el peso; mantén el torso estable durante toda la serie.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4288'
+  Evita balancear el torso hacia atrás para ayudarte con el peso; mantén el torso
+  estable durante toda la serie.'
 search_terms:
+- Jalón invertido al pecho
 - Jalón al pecho con agarre supino
-- Inverted Lat Pull Down
+- Jalón supino al pecho
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "amaesc"
+  source_id: "3076"
+translated_from: en

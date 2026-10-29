@@ -1,0 +1,17 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1696'
+language: nl
+status: ai_authored
+translated_from: en
+name: Pull-up met neutrale greep
+description: 'Trekkende fase (concentrisch): Duw je ellebogen omlaag en naar achteren en trek je borst
+  naar je handen. Houd je schouders laag en naar achteren; trek ze niet op. Span bovenaan je brede rugspieren
+  en bovenrug aan.
+
+
+  Bovenste positie: Je kin komt boven je handen of minstens op handhoogte. Pauzeer kort en span je brede
+  rugspieren krachtig aan.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2815"

@@ -1,16 +1,21 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1701'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Remo pesado a una mano
-description: |-
-  Ejecución
-  
+description: 'Ejecución
+
+
   Fase de remo (concéntrica):
-  
+
+
   Tira de la mancuerna hacia la parte baja del pecho o la cintura, liderando con el codo.
+
   Mantén el torso estable — evita girar o rotar los hombros.
-  Haz una pausa arriba y contrae los dorsales.
+
+  Haz una pausa arriba y contrae los dorsales.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4061'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2820"
+translated_from: en

@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2487'
+language: nl
+status: ai_authored
+translated_from: en
+name: Uitzwemmen
+description: 'Startpositie:
+
+  Zet je vanaf de zwembadwand af in een gestroomlijnde houding.
+
+
+  Uitvoering:
+
+  Zwem de vrije slag rustig en ontspannen gedurende de voorgeschreven tijd of afstand. Houd je slagen
+  soepel en je ademhaling gelijkmatig.
+
+
+  Aandachtspunten:
+
+  Houd de intensiteit laag zodat dit als herstelzwemmen na een zwaardere sessie kan dienen.'
+search_terms:
+- Uitzwemmen
+- Herstelzwemmen
+- Actief herstelzwemmen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4964"

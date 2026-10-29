@@ -1,0 +1,15 @@
+exercise_id: '912'
+language: nl
+status: ai_authored
+translated_from: en
+name: Biceps curl met rechte kabelstang
+description: Sta rechtop voor een lage kabelkatrol en pak de rechte stang met een onderhandse greep op
+  ongeveer schouderbreedte vast. Houd je ellebogen dicht bij je zij en je romp stil. Buig je ellebogen
+  en span je biceps aan om de stang naar je borst te brengen; houd je bovenarmen stil. Knijp bovenaan
+  je biceps samen en laat de stang langzaam en gecontroleerd zakken tot je armen gestrekt zijn.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "novadani"
+  source_id: "1191"
+search_terms:
+- Cable curls met rechte stang

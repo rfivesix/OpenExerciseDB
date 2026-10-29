@@ -1,0 +1,20 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1439'
+language: nl
+status: ai_authored
+translated_from: en
+name: Overhead press met halter vanaf pinnen
+description: Leg de halterstang op de veiligheidssteunen in het rek op kinhoogte. Sta met je voeten op
+  schouderbreedte, pak de stang iets breder vast en span je hele lichaam aan. Span je romp en bilspieren
+  aan en duw de stang explosief vanaf de steunen boven je hoofd tot je ellebogen gestrekt zijn. Kantel
+  je hoofd iets naar achteren wanneer de stang langs je gezicht beweegt. Laat de stang beheerst terugzakken
+  op de steunen, laat hem kort stilstaan terwijl je spanning houdt en herhaal. De beweging begint vanuit
+  stilstand, zonder elastisch momentum, en traint de concentrische kracht van de voorste schouderspieren
+  en triceps.
+search_terms:
+- Pin overhead press
+- Overhead press vanaf pinnen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "M9"
+  source_id: "2403"

@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '591'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sit-up met kuiten op bank
+description: Ga op een mat zitten met je kuiten op een bank en je knieën in een rechte hoek. Houd je handen achter
+  je nek. Kom met een rollende beweging van je rug omhoog; je zou moeten voelen hoe de afzonderlijke wervels loskomen
+  van de mat. Span je buikspieren bovenaan zo sterk mogelijk aan en houd dit 2 seconden vast. Rol je rug weer omlaag.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "95"

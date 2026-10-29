@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1112'
+language: nl
+status: ai_authored
+translated_from: en
+name: Decline push-ups
+description: Plaats de voeten op een stevige bank of box en de handen op de vloer onder of iets wijder
+  dan de schouders. Houd het lichaam in een stevige diagonale lijn. Buig de ellebogen en laat de borst
+  beheerst richting vloer zakken, romp aangespannen en heupen hoog. Zak tot neus of bovenborst bijna de
+  vloer raakt. Duw de vloer weg en strek de armen. Deze variant legt meer nadruk op bovenborst en voorste
+  schouders.
+search_terms:
+- Push-ups met voeten verhoogd
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anon1337"
+  source_id: "2075"

@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1490'
+language: nl
+status: ai_authored
+translated_from: en
+name: Triceps kickback met dumbbells op schuine bank
+description: 'Startpositie:
+
+  Zet een schuine bank op ongeveer 60°. Ga met je borst op de bank liggen en je voeten op de vloer. Houd
+  in elke hand een dumbbell, trek je schouderbladen naar achteren en breng je bovenarmen langs je romp
+  ongeveer parallel aan de vloer.
+
+
+  Uitvoering:
+
+  1. Houd je bovenarmen stil en je ellebogen op hun plek. Strek je ellebogen naar achteren tot je armen
+  recht zijn.
+
+  2. Span bovenaan je triceps één seconde krachtig aan.
+
+  3. Laat je onderarmen langzaam en gecontroleerd zakken tot je ellebogen ongeveer 90° gebogen zijn.
+
+
+  Aandachtspunten:
+
+  Je borst op de bank laten rusten beperkt momentum.'
+search_terms:
+- Liggende triceps kickback
+- dumbbell kickback op schuine bank
+- chest-supported triceps kickback
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2453"

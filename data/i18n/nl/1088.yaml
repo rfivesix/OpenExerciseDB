@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1088'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sumo-deadlift met dumbbell
+description: Sta breed, ongeveer anderhalf tot tweemaal schouderbreedte, met tenen circa 45 graden naar
+  buiten. Plaats een dumbbell rechtop tussen de voeten. Buig heupen en knieën met borst omhoog en rechte
+  rug en pak de bovenkant met beide handen. Duw de voeten in de vloer en strek heupen en knieën tot je
+  rechtop staat. Span bilspieren en binnenkant dijen aan. Laat de dumbbell beheerst terug naar de vloer
+  zakken.
+search_terms:
+- Sumo-deadlift met dumbbell
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2038"

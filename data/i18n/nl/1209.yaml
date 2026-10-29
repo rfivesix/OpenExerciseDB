@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1209'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-up op drie steunpunten
+description: 'Startpositie:
+
+  • Neem de standaard push-uphouding aan met je handen op schouderbreedte.
+
+  • Til één voet ongeveer 5 tot 10 cm van de vloer, zodat je op drie punten steunt.
+
+  • Houd je heupen horizontaal en recht naar de vloer gericht en span je romp aan.
+
+
+  Uitvoering:
+
+  • Buig je ellebogen en laat je borst soepel en gecontroleerd naar de vloer zakken.
+
+  • Houd je heupen stabiel tegen de draaiende kracht in en houd een rechte lijn van je hoofd tot je steunhiel.
+
+  • Duw stevig via je handen terug omhoog.
+
+  • Voltooi je herhalingen en wissel van been.'
+search_terms:
+- "Push-up met handen op schouderbreedte en één been"
+- "Push-up op één been"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lxmx"
+  source_id: "2172"

@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1581'
+language: nl
+status: ai_authored
+translated_from: en
+name: Scapulaire dumbbell press (trap press)
+search_terms:
+- "Trap press"
+- "Serratusstoot met dumbbell"
+- "Scapulaire protractie met dumbbell"
+description: 'Beginpositie:
+
+  Ga plat op je rug op een bank liggen en houd met één hand een dumbbell vast. Strek je arm recht boven
+  je schouder naar het plafond, met je elleboog gestrekt of bijna gestrekt.
+
+
+  Uitvoering:
+
+  Houd je arm volledig recht en buig je elleboog niet. Beweeg je schouderblad naar voren om de dumbbell
+  zo ver als comfortabel recht omhoog te duwen. Span bovenaan je serratus anterior aan en trek je schouderblad
+  daarna langzaam terug om het gewicht op de bank naar de rustpositie te laten zakken.
+
+
+  Aandachtspunten:
+
+  De beweging vindt volledig plaats vanuit het schouderblad (protractie en retractie), niet vanuit het
+  ellebooggewricht. Houd je romp aangespannen en je rug gedurende de hele beweging plat tegen de bank.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "CptnFatbeard"
+  source_id: "2529"

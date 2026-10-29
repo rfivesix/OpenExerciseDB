@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1652'
+language: nl
+status: ai_authored
+translated_from: en
+name: Roemeense deadlift met dumbbells
+description: Houd in elke hand een dumbbell. Buig vanuit de heupen voorover met een rechte rug en kom
+  daarna weer rechtop. De oefening richt zich vooral op de hamstrings en bilspieren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2770"

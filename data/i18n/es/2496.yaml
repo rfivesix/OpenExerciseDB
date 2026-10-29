@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2496'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexiones contra la pared
+description: 'Posición inicial:
+
+  Colócate frente a una pared lisa, aproximadamente a un brazo de distancia. Apoya las palmas en la pared
+  a la altura del pecho, algo más separadas que los hombros. Da un paso atrás para inclinar el cuerpo
+  en línea recta hacia la pared.
+
+
+  Ejecución:
+
+  1. Flexiona los codos unos 45 grados y acerca el pecho a la pared con control, hasta que la nariz o
+  el pecho casi la toquen.
+
+  2. Empuja con firmeza las palmas para alejar el cuerpo de la pared y volver a la posición inicial.
+
+  3. Mantén el abdomen firme y la columna neutra.
+
+
+  Consejos:
+
+  No dejes que la zona lumbar se hunda ni abras demasiado los codos. Es una variante más sencilla para
+  principiantes que están desarrollando fuerza de empuje.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4978"
+search_terms:
+- Flexiones contra la pared (Vasco L1)
+- Flexiones contra la pared
+- Flexiones para principiantes en pared

@@ -1,0 +1,24 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1275'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de flexión plantar con banda
+description: 'Beginpositie:
+
+  Siéntate en el suelo con las piernas extendidas. Pasa una banda de resistencia ligera por el empeine
+  y sujeta los extremos para guiar el estiramiento.
+
+
+  Uitvoering:
+
+  1. Apunta suavemente los dedos del pie hacia delante y abajo (flexión plantar), creando un estiramiento
+  leve en la parte delantera del tobillo y el tibial anterior.
+
+  2. Mantén el estiramiento cómodamente durante 20–30 segundos.
+
+  3. Suelta lentamente y cambia de pie.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2243"

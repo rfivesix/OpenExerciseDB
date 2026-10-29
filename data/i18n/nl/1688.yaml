@@ -1,0 +1,27 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1688'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kickstand Romanian deadlift
+description: 'Beginpositie: Sta rechtop en houd een halterstang voor je dijen met een bovenhandse greep.
+  Verplaats ongeveer 80–90% van je lichaamsgewicht naar het voorste, werkende been. Zet je achterste voet
+  iets achter je neer en raak de vloer alleen met je tenen aan voor je evenwicht (kickstandpositie).
+
+
+  Beweging:
+
+  1. Houd je borst omhoog en je wervelkolom neutraal; duw je heupen naar achteren en buig vanuit je heupen.
+
+  2. Laat de halterstang dicht langs je voorste scheenbeen zakken tot je een diepe rek in de hamstring
+  van je voorste been voelt.
+
+  3. Duw je heupen naar voren en span je bilspieren aan om rechtop terug te komen.
+
+
+  Tips: Je achterste voet dient alleen voor je evenwicht en draagt zo weinig mogelijk gewicht. Richt de
+  spierspanning op de hamstring en bilspier van je voorste been.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "eriktrinkle"
+  source_id: "2807"

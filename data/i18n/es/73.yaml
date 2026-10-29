@@ -1,15 +1,23 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '73'
 language: es
-status: ai_reviewed
-name: Press de Banca
-description: |-
-  Acuéstate en un banco plano. La barra debe estar directamente sobre tus ojos, las rodillas deben estar ligeramente flexionadas y los pies firmemente apoyados en el suelo. Concéntrate, respira profundamente y agarra la barra con una apertura mayor a la anchura de tus hombros. Bájala lentamente hasta que toque brevemente tu pecho a la altura de los pezones. Empuja la barra hacia arriba.
-  Si entrenas con un peso elevado, es aconsejable tener un ayudante (spotter) que pueda asistirte si no puedes levantar el peso por ti mismo.
-  Con la anchura del agarre también puedes controlar qué parte del pecho se trabaja más:
+status: ai_authored
+translated_from: en
+name: Press de banca
+description: 'Túmbate en un banco; la barra debe quedar justo encima de los ojos. Mantén las rodillas
+  algo flexionadas y los pies firmes en el suelo. Concéntrate, respira hondo y sujeta la barra con las
+  manos más separadas que los hombros. Bájala lentamente hasta que toque brevemente el pecho a la altura
+  de los pezones y vuelve a empujarla hacia arriba.
 
-  Agarre ancho: musculatura externa del pecho.
-  Agarre cerrado: musculatura interna del pecho y tríceps.
+  Si entrenas con mucho peso, es aconsejable contar con un compañero que pueda ayudarte si no logras levantarlo
+  por tu cuenta.
+
+  La anchura del agarre también permite cambiar qué zona del pecho se trabaja más:
+
+  agarre ancho: músculos pectorales externos;
+
+  agarre estrecho: músculos pectorales internos y tríceps.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2547'
+  license: "CC-BY-SA-3.0"
+  license_author: "sistab2"
+  source_id: "192"

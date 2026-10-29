@@ -1,11 +1,31 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '56'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Estabilización abdominal
-description: Acuéstate con las rodillas flexionadas y contrae el abdomen como si te prepararas para recibir un golpe suave.
-  Siente la tensión en el frente, los costados y la espalda baja. Mantén esta firmeza durante 10-20 segundos sin dejar de
-  respirar y sin aplastar la zona lumbar contra el suelo.
+description: 'Posición inicial:
+
+  Túmbate a lo largo sobre un rodillo de espuma colocado bajo la columna, de modo que queden apoyados
+  la cabeza, la espalda y el cóccix. Flexiona las rodillas y apoya los pies en el suelo al ancho de las
+  caderas.
+
+
+  Ejecución:
+
+  1. Activa los músculos profundos del tronco (transverso abdominal) acercando suavemente la zona lumbar
+  al rodillo.
+
+  2. Mantén el equilibrio y la estabilidad contrayendo el tronco. Deja las puntas de los dedos apoyadas
+  suavemente en el suelo o cruza los brazos sobre el pecho para aumentar la dificultad.
+
+  3. Mantén la posición durante el tiempo indicado y respira de forma lenta y profunda.
+
+
+  Notas:
+
+  No dejes que la zona lumbar se arquee separándose del rodillo. Mantén la pelvis neutra y estable.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2550'
+  license: "CC-BY-SA-3.0"
+  license_author: "andikeller"
+  source_id: "1061"

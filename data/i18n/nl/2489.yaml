@@ -1,0 +1,24 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2489'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lage roeibeweging op machine
+description: 'Startpositie:
+
+  Ga bij een lage roeimachine zitten en stel de zitting en borststeun zo af dat je comfortabel bij de
+  handgrepen kunt.
+
+
+  Uitvoering:
+
+  Pak de handgrepen vast en trek ze naar je romp door je ellebogen naar achteren te bewegen. Knijp je
+  schouderbladen samen en keer gecontroleerd terug tot je armen weer gestrekt zijn.'
+search_terms:
+- Lage row
+- Lage row op machine
+- Lage row met borststeun
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "lbroggi"
+  source_id: "4966"

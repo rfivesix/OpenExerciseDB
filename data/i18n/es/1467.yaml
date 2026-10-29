@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1467'
+language: es
+status: ai_authored
+translated_from: en
+name: Press de banca inclinado con agarre cerrado
+description: 'Posición inicial:
+
+  Túmbate en un banco inclinado unos 30–45°. Sujeta la barra en pronación, aproximadamente a la anchura
+  de los hombros. Desenróllala y sostenla sobre la parte superior del pecho, con los brazos extendidos.
+
+
+  Ejecución:
+
+  1. Baja la barra con control hacia la parte superior del pecho o la zona inferior del cuello, manteniendo
+  los codos cerca del torso (unos 30–45°).
+
+  2. Empuja la barra hacia arriba extendiendo los codos, concentrando el esfuerzo en los tríceps y la
+  parte superior de los pectorales.
+
+  3. Extiende los brazos arriba sin hiperextender los codos y repite.
+
+
+  Indicaciones:
+
+  Evita un agarre excesivamente estrecho. Mantener los codos cerca del cuerpo aumenta el trabajo de los
+  tríceps.'
+search_terms:
+- Press de banca inclinado con barra y agarre cerrado
+- press inclinado con agarre cerrado
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2430"

@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1353'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell hex press
+description: 'Beginpositie:
+
+  Ga plat op een bank liggen met je voeten stevig op de vloer. Houd twee dumbbells (hexagonale dumbbells
+  werken het best) met een neutrale greep vast en druk ze recht boven je borst stevig tegen elkaar.
+
+
+  Beweging:
+
+  Blijf de dumbbells voortdurend naar elkaar toe drukken terwijl je ze gecontroleerd naar het midden van
+  je borst laat zakken. Duw ze terug tot je armen gestrekt zijn en houd de spanning op je borstspieren.
+
+
+  Opmerkingen:
+
+  Laat de dumbbells tijdens de beweging niet uit elkaar gaan. Door ze voortdurend naar elkaar te drukken,
+  blijven je borstspieren over het hele bewegingsbereik actief.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2323"

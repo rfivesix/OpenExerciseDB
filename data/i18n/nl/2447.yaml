@@ -1,0 +1,34 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2447'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hip airplane
+description: 'Startpositie:
+
+  Sta op één been en raak zo nodig licht een muur of stevige steun aan voor je evenwicht. Buig vanuit
+  je heupen met een rechte rug voorover en strek je vrije been recht naar achteren, tot je romp en achterste
+  been ongeveer horizontaal zijn.
+
+
+  Uitvoering:
+
+  1. Draai je bekken langzaam naar binnen richting je standbeen en laat je vrije heup naar de vloer zakken.
+
+  2. Draai vervolgens je bekken naar buiten en omhoog richting het plafond, zodat je heupen openen.
+
+  3. Keer vloeiend terug naar de neutrale startpositie. Herhaal het gewenste aantal keren en wissel dan
+  van kant.
+
+
+  Aandachtspunten:
+
+  Laat de beweging uitsluitend vanuit het heupgewricht van je standbeen komen. Houd je standvoet stevig
+  op de grond en voorkom dat je standknie naar binnen zakt.'
+search_terms:
+- Eenbenige hip airplane
+- Hip airplane-mobiliteitsoefening
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "TobiasFalk"
+  source_id: "3553"

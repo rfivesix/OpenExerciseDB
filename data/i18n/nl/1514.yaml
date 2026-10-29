@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1514'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaarts lopen
+description: Zijwaarts lopen, ook wel zijstappen of squat walks genoemd, is zijwaarts bewegen in een squatpositie.
+  Dit kan met of zonder weerstandsband. De oefening traint de heupabductoren, bilspieren en andere stabiliserende
+  spieren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cozyGalvinism"
+  source_id: "2473"

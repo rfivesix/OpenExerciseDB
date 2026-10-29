@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1966'
+language: nl
+status: ai_authored
+translated_from: en
+name: Thoracale rotatie in halfknielende positie
+description: Begin in een halfknielende positie. Stabiliseer het been dat van de muur af staat tegen de
+  muur met een bal. Houd beide handen recht voor je. Draai één arm open en probeer de muur achter je te
+  bereiken. Adem uit terwijl je draait en adem in wanneer je terugkeert naar de neutrale positie. Herhaal.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "amwang4"
+  source_id: "3121"

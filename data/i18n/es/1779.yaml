@@ -1,22 +1,29 @@
 exercise_id: '1779'
 language: es
 status: ai_authored
+translated_from: en
 name: Rotación con landmine
-description: "Posición inicial:\nAncla un extremo de la barra en un soporte landmine.\
-  \ Colócate de pie frente a la barra con los pies al ancho de los hombros. Sujeta\
-  \ el extremo libre con ambas manos entrelazadas y los brazos extendidos frente al\
-  \ pecho. Activa el abdomen y flexiona ligeramente las rodillas.\n\nEjecución:\n\
-  1. Desciende la barra en un arco amplio y controlado hacia un lado de la cadera\
-  \ manteniendo los brazos casi rectos.\n2. Rota el tronco de forma controlada pivotando\
-  \ levemente sobre el pie trasero y frenando la carga con los oblicuos.\n3. Impulsa\
-  \ la barra de vuelta hacia arriba al centro y desciéndela de inmediato hacia el\
-  \ lado opuesto.\n\nConsejos:\nMantén los brazos prácticamente extendidos; la rotación\
-  \ y el frenado deben ser ejecutados por el core y los oblicuos."
+description: 'Ancla un extremo de la barra a un soporte landmine o a una esquina. Colócate frente a la
+  barra con los pies al ancho de los hombros. Sujeta con ambas manos el extremo libre, con los dedos entrelazados
+  y los brazos extendidos delante del pecho. Flexiona ligeramente las rodillas y activa el abdomen.
+
+
+  1. Baja la barra en un arco amplio y controlado hacia una cadera, con los brazos casi rectos.
+
+  2. Deja que el torso rote y el pie trasero pivote ligeramente; controla el peso con los oblicuos y el
+  abdomen.
+
+  3. Contrae el abdomen para llevar la barra al centro y después hacia la cadera contraria.
+
+  4. Alterna de forma fluida.
+
+
+  No flexiones mucho los codos. La rotación y el control deben venir del torso.'
 search_terms:
-  - Rotación con landmine
-  - Landmine Rotation
-  - Giros en landmine
+- Rotación con landmine
+- Giros con landmine
+- Giro oblicuo con landmine
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4178'
+  license: "CC-BY-SA-4.0"
+  license_author: "aboksz"
+  source_id: "2913"

@@ -1,0 +1,11 @@
+exercise_id: '382'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hangende L-sit
+description: Hang aan een optrekstang en hef je gestrekte benen tot ze een hoek van 90 graden met je romp
+  vormen (een L-vorm). Houd deze positie vast.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "bizyguy"
+  source_id: "281"

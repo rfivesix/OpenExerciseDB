@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1424'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl op de machine
+description: Met de bicepscurlmachine train je de biceps door een gecontroleerde bewegingsuitslag. Ga
+  zitten met je rug tegen de steun en stel de zitting zo af dat je armen op één lijn staan met de handgrepen
+  of kussens. Pak de grepen vast, houd je ellebogen op hun plaats en buig je armen om de grepen omhoog
+  te brengen. Laat ze beheerst zakken naar de beginpositie.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2387"

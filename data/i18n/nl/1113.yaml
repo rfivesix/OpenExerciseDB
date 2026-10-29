@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1113'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-ups op parallettes
+description: Zet twee parallettes parallel op de vloer, ongeveer op schouderbreedte. Pak ze stevig met
+  neutrale greep en strek de benen naar achteren tot plank. Buig de ellebogen en laat de borst gecontroleerd
+  diep tussen de parallettes zakken. Gebruik de grotere bewegingsuitslag voor rek op de borstspieren.
+  Duw via de handpalmen terug tot de armen gestrekt zijn. De neutrale polsstand vermindert de belasting
+  van de polsgewrichten.
+search_terms:
+- Push-ups op parallettes
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anon1337"
+  source_id: "2076"

@@ -1,0 +1,19 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '575'
+language: es
+status: ai_authored
+translated_from: en
+name: Encogimiento de hombros en máquina Smith
+description: 'Posición inicial: Ponte erguido delante de la barra de la máquina Smith, con los pies separados a
+  la anchura de los hombros. Sujeta la barra con agarre prono y los brazos extendidos hacia abajo.
+
+  Ejecución: Encoge los hombros en línea recta hacia las orejas sin flexionar los codos. Mantén la contracción máxima
+  arriba durante 1–2 segundos.
+
+  Regreso: Baja los hombros lentamente y de forma controlada hasta la posición inicial.'
+search_terms:
+- Encogimientos en multipower
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1060"

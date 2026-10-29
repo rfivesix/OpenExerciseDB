@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '2486'
+language: nl
+status: ai_authored
+translated_from: en
+name: Herstelbewegingen in diep water
+description: 'Startpositie:
+
+  Ga in diep water staan waar je niet kunt staan, eventueel met een drijfmiddel.
+
+
+  Uitvoering:
+
+  1. Haal boven water adem in.
+
+  2. Zak onder water en adem rustig uit.
+
+  3. Duw jezelf vanaf de bodem omhoog om boven te komen en adem in.
+
+  4. Herhaal de gecontroleerde beweging op en neer.
+
+
+  Aandachtspunten:
+
+  Houd een rustig ritme aan en blijf ontspannen tijdens het uitademen onder water.'
+search_terms:
+- Herstelbewegingen
+- Op-en-neer bewegen in diep water
+- Hersteloefening zwemmen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4963"

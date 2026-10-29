@@ -1,11 +1,21 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '112'
 language: es
-status: ai_reviewed
-name: Plancha a Flexión
-description: |-
-  Comienza en una posición de plancha baja, apoyado sobre tus antebrazos y con el cuerpo formando una línea recta. Desde ahí, apoya una mano en el suelo y luego la otra para subir hasta una plancha alta (la posición de una flexión).
-  Invierte el movimiento, bajando un antebrazo y luego el otro para regresar de forma controlada a la posición inicial. La clave del ejercicio es mantener la cadera lo más estable posible, evitando que se balancee de lado a lado durante las transiciones.
+status: ai_authored
+translated_from: en
+name: Flexiones desde plancha sobre antebrazos
+description: 'Neem op de vloer een plankpositie aan. Steun op je tenen en onderarmen en houd je romp recht.
+  Plaats je onderarmen op schouderbreedte. Dit is de beginpositie.
+
+  Duw je handpalmen stevig in de vloer en strek je ellebogen om je lichaam van de vloer te tillen. Houd
+  je romp tijdens de beweging stevig.
+
+  Laat je onderarmen langzaam weer naar de vloer zakken door je ellebogen te buigen.
+
+  Herhaal indien nodig.'
+search_terms:
+- Flexiones desde plancha sobre antebrazos
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2669'
+  license: "CC-BY-SA-4.0"
+  license_author: "cal.zabel"
+  source_id: "341"

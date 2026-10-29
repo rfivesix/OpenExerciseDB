@@ -1,0 +1,27 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1684'
+language: nl
+status: ai_authored
+translated_from: en
+name: Thruster met dumbbells
+description: 'Beginpositie: Sta met je voeten op schouderbreedte en houd twee dumbbells op schouderhoogte,
+  met je ellebogen iets naar voren.
+
+
+  Beweging:
+
+  1. Laat je heupen omlaag en naar achteren zakken in een diepe squat, tot je dijen minstens parallel
+  aan de vloer zijn.
+
+  2. Duw jezelf explosief via je hielen omhoog en gebruik de opwaartse beweging om de dumbbells in één
+  vloeiende beweging boven je hoofd te drukken.
+
+  3. Laat de dumbbells gecontroleerd terugzakken naar je schouders terwijl je overgaat in de volgende
+  squat.
+
+
+  Tips: Houd je borst omhoog en je romp aangespannen om je wervelkolom stabiel te houden.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2804"

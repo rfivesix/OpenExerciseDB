@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1262'
+language: nl
+status: ai_authored
+translated_from: en
+name: TRX-bicepscurl met één arm
+description: 'Stap 1: Ga comfortabel staan en pak de handgrepen van het suspension-systeem vast. Stap
+  2: Leun achterover en steun op één arm; houd je wervelkolom neutraal. Stap 3: Curl langzaam omhoog en
+  trek je lichaamsgewicht naar de bovenste positie. Draai je arm naar supinatie en span hem aan wanneer
+  je de eindpositie nadert. Stap 4: Laat jezelf zakken en herhaal.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cynomops"
+  source_id: "2218"

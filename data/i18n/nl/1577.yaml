@@ -1,0 +1,23 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1577'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bretzel-stretch
+description: 'Beginpositie:
+
+  Ga op je zij op een mat liggen. Breng je bovenste knie op heuphoogte, gebogen in een hoek van 90 graden,
+  en houd deze op de vloer. Pak met je bovenste hand je bovenste voet vast.
+
+
+  Uitvoering:
+
+  Draai je bovenlichaam voorzichtig naar achteren terwijl je de knie op de vloer houdt, zodat je een rek
+  voelt in borst en bovenbeen. Houd de positie vast en adem rustig door. Wissel daarna van zijde.'
+search_terms:
+- Bretzel-stretch
+- De Bretzel
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "mountain.potato"
+  source_id: "2525"

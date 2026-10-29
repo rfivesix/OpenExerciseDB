@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1458'
+language: es
+status: ai_authored
+translated_from: en
+name: Elevación en Y cruzada con cable
+description: 'Fija dos asas individuales a las poleas bajas de una máquina doble. Cruza los cables delante
+  del cuerpo: la mano izquierda toma el cable derecho y la derecha el izquierdo. De pie con los pies al
+  ancho de las caderas y los brazos cruzados delante, eleva ambos brazos en diagonal hacia fuera hasta
+  formar una Y amplia por encima de la cabeza. Aprieta los deltoides posteriores y el trapecio inferior
+  arriba. Baja lentamente a la posición cruzada inicial.'
+search_terms:
+- Elevación cruzada en Y
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2423"

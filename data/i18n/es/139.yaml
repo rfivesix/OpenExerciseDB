@@ -1,13 +1,15 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '139'
 language: es
-status: ai_reviewed
-name: Pec-Deck Inverso
-description: |-
-  Este ejercicio en máquina es excelente para aislar los músculos deltoides posteriores (la parte trasera del hombro) y la espalda alta (romboides y trapecios).
-  Instrucciones:
-  Siéntate en la máquina de pectoral (Pec-Deck) al revés, es decir, con el pecho firmemente apoyado en el respaldo. Ajusta la altura del asiento para que los agarres queden al nivel de tus hombros.
-  Con los codos ligeramente flexionados, empuja los agarres hacia atrás y hacia los lados en un movimiento de arco amplio. Concéntrate en apretar los omóplatos al final del recorrido. Regresa de forma lenta y controlada a la posición inicial.
+status: ai_authored
+translated_from: en
+name: Aperturas inversas en máquina (deltoides posteriores)
+description: Siéntate en la máquina de aperturas inversas con el pecho contra el apoyo. Lleva las empuñaduras
+  hacia atrás moviendo los brazos hacia los lados y vuelve de forma controlada.
+search_terms:
+- Aperturas inversas en máquina
+- Butterfly inverso
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2700'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "124"

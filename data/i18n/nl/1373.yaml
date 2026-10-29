@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1373'
+language: nl
+status: ai_authored
+translated_from: en
+name: Box jump
+description: 'Beginpositie:
+
+  Sta op een comfortabele afstand van ongeveer 30–60 cm voor een stevige plyobox. Zet je voeten op schouderbreedte
+  en laat je armen langs je lichaam hangen.
+
+
+  Beweging:
+
+  1. Zwaai je armen naar achteren en buig snel door je heupen en knieën tot een kwart squat om je heupen
+  en benen klaar te maken.
+
+  2. Spring explosief omhoog en naar voren door je heupen, knieën en enkels te strekken en je armen naar
+  voren en omhoog te zwaaien.
+
+  3. Land zacht met beide voeten boven op de box en vang de landing op met licht gebogen knieën.
+
+  4. Kom rechtop door je heupen en knieën te strekken en stap vervolgens voorzichtig één voet tegelijk
+  naar beneden.
+
+
+  Opmerkingen:
+
+  Spring niet achterwaarts van de box af, omdat dit de achillespezen en knieën onnodig belast.'
+search_terms:
+- Saltos al cajón
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tekknokrat"
+  source_id: "2339"

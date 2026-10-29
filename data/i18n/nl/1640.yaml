@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1640'
+language: nl
+status: ai_authored
+translated_from: en
+name: Front squat met dumbbells
+description: Houd in elke hand een dumbbell op schouderhoogte en voer een squat uit. De oefening traint
+  de spieren van het onderlichaam, waaronder de quadriceps, hamstrings en bilspieren, en activeert ook
+  de romp en het bovenlichaam.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2747"

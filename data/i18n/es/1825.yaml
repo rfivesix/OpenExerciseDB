@@ -1,21 +1,34 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1825'
 language: es
-status: ai_reviewed
-name: Elevación para deltoides posteriores con apoyo en el pecho
-description: "Posición inicial:\nAjusta un banco inclinado a 30-45 grados. Túmbate\
-  \ boca abajo con el pecho bien apoyado en el respaldo y el cuello neutro. Sujeta\
-  \ un par de mancuernas ligeras con agarre neutro o con los pulgares hacia arriba,\
-  \ con los brazos colgando hacia el suelo.\n\nEjecución:\n1. Con los codos ligeramente\
-  \ flexionados, eleva las mancuernas hacia arriba y hacia afuera en forma de \"Y\"\
-  .\n2. Concéntrate en activar los deltoides posteriores y retraer los omóplatos en\
-  \ la parte más alta.\n3. Mantén la contracción durante un segundo a la altura de\
-  \ los hombros.\n4. Desciende las mancuernas lentamente hasta la posición inicial\
-  \ sin usar balanceo.\n\nConsejos:\nEl apoyo sobre el banco aísla el trabajo eliminando\
-  \ cualquier impulso de la zona lumbar."
+status: ai_authored
+translated_from: en
+name: Elevación posterior con pecho apoyado
+description: 'Posición inicial: Ajusta un banco inclinado a unos 30–45°. Túmbate boca abajo con el pecho
+  apoyado, los pies en el suelo y el cuello neutro. Sujeta dos mancuernas ligeras colgando debajo de ti
+  con agarre neutro o pulgares hacia arriba.
+
+
+  Ejecución:
+
+  1. Con los codos ligeramente flexionados, eleva las mancuernas en diagonal hacia fuera y arriba, trazando
+  una Y amplia.
+
+  2. Tira con los deltoides posteriores y retrae los omóplatos en la parte alta.
+
+  3. Contrae arriba cuando los brazos estén aproximadamente a la altura de los hombros y haz una pausa
+  de un segundo.
+
+  4. Baja lentamente y con control.
+
+
+  Indicaciones: Mantener el pecho apoyado evita el balanceo y favorece el trabajo aislado del deltoides
+  posterior y la parte alta de la espalda.'
 search_terms:
-  - Elevación posterior con apoyo en pecho
-  - Chest-Supported Rear Delt Raise
+- Elevación posterior con pecho apoyado
+- Apertura posterior inclinado
+- Elevación posterior inclinado boca abajo
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4200'
+  license: "CC-BY-SA-4.0"
+  license_author: "beagle"
+  source_id: "2960"

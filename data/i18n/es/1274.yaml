@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1274'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento sentado de pantorrilla (dorsiflexión)
+description: 'Beginpositie:
+
+  Siéntate erguido en el suelo o en una esterilla, con una pierna extendida delante de ti.
+
+
+  Uitvoering:
+
+  1. Flexiona el tobillo para acercar los dedos del pie a la espinilla (dorsiflexión).
+
+  2. Alcanza el pie con la mano o coloca una toalla alrededor de su parte delantera para profundizar suavemente
+  el estiramiento de la pantorrilla y el tendón de Aquiles.
+
+  3. Mantén el estiramiento cómodamente durante 20–30 segundos y respira con normalidad.
+
+  4. Suelta lentamente y repite con el otro lado.
+
+
+  Tips:
+
+  Mantén la rodilla extendida sin forzarla. Es un estiramiento suave para la movilidad del tobillo y la
+  recuperación de la pantorrilla.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2242"

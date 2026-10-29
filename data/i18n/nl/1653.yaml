@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1653'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse squat met dumbbell
+description: Houd een dumbbell in één hand en voer een squat uit terwijl je zijwaarts stapt. De oefening
+  traint de benen, bilspieren en rompspieren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2772"

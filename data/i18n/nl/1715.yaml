@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1715'
+language: nl
+status: ai_authored
+translated_from: en
+name: Externe schouderrotatie met dumbbell
+description: Ga op je zij liggen met een dumbbell in je bovenste hand. Houd je elleboog tegen je zij en
+  laat je hand voor je rusten. Draai je schouder zodat je hand omhoog komt. Laat je hand weer zakken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2838"

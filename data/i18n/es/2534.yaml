@@ -1,25 +1,27 @@
 exercise_id: '2534'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Puente de glúteos
-description: |-
-  Posición inicial:
-  Túmbate boca arriba en el suelo con las rodillas flexionadas y los pies apoyados planos sobre la esterilla, separados al ancho de las caderas. Coloca los brazos relajados a los lados del cuerpo.
+description: 'Posición inicial: Túmbate boca arriba en una colchoneta con las rodillas flexionadas y los
+  pies apoyados en el suelo, separados aproximadamente al ancho de las caderas y a unos centímetros de
+  los glúteos. Deja los brazos extendidos a los lados.
 
-  Ejecución:
-  1. Activa el abdomen y empuja con fuerza a través de los talones para elevar la cadera hacia el techo.
-  2. Sube la pelvis hasta que los muslos, las caderas y el torso formen una línea recta desde las rodillas hasta los hombros.
-  3. Aprieta fuertemente los glúteos en el punto más alto durante 1 o 2 segundos.
-  4. Desciende la cadera de forma lenta y controlada hasta casi rozar el suelo y repite.
 
-  Consejos:
-  Evita arquear excesivamente la espalda baja en la parte superior; la extensión debe originarse en la cadera.
+  Ejecución: Activa el abdomen y empuja firmemente con los talones para elevar las caderas hacia el techo.
+  Súbelas hasta que los muslos, la pelvis y el torso formen una línea recta desde las rodillas hasta los
+  hombros. Contrae con fuerza los glúteos arriba y mantén la posición de 1 a 2 segundos. Baja las caderas
+  de forma controlada hasta que rocen el suelo y comienza inmediatamente la siguiente repetición.
+
+
+  Indicaciones: Evita extender o hiperextender la columna lumbar en la parte alta; la extensión debe proceder
+  únicamente de las articulaciones de la cadera.'
 search_terms:
-- excercise error
 - Puente de glúteos
-- Glute bridge
-- Elevación de pelvis
+- Puente de cadera
+- Puente de glúteos con peso corporal
+- Puente de glúteos
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: dvdfernandez95
-  source_id: '5004'
+  license: "CC-BY-SA-4.0"
+  license_author: "dvdfernandez95"
+  source_id: "5003"

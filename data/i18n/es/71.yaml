@@ -1,13 +1,31 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '71'
 language: es
-status: ai_reviewed
-name: Extensión de Cuádriceps a una Pierna
-description: |-
-  Esta variante es excelente para aislar cada cuádriceps de forma individual, ayudando a corregir desbalances de fuerza y a mejorar la conexión mente-músculo.
-  Descripción:
-  Siéntate en la máquina de extensión de piernas y ajusta el rodillo sobre el tobillo de una sola pierna. Extiende esa pierna hasta que quede completamente recta, contrayendo el cuádriceps con fuerza en la parte alta del movimiento.
-  Baja el peso de forma lenta y controlada. Completa todas las repeticiones con una pierna antes de cambiar a la otra.
+status: ai_authored
+translated_from: en
+name: Extensión de una pierna
+description: 'Posición inicial:
+
+  Siéntate en la máquina de extensión de piernas con la espalda bien apoyada en el respaldo. Coloca la
+  palanca acolchada contra la parte inferior de la espinilla de una pierna, justo encima del tobillo.
+  Deja relajada la pierna que no trabaja.
+
+
+  Ejecución:
+
+  1. Extiende la pierna activa contrayendo los cuádriceps hasta que la rodilla esté casi recta.
+
+  2. Mantén la contracción máxima arriba durante un segundo.
+
+  3. Baja el peso despacio y de forma controlada hasta la posición inicial, sin dejar que la pila de pesas
+  toque el suelo.
+
+
+  Notas:
+
+  Completa todas las repeticiones de una pierna antes de cambiar. Mantén las caderas y la espalda apoyadas
+  en el asiento.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2674'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1057"

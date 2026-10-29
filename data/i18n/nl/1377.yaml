@@ -1,0 +1,27 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1377'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande romprotatie
+description: 'Beginpositie:
+
+  Sta met je voeten op schouderbreedte en je knieën licht gebogen. Houd je heupen naar voren gericht en
+  plaats je handen voor je borst of achter je hoofd.
+
+
+  Beweging:
+
+  Draai je romp soepel naar één kant met je schuine buikspieren, terwijl je heupen en onderlichaam stabiel
+  blijven. Pauzeer kort aan het einde van de beweging, keer terug naar het midden en draai gecontroleerd
+  en ritmisch naar de andere kant.
+
+
+  Opmerkingen:
+
+  Forceer geen draai vanuit de lendenwervelkolom; begin de rotatie vanuit je borstwervelkolom en ribbenkast.
+  Houd je heupen stil.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "brucem"
+  source_id: "2344"

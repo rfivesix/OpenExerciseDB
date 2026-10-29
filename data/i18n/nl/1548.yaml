@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1548'
+language: nl
+status: ai_authored
+translated_from: en
+name: StairMaster (trapklimmer)
+search_terms:
+- "StairMaster"
+- "Traptredeapparaat"
+- "StairMaster"
+description: Cardio- en krachttoestel voor het onderlichaam dat traplopen nabootst. Het biedt een training
+  met weinig impact en hoge intensiteit, waarbij benen, bilspieren en romp worden belast en het cardiovasculaire
+  uithoudingsvermogen wordt verbeterd.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MisterPinnacle"
+  source_id: "2496"

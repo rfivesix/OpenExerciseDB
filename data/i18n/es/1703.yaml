@@ -1,15 +1,14 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1703'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Patada de tríceps con mancuerna
-description: |-
-  Posición inicial
-  Coloca tu rodilla izquierda y tu mano izquierda en un banco, con el pecho paralelo al suelo. Mantén el pie derecho en el suelo y agarra la mancuerna con la mano derecha. Manteniéndola cerca de tu cuerpo, levanta la parte superior de tu brazo derecho hasta que esté paralelo al suelo.
-  Ejecución
-  Realiza una extensión del brazo derecho. Cuando esté completamente extendido, contrae tu tríceps por un momento antes de volver a la posición inicial. Una vez que hayas completado tu serie, haz lo mismo con el otro brazo.
-search_terms:
-  - Patadas traseras
+description: La patada de tríceps con mancuerna es un ejercicio de fuerza que trabaja los tríceps, situados
+  en la parte posterior de los brazos. Ayuda a fortalecer y tonificar los tríceps y contribuye a la fuerza
+  general de los brazos. La patada y sus variantes se pueden realizar con mancuernas, cables o bandas
+  de resistencia.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Mariano_O
-  source_id: '2824'
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2823"
+translated_from: en

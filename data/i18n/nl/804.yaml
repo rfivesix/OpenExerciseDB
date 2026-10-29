@@ -1,0 +1,15 @@
+exercise_id: '804'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hangen aan een sloper
+description: Coloca ambas manos abiertas y planas sobre las presas romas de un hangboard o tabla de dedos.
+  Activa los hombros llevándolos hacia abajo y atrás, y mantén los codos ligeramente flexionados. Levanta
+  los pies del suelo y cuélgate de forma estable durante el tiempo indicado, usando el agarre abierto
+  y la fuerza de los flexores del antebrazo. Mantén el abdomen activo y el cuerpo sin balanceos.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "marcelbader"
+  source_id: "1071"
+search_terms:
+- Hangen aan sloper

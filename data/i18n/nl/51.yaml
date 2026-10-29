@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '51'
+language: nl
+status: ai_authored
+translated_from: en
+name: Polskrul met halterstang
+description: 'Ga op een bank zitten en pak een halterstang vast met je handpalmen omhoog en je handen
+  op schouderbreedte. Laat je onderarmen op je dijen rusten en je polsen voorbij je knieën hangen. Buig
+  je handpalmen en polsen naar je gezicht toe.
+
+  Pauzeer kort bovenaan en keer langzaam terug naar de beginpositie.'
+search_terms:
+- Polskrullen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "burenl"
+  source_id: "758"

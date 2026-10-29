@@ -1,0 +1,25 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1282'
+language: nl
+status: ai_authored
+translated_from: en
+name: Isometrische chin-up met onderhandse greep
+description: 'Beginpositie:
+
+  Pak de optrekstang op schouderbreedte vast met een onderhandse greep en trek jezelf omhoog tot je kin
+  boven de stang is.
+
+
+  Uitvoering:
+
+  1. Houd deze bovenste positie stil vast, met je ellebogen volledig gebogen en dicht langs je lichaam.
+
+  2. Span je lats, biceps en romp gedurende de hele houding stevig aan.
+
+  3. Laat jezelf langzaam en gecontroleerd zakken zodra de ingestelde tijd is bereikt.'
+search_terms:
+- Sujeción isométrica de dominada con agarre supino
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2249"

@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1635'
+language: es
+status: ai_authored
+translated_from: en
+name: Jalón al pecho modificado
+description: Coloca un banco inclinado delante de la máquina de jalón al pecho y usa un agarre cerrado
+  para realizar jalones enfocados en los dorsales.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Rottekongen"
+  source_id: "2741"

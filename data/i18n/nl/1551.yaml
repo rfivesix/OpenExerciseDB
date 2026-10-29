@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1551'
+language: nl
+status: ai_authored
+translated_from: en
+name: Push-up
+search_terms:
+- "Push-ups"
+- "Push-up"
+description: 'De push-up is een basisoefening met het eigen lichaamsgewicht die vooral de borst, armen
+  en schouders traint en de romp om stabiliteit vraagt. Je hebt geen materiaal nodig. De oefening helpt
+  de kracht van het bovenlichaam op te bouwen.
+
+
+  Instructies:
+
+  1. Begin in plankpositie met je handen iets breder dan schouderbreedte, je voeten bij elkaar en je lichaam
+  in een rechte lijn van hoofd tot hielen.
+
+  2. Span je romp aan en buig je ellebogen om je lichaam te laten zakken. Houd je ellebogen dicht bij
+  je lichaam of laat ze iets naar buiten wijzen.
+
+  3. Laat je zakken tot je borst bijna de vloer raakt en houd je wervelkolom neutraal.
+
+  4. Duw via je handpalmen terug naar de beginpositie en strek je armen volledig.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Settebello"
+  source_id: "2498"

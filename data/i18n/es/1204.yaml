@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1204'
+language: es
+status: ai_authored
+translated_from: en
+name: Sesión de cardio en bicicleta estática
+description: 'Posición inicial:
+
+  • Ajusta el sillín de la bicicleta estática a la altura de la cadera para que la rodilla quede ligeramente
+  flexionada al final de la pedalada.
+
+  • Ajusta el manillar para mantener una postura erguida o ligeramente inclinada sin forzar el cuello.
+
+
+  Ejecución:
+
+  • Pedalea con suavidad y una cadencia estable, normalmente de 70 a 90 rpm.
+
+  • Ajusta la resistencia para alcanzar la zona de frecuencia cardíaca aeróbica prevista durante el tiempo
+  planificado.
+
+  • Mantén el tren superior relajado y estable en el sillín, sin balancear las caderas.'
+search_terms:
+- "Sesión de cardio en bicicleta"
+- "Entrenamiento en bicicleta estática"
+- "Cardio de ciclismo en interior"
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "2164"

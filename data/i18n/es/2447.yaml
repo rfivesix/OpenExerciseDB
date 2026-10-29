@@ -1,22 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
 exercise_id: '2447'
 language: es
-status: ai_reviewed
-name: Hip Airplane
-description: |-
-  Posición inicial:
-  Apóyate sobre una pierna (puedes apoyarte ligeramente en una pared o barra si necesitas estabilidad). Inclina el torso hacia adelante manteniendo la columna recta y extiende la otra pierna hacia atrás hasta formar una línea horizontal con el cuerpo.
+status: ai_authored
+name: Avión de cadera
+description: 'Posición inicial:
+
+  Apóyate sobre una pierna (puedes apoyarte ligeramente en una pared o barra si necesitas estabilidad).
+  Inclina el torso hacia adelante manteniendo la columna recta y extiende la otra pierna hacia atrás hasta
+  formar una línea horizontal con el cuerpo.
+
 
   Ejecución:
-  1. Rota lentamente la pelvis hacia el interior, dirigiéndola hacia el suelo para cerrar la cadera (rotación interna).
-  2. A continuación, rota la pelvis hacia el exterior y hacia arriba, abriendo la cadera hacia el techo (rotación externa).
+
+  1. Rota lentamente la pelvis hacia el interior, dirigiéndola hacia el suelo para cerrar la cadera (rotación
+  interna).
+
+  2. A continuación, rota la pelvis hacia el exterior y hacia arriba, abriendo la cadera hacia el techo
+  (rotación externa).
+
   3. Regresa al punto neutral de forma fluida y repite el recorrido antes de cambiar de pierna.
 
+
   Consejos:
-  El movimiento debe originarse únicamente en la articulación de la cadera de la pierna de apoyo. Mantén la rodilla de apoyo ligeramente desbloqueada sin que colapse hacia adentro.
+
+  El movimiento debe originarse únicamente en la articulación de la cadera de la pierna de apoyo. Mantén
+  la rodilla de apoyo ligeramente desbloqueada sin que colapse hacia adentro.'
 search_terms:
-- Hip airplane
-- Rotación de cadera en un apoyo
+- Avión de cadera a una pierna
+- Ejercicio de movilidad avión de cadera
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3575'
+  license: "CC-BY-SA-4.0"
+  license_author: "TobiasFalk"
+  source_id: "3553"
+translated_from: en

@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1839'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de flexores de cadera sin asistencia
+description: 'Posición inicial: Arrodíllate en posición de zancada con una rodilla en el suelo y la pierna
+  delantera flexionada a 90°, con el pie apoyado. Mantén el torso erguido.
+
+
+  Ejecución: Inclina ligeramente la pelvis, contrae el glúteo de la pierna atrasada y lleva suavemente
+  las caderas hacia delante hasta notar un estiramiento profundo en la parte delantera de la cadera atrasada
+  (flexores de cadera/psoas).
+
+
+  Consejos: Mantén 20–30 segundos respirando de forma constante y cambia de lado. Evita arquear la zona
+  lumbar.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2974"

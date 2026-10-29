@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '158'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lat pulldown met smalle greep
+description: Pak de stang van de lat pulldown smaller dan schouderbreedte vast, met je handpalmen van
+  je af. Leun iets achterover. Trek de stang naar je borst en houd je ellebogen dicht bij je zij. Trek
+  aan het einde van de beweging je schouders naar achteren.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "213"

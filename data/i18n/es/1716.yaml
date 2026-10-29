@@ -1,13 +1,15 @@
 exercise_id: '1716'
 language: es
-status: ai_reviewed
-name: Push-up escapular en banco inclinado
-description: |-
-  Coloca las manos en el banco en posición de flexión.
-  Empuja el pecho lejos del banco para separar las escápulas.
-  Manteniendo los codos rectos, baja el pecho hacia el banco de modo que las escápulas se acerquen entre sí.
-  Empuja de nuevo el pecho lejos del banco.
+status: ai_authored
+translated_from: en
+name: Flexión escapular inclinada
+search_terms:
+- "Flexión escapular inclinada"
+- "Flexión inclinada con empuje de hombros"
+description: Apoya las manos en el banco como para hacer flexiones. Aleja el pecho del banco para separar
+  los omóplatos. Mantén los codos extendidos y acerca el pecho al banco para juntar los omóplatos. Vuelve
+  a empujar el pecho alejándolo del banco.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3762'
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2839"

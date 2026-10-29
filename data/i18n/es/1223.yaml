@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1223'
+language: es
+status: ai_authored
+translated_from: en
+name: Palmadas por encima de la cabeza
+description: 'Posición inicial:
+
+  • Ponte de pie con los pies separados a la anchura de los hombros y los brazos relajados a los lados.
+
+  • Mantén el pecho erguido y los hombros relajados.
+
+
+  Ejecución:
+
+  • Eleva los brazos extendidos hacia los lados en un arco amplio hasta juntar las manos con una palmada
+  por encima de la cabeza.
+
+  • Baja los brazos suavemente por el mismo recorrido lateral hasta la posición inicial.
+
+  • Repite con un ritmo fluido como calentamiento dinámico para activar los deltoides y movilizar la cintura
+  escapular.'
+search_terms:
+- "Palmadas por encima de la cabeza"
+- "Palmadas de brazos sobre la cabeza"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Lynn_McIntyre"
+  source_id: "2188"

@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1546'
+language: es
+status: ai_authored
+translated_from: en
+name: Press Larsen
+description: 'Posición inicial:
+
+  Túmbate en un banco plano debajo de la barra. Extiende las piernas delante de ti, suspendidas en el
+  aire (o apóyalas en otro banco), sin tocar el suelo con los pies. Sujeta la barra algo más separada
+  que los hombros y retrae las escápulas.
+
+
+  Ejecución:
+
+  1. Saca la barra del soporte y bájala con control hasta la zona media del pecho, manteniendo el abdomen
+  firme para conservar el equilibrio.
+
+  2. Empuja la barra recta hacia arriba hasta extender los brazos, usando solo la fuerza del tren superior
+  y sin impulso de las piernas.
+
+  3. Haz una breve pausa arriba antes de iniciar la siguiente repetición.
+
+
+  Indicaciones:
+
+  Al eliminar el impulso de las piernas, se aumenta la carga aislada sobre pectorales y tríceps y se exige
+  estabilidad del core y las escápulas.'
+search_terms:
+- Press de banca con pies elevados
+- Press Larsen
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2495"

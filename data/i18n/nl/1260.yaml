@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1260'
+language: nl
+status: ai_authored
+translated_from: en
+name: TRX-hammercurl
+description: Plaats de handgrepen alsof ze het verlengde van de banden vormen. Strek je armen naar voren
+  en leun met je lichaam recht naar achteren. Buig je ellebogen om je lichaam naar de banden toe te trekken
+  en je biceps te activeren. Aan het einde van de samentrekking bewegen je handen door de gebruikte greep
+  iets naar buiten.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cynomops"
+  source_id: "2214"

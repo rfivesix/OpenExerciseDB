@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1101'
+language: es
+name: Isométrico de dominada o remo
+description: Sujeta una barra de dominadas con agarre prono o supino, o prepara unas correas/barra para
+  hacer remo invertido. Tira hasta la posición superior, con la barbilla sobre la barra o el pecho junto
+  a los agarres. Mantén la posición, baja y retrae las escápulas y contrae dorsales, romboides y bíceps.
+  Respira con regularidad; evita encoger los hombros o hundir el pecho. Mantén el tiempo indicado y baja
+  de forma controlada.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2061"
+search_terms:
+- Isométrico de dominada o remo

@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '82'
+language: nl
+status: ai_authored
+translated_from: en
+name: Voorovergebogen zijwaartse heffing
+description: Ga met gewichten op een bank zitten. Buig zo ver mogelijk voorover en houd je ellebogen licht
+  gebogen. Voer een zijwaartse heffing uit en behoud de buiging in je ellebogen.
+search_terms:
+- Voorovergebogen lateral raises
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "apeschel"
+  source_id: "421"

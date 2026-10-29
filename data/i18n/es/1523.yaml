@@ -1,18 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1523'
 language: es
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Empuje de trineo
-description: 'Carga el trineo con el 25 % de tu carga máxima. Si no la conoces, elige
-  un peso que puedas empujar durante 10 minutos con pausas cortas. Los principiantes
-  pueden empujar el trineo sin peso.
+description: 'Posición inicial:
 
-  Colócate detrás del trineo y agarra las barras con una posición de manos alta.
+  Carga el trineo con el peso adecuado. Colócate detrás y sujeta los postes verticales con los brazos
+  extendidos o ligeramente flexionados. Inclina el torso unos 45° hacia delante.
 
-  Activa los músculos del core y empieza a empujar el trineo hacia delante lo más
-  rápido posible, generando fuerza con toda la pierna. Extiende las caderas y las
-  rodillas mientras desplazas el trineo hacia delante. Tu postura de pies debe parecerse
-  a tu posición natural de carrera.'
+
+  Ejecución:
+
+  1. Impúlsate con la parte delantera de los pies y empuja el trineo hacia delante con zancadas firmes
+  y continuas.
+
+  2. Mantén el abdomen firme y una línea recta desde la cabeza, a lo largo de la espalda, hasta la pierna
+  que impulsa.
+
+  3. Empuja la distancia o durante el tiempo previsto con un ritmo constante e intenso.
+
+
+  Indicaciones:
+
+  El empuje de trineo desarrolla el impulso de las piernas y la condición física, con poco trabajo excéntrico.'
+search_terms:
+- Empuje Prowler
+- empuje de trineo con peso
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4040'
+  license: "CC-BY-SA-4.0"
+  license_author: "flanny"
+  source_id: "2479"

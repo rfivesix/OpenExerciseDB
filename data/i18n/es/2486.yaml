@@ -1,0 +1,34 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2486'
+language: es
+status: ai_authored
+translated_from: en
+name: Rebotes de recuperación en aguas profundas
+description: 'Posición inicial:
+
+  Colócate en una zona profunda de la piscina donde no puedas hacer pie; puedes usar un dispositivo de
+  flotación.
+
+
+  Ejecución:
+
+  1. Inhala por encima del agua.
+
+  2. Sumérgete y exhala con calma.
+
+  3. Impúlsate desde el fondo para salir a la superficie e inhala.
+
+  4. Repite el movimiento controlado de subir y bajar.
+
+
+  Consejos:
+
+  Mantén un ritmo tranquilo y relájate al exhalar bajo el agua.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4963"
+search_terms:
+- Rebotes de recuperación
+- Rebotes en aguas profundas
+- Ejercicio de recuperación en natación

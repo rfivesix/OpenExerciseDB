@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1228'
+language: nl
+status: ai_authored
+translated_from: en
+name: Close-grip bankdrukken met dumbbells
+description: 'Startpositie:
+
+  • Ga plat op een bank liggen met een dumbbell in elke hand recht boven je borst en je armen gestrekt.
+
+  • Gebruik een neutrale greep, met je handpalmen naar elkaar toe, en druk de dumbbells stevig tegen elkaar.
+
+
+  Uitvoering:
+
+  • Laat de dumbbells naar het midden van je borst zakken, houd ze tegen elkaar en houd je ellebogen dicht
+  bij je romp.
+
+  • Druk de dumbbells omhoog door je triceps en borstspieren krachtig aan te spannen.
+
+  • Strek je armen bovenaan kort, terwijl je de dumbbells tegen elkaar blijft drukken.'
+search_terms:
+- "Dumbbell close-grip bench press"
+- "Dumbbell crush-grip press"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Lynn_McIntyre"
+  source_id: "2193"

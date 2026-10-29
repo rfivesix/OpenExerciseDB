@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '145'
+language: nl
+status: ai_authored
+translated_from: en
+name: Houthakker aan de kabel
+description: Stel de kabelkatrol iets lager in dan borsthoogte. Blijf naar voren gericht en houd je heupen
+  stabiel. Pak de handgreep vast, strek je armen volledig en beweeg ze naar voren en schuin voor je lichaam
+  langs. Houd de eindpositie één seconde vast en keer langzaam terug naar de beginpositie.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "robhoyt"
+  source_id: "167"

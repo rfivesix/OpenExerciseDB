@@ -1,0 +1,11 @@
+exercise_id: '202'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell concentration curl
+description: Ga op een bank zitten. Pak een dumbbell tussen je voeten. Plaats de achterkant van je bovenarm
+  tegen de binnenkant van je dij en leun tegen je been zodat je elleboog iets omhoog komt.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "http://www.exrx.net/WeightExercises/Brachialis/DBC"
+  source_id: "275"

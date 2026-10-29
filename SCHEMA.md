@@ -37,8 +37,8 @@ of recovery tracking and volume statistics. Together with the 189 empty assignme
 
 > **Current status.** The findings in this section describe the baseline at fork inception,
 > not today's status. No active exercise lacks muscle assignments, the vocabulary
-> comprises 69 nodes (51 actively used in the catalog), and English, German, French,
-> Italian, and Japanese texts are complete and verified against attributes. This section
+> comprises 69 nodes (51 actively used in the catalog), and English, German, Spanish,
+> French, Italian, Dutch, and Japanese texts cover all active exercises. This section
 > remains to explain the architectural rationale behind the schema design.
 
 A second structural defect: `category_name` simultaneously represented body region

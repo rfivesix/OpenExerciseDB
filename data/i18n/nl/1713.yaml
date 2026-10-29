@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1713'
+language: nl
+status: ai_authored
+translated_from: en
+name: Borststretch in deuropening
+description: Plaats je onderarm verticaal op een deurpost of ander vast oppervlak ter hoogte van je hoofd.
+  Stap voorbij je arm naar voren en houd deze tegen het oppervlak om je borst te rekken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2836"

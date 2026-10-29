@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2454'
+language: es
+status: ai_authored
+translated_from: en
+name: Elevaciones YTW
+description: 'Posición inicial:
+
+  Túmbate boca abajo sobre una esterilla o inclina el torso desde las caderas manteniendo la espalda recta.
+  Extiende los brazos hacia fuera con los pulgares apuntando al techo.
+
+
+  Ejecución:
+
+  1. Elevación en Y: levanta los brazos rectos en diagonal hacia delante, unos 45 grados, formando una
+  Y con el torso. Contrae las porciones inferior y media del trapecio durante 1–2 segundos.
+
+  2. Elevación en T: lleva los brazos rectos hacia los lados, perpendiculares al cuerpo, formando una
+  T. Junta con fuerza los omóplatos y haz una pausa.
+
+  3. Elevación en W: flexiona los codos y llévalos hacia las costillas mientras giras los antebrazos hacia
+  atrás, formando una W. Contrae los romboides y deltoides posteriores.
+
+
+  Consejos:
+
+  Muévete de forma controlada sin encoger los hombros. Inicia cada movimiento juntando los omóplatos.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "probablyforging"
+  source_id: "4931"
+search_terms:
+- Elevaciones YTW prono
+- Elevaciones escapulares Y-T-W
+- Ejercicio YTW

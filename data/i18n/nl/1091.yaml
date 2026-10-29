@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1091'
+language: nl
+status: ai_authored
+translated_from: en
+name: Plank met schoudertikken
+description: Neem een stevige hoge plank aan met handen onder de schouders en voeten iets wijder dan heupbreedte.
+  Span romp, bilspieren en dijen aan en houd het bekken vlak. Til de rechterhand op en tik gecontroleerd
+  de linkerschouder aan; zet de hand terug. Tik daarna met links de rechterschouder aan. Wissel af en
+  houd het lichaam stabiel.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2044"

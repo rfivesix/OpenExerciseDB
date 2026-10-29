@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1378'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige laterale kabelraise
+description: 'Beginpositie:
+
+  Sta naast een lage kabelpulley die op de laagste stand is ingesteld. Pak de enkele D-handgreep vast
+  met de hand die het verst van de machine af is, zodat de kabel vóór of achter je lichaam loopt. Pak
+  met je andere hand de staander vast voor stabiliteit en leun licht naar buiten.
+
+
+  Beweging:
+
+  Houd je werkende elleboog licht gebogen en til je arm in een brede zijwaartse boog totdat je hand ongeveer
+  op schouderhoogte is. Pauzeer kort wanneer je middelste deltaspier maximaal is aangespannen en laat
+  de handgreep vervolgens langzaam en met constante spanning zakken.
+
+
+  Opmerkingen:
+
+  Haal je schouders niet op en zwaai niet met je romp om de trekbeweging te beginnen. Beheers zowel het
+  heffen als het laten zakken.'
+search_terms:
+- Elevación lateral en polea con un brazo
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "carlos3c"
+  source_id: "2345"

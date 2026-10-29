@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1186'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige voorovergebogen kabelroei
+description: Bevestig een D-handgreep aan de lage kabelkatrol. Sta naar de machine gericht in een gespreide
+  of atletische stand en buig vanuit de heupen met rechte rug. Pak de greep met één hand en strek de arm
+  naar de katrol. Trek de greep soepel naar heup/taille, elleboog dicht langs de romp. Trek de schouderblad
+  terug en span de brede rugspier aan. Strek de arm gecontroleerd naar voren.
+search_terms:
+- Eenarmige voorovergebogen roei
+- Eenarmige kabelroei
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anto.kreegyr"
+  source_id: "2142"

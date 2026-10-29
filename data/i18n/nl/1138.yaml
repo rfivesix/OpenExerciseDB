@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1138'
+language: nl
+status: ai_authored
+translated_from: en
+name: Lat pulldown op schuine bank met kabel
+description: Plaats een schuine bank (ongeveer 30–45 graden) met de voorkant naar een hoge kabelkatrol.
+  Lig met de borst op de bank, hoofd neutraal en voeten stevig. Reik boven het hoofd en pak het handvat
+  of de stang met gestrekte armen. Trek soepel naar de bovenborst door de ellebogen omlaag en naar achteren
+  te bewegen. De bank beperkt beweging van de romp. Span de rug bovenaan aan en strek de armen gecontroleerd
+  terug.
+search_terms:
+- Pulldown op schuine bank
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Franpol"
+  source_id: "2115"

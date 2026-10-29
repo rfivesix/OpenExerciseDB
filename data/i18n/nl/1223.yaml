@@ -1,0 +1,28 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1223'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bovenhandse klappen
+description: 'Startpositie:
+
+  • Sta rechtop met je voeten op schouderbreedte en je armen ontspannen langs je lichaam.
+
+  • Houd je borst omhoog en je schouders ontspannen.
+
+
+  Uitvoering:
+
+  • Hef je gestrekte armen in een brede boog zijwaarts tot je handen boven je hoofd tegen elkaar klappen.
+
+  • Laat je armen via dezelfde zijwaartse baan soepel zakken naar de startpositie.
+
+  • Herhaal in een vloeiend ritme als dynamische warming-up om de deltaspieren te activeren en de schoudergordel
+  te mobiliseren.'
+search_terms:
+- "Klappen boven het hoofd"
+- "Bovenhoofdse armklappen"
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Lynn_McIntyre"
+  source_id: "2188"

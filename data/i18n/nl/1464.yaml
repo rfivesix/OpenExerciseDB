@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1464'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hack squat met pauze
+description: Ga in de hack-squatmachine staan met je schouders onder de kussens en je rug tegen de leuning.
+  Zet je voeten op schouderbreedte op de voetplaat. Buig je knieën en laat de slede langzaam zakken tot
+  je dijen parallel aan of lager dan de plaat zijn. Houd onderaan 1 tot 2 seconden volledig stil zonder
+  te veren. Duw via je voeten omhoog en span je quadriceps en bilspieren aan. Strek je knieën bovenaan
+  niet hard op slot.
+search_terms:
+- Hack squat met pauze
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2427"

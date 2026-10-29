@@ -1,13 +1,30 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '182'
 language: es
-status: ai_reviewed
-name: Suspensiones en Regleta
-description: |-
-  Este es un ejercicio fundamental en el entrenamiento para escalada, diseñado para desarrollar la fuerza máxima y la resistencia de los dedos.
-  Instrucciones:
-  En una tabla de multipresas (hangboard), elije una regleta (borde) y cuélgate de ella. Mantén los brazos casi extendidos pero con una "suspensión activa": contrae los músculos de la espalda para mantener los hombros estables y lejos de las orejas.
-  Sostén la posición por el tiempo indicado. Para ajustar la dificultad, puedes usar una regleta más pequeña, añadir peso con un cinturón de lastre, o quitar peso con una banda elástica.
+status: ai_authored
+translated_from: en
+name: Colgado pasivo
+description: 'Posición inicial:
+
+  Sujeta una barra de dominadas o el borde de un panel de escalada con agarre prono, aproximadamente al
+  ancho de los hombros. Cuélgate con los brazos extendidos y los pies separados del suelo.
+
+
+  Ejecución:
+
+  1. Sujeta la barra firmemente.
+
+  2. Puedes hacer una suspensión pasiva (con los hombros completamente relajados para descomprimir la
+  columna) o activa (bajando y retrayendo ligeramente los omóplatos para activar los estabilizadores escapulares).
+
+  3. Mantén la posición suspendida durante el tiempo indicado.
+
+
+  Notas:
+
+  Respira con regularidad y mantén el cuerpo quieto, sin balancearte. Ajusta la dificultad usando presas
+  más estrechas, barras más gruesas o añadiendo peso.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2704'
+  license: "CC-BY-SA-4.0"
+  license_author: "2dPREtEZP221u68Akf0JImv5L48"
+  source_id: "347"

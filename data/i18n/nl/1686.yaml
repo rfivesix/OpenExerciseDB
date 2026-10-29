@@ -1,0 +1,27 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1686'
+language: nl
+status: ai_authored
+translated_from: en
+name: Glutebrug met eenarmige press
+description: 'Beginpositie: Ga op je rug liggen met gebogen knieën en je voeten plat op de vloer. Houd
+  een dumbbell in één hand. Duw via je hielen je heupen omhoog tot een stabiele glutebrug en druk de dumbbell
+  recht boven je borst.
+
+
+  Beweging:
+
+  1. Laat de dumbbell gecontroleerd zakken tot je bovenarm of elleboog de vloer raakt, ongeveer onder
+  een hoek van 45 graden ten opzichte van je lichaam.
+
+  2. Druk de dumbbell terug naar de beginpositie terwijl je heupen volledig gestrekt blijven.
+
+  3. Voltooi de voorgeschreven herhalingen en herhaal aan de andere kant.
+
+
+  Tips: Span je bilspieren stevig aan en houd je romp aangespannen om te voorkomen dat je heupen draaien
+  of wegzakken.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2805"

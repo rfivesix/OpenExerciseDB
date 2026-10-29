@@ -1,13 +1,25 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '129'
 language: es
-status: ai_reviewed
-name: Press de Pecho en Máquina
-description: |-
-  Este ejercicio es excelente para trabajar los músculos pectorales de forma segura y controlada, ideal para principiantes o para aislar el músculo al final de una rutina.
-  Instrucciones:
-  Siéntate en la máquina con la espalda firmemente apoyada en el respaldo. Ajusta la altura del asiento para que los agarres queden a la altura de la parte media de tu pecho.
-  Empuja los agarres hacia adelante hasta que tus brazos estén extendidos (pero sin bloquear los codos), enfocándote en apretar los músculos del pecho en la contracción final. Regresa de forma lenta y controlada a la posición inicial.
+status: ai_authored
+translated_from: en
+name: Press de pecho
+description: 'Ajusta la altura del asiento para que las empuñaduras queden a la altura del pecho.
+
+  Usa las piernas para empujar hacia delante el pedal.
+
+  Lleva las empuñaduras a la posición inicial.
+
+  Mantén la espalda en contacto con el respaldo y empuja hacia fuera.
+
+  Aleja las empuñaduras del pecho mientras espiras.
+
+  Deja que se acerquen suavemente hasta llegar al pecho.
+
+  Permite que las empuñaduras vuelvan hacia el pecho mientras inspiras.'
+search_terms:
+- Press de pecho en máquina
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2702'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1064"

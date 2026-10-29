@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1605'
+language: nl
+status: ai_authored
+translated_from: en
+name: Copenhagen-adductieoefening
+description: Ga op je zij liggen met je elleboog recht onder je schouder, zoals bij een zijplank. Leg
+  je bovenste been op een bank, met de binnenkant van je voet of enkel op de bank. Til je heupen op en
+  houd je lichaam in een rechte lijn; je onderste been blijft van de vloer. De oefening activeert de adductoren
+  van het bovenste been sterk en daagt ook de romp- en heupstabilisatoren uit.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "RiccaBaro"
+  source_id: "2578"

@@ -1,22 +1,29 @@
 exercise_id: '1803'
 language: es
 status: ai_authored
-name: Sentadilla con barra hexagonal (Trap Bar)
-description: "Posición inicial:\nSitúate en el centro de la barra hexagonal (trap\
-  \ bar) con los pies al ancho de los hombros. Desciende en sentadilla manteniendo\
-  \ el torso erguido y sujeta los agarres neutros con firmeza. Saca pecho y activa\
-  \ fuertemente el core.\n\nEjecución:\n1. Empuja con fuerza contra el suelo a través\
-  \ de los talones y la planta del pie, extendiendo rodillas y caderas simultáneamente.\n\
-  2. Mantén el torso levantado para enfatizar el trabajo sobre los cuádriceps y glúteos.\n\
-  3. Llega a la extensión completa arriba contrayendo glúteos.\n4. Desciende la barra\
-  \ con control flexionando caderas y rodillas hasta tocar el suelo.\n\nConsejos:\n\
-  La barra hexagonal centra la carga de forma óptima, reduciendo la tensión sobre\
-  \ la espalda baja."
+translated_from: en
+name: Sentadilla con barra hexagonal
+description: 'Colócate en el centro de la barra hexagonal, con los pies al ancho de los hombros. Agáchate
+  con el torso erguido y sujeta las asas neutras. Lleva los hombros atrás, eleva el pecho y activa el
+  abdomen.
+
+
+  1. Empuja el suelo con talones y mediopié y extiende caderas y rodillas a la vez.
+
+  2. Mantén el pecho erguido durante la subida.
+
+  3. Ponte completamente de pie y contrae glúteos y cuádriceps.
+
+  4. Baja el peso con control flexionando caderas y rodillas hasta que los discos toquen el suelo.
+
+
+  Mantén el torso más erguido que en un peso muerto convencional para enfatizar la flexión de rodilla
+  y el trabajo de cuádriceps, según la fuente.'
 search_terms:
-  - Sentadilla con barra hexagonal
-  - Trap Bar Squat
-  - Hex Bar Squat
+- Sentadilla con trap bar
+- Sentadilla con barra hexagonal
+- Sentadillas con trap bar
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4186'
+  license: "CC-BY-SA-4.0"
+  license_author: "kmcalderwood"
+  source_id: "2927"

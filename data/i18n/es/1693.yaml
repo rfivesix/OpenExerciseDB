@@ -1,24 +1,36 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1693'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Sostenimiento estático en banco inclinado
-description: |-
-  Ejecución
-  
+description: 'Ejecución
+
+
   Posición de sostenimiento:
-  
-  Baja las mancuernas hasta unos centímetros por encima del pecho — aproximadamente el punto medio de un press inclinado normal.
+
+
+  Baja las mancuernas hasta unos centímetros por encima del pecho — aproximadamente el punto medio de
+  un press inclinado normal.
+
   Aquí es donde tu pecho superior está bajo máxima tensión.
-  
+
+
   Sostenimiento estático:
-  
+
+
   Mantén la posición durante 20–45 segundos manteniendo el pecho firme.
+
   Respira lentamente pero permanece en tensión — no relajes el pecho ni los hombros.
-  
+
+
   Finaliza la serie:
-  
-  Tras el sostenimiento, baja con cuidado las mancuernas y descansa.
+
+
+  Tras el sostenimiento, baja con cuidado las mancuernas y descansa.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4036'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2812"
+translated_from: en
+search_terms:
+- sujeción estática en banco inclinado

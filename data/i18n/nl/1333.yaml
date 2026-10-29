@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1333'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zittende polscurl met dumbbells, onderhandse greep
+description: 'Beginpositie:
+
+  Ga op een bank zitten en laat je onderarmen op je dijen of op de rand van de bank rusten, met je polsen
+  net voorbij je knieën. Houd de dumbbells met een onderhandse greep (handpalmen omhoog) vast.
+
+
+  Uitvoering:
+
+  1. Laat de dumbbells langzaam zo ver zakken als comfortabel is door je polsen te strekken.
+
+  2. Krul de dumbbells omhoog door je polsen te buigen en span bovenaan je polsbuigers stevig aan.
+
+  3. Laat de gewichten langzaam en gecontroleerd zakken.
+
+
+  Tips:
+
+  Beweeg alleen vanuit je polsen. Gebruik geen momentum van je armen of lichaam.'
+search_terms:
+- Curl de antebrazo con agarre supino
+- Curl de muñeca supino
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Anastasious"
+  source_id: "2303"

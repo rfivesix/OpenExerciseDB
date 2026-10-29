@@ -1,0 +1,11 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1510'
+language: es
+status: ai_authored
+translated_from: en
+name: Jalón al pecho con agarre neutro
+description: Haz jalones al pecho usando un agarre neutro en la barra.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2469"

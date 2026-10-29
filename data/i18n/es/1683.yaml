@@ -1,10 +1,27 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1683'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Curl Zottman
-description: |-
-  Con las palmas mirando hacia delante, lleva los pesos hacia tus hombros con un curl. Gira las manos de modo que las palmas miren hacia abajo y baja lentamente los pesos. Por último, vuelve a girar las palmas hacia delante.
+description: 'Posición inicial: Ponte de pie con una mancuerna en cada mano a los lados y las palmas hacia
+  delante (agarre supino).
+
+
+  Movimiento:
+
+  1. Flexiona los codos y lleva las pesas hacia los hombros de forma suave y controlada.
+
+  2. En la parte superior, gira las muñecas para que las palmas miren hacia abajo (agarre prono).
+
+  3. Baja lentamente las mancuernas con control en esa posición.
+
+  4. Abajo, vuelve a girar las palmas hacia delante.
+
+
+  Consejos: Mantén los codos junto a los costados y evita balancearte. La fase descendente controlada
+  con agarre prono implica especialmente el braquiorradial y los músculos del antebrazo.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '3892'
+  license: "CC-BY-SA-4.0"
+  license_author: "meldun"
+  source_id: "2803"
+translated_from: en

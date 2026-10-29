@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1241'
+language: nl
+status: ai_authored
+translated_from: en
+name: Enkeldorsiflexie met weerstandsband
+search_terms:
+- "Dorsiflexie met weerstandsband"
+- "Tibialisheffing met band"
+- "Enkeldorsiflexie met band"
+description: 'Startpositie:
+
+  • Ga op de vloer zitten met je benen recht voor je uit.
+
+  • Bevestig één uiteinde van een weerstandsband vóór je aan een stevig ankerpunt en doe het andere uiteinde
+  om de bal en bovenkant van je voet.
+
+  • Beweeg naar achteren tot de band ook met een ontspannen voet matig gespannen is.
+
+
+  Uitvoering:
+
+  • Trek je tenen en de bal van je voet tegen de weerstand van de band naar je scheenbeen.
+
+  • Span je tibialis anterior bovenaan 1 tot 2 seconden aan.
+
+  • Laat je voet langzaam en gecontroleerd weer naar voren bewegen en weersta daarbij de trek van de band.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2203"

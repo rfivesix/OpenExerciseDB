@@ -1,0 +1,35 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2484'
+language: es
+status: ai_authored
+translated_from: en
+name: Respiración con patada lateral y tabla
+description: 'Posición inicial:
+
+  Impúlsate de lado desde la pared. Extiende hacia delante el brazo inferior y sujeta una tabla; deja
+  el brazo superior junto al costado y la cadera.
+
+
+  Ejecución:
+
+  1. Mantén una patada de aleteo continua y equilibra el cuerpo directamente sobre un costado.
+
+  2. Mantén la cabeza neutra y la cara orientada al fondo de la piscina.
+
+  3. Cuando necesites aire, gira ligeramente la cabeza hacia el techo para inhalar, manteniendo apoyada
+  en el agua la oreja inferior, junto al brazo.
+
+  4. Vuelve a girar la cara hacia el agua y repite sin dejar de patear.
+
+
+  Consejos:
+
+  Mantén el cuerpo de lado y las caderas elevadas mientras respiras.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Imported from swim plan"
+  source_id: "4961"
+search_terms:
+- Respiración con patada lateral y tabla
+- Ejercicio de patada lateral
+- Patada lateral de estilo libre

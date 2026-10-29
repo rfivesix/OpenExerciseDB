@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1504'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell Bradford press
+description: Begin met de dumbbells voor je in de positie voor een overhead press. Druk ze boven je hoofd,
+  beweeg ze naar de achterkant van je schouders, laat ze zakken en druk ze weer naar voren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "JohnPreston"
+  source_id: "2466"

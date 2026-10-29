@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '529'
+language: es
+status: ai_authored
+translated_from: en
+name: Carrera por intervalos
+description: Entrenamiento de carrera por intervalos que alterna esfuerzos de alta intensidad (como repeticiones
+  en cuesta, fartlek o sprints en pista) con intervalos de recuperación activa (trote o caminata) para mejorar la
+  capacidad aeróbica y anaeróbica.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "BeLikeWater"
+  source_id: "398"

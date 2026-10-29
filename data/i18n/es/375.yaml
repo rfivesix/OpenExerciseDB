@@ -1,0 +1,12 @@
+exercise_id: '375'
+language: es
+status: ai_authored
+translated_from: en
+name: Prensa de piernas en máquina Hackenschmidt
+description: Siéntate en la máquina Hackenschmidt con los hombros apoyados en las almohadillas y los pies
+  aproximadamente al ancho de los hombros. Baja en una sentadilla y vuelve a empujar sin bloquear completamente
+  las rodillas.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "130"

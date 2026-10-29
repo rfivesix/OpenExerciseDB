@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1406'
+language: es
+status: ai_authored
+translated_from: en
+name: Plancha de antebrazos a plancha alta
+description: Empieza en plancha sobre los antebrazos, con los codos bajo los hombros, los antebrazos apoyados
+  y el cuerpo en línea recta de la cabeza a los talones. Apoya una mano bajo el hombro y empuja hacia
+  arriba; luego haz lo mismo con la otra hasta quedar en plancha alta. Baja de nuevo a los antebrazos,
+  un brazo cada vez, alternando el brazo que inicia cada repetición. Mantén el abdomen firme para evitar
+  que las caderas se balanceen y no arquees la zona lumbar.
+search_terms:
+- Extensión de plancha a codos
+- Comandos
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2369"

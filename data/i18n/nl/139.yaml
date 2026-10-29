@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '139'
+language: nl
+status: ai_authored
+translated_from: en
+name: Omgekeerde pec-deckfly
+description: Ga met je borst tegen de steun van de omgekeerde pec-deckmachine zitten. Trek de handgrepen
+  naar achteren door je armen zijwaarts te bewegen en keer beheerst terug.
+search_terms:
+- Reverse butterfly
+- Reverse machine fly
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "124"

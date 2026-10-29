@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1017'
+language: nl
+status: ai_authored
+translated_from: en
+name: Halve nekcirkels
+description: Ga rechtop zitten of staan en kantel je hoofd naar één schouder. Rol je hoofd langzaam voorwaarts
+  en omlaag, waarbij je kin over je borst naar de andere schouder beweegt. Keer de beweging terug naar
+  de beginzijde en wissel rustig heen en weer; rol je hoofd niet naar achteren.
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "1917"
+search_terms:
+- Halve nekcirkels

@@ -1,13 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1529'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Toes to bar (pies a la barra)
-description: 'El nombre „Toes to bar" lo dice todo: en este ejercicio, en el que cuelgas
-  de una barra de dominadas, llevas los dedos de los pies hacia la barra, apuntando
-  hacia tu cara. Esto trabaja de verdad los abdominales. „Toes to bar" es popular
-  en programas de fitness funcional como Freeletics y CrossFit, y es un ejercicio
-  eficaz para entrenar el six-pack.'
+description: 'El nombre „Toes to bar" lo dice todo: en este ejercicio, en el que cuelgas de una barra
+  de dominadas, llevas los dedos de los pies hacia la barra, apuntando hacia tu cara. Esto trabaja de
+  verdad los abdominales. „Toes to bar" es popular en programas de fitness funcional como Freeletics y
+  CrossFit, y es un ejercicio eficaz para entrenar el six-pack.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4049'
+  license: "CC-BY-SA-4.0"
+  license_author: "florian.bussmann"
+  source_id: "2487"
+translated_from: en

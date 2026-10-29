@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1411'
+language: nl
+status: ai_authored
+translated_from: en
+name: Hiel aantikken
+description: Ga op je rug op een mat liggen, buig je knieën, zet je voeten op heupbreedte op de vloer
+  en houd je armen langs je zij, met de handpalmen naar binnen en net boven de vloer. Til je hoofd, schouders
+  en bovenrug iets op; houd je nek neutraal en je kin licht ingetrokken. Buig je romp naar rechts en reik
+  met je rechterhand naar je rechterhiel. Keer terug naar het midden en herhaal links; wissel gecontroleerd
+  af. Adem uit wanneer je naar je hiel reikt en in wanneer je terugkeert naar het midden.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "hpmbala"
+  source_id: "2376"

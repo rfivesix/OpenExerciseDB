@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1701'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zware eenarmige row
+description: 'Roeifase (concentrisch): Trek de dumbbell naar je onderborst of taille en leid met je elleboog.
+  Houd je romp stabiel en voorkom dat je schouders draaien. Pauzeer bovenaan en span je brede rugspieren
+  aan.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2820"

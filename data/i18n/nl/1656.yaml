@@ -1,0 +1,14 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1656'
+language: nl
+status: ai_authored
+translated_from: en
+name: Cable chest press, decline
+description: Een eenarmige chest press met een kabelmachine. Gebruik je andere arm om je lichaamsgewicht
+  te steunen, zodat je je op de kracht van de press kunt richten in plaats van op je evenwicht. Begin
+  met je hand zo dicht mogelijk bij je borst. Duw vervolgens tegen de kabel in een lichte neerwaartse
+  hoek, richting het midden van je borst.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Shiladree"
+  source_id: "2777"

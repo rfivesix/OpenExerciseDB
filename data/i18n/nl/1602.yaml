@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1602'
+language: nl
+status: ai_authored
+translated_from: en
+name: Scaption met dumbbells
+description: 'Beginpositie:
+
+  Sta rechtop met je voeten op schouderbreedte. Houd in elke hand een dumbbell vast met een neutrale greep
+  (handpalmen naar elkaar). Houd je ellebogen licht gebogen, je schouders ontspannen en je schouderbladen
+  naar achteren.
+
+
+  Uitvoering:
+
+  Hef de dumbbells langzaam schuin naar voren, ongeveer 30 tot 45 graden vóór je zijwaartse lijn, tot
+  schouderhoogte. Laat de gewichten gecontroleerd zakken.
+
+
+  Aandachtspunten:
+
+  Houd je romp stabiel en trek je schouders niet op richting je oren.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "zdelko"
+  source_id: "2571"

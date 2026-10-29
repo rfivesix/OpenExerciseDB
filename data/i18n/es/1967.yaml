@@ -1,0 +1,32 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '1967'
+language: es
+status: ai_authored
+translated_from: en
+name: Press de hombros sentado con mancuernas
+description: 'Posición inicial:
+
+  Siéntate en un banco con el respaldo inclinado aproximadamente entre 75 y 85 grados. Lleva un par de
+  mancuernas a la altura de los hombros, con las palmas hacia delante y los codos flexionados a 90 grados.
+  Apoya bien los pies y mantén la parte superior de la espalda contra el respaldo.
+
+
+  Ejecución:
+
+  Empuja las mancuernas verticalmente por encima de la cabeza hasta extender los brazos, sin bloquear
+  los codos. Acércalas arriba sin golpearlas. Haz una breve pausa y bájalas despacio y con control hasta
+  la altura de las orejas o los hombros.
+
+
+  Consejos:
+
+  Mantén el abdomen firme y la espalda apoyada; evita arquear demasiado la zona lumbar al usar cargas
+  pesadas.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Cf"
+  source_id: "3122"
+search_terms:
+- Press militar sentado con mancuernas
+- Press de hombros sentado con mancuernas
+- Press por encima de la cabeza sentado con mancuernas

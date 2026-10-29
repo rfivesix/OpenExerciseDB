@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1574'
+language: es
+status: ai_authored
+translated_from: en
+name: Natación
+description: 'Posición inicial:
+
+  Entra en la piscina y prepárate para nadar largos con el estilo que prefieras, como crol o braza.
+
+
+  Ejecución:
+
+  1. Nada largos de forma continua y a un ritmo constante, centrándote en una respiración fluida y una
+  propulsión eficiente.
+
+  2. Activa los dorsales, deltoides y el core para impulsarte en el agua, extendiendo los brazos por completo.
+
+  3. Mantén el cuerpo horizontal y alineado durante toda la sesión.
+
+
+  Indicaciones:
+
+  La natación ofrece acondicionamiento cardiovascular de bajo impacto y trabaja la resistencia muscular,
+  especialmente de la espalda, los hombros y el core.'
+search_terms:
+- Natación estilo libre
+- Natación en largos
+- Natación
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "delta@romeo"
+  source_id: "2522"

@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1603'
+language: nl
+status: ai_authored
+translated_from: en
+name: Leg curl met elastiek
+description: Ga op je buik liggen met een weerstandsband die laag is verankerd en om je enkel zit. Buig
+  je knie en breng je hiel tegen de weerstand van de band richting je bil.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2574"

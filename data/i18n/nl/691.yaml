@@ -1,0 +1,15 @@
+exercise_id: '691'
+language: nl
+status: ai_authored
+translated_from: en
+name: Upright row in de Smith-machine
+description: De beweging is vrijwel hetzelfde als met een EZ-stang, maar je gebruikt de stang van de Smith-machine.
+  Sta met je voeten op schouderbreedte. Houd de stang met een bovenhandse greep voor je dijen en strek
+  je armen. Trek de stang dicht langs je lichaam tot je kin; je ellebogen wijzen naar buiten en vormen
+  bovenaan een V. Pauzeer kort en laat de stang langzaam zakken voordat je herhaalt.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "147"
+search_terms:
+- Upright row in de Smith-machine

@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '614'
+language: nl
+status: ai_authored
+translated_from: en
+name: Squat jumps
+description: Spring explosief vanuit een brede stand en land met je voeten dichter bij elkaar. Wissel brede en smalle
+  voetposities af.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "OGhTebfCxhexZXuf35mUxV9C--A"
+  source_id: "185"

@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '171'
+language: nl
+status: ai_authored
+translated_from: en
+name: Crunch op een decline-bank
+description: Ga op je rug op een decline-bank liggen met je voeten aan één uiteinde vastgezet. Laat een
+  trainingspartner je voeten vasthouden of gebruik een andere steun (bijvoorbeeld een halterstang); plaats
+  je handen achter je hoofd. Til vanuit deze positie je bovenlichaam op tot je hoofd of ellebogen je knieën
+  raken. Rol je rug tijdens de beweging omhoog.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1052"

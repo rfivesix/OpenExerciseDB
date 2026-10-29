@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '622'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande kuitheffingen
+description: Ga op de kuithefmachine staan en zorg ervoor dat je je hielen volledig kunt laten zakken. Sta rechtop,
+  trek je rug niet hol en buig je benen niet. Hef jezelf zo hoog mogelijk op. Pauzeer 1–2 seconden en laat jezelf
+  langzaam zakken.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "102"

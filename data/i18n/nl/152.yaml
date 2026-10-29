@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '152'
+language: nl
+status: ai_authored
+translated_from: en
+name: Chin-up
+description: De chin-up (ook chin of chinup genoemd) is een krachtoefening. De oefening wordt vaak gedaan
+  om onder meer de latissimus dorsi en biceps te versterken, die respectievelijk de schouder strekken
+  en de elleboog buigen. Bij deze beweging wijzen de handpalmen naar het lichaam. Het is een variant van
+  de pull-up waarbij de bewegingsuitslag wordt bepaald door de kin.
+upstream:
+  license: "CC0-1.0"
+  license_author: "BFad07"
+  source_id: "803"

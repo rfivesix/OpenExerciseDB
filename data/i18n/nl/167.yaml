@@ -1,12 +1,30 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '167'
 language: nl
-status: ai_reviewed
+status: ai_authored
+translated_from: en
 name: Crunch
-description: |-
-  Ga op je rug liggen en buig je knieën.
-  Draai je schouders richting je bekken. Houd je handen achter of naast je nek of kruislings over je borstkas.
-  Herhaal
+description: 'Beginpositie:
+
+  Ga op je rug op een mat liggen met je knieën gebogen en je voeten op heupbreedte plat op de vloer. Leg
+  je handen licht achter je hoofd zonder je vingers in elkaar te haken, of kruis je armen over je borst.
+
+
+  Uitvoering:
+
+  1. Span je buikspieren aan en rol je bovenrug op, waarbij je schouderbladen van de vloer richting je
+  bekken komen.
+
+  2. Adem uit en houd de maximale aanspanning bovenaan één seconde vast.
+
+  3. Laat je bovenrug langzaam en beheerst zakken en houd je buikspieren aangespannen.
+
+
+  Opmerkingen:
+
+  Trek niet met je handen aan je nek. Houd je onderrug tegen de mat; dit is een oprolbeweging van de wervelkolom,
+  geen volledige sit-up.'
 upstream:
-  license: CC-BY-SA-3.0
-  license_author: wger.de
-  source_id: '1315'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "91"

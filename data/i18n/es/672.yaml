@@ -1,0 +1,13 @@
+exercise_id: '672'
+language: es
+status: ai_authored
+translated_from: en
+name: Rotación del tronco con polea
+description: Ponte de pie o siéntate de lado junto a una polea ajustada a la altura del pecho y sujeta
+  el asa con ambas manos. Mantén los brazos ligeramente flexionados y gira el tronco suavemente hacia
+  el lado contrario, activando los oblicuos. Mantén las caderas y la pelvis estables y orientadas hacia
+  delante; vuelve lentamente y con control a la posición inicial.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Robertcoop"
+  source_id: "310"

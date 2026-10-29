@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '598'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bench press met smalle greep in de Smith-machine
+description: Voer een gewone bench press uit in de Smith-machine, maar plaats je handen ongeveer op schouderbreedte
+  op de stang en houd je ellebogen dicht bij je lichaam.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "tuckerm"
+  source_id: "218"

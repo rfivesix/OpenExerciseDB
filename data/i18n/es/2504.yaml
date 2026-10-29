@@ -1,0 +1,33 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2504'
+language: es
+status: ai_authored
+translated_from: en
+name: Curl martillo con mancuernas
+description: 'Posición inicial:
+
+  Ponte de pie con los pies a la anchura de las caderas (o siéntate en un banco plano) y sujeta un par
+  de mancuernas a los lados con agarre neutro, las palmas enfrentadas. Mantén los codos cerca del torso
+  y los hombros hacia atrás.
+
+
+  Ejecución:
+
+  1. Sin girar las palmas, flexiona los codos para llevar las mancuernas hacia los hombros.
+
+  2. Contrae con fuerza los bíceps, el braquial y los músculos del antebrazo arriba durante 1 segundo.
+
+  3. Baja las mancuernas lentamente y con control hasta extender los brazos.
+
+
+  Consejos:
+
+  Mantén los brazos superiores quietos junto a las costillas. No balancees las pesas ni te inclines hacia
+  atrás.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  source_id: "4985"
+search_terms:
+- Curl martillo con mancuernas (5 kg)
+- Curl martillo con mancuernas
+- Curl martillo

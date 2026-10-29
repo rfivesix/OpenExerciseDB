@@ -1,0 +1,14 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1709'
+language: nl
+status: ai_authored
+translated_from: en
+name: Reverse fly staand
+description: Sta met een goede houding en houd een kabel in elke hand, tegenover de machine. Begin met
+  je handen voor je borst en trek je armen met bijna gestrekte ellebogen zijwaarts tot een T-vorm. Laat
+  je armen langzaam naar voren terugkeren. Herhaal met de armen in een Y-vorm, daarna een W-vorm en vervolgens
+  een L-vorm naast je lichaam.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "2832"

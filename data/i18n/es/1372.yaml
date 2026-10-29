@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1372'
+language: es
+status: ai_authored
+translated_from: en
+name: Fondos de tríceps asistidos en máquina
+description: 'Beginpositie:
+
+  Selecciona el contrapeso adecuado en la máquina de fondos asistidos (un peso mayor proporciona más asistencia).
+  Sujeta las barras paralelas, coloca las rodillas o los pies en la plataforma y empújate hacia arriba
+  hasta que los brazos estén casi extendidos.
+
+
+  Beweging:
+
+  Baja el cuerpo con control flexionando los codos hacia atrás hasta que los brazos queden aproximadamente
+  paralelos al suelo (unos 90 grados de flexión). Empuja con las palmas y contrae los tríceps para volver
+  a la posición inicial.
+
+
+  Opmerkingen:
+
+  Mantén los codos cerca del torso para dar prioridad a los tríceps frente al pecho. No bloquees bruscamente
+  los codos arriba.'
+search_terms:
+- Fondos asistidos de tríceps
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "matpn"
+  source_id: "2338"

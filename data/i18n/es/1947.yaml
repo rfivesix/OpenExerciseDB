@@ -1,24 +1,29 @@
 exercise_id: '1947'
 language: es
-status: ai_reviewed
-name: Arrancada con mancuerna (Dumbbell Snatch)
-description: 'Posición inicial:
-
-  Colócate de pie con los pies a la anchura de los hombros y la mancuerna en el suelo entre ambos pies. Flexiona caderas y rodillas manteniendo la espalda recta y sujeta la mancuerna con agarre prono.
-
-
-  Ejecución:
-
-  Extiende de forma explosiva tobillos, rodillas y caderas (triple extensión) para impulsar la mancuerna hacia arriba cerca del cuerpo con el codo alto. Flexiona rápidamente las piernas para meterte por debajo del peso y recibirlo con el brazo bloqueado sobre la cabeza en un cuarto de sentadilla, antes de ponerte completamente de pie.
+status: ai_authored
+name: Arrancada con mancuerna
+description: 'Pasos clave: Coloca la mancuerna entre los pies, con los hombros sobre
+  las caderas, el pecho elevado y la espalda recta.
 
 
-  Consejos:
+  Tirón: Extiende explosivamente las caderas, las rodillas y los tobillos (triple
+  extensión) para impulsar la mancuerna hacia arriba. Mantén el codo alto y la mancuerna
+  cerca del cuerpo.
 
-  La potencia proviene de la cadera y las piernas; no tires del peso con la fuerza aislada del brazo.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4249'
+
+  Recepción: Flexiona rápidamente las caderas y las rodillas para meterte debajo de
+  la mancuerna y recibirla sobre la cabeza con el brazo bloqueado, aterrizando en
+  media sentadilla.
+
+
+  Errores frecuentes: Tirar demasiado con los brazos en vez de impulsar con las piernas,
+  llevar el codo bajo durante el tirón o desalinear hombro, codo y muñeca en la posición
+  final. Para empezar, la fuente recomienda usar poco peso, centrarse en la técnica
+  y hacer 3–5 series de 3–5 repeticiones por brazo.'
 search_terms:
 - Arrancada con mancuerna
-- Dumbbell Snatch
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Aleid"
+  source_id: "3097"
+translated_from: en

@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1205'
+language: nl
+status: ai_authored
+translated_from: en
+name: Polskrul met dumbbells
+description: Ga op een bank zitten en houd de dumbbell met de handpalm omhoog vast. Houd je handen op
+  schouderbreedte. Laat je onderarmen op je dijen rusten en laat je polsen voorbij je knieën hangen. Buig
+  je handpalmen en polsen naar je gezicht toe. (Optioneel/variabel) Pauzeer bovenaan. Keer langzaam terug
+  naar de startpositie.
+search_terms:
+- Polskrul met dumbbells
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "wakanda90"
+  source_id: "2165"

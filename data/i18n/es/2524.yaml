@@ -1,0 +1,38 @@
+# Texto localizado a partir de la entrada del catálogo en inglés.
+exercise_id: '2524'
+language: es
+status: ai_authored
+translated_from: en
+name: Good morning en postura escalonada
+description: 'Posición inicial:
+
+  Apoya una barra sobre la parte superior de la espalda, en el trapecio, como para una sentadilla. Adelanta
+  un pie medio paso para adoptar una postura escalonada. Mantén la pierna delantera casi recta y flexiona
+  ligeramente la rodilla trasera para equilibrarte.
+
+
+  Ejecución:
+
+  1. Inclínate desde las caderas y lleva los glúteos hacia atrás, manteniendo el pecho abierto y la columna
+  neutra.
+
+  2. Baja el torso hasta sentir un estiramiento profundo en los isquiotibiales de la pierna delantera;
+  detente cuando el torso esté aproximadamente paralelo al suelo.
+
+  3. Lleva las caderas hacia delante y contrae glúteos e isquiotibiales para volver erguido con suavidad.
+
+  4. Completa las repeticiones de un lado, cambia la posición de los pies y repite.
+
+
+  Consejos:
+
+  Mantén la mayor parte de la carga sobre el talón y la cadera delanteros. No redondees la zona lumbar
+  durante la bisagra de cadera.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Croak6728"
+  source_id: "4993"
+search_terms:
+- Good morning con postura abierta
+- Good morning en postura escalonada
+- Good morning con pierna de apoyo

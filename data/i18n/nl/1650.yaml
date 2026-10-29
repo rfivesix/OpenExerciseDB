@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1650'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse buiging met dumbbell
+description: Houd een dumbbell in één hand en buig zijwaarts om de schuine buikspieren aan die kant van
+  je lichaam te trainen. Je kunt de oefening staand of zittend uitvoeren; ze wordt vaak gebruikt om de
+  romp te versterken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "AlucardEvil40"
+  source_id: "2766"

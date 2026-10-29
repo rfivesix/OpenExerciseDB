@@ -1,13 +1,15 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1702'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Jalón al pecho con agarre ancho
-description: |-
-  Posición inicial
-  Sentado, los muslos bajo las partes acolchadas, la barra agarrada en pronación, las manos más separadas que el ancho de los hombros. Mantén los codos apuntados hacia afuera y la espalda recta.
-  Ejecución
-  Tira de la barra hasta llegar a la barbilla. Mantén la contracción por un momento antes de volver lentamente a la posición inicial. Durante el movimiento, no dejes que tus codos se adelanten.
+description: El jalón al pecho es un ejercicio de tracción que trabaja principalmente el dorsal ancho
+  (comúnmente llamado dorsal). Consiste en tirar hacia el pecho de una barra o agarre unido a un cable,
+  sentado en una máquina diseñada para este ejercicio. Suele hacerse con agarre ancho, aunque también
+  puede usarse un agarre estrecho o supino para enfatizar otros músculos de la espalda y los brazos. Es
+  un ejercicio popular para desarrollar la fuerza del tren superior y mejorar la postura.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: Mariano_O
-  source_id: '2822'
+  license: "CC-BY-SA-4.0"
+  license_author: "Mariano_O"
+  source_id: "2821"
+translated_from: en

@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1516'
+language: es
+status: ai_authored
+translated_from: en
+name: Pino
+search_terms:
+- Pino libre
+description: 'Posición inicial:
+
+  Apoya las manos en el suelo a la anchura de los hombros, con los dedos abiertos para tener estabilidad.
+  Empuja activamente el suelo con los hombros.
+
+
+  Ejecución:
+
+  1. Impúlsate con una pierna mientras elevas la otra hasta invertir el cuerpo en vertical.
+
+  2. Mantén los codos extendidos, empuja con los hombros y contrae abdomen, glúteos y piernas para formar
+  una línea recta.
+
+  3. Equilíbrate haciendo pequeños ajustes con las puntas de los dedos y las palmas.
+
+
+  Indicaciones:
+
+  Evita arquear demasiado la zona lumbar; mantén las costillas recogidas y el cuerpo firme.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Fittness69"
+  source_id: "2475"

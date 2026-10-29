@@ -1,0 +1,11 @@
+exercise_id: '1726'
+language: nl
+status: ai_authored
+translated_from: en
+name: Kabel pulldown met gestrekte armen
+description: Houd je armen gestrekt maar niet op slot en trek met je lats, niet met je schouders. Laat
+  je schouders tijdens de beweging niet optrekken.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "barry"
+  source_id: "2852"

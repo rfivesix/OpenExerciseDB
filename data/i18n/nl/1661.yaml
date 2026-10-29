@@ -1,0 +1,12 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1661'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tricepsdruk met kabel
+description: Een eenarmige oefening. Begin met je hand dicht bij je borst, je elleboog gebogen en naar
+  buiten gericht. Duw tegen de kabel naar voren en omlaag en strek je elleboog.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Shiladree"
+  source_id: "2782"

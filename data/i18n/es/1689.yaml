@@ -1,19 +1,27 @@
+# Spanish localization translated from the English catalog entry.
 exercise_id: '1689'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Aperturas en polea para el pecho medio
-description: |-
-  Ejecución
-  
-  Posición inicial: Los brazos extendidos hacia los lados (formando una gran „T"), sintiendo un estiramiento en el pecho.
-  
+description: 'Ejecución
+
+
+  Posición inicial: Los brazos extendidos hacia los lados (formando una gran „T"), sintiendo un estiramiento
+  en el pecho.
+
+
   Movimiento: Junta las manos delante del pecho con un amplio movimiento de abrazo.
-  
+
+
   Concéntrate en contraer el pecho en el centro.
+
   No bloquees los codos ni lo conviertas en un press.
-  
-  Vuelta: Abre lentamente los brazos de nuevo hasta la posición inicial, manteniendo la tensión en el pecho.
+
+
+  Vuelta: Abre lentamente los brazos de nuevo hasta la posición inicial, manteniendo la tensión en el
+  pecho.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4016'
+  license: "CC-BY-SA-4.0"
+  license_author: "daiben"
+  source_id: "2808"
+translated_from: en

@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1513'
+language: nl
+status: ai_authored
+translated_from: en
+name: Overhead cable triceps extension
+description: Ga met je rug naar de kabelmachine staan en houd een touwgreep vast. Strek je armen volledig
+  en keer terug terwijl je de neerwaartse fase weerstaat.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2472"

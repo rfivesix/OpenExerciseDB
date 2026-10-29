@@ -1,0 +1,27 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1485'
+language: nl
+status: ai_authored
+translated_from: en
+name: Rocking triceps pushdown
+description: 'Startpositie:
+
+  Ga in een gespreide stand voor een hoge kabel met touw staan. Pak het touw neutraal vast en leun iets
+  naar voren, met je gewicht boven je voorste voet.
+
+
+  Uitvoering:
+
+  1. Duw het touw omlaag terwijl je je gewicht iets naar je achterste voet verplaatst; laat je handen
+  achter je romp komen.
+
+  2. Spreid onderaan de touweinden om je triceps krachtig aan te spannen.
+
+  3. Laat het touw gecontroleerd omhoogkomen terwijl je je gewicht weer naar voren verplaatst.'
+search_terms:
+- Rocking pushdown
+- triceps pushdown met touw en gewichtsverplaatsing
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2448"

@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1241'
+language: es
+status: ai_authored
+translated_from: en
+name: Dorsiflexión de tobillo con banda elástica
+search_terms:
+- "Dorsiflexión con banda elástica"
+- "Elevación del tibial con banda"
+- "Dorsiflexión de tobillo con banda"
+description: 'Posición inicial:
+
+  • Siéntate en el suelo con las piernas extendidas delante de ti.
+
+  • Ancla un extremo de una banda elástica a un punto firme delante de ti y coloca el otro alrededor de
+  la parte delantera y superior del pie.
+
+  • Aléjate hasta que la banda mantenga una tensión moderada incluso con el pie relajado.
+
+
+  Ejecución:
+
+  • Tira de los dedos y de la parte delantera del pie hacia la espinilla contra la resistencia de la banda
+  (dorsiflexión).
+
+  • Mantén la contracción del tibial anterior durante 1 o 2 segundos.
+
+  • Deja que el pie vuelva hacia delante lentamente y con control, resistiendo la tracción de la banda.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "erikocobra"
+  source_id: "2203"

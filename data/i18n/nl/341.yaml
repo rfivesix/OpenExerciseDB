@@ -1,0 +1,11 @@
+exercise_id: '341'
+language: nl
+status: ai_authored
+translated_from: en
+name: Squats on Multipress
+description: Zet de stang van de Smith-machine op schouderhoogte en ga eronder staan met je voeten dicht
+  bij elkaar. Zak in een squat en duw via je voeten om weer rechtop te komen.
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "1054"

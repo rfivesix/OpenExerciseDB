@@ -2,23 +2,25 @@ exercise_id: '1910'
 language: es
 status: ai_authored
 name: Superman de rodillas (Bird Dog)
-description: 'Posición inicial:
-
-  Colócate en cuadrupedia sobre una esterilla con las manos debajo de los hombros y las rodillas debajo de las caderas. Mantén la columna neutra y el core activado.
-
-
-  Ejecución:
-
-  Extiende simultáneamente un brazo hacia delante y la pierna contraria hacia atrás hasta que queden alineados con el torso. Mantén la postura durante 2 o 3 segundos con el core firme. Regresa con control y repite con el lado opuesto.
+description: 'Posición inicial: Colócate a cuatro apoyos sobre una colchoneta, con
+  las manos debajo de los hombros y las rodillas bajo las caderas. Mantén la columna
+  neutra y activa el tronco.
 
 
-  Consejos:
+  Ejecución: Extiende a la vez un brazo recto hacia delante y la pierna contraria
+  hacia atrás, hasta que ambos queden paralelos al suelo y alineados con el torso.
+  Mantén la postura estática 2–3 segundos con el tronco estable. Vuelve despacio a
+  la posición inicial y repite con el lado contrario.
 
-  Evita rotar la pelvis o arquear en exceso la zona lumbar; el movimiento debe ser completamente estable y controlado.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4275'
+
+  Consejos: No dejes que las caderas se inclinen o giren. Mira hacia la colchoneta
+  para mantener el cuello neutro.'
 search_terms:
 - Superman de rodillas
-- Bird Dog
+- Bird dog
+- Bird dog en cuadrupedia
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cybro"
+  source_id: "3057"
+translated_from: en

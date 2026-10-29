@@ -2,24 +2,30 @@ exercise_id: '1948'
 language: es
 status: ai_authored
 name: Sentadilla cosaca (Cossack Squat)
-description: 'Posición inicial:
-
-  Colócate de pie con una apertura de piernas muy amplia y las puntas de los pies ligeramente hacia fuera. Mantén el torso erguido y las manos juntas frente al pecho.
-
-
-  Ejecución:
-
-  Desplaza el peso hacia un lado y flexiona profundamente esa rodilla mientras mantienes la otra pierna completamente estirada. Gira el pie de la pierna estirada hacia arriba apoyando solo el talón. Baja hasta la máxima profundidad cómoda manteniendo el talón de apoyo firme en el suelo y el pecho alto. Empuja con fuerza para volver al centro y desciende hacia el lado contrario.
+description: 'Posición inicial: Colócate en una postura de sumo amplia, con los pies
+  bastante más separados que los hombros y las puntas ligeramente hacia fuera. Mantén
+  el torso erguido y junta las manos delante del pecho.
 
 
-  Consejos:
+  Ejecución: Desplaza el peso hacia una pierna y haz una sentadilla profunda, manteniendo
+  la otra pierna extendida hacia un lado. Al bajar, gira hacia arriba el pie de la
+  pierna extendida para que los dedos apunten al techo, con el talón apoyado en el
+  suelo. Desciende hasta donde permita tu movilidad, manteniendo plano el talón de
+  la pierna de apoyo y el pecho elevado. Empuja con ese talón para volver al centro
+  y baja hacia el otro lado.
 
-  Parte de la rutina Limber 11 (5-10 repeticiones por lado). Mejora la movilidad de cadera, tobillo y la flexibilidad de los aductores.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4251'
+
+  Consejos: Forma parte de la rutina Limber 11 de Joe DeFranco (5–10 repeticiones
+  por lado). La fuente indica que desarrolla la fuerza unilateral de las piernas y
+  mejora de forma notable la flexibilidad de los aductores y la dorsiflexión del tobillo.'
 search_terms:
-- Sentadilla a cajón a una pierna
-- Sentadilla cosaca
-- Cossack Squats
+- Sentadilla a una pierna a caja
+- Sentadillas cosacas
+- Sentadilla lateral
+- Sentadilla lateral profunda
+- Sentadilla cosaca Limber 11
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "jesusd"
+  source_id: "3099"
+translated_from: en

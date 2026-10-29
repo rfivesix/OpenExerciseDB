@@ -1,0 +1,23 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1252'
+language: es
+status: ai_authored
+translated_from: en
+name: Dominada en front lever
+description: 'Posición inicial:
+
+  Adopta una posición horizontal de front lever (completa o agrupada) colgando de una barra, con los brazos
+  extendidos.
+
+
+  Ejecución:
+
+  1. Lleva el pecho hacia la barra impulsando los codos hacia abajo y atrás.
+
+  2. Mantén activos el abdomen y los dorsales para conservar el cuerpo horizontal durante toda la tracción.
+
+  3. Desciende con control hasta la posición inicial de front lever.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2211"

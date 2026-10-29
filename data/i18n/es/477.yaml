@@ -1,0 +1,17 @@
+exercise_id: '477'
+language: es
+status: ai_authored
+translated_from: en
+name: Dominada asistida en máquina
+description: 'Ajusta el contrapeso de la máquina de dominadas asistidas para obtener la ayuda deseada.
+  Coloca las rodillas o los pies sobre la plataforma y sujeta las empuñaduras superiores con un agarre
+  prono ligeramente más ancho que los hombros.
+
+  Tira del cuerpo hacia arriba hasta que la barbilla supere la barra; lleva los codos hacia abajo y atrás.
+  Baja lentamente y de forma controlada hasta extender por completo los brazos y repite.'
+search_terms:
+- Dominadas en máquina
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "140"

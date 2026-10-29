@@ -1,0 +1,29 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1471'
+language: es
+status: ai_authored
+translated_from: en
+name: Remo Kroc
+description: 'Posición inicial:
+
+  Apoya una mano y una rodilla en un banco plano, o una mano en un soporte firme para mancuernas. Mantén
+  la espalda recta y el abdomen firme. Sujeta una mancuerna pesada con la mano libre y deja colgar el
+  brazo.
+
+
+  Ejecución:
+
+  1. Tira de la mancuerna hacia la cadera; se permite un pequeño impulso controlado del cuerpo para iniciar
+  el movimiento con una carga pesada.
+
+  2. Lleva el codo arriba y atrás y contrae la espalda en la posición final.
+
+  3. Baja la mancuerna con control en todo el recorrido, dejando que el hombro se estire abajo.'
+search_terms:
+- Remo Kroc
+- remo pesado con mancuerna
+- remo pesado de altas repeticiones
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Expenses7000"
+  source_id: "2434"

@@ -1,0 +1,30 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1245'
+language: es
+status: ai_authored
+translated_from: en
+name: Front lever
+description: 'Posición inicial:
+
+  Cuélgate de una barra firme con un agarre prono a la anchura de los hombros.
+
+
+  Ejecución:
+
+  1. Baja y retrae las escápulas y activa los dorsales, el abdomen y los glúteos.
+
+  2. Eleva el cuerpo con los brazos extendidos hasta que quede completamente horizontal y paralelo al
+  suelo.
+
+  3. Mantén la posición estática durante el tiempo previsto, conservando una línea recta desde la cabeza
+  hasta los talones.
+
+
+  Consejos:
+
+  Mantén los brazos y las piernas totalmente extendidos y evita que las caderas caigan. La fuente describe
+  esta postura isométrica de calistenia como avanzada.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2207"

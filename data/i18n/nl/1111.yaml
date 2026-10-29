@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1111'
+language: nl
+status: ai_authored
+translated_from: en
+name: Incline push-ups
+description: Plaats de handen iets wijder dan schouderbreedte op een stevige bank, box of verhoging. Stap
+  met de voeten naar achteren tot het lichaam recht is van hoofd tot hielen en span de romp aan. Buig
+  de ellebogen en laat de borst langzaam naar de rand zakken; houd de ellebogen ongeveer 45 graden van
+  de romp. Duw via de handpalmen terug. Deze variant belast minder dan push-ups op de vloer en benadrukt
+  de midden- en onderborst.
+search_terms:
+- Push-ups met handen verhoogd
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "anon1337"
+  source_id: "2074"

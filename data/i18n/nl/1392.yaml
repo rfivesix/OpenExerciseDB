@@ -1,0 +1,14 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1392'
+language: nl
+status: ai_authored
+translated_from: en
+name: Good morning met lichaamsgewicht
+description: Sta met je voeten wijder dan schouderbreedte en je handen op je heupen. Beweeg je heupen
+  naar achteren en laat je bovenlichaam naar de grond zakken met een rechte rug; kom weer overeind.
+search_terms:
+- Good morning
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "captive0592"
+  source_id: "2359"

@@ -1,18 +1,32 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '132'
 language: nl
-status: ai_reviewed
-name: Opdruk burpees
-description: |-
-  Startpositie:
-  Sta rechtop, voeten heupbreedte uit elkaar.
-  Stappen:
+status: ai_authored
+translated_from: en
+name: Burpees
+description: 'Beginpositie:
 
-  Hurk laag en ondersteun jezelf op de vloer met je handen tussen je knieën en voor je voeten, met rechte rug.
-  Houd je handen op de vloer, spring met je benen naar achter in een hoge plank positie.
-  Druk op.
-  Spring met je voeten naar voren om terug te keren in de hurkpositie.
-  Herhaal.
+  Sta rechtop met je voeten op schouderbreedte en je armen langs je lichaam.
+
+
+  Uitvoering:
+
+  1. Duw je heupen naar achteren in een squat en plaats je handen voor je voeten op de vloer.
+
+  2. Spring met beide voeten tegelijk naar achteren in een hoge plank.
+
+  3. Laat je lichaam zakken en voer een volledige push-up uit, waarbij je borst de vloer raakt.
+
+  4. Duw jezelf omhoog en spring met je voeten naar je handen om terug te keren naar de diepe squat.
+
+  5. Spring explosief recht omhoog en strek je armen boven je hoofd. Land zacht op de bal van je voeten
+  en begin meteen aan de volgende herhaling.
+
+
+  Opmerkingen:
+
+  Span je romp aan tijdens de plank en push-up zodat je heupen niet doorzakken.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: er0355
-  source_id: '1303'
+  license: "CC-BY-SA-4.0"
+  license_author: "er0355"
+  source_id: "354"

@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1302'
+language: nl
+status: ai_authored
+translated_from: en
+name: JM press
+description: Bij de JM press blijven je schouders stil; je verplaatst het gewicht door je ellebogen te
+  buigen en te strekken met kracht uit je triceps. Zo train je je triceps zonder het schoudergewricht
+  zwaar te belasten.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Epiphany8424"
+  source_id: "2265"

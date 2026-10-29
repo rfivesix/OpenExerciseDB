@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '569'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderdrukken in de Smith-machine
+description: 'De oefening is in principe hetzelfde als met een losse halterstang:
+
+  Ga op een bank zitten waarvan de rugleuning bijna verticaal staat. Pak de stang op schouderbreedte vast en breng
+  hem naar borsthoogte. Duw het gewicht omhoog, maar strek je armen niet volledig. Laat de stang langzaam zakken
+  en herhaal.'
+search_terms:
+- Schouderdrukken op de multipress
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "155"

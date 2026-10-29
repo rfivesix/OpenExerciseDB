@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1621'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenzijdige kabelrow
+search_terms:
+- "Eenarmige cable row"
+description: Zet een rechtopstaande bank voor de kabelroeimachine en positioneer jezelf zo dat je één
+  kant tegelijk kunt trainen. Trek langzaam en richt je op de spieren aan die zijde. Houd spanning op
+  die spieren wanneer ze in de gestrekte positie zijn.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Rottekongen"
+  source_id: "2604"

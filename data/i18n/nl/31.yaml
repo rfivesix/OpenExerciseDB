@@ -1,0 +1,31 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '31'
+language: nl
+status: ai_authored
+translated_from: en
+name: Zijwaartse dumbbellhouding
+description: 'Beginpositie:
+
+  Sta rechtop met je voeten op schouderbreedte en span je romp aan. Houd in elke hand een dumbbell naast
+  je lichaam.
+
+
+  Uitvoering:
+
+  1. Hef beide dumbbells zijwaarts, met gestrekte of licht gebogen armen, tot ze op schouderhoogte parallel
+  aan de vloer zijn.
+
+  2. Houd deze isometrische positie zo lang als voorgeschreven of tot spierfalen, met aangespannen zijdelingse
+  deltaspieren.
+
+  3. Laat de gewichten na afloop langzaam en gecontroleerd zakken.
+
+
+  Opmerkingen:
+
+  Trek je schouders niet naar je oren op en hol je onderrug niet. Blijf tijdens het vasthouden rustig
+  ademen.'
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "GrosseHund"
+  source_id: "289"

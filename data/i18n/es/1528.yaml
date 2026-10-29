@@ -1,10 +1,28 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1528'
 language: es
-status: ai_reviewed
-name: Glute Drive
-description: Túmbate sobre el respaldo acolchado y sujétate con el cinturón. Coloca
-  los pies a la anchura de los hombros. Deben estar ligeramente abiertos hacia fuera.
+status: ai_authored
+translated_from: en
+name: Máquina de empuje de glúteos
+description: 'Posición inicial:
+
+  Siéntate en la máquina de glúteos y apoya la parte superior de la espalda contra el respaldo móvil.
+  Sujeta el cinturón acolchado sobre las caderas. Coloca los pies a la anchura de los hombros en la plataforma,
+  con las puntas ligeramente hacia fuera.
+
+
+  Ejecución:
+
+  1. Suelta el seguro y empuja con los talones para elevar las caderas contra el cinturón.
+
+  2. Sube hasta que el torso y los muslos formen una línea horizontal; contrae los glúteos durante 1–2
+  segundos arriba.
+
+  3. Baja las caderas lentamente y con control antes de repetir.'
+search_terms:
+- Máquina de empuje de glúteos
+- hip thrust en máquina
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4048'
+  license: "CC-BY-SA-4.0"
+  license_author: "schweezer"
+  source_id: "2485"

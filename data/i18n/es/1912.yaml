@@ -1,24 +1,26 @@
 exercise_id: '1912'
 language: es
-status: ai_reviewed
+status: ai_authored
 name: Rotación de core sentado (Russian Twist)
-description: 'Posición inicial:
-
-  Siéntate en el suelo con las rodillas flexionadas. Inclina el torso hacia atrás unos 45 grados con la espalda recta hasta activar el abdomen y despega ligeramente los pies del suelo para mantener el equilibrio sobre los glúteos.
-
-
-  Ejecución:
-
-  Gira el torso de lado a lado de forma controlada, tocando el suelo con las manos junto a cada cadera en cada repetición.
+description: 'Posición inicial: Siéntate sobre una colchoneta con las rodillas flexionadas
+  y los talones inicialmente apoyados. Inclina el torso unos 45 grados hacia atrás
+  hasta activar los abdominales y eleva los pies unos centímetros para equilibrarte
+  sobre los isquiones.
 
 
-  Consejos:
+  Ejecución: Gira el torso suavemente de lado a lado y lleva las manos a tocar el
+  suelo junto a cada cadera. Activa los oblicuos para controlar cada giro y mantén
+  estables las caderas.
 
-  Mantén el pecho abierto y rota desde la zona media del tronco sin encorvar la espalda baja.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4279'
+
+  Consejos: Mantén el pecho erguido y la columna neutra. Evita encorvarte o mover
+  solo los brazos sin girar el torso.'
 search_terms:
-- Rotación de core
-- Russian Twist
+- Rotación del tronco
+- Giro ruso
+- Giro ruso sentado
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cybro"
+  source_id: "3059"
+translated_from: en

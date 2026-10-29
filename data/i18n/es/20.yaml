@@ -1,12 +1,36 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '20'
 language: es
-status: ai_reviewed
-name: Press Arnold
-description: Siéntate en un banco con la espalda bien apoyada. Sostén un par de mancuernas frente a tus hombros, con las palmas
-  de las manos mirando hacia tu cuerpo. A medida que empujas las mancuernas hacia arriba, rota las muñecas de forma que al
-  final del movimiento tus palmas miren hacia el frente. Invierte el movimiento de forma controlada para volver a la posición
-  inicial.
+status: ai_authored
+translated_from: en
+name: Press Arnold de hombros
+description: 'Posición inicial:
+
+  Siéntate erguido en un banco con respaldo. Sujeta dos mancuernas delante del pecho, a la altura de los
+  hombros, con las palmas hacia el cuerpo (supinadas) y los codos debajo de las muñecas.
+
+
+  Ejecución:
+
+  1. Empuja las mancuernas por encima de la cabeza mientras giras suavemente las manos hacia fuera, de
+  modo que las palmas miren hacia delante al final.
+
+  2. Extiende los brazos sin bloquear los codos.
+
+  3. Baja lentamente las mancuernas por el mismo recorrido y gira las palmas de nuevo hacia el pecho para
+  volver a la posición inicial.
+
+
+  Notas:
+
+  Haz la rotación con suavidad durante la subida y la bajada. Mantén el tronco firme y la columna neutra
+  contra el respaldo.'
+search_terms:
+- Press Schwarzenegger
+- Press por encima de la cabeza con rotación
+- Press de mancuernas con giro
+- Press de mancuernas en espiral
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2563'
+  license: "CC-BY-SA-3.0"
+  license_author: "trzr23"
+  source_id: "227"

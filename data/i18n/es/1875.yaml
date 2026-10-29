@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1875'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento de la banda iliotibial de pie
+description: 'Posición inicial: Ponte de pie de lado junto a una pared o apoyo estable. Cruza por detrás
+  de la pierna delantera la pierna exterior que vas a estirar, apoyando el pie.
+
+
+  Ejecución: Apóyate en la pared con la mano interior y lleva suavemente las caderas hacia la pared (en
+  sentido opuesto a la inclinación). Inclina el torso hacia el otro lado hasta notar un estiramiento claro
+  en la cadera y el muslo externos.
+
+
+  Consejos: Mantén la pelvis orientada hacia delante, sin rotar. Mantén 20–30 segundos respirando suavemente
+  y repite al otro lado.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3017"

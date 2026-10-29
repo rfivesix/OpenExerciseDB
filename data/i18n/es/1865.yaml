@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1865'
+language: es
+status: ai_authored
+translated_from: en
+name: Movilidad de tobillo con banda
+description: 'Posición inicial: Ancla una banda de resistencia fuerte baja detrás de ti. Arrodíllate en
+  posición de zancada con el pie delantero dentro del bucle; coloca la banda justo debajo de los maléolos,
+  sobre el astrágalo, de modo que tire hacia atrás y abajo.
+
+
+  Ejecución: Lleva lentamente la rodilla delantera más allá de los dedos del pie, manteniendo el talón
+  apoyado. Haz una pausa de 2–3 segundos al final de la dorsiflexión y vuelve.
+
+
+  Consejos: La tensión posterior de la banda moviliza el astrágalo y mejora la dorsiflexión del tobillo
+  sin pinzamiento articular. Haz 10–15 repeticiones controladas por pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3007"

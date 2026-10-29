@@ -1,21 +1,33 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '1833'
 language: es
-status: ai_reviewed
-name: Curl de isquiotibiales en el suelo con discos deslizantes
-description: "Posición inicial:\nTúmbate boca arriba con los talones apoyados sobre\
-  \ discos deslizantes o toallas. Eleva la cadera en posición de puente de glúteos\
-  \ formando una línea recta entre rodillas y hombros.\n\nEjecución:\n1. Manteniendo\
-  \ la pelvis alta, desliza los talones hacia adelante alejándolos del cuerpo hasta\
-  \ extender casi por completo las piernas.\n2. Sin dejar caer los glúteos al suelo,\
-  \ flexiona con fuerza las rodillas tirando de los talones hacia los glúteos mediante\
-  \ la contracción de los isquiotibiales.\n3. Empuja las caderas hacia arriba a medida\
-  \ que los talones regresan bajo las rodillas.\n\nConsejos:\nNo permitas que la cadera\
-  \ caiga al suelo durante la fase de extensión o flexión."
-search_terms:
-  - Curl de isquiotibiales con deslizadores
-  - Slider Hamstring Curl
-  - Floor Glider Hamstring Curls
+status: ai_authored
+translated_from: en
+name: Curl femoral con deslizadores
+description: 'Posición inicial: Túmbate boca arriba en el suelo con los talones sobre discos deslizantes
+  (o toallas en una superficie lisa). Deja los brazos a los lados para estabilizarte. Empuja con los talones
+  para elevar las caderas en puente de glúteos, formando una línea recta de rodillas a hombros.
+
+
+  Ejecución:
+
+  1. Mantén las caderas elevadas y desliza lentamente los talones hacia delante hasta que las piernas
+  estén casi extendidas.
+
+  2. Haz una breve pausa sin dejar que los glúteos toquen el suelo.
+
+  3. Flexiona con fuerza las rodillas, llevando los talones hacia los glúteos mediante la contracción
+  de los isquiotibiales; eleva más las caderas al llegar los talones debajo de las rodillas.
+
+  4. Repite con un ritmo fluido.
+
+
+  Indicaciones: Mantén las caderas elevadas tanto al extender como al flexionar las piernas para mantener
+  la tensión en los isquiotibiales.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4184'
+  license: "CC-BY-SA-4.0"
+  source_id: "2968"
+search_terms:
+- Curl femoral con deslizadores
+- Curl de piernas con deslizadores
+- Curl femoral con discos deslizantes

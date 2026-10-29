@@ -1,0 +1,17 @@
+exercise_id: '916'
+language: nl
+status: ai_authored
+translated_from: en
+name: Overhead press in de Smith-machine
+description: Plaats een incline bank van 80–85 graden recht onder de stang van de Smith-machine. Ga zitten,
+  pak de stang met een bovenhandse greep iets breder dan schouderbreedte vast en haal hem op kinhoogte
+  uit het rek. Druk de stang langs de vaste baan omhoog tot je armen boven je hoofd gestrekt zijn, zonder
+  je ellebogen hard op slot te zetten. Laat de stang langzaam en gecontroleerd zakken tot je kin of bovenborst
+  voordat je herhaalt.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "novadani"
+  source_id: "1195"
+search_terms:
+- Smith-press
+- Schouderdrukken met de Smith-machine

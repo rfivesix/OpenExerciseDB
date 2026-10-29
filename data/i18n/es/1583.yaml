@@ -1,0 +1,32 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1583'
+language: es
+status: ai_authored
+translated_from: en
+name: Press de banca con barra y agarre cerrado
+description: 'Posición inicial:
+
+  Túmbate boca arriba en un banco plano con los pies firmes en el suelo. Sujeta la barra en pronación
+  con un agarre cerrado (aproximadamente al ancho de los hombros) y sácala del soporte sobre la parte
+  alta del pecho, con los brazos extendidos.
+
+
+  Ejecución:
+
+  Inspira y baja la barra de forma controlada hacia la parte baja del pecho o el esternón, manteniendo
+  los codos relativamente pegados al torso (unos 30–45 grados). Toca suavemente el pecho sin rebotar y
+  empuja la barra con fuerza hasta extender los codos, contrayendo tríceps y pectorales.
+
+
+  Indicaciones:
+
+  Mantén las muñecas alineadas sobre los antebrazos y los codos. No cierres demasiado el agarre ni juntes
+  las manos, para evitar tensión excesiva en muñecas y codos.'
+search_terms:
+- Press supino
+- Press de banca con agarre cerrado
+- Press de banca con barra y agarre cerrado
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "CptnFatbeard"
+  source_id: "2531"

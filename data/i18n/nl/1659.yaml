@@ -1,0 +1,13 @@
+# Dutch localization translated from the English catalog entry.
+exercise_id: '1659'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige cross-body lat pulldown
+description: Ga op de lat-pulldownmachine zitten met je lichaam diagonaal gedraaid, zodat slechts één
+  been onder de steun zit. Trek de kabel met de tegenovergestelde arm omlaag. Zo beweegt de kabel tijdens
+  het trekken voor je lichaam langs. De oefening benadrukt de rek van de brede rugspier.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Shiladree"
+  source_id: "2780"

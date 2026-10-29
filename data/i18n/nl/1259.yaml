@@ -1,0 +1,12 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1259'
+language: nl
+status: ai_authored
+translated_from: en
+name: TRX-knie-in naar elleboog
+description: Plaats je voeten in de voetlussen en neem een hoge plank aan met je handen recht onder je
+  schouders. Trek je knieën naar je rechterelleboog en duw ze daarna terug naar achteren en naar het midden.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cynomops"
+  source_id: "2212"

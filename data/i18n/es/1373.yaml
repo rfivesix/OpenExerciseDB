@@ -1,0 +1,35 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1373'
+language: es
+status: ai_authored
+translated_from: en
+name: Salto al cajón
+description: 'Beginpositie:
+
+  Ponte frente a un cajón pliométrico estable, a una distancia cómoda de unos 30–60 cm. Separa los pies
+  a la anchura de los hombros y deja los brazos a los lados.
+
+
+  Beweging:
+
+  1. Lleva los brazos atrás y flexiona rápidamente caderas y rodillas en una sentadilla parcial para preparar
+  las piernas y las caderas.
+
+  2. Salta de forma explosiva hacia arriba y adelante extendiendo las caderas, las rodillas y los tobillos,
+  mientras impulsas los brazos hacia delante y arriba.
+
+  3. Aterriza suavemente con ambos pies encima del cajón, amortiguando el impacto con una sentadilla parcial.
+
+  4. Extiende las caderas y las rodillas para ponerte de pie y baja con cuidado, un pie cada vez.
+
+
+  Opmerkingen:
+
+  No saltes hacia atrás desde el cajón, ya que esto somete los tendones de Aquiles y las rodillas a una
+  tensión innecesaria.'
+search_terms:
+- Saltos al cajón
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tekknokrat"
+  source_id: "2339"

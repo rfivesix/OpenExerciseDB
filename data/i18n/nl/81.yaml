@@ -1,0 +1,16 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '81'
+language: nl
+status: ai_authored
+translated_from: en
+name: Eenarmige dumbbellrow
+description: Plaats één knie op een vlakke bank en steun met je hand aan dezelfde kant. Houd in je vrije
+  hand een dumbbell, trek die dicht langs je lichaam omhoog en laat hem gecontroleerd zakken. Herhaal
+  daarna aan de andere kant.
+search_terms:
+- Eenarmige dumbbellrow
+- Voorovergebogen dumbbellrow
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "sebk"
+  source_id: "362"

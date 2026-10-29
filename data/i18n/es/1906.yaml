@@ -4,21 +4,29 @@ status: ai_authored
 name: Puente de glúteos con extensión alterna de piernas
 description: 'Posición inicial:
 
-  Túmbate boca arriba sobre una esterilla con las rodillas flexionadas y los pies apoyados sobre los talones a la anchura de las caderas. Coloca los brazos a los lados.
+  Túmbate boca arriba sobre una esterilla con las rodillas flexionadas y los pies
+  apoyados sobre los talones a la anchura de las caderas. Coloca los brazos a los
+  lados.
 
 
   Ejecución:
 
-  Empuja con los talones para elevar la pelvis hasta que muslos y tronco formen una línea recta. Desde esta posición de puente, extiende una pierna hacia delante en línea con el muslo manteniendo la cadera alta y nivelada. Apoya de nuevo el pie y repite con la otra pierna de forma alterna.
+  Empuja con los talones para elevar la pelvis hasta que muslos y tronco formen una
+  línea recta. Desde esta posición de puente, extiende una pierna hacia delante en
+  línea con el muslo manteniendo la cadera alta y nivelada. Apoya de nuevo el pie
+  y repite con la otra pierna de forma alterna.
 
 
   Consejos:
 
-  Aprieta los glúteos y el abdomen para que la pelvis no caiga ni rote durante el cambio de piernas.'
-upstream:
-  license: CC-BY-SA-4.0
-  license_author: wger.de
-  source_id: '4271'
+  Aprieta los glúteos y el abdomen para que la pelvis no caiga ni rote durante el
+  cambio de piernas.'
 search_terms:
 - Puente de cadera
-- Hip Bridge
+- Puente con extensión de pierna
+- Puente de glúteos alterno a una pierna
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "cybro"
+  source_id: "3053"
+translated_from: en

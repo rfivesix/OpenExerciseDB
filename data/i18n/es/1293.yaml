@@ -1,0 +1,26 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1293'
+language: es
+status: ai_authored
+translated_from: en
+name: Flexión con un brazo
+description: 'Beginpositie:
+
+  Colócate en posición de flexión con los pies separados para mantener el equilibrio. Apoya la mano de
+  trabajo en el suelo, justo debajo del pecho, y coloca el brazo libre en la zona lumbar.
+
+
+  Uitvoering:
+
+  1. Flexiona el codo del brazo de apoyo y baja el pecho hacia el suelo de forma controlada.
+
+  2. Mantén contraídos el core y los glúteos para reducir la rotación del torso.
+
+  3. Empuja con la palma para volver a la posición inicial. Completa todas las repeticiones de un lado
+  antes de cambiar de brazo.'
+search_terms:
+- Flexiones con un brazo
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "clafal"
+  source_id: "2259"

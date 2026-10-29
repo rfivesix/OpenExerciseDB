@@ -1,0 +1,33 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1479'
+language: nl
+status: ai_authored
+translated_from: en
+name: Sit-up met elleboogstoot
+description: 'Startpositie:
+
+  Ga op een mat op je rug liggen met je knieën gebogen en voeten plat op de vloer. Houd je handen in een
+  verdedigende positie bij je gezicht.
+
+
+  Uitvoering:
+
+  1. Maak een explosieve sit-up en til je bovenlichaam op met je buikspieren.
+
+  2. Draai bovenaan je romp en stoot één elleboog schuin voor je lichaam langs.
+
+  3. Draai terug naar het midden en laat jezelf gecontroleerd zakken.
+
+  4. Herhaal en wissel bij elke herhaling van elleboog.
+
+
+  Aandachtspunten:
+
+  Combineer de voorwaartse buiging met de draai bovenaan.'
+search_terms:
+- Sit-up met elleboogstoot
+- roterende sit-up
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Moffi"
+  source_id: "2442"

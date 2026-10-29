@@ -1,13 +1,15 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '137'
 language: es
-status: ai_reviewed
-name: Pectoral en Máquina
-description: |-
-  Este ejercicio de aislamiento es excelente para enfocar el trabajo en la contracción de la parte interna del pecho.
-  Instrucciones:
-  Siéntate en la máquina con la espalda firmemente apoyada en el respaldo. Ajusta la altura del asiento de manera que tus brazos, al tomar los agarres, queden aproximadamente paralelos al suelo.
-  Con una ligera y constante flexión en los codos, junta los agarres al frente en un movimiento de arco controlado. Contrae el pecho fuertemente en el punto de máxima tensión y luego regresa de forma lenta a la posición inicial, sin dejar que las placas de peso choquen.
+status: ai_authored
+translated_from: en
+name: Aperturas en máquina con agarre estrecho
+description: 'El movimiento es igual que en las aperturas habituales en máquina, pero con un agarre estrecho:
+
+  Siéntate en la máquina, con los pies bien apoyados en el suelo y la parte superior de los brazos paralela
+  al suelo. Junta los brazos hasta que las empuñaduras casi se toquen, pero sin llegar a hacerlo. Vuelve
+  lentamente. Las pesas deben permanecer suspendidas durante todo el ejercicio.'
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2695'
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "99"

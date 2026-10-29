@@ -1,0 +1,22 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '604'
+language: nl
+status: ai_authored
+translated_from: en
+name: Speed deadlift
+description: 'Startpositie: Zet een halterstang klaar met ongeveer 50–70% van je maximum voor één herhaling en neem
+  je gebruikelijke deadlifthouding aan, met een stevige, aangespannen wervelkolom.
+
+  Uitvoering: Trek de stang met maximale versnelling en explosieve snelheid van de vloer en strek krachtig je heupen
+  en benen tot je rechtop staat.
+
+  Terugkeer: Breng de stang snel en gecontroleerd terug naar de vloer.
+
+  Aandachtspunten: Richt je op maximale snelheid en explosieve intentie. De rustpauzes zijn bewust kort (meestal
+  minder dan 60 seconden) om explosieve kracht en de snelheid van krachtontwikkeling te trainen.'
+search_terms:
+- Dynamische deadlift
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "MrSteele"
+  source_id: "328"

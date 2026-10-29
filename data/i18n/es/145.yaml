@@ -1,13 +1,14 @@
+# Localized text translated from the English catalog entry.
 exercise_id: '145'
 language: es
-status: ai_reviewed
-name: Leñadores en Polea
-description: |-
-  Este es un ejercicio funcional clave para desarrollar la fuerza de rotación del core, trabajando intensamente los músculos oblicuos.
-  Instrucciones:
-  Ajusta la polea a una altura entre el pecho y el hombro. De pie, de lado a la máquina, sujeta el agarre con ambas manos y los brazos extendidos.
-  Manteniendo la cadera estable, jala el cable en un movimiento diagonal a través de tu cuerpo, rotando el torso como si estuvieras dando un hachazo. Sostén la contracción por un segundo al final del recorrido y regresa lentamente a la posición inicial antes de cambiar de lado.
+status: ai_authored
+translated_from: en
+name: Leñador en polea
+description: Coloca la polea ligeramente por debajo de la altura del pecho. Mantén el cuerpo orientado
+  hacia delante y las caderas estables. Sujeta el asa, extiende los brazos por completo y llévalos hacia
+  delante y cruzando el cuerpo. Mantén la posición final durante un segundo y vuelve lentamente a la posición
+  inicial.
 upstream:
-  license: CC-BY-SA-4.0
-  license_author: wgerjhn
-  source_id: '2706'
+  license: "CC-BY-SA-3.0"
+  license_author: "robhoyt"
+  source_id: "167"

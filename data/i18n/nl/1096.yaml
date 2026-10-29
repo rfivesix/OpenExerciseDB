@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1096'
+language: nl
+status: ai_authored
+translated_from: en
+name: Staande heupabductie
+description: Sta rechtop met gewicht op het standbeen en houd voor balans een muur of stevige stang vast.
+  Houd romp rechtop, bekken vlak en romp aangespannen. Til het werkbeen gecontroleerd zijwaarts zonder
+  de romp naar de andere kant te kantelen. Breng het zo hoog als comfortabel is, tenen naar voren en heupen
+  recht. Pauzeer en span de buitenste heup/bil aan; laat langzaam zakken zonder tussen herhalingen op
+  het been te rusten. Wissel daarna van been.
+search_terms:
+- Staande abductie
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "tregga"
+  source_id: "2055"

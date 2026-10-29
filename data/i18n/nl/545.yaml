@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '545'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schaarbeweging
+description: Ga op je rug liggen met je benen gestrekt en je handen onder je onderrug of naast je lichaam. Til je
+  benen iets van de vloer. Beweeg je benen horizontaal of verticaal als een schaar en kruis het ene been afwisselend
+  over het andere. Span je romp aan en houd je onderrug tijdens de hele beweging tegen de vloer gedrukt.
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "vkylamba"
+  source_id: "631"

@@ -1,0 +1,17 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1100'
+language: es
+name: Lanzamientos de balón a la pared
+description: Colócate aproximadamente a un brazo de una pared o diana firme, con los pies algo más separados
+  que los hombros y un balón medicinal a la altura del pecho. Baja a una sentadilla profunda con el pecho
+  erguido y las rodillas alineadas con los pies. Impúlsate explosivamente con las piernas y las caderas
+  y lanza el balón hacia la diana. Recoge el rebote a la altura del pecho y amortigua el impacto bajando
+  de inmediato a la siguiente sentadilla.
+status: ai_authored
+translated_from: en
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "philip"
+  source_id: "2059"
+search_terms:
+- Lanzamientos de balón a la pared

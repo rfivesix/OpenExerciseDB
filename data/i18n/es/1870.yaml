@@ -1,0 +1,21 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1870'
+language: es
+status: ai_authored
+translated_from: en
+name: Estiramiento tumbado de isquiotibiales con banda
+description: 'Posición inicial: Túmbate boca arriba y coloca una banda o correa alrededor de la parte
+  delantera de un pie. Sujeta los extremos con ambas manos. La otra pierna queda extendida o flexionada
+  en el suelo.
+
+
+  Ejecución: Extiende la pierna con la banda hacia el techo y tira suavemente de ella hacia el pecho hasta
+  notar un estiramiento efectivo en los isquiotibiales.
+
+
+  Consejos: Evita bloquear la rodilla en hiperextensión; deja una ligera flexión si hace falta. Mantén
+  20–30 segundos respirando con calma y cambia de pierna.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "Davidgj32"
+  source_id: "3012"

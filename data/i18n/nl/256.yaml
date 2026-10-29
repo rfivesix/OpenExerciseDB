@@ -1,0 +1,25 @@
+exercise_id: '256'
+language: nl
+status: ai_authored
+translated_from: en
+name: Dumbbell front raises; DB Front Raises
+description: 'Ga voor de oefening staan met je voeten op schouderbreedte. Houd de gewichten of weerstandsgrepen
+  naast je lichaam vast met een bovenhandse greep.
+
+  Breng je armen met licht gebogen ellebogen voor je lichaam omhoog tot ooghoogte. De beweging traint
+  de voorste deltaspier, die het gewicht optilt.
+
+  Houd je lichaam stil zodat de voorste deltaspier het werk doet. Als je het gewicht alleen met een zwaai
+  kunt optillen, is het te zwaar en moet je een lichter gewicht nemen. Houd je ellebogen licht gebogen:
+  ze vergrendelen verhoogt de belasting van het ellebooggewricht en kan letsel veroorzaken.
+
+  Je kunt ook een neutrale greep gebruiken, zoals bij een hammer curl. Til het gewicht bij deze variant
+  tot ooghoogte, maar in een hoek van 45 graden ten opzichte van de voorkant van je lichaam. Dit kan gunstig
+  zijn bij sommige schouderblessures, vooral blessures aan de rotator cuff.'
+search_terms:
+- Elevaciones frontales con mancuernas
+- elevaciones frontales con DB
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "Manu, wikipedia"
+  source_id: "233"

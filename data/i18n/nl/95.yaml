@@ -1,0 +1,15 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '95'
+language: nl
+status: ai_authored
+translated_from: en
+name: Bicepscurl aan de kabel
+description: Ga op ongeveer 30–40 cm van de kabel staan, met je voeten stevig op de vloer. Pak de stang
+  vast en til het gewicht met een snelle beweging op. Laat het langzaam en beheerst zakken, zoals bij
+  dumbbellcurls.
+search_terms:
+- Bicepscurl aan de kabel
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "129"

@@ -1,0 +1,18 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '567'
+language: nl
+status: ai_authored
+translated_from: en
+name: Schouderdrukken met dumbbells
+description: Ga op een bank zitten waarvan de rugleuning bijna verticaal staat. Pak twee dumbbells en breng ze naar
+  schouderhoogte. Houd je handpalmen en ellebogen tijdens de hele oefening naar voren gericht. Duw de gewichten
+  omhoog; bovenaan komen ze dicht bij elkaar, maar raken ze elkaar niet. Laat ze langzaam zakken en herhaal.
+search_terms:
+- OHP met dumbbells
+- Overhead press met dumbbells
+- Military press met dumbbells
+- Schouderdrukken met dumbbells
+upstream:
+  license: "CC-BY-SA-3.0"
+  license_author: "wger.de"
+  source_id: "123"

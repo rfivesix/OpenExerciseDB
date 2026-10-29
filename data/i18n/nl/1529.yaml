@@ -1,0 +1,13 @@
+# Localized text translated from the English catalog entry.
+exercise_id: '1529'
+language: nl
+status: ai_authored
+translated_from: en
+name: Tenen naar de stang
+description: 'De naam ‘tenen naar de stang’ zegt het al: je hangt aan een optrekstang en brengt je tenen,
+  met de voeten naar je toe gericht, naar de stang. De oefening belast de buikspieren en is populair in
+  functionele fitnessprogramma’s zoals Freeletics en CrossFit.'
+upstream:
+  license: "CC-BY-SA-4.0"
+  license_author: "florian.bussmann"
+  source_id: "2487"
