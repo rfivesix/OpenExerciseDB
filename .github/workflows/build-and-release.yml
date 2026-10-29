@@ -21,6 +21,7 @@ name: Build and release catalog
     branches: [main]
     paths:
       - "data/**"
+      - "ATTRIBUTION.md"
       - "vocab/**"
       - "schema/**"
       - "build/**"
@@ -32,6 +33,7 @@ name: Build and release catalog
   pull_request:
     paths:
       - "data/**"
+      - "ATTRIBUTION.md"
       - "vocab/**"
       - "schema/**"
       - "build/**"
